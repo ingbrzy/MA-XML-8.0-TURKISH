@@ -213,7 +213,7 @@
   <string name="downloaded">indirme tamamlandı</string>
   <string name="common_use_phrase_bottom_bar_www_txt">"www."</string>
   <string name="common_use_phrase_bottom_bar_com_txt">".com"</string>
-  <string name="common_use_phrase_bottom_bar_cn_txt">".cn"</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">".tr"</string>
   <string name="common_use_phrase_bottom_bar_https_txt">"https://"</string>
   <string name="common_use_phrase_bottom_bar_point_txt">"."</string>
   <string name="common_use_phrase_bottom_bar_slash_txt">"/"</string>
@@ -366,8 +366,8 @@
   <string name="save_to_camera">"Kameraya kaydet"</string>
   <string name="copy_url">"Bağlantıyı kopyala"</string>
   <string name="create_qr_code">"QR Kodu"</string>
-  <string name="save_to_camera_success">"Kamera kaydeldi"</string>
-  <string name="save_to_camera_failed">"Resim kaydedilmiyor"</string>
+  <string name="save_to_camera_success">"Kamera kaydedildi"</string>
+  <string name="save_to_camera_failed">"Resim kaydedilemiyor"</string>
   <string name="sdcard_error">"SD kart kontrol"</string>
   <string name="download_phone_tip">Telefon</string>
   <string name="download_router_tip">Mi Rooter\'a indir</string>

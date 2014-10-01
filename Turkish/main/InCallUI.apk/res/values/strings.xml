@@ -54,7 +54,7 @@
   <string name="payphone">Ankesörlü telefon</string>
   <string name="callFailed_userBusy">Hat meşgul</string>
   <string name="callFailed_congestion">Ağ meşgul</string>
-  <string name="callFailed_timedOut">Yanıt yok, zamanaşımı</string>
+  <string name="callFailed_timedOut">Yanıt yok</string>
   <string name="callFailed_server_unreachable">Sunucu erişilebilir değil</string>
   <string name="callFailed_number_unreachable">Numara erişilebilir değil</string>
   <string name="callFailed_invalid_credentials">Hatalı kullanıcı adı veya şifre</string>
@@ -127,9 +127,9 @@
   <string name="labelNwService">Ağ hizmeti ayarları</string>
   <string name="labelCallerId">Arayan kimliği</string>
   <string name="sum_loading_settings">Yükleme ayarları\u2026</string>
-  <string name="sum_hide_caller_id">Dışarıya giden aramalarda numara gizli</string>
-  <string name="sum_show_caller_id">Dışarı yapılan aramalarda numara gösterilsin</string>
-  <string name="sum_default_caller_id">Dışarıya yapılan aramalarda numara gösterimi için operatörün varsayılan ayarlarını kullan</string>
+  <string name="sum_hide_caller_id">Numaramı gizle</string>
+  <string name="sum_show_caller_id">Numaramı göster</string>
+  <string name="sum_default_caller_id">Operatörün varsayılan ayarlarını kullan</string>
   <string name="labelCW">Çağrı bekliyor</string>
   <string name="sum_cw_enabled">Görüşme sırasında diğer gelen aramaları bildir</string>
   <string name="sum_cw_disabled">Görüşme sırasında diğer gelen aramaları bildir</string>
@@ -168,7 +168,7 @@
   <string name="stk_cc_ss_to_ss_error">Yeni bir SS isteği gönderilmesi için SS kodu değiştirildi.</string>
   <string name="fdn_check_failure">Telefon uygulamanızın Sabit Arama Numaraları ayarı açık durumda. Bu yüzden bazı arama özellikleri çalışmamaktadır.</string>
   <string name="radio_off_error">Bu ayarları görüntülemeden önce telefonun radyo sinyalini açın.</string>
-  <string name="close_dialog">OK</string>
+  <string name="close_dialog">TAMAM</string>
   <string name="enable">Etkin</string>
   <string name="disable">Devre dışı</string>
   <string name="change_num">Güncelle</string>
@@ -194,7 +194,7 @@
   <string name="not_allowed">SIM kartınız bu ağa bağlantınızı kabul etmiyor.</string>
   <string name="connect_later">Ağa şu anda bağlanılamıyor. Daha sonra tekrar deneyiniz.</string>
   <string name="registration_done">Ağa kaydedildi.</string>
-  <string name="sum_carrier_select">Ağ operatörü seçin</string>
+  <string name="sum_carrier_select">Ağ operatörünü seçin</string>
   <string name="sum_search_networks">Tüm kullanılabilir ağlar için arama</string>
   <string name="select_automatically">Otomatik olarak seç</string>
   <string name="sum_select_automatically">Otomatik olarak tercih edilen ağları seç</string>
@@ -231,7 +231,7 @@
     <item>Sadece GSM</item>
     <item>GSM/WCDMA tercihen</item>
   </string-array>
-  <string name="data_enabled">Mobil veri etkinleştirildi</string>
+  <string name="data_enabled">Mobil veri etkin</string>
   <string name="data_enable_summary">Mobil şebeke üzerinden veri erişimini etkinleştir</string>
   <string name="roaming">Veri dolaşımı</string>
   <string name="roaming_enable">Dolaşımdayken veri servislerine bağlan</string>
@@ -380,7 +380,7 @@
   <string name="auto_retry_mode_title">Otomatik tekrar dene</string>
   <string name="auto_retry_mode_summary">Otomatik tekrar deneme modunu etkinleştir</string>
   <string name="menu_add">Kişi Ekle</string>
-  <string name="menu_edit">Kişiyi hazırla</string>
+  <string name="menu_edit">Kişiyi düzenle</string>
   <string name="menu_delete">Kişiyi sil</string>
   <string name="get_pin2">PIN2 girin</string>
   <string name="name">İsim</string>
@@ -403,14 +403,14 @@
   <string name="simContacts_title">İçe aktarılacak kişileri seçin</string>
   <string name="simContacts_airplaneMode">SIM karttan kişileri içe aktarmak için, öncellikle uçak modunu kapatın.</string>
   <string name="enable_pin">PIN kodu Etkin/Devre dışı</string>
-  <string name="change_pin">PIN kodu değiştir</string>
+  <string name="change_pin">PIN kodunu değiştir</string>
   <string name="enter_pin_text">SIM kart PIN kodu:</string>
-  <string name="oldPinLabel">Eski PIN</string>
-  <string name="newPinLabel">Yeni PIN</string>
+  <string name="oldPinLabel">Eski PIN kodu</string>
+  <string name="newPinLabel">Yeni PIN kodu</string>
   <string name="confirmPinLabel">Yeni PIN kodunu onaylayın</string>
   <string name="badPin">Giriş yaptığınız eski PIN kodu hatalı. Tekrar deneyin.</string>
   <string name="mismatchPin">Girdiğiniz PIN kodu hatalı. Tekrar deneyin.</string>
-  <string name="invalidPin">4 ile 8 karakter arası uzunlukta bir PIN kodu girin.</string>
+  <string name="invalidPin">4 ile 8 haneli bir PIN kodu girin.</string>
   <string name="disable_sim_pin">PIN kodunu devre dışı bırakın</string>
   <string name="enable_sim_pin">PIN kodunu etkinleştirin</string>
   <string name="enable_in_progress">Lütfen bekleyiniz\u2026</string>
@@ -419,17 +419,17 @@
   <string name="pin_failed">Hatalı PIN girildi.</string>
   <string name="pin_changed">Pin kodu değiştirmesi başarılı.</string>
   <string name="puk_requested">Şifre hatalı, SIM kart kilitlendi! PUK2 kodu gerekiyor.</string>
-  <string name="enter_pin2_text">PIN2</string>
-  <string name="oldPin2Label">Eski PIN2</string>
-  <string name="newPin2Label">Yeni PIN2</string>
+  <string name="enter_pin2_text">PIN2 kodu</string>
+  <string name="oldPin2Label">Eski PIN2 kodu</string>
+  <string name="newPin2Label">Yeni PIN2 kodu</string>
   <string name="confirmPin2Label">Yeni PIN2 kodunu onaylayın</string>
   <string name="badPuk2">Girdiğiniz PUK2 hatalı. Yeniden Deneyin. </string>
   <string name="badPin2">Girdiğiniz eski PIN2 hatalı. Yeniden Deneyin.</string>
   <string name="mismatchPin2">Girdiğiniz PIN2 kodu hatalı. Tekrar deneyin.</string>
-  <string name="invalidPin2">4 ile 8 karakter arası uzunlukta bir PIN2 kodu girin.</string>
-  <string name="invalidPuk2">8 karakter uzunluğunda bir PUK2 kodu girin.</string>
-  <string name="pin2_changed">PIN2 başarıyla değiştirildi.</string>
-  <string name="label_puk2_code">PUK2 kodu girin</string>
+  <string name="invalidPin2">4 ile 8 haneli bir PIN2 kodu girin.</string>
+  <string name="invalidPuk2">8 haneli bir PUK2 kodu girin.</string>
+  <string name="pin2_changed">PIN2 kodu başarıyla değiştirildi.</string>
+  <string name="label_puk2_code">PUK2 koduun girin</string>
   <string name="fdn_enable_puk2_requested">Şifre hatalı. PIN2 değiştirip yeniden deneyin.</string>
   <string name="puk2_requested">Şifre hatalı, SIM kart kilitlendi! PUK2 kodu gerekiyor.</string>
   <string name="doneButton">Tamam</string>
@@ -442,15 +442,15 @@
   <string name="card_title_incoming_call">Gelen Arama</string>
   <string name="card_title_call_ended">Arama sona erdi</string>
   <string name="card_title_on_hold">Beklemede</string>
-  <string name="card_title_hanging_up">Kapatıyorum</string>
+  <string name="card_title_hanging_up">Kapatılıyor</string>
   <string name="card_title_in_call">Arama</string>
   <string name="card_title_in_call_short">Arama</string>
   <string name="card_title_my_phone_number"><xliff:g id="my_phone_number">%s</xliff:g> benim numaram</string>
   <string name="notification_dialing">Aranıyor</string>
   <string name="notification_missedCallTitle">Cevapsız arama</string>
   <string name="notification_missedCallsTitle">Cevapsız aramalar</string>
-  <string name="notification_missedCallsMsg"><xliff:g id="num_missed_calls"> %s </xliff:g> cevapsız arama</string>
-  <string name="notification_missedCallTicker"><xliff:g id="missed_call_from">%s</xliff:g> tarafından cevapsız arama</string>
+  <string name="notification_missedCallsMsg"><xliff:g id="num_missed_calls"> %s </xliff:g> cevapsız aramanız var</string>
+  <string name="notification_missedCallTicker"><xliff:g id="missed_call_from">%s</xliff:g> tarafından cevapsız aramanız var</string>
   <string name="notification_ongoing_call">Devam eden çağrı</string>
   <string name="notification_on_hold">Beklemede</string>
   <string name="notification_incoming_call">Gelen arama</string>
@@ -524,9 +524,9 @@
   <string name="ota_activate">Etkinleştir</string>
   <string name="ota_title_activate_success">Telefon etkinleştirildi.</string>
   <string name="ota_title_problem_with_activation">Etkinleştirme hatası</string>
-  <string name="ota_listen">Etkinleştirmenin tamamlandığını duyana kadar yönlendirmeleri takip edin.</string>
+  <string name="ota_listen">Etkinleştirmenin tamamlanana kadar yönlendirmeleri takip edin.</string>
   <string name="ota_speaker">Hoparlör</string>
-  <string name="ota_progress">Telefonunuz programlanızken lütfen bekleyiniz.</string>
+  <string name="ota_progress">Telefonunuz programlanırken lütfen bekleyiniz.</string>
   <string name="ota_failure">Programlama başarısız</string>
   <string name="ota_successful">Telefonunuz aktifleştirildi. Servisin yeniden başlaması 15 dakika kadar sürebilir.</string>
   <string name="ota_unsuccessful">Telefonunuz etkinleştirilemedi.
@@ -590,7 +590,7 @@
   <string name="sip_menu_save">Kaydet</string>
   <string name="sip_menu_discard">Vazgeç</string>
   <string name="alert_dialog_close">Profili kapat</string>
-  <string name="alert_dialog_ok">OK</string>
+  <string name="alert_dialog_ok">TAMAM</string>
   <string name="close_profile">Kapat</string>
   <string name="primary_account_summary_with">Birincil hesap. <xliff:g id="registration_status" example="Registering...">%s</xliff:g></string>
   <string name="registration_status_checking_status">Durum denetleniyor...</string>
@@ -659,8 +659,8 @@
   <string name="description_image_button_star">yıldız</string>
   <string name="description_image_button_zero">sıfır</string>
   <string name="description_image_button_pound">lira</string>
-  <string name="description_dial_button">çevir</string>
-  <string name="description_delete_button">geri al tuşu</string>
+  <string name="description_dial_button">Ara</string>
+  <string name="description_delete_button">Sil</string>
   <string name="accessibility_speakerphone_enabled">Hoparlör etkin.</string>
   <string name="accessibility_call_muted">Telefon sessiz.</string>
   <string name="description_target_answer">Cevapla</string>

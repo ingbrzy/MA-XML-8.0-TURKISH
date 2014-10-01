@@ -10,7 +10,7 @@
   <string name="description_direction_up"><xliff:g id="target_description" example="Unlock">%s</xliff:g> kilidini açmak yukarı kaydırın.</string>
   <string name="description_direction_left"><xliff:g id="target_description" example="Unlock">%s</xliff:g> için sola kaydırın.</string>
   <string name="description_target_search">Ara</string>
-  <string name="status_bar_date_format">M/d E</string>
+  <string name="status_bar_date_format">d MMMM EEEE</string>
   <string name="status_bar_recent_memory_info1">"%s "</string>
   <string name="status_bar_recent_memory_info2">" %s kullanılabilir"</string>
   <string name="usb_mode_notification">USB Depolama</string>

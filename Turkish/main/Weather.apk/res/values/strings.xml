@@ -5,9 +5,9 @@
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">℃</string>
   <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
-  <string name="view_aqi_time_format">dd/MM/yyyy HH:mm</string>
+  <string name="view_aqi_time_format">d MMMM EEEE HH:mm</string>
   <string name="activity_weather_main_null_data">- -</string>
-  <string name="app_name">Hava Nasıl</string>
+  <string name="app_name">Hava Durumu</string>
   <string name="location_management">Konumlar</string>
   <string name="gps_hint">Geçerli konum</string>
   <string name="add_city">Ekle</string>

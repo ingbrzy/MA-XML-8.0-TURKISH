@@ -11,8 +11,8 @@
   <string name="device_memory">RAM</string>
   <string name="device_internal_memory">Dahili hafıza</string>
   <string name="device_sd_memory">SD kart</string>
-  <string name="device_cpu2_info">"Dual-core"</string>
-  <string name="device_cpu4_info">"Quad-core"</string>
+  <string name="device_cpu2_info">"2 çekirdek"</string>
+  <string name="device_cpu4_info">"4  çekirdek"</string>
   <string name="available_size">Kullanılabilir: <xliff:g id="SIZE">%s</xliff:g> </string>
   <string name="total_size">Taplam : <xliff:g id="SIZE">%s</xliff:g></string>
   <string name="memory_title">"Toplam: <xliff:g id="SIZE">%2$s</xliff:g>\t\tKullanılabilir: <xliff:g id="SIZE">%1$s</xliff:g>"</string>
@@ -43,7 +43,7 @@
   <string name="access_control_app_entry_multiple"><xliff:g id="ENTRY">%s</xliff:g> uygulamasını aç</string>
   <string name="apn_mms">MMS</string>
   <string name="apn_general">Genel</string>
-  <string name="launcher_settings_title">Launcher</string>
+  <string name="launcher_settings_title">MiHome Başlatıcı</string>
   <string name="screen_timeout_title">Uyku Modu Süresi</string>
   <string name="touch_title">Dokunmalar</string>
   <string name="touch_sensitive_title">Dokunma hassasiyeti</string>
@@ -422,22 +422,22 @@
   <string name="screen_color_temperature">Renk sıcaklığını ayarla</string>
   <string name="screen_saturation">Renk doygunluğunu ayarla</string>
   <string name="screen_color_temperature_and_saturation">Renk sıcaklığı ve doygunluk</string>
-  <string name="finish_application">bitir</string>
+  <string name="finish_application">Bitir</string>
   <string name="header_category_accounts">Hesaplar</string>
   <string name="auto_startup_application_manage">Otomatik başlat</string>
   <string name="add_auto_startup_application">Otomatik başlatılan uygulamaları ekle</string>
   <string name="power_autorun_apps_empty">Otomatik başlatılan uygulama yok</string>
   <string name="power_autorun_empty">Uygulama yok</string>
   <string name="auto_startup_count">%d Uygulamaya otomatik başlama izni verildi</string>
-  <string name="man_add_application">Otomatik başlayan uygulamaları elle ekle</string>
+  <string name="man_add_application">Ekle</string>
   <string name="application_item_disable">Devre dışı</string>
   <string name="application_item_permission">İzin ver</string>
   <string name="application_item_already_permission">İzin verildi</string>
   <string name="application_forbid_auto_startup">Arka planda çalışmaması için %s durdurun</string>
-  <string name="floating_window_switch_label">Yüzen pencerelere izin ver</string>
-  <string name="floating_window_switch_label_disable">Yüzen pencereler devre dışı</string>
-  <string name="app_floating_window_dlg_enable"><xliff:g id="PACKAGE_NAME">%1$s</xliff:g> yüzen pencere özelliğini etkin hale getirmek için uygulama yeniden başlatılacak. Siz de uygulamayı elle kapatabilirsiniz.\nYüzen pencereler etkinleştirilsin mi?</string>
-  <string name="app_floating_window_dlg_disable"><xliff:g id="PACKAGE_NAME">%1$s</xliff:g> yüzen pencereler özelliğini kapatmanız uygulamayı durduracaktır.\nYüzen pencereler durdurulsun mu?</string>
+  <string name="floating_window_switch_label">Kayan pencerelere izin ver</string>
+  <string name="floating_window_switch_label_disable">Kayan pencereler devre dışı</string>
+  <string name="app_floating_window_dlg_enable"><xliff:g id="PACKAGE_NAME">%1$s</xliff:g> kayan pencere özelliğini etkin hale getirmek için uygulama yeniden başlatılacak. Siz de uygulamayı elle kapatabilirsiniz.\nYüzen pencereler etkinleştirilsin mi?</string>
+  <string name="app_floating_window_dlg_disable"><xliff:g id="PACKAGE_NAME">%1$s</xliff:g> kayan pencereler özelliğini kapatmanız uygulamayı durduracaktır.\nYüzen pencereler durdurulsun mu?</string>
   <string name="wps_category">WPS Güvenliği</string>
   <string name="wps_connect_title">WPS kullanarak bağlan</string>
   <string name="wps_connect_summary">Yönlendiricinizin WPS desteklediğinden emin olun</string>
@@ -456,9 +456,9 @@
   <string name="wifi_empty_list_wifi_off">Kullanılabilir ağları görmek için, Wi-Fi\'i açın</string>
   <string name="user_dict_settings_empty_text">Kullanıcı sözlüğünde hiç kelimeniz yok. \nEkle butonunu kullanarak kelime ekleyin.</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">"Şekil, PIN veya şifre güvenliğini değiştir veya devre dışı bırak"</string>
-  <string name="unlock_set_unlock_pin_title">"Pin"</string>
+  <string name="unlock_set_unlock_pin_title">"Pin kodu"</string>
   <string name="unlock_set_unlock_password_title">"Şifre"</string>
-  <string name="unlock_set_unlock_mode_pin">"Pin"</string>
+  <string name="unlock_set_unlock_mode_pin">"Pin kodu"</string>
   <string name="unlock_set_unlock_mode_password">"Şifre"</string>
   <string name="unlock_disable_lock_pin_summary">"Kilit açma PIN kodunu kaldır"</string>
   <string name="unlock_change_lock_pin_title">"PIN2 kodunu değiştir"</string>

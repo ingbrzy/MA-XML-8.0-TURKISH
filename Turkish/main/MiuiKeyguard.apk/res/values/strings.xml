@@ -35,7 +35,7 @@
   <string name="return_to_me_message">"Bulunduğunda şuna dön: "</string>
   <string name="unlock_string">Tamam</string>
   <string name="open_wifi_settings">Ağ Bağlantısını Açın</string>
-  <string name="lock_screen_date">dd/MM EEEE</string>
+  <string name="lock_screen_date">d MMMM, EEEE</string>
   <string name="lockscreen_glogin_instructions">Kilidi açmak için Mi hesabınızda oturum açın</string>
   <string name="lockscreen_glogin_password_hint">Şifre</string>
   <string name="lockscreen_glogin_checking_password">Kontrol ediliyor\u2026</string>
@@ -69,7 +69,7 @@
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
   <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
-  <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı kaldırın</string>
+  <string name="default_lockscreen_unlock_hint_text">KİLİDİ AÇMAK İÇİN YUKARI KAYDIRIN</string>
   <string name="lockscreen_failed_attempts_almost_glogin" product="tablet">
         Şifrenizi <xliff:g id="number">%d</xliff:g>defa yanlış girdiniz.
         <xliff:g id="number">%d</xliff:g> başarısız deneme daha yaparsanız,
