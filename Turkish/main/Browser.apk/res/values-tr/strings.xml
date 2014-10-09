@@ -34,7 +34,7 @@
   <string name="pref_privacy_clear_history_by_group_dlg">Tarayıcı geçmişini sil?</string>
   <string name="edit">Düzenle</string>
   <string name="delete">Sil</string>
-  <string name="delete_multi_bookmarks_alert_title"><xliff:g id="number">%1$s</xliff:g> öğeyi sil?</string>
+  <string name="delete_multi_bookmarks_alert_title"><xliff:g id="number">%1$s</xliff:g>öğeyi sil?</string>
   <string name="add_bookmark">Yer İmlerine Ekle</string>
   <string name="send_bookmark_to_home_screen">Ana ekrana yerleştir</string>
   <string name="bookmark_title">Yer imi ismi</string>
@@ -120,7 +120,7 @@
   <string name="pref_clear_cache_for_exit">Çıkışla beraber önbelleği temizle</string>
   <string name="pref_clear_history_for_exit">Çıkışla beraber geçmişi temizle</string>
   <string name="recover">Kurtar</string>
-  <string name="pref_autologin_progress_in_background">\" <xliff:g>%s</xliff:g> kullanılarak arkaplanda Google sitelerine oturum açılıyor</string>
+  <string name="pref_autologin_progress_in_background">\" <xliff:g>%s</xliff:g>kullanılarak arkaplanda Google sitelerine oturum açılıyor</string>
   <string name="menu_enable_night_mode">Gece Modunu Etkinleştir </string>
   <string name="menu_disable_night_mode">Gece Modunu Kapat</string>
   <string name="search_cancel">İptal</string>
@@ -347,7 +347,7 @@
   <string name="new_folder_name_lable">Grup ismi</string>
   <string name="bookmark_rename_group">Grubu yeniden adlandır</string>
   <string name="remove_bookmark_group">Grubu Sil</string>
-  <string name="delete_bookmark_group_warning">\"<xliff:g id="bookmark"> %s </xliff:g>\" silinsin mi? Bu gruptaki tüm yer imleri de silinecektir.</string>
+  <string name="delete_bookmark_group_warning">\"<xliff:g id="bookmark"> %s </xliff:g>\"silinsin mi? Bu gruptaki tüm yer imleri de silinecektir.</string>
   <string name="bookmark_title_lable">Başlık</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_group_lable">Grup</string>
