@@ -44,8 +44,8 @@
   <string name="find_device">Cihaz bulma etkinleştirildi</string>
   <string name="find_device_enabling">Açılıyor\u2026</string>
   <string name="find_device_disabling">Kapatılıyor\u2026</string>
-  <string name="enable_find_device_error">\"Cihaz bulma servisi açılamıyor. \"<xliff:g id="reason">%1$s</xliff:g></string>
-  <string name="disable_find_device_error">\"Cihaz bulma servisi kapatılamıyor. \"<xliff:g id="reason">%1$s</xliff:g></string>
+  <string name="enable_find_device_error">\"Cihaz bulma servisi açılamıyor.\"<xliff:g id="reason">%1$s</xliff:g></string>
+  <string name="disable_find_device_error">\"Cihaz bulma servisi kapatılamıyor.\"<xliff:g id="reason">%1$s</xliff:g></string>
   <string name="find_device_error_network">Ağ bağlantınızı kontrol edin ve tekrar deneyin.</string>
   <string name="find_device_error_server">Sunucularla ilgili bir hata oluştu.</string>
   <string name="find_device_success_title">Cihaz bul</string>
