@@ -268,8 +268,6 @@
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">"Bu ay kaydedilen: "</string>
   <string name="traffic_saving_history_total_month_default">Aylık ortalama birikiminiz</string>
-  <string name="traffic_saving_history_total_month_value"><![CDATA[<font color=\'#45c487\'><b><big>%1$s</big></b></font> şarkı dinle / <font color=\'#45c487\'><b><big>%2$s</big></b></font> saat muhabbet et / <font color=\'#45c487\'><b><big>%3$s</big></b></font> makale oku]]></string>
-  <string name="traffic_saving_history_total_month_value_default"><![CDATA[<font color=\'#45c487\'><b><big>18</big></b></font> şarkı dinle / <font color=\'#45c487\'><b><big>10</big></b></font> saat muhabbet et / <font color=\'#45c487\'><b><big>86</big></b></font> makale oku]]></string>
   <string name="pref_traffic_saving_title">Veri Tasarrufu Ayarları</string>
   <string name="pref_traffic_saving_switch">Veri kullanımını azalt</string>
   <string name="pref_traffic_saving_switch_hint">Verileri sıkıştırmak için proxy kullanın</string>
@@ -278,13 +276,11 @@
   <string name="pref_traffic_saving_whitelist">İzinler</string>
   <string name="pref_traffic_saving_whitelist_hint">"Uygulamalar grubunu seçmek için veri kısıtlamalarını kaldır"</string>
   <string name="pref_traffic_saving_issue">SSS</string>
-  <string name="pref_traffic_saving_issue_content"><![CDATA[<b> 1.Veri Tasarrufunu açmak özelimi etklier mi?</b><br /><br /><br />Hayır.Verileriniz özel kalacak ve 3. şahıslar ile paylaşılmayacaktır. <br /><br /><br /><b> Veri Tasarrufu neden çalışmıyor? </b><br /><br /> Veri Tasarrufu sadece operatörünüz üzerinden içerik alıp yüklerken çalışır. ]]></string>
   <string name="traffic_saving_whitelist_btn_add_app">Ekle</string>
   <string name="traffic_saving_whitelist_btn_add">Ekle</string>
   <string name="traffic_saving_whitelist_btn_added">Eklendi</string>
   <string name="traffic_saving_whitelist_btn_remove">Kaldır</string>
   <string name="traffic_saving_whitelist_btn_removed">Uygulama listeden kaldırıldı</string>
-  <string name="traffic_saving_whitelist_count"><![CDATA[<font color=\'#4DAA0F\'>%1$d</font> uygulamasının veri kullanımı kısıtlı değil]]></string>
   <string name="traffic_saving_whitelist_no_app">Uygulama yok</string>
   <string name="online_songs">Müzik</string>
   <string name="online_chat">Sohbet</string>

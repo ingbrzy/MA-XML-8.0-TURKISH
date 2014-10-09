@@ -23,62 +23,13 @@
   <string name="afternoon">ÖS</string>
   <string name="evening">ÖS</string>
   <string name="night">ÖS</string>
-  <plurals name="abbrev_less_than_one_minute_ago">
-    <item quantity="other">Az önce</item>
-  </plurals>
-  <plurals name="less_than_one_minute_ago">
-    <item quantity="other">Az önce</item>
-  </plurals>
-  <plurals name="abbrev_in_less_than_one_minute">
-    <item quantity="other">Bir kaç dakika önce</item>
-  </plurals>
-  <plurals name="in_less_than_one_minute">
-    <item quantity="other">Bir kaç dakika önce</item>
-  </plurals>
-  <plurals name="abbrev_a_hour_ago">
-    <item quantity="other">Bir saat önce</item>
-  </plurals>
-  <plurals name="abbrev_half_hour_ago">
-    <item quantity="other">Yarım saat önce</item>
-  </plurals>
-  <plurals name="a_hour_ago">
-    <item quantity="other">Bir saat önce</item>
-  </plurals>
-  <plurals name="half_hour_ago">
-    <item quantity="other">Yarım saat önce</item>
-  </plurals>
-  <plurals name="abbrev_in_a_hour">
-    <item quantity="other">Bir saat içinde</item>
-  </plurals>
-  <plurals name="abbrev_in_half_hour">
-    <item quantity="other">Yarım saat içinde</item>
-  </plurals>
-  <plurals name="in_a_hour">
-    <item quantity="other">Bir saat içinde</item>
-  </plurals>
-  <plurals name="in_half_hour">
-    <item quantity="other">Yarım saat içinde</item>
-  </plurals>
-  <plurals name="abbrev_num_minutes_ago">
-    <item quantity="other"><xliff:g id="count"> %d </xliff:g> dk. önce</item>
-  </plurals>
-  <plurals name="num_minutes_ago">
-    <item quantity="other"><xliff:g id="count"> %d </xliff:g> dakika önce</item>
-  </plurals>
-  <plurals name="abbrev_in_num_minutes">
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> dakika içinde</item>
-  </plurals>
-  <plurals name="in_num_minutes">
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> dakika içinde</item>
-  </plurals>
   <string name="size_byte">B</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_giga_byte">GB</string>
   <string name="size_tera_byte">TB</string>
   <string name="size_peta_byte">PB</string>
-  <string name="size_suffix"><xliff:g id="number" example="123">%1$s</xliff:g><xliff:g id="unit" example="KB">%2$s</xliff:g>
-</string>
+  <string name="size_suffix">%1$s %2$s</string>
   <string name="date_time_done">Tamam</string>
   <string name="date_picker_dialog_title">Tarihi ayarla</string>
   <string name="time_picker_dialog_title">Saati ayarla</string>
@@ -91,11 +42,6 @@
   <string name="license_host_unreachable">Ağa bağlanılamıyor. Bu bilgiyi görüntülemek için %s adresine gidin.</string>
   <string name="perm_payment_lab">Xiaomi ödeme servisi</string>
   <string name="perm_payment_dspt">Uygulamanın Xiaomi ödeme servisini kullanabilmesi için izin verin</string>
-  <string name="sync_one_time_sync">Senkronizasyon için dokunun（
-\t<xliff:g id="LAST_SYNC_TIME">
-\t    %1$s
-\t</xliff:g>)
-    </string>
   <string name="no_sim">SIM Kart bulunamadı.</string>
   <string name="activating">Aktifleştiriliyor\u2026</string>
   <string name="check_phone_error_title">Senkronizasyon etkin değil</string>
@@ -114,9 +60,6 @@
   <string name="sim_locked">SIM kart kilitli.</string>
   <string name="sim_not_ready">SIM kart kullanılıyor. Sonra tekrar deneyin.</string>
   <string name="sim_in_airplane_mode">Lütfen uçak modunu devre dışı bırakın.</string>
-  <plurals name="items_selected">
-    <item quantity="other">"%d öğe seçildi"</item>
-  </plurals>
   <string name="select_all">Hepsini seç</string>
   <string name="deselect_all">Tüm Seçimleri Kaldır</string>
   <string name="select_item">Öğeleri seç</string>

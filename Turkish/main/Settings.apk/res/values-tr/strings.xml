@@ -65,16 +65,16 @@
   <string name="upload_debug_log_summary">Anonim kullanıcı datasını göndererek MIUI\'ın gelişmesini yardımcı olun</string>
   <string name="firmware_version">Android versiyon</string>
   <string name="model_number">Model numarası</string>
-  <string name="device_miui_version">MIUI versiyon</string>
+  <string name="device_miui_version">Çevirmen:C.Madencan,MIUI :</string>
   <string name="device_cpu">CPU</string>
   <string name="device_memory">RAM</string>
   <string name="device_internal_memory">Dahili hafıza</string>
   <string name="device_sd_memory">SD kart</string>
   <string name="device_cpu2_info">"2 çekirdek"</string>
   <string name="device_cpu4_info">"4  çekirdek"</string>
-  <string name="available_size">Kullanılabilir: <xliff:g id="SIZE">%s</xliff:g> </string>
-  <string name="total_size">Taplam : <xliff:g id="SIZE">%s</xliff:g></string>
-  <string name="memory_title">"Toplam: <xliff:g id="SIZE">%2$s</xliff:g>\t\tKullanılabilir: <xliff:g id="SIZE">%1$s</xliff:g>"</string>
+  <string name="available_size">Kullanılabilir: %s</string>
+  <string name="total_size">Taplam :%s</string>
+  <string name="memory_title">"Kullanılabilir: %1$s\u0009\u0009Toplam: %2$s"</string>
   <string name="account_list">Hepsi</string>
   <string name="account_add">Ekle</string>
   <string name="xiaomi_account">"Mi Hesabı"</string>
@@ -95,11 +95,11 @@
   <string name="access_control_password_title">Şifreyi etkinleştir</string>
   <string name="access_control_need_to_unlock">Kilidi açmak için şifre gerekli:</string>
   <string name="access_control_reset_by_account">Erişim kontrol şifrenizi sıfırlamak için Mi hesabınız ile giriş yapın</string>
-  <string name="access_control_need_password"><xliff:g id="ACCESS">%s</xliff:g> korunuyor\n</string>
+  <string name="access_control_need_password">%s korunuyor</string>
   <string name="access_control_no_back_footer">Çıkmak için [icon] ikonuna tıklayın</string>
   <string name="access_control_recording_intro_header">Şifre koruması için desen çiz:</string>
   <string name="access_control_app_entry_single">Seçilen uygulamayı aç</string>
-  <string name="access_control_app_entry_multiple"><xliff:g id="ENTRY">%s</xliff:g> uygulamasını aç</string>
+  <string name="access_control_app_entry_multiple">%s uygulamasını aç</string>
   <string name="apn_mms">MMS</string>
   <string name="apn_general">Genel</string>
   <string name="launcher_settings_title">MiHome Başlatıcı</string>
@@ -113,16 +113,16 @@
   <string name="touch_sensitive_turn_off_cancel">İptal</string>
   <string name="screen_never_timeout_title">Hiç bir zaman</string>
   <string name="screen_on_proximity_sensor_title">Telefon cepteyken yanlış aramaları engelle</string>
-  <string name="screen_on_proximity_sensor_summary" product="tablet">Çantaya yerleştirildiğinde tableti otomatik kilitle</string>
-  <string name="screen_on_proximity_sensor_summary" product="default">Cebe yerleştirildiğinde telefonu otomatik kilitle</string>
+  <string name="screen_on_proximity_sensor_summary">Çantaya yerleştirildiğinde tableti otomatik kilitle</string>
+  <string name="screen_on_proximity_sensor_summary">Cebe yerleştirildiğinde telefonu otomatik kilitle</string>
   <string name="preferred_launcher_title">MiHome Başlatıcı ayarları</string>
-  <string name="preferred_application_title"><xliff:g id="APPLICATION_LABEL">%s</xliff:g> Başlatıcı değiştirilecek!</string>
-  <string name="preferred_application_warning_title">Varsayılan <xliff:g id="APPLICATION_LABEL">%s</xliff:g> kullan</string>
-  <string name="preferred_application_warning_message" product="tablet">Varsayılan <xliff:g id="APPLICATION_LABEL">%1$s</xliff:g> ayarınızı değiştirmeniz güç kullanımının artmasına, hızın düşmesine ve tabletinizin içeriğinin risk altına girmesine sebep olabilir. Bunun yerine <xliff:g id="APPLICATION_LABEL">%2$s</xliff:g> kullanmanızı öneriyoruz.</string>
-  <string name="preferred_application_warning_message" product="default">Varsayılan <xliff:g id="APPLICATION_LABEL">%1$s</xliff:g> başlatıyıyı değiştirmeniz, güç tüketimini arttırır ve cihaz güvenliğini riske atabilir. Varsayılan <xliff:g id="APPLICATION_LABEL">%2$s</xliff:g> kullanmanız tavsiye edilir!</string>
+  <string name="preferred_application_title">%s Başlatıcı değiştirilecek!</string>
+  <string name="preferred_application_warning_title">Varsayılan %s kullan</string>
+  <string name="preferred_application_warning_message">Varsayılan %1$s ayarınızı değiştirmeniz güç kullanımının artmasına, hızın düşmesine ve tabletinizin içeriğinin risk altına girmesine sebep olabilir. Bunun yerine %2$s kullanmanızı öneriyoruz.</string>
+  <string name="preferred_application_warning_message">Varsayılan %1$s başlatıcıyı değiştirmeniz, güç tüketimini arttırır ve cihaz güvenliğini riske atabilir. Varsayılan %2$s kullanmanız tavsiye edilir!</string>
   <string name="preferred_application_warning_replace">Değiştir</string>
-  <string name="preferred_application_warning_use_system"><xliff:g id="APPLICATION_LABEL">%s</xliff:g> kullan</string>
-  <string name="preferred_sms_warning_message">\"<xliff:g id="APPLICATION_LABEL">%1$s</xliff:g>\" , mobil veri kullanımını yükseltebilir. Ayrıca güvenliğinizi tehlikeye atabilir.</string>
+  <string name="preferred_application_warning_use_system">%s kullan</string>
+  <string name="preferred_sms_warning_message">\"%1$s\" , mobil veri kullanımını yükseltebilir. Ayrıca güvenliğinizi tehlikeye atabilir.</string>
   <string name="preferred_sms_warning_use_system">"Kullanılmayan"</string>
   <string name="preferred_sms_settings">Bu uygulama, SMS mesajlarını almak ve göndermek için varsayılan olacaktır.</string>
   <string name="preferred_sms_title">Varsayılan SMS uygulaması</string>
@@ -186,12 +186,12 @@
   <string name="nearby_wifi">Yakındaki Wi-Fi ağları</string>
   <string name="unlock_set_enter_system">Sisteme doğrudan erişme</string>
   <string name="unlock_set_enter_system_summary">Etkinleştirirseniz kilit açma ekranı teması kullanılmayacak ve doğrudan sistem erişimi sağlanacaktır.</string>
-  <string name="forget_wifi_message" product="tablet">Tabletinizin bu ağa otomatik olarak bağlanması durdurulacaktır.</string>
-  <string name="forget_wifi_message" product="default">Bu Wi-Fi Ağı unutulsun mu? Ağa tekrar bağlanmak istesiniz şifreyi tekrar girmeniz gerekecektir</string>
+  <string name="forget_wifi_message">Tabletinizin bu ağa otomatik olarak bağlanması durdurulacaktır.</string>
+  <string name="forget_wifi_message">Bu Wi-Fi Ağı unutulsun mu? Ağa tekrar bağlanmak istesiniz şifreyi tekrar girmeniz gerekecektir</string>
   <string name="button_disconnect_network">Ağ bağlantısını kes</string>
   <string name="no_nearby_wifi">Wi-Fi bağlantısı yok</string>
   <string name="manually_add_network">Ağ ekle</string>
-  <string name="network_detail"><xliff:g id="NETWORK">%s</xliff:g> Ağ detayları</string>
+  <string name="network_detail">%s Ağ detayları</string>
   <string name="connected_wifi">Bağlandı</string>
   <string name="lockpattern_recording_intro_header">Şifre koruması için desen çiz:</string>
   <string name="lockpattern_pattern_confirmed_header">Yeni kilit açma deseniniz:</string>
@@ -227,7 +227,7 @@
   <string name="apn_new">Yeni Erişim Noktası (APN)</string>
   <string name="apn_save">Kaydedilsin mi?</string>
   <string name="apn_save_msg">APN ayarları değiştirildi, kaydetmek istiyor musunuz?</string>
-  <string name="activating">Etkinleştiriliyor\u2026</string>
+  <string name="activating">Etkinleştiriliyor...</string>
   <string name="wifi_enable_watchdog_service_summary">İnternet bağlantısı iyi olmadıkça Wi-Fi ağı kullanılmaz</string>
   <string name="wifi_disabled_help">Zayıf bağlantı nedeniyle ağ kullanılmadı. Ayarlar &gt; Wi-Fi Gösterimi, Gelişmiş menü öğesi ile bu davranışı kapatın.</string>
   <string name="wifi_wps_overlap_error">Başka bir Wi-Fi korumalı oturumu saptandı. Birkaç dakika sonra tekrar deneyin.</string>
@@ -276,11 +276,11 @@
   <string name="remove_from_frequently_fragment">\"%s\" öğesini Genel Ayarlardan kaldır?</string>
   <string name="frequently_fragment_tempty">Sık kullanılan öğeler burada listelenecektir</string>
   <string name="frequently_fragment_delete">Sil</string>
-  <string name="ime_security_warning">Bu giriş yöntemi, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yöntem, <xliff:g id="ime_application_name">%1$s</xliff:g> uygulamasından gelmektedir. Bu giriş yöntemini kullanmak istiyor musunuz?</string>
+  <string name="ime_security_warning">Bu giriş yöntemi, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yöntem, %1$s uygulamasından gelmektedir. Bu giriş yöntemini kullanmak istiyor musunuz?</string>
   <string name="show_fc">Zorla Kapatmaları Göster</string>
   <string name="show_fc_summary">Uygulamalarda zorla kapatma diyaloğu göster</string>
-  <string name="factory_reset_summary" product="tablet">Tabletinizin dahili hafızasındaki tüm verileri silin</string>
-  <string name="factory_reset_summary" product="default">Telefonunuzdaki tüm verileri silebilirsiniz veya kurulu uygulamarı silebilir, SD kartı biçimlendirebilirsiniz</string>
+  <string name="factory_reset_summary">Tabletinizin dahili hafızasındaki tüm verileri silin</string>
+  <string name="factory_reset_summary">Telefonunuzdaki tüm verileri silebilirsiniz veya kurulu uygulamarı silebilir, SD kartı biçimlendirebilirsiniz</string>
   <string name="erase_sure">Silme işlemini onaylayın</string>
   <string name="erase_personal_data">Kişisel veriler</string>
   <string name="erase_personal_data_description">Hesaplar, kişiler, çağrı kayıtları ve diğer veriler</string>
@@ -292,8 +292,8 @@
   <string name="master_clear_personal_data">Kişisel bilgileri silmek istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur</string>
   <string name="master_clear_personal_data_application">\"Kişisel bilgileri silmek ve kullanıcı uygulamalarını kaldırmak istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur\"</string>
   <string name="master_clear_personal_data_sdcard">\"Kişisel bilgileri silmek ve SD Kartınızı biçimlendirmek istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur</string>
-  <string name="master_clear_all" product="tablet">Tabletinizin dahili hafızasındaki bütün veriler silinsin mi? Bu işlemin geri dönüşü yoktur!</string>
-  <string name="master_clear_all" product="default">\"Tüm verileri silerek fabrika ayarlarına dönmek istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur</string>
+  <string name="master_clear_all">Tabletinizin dahili hafızasındaki bütün veriler silinsin mi? Bu işlemin geri dönüşü yoktur!</string>
+  <string name="master_clear_all">\"Tüm verileri silerek fabrika ayarlarına dönmek istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur</string>
   <string name="master_clear_erase_application_progress">Uygulamaları silme işlemi çalışıyor</string>
   <string name="erase_internal_storage">SD kartı sil</string>
   <string name="erase_internal_storage_description">SD karttaki müzik, foto vb. tüm veriler silinir</string>
@@ -324,7 +324,7 @@
   <string name="font_size_large">Büyük</string>
   <string name="font_size_huge">Çok Büyük</string>
   <string name="virus_scanner_title">Anti-Virüs</string>
-  <string name="virus_scanner_scanning">Taranıyor\u2026</string>
+  <string name="virus_scanner_scanning">Taranıyor...</string>
   <string name="virus_scanner_scan">Taramak için dokunun</string>
   <string name="virus_scanner_select_lib">Virus veritabanı</string>
   <string name="virus_scanner_select_trust_lib">Güvenilir veritabanını seçin</string>
@@ -336,14 +336,14 @@
   <string name="virus_scanner_provider">Güvenlik sağlayıcısı: %s</string>
   <string name="virus_scanner_auto_update"> Otomatik Güncelle</string>
   <string name="virus_scanner_date_formater">dd MMM yyyy</string>
-  <string name="virus_scanner_manual_update"> Güncellendi %s </string>
-  <string name="virus_scanner_lib_updating"> Virus veritabanı güncelleniyor\u2026 </string>
+  <string name="virus_scanner_manual_update"> Güncelleme: %s </string>
+  <string name="virus_scanner_lib_updating"> Virus veritabanı güncelleniyor...</string>
   <string name="virus_scanner_lib_already_latest"> Virus veritabanı zaten güncel</string>
   <string name="virus_scanner_lib_update_failed"> Virus veritabanı güncelleme başarısız</string>
-  <string name="virus_scan_app_safe_scanning"> Taranıyor\u2026</string>
+  <string name="virus_scan_app_safe_scanning"> Taranıyor...</string>
   <string name="virus_scan_app_multi_engines">Bir motor seçin, tarama uzun sürebilir. </string>
-  <string name="virus_scan_app_scanning">Taranıyor\u2026</string>
-  <string name="virus_scan_app_waiting"> Bekleniyor\u2026</string>
+  <string name="virus_scan_app_scanning">Taranıyor...</string>
+  <string name="virus_scan_app_waiting"> Bekleniyor...</string>
   <string name="virus_scan_app_passed">Tarama bitti</string>
   <string name="virus_scan_app_risk">Risk tespit edildi</string>
   <string name="virus_scan_app_stop_scan">Taramayı durdur</string>
@@ -398,8 +398,8 @@
   <string name="wfd_menu_teardown">Dur</string>
   <string name="wfd_available_devices">Kullanılabilir cihazlar</string>
   <string name="wfd_disconnect_diag_title">Oturumu kapatmak istiyor musunuz?</string>
-  <string name="wfd_disconnect_diag_msg">Wi-Fi oturumunu kapatırsanız, <xliff:g id="peer_name">%1$s</xliff:g> bağlantısı sonlandırılacaktır.</string>
-  <string name="wfd_disconnect_multiple_diag_message">&gt;Wi-Fi oturumunu durdurursanız,  <xliff:g id="peer_name">%1$s</xliff:g> ve <xliff:g id="peer_count">%2$s</xliff:g> bağlantısı sonlandırılacaktır.</string>
+  <string name="wfd_disconnect_diag_msg">Wi-Fi oturumunu kapatırsanız,%1$s bağlantısı sonlandırılacaktır.</string>
+  <string name="wfd_disconnect_multiple_diag_message">&gt;Wi-Fi oturumunu durdurursanız, %1$s ve %2$s bağlantısı sonlandırılacaktır.</string>
   <string name="wfd_wps_keypad">Tuş tercihi</string>
   <string name="wfd_wps_pbc">Giriş PIN kodu tercihi</string>
   <string name="power_mode">Güç ayarları</string>
@@ -407,27 +407,6 @@
   <string name="high_performance_notif_title">Pil kullanımı uyarısı</string>
   <string name="high_performance_notif_summary">Performans modu açık.</string>
   <string name="skip_step">Bu adımı atla</string>
-  <string name="msd_help_title">Yardım</string>
-  <string name="msd_help_summary">Cihazınıza bağlanamıyor musunuz?\nİşletim sisteminizi seçin:</string>
-  <string name="msd_install_succeed">Sürücü yüklendi</string>
-  <string name="msd_install_next">Sonraki</string>
-  <string name="msd_install">Sürücüyü tekrar yükle</string>
-  <string name="msd_install_finish">Tamam</string>
-  <string name="msd_pc_system_install_summary_xp">1. setup.exe\'yi kurun</string>
-  <string name="msd_pc_system_install_finish_summary_xp">Sürücüyü yükledikten sonra\n<xliff:g id="MODEL">%1$s</xliff:g> bilgisayara bağladığınızda USB depolama cihazı olarak görülecektir.</string>
-  <string name="msd_pc_system_install_finish_summary_vista">Windows Vista ve yenileri için <xliff:g id="MODEL">%1$s</xliff:g> bilgisayara bağlandığında USB depolama cihazı olarak görülecektir.</string>
-  <string name="msd_install_retry">Eğer bilgisayarınız cihazınızı göremiyorsa, şunu deneyiniz:</string>
-  <string name="msd_install_retry_connect">USB kablosunu çıkarıp yeniden takın.</string>
-  <string name="msd_install_retry_reinstall">Sürücüyü tekrar yükleyin.</string>
-  <string name="msd_install_retry_reinstall_mac">Öncelikle Anroid Dosya Transfer\'i yükleyin, sonra uygulamayı çalıştırın.</string>
-  <string name="msd_install_status_undo">Sürücüleri kur</string>
-  <string name="msd_install_status_done">Sürücü yüklendi</string>
-  <string name="msd_driver_download">Sürücü İndir</string>
-  <string name="msd_driver_download_xp">Windows: Telefonunuzu USB depolama cihazı olarak kullanmak için Mi Phone yöneticisini indirin.</string>
-  <string name="msd_driver_download_xp_url">http://zhushou.mi.com/ adresinden sürücüyü indirin</string>
-  <string name="msd_driver_download_mac">OSX: Sürücüyü indirin ve AndroidFileTransfer.dmg dosyasını yükleyin.</string>
-  <string name="msd_driver_download_mac_url">Sürücüyü http://www.android.com/filetransfer/ adresinden alabilirsiniz</string>
-  <string name="msd_install_download_zhushou">Mi Phone yöneticisini indirdim</string>
   <string name="vpn_settings_password">VPN şifre ayarları</string>
   <string name="vpn_safe">Güvenlik</string>
   <string name="vpn_configure">Yapılandır</string>
@@ -443,8 +422,8 @@
   <string name="accessibility_enable">Erişilebilirlik</string>
   <string name="development_enable">Geliştirici modu etkinleştir</string>
   <string name="device_name">Cihaz adı</string>
-  <string name="device_edit_title" product="tablet">Tableti yeniden adlandır</string>
-  <string name="device_edit_title" product="default">Cihaz adını değiştir</string>
+  <string name="device_edit_title">Tableti yeniden adlandır</string>
+  <string name="device_edit_title">Cihaz adını değiştir</string>
   <string name="device_name_input_hint">Cihazınızın adını girin</string>
   <string name="device_name_usage_point">Bu isim çevrenizdeki Bluetooth cihazlarına görülebilir olacaktır</string>
   <string name="device_name_input_error">Cihazın ismi kaydedilemedi</string>
@@ -495,8 +474,8 @@
   <string name="application_forbid_auto_startup">Arka planda çalışmaması için %s durdurun</string>
   <string name="floating_window_switch_label">Kayan pencerelere izin ver</string>
   <string name="floating_window_switch_label_disable">Kayan pencereler devre dışı</string>
-  <string name="app_floating_window_dlg_enable"><xliff:g id="PACKAGE_NAME">%1$s</xliff:g> kayan pencere özelliğini etkin hale getirmek için uygulama yeniden başlatılacak. Siz de uygulamayı elle kapatabilirsiniz.\nYüzen pencereler etkinleştirilsin mi?</string>
-  <string name="app_floating_window_dlg_disable"><xliff:g id="PACKAGE_NAME">%1$s</xliff:g> kayan pencereler özelliğini kapatmanız uygulamayı durduracaktır.\nYüzen pencereler durdurulsun mu?</string>
+  <string name="app_floating_window_dlg_enable">%1$s kayan pencere özelliğini etkin hale getirmek için uygulama yeniden başlatılacak. Siz de uygulamayı elle kapatabilirsiniz.Kayan pencereler etkinleştirilsin mi?</string>
+  <string name="app_floating_window_dlg_disable">%1$s kayan pencere özelliğini kapatmanız uygulamayı durduracaktır.Kayan pencereler durdurulsun mu?</string>
   <string name="wps_category">WPS Güvenliği</string>
   <string name="wps_connect_title">WPS kullanarak bağlan</string>
   <string name="wps_connect_summary">Yönlendiricinizin WPS desteklediğinden emin olun</string>
@@ -522,8 +501,8 @@
   <string name="unlock_disable_lock_pin_summary">"Kilit açma PIN kodunu kaldır"</string>
   <string name="unlock_change_lock_pin_title">"PIN2 kodunu değiştir"</string>
   <string name="lockpassword_pin_too_short">"PIN kodu en az %d basamaklı olmalıdır"</string>
-  <string name="lockpassword_pin_fixed_length">"PIN <xliff:g id="number">%d</xliff:g> haneli olmalıdır"</string>
-  <string name="lockpassword_pin_too_long">"PIN kodu en çok <xliff:g id="number" example="17">%d</xliff:g> basamaklı olmalıdır"</string>
+  <string name="lockpassword_pin_fixed_length">"PIN %d haneli olmalıdır"</string>
+  <string name="lockpassword_pin_too_long">"PIN kodu en çok %d  basamaklı olmalıdır"</string>
   <string name="lockpassword_pin_contains_non_digits">"PIN kodu yalnızca 0-9 arasındaki rakamları içermelidir"</string>
   <string name="lockpassword_pin_recently_used">"Cihaz yöneticisi yakında kullanılmış PIN koduna izin vermiyor"</string>
   <string name="lockpassword_choose_your_pin_header">"PIN kodunuzu girin"</string>
@@ -541,10 +520,10 @@
   <string name="sim_status_title">SIM Durumu</string>
   <string name="slot_status_title">"IMEI bilgileri"</string>
   <string name="next_button_label">İleri</string>
-  <string name="internal_media_format_final_desc" product="tablet">Dahili hafıza silinsin mi? Bu işlemi geri almak mümkün değil! Dahili hafıza silindikten sonra tablet yeniden başlatılacaktır.</string>
-  <string name="internal_media_format_final_desc" product="default">Telefon yeniden başladığında tüm veriler silinecek ve bu işlemden dönüş olmayacak</string>
-  <string name="internal_media_format_desc" product="tablet">Dahili hafıza temizlensin mi? <b>Tüm verileriniz silinecektir</b> . Dahili hafıza silindikten sonra tablet yeniden başlatılacaktır.</string>
-  <string name="internal_media_format_desc" product="default">Dahili depolamadaki <b>tüm</b> veriler silinecek</string>
+  <string name="internal_media_format_final_desc">Dahili hafıza silinsin mi? Bu işlemi geri almak mümkün değil! Dahili hafıza silindikten sonra tablet yeniden başlatılacaktır.</string>
+  <string name="internal_media_format_final_desc">Telefon yeniden başladığında tüm veriler silinecek ve bu işlemden dönüş olmayacak</string>
+  <string name="internal_media_format_desc">Dahili hafıza temizlensin mi? <b>Tüm verileriniz silinecektir</b> . Dahili hafıza silindikten sonra tablet yeniden başlatılacaktır.</string>
+  <string name="internal_media_format_desc">Dahili depolamadaki <b>tüm</b> veriler silinecek</string>
   <string name="internal_media_format_button_text">Dahili depolamayı sil</string>
   <string name="internal_media_format_title">Dahili depolamayı sil</string>
   <string name="internal_format">Dahili depolamayı sil</string>
@@ -570,15 +549,15 @@
   <string name="wifi_priority_type_summary">Elle her bir erişim noktası için önceliği belirleyin</string>
   <string name="wifi_priority_settings_title">AP öncelik ayarları</string>
   <string name="wifi_priority_settings_summary">Her erişim noktası için öncelik ayarlamak için dokunun</string>
-  <string name="wifi_priority_changed">Eski öncelik değeri = <xliff:g id="old_value">%s</xliff:g> "|" Yeni değer = <xliff:g id="new_value">%s</xliff:g></string>
+  <string name="wifi_priority_changed">Eski öncelik değeri =%s "|" Yeni değer = %s</string>
   <string name="wifi_configured_ap_list">Önceden yapılandırılmış APler</string>
   <string name="wifi_priority_label">Öncelik</string>
   <string name="wifi_available_title">Wi-Fi\'ye bağlanın</string>
   <string name="msg_wlan_signal_found">%s\'ye bağlanılsın mı?</string>
   <string name="wifi_signal_found_msg">Wi-Fİ ap\'ye bağlansın mı?</string>
   <string name="nfc_category_title">NFC</string>
-  <string name="nfc_quick_toggle_summary" product="tablet">Tablet başka cihaza dokunduğunda veri alış verişine izin ver</string>
-  <string name="nfc_quick_toggle_summary" product="default">Telefon başka cihaza dokunduğunda veri alışverişine izin ver</string>
+  <string name="nfc_quick_toggle_summary">Tablet başka cihaza dokunduğunda veri alış verişine izin ver</string>
+  <string name="nfc_quick_toggle_summary">Telefon başka cihaza dokunduğunda veri alışverişine izin ver</string>
   <string name="android_beam_disabled_summary">NFC içerik paylaşımı için NFC\'nin etkin olması gerekir</string>
   <string name="android_beam_on_summary">Uygulama içeriği NFC ile aktarılmaya hazır</string>
   <string name="android_beam_off_summary">NFC içerik paylaşımı devre dışı </string>
@@ -592,7 +571,7 @@
   <string name="wifi_share_turn_on">Açık</string>
   <string name="wifi_share_turn_off">Kapalı</string>
   <string name="wifi_share_upload">Paylaş</string>
-  <string name="wifi_share_uploading">Paylaşılıyor\u2026</string>
+  <string name="wifi_share_uploading">Paylaşılıyor...</string>
   <string name="wifi_share_upload_finish">Paylaşıldı</string>
   <string name="wifi_share_show_network">Ağları görüntüle</string>
   <string name="wifi_share_current_network">Geçerli ağ</string>
@@ -602,7 +581,7 @@
   <string name="wifi_share_summary2">"Başka MIUI kullanıcısı bir ağ paylaştığında, şifre kullanmadan direk bağlanabilirsiniz."</string>
   <string name="wifi_share_summary3">Dostlarınız ve iş arkadaşlarınızla ortak Wi-Fi ağlarını paylaşabilirsiniz</string>
   <string name="wifi_share_add">Wi-Fi ağımı paylaş</string>
-  <string name="wifi_share_count">Paylaşılan <xliff:g id="COUNT">%d</xliff:g> ağınız var</string>
+  <string name="wifi_share_count">Paylaşılan %d  ağınız var</string>
   <string name="wifi_share_notification_summary">MIUI sizi, şifre korumalı ortak Wi-Fi ağına bağladı</string>
   <string name="wifi_share_add_summary">Wi-Fi ağlarınızı paylaştığınızda,  Diğer kullanıcıların ağlarını kullanabilirsiniz</string>
   <string name="wifi_share_login">Wi-Fi şifresini paylaş</string>
@@ -662,24 +641,24 @@
   <string name="se_route_uicc">Sim kart üzerinde güvenli öğe</string>
   <string name="current_use_uicc_se">SIM karttan güvenli bir öğe kullan</string>
   <string name="current_use_ese">Gömülü güvenli elemanı kullan</string>
-  <string name="open_wifi_connect_title"><xliff:g id="NAME">%1$s</xliff:g> ile bağlandı</string>
+  <string name="open_wifi_connect_title">%1$s ile bağlandı</string>
   <string name="open_wifi_connect_summary">Detayları görüntülemek için dokun</string>
-  <string name="free_wifi_summary"><xliff:g id="NAME">%1$s</xliff:g> ile bağlanmak için dokun</string>
+  <string name="free_wifi_summary">%1$s ile bağlanmak için dokun</string>
   <string name="free_wifi_connect_title">Kullanılabilir Wi-Fi ağı</string>
-  <string name="free_wifi_connect_summary"><xliff:g id="NAME">%1$s</xliff:g> tarafından sağlanan ücretsiz Wi-Fi ağına katılabilirsiniz.</string>
-  <string name="free_wifi_manage_summary"><xliff:g id="NAME">%1$s</xliff:g> görüntülemek için dokun.</string>
+  <string name="free_wifi_connect_summary">%1$s tarafından sağlanan ücretsiz Wi-Fi ağına katılabilirsiniz.</string>
+  <string name="free_wifi_manage_summary">%1$s görüntülemek için dokun.</string>
   <string name="free_wifi_connect_dialog_title">Kullanılabilir Wi-Fi ağı</string>
-  <string name="free_wifi_connect_dialog_summary"><xliff:g id="PROVIDER_NAME">%2$s</xliff:g> tarafından sağlanan ücretsiz Wi-Fi ağı <xliff:g id="WIFI_NAME">%1$s</xliff:g></string>
+  <string name="free_wifi_connect_dialog_summary">%2$s tarafından sağlanan ücretsiz Wi-Fi ağı %1$s</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_wifi_connect">Bağlan</string>
-  <string name="free_wifi_connecting">Bağlanıyor\u2026</string>
+  <string name="free_wifi_connecting">Bağlanıyor...</string>
   <string name="free_wifi_connected">Bağlandı</string>
   <string name="free_wifi_connect_fail">"Ağ bağlantısı yok, ağ bağlantısını kontrol edin ve tekrar deneyin."</string>
   <string name="free_wifi_connect_fail2">"Giriş yapılamıyor. Lütfen sonra tekrar deneyin."</string>
   <string name="free_wifi_login_again">Tekrar giriş yapın</string>
-  <string name="free_wifi_connected_count"><xliff:g id="WIFI_COUNT">%1$s</xliff:g> kullanıcı bağlandı</string>
+  <string name="free_wifi_connected_count">%1$s kullanıcı bağlandı</string>
   <string name="free_wifi_speed_title">Bağlantı yavaş mı?</string>
-  <string name="free_wifi_connected_time">Bağlantı süresi : <xliff:g id="WIFI_ONLINE_TIME">%1$s</xliff:g></string>
+  <string name="free_wifi_connected_time">Bağlantı süresi :%1$s</string>
   <string name="free_wifi_confirm">Tamam</string>
   <string name="manage_xiaomi_router">Mi Router ayarları</string>
   <string name="xiaomi_router_notif_title">Mi Router bildirimleri</string>
@@ -698,8 +677,8 @@
   <string name="wifi_settings_category">Wi-Fi ayarları</string>
   <string name="wifi_settings_title">Wi-Fi</string>
   <string name="wifi_setup_wizard_title">Wi-Fi ağını seçin</string>
-  <string name="wifi_starting">Wi-Fi açılıyor\u2026</string>
-  <string name="wifi_stopping">Wi-Fi kapatılıyor\u2026</string>
+  <string name="wifi_starting">Wi-Fi açılıyor...</string>
+  <string name="wifi_stopping">Wi-Fi kapatılıyor...</string>
   <string name="wifi_poor_network_detection_summary">İyi bir sinyal olmadığı olmadığı sürece Wi-Fi\'ya bağlanmayın</string>
   <string name="wifi_setting_sleep_policy_title">Uyku modunda Wi-Fi açık</string>
   <string name="wifi_suspend_optimizations">WLAN Optimizasyonu</string>
@@ -712,17 +691,17 @@
   <string name="wifi_required_info_text">Kurulumu tamamlamak için cihazınızın Wi-Fi\'ya bağlanması gerekiyor. Yüklemeden sonra, mobil data ve Wi-Fi arasında geçiş yapabilirsiniz.</string>
   <string name="wifi_wps_setup_title">WPS kurulumu</string>
   <string name="wifi_wps_onstart_pbc">Yönlendiricinizdeki Wi-Fi Korumalı Kurulum düğmesine basın. Bu \"WPS\" çağırabilir ya da bu sembolü içerebilir</string>
-  <string name="wifi_wps_onstart_pin">Wi-Fi yönlendiricinize <xliff:g id="number">%1$s</xliff:g> pinini girin. Kurulumu tamamlamak iki dakika kadar sürebilir</string>
-  <string name="wifi_wps_connected"><xliff:g id="network_name">%s</xliff:g> Wi-Fi ağına bağlandı</string>
-  <string name="wifi_connect_failed_message" product="tablet">Wi-Fi bağlantısına ulaşılamıyor</string>
-  <string name="wifi_connect_failed_message" product="default">Wi-Fi bağlantısına ulaşılamıyor</string>
+  <string name="wifi_wps_onstart_pin">Wi-Fi yönlendiricinize %1$s pinini girin. Kurulumu tamamlamak iki dakika kadar sürebilir</string>
+  <string name="wifi_wps_connected">%s Wi-Fi ağına bağlandı</string>
+  <string name="wifi_connect_failed_message">Wi-Fi bağlantısına ulaşılamıyor</string>
+  <string name="wifi_connect_failed_message">Wi-Fi bağlantısına ulaşılamıyor</string>
   <string name="wifi_advanced_titlebar">Gelişmiş Wi-Fi Ayarları</string>
   <string name="wifi_setting_frequency_band_title">Wi-Fi frekans bandı</string>
   <string name="wifi_p2p_settings_title">Wi-Fi Yönlendir</string>
   <string name="wifi_tether_checkbox_text">İnternet Paylaşımı</string>
   <string name="wifi_tether_failed_subtext">İnternet paylaşım hatası</string>
   <string name="wifi_tether_configure_ap_text">İnternet Paylaşımı Ayarları</string>
-  <string name="wifi_tether_configure_subtext">İnternet paylaşımı noktası:<xliff:g id="network_ssid">%1$s</xliff:g> Güvenlik:<xliff:g id="network_security">%2$s</xliff:g></string>
+  <string name="wifi_tether_configure_subtext">İnternet paylaşımı noktası:%1$s Güvenlik:%2$s</string>
   <string name="status_wifi_mac_address">Wi-Fi MAC adresi</string>
   <string name="location_network_based">Google konum hizmeti</string>
   <string name="location_neighborhood_level_wifi">Konum, Wi-Fi tarafından belirlendi</string>
@@ -739,17 +718,17 @@
   <string name="backup_data_summary">Uygulama verilerini, Wi-Fi şifrelerini ve diğer ayarları Google sunucularına yedekle</string>
   <string name="backup_erase_dialog_message">Wi-Fi şifrelerinizin, yer işaretlerinizin, diğer ayarlarınızın ve uygulama verilerinizin yedeklenmesi iptal edilip, Google sunucularındaki tüm kopyaları silinsin mi</string>
   <string name="wifi_setup_title">Wi-Fi Ayarları</string>
-  <string name="wifi_setup_title_editing_network"><xliff:g id="network_name" example="Happy Mobile">%s</xliff:g> Wi-Fi ağına bağlan</string>
-  <string name="wifi_setup_title_connecting_network"><xliff:g id="network_name" example="Happy Mobile">%s</xliff:g> Wi-Fi ağına bağlanıyor\u2026</string>
-  <string name="wifi_setup_title_connected_network"><xliff:g id="network_name" example="Happy Mobile">%s</xliff:g> Wi-Fi ağına bağlandı</string>
+  <string name="wifi_setup_title_editing_network">%s  Wi-Fi ağına bağlan</string>
+  <string name="wifi_setup_title_connecting_network">%s  Wi-Fi ağına bağlanıyor...</string>
+  <string name="wifi_setup_title_connected_network">%s  Wi-Fi ağına bağlandı</string>
   <string name="wifi_setup_eap_not_supported">Kurulum sırasında EAP Wi-Fi bağlantısı yapılandıramazsınız. Kurulumdan sonra Ayarlar &gt; Wi-Fi ve ağlar bölümünde bunu yapabilirsiniz.</string>
   <string name="wifi_setup_description_connected">Kuruluma devam etmek için <b>İleri</b>"\'ye dokunun.\n\n Farklı bir Wi-Fi ağına bağlanmak için "<b>Geri</b>\"\'ye dokunun.</string>
   <string name="data_usage_menu_show_wifi">Wi-Fi kullanımını göster</string>
   <string name="data_usage_disable_wifi_limit">Wi-Fi veri limitini ayarla</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
   <string name="data_usage_restrict_background">Arka plan verileri sınırlanınca, bazı uygulamalar veya hizmetler 2G/3G ile çalıştırılmayabilir.</string>
-  <string name="data_usage_restrict_background_multiuser" product="tablet">Arka plan verileri sınırlanınca, bazı uygulamalar veya hizmetler 2G/3G ile çalıştırılmayabilir.</string>
-  <string name="data_usage_restrict_background_multiuser" product="default">Arka plan verileri sınırlanınca, bazı uygulamalar veya hizmetler 2G/3G ile çalıştırılmayabilir.</string>
+  <string name="data_usage_restrict_background_multiuser">Arka plan verileri sınırlanınca, bazı uygulamalar veya hizmetler 2G/3G ile çalıştırılmayabilir.</string>
+  <string name="data_usage_restrict_background_multiuser">Arka plan verileri sınırlanınca, bazı uygulamalar veya hizmetler 2G/3G ile çalıştırılmayabilir.</string>
   <string name="data_usage_metered_body">Hanfi Wi-Fi şebekelerinin taşınabilir hotspot olduğunu belirtin. Uygulamaların bu ağlardan arka planda indirme yapması engellenebilir. Ayrıca uygulamalar bu ağlar üzerinden büyük indirmeler yapmadan önce bildirim vereceklerdir.</string>
   <string name="data_usage_metered_wifi">Kablosuz Ağlar</string>
   <string name="data_usage_metered_wifi_disabled">Mobile hotspotu seçmek için, önce Wi-Fi bağlantısını açın</string>
@@ -777,7 +756,7 @@
   <string name="connect_to_internet">Ağa bağlan</string>
   <string name="wifi_setting_category">Mevcut ağlar</string>
   <string name="account_autostar_label">Otomatik başlatma yönetimi</string>
-  <string name="downloading_description">İndiriliyor\u2026</string>
+  <string name="downloading_description">İndiriliyor...</string>
   <string name="cancel_download_buton_text">İptal</string>
   <string name="apply_now_button_text">Güncelle</string>
   <string name="check_update">Güncellemeleri kontrol et</string>
@@ -787,12 +766,12 @@
   <string name="found_new_version">Güncelleme mevcut</string>
   <string name="no_update_found">MIUI için en güncel versiyonu kullanıyorsunuz</string>
   <string name="no_updates_found">MIUI için en güncel versiyonu kullanıyorsunuz</string>
-  <string name="no_updates_warning" product="tablet">Tabletiniz için hiçbir güncelleme bulunamadı</string>
-  <string name="no_updates_warning" product="default">Telefonunuz için hiçbir güncelleme bulunamadı</string>
+  <string name="no_updates_warning">Tabletiniz için hiçbir güncelleme bulunamadı</string>
+  <string name="no_updates_warning">Telefonunuz için hiçbir güncelleme bulunamadı</string>
   <string name="no_updates_warning2">Sakin olun, bir güncelleme olduğunda size söyleyeceğiz :)</string>
   <string name="network_error">Bir ağ hatası oluştu</string>
-  <string name="checking_for_updates">Güncellemeler kontrol ediliyor\u2026</string>
-  <string name="rebootiing_for_updates">Yeniden önyükleniyor\u2026</string>
+  <string name="checking_for_updates">Güncellemeler kontrol ediliyor...</string>
+  <string name="rebootiing_for_updates">Yeniden önyükleniyor...</string>
   <string name="update_progress_for_updates">Güncelleniyor (%s)</string>
   <string name="toast_need_login">Mi hesabınızda oturum açın</string>
   <string name="button_text_reboot_now">Yeniden önyükle</string>
@@ -803,25 +782,14 @@
   <string name="welcome">Hoşgeldiniz</string>
   <string name="status_bar_screen_button_key">Ekran sanal tuşları</string>
   <string name="status_bar_key_position_custom">Özel tuş konumu</string>
-  <plurals name="show_pho_countdown">
-    <item quantity="other">Telefon bilgisi için sadece <xliff:g id="step_count">%1$d</xliff:g> adım daha.</item>
-  </plurals>
-  <string name="launching_pho">Telefon bilgisi getiriliyor, lütfen bekleyiniz.</string>
-  <plurals name="show_cit_countdown">
-    <item quantity="other">CIT için sadece <xliff:g id="step_count">%1$d</xliff:g> adım daha.</item>
-  </plurals>
-  <string name="launching_cit">CIT başlatılıyor, lütfen bekleyin.</string>
-  <plurals name="show_rep_countdown">
-    <item quantity="other">Hata bildirimi için sadece <xliff:g id="step_count">%1$d</xliff:g> adım daha.</item>
-  </plurals>
-  <string name="launching_rep">Bildiriliyor\u2026</string>
+  <string name="launching_rep">Bildiriliyor...</string>
   <string name="provision_next">İleri</string>
   <string name="privacy_mode_dialog_title">Misafir modu</string>
   <string name="privacy_mode_dialog_message">Aramalar, notlar, resimler, mesajlar ve başlatıcı ayarları kullanıcıdan gizlenecektir</string>
   <string name="lockscreen_glogin_submit_button">Giriş Yap</string>
   <string name="lockscreen_glogin_password_hint">Şifre</string>
   <string name="toast_lockscreen_glogin_empty_password">Şifreyi girin</string>
-  <string name="lockscreen_glogin_checking_password">Kontrol ediliyor\u2026</string>
+  <string name="lockscreen_glogin_checking_password">Kontrol ediliyor...</string>
   <string name="passwordIncorrect">Girdiğiniz şifre hatalı</string>
   <string name="app_feedback">Hatayı Bildirin</string>
   <string name="app_backup">Yedekleme</string>
@@ -868,7 +836,7 @@
   <string name="priority_storage_title">Depolama ayarları</string>
   <string name="priority_storage_summary">Kullanıcı bilgilerini kaydetmek için varsayılan konumu seçin</string>
   <string name="priority_storage_settings_summary">"SD kart seçilmediği takdirde, kullanıcı bilgileri cihazınızın dahili depolama birimine otomatik kaydedilecektir"</string>
-  <string name="priority_storage_app_settings">Kullanıcı bilgileri <xliff:g id="PRIORITY_STORAGE_APP">%1$s</xliff:g> adresine kayıt edilecektir</string>
+  <string name="priority_storage_app_settings">Kullanıcı bilgileri  %1$s adresine kayıt edilecektir</string>
   <string name="enable_mobile_data_when_opening_hotspot">Mobil veri de etkinleştirilsin mi?</string>
   <string name="wireless_on">Açık</string>
   <string name="wireless_off">Kapalı</string>
@@ -877,9 +845,9 @@
   <string name="status_bar_settings_toggle_layout_style">Düzenleme stilini değiştir</string>
   <string name="status_bar_settings_toggle_layout_style_compact">Durum çubuğu</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Sayfa</string>
-  <string name="status_bar_settings_toggle_layout_style_applying">Stil değiştiriliyor\u2026</string>
+  <string name="status_bar_settings_toggle_layout_style_applying">Stil değiştiriliyor...</string>
   <string name="status_bar_settings_custom_notification">Bildirimleri yönet</string>
-  <string name="status_bar_settings_all_app_display_loading">Yükleniyor\u2026</string>
+  <string name="status_bar_settings_all_app_display_loading">Yükleniyor...</string>
   <string name="status_bar_settings_show_notificationBar_notification">Bildirim çubuğunda göster</string>
   <string name="status_bar_settings_show_statusBar_notification">Tuş kilidinde göster</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Bildirim, ekranın üst kısmında görünür ve otomatik olarak kaybolur</string>
