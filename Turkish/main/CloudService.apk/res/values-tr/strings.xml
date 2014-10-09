@@ -44,8 +44,8 @@
   <string name="find_device">Cihaz bulma etkinleştirildi</string>
   <string name="find_device_enabling">Açılıyor\u2026</string>
   <string name="find_device_disabling">Kapatılıyor\u2026</string>
-  <string name="enable_find_device_error">\"Cihaz bulma servisi açılamıyor.\"<xliff:g id="reason">%1$s</xliff:g></string>
-  <string name="disable_find_device_error">\"Cihaz bulma servisi kapatılamıyor.\"<xliff:g id="reason">%1$s</xliff:g></string>
+  <string name="enable_find_device_error">\"Cihaz bulma servisi açılamıyor.\" %1$s</string>
+  <string name="disable_find_device_error">\"Cihaz bulma servisi kapatılamıyor.\"%1$s</string>
   <string name="find_device_error_network">Ağ bağlantınızı kontrol edin ve tekrar deneyin.</string>
   <string name="find_device_error_server">Sunucularla ilgili bir hata oluştu.</string>
   <string name="find_device_success_title">Cihaz bul</string>
@@ -63,8 +63,8 @@
   <string name="micloud_intro_01_part_02">Mi Message ile diğer MIUI kullanıcılarına Wi-Fi üzerinden mesaj gönderebilirsiniz.</string>
   <string name="micloud_intro_02_part_01">Zahmetsizce taşı</string>
   <string name="micloud_intro_02_part_02">Kişileri, mesajları, fotoğrafları ve diğerlerini cihazlar arası senkronize et. </string>
-  <string name="micloud_intro_03_part_01" product="tablet">Tabletinizin içeriğini heryerde güvende tutun.</string>
-  <string name="micloud_intro_03_part_01" product="default">Telefonunuzun içeriğini heryerde güvende tutun.</string>
+  <string name="micloud_intro_03_part_01">Tabletinizin içeriğini heryerde güvende tutun.</string>
+  <string name="micloud_intro_03_part_01">Telefonunuzun içeriğini heryerde güvende tutun.</string>
   <string name="micloud_intro_03_part_02">i.mi.com kullanarak cihazınızı bulun, uzaktan kilitleyin veya içeriğini silin</string>
   <string name="micloud_dspt">Mi Cloud kullanarak verilerinizi senkronize edin, cihazını bulun, </string>
   <string name="cmcc_micloud_dspt">Mi Cloud kullanarak verilerinizi senkronize edin, cihazını bulun, </string>
@@ -84,17 +84,17 @@
   <string name="sub_alert_notif_dspt_no">Herşey güncel.</string>
  
   <string name="wipe_data_dialog_msg_separator">,&#160;</string>
-  <string name="micloud_space_full_influence"><u>Boş alan kalmazsa ne olur?</u></string>
+  <string name="micloud_space_full_influence">Boş alan kalmazsa ne olur?</string>
   <string name="micloud_storage_usage" formatted="false">"Kullanılan %s/Toplam %s"</string>
-  <string name="micloud_title_dspt" product="tablet" formatted="false">"Kullanılan %s/Toplam %s,"</string>
-  <string name="micloud_title_dspt" product="default" formatted="false">"%s toplam\n %s kullanılan | %s kalan"</string>
+  <string name="micloud_title_dspt"formatted="false">"Kullanılan %s/Toplam %s,"</string>
+  <string name="micloud_title_dspt"formatted="false">"%s toplam\n %s kullanılan | %s kalan"</string>
   <string name="micloud_title_dspt_remain" formatted="false">"%s kalan"</string>
   <string name="micloud_title_full_dspt" formatted="false">"Depolama sınırınıza ulaştınız!"</string>
   <string name="micloud_user_space_usage">Depolama alanı</string>
   <string name="micloud_web_discription_01">i.mi.com\'da giriş yapın </string>
   <string name="micloud_web_discription_02">her yerden dosyalarınızı kaydetmek ve ulaşmak için</string>
-  <string name="micloud_full_influence_title">Mi Cloud\'unuz dolduğunda\u2026</string>
-  <string name="micloud_warn_low_title">Neredeyse boş alan tükendi\u2026</string>
+  <string name="micloud_full_influence_title">Mi Cloud\'unuz dolduğunda</string>
+  <string name="micloud_warn_low_title">Neredeyse boş alan tükendi</string>
   <string name="micloud_warn_low_sum">"Mi Cloud alanınız 90% dolu!"</string>
   <string name="micloud_warn_full_title">Boş alan kalmadı</string>
   <string name="micloud_warn_full_sum">"Mi Cloud ile yeni öğeler senkronize edilemeyecek."</string>

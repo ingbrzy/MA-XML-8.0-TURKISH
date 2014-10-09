@@ -74,8 +74,6 @@
   <string name="emailLabelsGroup">E-Posta</string>
   <string name="imLabelsGroup">Anlık Mesajlaşma</string>
   <string name="postalLabelsGroup">Adres</string>
-  
-  <string name="photoPickerNotFoundText">Tabletteki hiç bir resim uygun değil.</string>
   <string name="photoPickerNotFoundText">Telefondaki hiç bir resim uygun değil.</string>
   <string name="attach_photo_dialog_title">Kişi resmi</string>
   <string name="customLabelPickerTitle">Özel etiket adı</string>
@@ -94,14 +92,12 @@
   <string name="contactSavedErrorToast">Kişi değişiklikleri kaydedilemiyor</string>
   <string name="groupSavedToast">Grup kaydedildi</string>
   <string name="groupSavedErrorToast">Grup değişiklikleri kaydedilemiyor</string>
-  
   <string name="listTotalAllContactsZero">Kişi yok</string>
   <string name="listTotalAllContactsZeroCustom">Görünebilir kişi yok.</string>
   <string name="listTotalAllContactsZeroStarred">Favori yok</string>
   <string name="listTotalAllContactsZeroGroup">%s içinde kişi yok</string>
   <string name="listSingleContact">Tek kişi</string>
   <string name="listCustomView">Özel görünümdeki kişiler</string>
-  
   <string name="contactsAllLabel">Rehber</string>
   <string name="contactsGroupsLabel">Gruplar</string>
   <string name="contactsFavoritesLabel">Favoriler</string>
@@ -133,50 +129,7 @@
   <string name="simContacts_emptyLoading">SIM karttan kişiler yükleniyor\u2026</string>
   <string name="simContacts_title">SIM Numaraları</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Görüntülenecek hiç bir kişi kaydınız bulunmamaktadır. (Eğer yeni bir hesap eklediyseniz, görüntülenmesi bir kaç dakika alabilir.)"</string>
-  <string name="noContactsHelpTextForCreateShortcut">"Görüntülenecek hiç bir kişi kaydınız bulunmamaktadır."</string>
-  <string name="noContactsHelpText" >\"Görüntülenecek kişi yok.\n\nKişi eklemek için, öncelikle<font fgcolor="#ffffffff"><b>Menü</b></font>ye dokunun, sonrasında:\n
-\n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font> tuşu ile bir hesap yaratıp ya da ekleyerek hesabınızdaki kişilerinizi tabletinizle senkronize edebilir,\n</li>\n<li><font fgcolor="#ffffffff"><b>Yeni Kişi</b></font> ile sıfırdan yeni kişilerinizi oluşturabilir,\n</li>
-\n<li><font fgcolor="#ffffffff"><b>İçe aktar/Dışa aktar</b></font> ile SIM yada SD kartınızda bulunan kişileri içe aktarabilirsiniz.\n</li>\"
-    </string>
-  <string name="noContactsHelpText" >\"Görüntülenecek kişi yok.\n\nKişi eklemek için, öncelikle<font fgcolor="#ffffffff"><b>Menü</b></font>ye dokunun, sonrasında:\n
-\n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font> tuşu ile bir hesap yaratıp ya da ekleyerek hesabınızdaki kişilerinizi telefonunuzla senkronize edebilir,\n</li>\n<li><font fgcolor="#ffffffff"><b>Yeni Kişi</b></font> ile sıfırdan yeni kişilerinizi oluşturabilir,\n</li>
-\n<li><font fgcolor="#ffffffff"><b>İçe aktar/Dışa aktar</b></font> ile SIM yada SD kartınızda bulunan kişileri içe aktarabilirsiniz.\n</li>\"
-    </string>
-  <string name="noContactsHelpTextWithSync" >\"Görüntülenecek kişiniz yok. (Kısa bir süre önce hesap eklediyseniz, kişileri senkronize etmek birkaç dakika sürebilir.)\n\nKişi eklemek için, öncelikle<font fgcolor="#ffffffff"><b>Menü</b></font>ye dokunun, sonrasında:\n
-\n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font> tuşu ile bir hesap yaratıp ya da ekleyerek hesabınızdaki kişilerinizi tabletinizle senkronize edebilir,\n<li><font fgcolor="#ffffffff"><b>Görünüm Ayarları</b></font> tuşu ile görüntülenecek kişileri seçebilir,\n</li>
-\n</li>\n<li><font fgcolor="#ffffffff"><b>Yeni Kişi</b></font> ile sıfırdan yeni kişilerinizi oluşturabilir,\n</li>
-\n<li><font fgcolor="#ffffffff"><b>İçe aktar/Dışa aktar</b></font> ile SIM yada SD kartınızda bulunan kişileri içe aktarabilirsiniz.\n</li>\"
-    </string>
-  <string name="noContactsHelpTextWithSync">\"Görüntülenecek kişiniz yok. (Kısa bir süre önce hesap eklediyseniz, kişileri senkronize etmek birkaç dakika sürebilir.)\n\nKişi eklemek için, öncelikle<font fgcolor="#ffffffff"><b>Menü</b></font>ye dokunun, sonrasında:\n
-\n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font> tuşu ile bir hesap yaratıp ya da ekleyerek hesabınızdaki kişilerinizi telefonunuzla senkronize edebilir,\n<li><font fgcolor="#ffffffff"><b>Görünüm Ayarları</b></font> tuşu ile görüntülenecek kişileri seçebilir,\n</li>
-\n</li>\n<li><font fgcolor="#ffffffff"><b>Yeni Kişi</b></font> ile sıfırdan yeni kişilerinizi oluşturabilir,\n</li>
-\n<li><font fgcolor="#ffffffff"><b>İçe aktar/Dışa aktar</b></font> ile SIM yada SD kartınızda bulunan kişileri içe aktarabilirsiniz.\n</li>\"
-    </string>
-  <string name="noContactsNoSimHelpText" >\"Görüntülenecek kişi yok.\n\nKişi eklemek için, öncelikle<font fgcolor="#ffffffff"><b>Menü</b></font>ye dokunun, sonrasında:\n
-\n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font> tuşu ile bir hesap yaratıp ya da ekleyerek hesabınızdaki kişilerinizi tabletinizle senkronize edebilir,\n</li>\n<li><font fgcolor="#ffffffff"><b>Yeni Kişi</b></font> ile sıfırdan yeni kişilerinizi oluşturabilir,\n</li>
-\n<li><font fgcolor="#ffffffff"><b>İçe aktar/Dışa aktar</b></font> ile SD kartınızda bulunan kişileri içe aktarabilirsiniz.\n</li>\"
-    </string>
-  <string name="noContactsNoSimHelpText">\"Görüntülenecek kişi yok.\n\nKişi eklemek için, öncelikle<font fgcolor="#ffffffff"><b>Menü</b></font>ye dokunun, sonrasında:\n
-\n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font> tuşu ile bir hesap yaratıp ya da ekleyerek hesabınızdaki kişilerinizi telefonunuzla senkronize edebilir,\n</li>\n<li><font fgcolor="#ffffffff"><b>Yeni Kişi</b></font> ile sıfırdan yeni kişilerinizi oluşturabilir,\n</li>
-\n<li><font fgcolor="#ffffffff"><b>İçe aktar/Dışa aktar</b></font> ile SD kartınızda bulunan kişileri içe aktarabilirsinizç\n</li>\"
-    
-    </string>
-  <string name="noContactsNoSimHelpTextWithSync" >\"Görüntülenecek kişiniz yok. (Kısa bir süre önce hesap eklediyseniz, kişileri senkronize etmek birkaç dakika sürebilir.)\n\nKişi eklemek için, öncelikle<font fgcolor="#ffffffff"><b>Menü</b></font>ye dokunun, sonrasında:\n
-\n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font> tuşu ile bir hesap yaratıp ya da ekleyerek hesabınızdaki kişilerinizi tabletinizle senkronize edebilir,\n<li><font fgcolor="#ffffffff"><b>Görünüm Ayarları</b></font> tuşu ile görüntülenecek kişileri seçebilir,\n</li>
-\n</li>\n<li><font fgcolor="#ffffffff"><b>Yeni Kişi</b></font> ile sıfırdan yeni kişilerinizi oluşturabilir,\n</li>
-\n<li><font fgcolor="#ffffffff"><b>İçe aktar/Dışa aktar</b></font> ile SD kartınızda bulunan kişileri içe aktarabilirsiniz\n</li>\"
-    </string>
-  <string name="noContactsNoSimHelpTextWithSync" >\"Görüntülenecek kişiniz yok. (Kısa bir süre önce hesap eklediyseniz, kişileri senkronize etmek birkaç dakika sürebilir.)\n\nKişi eklemek için, öncelikle<font fgcolor="#ffffffff"><b>Menü</b></font>ye dokunun, sonrasında:\n
-\n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font> tuşu ile bir hesap yaratıp ya da ekleyerek hesabınızdaki kişilerinizi telefonunuzla senkronize edebilir,\n<li><font fgcolor="#ffffffff"><b>Görünüm Ayarları</b></font> tuşu ile görüntülenecek kişileri seçebilir,\n</li>
-\n</li>\n<li><font fgcolor="#ffffffff"><b>Yeni Kişi</b></font> ile sıfırdan yeni kişilerinizi oluşturabilir,\n</li>
-\n<li><font fgcolor="#ffffffff"><b>İçe aktar/Dışa aktar</b></font> ile SD kartınızda bulunan kişileri içe aktarabilirsiniz.\n</li>\"
-    </string>
-  <string name="noFavoritesHelpText">\"Favoriniz bulunmuyor..\n\nFavoriler listenize kişi eklemek için::\n
-<li>Rehbere<b>gi</b> girin\n</li>
-\n<li>Favorilere eklemek istediğiniz kişiye dokunun\n</li>
-\n<li>Kişi adından sonraki yıldıza dokunun\n</li>\"
-    </string>
-  <string name="dialer_useDtmfDialpad">Dokunmatik tuş takımı kullan</string>
+   <string name="dialer_useDtmfDialpad">Dokunmatik tuş takımı kullan</string>
   <string name="dialer_returnToInCallScreen">Çağrıya dön</string>
   <string name="dialer_addAnotherCall">Çağrı ekle</string>
   <string name="callDetailTitle">Çağrı ayrıntıları</string>
@@ -215,7 +168,6 @@
   <string name="description_plus_button">Artı</string>
   <string name="description_view_contact_detail" >Kişiyi Gör</string>
   <string name="no_sdcard_message" >Hafıza bulunamadı.</string>
-  <string name="no_sdcard_message" >SD Kart bulunamadı.</string>
   <string name="import_from_sim">SIM karttan içe aktar</string>
   <string name="import_from_sim2">SIM kart 2\'den içe aktar</string>
   <string name="import_from_sdcard" >Hafızadan içe aktar</string>
@@ -224,11 +176,8 @@
   <string name="import_one_vcard_string">Tek bir vCard dosyasını içe aktar</string>
   <string name="import_multiple_vcard_string">Birden fazla vCard dosyasını içe aktar</string>
   <string name="import_all_vcard_string">Tüm vCard dosyalarını içe aktar</string>
-  <string name="searching_vcard_message" >Hafızadaki vCard dosyaları aranıyor\u2026</string>
-  <string name="searching_vcard_message" >SD Karttaki vCard dosyaları aranıyor\u2026</string>
+  <string name="searching_vcard_message" >Hafızadaki vCard dosyaları aranıyor...</string>
   <string name="scanning_sdcard_failed_title" >Depolama alanı taranamıyor</string>
-  <string name="scanning_sdcard_failed_title" >SD Kart taranamıyor</string>
-  <string name="scanning_sdcard_failed_message" >Sebep: \"%s\".</string>
   <string name="scanning_sdcard_failed_message" >Sebep: \"%s\".</string>
   <string name="fail_reason_io_error">I/O hatası</string>
   <string name="fail_reason_low_memory_during_import">Yeteri kadar hafıza yok. Dosya boyutu çok büyük olabilir.</string>
@@ -236,7 +185,6 @@
   <string name="fail_reason_not_supported">Desteklenmeyen dosya biçimi.</string>
   <string name="vcard_import_failed">vCard içe aktarılamıyor.</string>
   <string name="import_failure_no_vcard_file" >Hafızada vCard dosyası bulunamadı.</string>
-  <string name="import_failure_no_vcard_file" >SD Kart üzerinde hiç bir vCard dosyası bulunamadı.</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">vCard dosyalarından meta bilgileri toplanamıyor.</string>
   <string name="fail_reason_failed_to_read_files">Bir veya daha fazla dosya içe aktarılamıyor (%s).</string>
   <string name="fail_reason_unknown">Bilinmeyen hata.</string>
@@ -261,7 +209,6 @@
   <string name="exporting_contact_failed_message">Kişi bilgisi dışa aktarılamadı.\nSebep: \"%s\"</string>
   <string name="fail_reason_no_exportable_contact">Dışa aktarılabilecek kişi bulunmuyor.</string>
   <string name="fail_reason_too_many_vcard" >Hafızada çok fazla vCard dosyası bulunuyor.</string>
-  <string name="fail_reason_too_many_vcard" >SD kartta çok fazla vCard dosyası bulunuyor.</string>
   <string name="fail_reason_too_long_filename">Gereken dosya ismi çok uzun (\"%s\").</string>
   <string name="exporting_vcard_finished_title">%s dosyasının dışa aktarılması tamamlandı.</string>
   <string name="exporting_vcard_canceled_title">%s dosyasının dışa aktarılması iptal edildi.</string>
@@ -270,11 +217,9 @@
   <string name="fail_reason_could_not_initialize_exporter">Dışa aktarım başlatılamıyor: \"%s\".</string>
   <string name="fail_reason_error_occurred_during_export">Dışa aktarma sırasında bir sorun oluştu: \"%s\".</string>
   <string name="composer_failed_to_get_database_infomation">Veritabanı bilgisi alınamıyor.</string>
-  <string name="composer_has_no_exportable_contact" >Dışa aktarabilir kişi bulunmamaktadır. Eğer tabletinizde kişileriniz varsa, bazı veri sağlayıcıları kişilerin tabletinizden dışa aktarılmasına izin vermiyor olabilir.</string>
   <string name="composer_has_no_exportable_contact" >Dışa aktarabilir kişi bulunmamaktadır. Telefonunuzda kişileriniz varsa, bazı veri sağlayıcıları kişilerin telefondan dışa aktarılmasına izin vermiyor olabilir.</string>
   <string name="composer_not_initialized">vCard oluşturucu düzgün başlamadı.</string>
   <string name="fail_reason_could_not_open_file" formatted="false">"Açılamadı \"%s\": %s."</string>
-
   <string name="cancel_import_confirmation_message">%s dosyasının içe aktarımı iptal edilsin mi?</string>
   <string name="cancel_export_confirmation_message">>%s dosyasının dışa aktarımı iptal edilsin mi?</string>
   <string name="cancel_vcard_import_or_export_failed">vCard içe/dışa aktrım işlemi iptal edilemedi</string>
@@ -307,12 +252,11 @@
   <string name="dialog_new_group_account">Hesap altında grup oluştur</string>
   <string name="menu_sync_remove">Senkronize edilen grubu kaldır</string>
   <string name="dialog_sync_add">Senkronize edilen grup ekle</string>
-  <string name="display_more_groups">Daha falza grup\u2026</string>
+  <string name="display_more_groups">Daha falza grup</string>
   <string name="display_ungrouped">Tüm diğer kişiler</string>
   <string name="display_all_contacts">Tüm kişiler</string>
   <string name="display_warn_remove_ungrouped">\"%s\" senkronize ile gruplandırılmamış kişilerden kaldırılıyor.</string>
   <string name="account_phone" >Bu kişi sadece tablette kayıtlı, senkronize edilmemiş</string>
-  <string name="account_phone" >Bu kişi sadece telefonda kayıtlı, senkronize edilmemiş.</string>
   <string name="call_custom">Çağrı %s</string>
   <string name="call_home">Evi Ara</string>
   <string name="call_mobile">Mobili ara</string>
@@ -651,10 +595,8 @@
   <string name="preference_import_export">İçe / Dışa aktar</string>
   <string name="preference_import_export_title">Kişileri İçe / Dışa Aktar</string>
   <string name="import_vcard_description">Kişileri dahili hafızadan aktar</string>
-  <string name="import_vcard_description">Kişileri SD karttan aktar</string>
   <string name="export_vcard_description">Dahili hafızaya vCard olarak aktar</string>
-  <string name="export_vcard_description">SD karta vCard olarak aktar</string>
-  <string name="export_to_sim">SIM karta aktar</string>
+   <string name="export_to_sim">SIM karta aktar</string>
   <string name="export_to_sim2">SIM kart 2\'ye aktar</string>
   <string name="export_to_sim_title">SIM karta aktarılıyor\u2026</string>
   <string name="sim_card_no_free_space_title">SIM kart dolu</string>

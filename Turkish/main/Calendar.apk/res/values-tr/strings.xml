@@ -19,10 +19,10 @@
   <string name="event_show_more">Daha fazla seçenek</string>
   <string name="event_hide_more">Gizle</string>
   <string name="presence_label">Durum</string>
-  <string name="event_info_when">Ne Zaman:\u0020</string>
-  <string name="event_info_repeat">Tekrar:\u0020</string>
-  <string name="event_info_where">Nerede:\u0020</string>
-  <string name="event_info_descrip">Açıklama:\u0020</string>
+  <string name="event_info_when">Ne Zaman:</string>
+  <string name="event_info_repeat">Tekrar:</string>
+  <string name="event_info_where">Nerede:</string>
+  <string name="event_info_descrip">Açıklama:</string>
   <string name="event_info_title">Etkinlik ayrıntıları</string>
   <string name="event_action_delete">Sil</string>
   <string name="event_action_edit">Düzenle</string>
@@ -48,8 +48,8 @@
   <string name="pref_title_alarm_remind">Hatırlatma alarmı</string>
   <string name="pref_error_no_ringtone_select">Hiçbiri seçilmedi</string>
   <string name="alarm_label">Çıkart</string>
-  <string name="event_date_format">AA/gg</string>
-  <string name="event_full_date_format">AA/gg/yyyy</string>
+  <string name="event_date_format">d MM</string>
+  <string name="event_full_date_format">d MMMM yyyy</string>
   <string name="cta_notice_title">Kişilere eriş</string>
   <string name="cta_notice_message">Doğum günü hatırlatıcısının düzgün çalışması için kişilerinize erişmesi gerekiyor.</string>
   <string name="cta_notice_checkbox">Tekrar gösterme</string>
@@ -58,11 +58,11 @@
   <string name="local_calendar_display_name">Yerel takvim</string>
   <string name="birthday_calendar_display_name">Doğum günü hatırlatıcı</string>
   <string name="local_owner_account_name">Yerel hesap</string>
-  <string name="birthday_notification_title_today"><xliff:g id="name">%1$s</xliff:g>\nin doğumgünü</string>
+  <string name="birthday_notification_title_today">%1$s kişisinin doğum günü</string>
   <string name="birthday_notification_text_today">Mutlu yıllar demeyi unutma!</string>
-  <string name="birthday_notification_title_three_days_later"><xliff:g id="name">%1$s</xliff:g>\nin doğum günü yaklaşıyor</string>
-  <string name="birthday_notification_text_three_days_later">(<xliff:g id="date">%3$s</xliff:g>)\nin doğum gününe 3 gün kaldı</string>
-  <string name="birthday_event_description">Bugün <xliff:g id="name">%1$s</xliff:g>\nin doğum günü!</string>
+  <string name="birthday_notification_title_three_days_later">%1$s kişisinin doğum günü yaklaşıyor</string>
+  <string name="birthday_notification_text_three_days_later">%3$s kişisinin doğum gününe 3 gün kaldı</string>
+  <string name="birthday_event_description">Bugün %1$s kişisinin doğum günü!</string>
   <string name="jump_date">Atla</string>
   <string name="jump_date_full">Tarihe atla</string>
   <string name="miui_menu_create_event">Yeni</string>
@@ -73,10 +73,10 @@
   <string name="edit_event_confirm_message">Etkinlikteki değişikliklerden vazgeçilsin mi?</string>
   <string name="daily">Günlük</string>
   <string name="every_weekday">"Hafta içi her gün (Pzt\u2013Cum)"</string>
-  <string name="weekly">"Haftalık(her<xliff:g id="days_of_week"> %s </xliff:g>)"</string>
-  <string name="monthly_on_day_count">"Aylık (<xliff:g id="ordinal_number"> %1$s </xliff:g> <xliff:g id="day_of_week"> %2$s </xliff:g>)"</string>
+  <string name="weekly">"Haftalık(her %s )"</string>
+  <string name="monthly_on_day_count">"Aylık %1$s  %2$s "</string>
   <string name="monthly">Aylık</string>
   <string name="yearly_plain">Yıllık</string>
   <string name="monthly_on_day">"Aylık (aynı gün)"</string>
-  <string name="yearly">"Yıllık(her<xliff:g id="dates"> %s </xliff:g>)"</string>
+  <string name="yearly">"Yıllık (her %s  )"</string>
 </resources>
