@@ -26,7 +26,7 @@
   <string name="delete_backup_process">Siliniyor\u2026</string>
   <string name="backup_error">Yedekleme başarısız</string>
   <string name="delete_failed_backup_confirm">Yedekleme hatalar içerdiğinden cihazınızı restore etmek için kullanılamaz.</string>
-  <string name="batch_delete_backup_confirm"><xliff:g id="COUNT">%d</xliff:g>yedekleri silinsin mi?</string>
+  <string name="batch_delete_backup_confirm">%d yedekleri silinsin mi?</string>
   <string name="start_restore">Geri yükle</string>
   <string name="backup_file_error">Yedekleme başarısız</string>
  
@@ -78,9 +78,9 @@
   <string name="task_finished">Yedekleme tamamlandı</string>
   <string name="task_canceled">Yedekleme iptal edildi</string>
   <string name="task_failed">Başarısız</string>
-  <string name="task_canceled_local"> <xliff:g id="PERCENT">%s</xliff:g>iptal edildi</string>
+  <string name="task_canceled_local">%s iptal edildi</string>
   <string name="task_canceled_all_local">İptal</string>
-  <string name="task_failed_local">Tamamlanamadı:<xliff:g id="PERCENT">%s</xliff:g></string>
+  <string name="task_failed_local">Tamamlanamadı: %s </string>
   <string name="task_failed_all_local">Başarısız</string>
   <string name="task_backup_finished_local">Yedekleme tamamlandı</string>
   <string name="task_restore_finished_local">Geri yükleme tamamlandı</string>
@@ -149,7 +149,7 @@
   <string name="cloud_last_backup">Son yedekleme:</string>
   <string name="cloud_search">Aranıyor\u2026</string>
   <string name="cloud_no_backup">Yedek bulunamadı</string>
-  <string name="current_account">Merhaba,<xliff:g id="ACCOUNT">%s</xliff:g></string>
+  <string name="current_account">Merhaba,%s</string>
   <string name="current_sim">Mevcut SIM kart</string>
   <string name="no_network">Ağa bağlanılamıyor</string>
   <string name="retry">Tekrar Dene</string>
@@ -157,15 +157,15 @@
   <string name="deselect_all">Hiçbirini seçme</string>
   <string name="reverse_all">Tümünü temizle</string>
   <string name="refresh">Yenile</string>
-  <string name="cloud_item_info_summary">\u0020(Yerel:<xliff:g id="LOCAL_COUNT">%1$s</xliff:g> | Mi Cloud:<xliff:g id="CLOUD_COUNT">%2$s</xliff:g>)</string>
-  <string name="total_num">toplam<xliff:g id="COUNT">%d</xliff:g></string>
-  <string name="cloud_restore_guide"><xliff:g id="APP">%s</xliff:g>\'ın kullanıcı verilerini geri yüklemek için, geri yükle\'ye dokunun</string>
+  <string name="cloud_item_info_summary">Yerel:%1$s| Mi Cloud:%2$s</string>
+  <string name="total_num">toplam %d </string>
+  <string name="cloud_restore_guide">%s\'ın kullanıcı verilerini geri yüklemek için, geri yükle\'ye dokunun</string>
   <string name="import_from_xiaomi_account_hint1">1.\tMi Talk uygulamasını indirin ve oturum açın.\n\thttp://www.miliao.com\n\n2.\tMi Talk uygulamasına gidin ve \"Kişileri Mi Hesabına yedekle\" seçeneğini seçin</string>
   <string name="import_from_xiaomi_account_hint2"> Zaten bir yedeğiniz varsa, ileri tuşuna dokunun.</string>
   <string name="import_from_xiaomi_account_hint_title">Cihazlar arasında kişilerinizi yedeklemek için Mi Talk kullanın.</string>
   <string name="guarded_mode_dialog_title">Ziyaretçi modundasınız</string>
   <string name="guarded_mode_dialog_message">Bu özelliğe ziyaretçi modunda izin verilmemektedir.</string>
-  <string name="multi_select_title"><xliff:g id="number" example="15">%1$s</xliff:g>seçildi</string>
+  <string name="multi_select_title">%1$s seçildi</string>
   <string name="enable_encrypt_title">Şifrelemeyi etkinleştir</string>
   <string name="disable_encrypt_title">Şifrelemeyi devre dışı bırak</string>
   <string name="enable_encrypt_indicator">Şifrelemek için dokunun</string>
@@ -173,8 +173,8 @@
   <string name="already_enable_encrypt">Şifreleme etkin</string>
   <string name="enable_encrypt_summery1">Şifrelenmiş yedeklere ulaşmak için Mi hesabınızla giriş yapmalısınız.</string>
   <string name="enable_encrypt_summery2">Yedekleriniz otomatik olarak şifrelenecektir. Şifrelenmiş yedeklere erişmek için Mi hesabınızla oturum açmanız gerekmektedir.</string>
-  <string name="enable_encrypt_xiaomi_account">Bu yedek<xliff:g id="account" example="110000">%1$s</xliff:g>tarafından oluşturuldu. Silmek için şimdiki hesabı kaldırın.
-ve<xliff:g id="account" example="110000">%2$s</xliff:g>olarak oturum açın.</string>
+  <string name="enable_encrypt_xiaomi_account">Bu yedek %1$s tarafından oluşturuldu. Silmek için şimdiki hesabı kaldırın.
+ve %2$s olarak oturum açın.</string>
   <string name="enable_encrypt_ok">Tamam</string>
   <string name="no_encrypt_password">Şifre yok</string>
   <string name="enable_encrypt_fail">Şifreleme başarısız</string>
