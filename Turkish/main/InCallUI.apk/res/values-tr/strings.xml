@@ -138,22 +138,22 @@
   <string name="labelCFU">Her çağrıyı yönlendir</string>
   <string name="messageCFU">Her zaman bu numarayı kullan</string>
   <string name="sum_cfu_enabled_indicator">Bütün aramalar yönlendiriliyor</string>
-  <string name="sum_cfu_enabled">Bütün aramalar <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g> numarasına yönlendiriliyor</string>
+  <string name="sum_cfu_enabled">Bütün aramalar<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g> numarasına yönlendiriliyor</string>
   <string name="sum_cfu_enabled_no_number">Numara kullanılamıyor</string>
   <string name="sum_cfu_disabled">Devre dışı</string>
   <string name="labelCFB">Meşgul olduğunda yönlendir</string>
   <string name="messageCFB">Meşgul olduğunda numara</string>
-  <string name="sum_cfb_enabled"><xliff:g id="phonenumber" example="555-1212">{0}</xliff:g> yönlendiriliyor</string>
+  <string name="sum_cfb_enabled"><xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>yönlendiriliyor</string>
   <string name="sum_cfb_disabled">Devre dışı</string>
   <string name="disable_cfb_forbidden">Operatörünüz, telefonunuz meşgul olduğunda çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor.</string>
   <string name="labelCFNRy">Cevapsız bırakıldığında yönlendir</string>
   <string name="messageCFNRy">Cevapsız bırakıldığında numara</string>
-  <string name="sum_cfnry_enabled"><xliff:g id="phonenumber" example="555-1212">{0}</xliff:g> yönlendiriliyor</string>
+  <string name="sum_cfnry_enabled"><xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>yönlendiriliyor</string>
   <string name="sum_cfnry_disabled">Devre dışı</string>
   <string name="disable_cfnry_forbidden">Operatörünüz arama cevapsız bırakıldığında çağrı yönlendirmeyi devre dışı bırakmayı desteklemiyor.</string>
   <string name="labelCFNRc">Ulaşılamadığında yönlendir</string>
   <string name="messageCFNRc">Ulaşılamadığında numara</string>
-  <string name="sum_cfnrc_enabled"><xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>\'a yönlendiriliyor</string>
+  <string name="sum_cfnrc_enabled"><xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>\a yönlendiriliyor</string>
   <string name="sum_cfnrc_disabled">Devre dışı</string>
   <string name="disable_cfnrc_forbidden">Operatörünüz telefon ulaşılabilir olmadığında yönlendirmenin iptal edilmesini desteklemiyor.</string>
   <string name="updating_title">Arama ayarları</string>
@@ -190,7 +190,7 @@
   <string name="empty_networks_list">Hiçbir ağ bulunamadı.</string>
   <string name="search_networks">Ağ ara</string>
   <string name="network_query_error">Ağ aranırken bir hata oluştu.</string>
-  <string name="register_on_network"><xliff:g id="network">%s</xliff:g> bağlanılıyor\u2026</string>
+  <string name="register_on_network"><xliff:g id="network">%s</xliff:g>bağlanılıyor\u2026</string>
   <string name="not_allowed">SIM kartınız bu ağa bağlantınızı kabul etmiyor.</string>
   <string name="connect_later">Ağa şu anda bağlanılamıyor. Daha sonra tekrar deneyiniz.</string>
   <string name="registration_done">Ağa kaydedildi.</string>
@@ -231,11 +231,11 @@
   <string name="throttle_time_frame">Veri kullanım periodu</string>
   <string name="throttle_rate">Veri hızı politikası</string>
   <string name="throttle_help">Daha fazla</string>
-  <string name="throttle_status_subtext"><xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) \u2215 <xliff:g id="used">%3$s</xliff:g> periyod maksimum\nBir dahaki periyod  <xliff:g id="used">%4$d</xliff:g> gün içinde başlayacak (<xliff:g id="used">%5$s</xliff:g>)</string>
-  <string name="throttle_data_usage_subtext"><xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) \u2215 <xliff:g id="used">%3$s</xliff:g> periyod maksimum</string>
-  <string name="throttle_data_rate_reduced_subtext"><xliff:g id="used">%1$s</xliff:g> üst limiti geçildi\nVeri hızı <xliff:g id="used">%2$d</xliff:g> Kb/s\'e düşürüldü</string>
-  <string name="throttle_time_frame_subtext"><xliff:g id="used">%1$d</xliff:g>\u066A dönümü geçti\nBir dahaki periyod <xliff:g id="used">%2$d</xliff:g> gün içinde başlayacak (<xliff:g id="used">%3$s</xliff:g>)</string>
-  <string name="throttle_rate_subtext">Veri limitini aşmanız durumunda veri hızınız <xliff:g id="used">%1$d</xliff:g> Kb/s\'e düşürülecektir</string>
+  <string name="throttle_status_subtext"><xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) \u2215 <xliff:g id="used">%3$s</xliff:g>periyod maksimum\nBir dahaki periyod<xliff:g id="used">%4$d</xliff:g> gün içinde başlayacak(<xliff:g id="used">%5$s</xliff:g>)</string>
+  <string name="throttle_data_usage_subtext"><xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) \u2215 <xliff:g id="used">%3$s</xliff:g>periyod maksimum</string>
+  <string name="throttle_data_rate_reduced_subtext"><xliff:g id="used">%1$s</xliff:g>üst limiti geçildi\nVeri hızı<xliff:g id="used">%2$d</xliff:g> Kb/s\e düşürüldü</string>
+  <string name="throttle_time_frame_subtext"><xliff:g id="used">%1$d</xliff:g>\u066A dönümü geçti\nBir dahaki periyod<xliff:g id="used">%2$d</xliff:g>gün içinde başlayacak(<xliff:g id="used">%3$s</xliff:g>)</string>
+  <string name="throttle_rate_subtext">Veri limitini aşmanız durumunda veri hızınız <xliff:g id="used">%1$d</xliff:g> Kb/s\e düşürülecektir</string>
   <string name="throttle_help_subtext">Operatörünüzün mobil veri kullanım politikaları hakkında daha fazla bilgi</string>
   <string name="cell_broadcast_sms">Hücre yayını SMS</string>
   <string name="enable_disable_cell_bc_sms">Hücre yayını SMS</string>
@@ -392,7 +392,7 @@
   <string name="fdn_enable_puk2_requested">Şifre hatalı. PIN2 değiştirip yeniden deneyin.</string>
   <string name="puk2_requested">Şifre hatalı, SIM kart kilitlendi! PUK2 kodu gerekiyor.</string>
   <string name="doneButton">Tamam</string>
-  <string name="caller_manage_header">Konferans araması <xliff:g id="conf_call_time">%s</xliff:g></string>
+  <string name="caller_manage_header">Konferans araması<xliff:g id="conf_call_time">%s</xliff:g></string>
   <string name="voicemail_settings_number_label">Sesli mesaj numarası</string>
   <string name="card_title_dialing">Aranıyor</string>
   <string name="card_title_redialing">Yeniden deneniyor</string>
@@ -404,21 +404,21 @@
   <string name="card_title_hanging_up">Kapatılıyor</string>
   <string name="card_title_in_call">Arama</string>
   <string name="card_title_in_call_short">Arama</string>
-  <string name="card_title_my_phone_number"><xliff:g id="my_phone_number">%s</xliff:g> benim numaram</string>
+  <string name="card_title_my_phone_number"><xliff:g id="my_phone_number">%s</xliff:g>benim numaram</string>
   <string name="notification_dialing">Aranıyor</string>
   <string name="notification_missedCallTitle">Cevapsız arama</string>
   <string name="notification_missedCallsTitle">Cevapsız aramalar</string>
-  <string name="notification_missedCallsMsg"><xliff:g id="num_missed_calls"> %s </xliff:g> cevapsız aramanız var</string>
-  <string name="notification_missedCallTicker"><xliff:g id="missed_call_from">%s</xliff:g> tarafından cevapsız aramanız var</string>
+  <string name="notification_missedCallsMsg"><xliff:g id="num_missed_calls"> %s </xliff:g>cevapsız aramanız var</string>
+  <string name="notification_missedCallTicker"><xliff:g id="missed_call_from">%s</xliff:g>tarafından cevapsız aramanız var</string>
   <string name="notification_ongoing_call">Devam eden çağrı</string>
   <string name="notification_on_hold">Beklemede</string>
   <string name="notification_incoming_call">Gelen arama</string>
   <string name="notification_voicemail_title">Yeni sesli mesaj</string>
-  <string name="notification_voicemail_title_count">Yeni sesli mesaj (<xliff:g id="count">%d</xliff:g>)</string>
-  <string name="notification_voicemail_text_format">Arama <xliff:g id="voicemail_number">%s</xliff:g></string>
+  <string name="notification_voicemail_title_count">Yeni sesli mesaj(<xliff:g id="count">%d</xliff:g>)</string>
+  <string name="notification_voicemail_text_format">Arama<xliff:g id="voicemail_number">%s</xliff:g></string>
   <string name="notification_voicemail_no_vm_number">Sesli mesaj numarası bilinmiyor</string>
   <string name="notification_network_selection_title">Servis yok</string>
-  <string name="notification_network_selection_text">Seçili ağ (<xliff:g id="operator_name">%s</xliff:g>) kullanılamıyor</string>
+  <string name="notification_network_selection_text">Seçili ağ(<xliff:g id="operator_name">%s</xliff:g>)kullanılamıyor</string>
   <string name="notification_action_end_call">Bekle</string>
   <string name="notification_missedCall_call_back">Geri ara</string>
   <string name="notification_missedCall_message">Mesaj</string>
@@ -439,7 +439,7 @@
   <string name="emergency_enable_radio_dialog_title">Acil Durum Araması</string>
   <string name="emergency_enable_radio_dialog_message">Radyo sinyali açılıyor\u2026</string>
   <string name="emergency_enable_radio_dialog_retry">Servis yok, tekrar deneniyor\u2026</string>
-  <string name="dial_emergency_error">Arama gönderilemedi. <xliff:g id="non_emergency_number">%s</xliff:g> bir acil durum numarası değil.</string>
+  <string name="dial_emergency_error">Arama gönderilemedi.<xliff:g id="non_emergency_number">%s</xliff:g> bir acil durum numarası değil.</string>
   <string name="dial_emergency_empty_error">Arama yapılamadı. Bir acil durum numarası çevirin.</string>
   <string name="dialerKeyboardHintText">Çevirmek için klavyeyi kullanın</string>
   <string name="onscreenHoldText">Beklemeye al</string>
@@ -501,7 +501,7 @@
   <string name="voicemail_settings">Kurulum</string>
   <string name="voicemail_number_not_set">&lt; Ayarlı değil &gt;</string>
   <string name="other_settings">Diğer arama ayarları</string>
-  <string name="calling_via_template"><xliff:g id="provider_name">%s</xliff:g> ile aranıyor</string>
+  <string name="calling_via_template"><xliff:g id="provider_name">%s</xliff:g>ile aranıyor</string>
   <string name="contactPhoto">kişi resmi</string>
   <string name="goPrivate">özele geç</string>
   <string name="selectContact">kişi seç</string>
@@ -535,7 +535,7 @@
   <string name="alert_dialog_close">Profili kapat</string>
   <string name="alert_dialog_ok">TAMAM</string>
   <string name="close_profile">Kapat</string>
-  <string name="primary_account_summary_with">Birincil hesap. <xliff:g id="registration_status" example="Registering...">%s</xliff:g></string>
+  <string name="primary_account_summary_with">Birincil hesap.<xliff:g id="registration_status" example="Registering...">%s</xliff:g></string>
   <string name="registration_status_checking_status">Durum denetleniyor...</string>
   <string name="registration_status_registering">Kaydediliyor\u2026</string>
   <string name="registration_status_still_trying">Hala deniyor\u2026</string>
@@ -544,10 +544,10 @@
   <string name="registration_status_no_wifi_data">Wi-Fi bağlantısı olmadığı için hesap kaydı durduruldu.</string>
   <string name="registration_status_not_running">Hesap kaydı başarısız.</string>
   <string name="registration_status_done">Görüşmeler alınıyor.</string>
-  <string name="registration_status_failed_try_later">Hesap kaydı başarısız(<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>); sonra tekrar deneyiniz</string>
+  <string name="registration_status_failed_try_later">Hesap kaydı başarısız(<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>);sonra tekrar deneyiniz</string>
   <string name="registration_status_invalid_credentials">Hesap kaydı başarısız: Yanlış kullanıcı adı veya şifre.</string>
   <string name="registration_status_server_unreachable">Hesap kaydı başarısız: Lütfen sunucu ismini tekrar kontrol ediniz.</string>
-  <string name="third_party_account_summary">Bu hesap şu anda <xliff:g id="account_owner" example="Google Talk">%s</xliff:g> uygulaması tarafından kullanılıyor.</string>
+  <string name="third_party_account_summary">Bu hesap şu anda<xliff:g id="account_owner" example="Google Talk">%s</xliff:g> uygulaması tarafından kullanılıyor.</string>
   <string name="sip_edit_title">SIP hesap detayları</string>
   <string name="sip_edit_new_title">SIP hesap detayları</string>
   <string name="domain_address_title">Sunucu</string>
@@ -568,7 +568,7 @@
   <string name="optional_summary">&lt; İsteğe bağlı &gt;</string>
   <string name="advanced_settings_show">▷ Tümünü göstermek için dokunun</string>
   <string name="advanced_settings_hide">▽ Tümünü gizlemek için dokunun</string>
-  <string name="empty_alert"><xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> gereklidir ve boş bırakılamaz.</string>
+  <string name="empty_alert"><xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g>gereklidir ve boş bırakılamaz.</string>
   <string name="not_a_valid_port">Port numarası 1000 ile 65534 arasında olmalıdır.</string>
   <string name="no_internet_available_title">İnternet bağlantısı yok</string>
   <string name="no_wifi_available_title">Wi-Fi bağlantısı yok</string>
@@ -589,7 +589,7 @@
   <string name="respond_via_sms_setting_title_2">Çabuk cevapları düzenle</string>
   <string name="respond_via_sms_edittext_dialog_title">Çabuk cevap</string>
   <string name="respond_via_sms_menu_reset_default_activity">Varsayılan uygulamayı sıfırla</string>
-  <string name="respond_via_sms_confirmation_format"><xliff:g id="phone_number">%s</xliff:g> kişiye mesaj gönderildi.</string>
+  <string name="respond_via_sms_confirmation_format"><xliff:g id="phone_number">%s</xliff:g>kişiye mesaj gönderildi.</string>
   <string name="description_image_button_one">bir</string>
   <string name="description_image_button_two">iki</string>
   <string name="description_image_button_three">üç</string>
@@ -616,13 +616,13 @@
   <string name="description_direction_up_left">Yukarı sol</string>
   <string name="description_direction_down_left">Aşağı sol</string>
   <string name="description_direction_down_right">Aşağı sağ</string>
-  <string name="description_direction_up"><xliff:g id="target_description" example="Unlock">%s</xliff:g> için yukarı kaydır.</string>
-  <string name="description_direction_left"><xliff:g id="target_description" example="Unlock">%s</xliff:g> için sola kaydır.</string>
+  <string name="description_direction_up"><xliff:g id="target_description" example="Unlock">%s</xliff:g>için yukarı kaydır.</string>
+  <string name="description_direction_left"><xliff:g id="target_description" example="Unlock">%s</xliff:g>için sola kaydır.</string>
   <string name="description_direction_right"><xliff:g id="target_description" example="Unlock"> %s </xliff:g> için sağa kaydır.</string>
   <string name="voicemail_notification_vibrate_when_title" msgid="8731372580674292759">Titreşim</string>
   <string name="voicemail_notification_vibarte_when_dialog_title" msgid="8995274609647451109">Titreşim</string>
   <string name="voicemail_notification_ringtone_title">Ses</string>
-  <string name="default_notification_description">Varsayılan ses (<xliff:g id="default_sound_title">%1$s</xliff:g>)</string>
+  <string name="default_notification_description">Varsayılan ses(<xliff:g id="default_sound_title">%1$s</xliff:g>)</string>
   <string name="ringtone_title" msgid="5379026328015343686">Telefon zil sesi</string>
   <string name="vibrate_on_ring_title">Zil sesi çalarken titret</string>
   <string name="dtmf_tone_enable_title">Tuş takımı dokunma sesleri</string>
