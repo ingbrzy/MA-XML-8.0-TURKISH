@@ -5,13 +5,13 @@
   <string name="fw_blocked">Engelleme Listesi</string>
   <string name="fw_blocked_count">"Engellenen "</string>
   <string name="fw_blocked_count_call">"<xliff:g id="opt">%d</xliff:g>arama"</string>
-  <string name="fw_blocked_count_sms">" ve <xliff:g id="opt">%d</xliff:g> mesaj"</string>
+  <string name="fw_blocked_count_sms">" ve <xliff:g id="opt">%d</xliff:g>mesaj"</string>
   <string name="tab_title">Engelleme listesi</string>
   <string name="tab_block_log">Geçmiş</string>
   <string name="tab_blacklist">Engelleme listesi</string>
   <string name="tab_sms">Mesajlar</string>
   <string name="tab_call">Çağrılar</string>
-  <string name="bl_block_info">Engellenen çağrılar: <xliff:g id="tel_count">%d</xliff:g> "|" SMS: <xliff:g id="ms_count">%d</xliff:g></string>
+  <string name="bl_block_info">Engellenen çağrılar:<xliff:g id="tel_count">%d</xliff:g> "|"SMS:<xliff:g id="ms_count">%d</xliff:g></string>
   <string name="bl_no_block_call">Engellenen çağrı yok</string>
   <string name="bl_no_block_sms">Engellenen mesaj yok</string>
   <string name="bl_no_blacklist">Engellenen numara yok</string>
@@ -44,7 +44,7 @@
   <string name="dlg_no_block_ok">Engeli kaldır</string>
   <string name="dlg_add_blacklist">Bu numarayı engellemek istiyor musunuz?</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Dikkatli</string>
-  <string name="dlg_add_blacklist_warn_conflict_content"><xliff:g id="tel">%1$s</xliff:g>ve <xliff:g id="tel_count">%2$s</xliff:g>diğer kayıtlı kullanıcılar zaten istisnalar listenizde.</string>
+  <string name="dlg_add_blacklist_warn_conflict_content"><xliff:g id="tel">%1$s</xliff:g>ve<xliff:g id="tel_count">%2$s</xliff:g>diğer kayıtlı kullanıcılar zaten istisnalar listenizde.</string>
   <string name="dlg_remove_blacklist">Bu numaranın engellenmesi kaldırılsın mı?</string>
   <string name="dlg_remove_whitelist">Bu numaraları istisnalar listesinden çıkart?</string>
   <string name="dlg_remove_address_blacklist">Bu konum Engelleme listesinden kaldırılsın ve ilgili mesajlar gelen kutusuna taşınsın mı?</string>
