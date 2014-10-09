@@ -34,7 +34,7 @@
   <string name="pref_privacy_clear_history_by_group_dlg">Tarayıcı geçmişini sil?</string>
   <string name="edit">Düzenle</string>
   <string name="delete">Sil</string>
-  <string name="delete_multi_bookmarks_alert_title"><xliff:g id="number">%1$s</xliff:g>öğeyi sil?</string>
+  <string name="delete_multi_bookmarks_alert_title">%1$s öğeyi sil?</string>
   <string name="add_bookmark">Yer İmlerine Ekle</string>
   <string name="send_bookmark_to_home_screen">Ana ekrana yerleştir</string>
   <string name="bookmark_title">Yer imi ismi</string>
@@ -62,10 +62,6 @@
   <string name="tab_yellowpage">Popüler</string>
   <string name="tab_quicklinks">Kullanışlı</string>
   <string name="pref_content_night_read_mode">Gece Modu</string>
-  <string-array name="pref_homepage_choices">
-    <item>Varsayılan açılış sayfası</item>
-    <item>Özel</item>
-  </string-array>
   <string name="general_set_default_browser_title">Varsayılan tarayıcıyı ayarla</string>
   <string name="general_set_default_browser_dialog_summary">En iyi performans için MIUI uyumlu uygulamaları kullanın</string>
   <string name="general_set_default_browser_dialog_close_txt">Kapat</string>
@@ -79,12 +75,6 @@
   <string name="pref_extras_reset_default_dlg">Ayarlar varsayılan değerlere geri yüklensin mi?</string>
   <string name="pref_ua_title">Kullanıcı Ajanı Yönetimi</string>
   <string name="pref_ua_string">Kullanıcı Ajanı</string>
-  <string-array name="pref_ua_choices">
-    <item>Android</item>
-    <item>Masaüstü</item>
-    <item>iPhone</item>
-    <item>iPad</item>
-  </string-array>
   <string name="pref_ua_mione_entry">MiOne</string>
   <string name="pref_content_search_engine">Varsayılan arama motoru</string>
   <string name="pref_reading_mode_enabled_title">Okuma Modu</string>
@@ -93,17 +83,9 @@
   <string name="pref_key_title">Tuş Ayarları</string>
   <string name="pref_volume_key_enabled">Ses Tuşları</string>
   <string name="pref_volume_key_operation">Ses tuşları fonksiyonu</string>
-  <string-array name="pref_volume_key_choices">
-    <item>Önceki Sayfa/Sonraki Sayfa</item>
-    <item>Önceki Sekme/Sonraki Sekme</item>
-  </string-array>
   <string name="pref_gesture_title">El Hareketleri</string>
   <string name="pref_fling_on_border_enabled">Ekran kenarından kaydır</string>
   <string name="pref_fling_on_border_enabled_title_summary">Sekmeler arasında geçiş için ekranın sağından veya solundan kaydır</string>
-  <string-array name="pref_fling_on_border_choices">
-    <item>Sayfa İleri/Geri</item>
-    <item>Pencereler arası geçiş yap</item>
-  </string-array>
   <string name="is_page_top">Sayfanın en üstündesiniz</string>
   <string name="is_page_bottom">Sayfanın en altına ulaştınız</string>
   <string name="is_first_tab">Bu ilk sekme</string>
@@ -120,7 +102,7 @@
   <string name="pref_clear_cache_for_exit">Çıkışla beraber önbelleği temizle</string>
   <string name="pref_clear_history_for_exit">Çıkışla beraber geçmişi temizle</string>
   <string name="recover">Kurtar</string>
-  <string name="pref_autologin_progress_in_background">\" <xliff:g>%s</xliff:g>kullanılarak arkaplanda Google sitelerine oturum açılıyor</string>
+  <string name="pref_autologin_progress_in_background"> %s kullanılarak arkaplanda Google sitelerine oturum açılıyor</string>
   <string name="menu_enable_night_mode">Gece Modunu Etkinleştir </string>
   <string name="menu_disable_night_mode">Gece Modunu Kapat</string>
   <string name="search_cancel">İptal</string>
@@ -143,11 +125,6 @@
   <string name="url_copy_done">"URL panoya kopyalandı."</string>
   <string name="empty_history">Geçmiş yok.</string>
   <string name="pref_setting_title">Sayfa ayarları</string>
-  <string-array name="pref_default_zoom_choices">
-    <item>Küçük</item>
-    <item>Orta</item>
-    <item>Büyük</item>
-  </string-array>
   <string name="pref_general_setting_title">"Ayarlar"</string>
   <string name="pref_extras_website_settings">Web Sayfası bilgisi</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Bu site konum bilgilerinize erişebilir. Bunu, Ayarlar &gt; Gelişmiş &gt; Web sitesi ekranından değiştirin.</string>
@@ -157,16 +134,11 @@
   <string name="pref_images_preload_summary">": Tarayıcının sunucusu tarafından desteklenen görüntülerin özyüklemesine izin verir"</string>
   <string name="pref_images_preload_title">Resimleri Önyükleme</string>
   <string name="pref_images_preload_dialogtitle">Resimleri Önyükleme</string>
-  <string-array name="pref_images_preload_choices">
-    <item>Asla</item>
-    <item>Sadece Wi-Fi ile</item>
-    <item>Her Zaman</item>
-  </string-array>
   <string name="pref_images_preload_value_never_summary">Asla resimleri önyükleme</string>
   <string name="pref_images_preload_value_wifi_only_summary">Tarayıcıya Wi-Fi bağlantısı olduğunda görüntüleri önyükleme izni ver</string>
   <string name="pref_images_preload_value_always_summary">Tarayıcıya görüntüleri önyükleme izni ver</string>
   <string name="pref_link_prefetch_value_never_summary">"Önyükleme görüntülerine asla izin verme"</string>
-  <string name="pref_data_title" msgid="7255058703417796578">"Bant genişliği yönetimi"</string>
+  <string name="pref_data_title">"Bant genişliği yönetimi"</string>
   <string name="pref_save_bandwidth_mode_title">"Veri kullanımını azalt"</string>
   <string name="pref_save_bandwidth_mode_summary">"Etkinleştirildiğinde tarayıcı, dosyaları ve web sitelerini indirmek için mobil veri servisini kullanmaz"</string>
   <string name="menu_enable_save_bandwidth_mode">"Veri kullanımını azalt"</string>
@@ -235,10 +207,10 @@
   <string name="download_dialog_file_length_nolength_error_txt">"İndirme hatası"</string>
   <string name="download_dialog_file_length_lessthan1kb">"1K'dan küçük"</string>
   <string name="download_dialog_default_path_invalid">"İndirme yolu geçersiz, varsayılan indirme yolunu kullanın"</string>
-  <string name="modify_download_path_no_sdcard_dlg_msg" product="nosdcard">Bu yolu değiştirmek için USB depolama gerekiyor</string>
-  <string name="modify_download_path_no_sdcard_dlg_msg" product="default">Bu yolu değiştirmek için SD kart gerekiyor</string>
-  <string name="geolocation_permissions_prompt_toast_disallowed" msgid="156443445797377409">"Bu site konumunuza ulaşamıyor"</string>
-  <string name="pref_content_homepage" msgid="3324574611613105696">"Açılış sayfasını ayarla"</string>
+  <string name="modify_download_path_no_sdcard_dlg_msg">Bu yolu değiştirmek için USB depolama gerekiyor</string>
+  <string name="modify_download_path_no_sdcard_dlg_msg">Bu yolu değiştirmek için SD kart gerekiyor</string>
+  <string name="geolocation_permissions_prompt_toast_disallowed">"Bu site konumunuza ulaşamıyor"</string>
+  <string name="pref_content_homepage">"Açılış sayfasını ayarla"</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Kapatmak için yukarı kaydır</string>
   <string name="bottom_bar_tabs_long_click_down_tip_txt">kapatmak için aşağı kaydır</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Bu Son Sekme</string>
@@ -270,7 +242,7 @@
   <string name="add_to_desk_success">Masaüstüne başarılı şekilde gönderildi</string>
   <string name="save_image_success">"Görüntü kaydı başarılı"</string>
   <string name="save_image_failed">"Görüntü kaydı başarısız"</string>
-  <string name="pref_version_summary">Versiyon:<xliff:g>%s</xliff:g></string>
+  <string name="pref_version_summary">Versiyon:%s</string>
   <string name="pref_category_title_version">Versiyon</string>
   <string name="js_disable_confirm_title">JavaScript\'i devre dışı bırak?</string>
   <string name="js_disable_confirm_message">JavaScript\'i devre dışı bırakmak bazı sitelerin hatalı gösterilmesine neden olabilir</string>
@@ -285,9 +257,6 @@
   <string name="url_suggest_indicator_hoturl">Popüler</string>
   <string name="url_suggest_indicator_bookmark">Yer imleri/Geçmiş</string>
   <string name="url_suggest_indicator_mostvisited">Sık kullanılanlar</string>
-  <plurals name="v5_edit_mode_title">
-    <item quantity="other">"%1$d öğe seçildi"</item>
-  </plurals>
   <string name="v5_select_all">Tümünü seç</string>
   <string name="v5_deselect_all">Hiçbirini seçme</string>
   <string name="v5_edit_mode_title_empty">0 Seçili</string>
@@ -330,13 +299,6 @@
   <string name="pref_clear_data_title">Verileri temizle</string>
   <string name="pref_clear_all_data_title">Tümünü temizle</string>
   <string name="pref_clear_all_data_dlg">Yukarıdaki tüm kaydedilen veriler silinsin mi?</string>
-  <string-array name="pref_text_zoom_choices">
-    <item>Çok Küçük</item>
-    <item>Küçük</item>
-    <item>Normal</item>
-    <item>Büyük</item>
-    <item>Çok Büyük</item>
-  </string-array>
   <string name="pref_content_cloud_speedup">Vekil sunucu kullanarak içeriği daha hızlı yükleyin</string>
   <string name="adjust_text_zoom_toast">Metin yakınlaştırma ayarlarını değiştirmek bazı web sitelerinin hatalı görüntülenmesine sebep olabilir</string>
   <string name="pref_file_download_default_path_prefix">Varsayılan yol: %s</string>
@@ -347,7 +309,7 @@
   <string name="new_folder_name_lable">Grup ismi</string>
   <string name="bookmark_rename_group">Grubu yeniden adlandır</string>
   <string name="remove_bookmark_group">Grubu Sil</string>
-  <string name="delete_bookmark_group_warning">\"<xliff:g id="bookmark"> %s </xliff:g>\"silinsin mi? Bu gruptaki tüm yer imleri de silinecektir.</string>
+  <string name="delete_bookmark_group_warning">\" %s \"silinsin mi? Bu gruptaki tüm yer imleri de silinecektir.</string>
   <string name="bookmark_title_lable">Başlık</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_group_lable">Grup</string>
@@ -375,4 +337,129 @@
   <string name="router_download_failed">İndirirken hata oluştu</string>
   <string name="router_download_exist">İndirme dosyası zaten mevcut</string>
   <string name="select_download_device">Bir cihaz seçin</string>
+    <string name="webapp_app_name">Light Web Apps Store</string>
+  <string name="webapp_dialog_title">Masaüstüne uygulama ekle</string>
+  <string name="webapp_add_to_desktop">Masaüstüne Ekle</string>
+  <string name="webapp_addtodeskpop_append">Eklendi</string>
+  <string name="webapp_add_to_favorite_toast">Favori listesinin üstüne ekle</string>
+  <string name="webapp_webapp_favortes_title">Favorilerim</string>
+  <string name="dialog_geolocation_reject">Reddet</string>
+  <string name="dialog_geolocation_share">Onayla</string>
+  <string name="webapp_menu_addtodesk">Masaüstüne Ekle</string>
+  <string name="webapp_menu_already_addtodesk">Zaten eklenmiş</string>
+  <string name="webapp_menu_share">Paylaş</string>
+  <string name="webapp_menu_settings">Ayarlar</string>
+  <string name="webapp_menu_nightmode">Gece Modu</string>
+  <string name="webapp_menu_favorites">Favorilerim</string>
+  <string name="webapp_menu_exit">Çıkış</string>
+  <string name="webapp_settings_title">Ayarlar</string>
+  <string name="pref_webapp_settings_fontsize">Yazı boyutu</string>
+  <string name="pref_webapp_settings_savewidth">"2G/3G de resimleri indirme"</string>
+  <string name="pref_webapp_settings_hidebottombar">Her zaman alt çubuğu gizle</string>
+    <string name="menu_theme_setting"> Tema Ayarları </string>
+  <string name="menu_hv_swap"> Yatay ekrana geç </string>
+  <string name="menu_addtodesk"> Ana ekrana yerleştir </string>
+  <string name="menu_nightmode">Gece modu</string>
+  <string name="menu_exit_nightmode">Çıkış</string>
+  <string name="pref_content_auto_light_mode"> Otomatik Parlaklık </string>
+  <string name="pref_content_fontsize_setting"> Yazı karakteri ayarları </string>
+  <string name="readmode_page_loading"> Yükleniyor&#8230;</string>
+  <string name="readmode_page_load_error">"Sayfa yüklemesi başarısız. :("</string>
+  <string name="readmode_already_add_to_bookshelf">" Kitaplığa eklendi."</string>
+  <string name="readmode_login_message"> Daha fazla okumak için giriş yapmalısınız. </string>
+  <string name="readmode_pay_message"> Sonraki bölümleri okumak için ödeme yapmalısınız.</string>
+  <string name="readmode_recommend_message"> Bu kitabı zaten okudunuz. :)</string>
+  <string name="readmode_login"> Giriş Yap </string>
+  <string name="readmode_pay"> Bölümü satın al </string>
+  <string name="readmode_recommend"> Tavsiye edilenleri görüntüle </string>
+  <string name="readmode_refresh"> Yenile </string>
+  <string name="readmode_battery"> Batarya  </string>
+    <string name="miui_search_notification_title">Arama</string>
+  <string name="miui_search_notification_message">Arama Çubuğunu açmak için dokunun.</string>
+  <string name="miui_quicksearch_enable_pref_title">Arama çubuğu bildirim bölümünde</string>
+  <string name="miui_quicksearch_enable_pref_summary">Tarayıcı arama çubuğunu her zaman bildirim çubuğunda göster</string>
+   <string name="actionbar_share">"Paylaş"</string>
+  <string name="actionbar_web_search">"Ara"</string>
+  <string name="accessibility_content_view">"Sayfa görünümü"</string>
+  <string name="date_picker_dialog_set">"Ayarla"</string>
+  <string name="date_picker_dialog_clear">"Temizle"</string>
+  <string name="date_picker_dialog_title">"Tarihi ayarla"</string>
+  <string name="date_time_picker_dialog_title">"Tarih ve zaman ayarı"</string>
+  <string name="time_picker_dialog_title">"Saati ayarla"</string>
+  <string name="time_picker_dialog_am">"AM"</string>
+  <string name="time_picker_dialog_pm">"PM"</string>
+  <string name="time_picker_dialog_hour_minute_separator">":"</string>
+  <string name="time_picker_dialog_minute_second_separator">":"</string>
+  <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+  <string name="month_picker_dialog_title">"Ayı ayarla"</string>
+  <string name="week_picker_dialog_title">"Hafta ayarla"</string>
+  <string name="accessibility_datetime_picker_date">"Tarih"</string>
+  <string name="accessibility_datetime_picker_time">"Zaman"</string>
+  <string name="accessibility_date_picker_month">"Ay"</string>
+  <string name="accessibility_date_picker_week">"Hafta"</string>
+  <string name="accessibility_date_picker_year">"Yıl"</string>
+  <string name="accessibility_time_picker_hour">"Saat"</string>
+  <string name="accessibility_time_picker_minute">"Dakika"</string>
+  <string name="accessibility_time_picker_second">"Saniye"</string>
+  <string name="accessibility_time_picker_milli">"Sanise"</string>
+  <string name="accessibility_time_picker_ampm">"AM/PM"</string>
+  <string name="media_player_error_title">"Oynatılamıyor"</string>
+  <string name="media_player_error_text_invalid_progressive_playback">"Üzgünüz, video akışı yapılamaz"</string>
+  <string name="media_player_error_text_unknown">"Üzgünüz, Bu video oynatılamaz."</string>
+  <string name="media_player_error_button">"Tamam"</string>
+  <string name="media_player_loading_video">"Video Yükleniyor"</string>
+  <string name="profiler_started_toast">"Profiler başladı"</string>
+  <string name="profiler_stopped_toast">"Profiler sonuçlandı. Sonuçlar %1$s."</string>
+  <string name="profiler_no_storage_toast">"Profiler başlatılamıyor çünkü harici depolama hazır değil"</string>
+  <string name="profiler_error_toast">"Profiler başlatılamadı"</string>
+  <string name="low_memory_error">"Düşük bellek nedeniyle önceki işlemi tamamlanamıyor"</string>
+  <string name="opening_file_error">"Dosya açılamadı"</string>
+  <string name="color_picker_button_more">"Daha"</string>
+  <string name="color_picker_hue">"Hue"</string>
+  <string name="color_picker_saturation">"Doygunluk"</string>
+  <string name="color_picker_value">"Değer"</string>
+  <string name="color_picker_button_set">"Ayarla"</string>
+  <string name="color_picker_button_cancel">"İptal"</string>
+  <string name="color_picker_dialog_title">"Renk seç"</string>
+  <string name="color_picker_button_red">"Kırmızı"</string>
+  <string name="color_picker_button_cyan">"Cyan"</string>
+  <string name="color_picker_button_blue">"Mavi"</string>
+  <string name="color_picker_button_green">"Yeşil"</string>
+  <string name="color_picker_button_magenta">"Magenta"</string>
+  <string name="color_picker_button_yellow">"Sarı"</string>
+  <string name="color_picker_button_black">"Siyah"</string>
+  <string name="color_picker_button_white">"Beyaz"</string>
+  <string name="miui_content_select">Seç</string>
+  <string name="miui_content_select_all">Tümünü seç</string>
+  <string name="miui_content_cut">Kes</string>
+  <string name="miui_content_copy">Kopyala</string>
+  <string name="miui_content_paste">Yapıştır</string>
+  <string name="miui_content_web_search">Ara</string>
+  <string name="miui_content_share">Paylaş</string>
+  <string name="miuichromium_default_text_encoding">Latin-1</string>
+  <string name="miuichromium_save_password_message">Şifre hatırlansın mı?</string>
+  <string name="miuichromium_save_password_notnow">Şimdi değil</string>
+  <string name="miuichromium_save_password_remember">Hatırla</string>
+  <string name="miuichromium_save_password_never">Asla</string>
+  <string name="webview_js_dialog_before_unload_title">Onayla</string>
+  <string name="webview_js_dialog_before_unload_positive_button">Bu sayfadan ayrıl</string>
+  <string name="webview_js_dialog_before_unload_negative_button">Bu sayfada kal</string>
+  <string name="webview_js_dialog_before_unload">%s Bu sayfadan ayrılmak istiyor musunuz?</string>
+  <string name="webview_ok">Tamam</string>
+  <string name="webview_cancel">İptal</string>
+  <string name="webview_js_dialog_title">Sayfa \" %s\" şunu söylüyor:</string>
+  <string name="webview_js_dialog_title_default">JavaScript</string>
+  <string name="webview_no_matches">Hiçbir şey bulunamadı</string>
+  <string name="webview_find_on_page">Sayfada bul</string>
+  <string name="webview_last_month">Geçen ay</string>
+  <string name="webview_older">Eski</string>
+  <string name="date_picker_dialog_other_button_label">"Diğer"</string>
+  <string name="copy_to_clipboard_failure_message">"Panoya kopyalama başarısız"</string>
+  <string name="miuichromium_error_page_title">Sayfada bulunamadı</string>
+  <string name="miuichromium_error_page_reason_network">URL\'yi görüntüle</string>
+  <string name="miuichromium_error_page_mobile">Mobil ağ</string>
+  <string name="miuichromium_error_page_wlan">Wi-Fi ayarları</string>
+  <string name="miuichromium_error_page_reason_server">Tarayıcı bu sayfayı yükleyemedi</string>
+  <string name="miuichromium_error_page_reload">Yenile</string>
+  <string name="miuichromium_error_page_url">Sayfa URL\'sini görüntüle</string>
 </resources>
