@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-
 <resources>
   <string name="launcherDialer">Telefon</string>
   <string name="people">Rehber</string>
@@ -807,10 +805,6 @@
   <string name="prepare_import">içe aktarımı hazırla</string>
   <string name="device_import_message">İçe aktarılıyor</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth bağlantısı kesildi</string>
-  <plurals name="device_import_done_toast">
-    <item quantity="other">%1$d kişi aktarıldı
-%1$d kişi aktarıldı</item>
-  </plurals>
   <string name="device_import_progress_toast">%1$d kişi içe aktarıldı</string>
   <string name="no_contact_in_other_phone">Kişi tespit edilmedi</string>
   <string name="sina_weibo">Sina Weibo</string>
@@ -864,7 +858,7 @@
   <string name="accessibility_calllog_detail">Arama kaydı detayları</string>
   <string name="select_groups">Grupları seç</string>
   <string name="sim_capacity">Sim Kart Kapasitesini Görüntüle</string>
-  <string name="sim_capacity_content">Toplam kapasite:%d, Kullanımda olan: %d</string>
+  <string name="sim_capacity_content" formatted="false">Toplam kapasite:%d, Kullanımda olan: %d</string>
   <string name="sim_contact_existing">Sim kişisi zaten mevcut.</string>
   <string name="sim_contact_invalid">Geçersiz SIM Kişisi</string>
   <string name="sim_error_generic_failure">Genel SIM Hatası</string>
