@@ -69,10 +69,10 @@
   <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
   <string name="default_lockscreen_unlock_hint_text">KİLİDİ AÇMAK İÇİN YUKARI KAYDIRIN</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">
-  Şifrenizi%d defa yanlış girdiniz.%d başarısız deneme daha yaparsanız, telefonunuzu bir hesap kullanarak açmanız istenecek.%d saniye sonra tekrar deneyin.
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">
+  Şifrenizi %d defa yanlış girdiniz.%d başarısız deneme daha yaparsanız, telefonunuzu bir hesap kullanarak açmanız istenecek.%d saniye sonra tekrar deneyin.
   </string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe">
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">
        Telefonunuzu açmak için gerekli olan şifreyi %d defa yanlış girdiniz. %d başarısız deneme daha yaparsanız, Telefon fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri kaybolacak.
   </string>
   <string name="lockscreen_failed_attempts_now_wiping">
