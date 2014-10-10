@@ -541,7 +541,7 @@
   <string name="wifi_priority_type_summary">Elle her bir erişim noktası için önceliği belirleyin</string>
   <string name="wifi_priority_settings_title">AP öncelik ayarları</string>
   <string name="wifi_priority_settings_summary">Her erişim noktası için öncelik ayarlamak için dokunun</string>
-  <string name="wifi_priority_changed">Eski öncelik değeri =%s "|" Yeni değer = %s</string>
+  <string name="wifi_priority_changed" formatted="false">Eski öncelik değeri =%s "|" Yeni değer = %s</string>
   <string name="wifi_configured_ap_list">Önceden yapılandırılmış APler</string>
   <string name="wifi_priority_label">Öncelik</string>
   <string name="wifi_available_title">Wi-Fi ağına bağlan</string>
