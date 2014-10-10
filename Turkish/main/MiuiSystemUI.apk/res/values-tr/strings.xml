@@ -1,6 +1,6 @@
   <?xml version="1.0" encoding="utf-8"?>
 <resources >
-  <string name="accessibility_airplane_mode">Airplane mode.</string>
+<string name="accessibility_airplane_mode">Airplane mode.</string>
 <string name="accessibility_back">Back</string>
 <string name="accessibility_battery_level">Battery %d percent.</string>
 <string name="accessibility_bluetooth_connected">Bluetooth connected.</string>
@@ -52,7 +52,6 @@
 <string name="battery_low_title">Lütfen şarj cihazını bağlayın</string>
 <string name="battery_low_why">Pil kullanımı</string>
 <string name="bluetooth_tethered">Bluetooth paylaşımı</string>
-
   <string name="call_status_dialing">Aranıyor</string>
   <string name="call_status_ringing">Çalıyor</string>
   <string name="camera_key_action_app_title">Uygulamayı aç</string>
@@ -67,9 +66,7 @@
   <string name="camera_key_action_shortcut_wake">Cihazı Kilitle/Uyandır</string>
   <string name="camera_key_action_toggle_title">Geçişi tetikle</string>
   <string name="chooseUsbActivity">USB cihazı için uygulama seçin</string>
-  
-
-<string name="data_usage_disabled_dialog">"Belirtilen Mobil Veri limitine ulaştınız!"</string>
+  <string name="data_usage_disabled_dialog">"Belirtilen Mobil Veri limitine ulaştınız!"</string>
 <string name="data_usage_disabled_dialog_3g_title">2G-3G veri kapalı</string>
 <string name="data_usage_disabled_dialog_4g_title">4G veri kapalı</string>
 <string name="data_usage_disabled_dialog_enable">Mobil veriyi tekrar aç</string>
@@ -86,35 +83,24 @@
   <string name="drive_mode_tip">"Sürüş modundasınız"</string>
   <string name="ext_media_badremoval_notification_message">Veri kaybını önlemek için SD kartı çıkarmadan önce bağlantısını kesin.</string>
   <string name="ext_media_badremoval_notification_message">Veri kaybını önlemek için USB depolamayı çıkarmadan önce bağlantısını kesin.</string>
-  <string name="ext_media_badremoval_notification_title">SD kart beklenmedik bir şekilde çıkartıldı</string>
   <string name="ext_media_badremoval_notification_title">USB depolama beklenmedik bir şekilde çıkartıldı</string>
   <string name="ext_media_checking_notification_message">Hatalar kontrol ediliyor.</string>
-  <string name="ext_media_checking_notification_title">SD kart hazırlanıyor</string>
   <string name="ext_media_checking_notification_title">USB depolama hazırlanıyor</string>
   <string name="ext_media_mountable_notification_message">"'Dosyalara git' e dokunun"</string>
   <string name="ext_media_mountable_notification_title">"USB depolama cihazı bağlandı"</string>
-  <string name="ext_media_nofs_notification_message">SD kart boş ya da  desteklenmeyen dosya sistemi içeriyor.</string>
   <string name="ext_media_nofs_notification_message">USB depolama boş ya da  desteklenmeyen dosya sistemi içeriyor.</string>
-  <string name="ext_media_nofs_notification_title">Boş SD kart</string>
   <string name="ext_media_nofs_notification_title">Boş USB depolama</string>
-  <string name="ext_media_nomedia_notification_message">SD kart çıkartıldı. Yeni bir tane yerleştirin.</string>
   <string name="ext_media_nomedia_notification_message">USB depolama çıkartıldı. Yeni medya yerleştirin.</string>
-  <string name="ext_media_nomedia_notification_title">SD kart çıkartıldı</string>
   <string name="ext_media_nomedia_notification_title">USB depolama çıkartıldı</string>
   <string name="ext_media_safe_remove">"Güvenlice çıkart"</string>
-  <string name="ext_media_safe_unmount_notification_message">SD kartı güvenlice çıkartabilirsiniz.</string>
   <string name="ext_media_safe_unmount_notification_message">USB depolomayı güvenlice çıkartabilirsiniz.</string>
-  <string name="ext_media_safe_unmount_notification_title">SD kart güvenlice çıkartılabilir</string>
   <string name="ext_media_safe_unmount_notification_title">USB depolama cihazı güvenlice çıkartılabilir</string>
-  <string name="ext_media_unmountable_notification_message">SD Kart zarar görmüş. Format atmayı deneyebilirsiniz.</string>
   <string name="ext_media_unmountable_notification_message">USB Depolama zarar görmüş. Format atmayı deneyebilirsiniz.</string>
-  <string name="ext_media_unmountable_notification_title">SD kart zarar görmüş</string>
   <string name="ext_media_unmountable_notification_title">USB Depolama zarar görmüş</string>
   <string name="headset_custom">"Yapılandır"</string>
   <string name="headset_info">"Ayarları yapılandırmak için dokunun"</string>
   <string name="headset_settings">"Kulaklık bağlandı"</string>
-  
- <string name="hint_for_long_press_app_switch_key">Menüyü görmek için uzun basın</string>
+   <string name="hint_for_long_press_app_switch_key">Menüyü görmek için uzun basın</string>
 <string name="invalid_charger">"USB şarj desteklenmiyor.
 Herzaman orjinal aksesuar kullanın."</string>
 <string name="label_view">Gözat</string>
@@ -213,7 +199,6 @@ Herzaman orjinal aksesuar kullanın."</string>
 <string name="torch_activity_name">El Feneri</string>
 <string name="torch_closed">El Feneri kapalı</string>
 <string name="torch_opened">El Feneri açık</string>
-
 <string name="usb_debugging_always">Bu bilgisayara herzaman izin ver.</string>
 <string name="usb_debugging_message">"Bilgisayarın RSA anahtarı:
 %1$s"</string>
@@ -221,7 +206,6 @@ Herzaman orjinal aksesuar kullanın."</string>
 <string name="usb_device_confirm_prompt">USB cihaz bağlanınca %1$s açılsın mı ?</string>
 <string name="usb_device_permission_prompt">%1$s uygulamasının USB cihaza bağlanmasına izin verilsin mi?</string>
 <string name="usb_mode_dont_ask">"Tekrar sorma"</string>
-
   <string name="usb_mode_mount_storage_title">USB Depolama açılsın mı?</string>
   <string name="usb_mode_notification">USB Depolama</string>
   <string name="usb_mtp_text">Dosyalar</string>
@@ -235,11 +219,9 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="usb_share_net_info">Bilgisayarın internet bağlantısını kullan</string>
   <string name="usb_storage_error_message">SD kartınızla ile ilgili bir problem var.</string>
   <string name="usb_storage_error_message">Cihazınızı USB yığın depolama olarak görüntülemeye çalışırken bir hata oluştu.</string>
-  <string name="usb_storage_message">Bilgisayarınıza USB üzerinden bağlısınız. Bilgisayarınız ve Android SD kart arasında dosya kopyalamak istiyorsanız aşağıdaki butona dokunun.</string>
   <string name="usb_storage_message">Bilgisayarınıza USB üzerinden bağlısınız. Bilgisayarınız ve Android USB depolama arasında dosya kopyalamak istiyorsanız aşağıdaki butona dokunun.</string>
   <string name="usb_storage_notification_message">Kopyalanacak dosyaları seçin.</string>
   <string name="usb_storage_notification_title">USB bağlandı</string>
-  <string name="usb_storage_stop_message">USB depolamayı kapatmadan önce telefonunuzun bilgisayarla bağlantısının güvenli bir şekilde kaldırıldığından emin olun.</string>
   <string name="usb_storage_stop_message">USB depolamayı kapatmadan önce telefonunuzun bilgisayarla bağlantısının güvenli bir şekilde kaldırıldığından emin olun.</string>
   <string name="usb_storage_stop_notification_message">USB depolamayı kapatmak için seçin.</string>
   <string name="usb_storage_stop_notification_title">USB depolamayı kapat</string>
