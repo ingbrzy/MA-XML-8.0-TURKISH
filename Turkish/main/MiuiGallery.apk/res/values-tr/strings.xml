@@ -24,7 +24,7 @@
   <string name="action_fail_unknown_error">Tanımlanamayan bir hata oluştu</string>
   <string name="add_to_cloud_fail_too_many_items">Çok fazla öğe seçildi</string>
   <string name="comfirm_delete_current_album">Bu albüm silinsin mi?</string>
-  <string name="confirm_delete_album">%s albüm (toplam %s  öğe) silinsin mi?</string>
+  <string name="confirm_delete_album" formatted="false">%s albüm (toplam %s  öğe) silinsin mi?</string>
   <string name="confirm_delete_system_album">%s  bir sistem albümüdür.</string>
   <string name="operation_delete_confirm_message_folder">"Dosyalardaki bütün içerik silinecektir."</string>
   <string name="delete_folder">%1$d klasörü silinsin mi?</string>
