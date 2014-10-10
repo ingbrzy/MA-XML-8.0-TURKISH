@@ -96,12 +96,10 @@
   <string name="sync_only_in_wifi">Sadece Wi-Fi ile senkronize</string>
   <string name="sync_only_in_wifi_summary">Bu seçenek kapatıldığında kaydedici kayıtları indirmek veya yüklemek için mobil veri bağlantısını kullanacak</string>
   <string name="sync_records">Mi Cloud ile senkronize et</string>
-  <string name="timer_format">&lt;xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="format"&gt;%02d&lt;/xliff:g&gt;:&lt;xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="format"&gt;%02d&lt;/xliff:g&gt;</string>
   <string name="toast_file_is_downloading">Lütfen bekleyiniz, dosya indiriliyor</string>
   <string name="toast_max_record_time">Uyg: %1$s azami kayıt süresi %2$s</string>
   <string name="toast_uninstall_fileexplorer">Dosya yöneticisi yüklü değil</string>
   <string name="view_list_of_recordings">Kayıtlara gözat</string>
-  <string name="wifi_recommended_body">"&lt;xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="SIZE"&gt;%s&lt;/xliff:g&gt; indirmeye ba&amp;#351;lamak bataryan&amp;#305;z&amp;#305;n azalmas&amp;#305;na ve/veya y&amp;#252;ksek miktarda mobil veri kullan&amp;#305;ma neden olabilir.\n\nWi-Fi a&amp;#287;&amp;#305;na ba&amp;#287;l&amp;#305; oldu&amp;#287;unda ba&amp;#351;latmak i&amp;#231;in &lt;xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="QUEUE_TEXT"&gt;%s&lt;/xliff:g&gt; dokunun."</string>
   <string name="wifi_recommended_title">Trafik hatırlatıcı</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
