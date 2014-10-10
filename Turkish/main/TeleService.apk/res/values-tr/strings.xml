@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-
 <resources>
-  <string name="add">Ekle</string>
+  <string name="ContactScreen">SIM kayıtlarını ekle/düzenle</string>
+  <string name="ExportContactScreen">Kişileri SIM karta aktar</string>
   <string name="absent_num">NUMARA YOK</string>
   <string name="accessibility_call_muted">Arama sessizde.</string>
   <string name="accessibility_speakerphone_enabled">Telefon hoparlörü etkin.</string>
+  <string name="add">Ekle</string>
   <string name="addSimEntries">SIM kaydı ekle</string>
   <string name="add_button">Ekle</string>
   <string name="add_fdn_contact">Sabit arama numarası ekle</string>
@@ -31,9 +32,9 @@
   <string name="allContactdeleteSuccess">SIM karttaki tüm kayıtlar silindi</string>
   <string name="always_enable_mms">MMS\'leri her zaman al</string>
   <string name="always_enable_mms_summary">Data kapalı olsada MMS\'leri al</string>
+  <string name="answer">Cevapla</string>
   <string name="answer_and_hangup">Cevapla</string>
   <string name="answer_features_setting_category">Cevaplama ayarları</string>
-  <string name="answer">Cevapla</string>
   <string name="answer_state_setting_summary">Susturmak için çevir, yakınlık sensörü, vb ayarlar.</string>
   <string name="answer_state_setting_title">Çağrı Cevaplama Ayarları</string>
   <string name="answer_widget_dialog_title">Cevaplama hareketini seçin</string>
@@ -44,9 +45,9 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Bilinmeyen</string>
   <string name="apn_settings">Erişim Noktası Adları</string>
+  <string name="areacode_required">Alan kodu gerekli</string>
   <string name="areacode_required_accept">Tamam</string>
   <string name="areacode_required_for_emergency_number">Acil aramalarda alan kodu gerekir.</string>
-  <string name="areacode_required">Alan kodu gerekli</string>
   <string name="atr_disable">Alan trafik raporları kapalı</string>
   <string name="atr_enable">Alan trafik raporları açık</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -86,8 +87,8 @@
   <string name="auto_record_scenario_title">Otomatik ses kayıt modu</string>
   <string name="auto_record_whitelist">Seçilen numarayı ayarla</string>
   <string name="auto_record_whitelist_no_item">Otomatik kayıt numaraları eklemek için alt tuşa tıklayın</string>
-  <string name="auto_record_whitelist_summary_for_one">1</string>
   <string name="auto_record_whitelist_summary">%d numara</string>
+  <string name="auto_record_whitelist_summary_for_one">1</string>
   <string name="auto_record_yellowpage">Sarı Sayfalar</string>
   <string name="auto_redial_pref_summary">Hat meşgul ise tekrar ara</string>
   <string name="auto_redial_pref_title">Otomatik tekrar arama</string>
@@ -99,10 +100,10 @@
   <string name="badPin">Girilen eski PIN kodu doğru değil.</string>
   <string name="badPin2">Girilen eski PIN2 kodu doğru değil.</string>
   <string name="badPuk2">Girilen eski PUK kodu doğru değil.</string>
-  <string name="bad_pin2">Girilen eski PIN2 kodu doğru değil.</string>
   <string name="bad_pin">Girilen eski PIN kodu doğru değil.</string>
-  <string name="bad_puk2">Girilen eski PUK2 kodu doğru değil.</string>
+  <string name="bad_pin2">Girilen eski PIN2 kodu doğru değil.</string>
   <string name="bad_puk">Girilen eski PUK kodu doğru değil.</string>
+  <string name="bad_puk2">Girilen eski PUK2 kodu doğru değil.</string>
   <string name="bf_news_settings">İş ve Finans Haberleri</string>
   <string name="callFailed_cb_enabled">Arama engelleme açıkken giden arama yapamazsınız.</string>
   <string name="callFailed_congestion">Şebeke meşgul</string>
@@ -128,6 +129,7 @@
   <string name="callFailed_userBusy">Numara meşgul!</string>
   <string name="callUnanswered_forwarded">Çağrı cevaplanamadı ve yönlendirildi</string>
   <string name="call_assistant">Arama asistanı</string>
+  <string name="call_barring_sum">Çağrı Engelleme Ayarları</string>
   <string name="call_forwarding_number_hint">Numarayı gir ve yönlendir</string>
   <string name="call_forwarding_settings">Çağrı yönlendirme ayarları</string>
   <string name="call_ind_services">Bağımsız çağrı hizmetleri</string>
@@ -135,12 +137,12 @@
   <string name="call_number">Kime:</string>
   <string name="call_record_button_label">Kayıt ediliyor %s</string>
   <string name="call_record_error_access">"Ziyaretçi modunda kayıt yapılamaz"</string>
-  <string name="call_record_notification_message_low_space">Yeterli alan olmadığı için kayıt durdu,tıklayıp bakın %s.</string>
   <string name="call_record_notification_message">Tıklayıp bakın %s.</string>
+  <string name="call_record_notification_message_low_space">Yeterli alan olmadığı için kayıt durdu,tıklayıp bakın %s.</string>
   <string name="call_record_notification_message_sd_unmounted">SD kart takılmadığı için kayıt durdu.</string>
   <string name="call_record_notification_message_start_failed">Kayıt cihazı başka bir uygulama tarafından kullanılıyor!</string>
-  <string name="call_record_notification_title_error">Çağrı kaydetme hatası</string>
   <string name="call_record_notification_title">Çağrı kaydı başarılı</string>
+  <string name="call_record_notification_title_error">Çağrı kaydetme hatası</string>
   <string name="call_record_path_name_of_sdcard">SD kart</string>
   <string name="call_record_sd_error">SD kart erişim hatası!</string>
   <string name="call_record_sd_space_low">SD kartta yeterli alan yok, temizlik yapıp tekrar deneyin</string>
@@ -223,8 +225,9 @@
   <string name="cfnry_title">Cevap yoksa  yönlendir</string>
   <string name="cfu_title">Herzaman yönlendir</string>
   <string name="change_num">Güncelle</string>
-  <string name="change_pin2">PIN2 kodunu değiştir</string>
+  <string name="change_password">Engelleme şifresini değiştir</string>
   <string name="change_pin">SIM kart PIN kodunu değiştir</string>
+  <string name="change_pin2">PIN2 kodunu değiştir</string>
   <string name="clir_choices_hide_number">Numaramı gizle</string>
   <string name="clir_choices_network_default">Şebeke varsayılanı</string>
   <string name="clir_choices_show_number">Numaramı göster</string>
@@ -252,6 +255,7 @@
   <string name="confirm_delete_message_title">Bu özel atıf mesajları siler</string>
   <string name="confirm_delete_sim_entry">SIM karttaki seçilen %d kişiyi silmek istiyor musunuz?</string>
   <string name="confirm_no_countrycode_for_custom_location">Ülke kodu olmadan numara girin.</string>
+  <string name="confirm_password_label">Yeni şifreyi onaylayın</string>
   <string name="confirm_pin2_hint">Yeni PIN2 kodunu onayla</string>
   <string name="confirm_pin_hint">Yeni PIN kodunu onayla</string>
   <string name="connect_disconnect_vibrate_none">Titreşim yok</string>
@@ -290,8 +294,9 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="data_enable_summary">Mobil şebekede veri kullanımını etkinleştirir</string>
   <string name="data_enabled">Mobil Veriyi etkinleştir</string>
   <string name="deact_all_sub_not_supported">Abonelikler desteklenmiyor.</string>
-  <string name="default_contacts_countrycode_hint">Örneğin: 90</string>
+  <string name="deactivate_all">Hepsini kapat</string>
   <string name="default_contacts_countrycode">Geçerli ülke kodu</string>
+  <string name="default_contacts_countrycode_hint">Örneğin: 90</string>
   <string name="default_contacts_countrycode_sum">Kişinin ülke kodunu seçin</string>
   <string name="default_notification_description">Varsayılan Zilsesi (%1$s)</string>
   <string name="default_preference_summary">Ayarlanmadı</string>
@@ -364,6 +369,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="emergency_enable_radio_dialog_title">Acil çağrı</string>
   <string name="empty_alert">%s gerekli, boş olamaz</string>
   <string name="empty_networks_list">Şebeke bulunamadı.</string>
+  <string name="enable">Etkin</string>
   <string name="enable_antispam_strange_summary">Bilinmeyen bir numaradan gelen ilk çağrıyı sessize al</string>
   <string name="enable_antispam_strange_title">Yabancı çağrıları engelle</string>
   <string name="enable_disable_administrative">Yönetim</string>
@@ -389,7 +395,6 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="enable_fdn">FDN etkin</string>
   <string name="enable_fdn_ok">FDN devre dışı</string>
   <string name="enable_in_progress">Bekleyin…</string>
-  <string name="enable">Etkin</string>
   <string name="enable_pin">SIM kart PIN kodu Etkin/devre dışı</string>
   <string name="enable_pin_ok">SIM kart PIN kodu etkin</string>
   <string name="enable_proximity_summary">Yakınlık sensörü etkinse, konuşma sırasında ekran otomatik olarak kapatılır</string>
@@ -398,9 +403,10 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="enable_telocation_title">Bölgemi kullan</string>
   <string name="enforce_proximity_summary">Telefonunuz cebinizde veya uyku modunda ise, bu özellik yanlışlıkla arama yapılmasını engeller.</string>
   <string name="enforce_proximity_title">Yakınlık sensörünü güçlendir</string>
-  <string name="enter_input">Birşeyler girmeniz gerekiyor, tekrar deneyin!</string>
   <string name="enterName">Adı girin:</string>
   <string name="enterNumber">Telefon numarasını girin:</string>
+  <string name="enter_callbarring_password">4 haneli engelleme şifresini girin</string>
+  <string name="enter_input">Birşeyler girmeniz gerekiyor, tekrar deneyin!</string>
   <string name="enter_pin2_text">PIN2 kodu</string>
   <string name="enter_pin_text">SIM kart PIN kodu:</string>
   <string name="entertainment_news_settings">Eğlence haberleri</string>
@@ -422,6 +428,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="fdn_contact_added">Sabit arama numarası eklendi.</string>
   <string name="fdn_contact_deleted">Sabit arama numarası silindi.</string>
   <string name="fdn_contact_updated">Sabit arama numarası güncellendi.</string>
+  <string name="fdn_contacts_empty">Sabit numaralar listesinde kişi yok.</string>
   <string name="fdn_disabled">Sabit arama numaraları devre dışı</string>
   <string name="fdn_enable_puk2_requested">Şifre yanlış, PIN2 kodu Bloke oldu. PIN2 kodunu değiştirip tekrar deneyin!</string>
   <string name="fdn_enabled">Sabit arama numaraları etkin</string>
@@ -479,15 +486,19 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="invalidPin">4 veya 8 haneli PIN kodunu girin.</string>
   <string name="invalidPin2">4 veya 8 haneli PIN2 kodunu girin.</string>
   <string name="invalidPuk2">8 haneli PUK2 kodunu girin.</string>
-  <string name="invalid_new_pin2">PIN2 kodu yanlış, Tekrar girin.</string>
   <string name="invalid_new_pin">PIN kodu yanlış, Tekrar girin.</string>
-  <string name="invalid_pin2">PIN2 kodu yanlış, Tekrar girin.</string>
+  <string name="invalid_new_pin2">PIN2 kodu yanlış, Tekrar girin.</string>
+  <string name="invalid_password">Şifreyi girin</string>
   <string name="invalid_pin">PIN kodu yanlış, Tekrar girin.</string>
-  <string name="invalid_puk2">PUK2 kodu yanlış, Tekrar girin.</string>
+  <string name="invalid_pin2">PIN2 kodu yanlış, Tekrar girin.</string>
   <string name="invalid_puk">PUK kodu yanlış, Tekrar girin.</string>
+  <string name="invalid_puk2">PUK2 kodu yanlış, Tekrar girin.</string>
   <string name="ip_prefix">IP ön eki</string>
   <string name="ip_prefix_required">IP ön eki gerekli</string>
   <string name="ip_prefix_sum">"Şebekenin IP ön eki: %s"</string>
+  <string name="ivr_menu_dialing_msg">Yönlendiriliyor...</string>
+  <string name="ivr_menu_list_sub_menu_count_format">%s düğmesine basın</string>
+  <string name="ivr_menu_list_title">Anketler menüsü</string>
   <string name="jituan_number_format_error_message">%s sadece numara veya jokerler desteklenir</string>
   <string name="labelCDMAMore">CDMA çağrı ayarları</string>
   <string name="labelCF">Çağrı yönlendirme</string>
@@ -515,6 +526,14 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="label_sdp">SIM SIM PIN kodu</string>
   <string name="label_spdp">SIM servis sağlayıcı PIN kodu</string>
   <string name="label_subscription">Abonelik için</string>
+  <string name="lable_all_incoming">Tüm gelen çağrılar</string>
+  <string name="lable_all_out_except">PLMN hariç Uluslar arası çağrılar</string>
+  <string name="lable_all_outgoing">Tüm giden çağrılar</string>
+  <string name="lable_all_outgoing_international">Uluslararası çağrılar</string>
+  <string name="lable_call_barring">Çağrı engelleme</string>
+  <string name="lable_disable">Kapat</string>
+  <string name="lable_enable">Aç</string>
+  <string name="lable_incoming_calls_except">Dolaşımda Gelen çağrılar</string>
   <string name="lafs_disable">Uçuş takvimi devre dışı</string>
   <string name="lafs_enable">Uçuş takvimi etkin</string>
   <string name="list_language_dtitle">Diller</string>
@@ -553,8 +572,9 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="mhh_enable">Sağlık servisleri etkin</string>
   <string name="mismatchPin">Girdiğiniz PIN eşleşmiyor. Lütfen tekrar deneyin.</string>
   <string name="mismatchPin2">Girdiğiniz PIN2 eşleşmiyor. Lütfen tekrar deneyin.</string>
-  <string name="mismatch_pin2">Girdiğiniz PIN2 eşleşmiyor. Lütfen tekrar deneyin.</string>
+  <string name="mismatch_password">Şifreler eşleşmiyor</string>
   <string name="mismatch_pin">Girdiğiniz PIN eşleşmiyor. Lütfen tekrar deneyin.</string>
+  <string name="mismatch_pin2">Girdiğiniz PIN2 eşleşmiyor. Lütfen tekrar deneyin.</string>
   <string name="missed_call_notify_five_times">5 kez</string>
   <string name="missed_call_notify_none">Asla</string>
   <string name="missed_call_notify_once">1 kez</string>
@@ -583,6 +603,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="newPin2Label">Yeni PIN2</string>
   <string name="newPinLabel">Yeni PIN</string>
   <string name="new_cards_available">Yeni kart kullanılabilir.</string>
+  <string name="new_password_label">Yeni şifre (4 haneli)</string>
   <string name="new_pin2_hint">Yeni PIN2 kodu</string>
   <string name="new_pin_hint">Yeni PIN kodu</string>
   <string name="next">Sonraki</string>
@@ -596,6 +617,8 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="no_voip">Internet çağrısı desteklenmiyor</string>
   <string name="no_wifi_available">Internet çağrısı için Wi-Fi bağlantısı gerekiyor</string>
   <string name="no_wifi_available_title">Wi-Fi bağlantısı yok</string>
+  <string name="non_ivr_menu_collapse_menu">Daralt</string>
+  <string name="non_ivr_menu_view_menu">Göster</string>
   <string name="not_a_valid_port">Port numarası 1000 ve 65534 arasında olmalıdır</string>
   <string name="not_allowed">SIM kartınız bu şebekeye bağlanma izni vermiyor.</string>
   <string name="not_connected">Bağlanmadı!</string>
@@ -620,8 +643,8 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="notification_voicemail_title_count">(%d) Yeni sesli mesaj </string>
   <string name="number">Numara</string>
   <string name="number_format_error_message">%s sadece desteklenen numara</string>
-  <string name="number_type_jituan">Grup numarası</string>
   <string name="number_type">Numara türü</string>
+  <string name="number_type_jituan">Grup numarası</string>
   <string name="number_type_mob">Mobil Telefon</string>
   <string name="number_type_tel">Sabit hat</string>
   <string name="nw_subset_unlock_failed">SIM Şebeke alt kümesi kilidi açılamıyor!</string>
@@ -631,6 +654,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="ok">Tamam</string>
   <string name="oldPin2Label">Eski PIN2 kodu</string>
   <string name="oldPinLabel">Eski PIN kodu</string>
+  <string name="old_password_label">Eski şifre (4 haneli)</string>
   <string name="old_pin2_hint">Geçerli PIN2 kodu</string>
   <string name="old_pin_hint">Geçerli PIN kodu</string>
   <string name="onHold">Beklemede</string>
@@ -645,13 +669,13 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="onscreenModifyCallText">Çağrıyı değiştir</string>
   <string name="onscreenMuteText">Sessiz</string>
   <string name="onscreenShowDialpadText">Tuş takımı</string>
-  <string name="onscreenSwitchText">Aboneliğe geç</string>
   <string name="onscreenSwapCallsText">Karşılıklı değiş</string>
+  <string name="onscreenSwitchText">Aboneliğe geç</string>
   <string name="onscreen_add_call_text">Çağrı ekle</string>
+  <string name="onscreen_audio_mode">Kullanarak cevapla</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_handset">Eller Serbest</string>
   <string name="onscreen_audio_mode_headset">Kulaklıklar</string>
-  <string name="onscreen_audio_mode">Kullanarak cevapla</string>
   <string name="onscreen_audio_mode_speaker">Arka hoparlör</string>
   <string name="onscreen_call_record">Ses kayıt</string>
   <string name="onscreen_dialer">Klavye</string>
@@ -686,6 +710,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="ota_try_again">Tekrar deneyin</string>
   <string name="ota_unsuccessful">"Telefon etkinleştirme hatası, daha iyi bir kapsama alanında (dış mekanda) tekrar deneyin ."</string>
   <string name="other_settings">Diğer Telefon Ayarları</string>
+  <string name="password_changed">Şifre değiştirildi</string>
   <string name="password_title">Şifre</string>
   <string name="pause_prompt_no">Hayır</string>
   <string name="pause_prompt_str">"Ses gönderiliyor"</string>
@@ -712,8 +737,8 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="pin_changed">SIM kart PIN kodu değiştirildi</string>
   <string name="pin_failed">Girilen PIN kodu geçersiz!</string>
   <string name="pin_lock_warning">"Yine başarısız olursa telefonunuz kilitlenecek, Lütfen dikkatli olun!"</string>
-  <string name="pin_progress_change_pin2">PIN2 kodu değiştiriliyor…</string>
   <string name="pin_progress_change_pin">PIN kodu değiştiriliyor…</string>
+  <string name="pin_progress_change_pin2">PIN2 kodu değiştiriliyor…</string>
   <string name="pin_progress_set_fdn_lock">FDN kilit durumu ayarlanıyor…</string>
   <string name="pin_progress_set_icc_lock">icc kilit durumu ayarlanıyor…</string>
   <string name="pin_progress_unlock_icc">SIM kart kilidi açılıyor…</string>
@@ -744,12 +769,13 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="preferred_network_type_3g_only_warning">"Sadece 3G şebekesini seçtiniz, SIM kartınızın 3G desteği yoksa telefon sinyal alamaz! Devam etmek istiyor musunuz?"</string>
   <string name="preferred_network_type_cdma">CDMA</string>
   <string name="preferred_network_type_gsm_umts">GSM/WCDMA</string>
-  <string name="preferred_network_type_tds_cdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">3G Öncelikli Şebeke</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred">4G Öncelikli şebeke</string>
   <string name="preferred_network_type_pref_entries_auto">Otomatik</string>
   <string name="preferred_network_type_pref_entries_global">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g">Sadece 2G (Pil tasarrufu sağlar)</string>
   <string name="preferred_network_type_pref_entries_only_3g">Sadece 3G Şebekesi</string>
+  <string name="preferred_network_type_tds_cdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">2G/3G Şebeke Ayarları</string>
   <string name="primary_account_summary_with">Birincil hesap. %s</string>
   <string name="private_num">Gizli numara</string>
@@ -791,8 +817,8 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="reject_via_sms_summary">Arama reddedildiğinde arayana gönderilecek SMS\'i ayarlayın</string>
   <string name="reject_via_sms_title">SMS ile reddet ayarları</string>
   <string name="remember_my_choice">Her zaman internet çağrıları için kullanabilirsiniz</string>
-  <string name="remove_ims_account">Hesabı sil</string>
   <string name="remove">Sil</string>
+  <string name="remove_ims_account">Hesabı sil</string>
   <string name="remove_sip_account">Hesabı kaldır</string>
   <string name="removing_account">Hesap kaldırılıyor...</string>
   <string name="requesting_corporate_unlock">SIM kilit açma isteniyor…</string>
@@ -984,10 +1010,10 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="tty_mode_entries_vco">TTY VCO</string>
   <string name="tty_mode_option_summary">Set TTY mode</string>
   <string name="tty_mode_option_title">TTY modu</string>
+  <string name="turn_off">Kapat</string>
   <string name="turn_off_auto_select_confirm_message">Şebeke kullanılabilir değil, bu özellik kapatılsın mı?</string>
   <string name="turn_off_auto_select_title">Otomatik şebeke seçimini kapat</string>
   <string name="turn_off_auto_select_warning_message">Bu özellik kapatılınca, seçtiğiniz şebeke kullanılacak</string>
-  <string name="turn_off">Kapat</string>
   <string name="turnover_mute_summary">Telefon yatay yerleştirilmiş ise gelen çağrıyı susturmak için cihazı ters çevirin</string>
   <string name="turnover_mute_title">Susturmak için ters çevir</string>
   <string name="undefined">Tanımlanamayan</string>
@@ -1009,9 +1035,9 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="voice_quality_ui_values_clear">Temiz</string>
   <string name="voice_quality_ui_values_crisp">Canlı</string>
   <string name="voice_quality_ui_values_normal">Normal</string>
+  <string name="voicemail">Sesli mesaj</string>
   <string name="voicemail_abbreviated">VM:</string>
   <string name="voicemail_default">Benim operatörüm</string>
-  <string name="voicemail">Sesli mesaj</string>
   <string name="voicemail_notification_ringtone_title">Zilsesi</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Titreşim</string>
   <string name="voicemail_notification_vibrate_when_default">Asla</string>
@@ -1028,6 +1054,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
  "</string>
   <string name="wait_prompt_str">"Yönlendirme sesi gönderilsin mi?"</string>
   <string name="wild_prompt_str">Karakteri ile değiştirin</string>
+  <string name="wrong_password">Yanlış şifre</string>
   <string name="xdivert_active">Active</string>
   <string name="xdivert_button">X-Divert Setting</string>
   <string name="xdivert_enternumber_error">Enter phone number for both the subscriptions</string>
@@ -1040,32 +1067,4 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred">4G Öncelikli şebeke</string>
-  <string name="ivr_menu_dialing_msg">Yönlendiriliyor...</string>
-  <string name="ivr_menu_list_title">Anketler menüsü</string>
-  <string name="non_ivr_menu_collapse_menu">Daralt</string>
-  <string name="non_ivr_menu_view_menu">Göster</string>
-  <string name="ivr_menu_list_sub_menu_count_format">%s düğmesine basın</string>
-  <string name="fdn_contacts_empty">Sabit numaralar listesinde kişi yok.</string>
-  <string name="call_barring_sum">Çağrı Engelleme Ayarları</string>
- <string name="change_password">Engelleme şifresini değiştir</string>
- <string name="confirm_password_label">Yeni şifreyi onaylayın</string>
- <string name="deactivate_all">Hepsini kapat</string>
- <string name="enter_callbarring_password">4 haneli engelleme şifresini girin</string>
- <string name="invalid_password">Şifreyi girin</string>
- <string name="lable_all_incoming">Tüm gelen çağrılar</string>
- <string name="lable_all_out_except">PLMN hariç Uluslar arası çağrılar</string>
- <string name="lable_all_outgoing">Tüm giden çağrılar</string>
- <string name="lable_all_outgoing_international">Uluslararası çağrılar</string>
- <string name="lable_call_barring">Çağrı engelleme</string>
- <string name="lable_disable">Kapat</string>
- <string name="lable_enable">Aç</string>
- <string name="lable_incoming_calls_except">Dolaşımda Gelen çağrılar</string>
- <string name="mismatch_password">Şifreler eşleşmiyor</string>
- <string name="new_password_label">Yeni şifre (4 haneli)</string>
- <string name="old_password_label">Eski şifre (4 haneli)</string>
- <string name="password_changed">Şifre değiştirildi</string>
- <string name="wrong_password">Yanlış şifre</string>
- <string name="ContactScreen">SIM kayıtlarını ekle/düzenle</string>
-  <string name="ExportContactScreen">Kişileri SIM karta aktar</string>
 </resources>

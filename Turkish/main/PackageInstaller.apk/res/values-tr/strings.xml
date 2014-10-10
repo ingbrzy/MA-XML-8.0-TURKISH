@@ -1,40 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="caller_app">Yükleme isteği: %1$s</string>
-  <string name="safe_guard_support">Teknik destek: %1$s</string>
-  <string name="safe_relative">Güvenli izinler</string>
-  <string name="privacy_relative">Özel izinler</string>
-  <string name="other_relative">Diğer izinler</string>
-  <string name="perm_notice">Uyarı</string>
-  <string name="trust_switch_dialog_msg">MIUI bu uygulama tarafından yürütülen herhangi bir güvenlik veya gizlilik ile ilgili işlemleri onaylamak için size sormayacak.</string>
   <string name="auto_startup_dialog_msg">MIUI bu uygulamayı sizin izniniz olmadan başlamasını izin verecek.</string>
-  <string name="low_risk_perms">Düşük riskli izinler</string>
+  <string name="caller_app">Yükleme isteği: %1$s</string>
   <string name="high_risk_perms">Yüksek riskli izinler</string>
-  <string name="perm_privacy_app_finish">Bitti</string>
-  <string name="perm_privacy_app_launch">Başlat</string>
-  <string name="perm_privacy_app_installed">Yükleme tamamlandı</string>
-  <string name="perm_sysopt_boost_auto_start">Otomatik Başlatma izni</string>
-  <string name="perm_sysopt_boost_auto_start_summary">Bu uygulama otomatik olarak başlayacaktır</string>
-  <string name="perm_privacy_app_trust">Ben bu uygulamaya güveniyorum</string>
-  <string name="perm_privacy_app_trust_summary">MIUI bu uygulamayı izleyecek</string>
+  <string name="install_failed_system_incompatible">Bu uygulama MIUI ile uyumlu değildir</string>
+  <string name="low_risk_perms">Düşük riskli izinler</string>
+  <string name="other_relative">Diğer izinler</string>
   <string name="perm_action_accept">İzin ver</string>
   <string name="perm_action_prompt">Sor</string>
   <string name="perm_action_reject">Yoksay</string>
-  <string name="unknown_installer">Tanımlanamayan PC araçları</string>
-  <string name="install_failed_system_incompatible">Bu uygulama MIUI ile uyumlu değildir</string>
-  <string name="permission_group_title_charges_related">Telefon</string>
-  <string name="permission_group_title_privacy_related">Gizlilik</string>
-  <string name="permission_group_title_media_related">Multimedya</string>
-  <string name="permission_group_title_settings_related">Ayarlar</string>
-  <string name="permission_group_title_others">Diğerleri</string>
+  <string name="perm_notice">Uyarı</string>
+  <string name="perm_privacy_app_finish">Bitti</string>
+  <string name="perm_privacy_app_installed">Yükleme tamamlandı</string>
+  <string name="perm_privacy_app_launch">Başlat</string>
+  <string name="perm_privacy_app_trust">Ben bu uygulamaya güveniyorum</string>
+  <string name="perm_privacy_app_trust_summary">MIUI bu uygulamayı izleyecek</string>
+  <string name="perm_sysopt_boost_auto_start">Otomatik Başlatma izni</string>
+  <string name="perm_sysopt_boost_auto_start_summary">Bu uygulama otomatik olarak başlayacaktır</string>
   <string name="permission_action_accept">Kabul</string>
   <string name="permission_action_prompt">Sor</string>
   <string name="permission_action_reject">Reddet</string>
+  <string name="permission_group_title_charges_related">Telefon</string>
+  <string name="permission_group_title_media_related">Multimedya</string>
+  <string name="permission_group_title_others">Diğerleri</string>
+  <string name="permission_group_title_privacy_related">Gizlilik</string>
+  <string name="permission_group_title_settings_related">Ayarlar</string>
   <string name="permission_send_sms_descx">Uygulama SMS ve MMS gönderebilir</string>
-  <string name="virus_scan_install"><u>Yinede yükle</u></string>
-  <string name="virus_scan_is_virus">Bu uygulama bir virüs içeriyor.</string>
-  <string name="virus_scan_is_risk">Bu uygulama cihazınızın güvenliği için bir risk oluşturmaktadır.</string>
-  <string name="virus_scan_clear">Kaldır</string>
+  <string name="privacy_relative">Özel izinler</string>
+  <string name="safe_guard_support">Teknik destek: %1$s</string>
+  <string name="safe_relative">Güvenli izinler</string>
+  <string name="trust_switch_dialog_msg">MIUI bu uygulama tarafından yürütülen herhangi bir güvenlik veya gizlilik ile ilgili işlemleri onaylamak için size sormayacak.</string>
+  <string name="unknown_installer">Tanımlanamayan PC araçları</string>
   <string name="virus_scan_caller_unknown">Bilinmiyor</string>
+  <string name="virus_scan_clear">Kaldır</string>
+  <string name="virus_scan_install">&lt;u&gt;Yinede y&amp;#252;kle&lt;/u&gt;</string>
+  <string name="virus_scan_is_risk">Bu uygulama cihazınızın güvenliği için bir risk oluşturmaktadır.</string>
+  <string name="virus_scan_is_virus">Bu uygulama bir virüs içeriyor.</string>
 </resources>
