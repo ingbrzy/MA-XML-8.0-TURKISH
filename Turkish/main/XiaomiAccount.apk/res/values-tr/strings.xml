@@ -39,7 +39,7 @@
   <string name="reg_using_other_phone_number_prompt">Başka bir telefon numarası kullanarak kayıt edin</string>
   <string name="reg_using_other_phone">Başka bir telefon numarası kullanarak kayıt edin</string>
   <string name="reg_via_sms_alert">Etkinleştirme mesajı operatör tarafından tarifenize göre ücretlendirilecektir.</string>
-  <string name="reg_sms_send_prompt"><xliff:g id="PHONE">%s</xliff:g> için doğrulama kodu gönder</string>
+  <string name="reg_sms_send_prompt">%s için doğrulama kodu gönder</string>
   <string name="micloud_input_password_prompt">Parola oluşturun</string>
   <string name="micloud_password_confirm_hint">Parolayı Onaylayın</string>
   <string name="micloud_password_req_notice">Parola 8-16 karakter uzunluğunda olmalı, rakam ve harf (büyük küçük harf duyarlı) içermelidir.</string>
@@ -49,37 +49,30 @@
   <string name="micloud_via_int_sms_alert">Etkinleştirme mesajı operatör tarafından uluslararası tarifeye göre ücretlendirilecektir.</string>
   <string name="micloud_error_email">Girdiğiniz e-posta adresi geçersiz</string>
   <string name="micloud_account">Mi Hesabı</string>
-  <string name="micloud_activing_account">Etkinleştiriliyor\u2026</string>
-  <string name="micloud_activing_account_delayed">Neredeyse bitti\u2026</string>
+  <string name="micloud_activing_account">Etkinleştiriliyor...</string>
+  <string name="micloud_activing_account_delayed">Neredeyse bitti...</string>
   <string name="micloud_activing_account_failed">"Mi hesabınız etkinleştirilemedi."</string>
-  <string name="micloud_activating_account_notify_title">Hesabınız aktifleştiriliyor\u2026</string>
+  <string name="micloud_activating_account_notify_title">Hesabınız aktifleştiriliyor...</string>
   <string name="micloud_activate_account_success_notify_title">Hesap aktifleştirildi!</string>
   <string name="micloud_activate_account_fail_notify_title">"Hesabınız aktifleştirilemiyor"</string>
   <string name="micloud_activating_account_notify_info">Mi Hesabınız etkinleştiriliyor</string>
   <string name="micloud_activate_back_btn">İptal</string>
   <string name="micloud_activate_retry_btn">Tekrar Dene</string>
   <string name="micloud_account_not_actived">"Hesabınız henüz aktif değil"</string>
-  <string name="micloud_active_email_visit"><xliff:g id="email">%s</xliff:g> gelen kutunuzu kontrol edin</string>
-  <string name="micloud_click_email_to_valid">\n\nHesabınızı etkinleştirmek için, mesaj ile \n gönderdiğiniz bağlantıyı takip edin.</string>
+  <string name="micloud_active_email_visit">%s gelen kutunuzu kontrol edin</string>
+  <string name="micloud_click_email_to_valid">Hesabınızı etkinleştirmek için, mesaj ile  gönderdiğiniz bağlantıyı takip edin.</string>
   <string name="micloud_resend_active_email">Aktivasyon E-postasını tekrar gönder</string>
   <string name="micloud_delete_account">Oturumu Kapat</string>
   <string name="micloud_active_email_sent_1">"Etkinleştirme bağlantısı gönderilen "</string>
-  <string name="micloud_click_email">\n\nHesabı etkinleştirmek için, \n etkinleştirme mesajındaki bağlantıyı takip edin.</string>
+  <string name="micloud_click_email">Hesabı etkinleştirmek için, etkinleştirme mesajındaki bağlantıyı takip edin.</string>
   <string name="completed">Bitti</string>
   <string name="header_data_and_synchronization">Veri &amp; Eşitle</string>
   <string name="title_reg">Hesap oluşturun</string>
-  <string name="micloud_account_label">Hesap:
-\t<xliff:g id="name">
-\t    %1$s
-\t</xliff:g>
-    </string>
+  <string name="micloud_account_label">Hesap: %1$s  </string>
   <string name="email_already_be_used">Bu e-posta adresi zaten başka bir hesap tarafından kullanımda.</string>
   <string name="error_no_sms_service">"Mesaj gönderilemiyor. Mobil ağlara ulaşılamıyor."</string>
-  <string name="reg_by_email_failure">Hesap yaratılamıyor 
-             <xliff:g id="reason">
-                 %1$s
-             </xliff:g>    </string>
-  <string name="unactivated_user">Neredeyse bitti\u2026</string>
+  <string name="reg_by_email_failure">Hesap oluşturulamıyor:  %1$s  </string>          
+  <string name="unactivated_user">Neredeyse bitti...</string>
   <string name="reg_failed">"Hesap oluşturulamıyor"</string>
   <string name="login_instead_reg">Bu numarayı kullan</string>
   <string name="login_instead_reg_with_email">Bu e-posta adresini kullan</string>
@@ -102,11 +95,7 @@
   <string name="relogin_notice">Yeniden oturum açmanız gerekiyor</string>
   <string name="quick_login_title">Şifrenizi girin</string>
   <string name="quick_login_step2_title">2 adım da doğrulama</string>
-  <string name="account_name">Hesap:
-        <xliff:g id="account">
-            %1$s
-        </xliff:g>
-    </string>
+  <string name="account_name">Hesap: %1$s </string>  
   <string name="quick_login_dialog_title">Şifreyi doğrula</string>
   <string name="quick_login_dialog_step2_title">2 adım da doğrulama</string>
   <string name="input_password_hint">Şifrenizi girin</string>
@@ -117,32 +106,32 @@
   <string name="remove_account_notice">Mi Hesabınızla senkronize ettiğiniz cihazınızdaji mesajlar, kişiler, müzikler ve notlar ile ne yapmak istiyorsunuz?</string>
   <string name="data_keep_in_device">Bu cihazda sakla</string>
   <string name="data_wipe_from_device">Bu cihazdan sil</string>
-  <string name="login_notice">Oturum açılıyor\u2026</string>
+  <string name="login_notice">Oturum açılıyor...</string>
   <string name="i_know">Tamam</string>
   <string name="failed_to_send_activate_email">Etkinleştirme e-mail\'i gönderilemedi</string>
   <string name="access_denied">Erişim engellendi</string>
-  <string name="reging">Hesap oluşturma\u2026</string>
+  <string name="reging">Hesap oluşturma...</string>
   <string name="reg_success">Hesap oluşturuldu</string>
-  <string name="reg_success_summary"><xliff:g id="code">%1$s</xliff:g> hesabınızla bağlanmış durumda. Oturum açarak kullanabilir ya da şifre değiştirebilirsiniz.</string>
-  <string name="email_reg_success_summary"><xliff:g id="code">%1$s</xliff:g>  hesabınızla bağlanmış durumda. Oturum açarak kullanabilir ya da şifre değiştirebilirsiniz.</string>
+  <string name="reg_success_summary">%1$s hesabınızla bağlanmış durumda. Oturum açarak kullanabilir ya da şifre değiştirebilirsiniz.</string>
+  <string name="email_reg_success_summary">%1$s  hesabınızla bağlanmış durumda. Oturum açarak kullanabilir ya da şifre değiştirebilirsiniz.</string>
   <string name="sync_on">Açık</string>
   <string name="sync_off">Kapalı</string>
   <string name="btn_activate">Etkinleştir</string>
   <string name="sim_changed_notification_content">SIM kart aktif değil</string>
-  <string name="activating">Etkinleştiriliyor\u2026</string>
+  <string name="activating">Etkinleştiriliyor...</string>
   <string name="check_phone_error_title">Eşitleme aktif değil</string>
   <string name="check_phone_io_error">Ağ hatası</string>
   <string name="micloud_area_code_title">Ülke kodu</string>
   <string name="micloud_area_code_hot">Sık kullanılan</string>
-  <string name="user_agreement_p1">Giriş yaparak Xiaomi\'ye ait şunları kabul ediyorsunuz:\n&#160;&#160;</string>
+  <string name="user_agreement_p1">Giriş yaparak Xiaomi\'ye ait şunları kabul ediyorsunuz:</string>
   <string name="user_agreement_p2">Kullanıcı sözleşmesi</string>
   <string name="user_agreement_p3">ve</string>
   <string name="user_agreement_p4">Gizlilik Politikası</string>
-  <string name="user_agreement_p5">Hesap açtığınızda kabul etmiş olduklarınız\n</string>
-  <string name="user_agreement_p6">Xiaomi\'nin kabul ediyorsunuz\n&#160;&#160;</string>
+  <string name="user_agreement_p5">Hesap açtığınızda kabul etmiş olduklarınız</string>
+  <string name="user_agreement_p6">Xiaomi\'nin kabul ediyorsunuz</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="user_agreement">Kullanıcı sözleşmesi</string>
-  <string name="loading">Yükleniyor\u2026</string>
+  <string name="loading">Yükleniyor...</string>
   <string name="license_host_unreachable">Ağa bağlanılamıyor. Bu bilgiyi görmeniz için %s\'e gidin.</string>
   <string name="skip_setup_account_title">Kurulumu geç</string>
   <string name="skip_setup_account_msg">Daha sonra Ayarlar\'dan bir Mi Hesabı oluşturabilirsiniz.</string>
@@ -154,8 +143,8 @@
   <string name="relogin">Tekrar giriş yapın</string>
   <string name="skip_login">Oturum açmayı geç</string>
   <string name="skip_login_u"><u>Oturum açmayı geç</u></string>
-  <string name="removing_account">Çıkış yapılıyor\u2026</string>
-  <string name="checking_account">Şifre kontrol ediliyor\u2026</string>
+  <string name="removing_account">Çıkış yapılıyor...</string>
+  <string name="checking_account">Şifre kontrol ediliyor...</string>
   <string name="button_cancel">İptal</string>
   <string name="mili_center">Mi Kredi</string>
   <string name="mipay_center">Banka hesabı</string>
@@ -181,7 +170,7 @@
   <string name="trust_device">Bu cihaza güven</string>
   <string name="vcode_prompt_long">Mi Security tarafından oluşturulan doğrulama kodunu giriniz</string>
   <string name="vcode_notification_title">Giriş doğrulamanız tam değil</string>
-  <string name="checking_input">Girilen kontrol ediliyor\u2026</string>
+  <string name="checking_input">Girilen kontrol ediliyor...</string>
   <string name="wipe_data_dialog_title">Bazı öğeler senkronize edilmemiş</string>
   <string name="wipe_data_dialog_msg">Devam ederseniz %s öğe kaybolacak.</string>
   <string name="dirty_contacts_count">%d kişi</string>
@@ -230,7 +219,7 @@
   <string name="register_account_goto_email">Gelen Kutusu\'na git</string>
   <string name="account_xiaomi_service">Servisler</string>
   <string name="account_settings">Hesap ayarları</string>
-  <string name="opening_page">Açılıyor\u2026</string>
+  <string name="opening_page">Açılıyor...</string>
   <string name="barcode_add_account_prompt">Bir hesap eklemek için, giriş yaptıktan sonra QR kodunu tekrar tarayın.</string>
   <string name="scan_barcode_title">Mi hesabınıza oturum açmak için QR kodunu taratın</string>
   <string name="micloud_sync_info">%d öğe senkronize edilmedi</string>

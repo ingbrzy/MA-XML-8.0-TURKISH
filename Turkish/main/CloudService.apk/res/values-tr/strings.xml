@@ -81,11 +81,12 @@
   <string name="master_alert_notif_dspt_no">Herşey güncel.</string>
   <string name="sub_alert_notif_dspt_add">%s henüz senkronize edilmedi.</string>
   <string name="sub_alert_notif_dspt_no">Herşey güncel.</string>
-  <string name="micloud_space_full_influence">Boş alan kalmazsa ne olur?</string>
-  <string name="micloud_storage_usage" formatted="false">"Kullanılan: %s Toplam: %s"</string>
-  <string name="micloud_title_dspt"formatted="false">"Kullanılan: %s Toplam: %s"</string>
-  <string name="micloud_title_dspt_remain" formatted="false">"%s kalan"</string>
-  <string name="micloud_title_full_dspt" formatted="false">"Depolama sınırınıza ulaştınız!"</string>
+  <string name="micloud_space_full_influence">&lt;u&gt;Kullanım alanım bitince ne yapacağım?&lt;/u&gt;</string>
+  <string name="micloud_storage_usage" formatted="false">Kullanılan: %s Toplam: %s</string>
+  <string name="micloud_title_dspt" formatted="false">"Toplam: %s
+Kullanılan: %s | Kalan: %s "</string>  
+  <string name="micloud_title_dspt_remain">"%s kaldı"</string>
+  <string name="micloud_title_full_dspt">"Depolama sınırınıza ulaştınız!"</string>
   <string name="micloud_user_space_usage">Depolama alanı</string>
   <string name="micloud_web_discription_01">i.mi.com\'da giriş yapın </string>
   <string name="micloud_web_discription_02">her yerden dosyalarınızı kaydetmek ve ulaşmak için</string>

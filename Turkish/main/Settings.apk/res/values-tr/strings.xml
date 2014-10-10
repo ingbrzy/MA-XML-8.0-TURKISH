@@ -74,7 +74,7 @@
   <string name="device_cpu4_info">"4  çekirdek"</string>
   <string name="available_size">Kullanılabilir: %s</string>
   <string name="total_size">Taplam :%s</string>
-  <string name="memory_title">"Kullanılabilir: %1$s\u0009\u0009Toplam: %2$s"</string>
+  <string name="memory_title">"Kullanılabilir: %1$s,Toplam: %2$s"</string>
   <string name="account_list">Hepsi</string>
   <string name="account_add">Ekle</string>
   <string name="xiaomi_account">"Mi Hesabı"</string>
@@ -286,8 +286,8 @@
   <string name="erase_data">Sil</string>
   <string name="confirm_erase">Silmeyi onayla</string>
   <string name="master_clear_personal_data">Kişisel bilgileri silmek istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur</string>
-  <string name="master_clear_personal_data_application">\"Kişisel bilgileri silmek ve kullanıcı uygulamalarını kaldırmak istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur\"</string>
-  <string name="master_clear_personal_data_sdcard">\"Kişisel bilgileri silmek ve SD Kartınızı biçimlendirmek istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur</string>
+  <string name="master_clear_personal_data_application">"Kişisel bilgileri silmek ve kullanıcı uygulamalarını kaldırmak istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur"</string>
+  <string name="master_clear_personal_data_sdcard">"Kişisel bilgileri silmek ve SD Kartınızı biçimlendirmek istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur</string>
   <string name="master_clear_all">Tüm verileri silerek fabrika ayarlarına dönmek istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur</string>
   <string name="master_clear_erase_application_progress">Uygulamaları silme işlemi çalışıyor</string>
   <string name="erase_internal_storage">SD kartı sil</string>
@@ -305,7 +305,7 @@
   <string name="volume_ring_description">Zil ve bildirimler sesleri</string>
   <string name="volume_alarm_description">Alarm Sesi</string>
   <string name="volume_voice_description">Ses seviyesi</string>
-  <string name="volume_media_description">Müzik, video, oyunlar ve diğer medyalar</string>
+  <string name="volume_media_description">Müzik ve diğer medya sesleri</string>
   <string name="volume_system_description">Kamera, kilit ekranı ve sistem bildirimleri gibi sistem sesleri</string>
   <string name="volume_bluetooth_description">Bluetooth Sesi</string>
   <string name="volume_restore">Ses ayarlarını varsayılana döndür</string>
@@ -454,10 +454,10 @@
   <string name="screen_color_temperature">Renk sıcaklığını ayarla</string>
   <string name="screen_saturation">Renk doygunluğunu ayarla</string>
   <string name="screen_color_temperature_and_saturation">Renk sıcaklığı ve doygunluk</string>
-  <string name="finish_application">Bitir</string>
+  <string name="finish_application">Kapat</string>
   <string name="header_category_accounts">Hesaplar</string>
   <string name="auto_startup_application_manage">Otomatik başlat</string>
-  <string name="add_auto_startup_application">Otomatik başlatılan uygulamaları ekle</string>
+  <string name="add_auto_startup_application">Ekle</string>
   <string name="power_autorun_apps_empty">Otomatik başlatılan uygulama yok</string>
   <string name="power_autorun_empty">Uygulama yok</string>
   <string name="auto_startup_count">%d Uygulamaya otomatik başlama izni verildi</string>
@@ -476,7 +476,7 @@
   <string name="retry">Tekrar Dene</string>
   <string name="brightness_auto_adjust_off">Ekran parlaklığı her ortam şartında sabit bir değerde tutulacaktır</string>
   <string name="brightness_auto_adjust_on">Ekran parlaklığı çevrenizdeki ışık miktarına göre otomatik olarak ayarlanır</string>
-  <string name="private_sms_need_to_unlock">Kilidi açmak için şifre gerekli:</string>
+  <string name="private_sms_need_to_unlock">Kilidi açma şifresi:</string>
   <string name="private_sms_reset_by_account">Şifrenizi sıfırlamak için Mi hesabınızla giriş yapınız</string>
   <string name="private_sms_recording_intro_header">Şifre koruması için desen çiz:</string>
   <string name="private_gallery_need_to_unlock">Şifre gerekli:</string>
@@ -544,8 +544,8 @@
   <string name="wifi_priority_changed">Eski öncelik değeri =%s "|" Yeni değer = %s</string>
   <string name="wifi_configured_ap_list">Önceden yapılandırılmış APler</string>
   <string name="wifi_priority_label">Öncelik</string>
-  <string name="wifi_available_title">Wi-Fi\'ye bağlanın</string>
-  <string name="msg_wlan_signal_found">%s\'ye bağlanılsın mı?</string>
+  <string name="wifi_available_title">Wi-Fi ağına bağlan</string>
+  <string name="msg_wlan_signal_found">%s ağına bağlanılsın mı?</string>
   <string name="wifi_signal_found_msg">Wi-Fİ ap\'ye bağlansın mı?</string>
   <string name="nfc_category_title">NFC</string>
   <string name="nfc_quick_toggle_summary">Telefon başka cihaza dokunduğunda veri alışverişine izin ver</string>
@@ -615,7 +615,7 @@
   <string name="dialog_title_hdmi_color_calibration">"Renk Düzeltme ön ayar"</string>
   <string name="hdmi_color_calibration_srgb">"sRGB"</string>
   <string name="hdmi_color_calibration_none">"Doğal"</string>
-  <string name="app_notifications_switch_label" msgid="9124072219553687583">"Bildirimleri göster"</string>
+  <string name="app_notifications_switch_label">"Bildirimleri göster"</string>
   <string name="hdmi_3d_display_enable_title">3D Ekran</string>
   <string name="hdmi_3d_display_enable_summary">3D oyunlar için etkinleştir</string>
   <string name="noise_suppression">Gürültü engelleme</string>
@@ -757,11 +757,11 @@
   <string name="rebootiing_for_updates">Yeniden önyükleniyor...</string>
   <string name="update_progress_for_updates">Güncelleniyor (%s)</string>
   <string name="toast_need_login">Mi hesabınızda oturum açın</string>
-  <string name="button_text_reboot_now">Yeniden önyükle</string>
+  <string name="button_text_reboot_now">Tekrar başlat</string>
   <string name="button_text_login">Oturum aç</string>
   <string name="dialog_content_login">Güncelleme için Mi hesabı gerekiyor, giriş yapılsın mı?</string>
   <string name="dialog_title_login">Mi Hesabına giriş yapılsın mı</string>
-  <string name="make_sure_cancel_update">güncelleme iptal edilsin mi?</string>
+  <string name="make_sure_cancel_update">Güncelleme iptal edilsin mi?</string>
   <string name="welcome">Hoşgeldiniz</string>
   <string name="launching_rep">Bildiriliyor...</string>
   <string name="provision_next">İleri</string>
@@ -805,7 +805,7 @@
   <string name="bluetooth_unlock_change_device_confirm_msg">Eski cihaz şu anki cihazla değiştirilecektir.</string>
   <string name="virus_scan">Virüs taraması</string>
   <string name="network_assistant">Veri kullanımı</string>
-  <string name="anti_spam">Engelli listesi</string>
+  <string name="anti_spam">Engelleme listesi</string>
   <string name="permission_mgr">İzinler</string>
   <string name="cleaner">Temizleyici</string>
   <string name="power_mgr">Güç</string>
