@@ -211,8 +211,8 @@
 <string name="date_picker_title">Tarih</string>
 <string name="date_time_24hour">24 saat biçimi kullan</string>
 <string name="date_time_auto">Otomatik ayarla</string>
-<string name="date_time_auto_summaryOff">Use network-provided time</string>
-<string name="date_time_auto_summaryOn">Use network-provided time</string>
+<string name="date_time_auto_summaryOff">İnternet saatini kullan</string>
+<string name="date_time_auto_summaryOn">İnternet saatini kullan</string>
 <string name="date_time_date_format">Tarih formatını seçin</string>
 <string name="date_time_set_date">Tarihi ayarla</string>
 <string name="date_time_set_time">Saati ayarla</string>
@@ -381,7 +381,7 @@
   <string name="font_size_preview">MIUI</string>
   <string name="font_size_save">TAMAM</string>
   <string name="font_size_small">Küçük</string>
-  <string name="font_size_summary">Ne mutlu Türküm diyene</string>
+  <string name="font_size_summary">NE MUTLU TÜRKÜM DİYENE !!</string>
   <string name="forget_wifi_message">Bu Wi-Fi Ağı unutulsun mu? Ağa tekrar bağlanmak istesiniz şifreyi tekrar girmeniz gerekecektir</string>
   <string name="found_new_version">Güncelleme mevcut</string>
   <string name="free_wifi_confirm">Tamam</string>
@@ -702,7 +702,7 @@ Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "&lt;b&gt;
   <string name="proxy_port_label">Port</string>
   <string name="radio_controls_summary">Wi-Fi, Bluetooth, uçak modu, mobil ağ ve VPN özelliklerini yönet</string>
   <string name="radio_controls_title">Daha fazla</string>
-  <string name="rebootiing_for_updates">Yeniden önyükleniyor...</string>
+  <string name="rebootiing_for_updates">Tekrar başlatılıyor...</string>
   <string name="recent_location_requests_summary">Aşağıdaki uygulamalar konum bilginizi görüntülemek istiyor</string>
   <string name="recent_location_requests_title">Konum erişimi</string>
   <string name="remove_from_frequently_fragment">\"%s\" öğesini Genel Ayarlardan kaldır?</string>
@@ -877,7 +877,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="status_bar_settings_advanced">Ek ayarlar </string>
   <string name="status_bar_settings_all_app_display_loading">Yükleniyor...</string>
   <string name="status_bar_settings_basic_settings">Temel Ayarlar</string>
-  <string name="status_bar_settings_custom_carrier">Servis sağlayıcı adı düzenle</string>
+  <string name="status_bar_settings_custom_carrier">Operatör adını değiştir</string>
   <string name="status_bar_settings_custom_notification">Bildirimleri yönet</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fi adını düzenle</string>
   <string name="status_bar_settings_expandable_under_keyguard">Ekran kilidini etkinleştir</string>
