@@ -37,10 +37,12 @@
   <string name="add_to_desk_success">Masaüstüne başarılı şekilde gönderildi</string>
   <string name="add_to_quicklink">Açılış sayfasına ekle</string>
   <string name="adjust_text_zoom_toast">Metin yakınlaştırma ayarlarını değiştirmek bazı web sitelerinin hatalı görüntülenmesine sebep olabilir</string>
+   <string name="allow">İzin ver</string>
   <string name="alert_tips">Bu site güvenliğiniz için bir risk olabilir</string>
   <string name="already_in_top_level">Yer imi zaten en üst seviyede</string>
   <string name="app_new_version">"Yükleme tamamlandı: Uygulama en son versiyona güncelleştirildi"</string>
   <string name="app_update_install">\"İndirme tamamlandı. Geliştirilmiş versiyon yüklenmeye hazır.</string>
+  <string name="application_name">İnternet</string>
   <string name="bookmark_URL_already_exisit">Bu URL zaten yer imlerinde</string>
   <string name="bookmark_add_group_text_header">Seçili %1$d öğesini gruba ekle</string>
   <string name="bookmark_add_to">Ekle</string>
@@ -333,7 +335,7 @@
   <string name="readmode_login"> Giriş Yap </string>
   <string name="readmode_login_message"> Daha fazla okumak için giriş yapmalısınız. </string>
   <string name="readmode_page_load_error">"Sayfa yüklemesi başarısız. :("</string>
-  <string name="readmode_page_loading"> Yükleniyor…</string>
+  <string name="readmode_page_loading">Yükleniyor...…</string>
   <string name="readmode_pay"> Bölümü satın al </string>
   <string name="readmode_pay_message"> Sonraki bölümleri okumak için ödeme yapmalısınız.</string>
   <string name="readmode_reach_last_page">"Bu son sayfa"</string>
@@ -423,7 +425,7 @@
   <string name="v5_edit_mode_title_empty">0 Seçili</string>
   <string name="v5_select_all">Tümünü seç</string>
   <string name="video_title">Video</string>
-  <string name="voice_sub_title">Ne diyeceğinizi bilmiyor musunuz? \"mi.com\"u deneyin.</string>
+  <string name="voice_sub_title">Ne diyeceğinizi bilmiyor musunuz? \"mi.com\" u deneyin.</string>
   <string name="voice_title">Komutunuzu konuşun...</string>
   <string name="voice_title_distinguish">İşleniyor...</string>
   <string name="voice_title_listening">Dinleniyor...</string>

@@ -246,8 +246,8 @@
   <string name="pref_camera_focusmode_value_default">Sürekli-resim</string>
   <string name="pref_camera_front_fb_title">Enhance skin tones</string>
   <string name="pref_camera_hand_night_title">HHT</string>
-  <string name="pref_camera_hdr_type_entry_live">Canlı</string>
-  <string name="pref_camera_hdr_type_entry_normal">Normal</string>
+  <string name="pref_camera_hdr_type_entry_live">Canlı HDR</string>
+  <string name="pref_camera_hdr_type_entry_normal">Normal HDR</string>
   <string name="pref_camera_hdr_type_title">HDR türü</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
@@ -272,6 +272,7 @@
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Odakla</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Seri çekim</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Deklanşör tuşu uzun basma</string>
+  <string name="pref_camera_manual_mode_title">Manuel</string>
   <string name="pref_camera_movie_solid_default">doğru</string>
   <string name="pref_camera_movie_solid_title">Resim Sabitleyici</string>
   <string name="pref_camera_movie_solid_value_off">yanlış</string>
@@ -392,6 +393,8 @@
   <string name="pref_grp_restore_settings">Ayarları sıfırla</string>
   <string name="pref_manual_exposure_title">Elle pozlama</string>
   <string name="pref_priority_storage_title">SD karta kaydedin</string>
+  <string name="pref_qc_focus_position_title">Fokus</string>
+  <string name="pref_qc_focus_position_value_default">0</string>
   <string name="pref_scan_qrcode_title">QR kod tara</string>
   <string name="pref_settings_mode">Kamera modu</string>
   <string name="pref_video_captrue_ability_title">Videodan fotoğraf alma</string>
@@ -462,6 +465,8 @@
   <string name="simple_mode_button_text_fast_video">Ağır çekim kamerayı kapat</string>
   <string name="simple_mode_button_text_hand_night">Gece modundan çık</string>
   <string name="simple_mode_button_text_hdr">HDR modundan çık</string>
+  <string name="simple_mode_button_text_manual">Manuel Modu Kapat</string>
+  <string name="simple_mode_button_text_manual_mode">Manuel Modu Kapat</string>
   <string name="simple_mode_button_text_panorama">Panoramadan çık</string>
   <string name="simple_mode_button_text_slow_video">Yavaş çekimden çık</string>
   <string name="simple_mode_title">Basit mod</string>

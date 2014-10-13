@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="weather_type">
+<item>Açık</item>
+<item>Bulutlu</item>
+<item>Kapalı</item>
+<item>Sisli</item>
+<item>Yağmur fırtınası</item>
+<item>Sağanak</item>
+<item>Sağanak</item>
+<item>Gök gürültülü sağanak</item>
+<item>Hafif yağmur</item>
+<item>Sağanak</item>
+<item>Hafif yağmur</item>
+<item>Hafif yağmur</item>
+<item>Karla karışık yağmur</item>
+<item>Kar fırtınası</item>
+<item>Kar</item>
+<item>Yğun kar yağışı</item>
+<item>Hafif kar yağışı</item>
+<item>Hafif kar yağışı</item>
+<item>Şiddetli kum fırtınası</item>
+<item>Kum fırtınası</item>
+<item>Kum</item>
+<item>Rüzgarlı</item>
+<item>Dolu yağışı</item>
+<item>Toz</item>
+<item>Sisli</item>
+<item>Dondurucu yağmur</item>
+<item>Veri yok!</item>
+</string-array>
+<string-array name="weather_indexes_uv_level">
+<item>Çok zayıf</item>
+<item>Zayıf</item>
+<item>Orta</item>
+<item>Güçlü</item>
+<item>Çok Güçlü</item>
+</string-array>
+<string-array name="wind_direction">
+<item>Wind N</item>
+<item>Wind NE</item>
+<item>Wind E</item>
+<item>Wind SE</item>
+<item>Wind S</item>
+<item>Wind SW</item>
+<item>Wind W</item>
+<item>Wind NW</item>
+</string-array>
+<string-array name="moon_desc">
+<item>Yeni Ay</item>
+<item>Hilal</item>
+<item>İlk Dördün</item>
+<item>Şişkin Ay</item>
+<item>Dolunay</item>
+<item>Şişkin Ay</item>
+<item>Son Dördün</item>
+<item>Hilal</item>
+<item>Yeni Ay</item>
+</string-array>
+</resources>

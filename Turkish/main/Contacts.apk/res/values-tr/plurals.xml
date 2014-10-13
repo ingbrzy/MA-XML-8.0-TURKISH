@@ -1,92 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d contacts with phone numbers</item>
-        <item quantity="one">1 contact with phone number</item>
+        <item quantity="other">%d kişi telefon numarası ile görüntüleniyor</item>
+        <item quantity="one">1 kişi telefon numarası ile görüntüleniyor</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">%d contacts</item>
-        <item quantity="one">1 contact</item>
+        <item quantity="other">Toplam %d kişi görüntüleniyor</item>
+        <item quantity="one">Toplam 1 kişi görüntüleniyor</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d kişi bulundu</item>
+        <item quantity="one">1 kişi bulundu</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d kişi</item>
+        <item quantity="one">1 kişi</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">merged from %0$d sources</item>
-        <item quantity="one">not merged</item>
+        <item quantity="other">%0$d kişi birleştirildi</item>
+        <item quantity="one">Birleştirilmemiş</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d groups</item>
-        <item quantity="one">1 group</item>
+        <item quantity="other">%0$d grup</item>
+        <item quantity="one">1 grup</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">%1$d people from %2$s</item>
-        <item quantity="one">%1$d person from %2$s</item>
+        <item quantity="other">%2$s\'den %1$d kişi</item>
+        <item quantity="one">%2$s\'den %1$d kişi</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d Kişi</item>
+        <item quantity="one">%1$d Kişi</item>
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
-        <item quantity="other">%1$d numbers</item>
-        <item quantity="one">%1$d number</item>
+        <item quantity="other">%1$d Kişi</item>
+        <item quantity="one">%1$d Kişi</item>
     </plurals>
     <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d Voicemails</item>
-        <item quantity="one">Voicemail</item>
+        <item quantity="other">%1$d sesli mesaj</item>
+        <item quantity="one">Sesli mesaj</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="zero">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
-        <item quantity="other">%1$d favorites</item>
-        <item quantity="one">%1$d favorite</item>
+        <item quantity="other">%1$d favori</item>
+        <item quantity="one">%1$d favori</item>
     </plurals>
     <plurals name="pick_recent_list_title">
-        <item quantity="other">%1$d recent contacts</item>
-        <item quantity="one">1 recent contact</item>
+        <item quantity="other">%1$d son kişi</item>
+        <item quantity="one">1 son kişi</item>
     </plurals>
     <plurals name="hint_search_contacts">
-        <item quantity="other">%1$d contacts</item>
-        <item quantity="one">%1$d contact</item>
+        <item quantity="other">%1$d kişi</item>
+        <item quantity="one">%1$d kişi</item>
     </plurals>
     <plurals name="hint_search_phone_numbers">
-        <item quantity="other">%1$d numbers</item>
-        <item quantity="one">%1$d number</item>
+        <item quantity="other">%1$d numara</item>
+        <item quantity="one">%1$d numara</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d contact emails</item>
-        <item quantity="one">1 contact email</item>
+        <item quantity="other">%1$d kişi e-posta</item>
+        <item quantity="one">1 kişi e-posta</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
-        <item quantity="other">%1$d favorites</item>
-        <item quantity="one">%1$d favorite</item>
+        <item quantity="other">%1$d favori</item>
+        <item quantity="one">%1$d favori</item>
     </plurals>
     <plurals name="pick_recent_contacts_list_title">
-        <item quantity="other">%1$d recent contacts</item>
-        <item quantity="one">%1$d recent contact</item>
-    </plurals>
+        <item quantity="other">%1$d son kişi</item>
+        <item quantity="one">%1$d son kişi</item>
+	 </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">" %1$d  contacts added"</item>
-        <item quantity="one">%1$d contact added</item>
+        <item quantity="other">%1$d kişi eklendi</item>
+        <item quantity="one">%1$d kişi eklendi</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%d people</item>
-        <item quantity="one">1 person</item>
+        <item quantity="other">%d Kişi</item>
+        <item quantity="one">1 Kişi</item>
     </plurals>
-    <plurals name="device_import_done_toast">
-        <item quantity="other">%1$d contacts imported</item>
-        <item quantity="one">%1$d contact imported</item>
+	 <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d kişi içe aktarıldı</item>
+        <item quantity="one">%1$d kişi içe aktarıldı</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">" %1$d kişi seçildi"</item>
+        <item quantity="zero">%1$d kişi seçildi</item>
+        <item quantity="one">%1$d kişi seçildi</item>
     </plurals>
 </resources>
