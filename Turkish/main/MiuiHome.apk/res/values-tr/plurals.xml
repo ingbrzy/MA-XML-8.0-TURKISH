@@ -7,6 +7,7 @@
 		<item quantity="two">%1$d öğe seçildi</item>
 		<item quantity="few">%1$d öğe seçildi</item>
 		<item quantity="many">%1$d öğe seçildi</item>
+		</plurals>
     <plurals name="uninstall_dialog_title_format">
         <item quantity="other">%1$s ve diğer %2$d uygulama kaldırılsın mı?</item>
         <item quantity="one">%s kaldırılsın mı?</item>
