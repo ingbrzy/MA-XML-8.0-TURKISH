@@ -21,10 +21,18 @@
     <item>En büyük</item>
   </string-array>
   <string-array name="welcome_notes_content">
-    <item>Notlar uygulamasını kullanarak düşüncelerinizi bir kenera yazın\n</item>
-    <item>Resim ve kişi ekleyin\n</item>
-    <item>Yapılacakları kontrol edin\n</item>
-    <item>Ve daha başka nice özellikler\n - Mi Cloud ile senkronizasyon\n  -Hatırlatıcı ayarlama\n\nDaha fazlasını öğrenmek için...\nhttp://www.miui.com/forum.php?lang=1\n</item>
+    <item>"Notlar uygulamasını kullanarak düşüncelerinizi bir kenera yazın
+	"</item>
+    <item>"Resim ve kişi ekleyin
+	"</item>
+    <item>"Yapılacakları kontrol edin
+	"</item>
+    <item>"Ve bir çok özellik!
+	 -Mi Cloud ile senkronizasyon
+	 -Hatırlatıcı ayarlama
+	 
+	 Daha fazlasını öğrenmek için...\nhttp://www.miui.com/forum.php?lang=1\n
+	 "</item>
   </string-array>
   <integer-array name="welcome_notes_color">
     <item>0</item>
