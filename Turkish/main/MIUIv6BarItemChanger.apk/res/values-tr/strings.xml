@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_license">Bu işlemin riski size aittir!</string>
+  <string name="about_name">MIUIv6 Geçiş Düzenleme 1.1</string>
+  <string name="about_text1">Yazar:</string>
+  <string name="about_text2">don11995</string>
+  <string name="about_text3">Concept:</string>
+  <string name="about_text4">stas2z</string>
+  <string name="about_text5">Icon:</string>
+  <string name="about_text6">DriffeX</string>
+  <string name="app_name">MIUIv6 Geçiş Düzenleme</string>
+  <string name="data_access">Erişim</string>
+  <string name="data_airplane">Uçak Modu</string>
+  <string name="data_autolight">Oto Parlaklık</string>
+  <string name="data_block">Kilitle</string>
+  <string name="data_bluetooth">Bluetooth</string>
+  <string name="data_buttons">Tuşlar devre dışı</string>
+  <string name="data_gps">GPS</string>
+  <string name="data_guest">Ziyaretçi</string>
+  <string name="data_light">El Feneri</string>
+  <string name="data_mobile">Mobil Veri</string>
+  <string name="data_rotate">Döndür</string>
+  <string name="data_screenshot">Ekran Görüntüsü</string>
+  <string name="data_silent">DND</string>
+  <string name="data_sound">Sessiz</string>
+  <string name="data_speed">Performans</string>
+  <string name="data_sync">Senkronize</string>
+  <string name="data_vibration">Titreşim</string>
+  <string name="data_wifi">Wi-Fi</string>
+  <string name="data_wifispot">Wi-Fi İ.P</string>
+  <string name="err_get_data">Veritabanı okunamıyor!</string>
+  <string name="err_init_settings">Geçerli ayarlar alınamadı</string>
+  <string name="err_reset">Sıfırlanırken hata!</string>
+  <string name="err_saving">Ayarlar kaydedilemedi!</string>
+  <string name="howtouse_text">"1. Geçişlerin yerlerini değiştirmek için sürükleyip bırakın.
+2. \"Kaydet\" butonuna basın.
+3. Tamamdır!"</string>
+  <string name="howtouse_text1">\"Sıfırla\" butonu ile varsayılan ayarlar sıfırlanır.</string>
+  <string name="main_header">"Geçişleri istediğiniz gibi sürükleyip bırakın."</string>
+  <string name="main_menu_about">Hakkında</string>
+  <string name="main_menu_howtouse">Hızlı Eğitici</string>
+  <string name="main_reset_button">Sıfırla</string>
+  <string name="main_save_button">Kaydet</string>
+  <string name="main_settings_question">Ayarları sıfırlamak istiyor musunuz?</string>
+  <string name="main_settings_question_no">Hayır</string>
+  <string name="main_settings_question_yes">Evet</string>
+  <string name="main_settings_saved">Ayarlar kaydedildi</string>
+</resources>
