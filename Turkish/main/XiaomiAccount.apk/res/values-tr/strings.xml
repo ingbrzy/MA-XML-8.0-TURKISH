@@ -27,9 +27,9 @@
   <string name="btn_activate">Etkinleştir</string>
   <string name="btn_return">Geri</string>
   <string name="button_cancel">İptal</string>
-  <string name="button_unbind">&lt;u&gt;Ba&amp;#287;lant&amp;#305;y&amp;#305; kes&lt;/u&gt;</string>
+  <string name="button_unbind">Oturumu kapat</string>
   <string name="captcha">Kodu girin</string>
-  <string name="change_account">&lt;u&gt;Hesab&amp;#305; de&amp;#287;i&amp;#351;tir&lt;/u&gt;</string>
+  <string name="change_account">&lt;u&gt;Hesabı değiştir&lt;/u&gt;</string>
   <string name="check_phone_error_title">Eşitleme aktif değil</string>
   <string name="check_phone_io_error">Ağ hatası</string>
   <string name="checking_account">Şifre kontrol ediliyor...</string>
@@ -62,15 +62,15 @@
   <string name="error_unknown">"Oturum açılamıyor"</string>
   <string name="error_user_name">Geçersiz kullanıcı adı</string>
   <string name="error_verify_code">Girdiğiniz kod yanlış</string>
-  <string name="failed_to_send_activate_email">Etkinleştirme e-mail\'i gönderilemedi</string>
+  <string name="failed_to_send_activate_email">Aktivasyon e-postası gönderilemedi</string>
   <string name="find_device_dspt">Cihazınız uzaktan kilitlenebilsin ve temizlenebilsin.</string>
   <string name="find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com\'u ziyaret edin.</string>
-  <string name="foreign_login">&lt;u&gt;&amp;#220;lke kodu ekle&lt;/u&gt;</string>
-  <string name="forget_password">&lt;u&gt;&amp;#350;ifremi unuttum&lt;/u&gt;</string>
+  <string name="foreign_login">&lt;u&gt;Ülke kodu ekle&lt;/u&gt;</string>
+  <string name="forget_password">&lt;u&gt;Şifremi unuttum&lt;/u&gt;</string>
   <string name="get_back_pwd">Hesap şifresini kurtar</string>
   <string name="get_verify_code">Doğrulama kodu al</string>
   <string name="getting_verify_code">Alınıyor</string>
-  <string name="header_data_and_synchronization">Veri &amp; Eşitle</string>
+  <string name="header_data_and_synchronization">Veri ve Senkronize</string>
   <string name="i_know">Tamam</string>
   <string name="input_captcha_hint">Kodu girin</string>
   <string name="input_password_hint">Şifrenizi girin</string>
@@ -82,6 +82,7 @@
   <string name="internet_comm">Mesajlaşma servisleri</string>
   <string name="license_host_unreachable">Ağa bağlanılamıyor. Bu bilgiyi görmeniz için %s\'e gidin.</string>
   <string name="loading">Yükleniyor...</string>
+  <string name="login">Oturum aç</string>
   <string name="login_failed">"Oturum açılamıyor"</string>
   <string name="login_instead_reg">Bu numarayı kullan</string>
   <string name="login_instead_reg_with_email">Bu e-posta adresini kullan</string>
@@ -139,7 +140,7 @@
   <string name="micloud_user_space_title">Depolama alanı</string>
   <string name="micloud_via_int_sms_alert">Etkinleştirme mesajı operatör tarafından uluslararası tarifeye göre ücretlendirilecektir.</string>
   <string name="micloud_via_sms_alert">Etkinleştirme mesajı operatör tarafından tarifenize göre ücretlendirilecektir.</string>
-  <string name="micloud_welcome_skip_login">&lt;u&gt;Bu ad&amp;#305;m&amp;#305; atla&lt;/u&gt;</string>
+  <string name="micloud_welcome_skip_login">&lt;u&gt;Bu adımı atşa&lt;/u&gt;</string>
   <string name="micloud_welcome_skip_login_provision">&lt;u&gt;Atla&lt;/u&gt;</string>
   <string name="mili_center">Mi Kredi</string>
   <string name="mipay_center">Banka hesabı</string>
@@ -166,7 +167,7 @@
   <string name="reg_success">Hesap oluşturuldu</string>
   <string name="reg_success_summary">%1$s hesabınızla bağlanmış durumda. Oturum açarak kullanabilir ya da şifre değiştirebilirsiniz.</string>
   <string name="reg_type_email">E-posta kullanarak hesap oluşturun</string>
-  <string name="reg_type_other_ways">&lt;u&gt;Di&amp;#287;er yollar&amp;#305; kullanarak hesap olu&amp;#351;tur&lt;/u&gt;</string>
+  <string name="reg_type_other_ways">&lt;u&gt;E-Posta adresi kullanarak kayıt ol&lt;/u&gt;</string>
   <string name="reg_type_other_ways_title">Diğer yolları kullanarak hesabı oluşturun</string>
   <string name="reg_type_phone">Telefon numarasını kullanarak hesap oluşturun</string>
   <string name="reg_using_other_phone">Başka bir telefon numarası kullanarak kayıt edin</string>
@@ -177,7 +178,7 @@
   <string name="register">Hesap oluşturun</string>
   <string name="register_account_goto_email">Gelen Kutusu\'na git</string>
   <string name="register_account_verified_confirm">Zaten doğrulanmış bir hesabınız var</string>
-  <string name="register_by_email">&lt;u&gt;E-mail ile kay&amp;#305;t&lt;/u&gt;</string>
+  <string name="register_by_email">&lt;u&gt;E-Posta adresi kullanarak kayıt ol&lt;/u&gt;</string>
   <string name="relogin">Tekrar giriş yapın</string>
   <string name="relogin_notice">Yeniden oturum açmanız gerekiyor</string>
   <string name="remove_account_notice">Mi Hesabınızla senkronize ettiğiniz cihazınızdaji mesajlar, kişiler, müzikler ve notlar ile ne yapmak istiyorsunuz?</string>
@@ -191,7 +192,7 @@
   <string name="sim_changed_notification_content">SIM kart aktif değil</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Oturum açmayı geç</string>
-  <string name="skip_login_u">&lt;u&gt;Oturum a&amp;#231;may&amp;#305; ge&amp;#231;&lt;/u&gt;</string>
+  <string name="skip_login_u">&lt;u&gt;Oturum açmayı atla&lt;/u&gt;</string>
   <string name="skip_register">Kayıt olmayı atla</string>
   <string name="skip_setup_account_msg">Daha sonra Ayarlar\'dan bir Mi Hesabı oluşturabilirsiniz.</string>
   <string name="skip_setup_account_title">Kurulumu geç</string>
@@ -206,12 +207,15 @@
   <string name="updated_contacts">%s kişi güncellendi</string>
   <string name="updated_nothing">Senkronize edilecek bir şey bulunamadı</string>
   <string name="user_agreement">Kullanıcı sözleşmesi</string>
-  <string name="user_agreement_p1">Giriş yaparak Xiaomi\'ye ait şunları kabul ediyorsunuz:</string>
+  <string name="user_agreement_p1">"Oturum açtığınızda kabul etmiş olduklarınız;
+  "</string>
   <string name="user_agreement_p2">Kullanıcı sözleşmesi</string>
   <string name="user_agreement_p3">ve</string>
   <string name="user_agreement_p4">Gizlilik Politikası</string>
-  <string name="user_agreement_p5">Hesap açtığınızda kabul etmiş olduklarınız</string>
-  <string name="user_agreement_p6">Xiaomi\'nin kabul ediyorsunuz</string>
+  <string name="user_agreement_p5">"Hesap açtığınızda kabul etmiş olduklarınız;
+  "</string>
+  <string name="user_agreement_p6">"Kabul etmiş olduklarınız;
+  "</string>
   <string name="vcode">Doğrulama kodu</string>
   <string name="vcode_notification_title">Giriş doğrulamanız tam değil</string>
   <string name="vcode_prompt_long">Mi Security tarafından oluşturulan doğrulama kodunu giriniz</string>

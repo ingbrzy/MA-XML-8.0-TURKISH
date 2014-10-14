@@ -122,7 +122,7 @@
   <string name="confirm_delete_has_cloud_local_image_video">&lt;b&gt;Yerel ve buluttaki&lt;/b&gt; %s öğe silinsin mi?</string>
   <string name="confirm_delete_has_local_image_video">%s öğe silinsin mi?</string>
   <string name="confirm_delete_home_merge_item">"Telefonda ve bulutta bulunan %s resmi silinsin mi?"</string>
-  <string name="confirm_delete_init_message">Bu resim cihazınızdan ve Mi Cloud\'dan silinecektir. Sadece yereldekini silmek istiyorsanız, lütfen \"Yerel\" \'de işlem yapın.</string>
+  <string name="confirm_delete_init_message">Bu resim cihazınızdan ve Bulut alanından silinecektir. Sadece yereldekini silmek istiyorsanız, lütfen \"Yerel\" \ sekmesinde işlem yapın.</string>
   <string name="confirm_delete_init_title">İpucu</string>
   <string name="confirm_delete_pictures">%s resmi sil</string>
   <string name="confirm_delete_system_album">%s  bir sistem albümüdür.</string>
@@ -245,7 +245,7 @@
   <string name="home_my_captured_items">"Kamera rulosundaki görüntüler"</string>
   <string name="home_page_tab_cloud">Bulut</string>
   <string name="home_page_tab_local">Yerel</string>
-  <string name="home_page_tab_photo">Resim</string>
+  <string name="home_page_tab_photo">Fotoğraf</string>
   <string name="how_many_pics">%d fotoğraf</string>
   <string name="how_many_sub_folders">%d klasör</string>
   <string name="how_many_videos">%d video</string>
