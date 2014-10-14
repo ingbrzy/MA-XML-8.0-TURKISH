@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accept_modify_call_request_prompt">Modifiye edilmiş aramayı kabul et?</string>
+  <string name="accept_modify_call_request_prompt">Değiştirilmiş arama kabul edilsin mi?</string>
   <string name="accessibility_call_muted">Telefon sessiz.</string>
   <string name="accessibility_speakerphone_enabled">Hoparlör etkin.</string>
   <string name="add_fdn_contact">Sabit arama numarası ekle</string>
@@ -225,8 +225,8 @@
   <string name="fraud_call_answer">Cevapla</string>
   <string name="fraud_call_decline">Reddet</string>
   <string name="fraud_call_waring">Lütfen dikkatli olun: Kişisel bilgileri içeren mesajlar göndermeden önce gönderdiğiniz kişinin kimliğini telefon veya video ile tekrardan doğrulayın.</string>
-  <string name="fw_change_failed">Yönlendirilen numara değiştirilemiyor.\nProblem devam ederse operatörünüz ile iletişime geçin.</string>
-  <string name="fw_get_in_vm_failed">Şu anki numara ayarları alınamıyor ve kayıt edilemiyor.\nYine de başka bir servis sağlayıcıya geçilsin mi?</string>
+  <string name="fw_change_failed">Yönlendirilen numara değiştirilemiyor.Problem devam ederse operatörünüz ile iletişime geçin.</string>
+  <string name="fw_get_in_vm_failed">Şu anki numara ayarları alınamıyor ve kayıt edilemiyor.Yine de başka bir servis sağlayıcıya geçilsin mi?</string>
   <string name="general_news_settings">Genel Haberler</string>
   <string name="get_pin2">PIN2 girin</string>
   <string name="goPrivate">özele geç</string>
@@ -304,7 +304,7 @@
   <string name="mismatchPin">Girdiğiniz PIN kodu hatalı. Tekrar deneyin.</string>
   <string name="mismatchPin2">Girdiğiniz PIN2 kodu hatalı. Tekrar deneyin.</string>
   <string name="mobile_networks">Mobil ağ ayarları</string>
-  <string name="modify_call_failure_str">Medifiye edilmiş arama isteği başarısız oldu\n</string>
+  <string name="modify_call_failure_str">Medifiye edilmiş arama isteği başarısız oldu</string>
   <string name="modify_call_option_title">Hangi tür bir arama?</string>
   <string name="modify_call_option_voice">Sadece ses</string>
   <string name="modify_call_option_vt">VT</string>
@@ -421,7 +421,7 @@
   <string name="other_settings">Diğer arama ayarları</string>
   <string name="password_title">Şifre</string>
   <string name="pause_prompt_no">Hayır</string>
-  <string name="pause_prompt_str">Ses tonları gönderiliyor\n</string>
+  <string name="pause_prompt_str">Ses tonları gönderiliyor</string>
   <string name="pause_prompt_yes">Evet</string>
   <string name="payphone">Ankesörlü telefon</string>
   <string name="phoneAppLabel">Telefon</string>
@@ -598,7 +598,7 @@
   <string name="upgrade_vt_tx_prompt">Aramanızı Video transferi görüşmesine yükseltmek ister misiniz?</string>
   <string name="username_title">Kullanıcı adı</string>
   <string name="vibrate_on_ring_title">Zil sesi çalarken titret</string>
-  <string name="vm_change_failed">Sesli mesaj numarası değiştirilemiyor.\nEğer problem devam ederse operatörünüzle iletişime geçin.</string>
+  <string name="vm_change_failed">Sesli mesaj numarası değiştirilemiyor.Eğer problem devam ederse operatörünüzle iletişime geçin.</string>
   <string name="vm_changed">Sesli mesaj numarası değiştirildi.</string>
   <string name="voice_privacy">Ses gizliliği</string>
   <string name="voice_privacy_summary">Gelişmiş gizlilik modunu etkinleştir</string>
@@ -612,7 +612,7 @@
   <string name="voicemail_provider">Servis</string>
   <string name="voicemail_settings">Kurulum</string>
   <string name="voicemail_settings_number_label">Sesli mesaj numarası</string>
-  <string name="vt_init_fail_str">VT başlatma başarısız oldu. VoLTE\n çağrı dönüştürülüyor</string>
-  <string name="wait_prompt_str">Aşağıdaki tonları gönderilsin mi? \n</string>
+  <string name="vt_init_fail_str">VT başlatma başarısız oldu. VoLTE çağrı dönüştürülüyor</string>
+  <string name="wait_prompt_str">Aşağıdaki tonları gönderilsin mi? </string>
   <string name="wild_prompt_str">\"Wild\" karakteri şununla değiştirin:</string>
 </resources>
