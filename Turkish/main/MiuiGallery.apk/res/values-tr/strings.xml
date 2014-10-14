@@ -254,6 +254,11 @@
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">İçe Aktarma Tamamlandı</string>
   <string name="import_fail">İçe aktarma başarısız</string>
+  <string name="impunity_declaration">Galeri uygulaması bazı hizmetler için ağa bağlanabilir Kabul ediyor musunuz?</string>
+  <string name="impunity_declaration_ignore">"Tekrar gösterme"</string>
+  <string name="impunity_declaration_settings">Ağ bildirimini göster</string>
+  <string name="impunity_declaration_summary">Galeri uygulaması başlayınca herzaman ağ bildirimi göster</string>
+  <string name="impunity_declaration_title">Ağ bildirimi</string>
   <string name="initial_cloud_button_text">Giriş Yap</string>
   <string name="initial_cloud_text">Dilediğiniz yerden resimlerinize ulaşın ve görüntüleyin.</string>
   <string name="initializing_cloud">Başlatılıyor...</string>
@@ -321,7 +326,8 @@
   <string name="must_pick_file">Bir resim seçin</string>
   <string name="negative">Negatif</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
-  <string name="new_device_tips">Yeni cihaz bulundu. Görüntülemek için dokunun</string>
+  <string name="new_device_tips">"Cihazı örüntülemek için dokunun
+  "</string>
   <string name="no">Hayır</string>
   <string name="no_albums_alert">Uygun albüm bulunamadı</string>
   <string name="no_connectivity">Bazı konumlar şebeke sorunları sebebiyle tanımlanamıyor</string>
@@ -335,7 +341,7 @@
   <string name="none_picture">Resim yok</string>
   <string name="not_auto_create_recent_album">Favori oluşturmayı geri al</string>
   <string name="not_show_hidden_albums">Gizli albümleri gösterme</string>
-  <string name="only_show_camera_in_first_page">Sadece kamera albümünün resimlerini ilk sayfada göster</string>
+  <string name="only_show_camera_in_first_page">Kamera resimlerini ilk sayfada göster</string>
   <string name="only_show_camera_in_first_page_summary">Kapatıldığında bulut albumünün resimleri ilk sayfada gösterilecek.</string>
   <string name="open">Etkin</string>
   <string name="open_public_message">Bir URL oluşturun ve diğerlerine gönderin</string>
