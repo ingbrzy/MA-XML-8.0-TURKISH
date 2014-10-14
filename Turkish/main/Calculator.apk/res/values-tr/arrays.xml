@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operators">
+        <item>(</item>
+        <item>)</item>
+        <item>!</item>
+        <item>ln</item>
+        <item>log</item>
+        <item>√</item>
+        <item>÷</item>
+        <item>×</item>
+        <item>+</item>
+        <item>−</item>
+        <item>.</item>
+        <item>^</item>
+        <item>tan</item>
+        <item>sin</item>
+        <item>cos</item>
+        <item>π</item>
+        <item>=</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>sol parantez</item>
+        <item>sağ parantez</item>
+        <item>faktöriyel</item>
+        <item>doğal logaritma</item>
+        <item>logaritma</item>
+        <item>kare kök</item>
+        <item>bölü</item>
+        <item>çarpı</item>
+        <item>artı</item>
+        <item>eksi</item>
+        <item> nokta </item>
+        <item>güç</item>
+        <item>tanjant</item>
+        <item>sinüs</item>
+        <item>kosinüs</item>
+        <item>pi</item>
+        <item>eşittir</item>
+    </string-array>
+</resources>
