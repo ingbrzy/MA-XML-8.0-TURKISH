@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Uygulamalar</string>
-  <string name="Dashboard_HIPS_Disable_Content">Devre dışı bırakmak MIUI\'nin uygulama isteklerini izlemesini, güvenliğinizin ve gizliliğinizin korunmasını durduracaktır.\nDevre dışı bırakmak istediğinize emin misiniz?</string>
+  <string name="Dashboard_HIPS_Disable_Content">"Devre dışı bırakmanız MIUI\'ın uygulama isteklerini izlemesini, güvenliğinizin ve gizliliğinizin korunmasını durduracaktır.
+  Devre dışı bırakmak istediğinize emin misiniz?"</string>
   <string name="Dashboard_HIPS_Disable_Title">İzinler</string>
   <string name="Dashboard_Log">Kayıtlar</string>
   <string name="Dashboard_Log_Clear_Content">Bütün loglar silinecektir.</string>
-  <string name="Dashboard_Log_Clear_Title">Logları temizleyin</string>
+  <string name="Dashboard_Log_Clear_Title">Logları temizle</string>
   <string name="Dashboard_Perm">İzinler</string>
   <string name="Dashboard_Perm_AutoStart">Otomatik Başlatma izinleri</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Cihazınız açıldığında hangi uygulamaların başlatılacağını kontrol edin</string>
@@ -21,26 +22,29 @@
   <string name="Dashboard_Perm_SU">Root erişimini yönet</string>
   <string name="Dashboard_Perm_SU_Desc">%1$d uygulama için root erişimi görüntüleniyor</string>
   <string name="Dashboard_Perm_SU_Disabled">Root erişimi devre dışı</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable">MIUI\'nin kararlı sürümlerinde Root erişimi kullanılamamaktadır</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">3. parti uygulamalara ROOT erişim izni verilmesi sistem kararsızlığına, veri kayıplarına ve hatta donanımın zarar görmesine sebep olabilir. \n\n Root erişimi yetkisi almak için MIUI\'nin geliştirici sürümünü yüklemelisiniz.</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI\'yi indir</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable">MIUI\'ın kararlı sürümlerinde Root erişimi kullanılamamaktadır</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"3. parti uygulamalara ROOT erişim izni verilmesi sistem kararsızlığına, veri kayıplarına ve hatta donanımın zarar görmesine sebep olabilir.
+  
+  Root erişimi yetkisi almak için MIUI\'ın geliştirici sürümünü yüklemelisiniz."</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI ROM indir</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Root erişimi</string>
-  <string name="Dashboard_Su_Enable_Content">Bunu etkinleştirdiğiniz taktirde uygulamaları root istek göndermelerine izin vermiş olacaksınız.\nNot: Bu izne sahip uygulamalar sisteminizin düzgün çalışmamasına, kişisel bilgilerin, sistemin ve donanımın zarar görmesine neden olabilir. Etkinleştirmek istediğinize emin misiniz?</string>
+  <string name="Dashboard_Su_Enable_Content">"Etkinleştirdiğiniz taktirde uygulamaların root istek göndermelerine izin vermiş olacaksınız.
+  Not: Bu izne sahip uygulamalar sisteminizin düzgün çalışmamasına, kişisel bilgilerin, sistemin ve donanımın zarar görmesine neden olabilir. Etkinleştirmek istediğinize emin misiniz?"</string>
   <string name="Dashboard_Su_Enable_Title">Root erişimi</string>
-  <string name="Generic_Canceling">İptal ediliyor\u2026 </string>
+  <string name="Generic_Canceling">İptal ediliyor... </string>
   <string name="Generic_Check">Kontrol et</string>
   <string name="Generic_Clean">Temizle</string>
   <string name="Generic_Configuration">Ayarlar</string>
-  <string name="Generic_Copyright">LBE Privacy Guard tarafından desteklenmektedir</string>
+  <string name="Generic_Copyright"/>
   <string name="Generic_Disable">Devre dışı bırak</string>
   <string name="Generic_Enable">Etkinleştir</string>
   <string name="Generic_Good">İyi</string>
   <string name="Generic_HideSystemApp">Sistem uygulamalarını gizle</string>
   <string name="Generic_InvalidInput">Geçersiz giriş</string>
-  <string name="Generic_Loading">Yükleniyor\u2026</string>
+  <string name="Generic_Loading">Yükleniyor...</string>
   <string name="Generic_MonitoredApp">İzlenen uygulamalar (%1$d)</string>
-  <string name="Generic_Operating">İşleniyor\u2026</string>
+  <string name="Generic_Operating">İşleniyor...</string>
   <string name="Generic_Optimize">Optimize et</string>
   <string name="Generic_Service_Disabled">Kapalı</string>
   <string name="Generic_Service_Enabled">Açık</string>
@@ -197,21 +201,21 @@
   <string name="HIPS_Perm_Wakelock_Hint">%1$s uygulama cihazın uyku moduna geçmesini engelleyebilir</string>
   <string name="HIPS_SecurityPrompt_Accept">İzin ver (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">İzin ver</string>
-  <string name="HIPS_SecurityPrompt_Caption">Güvenlik uyarısı</string>
+  <string name="HIPS_SecurityPrompt_Caption">Güvenlik uyarısı!!</string>
   <string name="HIPS_SecurityPrompt_Next">İleri</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Root erişimi</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step1">%1$s root erişimi verilsin mi?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step1">%1$s uygulamasına root erişimi verilsin mi?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT erişimine izin vermek cihazınızın kararsızlaşmasına neden olabilir.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Kişisel bilgilerin (hesaplar, şifreler ve mesajlar) güvenliği tehlikeye atılabilir.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Uygulamalara root erişimi vermek cihazınızın donanımına zarar verebilir.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Uygulamalara erişim izni vermek kendi sorumluluğunuzdadır.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step6">%1$s root erişimi verilsin mi?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step6">%1$s uygulamasına root erişimi verilsin mi?</string>
   <string name="HIPS_SecurityPrompt_Reject">Reddet (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Tekrar sorma</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s şunu yapmaya çalışıyor: %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d izin</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d izinleri - &lt;font color="#478800"&gt;Güvenilir&lt;/font&gt;</string>
-  <string name="Privacy_App_Finish">Bitti</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d izin - &lt;font color="#478800"&gt;Güvenilir&lt;/font&gt;</string>
+  <string name="Privacy_App_Finish">Bitir</string>
   <string name="Privacy_App_Installed">Uygulama yüklendi</string>
   <string name="Privacy_App_Launch">Başlat</string>
   <string name="Privacy_App_Log">Kayıtlar</string>
@@ -223,7 +227,7 @@
   <string name="Privacy_App_Trust_Summary_On">Bu uygulama sistemin diğer kısımlarına ulaşmaya çalışırsa uyar</string>
   <string name="Privacy_App_Uninstall">Kaldır</string>
   <string name="Privacy_Perm_Count">%1$d izin verildi \"|\" %2$d reddedildi</string>
-  <string name="Su_Enable_Dialog">%1$s root erişimi istiyor.</string>
+  <string name="Su_Enable_Dialog">%1$s uygulaması root erişimi istiyor.</string>
   <string name="Su_Package_Forbidden">%1$s root erişimi yok.</string>
   <string name="Su_Unavailable">MIUI kararlı kurulumunda root erişimi etkin değildir. Root erişimi için MIUI geliştirici sürümünü yüklemeniz gerekir. </string>
   <string name="SysOpt_Boost_AutoStart">Otomatik başlatma izni</string>
