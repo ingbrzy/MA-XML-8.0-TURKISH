@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
+
 <resources>
 <string name="app_name">Ara</string>
 <string name="apps_search_activity"/>
@@ -8,7 +8,7 @@
 <string name="clear_shortcuts_agree">Kısayolları temizle</string>
 <string name="clear_shortcuts_disagree">"Kısayolları temizleme"</string>
 <string name="clear_shortcuts_prompt">"Sık kullandığınız arama önerilerini temizlemek istiyor musunuz?
-internet geçmişini temizlemek için İnternet uygulamasının ayarlarını kullanın"</string>
+İnternet geçmişini temizlemek için İnternet uygulamasının ayarlarını kullanın"</string>
 <string name="clear_shortcuts_summary">Sık kullanılan arama önerilerini temizle</string>
 <string name="corpus_description_apps">Yüklü uygulamalar</string>
 <string name="corpus_description_web">Yer imleri</string>
