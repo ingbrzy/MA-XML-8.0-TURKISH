@@ -34,6 +34,7 @@
   <string name="SMS_MODENAME">Varsayılan Engelleme listesi</string>
   <string name="SMS_PREFIX">Engellenmiş ön eki listesi</string>
   <string name="SMSpass">Mesajlara izin ver</string>
+  <string name="STRANGER_BLOCK">Yabancı Engelleme Listesi</string>
   <string name="ad_block_hint">%d engellenmiş</string>
   <string name="ad_install_monitor">Adware için uygulamaları incele</string>
   <string name="ad_install_monitor_hint">Uygulamaları yüklerken adware kontrolü yap</string>
@@ -57,6 +58,7 @@
   <string name="blacklist_prefix_add_hint">Bu ön ek ile başlayan tüm numaraları engelle</string>
   <string name="block_message_number">Mesajlar: %d</string>
   <string name="block_phone_number">Çağrılar: %d</string>
+  <string name="button_to_setting">Ayarlar</string>
   <string name="call_delete_hint">Seçili numaradan gelen çağrılar silinsin mi?</string>
   <string name="cancle">İptal Et</string>
   <string name="close_callwait">Kapalı</string>
@@ -88,6 +90,7 @@
   <string name="dlg_import_blacklist">Engelleme listesine ekleniyor...</string>
   <string name="dlg_import_whitelist">İstisnalar listesine ekleniyor...</string>
   <string name="dlg_keyword_ok">Kaydet</string>
+  <string name="dlg_message_not_open_stranger_identify">Telefon ayarlarından bilinmeyen numaraları belirlemeyi etkinleştirmeniz gerekir. </string>
   <string name="dlg_no_block">Bu numaranın engeli kaldırılsın mı?</string>
   <string name="dlg_no_block_ok">Engeli kaldır</string>
   <string name="dlg_remove_address_blacklist">Bu konum Engelleme listesinden kaldırılsın ve ilgili mesajlar gelen kutusuna taşınsın mı?</string>
@@ -99,6 +102,7 @@
   <string name="dlg_remove_whitelist_ing">İstisnalardan kaldırılıyor...</string>
   <string name="dlg_retore">Gelen kutusuna geri yüklensin mi ?</string>
   <string name="dlg_retore_ok">Geri yükle</string>
+  <string name="dlg_title_not_open_stranger_identify">Bilinmeyen numaraları belirlemeyi etkinleştir</string>
   <string name="dlg_white_address_antispam_message">Bu konumu istisnalar listesine ekle?</string>
   <string name="dlg_white_antispam_hint">İstisnalar</string>
   <string name="dlg_white_antispam_message">Bu numara istisnalara eklensin mi?</string>
@@ -116,6 +120,18 @@
   <string name="info_unantispam_sms">Mesajlara izin ver</string>
   <string name="label_callwait">Çağrı bekliyor</string>
   <string name="log_count">(%d)</string>
+  <string name="mark_agent">Satış acentası</string>
+  <string name="mark_agent_block">Acenta olarak işaretlendi</string>
+  <string name="mark_express">Kurye</string>
+  <string name="mark_express_block">Kurye olarak işaretlendi</string>
+  <string name="mark_fraud">Dolandırıcı</string>
+  <string name="mark_fraud_block">Dolandırıcılık olarak işaretlendi</string>
+  <string name="mark_meal">Yiyecek dağıtım</string>
+  <string name="mark_meal_block">Yiyecek dağıtım olarak işaretlendi</string>
+  <string name="mark_number_info">"
+ aslında bu çağrılar bazen kullanışlı olabilir. Eğer gelen aramaları almak istiyorsanız bu numaraları engellemeyin."</string>
+  <string name="mark_sell">Telemarket</string>
+  <string name="mark_sell_block">Telemarket olarak işaretlendi</string>
   <string name="marked_by_others">"diğer kullanıcılar %d gibi işaretledi "</string>
   <string name="marked_by_user">" öğe işaretlendi:"</string>
   <string name="menu_add">Ekle</string>
@@ -242,11 +258,12 @@
   <string name="st_title_man_editwhitelist">İstisnalar listesine eklemek için bir alan kodu seç</string>
   <string name="st_title_man_head_addblacklist">Numara ön ekini Engelleme listesine ekle</string>
   <string name="st_title_man_head_addwhitelist">Numara ön ekini istisnalara ekle</string>
-  <string name="st_title_mode_choose_group">engellenen listesi kuralları</string>
-  <string name="st_title_not_sim">Empty</string>
+  <string name="st_title_markednumber_group">Numara işaretlendi</string>
+  <string name="st_title_mode_choose_group">Engelleme listesi kuralları</string>
+  <string name="st_title_not_sim">Boş</string>
   <string name="st_title_open_antispam">Engelleme Listesi</string>
   <string name="st_title_settings_other_group">Ek ayarlar</string>
-  <string name="st_title_show_antispamnotification">Engellenen Çağrılar İçin Bildirim</string>
+  <string name="st_title_show_antispamnotification">Engelleme Bildirimleri</string>
   <string name="st_title_sim_card">%1$s-SIM %2$s</string>
   <string name="st_title_whitelist_numbers">İstisnalar</string>
   <string name="sure">Onayla</string>

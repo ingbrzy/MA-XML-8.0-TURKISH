@@ -598,6 +598,8 @@
   <string name="location_sources_heading">Konum kaynakları</string>
   <string name="location_street_level">Let apps use GPS on your phone to pinpoint your location</string>
   <string name="location_title">Konumum</string>
+  <string name="lock_after_timeout">Otomatik kilitle</string>
+  <string name="lock_after_timeout_summary">%1$s sonra uyku moduna geç</string>
   <string name="lock_screen_unlock_show">Direkt olarak şifre giriciyi göster</string>
   <string name="lock_screen_unlock_show_summary">Diğer kilit ekranlarını kullanma, doğrudan kilit açıcıya git</string>
   <string name="lock_settings">Kilit Ekranı</string>
@@ -758,6 +760,9 @@ Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "&lt;b&gt;
   <string name="open_wifi_connect_title">%1$s ile bağlandı</string>
   <string name="other_personal_settings">Ek ayarlar</string>
   <string name="other_relative">Diğer yetkiler</string>
+  <string name="owner_info_settings_edit_text_hint">Kilit ekranında görüntülenecek metni yazın</string>
+  <string name="owner_info_settings_summary"/>
+  <string name="owner_info_settings_title">Sahip Bilgileri</string>
   <string name="passwordIncorrect">Girdiğiniz şifre hatalı</string>
   <string name="password_guard">Şifre</string>
   <string name="permission_detail_info">Yetki bilgilerini görüntüle</string>
@@ -1133,7 +1138,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="unlock_set_enter_system">Sisteme doğrudan erişme</string>
   <string name="unlock_set_enter_system_summary">Etkinleştirirseniz kilit açma ekranı teması kullanılmayacak ve doğrudan sistem erişimi sağlanacaktır.</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">"Şekil, PIN veya şifre güvenliğini değiştir veya devre dışı bırak"</string>
-  <string name="unlock_set_unlock_launch_picker_title">Kilit Ekranı</string>
+  <string name="unlock_set_unlock_launch_picker_title">Ekran Kilidini Seç</string>
   <string name="unlock_set_unlock_mode_password">"Şifre"</string>
   <string name="unlock_set_unlock_mode_pin">"Pin kodu"</string>
   <string name="unlock_set_unlock_none_title">Kaydırma</string>

@@ -6,9 +6,15 @@
   <string name="disagree">İptal</string>
   <string name="input_method_category">"E-posta, not yazmak ve diğer her alanda kullanmak için varsayılan klavyenizi seçin. Unutmayın ki istediğiniz her zaman üçüncü parti klavye uygulamalarını yükleyebilirsiniz."</string>
   <string name="input_method_setting">Varsayılan klavyeyi seçin</string>
+  <string name="locale_picker_desc">"Daha sonra konumunuzu değiştirmek isterseniz, telefonunuzu fabrika verilerine sıfırlamanız gerekir
+  "</string>
+  <string name="locale_picker_title">Konumunuzu seçin</string>
   <string name="logo_congratulation">Her şey tamam!</string>
+  <string name="miui_privacy_policy_no_network">Ağ bağlantısı yok. Gizlilik Politikası'nı görüntülemek: %s</string>
+  <string name="miui_terms_no_network">Ağ bağlantısı yok. Hizmet Şartlarını görüntülemek için: %s</string>
   <string name="multisim_settings_category">SIM kart ayarları</string>
   <string name="multisim_settings_title">2 SIM kart algılandı</string>
+  <string name="network_access_warning">Ağ bağlantısı gerekiyor!</string>
   <string name="next">İleri</string>
   <string name="other_settings">Ek ayarlar</string>
   <string name="other_settings_location">Konum erişimi</string>
@@ -21,6 +27,7 @@
   <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="provision_inputmethod_policy_description">"Seçilen klavyeleri görüntüle "</string>
   <string name="provision_inputmethod_policy_description1">Gizlilik Politikası</string>
+  <string name="setting_locale">Konum ayarlanıyor...</string>
   <string name="shut_down">Telefonu Kapat</string>
   <string name="sim_card_detecting">SIM kart kontrol ediliyor...</string>
   <string name="sim_card_detection">Lütfen bir SIm kart yerleştirin</string>
@@ -29,8 +36,10 @@
   <string name="sim_redetection">SIM kartı tekrar kontrol edin</string>
   <string name="summary_not_set">Ayarlı değil</string>
   <string name="summary_sim_card">Kart %1$d%2$s</string>
+  <string name="terms_of_service">Hizmet şartları</string>
   <string name="terms_of_use">Hizmet Şartları</string>
-  <string name="terms_of_use_label">MIUI\'ı kullanmadan önce Kullanıcı Sözleşmesi ve Gizlilik Politikasını kabul etmelisiniz.</string>
+  <string name="terms_of_use_label">"MIUI\'ı kullanmadan önce Kullanıcı Sözleşmesi ve Gizlilik Politikasını kabul etmelisiniz.
+  "</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="welcome">Hoşgeldiniz</string>
 </resources>

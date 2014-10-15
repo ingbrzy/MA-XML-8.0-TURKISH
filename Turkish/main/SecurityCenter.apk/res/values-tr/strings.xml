@@ -268,6 +268,8 @@
   <string name="menu_item_about_summary">Versiyon: %s</string>
   <string name="menu_item_about_title">Hakkında</string>
   <string name="menu_item_app_details">Ayrıntılar</string>
+  <string name="menu_item_app_permissions_control">İzin yöneticisi</string>
+  <string name="menu_item_control_app_permissions">Uygulamalara; kişilerinizi ve arama günlüğünü okuma, sistem ayarlarını değiştirme, kameraya erişme ve diğer aygıt kaynaklarını görüntüleme izni vermeden önce sizden yetki alır.</string>
   <string name="menu_item_force_stop">Zorla durdur</string>
   <string name="menu_item_notification_antispam_text_avail">Gereksiz</string>
   <string name="menu_item_notification_antispam_text_normal">Gereksiz</string>
@@ -314,11 +316,15 @@
   <string name="permission_action_accept">Kabul</string>
   <string name="permission_action_prompt">Sor</string>
   <string name="permission_action_reject">Reddet</string>
+  <string name="permission_close_permission_control_dialog_msg">"İzin yöneticisi kapatılırsa uygulamalar, kişilerinizi ve arama günlüğünü okuma, sistem ayarlarını değiştirme, kameraya erişme ve diğer aygıt kaynaklarını görüntülemek için sizden izin istemeyecektir "</string>
+  <string name="permission_close_permission_control_dialog_title">İzin yöneticisi kapatılsın mı?</string>
   <string name="permission_group_title_charges_related">Ücretler</string>
   <string name="permission_group_title_media_related">Multimedya</string>
   <string name="permission_group_title_others">Diğerleri</string>
   <string name="permission_group_title_privacy_related">Gizlilik</string>
   <string name="permission_group_title_settings_related">Ayarlar</string>
+  <string name="permission_permission_control_closed_desc_dialog_msg">"Uygulamalar, kişilerinizi ve arama günlüğünü okuma, sistem ayarlarını değiştirme, kameraya erişme ve diğer aygıt kaynaklarını görüntülemek için sizden izin istemeyecektir. Bu özelliği Ayarlardan etkinleştirebilirsiniz."</string>
+  <string name="permission_permission_control_closed_desc_dialog_title">İzin yöneticisi kapalı</string>
   <string name="permission_send_sms_descx">Uygulamalar SMS ve MMS yollayabilir</string>
   <string name="power_20s_enter_mode">At %1$ds battery switch to %2$s</string>
   <string name="power_apply_toast">Switched to %s</string>
@@ -510,6 +516,7 @@
   <string name="root_apply_step_5">%s root erişimi verilsin mi?</string>
   <string name="root_apply_title">Önemli uyarı</string>
   <string name="score_pts">"%"</string>
+  <string name="settings_title_permission">İzin Ayarları</string>
   <string name="st_title_mode_choose_group">"Mod seçin"</string>
   <string name="suffix_virus_count_bottom">Toplam</string>
   <string name="suffix_virus_count_top">Riskler</string>
