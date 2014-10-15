@@ -17,7 +17,7 @@
   <string name="AD_TITLE_COUNT">%d uygulamalar reklam destekli yazılım içermektedir</string>
   <string name="AD_TITLE_NON_COUNT">Reklam destekli yazılım tespit edilemedi</string>
   <string name="AD_Unistall">Yüklemeyi kaldır</string>
-  <string name="Call_ADRESS">Yerel engellenenler listesi</string>
+  <string name="Call_ADRESS">Yerel engelleme listesi</string>
   <string name="Call_BLACKLIST">Engellenen çağrılar listesi</string>
   <string name="Call_DEFAULT">Akıllı Engelleme Listesi</string>
   <string name="Call_MODENAME">Varsayılan Engelleme listesi</string>
@@ -40,7 +40,7 @@
   <string name="ad_install_monitor_hint">Uygulamaları yüklerken adware kontrolü yap</string>
   <string name="ad_permission_hint">Reklam engelleyici kullanmak uygulamalarınızın performansını etkileyebilir ve normal çalışmasını engelleyebilir.</string>
   <string name="ad_relative_setting">İlgili ayarlar</string>
-  <string name="ad_single_block_hint">Engellenen</string>
+  <string name="ad_single_block_hint">Engellendi</string>
   <string name="ad_update_setting">Güncelle</string>
   <string name="ad_update_time">Son güncelleme: %s</string>
   <string name="ad_update_time_unKnown">Son Güncelleme: bilinmiyor</string>
@@ -180,7 +180,7 @@
   <string name="st_antispam_des_uesless">Etkin değil</string>
   <string name="st_antispam_mode_add_new">Kural Ekle</string>
   <string name="st_antispam_mode_blacklist">Engellenen numaralar</string>
-  <string name="st_antispam_mode_blacklist_sum">"Elle eklediğim engellenenler listesindeki numaralardan gelen mesaj ve aramaları engelle"</string>
+  <string name="st_antispam_mode_blacklist_sum">"Elle eklediğim engelleme listesindeki numaralardan gelen mesaj ve aramaları engelle"</string>
   <string name="st_antispam_mode_customize_sum">Engelleme listesi için kural oluştur</string>
   <string name="st_antispam_mode_denyownself_sum">Özel kurallar</string>
   <string name="st_antispam_mode_only_all_deny">Her şeyi engelle</string>
@@ -189,7 +189,7 @@
   <string name="st_antispam_mode_only_contacts_sum">Sadece rehberde kayıtlı olan numaralardan gelen çağrı ve mesajlara izin ver</string>
   <string name="st_antispam_mode_only_whitelist">Sadece istisnalara izin ver</string>
   <string name="st_antispam_mode_only_whitelist_sum">Sadece istisnalar listesinde kayıtlı numaralardan gelen çağrı ve mesajlara izin ver</string>
-  <string name="st_antispam_mode_smart">Paylaşılan engellenen listesi</string>
+  <string name="st_antispam_mode_smart">Paylaşılan engelleme listesi</string>
   <string name="st_antispam_mode_smart_sum">"Elle eklenerek ve diğer kullanıcılar tarafından rapor edilerek engellenmiş numaralar"</string>
   <string name="st_antispam_notification_sum">Çağrı ve mesaj engellendiğinde bildirimle uyar</string>
   <string name="st_antispam_title_anoy_incoming">Yabancılardan gelen aramalar</string>
@@ -225,7 +225,7 @@
   <string name="st_mute_title">Zil çalma ve Titretme</string>
   <string name="st_other_setting_group">Diğer ayarlar</string>
   <string name="st_settings_name">Engelleme listesi ayarları</string>
-  <string name="st_show_block_notification">Engellenen bildirimi göster</string>
+  <string name="st_show_block_notification">Engelleme bildirimi göster</string>
   <string name="st_show_num_keyword">" kelime"</string>
   <string name="st_show_num_number">" numara"</string>
   <string name="st_sms_group">Mesajlar</string>
@@ -238,14 +238,14 @@
   <string name="st_title_addwhitelist">İstisnalar listesine ekle</string>
   <string name="st_title_adress">Konum seç</string>
   <string name="st_title_adress_num">%d Seçildi</string>
-  <string name="st_title_anticomintcall_backsound_setting">Mesaj</string>
+  <string name="st_title_anticomintcall_backsound_setting">Engelleme sesi</string>
   <string name="st_title_antispam_mode">Kurallar</string>
   <string name="st_title_back_sound_busy">Meşgul</string>
-  <string name="st_title_back_sound_choose">Engelleme durumu</string>
+  <string name="st_title_back_sound_choose">Çağrı engelleme sesi</string>
   <string name="st_title_back_sound_closed">Telefon kapatıldı</string>
   <string name="st_title_back_sound_none">Numara artık serviste değil</string>
   <string name="st_title_back_sound_stop">Numara servis dışı</string>
-  <string name="st_title_backsound_group">Engellenmiş numaralara çalınan mesaj</string>
+  <string name="st_title_backsound_group">Çağrı engelleme ses ayarları</string>
   <string name="st_title_blacklist_numbers">Engellenen numaralar</string>
   <string name="st_title_call_wait">Çağrı bekletme</string>
   <string name="st_title_call_wait_setting">Çağrı bekletme ayarları</string>

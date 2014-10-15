@@ -56,6 +56,15 @@
   <string name="perm_privacy_app_trust_summary">MIUI bu uygulamayı izleyecek</string>
   <string name="perm_sysopt_boost_auto_start">İzinleri otomatik başlat</string>
   <string name="perm_sysopt_boost_auto_start_summary">Bu uygulama otomatik başlatılacak!</string>
+<string name="permission_action_accept">Kabul</string>
+<string name="permission_action_prompt">Sor</string>
+<string name="permission_action_reject">Engelle</string>
+<string name="permission_group_title_charges_related">Telefon</string>
+<string name="permission_group_title_media_related">Medya</string>
+<string name="permission_group_title_others">Diğer</string>
+<string name="permission_group_title_privacy_related">Gizlilik</string>
+<string name="permission_group_title_settings_related">Ayarlar</string>
+<string name="permission_send_sms_descx">Uygulama SMS ve MMS gönderebilir</string>
   <string name="privacy_relative">Gizlilik izinleri</string>
   <string name="safe_guard_support">%1$s tarafından sağlanan teknik destek</string>
   <string name="safe_relative">Güvenlik izinleri</string>
