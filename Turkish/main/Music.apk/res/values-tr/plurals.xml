@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="Ntracks_search_result">
+	<item quantity="other">%d şarkı bulundu</item>
+	<item quantity="one">%d şarkı bulundu</item>
+</plurals>
+<plurals name="Nexpired_remind">
+	<item quantity="other">%d gün kaldı</item>
+	<item quantity="one">%d gün kaldı</item>
+</plurals>
+<plurals name="NTrackstoDownload">
+	<item quantity="other">%d şarkı indirilecek</item>
+	<item quantity="one">1 şarkı indirilecek</item>
+</plurals>
+<plurals name="Ntracks_count">
+	<item quantity="other">%d şarkı</item>
+	<item quantity="one">%d şarkı</item>
+</plurals>
+<plurals name="Ntracks_add_to_playlist">
+	<item quantity="other">%d şarkı listeye eklendi</item>
+	<item quantity="one">1 şarkı listeye eklendi</item>
+</plurals>
+<plurals name="Ntracks_remove_from_playlist">
+	<item quantity="other">%d şarkı listeden kaldırıldı</item>
+	<item quantity="one">1 şarkı listeden kaldırıldı</item>
+</plurals>
+<plurals name="artist_list_fragment_item_count_format">
+	<item quantity="other">%d şarkı</item>
+	<item quantity="one">1 şarkı</item>
+</plurals>
+<plurals name="send_songs_toast">
+	<item quantity="other">%d şarkı gönderilecek</item>
+	<item quantity="one">1 şarkı gönderilecek</item>
+</plurals>
+<plurals name="folder_songs_count">
+	<item quantity="other">%d şarkı</item>
+	<item quantity="one">1 şarkı</item>
+</plurals>
+</resources>
