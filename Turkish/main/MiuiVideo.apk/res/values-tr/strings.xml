@@ -79,7 +79,6 @@
   <string name="count_get_result">%d sonuç</string>
   <string name="count_ji_quan">Hepsi %d bölüm</string>
   <string name="day">Gün</string>
-  <string name="day">Gün</string>
   <string name="declaration">Kullanım Şartları</string>
   <string name="declaration_content">Bu hizmeti kullanarak Sohu Video, iQiyi ve diğer sağlayıcıların <a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1">Kullanım Koşulları\'nı</a> of kabul etmiş sayılırsınız.</string>
   <string name="declaration_content_td_custom">Videoyu kullanırken internete bağlanmayı kabul ediyor musunuz?</string>
@@ -149,7 +148,6 @@
   <string name="loading_video_netplay_label">Yükleniyor...</string>
   <string name="loading_video_netplay_label_v5">Yükleniyor...</string>
   <string name="local_detail_more">%d video daha</string>
-  <string name="local_favorite_empty_hint">Boş</string>
   <string name="local_favorite_empty_hint">Dosya yok</string>
   <string name="local_media">Yerel</string>
   <string name="local_media_empty_hint">Boş</string>
@@ -181,12 +179,9 @@
   <string name="no_login_xiaomi_account">Yorum göndermek için Mi Hesabınızla oturum açın</string>
   <string name="no_longer_tips">"Tekrar gösterme"</string>
   <string name="not_login">Oturum açın</string>
-  <string name="nowifi_alert_dialog_continue">Anladım</string>
   <string name="nowifi_alert_dialog_continue">Devam</string>
   <string name="nowifi_alert_dialog_exit">Çıkış</string>
-  <string name="nowifi_alert_dialog_exit">İptal</string>
   <string name="nowifi_alert_dialog_message">Bu işlemle mobil veri kullanımınızı önemli miktarda arttırabilirsiniz.</string>
-  <string name="nowifi_alert_dialog_title">Mobil veri uyarıları</string>
   <string name="nowifi_alert_dialog_title">Video yüklemesi için mobil ağ kullanılsın mı?</string>
   <string name="offline">Çevrimdışı</string>
   <string name="offline_alert_title">Veri kullanımını optimize et</string>
@@ -204,7 +199,6 @@
   <string name="pick_addon_to_delete">öge seçin</string>
   <string name="play">Oynat</string>
   <string name="play_count_ci">%d oynatıldı</string>
-  <string name="play_his_empty_hint">Boş</string>
   <string name="play_his_empty_hint">Dosya yok</string>
   <string name="play_history">En son çalınanlar</string>
   <string name="positive_comment">Pozitif</string>
@@ -254,7 +248,6 @@
   <string name="star5">5 yıldız</string>
   <string name="start_addon">Eklentiyi başlat</string>
   <string name="suffix_countdown">Saniye</string>
-  <string name="temp_play_history_button_label">Geçmiş</string>
   <string name="temp_play_history_button_label">Oynatma geçmişini göster</string>
   <string name="tencent">Tencent</string>
   <string name="time_colon">Tarih:</string>
