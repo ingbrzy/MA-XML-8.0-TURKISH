@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">İçe aktar</string>
-  <string name="access_sd_fail">SD belleğe erişilemiyor.</string>
+  <string name="access_sd_fail">"SD belleğe erişilemiyor."</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Kamera ve video arası geçiş (Şu anda Kullanılan %s)</string>
   <string name="accessibility_camera_auto_flashmode">Otomatik flash</string>
   <string name="accessibility_camera_flash_closemode">Flash kapalı</string>
@@ -84,8 +84,8 @@
   <string name="effect_setting_top_text">Kamera filtreleri</string>
   <string name="effect_silly_faces">Şaşkın yüz</string>
   <string name="error_app_unsupported">Bu video formatı için desteklenmeyen çözünürlük</string>
-  <string name="error_app_unsupported_hfr_720p">720P ancak 90FPS\ye kadar desteklenir</string>
-  <string name="error_app_unsupported_hfr_codec">aHFR açıkken sadece H264 formatı desteklenir</string>
+  <string name="error_app_unsupported_hfr_720p">720P ancak 90FPS\'ye kadar desteklenir</string>
+  <string name="error_app_unsupported_hfr_codec">HFR açıkken sadece H264 formatı desteklenir</string>
   <string name="error_app_unsupported_raw_wavelet">Gürültü azaltma RAW formatı ile kullanılamaz</string>
   <string name="error_fail_to_start_audio_capture">Ses kaydı başlatılamadı</string>
   <string name="exposure_time">Pozlama süresi</string>
@@ -120,9 +120,9 @@
   <string name="find_web_qrcode">Web QR kodunu bul</string>
   <string name="find_wechat_qrcode">WeChat QR kodunu bul</string>
   <string name="find_wifi_qrcode">Wi-Fi QR kodunu bul</string>
-  <string name="flash">Flash</string>
-  <string name="flash_off">Flash kapalı</string>
-  <string name="flash_on">Flash açık</string>
+  <string name="flash">Flaş</string>
+  <string name="flash_off">Flaş kapalı</string>
+  <string name="flash_on">Flaş açık</string>
   <string name="focal_length">Odak uzaklığı</string>
   <string name="folder_camera">Kamera</string>
   <string name="folder_download">İndirilenler</string>
@@ -165,11 +165,12 @@
   <string name="pano_dialog_prepare_preview">Panorama hazırlanıyor</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Bir önceki panoramanın bitmesi bekleniyor</string>
-  <string name="pano_how_to_use_prompt">Panorama fotoğrafı çekmek için \nlütfen deklanşöre basın</string>
+  <string name="pano_how_to_use_prompt">"Panorama fotoğrafı çekmek için 
+  lütfen deklanşöre basın"</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Telefonu hareket ettirmeye devam edin...</string>
   <string name="pano_how_to_use_prompt_to_move">Telefonu yavaşça hareket ettirin</string>
   <string name="pano_review_saving_indication_str">Kaydediliyor...</string>
-  <string name="pano_too_fast_prompt">Çok hızlı</string>
+  <string name="pano_too_fast_prompt">Çok hızlı hareket ediliyor</string>
   <string name="path">Dosya yolu</string>
   <string name="people">İnsanlar</string>
   <string name="pref_advance_settings">Gelişmiş ayarlar</string>
@@ -208,7 +209,7 @@
   <string name="pref_camera_coloreffect_entry_planet">Küçük dünya</string>
   <string name="pref_camera_coloreffect_entry_seventy">1970ler</string>
   <string name="pref_camera_coloreffect_entry_sketch">Eskiz</string>
-  <string name="pref_camera_coloreffect_entry_vivid">Vivid</string>
+  <string name="pref_camera_coloreffect_entry_vivid">Canlı</string>
   <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
   <string name="pref_camera_coloreffect_entry_yesteryear">Geçen Yıl</string>
   <string name="pref_camera_coloreffect_title">Filtre</string>
@@ -240,13 +241,13 @@
   <string name="pref_camera_focusmode_entry_continuous">CAF</string>
   <string name="pref_camera_focusmode_entry_infinity">Sonsuz</string>
   <string name="pref_camera_focusmode_entry_lock">Kilit</string>
-  <string name="pref_camera_focusmode_entry_macro">Macro</string>
+  <string name="pref_camera_focusmode_entry_macro">Makro</string>
   <string name="pref_camera_focusmode_entry_manual">Elle ayar</string>
   <string name="pref_camera_focusmode_entry_normal">Normal</string>
   <string name="pref_camera_focusmode_title">Odaklama modu</string>
   <string name="pref_camera_focusmode_value_default">Sürekli-resim</string>
   <string name="pref_camera_front_fb_title">Enhance skin tones</string>
-  <string name="pref_camera_hand_night_title">HHT</string>
+  <string name="pref_camera_hand_night_title">Gece Modu</string>
   <string name="pref_camera_hdr_type_entry_live">Canlı HDR</string>
   <string name="pref_camera_hdr_type_entry_normal">Normal HDR</string>
   <string name="pref_camera_hdr_type_title">HDR türü</string>
@@ -400,7 +401,7 @@
   <string name="pref_grp_picture_settings">Fotoğraf ayarları</string>
   <string name="pref_grp_restore_settings">Ayarları sıfırla</string>
   <string name="pref_manual_exposure_title">Elle pozlama</string>
-  <string name="pref_priority_storage_title">SD karta kaydedin</string>
+  <string name="pref_priority_storage_title">SD karta kaydet</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
   <string name="pref_qc_focus_position_value_default">0</string>
   <string name="pref_scan_qrcode_title">QR kod tara</string>
@@ -481,15 +482,14 @@
   <string name="slideshow">Slayt Gösterisi</string>
   <string name="snapshot_lower_than_video">Video kesitinin çözünürlüğü video çözünürlüğünden düşük. Lütfen şu anki video çözünürlüğüne eşit veya daha büyük bir boyut seçin. </string>
   <string name="snapshot_qcif_and_d1">Bu çözünürlük için sadece videodan fotoğraf alma çözünürlüğü destekleniyor. </string>
-  <string name="snapshotsize_low_powermode">Fotoğraf çözünürlüğü şu an kullandığınız düşük güç yönetimi ayarlarınızca desteklenmiyor. Videodan kesit alma çözünürlüğü kullanılacak.
-    </string>
+  <string name="snapshotsize_low_powermode">"Fotoğraf çözünürlüğü şu an kullandığınız düşük güç yönetimi ayarlarınızca desteklenmiyor. Videodan kesit alma çözünürlüğü kullanılacak."</string>
   <string name="spaceIsLow_content">SD Kart belleğiniz dolmak üzere</string>
   <string name="success_message_import_from_account">İçe aktarıldı</string>
   <string name="tags">Etiketler</string>
   <string name="tap_to_exposure">Manuel pozlama için dokunun</string>
   <string name="tap_to_focus">Odaklamak için dokunun</string>
   <string name="time">Zaman</string>
-  <string name="time_lapse_error">Hızlandırılmış kayıt için hatalı video çözünürlüğü</string>
+  <string name="time_lapse_error">"Hızlandırılmış kayıt için hatalı video çözünürlüğü"</string>
   <string name="times">Zamanlar</string>
   <string name="title">Başlık</string>
   <string name="toast_burst_snap_finished_end"> fotoğraflar</string>
@@ -497,17 +497,17 @@
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Ses kayıt özelliği açıkken çoklu çekim yapılamaz</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Ten tonu düzeltici etkin olduğunda seri çekim desteklenmez</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">HDR özelliği açıkken çoklu çekim yapılamaz</string>
-  <string name="toast_burst_snap_forbidden_when_iso_not_auto">ISO değerini \"otomatik\" yapmalısınız</string>
+  <string name="toast_burst_snap_forbidden_when_iso_not_auto">ISO değerini otomatik yapmalısınız</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Ekran kilitli iken resim ve video ön izlemesi yapılamaz.</string>
   <string name="toast_start_audio_capture">Deklanşörü tetiklemek için bir ses çıkarın</string>
   <string name="undo">Geri al</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Video kamera</string>
-  <string name="video_err">Video oynatılamıyor</string>
+  <string name="video_err">"Video oynatılamıyor"</string>
   <string name="video_reach_size_limit">Boyut sınırına erişildi.</string>
   <string name="video_snapshot_hint">Video çekimi devam ederken ön izleme ekranına dokunarak fotoğraf çekin.</string>
   <string name="videocamera_settings_label">Video kamera ayarları</string>
-  <string name="visit_cloud_album">Cloud albümüne gözat</string>
+  <string name="visit_cloud_album">Bulut albümüne gözat</string>
   <string name="wait">Lütfen bekleyiniz...</string>
   <string name="web_url_apk_warning">Bu link bilinmeyen bir kaynaktan geliyor ve güvenliğinizi riske sokabilir. Sadece güvendiğiniz kaynaklarda yükleme yapın.</string>
   <string name="web_url_warning">Bu link bilinmeyen bir kaynaktan geliyor ve güvenliğinizi riske sokabilir.</string>
@@ -515,7 +515,7 @@
   <string name="wechat_details">WeChat detayları:</string>
   <string name="white_balance">Beyaz Dengesi</string>
   <string name="width">Genişlik</string>
-  <string name="wifi_connect_current_connetion">Wi-Fi\'ye bağlanıldı</string>
+  <string name="wifi_connect_current_connetion">"Wi-Fi ağına bağlandınız"</string>
   <string name="wifi_connect_fail">Bağlantı zaman aşımı</string>
   <string name="wifi_connect_not_found">Wi-Fi bağlanamıyor</string>
   <string name="wifi_connect_success">Bağlandı</string>
@@ -525,5 +525,5 @@
   <string name="wifi_pwd">Şifre:</string>
   <string name="wifi_security">Güvenlik:</string>
   <string name="wifi_ssid">SSID:</string>
-  <string name="wifi_warning">Bu Wi-Fi ağına bağlanmadan önce güvenliğinizi kontrol edin.</string>
+  <string name="wifi_warning">"Bu Wi-Fi ağına bağlanmadan önce güvenliğinizi kontrol edin."</string>
 </resources>
