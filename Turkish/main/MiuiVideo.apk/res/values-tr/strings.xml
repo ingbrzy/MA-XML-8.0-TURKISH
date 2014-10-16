@@ -1,14 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-
 <resources>
   <string name="about_app_name">Mi Video </string>
-  <string name="about_developer_label">Geliştirici</string>
-  <string name="about_developer_name">XiaoMi Inc.</string>
   <string name="about_title">Hakkında</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Sürüm kodu</string>
   <string name="actor_colon">Aktör:</string>
-  <string name="ad_countdown">Kalan %s s</string>
+  <string name="ad_countdown">Kalan %ss</string>
   <string name="ad_moredetail">Ayrıntılar</string>
   <string name="add_favorite_success">Favoriler</string>
   <string name="add_more_addons">Daha fazla eklenti ekleyin</string>
@@ -18,13 +15,12 @@
   <string name="addon_install_complete_disc">%s eklentileri yüklü. Bunları /Videolarım/ da görebilirsiniz.</string>
   <string name="addon_installed_empty_hint">Boş</string>
   <string name="addon_list_empty_hint">Boş</string>
-  <string name="addon_update_desc">Yeni versiyon bulundu, güncellensin mi?</string>
+  <string name="addon_update_desc">Yeni sürüm bulundu, güncellensin mi?</string>
   <string name="adjust_position_next_media_notice">Sonraki</string>
   <string name="adjust_position_prev_media_notice">Son</string>
-  <string name="airkan_control_device_des">Playback kontrolü için alttaki çubuğa dokunun</string>
-  <string name="airkan_device_xiaomi_phone">Mi telefon</string>
+  <string name="airkan_control_device_des">Oynatma kontrolü için alttaki çubuğa dokunun</string>
+  <string name="airkan_device_xiaomi_phone">Mi Telefon</string>
   <string name="airkan_tips">Videoyu TV\'de ve kutuda oynatmak için buraya tıklayın</string>
-  <string name="airkan_video_playing">Oynatılıyor</string>
   <string name="airkan_video_playing_in">Video </string>
   <string name="all">Hepsi</string>
   <string name="all_comment">Tüm yorumlar</string>
@@ -43,7 +39,6 @@
   <string name="buffering_video_netplay_label_v5">Yükleniyor...</string>
   <string name="cancel">İptal</string>
   <string name="cancel_favorite_success">Favorilerden kaldırıldı</string>
-  <string name="channel_all_empty_hint">Boş</string>
   <string name="channel_choice_empty_hint">Boş</string>
   <string name="channel_empty_hint">Boş</string>
   <string name="check_network">"Ağa bağlanılamıyor. Veri bağlantınızı kontrol edip tekrar deneyin."</string>
@@ -76,7 +71,6 @@
   <string name="count_ge_feature_media">%d öğe</string>
   <string name="count_ge_media">%d video</string>
   <string name="count_ge_result">%d sonuç</string>
-  <string name="count_get_result">%d sonuç</string>
   <string name="count_ji_quan">Hepsi %d bölüm</string>
   <string name="day">Gün</string>
   <string name="declaration">Kullanım Şartları</string>
@@ -133,7 +127,6 @@
   <string name="good">Tamam</string>
   <string name="guess_you_like">Önerilen</string>
   <string name="hot_recommend">Trending</string>
-  <string name="hot_special">Özel</string>
   <string name="icntv">iCNTV</string>
   <string name="imports">İçe aktar</string>
   <string name="init">Birim</string>
@@ -144,7 +137,7 @@
   <string name="key_back_down_toast">Çıkmak için tekrar dokun</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
-  <string name="loading"><CDATA>Yükleniyor </CDATA></string>
+  <string name="loading">&lt;CDATA&gt;Tükleniyor &lt;/CDATA&gt;</string>
   <string name="loading_video_netplay_label">Yükleniyor...</string>
   <string name="loading_video_netplay_label_v5">Yükleniyor...</string>
   <string name="local_detail_more">%d video daha</string>
@@ -157,14 +150,8 @@
   <string name="manage">Yönet</string>
   <string name="manage_offline_media">İndirilenleri yönet</string>
   <string name="media_name_comment">%s yorum</string>
-  <string name="menu_item_about_label">Hakkında</string>
-  <string name="menu_item_disable_3d_mode">3D devre dışı</string>
   <string name="menu_item_disable_audio_enhance">Ses zenginleştiriciyi devre dışı bırak</string>
-  <string name="menu_item_enable_3d_mode">3 Boyutu etkinleştir</string>
   <string name="menu_item_enable_audio_enhance">Ses zenginleştiriciyi etkinleştir</string>
-  <string name="menu_item_orientation_auto_sensor_action">Otomatik döndürmeyi etkinleştir</string>
-  <string name="menu_item_orientation_fixed_by_videosize_action">Otomatik döndürme devre dışı</string>
-  <string name="menu_item_sub_title">Altyazı</string>
   <string name="mipush_setting">Bildirimler</string>
   <string name="month">Ay</string>
   <string name="more">Daha</string>
@@ -189,13 +176,13 @@
   <string name="offline_max_promote">Önbelleğe alma için bekliyor, aynı anda en fazla 2 adet önbelleğe alma işlemi gerçekleştirilebilir.</string>
   <string name="offline_media_empty_hint">Boş</string>
   <string name="offline_no_source">"Çevrimdışı modda görüntüleyemezsiniz"</string>
-  <string name="offline_no_wifi">Wi-Fi\'ya bağlı değilsiniz. Videoyu indirmek için mobil veri bağlantısı kullanılmasını etkinleştirin.</string>
+  <string name="offline_no_wifi">Wi-Fi bağlantısı yok. Videoyu indirmek için mobil veri bağlantısını etkinleştirin.</string>
   <string name="offline_setting">Çevrimdışı içerik</string>
-  <string name="offline_video">Çevrimdışı</string>
   <string name="ok">Tamam</string>
   <string name="online_video">Online</string>
   <string name="other_setting">Diğer</string>
   <string name="pause">Duraklat</string>
+  <string name="percent_status">%.1f%%</string>
   <string name="pick_addon_to_delete">öge seçin</string>
   <string name="play">Oynat</string>
   <string name="play_count_ci">%d oynatıldı</string>
@@ -208,7 +195,7 @@
   <string name="qiyi">iQiyi</string>
   <string name="rank">En iyi videolar</string>
   <string name="receive_mipush">Push bildirimleri</string>
-  <string name="receive_mipush_summary">Yeni online içerik izlemek kullanılabilir olduğunda bildirim al</string>
+  <string name="receive_mipush_summary">Yeni online içerik izlenebilir olduğunda bildirim al</string>
   <string name="recent_play">Son zamanlarda çalınan: Ep.%d</string>
   <string name="recentplay">En son oynatılanlar</string>
   <string name="recommend">Önerilen</string>
@@ -223,8 +210,6 @@
   <string name="search_result_empty_text">"Hiçbir şey bulunamadı"</string>
   <string name="search_result_hint">%s  sonuç</string>
   <string name="search_result_input_hint">Ara</string>
-  <string name="search_result_recommend_empty">"Hiçbir şey bulunamadı"</string>
-  <string name="search_result_recommend_hint">Yükselenler</string>
   <string name="see_all">Hepsini gör</string>
   <string name="see_all_count_comment">%d yorum daha</string>
   <string name="select_all">Tümünü seç</string>
@@ -237,7 +222,6 @@
   <string name="send">Gönder</string>
   <string name="setting">Ayarlar</string>
   <string name="share_device">Paylaşılan aygıt</string>
-  <string name="shared_devices">Paylaşılan Cihazlar</string>
   <string name="sina">Sina</string>
   <string name="souhu">Souhu</string>
   <string name="source_error">Kaynak hatası</string>
@@ -257,7 +241,6 @@
   <string name="toast_message_continue_play_hour">s</string>
   <string name="toast_message_continue_play_minute">dk</string>
   <string name="toast_message_continue_play_second_and_play">sn</string>
-  <string name="toast_message_set_misound">Lütfen MI seslerini ayarla...</string>
   <string name="today">Bugün</string>
   <string name="top_status_local_media">Yerel</string>
   <string name="top_status_online_media">Online</string>
@@ -292,7 +275,7 @@
   <string name="vp_adapt_width">Genişliği sığdır</string>
   <string name="vp_auto_select">Otomatik seçim</string>
   <string name="vp_back">Geri</string>
-  <string name="vp_cancel">İptal et</string>
+  <string name="vp_cancel">İptal</string>
   <string name="vp_client_message">%1$s istemcisi yüklensin mi?</string>
   <string name="vp_closedialog">Yükle</string>
   <string name="vp_confirm">Yükle</string>
@@ -300,20 +283,19 @@
   <string name="vp_device_list">Cihazlar</string>
   <string name="vp_download_connect_fail">"Ağa bağlanılamıyor."</string>
   <string name="vp_download_file_fail">İndirme başarısız. Yeterli boş alan olduğundan emin olun </string>
-  <string name="vp_error_get_play_url_back_to_continue">Oynatma bağlantısı alınamadı, devam etmek için geri tuşuna basın.</string>
   <string name="vp_exit">Çıkış</string>
   <string name="vp_full_high_definition">1080P</string>
-  <string name="vp_full_screen">Tam ekran playback</string>
+  <string name="vp_full_screen">Tam ekran oynat</string>
   <string name="vp_function">Ayarlar</string>
-  <string name="vp_get_url_error">Url alınamadı.</string>
+  <string name="vp_get_url_error">"URL adresi bulunamadı"</string>
   <string name="vp_hide_media_info">Video bilgilerini gizle</string>
   <string name="vp_high_definition">HD</string>
   <string name="vp_hint">İpucu</string>
-  <string name="vp_install">HD bileşenleri uyg. yüklensin mi?</string>
+  <string name="vp_install">HD bileşenler yüklensin mi?</string>
   <string name="vp_install_title">HD yükle</string>
-  <string name="vp_loading">Yükleniyor&#8230;</string>
-  <string name="vp_loading_download"><CDATA>İndiriliyor</CDATA></string>
-  <string name="vp_loading_video">Yükleniyor&#8230;</string>
+  <string name="vp_loading">&lt;CDATA&gt;Yükleniyor &lt;/CDATA&gt;</string>
+  <string name="vp_loading_download">&lt;CDATA&gt;İndiriliyor &lt;/CDATA&gt;</string>
+  <string name="vp_loading_video">Yükleniyor...</string>
   <string name="vp_maintitlearea">HD video indirin eğlenin</string>
   <string name="vp_media_info">Video bilgilerini görüntüle</string>
   <string name="vp_milink">Mi Link</string>
