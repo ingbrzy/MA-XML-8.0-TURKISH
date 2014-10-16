@@ -16,14 +16,14 @@
     <item>1.0</item>
   </array>
   <string-array name="transformation_entries">
-    <item>Aşırı Kaydır</item>
     <item>Kaydır</item>
-    <item>Çapraz soldur</item>
-    <item>Yuvarla</item>
-    <item>Sayfa Geçişi</item>
-    <item>Kademeli Kaydır</item>
-    <item>Döndür</item>
-    <item>Küp</item>
+    <item>Kaydır(Sallantı yok)</item>
+    <item>Soldur</item>
+    <item>Yuvarlan</item>
+    <item>Sayfa gibi çevir</item>
+    <item>Harmanla</item>
+    <item>3B Döndür</item>
+    <item>3B Küp</item>
   </string-array>
   <string-array name="transformation_values">
     <item>0</item>
@@ -36,13 +36,13 @@
     <item>4</item>
   </string-array>
   <string-array name="wallpaper_scroll_entries">
-    <item>Tema Varsayılanı</item>
+    <item>Tema göre ayarla</item>
     <item>Merkez</item>
     <item>Sol</item>
     <item>Sağ</item>
   </string-array>
   <string-array name="wallpaper_scroll_values">
-    <item>Temaya ayarlı</item>
+    <item>Temaya göre ayarla</item>
     <item>Merkez</item>
     <item>Sol</item>
     <item>Sağ</item>
