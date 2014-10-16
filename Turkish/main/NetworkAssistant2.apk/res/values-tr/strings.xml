@@ -21,7 +21,8 @@
   <string name="daily_pkg_traffic">Mobil veri limiti</string>
   <string name="data_usage_correction_timeout_body">El ile güncellemek için dokununuz.</string>
   <string name="data_usage_correction_timeout_title">Senkronize başarısız</string>
-  <string name="data_usage_disabled_dialog">"Mobil veri kullanım limitine ulaştınız\n\nMobil veri hizmetini kullanmaya devam ederseniz, operatörünüz sizden ek ücret talep edebilir."</string>
+  <string name="data_usage_disabled_dialog">"Mobil veri kullanım limitine ulaştınız.
+  Mobil veri hizmetini kullanmaya devam ederseniz, operatörünüz sizden ek ücret talep edebilir."</string>
   <string name="data_usage_disabled_dialog_enable">Mobil veriyi aç</string>
   <string name="data_usage_leisure_warning_body">Veri kullanım detaylarını görmek için tıklayınız.</string>
   <string name="data_usage_leisure_warning_title">Veri kullanım limiti</string>
@@ -54,11 +55,12 @@
   <string name="datausage_purchase_pay_captcha_tips">Doğrulama kodunu aldıktan sonra yukarıdaki kutuya giriniz ve \"Satın al\"a dokunarak işleminizi tamamlayınız. Gönderilen kodun 10 dakika geçerliliği olduğunu unutmayın.</string>
   <string name="datausage_purchase_pay_confirm">Satın Al</string>
   <string name="datausage_purchase_pay_hint">İptal etmek için %s numarasını çevir</string>
-  <string name="datausage_purchase_pkglist_networkerror">Ağa bağlanılamıyor. Veri bağlantınızı kontrol edip tekrar deneyin.</string>
-  <string name="datausage_purchase_pkglist_nodata">Şu anki veri paketiniz ve almak istediğiniz arasında bir uyumsuzluk oluştu.\nDaha fazla bilgi için servis sağlayıcınızla iletişime geçin.</string>
+  <string name="datausage_purchase_pkglist_networkerror">"Ağa bağlanılamıyor. Veri bağlantınızı kontrol edip tekrar deneyin."</string>
+  <string name="datausage_purchase_pkglist_nodata">"Şu anki veri paketiniz ve almak istediğiniz arasında bir uyumsuzluk oluştu.
+  Daha fazla bilgi için servis sağlayıcınızla iletişime geçin."</string>
   <string name="datausage_purchase_pkglist_servererror">Sunucumuza bir şey oldu.</string>
   <string name="datausage_purchase_result_failed">"Veri alınamıyor. Operatörünüzle iletişime geçin."</string>
-  <string name="datausage_purchase_result_ok">%s satın aldınız\nDaha fazla bilgi için servis sağlayıcıdan alınan mesajı kontrol ediniz</string>
+  <string name="datausage_purchase_result_ok">"%s satın aldınız.Daha fazla bilgi için servis sağlayıcıdan alınan mesajı kontrol ediniz"</string>
   <string name="datausage_purchase_time_in">" açık "</string>
   <string name="datausage_purchase_title_confirm">Satınalma ayrıntıları</string>
   <string name="datausage_purchase_title_order">Ek satınalma veri</string>
@@ -94,7 +96,7 @@
   <string name="lock_screen_traffic_warn_title">Mobil veri uyarıları</string>
   <string name="main_alert_message_no_imsi">SIM kart yok</string>
   <string name="main_alert_message_no_mobile_package">"Veri limitiniz ayarlanmamış"</string>
-  <string name="main_alert_message_slot_no_data_connection">SIM kart girişiniz\nmobil veri bağlantısını desteklemiyor</string>
+  <string name="main_alert_message_slot_no_data_connection">"SIM kart girişiniz mobil veri bağlantısını desteklemiyor"</string>
   <string name="main_button_idel_traffic">Limit</string>
   <string name="main_button_normal_traffic">Üst Limit</string>
   <string name="main_button_usage_adjust">Veri kullanımı üst limiti</string>
@@ -110,12 +112,14 @@
   <string name="main_primary_message_traffic_overlimit_purchase">Kontör yüklemeniz gerekiyor</string>
   <string name="main_primary_message_traffic_purchase">Kontör yüklemeniz gerekiyor</string>
   <string name="main_primary_message_traffic_warning">Veri kullanım limitine yaklaşılıyor</string>
-  <string name="main_secondary_message_traffic_detail_leisure">Yoğun olmayan: %1$s kalan \"|\" %2$s kullanılan</string>
-  <string name="main_secondary_message_traffic_detail_normal">En yüksek: %1$s%2$s kalan \"|\" %3$s kullanılan</string>
+  <string name="main_secondary_message_traffic_detail_leisure">"
+  Yoğun olmayan: %1$s kalan | %2$s kullanılan"</string>
+  <string name="main_secondary_message_traffic_detail_normal">"
+  En yüksek: %1$s%2$s kalan | %3$s kullanılan"</string>
   <string name="main_secondary_message_traffic_over">aşan</string>
   <string name="main_secondary_message_traffic_remain">kalan</string>
   <string name="main_secondary_message_traffic_used_leisure">%s yoğun olmayan veri kullanıldı</string>
-  <string name="main_secondary_message_traffic_used_noleisure">%s kullanılan yüksek veri \"|\" geriye veri kalmadı</string>
+  <string name="main_secondary_message_traffic_used_noleisure">%s kullanılan yüksek veri | geriye veri kalmadı</string>
   <string name="main_secondary_message_traffic_used_normal">%s yüksek miktarda veri kullanıldı</string>
   <string name="main_toolbar_firewall">Uygulamanın veri kullanımını kısıtla</string>
   <string name="main_toolbar_purchase">Satın al/yükle</string>
@@ -228,10 +232,14 @@
   <string name="system_app">Sistem uygulaması</string>
   <string name="tips_dialog_title">Mobil veri limitini bilmiyor musun?</string>
   <string name="tips_message">Eğer mobil veri limitini bilmiyorsanız, %2$s (%1$s) arayarak kontrol edebilirsiniz (Sadece Çin).</string>
-  <string name="traffic_config_alert_body">Operatörünüzünün hesaplamasına göre %s kullandınız\nVeri kullanımı bilgisi güncellensin mi?</string>
-  <string name="traffic_config_alert_body_leisure">"Operatörünüzün hesabına göre bu ay en yüksek %1$s kullandınız. Bu değer elle ayarladığınız %2$s değerinden farklı."</string>
-  <string name="traffic_config_alert_body_leisure_notset">"Operatörünüzün hesabına göre bu ay geriye %s limit üstü kullanabileceğiniz veri kaldı. Limit üstü için bir değer ayarlamadınız.\"</string>
-  <string name="traffic_config_alert_body_normal">"Operatörünüzün hesabına göre bu ay en yüksek %1$s kullandınız. Bu değer elle ayarladığınız %2$s değerinden farklı."</string>
+  <string name="traffic_config_alert_body">"Operatörünüzünün hesaplamasına göre %s kullandınız.
+  Veri kullanımı bilgisi güncellensin mi?"</string>
+  <string name="traffic_config_alert_body_leisure">"Operatörünüzün hesabına göre bu ay en yüksek %1$s kullandınız.
+  Bu değer elle ayarladığınız %2$s değerinden farklı."</string>
+  <string name="traffic_config_alert_body_leisure_notset">"
+  Operatörünüzün hesabına göre bu ay geriye %s limit üstü kullanabileceğiniz veri kaldı. Limit üstü için bir değer ayarlamadınız."</string>
+  <string name="traffic_config_alert_body_normal">
+  "Operatörünüzün hesabına göre bu ay en yüksek %1$s kullandınız. Bu değer elle ayarladığınız %2$s değerinden farklı."</string>
   <string name="traffic_config_alert_cancel">İptal</string>
   <string name="traffic_config_alert_nomore">"Tekrar gösterme"</string>
   <string name="traffic_config_alert_ok">Tamam</string>
@@ -258,6 +266,8 @@
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">"Bu ay kaydedilen: "</string>
   <string name="traffic_saving_history_total_month_default">Aylık ortalama birikiminiz</string>
+  <string name="traffic_saving_history_total_month_value">"Online müzik: &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Online sohbet: &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Online okuma: &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; "</string>
+  <string name="traffic_saving_history_total_month_value_default">"Online müzik: &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Online sohbet: &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Online okuma: &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; "</string>
   <string name="traffic_saving_history_total_rate">Oran</string>
   <string name="traffic_saving_history_total_rate_unit"> %</string>
   <string name="traffic_saving_history_total_traffic">Veri kaydedildi</string>

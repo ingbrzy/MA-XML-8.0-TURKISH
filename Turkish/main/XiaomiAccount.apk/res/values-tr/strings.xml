@@ -4,7 +4,7 @@
   <string name="access_token_expired_warning">Weibo hesabının süresi geçmiş</string>
   <string name="access_token_invalid_warning">Weibo hesabı geçersiz</string>
   <string name="account">Hesap</string>
-  <string name="account_bind_devices">Oturum açılmış cihazlar</string>
+  <string name="account_bind_devices">Cihazlar</string>
   <string name="account_bind_settings">Bağlama seçenekleri</string>
   <string name="account_dspt">Tüm Mi ürünleri için sadece tek hesap</string>
   <string name="account_dspt_provision">Tüm Mİ dünyası için tek hesap.</string>
@@ -161,7 +161,7 @@
   <string name="quick_login_step2_title">2 adım da doğrulama</string>
   <string name="quick_login_title">Şifrenizi girin</string>
   <string name="re_get_verify_code">Kodu tekrar al</string>
-  <string name="re_register">Tekrar kayıt ol</string>
+  <string name="re_register">MiHesabı oluştur</string>
   <string name="reg_by_email_failure">Hesap oluşturulamıyor:  %1$s  </string>
   <string name="reg_failed">"Hesap oluşturulamıyor"</string>
   <string name="reg_sms_send_prompt">%s için doğrulama kodu gönder</string>
@@ -194,7 +194,7 @@
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Oturum açmayı geç</string>
   <string name="skip_login_u">&lt;u&gt;Oturum açmayı atla&lt;/u&gt;</string>
-  <string name="skip_register">Kayıt olmayı atla</string>
+  <string name="skip_register">Atla</string>
   <string name="skip_setup_account_msg">Daha sonra Ayarlar\'dan bir Mi Hesabı oluşturabilirsiniz.</string>
   <string name="skip_setup_account_title">Kurulumu geç</string>
   <string name="sync_off">Kapalı</string>

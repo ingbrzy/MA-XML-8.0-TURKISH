@@ -37,6 +37,7 @@
   <string name="confirm_change_to_expert_mode_message">Profesyonel moda geçmek istiyor musunuz?</string>
   <string name="confirm_change_to_simple_mode_message">Basit moda geçmek istiyor musunuz?</string>
   <string name="confirm_location_message">Fotoğraflarla konum bilgisi kaydedilsin mi?</string>
+  <string name="confirm_location_title">Konum bilgisini kaydet</string>
   <string name="confirm_restore_message">Kamera ayarlarını sıfırlamak istiyor musunuz?</string>
   <string name="confirm_restore_title">Ayarları sıfırla</string>
   <string name="connect_wifi">Bu ağa bağlan</string>
@@ -386,6 +387,13 @@
   <string name="pref_capture_settings">Kamera ayarı</string>
   <string name="pref_exposure_title">Pozlama</string>
   <string name="pref_face_beauty_title">Görüntü tonları</string>
+  <string name="pref_front_mirror_default">oto</string>
+  <string name="pref_front_mirror_entry_auto">Oto</string>
+  <string name="pref_front_mirror_entry_off">Kapalı</string>
+  <string name="pref_front_mirror_entry_on">Açık</string>
+  <string name="pref_front_mirror_entryvalue_auto">oto</string>
+  <string name="pref_front_mirror_entryvalue_off">kapalı</string>
+  <string name="pref_front_mirror_entryvalue_on">açık</string>
   <string name="pref_front_mirror_title">Ön kamera aynası</string>
   <string name="pref_grp_advanced_settings">Gelişmiş Ayarlar</string>
   <string name="pref_grp_capture_settings">Çekim ayarları</string>
