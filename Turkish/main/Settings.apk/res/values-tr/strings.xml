@@ -15,12 +15,50 @@
   <string name="access_control_password_title">Şifreyi etkinleştir</string>
   <string name="access_control_recording_intro_header">Şifre koruması için desen çiz:</string>
   <string name="access_control_reset_by_account">Erişim kontrol şifrenizi sıfırlamak için Mi hesabınız ile giriş yapın</string>
-  <string name="accessibility_enable">Erişilebilirlik</string>
+  <string name="accessibility_captioning_title">Açıklamalı Altyazılar</string>
+  <string name="accessibility_enable">Erişebilirliği etkinleştir</string>
+  <string name="accessibility_feature_state_off">Kapalı</string>
+  <string name="accessibility_feature_state_on">Açık</string>
+  <string name="accessibility_global_gesture_preference_description">"Bu özellik etkinse, hızlı bir şekilde iki adımda erişilebilirlik özellikleri etkinleştirebilirsiniz:
+
+Adım 1: Bir uyarı sesi veya titreşim duyana kadar Açık düğmesine basın ve basılı tutun.
+
+Adım 2: İki parmakla ekrana dokunun ve bir onay sesi duyana kadar basılı tutun.
+
+Cihazda birden fazla kullanıcı varsa, geçici olarak kilit ekranı erişilebilir, cihaz kilidini açmak için bu kısayolu kullanabilirsiniz."</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Kapalı</string>
+  <string name="accessibility_global_gesture_preference_summary_on">Açık</string>
+  <string name="accessibility_global_gesture_preference_title">Basit erişebilirlik kısayolu</string>
+  <string name="accessibility_long_press_timeout_preference_title">Dokunma ve Uzun basma süresi</string>
   <string name="accessibility_menu_item_settings">Ayarlar</string>
+  <string name="accessibility_no_services_installed">Hiçbir hizmet yüklü değil</string>
+  <string name="accessibility_power_button_ends_call_prerefence_title">Güç tuşuna ile çağrıyı sonlandır</string>
   <string name="accessibility_screen_magnification_enable">Büyültme hareketleri</string>
-  <string name="accessibility_services_title">Servisler</string>
+  <string name="accessibility_screen_magnification_summary">"Bu özellik etkin olduğunda, yakınlaştırmak veya  uzaklaştırmak için üçlü dokunmayı kullanabilirsiniz.
+Yakınlaştırma sırasında, şunları yapabilirsiniz:
+"&lt;li&gt;&lt;ul&gt;"İki veya daha fazla parmağınızı ekran boyunca kaydırın.
+"&lt;li&gt;Yakınlaştırma seviyesini ayarlayın: Iki veya daha fazla parmakla büyütün ya da ayrı çekin.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+
+Parmağınızın altındaki içeriği, aynı zamanda geçici olarak üçlü tıklayıp yakınlaştırabilir ve tutabilirsiniz.
+
+Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her yerde çalışır."</string>
+  <string name="accessibility_screen_magnification_title">Yakınlaştırma hareketi</string>
+  <string name="accessibility_service_default_description">Hiçbir açıklama sağlanmadı.</string>
+  <string name="accessibility_service_no_apps_message">"TalkBack, görme engelli veya az gören kullanıcılara yardımcı olmak için sesli geri bildirim sağlar. Bu uygulamayı Android Market\'ten ücretsiz olarak yüklemek ister misiniz?"</string>
+  <string name="accessibility_service_no_apps_title">Ekran okuyucusuna ihtiyacınız var mı?</string>
+  <string name="accessibility_services_title">Hizmetler</string>
   <string name="accessibility_settings">Erişilebilirlik</string>
-  <string name="accessibility_settings_title">Erişilebilirlik Ayarları</string>
+  <string name="accessibility_settings_title">Erişebilirlik Ayarları</string>
+  <string name="accessibility_sync_disabled">Senkronize devre dışı</string>
+  <string name="accessibility_sync_enabled">Senkronize etkinleştirildi</string>
+  <string name="accessibility_sync_error">Senkronize hatası</string>
+  <string name="accessibility_system_title">Sistem</string>
+  <string name="accessibility_toggle_large_text_preference_title">Büyük yazı tipi</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Daha yakından güncelleyin.</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Oto ekran büyüteçi</string>
+  <string name="accessibility_toggle_screen_magnification_preference_title">Ekran yakınlaştırması</string>
+  <string name="accessibility_toggle_script_injection_preference_title">Siteye kolay erişim</string>
+  <string name="accessibility_toggle_speak_password_preference_title">Şifreleri oku</string>
   <string name="account_add">Ekle</string>
   <string name="account_autostar_label">Otomatik başlatma yönetimi</string>
   <string name="account_list">Tüm Hesaplar</string>
@@ -235,6 +273,20 @@
   <string name="cancel">İptal</string>
   <string name="cancel_alert">İptal edilsin mi?</string>
   <string name="cancel_download_buton_text">İptal</string>
+<string name="captioning_background_color">Arkaplan rengi</string>
+<string name="captioning_background_opacity">Arkaplan şeffaflığı</string>
+<string name="captioning_custom_options_title">Özel ayarlar</string>
+<string name="captioning_edge_color">Kenar rengi</string>
+<string name="captioning_edge_type">Kenar tipi</string>
+<string name="captioning_foreground_color">Yazı rengi</string>
+<string name="captioning_locale">Dil</string>
+<string name="captioning_preset">Altyazı stili</string>
+<string name="captioning_preview_characters">Aa</string>
+<string name="captioning_preview_text">Altyazı böyle görünür</string>
+<string name="captioning_preview_title">Önizleme</string>
+<string name="captioning_standard_options_title">Standart ayarlar</string>
+<string name="captioning_text_size">Yazı boyutu</string>
+<string name="captioning_typeface">Font ailesi</string>
   <string name="change_password">Şifreyi değiştir</string>
   <string name="change_security_lock">Kilit açma yöntemini değiştir</string>
   <string name="check_update">Güncellemeleri kontrol et</string>
@@ -1185,6 +1237,11 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
 <string name="tts_settings">Metin-konuşma ayarları</string>
 <string name="tts_settings_changed_demo">Ayarlarınız değişti. Bu nasıl duyulacakları ile ilgili bir örnektir.</string>
 <string name="tts_settings_title">Metin-konuşma çıktısı</string>
+<string name="tts_status_checking">Kontrol ediliyor...</string>
+<string name="tts_status_not_supported">%1$s desteklenmiyor</string>
+<string name="tts_status_ok">%1$s destekleniyor</string>
+<string name="tts_status_requires_network">%1$s için ağ bağlantısı gerekiyor</string>
+<string name="tts_status_title">Varsayılan dil durumu</string>
   <string name="turn_off_security_lock">Kilidi devre dışı bırak</string>
   <string name="under_keyguard">Kilit ekranında</string>
   <string name="unlock_change_lock_pin_title">"PIN2 kodunu değiştir"</string>
