@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="alarm_sound_default">Varsayılan alarm sesi</string>
+  <string name="app_label">Medya depolama</string>
+  <string name="artist_label">Artist</string>
+  <string name="notification_sound_default">Varsayılan bildirim sesi</string>
+  <string name="ringtone_default">Varsayılan zilsesi</string>
+  <string name="root_audio">Ses</string>
+  <string name="root_images">Resim</string>
+  <string name="root_videos">Video</string>
+  <string name="uid_label">Medya</string>
+  <string name="upgrade_msg">Medya veritabanı güncelleniyor.</string>
+</resources>
