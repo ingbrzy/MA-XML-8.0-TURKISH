@@ -3,7 +3,7 @@
   <string name="account_info">Hesabım</string>
   <string name="all_ringtone_resource">Tümü</string>
   <string name="app_name">Temalar</string>
-  <string name="apply_default_font_tip">"Sistem geçerli fontunu koru?"</string>
+  <string name="apply_default_font_tip">"Sistemin geçerli yazı tipi korunsun mu?"</string>
   <string name="apply_font_btn_exclude">Şimdi değil</string>
   <string name="apply_font_btn_reboot">Uygula</string>
   <string name="apply_font_tip">"Tema yeni font kütüphanesi içeriyor, tema uygulandıktan sonra telefonunuz tekrar başlatılacak!"</string>
@@ -12,7 +12,7 @@
   <string name="backup_preference_title">Temayı yedekle</string>
   <string name="backup_theme_dialog_message">Geçerli tema yedeklensin mi?</string>
   <string name="backup_theme_dialog_ok">Yedekle</string>
-  <string name="backup_theme_name">Tema yedekle</string>
+  <string name="backup_theme_name">Temayı yedekle</string>
   <string name="backup_theme_progress_message">Yedekleniyor...</string>
   <string name="backup_theme_success_message">Tema yedeklendi.</string>
   <string name="basic_info">Hesap bilgileri</string>
@@ -93,6 +93,7 @@
 <string name="resource_comment_version_name">(%1$s version)</string>
 <string name="resource_default">Varsayılan Zil Sesi</string>
 <string name="resource_default_name">Kaynak</string>
+<string name="resource_delete">SİL</string>
 <string name="resource_delete_all">Seçilen %1$d temayı silmek istiyor musunuz?</string>
 <string name="resource_delete_confirm">Temayı silmek istiyor musunuz?</string>
 <string name="resource_delta_update_failed">Tema güncelleme başarısız!</string>
@@ -190,7 +191,7 @@
   <string name="theme_batch_update_dlg_title">Tema güncelleme</string>
   <string name="theme_batch_updating_text">Güncelleniyor (%1$d)...</string>
   <string name="theme_changed_failed_message">"Tema uygulanamaz"</string>
-  <string name="theme_changed_message">Tema uygulandı</string>
+  <string name="theme_changed_message">Tema başarıyla uygulandı</string>
   <string name="theme_changing_dialog_title">Uygulanıyor...</string>
   <string name="theme_component_title_alarm">Alarm</string>
   <string name="theme_component_title_alarmstyle">Alarm stili</string>
