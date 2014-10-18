@@ -2,9 +2,12 @@
 <resources>
   <string name="add_alarm">Alarm ekle</string>
   <string name="alarm_alert">Varsayılan zil sesi</string>
+  <string name="alarm_alert_alert_silenced">Alarm %d dakika sonra susturulur.</string>
+  <string name="alarm_alert_snooze_set">%d dakika ertelendi.</string>
   <string name="alarm_ascending_mode_summary">Alarm sesi yavaş yavaş yükselir</string>
   <string name="alarm_ascending_mode_title">Artan alarm sesi</string>
   <string name="alarm_disabled">Etkin değil</string>
+  <string name="alarm_in_silent_mode_title">Sessiz modda alarm</string>
   <string name="alarm_label_hint">Alarm Adı</string>
   <string name="alarm_repeat">Alarm günleri</string>
   <string name="alarm_screen">Alarm ekranı ve zil sesi</string>

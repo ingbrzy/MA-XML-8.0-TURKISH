@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_account_desc">Mİ hesabınız ile notlarınız senkronize edilsin mi?</string>
+  <string name="add_account_desc">Mi Hesabınız ile notlarınız senkronize edilsin mi?</string>
   <string name="alarm_bar_title">Hatırlatma</string>
   <string name="alert_action_edit_anyway">Düzenlemeye devam et</string>
   <string name="alert_edit_action_delete">Sil</string>
   <string name="alert_edit_action_update">Güncelle</string>
-  <string name="alert_message_delete_folders">Klasörler %1$s silinsin mi?</string>
-  <string name="alert_message_delete_folders_notes">%1$s dosya ve %2$s not silinsin mi?</string>
+  <string name="alert_message_delete_folders">%1$s klasörü silmek istiyor musunuz?</string>
+  <string name="alert_message_delete_folders_notes">%1$s dosya ve %2$s notu silmek istiyor musunuz?</string>
   <string name="alert_message_delete_note">Bu notu silmek istiyor musunuz?</string>
-  <string name="alert_message_delete_notes">Notlar %1$s silinsin mi?</string>
+  <string name="alert_message_delete_notes">%1$s notu silmek istiyor musunuz?</string>
   <string name="alert_message_edit_anyway">Notta desteklenmeyen içerikler var, veri kaybına neden olabilir.</string>
   <string name="alert_title_edit_anyway">Notu düzenlemeyi onaylayın, bu veri kaybına neden olabilir, devam etmek istiyor musunuz?</string>
   <string name="app_name">Notlar</string>
@@ -21,7 +21,7 @@
   <string name="default_folder_name">Notlar</string>
   <string name="dlg_desc_confirm_alarm_silent">Alarm sessiz modda ses çıkarır.</string>
   <string name="dlg_title_confirm_alarm_silent">Sessiz modda alarmı susturmak istiyor musunuz?</string>
-  <string name="enable_sync">Eşitle</string>
+  <string name="enable_sync">Senkronize</string>
   <string name="enable_sync_desc">Xioami hesabım ile notlar senkronize edilsin mi(%1$s)?</string>
   <string name="error_contact_not_exist">Kişi mevcut değil</string>
   <string name="error_note_empty_for_clock">Üzgünüm, boş nota saat ayarı yapılamaz</string>
@@ -33,7 +33,7 @@
   <string name="format_move_notes_to_folder">%1$d notu %2$s klasörüne taşındı</string>
   <string name="hint_foler_name">İsim</string>
   <string name="info_note_enter_desktop">Ana ekrana eklendi</string>
-  <string name="login_sync">Giriş &amp; Senkronize</string>
+  <string name="login_sync">Giriş ve Senkronize</string>
   <string name="menu_create_folder">Yeni Klasör</string>
   <string name="menu_delete">Sil</string>
   <string name="menu_move">Taşı</string>
@@ -62,7 +62,7 @@
   <string name="pref_desc_alarm_when_silent">Alarm sessiz modda ses çıkarır</string>
   <string name="pref_title_alarm_when_silent">Sessiz modda alarm</string>
   <string name="pref_title_common">Ek ayarlar</string>
-  <string name="pref_title_font_size">Font boyutu</string>
+  <string name="pref_title_font_size">Yazı boyutu</string>
   <string name="pref_title_note_style">Not stili</string>
   <string name="redo">Yeniden</string>
   <string name="search">Notlar</string>
@@ -91,6 +91,6 @@
   <string name="undo">Geri al</string>
   <string name="unknown_source">Bilinmeyen kaynak</string>
   <string name="widget_content_loading">Yükleniyor...</string>
-  <string name="widget_havenot_content">Herhangi bir not yok, oluşturmak için tıklayın. Boyutlandırmak için dokunun &amp; kenarlarından uzatın.</string>
+  <string name="widget_havenot_content">Herhangi bir not yok, oluşturmak için tıklayın. Boyutlandırmak için dokunun ve kenarlarından uzatın.</string>
   <string name="widget_under_visit_mode">Gizli mod, not içeriği gösterilemiyor</string>
 </resources>

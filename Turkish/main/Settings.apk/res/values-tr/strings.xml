@@ -342,13 +342,13 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="date_picker_title">Tarih</string>
   <string name="date_time_24hour">24 saat biçimi kullan</string>
   <string name="date_time_auto">Otomatik ayarla</string>
-  <string name="date_time_auto_summaryOff">İnternet saatini kullan</string>
-  <string name="date_time_auto_summaryOn">İnternet saatini kullan</string>
+  <string name="date_time_auto_summaryOff">Ağ tarafından sağlanan saati kullan</string>
+  <string name="date_time_auto_summaryOn">Ağ tarafından sağlanan saati kullan</string>
   <string name="date_time_date_format">Tarih formatını seçin</string>
   <string name="date_time_set_date">Tarihi ayarla</string>
   <string name="date_time_set_time">Saati ayarla</string>
   <string name="date_time_set_timezone">Zaman dilimini seç</string>
-  <string name="date_time_settings">TArih ve Saat</string>
+  <string name="date_time_settings">Tarih ve Saat</string>
   <string name="debug_app">Hata ayıklama uygulaması seçin</string>
   <string name="debug_app_not_set">Hata ayıklama uygulaması ayarlanmadı</string>
   <string name="debug_app_set">Hata ayıklama uygulaması: %1$s</string>
@@ -499,7 +499,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="enable_drive_mode">Sürüş modunu etkinleştir</string>
   <string name="enable_mobile_data_when_opening_hotspot">Mobil veri de etkinleştirilsin mi?</string>
   <string name="enable_opengl_traces_title">OpenGL izlerini etkinleştir</string>
-  <string name="enable_snapshot_screenlock">Fotoğraf çekmek için geri tuşuna uzunca basın</string>
+  <string name="enable_snapshot_screenlock">Kamera için Geri tuşuna basılı tut</string>
   <string name="enable_wifi_display">Wi-Fi gösterimini etkinleştir</string>
   <string name="equalizer">"Ekolayzer"</string>
   <string name="erase_application">Uygulamaları silme işlemi çalışıyor</string>
@@ -750,7 +750,7 @@ Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "&lt;b&gt;
   <string name="memory_apps_usage">Uygulamalar</string>
   <string name="memory_available">Kullanılabilir</string>
   <string name="memory_available_read_only">Boş (sadece okunabilir))</string>
-  <string name="memory_calculating_size">Calculating…</string>
+  <string name="memory_calculating_size">Hesaplanıyor...</string>
   <string name="memory_clear_cache_message">Bu işlem tüm uygulamaların bellek verilerini temizleyecek</string>
   <string name="memory_clear_cache_title">Bellek verileri temizlensin mi?</string>
   <string name="memory_dcim_usage">Resimler, videolar</string>
@@ -864,12 +864,20 @@ Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "&lt;b&gt;
   <string name="permission_mgr">İzinler</string>
   <string name="personal_data_section_title">Kişisel veriler</string>
   <string name="phone_call_noise_suppression">Gürültü Engelleme</string>
+  <string name="phone_info_label">Telefon bilgileri</string>
+  <string name="phone_language">Dil</string>
+  <string name="phone_language_summary"/>
+  <string name="pico_installed">Yüklendi</string>
+  <string name="pico_languages_and_voices">Diller ve sesler</string>
+  <string name="pico_not_installed">Yüklü değil</string>
+  <string name="pico_voice_summary_female">Bayan</string>
+  <string name="pico_voice_summary_male">Bay</string>
   <string name="picture_source">Resim kaynağı</string>
   <string name="please_type_passphrase">Wi-Fi Şifresi</string>
-<string name="pointer_location">İşaretçi konumu</string>
-<string name="pointer_location_summary">Dokunma koordinatlarını göster</string>
-<string name="pointer_settings_category">Fare/dokunmatik alan</string>
-<string name="pointer_speed">İşaretçi hızı</string>
+  <string name="pointer_location">İşaretçi konumu</string>
+  <string name="pointer_location_summary">Dokunma koordinatlarını göster</string>
+  <string name="pointer_settings_category">Fare/dokunmatik alan</string>
+  <string name="pointer_speed">İşaretçi hızı</string>
   <string name="power_autorun_apps_empty">Otomatik başlatılan uygulama yok</string>
   <string name="power_autorun_empty">Uygulama yok</string>
   <string name="power_mgr">Güç</string>
@@ -1102,22 +1110,22 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
 <string name="spellchecker_security_warning">Bu yazım denetleyici, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yazım denetleyici, %1$s uygulamasından gelmektedir. Bu yazım denetleyiciyi kullanmak istiyor musunuz?</string>
 <string name="spellcheckers_settings_title">Yazım düzeltme</string>
   <string name="status_bar_and_notification_bar">Bildirimler ve durum çubuğu</string>
-  <string name="status_bar_filter_item_description">Bildirimleri yapılandırmak için Ayarlar &gt; Durum çubuğu &gt; Bildirimleri Yönet</string>
+  <string name="status_bar_filter_item_description">Bildirimleri yapılandırmak için Ayarlar > Durum çubuğu > Bildirimleri Yönet sekmesine gidiniz.</string>
   <string name="status_bar_filter_item_preview_image">Önizleme</string>
   <string name="status_bar_key_position_custom">Özel tuş konumu</string>
   <string name="status_bar_screen_button_key">Sanal ekran tuşları</string>
   <string name="status_bar_screen_key_back">Geri tuşu</string>
-  <string name="status_bar_screen_key_home">Ana ekran düğmesi</string>
+  <string name="status_bar_screen_key_home">Ana ekran tuşu</string>
   <string name="status_bar_screen_key_menu">Menu tuşu</string>
   <string name="status_bar_screen_key_recent_apps">Son uygulamalar tuşu</string>
   <string name="status_bar_settings">Durum çubuğu</string>
   <string name="status_bar_settings_advanced">Ek ayarlar </string>
   <string name="status_bar_settings_all_app_display_loading">Yükleniyor...</string>
   <string name="status_bar_settings_basic_settings">Temel Ayarlar</string>
-  <string name="status_bar_settings_custom_carrier">Operatör adını değiştir</string>
+  <string name="status_bar_settings_custom_carrier">Servis sağlayıcısı adını değiştir</string>
   <string name="status_bar_settings_custom_notification">Bildirimleri yönet</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fi adını düzenle</string>
-  <string name="status_bar_settings_expandable_under_keyguard">Ekran kilidini etkinleştir</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Kilit ekranında göster</string>
   <string name="status_bar_settings_no_carrier">Hiçbiri</string>
   <string name="status_bar_settings_notification_bar">Durum çubuğu</string>
   <string name="status_bar_settings_show_carrier">Servis sağlayıcısını göster</string>
@@ -1159,7 +1167,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
 <string name="status_wifi_mac_address">Wi-Fi MAC adresi</string>
 <string name="status_wimax_mac_address">4G MAC adresi</string>
 <string name="storage_label">Depolama</string>
-<string name="storage_low_summary">Some system functions, such as syncing, may not work correctly. Try to free space by deleting or unpinning items, such as apps or media content.</string>
+<string name="storage_low_summary">Bazı sistem fonksiyonları(senkronizasyon gibi) düzgün çalışmayabilir. Kullanmadığınız dosya, uygulama ve medya gibi öğeleri silerek yer açabilirsiniz..</string>
 <string name="storage_low_title">Depolama alanı azalıyor</string>
 <string name="storage_menu_usb">USB bilgisayar bağlantısı</string>
 <string name="storage_other_users">Diğer kullanıcılar</string>
@@ -1250,11 +1258,11 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="unlock_set_enter_system_summary">Etkinleştirirseniz kilit açma ekranı teması kullanılmayacak ve doğrudan sistem erişimi sağlanacaktır.</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">"Şekil, PIN veya şifre güvenliğini değiştir veya devre dışı bırak"</string>
   <string name="unlock_set_unlock_launch_picker_title">Ekran Kilidini Seç</string>
-  <string name="unlock_set_unlock_mode_password">"Şifre"</string>
-  <string name="unlock_set_unlock_mode_pin">"Pin kodu"</string>
+  <string name="unlock_set_unlock_mode_password">Şifre</string>
+  <string name="unlock_set_unlock_mode_pin">Pin kodu</string>
   <string name="unlock_set_unlock_none_title">Kaydırma</string>
-  <string name="unlock_set_unlock_password_title">"Şifre"</string>
-  <string name="unlock_set_unlock_pin_title">"Pin kodu"</string>
+  <string name="unlock_set_unlock_password_title">Şifre</string>
+  <string name="unlock_set_unlock_pin_title">Pin kodu</string>
   <string name="unlock_set_unlock_summary">Şifre koruma için bir ekran şifresi belirleyin</string>
   <string name="update_progress_for_updates">Güncelleniyor (%s)</string>
   <string name="upload_debug_log_summary">Anonim kullanıcı datasını göndererek MIUI\'ın gelişmesini yardımcı olun</string>
@@ -1267,8 +1275,35 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="usb_msd_driver_installer_title">Driver Installer Disk (MSD)</string>
   <string name="usb_msd_summary">Lets you transfer files on Windows and Mac</string>
   <string name="usb_msd_title">Mass storage</string>
-  <string name="user_add_user_message_long">Farklı kullanıcılar ekleyerek bu cihazı başka insanlarla paylaşabilirsiniz. Her kullanıcı indirdiği uygulamalarla, duvar kağıtlarıyla kendi alanını kişiselleştirebilir. Kullanıcılar Wi-Fi gibi tablet ayarlarını da değiştirebilirler.\n\nYeni bir kullanıcı yarattıktan sonra, o kullanıcı için yeniden kurulum yapılması gerekir.\n\nHerhangi bir kullanıcı diğer kullanıcılar adına uygulama izinlerini güncelleyebiir.</string>
-  <string name="user_dict_settings_empty_text">Kullanıcı sözlüğünde hiç kelimeniz yok. \nEkle butonunu kullanarak kelime ekleyin.</string>
+  <string name="user_add_user_message_long">"Farklı kullanıcılar ekleyerek bu cihazı başka insanlarla paylaşabilirsiniz. 
+  
+  Her kullanıcı indirdiği uygulamalarla, duvar kağıtlarıyla kendi alanını kişiselleştirebilir. Kullanıcılar Wi-Fi gibi tablet ayarlarını da değiştirebilirler.
+  
+  Yeni bir kullanıcı yarattıktan sonra, o kullanıcı için yeniden kurulum yapılması gerekir.
+  
+  Herhangi bir kullanıcı diğer kullanıcılar adına uygulama izinlerini güncelleyebilir."</string>
+   <string name="user_add_user_message_short">"Yeni bir kullanıcı oluşturduktan sonra, o kişinin bir kurulum işlemi gerçekleştirmesi gerekir.
+
+Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izinlerini kabul edebilir."</string>
+ <string name="user_dict_multiple_settings_title">Kişisel sözlükler</string>
+<string name="user_dict_settings_add_dialog_confirm">TAMAM</string>
+<string name="user_dict_settings_add_dialog_less_options">Daha az ayar</string>
+<string name="user_dict_settings_add_dialog_more_options">Daha çok ayar</string>
+<string name="user_dict_settings_add_dialog_title">Sözlüğe Ekle</string>
+<string name="user_dict_settings_add_locale_option_name">Dil:</string>
+<string name="user_dict_settings_add_menu_title">Ekle</string>
+<string name="user_dict_settings_add_screen_title">İfade</string>
+<string name="user_dict_settings_add_shortcut_option_name">Kısayol:</string>
+<string name="user_dict_settings_add_word_option_name">Kelime:</string>
+<string name="user_dict_settings_all_languages">Tüm diller</string>
+<string name="user_dict_settings_context_menu_delete_title">Sil</string>
+<string name="user_dict_settings_context_menu_edit_title">Düzenle</string>
+<string name="user_dict_settings_edit_dialog_title">Kelimeyi düzenle</string>
+<string name="user_dict_settings_empty_text">"Kullanıcı sözlüğünde hiç kelimeniz yok.
+ Ekle butonunu (+)kullanarak kelime ekleyin."</string>
+<string name="user_dict_settings_more_languages">Daha fazla dil</string>
+<string name="user_dict_settings_titlebar">Kullanıcı sözlüğü</string>
+<string name="user_dict_single_settings_title">Kişisel sözlük</string>
   <string name="user_you">Siz (%s)</string>
   <string name="verify_applications">Uygulamaları doğrula</string>
   <string name="verify_applications_summary">Zarar verebilecek uygulamaların kurulmasına izin verme veya uyarma</string>
@@ -1314,6 +1349,10 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="virus_scanner_select_trust_lib">Güvenilir veritabanını seçin</string>
   <string name="virus_scanner_title">Anti-Virüs</string>
   <string name="virus_scanner_update_lib">Veritabanını güncelle</string>
+  <string name="voice_category">Konuşma</string>
+  <string name="voice_input_output_settings">Ses girişi ve çıkışı</string>
+  <string name="voice_input_output_settings_title">Ses giriş ve çıkış ayarları</string>
+  <string name="voice_search_settings_title">Sesli arama</string>
   <string name="volume_alarm_description">Alarm Sesi</string>
   <string name="volume_bluetooth_description">Bluetooth Sesi</string>
   <string name="volume_category_title">Sesler</string>
@@ -1410,11 +1449,13 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="wifi_scan_always_available_summary">"Wi-Fi kapalı bile olsa, Google\'ın konum hizmeti ve diğer uygulamalar için ağ taraması yapar. "</string>
   <string name="wifi_scan_always_confirm_allow">İzin ver</string>
   <string name="wifi_scan_always_confirm_deny">Engelle</string>
-  <string name="wifi_scan_always_turnon_message">"To improve location accuracy and for other purposes, %1$s wants to turn on network scanning, even when WLAN is off.
-Allow this for all apps that want to scan?"</string>
+  <string name="wifi_scan_always_turnon_message">"Konum doğruluğunu iyileştirmek ve diğer amaçlar için, %1$s Wi-Fi kapalı olduğunda bile yakındaki ağları taramak istiyor.
+İzin veriyor musunuz?"</string>
   <string name="wifi_scan_notify_remember_choice">"Tekrar gösterme"</string>
-  <string name="wifi_scan_notify_text_location_off">"Apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced &gt; Scanning always available."</string>
-  <string name="wifi_scan_notify_text_location_on">"To improve location accuracy and for other purposes, Google and other apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced &gt; Scanning always available."</string>
+  <string name="wifi_scan_notify_text_location_off">"Uygulamalar Wi-Fi kapalı olduğunda bile, yakındaki ağları tarayabilir. Bu özelliği kapatmak için Gelişmiş sekmesine bakabilirsiniz."</string>
+  <string name="wifi_scan_notify_text_location_on">"Konum doğruluğunu artırmak  ve diğer amaçlar için, Google ve diğer uygulamalar Wi-Fi kapalı olduğunda bile, yakındaki ağları tarayabilir. Bu özelliği kapatmak için Gelişmiş sekmesine bakabilirsiniz."</string>
+  <string name="wifi_secured_first_item">%1$s ile şifrelenmiş</string>
+  <string name="wifi_secured_second_item">,  %1$s ile şifrelenmiş</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -1428,7 +1469,8 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setup_back">Geri</string>
   <string name="wifi_setup_cancel">İptal</string>
   <string name="wifi_setup_connect">Bağlan</string>
-  <string name="wifi_setup_description_connected">Kuruluma devam etmek için &lt;b&gt;&amp;#304;leri&lt;/b&gt;"\'ye dokunun.\n\n Farkl&amp;#305; bir Wi-Fi a&amp;#287;&amp;#305;na ba&amp;#287;lanmak i&amp;#231;in "&lt;b&gt;Geri&lt;/b&gt;\"\'ye dokunun.</string>
+  <string name="wifi_setup_description_connected">Kuruluma devam etmek için &lt;b&gt;İleri&lt;/b&gt;" butonuna dokunun.
+Farklı bir ağa bağlanmak için "&lt;b&gt;Geri&lt;/b&gt; butonuna dokunun.</string>
   <string name="wifi_setup_eap_not_supported">Kurulum sırasında EAP Wi-Fi bağlantısı yapılandıramazsınız. Kurulumdan sonra Ayarlar &gt; Wi-Fi ve ağlar bölümünde bunu yapabilirsiniz.</string>
   <string name="wifi_setup_title">Wi-Fi Ayarları</string>
   <string name="wifi_setup_title_connected_network">%s  Wi-Fi ağına bağlandı</string>
@@ -1465,6 +1507,10 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_share_upload_finish">Paylaşıldı</string>
   <string name="wifi_share_uploading">Paylaşılıyor...</string>
   <string name="wifi_signal_found_msg">Wi-Fİ ap\'ye bağlansın mı?</string>
+  <string name="wifi_skip_anyway">Atla</string>
+  <string name="wifi_skipped_message">"UYARI: Operatörünüzün mobil veri ücretlerini arttırabilir.
+
+Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="wifi_ssid">SSID</string>
   <string name="wifi_starting">Wi-Fi açılıyor...</string>
   <string name="wifi_stopping">Wi-Fi kapatılıyor...</string>
@@ -1496,19 +1542,33 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_wapi_cert_uninstall_button">Kaldır</string>
   <string name="wifi_wapi_certification_dont_exist">Girilen ağ şifresi yanlış</string>
   <string name="wifi_wapi_user_cert">Kullanıcı sertifikası</string>
+  <string name="wifi_wps_available_first_item">WPS ağı kullanılabilir</string>
+  <string name="wifi_wps_available_second_item">" (WPS ağı ağ kullanılabilir)"</string>
+  <string name="wifi_wps_complete">WPS başarılı. Ağa bağlanıyor...</string>
   <string name="wifi_wps_connected">%s Wi-Fi ağına bağlandı</string>
-  <string name="wifi_wps_onstart_pbc">Yönlendiricinizdeki Wi-Fi Korumalı Kurulum düğmesine basın. Bu \"WPS\" çağırabilir ya da bu sembolü içerebilir</string>
+  <string name="wifi_wps_failed_auth">Kimlik doğrulama hatası. Lütfen tekrar deneyiniz.</string>
+  <string name="wifi_wps_failed_generic">WPS başarısız oldu. Birkaç dakika içinde tekrar deneyin.</string>
+  <string name="wifi_wps_failed_overlap">Başka bir WPS oturumu tespit edildi. Birkaç dakika içinde tekrar deneyin.</string>
+  <string name="wifi_wps_failed_tkip">Kablosuz yönlendirici güvenlik ayarı (TKIP) desteklenmez</string>
+  <string name="wifi_wps_failed_wep">Kablosuz yönlendirici güvenlik ayarı (WEP) desteklenmez</string>
+  <string name="wifi_wps_in_progress">WPS zaten sürüyor, tamamlanması bir kaç dakika sürebilir</string>
+  <string name="wifi_wps_onstart_pbc">Yönlendiricinizdeki Wi-Fi Korumalı Kurulum düğmesine basın. Bu \"WPS\" çağırabilir ya da bu sembolü içerebilir:</string>
   <string name="wifi_wps_onstart_pin">Wi-Fi yönlendiricinize %1$s pinini girin. Kurulumu tamamlamak iki dakika kadar sürebilir</string>
   <string name="wifi_wps_overlap_error">Başka bir Wi-Fi korumalı oturumu saptandı. Birkaç dakika sonra tekrar deneyin.</string>
+  <string name="wifi_wps_setup_msg">WPS başlatılıyor...</string>
   <string name="wifi_wps_setup_title">WPS kurulumu</string>
-  <string name="wireless_off">Kapalı</string>
-  <string name="wireless_on">Açık</string>
+  <string name="wimax_settings">4G ayarları</string>
+  <string name="window_animation_scale_title">Pencere animasyonu ölçeği</string>
+  <string name="wireless_networks_settings_title">Wi-Fi ve Ağlar</string>
+  <string name="wizard_back">Geri</string>
+  <string name="wizard_finish">Bitti</string>
+  <string name="wizard_next">İleri</string>
   <string name="wps_category">WPS Güvenliği</string>
   <string name="wps_connect_summary">Yönlendiricinizin WPS desteklediğinden emin olun</string>
   <string name="wps_connect_title">WPS kullanarak bağlan</string>
-  <string name="xiaomi_account">"Mi Hesabı"</string>
-  <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xiaomi_money_service">Mi Kredi</string>
+  <string name="xiaomi_account">Mi Hesabı</string>
+  <string name="xiaomi_cloud_service">Mi Bulut</string>
+  <string name="xiaomi_money_service">Mi Kredisi</string>
   <string name="xiaomi_router_available_notif_summary">Daha fazla bilgiyi görüntülemek için dokunun.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router kullanılabilir</string>
   <string name="xiaomi_router_notif_summary">Mi Router kullanılabilir olduğunda bildir</string>

@@ -110,11 +110,11 @@
         <item>400</item>
     </string-array>
     <string-array name="tts_pitch_entries">
-        <item>Very low</item>
-        <item>Low</item>
+        <item>Çok yavaş</item>
+        <item>Yavaş</item>
         <item>Normal</item>
-        <item>High</item>
-        <item>Very high</item>
+        <item>Hızlı</item>
+        <item>Çok hızlı</item>
     </string-array>
     <string-array name="tts_pitch_values">
         <item>50</item>
@@ -124,7 +124,7 @@
         <item>150</item>
     </string-array>
     <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
+        <item>Bu bir denemedir.</item>
         <item>Voici un échantillon de synthèse vocale en français.</item>
         <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
         <item>Questo è un esempio di sintesi vocale in italiano.</item>
@@ -217,9 +217,9 @@
         <item>2</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
-        <item>Usage time</item>
-        <item>Launch count</item>
-        <item>App name</item>
+        <item>Kullanım süresi</item>
+        <item>Başlama sayımı</item>
+        <item>Uygulama adı</item>
     </string-array>
     <string-array name="wifi_eap_entries">
         <item>PEAP</item>
@@ -228,12 +228,12 @@
         <item>PWD</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>None</item>
+        <item>Yok</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>None</item>
+        <item>Yok</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
@@ -266,10 +266,10 @@
         <item>中文 (繁體)</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>None</item>
+        <item>Yok</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP or CHAP</item>
+        <item>PAP veya CHAP</item>
     </string-array>
     <string-array name="apn_auth_values">
         <item>0</item>
@@ -298,7 +298,7 @@
         <item>0</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>None</item>
+        <item>Yok</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
@@ -320,11 +320,11 @@
         <item>auto</item>
     </string-array>
     <string-array name="app_ops_categories">
-        <item>Location</item>
-        <item>Personal</item>
-        <item>Messaging</item>
-        <item>Media</item>
-        <item>Device</item>
+        <item>Konum</item>
+        <item>Kişisel</item>
+        <item>Messajlaşma</item>
+        <item>Medya</item>
+        <item>Cihaz</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>coarse location</item>
@@ -427,7 +427,7 @@
         <item>1500</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
-        <item>Default</item>
+        <item>Varsayılan</item>
         <item>Sans-serif</item>
         <item>Sans-serif condensed</item>
         <item>Serif</item>
@@ -465,11 +465,11 @@
         <item>2</item>
     </integer-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>White on black</item>
-        <item>Black on white</item>
-        <item>Yellow on black</item>
-        <item>Yellow on blue</item>
-        <item>Custom</item>
+        <item>Siyah üzerine beyaz</item>
+        <item>Beyaz üzerine siyah</item>
+        <item>Siyah üzerine sarı</item>
+        <item>Mavi üzerine sarı</item>
+        <item>Özel</item>
     </string-array>
     <integer-array name="captioning_preset_selector_values">
         <item>0</item>
@@ -484,14 +484,14 @@
         <item>ART (debug)</item>
     </string-array>
     <string-array name="select_runtime_summaries">
-        <item>Use Dalvik</item>
-        <item>Use ART</item>
-        <item>Use ART debug build</item>
+        <item>Dalvik kullan</item>
+        <item>ART kullan</item>
+        <item>ART hata ayıklama yapı kullan</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Never check</item>
-        <item>Check for DRM content only</item>
-        <item>Always check</item>
+        <item>Asla kontrol etme</item>
+        <item>Sadece DRM içeriğini kontrol et</item>
+        <item>Herzaman kontrol et</item>
     </string-array>
     <string-array name="hdcp_checking_values">
         <item>never</item>
@@ -499,9 +499,9 @@
         <item>always</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Never use HDCP checking</item>
-        <item>Use HDCP checking for DRM content only</item>
-        <item>Always use HDCP checking</item>
+        <item>Asla HDCP kontrolü kullanma</item>
+        <item>HDCP kontrolü Sadece DRM içeriği için kullan</item>
+        <item>Herzaman HDCP kontrolü kullan</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animasyon kapalı</item>
@@ -600,10 +600,10 @@
         <item>highlight</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
-        <item>On screen as lines</item>
-        <item>In adb shell dumpsys gfxinfo</item>
+        <item>Kapalı</item>
+        <item>Ekranda çubuk gibi</item>
+        <item>Ekranda çizgi gibi</item>
+        <item>adb shell dumpsys gfxinfo içinde</item>
     </string-array>
     <string-array name="track_frame_time_values">
         <item>false</item>
@@ -624,12 +624,12 @@
         <item>count</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
+        <item>Standart limit</item>
+        <item>Arka planda işlem yok</item>
+        <item>Ençok 1 işlem</item>
+        <item>Ençok 2 işlem</item>
+        <item>Ençok 3 işlem</item>
+        <item>Ençok 4 işlem</item>
     </string-array>
     <string-array name="app_process_limit_values">
         <item>-1</item>
@@ -719,9 +719,9 @@
         <item>2</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
-        <item>Ask upon connection</item>
-        <item>Charge only</item>
-        <item>Mount SD card</item>
+        <item>Bağlanınca sor</item>
+        <item>Sadece şarj</item>
+        <item>SD kartı bağla</item>
     </string-array>
     <string-array name="usb_connection_mode_values">
         <item>0</item>
@@ -846,8 +846,8 @@
         <item>Device connected</item>
     </string-array>
     <string-array name="power_mode_entries">
-        <item>Performans</item>
-        <item>Balans</item>
+        <item>Performans Modu</item>
+        <item>Dengeli Mod</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP and older</item>
@@ -912,7 +912,7 @@
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Otomatik bağlan</item>
-        <item>Manuel bağlant</item>
+        <item>Manuel bağlan</item>
         <item>Herzaman bana sor</item>
     </string-array>
     <string-array name="slideshow_time_entries">
@@ -933,9 +933,9 @@
         <item>Email</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
-        <item>Network is slow due to too much traffic</item>
-        <item>Network is slow due to weak signal strength</item>
-        <item>Moving…</item>
+        <item>Ağ yoğun trafik nedeni ile yavaş</item>
+        <item>Ağ düşük sinyal nedeni ile yavaş</item>
+        <item>Taşınıyor…</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Dahili Depolama</item>

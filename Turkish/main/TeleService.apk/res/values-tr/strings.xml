@@ -165,14 +165,14 @@
   <string name="call_settings">Diğer Ayarlar</string>
   <string name="call_settings_category">Diğer Ayarlar</string>
   <string name="call_title_redialing_with_times">Tekrar arama süresi %d</string>
-  <string name="call_waiting_summary">Çağrı esnasında gelen aramayı göster</string>
-  <string name="call_waiting_title">Call waiting</string>
+  <string name="call_waiting_summary">Konuşma sırasında gelen çağrıyı göster</string>
+  <string name="call_waiting_title">Çağrı Bekletme</string>
   <string name="call_waiting_tone_continuously">Sesi sürekli çal</string>
   <string name="call_waiting_tone_stop_summary">(Ses tuşu ile manuel durdur)</string>
   <string name="call_waiting_tone_title">Çağrı bekletme istek sesi</string>
   <string name="call_waiting_tone_twice_and_vibrate">Ses çal ve titret</string>
   <string name="call_waiting_tone_twice_only">İki kez ses çal</string>
-  <string name="caller_id_sum">Giden aramalarda numaranızı gizler veya gösterir</string>
+  <string name="caller_id_summary">Giden aramalarda numaranızı gizler veya gösterir</string>
   <string name="caller_id_title">Numaramı göster veya gizle</string>
   <string name="caller_manage_header">Konferans çağrısı %s</string>
   <string name="caller_manage_manage_done_text">Aramaya dön</string>
@@ -723,6 +723,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="ota_try_again">Tekrar deneyin</string>
   <string name="ota_unsuccessful">"Telefon etkinleştirme hatası, daha iyi bir kapsama alanında (dış mekanda) tekrar deneyin ."</string>
   <string name="other_settings">Diğer Telefon Ayarları</string>
+  <string name="other_settings_category">Ek ayarlar</string>
   <string name="password_changed">Şifre değiştirildi</string>
   <string name="password_title">Şifre</string>
   <string name="pause_prompt_no">Hayır</string>
