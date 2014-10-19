@@ -11,9 +11,9 @@
     </string-array>
     <string-array name="date_format_values">
         <item></item>
-        <item>d MMMM EEEE</item>
-        <item>d MMMM EEEE</item>
-        <item>d MMMM yyyy</item>
+        <item>d.MMMM EEEE</item>
+        <item>d.MMMM EEEE</item>
+        <item>d.MMMM.yyyy</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 saniye</item>
@@ -540,7 +540,7 @@
         <item>10</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-         <item>Animasyon kapalı</item>
+        <item>Animasyon kapalı</item>
         <item>Animasyon ölçeği .5x</item>
         <item>Animasyon ölçeği 1x</item>
         <item>Animasyon ölçeği 1.5x</item>
@@ -558,7 +558,7 @@
         <item>10</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Yok</item>
         <item>720x480 mdpi</item>
         <item>720x480 mdpi (secure)</item>
         <item>1280x720 tvdpi</item>
@@ -578,7 +578,7 @@
         <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Yok</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
@@ -590,7 +590,7 @@
         <item>error</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
+        <item>Kapalı</item>
         <item>Draw non-rectangular clip region in blue</item>
         <item>Highlight tested drawing commands in green</item>
     </string-array>
@@ -612,7 +612,7 @@
         <item>true</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
+        <item>Kapalı</item>
         <item>Show overdraw areas</item>
         <item>Show areas for Deuteranomaly</item>
         <item>Show overdraw counter</item>
