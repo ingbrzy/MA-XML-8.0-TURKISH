@@ -181,8 +181,6 @@
   <string name="pref_camcorder_settings">Video kamera ayarı</string>
   <string name="pref_camcorder_settings_category">Kamera ayarları</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
-  <string name="pref_camera_antibanding_60">60hz</string>
-  <string name="pref_camera_antibanding_default">50hz</string>
   <string name="pref_camera_antibanding_entry_0">Kapalı</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -245,7 +243,6 @@
   <string name="pref_camera_focusmode_entry_manual">Elle ayar</string>
   <string name="pref_camera_focusmode_entry_normal">Normal</string>
   <string name="pref_camera_focusmode_title">Odaklama modu</string>
-  <string name="pref_camera_focusmode_value_default">Sürekli-resim</string>
   <string name="pref_camera_front_fb_title">Enhance skin tones</string>
   <string name="pref_camera_hand_night_title">Gece Modu</string>
   <string name="pref_camera_hdr_type_entry_live">Canlı HDR</string>
@@ -275,10 +272,7 @@
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Seri çekim</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Deklanşör tuşu uzun basma</string>
   <string name="pref_camera_manual_mode_title">Manuel</string>
-  <string name="pref_camera_movie_solid_default">doğru</string>
   <string name="pref_camera_movie_solid_title">Resim Sabitleyici</string>
-  <string name="pref_camera_movie_solid_value_off">yanlış</string>
-  <string name="pref_camera_movie_solid_value_on">doğru</string>
   <string name="pref_camera_multilevel_entry_high">Yüksek</string>
   <string name="pref_camera_multilevel_entry_higher">Daha yüksek</string>
   <string name="pref_camera_multilevel_entry_highest">En yüksek</string>
@@ -388,13 +382,9 @@
   <string name="pref_capture_settings">Kamera ayarı</string>
   <string name="pref_exposure_title">Pozlama</string>
   <string name="pref_face_beauty_title">Görüntü tonları</string>
-  <string name="pref_front_mirror_default">oto</string>
   <string name="pref_front_mirror_entry_auto">Oto</string>
   <string name="pref_front_mirror_entry_off">Kapalı</string>
   <string name="pref_front_mirror_entry_on">Açık</string>
-  <string name="pref_front_mirror_entryvalue_auto">oto</string>
-  <string name="pref_front_mirror_entryvalue_off">kapalı</string>
-  <string name="pref_front_mirror_entryvalue_on">açık</string>
   <string name="pref_front_mirror_title">Ön kamera aynası</string>
   <string name="pref_grp_advanced_settings">Gelişmiş Ayarlar</string>
   <string name="pref_grp_capture_settings">Çekim ayarları</string>
