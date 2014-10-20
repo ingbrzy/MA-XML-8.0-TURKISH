@@ -184,7 +184,7 @@
   <string name="address_display_format">%1$s | %2$s</string>
   <string name="address_display_format_with_via_domain">%3$s ile %1$s%2$s  </string>
   <string name="all_folders_heading">Tüm klasörler</string>
-  <string name="allread">Tümünu oku</string>
+  <string name="allread">Tümünü oku</string>
   <string name="always_bcc_myself">Herzaman Bcc</string>
   <string name="always_show_images">Her zaman bu gönderenden gelen resimleri göster</string>
   <string name="always_show_images_toast">Bu gönderenden gelen resimler otomatik olarak gösterilecektir.</string>
@@ -244,6 +244,7 @@
   <string name="change_account_type">Hesap türünü değiştir</string>
   <string name="change_folders_selection_dialog_title">Klasörleri değiştir</string>
   <string name="change_sync_settings">Senk ayarlarını değiştir</string>
+  <string name="chat_type_name">Konuşma</string>
   <string name="check_setup_data">Sunucu ayarları doğrulanıyor…</string>
   <string name="checking_for_mail">Posta kontrol ediliyor</string>
   <string name="checking_message">Sürüm kontrol ediliyor…</string>
@@ -257,6 +258,7 @@
   <string name="compose_send">Gönder</string>
   <string name="compose_sent">Mesaj gönderildi</string>
   <string name="confirm">Onayla</string>
+  <string name="confirm_delete">Bu postayı silmek istiyor musunuz ?</string>
   <string name="confirm_discard_text">Bu mesaj silinsin mi?</string>
   <string name="confirm_response">Yanıt gönderiliyor…</string>
   <string name="confirm_save_message_no">Hayır</string>
@@ -301,6 +303,7 @@
   <string name="default_setup">VARSAYILAN AYARLAR</string>
   <string name="default_signature">MIUI ile gönderildi</string>
   <string name="delete">Sil</string>
+  <string name="delete_conversation_hint_message">%1$d %2$s silindi</string>
   <string name="deleted">Silindi</string>
   <string name="device_admin_description">Sunucu tarafından belirlenen güvenlik politikalarını etkinleştir</string>
   <string name="device_admin_label">E-posta</string>
@@ -361,10 +364,18 @@
   <string name="file_rar_not_support">Şifreli rar dosyası desteklemiyor!</string>
   <string name="file_size">Boyut</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
+  <string name="folder_drafts_name_en0">Taslaklar</string>
+  <string name="folder_drafts_name_en1">Taslak</string>
   <string name="folder_icon_desc">Klasör simgesi</string>
   <string name="folder_picker_title">Klasör seçici</string>
   <string name="folder_removed">%1$s \'den kaldırıldı</string>
+  <string name="folder_sent_name_en0">Gönderilen</string>
+  <string name="folder_sent_name_en1">Gönderilen mesajlar</string>
+  <string name="folder_sent_name_en2">Gönderilen mesaj</string>
   <string name="folder_shortcut_widget_label">E-posta klasörü</string>
+  <string name="folder_trash_name_en0">Çöp</string>
+  <string name="folder_trash_name_en1">Silinen Mesajlar</string>
+  <string name="folder_trash_name_en2">Silinen Mesaj</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
   <string name="formatted_subject">%1$s%2$s</string>
   <string name="forward">Yönlendir</string>
@@ -499,13 +510,9 @@ CC: %4$s
   <string name="name_or_number_is_error">Kullanıcı adı/şifre hatası</string>
   <string name="net_check_title">Ağ ayarlarını kontrol edin。</string>
   <string name="network_error">Ağ bağlantısı yok!</string>
-  <string name="new_down_desc1">İpuçları：</string>
-  <string name="new_down_desc2">Önceki sürüme ait kayıtlar kurtarılır.</string>
-  <string name="new_down_desc3">Wi-Fi bağlantısı kullanmanız tavsiye edilir.</string>
-  <string name="new_feature_desc">Yeni özellikler：</string>
-  <string name="new_incoming_messages_one">%s \' den yeni mesaj var. Göster.</string>
+  <string name="network_not_available">Ağ bağlantısı yok!</string>
+  <string name="new_incoming_messages_one">%s \' den yeni mesajınız var.</string>
   <string name="new_messages">%1$d yeni mesajınız var</string>
-  <string name="new_version">Yeni sürüm：</string>
   <string name="next_action">Sonraki</string>
   <string name="no">Hayır</string>
   <string name="no_application_found">Bu dosyayı açacak ya da görüntüleyecek uygulama yok.</string>
@@ -737,6 +744,7 @@ CC: %4$s
   <string name="too_large_to_attach_multiple">Birden fazla dosya eklenemedi. Limit %1$s.</string>
   <string name="too_large_to_attach_single">"%1$s\'den fazla dosya eklenemez."</string>
   <string name="trash_folder_selection_title">%s için sunucunuzun çöp klasörü seçin</string>
+  <string name="tryrefreshing">Tekrar yenileniyor...</string>
   <string name="turn_auto_sync_on_dialog_body">Yaptığınız değişiklikler web, diğer cihazlarız ve %1$s arasında senkronize edilecektir.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Aç</string>
   <string name="turn_auto_sync_on_dialog_title">Oto-Senkronize açılsın mı?</string>
@@ -745,10 +753,6 @@ CC: %4$s
   <string name="unsent_messages_in_outbox">%2$s içinde gönderilmemiş %1$s</string>
   <string name="updated_at">Son güncelleme: %1$s</string>
   <string name="updated_just_now">Şimdi güncellendi</string>
-  <string name="upgrade_check">Güncelle</string>
-  <string name="upgrade_network_error">Ağ bağlantısını kontrol edin</string>
-  <string name="upgrade_now">Şimdi yeni sürüme yükselt</string>
-  <string name="upgrade_title">Yükselt</string>
   <string name="validation_failed_prompt">Doğrulama hatası,lütfen %s sunucusunu ayarlayın</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -770,6 +774,15 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Diğer</string>
   <string name="wrong_password">Şifre yanlış!</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_external_storage_unavailable">Depolama kullanılamıyor, SD kartı kontrol edin</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_update_dialog_message">"Tanıtım sürümü %1$s
+Boyut: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Tanıtım sürümü %1$s
+Delta güncelleme boyutu: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">%1$s Güncelle!</string>
   <string name="yes">Evet</string>
   <string name="zip_viewer_no_file">Dosya yok!</string>
 </resources>
