@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_app_name">Mi Video </string>
   <string name="about_title">Hakkında</string>
@@ -74,7 +74,7 @@
   <string name="count_ji_quan">Hepsi %d bölüm</string>
   <string name="day">Gün</string>
   <string name="declaration">Kullanım Şartları</string>
-  <string name="declaration_content">Bu hizmeti kullanarak Sohu Video, iQiyi ve diğer sağlayıcıların <a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1">Kullanım Koşulları\'nı</a> of kabul etmiş sayılırsınız.</string>
+  <string name="declaration_content">Bu hizmeti kullanarak Sohu Video, iQiyi ve diğer sağlayıcıların &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Kullan&amp;#305;m Ko&amp;#351;ullar&amp;#305;\'n&amp;#305;&lt;/a&gt; of kabul etmi&amp;#351; say&amp;#305;l&amp;#305;rs&amp;#305;n&amp;#305;z.</string>
   <string name="declaration_content_td_custom">Videoyu kullanırken internete bağlanmayı kabul ediyor musunuz?</string>
   <string name="defaults">Varsayılan</string>
   <string name="delete">Sil</string>
@@ -103,7 +103,7 @@
   <string name="download_select_more">Daha fazla indir</string>
   <string name="edit">Düzenle</string>
   <string name="edit_comment">Yorum ekle</string>
-  <string name="elipsis">&#8230;</string>
+  <string name="elipsis">…</string>
   <string name="episode">Bölüm</string>
   <string name="episode_suffix">"Bölüm %d"</string>
   <string name="favorite">Favori</string>

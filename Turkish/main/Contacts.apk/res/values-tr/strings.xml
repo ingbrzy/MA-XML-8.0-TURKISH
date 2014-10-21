@@ -329,7 +329,6 @@
   <string name="export_sim_contact_finish_failure">Aktarılan: %1$d Kalan: %2$d</string>
   <string name="export_sim_contact_finish_success">%d Kişi kopyalandı</string>
   <string name="export_sim_contacts_dialog_message">SIM kartınızda %d kartvizit var</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s / %s kişiler aktarılıyor</string>
   <string name="export_to_sdcard">Hafızaya aktar</string>
   <string name="export_to_sim">SIM karta aktar</string>
   <string name="export_to_sim2">SIM kart 2\'ye aktar</string>
@@ -339,6 +338,7 @@
   Sebep: \"%s\"</string>
   <string name="exporting_contact_failed_title">Dışa aktarılamıyor</string>
   <string name="exporting_contact_list_message">Şuraya dışa aktarılıyor %s</string>
+  <string name="exporting_contact_list_progress" formatted="false">%s / %s kişiler aktarılıyor</string>
   <string name="exporting_contact_list_title">Kişi bilgisi dışa aktarılıyor</string>
   <string name="exporting_vcard_canceled_title">%s dosyasının dışa aktarılması iptal edildi.</string>
   <string name="exporting_vcard_finished_title">%s dosyasının dışa aktarılması tamamlandı.</string>
@@ -713,9 +713,9 @@
   <string name="scan">Tara</string>
   <string name="scan_duplicate_message">Rehberde tekrarlanan veriler %1$d</string>
   <string name="scan_merge">Muhtemel çift girişler aranıyor, lütfen bekleyin...</string>
-  <string name="scanning">Taranıyor...</string>
   <string name="scan_qrcode_card_hint1">QR Kodunu tara</string>
   <string name="scan_qrcode_card_hint2">Bilgilerimi kişilerinize ekleyin</string>
+  <string name="scanning">Taranıyor...</string>
   <string name="scanning_sdcard_failed_message">Sebep: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Depolama alanı taranamıyor</string>
   <string name="searchHint">Kişileri Ara</string>

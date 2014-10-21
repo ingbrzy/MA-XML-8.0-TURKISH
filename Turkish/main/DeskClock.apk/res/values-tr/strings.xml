@@ -26,9 +26,9 @@
   <string name="close_alarm">Alarmı kapat</string>
   <string name="common_settings">Ayarlar</string>
   <string name="confirm_abort">Vazgeç</string>
-<string name="day">1 gün</string>
-<string name="day_concat">". "</string>
-<string name="days">%s gün</string>
+  <string name="day">1 gün</string>
+  <string name="day_concat">". "</string>
+  <string name="days">%s gün</string>
   <string name="default_alarm_alert">Varsayılan zil sesini ayarla</string>
   <string name="default_alarm_title">Varsayılan zil sesi</string>
   <string name="delelte_selected_timezone">Seçilen zaman dilimi silinsin mi?</string>
@@ -37,9 +37,9 @@
   <string name="delete_timezone_title">Zaman dilimini sil</string>
   <string name="dialog_confirm_abort">Değişiklikleriniz silinsin mi?</string>
   <string name="full_wday_month_day_no_year">d MMMM, EEEE</string>
-<string name="hour">1 saat</string>
-<string name="hour_unit">Sa</string>
-<string name="hours">%s saat</string>
+  <string name="hour">1 saat</string>
+  <string name="hour_unit">Sa</string>
+  <string name="hours">%s saat</string>
   <string name="keep_screen_on">Ekranı açık tut</string>
   <string name="label">Alarmı adlandır</string>
   <string name="label_pref_summary">Bu alarma bir isim ver</string>
@@ -52,8 +52,8 @@
   <string name="menu_add_worldclock">Saat ekle</string>
   <string name="menu_edit_systemtime">Sistem saati</string>
   <string name="menu_edit_timer_item">Geri sayma görevini düzenle</string>
-<string name="minute">1 dakika</string>
-<string name="minutes">%s dakika</string>
+  <string name="minute">1 dakika</string>
+  <string name="minutes">%s dakika</string>
   <string name="pause">Durdur</string>
   <string name="remind_ringtone">Zil Sesi</string>
   <string name="reset">Sıfırla</string>

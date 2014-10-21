@@ -77,11 +77,11 @@
   <string name="pref_title_notification_remind">Bildirimle hatırlat</string>
   <string name="preferences_category_account_title">Hesap</string>
   <string name="preferences_category_general_title">Genel</string>
-<string name="preferences_default_reminder_dialog">Varsayılan hatırlatıcı süresi</string>
-<string name="preferences_default_reminder_title">Varsayılan hatırlatıcı süresi</string>
-<string name="preferences_week_start_day_default">-1</string>
-<string name="preferences_week_start_day_dialog">Hafta başlangıç günü</string>
-<string name="preferences_week_start_day_title">Hafta başlangıç günü</string>
+  <string name="preferences_default_reminder_dialog">Varsayılan hatırlatıcı süresi</string>
+  <string name="preferences_default_reminder_title">Varsayılan hatırlatıcı süresi</string>
+  <string name="preferences_week_start_day_default">-1</string>
+  <string name="preferences_week_start_day_dialog">Hafta başlangıç günü</string>
+  <string name="preferences_week_start_day_title">Hafta başlangıç günü</string>
   <string name="presence_label">Durum</string>
   <string name="rest_day_indication">: )</string>
   <string name="save_label">Tamam</string>
