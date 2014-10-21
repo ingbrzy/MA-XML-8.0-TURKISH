@@ -314,11 +314,6 @@
         <item>SD Kart</item>
         <item>Sistem karar versin</item>
     </string-array>
-    <string-array name="app_install_location_values">
-        <item>device</item>
-        <item>sdcard</item>
-        <item>auto</item>
-    </string-array>
     <string-array name="app_ops_categories">
         <item>Konum</item>
         <item>Kişisel</item>
@@ -493,11 +488,6 @@
         <item>Sadece DRM içeriğini kontrol et</item>
         <item>Herzaman kontrol et</item>
     </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Asla HDCP kontrolü kullanma</item>
         <item>HDCP kontrolü Sadece DRM içeriği için kullan</item>
@@ -557,16 +547,6 @@
         <item>5</item>
         <item>10</item>
     </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>None</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (secure)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (secure)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (secure)</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
-    </string-array>
     <string-array name="overlay_display_devices_values">
         <item></item>
         <item>720x480/160</item>
@@ -593,11 +573,6 @@
         <item>Kapalı</item>
         <item>Draw non-rectangular clip region in blue</item>
         <item>Highlight tested drawing commands in green</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>hide</item>
-        <item>region</item>
-        <item>highlight</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Kapalı</item>
@@ -789,10 +764,6 @@
         <item>Son uygulamaları göster</item>
         <item>Menüyü göster</item>
     </string-array>
-    <string-array name="screen_key_press_action_value">
-        <item>recent_panel</item>
-        <item>show_menu</item>
-    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Yok</item>
         <item>Son uygulamaları göster</item>
@@ -800,14 +771,6 @@
         <item>Google now\'ı başlat</item>
         <item>Geçerli uygulamayı kapat</item>
         <item>Menüyü göster</item>
-    </string-array>
-    <string-array name="screen_key_long_press_action_value">
-        <item>none</item>
-        <item>recent_panel</item>
-        <item>voice_assistant</item>
-        <item>google_now</item>
-        <item>close_app</item>
-        <item>show_menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 saniye</item>
@@ -897,12 +860,6 @@
     <string-array name="phone_call_noise_suppression_values">
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>Yüz tanıma</item>
-        <item>Desen</item>
-        <item>Sayısal şifre</item>
-        <item>Karışık şifre</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Yüz tanıma</item>
