@@ -331,8 +331,6 @@
   <string name="general_setting">Genel Ayarlar</string>
   <string name="get_pin2">PIN2 kodu</string>
   <string name="get_smsc_address_error">Mesaj merkezi numarası alınamadı, tekrar deneyin.</string>
-  <string name="get_smsc_address_timeout">Mesaj merkezi numarası alınırken zaman aşımı, tekrar deneyin.</string>
-  <string name="get_smsc_address_error">"Ağ bağlantısı yok !"</string>
   <string name="get_smsc_address_timeout">Bağlantı zaman aşımı</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Şebeke özellikleri</string>
   <string name="gsm_umts_network_preferences_title">Şebeke özellikleri</string>
