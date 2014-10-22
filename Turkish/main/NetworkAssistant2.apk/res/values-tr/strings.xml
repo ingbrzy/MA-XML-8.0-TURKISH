@@ -209,6 +209,7 @@
   <string name="pref_title_traffic_speed_state">Ağ hızını göster</string>
   <string name="pref_title_update_notification">Veri kullanımını göster</string>
   <string name="pref_traffic_saving_issue">SSS</string>
+  <string name="pref_traffic_saving_issue_content">&lt;b&gt;Veri tasarrufu işlevi gizliliğimi ve güvenliğimi riske atar mı?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz. Erişim bilgilerini sızdırma veya hırsızlığa neden olmaz.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Veri tasarrufu işlevini niçin kullanıyım？&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Bu işlev etkin ise; mobil veri kullanımı sırasında, metin ve görüntü dosyaları sıkıştırılarak boyutu düşürülür, ses ve görüntü dosyalarını indirmek mümkün olmaz.</string>
   <string name="pref_traffic_saving_notify_switch">Bildirim çubuğunda göster</string>
   <string name="pref_traffic_saving_notify_switch_hint">Veri Tasarrufunu bildirim çubuğunda göster</string>
   <string name="pref_traffic_saving_switch">Veri kullanımını azalt</string>

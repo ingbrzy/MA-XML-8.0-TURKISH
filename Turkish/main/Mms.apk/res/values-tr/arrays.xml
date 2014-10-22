@@ -47,11 +47,11 @@
     <item>Poker surat</item>
   </string-array>
   <string-array name="prefEntries_ringtone_repeat">
-    <item>1x</item>
-    <item>2x</item>
-    <item>3x</item>
-    <item>5x</item>
-    <item>10x</item>
+    <item>1 kez</item>
+    <item>2 kez</item>
+    <item>3 kez</item>
+    <item>5 kez</item>
+    <item>10 kez</item>
   </string-array>
   <string-array name="contact_entries">
     <item>İsim</item>
@@ -67,15 +67,15 @@
     <item>Not</item>
   </string-array>
   <string-array name="entries_date_type">
-    <item>Alınan zaman</item>
-    <item>Gönderilen zaman</item>
+    <item>Alınan</item>
+    <item>Gönderilen</item>
   </string-array>
   <string-array name="resent_via_entries_sms">
-    <item>Mesaj aracılığıyla</item>
-    <item>Bulut mesaj aracılığıyla</item>
+    <item>SMS</item>
+    <item>Mi Mesaj</item>
   </string-array>
   <string-array name="resent_via_entries_mms">
-    <item>Mesaj aracılığıyla</item>
-    <item>Bulut mesaj aracılığıyla</item>
+    <item>SMS</item>
+    <item>Mi Mesaj</item>
   </string-array>
 </resources>

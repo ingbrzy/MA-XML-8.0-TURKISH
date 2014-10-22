@@ -80,8 +80,9 @@
   <string name="activate_status_title_activating">SIM kart etkinleştiriliyor...</string>
   <string name="activate_status_title_activating_msim">SIM kart etkinleştiriliyor %s...</string>
   <string name="app_name">Xiaomi Framework Hizmetleri</string>
-  <string name="error_device_id_message">Bazı hesap ve Cloud özellikleri kullanılamayacak!</string>
-  <string name="error_device_id_title">"IMEI numarası alınamıyor!"</string>
+  <string name="error_device_id_message">"Cihaz ID geçersiz : %s
+Cihaz Kimliği geçerli IMEI veya MAC adresi olmalıdır. Cihaz ID olmadan bazı hesap ve Bulut hizmetleri kullanılamaz."</string>
+  <string name="error_device_id_title">"Geçerli Cihaz ID alınamıyor"</string>
   <string name="sim_unactivated_title">SIM kartınız aktif değil!</string>
   <string name="xmsf_activate_info">XMSF etkinleştirme bilgisi</string>
 </resources>

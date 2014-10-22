@@ -73,6 +73,8 @@
   <string name="btn_text_start_check">Kontrol et</string>
   <string name="btn_text_stop">Dur</string>
   <string name="btn_text_virus_scan">Tara</string>
+  <string name="button_antivirus">TAMAM</string>
+  <string name="button_optimizer">TAMAM</string>
   <string name="button_text_accept">Kabul</string>
   <string name="button_text_accept_timer">Kabul (%d)</string>
   <string name="button_text_add_to_white_list">İstisnalara ekle</string>
@@ -170,6 +172,8 @@
   <string name="handle_text_cache">Önbellek</string>
   <string name="handle_text_memory">Bellek</string>
   <string name="handle_text_system">Sistem</string>
+  <string name="header_antivirus">"Bu özelliği kulanarak Tencent\'in "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;koşullarını kabul etmiş olursunuz&lt;/a&gt;.</string>
+  <string name="header_optimizer">"Bu özelliği kulanarak Clean Master\'ın "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;koşullarını kabul etmiş olursunuz&lt;/a&gt;.</string>
   <string name="hints_ad_header_left">Reklam dosyaları: %d</string>
   <string name="hints_apk_header_left">Yükleme paketleri: %d</string>
   <string name="hints_apk_version">Sürüm: %s</string>
@@ -504,12 +508,15 @@
   <string name="pref_summary_expand_cache_group">Önbellek listesindeki gruplar otomatik genişletilecektir</string>
   <string name="pref_summary_garbage_cleanup_check_size">Çöp belirli bir boyuta ulaştığında bildir</string>
   <string name="pref_summary_garbage_cleanup_check_time">Zaman belirli bir zaman aralığına ulaştığında bildir</string>
+  <string name="pref_summary_open_optimizer_cloud_scan">Bilinmeyen dosya tanımlarını online karşılaştır</string>
   <string name="pref_title_auto_update_cleanup_db">Otomatik güncelleme</string>
   <string name="pref_title_cleanup_white_list">Çöp temizleme beyaz liste</string>
   <string name="pref_title_expand_cache_group">Önbellek gruplarını genişlet</string>
   <string name="pref_title_garbage_cleanup_check_size">Çöp alarm boyutu</string>
   <string name="pref_title_garbage_cleanup_check_time">Çöp alarmı</string>
   <string name="pref_title_manual_check_cleanup_db_update">Şimdi güncelleştir</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Online temizleme motoru kullan</string>
+  <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
   <string name="process_kernel_label">"Android işletim sistemi"</string>
   <string name="process_mediaserver_label">"MediaServer"</string>
   <string name="protection_category_dangerous_title">Riskler (%d)</string>
@@ -527,9 +534,11 @@
   <string name="st_title_mode_choose_group">"Mod seçin"</string>
   <string name="suffix_virus_count_bottom">Toplam</string>
   <string name="suffix_virus_count_top">Riskler</string>
+  <string name="summary_antivirus">Online virüs tanımlarını kullanarak uygulama isimlerini ve bilgilerini tara</string>
   <string name="summary_dev">Uygulamaların kullanıcı bilgilerine erişimini engelleme</string>
   <string name="summary_install_virus">Uygulamaları yüklemeden önce virüs taramasından geçirin</string>
   <string name="summary_mms">İstenmeyen mesajları filtrele (Satış, reklam vb.)</string>
+  <string name="summary_optimizer">Online virüs tanımlarını kullanarak bilinmeyen dosya adlarını tara</string>
   <string name="summary_permission">Gizliliğimi tehlikeli üçüncü şahıs uygulamalarından koru</string>
   <string name="summary_usb">Diğer cihazlardan yayılan virüsleri önle</string>
   <string name="summary_virus">%2$d virüs bulundu</string>
@@ -537,6 +546,9 @@
   <string name="system_check_content">%1$d şüpheli öğe</string>
   <string name="system_header_title">%2$s hafızayı boşaltmak için %1$d işlemi temizleyin</string>
   <string name="title_app_update_no">%d uygulama güncellenmeyi bekliyor</string>
+  <string name="text_antivirus">Online virüs veritabanı kullan</string>
+  <string name="text_optimizer">Online temizleme motoru kullan</string>
+  <string name="title_antivirus">Virüs taraması</string>
   <string name="title_app_update_yes">"Tüm uygulamalar güncel!"</string>
   <string name="title_data_flow_no">Veri kullanımı monitörü kapalı</string>
   <string name="title_data_flow_yes">Veri kullanımı monitörü açık</string>
@@ -548,6 +560,7 @@
   <string name="title_miui_update_yes">MIUI güncel!</string>
   <string name="title_mms_no">Mesaj filtresi devre dışı</string>
   <string name="title_mms_yes">Mesaj filtresi etkin</string>
+  <string name="title_optimizer">Temizleyici</string>
   <string name="title_permission_no">İzinler monitörü kapalı</string>
   <string name="title_permission_yes">İzinler monitörü açık</string>
   <string name="title_show_notification_no">Bildirim çubuğunda gösterme</string>
