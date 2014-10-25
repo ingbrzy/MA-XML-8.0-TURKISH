@@ -2,28 +2,28 @@
 
 <resources>
 		<plurals name="confirm_delete_has_cloud_image">
-			<item quantity="other"> %s Fotoğraf &amp;lt;b>Bulut alanından&amp;lt;/b> silinsin mi?</item>
-			<item quantity="one"> %s Fotoğraf &amp;lt;b>Bulut alanından&amp;lt;/b> silinsin mi?</item>
+			<item quantity="other">Seçilen %s fotoğraf Bulut alanından silinsin mi?</item>
+			<item quantity="one">Seçilen %s fotoğraf Bulut alanından silinsin mi?</item>
 		</plurals>
 		<plurals name="confirm_delete_has_local_image">
-			<item quantity="other">%s Fotoğraf silinsin mi?</item>
-			<item quantity="one">%s Fotoğraf silinsin mi?</item>
+			<item quantity="other">Seçilen %s fotoğraf silinsin mi?</item>
+			<item quantity="one">Seçilen %s fotoğraf silinsin mi?</item>
 		</plurals>
 		<plurals name="confirm_delete_has_cloud_video">
-			<item quantity="other"> %s video &amp;lt;b>Bulut alanından&amp;lt;/b> silinsin mi?</item>
-			<item quantity="one"> %s video &amp;lt;b>Bulut alanından&amp;lt;/b> silinsin mi?</item>
+			<item quantity="other">Seçilen %s video Bulut alanından silinsin mi?</item>
+			<item quantity="one">Seçilen %s video Bulut alanından silinsin mi?</item>
 		</plurals>
 		<plurals name="confirm_delete_has_local_video">
-			<item quantity="other">%s video silinsin mi?</item>
-			<item quantity="one">%s video silinsin mi?</item>
+			<item quantity="other">Seçilen %s video silinsin mi?</item>
+			<item quantity="one">Seçilen %s video silinsin mi?</item>
 		</plurals>
 		<plurals name="confirm_delete_has_cloud_local_image">
-			<item quantity="other"> %s fotoğraf &amp;lt;b>Yerel ve Bulut alanından&amp;lt;/b> silinsin mi?</item>
-			<item quantity="one"> %s fotoğraf &amp;lt;b>Yerel ve Bulut alanından&amp;lt;/b> silinsin mi?</item>
+			<item quantity="other">Seçilen %s fotoğraf Yerel ve Bulut alanından silinsin mi?</item>
+			<item quantity="one">Seçilen %s fotoğraf Yerel ve Bulut alanından silinsin mi?</item>
 		</plurals>
 		<plurals name="confirm_delete_has_cloud_local_video">
-			<item quantity="other"> %s video &amp;lt;b>Yerel ve Bulut alanından&amp;lt;/b> silinsin mi?</item>
-			<item quantity="one"> %s video &amp;lt;b>Yerel ve Bulut alanından&amp;lt;/b> silinsin mi?</item>
+			<item quantity="other">Seçilen %s video Yerel ve Bulut alanından silinsin mi?</item>
+			<item quantity="one">Seçilen %s video Yerel ve Bulut alanından silinsin mi?</item>
 		</plurals>
 		<plurals name="number_of_items_selected">
 			<item quantity="other">%1$d öğe seçildi</item>

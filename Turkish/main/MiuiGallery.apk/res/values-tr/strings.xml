@@ -41,7 +41,7 @@
   <string name="albums">Albümler</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Uyarı</string>
-  <string name="alert_init_merged_message">Artık cihazınızda ve Mi Cloud\'da depolanan resimleriniz birlikte görülebilecek. </string>
+  <string name="alert_init_merged_message">Artık cihazınızda ve Bulutta depolanan resimleriniz birlikte görülebilecek. </string>
   <string name="alert_init_merged_title">Tüm fotoğraflar. Sonunda birlikte. </string>
   <string name="alert_message_open_sync">Öncelikle senkronizasyonu etkinleştirmelisiniz.</string>
   <string name="already_apply_album">"%1$s açılsın mı?"</string>
@@ -88,7 +88,7 @@
   <string name="click_to_add_picture">Resim eklemek için tıklayın</string>
   <string name="click_top_right">Sağ üstte yer alan ikona dokunun</string>
   <string name="close">Kapat</string>
-  <string name="cloud_album_more_settings">Mi Cloud ile senkronize et</string>
+  <string name="cloud_album_more_settings">Bulut ile senkronize et</string>
   <string name="cloud_album_set_create">Yeni</string>
   <string name="cloud_album_set_scan_qr_code">QR Kodu</string>
   <string name="cloud_albums">Bulut resimleri</string>
@@ -101,7 +101,9 @@
   <string name="cloud_media_set_set">Bulut Albümleri</string>
   <string name="cloud_owner_album_share_guide">Bu albümü arkadaşlarınızla paylaşabilirsiniz</string>
   <string name="cloud_screenshots_display_name">Ekran görüntüleri</string>
-  <string name="cloud_share_guide_message">Bulut albümleri \r\narkadaşlarınla paylaş. \r\nHer yerden güncelle ve görüntüle.\r\n</string>
+  <string name="cloud_share_guide_message">Bulut albümlerini;
+  Arkadaşlarınla paylaş.
+  Her yerden güncelle ve görüntüle"</string>
   <string name="cloud_share_guide_title">Paylaşmak Kolaydır</string>
   <string name="cloud_tab_albums">Albümler</string>
   <string name="cloud_tab_all">Hepsi</string>
@@ -118,11 +120,11 @@
   <string name="confirm">Tamam</string>
   <string name="confirm_delete">%s resim silinsin mi?</string>
   <string name="confirm_delete_album" formatted="false">%s albüm (toplam %s  öğe) silinsin mi?</string>
-  <string name="confirm_delete_has_cloud_image_video">&lt;b&gt;Buluttaki&lt;/b&gt; %s öğe silinsin mi?</string>
-  <string name="confirm_delete_has_cloud_local_image_video">&lt;b&gt;Yerel ve buluttaki&lt;/b&gt; %s öğe silinsin mi?</string>
+  <string name="confirm_delete_has_cloud_image_video">Seçilen %s öğe Bulut alanından silinsin mi?</string>
+  <string name="confirm_delete_has_cloud_local_image_video">Seçilen %s öğe Yerel ve Bulut alanından silinsin mi?</string>
   <string name="confirm_delete_has_local_image_video">%s öğe silinsin mi?</string>
-  <string name="confirm_delete_home_merge_item">"Telefonda ve bulutta bulunan %s resmi silinsin mi?"</string>
-  <string name="confirm_delete_init_message">Bu resim cihazınızdan ve Bulut alanından silinecektir. Sadece yereldekini silmek istiyorsanız, lütfen \"Yerel\" \ sekmesinde işlem yapın.</string>
+  <string name="confirm_delete_home_merge_item">"Yerel ve Bulutta bulunan %s resmi silinsin mi?"</string>
+  <string name="confirm_delete_init_message">Bu resim Yerel ve Bulut alanından silinecektir. Sadece cihazınızdan silmek istiyorsanız, lütfen \"Yerel\" \ sekmesinde işlem yapın.</string>
   <string name="confirm_delete_init_title">İpucu</string>
   <string name="confirm_delete_pictures">%s resmi sil</string>
   <string name="confirm_delete_system_album">%s  bir sistem albümüdür.</string>
@@ -239,7 +241,7 @@
   <string name="group_by_location">Konuma göre</string>
   <string name="group_by_tags">Etikete göre</string>
   <string name="group_by_time">Zamana göre</string>
-  <string name="has_invalid_recipient">Geçersiz alıcı(lar): &lt; %1$s &gt;</string>
+  <string name="has_invalid_recipient">Geçersiz alıcı: %1$s</string>
   <string name="height">Yükseklik</string>
   <string name="highlight">Önemli</string>
   <string name="home_my_captured_items">"Kamera rulosundaki görüntüler"</string>
@@ -254,7 +256,7 @@
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">İçe Aktarma Tamamlandı</string>
   <string name="import_fail">İçe aktarma başarısız</string>
-  <string name="impunity_declaration">Galeri uygulaması bazı hizmetler için ağa bağlanabilir Kabul ediyor musunuz?</string>
+  <string name="impunity_declaration">Galeri uygulaması bazı hizmetler için ağa bağlanabilir. Kabul ediyor musunuz?</string>
   <string name="impunity_declaration_ignore">"Tekrar gösterme"</string>
   <string name="impunity_declaration_settings">Ağ bildirimini göster</string>
   <string name="impunity_declaration_summary">Galeri uygulaması başlayınca herzaman ağ bildirimi göster</string>
@@ -293,7 +295,7 @@
   <string name="long_press_to_refocus">Yönlendirmeye basmaya devam edin</string>
   <string name="make_download_dir_fail">Dosyaları saklamak için dizin oluşturma başarısız</string>
   <string name="maker">Yapımcı</string>
-  <string name="manual">El İle</string>
+  <string name="manual">Manuel</string>
   <string name="me">"Ben"</string>
   <string name="menu_item_sort">Sırala</string>
   <string name="menu_item_sort_date">Tarih</string>
