@@ -160,6 +160,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="back_key">Geri tuşu</string>
   <string name="backup_configure_account_title">Yedekleme hesabı</string>
   <string name="backup_data_summary">Uygulama verilerini, Wi-Fi şifrelerini ve diğer ayarları Google sunucularına yedekle</string>
+  <string name="backup_data_title">Verilerimi yedekle</string>
   <string name="backup_erase_dialog_message">Wi-Fi şifrelerinizin, yer işaretlerinizin, diğer ayarlarınızın ve uygulama verilerinizin yedeklenmesi iptal edilip, Google sunucularındaki tüm kopyaları silinsin mi</string>
   <string name="baseband_version">Ana bant sürümü</string>
   <string name="battery_action_app_details">Uygulama bilgileri</string>
@@ -395,6 +396,20 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="bluetooth_tethering_overflow_error">En çok %1$d cihaz için internet paylaşımı yapılabilir.</string>
   <string name="bluetooth_turning_off">Bluetooth kapatılıyor...</string>
   <string name="bluetooth_turning_on">Bluetooth açılıyor...</string>
+  <string name="bluetooth_unlock_add_device">Cihaz ekle</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Eski cihazlar yenileri ile değiştirilecek.</string>
+  <string name="bluetooth_unlock_change_matched_device">Diğer cihazı seç</string>
+  <string name="bluetooth_unlock_confirm_device_text">Cihazları açmak için dokunun.</string>
+  <string name="bluetooth_unlock_delete_device">Bu cihazı sil</string>
+  <string name="bluetooth_unlock_delete_device_confirm_msg">Bu cihaz silinsin mi?</string>
+  <string name="bluetooth_unlock_device_matched_text">Kilidi açmak için bu cihazı kullan.</string>
+  <string name="bluetooth_unlock_no_matched_device_yet">Cihaz bulunmadı</string>
+  <string name="bluetooth_unlock_settings_devices_title">Cihaz</string>
+  <string name="bluetooth_unlock_settings_toggle_title">Uygula:</string>
+  <string name="bluetooth_unlock_settings_unlock_device">Cihaz kilidini aç</string>
+  <string name="bluetooth_unlock_title">Kilidi Bluetooth cihazla aç</string>
+  <string name="bluetooth_unlock_turned_off">Kapalı</string>
+  <string name="bluetooth_unlock_turned_on">Açık</string>
   <string name="bluetooth_untether_blank">%1$s internet paylaşımı kesilecek.</string>
   <string name="bluetooth_visibility">Keşfedilebilir</string>
   <string name="bluetooth_visibility_timeout">Görünürlük zaman aşımı</string>
@@ -983,6 +998,7 @@ Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "&lt;b&gt;
   <string name="memory_clear_cache_title">Bellek verileri temizlensin mi?</string>
   <string name="memory_dcim_usage">Resimler, videolar</string>
   <string name="memory_downloads_usage">İndirilenler</string>
+  <string name="memory_media_cache_usage">Önbellek verisi</string>
   <string name="memory_media_misc_usage">Karışık</string>
   <string name="memory_media_usage">Medya</string>
   <string name="memory_music_usage">Ses dosyaları</string>
@@ -1606,7 +1622,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="user_dict_settings_empty_text">"Kullanıcı sözlüğünde hiç kelimeniz yok.
  Ekle butonunu (+)kullanarak kelime ekleyin."</string>
   <string name="user_dict_settings_more_languages">Daha fazla dil</string>
-  <string name="user_dict_settings_titlebar">Kullanıcı sözlüğü</string>
+  <string name="user_dict_settings_title">Kullanıcı sözlüğü</string>
   <string name="user_dict_single_settings_title">Kişisel sözlük</string>
   <string name="user_you">Siz (%s)</string>
   <string name="verify_applications">Uygulamaları doğrula</string>
@@ -1859,7 +1875,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="wifi_wapi_certification_dont_exist">Girilen ağ şifresi yanlış</string>
   <string name="wifi_wapi_user_cert">Kullanıcı sertifikası</string>
   <string name="wifi_wps_available_first_item">WPS ağı kullanılabilir</string>
-  <string name="wifi_wps_available_second_item">" (WPS ağı ağ kullanılabilir)"</string>
+  <string name="wifi_wps_available_second_item">" (WPS ağı kullanılabilir)"</string>
   <string name="wifi_wps_complete">WPS başarılı. Ağa bağlanıyor...</string>
   <string name="wifi_wps_connected">%s Wi-Fi ağına bağlandı</string>
   <string name="wifi_wps_failed_auth">Kimlik doğrulama hatası. Lütfen tekrar deneyiniz.</string>
@@ -1876,8 +1892,8 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="wimax_settings">4G ayarları</string>
   <string name="window_animation_scale_title">Pencere animasyonu ölçeği</string>
   <string name="wireless_networks_settings_title">Wi-Fi ve Ağlar</string>
-  <string name="wireless_off">Kapat</string>
-  <string name="wireless_on">AÇ</string>
+  <string name="wireless_off">Kapalı</string>
+  <string name="wireless_on">AÇIK</string>
   <string name="wizard_back">Geri</string>
   <string name="wizard_finish">Bitti</string>
   <string name="wizard_next">İleri</string>
