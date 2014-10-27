@@ -274,6 +274,9 @@
   <string name="last_checked_date2">En son tarama %d gün önce yapıldı</string>
   <string name="last_checked_default">En son tarama %s gün önce yapıldı</string>
   <string name="legal_workday">Tatil</string>
+  <string name="legal_workday_invalidate">Veri süresi doldu(Geçerli zil Pazartesiden Cumaya))</string>
+  <string name="legal_workday_invalidate_message">(Veri süresi doldu,güncellemek için tıklayın)</string>
+  <string name="legal_workday_message">(Tatilleri atla)</string>
   <string name="memeory_check_content">%1$d uygulama, hafıza %2$s</string>
   <string name="menu_item_about_content">Sürüm: %s</string>
   <string name="menu_item_about_summary">Sürüm: %s</string>

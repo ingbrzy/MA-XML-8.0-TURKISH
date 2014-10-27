@@ -209,7 +209,15 @@
   <string name="pref_title_traffic_speed_state">Ağ hızını göster</string>
   <string name="pref_title_update_notification">Veri kullanımını göster</string>
   <string name="pref_traffic_saving_issue">SSS</string>
-  <string name="pref_traffic_saving_issue_content">&lt;b&gt;Veri tasarrufu işlevi gizliliğimi ve güvenliğimi riske atar mı?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz. Erişim bilgilerini sızdırma veya hırsızlığa neden olmaz.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Veri tasarrufu işlevini niçin kullanıyım？&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Bu işlev etkin ise; mobil veri kullanımı sırasında, metin ve görüntü dosyaları sıkıştırılarak boyutu düşürülür, ses ve görüntü dosyalarını indirmek mümkün olmaz.</string>
+  <string name="pref_traffic_saving_issue_content">"
+&lt;b&gt;1. Veri tasarrufu işlevi gizliliğimi ve güvenliğimi riske atar mı?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz..
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;2. Veri tasarrufu işlevini niçin kullanıyım?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+2G / 3G şebekelerine bağlıyken mobil veri tasarrufu çalışır.
+Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştırılır ve böylece yükleme işlemi hızlandırılır. "</string>
   <string name="pref_traffic_saving_notify_switch">Bildirim çubuğunda göster</string>
   <string name="pref_traffic_saving_notify_switch_hint">Veri Tasarrufunu bildirim çubuğunda göster</string>
   <string name="pref_traffic_saving_switch">Veri kullanımını azalt</string>
@@ -258,7 +266,7 @@
   <string name="traffic_protection_next">Sonraki</string>
   <string name="traffic_protection_summary">Kullanım sınırına ulaştığında bir uyarı ayarla</string>
   <string name="traffic_protection_text_hint">Mobil veri limiti: %s</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;Daha sonra ayarla&lt;/u&gt;</string>
+  <string name="traffic_protection_unknown">Daha sonra ayarla</string>
   <string name="traffic_protection_use_data">Mobil veri etkinleştirildi</string>
   <string name="traffic_saving_button_sorted">Ayrıntılar</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Sıralama ölçütü</string>
@@ -267,10 +275,10 @@
   <string name="traffic_saving_history_title">Geçmiş</string>
   <string name="traffic_saving_history_total_money">Toplam tasarruf</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
-  <string name="traffic_saving_history_total_month">"Bu ayki tasarruf: "</string>
-  <string name="traffic_saving_history_total_month_default">Aylık ortalama birikiminiz</string>
-  <string name="traffic_saving_history_total_month_value">"Online müzik: &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Online sohbet: &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Online okuma: &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; "</string>
-  <string name="traffic_saving_history_total_month_value_default">"Online müzik: &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Online sohbet: &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Online okuma: &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; "</string>
+  <string name="traffic_saving_history_total_month"/>
+  <string name="traffic_saving_history_total_month_default"/>
+  <string name="traffic_saving_history_total_month_value"/>
+  <string name="traffic_saving_history_total_month_value_default"/>
   <string name="traffic_saving_history_total_rate">Oran</string>
   <string name="traffic_saving_history_total_rate_unit"> %</string>
   <string name="traffic_saving_history_total_traffic">Veri tasarrufu</string>

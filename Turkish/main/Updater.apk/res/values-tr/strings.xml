@@ -11,7 +11,7 @@
   <string name="apply_update_dialog_cancel_button">İptal</string>
   <string name="apply_update_dialog_update_button">Güncelle</string>
   <string name="apply_upload_info_message">Güncellemeyi yüklemek için Güncelle\'ye dokunun. İşlem bitince telefonunuz yeniden başlatılacaktır.</string>
-  <string name="auto_update">Otomatik Güncelle</string>
+  <string name="auto_update">Güncelleyi otomatik indir</string>
   <string name="auto_update_sum"/>
   <string name="autosetmode">Güncelleme ayarları</string>
   <string name="best_update">En iyi güncellemem</string>
@@ -148,8 +148,8 @@
   <string name="unstable_build">Kararsız</string>
   <string name="update_comment_hint"/>
   <string name="update_comment_title">Yorumlarınız</string>
-  <string name="update_downfull_no_info_sum">İndirilemiyor, Güncele butonuna tekrar dokunun!</string>
-  <string name="update_downfull_no_info_title">İndirilemiyor!</string>
+  <string name="update_downfull_no_info_sum">İndirilemiyor, biraz bekleyip tekrar deneyin!</string>
+  <string name="update_downfull_no_info_title">Günceleme indirilemiyor!</string>
   <string name="update_feedback">Güncelleme hakkındaki önerileriniz</string>
   <string name="update_feedback_end">"Güncelleme önerileri cevapsız kaldı"</string>
   <string name="update_feedback_end_sum">Her Salı katılabilirsiniz.</string>
@@ -161,8 +161,8 @@
   <string name="update_monthly_build_only">Sadece aylık yapıya güncelle</string>
   <string name="update_sad">Vasat (pek iyi değil)</string>
   <string name="update_success">Güncelleme tamamlandı! :)</string>
-  <string name="update_success_body">Geçerli sürüm: %s</string>
-  <string name="update_success_title">Güncelleme tamamlandı!</string>
+  <string name="update_success_body">Sürüm: %s</string>
+  <string name="update_success_title">Cihaz güncelleme tamamlandı!</string>
   <string name="upgrade_close">Kapat</string>
   <string name="upgrade_kernel">Kernelinizi güncelleniz gerekiyor</string>
   <string name="upgrade_kernel_msg">"Kernel versiyonunuz MIUI ROM ile eşleşmiyor. Manuel olarak kerneli güncellemelisiniz. Lütfen yükseltmeyi öğrenmek için izleyin:

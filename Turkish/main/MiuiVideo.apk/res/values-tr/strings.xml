@@ -29,7 +29,7 @@
   <string name="app_name">MiVideo</string>
   <string name="area_colon">Ülke:</string>
   <string name="authenticated_failed">"Oturum açılamadı"</string>
-  <string name="authenticating">&lt;CDATA&gt;Doğrulanıyor...&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="authenticating">Doğrulanıyor...</string>
   <string name="authenticating_manually">"Kimlik doğrulaması yapılamadı"</string>
   <string name="average_score">Ortalama puanı</string>
   <string name="avg_score">%.1f</string>
@@ -72,9 +72,15 @@
   <string name="count_ge_media">%d video</string>
   <string name="count_ge_result">%d sonuç</string>
   <string name="count_ji_quan">Hepsi %d bölüm</string>
+  <string name="datastream_alert_download">Videoları mobil veri ile indirmek, veri kullanımını artıracaktır.Veri limitinizin üzerine çıktığınızda operatörünüz size ek ücretler uygulayabilir!</string>
+  <string name="datastream_alert_hint">Veri kullanım bildirimlerini ayarlardan kapatabilirsiniz.</string>
+  <string name="datastream_alert_negative_button">İptal</string>
+  <string name="datastream_alert_positive_button">İndir</string>
+  <string name="datastream_alert_title">Veri kullanım uyarısı</string>
   <string name="day">Gün</string>
   <string name="declaration">Kullanım Şartları</string>
-  <string name="declaration_content">"Bu hizmeti kullanarak Sohu Video, iQiyi ve diğer sağlayıcıların &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Kullan&amp;#305;m Ko&amp;#351;ullar&amp;#305;\'n&amp;#305;&lt;/a&gt; of kabul etmi&amp;#351; say&amp;#305;l&amp;#305;rs&amp;#305;n&amp;#305;z."</string>
+  <string name="declaration_allow">Tamam</string>
+  <string name="declaration_content">"Bu hizmeti kullanarak Sohu Video, iQiyi ve diğer sağlayıcıların kullanım koşullarını kabul etmiş olursunuz"</string>
   <string name="declaration_content_td_custom">"Videoyu kullanırken internete bağlanmayı kabul ediyor musunuz?"</string>
   <string name="defaults">Varsayılan</string>
   <string name="delete">Sil</string>
@@ -137,7 +143,7 @@
   <string name="key_back_down_toast">Çıkmak için tekrar dokun</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
-  <string name="loading">&lt;CDATA&gt;Tükleniyor &lt;/CDATA&gt;</string>
+  <string name="loading">" "Yükleniyor" "</string>
   <string name="loading_video_netplay_label">Yükleniyor...</string>
   <string name="loading_video_netplay_label_v5">Yükleniyor...</string>
   <string name="local_detail_more">%d video daha</string>
@@ -192,6 +198,8 @@
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
   <string name="prefix_countdown">Kalan reklamlar</string>
+  <string name="priority_storage">Harici SD kart kullan</string>
+  <string name="priority_storage_summary"></string>
   <string name="qiyi">iQiyi</string>
   <string name="rank">En iyi videolar</string>
   <string name="receive_mipush">Push bildirimleri</string>
@@ -254,7 +262,9 @@
   <string name="updatedalready">Güncellendi</string>
   <string name="upgrade">Güncelle</string>
   <string name="use_cellular_network">Mobil veri bağlantısı kullanın</string>
-  <string name="use_cellular_network_summary">Video indirmek için mobil veri bağlantısı kullan. Bu veri kullanımını artırabilir.</string>
+  <string name="use_cellular_network_summary">Video indirmek için mobil veri bağlantısı kullan.</string>
+  <string name="use_cellular_play_summary">Mobil veri ile video izlerken bildirim göster</string>
+  <string name="use_cellular_play_title">Veri kullanım bildirimi</string>
   <string name="userdata_alert_content">"Video izlemek için mobil veri bağlantısı kullanmak veri kullanımını arttırır. Veri kullanım sınırını aşarsanız, operatörünüz tarafından ekstra ücret talep edilebilir."</string>
   <string name="userdata_alert_ok">Oynat</string>
   <string name="userdata_alert_title">Veri kullanımı uyarısı</string>
@@ -280,8 +290,10 @@
   <string name="vp_closedialog">Yükle</string>
   <string name="vp_confirm">Yükle</string>
   <string name="vp_content_description">Açıklama</string>
+  <string name="vp_datastream_alert_hint">Veri kullanım bildiirmlerini ayarlardan kapatabilirsiniz</string>
+  <string name="vp_datastream_alert_play">Video izlemek için mobil veri bağlantısı kullanmak veri kullanımını arttırır. Veri kullanım sınırını aşarsanız, operatörünüz tarafından ekstra ücret talep edilebilir.</string>
   <string name="vp_device_list">Cihazlar</string>
-  <string name="vp_download_connect_fail">"Ağa bağlanılamıyor."</string>
+  <string name="vp_download_connect_fail">"Ağa bağlanılamıyor!"</string>
   <string name="vp_download_file_fail">İndirme başarısız. Yeterli boş alan olduğundan emin olun </string>
   <string name="vp_exit">Çıkış</string>
   <string name="vp_full_high_definition">1080P</string>
@@ -293,8 +305,8 @@
   <string name="vp_hint">İpucu</string>
   <string name="vp_install">HD bileşenler yüklensin mi?</string>
   <string name="vp_install_title">HD yükle</string>
-  <string name="vp_loading">&lt;CDATA&gt;Yükleniyor &lt;/CDATA&gt;</string>
-  <string name="vp_loading_download">&lt;CDATA&gt;İndiriliyor &lt;/CDATA&gt;</string>
+  <string name="vp_loading">Yükleniyor...</string>
+  <string name="vp_loading_download">İndiriliyor...</string>
   <string name="vp_loading_video">Yükleniyor...</string>
   <string name="vp_maintitlearea">HD video indirin eğlenin</string>
   <string name="vp_media_info">Video bilgilerini görüntüle</string>

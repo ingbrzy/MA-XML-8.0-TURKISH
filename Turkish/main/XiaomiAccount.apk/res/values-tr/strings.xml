@@ -7,7 +7,7 @@
   <string name="account_bind_devices">Cihazlar</string>
   <string name="account_bind_settings">Bağlama seçenekleri</string>
   <string name="account_dspt">Tüm Mi ürünleri için sadece tek hesap</string>
-  <string name="account_dspt_provision">Tüm Mİ dünyası için tek hesap.</string>
+  <string name="account_dspt_provision">Tüm MI dünyası için tek hesap.</string>
   <string name="account_hint_text">E-posta veya telefon numarası</string>
   <string name="account_name">Hesap: %1$s </string>
   <string name="account_not_activated">Hesap etkinleştirilmedi</string>
@@ -29,7 +29,7 @@
   <string name="button_cancel">İptal</string>
   <string name="button_unbind">Oturumu kapat</string>
   <string name="captcha">Kodu girin</string>
-  <string name="change_account">&lt;u&gt;Hesabı değiştir&lt;/u&gt;</string>
+  <string name="change_account">Hesabı değiştir</string>
   <string name="check_phone_error_title">Eşitleme aktif değil</string>
   <string name="check_phone_io_error">Ağ hatası</string>
   <string name="checking_account">Şifre kontrol ediliyor...</string>
@@ -45,6 +45,7 @@
   <string name="dirty_mms_count">%d mesaj</string>
   <string name="dirty_note_count">%d not</string>
   <string name="email_already_be_used">Bu e-posta adresi zaten başka bir hesap tarafından kullanımda.</string>
+  <string name="email_or_id_hint_text">E-posta / MiHesabı ID</string>
   <string name="email_reg_success_summary">%1$s  hesabınızla bağlanmış durumda. Oturum açarak kullanabilir ya da şifre değiştirebilirsiniz.</string>
   <string name="enable_sync">Aç</string>
   <string name="enable_sync_dspt">Senkronizasyon kapalı</string>
@@ -63,10 +64,10 @@
   <string name="error_user_name">Geçersiz kullanıcı adı</string>
   <string name="error_verify_code">Girdiğiniz kod yanlış</string>
   <string name="failed_to_send_activate_email">Aktivasyon e-postası gönderilemedi</string>
-  <string name="find_device_dspt">Cihazınız uzaktan kilitlenebilsin ve temizlenebilsin.</string>
+  <string name="find_device_dspt">Cihazınızı uzaktan kilitleyebilir ya da silebilirsiniz</string>
   <string name="find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com\'u ziyaret edin.</string>
-  <string name="foreign_login">&lt;u&gt;Ülke kodu ekle&lt;/u&gt;</string>
-  <string name="forget_password">&lt;u&gt;Şifremi unuttum&lt;/u&gt;</string>
+  <string name="foreign_login">Ülke kodu ekle</string>
+  <string name="forget_password">Şifremi unuttum</string>
   <string name="get_back_pwd">Hesap şifresini kurtar</string>
   <string name="get_verify_code">Doğrulama kodu al</string>
   <string name="getting_verify_code">Alınıyor</string>
@@ -90,6 +91,7 @@
   <string name="login_notice">Oturum açılıyor...</string>
   <string name="login_step2_title">2 adım da doğrulama</string>
   <string name="login_title">Mi hesabınızla oturum açın</string>
+  <string name="login_with_email_or_id">Başka bir hesapla oturum aç</string>
   <string name="micloud_account">Mi Hesabı</string>
   <string name="micloud_account_details">Hesap bilgileri</string>
   <string name="micloud_account_label">Hesap: %1$s  </string>
@@ -102,7 +104,8 @@
   <string name="micloud_activating_account_notify_info">Mi Hesabınız etkinleştiriliyor</string>
   <string name="micloud_activating_account_notify_title">Hesabınız aktifleştiriliyor...</string>
   <string name="micloud_active_alert_title">SMS gönder</string>
-  <string name="micloud_active_email_sent_1">"Etkinleştirme bağlantısı gönderilen "</string>
+  <string name="micloud_active_email_sent_1">"Aktivasyon e-postası gönderildi:"</string>
+  <string name="micloud_active_email_sent_2"/>
   <string name="micloud_active_email_visit">%s gelen kutunuzu kontrol edin</string>
   <string name="micloud_activing_account">Etkinleştiriliyor...</string>
   <string name="micloud_activing_account_delayed">Neredeyse bitti...</string>
@@ -141,8 +144,8 @@
   <string name="micloud_user_space_title">Depolama alanı</string>
   <string name="micloud_via_int_sms_alert">Etkinleştirme mesajı operatör tarafından uluslararası tarifeye göre ücretlendirilecektir.</string>
   <string name="micloud_via_sms_alert">Etkinleştirme mesajı operatör tarafından tarifenize göre ücretlendirilecektir.</string>
-  <string name="micloud_welcome_skip_login">&lt;u&gt;Bu adımı atşa&lt;/u&gt;</string>
-  <string name="micloud_welcome_skip_login_provision">&lt;u&gt;Atla&lt;/u&gt;</string>
+  <string name="micloud_welcome_skip_login">Bu adımı atla</string>
+  <string name="micloud_welcome_skip_login_provision">Atla</string>
   <string name="mili_center">Mi Kredi</string>
   <string name="mipay_center">Banka hesabı</string>
   <string name="next">İleri</string>
@@ -168,7 +171,7 @@
   <string name="reg_success">Hesap oluşturuldu</string>
   <string name="reg_success_summary">%1$s hesabınızla bağlanmış durumda. Oturum açarak kullanabilir ya da şifre değiştirebilirsiniz.</string>
   <string name="reg_type_email">E-posta kullanarak hesap oluşturun</string>
-  <string name="reg_type_other_ways">&lt;u&gt;E-Posta adresi kullanarak kayıt ol&lt;/u&gt;</string>
+  <string name="reg_type_other_ways">E-Posta adresi kullanarak kayıt ol</string>
   <string name="reg_type_other_ways_title">Diğer yolları kullanarak hesabı oluşturun</string>
   <string name="reg_type_phone">Telefon numarasını kullanarak hesap oluşturun</string>
   <string name="reg_using_other_phone">Başka bir telefon numarası kullanarak kayıt edin</string>
@@ -179,7 +182,7 @@
   <string name="register">Hesap oluşturun</string>
   <string name="register_account_goto_email">Gelen Kutusu\'na git</string>
   <string name="register_account_verified_confirm">Zaten doğrulanmış bir hesabınız var</string>
-  <string name="register_by_email">&lt;u&gt;E-Posta adresi kullanarak kayıt ol&lt;/u&gt;</string>
+  <string name="register_by_email">E-Posta adresi kullanarak kayıt ol</string>
   <string name="relogin">Tekrar giriş yapın</string>
   <string name="relogin_notice">Yeniden oturum açmanız gerekiyor</string>
   <string name="remove_account_notice">Mi Hesabınızla senkronize ettiğiniz cihazınızdaji mesajlar, kişiler, müzikler ve notlar ile ne yapmak istiyorsunuz?</string>
@@ -193,7 +196,7 @@
   <string name="sim_changed_notification_content">SIM kart aktif değil</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Oturum açmayı geç</string>
-  <string name="skip_login_u">&lt;u&gt;Oturum açmayı atla&lt;/u&gt;</string>
+  <string name="skip_login_u">Oturum açmayı atla</string>
   <string name="skip_register">Atla</string>
   <string name="skip_setup_account_msg">Daha sonra Ayarlar\'dan bir Mi Hesabı oluşturabilirsiniz.</string>
   <string name="skip_setup_account_title">Kurulumu geç</string>

@@ -257,7 +257,7 @@
   <string name="compose">E-posta yaz</string>
   <string name="compose_send">Gönder</string>
   <string name="compose_sent">Mesaj gönderildi</string>
-  <string name="confirm">Onayla</string>
+  <string name="confirm">Tamam</string>
   <string name="confirm_delete">Bu postayı silmek istiyor musunuz ?</string>
   <string name="confirm_discard_text">Bu mesaj silinsin mi?</string>
   <string name="confirm_response">Yanıt gönderiliyor…</string>
@@ -412,9 +412,11 @@
   <string name="kilobytes">%s KB</string>
   <string name="label_giftcard">Hediye Çeki:</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
+  <string name="load_from_remote">Sunucuda aramaya devam et</string>
   <string name="load_more">Daha fazla</string>
   <string name="loading_conversation">Yükleniyor…</string>
   <string name="loading_conversations">Yükleniyor…</string>
+  <string name="loading_from_remote">Sunucuda aranıyor...</string>
   <string name="local_search">Yerel arama</string>
   <string name="login">Oturum aç</string>
   <string name="login_failed_ticker">%s oturum açıldı</string>
@@ -556,6 +558,9 @@ CC: %4$s
   <string name="password_expired_dialog_content_fmt">%s için veriler cihazınızdan silinecek. Kilit ekranı PIN veya şifrenizi değiştirerek geri yükleyebilirsiniz. Şimdi değiştirilsin mi?</string>
   <string name="password_expired_dialog_title">Kilit ekranı şifre süresi doldu</string>
   <string name="password_expired_ticker">Kilit ekranı şifre süreniz doldu.</string>
+  <string name="perference_change_pw">Şifreyi güncelle</string>
+  <string name="perference_change_pw_notnull_tips">Şifre boş olamaz</string>
+  <string name="perference_change_pw_ok_tips">Şifre başarıyla güncellendi</string>
   <string name="permission_access_provider_desc">Uygulama alınan iletiler, gönderilen iletiler, kullanıcı adları ve şifreler de dahil olmak üzere tüm E-posta veritabanına erişim sağlar.</string>
   <string name="permission_access_provider_label">E-posta sağlayıcınıza veri erişimi</string>
   <string name="permission_read_attachment_desc">Uygulama e-posta eklerini okuma izni verir.</string>
@@ -607,6 +612,7 @@ CC: %4$s
   <string name="preferences_signature_dialog_title">İmza</string>
   <string name="preferences_signature_summary_not_set">Ayarlı değil</string>
   <string name="preferences_signature_title">İmza</string>
+  <string name="prefetched_got_it">Tamam</string>
   <string name="prepaid_card_order_info">%1$s Kupon: RMB %2$s</string>
   <string name="prepaid_error_not_choose_carrier">Operatör seçili değil!</string>
   <string name="preview_attachment">Ön izleme</string>
@@ -631,6 +637,8 @@ CC: %4$s
   <string name="refreshing">Yenileniyor…</string>
   <string name="release_to_refresh">Yenilemek için bırakın</string>
   <string name="remote_folders_heading">Sunucu klasörleri</string>
+  <string name="remote_search">Sunucudaki tüm postalar</string>
+  <string name="remote_search_result">Sunucuda %s e-posta bulundu</string>
   <string name="remove_account">Hesabı kaldır</string>
   <string name="remove_account_confirm">\"%1$s\" hesabı WPSMail\'den  silinecek.</string>
   <string name="remove_folder">%1$s\'den kaldır</string>
@@ -734,11 +742,11 @@ CC: %4$s
   <string name="title_sms_code">Doğrulama kodunu girin</string>
   <string name="to">Kime</string>
   <string name="to_heading">"Kime: "</string>
-  <string name="too_large_to_attach_additional">Dosya eklenmedi. %1$s limit aşıldı.</string>
-  <string name="too_large_to_attach_multiple">Birden fazla dosya eklenemedi. Limit %1$s.</string>
+  <string name="too_large_to_attach_additional">"Dosya eklenmedi. %1$s limit aşıldı."</string>
+  <string name="too_large_to_attach_multiple">"Birden fazla dosya eklenemedi. Limit %1$s."</string>
   <string name="too_large_to_attach_single">"%1$s\'den fazla dosya eklenemez."</string>
   <string name="trash_folder_selection_title">%s için sunucunuzun çöp klasörü seçin</string>
-  <string name="tryrefreshing">Tekrar yenileniyor...</string>
+  <string name="tryrefreshing">Yenileniyor...</string>
   <string name="turn_auto_sync_on_dialog_body">Yaptığınız değişiklikler web, diğer cihazlarız ve %1$s arasında senkronize edilecektir.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Aç</string>
   <string name="turn_auto_sync_on_dialog_title">Oto-Senkronize açılsın mı?</string>
@@ -747,7 +755,7 @@ CC: %4$s
   <string name="unsent_messages_in_outbox">%2$s içinde gönderilmemiş %1$s</string>
   <string name="updated_at">Son güncelleme: %1$s</string>
   <string name="updated_just_now">Şimdi güncellendi</string>
-  <string name="validation_failed_prompt">Doğrulama hatası,lütfen %s sunucusunu ayarlayın</string>
+  <string name="validation_failed_prompt">Doğrulama hatası,lütfen %s sunucusu ayarlarını kontrol edin!</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
   <string name="veiled_alternate_text_unknown_person"/>
