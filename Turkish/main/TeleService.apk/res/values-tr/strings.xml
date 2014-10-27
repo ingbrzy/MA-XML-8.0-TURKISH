@@ -105,7 +105,7 @@
   <string name="call_recording_notification_message_low_storage">Yeterli boş alan yok.</string>
   <string name="call_recording_notification_message_sd_unmounted">SD kart yok.</string>
   <string name="call_recording_notification_summary">Ses kayıt bildirimlerini göster</string>
-  <string name="call_recording_notification_title">Ses kaydı yapılıyor</string>
+  <string name="call_recording_notification_title">Ses kayıt bildirimleri</string>
   <string name="call_recording_notification_title_error">Ses kaydı yapılamıyor</string>
   <string name="call_recording_setting">Çağrıları kaydet</string>
   <string name="call_settings">Diğer Ayarlar</string>
@@ -136,10 +136,10 @@
   <string name="card_title_conditionalCF">Call Forward Conditional is enabled</string>
   <string name="card_title_conf_call">Konferans çağrısı</string>
   <string name="card_title_cugcall">CUG çağrısı</string>
-  <string name="card_title_deflectedcall">Reddedilmiş çağrılar</string>
+  <string name="card_title_deflectedcall">Çağrı Reddedildi</string>
   <string name="card_title_forwardcheckreceived">Alınan çağrıları kontrol et</string>
   <string name="card_title_forwarded_MTcall">Yönlendirilmiş gelen çağrılar</string>
-  <string name="card_title_incoming_barred">Gelen çağrılar engellendi</string>
+  <string name="card_title_incoming_barred">Gelen çağrı engellendi</string>
   <string name="card_title_multipartycall">Çok yönlü arama</string>
   <string name="card_title_outgoing_barred">Giden çağrılar engellendi</string>
   <string name="card_title_unconditionalCF">Koşulsuz çağrı yönlendirme etkin</string>
@@ -205,7 +205,7 @@
   <string name="deactivate_all">Hepsini kapat</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_port">5060</string>
-  <string name="default_preference_summary">&lt;Ayarlanmadı&gt;</string>
+  <string name="default_preference_summary">Ayarlanmadı</string>
   <string name="delete">Sil</string>
   <string name="deleteAllSimEntries">Tüm SIM kayıtlarını sil</string>
   <string name="deleteSimContacts">SIM kayıtları siliniyor...</string>
@@ -241,7 +241,7 @@
   <string name="disable_fdn_ok">FDN etkin</string>
   <string name="disable_pin_ok">SIM kart PIN kodu devre dışı</string>
   <string name="disable_sim_pin">SIM kart PIN kodunu devre dışı bırak</string>
-  <string name="display_name_summary">&lt;Kullanıcı adı aynı&lt;</string>
+  <string name="display_name_summary">Kullanıcı adı aynı</string>
   <string name="display_name_title">Ad</string>
   <string name="domain_address_title">Sunucu</string>
   <string name="doneButton">Tamam</string>
@@ -536,7 +536,7 @@ Yerine tercih edilen şebeke kullanılacak."</string>
   <string name="old_pin2_label">Geçerli PIN2 kodu</string>
   <string name="old_pin_label">Geçerli PIN kodu</string>
   <string name="open_miui">Aç</string>
-  <string name="optional_summary">&lt;Opsiyonel&gt;</string>
+  <string name="optional_summary">Opsiyonel</string>
   <string name="ota_activate">Etkinleştir</string>
   <string name="ota_call_end">Geri</string>
   <string name="ota_failure">Programlama başarısız</string>
@@ -893,8 +893,8 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="voicemail_abbreviated">VM:</string>
   <string name="voicemail_default">Benim operatörüm</string>
   <string name="voicemail_notification_ringtone_title">Zilsesi</string>
-  <string name="voicemail_notification_vibarte_when_dialog_title">Titreşim</string>
-  <string name="voicemail_number_not_set">&lt;Ayarlı değil&gt;</string>
+  <string name="voicemail_notification_vibrate_when_title">Titreşim</string>
+  <string name="voicemail_number_not_set">Ayarlı değil</string>
   <string name="voicemail_provider">Sesli mesaj servisi</string>
   <string name="voicemail_provider_summary">Sesli mesaj servisini seç</string>
   <string name="voicemail_settings">Sesli mesaj ayarları</string>

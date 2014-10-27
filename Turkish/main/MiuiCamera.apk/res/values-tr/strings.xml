@@ -21,7 +21,8 @@
   <string name="aperture">Açıklık</string>
   <string name="app_details">Uygulama Detayları:</string>
   <string name="auto">Otomatik</string>
-  <string name="bg_replacement_message">Sabit bir yüzeye cihazınızı yerleştirin,\n ve bir an için görüntüden uzaklaştırın</string>
+  <string name="bg_replacement_message">"Sabit bir yüzeye cihazınızı yerleştirin
+  ve bir an için görüntüden uzaklaştırın"</string>
   <string name="camera_disabled">Kamera devre dışı bırakıldı</string>
   <string name="camera_error_title">Kamera hatası</string>
   <string name="camera_label">Kamera</string>
@@ -32,7 +33,7 @@
   <string name="cannot_connect_camera_twice">Hala kameraya bağlanamıyor. Telefonu yeniden başlatmayı deneyiniz.</string>
   <string name="clear_effects">Efektleri temizle</string>
   <string name="close">Kapat</string>
-  <string name="cloud_album_details">Cloud albümü:</string>
+  <string name="cloud_album_details">Bulut albümü:</string>
   <string name="confirm_change_mode_title">Modu değiştir</string>
   <string name="confirm_change_to_expert_mode_message">Profesyonel moda geçmek istiyor musunuz?</string>
   <string name="confirm_change_to_simple_mode_message">Basit moda geçmek istiyor musunuz?</string>
@@ -84,7 +85,7 @@
   <string name="effect_setting_top_text">Kamera filtreleri</string>
   <string name="effect_silly_faces">Şaşkın yüz</string>
   <string name="error_app_unsupported">Bu video formatı için desteklenmeyen çözünürlük</string>
-  <string name="error_app_unsupported_hfr_720p">720P ancak 90FPS\'ye kadar desteklenir</string>
+  <string name="error_app_unsupported_hfr_720p">720P ancak 90FPS hıza kadar desteklenir</string>
   <string name="error_app_unsupported_hfr_codec">HFR açıkken sadece H264 formatı desteklenir</string>
   <string name="error_app_unsupported_raw_wavelet">Gürültü azaltma RAW formatı ile kullanılamaz</string>
   <string name="error_fail_to_start_audio_capture">Ses kaydı başlatılamadı</string>

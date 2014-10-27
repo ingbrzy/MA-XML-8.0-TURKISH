@@ -244,7 +244,7 @@
   <string name="change_account_type">Hesap türünü değiştir</string>
   <string name="change_folders_selection_dialog_title">Klasörleri değiştir</string>
   <string name="change_sync_settings">Senk ayarlarını değiştir</string>
-  <string name="chat_type_name">Konuşma</string>
+  <string name="chat_type_name">konuşma</string>
   <string name="check_setup_data">Sunucu ayarları doğrulanıyor…</string>
   <string name="checking_for_mail">Posta kontrol ediliyor</string>
   <string name="checking_message">Sürüm kontrol ediliyor…</string>
@@ -496,6 +496,7 @@ CC: %4$s
   <string name="message_invite_tentative">Olabilir</string>
   <string name="message_invite_title">Davet takvimi</string>
   <string name="message_saved">Mesaj taslak olarak kaydedildi</string>
+  <string name="message_type_name">mesaj</string>
   <string name="message_view_attachment_background_load">Yönlendirilen mesajda bir veya daha fazla ek var.</string>
   <string name="more_atts_total">Toplam %1$d ek</string>
   <string name="more_info_attachment">Bilgi</string>

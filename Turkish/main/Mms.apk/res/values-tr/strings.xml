@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_firewall_setting">Engelli listesi</string>
+  <string name="action_firewall_setting">Engelleme listesi</string>
   <string name="activity_not_found">Bu işlemi yapabilecek uygulama bulunamadı</string>
   <string name="activity_not_found_uri">Bu işlemi yapabilecek uygulama bulunamadı</string>
   <string name="addBlackList">Engelle</string>
@@ -37,7 +37,7 @@
   <string name="attach_video">Video</string>
   <string name="back_to_message_list">Mesaj listesine dön</string>
   <string name="batch_adding_progress_message">Ekleniyor</string>
-  <string name="batch_delete_confirm_dialog_message">Seçili %1$s mesaj silinsin mi?</string>
+  <string name="batch_delete_confirm_dialog_message">Seçilen %1$s mesaj silinsin mi?</string>
   <string name="batch_deleting_message_progress_message">Siliniyor...</string>
   <string name="batch_deleting_progress_message">Siliniyor...</string>
   <string name="bcc_label">Bcc:</string>
@@ -58,9 +58,9 @@
   <string name="close">Kapat</string>
   <string name="compressing">Resim çok büyük, sıkıştırılıyor...</string>
   <string name="confirm">Onayla</string>
-  <string name="confirm_add_blacklist_dialog_dspt">Bu numara Engelli listesine eklensin mi?</string>
-  <string name="confirm_delete_SIM_message">SIM mesajı silinsin mi?</string>
-  <string name="confirm_delete_all_SIM_messages">Tüm SIM mesajları silinsin mi?</string>
+  <string name="confirm_add_blacklist_dialog_dspt">Bu numara Engelleme listesine eklensin mi?</string>
+  <string name="confirm_delete_SIM_message">SIM kart mesajı silinsin mi?</string>
+  <string name="confirm_delete_all_SIM_messages">Tüm SIM kart mesajları silinsin mi?</string>
   <string name="confirm_delete_all_conversations">Tüm konuşmalar silinsin mi?</string>
   <string name="confirm_delete_conversation">Tüm konu silinsin mi?</string>
   <string name="confirm_delete_group_message">Grup mesajları silinsin mi?</string>
@@ -73,7 +73,7 @@
   <string name="confirm_export_dialog_description">Seçilen özel kişiyi silmek istiyormusunuz</string>
   <string name="confirm_export_dialog_title">Özel kişiyi kaldır</string>
   <string name="confirm_no_block_positive">Engeli kaldır</string>
-  <string name="confirm_no_block_title">Bu numaranın engeli kaldırılıp gönderilen tüm mesajlar yeniden yüklensin mi?</string>
+  <string name="confirm_no_block_title">Bu numaranın engellemesi kaldırılıp gönderilen tüm mesajlar yeniden yüklensin mi?</string>
   <string name="confirm_rate_limit">Çok sayıda MMS gönderilecek. Onaylıyor musunuz.?</string>
   <string name="confirm_restore_all_title">Bu numaranın tüm mesajları geri yüklensin mi？</string>
   <string name="confirm_restore_positive">Kurtar</string>
@@ -163,7 +163,7 @@
   <string name="forward_prefix">ILT:</string>
   <string name="found_old_messages">%1$s\'dan %2$s?\'ya kadar olan mesajlar yüklensin mi?</string>
   <string name="found_old_messages_title">Diğer SIM kartlarınızdaki mesajlar yüklensin mi?</string>
-  <string name="found_wild_messages">Aşağıdaki numaralardan gelen mesajlar Mi Cloud içinde depolanmıştır. %sŞimdi hepsi indirilsin mi?</string>
+  <string name="found_wild_messages">Aşağıdaki numaralardan gelen mesajlar Mi Bulut içinde depolanmıştır. %s şimdi hepsi indirilsin mi?</string>
   <string name="found_wild_messages_title">Mesajları indir</string>
   <string name="from_label">Kimden:</string>
   <string name="group_message">Grup mesajı</string>
@@ -171,7 +171,7 @@
   <string name="group_resend_message">Tekrar gönder (%d)</string>
   <string name="guild_add_attachments">Dosya veya gülümseme eklemek için burayı tıklayın</string>
   <string name="guild_add_recipients">Adres defterinden alıcı eklemek için burayı tıklayın</string>
-  <string name="has_invalid_recipient">Geçersiz alıcı(lar): &lt;%1$s&gt;</string>
+  <string name="has_invalid_recipient">Geçersiz alıcı :%1$s</string>
   <string name="hidden_sender_address">Gizli gönderen adresi</string>
   <string name="hint_search_sms">%d mesaj</string>
   <string name="hms_first_use_tips">Servis mesajlarının alınması için, Wi-Fi ağına bağlı olmanız gerekiyor</string>
@@ -230,7 +230,7 @@
   <string name="move_up">Yukarı taşı</string>
   <string name="msg_type_hint_mms">Multimedia mesajı (MMS)</string>
   <string name="msg_type_hint_mx">Bulut mesajı</string>
-  <string name="msg_type_hint_sms">Yazılı Mesaj</string>
+  <string name="msg_type_hint_sms">Mesajınızı yazın...</string>
   <string name="msglist_continue_to_pull_for_more">"Daha fazlasını görüntülemek için aşağı çekin"</string>
   <string name="msglist_more_refreshing">"Yenileniyor..."</string>
   <string name="msglist_no_more_to_refresh">"Zaten güncel"</string>
@@ -258,17 +258,17 @@
   <string name="mx_btn_enable_now">Etkin</string>
   <string name="mx_count_dspt">%1$d SMS ve %2$d MMS göndermişsiniz</string>
   <string name="mx_current_status">Durum: Çevrimiçi</string>
-  <string name="mx_dspt">Mi Mesaj ile herhangi bir MIUI kullanıcısına mesaj gönderebilirsiniz</string>
-  <string name="mx_enable">Mi mesaj</string>
-  <string name="mx_enable_int_popup_msg">Mi Mesaj, MIUI aracılığıyla mesaj göndermenizi sağlar. Wi-Fi\'ya bağlı olmadığınız takdirde veri kullanımı ücretine tabi olacaktır.</string>
-  <string name="mx_enable_popup_msg">Mi Mesaj, MIUI aracılığıyla mesaj göndermenizi sağlar. Wi-Fi\'ya bağlı olmadığınız takdirde veri kullanımı ücretine tabi olacaktır. </string>
+  <string name="mx_dspt">Mi Mesaj ile herhangi bir MIUI kullanıcısına ücretsiz mesaj gönderebilirsiniz</string>
+  <string name="mx_enable">Mi Mesaj</string>
+  <string name="mx_enable_int_popup_msg">Mi Mesaj ile herhangi bir MIUI kullanıcısına ücretsiz mesaj gönderebilirsiniz. Wi-Fi\'ya bağlı olmadığınız takdirde veri kullanımı ücretine tabi olacaktır.</string>
+  <string name="mx_enable_popup_msg">Mi Mesaj ile herhangi bir MIUI kullanıcısına ücretsiz mesaj gönderebilirsiniz. Wi-Fi\'ya bağlı olmadığınız takdirde veri kullanımı ücretine tabi olacaktır. </string>
   <string name="mx_int_warning_notice">SIM kartınızdan Mi Mesaj\'ı aktifleştirmek için uluslararası bir SMS yollanacaktır. Operatörünüz tarafından uluslararası tarifeye tabi tutulabilirsiniz.</string>
   <string name="mx_msg">Mi mesaj</string>
   <string name="mx_offline">Çevrimdışı</string>
   <string name="mx_online">Çevrimiçi</string>
   <string name="mx_reactivate">Mi Mesajı Aktifleştir</string>
   <string name="mx_recommend_msg">Mi Mesaj\'ı aktifleştirmek için dokunun.</string>
-  <string name="mx_warning_notice">Mi mesajlaşmasını aktif etmek için bir mesaj gönderilecek. Mobil servis sağlayıcı tarifesinden ücretlendirilebilir.</string>
+  <string name="mx_warning_notice">Mi Mesaj\'ı aktif etmek için bir mesaj gönderilecek. Mobil servis sağlayıcı tarifesinden ücretlendirilebilir.</string>
   <string name="need_download">Eşitleniyor...</string>
   <string name="new_message">Yeni mesaj</string>
   <string name="new_message_arrived">Yeni bir mesajınız var</string>
@@ -446,7 +446,7 @@
   <string name="sp_category_bank">Banka servis mesajları</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Bildirimler</string>
-  <string name="sp_mark_as_read">Tümü okundu işaretlensin mi?</string>
+  <string name="sp_mark_as_read">Tümü okundu olarak işaretlensin mi?</string>
   <string name="sp_mark_as_read_progress">Okundu sayılıyor...</string>
   <string name="sp_mark_as_read_title">Hepsi okundu olarak işaretlensin mi?</string>
   <string name="status_failed">Başarısız</string>

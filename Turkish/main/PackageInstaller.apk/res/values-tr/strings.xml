@@ -7,7 +7,9 @@
   <string name="adware_count">%d eklenti içeriyor</string>
   <string name="adware_hint">Bu eklentiler; cihazınızda  reklam göstermek için üçüncü parti geliştiriciler tarafından kullanılmaktadır</string>
   <string name="adware_title">Reklam</string>
-  <string name="allow_source_dlg_text">"%1$s diğer uygulamaları yüklemek istiyor. Şimdi ve gelecekte bu izin vermek istiyor musunuz?"</string>
+  <string name="allow_source_dlg_text">"%1$s diğer uygulamaları yüklemek istiyor.
+
+  Şimdi ve gelecekte bu izin vermek istiyor musunuz?"</string>
   <string name="allow_source_dlg_title">Uygulamalar için yeni kaynaklara izin vermek istiyor musunuz?</string>
   <string name="app_name">Paket Yükleyici</string>
   <string name="app_not_found_dlg_text">Yüklü uygulamalar listesinde bulunamadı!</string>
@@ -15,11 +17,15 @@
   <string name="auto_startup_dialog_msg">MIUI uygulamaları otomatik olarak başlatacak. İzin vermek istiyor musunuz??"</string>
   <string name="caller_app">Yükleme İsteği: %1$s</string>
   <string name="cancel">İptal</string>
-  <string name="dlg_app_replacement_statement">"Bu uygulama, başka bir uygulamanın yerine geçecek ve eski kullanıcı verileri kaydedilecek."</string>
+  <string name="dlg_app_replacement_statement">"Bu uygulama, daha önce yüklediğiniz bir uygulamanın yerine geçecek. 
+  
+  Eski kullanıcı verileri kaydedilecektir."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) güncel sürümü, (%3$s) sürümünün yerine geçecek ve eski verilerinizi kaydedilecek. Devam etmek istiyor musunuz?"</string>
-  <string name="dlg_app_replacement_title">Yüklü bir uygulamanın yerine geçecek!</string>
+  <string name="dlg_app_replacement_title">Yüklenmiş bir uygulamanın yerine geçecek!</string>
   <string name="dlg_ok">Tamam</string>
-  <string name="dlg_sys_app_replacement_statement">"Sistem uygulamasının yerine geçecek ve eski veriler kaydedilecek."</string>
+  <string name="dlg_sys_app_replacement_statement">"Bu bir Sistem uygulaması. Yine de değiştirmek istiyor musunuz?
+  
+  Eski kullanıcı verileri kaydedilecektir."</string>
   <string name="done">Bitti</string>
   <string name="high_risk_perms">Yüksek riskli İzinler</string>
   <string name="install">Yükle</string>
@@ -89,7 +95,7 @@
   <string name="unknown_installer">Bilinmeyen yükleyici!</string>
   <string name="virus_scan_caller_unknown">Bilinmeyen</string>
   <string name="virus_scan_clear">Sil</string>
-  <string name="virus_scan_install">&lt;u&gt;Yüklemeye devam et&lt;/u&gt;</string>
+  <string name="virus_scan_install">" "Yükle" "</string>
   <string name="virus_scan_is_risk">Bu uygulama risk oluşturuyor!</string>
   <string name="virus_scan_is_virus">Bu uygulama virüs içeriyor, lütfen hemen silin!</string>
 </resources>

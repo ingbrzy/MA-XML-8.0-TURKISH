@@ -172,8 +172,8 @@
   <string name="handle_text_cache">Önbellek</string>
   <string name="handle_text_memory">Bellek</string>
   <string name="handle_text_system">Sistem</string>
-  <string name="header_antivirus">"Bu özelliği kulanarak Tencent\'in "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;koşullarını kabul etmiş olursunuz&lt;/a&gt;.</string>
-  <string name="header_optimizer">"Bu özelliği kulanarak Clean Master\'ın "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;koşullarını kabul etmiş olursunuz&lt;/a&gt;.</string>
+  <string name="header_antivirus">"Bu özelliği kulanarak Tencent\'in Hizmet koşullarını kabul etmiş olursunuz.</string>
+  <string name="header_optimizer">"Bu özelliği kulanarak Clean Master\'ın Hizmet koşullarını kabul etmiş olursunuz.</string>
   <string name="hints_ad_header_left">Reklam dosyaları: %d</string>
   <string name="hints_apk_header_left">Yükleme paketleri: %d</string>
   <string name="hints_apk_version">Sürüm: %s</string>
@@ -215,7 +215,7 @@
   <string name="hints_last_virus_scan_yesterday_safe">Dün tarandı: Güvenli</string>
   <string name="hints_last_virus_scan_yesterday_virus">Dün tarandı: Tehlikeli</string>
   <string name="hints_latest_garbage_cleanup_date">Son temizlik: %d gün önce</string>
-  <string name="hints_latest_garbage_cleanup_never">Hiçbir zaman temizlenmedi</string>
+  <string name="hints_latest_garbage_cleanup_never">Temizlik yapılmadı.</string>
   <string name="hints_latest_garbage_cleanup_today">Son temizlik: Bugün</string>
   <string name="hints_latest_garbage_cleanup_yesterday">Son temizlik: Dün</string>
   <string name="hints_loading_text">Yükleniyor...</string>

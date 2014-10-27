@@ -119,7 +119,7 @@
   <string name="data_enable_summary">Mobil şebeke üzerinden veri erişimini etkinleştir</string>
   <string name="data_enabled">Mobil veri etkin</string>
   <string name="default_notification_description">Varsayılan ses(%1$s)</string>
-  <string name="default_preference_summary">&lt;Ayarlı değil&gt;</string>
+  <string name="default_preference_summary">Ayarlı değil</string>
   <string name="delete_fdn_contact">Sabit arama numarasını sil</string>
   <string name="deleting_fdn_contact">Sabit arama numarası siliniyor...</string>
   <string name="description_delete_button">Sil</string>
@@ -161,7 +161,7 @@
   <string name="disable_fdn_ok">FDN etkinleştir</string>
   <string name="disable_pin_ok">PIN kodu devre dışı.</string>
   <string name="disable_sim_pin">PIN kodunu devre dışı bırakın</string>
-  <string name="display_name_summary">&lt; Kullanıcı adı ile aynı &gt;</string>
+  <string name="display_name_summary">Kullanıcı adı aynı</string>
   <string name="display_name_title">Görüntüleme ismi</string>
   <string name="domain_address_title">Sunucu</string>
   <string name="doneButton">Tamam</string>
@@ -214,7 +214,7 @@
   <string name="exception_error">Ağ ya da SIM kart hatası.</string>
   <string name="fdn">Sabit Arama Numaraları(FDN)</string>
   <string name="fdn_activation">FDN etkinleştirme</string>
-  <string name="fdn_check_failure">Telefon uygulamanızın Sabit Arama Numaraları ayarı açık durumda. Bu yüzden bazı arama özellikleri çalışmamaktadır.</string>
+  <string name="fdn_check_failure">"Telefon uygulamanızın Sabit Arama Numaraları ayarı açık durumda. Bu yüzden bazı arama özellikleri çalışmamaktadır."</string>
   <string name="fdn_contact_added">Sabit arama numarası eklendi.</string>
   <string name="fdn_contact_deleted">Sabit arama numarası silindi.</string>
   <string name="fdn_contact_updated">Sabit arama numarası güncellendi.</string>
@@ -225,10 +225,10 @@
   <string name="fraud_call_answer">Cevapla</string>
   <string name="fraud_call_decline">Reddet</string>
   <string name="fraud_call_waring">Lütfen dikkatli olun: Kişisel bilgileri içeren mesajlar göndermeden önce gönderdiğiniz kişinin kimliğini telefon veya video ile tekrardan doğrulayın.</string>
-  <string name="fw_change_failed">Yönlendirilen numara değiştirilemiyor.Problem devam ederse operatörünüz ile iletişime geçin.</string>
+  <string name="fw_change_failed">"Yönlendirilen numara değiştirilemiyor.Problem devam ederse operatörünüz ile iletişime geçin."</string>
   <string name="fw_get_in_vm_failed">Şu anki numara ayarları alınamıyor ve kayıt edilemiyor.Yine de başka bir servis sağlayıcıya geçilsin mi?</string>
   <string name="general_news_settings">Genel Haberler</string>
-  <string name="get_pin2">PIN2 girin</string>
+  <string name="get_pin2">PIN2 kodunu girin</string>
   <string name="goPrivate">özele geç</string>
   <string name="gsm_umts_options">GSM/UMTS seçenekleri</string>
   <string name="hac_mode_summary">İşitme cihazı uyumluluğunu aç</string>
@@ -256,8 +256,8 @@
   <string name="international_disable">Uluslararası haberler devre dışı</string>
   <string name="international_enable">Uluslararası haberler etkinleştirildi</string>
   <string name="internet_phone">İnternet araması</string>
-  <string name="invalidPin">4 ile 8 haneli bir PIN kodu girin.</string>
-  <string name="invalidPin2">4 ile 8 haneli bir PIN2 kodu girin.</string>
+  <string name="invalidPin">4-8 haneli bir PIN kodu girin.</string>
+  <string name="invalidPin2">4-8 haneli bir PIN2 kodu girin.</string>
   <string name="invalidPuk2">8 haneli bir PUK2 kodu girin.</string>
   <string name="ivr_menu_dialing_msg">Yönlendiriliyor...</string>
   <string name="ivr_menu_dialing_msg_no_mute">Seçilen servise gidin...[Otomatik hata düzeltme etkin]</string>
@@ -275,7 +275,7 @@
   <string name="labelNwService">Ağ hizmeti ayarları</string>
   <string name="label_available">Kullanılabilir ağlar</string>
   <string name="label_ndp">SIM ağı kilit açma PIN kodu</string>
-  <string name="label_puk2_code">PUK2 koduun girin</string>
+  <string name="label_puk2_code">PUK2 kodunu girin</string>
   <string name="lafs_disable">Yerel Hava Alanı Uçuş Zamanları devre dışı</string>
   <string name="lafs_enable">Yerel Hava Alanı Uçuş Zamanları etkinleştirildi</string>
   <string name="list_language_dtitle">Diller</string>
@@ -302,10 +302,10 @@
   <string name="messageCFU">Her zaman bu numarayı kullan</string>
   <string name="mhh_disable">Tıp, Sağlık ve Hastane devre dışı</string>
   <string name="mhh_enable">Tıp, Sağlık ve Hastane etkin</string>
-  <string name="mismatchPin">Girdiğiniz PIN kodu hatalı. Tekrar deneyin.</string>
-  <string name="mismatchPin2">Girdiğiniz PIN2 kodu hatalı. Tekrar deneyin.</string>
+  <string name="mismatchPin">"Girdiğiniz PIN kodu hatalı. Tekrar deneyin."</string>
+  <string name="mismatchPin2">"Girdiğiniz PIN2 kodu hatalı. Tekrar deneyin."</string>
   <string name="mobile_networks">Mobil ağ ayarları</string>
-  <string name="modify_call_failure_str">Medifiye edilmiş arama isteği başarısız oldu</string>
+  <string name="modify_call_failure_str">Düzenlenmiş arama isteği başarısız oldu</string>
   <string name="modify_call_option_title">Hangi tür bir arama?</string>
   <string name="modify_call_option_voice">Sadece ses</string>
   <string name="modify_call_option_vt">VT</string>
@@ -362,7 +362,7 @@
   <string name="onHold">Beklemede</string>
   <string name="online_check_provider_info">%s tarafından tespit edildi</string>
   <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
-  <string name="online_check_warning_info_by_cmb">Lütfen dikkatli olun: Kişisel finansal bilgileri içeren mesajlar göndermeden önce gönderdiğiniz kişinin kimliğini telefon veya video ile tekrardan doğrulayın.</string>
+  <string name="online_check_warning_info_by_cmb">"Lütfen dikkatli olun: Kişisel finansal bilgileri içeren mesajlar göndermeden önce gönderdiğiniz kişinin kimliğini telefon veya video ile tekrardan doğrulayın."</string>
   <string name="online_check_warning_type_by_cmb">Gereksiz</string>
   <string name="onscreenAddCallText">Arama ekle</string>
   <string name="onscreenAddParticipant">Katılımcı ekle</string>
@@ -397,7 +397,7 @@
   <string name="onscreen_swap_calls_text">Değiştir</string>
   <string name="onscreen_tools_off">Araçlar</string>
   <string name="onscreen_tools_on">Araçlar</string>
-  <string name="optional_summary">&lt; İsteğe bağlı &gt;</string>
+  <string name="optional_summary">İsteğe bağlı</string>
   <string name="ota_activate">Etkinleştir</string>
   <string name="ota_call_end">Geri</string>
   <string name="ota_failure">Programlama başarısız</string>
@@ -416,9 +416,9 @@
   <string name="ota_touch_activate">Telefonunuzun etkinleştirilmesi için özel bir arama yapılması gerekiyor.
    Etkinleştir  tuşuna basın ve telefonu etkinleştirmek için lütfen yönlendirmeleri takip edin.</string>
   <string name="ota_try_again">Tekrar deneyin</string>
-  <string name="ota_unsuccessful">Telefonunuz etkinleştirilemedi.
+  <string name="ota_unsuccessful">"Telefonunuz etkinleştirilemedi.
   Çekim gücü daha yüksek bir yer bulmanız gerekiyor olabilir(Pencere, dış mekan).
-  Daha sonra tekrar deneyin ve daha fazla bilgi için müsteri hizmetlerini arayın.</string>
+  Daha sonra tekrar deneyin ve daha fazla bilgi için müsteri hizmetlerini arayın."</string>
   <string name="other_settings">Diğer arama ayarları</string>
   <string name="password_title">Şifre</string>
   <string name="pause_prompt_no">Hayır</string>
@@ -432,10 +432,10 @@
   <string name="pick_outgoing_call_phone_type">Arama yerleştir</string>
   <string name="pick_outgoing_sip_phone">İnternet arama hesabı kullan:</string>
   <string name="pin2_changed">PIN2 kodu başarıyla değiştirildi.</string>
-  <string name="pin2_invalid">Yanlış bir PIN girdiğinizden FDN güncellenemedi.</string>
-  <string name="pin2_or_fdn_invalid">PIN2 hatalı ve ya numara reddedildi. FDN güncellenemedi.</string>
+  <string name="pin2_invalid">Yanlış bir PIN kodu girdiğinizden FDN güncellenemedi.</string>
+  <string name="pin2_or_fdn_invalid">PIN2 kodu hatalı ve ya numara reddedildi. FDN güncellenemedi.</string>
   <string name="pin_changed">Pin kodu değiştirmesi başarılı.</string>
-  <string name="pin_failed">Hatalı PIN girildi.</string>
+  <string name="pin_failed">PIN kodu hatalı</string>
   <string name="port_title">Port numarası</string>
   <string name="prefer_2g">Sadece 2G ağlarını kullan</string>
   <string name="prefer_2g_summary">Pil ömrü koruma</string>
@@ -609,11 +609,11 @@
   <string name="voicemail_notification_ringtone_title">Ses</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Titreşim</string>
   <string name="voicemail_notification_vibrate_when_title">Titreşim</string>
-  <string name="voicemail_number_not_set">&lt; Ayarlı değil &gt;</string>
+  <string name="voicemail_number_not_set">Ayarlı değil</string>
   <string name="voicemail_provider">Servis</string>
   <string name="voicemail_settings">Kurulum</string>
   <string name="voicemail_settings_number_label">Sesli mesaj numarası</string>
   <string name="vt_init_fail_str">VT başlatma başarısız oldu. VoLTE çağrı dönüştürülüyor</string>
   <string name="wait_prompt_str">Aşağıdaki tonları gönderilsin mi? </string>
-  <string name="wild_prompt_str">\"Wild\" karakteri şununla değiştirin:</string>
+  <string name="wild_prompt_str">Joker karakterini şununla değiştirin:</string>
 </resources>

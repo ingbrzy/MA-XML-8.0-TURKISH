@@ -92,7 +92,7 @@
   <string name="callrecordview_item_op_time_missed">Bağlanmadı</string>
   <string name="callrecordview_item_op_time_only_minutes">%d dk</string>
   <string name="callrecordview_item_op_time_only_seconds">%d sn</string>
-  <string name="callrecordview_item_op_time_rejected">Reddedilmiş çağrılar</string>
+  <string name="callrecordview_item_op_time_rejected">Çağrı reddedildi</string>
   <string name="callrecordview_item_op_time_short_incoming">"Gelen: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Giden: "</string>
   <string name="callrecordview_menu_add_call_note">Çağrı notu ekle</string>
@@ -752,7 +752,7 @@
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Sim Kart Kapasitesini Görüntüle</string>
   <string name="sim_capacity_content" formatted="false">Toplam kapasite:%d, Kullanımda olan: %d</string>
-  <string name="sim_card_no_free_space_message">SIm kartınız dolu, yeni kişiler eklenemiyor.Lütfen SIM kartınızda yer açtıktan sonra tekrar deneyin</string>
+  <string name="sim_card_no_free_space_message">SIM kartınız dolu, yeni kişiler eklenemiyor.Lütfen SIM kartınızda yer açtıktan sonra tekrar deneyin</string>
   <string name="sim_card_no_free_space_title">SIM kart dolu</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Hiçbirini seçme</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Tümünü seç</string>

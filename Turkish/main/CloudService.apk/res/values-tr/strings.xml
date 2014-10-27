@@ -89,7 +89,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_more">Daha fazla bilgi</string>
   <string name="micloud_proceed">Devam</string>
   <string name="micloud_sec_dspt">ve arkadaşlarınızla paylaşın.</string>
-  <string name="micloud_space_full_influence">&lt;u&gt;Kullanım alanım bitince ne yapacağım?&lt;/u&gt;</string>
+  <string name="micloud_space_full_influence">Kullanım alanım bitince ne yapacağım?</string>
   <string name="micloud_storage_usage" formatted="false">Kullanılan: %s Toplam: %s</string>
   <string name="micloud_title_dspt" formatted="false">"Toplam: %s
 Kullanılan: %s | Kalan: %s "</string>
@@ -117,9 +117,9 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="other_settings">Diğer ayarlar</string>
   <string name="password">Şifrenizi girin</string>
   <string name="photo">Fotoğraflar</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">"Wi-Fi ağına bağlanıldığında sadece kişilerin profil resimlerini eşitle"</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">"Wi-Fi ağına bağlanıldığında sadece kişilerin profil resimlerini senkronize et"</string>
   <string name="pref_title_sync_contacts_title">Kişileri senkronize et</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Fotoğrafları eşitlemek için sadece Wi-Fi kullan</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Fotoğrafları senkronize etmek için sadece Wi-Fi kullan</string>
   <string name="pref_title_sync_my_profile_title">Senkronizasyon profili</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="remind_later">Daha sonra_hatırlat</string>

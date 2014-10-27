@@ -486,6 +486,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="color_calibration_srgb">"sRGB"</string>
   <string name="common_settings">Hızlı Ayarlar</string>
   <string name="complete_settings">Tüm Ayarlar</string>
+  <string name="computing_size">Hesaplanıyor…</string>
   <string name="confirm_download_cancelation_dialog_message">İndirme iptal edilsin mi?</string>
   <string name="confirm_erase">SİL</string>
   <string name="connect_to_internet">Ağa bağlan</string>
@@ -922,7 +923,6 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="lockpassword_pin_too_long">PIN kodu en çok %d basamaklı olmalıdır</string>
   <string name="lockpassword_pin_too_short">PIN kodu en az %d basamaklı olmalıdır</string>
   <string name="lockpassword_press_continue">İşlem tamamlandığında Devam seçeneğine dokunun</string>
-  
   <string name="lockpattern_change_lock_pattern_label">Kilit açma desenini değiştir</string>
   <string name="lockpattern_change_lock_pin_label">"Kilit açma PIN kodunu değiştir"</string>
   <string name="lockpattern_confirm_button_text">Onayla</string>
@@ -967,15 +967,9 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="master_clear_all">"Tüm verileri silerek fabrika ayarlarına dönmek istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur"</string>
   <string name="master_clear_button_text">Telefonu sıfırla</string>
   <string name="master_clear_confirm_title">Sıfırlansın mı?</string>
-  <string name="master_clear_desc">"Telefonunuzun "&lt;b&gt;dahili hafızasındaki&lt;/b&gt;", şu veriler silinecek:
-"&lt;li&gt;Google hesaplarınız&lt;/li&gt;"
-"&lt;li&gt;Sistem uygulamaları ve ayarlarınız&lt;/li&gt;"
-"&lt;li&gt;İndirilen uygulamalarınız&lt;/li&gt;</string>
-  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Müzik&lt;/li&gt;"
-"&lt;li&gt;Fotoğraf&lt;/li&gt;"
-"&lt;li&gt;Diğer kullanıcı verileri&lt;/li&gt;</string>
-  <string name="master_clear_desc_erase_external_storage">"
-Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "&lt;b&gt;SD kartın&lt;/b&gt; silinmesi gerekir.</string>
+  <string name="master_clear_desc">"Telefonunuzun dahili hafızasındaki şu veriler silinecek: Google hesaplarınız,Sistem uygulamaları ve ayarlarınız ve İndirilen uygulamalarınız"</string>
+  <string name="master_clear_desc_also_erases_external">"Müzikler, fotoğraflar ve diğer kullanıcı verileri"</string>
+  <string name="master_clear_desc_erase_external_storage">"Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için SD kartın silinmesi gerekir."</string>
   <string name="master_clear_erase_application_progress">Uygulamaları silme işlemi çalışıyor...</string>
   <string name="master_clear_failed">"Sistem Temizleme hizmeti kullanılamadığından sıfırlama yapılmadı."</string>
   <string name="master_clear_final_button_text">Her şeyi sil</string>
@@ -1142,7 +1136,7 @@ Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "&lt;b&gt;
   <string name="pref_volume_wake_title">Ses tuşlarıyla uyanma</string>
   <string name="preferred_app_settings">Varsayılan uygulama ayarları</string>
   <string name="preferred_app_settings_default">Varsayılan</string>
-  <string name="preferred_app_settings_reset">Varsayılan ayarlara dön?</string>
+  <string name="preferred_app_settings_reset">Varsayılan ayarlara dönülsün mü?</string>
   <string name="preferred_app_settings_reset_message">Varsayılan uygulama ayarlarına dönmek istiyor musunuz?</string>
   <string name="preferred_application_title">%s Başlatıcı değiştirilecek!</string>
   <string name="preferred_application_warning_message">Varsayılan %1$s başlatıcıyı değiştirmeniz, güç tüketimini arttırır ve cihaz güvenliğini riske atabilir. Varsayılan %2$s kullanmanız tavsiye edilir!</string>
@@ -1193,7 +1187,12 @@ Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "&lt;b&gt;
   <string name="recent_location_requests_summary">Aşağıdaki uygulamalar konum bilginizi görüntülemek istiyor</string>
   <string name="recent_location_requests_title">Konum erişimi</string>
   <string name="remove_from_frequently_fragment">\"%s\" öğesini Genel Ayarlardan kaldır?</string>
-  <string name="reset_legacy_password_settings_preface_text">Kilit ekranı parolanızı sıfırlamanız gerekli.</string>
+  <string name="reset_app_preferences">Uygulama ayarlarını sıfırla</string>
+  <string name="reset_app_preferences_button">Uygulamaları sıfırla</string>
+  <string name="reset_app_preferences_desc">"Bu işlem tüm ayarları ​​sıfırlar, fakat uygulama verilerini silmez.
+"</string>
+  <string name="reset_app_preferences_title">Uygulama ayarlarını sıfırlamak istiyor musunuz?</string>
+  <string name="reset_legacy_password_settings_preface_text">Ekran kilidi şifrenizi sıfırlamanız gerekir.</string>
   <string name="restrict_background_data_dialog_summary">Arka planda çalışan uygulama mesajlarını alamazsınız</string>
   <string name="restrict_background_data_notification_summary">Arka plan verilerinin kısıtlı ise uygulamalar ağa bağlanamayabilir.</string>
   <string name="restrict_background_data_title">Arka plan verilerini kısıtla</string>
@@ -1407,6 +1406,8 @@ PIN kodu yanlış olabilir!"</string>
   <string name="sms_delivered_sound_title">SMS raporu bildirimi sesi</string>
   <string name="sms_received_sound_dialog_title">SMS alındı bildirimi sesini seçin</string>
   <string name="sms_received_sound_title">SMS alındı bildirimi sesi</string>
+  <string name="sort_order_alpha">Ada göre sırala</string>
+  <string name="sort_order_size">Boyuta göre sırala</string>
   <string name="sound_category_call_ringtone_vibrate_title">Zilsesi ve titreşim</string>
   <string name="sound_category_notification_title">Bildirimler</string>
   <string name="sound_category_sound_title">Genel</string>
@@ -1441,6 +1442,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="status_bar_settings_show_flow_info">Akış ayrıntılarını göster</string>
   <string name="status_bar_settings_show_network_speed">Bağlantı hızını göster</string>
   <string name="status_bar_settings_show_notificationBar_notification">Bildirim çubuğunda göster</string>
+  <string name="status_bar_settings_show_notification_icon">Bildirim simgesini göster</string>
   <string name="status_bar_settings_show_screenshot_notification">Ekran görüntüsü bildirimini göster</string>
   <string name="status_bar_settings_show_statusBar_notification">Tuş kilidinde göster</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Bildirim, ekranın üst kısmında görünür ve otomatik olarak kaybolur</string>

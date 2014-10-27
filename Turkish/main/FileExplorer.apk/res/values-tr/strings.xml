@@ -57,7 +57,11 @@
   <string name="decompress_success">Ayrıştırma tamamlandı</string>
   <string name="decompress_to">Ayrıştır...</string>
   <string name="decompress_to_here">Buraya çıkart;</string>
-  <string name="delete_failed">"Silinemiyor"</string>
+  <string name="delete_failed">Silinemedi!</string>
+  <string name="delete_file">Dosyayı silmek istiyor musunuz?</string>
+  <string name="delete_files">Seçilen %1$d dosyayı silmek istiyor musunuz?</string>
+  <string name="delete_folder">Bu klasörü silmek istiyor musunuz?</string>
+  <string name="delete_folders">Seçilen %1$d klasörü silmek istiyor musunuz?</string>
   <string name="des_running_trans">%1$d dosya transfer edilemedi.</string>
   <string name="dialog_select_type">Tür seç</string>
   <string name="dialog_type_audio">Ses</string>
@@ -92,7 +96,7 @@
   <string name="file_too_large">Dosya çok büyük.</string>
   <string name="finished">Tamamlandı</string>
   <string name="folder_exist">Klasör zaten mevcut.</string>
-  <string name="forward_to_web_recycle_prompt">Çöp kutusuna gitmek için &lt;a href=\"%1$s\"&gt;dokunun&lt;/a&gt;</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Çöp kutusu&lt;/a&gt;</string>
   <string name="ftp_account_req_notice"> 4-16 karakter, harf ve rakamlar, büyük küçük harf duyarlı</string>
   <string name="ftp_anonymous_login">Anonim oturum açma</string>
   <string name="ftp_invalid_username_or_password">Geçersiz kullanıcı adı veya şifre.</string>
@@ -111,8 +115,10 @@
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">KuaiPan alanınız doldu</string>
   <string name="kuaipan_prompt">Uyarı</string>
-  <string name="kuaipan_prompt_message">\nNe yazık ki sunucu şu anda servis veremiyor. Lütfen daha sonra tekrar deneyin…\n</string>
-  <string name="kuaipan_tech_support">kuaipan.cn\'e giriş yapın</string>
+  <string name="kuaipan_prompt_message">"
+  Ne yazık ki sunucu şu anda servis veremiyor. Lütfen daha sonra tekrar deneyin!
+  "</string>
+  <string name="kuaipan_tech_support">kuaipan.cn adresine giriş yapın</string>
   <string name="load_err">"Yüklenemiyor"</string>
   <string name="loading">Yükleniyor...</string>
   <string name="local_cache_size">Yerel önbellek boyutu: %s</string>
@@ -131,23 +137,35 @@
   <string name="migrate_announcement_msg">KuaiPan hesabınızı, KuaiPan ayarlarında var olan Mi Hesabınız ile senkronize edin.</string>
   <string name="migrate_announcement_title">Taşıma tamamlandı</string>
   <string name="mobile_photo">Telefon Fotoğrafları</string>
-  <string name="move_failed">"Kesilemiyor"</string>
+  <string name="move_failed">"Taşınamıyor"</string>
   <string name="multi_select_title">%1$s öğe seçildi</string>
   <string name="my_app">Uygulama verileri</string>
-  <string name="my_app_desc">""</string>
+  <string name="my_app_desc"/>
   <string name="my_bak">Yedekler</string>
+  <string name="my_bak_desc"/>
   <string name="my_bakup">Telefon yedekleri</string>
   <string name="my_bakup_app">Uygulamalar</string>
+  <string name="my_bakup_app_desc"/>
   <string name="my_bakup_doc">Belgeler</string>
+  <string name="my_bakup_doc_desc"/>
   <string name="my_bakup_music">Müzik</string>
+  <string name="my_bakup_music_desc"/>
   <string name="my_bakup_other">Diğerleri</string>
+  <string name="my_bakup_other_desc"/>
   <string name="my_bakup_pic">Fotoğraflar</string>
+  <string name="my_bakup_pic_desc"/>
   <string name="my_bakup_video">Videolar</string>
+  <string name="my_bakup_video_desc"/>
   <string name="my_camera_album">Albümler</string>
+  <string name="my_camera_album_desc"/>
   <string name="my_doc">Belgeler</string>
+  <string name="my_doc_desc"/>
   <string name="my_music">Müzik</string>
+  <string name="my_music_desc"/>
   <string name="my_photo">Fotoğraflar</string>
+  <string name="my_photo_desc"/>
   <string name="my_video">Videolar</string>
+  <string name="my_video_desc"/>
   <string name="name_illegal">Bir isim girmelisiniz.</string>
   <string name="net_lose_connected">Ağ bağlantısı yok</string>
   <string name="networkView_notConnected">"Ağ bağlantısı kurulamıyor"</string>
@@ -162,12 +180,13 @@
   <string name="no_wifi_hint">"Wi-Fi bağlantısı yok"</string>
   <string name="notif_server_starting">FTP Sunucusu başladı...</string>
   <string name="notif_title">FTP sunucusu çalışıyor</string>
-  <string name="open_changed_file_message">Açmaya çalıştığınız dosya değiştirildi, Problemi çözmek için:\n
-1. İndir (Yerel dosyaları güncelle)\n
-2. Kuaipan\'a yükle (Uzak dosyaları güncelle).</string>
+  <string name="open_changed_file_message">"Açmaya çalıştığınız dosya değiştirildi, Problemi çözmek için:
+1. Dosyayı tekrar indirin.
+2. Kuaipan hesabınıza yükleyin."</string>
   <string name="open_changed_file_title">Değişiklikler uygulandı</string>
   <string name="open_file_failed">"Açılamıyor"</string>
   <string name="operating">İşleniyor...</string>
+  <string name="operation_agree">Tamam</string>
   <string name="operation_cancel">İptal</string>
   <string name="operation_compress">Sıkıştır</string>
   <string name="operation_compressing">Sıkıştırılıyor...</string>
@@ -227,7 +246,8 @@
   <string name="show_message">Açmadan önce dosyanın inmesi gereklidir.</string>
   <string name="sign_description">Oturum açılıyor...</string>
   <string name="signin_error">"Sunucuya bağlanılamadı. Ağ bağlantınızı kontrol edin."</string>
-  <string name="signin_success">Hoşgeldiniz!\nBoş alan eklendi\: %1$s</string>
+  <string name="signin_success">"Hoşgeldiniz!
+  Boş alan eklendi: %1$s"</string>
   <string name="space_info">Kuaipan: %1$s kullanılabilir，toplam: %2$s</string>
   <string name="space_usage">Kullanım</string>
   <string name="start_server">Sunucuyu başlat</string>

@@ -27,7 +27,7 @@
   <string name="album_member">Albüm üyeleri %s</string>
   <string name="album_name">Albüm Adı</string>
   <string name="album_quota_fulfiled">Albüm oluşturulamıyor : Albüm limiti aşıldı</string>
-  <string name="album_share_exit_confirm">Albümden çık?</string>
+  <string name="album_share_exit_confirm">Albümden çıkılsın mı?</string>
   <string name="album_share_kicked">%1$s kapalı</string>
   <string name="album_share_stat_content">Davetler</string>
   <string name="album_share_subtitle_accepting">%1$s daveti kabul ediliyor...</string>
@@ -41,8 +41,8 @@
   <string name="albums">Albümler</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Uyarı</string>
-  <string name="alert_init_merged_message">Artık cihazınızda ve Bulutta depolanan resimleriniz birlikte görülebilecek. </string>
-  <string name="alert_init_merged_title">Tüm fotoğraflar. Sonunda birlikte. </string>
+  <string name="alert_init_merged_message">"Artık cihazınızda ve Bulut alanınızda depolanan resimleriniz, Fotoğraflar sekmesinde birlikte görülebilecek. "</string>
+  <string name="alert_init_merged_title">Fotoğraflarınıza kolayca ulaşın</string>
   <string name="alert_message_open_sync">Öncelikle senkronizasyonu etkinleştirmelisiniz.</string>
   <string name="already_apply_album">"%1$s açılsın mı?"</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -256,11 +256,11 @@
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">İçe Aktarma Tamamlandı</string>
   <string name="import_fail">İçe aktarma başarısız</string>
-  <string name="impunity_declaration">Galeri uygulaması bazı hizmetler için ağa bağlanabilir. Kabul ediyor musunuz?</string>
+  <string name="impunity_declaration">Galeri uygulaması Bulut Hizmetlerine erişim için ağa bağlanabilir. Devam etmek istiyor musunuz?</string>
   <string name="impunity_declaration_ignore">"Tekrar gösterme"</string>
   <string name="impunity_declaration_settings">Ağ bildirimini göster</string>
   <string name="impunity_declaration_summary">Galeri uygulaması başlayınca herzaman ağ bildirimi göster</string>
-  <string name="impunity_declaration_title">Ağ bildirimi</string>
+  <string name="impunity_declaration_title">Uyarı:</string>
   <string name="initial_cloud_button_text">Giriş Yap</string>
   <string name="initial_cloud_text">Dilediğiniz yerden resimlerinize ulaşın ve görüntüleyin.</string>
   <string name="initializing_cloud">Başlatılıyor...</string>

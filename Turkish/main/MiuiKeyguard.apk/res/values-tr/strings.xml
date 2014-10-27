@@ -13,20 +13,22 @@
   <string name="experimental_validate_thanks">Teşekkürler!</string>
   <string name="experimental_validate_username">Kullanıcı Adı</string>
   <string name="experimental_validate_warning">MIUI\'yi daha iyi hale getirdiğiniz için teşekkürler!</string>
-  <string name="find_device_check_sim">SIM kontrol ediliyor...</string>
+  <string name="find_device_check_sim">SIM kart kontrol ediliyor...</string>
   <string name="find_device_turn_off_flight_mode">Uçak Modunu Kapatın</string>
-  <string name="find_device_turn_off_flight_mode_instructions">Cihazınız kilitlendi.\nLütfen uçak modunu kapatın.</string>
+  <string name="find_device_turn_off_flight_mode_instructions">"Cihazınız kilitlendi. 
+  Lütfen uçak modunu kapatın."</string>
   <string name="forget_password_string">Şifreyi Unuttum</string>
   <string name="incorrect_pincode">Hatalı PIN Kodu</string>
-  <string name="incorrect_pincode_remaining_attempts">Yanlış PIN kodu, %d tane hakkınız kaldı</string>
+  <string name="incorrect_pincode_remaining_attempts">Yanlış PIN kodu, %d deneme hakkınız kaldı</string>
   <string name="incorrect_pukcode">Hatalı PUK kodu</string>
-  <string name="incorrect_pukcode_remaining_attempts">Yanlış PUK kodu, %d tane hakkınız kaldı</string>
+  <string name="incorrect_pukcode_remaining_attempts">Yanlış PUK kodu, %d deneme hakkınız kaldı</string>
   <string name="input_password_hint_text">Şifreyi girin</string>
-  <string name="input_pin_code">PIN Kodunu Girin</string>
-  <string name="input_pin_code_to_unlock">Cihaz kilidini açmak için PIN Kodunu girin</string>
-  <string name="input_puk_code">PUK Kodu Girin</string>
+  <string name="input_pin_code">PIN kodunu Girin</string>
+  <string name="input_pin_code_to_unlock">Cihaz kilidini açmak için PIN kodunu girin</string>
+  <string name="input_puk_code">PUK kodunu Girin</string>
   <string name="input_puk_code_to_unlock">Cihaz kilidini açmak için lütfen PUK kodunu girin</string>
-  <string name="lock_screen_date">d MMMM, EEEE</string>
+  <string name="lock_screen_date">"d MMMM yyyy
+EEEE"</string>
   <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
@@ -34,13 +36,13 @@
   <string name="lockscreen_charging_msg">Şarj oluyor</string>
   <string name="lockscreen_emergency_call">Acil Durum Araması</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">
-       Telefonunuzu açmak için gerekli olan şifreyi %d defa yanlış girdiniz. %d başarısız deneme daha yaparsanız, Telefon fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri kaybolacak.
+  Telefonunuzu açmak için gerekli olan şifreyi %d defa yanlış girdiniz. %d başarısız deneme daha yaparsanız, Telefon fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri kaybolacak.
   </string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">
   Şifrenizi %d defa yanlış girdiniz.%d başarısız deneme daha yaparsanız, telefonunuzu bir hesap kullanarak açmanız istenecek.%d saniye sonra tekrar deneyin.
   </string>
   <string name="lockscreen_failed_attempts_now_wiping">
-       Telefonunuzu açmak için gerekli olan şifreyi %d defa yanlış girdiniz.Telefon şimdi fabrika ayarlarına geri döndürülecek.
+  Telefonunuzu açmak için gerekli olan şifreyi %d defa yanlış girdiniz.Telefon şimdi fabrika ayarlarına geri döndürülecek.
   </string>
   <string name="lockscreen_forgot_pattern_button_text">Unut</string>
   <string name="lockscreen_glogin_checking_password">Kontrol ediliyor...</string>
@@ -69,16 +71,16 @@
   <string name="puk_operation_failed">PUK işlemi başarısız.</string>
   <string name="return_to_me_message">"Bulunduğunda şuna dön: "</string>
   <string name="screen_on_proximity_sensor_hint">Bu özelliği devre dışı bırakmak için geri ve ses açma tuşlarına aynı anda basın.</string>
-  <string name="screen_on_proximity_sensor_summary">Telefonun üst kısmını kapatmayın</string>
+  <string name="screen_on_proximity_sensor_summary">Turuncu alanı kapatmayın</string>
   <string name="screen_on_proximity_sensor_title">Cebinizdeyken yapılan yanlış aramaları engeller</string>
-  <string name="short_pincode_error_msg">Lütfen 4-8 hane arasındaki şifrenizi girin</string>
+  <string name="short_pincode_error_msg">Lütfen 4-8 haneli şifrenizi girin</string>
   <string name="short_pukcode_error_msg">En az 8 hane girmelisiniz.</string>
   <string name="starting_camera_string">Kamera başlatılıyor</string>
   <string name="unlock_sim_string">TAMAM</string>
   <string name="unlock_string">Tamam</string>
   <string name="unlocking_sim_card">SIM Kart Kilidi Açılıyor</string>
-  <string name="unlockscreen_low_battery">Şarj cihazınızı bağlayın.</string>
+  <string name="unlockscreen_low_battery">LÜTFEN ŞARJ CİHAZINI BAĞLAYIN!</string>
   <string name="unlockscreen_recharge_completed">Batarya dolu</string>
   <string name="unlockscreen_recharging_message">Şarj Oluyor %d%%</string>
-  <string name="wrong_password">Yanlış parola</string>
+  <string name="wrong_password">Şifre yanlış!</string>
 </resources>
