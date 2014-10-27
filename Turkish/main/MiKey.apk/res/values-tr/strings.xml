@@ -1,11 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
+
 <resources>
+  <string name="action_baidusearch">Baidu search</string>
   <string name="action_capture_video">Video</string>
   <string name="action_clear_call_list">Çağrı günlüklerini sil</string>
   <string name="action_clear_memory">Hafızayı temizle</string>
   <string name="action_clear_sms_inbox">Mesajları sil</string>
   <string name="action_close">Çık</string>
   <string name="action_home">Geri</string>
+  <string name="action_key_back">Geri</string>
+  <string name="action_key_back_long">Geri (Uzun basın)</string>
+  <string name="action_key_call">Ara</string>
+  <string name="action_key_direction">Yön</string>
+  <string name="action_key_end_call">Aramayı bitir</string>
+  <string name="action_key_enter">Gir</string>
+  <string name="action_key_home">Ev</string>
+  <string name="action_key_home_long">Ev (Uzun basın))</string>
+  <string name="action_key_menu">Menü</string>
+  <string name="action_key_menu_long">Menü (Uzun basın)</string>
+  <string name="action_key_play_next">İleri</string>
+  <string name="action_key_play_pause">Durdur/Oynat</string>
+  <string name="action_key_play_prev">Önceki</string>
+  <string name="action_key_power">Güç</string>
+  <string name="action_key_power_long">Güç (Uzun basın)</string>
   <string name="action_kuaidi">Hızlı taxi</string>
   <string name="action_lock_screen">Ekranı kilitle</string>
   <string name="action_open_camera">Kamera</string>
@@ -21,6 +38,7 @@
   <string name="action_phone">Çağrı</string>
   <string name="action_qrcode">QR kodu</string>
   <string name="action_screen_shot">Ekran görüntüsü</string>
+  <string name="action_search">Ara</string>
   <string name="action_send_text_message">SMS</string>
   <string name="action_share_to_miliao">MiTalk</string>
   <string name="action_share_to_miliao_wall">MiTalk</string>
@@ -38,11 +56,26 @@
   <string name="birthday">Doğum günü:</string>
   <string name="call_to">Çağrı</string>
   <string name="cancel">İptal</string>
+  <string name="category_0">Uygulama</string>
+  <string name="category_1">Sistem ayarları</string>
+  <string name="category_2">Tuşlar</string>
   <string name="category_app">UYgulama</string>
   <string name="category_system_settings">Sistem ayarları</string>
   <string name="chooser_dust_cap">MiKey (Toz modu)</string>
   <string name="clean_memory">Hafıza temizlendi</string>
+  <string name="click_count_union">Defa</string>
   <string name="click_to_open">Aç</string>
+  <string name="click_type_0">Sıfır</string>
+  <string name="click_type_1">Bir</string>
+  <string name="click_type_10">On</string>
+  <string name="click_type_2">İki</string>
+  <string name="click_type_3">Üç</string>
+  <string name="click_type_4">Dört</string>
+  <string name="click_type_5">Beş</string>
+  <string name="click_type_6">Altı</string>
+  <string name="click_type_7">Yedi</string>
+  <string name="click_type_8">Sekiz</string>
+  <string name="click_type_9">Dokuz</string>
   <string name="close_all">Çıkış</string>
   <string name="close_flash_error">Flaş ışığı kapatılamadı!</string>
   <string name="close_recorder">Kaydediciden çık</string>
@@ -72,8 +105,11 @@
   <string name="delete_confirm">Bu eylemi silmek  istiyor musunuz?</string>
   <string name="delete_gesture">Mikey buton hareketini silmek istiyor musunuz?</string>
   <string name="device_not_recognized">Bağlanan cihaz tanımlanmadı. Lütfen tekrar deneyin!</string>
+  <string name="dialog_title_disable_mikey_sprite">MiKey sihirbazı kapatılsın mı?</string>
+  <string name="disable_mikey_sprite">MiKey sihirbazını kapat</string>
   <string name="earphone">Kulaklık</string>
   <string name="email">E-mail:</string>
+  <string name="enable_mikey_sprite">MiKey sihirbazını aç</string>
   <string name="fail_generate_barcode">QR kodu oluşturulamadı!</string>
   <string name="faq_comp_text">MIUI v5 kullanan tüm Xiaomi telefonları ile uyumludur . Mikey uygulamasının mevcut güncel versiyonuna şuradan ulaşabilirsiniz &lt;a href=http://reviewonanything.blogspot.in&gt; xiaomi.eu &lt; / a &gt;</string>
   <string name="faq_comp_title">Uyumlu cihazlar hangileri ?</string>
@@ -101,7 +137,14 @@
   <string name="front_camera">Ön kamera</string>
   <string name="goto_update">Güncelle</string>
   <string name="hint_long_press_del">Kaldırmak için basılı tutun</string>
+  <string name="hint_mikey_sprite">"Kilit ekranında MiKey\'e tıklayın.
+Oyun oynayın, fotoğraf çekin, ses gönderin…
+"</string>
   <string name="input_phone">Telefon numarasını girin</string>
+  <string name="key_direction_down">Aşağı</string>
+  <string name="key_direction_left">Sol</string>
+  <string name="key_direction_right">Sağ</string>
+  <string name="key_direction_up">Yukarı</string>
   <string name="long_click">Uzun basma</string>
   <string name="message_photo_end">Resim kaydedildi</string>
   <string name="name">Adı:</string>
@@ -112,6 +155,9 @@
   <string name="notification_control_stop">Dur</string>
   <string name="notification_recorder_file_location">Buraya kaydet:</string>
   <string name="notification_recorder_start">Kaydediliyor...</string>
+  <string name="notify_content_sprite">Sağ çarpıdan tıklayıp kapatılabilir</string>
+  <string name="notify_ticker_sprite">MiKey sihirbazı çalışıyor</string>
+  <string name="notify_title_sprite">MiKey Sihirbazı</string>
   <string name="open_flash_error">Flaş ışığı açılamadı!</string>
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Galeri</string>
@@ -124,8 +170,17 @@
   <string name="scan_fail">Tarama başarısız!</string>
   <string name="scan_result">Tarama sonuçları</string>
   <string name="sdcard">SD kart</string>
+  <string name="search_baidu_text">Baidu</string>
+  <string name="search_cancel_text">İptal</string>
+  <string name="search_go_text">Metin</string>
+  <string name="search_iciba_text">Iciba</string>
+  <string name="search_select_title">Metin ara</string>
+  <string name="search_taobao_text">TaoBao</string>
+  <string name="select_baidusearch">Baidu arama</string>
+  <string name="select_baiduvoicesearch">Baidu sesle arama</string>
   <string name="select_camera">Kamerayı seç</string>
   <string name="select_device">Cihazı seç</string>
+  <string name="select_direction">Yönler</string>
   <string name="setting_buy">Mikey\'i satın alın</string>
   <string name="setting_feedback">Geri Bildirim</string>
   <string name="setting_instant_photo_desc">Fotoğraf çekmeden önce kamera odaklanacak </string>
@@ -135,6 +190,8 @@
   <string name="setting_key_mode_dust_cap">key_dust_cap</string>
   <string name="setting_key_mode_silent_open">key_silent_default</string>
   <string name="setting_key_silent">key_silent</string>
+  <string name="setting_proximity_desc">Mikey\'i cebinizde taşırken bu özelliği kullanın</string>
+  <string name="setting_proximity_text">Yakınlık sensörünü kullan</string>
   <string name="setting_silent_mode">Sessiz mod</string>
   <string name="setting_silent_mode_default">Kulaklık modu ( Mikey\'i seçin)</string>
   <string name="setting_silent_mode_desc">Eğer kulaklık bağlamak istiyorsanız ,kulaklık modunu seçin ve Mikey bağlantısını kesin. Aksi takdirde ses çıkışı düzgün çalışmaz .</string>
@@ -173,7 +230,11 @@ Kullanmak için ekranın üzerinden aşağı doğru kaydırın."</string>
   <string name="sms_sent_done">SMS gönderildi</string>
   <string name="sms_template">Mesaj metni</string>
   <string name="sms_to">SMS</string>
+  <string name="splash_mikey_sprite">"Ekranda herhangi bir yere sürükleyebilirsiniz"</string>
   <string name="splash_tip">MiKey\'i bağlayın</string>
+  <string name="super_difficult_click">Tıklayın</string>
+  <string name="tab_mikey">MiKey</string>
+  <string name="tab_mikey_sprite">MiKey Sihirbazı</string>
   <string name="task_title_prefix">"Eylem %1$s: %2$s "</string>
   <string name="test_user_entry">Test</string>
   <string name="times">defa</string>
@@ -191,6 +252,8 @@ Kullanmak için ekranın üzerinden aşağı doğru kaydırın."</string>
   <string name="toggle_sleep">Uyku modu</string>
   <string name="toggle_wifi">Wi-Fi</string>
   <string name="toolbox_outer_desc">Daha fazlası veya mevcut işlem için tıklayın </string>
+  <string name="unsupport_content">Bu özellik için lütfen "MIUI geliştirme versiyonu" \'nun en son sürümünü yükleyin!!!</string>
+  <string name="unsupport_title">Bu özellik desteklenmiyor</string>
   <string name="update_message">Gücelle!</string>
   <string name="vcard_prompt">Kişi, adı olmadığı için eklenemedi!</string>
   <string name="web">Website:</string>
