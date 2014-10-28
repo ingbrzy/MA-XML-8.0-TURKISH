@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">Kullanıcı bilgileri taşınıyor... Birkaç dakika sürebilir.</string>
+  <string name="account_bind_prompt">Kullanıcı bilgileri taşınıyor, bu işlem birkaç dakika sürebilir...</string>
   <string name="add_task">Görev ekle</string>
-  <string name="adding_upload_tasks">Görevler ekleniyor#8230;</string>
+  <string name="adding_upload_tasks">Görevler ekleniyor</string>
   <string name="already_signin_description">Zaten oturum açmış durumdasınız.</string>
-  <string name="app_name">Dosyalar</string>
+  <string name="app_name">Dosyalarım</string>
   <string name="background">Gizle</string>
   <string name="big5_summary">Geleneksel Çince için varsayılan Windows kodlaması</string>
   <string name="big5_title">BIG5</string>
   <string name="bind_account">Varolan hesabını senkronize et</string>
   <string name="bind_account_summary">Mi Hesabı ile mevcut KuaiPan hesabını senkronize edin</string>
-  <string name="binded_accout_description">Mi hesabınız KuaiPan ile senkronize edildi. Şimdi Mi Hesabınızı KuaiPan\'da sakladığınız verilere ulaşmak için kullanabilirsiniz.</string>
+  <string name="binded_accout_description">Mi Hesabınız KuaiPan ile senkronize edildi. Şimdi Mi Hesabınızı, KuaiPan\'da sakladığınız verilere ulaşmak için kullanabilirsiniz.</string>
   <string name="binded_accout_title">Senkronize edilmiş hesaplar</string>
   <string name="byteShort">B</string>
   <string name="cancel">İptal</string>
@@ -40,19 +40,19 @@
   <string name="close">Kapat</string>
   <string name="colon">": "</string>
   <string name="compress_fail">Sıkıştırılmış dosya oluşturulamadı: Aynı isimde dosya mevcut.</string>
-  <string name="compress_message">Sıkıştır...</string>
+  <string name="compress_message">Şuraya Sıkıştır:</string>
   <string name="compress_title">Sıkıştır</string>
-  <string name="confirm">Onayla</string>
+  <string name="confirm">Tamam</string>
   <string name="confirm_know">Tamam</string>
   <string name="copy_failed">"Kopyalanamıyor"</string>
   <string name="create_kuaipan_shortcut_pref">Masa üstünde kısayol oluştur</string>
   <string name="create_new_folder_desctiption">Klasör oluşturuluyor...</string>
   <string name="create_new_folder_failed">Klasör oluşturulamadı</string>
-  <string name="create_share_link_description">Link oluşturuluyor#8230;</string>
+  <string name="create_share_link_description">Paylaşım linki oluşturuluyor...</string>
   <string name="cution">İpuçları</string>
-  <string name="data_capacity">Alan %1$s</string>
+  <string name="data_capacity">Alan: %1$s</string>
   <string name="decompress_cancel">İptal</string>
-  <string name="decompress_confirm">Ayrıştırmayı onaylıyor musunuz?</string>
+  <string name="decompress_confirm">Ayrıştır</string>
   <string name="decompress_fail">Çıkartma başarısız: Aynı isimle bir dosya bulunmakta ya da arşiv bozulmuş olabilir.</string>
   <string name="decompress_success">Ayrıştırma tamamlandı</string>
   <string name="decompress_to">Ayrıştır...</string>
@@ -73,7 +73,8 @@
   <string name="dlg_error_unmount_text">USB depolama biriminin bağlantısı kesilemedi.</string>
   <string name="download_failed">İndirme hatası</string>
   <string name="download_link_completed">%1$s KuaiPan ile paylaşıldı. Görmek için linke tıklayın:</string>
-  <string name="downloading">İndiriliyor</string>
+  <string name="downloading">İndiriliyor...</string>
+  <string name="downloading_in_3g">3G ile indiriliyor...</string>
   <string name="enable_sd_card"> SD kart takın yada USB yığın belleği çıkarın.</string>
   <string name="error_filename_too_long">Dosya ismi çok uzun.</string>
   <string name="error_info_cant_send_folder">"Bu dosya türü gönderilemiyor."</string>
@@ -84,7 +85,7 @@
   <string name="favorite_photo">Fotoğraflar</string>
   <string name="favorite_ringtone">Zil Sesleri</string>
   <string name="favorite_screen_cap">Ekran Görüntüleri</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
+  <string name="file_already_downlaoded">Dosya \"%1$s\" konumuna kaydedildi</string>
   <string name="file_info_canread">Okunabilir: </string>
   <string name="file_info_canwrite">Yazılabilir: </string>
   <string name="file_info_ishidden">Gizli: </string>
@@ -119,7 +120,7 @@
   Ne yazık ki sunucu şu anda servis veremiyor. Lütfen daha sonra tekrar deneyin!
   "</string>
   <string name="kuaipan_tech_support">kuaipan.cn adresine giriş yapın</string>
-  <string name="load_err">"Yüklenemiyor"</string>
+  <string name="load_err">Yüklenemiyor</string>
   <string name="loading">Yükleniyor...</string>
   <string name="local_cache_size">Yerel önbellek boyutu: %s</string>
   <string name="login_reg_content">KuaiPan; dosyaları depolamanıza ve birden fazla cihaz arasında bunları senkronize etmenize yardımcı olur.</string>
@@ -168,7 +169,7 @@
   <string name="my_video_desc"/>
   <string name="name_illegal">Bir isim girmelisiniz.</string>
   <string name="net_lose_connected">Ağ bağlantısı yok</string>
-  <string name="networkView_notConnected">"Ağ bağlantısı kurulamıyor"</string>
+  <string name="networkView_notConnected">Ağ bağlantısı kurulamıyor</string>
   <string name="new_folder_name">Yeni klasör</string>
   <string name="no">Hayır</string>
   <string name="no_enough_storage_indication">Cihaz hafızası dolu.</string>
@@ -184,7 +185,7 @@
 1. Dosyayı tekrar indirin.
 2. Kuaipan hesabınıza yükleyin."</string>
   <string name="open_changed_file_title">Değişiklikler uygulandı</string>
-  <string name="open_file_failed">"Açılamıyor"</string>
+  <string name="open_file_failed">Dosya açılamıyor</string>
   <string name="operating">İşleniyor...</string>
   <string name="operation_agree">Tamam</string>
   <string name="operation_cancel">İptal</string>
@@ -197,8 +198,8 @@
   <string name="operation_create_folder_message">Klasör adı</string>
   <string name="operation_decompressing">Ayrıştırılıyor...</string>
   <string name="operation_delete">Sil</string>
-  <string name="operation_delete_confirm_message">Klasör silinsin mi?</string>
-  <string name="operation_delete_confirm_message_folder">"Klasördeki tüm dosyalar silinecek. "</string>
+  <string name="operation_delete_confirm_message">SİLME UYARISI!</string>
+  <string name="operation_delete_confirm_message_folder">Klasördeki tüm dosyalar silinecek! </string>
   <string name="operation_deleting">Siliniyor...</string>
   <string name="operation_deleting_detail">Siliniyor (%1$d/%2$d)</string>
   <string name="operation_download_link">İndirme linki oluştur</string>
@@ -252,13 +253,13 @@
   <string name="space_usage">Kullanım</string>
   <string name="start_server">Sunucuyu başlat</string>
   <string name="start_use_xiaomi_account">Giriş yap</string>
-  <string name="stay_awake_summary">FTP kullanılırken ekran asla kapanmayacak</string>
+  <string name="stay_awake_summary">FTP kullanılırken cihaz uyku moduna geçmez</string>
   <string name="stay_awake_title">Uyanık kal</string>
   <string name="stop_server">Sunucuyu durdur</string>
   <string name="storage_internal">Dahili hafıza</string>
   <string name="storage_sd_card">SD kart</string>
   <string name="storage_usb">USB depolama</string>
-  <string name="storage_warning">"Harici depolama kullanılabilir değil"</string>
+  <string name="storage_warning">Harici depolama kullanılabilir değil</string>
   <string name="sys_size_enable"> Kullanılabilir alan</string>
   <string name="tab_category">Kategori</string>
   <string name="tab_expand">Genişlet</string>
@@ -274,9 +275,9 @@
   <string name="trans_task_delete_confirm_message">Seçili %1$d görev silinsin mi?</string>
   <string name="transing">Gönderiliyor</string>
   <string name="trash_box_capacity">Geri dönüşüm kutusu %1$s</string>
-  <string name="trash_box_link">Çöp kutusunu boşaltmak için &lt;b&gt;pan.xiaomi.com&lt;/b&gt;&amp;#8216;u ziyaret edin</string>
+  <string name="trash_box_link">Çöp kutusunu boşaltmak için pan.xiaomi.com adresini ziyaret edin</string>
   <string name="trash_box_message1">Daha fazla boş alan için gereksiz dosyaları sil.</string>
-  <string name="trash_box_message2">Yer açmak için Geri Dönüşüm Kutusu\'nu boşaltın.</string>
+  <string name="trash_box_message2">Yer açmak için Geri Dönüşüm Kutusunu boşaltın.</string>
   <string name="ui_filechange_btn_download">Dosya indirilsin mi?</string>
   <string name="ui_filechange_btn_upload">Dosyaları yükle</string>
   <string name="ui_main_menu_option_sign_in">Oturum açın</string>
@@ -284,7 +285,7 @@
   <string name="ui_main_progress_txt_open_file">İndiriliyor...</string>
   <string name="ui_main_toast_favorite_removed">Favorilerden kaldırıldı</string>
   <string name="ui_main_toast_operation_failed">"%1$s favorilerden kaldırılamadı"</string>
-  <string name="unmount_inform_text">USB depolama biriminin bağlantısını kes?</string>
+  <string name="unmount_inform_text">USB depolama biriminin bağlantısını kes</string>
   <string name="upload_failed">Yükleme hatası</string>
   <string name="upload_file_toolarge_message">%1$d yüklemesi başarısız: 300Mb\'dan yüksek dosyaları yukarı yükleyemezsiniz.</string>
   <string name="uploading">Yükleniyor</string>
@@ -292,16 +293,16 @@
   <string name="user_guide">KuaiPan hakkında daha fazlası</string>
   <string name="user_guide_continue_use">Biliyorum</string>
   <string name="user_guide_download_other_version">Bilgisayarınızdan dosya yükleyin</string>
-  <string name="user_guide_kuaipan_copy">Dosyaları telefondan kopyalayıp Kuaipan\'a yapıştır</string>
+  <string name="user_guide_kuaipan_copy">Dosyaları telefondan kopyalayıp Kuaipan\'a yapıştırın</string>
   <string name="user_guide_kuaipan_lable">Kuipan size ait</string>
   <string name="user_guide_other_version">mi.kuaipan.cn\'dan indirin. Hesabınız ile giriş yapın(%1$s)</string>
-  <string name="user_guide_save_file">Dosya ve resimleriniz Kuaipan\'a kaydediliyor.</string>
-  <string name="user_guide_upload_to_kuaipan">Telefondaki içeriği KuaiPan\'da saklayın</string>
+  <string name="user_guide_save_file">Dosya ve resimleriniz Kuaipan\'a kaydedin.</string>
+  <string name="user_guide_upload_to_kuaipan">Telefondaki içeriği KuaiPan\'da saklayın.</string>
   <string name="utf8_summary">FTP sistemi geçerli kodlama türü</string>
   <string name="utf8_title">UTF-8</string>
   <string name="wait_net">Ağ bağlantısı bekleniyor</string>
-  <string name="wait_sdcard">SD kart için bekleniyor...</string>
-  <string name="wait_wifi">Wi-Fi için bekleniyor</string>
+  <string name="wait_sdcard">SD kart için bekliyor...</string>
+  <string name="wait_wifi">Wi-Fi için bekliyor</string>
   <string name="waiting">Bekleniyor</string>
   <string name="wangpan_root_path">KuaiPan</string>
   <string name="wifi_state">Wi-Fi bağlantısı</string>
