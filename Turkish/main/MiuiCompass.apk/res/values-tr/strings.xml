@@ -5,6 +5,7 @@
   <string name="altitude_unit">m</string>
   <string name="app_label">Pusula</string>
   <string name="calibrate_altitude">Ayarlanıyor...</string>
+  <string name="calibrate_failed">Kalibrasyon başarısız!</string>
   <string name="calibrate_failed_no_location">"Kalibre edilemiyor"</string>
   <string name="calibrate_failed_timeout">"Sunucuyla bağlantı kurulamıyor"</string>
   <string name="calibrate_success">Kalibre Edildi</string>
@@ -39,4 +40,8 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">BASINÇ</string>
   <string name="pressure_unit">hPa</string>
+  <string name="using_camera_confirm_cancel">İptal</string>
+  <string name="using_camera_confirm_message">Pusula uygulaması kamerayı kullanacak.</string>
+  <string name="using_camera_confirm_ok">TAMAM</string>
+  <string name="using_camera_confirm_title">Kullanım Şartları</string>
 </resources>

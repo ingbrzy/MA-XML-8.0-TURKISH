@@ -166,6 +166,8 @@
   <string name="edit_quicklink">Düzenle</string>
   <string name="empty_bookmark">Boş</string>
   <string name="empty_history">Geçmiş yok.</string>
+  <string name="empty_history_hint">Boş</string>
+  <string name="enter_developer_mode">Geliştirici Modu</string>
   <string name="enter_incongnito_mode">Gizli moda girin</string>
   <string name="error_console_eval_button_text">Değerlendir</string>
   <string name="error_console_eval_text_hint">JavaScript\'i değerlendir</string>
@@ -520,7 +522,7 @@
   <string name="too_many_windows_dialog_title">Sekme limitine erişildi</string>
   <string name="up_to_loading_tips">Yenilemek için bırakın</string>
   <string name="url_copy_done">URL panoya kopyalandı.</string>
-  <string name="url_hint">Ara veya URL gir</string>
+  <string name="url_hint">Arayın veya URL adresini girin</string>
   <string name="url_opened_in_background">Arkaplan sekmesinde aç</string>
   <string name="url_suggest_indicator_bookmark">Yer imleri/Geçmiş</string>
   <string name="url_suggest_indicator_hoturl">Popüler</string>
@@ -544,6 +546,7 @@
   <string name="webapp_add_to_favorite_toast">Favori listesinin üstüne ekle</string>
   <string name="webapp_addtodeskpop_append">Eklendi</string>
   <string name="webapp_app_name">Light Web Apps Store</string>
+  <string name="webapp_bottom_bar_addtodesk">Ana ekrana ekle</string>
   <string name="webapp_dialog_title">Masaüstüne uygulama ekle</string>
   <string name="webapp_menu_addtodesk">Masaüstüne Ekle</string>
   <string name="webapp_menu_already_addtodesk">Zaten eklenmiş</string>
@@ -553,6 +556,7 @@
   <string name="webapp_menu_settings">Ayarlar</string>
   <string name="webapp_menu_share">Paylaş</string>
   <string name="webapp_settings_title">Ayarlar</string>
+  <string name="webapp_splashview_loading">Yükleniyor...</string>
   <string name="webapp_webapp_favortes_title">Favorilerim</string>
   <string name="webpage_bookmark_title">Yer imi</string>
   <string name="webpage_history_title">Geçmiş</string>

@@ -143,6 +143,8 @@
   <string name="organization">Organizasyon</string>
   <string name="perm_payment_dspt">Uygulamanın Xiaomi ödeme servisini kullanabilmesi için izin verin</string>
   <string name="perm_payment_lab">Xiaomi ödeme servisi</string>
+  <string name="permdesc_sendSmsNoConfirmation">Uygulamaya SMS mesajı gönderme izni verir. Sahte uygulamalar sizin bilginiz olmadan SMS gönderebilir ve ek kullanım ücretlerine neden olabilir!</string>
+  <string name="permlab_sendSmsNoConfirmation">Onay almadan SMS gönder</string> 
   <string name="phone">Telefon</string>
   <string name="pm">PM</string>
   <string name="privacy_policy">Gizlilik Politikası</string>

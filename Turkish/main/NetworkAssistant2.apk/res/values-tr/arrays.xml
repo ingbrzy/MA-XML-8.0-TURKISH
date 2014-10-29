@@ -55,4 +55,16 @@
     <item>Otomatik raporlama</item>
     <item>Elle raporlama</item>
   </string-array>
+  <string-array name="cache_sort_type">
+	<item>Boyuta göre</item>
+	<item>Ada göre</item>
+ </string-array>
+ <string-array name="large_file_sort_type">
+	<item>Boyuta göre</item>
+	<item>Ada göre</item>
+ </string-array>
+ <string-array name="installed_app_sort_type">
+	<item>Sık kullanılanlara göre</item>
+	<item>Boyuta göre</item>
+ </string-array>
 </resources>

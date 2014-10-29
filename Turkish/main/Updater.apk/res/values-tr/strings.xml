@@ -99,6 +99,10 @@
   <string name="no_wifi_msg">"Wi-Fi bağlantısı yok, mobil veri kullanılarak indirmeye devam edilecek!"</string>
   <string name="no_wifi_title">Veri kullanım uyarısı!</string>
   <string name="notification_downloading">Güncelleme indiriliyor…</string>
+  <string name="notification_load_body_alpha">Cihazınızı güncellemek için Xiaomi hesabınız ile giriş yapın.</string>
+  <string name="notification_load_body_dev">Cihazınızı güncellemek için Xiaomi hesabınız ile giriş yapın.</string>
+  <string name="notification_load_title_alpha">Xiaomi hesabınız ile giriş yapın</string>
+  <string name="notification_load_title_dev">Xiaomi hesabınız ile giriş yapın</string>
   <string name="notification_new_version">%s sürümüne güncelle</string>
   <string name="notification_reboot_btn">Tekrar başlat</string>
   <string name="notification_reboot_des">%s sürümüne güncellemek için cihazı tekrar başlatın.</string>
@@ -156,6 +160,7 @@
   <string name="update_feedback_end_sum">Her Salı katılabilirsiniz.</string>
   <string name="update_feedback_expired">"Güncelleme önerileri cevapsız kaldı!
   Lütfen önümüzdeki salı günü tekrar ankete katılın"</string>
+  <string name="update_feedback_need_update">Geri bildirim göndermeden önce cihazınızı en son MIUI sürümüne güncellemeniz gerekir!</string>
   <string name="update_feel">Duygularım</string>
   <string name="update_general">Fena değil</string>
   <string name="update_happy">Dehşet verici!</string>
@@ -164,6 +169,8 @@
   <string name="update_success">Güncelleme tamamlandı! :)</string>
   <string name="update_success_body">Sürüm: %s</string>
   <string name="update_success_title">Cihaz güncelleme tamamlandı!</string>
+  <string name="updater_nolog">Değişikliklerin listesi mevcut değil</string>
+  <string name="updater_nonetwork">Ağ bağlantısı yok!</string>
   <string name="upgrade_close">Kapat</string>
   <string name="upgrade_kernel">Kernelinizi güncelleniz gerekiyor</string>
   <string name="upgrade_kernel_msg">"Kernel versiyonunuz MIUI ROM ile eşleşmiyor. Manuel olarak kerneli güncellemelisiniz. Lütfen yükseltmeyi öğrenmek için izleyin:
