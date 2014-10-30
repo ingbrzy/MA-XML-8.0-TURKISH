@@ -10,6 +10,8 @@
   <string name="bad_authentication">Geçersiz kullanıcı adı veya parola</string>
   <string name="btn_return">Geri</string>
   <string name="button_cancel">İptal</string>
+  <string name="buy_space_expire">Satın alınan kapasite %s kadar geçerlidir</string>
+  <string name="buy_space_expire_concat">%1$s - %2$s</string>
   <string name="cloud_find_device">Cihaz bul</string>
   <string name="cloud_sync_setting_summary_standard">Standart: Fotoğrafları, videoları, MMS ve kişi fotorağlarını Wi-Fi  ile, diğer verileri mobil ağ ile senkronize et</string>
   <string name="cloud_sync_setting_summary_wlan">Sadece Wi-Fi : Bütün verileri sadece Wi-Fi  ile senkronize et</string>
@@ -65,6 +67,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="less_flow_mode">Daha az akış modu</string>
   <string name="license_host_unreachable">"Ağa bağlanamıyor. Bu bilgiyi şimdi görüntülemek için buraya gidin: %s."</string>
   <string name="loading">Yükleniyor…</string>
+  <string name="loading_hint">Yükleniyor…</string>
   <string name="master_alert_notif_dspt_add">%s henüz senkronize edilmedi.</string>
   <string name="master_alert_notif_dspt_no">Herşey güncel.</string>
   <string name="master_alert_notif_title">Son senkronizasyon %s gün önce</string>

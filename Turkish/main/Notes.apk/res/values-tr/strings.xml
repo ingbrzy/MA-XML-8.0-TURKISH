@@ -72,6 +72,9 @@
   <string name="select_account_prompt">Not senkronizasyonu aktif</string>
   <string name="snippet_image_stub">[Image]</string>
   <string name="sns_action_send">Gönder</string>
+  <string name="sns_choose_quality_high">Yüksek (%1$s)</string>
+  <string name="sns_choose_quality_low">Düşük</string>
+  <string name="sns_choose_quality_title">Görüntü kalitesini seçin</string>
   <string name="sns_content_default">Fotoğraf paylaş</string>
   <string name="sns_desc_preview_wechat">WeChat mesajı önizleme</string>
   <string name="sns_desc_preview_weibo">Weibo mesajı önizleme</string>

@@ -54,7 +54,7 @@
   <string name="download_title_first">Güncelleme bilgisi alınıyor…</string>
   <string name="download_title_full_download">Paket bilgisi alınıyor…</string>
   <string name="downloading_description">İndiriliyor...</string>
-  <string name="edit_comment">Add comments</string>
+  <string name="edit_comment">Yorum ekle</string>
   <string name="edit_comment_title">Düzenle</string>
   <string name="edit_text_default">Bir yorum yazın</string>
   <string name="emegency_build">Yapı:</string>
@@ -156,10 +156,10 @@
   <string name="update_downfull_no_info_sum">İndirilemiyor, biraz bekleyip tekrar deneyin!</string>
   <string name="update_downfull_no_info_title">Günceleme indirilemiyor!</string>
   <string name="update_feedback">Güncelleme hakkındaki önerileriniz</string>
-  <string name="update_feedback_end">"Güncelleme önerileri cevapsız kaldı"</string>
+  <string name="update_feedback_end">"Bu haftaki anketi kaçırdınız."</string>
   <string name="update_feedback_end_sum">Her Salı katılabilirsiniz.</string>
-  <string name="update_feedback_expired">"Güncelleme önerileri cevapsız kaldı!
-  Lütfen önümüzdeki salı günü tekrar ankete katılın"</string>
+  <string name="update_feedback_expired">"Bu haftaki anketi kaçırdınız.
+  Lütfen önümüzdeki salı günü tekrar deneyin..."</string>
   <string name="update_feedback_need_update">Geri bildirim göndermeden önce cihazınızı en son MIUI sürümüne güncellemeniz gerekir!</string>
   <string name="update_feel">Duygularım</string>
   <string name="update_general">Fena değil</string>
@@ -169,7 +169,7 @@
   <string name="update_success">Güncelleme tamamlandı! :)</string>
   <string name="update_success_body">Sürüm: %s</string>
   <string name="update_success_title">Cihaz güncelleme tamamlandı!</string>
-  <string name="updater_nolog">Değişikliklerin listesi mevcut değil</string>
+  <string name="updater_nolog">Değişiklikler listesi mevcut değil</string>
   <string name="updater_nonetwork">Ağ bağlantısı yok!</string>
   <string name="upgrade_close">Kapat</string>
   <string name="upgrade_kernel">Kernelinizi güncelleniz gerekiyor</string>

@@ -1050,6 +1050,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="music_mi_effect_title">Use Mi Sound Enhancer</string>
   <string name="musicfx_title">Music effects</string>
   <string name="nearby_wifi">Yakındaki Wi-Fi ağları</string>
+  <string name="need_reboot_now">Tamamlamak için tekrar başlatmanız gerekir!</string>
   <string name="network_assistant">Veri kullanımı</string>
   <string name="network_detail">%s Ağ detayları</string>
   <string name="network_error">Bir ağ hatası oluştu</string>
@@ -1186,10 +1187,11 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="rebootiing_for_updates">Tekrar başlatılıyor...</string>
   <string name="recent_location_requests_summary">Aşağıdaki uygulamalar konum bilginizi görüntülemek istiyor</string>
   <string name="recent_location_requests_title">Konum erişimi</string>
+  <string name="recompute_size">Hesaplanıyor...</string>
   <string name="remove_from_frequently_fragment">\"%s\" öğesini Genel Ayarlardan kaldır?</string>
   <string name="reset_app_preferences">Uygulama ayarlarını sıfırla</string>
   <string name="reset_app_preferences_button">Uygulamaları sıfırla</string>
-  <string name="reset_app_preferences_desc">"Bu işlem tüm ayarları ​​sıfırlar, fakat uygulama verilerini silmez.
+  <string name="reset_app_preferences_desc">"Bu işlem tüm ayarları sıfırlar, fakat uygulama verilerini silmez.
 "</string>
   <string name="reset_app_preferences_title">Uygulama ayarlarını sıfırlamak istiyor musunuz?</string>
   <string name="reset_legacy_password_settings_preface_text">Ekran kilidi şifrenizi sıfırlamanız gerekir.</string>
@@ -1574,6 +1576,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="tts_status_title">Varsayılan dil durumu</string>
   <string name="turn_off_security_lock">Kilidi devre dışı bırak</string>
   <string name="under_keyguard">Kilit ekranında</string>
+  <string name="uninstall_text">Kaldır</string>
   <string name="unlock_change_lock_pin_title">"PIN2 kodunu değiştir"</string>
   <string name="unlock_disable_lock_pin_summary">"Kilit açma PIN kodunu kaldır"</string>
   <string name="unlock_set_enter_system">Sisteme doğrudan erişme</string>

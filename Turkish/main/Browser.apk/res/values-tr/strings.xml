@@ -22,6 +22,7 @@
   <string name="action_menu_text_nightmode_on">Gece Modu</string>
   <string name="action_menu_text_setting">Ayarlar</string>
   <string name="action_menu_text_share">Paylaş</string>
+  <string name="action_menu_text_snapshot">Bu sayfayı kaydet</string>
   <string name="actionbar_share">Paylaş</string>
   <string name="actionbar_web_search">"Ara"</string>
   <string name="adblock_notification">%d reklam engellendi</string>
@@ -158,6 +159,7 @@
   <string name="download_dialog_file_length_nolength_error_txt">"İndirme hatası"</string>
   <string name="download_dialog_file_length_nolength_txt">İndiriliyor...</string>
   <string name="download_failed">"İndirme hatası"</string>
+  <string name="download_pending">İndirme işlemi başlatılıyor...</string>
   <string name="download_phone_tip">Telefon</string>
   <string name="download_router_tip">Mi Rooter\'a indir</string>
   <string name="downloaded">İndirme tamamlandı</string>
@@ -167,6 +169,7 @@
   <string name="empty_bookmark">Boş</string>
   <string name="empty_history">Geçmiş yok.</string>
   <string name="empty_history_hint">Boş</string>
+  <string name="empty_snapshot_hint">Boş</string>
   <string name="enter_developer_mode">Geliştirici Modu</string>
   <string name="enter_incongnito_mode">Gizli moda girin</string>
   <string name="error_console_eval_button_text">Değerlendir</string>
