@@ -12,19 +12,22 @@
   <string name="button_cancel">İptal</string>
   <string name="buy_space_expire">Satın alınan kapasite %s kadar geçerlidir</string>
   <string name="buy_space_expire_concat">%1$s - %2$s</string>
-  <string name="cloud_find_device">Cihaz bul</string>
+  <string name="cloud_find_device">Cihazımı bul</string>
+  <string name="cloud_space_upgrade_message">%sGB alan eklemek için dokunun</string>
+  <string name="cloud_space_upgrade_no_quota_info">Yüklenemedi, birkaç dakika bekleyip tekrar deneyin!</string>
+  <string name="cloud_space_upgrade_title">Mi Bulut için daha fazla alan</string>
   <string name="cloud_sync_setting_summary_standard">Standart: Fotoğrafları, videoları, MMS ve kişi fotorağlarını Wi-Fi  ile, diğer verileri mobil ağ ile senkronize et</string>
   <string name="cloud_sync_setting_summary_wlan">Sadece Wi-Fi : Bütün verileri sadece Wi-Fi  ile senkronize et</string>
-  <string name="cmcc_micloud_dspt">Mi Bulut kullanarak verilerinizi senkronize edin, cihazını bulun, </string>
+  <string name="cmcc_micloud_dspt">Mi Bulut kullanarak verilerinizi senkronize edin, cihazını bulun.. </string>
   <string name="contact">Kişiler</string>
   <string name="current">Geçerli</string>
   <string name="data_syncing">Veri senkronizasyonu</string>
-  <string name="detail">Detay</string>
+  <string name="detail">Detaylar</string>
   <string name="disable_find_device_error">"Cihaz bulma servisi kapatılamıyor %1$s"</string>
   <string name="enableAll">Herşeyi senkronize et</string>
   <string name="enable_cloud_service_notification">"Bulut hizmeti açık değil"</string>
-  <string name="enable_find_device_error">"Cihaz bulma servisi açılamıyor %1$s "</string>
-  <string name="enable_micloud">Bir hesap oluştur</string>
+  <string name="enable_find_device_error">"Cihaz bulma servisi açılamıyor. %1$s "</string>
+  <string name="enable_micloud">Oturum açın veya hesap oluşturun</string>
   <string name="enable_sync">Aç</string>
   <string name="enable_sync_dspt">Senkronizasyon kapalı</string>
   <string name="error_data_in_transfer">Verileriniz taşınıyor. Tahmini gereken süre %s saat.</string>
@@ -37,10 +40,10 @@
   <string name="error_unauthorized">Çok fazla giriş hatası yaptınız : Senkronizasyon devre dışı.</string>
   <string name="error_unknown">"Oturum açılamıyor"</string>
   <string name="find_device">Cihazımı bul</string>
-  <string name="find_device_disabled_notice">Cihaz bulma özelliklerini değiştirmek için Ayarlar &gt; Hesaplar &gt; MiHesabı ayarlarına bakın.</string>
+  <string name="find_device_disabled_notice">Cihaz bulma özelliklerini değiştirmek için Ayarlar &gt; Hesaplar &gt; Mi Hesabı ayarlarına bakın.</string>
   <string name="find_device_disabled_title">Devre dışı</string>
   <string name="find_device_disabling">Kapatılıyor...</string>
-  <string name="find_device_dspt">Cihazı uzaktan kilitleme ve silme</string>
+  <string name="find_device_dspt">Cihazı uzaktan kilitle ve sil</string>
   <string name="find_device_dspt_provision">"Eğer cihazını kaybedecek olursanız; "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_3">" adresinden konumunu bulabilir ya da fabrika ayarlarına sıfırlayabilirsiniz.
@@ -51,29 +54,41 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="find_device_error_network">Ağ bağlantınızı kontrol edin ve tekrar deneyin.</string>
   <string name="find_device_error_server">Sunucularla ilgili bir hata oluştu.</string>
   <string name="find_device_noise_title">Cihazı sesli bul</string>
-  <string name="find_device_notice_p1">Git</string>
+  <string name="find_device_notice_p1"/>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">"Telefonunuzu bulmak, kilitlemek ve yeniden yüklemek için.
+  <string name="find_device_notice_p3">"Telefonunuzu bulmak, kilitlemek ve yeniden yüklemek için...
   Eğer SIM kart değiştirirseniz, yeni bir SMS gönderilecektir."</string>
   <string name="find_device_send_sms_alert">SIM kartı değiştirirseniz, başka bir SMS bu hizmeti yeniden etkinleştirmek için otomatik olarak gönderilir.</string>
   <string name="find_device_stop_noise">Sessize almak için Tamam\'a basın</string>
-  <string name="find_device_success_title">Cihaz bul</string>
+  <string name="find_device_success_title">CİHAZIMI BUL</string>
+  <string name="finish">TAMAM</string>
   <string name="flight_mode">Uçak modu</string>
+  <string name="free_space_has_received">Bu ay zaten ücretsiz alan eklenmiş!</string>
+  <string name="free_space_receive_fail">"Güncellenemiyor!"</string>
   <string name="full_space">Boş alan yok</string>
+  <string name="get_first_month_gb">%s ücretsiz alan alın</string>
+  <string name="get_this_month_gb">Bu ay %s ücretsiz alan alın</string>
+  <string name="google_100gb">100GB</string>
+  <string name="google_cloud">Google Drive</string>
+  <string name="google_cloud_eng">Google Drive</string>
+  <string name="google_cloud_price">About RMB 143 per year</string>
   <string name="header_data_and_synchronization">Veri ve Senkronizasyon</string>
+  <string name="header_other_settings">İlave ayarlar</string>
   <string name="i_know">Tamam</string>
   <string name="internet">Internet</string>
   <string name="internet_disconnected">Internet bağlantısı kesildi</string>
-  <string name="less_flow_mode">Daha az akış modu</string>
+  <string name="less_flow_mode">Veri tasarrufu</string>
   <string name="license_host_unreachable">"Ağa bağlanamıyor. Bu bilgiyi şimdi görüntülemek için buraya gidin: %s."</string>
   <string name="loading">Yükleniyor…</string>
   <string name="loading_hint">Yükleniyor…</string>
   <string name="master_alert_notif_dspt_add">%s henüz senkronize edilmedi.</string>
   <string name="master_alert_notif_dspt_no">Herşey güncel.</string>
   <string name="master_alert_notif_title">Son senkronizasyon %s gün önce</string>
-  <string name="micloud">micloud</string>
+  <string name="micloud">Mi Bulut</string>
   <string name="micloud_dspt">Mi Bulut kullanarak verilerinizi senkronize edin, cihazını bulun, </string>
   <string name="micloud_dspt_provision">Mi Bulut kullanarak verilerinizi senkronize edin, cihazını bulun ve arkadaşlarınızla paylaşın.</string>
+  <string name="micloud_first_login_summary"/>
+  <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Bütün fotoğralarınız, videolarınız, notlarınız ve uygulamalarınız bulutta yedeklenecektir.
   Böylece cihazınızı kaybetseniz veya hasarlasanız bile bilgileriniz güvende olacaktır.
   
@@ -82,13 +97,15 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   Fakat cihazınıza yeni eklediğiniz içerikler(Fotoğraflar, videolar, notlar ve uygulamalar) yedeklenemeyecektir. 
   
   Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız ya da fazladan boş alan satın almanız gerekir."</string>
-  <string name="micloud_full_influence_title">Mi Bulut\'unuz dolduğunda</string>
-  <string name="micloud_intro_01_part_01">Veri kullanımını kontrol et</string>
-  <string name="micloud_intro_01_part_02">Mi Message ile diğer MIUI kullanıcılarına Wi-Fi üzerinden mesaj gönderebilirsiniz.</string>
-  <string name="micloud_intro_02_part_01">Zahmetsizce taşı</string>
-  <string name="micloud_intro_02_part_02">Kişileri, mesajları, fotoğrafları ve diğerlerini cihazlar arası senkronize et. </string>
-  <string name="micloud_intro_03_part_01">Telefonunuzun içeriğini heryerde güvende tutun.</string>
-  <string name="micloud_intro_03_part_02">i.mi.com kullanarak cihazınızı bulun, uzaktan kilitleyin veya içeriğini silin</string>
+  <string name="micloud_full_influence_title">Mi Bulut alanınız dolduğunda...</string>
+  <string name="micloud_main_data_unsynced">%d öğeyi senkronize et</string>
+  <string name="micloud_main_last_sync_time">Son senkronize</string>
+  <string name="micloud_main_network_error">"Ağ bağlantısı yok!"</string>
+  <string name="micloud_main_stop_sync">Senkronizeyi durdur</string>
+  <string name="micloud_main_suggest_sync">"Senkronize edilmemiş bazı öğeler var"</string>
+  <string name="micloud_main_sync_now">Şimdi senkronize et</string>
+  <string name="micloud_main_sync_on_wifi">Wi-Fi kullan</string>
+  <string name="micloud_main_sync_stop">Senkronizeyi durdur</string>
   <string name="micloud_more">Daha fazla bilgi</string>
   <string name="micloud_proceed">Devam</string>
   <string name="micloud_sec_dspt">ve arkadaşlarınızla paylaşın.</string>
@@ -105,8 +122,8 @@ Kullanılan: %s | Kalan: %s "</string>
   <string name="micloud_warn_full_title">Boş alan kalmadı</string>
   <string name="micloud_warn_low_sum">"Mi Bulut alanınız 90% dolu!"</string>
   <string name="micloud_warn_low_title">Neredeyse boş alan tükendi</string>
-  <string name="micloud_web_discription_01">i.mi.com\'da giriş yapın </string>
-  <string name="micloud_web_discription_02">her yerden dosyalarınızı kaydetmek ve ulaşmak için</string>
+  <string name="micloud_web_discription_01">i.mi.com adresinden oturum açın</string>
+  <string name="micloud_web_discription_02">Her yerden dosyalarınıza kolayca ulaşabilirsiniz...</string>
   <string name="mx_dspt">Mi Mesaj</string>
   <string name="mx_dspt_provision">"Mi Mesaj; SMS ücreti ödemeden diğer MIUI kullanıcılarına mesaj göndermenizi sağlar.
 
@@ -135,16 +152,18 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="sub_alert_notif_dspt_add">%s henüz senkronize edilmedi.</string>
   <string name="sub_alert_notif_dspt_no">Herşey güncel.</string>
   <string name="sub_alert_notif_title">"Senkronize edilemiyor"</string>
-  <string name="sub_sync_item_sms_summary">"Bir Wi-Fi ağına bağlandığınız da sadece resim, foto, ses gibi medya dosyaları eşitlenecektir"</string>
+  <string name="sub_sync_item_sms_summary">"Bir Wi-Fi ağına bağlandığınız da sadece resim, foto, ses gibi medya dosyaları senkronize edilecektir"</string>
   <string name="sub_sync_item_sms_title_wifi_only">MMS senkronize için yalnızca Wi-Fi kullan</string>
   <string name="sync">Senkronizasyon</string>
   <string name="sync_dspt">Senkronizasyonu etkinleştir</string>
-  <string name="sync_dspt_provision">"Mi Bulut sizin fotoğraflarınızı, SMS, notlar ve daha fazlasını  Mi telefonunuz ile senkronize eder. Ayrıca herhangi bir tarayıcıdan bu verilere erişebilirsiniz. "</string>
+  <string name="sync_dspt_provision">"Mi Bulut fotoğraflarınızı, SMS, notlar ve daha fazlasını  Mi telefonunuz ile senkronize eder. Ayrıca herhangi bir tarayıcıdan bu verilere erişebilirsiniz. "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision3">".
 
 Bu özelliği ayarlardan kontrol edebilirsiniz."
 </string>
+  <string name="sync_item_calllog_summary">Arama ses kayıtlarını senkronize et</string>
+  <string name="sync_item_calllog_title">Arama günlüklerini senkronize et</string>
   <string name="sync_item_sms_summary">Telefonunuzdaki gönderilen ve alınan SMS\'leri senkronize edin</string>
   <string name="sync_item_sms_title">Mesajları senkronize et</string>
   <string name="sync_off">Kapalı</string>
@@ -159,18 +178,23 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="sync_sub_dspt">Etkinleştirme mesajı normal tarife üzerinden veri kullanım ücretine tabidir.</string>
   <string name="sync_sub_dspt_provision">Her yerden verilenizi görüntüleyin ve yönetin</string>
   <string name="sync_sub_int_dspt">Etkinleştirme mesajı uluslararası tarife üzerinden veri kullanım ücretine tabidir.</string>
-  <string name="system_sync_off">sistem senkronizasyonu kapalı</string>
+  <string name="system_sync_off">Sistem senkronizasyonu kapalı</string>
   <string name="title_reg">Hesap oluşturun</string>
+  <string name="total_space_upgraded_to">Toplam alan:%s</string>
   <string name="unactivated_user">Devre dışı bırakıldı</string>
   <string name="upgrade_space">Alan ekle</string>
+  <string name="upgrade_space_mibipreyear">%s Mi Kredisi (yıllık)</string>
+  <string name="upgrade_space_successful">%sGB alan eklendi</string>
+  <string name="upgrade_space_successful_total">%sGB kullanılabilir alan</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="user_agreement_p6">"Bu özelliğin kullanımı"</string>
   <string name="user_agreement_p7">"Mi Bulut Hizmet Şartları\'na tabidir."</string>
   <string name="user_agreement_p8">.</string>
   <string name="vcode">Doğrulama kodu</string>
   <string name="verify">Doğrula</string>
+  <string name="view_storage_title">Depolama alanı</string>
   <string name="wifi">Wi-Fi</string>
-  <string name="wifi_disconnected">Wi-Fi bağlantısı kesildi</string>
+  <string name="wifi_disconnected">Wi-Fi bağlantısı yok</string>
   <string name="wifi_sync">Wi-Fi senkronizasyonu</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
