@@ -138,7 +138,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="application_item_already_permission">İzin verildi</string>
   <string name="application_item_disable">Devre dışı</string>
   <string name="application_item_permission">İzin ver</string>
-  <string name="applications_settings">Yüklenmiş Uygulamalar</string>
+  <string name="applications_settings">Uygulama Ayarları</string>
   <string name="apply_now_button_text">Güncelle</string>
   <string name="audio_profile_settings_title">Ses Profilleri</string>
   <string name="auto_caps">Otomatik büyük harf yap</string>
@@ -1050,7 +1050,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="music_mi_effect_title">Use Mi Sound Enhancer</string>
   <string name="musicfx_title">Music effects</string>
   <string name="nearby_wifi">Yakındaki Wi-Fi ağları</string>
-  <string name="need_reboot_now">Tamamlamak için tekrar başlatmanız gerekir!</string>
+  <string name="need_reboot_now">Güncellemeyi tamamlamak için cihazınızı tekrar başlatmanız gerekir!</string>
   <string name="network_assistant">Veri kullanımı</string>
   <string name="network_detail">%s Ağ detayları</string>
   <string name="network_error">Bir ağ hatası oluştu</string>
@@ -1631,7 +1631,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="user_dict_single_settings_title">Kişisel sözlük</string>
   <string name="user_you">Siz (%s)</string>
   <string name="verify_applications">Uygulamaları doğrula</string>
-  <string name="verify_applications_summary">Zarar verebilecek uygulamaların kurulmasına izin verme veya uyarma</string>
+  <string name="verify_applications_summary">Zarar verebilecek uygulamaların kurulmasına izin verme ya da bana bildir.</string>
   <string name="verify_apps_over_usb_summary">Zararlı davranış için ADB / ADT ile yüklenmiş uygulamalar kontrol et.</string>
   <string name="verify_apps_over_usb_title">Uygulamaları USb üzerinden doğrula</string>
   <string name="version_text">Sürüm %1$s</string>

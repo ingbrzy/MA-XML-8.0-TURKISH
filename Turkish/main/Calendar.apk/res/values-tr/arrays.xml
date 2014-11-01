@@ -7,7 +7,7 @@
         <item>Alarm</item>
     </string-array> 
     <string-array name="reminder_minutes_labels">
-        <item>None</item>
+        <item>Yok</item>
         <item>0 dakika</item>
         <item>5 dakika</item>
         <item>10 dakika</item>
@@ -33,7 +33,7 @@
         <item>20160</item>
     </integer-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>None</item>
+        <item>Yok</item>
         <item>0 dakika</item>
         <item>5 dakika</item>
         <item>10 dakika</item>
@@ -204,7 +204,7 @@
         <item>Asla</item>
     </string-array>
 	<string-array name="widget_style_list">
-        <item>Transparan siyah</item>
+        <item>Şeffaf siyah</item>
         <item>Beyaz arkaplan</item>
     </string-array>
 </resources>

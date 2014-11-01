@@ -196,9 +196,9 @@
   <string name="customLabelPickerTitle">Özel etiket adı</string>
   <string name="custom_list_filter">Özel görünüm tanımlayın</string>
   <string name="custom_nickname_hint">Takma İsim Yaz</string>
-  <string name="date_picker_label">3 Gün öncesinde ve günü gelince hatırlat</string>
+  <string name="date_picker_label">3 gün öncesinden ve günü gelince bana hatırlat</string>
   <string name="date_time_set">Seç</string>
-  <string name="date_year_toggle">Yıl girin</string>
+  <string name="date_year_toggle">Yılı gir</string>
   <string name="default_ringtone">"Varsayılan zil sesi"</string>
   <string name="deleteConfirmation">Bu kişi silinecektir.</string>
   <string name="deleteConfirmationDetail">\"%s\" silinsin mi?</string>
@@ -671,6 +671,8 @@
   <string name="profile_display_name">Profilimi ayarla</string>
   <string name="profile_name">Profilim</string>
   <string name="profile_name_photo">Ben</string>
+  <string name="qr_card_card">QR Kodum</string>
+  <string name="qrcode_card_title">QR Kodu</string>
   <string name="quickcontact_missing_app">Bu eylemi işlemek için uygulama bulunamadı</string>
   <string name="quit_dialog_confirm_title">Kişileri birleştirmeden çıkmak istediğinize emin misiniz?</string>
   <string name="readOnlyContactDeleteConfirmation">Bu kişi kaydı birden fazla hesaba ait bilgiler içermektedir. Salt okunur hesaplar kişi listenizde gizlenecek fakat silinmeyecektir.</string>
