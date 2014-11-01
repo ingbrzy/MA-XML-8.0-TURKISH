@@ -195,6 +195,7 @@
   <string name="archived">Arşivlendi</string>
   <string name="att_download_failed_content">İndirme başarısız</string>
   <string name="att_download_failed_title">Ek indirme başarısız</string>
+  <string name="att_file_not_exists">%s dosyası bulunamadı!</string>
   <string name="att_mgr_no_attachment">Ek yok!</string>
   <string name="att_mgr_title_order_mime">Biçim</string>
   <string name="att_mgr_title_order_name">Adı</string>
@@ -207,8 +208,11 @@
   <string name="attachment_application_vnd_ms_excel">Tablo</string>
   <string name="attachment_application_vnd_ms_powerpoint">Sunum</string>
   <string name="attachment_audio">Ses</string>
+  <string name="attachment_canceling">İptal ediliyor, lütfen bekleyin!</string>
+  <string name="attachment_decoding">Ek indirildi, çözümlenirken lütfen bekleyin...</string>
   <string name="attachment_image">Resim</string>
   <string name="attachment_mgr_name">Ek</string>
+  <string name="attachment_not_exists">Ek kullanılabilir değil!</string>
   <string name="attachment_not_found">"Ek indirilemedi."</string>
   <string name="attachment_text">Metin</string>
   <string name="attachment_type_blocked">"Maalesef bu dosya kaydedilemedi."</string>
@@ -360,7 +364,7 @@
   <string name="fetching_attachment">Ek alınıyor</string>
   <string name="file_deleted_success">Dosya silindi!</string>
   <string name="file_not_found">Dosya posta sunucusunda bulunamadı!</string>
-  <string name="file_not_found_reDownload">Dosya bulunamadı!</string>
+  <string name="file_not_found_redownload">"Dosya bulunamadı!"</string>
   <string name="file_rar_not_support">Şifreli rar dosyası desteklemiyor!</string>
   <string name="file_size">Boyut</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
@@ -475,6 +479,7 @@
   <string name="menu_search">Ara</string>
   <string name="menu_settings">Ayarlar</string>
   <string name="menu_show_original">Oto-boyuta dön</string>
+  <string name="merged_mailbox_compose_select_account">Hesabı seçin</string>
   <string name="message_compose_fwd_header_fmt">"
 
 -------- Orjinal Mesaj --------
@@ -546,7 +551,11 @@ CC: %4$s
   <string name="outbox_alert_description_provision_error">Sunucu hatası!</string>
   <string name="outbox_alert_description_sent_failed">"Neden:
   Ek boyutu limiti aşıyor"</string>
+  <string name="outbox_alert_duplicate_click">"Sürekli tıklamayın, postalar senkronize ediliyor"</string>
+  <string name="outbox_alert_edit_resend">Düzenle ve tekrar gönder</string>
+  <string name="outbox_alert_failed_edit_resend">Gönderim başarısız, lütfen düzenleyin ve tekrar gönderin!</string>
   <string name="outbox_alert_mailbox_not_found">E-posta adresi bulunamadı!</string>
+  <string name="outbox_alert_select_operation">Lütfen işlemi seçin</string>
   <string name="outbox_alert_title_sent_failed">Gönderilemedi!</string>
   <string name="parase_setup_data">Ayarlar yükleniyor ...</string>
   <string name="partner_giftcard_payment">%1$s MiKredisi (sadece %2$s için)</string>
@@ -634,6 +643,7 @@ CC: %4$s
   <string name="recent_folders_heading">Favori klasörler</string>
   <string name="recipient_error_dialog_title">Alıcı hatası!</string>
   <string name="recipient_needed">En az bir alıcı ekleyin.</string>
+  <string name="recipient_null_dialog_title">Uyarı</string>
   <string name="refresh">Yenile</string>
   <string name="refreshing">Yenileniyor…</string>
   <string name="release_to_refresh">Yenilemek için bırakın</string>
@@ -752,6 +762,7 @@ CC: %4$s
   <string name="turn_auto_sync_on_dialog_confirm_btn">Aç</string>
   <string name="turn_auto_sync_on_dialog_title">Oto-Senkronize açılsın mı?</string>
   <string name="undo">Geri al</string>
+  <string name="unread_from_someone">Okunmamış: [%s]</string>
   <string name="unread_string">Okunmamış sohbet</string>
   <string name="unsent_messages_in_outbox">%2$s içinde gönderilmemiş %1$s</string>
   <string name="updated_at">Son güncelleme: %1$s</string>
