@@ -1098,9 +1098,9 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="passwordIncorrect">Girdiğiniz şifre hatalı</string>
   <string name="password_guard">Şifre</string>
   <string name="permission_detail_info">Yetki bilgilerini görüntüle</string>
-  <string name="permission_detail_info_summary">"Tüm yetkiler: Güvenli %1$d,Özel %2$d,Diğer %3$d"</string>
+  <string name="permission_detail_info_summary">%1$d güvenlik | %2$d gizlilik | %3$d diğer</string>
   <string name="permission_manage">Yetki yönetimi</string>
-  <string name="permission_manage_summary">Otomatik başlat; gizlilik, güvenli izin yönetimi</string>
+  <string name="permission_manage_summary">Uygulamalar kişilerinizi okumak, sistem ayarlarını değiştrmek, kamera ve diğer kaynaklara erişmek için sizden yetki isteyecektir.</string>
   <string name="permission_manage_title">%s yetki detayları</string>
   <string name="permission_manager">İzinler</string>
   <string name="permission_mgr">İzinler</string>
@@ -1125,7 +1125,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="power_autorun_empty">Uygulama yok</string>
   <string name="power_mgr">Güç</string>
   <string name="power_mode">Güç ayarları</string>
-  <string name="power_mode_balanced_title">Balans modunu etkinleştir</string>
+  <string name="power_mode_balanced_title">Dengeli modu etkinleştir</string>
   <string name="power_settings_title">Sistem Performansı</string>
   <string name="power_usage_history">Pil kullanımı</string>
   <string name="power_usage_summary_title">Pil</string>

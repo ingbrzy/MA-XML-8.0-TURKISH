@@ -25,12 +25,12 @@
   <string name="guide_toast">Pusulayı kalibre etmek için yukarıdaki hareketli resime göre telefonunuzu hareket ettirin</string>
   <string name="latitude">ENLEM</string>
   <string name="location_east">D</string>
-  <string name="location_enable">Etkinleştir</string>
-  <string name="location_enable_later">Şimdi değil</string>
-  <string name="location_enabled">Servis açık, konum ayarlarında bunu devre dışı bırakabilirsiniz</string>
+  <string name="location_enable">İzin ver</string>
+  <string name="location_enable_later">Sonra</string>
+  <string name="location_enabled">Konum servisini istediğiniz zaman Ayarlardan kapatabilirsiniz.</string>
   <string name="location_north">K</string>
   <string name="location_not_enabled_summary">Düzgün çalışması için konumunuzun bulunması gerekiyor.</string>
-  <string name="location_not_enabled_title">Konum servisini etkinleştir</string>
+  <string name="location_not_enabled_title">Konum servisleri</string>
   <string name="location_south">G</string>
   <string name="location_west">B</string>
   <string name="longitude">BOYLAM</string>
@@ -41,7 +41,7 @@
   <string name="pressure_title">BASINÇ</string>
   <string name="pressure_unit">hPa</string>
   <string name="using_camera_confirm_cancel">İptal</string>
-  <string name="using_camera_confirm_message">Pusula uygulaması kamerayı kullanacak.</string>
+  <string name="using_camera_confirm_message">Pusula uygulaması, bazı  fonksiyonların düzgün çalışması için cihazınızın kamerasını kullanabilir.</string>
   <string name="using_camera_confirm_ok">TAMAM</string>
-  <string name="using_camera_confirm_title">Kullanım Şartları</string>
+  <string name="using_camera_confirm_title">Kamera Erişimi</string>
 </resources>
