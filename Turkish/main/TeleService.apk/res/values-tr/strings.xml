@@ -26,7 +26,7 @@
   <string name="allContactdeleteFailed">SIM kaydı silinemedi!</string>
   <string name="allContactdeleteSuccess">SIM karttaki tüm kayıtlar silindi</string>
   <string name="always_enable_mms">MMS\'leri her zaman al</string>
-  <string name="always_enable_mms_summary">Data kapalı olsada MMS\'leri al</string>
+  <string name="always_enable_mms_summary">Mobil Veri kapalı olsada MMS\'leri al</string>
   <string name="answer_features_setting_category">Cevaplama ayarları</string>
   <string name="answer_state_setting_summary">Susturmak için çevir, yakınlık sensörü, vb ayarlar.</string>
   <string name="answer_state_setting_title">Çağrı Cevaplama Ayarları</string>
@@ -201,7 +201,7 @@
   <string name="corporate_unlock_success">SIM kart kilidi açıldı.</string>
   <string name="cursorError">Hata</string>
   <string name="data_enable_summary">Mobil şebekede veri kullanımını etkinleştirir</string>
-  <string name="data_enabled">Mobil Veriyi etkin</string>
+  <string name="data_enabled">Mobil Veri</string>
   <string name="deactivate_all">Hepsini kapat</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_port">5060</string>

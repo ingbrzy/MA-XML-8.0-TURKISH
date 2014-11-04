@@ -620,7 +620,7 @@
   <string name="pref_key_photo">Foto</string>
   <string name="pref_key_photo_word_summary">Rehber kişilerinin fotoğraflarını otomatik seçer</string>
   <string name="pref_key_photo_word_title">Kişi fotolarını otomatik seç</string>
-  <string name="pref_key_rebuild_t9_index_message">Yeniden indeks yaratmak kişi arama hatalarını düzeltilebilir</string>
+  <string name="pref_key_rebuild_t9_index_message">Yeniden indeks oluşturmak, kişi arama hatalarını düzeltilebilir</string>
   <string name="pref_key_rebuild_t9_index_title">İndeks verilerini tekrar oluştur</string>
   <string name="pref_key_sim_manage">SIM Kart Yönetimi</string>
   <string name="pref_key_sim_manage2">SIM Kart 2 Yönetimi</string>
@@ -635,7 +635,7 @@
   <string name="preference_contacts_filter">Görüntülenecek Rehber</string>
   <string name="preference_contacts_more">Rehber ayarları</string>
   <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
-  <string name="preference_dial_pad_touch_tone_human">Ses</string>
+  <string name="preference_dial_pad_touch_tone_human">Tuş takımı dokunma sesleri</string>
   <string name="preference_dial_pad_touch_tone_piano">Piyano sesi</string>
   <string name="preference_dial_pad_touch_tone_switch">Tuş takımı dokunma sesleri</string>
   <string name="preference_dial_pad_touch_tone_title">Tuş takımı dokunma sesleri</string>
