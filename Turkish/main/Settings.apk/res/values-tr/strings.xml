@@ -1218,8 +1218,6 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
 <string name="radio_info_data_attempts_label">Veri giriş denemeleri:</string>
 <string name="radio_info_data_successes_label">Veri başarıları:</string>
 <string name="radio_info_gprs_service_label">GPRS hizmeti:</string>
-<string name="radio_info_gsm_disconnects_label">GSM bağlantı kesmeleri:</string>
-<string name="radio_info_gsm_service_label">GSM hizmeti:</string>
 <string name="radio_info_http_client_test">HTTP İstemcisi testi:</string>
 <string name="radio_info_imei_label">IMEI:</string>
 <string name="radio_info_message_waiting_label">Mesaj bekliyor:</string>
@@ -1927,7 +1925,6 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="wifi_suspend_optimizations_summary">Wi-Fi açıkken pil kullanımını en aza indirir</string>
   <string name="wifi_tether_checkbox_text">İnternet Paylaşımı</string>
   <string name="wifi_tether_configure_ap_text">İnternet Paylaşımı Ayarları</string>
-  <string name="wifi_tether_configure_subtext">İnternet paylaşımı noktası:%1$s Güvenlik:%2$s</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s internet paylaşımı.</string>
   <string name="wifi_tether_enabled_subtext">İnternet paylaşımı %1$s etkin.</string>
   <string name="wifi_tether_failed_subtext">İnternet paylaşım hatası</string>
