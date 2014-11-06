@@ -1,7 +1,7 @@
 MIUI V6 TR XML
 ===========
 
-MIUI Turkish Translation: **CELALEDDÝN MADENCAN**
+MIUI Turkish Translation: **CELALEDDiN MADENCAN**
 
 Translation Contributors:
 - [ingbryz](http://miuios.cz)

@@ -557,12 +557,11 @@
   <string name="suffix_virus_count_bottom">Toplam</string>
   <string name="suffix_virus_count_top">Riskler</string>
   <string name="summary_antivirus">Online virüs tanımlarını kullanarak uygulama isimlerini ve bilgilerini tara</string>
-  <string name="summary_dev">Uygulamaların kullanıcı bilgilerine erişimini engelleme</string>
+  <string name="summary_dev">Uygulamaların kullanıcı bilgilerine erişimini engelle</string>
   <string name="summary_cleaner_cloudscan">Online tanımlarını kullanarak bilinmeyen dosya adlarını karşılaştır</string>
   <string name="summary_cloud_account">Get the most out of your Mi device</string>
   <string name="summary_cloud_service">Cihazınızdaki fotoğraflar, kişiler ve tüm verileri senkronize edin</string>
   <string name="summary_data_flow">"Operatörünüzün aylık veri limitini geçmemeye dikkat edin"</string>
-  <string name="summary_dev">Uygulamalrının kullanıcı verilerine erişimini engelle</string>
   <string name="summary_flow_notification">Bildirim alanında aylık veri kullanım istatistiklerini göster</string>
   <string name="summary_flow_purchase_beyond">"Aylık veri limitini %sMB aştınız!"</string>
   <string name="summary_flow_purchase_left">Bu ayki kalan veri limitiniz: %sMB</string>
@@ -584,10 +583,8 @@
   <string name="summary_virus_update">Wi-Fi bağlı olduğunda virüs tanımlarını otomatik güncelle</string>
   <string name="system_check_content">%1$d şüpheli öğe</string>
   <string name="system_header_title">%2$s hafızayı boşaltmak için %1$d işlemi temizleyin</string>
-  <string name="title_app_update_no">%d uygulama güncellenmeyi bekliyor</string>
   <string name="title_app_update">Yeni güncellemeler var</string>
   <string name="title_app_update_no">%d güncelleme bulundu</string>
-  <string name="title_app_update_yes">Güncelleme bulunamadı!</string>
   <string name="title_cleaner_cloudscan">Online temizleme motoru kullan</string>
   <string name="title_cloud_account">Mi Hesabı</string>
   <string name="title_cloud_service">Mi Bulut</string>
