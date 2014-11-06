@@ -6,6 +6,8 @@
   <string name="disagree">İptal</string>
   <string name="input_method_category">"E-posta, not yazmak ve diğer her alanda kullanmak için varsayılan klavyenizi seçin. Unutmayın ki istediğiniz her zaman üçüncü parti klavye uygulamalarını yükleyebilirsiniz."</string>
   <string name="input_method_setting">Varsayılan klavyeyi seçin</string>
+  <string name="locale_picker_confirm_dialog_desc">Knumunuz %s olarak seçilsin mi?</string>
++ <string name="locale_picker_confirm_dialog_title">Konum ayarlama</string>
   <string name="locale_picker_desc">"Daha sonra konumunuzu değiştirmek isterseniz, telefonunuzu fabrika verilerine sıfırlamanız gerekir
   "</string>
   <string name="locale_picker_title">Konumunuzu seçin</string>

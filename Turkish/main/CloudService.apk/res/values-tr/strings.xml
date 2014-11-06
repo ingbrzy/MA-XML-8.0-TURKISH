@@ -110,6 +110,10 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_proceed">Devam</string>
   <string name="micloud_sec_dspt">ve arkadaşlarınızla paylaşın.</string>
   <string name="micloud_space_full_influence">Kullanım alanım bitince ne yapacağım?</string>
+  <string name="micloud_storage_expires_auto_renewal_sum">Aboneliğinizi yenilemeniz gerekmektedir.</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">Aboneliğinizi yenilemeniz gerekmektedir.</string>
+  <string name="micloud_storage_expires_soon_title">Mi Bulut depolama süresi yakında doluyor</string>
+  <string name="micloud_storage_expires_very_soon_title">Mi Bulut depolama süresi yakında doluyor</string>
   <string name="micloud_storage_usage" formatted="false">Kullanılan: %s Toplam: %s</string>
   <string name="micloud_title_dspt" formatted="false">"Toplam: %s
 Kullanılan: %s | Kalan: %s "</string>

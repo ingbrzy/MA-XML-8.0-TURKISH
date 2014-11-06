@@ -1,2 +1,10 @@
-MIUIv6 XML TURKISH TRANSLATION FOR XIAOMI.EU.
-Contributors: Celaleddin MADENCAN,MarkH-UK,ingbryz,www.miuiturkiye.net
+MIUI V6 TR XML
+===========
+
+MIUI Turkish Translation: **CELALEDDÝN MADENCAN**
+
+Translation Contributors:
+- [ingbryz](http://miuios.cz)
+- [ MIUI Turkiye Fansite](http://www.miuiturkiye.net)  
+
+MIUI Translation: cmadencan@gmail.com

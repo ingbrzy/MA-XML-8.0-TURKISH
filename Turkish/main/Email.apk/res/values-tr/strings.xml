@@ -209,6 +209,7 @@
   <string name="attachment_application_vnd_ms_powerpoint">Sunum</string>
   <string name="attachment_audio">Ses</string>
   <string name="attachment_canceling">İptal ediliyor, lütfen bekleyin!</string>
+  <string name="attachment_download_all">Hepsini indir</string>
   <string name="attachment_decoding">Ek indirildi, çözümlenirken lütfen bekleyin...</string>
   <string name="attachment_image">Resim</string>
   <string name="attachment_mgr_name">Ek</string>
@@ -257,6 +258,7 @@
   <string name="clear_display_images_whitelist_dialog_message">Daha önce izin verilen göndericilerin satır arası görüntülerini durdur.</string>
   <string name="clear_display_images_whitelist_dialog_title">Resimler temizlensin mi</string>
   <string name="clear_display_images_whitelist_title">Resimleri temizle</string>
+  <string name="click_download_all_content">[ İndirmek için dokunun ]</string>
   <string name="collapse_recipient_details">Alıcı ayrıntılarını genişlet</string>
   <string name="compose">E-posta yaz</string>
   <string name="compose_send">Gönder</string>
@@ -368,6 +370,11 @@
   <string name="file_rar_not_support">Şifreli rar dosyası desteklemiyor!</string>
   <string name="file_size">Boyut</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
+  <string name="flow_saved_dlg_do_not_show">"Tekrar gösterme"</string>
+  <string name="flow_saved_dlg_i_know">TAMAM</string>
+  <string name="flow_saved_dlg_message">%1$d yeni mesaj. Tasarruf: %2$s (mobil veri).</string>
+  <string name="flow_saved_dlg_title">Veri kullanımını azalt</string>
+  <string name="flow_saved_preference_total">Tasarruf: %1$s.</string>
   <string name="folder_drafts_name_en0">Taslaklar</string>
   <string name="folder_drafts_name_en1">Taslak</string>
   <string name="folder_icon_desc">Klasör simgesi</string>
@@ -399,6 +406,7 @@
   <string name="giftcard_payment">%1$s MiKredisi</string>
   <string name="header_label_general_preferences">Genel Ayarlar</string>
   <string name="help_and_info">Yardım</string>
+  <string name="hide_atts_remaining">%1$d eki gizle</string>
   <string name="hide_elided">▼ Alıntı metnini gizle</string>
   <string name="hide_folders">Klasörleri gizle</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -428,6 +436,11 @@
   <string name="long_press_to_select_tip">Sohbet seçmek için basılı tutun, daha sonra seçmek için dokunun.</string>
   <string name="mail">E-Posta</string>
   <string name="mail_body_turncated">Bu rapor, çok büyük ve sadece bir bölümü gösterilmiştir. PC\'nizde bunu kontrol edin.</string>
+  <string name="mail_header_downloading_message_body">İndiriliyor…</string>
+  <string name="mail_header_message_body_auto_download_complete">Wi-Fi kullanarak indirilen e-posta içeriği.</string>
+  <string name="mail_header_message_body_auto_download_tip">E-posta içeriği Wi-Fi kullanılarak indirilecektir.</string>
+  <string name="mail_header_message_body_download_failed">Bağlantı zaman aşımna uğradı!</string>
+  <string name="mail_header_network_not_available">"Ağ bağlantısı yok!"</string>
   <string name="mailbox_list_account_selector_combined_view">Kombine gelen kutusu</string>
   <string name="mailbox_name_display_drafts">Taslaklar</string>
   <string name="mailbox_name_display_inbox">Gelen kutusu</string>
@@ -480,6 +493,7 @@
   <string name="menu_settings">Ayarlar</string>
   <string name="menu_show_original">Oto-boyuta dön</string>
   <string name="merged_mailbox_compose_select_account">Hesabı seçin</string>
+  <string name="message_body_loading">[ Yükleniyor… ]</string>
   <string name="message_compose_fwd_header_fmt">"
 
 -------- Orjinal Mesaj --------
@@ -503,6 +517,7 @@ CC: %4$s
   <string name="message_saved">Mesaj taslak olarak kaydedildi</string>
   <string name="message_type_name">mesaj</string>
   <string name="message_view_attachment_background_load">Yönlendirilen mesajda bir veya daha fazla ek var.</string>
+  <string name="more_atts_remaining">%1$d ek kaldı</string>
   <string name="more_atts_total">Toplam %1$d ek</string>
   <string name="more_info_attachment">Bilgi</string>
   <string name="more_string">+%1$s</string>
@@ -611,6 +626,8 @@ CC: %4$s
   <string name="policy_text_truncation">Restrict text email size</string>
   <string name="prefDialogTitle_conversationListIcon">Gönderen resmi</string>
   <string name="prefDialogTitle_removal_action">Arşiv ve silme işlemi</string>
+  <string name="preference_head_load_description">Mobil veri kullanırken, sadece mesaj başlıklarını indirin.</string>
+  <string name="preference_head_load_title">Veri kullanımını azalt</string>
   <string name="preference_removal_action_title">Arşiv ve silme işlemi</string>
   <string name="preference_sender_image_description">Görüşme listesinde adının yanında resim görünür</string>
   <string name="preference_sender_image_title">Gönderen resmi</string>
@@ -701,7 +718,7 @@ CC: %4$s
   <string name="ser_resp_err_map_connect_err">İnternet bağlantısı hatası!</string>
   <string name="ser_resp_err_map_nouser">Kullanıcı yok</string>
   <string name="ser_resp_err_map_or">Ya da</string>
-  <string name="ser_resp_err_map_pserr">Yanlış Kulanıcı Adı / Şifre</string>
+  <string name="ser_resp_err_map_pserr">Yanlış Kullanıcı Adı / Şifre</string>
   <string name="ser_resp_err_map_serclosed">Servis sonlandırıldı</string>
   <string name="ser_resp_err_map_ssl">" 'Güvenlik ayarlarından' SSL / TLS (Tüm sertifikaları kabul et) seçmeyi deneyin"</string>
   <string name="set_network">Ağı ayarla</string>
@@ -765,8 +782,8 @@ CC: %4$s
   <string name="unread_from_someone">Okunmamış: [%s]</string>
   <string name="unread_string">Okunmamış sohbet</string>
   <string name="unsent_messages_in_outbox">%2$s içinde gönderilmemiş %1$s</string>
-  <string name="updated_at">Son güncelleme: %1$s</string>
-  <string name="updated_just_now">Şimdi güncellendi</string>
+  <string name="updated_at">Son yenileme: %1$s</string>
+  <string name="updated_just_now">Şimdi yenilendi</string>
   <string name="validation_failed_prompt">Doğrulama hatası,lütfen %s sunucusu ayarlarını kontrol edin!</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -788,15 +805,6 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Diğer</string>
   <string name="wrong_password">Şifre yanlış!</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_external_storage_unavailable">Depolama kullanılamıyor, SD kartı kontrol edin</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Tanıtım sürümü %1$s
-Boyut: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Tanıtım sürümü %1$s
-Delta güncelleme boyutu: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">%1$s Güncelle!</string>
   <string name="yes">Evet</string>
   <string name="zip_viewer_no_file">Dosya yok!</string>
 </resources>

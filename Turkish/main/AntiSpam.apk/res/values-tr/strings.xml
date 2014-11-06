@@ -52,7 +52,7 @@
   <string name="app_name">Engelleme listesi</string>
   <string name="backsound_set_hint">%s için arka ses ayarlansın mı?</string>
   <string name="baidu_thanks">Baidu tarafından sağlanmaktadır</string>
-  <string name="bl_block_info" formatted="false">Engellenen çağrılar:%d | SMS: %d</string>
+  <string name="bl_block_info" formatted="false">Çağrı:%d | SMS: %d</string>
   <string name="bl_no_blacklist">Engellenen numara yok</string>
   <string name="bl_no_block_call">Engellenen çağrı yok</string>
   <string name="bl_no_block_sms">Engellenen mesaj yok</string>

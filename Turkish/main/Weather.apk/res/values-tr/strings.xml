@@ -18,6 +18,7 @@
   <string name="activity_find_city_dialog_title">Konum Servisi</string>
   <string name="activity_main_refresh_time">%1$s güncellendi</string>
   <string name="activity_main_refresh_timeout">Zaman aşımı yenile</string>
+  <string name="activity_main_time_format">dd.MM</string>
   <string name="activity_main_update_time">Güncelleme: %1$s</string>
   <string name="activity_main_update_time_right_now">Şimdi</string>
   <string name="activity_weather_main_null_data">- -</string>
@@ -28,6 +29,8 @@
   <string name="button_abandon">Değişikliklerden vazgeç</string>
   <string name="button_allow">İzin ver</string>
   <string name="button_not_allow">Yoksay</string>
+  <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
+  <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_city">Düzenle</string>
   <string name="gps_hint">Geçerli konum</string>
   <string name="loading_weather">Yükleniyor...</string>

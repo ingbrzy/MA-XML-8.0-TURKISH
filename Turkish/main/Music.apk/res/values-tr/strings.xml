@@ -104,7 +104,18 @@
   <string name="favorite_succeed">Zaten favorilere eklenmiş</string>
   <string name="favourite_music_left_half">Çalma listesine yeni şarkılar eklemek için dokunun</string>
   <string name="favourite_music_right_half">sarkı başlığının sağındaki favori simgesi</string>
-  <string name="file_not_found">Dosya bulunmuyor</string>
+  <string name="file_not_found">Dosya yok</string>
+  <string name="filter_by_duration">Süreye göre</string>
+  <string name="filter_by_duration_format">%2$dm %5$2ds</string>
+  <string name="filter_by_duration_max">5 dak</string>
+  <string name="filter_by_duration_min">0 san</string>
+  <string name="filter_by_duration_prefix">"Minimum süre: "</string>
+  <string name="filter_by_duration_summary">"Kısa ses dosyaları gösterilmez"</string>
+  <string name="filter_by_size">Boyuta göre</string>
+  <string name="filter_by_size_max">2MB</string>
+  <string name="filter_by_size_min">0KB</string>
+  <string name="filter_by_size_prefix">"Minimum boyut: "</string>
+  <string name="filter_by_size_summary">"Küçük ses dosyaları gösterilmez"</string>
   <string name="find_ktv">"KTV\'yi keşfet"</string>
   <string name="find_music">Yeni şarkılar keşfet</string>
   <string name="format_unsupported">Dosya biçimi desteklenmiyor.</string>
@@ -145,6 +156,7 @@
   <string name="metered_play_toast">Veri bağlantısı üzerinden streaming</string>
   <string name="min_sleep_time">1</string>
   <string name="music_browser_label">Müzik</string>
+  <string name="music_filter">Ses dosyalarını filtrele</string>
   <string name="music_quality">Müzik kalitesi</string>
   <string name="music_settings">Müzik</string>
   <string name="my_account">Hesabım</string>

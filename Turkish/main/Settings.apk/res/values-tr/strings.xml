@@ -1022,6 +1022,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="modem_tool_log_stop_toast">Model loglarının %s içine dökülmesini durdur</string>
   <string name="msg_wlan_signal_found">%s ağına bağlanılsın mı?</string>
   <string name="multi_touch_points_category_title">Çoklu Dokunma noktaları</string>
+  <string name="music_HiFi_title">Hi-Fi Ses</string>
   <string name="multi_touch_points_preference">Etkinleştirmek için yeniden başlat</string>
   <string name="music_dirac_mode_general_earbuds">General earbuds</string>
   <string name="music_dirac_mode_general_inear">General inear</string>
@@ -1778,6 +1779,9 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wfd_settings_title">Wi-Fi Gösterimi</string>
   <string name="wfd_wps_keypad">Tuş tercihi</string>
   <string name="wfd_wps_pbc">Giriş PIN kodu tercihi</string>
+  <string name="whetstone_level_reboot">Ayarlar cihazınızı tekrar başlatınca etkinleşecektir</string>
+  <string name="whetstone_level_reboot_OK">Tekrar Başlat</string>
+  <string name="whetstone_level_title">Sistem hafıza optimizasyonu</string>
   <string name="wifi_access_points">Kablosuz Ağlar</string>
   <string name="wifi_add_network">Ağ ekle</string>
   <string name="wifi_advanced_ip_address_title">IP adresi</string>
