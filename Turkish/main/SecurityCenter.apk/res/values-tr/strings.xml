@@ -4,7 +4,7 @@
   <string name="Settings_title_anti_virus">Antivirüs ayarları</string>
   <string name="Settings_title_garbage_cleanup">Çöp temizleme ayarları</string>
   <string name="Settings_title_network_assistants">Ağ asistanı ayarları</string>
-  <string name="Settings_title_power_center">Güç ayarları</string>
+  <string name="Settings_title_power_center">Pil ayarları</string>
   <string name="activity_title_ad">Reklamlar</string>
   <string name="activity_title_antispam">Kara Liste</string>
   <string name="activity_title_antivirus">Virüs taraması</string>
@@ -25,7 +25,7 @@
   <string name="activity_title_perm_manager">İzinler</string>
   <string name="activity_title_permission_manager">İzinler</string>
   <string name="activity_title_permissions_manager">İzinler</string>
-  <string name="activity_title_power_manager">Güç</string>
+  <string name="activity_title_power_manager">Pil kullanımı</string>
   <string name="activity_title_residual">Artık dosyalar</string>
   <string name="activity_title_risk">Riskler</string>
   <string name="activity_title_risk_detail">Risk detayları</string>
@@ -55,7 +55,7 @@
   <string name="battery_desc_display">Aydınlatma ve arka ışık tarafından kullanılan pil</string>
   <string name="battery_desc_other_apps">Diğer uygulamalar tarafından kullanılan pil</string>
   <string name="battery_desc_radio">Hücre radyosu tarafından kullanılan pil</string>
-  <string name="battery_desc_standby">Telefonu boş kaldığında kullanılan batarya</string>
+  <string name="battery_desc_standby">Telefonu boş kaldığında kullanılan pil</string>
   <string name="battery_desc_voice">Sesli aramalar tarafından kullanılan pil</string>
   <string name="battery_desc_wifi">Wi-Fi tarafından kullanılan pil</string>
   <string name="battery_history_days">%1$dg %2$ds %3$dd %4$ds</string>
@@ -68,7 +68,7 @@
   <string name="brightness_auto_adjust_off">Ekran parlaklığı her ortam şartında sabit bir değerde tutulacaktır</string>
   <string name="brightness_auto_adjust_on">Ekran parlaklığı çevrenizdeki ışık miktarına göre otomatik olarak ayarlanır</string>
   <string name="btn_text_cleanup_all">Temizle</string>
-  <string name="btn_text_done">Tamamlandı</string>
+  <string name="btn_text_done">Tamam</string>
   <string name="btn_text_quick_cleanup">Temizle</string>
   <string name="btn_text_quick_optimize">Optimize et</string>
   <string name="btn_text_quick_scan">Tara</string>
@@ -133,7 +133,7 @@
   <string name="descx_finish_scan_system">Sistem koruma taraması bitiriliyor</string>
   <string name="descx_quick_scan_cancel">Tarama iptal edildi</string>
   <string name="descx_quick_scan_done">Tarama tamamlandı</string>
-  <string name="descx_scanning_item">Taranıyor %s</string>
+  <string name="descx_scanning_item">Taranıyor : %s</string>
   <string name="descx_start_cleanup_cache">Önbellek optimizasyonu başlatılıyor</string>
   <string name="descx_start_cleanup_memory">Bellek optimizasyonu başlatılıyor</string>
   <string name="descx_start_cleanup_system">Sistem koruma optimizasyonu başlatılıyor</string>
@@ -303,7 +303,7 @@
   <string name="menu_item_notification_antispam_text_normal">Gereksiz</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Hata</string>
-  <string name="menu_item_notification_power_text">Güç</string>
+  <string name="menu_item_notification_power_text">PİL</string>
   <string name="menu_item_notification_title">Bildirim çubuğunda göster</string>
   <string name="menu_item_settings_title">Ayarlar</string>
   <string name="menu_item_shortcut_summary">Sık kullanılan özellikleri ana ekrana yerleştirin</string>
@@ -322,7 +322,7 @@
   <string name="menu_text_networkassistants">Veri kullanımı</string>
   <string name="menu_text_networkassistants_danger">%s aşılan</string>
   <string name="menu_text_networkassistants_remain">%s kaldı</string>
-  <string name="menu_text_power_manager">Güç yönetimi</string>
+  <string name="menu_text_power_manager">Pil yönetimi</string>
   <string name="menu_text_power_percent">PİL: %s</string>
   <string name="msg_cleanup_db_update_checking">Kontrol ediliyor...</string>
   <string name="msg_cleanup_db_update_time_unknown">Güncelleme zamanı: Bilinmiyor</string>
@@ -380,7 +380,7 @@
   <string name="power_center_state_on">Açık</string>
   <string name="power_center_time_to_boot">Açılma zamanı</string>
   <string name="power_center_time_to_shutdown">Kapanma zamanı</string>
-  <string name="power_center_title">Güç</string>
+  <string name="power_center_title">Pil</string>
   <string name="power_chooser_check_box_summary">Pil ömrünü artırmak için bir profil uygulayın</string>
   <string name="power_chooser_check_box_title">Profili uygula</string>
   <string name="power_chooser_mine_summary">Profil ekle</string>
