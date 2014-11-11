@@ -35,9 +35,10 @@ Cihazda birden fazla kullanıcı varsa, geçici olarak kilit ekranı erişilebil
   <string name="accessibility_power_button_ends_call_prerefence_title">Güç tuşuna ile çağrıyı sonlandır</string>
   <string name="accessibility_screen_magnification_enable">Büyültme hareketleri</string>
   <string name="accessibility_screen_magnification_summary">"Bu özellik etkin olduğunda, yakınlaştırmak veya  uzaklaştırmak için üçlü dokunmayı kullanabilirsiniz.
+
 Yakınlaştırma sırasında, şunları yapabilirsiniz:
-"&lt;li&gt;&lt;ul&gt;"İki veya daha fazla parmağınızı ekran boyunca kaydırın.
-"&lt;li&gt;Yakınlaştırma seviyesini ayarlayın: Iki veya daha fazla parmakla büyütün ya da ayrı çekin.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+"İki veya daha fazla parmağınızı ekran boyunca kaydırın.
+"Yakınlaştırma seviyesini ayarlayın: Iki veya daha fazla parmakla büyütün ya da ayrı çekin."
 
 Parmağınızın altındaki içeriği, aynı zamanda geçici olarak üçlü tıklayıp yakınlaştırabilir ve tutabilirsiniz.
 
@@ -56,7 +57,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="accessibility_toggle_large_text_preference_title">Büyük yazı tipi</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Daha yakından güncelleyin.</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Oto ekran büyüteçi</string>
-  <string name="accessibility_toggle_screen_magnification_preference_title">Ekran yakınlaştırması</string>
+  <string name="accessibility_toggle_screen_magnification_preference_title">Ekran büyüteçi</string>
   <string name="accessibility_toggle_script_injection_preference_title">Siteye kolay erişim</string>
   <string name="accessibility_toggle_speak_password_preference_title">Şifreleri oku</string>
   <string name="account_add">Ekle</string>
@@ -138,6 +139,8 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="application_item_already_permission">İzin verildi</string>
   <string name="application_item_disable">Devre dışı</string>
   <string name="application_item_permission">İzin ver</string>
+  <string name="application_restrictions">Uygulama ve içeriğe izin ver</string>
+  <string name="application_size_label">Uygulama</string>
   <string name="applications_settings">Uygulama Ayarları</string>
   <string name="apply_now_button_text">Güncelle</string>
   <string name="audio_profile_settings_title">Ses Profilleri</string>
@@ -158,6 +161,12 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="automatic_brightness">Otomatik Parlaklık</string>
   <string name="available_size">Kullanılabilir: %s</string>
   <string name="back_key">Geri tuşu</string>
+  <string name="background_data">Arka plan verileri</string>
+  <string name="background_data_dialog_message">Arka plan verilerini devre dışı bırakmak, pilden tasarruf sağlar ve veri kullanımını azaltır. Bazı uygulamalar yine de arka plan veri bağlantısını kullanmaya devam edebilir.</string>
+  <string name="background_data_dialog_title">Arka plan verileri kapatılsın mı?</string>
+  <string name="background_data_summary">Uygulamalar herhangi bir zamanda verileri senk eder, gönderir ve alır</string>
+  <string name="background_process_stop_description">"Bu, tekrar gerekirse diye çalışmaya devam eden eski bir uygulama işlemidir. Genellikle bunu durdurmanız gerekmez."</string>
+  <string name="backup_configure_account_default_summary">Şu anda, yedeklenmiş verileri depolayan hiçbir hesap yok</string>
   <string name="backup_configure_account_title">Yedekleme hesabı</string>
   <string name="backup_data_summary">Uygulama verilerini, Wi-Fi şifrelerini ve diğer ayarları Google sunucularına yedekle</string>
   <string name="backup_data_title">Verilerimi yedekle</string>
@@ -278,10 +287,10 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="bluetooth_device_name">Cihaz adı</string>
   <string name="bluetooth_device_searchable">Cihaz görünür</string>
   <string name="bluetooth_devices">Bluetooth cihazlar</string>
-  <string name="bluetooth_disable_profile_message">Devre dışı bırakılacak: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;From:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_message">Devre dışı bırakılacak: 1$s Buradan :%2$s</string>
   <string name="bluetooth_disable_profile_title">Profil devre dışı bırakılsın mı?</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s medya ses profilinden ayrılacak.</string>
-  <string name="bluetooth_disconnect_all_profiles">Şu cihazla bağlantınız kesilecek:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">Şu cihazla bağlantınız kesilecek:%1$s</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s eller serbest ses profilinden ayrılacak.</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s giriş cihazından ayrılacak.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">%1$s, bu telefonun İnternet bağlantısı paylaşımından çıkarılacak.</string>
@@ -289,7 +298,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="bluetooth_disconnect_title">Bağlantı kesilsin mi?</string>
   <string name="bluetooth_disconnected">Bağlantı kesildi</string>
   <string name="bluetooth_disconnecting">Bağlantı kesiliyor…</string>
-  <string name="bluetooth_display_passkey_pin_msg">Bu cihazla eşleşmek için:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Kodu girin:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_display_passkey_pin_msg">Bu cihazla eşleşmek için:%1$s Kodu girin: %2$s</string>
   <string name="bluetooth_dock_settings">Yuva Ayarları</string>
   <string name="bluetooth_dock_settings_a2dp">Müzik ve medya için</string>
   <string name="bluetooth_dock_settings_headset">Telefon hoparlörü olarak</string>
@@ -305,11 +314,10 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="bluetooth_empty_list_bluetooth_off">"Cihazları görmek için, Bluetooth\'u açın."</string>
   <string name="bluetooth_enable">Bluetooth\'u aç</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN, harfler veya simgeler içerir</string>
-  <string name="bluetooth_enter_passkey_msg">&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; ile eşleştirmek için cihazın istenen passkey kodunu yazın:</string>
+  <string name="bluetooth_enter_passkey_msg">%1$s ile eşleştirmek için cihazın istenen passkey kodunu yazın:</string>
   <string name="bluetooth_enter_passkey_other_device">Bu passkey kodunu diğer cihazda da girmeniz gerekebilir.</string>
-  <string name="bluetooth_enter_pin_msg">"&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; ile eşleştirmek için cihazın istenen PIN\'ini yazın:"</string>
-  <string name="bluetooth_enter_pin_msg_hs">"Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"</string>
-  <string name="bluetooth_enter_pin_other_device">"Bu PIN\'i diğer cihazda da girmeniz gerekebilir."</string>
+  <string name="bluetooth_enter_pin_msg">%1$s ile eşleştirmek için cihazın istenen PIN\'ini yazın:"</string>
+  <string name="bluetooth_enter_pin_other_device">"Bu PIN kodunu diğer cihazda da girmeniz gerekebilir."</string>
   <string name="bluetooth_ftp_acceptance_dialog_text">%1$s would like to access your files and folders. Give access to %2$s?</string>
   <string name="bluetooth_ftp_connection_permission_request">Ftp bağlantı isteği</string>
   <string name="bluetooth_ftp_remember_choice">"Tekrar sorma"</string>
@@ -318,7 +326,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="bluetooth_headset_profile_summary_use_for">Telefon sesi için kullan</string>
   <string name="bluetooth_hid_profile_summary_connected">Giriş cihazına bağlı</string>
   <string name="bluetooth_hid_profile_summary_use_for">Giriş için kullan</string>
-  <string name="bluetooth_incoming_pairing_msg">Kaynak:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; , Bu cihaz ile eşleştirilsin mi?</string>
+  <string name="bluetooth_incoming_pairing_msg">Kaynak: %1$s Bu cihaz ile eşleştirilsin mi?</string>
   <string name="bluetooth_is_discoverable">Tüm Bluetooth cihazlar tarafından görülebilir (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Tüm Bluetooth cihazlar tarafından her zaman görülebilir</string>
   <string name="bluetooth_lock_voice_dialing">Sesli aramayı kilitle</string>
@@ -476,14 +484,14 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="clear_activities_summary">Varsayılan olarak, bazı işlemler için bu uygulamayı kullanın</string>
   <string name="clear_adb_keys">USB hata ayıklama izinlerini iptal et</string>
   <string name="clear_cache_btn_text">Önbelleği temizle</string>
-  <string name="clear_data_dlg_text">Bu uygulamanın tüm verileri kalıcı olarak silinecek. Bu veriler arasında tüm dosyalar, ayarlar, hesaplar, veritabanları vb. yer alıyor.</string>
+  <string name="clear_data_dlg_text">"Bu uygulamanın tüm verileri kalıcı olarak silinecek. Bu veriler arasında tüm dosyalar, ayarlar, hesaplar, veri tabanı vb. yer alabilir!"</string>
   <string name="clear_data_dlg_title">Uygulama verileri silinsin mi?</string>
   <string name="clear_data_failed">Uygulama verileri temizlenemedi!</string>
   <string name="clear_failed_dlg_text">Uygulama verileri temizlenemedi!</string>
   <string name="clear_failed_dlg_title">Verileri temizle</string>
   <string name="clear_user_data_text">Verileri temizle</string>
-  <string name="color_calibration_none">"Doğal"</string>
-  <string name="color_calibration_srgb">"sRGB"</string>
+  <string name="color_calibration_none">Doğal</string>
+  <string name="color_calibration_srgb">sRGB</string>
   <string name="common_settings">Hızlı Ayarlar</string>
   <string name="complete_settings">Tüm Ayarlar</string>
   <string name="computing_size">Hesaplanıyor…</string>
@@ -504,7 +512,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="credentials_not_erased">Kimlik bilgileri deposu silinemedi.</string>
   <string name="credentials_old_password">Geçerli şifre:</string>
   <string name="credentials_password_too_short">Şifre, en az 8 karakterden oluşmalıdır.</string>
-  <string name="credentials_reset">Kimlik bilgilerini temizl</string>
+  <string name="credentials_reset">Kimlik bilgilerini temizle</string>
   <string name="credentials_reset_hint">Tüm içerik kaldırılsın mı?</string>
   <string name="credentials_reset_summary">Tüm sertifikaları kaldır</string>
   <string name="credentials_reset_warning">Yanlış şifre. Kimlik bilgileri deposu silinmeden önce tek bir şansınız kaldı.</string>
@@ -535,7 +543,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="data_usage_metered_mobile">Mobil Şebekeler</string>
   <string name="data_usage_metered_title">Mobil İnternet Paylaşımı</string>
   <string name="data_usage_metered_wifi">Kablosuz Ağlar</string>
-  <string name="data_usage_metered_wifi_disabled">Mobile hotspotu seçmek için, önce Wi-Fi bağlantısını açın</string>
+  <string name="data_usage_metered_wifi_disabled">Mobile internet paylaşımını seçmek için, önce Wi-Fi bağlantısını açın</string>
   <string name="data_usage_restrict_background">Arka plan verileri sınırlanınca, bazı uygulamalar veya hizmetler 2G/3G ile çalıştırılmayabilir.</string>
   <string name="data_usage_restrict_background_multiuser">Arka plan verileri sınırlanınca, bazı uygulamalar veya hizmetler 2G/3G ile çalıştırılmayabilir.</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
@@ -553,7 +561,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="date_time_set_time">Saati ayarla</string>
   <string name="date_time_set_timezone">Zaman dilimini seç</string>
   <string name="date_time_settings">Tarih ve Saat</string>
-  <string name="debug_app">Hata ayıklama uygulaması seçin</string>
+  <string name="debug_app">Hata ayıklama uygulamasını seçin</string>
   <string name="debug_app_not_set">Hata ayıklama uygulaması ayarlanmadı</string>
   <string name="debug_app_set">Hata ayıklama uygulaması: %1$s</string>
   <string name="debug_applications_category">Uygulamalar</string>
@@ -595,13 +603,13 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="device_miui_version">miuiturkiye.net/C.Madencan:</string>
   <string name="device_name">Cihaz adı</string>
   <string name="device_name_input_hint">Cihazınızın adını girin</string>
-  <string name="device_name_usage_point">Cihaz dosya transferi ve diğer fonksiyonları sağlamak için diğer Bluetooth cihazları tarafından keşfedilmeye izin ver.</string>
+  <string name="device_name_usage_point">Bu ad yakınında diğer Bluetooth cihazları için görünür olacaktır.</string>
   <string name="device_picker">Bluetooth cihazı seçicisi</string>
   <string name="device_sd_memory">SD kart:</string>
   <string name="device_status">Durum</string>
   <string name="device_status_activity_title">Durum</string>
   <string name="device_status_summary">Telefon numarası, sinyal vb.</string>
-  <string name="dialog_content_login">Güncelleme için Mi hesabı gerekiyor, giriş yapılsın mı?</string>
+  <string name="dialog_content_login">Güncelleme için Mi Hesabı gerekiyor, giriş yapılsın mı?</string>
   <string name="dialog_no">Hayır</string>
   <string name="dialog_title_color_calibration">"Renk Düzeltme ön ayar"</string>
   <string name="dialog_title_font_size">Yazı boyutu</string>
@@ -747,8 +755,8 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="force_msaa_summary">OpenGL ES 2.0 uyg için 4x MSAA\'ı etkinleştir </string>
   <string name="force_rtl_layout_all_locales">RTL yerleşimini zorla</string>
   <string name="force_rtl_layout_all_locales_summary">Tüm yerel ayarlar için RTL ekran yerleşim yönünü zorla</string>
-  <string name="forget_wifi_message">Bu Wi-Fi Ağı unutulsun mu? Ağa tekrar bağlanmak istesiniz şifreyi tekrar girmeniz gerekecektir</string>
-  <string name="found_new_version">Güncelleme mevcut</string>
+  <string name="forget_wifi_message">Bu Wi-Fi ağı unutulsun mu? Ağa tekrar bağlanmak istesiniz şifreyi tekrar girmeniz gerekecektir</string>
+  <string name="found_new_version">Yeni güncelleme bulundu!</string>
   <string name="free_wifi_confirm">Tamam</string>
   <string name="free_wifi_connect">Bağlan</string>
   <string name="free_wifi_connect_dialog_summary">%2$s tarafından sağlanan ücretsiz Wi-Fi ağı %1$s</string>
@@ -828,7 +836,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="internal_format_summary">Dahili depolamadaki tüm veriler silinir.</string>
   <string name="internal_media_format_button_text">Dahili depolamayı sil</string>
   <string name="internal_media_format_desc">Dahili depolamadaki tüm veriler silinecek</string>
-  <string name="internal_media_format_final_desc">Telefon yeniden başladığında tüm veriler silinecek ve bu işlemden dönüş olmayacak</string>
+  <string name="internal_media_format_final_desc">Telefon yeniden başladığında tüm veriler silinecek ve bu işlemden dönüş olmayacaktır!!!</string>
   <string name="internal_media_format_title">Dahili depolamayı sil</string>
   <string name="keep_screen_on">Uyanık kal</string>
   <string name="keep_screen_on_summary">Şarj edilirken ekran hiçbir zaman uykuya geçmez</string>
@@ -1241,7 +1249,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="recent_location_requests_summary">Aşağıdaki uygulamalar konum bilginizi görüntülemek istiyor</string>
   <string name="recent_location_requests_title">Konum erişimi</string>
   <string name="recompute_size">Hesaplanıyor...</string>
-  <string name="remove_from_frequently_fragment">\"%s\" öğesini Genel Ayarlardan kaldır?</string>
+  <string name="remove_from_frequently_fragment">\"%s\" öğesi Genel Ayarlardan kaldırılsın mı?</string>
   <string name="reset_app_preferences">Uygulama ayarlarını sıfırla</string>
   <string name="reset_app_preferences_button">Uygulamaları sıfırla</string>
   <string name="reset_app_preferences_desc">"Bu işlem tüm ayarları sıfırlar, fakat uygulama verilerini silmez.
@@ -1288,7 +1296,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="screen_key_press">Ekran tuşları</string>
   <string name="screen_never_timeout_title">Hiç bir zaman</string>
   <string name="screen_on_proximity_sensor_summary"/>
-  <string name="screen_on_proximity_sensor_title">Telefon cepteyken yanlış aramaları engelle</string>
+  <string name="screen_on_proximity_sensor_title">Telefonu cepte taşıma modu</string>
   <string name="screen_saturation">Renk doygunluğunu ayarla</string>
   <string name="screen_timeout">Uyku modu süresi</string>
   <string name="screen_timeout_summary">%1$s sonra ekranı kapatır</string>
@@ -1648,7 +1656,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="upload_debug_log_title">Kullanıcı deneyimi geliştirme programı</string>
   <string name="usage_log">Uygulama kullanım istatistikleri</string>
   <string name="usage_type_wifi_running">Wi-Fi çalışıyor</string>
-  <string name="usb_host_mode_subtext">USB porttan kontrol donanımları bağladığınızda, batarya süresi azalabilir</string>
+  <string name="usb_host_mode_subtext">USB porttan kontrol donanımları bağladığınızda, pil süresi azalabilir</string>
   <string name="usb_host_mode_text">USB bağlantı modunu etkinleştir</string>
   <string name="usb_msd_driver_installer_summary">Windows ve OSX için sürücüleri al</string>
   <string name="usb_msd_driver_installer_title">Driver Installer Disk (MSD)</string>
@@ -1713,10 +1721,10 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="virus_scan_app_waiting"> Bekleniyor...</string>
   <string name="virus_scanner_auto_update"> Otomatik Güncelle</string>
   <string name="virus_scanner_date_formater">dd MMMM yyyy</string>
-  <string name="virus_scanner_lib_already_latest"> Virus veritabanı zaten güncel</string>
-  <string name="virus_scanner_lib_update_failed"> Virus veritabanı güncelleme başarısız</string>
-  <string name="virus_scanner_lib_updating"> Virus veritabanı güncelleniyor...</string>
-  <string name="virus_scanner_manual_update"> Güncelleme: %s </string>
+  <string name="virus_scanner_lib_already_latest">Virus veritabanı zaten güncel</string>
+  <string name="virus_scanner_lib_update_failed">Virus veritabanı güncelleme başarısız</string>
+  <string name="virus_scanner_lib_updating">Virus veritabanı güncelleniyor...</string>
+  <string name="virus_scanner_manual_update">Güncelleme: %s </string>
   <string name="virus_scanner_provider">Güvenlik sağlayıcısı: %s</string>
   <string name="virus_scanner_scan">Taramak için dokunun</string>
   <string name="virus_scanner_scanning">Taranıyor...</string>
@@ -1769,7 +1777,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wfd_available_devices">Kullanılabilir cihazlar</string>
   <string name="wfd_disconnect_diag_msg">Wi-Fi oturumunu kapatırsanız,%1$s bağlantısı sonlandırılacaktır.</string>
   <string name="wfd_disconnect_diag_title">Oturumu kapatmak istiyor musunuz?</string>
-  <string name="wfd_disconnect_multiple_diag_message">&gt;Wi-Fi oturumunu durdurursanız, %1$s ve %2$s bağlantısı sonlandırılacaktır.</string>
+  <string name="wfd_disconnect_multiple_diag_message">Wi-Fi oturumunu durdurursanız, %1$s ve %2$s bağlantısı sonlandırılacaktır.</string>
   <string name="wfd_enable_wifi_diag_title">Wi-Fi Gösterimini etkinleştirmek istiyor musunuz?</string>
   <string name="wfd_enabler_title">Wi-Fi Gösterimini etkinleştir</string>
   <string name="wfd_menu_search">Cihazları ara</string>
@@ -1839,7 +1847,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_priority_type_title">Elle AP önceliğini ayarlayın</string>
   <string name="wifi_quick_toggle_summary">Wi-Fi bağlantısını aç</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
-  <string name="wifi_required_info_text">Kurulumu tamamlamak için cihazınızın Wi-Fi\'ya bağlanması gerekiyor. Yüklemeden sonra, mobil data ve Wi-Fi arasında geçiş yapabilirsiniz.</string>
+  <string name="wifi_required_info_text">Kurulumu tamamlamak için cihazınızın Wi-Fi ağına bağlanması gerekiyor. Yüklemeden sonra, mobil data ve Wi-Fi arasında geçiş yapabilirsiniz.</string>
   <string name="wifi_save">Kaydet</string>
   <string name="wifi_scan_always_available">Kullanılabilir ağları tara</string>
   <string name="wifi_scan_always_available_summary">"Wi-Fi kapalı bile olsa, Google\'ın konum hizmeti ve diğer uygulamalar için ağ taraması yapar. "</string>
@@ -1865,8 +1873,8 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_setup_back">Geri</string>
   <string name="wifi_setup_cancel">İptal</string>
   <string name="wifi_setup_connect">Bağlan</string>
-  <string name="wifi_setup_description_connected">Kuruluma devam etmek için &lt;b&gt;İleri&lt;/b&gt;" butonuna dokunun.
-Farklı bir ağa bağlanmak için "&lt;b&gt;Geri&lt;/b&gt; butonuna dokunun.</string>
+  <string name="wifi_setup_description_connected">"Kuruluma devam etmek için "İleri" butonuna dokunun.
+Farklı bir ağa bağlanmak için "Geri" butonuna dokunun."</string>
   <string name="wifi_setup_eap_not_supported">Kurulum sırasında EAP Wi-Fi bağlantısı yapılandıramazsınız. Kurulumdan sonra Ayarlar &gt; Wi-Fi ve ağlar bölümünde bunu yapabilirsiniz.</string>
   <string name="wifi_setup_title">Wi-Fi Ayarları</string>
   <string name="wifi_setup_title_connected_network">%s  Wi-Fi ağına bağlandı</string>
@@ -1878,7 +1886,7 @@ Farklı bir ağa bağlanmak için "&lt;b&gt;Geri&lt;/b&gt; butonuna dokunun.</st
   <string name="wifi_share_action_turn_on">Wi-Fi ağını paylaş</string>
   <string name="wifi_share_action_turn_on_summary">Mi hesabınız ile giriş yapın</string>
   <string name="wifi_share_add">Wi-Fi ağımı paylaş</string>
-  <string name="wifi_share_add_summary">Wi-Fi ağlarınızı paylaştığınızda,  Diğer kullanıcıların ağlarını kullanabilirsiniz</string>
+  <string name="wifi_share_add_summary">Wi-Fi ağlarınızı paylaştığınızda, diğer kullanıcıların ağlarını kullanabilirsiniz</string>
   <string name="wifi_share_connect">Ağa bağlan</string>
   <string name="wifi_share_connected_summary">Başka bir kullanıcının paylaştığı bir Wi-Fi ağına bağlandınız</string>
   <string name="wifi_share_connected_title">MIUI ile paylaşılan Wi-Fi ağına bağlanıldı</string>
