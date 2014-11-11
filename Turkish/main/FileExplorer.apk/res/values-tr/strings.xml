@@ -53,10 +53,10 @@
   <string name="data_capacity">Alan: %1$s</string>
   <string name="decompress_cancel">İptal</string>
   <string name="decompress_confirm">Ayrıştır</string>
-  <string name="decompress_fail">Çıkartma başarısız: Aynı isimle bir dosya bulunmakta ya da arşiv bozulmuş olabilir.</string>
+  <string name="decompress_fail">Ayrıştırma başarısız: Aynı isimle bir dosya var ya da arşiv bozulmuş olabilir.</string>
   <string name="decompress_success">Ayrıştırma tamamlandı</string>
-  <string name="decompress_to">Ayrıştır...</string>
-  <string name="decompress_to_here">Buraya çıkart;</string>
+  <string name="decompress_to">Ayrıştırma yolunu seç:</string>
+  <string name="decompress_to_here">Buraya ayrıştır</string>
   <string name="delete_failed">Silinemedi!</string>
   <string name="delete_file">Dosyayı silmek istiyor musunuz?</string>
   <string name="delete_files">Seçilen %1$d dosyayı silmek istiyor musunuz?</string>

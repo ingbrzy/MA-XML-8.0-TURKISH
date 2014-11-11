@@ -35,9 +35,10 @@
   <string name="menu_settings">Ayarlar</string>
   <string name="message_file_size_error">%s için desteklenen maksimum kayıt süresine ulaşıldı</string>
   <string name="minute">%d dakika </string>
+  <string name="no_downloading_file">İndirilen dosya yok</string>
   <string name="no_file">Kayıt yok</string>
   <string name="notification_message_all_paused">Mobil veri kullanımı artabilir.</string>
-  <string name="notification_playback">Kayıt oynatılıyo...</string>
+  <string name="notification_playback">Kayıt oynatılıyor...</string>
   <string name="notification_recording">Kayıt ediliyor...</string>
   <string name="notification_recording_ticker">Telefon sessize alındı. Kaydediliyor...</string>
   <string name="notification_stopped">Kayıt durduruldu</string>

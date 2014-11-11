@@ -30,7 +30,7 @@
   <string name="button_unbind">Oturumu kapat</string>
   <string name="captcha">Kodu girin</string>
   <string name="change_account">Hesabı değiştir</string>
-  <string name="check_phone_error_title">Eşitleme aktif değil</string>
+  <string name="check_phone_error_title">Senkronize aktif değil</string>
   <string name="check_phone_io_error">Ağ hatası</string>
   <string name="checking_account">Şifre kontrol ediliyor...</string>
   <string name="checking_input">Girilen kontrol ediliyor...</string>
@@ -92,6 +92,7 @@
   <string name="login_step2_title">2 adım da doğrulama</string>
   <string name="login_title">Mi hesabınızla oturum açın</string>
   <string name="login_with_email_or_id">Başka bir hesapla oturum aç</string>
+  <string name="logout_failed">"Oturum kapatılamıyor!"</string>
   <string name="micloud_account">Mi Hesabı</string>
   <string name="micloud_account_details">Hesap bilgileri</string>
   <string name="micloud_account_label">Hesap: %1$s  </string>
@@ -178,7 +179,7 @@
   <string name="reg_using_other_phone_number_prompt">Başka bir telefon numarası kullanarak kayıt edin</string>
   <string name="reg_using_phone_number_prompt">Telefon numarası ile kayıt</string>
   <string name="reg_via_sms_alert">Etkinleştirme mesajı operatör tarafından tarifenize göre ücretlendirilecektir.</string>
-  <string name="reging">Hesap oluşturma...</string>
+  <string name="reging">Hesap oluşturuluyor...</string>
   <string name="register">Hesap oluşturun</string>
   <string name="register_account_goto_email">Gelen Kutusu\'na git</string>
   <string name="register_account_verified_confirm">Zaten doğrulanmış bir hesabınız var</string>
@@ -202,6 +203,7 @@
   <string name="skip_setup_account_title">Kurulumu geç</string>
   <string name="sync_off">Kapalı</string>
   <string name="sync_on">Açık</string>
+  <string name="timeout_retry">İstek zaman aşımına uğradı!</string>
   <string name="title_reg">Hesap oluşturun</string>
   <string name="trust_device">Bu cihaza güven</string>
   <string name="unactivated_user">Neredeyse bitti...</string>
