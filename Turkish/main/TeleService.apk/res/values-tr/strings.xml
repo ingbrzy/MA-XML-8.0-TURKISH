@@ -261,8 +261,8 @@
   <string name="empty_alert">%s gerekli, boş olamaz</string>
   <string name="empty_networks_list">Şebeke bulunamadı.</string>
   <string name="enable">Etkin</string>
-  <string name="enable_antispam_strange_summary">Bilinmeyen bir numaradan gelen ilk çağrıyı sessize al</string>
-  <string name="enable_antispam_strange_title">Yabancı çağrıları engelle</string>
+  <string name="enable_antispam_strange_summary">Bilinmeyen bir numaradan gelen ilk çağrıyı sustur</string>
+  <string name="enable_antispam_strange_title">İlk çağrıyı sustur</string>
   <string name="enable_disable_administrative">Yönetim</string>
   <string name="enable_disable_advertisements">Reklamlar</string>
   <string name="enable_disable_atr">Alan trafik raporları</string>
@@ -880,6 +880,7 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="updating_fdn_contact">Sabit arama numaraları güncelleniyor (FDN)...</string>
   <string name="updating_settings">Ayarlar güncelleniyor...</string>
   <string name="updating_title">Çağrı ayarlarını güncelle</string>
+  <string name="uplmn_numeric_is_empty">Şebeke ID kimliğini girin</string>
   <string name="username_title">Kullanıcı adı</string>
   <string name="ussdRunning">USSD kodu çalışıyor…</string>
   <string name="vibrate_on_ring_title">Çalınca titret</string>

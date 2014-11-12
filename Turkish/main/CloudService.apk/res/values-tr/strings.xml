@@ -6,7 +6,6 @@
   <string name="activating">Etkinleştiriliyor...</string>
   <string name="alert_notif_title_dspt">Senkronize edilemiyor</string>
   <string name="app_name">Mi Bulut</string>
-  <string name="app_sync_off">Uygulama senkronizasyonu kapalı</string>
   <string name="bad_authentication">Geçersiz kullanıcı adı veya parola</string>
   <string name="btn_return">Geri</string>
   <string name="button_cancel">İptal</string>
@@ -20,9 +19,6 @@
   <string name="cloud_sync_setting_summary_wlan">Sadece Wi-Fi : Bütün verileri sadece Wi-Fi  ile senkronize et</string>
   <string name="cmcc_micloud_dspt">Mi Bulut kullanarak verilerinizi senkronize edin, cihazını bulun.. </string>
   <string name="contact">Kişiler</string>
-  <string name="current">Geçerli</string>
-  <string name="data_syncing">Veri senkronizasyonu</string>
-  <string name="detail">Detaylar</string>
   <string name="disable_find_device_error">"Cihaz bulma servisi kapatılamıyor %1$s"</string>
   <string name="enableAll">Herşeyi senkronize et</string>
   <string name="enable_cloud_service_notification">"Bulut hizmeti açık değil"</string>
@@ -65,7 +61,6 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="flight_mode">Uçak modu</string>
   <string name="free_space_has_received">Bu ay zaten ücretsiz alan eklenmiş!</string>
   <string name="free_space_receive_fail">"Güncellenemiyor!"</string>
-  <string name="full_space">Boş alan yok</string>
   <string name="get_first_month_gb">%s ücretsiz alan alın</string>
   <string name="get_this_month_gb">Bu ay %s ücretsiz alan alın</string>
   <string name="google_100gb">100GB</string>
@@ -75,8 +70,6 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="header_data_and_synchronization">Veri ve Senkronizasyon</string>
   <string name="header_other_settings">İlave ayarlar</string>
   <string name="i_know">Tamam</string>
-  <string name="internet">Internet</string>
-  <string name="internet_disconnected">Internet bağlantısı kesildi</string>
   <string name="less_flow_mode">Veri tasarrufu</string>
   <string name="license_host_unreachable">"Ağa bağlanamıyor. Bu bilgiyi şimdi görüntülemek için buraya gidin: %s."</string>
   <string name="loading">Yükleniyor…</string>
@@ -156,7 +149,6 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="next">İleri</string>
   <string name="noRemind">"Tekrar hatırlatma"</string>
   <string name="no_sim">SIM Kart bulunamadı</string>
-  <string name="normal">Normal</string>
   <string name="only_in_wlan">Sadece Wi-Fi  ile</string>
   <string name="other_settings">Diğer ayarlar</string>
   <string name="password">Şifrenizi girin</string>
@@ -178,7 +170,6 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="sub_alert_notif_title">"Senkronize edilemiyor"</string>
   <string name="sub_sync_item_sms_summary">"Bir Wi-Fi ağına bağlandığınız da sadece resim, foto, ses gibi medya dosyaları senkronize edilecektir"</string>
   <string name="sub_sync_item_sms_title_wifi_only">MMS senkronize için yalnızca Wi-Fi kullan</string>
-  <string name="sync">Senkronizasyon</string>
   <string name="sync_dspt">Senkronizasyonu etkinleştir</string>
   <string name="sync_dspt_provision">"Mi Bulut; fotoğraflarınızı, SMS, notlar ve daha fazlasını  Mi Telefonunuz ile senkronize eder. Ayrıca herhangi bir tarayıcıdan bu verilere erişebilirsiniz. "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
@@ -217,9 +208,6 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="vcode">Doğrulama kodu</string>
   <string name="verify">Doğrula</string>
   <string name="view_storage_title">Depolama alanı</string>
-  <string name="wifi">Wi-Fi</string>
-  <string name="wifi_disconnected">Wi-Fi bağlantısı yok</string>
-  <string name="wifi_sync">Wi-Fi senkronizasyonu</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xmpp_server_addr"/>

@@ -22,6 +22,7 @@
   <string name="duration_format_second">%ssn</string>
   <string name="error_app_internal">Herhangi bir uygulama ses kaydediciyi kullanıyor olabilir. Lütfen tekrar kontrol ediniz.</string>
   <string name="error_app_internal_title">Ses kaydedici hatası</string>
+  <string name="error_file_access">"Dosya yok ya da bozuk!"</string>
   <string name="error_filename_illegal_char">Dosya ismi desteklenmeyen karakter içeriyor.</string>
   <string name="error_filename_too_long">Dosya adı çok uzun</string>
   <string name="error_sdcard_access">Harici ve dahili depolama alanına erişilemiyor</string>

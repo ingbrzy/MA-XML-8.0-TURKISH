@@ -11,6 +11,16 @@
   <string name="cit_accelermeter_sensor_check_summary">Cihazı hızlı bir şekilde tek bir doğrultuda hareket ettirin. X, Y, Z koordinat değerleri aşağıda gösterilmiştir.
 (Telefon hareket halindeyken: X sağ/sol yönlerini, Y Ön/Arka yönlerini, Z Aşağı/Yukarı yönlerini temsil etmektedir).\nCihaz kalibrasyonunu yapmadan önce düz bir zemine yerleştirin.</string>
   <string name="cit_accelermeter_sensor_check_title">İvmeölçer</string>
+  <string name="cit_aud_spkcal">Kalibrasyon</string>
+  <string name="cit_audio_cali_done">Kalibrasyon tamam!</string>
+  <string name="cit_audio_cali_failed">Kalibrasyon başarısız!</string>
+  <string name="cit_audio_cali_file_existed">Müzik dosyası yok, kalibrasyon yapılamaz!</string>
+  <string name="cit_audio_cali_playing">Kalibrasyon için butona basın</string>
+  <string name="cit_audio_cali_summary">PA hoparlör kalibrasyonu</string>
+  <string name="cit_audio_cali_title">PA hoparlör kalibrasyon testi</string>
+  <string name="cit_audio_cali_valueF0">F0:</string>
+  <string name="cit_audio_cali_valueR">Impedance:</string>
+  <string name="cit_audio_cali_valueT">tCoef:</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Arkaplan Mikrofon ses vericisi testi</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Arkaplan Mikrofon ses vericisi testi</string>
   <string name="cit_audio_lb_phonecall_title">Çağrı test simülasyonu</string>
