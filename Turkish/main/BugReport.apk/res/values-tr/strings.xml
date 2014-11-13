@@ -26,15 +26,15 @@
   <string name="discard_draft_dialog_button_discard">Vazgeç</string>
   <string name="discard_draft_dialog_content">"Bu raporda yaptığınız değişiklikler kaybedilecektir."</string>
   <string name="discard_draft_dialog_title">Taslak iptal edilsin mi?</string>
-  <string name="err_type">Hatanın türü</string>
+  <string name="err_type">Hata türü</string>
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Kamera</string>
-  <string name="err_type_nonsystemapp">Diğer uygulamalar</string>
+  <string name="err_type_nonsystemapp">Uygulamalar</string>
   <string name="err_type_power_consuming">Güç tüketimi</string>
-  <string name="err_type_reboot">Tekrar başlatma</string>
+  <string name="err_type_reboot">T.Başlatma</string>
   <string name="err_type_signal">Ağ sorunları</string>
   <string name="err_type_suggestion">Öneriler</string>
-  <string name="err_type_systemapp">MIUI uygulamaları</string>
+  <string name="err_type_systemapp">Sistem</string>
   <string name="err_type_wifi">Wi-Fi</string>
   <string name="hot_problem">Genel hataları göster</string>
   <string name="loading_apps">Liste oluşturuluyor...</string>
@@ -84,6 +84,6 @@
   <string name="wifi_problem4">"Ağa bağlanılamıyor"</string>
   <string name="wlan_unavailable_dialog_button_ok">Bekle</string>
   <string name="wlan_unavailable_dialog_button_sent">Gönder</string>
-  <string name="wlan_unavailable_dialog_content">"Raporunuzu göndermek %s miktarda veri kullanımına sebep olacaktır. Raporun Wi-Fi ağına bağlanıldığında  gönderilmesi için lütfen Bekle tuşuna tıklayın."</string>
+  <string name="wlan_unavailable_dialog_content">"Raporunuzu göndermek %s veri kullanımına sebep olacaktır. Raporun Wi-Fi ağına bağlanıldığında  gönderilmesi için lütfen Bekle tuşuna tıklayın."</string>
   <string name="wlan_unavailable_dialog_title">"Veri kullanımı"</string>
 </resources>
