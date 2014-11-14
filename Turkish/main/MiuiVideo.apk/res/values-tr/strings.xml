@@ -38,6 +38,7 @@
   <string name="buffering">Yükleniyor...</string>
   <string name="buffering_video_netplay_label_v5">Yükleniyor...</string>
   <string name="cancel">İptal</string>
+  <string name="cancel_button">İptal</string>
   <string name="cancel_favorite_success">Favorilerden kaldırıldı</string>
   <string name="channel_choice_empty_hint">Boş</string>
   <string name="channel_empty_hint">Boş</string>
@@ -132,6 +133,8 @@
   <string name="gong_count_xiang">%d öğe</string>
   <string name="good">Tamam</string>
   <string name="guess_you_like">Önerilen</string>
+  <string name="hint_can_not_get_source_info">"Video bilgisi alınamıyor"</string>
+  <string name="hint_without_selected_set">Otomatik olarak içerik kaynağını bul</string>
   <string name="hot_recommend">Trend</string>
   <string name="icntv">iCNTV</string>
   <string name="imports">İçe aktar</string>
@@ -187,6 +190,7 @@
   <string name="ok">Tamam</string>
   <string name="online_video">Online</string>
   <string name="other_setting">Diğer</string>
+  <string name="partner_specials">Ortak içerik</string>
   <string name="pause">Duraklat</string>
   <string name="percent_status">%.1f%%</string>
   <string name="pick_addon_to_delete">öge seçin</string>
@@ -222,6 +226,7 @@
   <string name="see_all_count_comment">%d yorum daha</string>
   <string name="select_all">Tümünü seç</string>
   <string name="select_count_xiang">%d Seçildi</string>
+  <string name="select_media_source">Kaynağı seç</string>
   <string name="select_none">Hiçbirini seçme</string>
   <string name="select_offline_media">İndirilenleri görüntüle</string>
   <string name="select_tv">Kanal seç</string>
@@ -258,7 +263,12 @@
   <string name="unfavorite">Favorilerden çıkar</string>
   <string name="unknown_source">Bilinmeyen kaynak</string>
   <string name="update">Güncellendi</string>
+  <string name="update_apk_statusbar">İndiriliyor…</string>
+  <string name="update_button">Güncelle</string>
+  <string name="update_size_prefix">Boyut:</string>
+  <string name="update_title">Yeni güncelleme var</string>
   <string name="update_to_count_ji">%d. bölüme güncellendi</string>
+  <string name="update_version_prefix">Güncellenecek sürüm:</string>
   <string name="updatedalready">Güncellendi</string>
   <string name="upgrade">Güncelle</string>
   <string name="use_cellular_network">Mobil veri bağlantısı kullanın</string>

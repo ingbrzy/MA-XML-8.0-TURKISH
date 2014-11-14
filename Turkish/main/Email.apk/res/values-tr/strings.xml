@@ -809,4 +809,24 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="wrong_password">Şifre yanlış!</string>
   <string name="yes">Evet</string>
   <string name="zip_viewer_no_file">Dosya yok!</string>
+   <string name="account_settings_chat_mode_enable">Sohbet Modu</string>
+  <string name="account_settings_chat_mode_summary">E-posta grubunu birleştirme ve sohbet moduna girmek için tıklayın</string>
+  <string name="attachment_bar_title">Ekler</string>
+  <string name="body_forward_email_text">[Yönlendir]</string>
+  <string name="body_inline_pic_text">[resim]</string>
+  <string name="chat_item_msg_people_unit">Kişi</string>
+  <string name="chat_item_msg_user_etc">…</string>
+  <string name="chat_item_msg_user_saying">söyledi:</string>
+  <string name="chat_view_description">Sohbet listesini birleştir</string>
+  <string name="chat_view_quote_text">-----Alıntı Metni-----</string>
+  <string name="chat_view_retract_quote_text">---Alıntı Metnini Gizle---</string>
+  <string name="chat_view_title">Sohbetleri göster</string>
+  <string name="download_show_image">Resimleri indir ve göster</string>
+  <string name="more_context">Daha</string>
+  <string name="no_content_in_body">[İçerik yok]</string>
+  <string name="quick_reply_hint">%1$d kişiye cevapla</string>
+  <string name="quick_reply_hint_bcc">( BCC)</string>
+  <string name="quick_reply_hint_cc">( CC)</string>
+  <string name="switch_as_tranditional_view">Geleneksel görünüm</string>
+  <string name="tip_cannot_switchview_in_unread_folder">Okunmamış mail toplama modun görünümü arasında geçiş yapılamıyor</string>
 </resources>
