@@ -79,6 +79,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="allow_bind_app_widget_activity_always_allow_bind">Always allow %1$s to create widgets and access their data</string>
   <string name="allow_mock_location">Sahte konumlara izin ver</string>
   <string name="allow_mock_location_summary"/>
+  <string name="alpha_build">" | Alfa Sürümü"</string>
   <string name="android_beam_disabled_summary">NFC içerik paylaşımı için NFC\'nin etkin olması gerekir</string>
   <string name="android_beam_explained">Bir cihazı diğer cihaza dokundurarak (arka arkaya) bir web sayfası, video veya farklı bir içeriği bir cihazdan diğer cihaza ışınlayabilirsiniz. </string>
   <string name="android_beam_off_summary">NFC içerik paylaşımı devre dışı </string>
@@ -578,6 +579,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="default_usb_mode">Varsayılan USB bağlantı modu</string>
   <string name="dev_settings_warning_message">Bu seçenek geliştirime amaçlıdır. Yanlış işlem yapmanız cihaz ya da uygulamanın cevap vermemesine neden olabilir.</string>
   <string name="dev_settings_warning_title">Geliştirici ayarlarına izin verilsin mi?</string>
+  <string name="developer_build">" | Geliştirici Sürümü"</string>
   <string name="development_enable">Geliştirici seçenekleri</string>
   <string name="development_settings_not_available">Bu kullanıcı için etkinleştirilemez</string>
   <string name="development_settings_summary">Uygulama geliştirme için seçenekleri ayarla</string>
@@ -600,10 +602,10 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="device_info_settings">Telefon durumu</string>
   <string name="device_internal_memory">Dahili hafıza</string>
   <string name="device_memory">RAM</string>
-  <string name="device_miui_version">miuiturkiye.net/C.Madencan:</string>
+  <string name="device_miui_version">MIUI Sürümü:</string>
   <string name="device_name">Cihaz adı</string>
   <string name="device_name_input_hint">Cihazınızın adını girin</string>
-  <string name="device_name_usage_point">Bu ad yakınında diğer Bluetooth cihazları için görünür olacaktır.</string>
+  <string name="device_name_usage_point">Bu ad yakınındaki diğer Bluetooth cihazları için görünür olacaktır.</string>
   <string name="device_picker">Bluetooth cihazı seçicisi</string>
   <string name="device_sd_memory">SD kart:</string>
   <string name="device_status">Durum</string>
@@ -1032,6 +1034,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="multi_touch_points_category_title">Çoklu Dokunma noktaları</string>
   <string name="music_HiFi_title">Hi-Fi Ses</string>
   <string name="multi_touch_points_preference">Etkinleştirmek için yeniden başlat</string>
+  <string name="music_dirac_control">Optimize audio quality</string>
   <string name="music_dirac_mode_general_earbuds">General earbuds</string>
   <string name="music_dirac_mode_general_inear">General inear</string>
   <string name="music_dirac_mode_in_ear">Mi in-ear headphones</string>
@@ -1481,6 +1484,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="spellchecker_quick_settings">Ayarlar</string>
   <string name="spellchecker_security_warning">Bu yazım denetleyici, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yazım denetleyici, %1$s uygulamasından gelmektedir. Bu yazım denetleyiciyi kullanmak istiyor musunuz?</string>
   <string name="spellcheckers_settings_title">Yazım düzeltme</string>
+  <string name="stable_build">" | Stabil Sürüm"</string>
   <string name="status_bar_and_notification_bar">Bildirimler ve durum çubuğu</string>
   <string name="status_bar_filter_item_description">Bildirimleri yapılandırmak için Ayarlar &gt; Durum çubuğu &gt; Bildirimleri Yönet sekmesine gidiniz.</string>
   <string name="status_bar_filter_item_preview_image">Önizleme</string>
@@ -1498,7 +1502,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="status_bar_settings_custom_notification">Bildirimleri yönet</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fi adını düzenle</string>
   <string name="status_bar_settings_expandable_under_keyguard">Kilit ekranında göster</string>
-  <string name="status_bar_settings_long_click_sort">Sıralamak için uzun basın</string>
+  <string name="status_bar_settings_long_click_sort">Değiştirmek için uzun basın ve sürükleyin</string>
   <string name="status_bar_settings_no_carrier">Hiçbiri</string>
   <string name="status_bar_settings_notification_bar">Durum çubuğu</string>
   <string name="status_bar_settings_show_carrier">Servis sağlayıcısını göster</string>
@@ -1517,7 +1521,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="status_bar_settings_toggle_layout_style_applying">Stil değiştiriliyor...</string>
   <string name="status_bar_settings_toggle_layout_style_compact">Durum çubuğu</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Sayfa</string>
-  <string name="status_bar_settings_toggle_position">Geçiş pozisyonları</string>
+  <string name="status_bar_settings_toggle_position">Geçiş konumlarını değiştir</string>
   <string name="status_bar_style_settings">Bildirimler</string>
   <string name="status_bar_toggle_arrangement">Geçişleri Düzenle</string>
   <string name="status_bt_address">Bluetooth adresi</string>
@@ -2004,7 +2008,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="zone_auto_summaryOn">Ağ tarafından sağlanan saat dilimini kullan</string>
   <string name="zone_list_menu_sort_alphabetically">Alfabetik sırala</string>
   <string name="zone_list_menu_sort_by_timezone">Zaman dilimine göre sırala</string>
-  <string name="alpha_build">" | Alfa Sürümü"</string>
-  <string name="developer_build">" | Geliştirici Sürümü"</string>
-  <string name="stable_build">" | Stabil Sürüm"</string>
+  
+  
+  
 </resources>

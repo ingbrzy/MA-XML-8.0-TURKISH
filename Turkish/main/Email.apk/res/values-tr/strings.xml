@@ -31,6 +31,8 @@
   <string name="account_settings_action">Hesap Ayarları</string>
   <string name="account_settings_background_attachments_label">Ekleri indir</string>
   <string name="account_settings_background_attachments_summary">Wi-Fi ile son mesajların eklerini otomatik indir</string>
+  <string name="account_settings_chat_mode_enable">Sohbet Modu</string>
+  <string name="account_settings_chat_mode_summary">E-posta grubunu birleştirme ve sohbet moduna girmek için tıklayın</string>
   <string name="account_settings_data_usage">Veri kullanımı</string>
   <string name="account_settings_description_label">Hesap Adı</string>
   <string name="account_settings_edit_quick_responses_label">Hızlı Cevap</string>
@@ -208,6 +210,7 @@
   <string name="attachment_application_vnd_ms_excel">Tablo</string>
   <string name="attachment_application_vnd_ms_powerpoint">Sunum</string>
   <string name="attachment_audio">Ses</string>
+  <string name="attachment_bar_title">Ekler</string>
   <string name="attachment_canceling">İptal ediliyor, lütfen bekleyin!</string>
   <string name="attachment_download_all">Hepsini indir</string>
   <string name="attachment_decoding">Ek indirildi, çözümlenirken lütfen bekleyin...</string>
@@ -231,6 +234,8 @@
   <string name="bcc_heading">"Bcc: "</string>
   <string name="blank_feedback_toast">Görüşler kısmı boş olamaz!</string>
   <string name="body_hint">E-posta yaz</string>
+  <string name="body_forward_email_text">[Yönlendir]</string>
+  <string name="body_inline_pic_text">[resim]</string>
   <string name="button_bind_phone">Bağla</string>
   <string name="button_count_down_reget">Doğrulama kodu alın (%1$s)</string>
   <string name="button_reget">Doğrulama kodu alın</string>
@@ -249,7 +254,14 @@
   <string name="change_account_type">Hesap türünü değiştir</string>
   <string name="change_folders_selection_dialog_title">Klasörleri değiştir</string>
   <string name="change_sync_settings">Senk ayarlarını değiştir</string>
+  <string name="chat_item_msg_people_unit">Kişi</string>
+  <string name="chat_item_msg_user_etc">…</string>
+  <string name="chat_item_msg_user_saying">söyledi:</string>
   <string name="chat_type_name">konuşma</string>
+  <string name="chat_view_description">Sohbet listesini birleştir</string>
+  <string name="chat_view_quote_text">-----Alıntı Metni-----</string>
+  <string name="chat_view_retract_quote_text">---Alıntı Metnini Gizle---</string>
+  <string name="chat_view_title">Sohbetleri göster</string>
   <string name="check_setup_data">Sunucu ayarları doğrulanıyor…</string>
   <string name="checking_for_mail">Posta kontrol ediliyor</string>
   <string name="checking_message">Sürüm kontrol ediliyor…</string>
@@ -339,6 +351,7 @@
   <string name="download_confirm_title">İndirme onayı</string>
   <string name="download_failed">"İndirilemedi, tekrar denemek için dokunun"</string>
   <string name="download_now">Hemen İndir</string>
+  <string name="download_show_image">Resimleri indir ve göster</string>
   <string name="downloading">İndiriliyor...</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Gezinti çekmecesini kapat</string>
@@ -377,10 +390,22 @@
   <string name="flow_saved_preference_total">Tasarruf: %1$s.</string>
   <string name="folder_drafts_name_en0">Taslaklar</string>
   <string name="folder_drafts_name_en1">Taslak</string>
+  <string name="folder_drafts_name_en2">[Gmail]/Taslaklar</string>
   <string name="folder_icon_desc">Klasör simgesi</string>
+  <string name="folder_junk_name_en0">Önemsiz</string>
+  <string name="folder_junk_name_en1">Toplu posta</string>
   <string name="folder_picker_title">Klasör seçici</string>
   <string name="folder_removed">%1$s \'den kaldırıldı</string>
+  <string name="folder_sent_name_en0">Gönderilen</string>
+  <string name="folder_sent_name_en1">Gönderilen Mesajlar</string>
+  <string name="folder_sent_name_en2">Gönderilen Mesaj</string>
+  <string name="folder_sent_name_en3">Gönderilen öğeler</string>
+  <string name="folder_sent_name_en4">[Gmail]/Gönderilen posta</string>
   <string name="folder_shortcut_widget_label">E-posta klasörü</string>
+  <string name="folder_trash_name_en0">Çöp</string>
+  <string name="folder_trash_name_en1">Silinen mesajlar</string>
+  <string name="folder_trash_name_en2">Silinen mesaj</string>
+  <string name="folder_trash_name_en3">[Gmail]/Çöp</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
   <string name="formatted_subject">%1$s%2$s</string>
   <string name="forward">Yönlendir</string>
@@ -521,6 +546,7 @@ CC: %4$s
   <string name="message_view_attachment_background_load">Yönlendirilen mesajda bir veya daha fazla ek var.</string>
   <string name="more_atts_remaining">%1$d ek kaldı</string>
   <string name="more_atts_total">Toplam %1$d ek</string>
+  <string name="more_context">Daha</string>
   <string name="more_info_attachment">Bilgi</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Başka klasöre taşındı</string>
@@ -535,6 +561,7 @@ CC: %4$s
   <string name="next_action">Sonraki</string>
   <string name="no">Hayır</string>
   <string name="no_application_found">Bu dosyayı açacak ya da görüntüleyecek uygulama yok.</string>
+  <string name="no_content_in_body">[İçerik yok]</string>
   <string name="no_conversations">Mesaj yok.</string>
   <string name="no_display_this_version">Bu sürümü gösterme</string>
   <string name="no_enough_space">Yeterli boş alan yok!</string>
@@ -655,7 +682,14 @@ CC: %4$s
   <string name="quick_2">Bu iyi geliyor!</string>
   <string name="quick_3">"Ben daha sonra okuyacağım ve ben size haber vereceğim.."</string>
   <string name="quick_4">"Bu konuyu görüşmek üzere bir toplantı ayarlayalım."</string>
+  <string name="quick_reply_hint">%1$d kişiye cevapla</string>
+  <string name="quick_reply_hint_bcc">( BCC)</string>
+  <string name="quick_reply_hint_cc">( CC)</string>
   <string name="quick_responses_empty_view">Hızlı cevap yok.</string>
+  <string name="quote_divider_6">---Orjinal---</string>
+  <string name="quote_divider_7">Orjinal Mesaj</string>
+  <string name="quote_divider_ks_web">________________________________________</string>
+  <string name="quote_divider_qq_en">------------------ Orjinal ------------------</string>
   <string name="quoted_text">Alıntı metni içeriyor</string>
   <string name="quoted_text_label">Alıntı metni</string>
   <string name="read_string">Sohbet okundu</string>
@@ -742,6 +776,8 @@ CC: %4$s
   <string name="sms_code_hint">Doğrulama kodu</string>
   <string name="sort_attachment">Sırala</string>
   <string name="spaceChar">" "</string>
+  <string name="special_text_5">yazdı:</string>
+  <string name="special_text_sender_en">gönderen</string>
   <string name="start_download">İndirmeyi başlat</string>
   <string name="status_network_error">Ağ bağlantısı hatası!</string>
   <string name="storage">Depolama</string>
@@ -753,6 +789,7 @@ CC: %4$s
   <string name="summary_bind_phone">Hesabınızı korumak için, telefon numaranızı bağladıktan sonra ödeme tamamlanır.</string>
   <string name="summary_sms_code">Hesabınızı korumak için, doğrulama kodunu girin ve ödeme işlemini tamamlayın.</string>
   <string name="swipe_down_to_refresh">Yenilemek için aşağı kaydırın</string>
+  <string name="switch_as_tranditional_view">Geleneksel görünüm</string>
   <string name="sync_error">"senkronize edilemedi!"</string>
   <string name="sync_error_message">"Senkronize için cihazınızda yeterli boş alan yok!"</string>
   <string name="system_account_create_failed">"Hesap oluşturulamadı, lütfen tekrar deneyin!"</string>
@@ -768,6 +805,7 @@ CC: %4$s
   <string name="tap_to_configure_folder_sync">Senkronize klasörü</string>
   <string name="tap_to_enable_sync">Açmak için dokunun.</string>
   <string name="time_error">Zaman hatası!</string>
+  <string name="tip_cannot_switchview_in_unread_folder">Okunmamış mail toplama modun görünümü arasında geçiş yapılamıyor</string>
   <string name="title_bind_phone">Telefon numaralarını bağlama.</string>
   <string name="title_sms_code">Doğrulama kodunu girin</string>
   <string name="to">Kime</string>
@@ -809,24 +847,13 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="wrong_password">Şifre yanlış!</string>
   <string name="yes">Evet</string>
   <string name="zip_viewer_no_file">Dosya yok!</string>
-   <string name="account_settings_chat_mode_enable">Sohbet Modu</string>
-  <string name="account_settings_chat_mode_summary">E-posta grubunu birleştirme ve sohbet moduna girmek için tıklayın</string>
-  <string name="attachment_bar_title">Ekler</string>
-  <string name="body_forward_email_text">[Yönlendir]</string>
-  <string name="body_inline_pic_text">[resim]</string>
-  <string name="chat_item_msg_people_unit">Kişi</string>
-  <string name="chat_item_msg_user_etc">…</string>
-  <string name="chat_item_msg_user_saying">söyledi:</string>
-  <string name="chat_view_description">Sohbet listesini birleştir</string>
-  <string name="chat_view_quote_text">-----Alıntı Metni-----</string>
-  <string name="chat_view_retract_quote_text">---Alıntı Metnini Gizle---</string>
-  <string name="chat_view_title">Sohbetleri göster</string>
-  <string name="download_show_image">Resimleri indir ve göster</string>
-  <string name="more_context">Daha</string>
-  <string name="no_content_in_body">[İçerik yok]</string>
-  <string name="quick_reply_hint">%1$d kişiye cevapla</string>
-  <string name="quick_reply_hint_bcc">( BCC)</string>
-  <string name="quick_reply_hint_cc">( CC)</string>
-  <string name="switch_as_tranditional_view">Geleneksel görünüm</string>
-  <string name="tip_cannot_switchview_in_unread_folder">Okunmamış mail toplama modun görünümü arasında geçiş yapılamıyor</string>
+
+  
+ 
+  
+  
+  
+
+
+
 </resources>
