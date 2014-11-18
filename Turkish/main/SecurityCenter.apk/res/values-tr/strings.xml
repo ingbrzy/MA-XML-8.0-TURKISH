@@ -106,7 +106,7 @@
   <string name="button_text_view">Görüntüle</string>
   <string name="button_text_view_detail">Ayrıntılar</string>
   <string name="button_text_view_file">Dosya</string>
-  <string name="button_text_view_power">Gücü göster</string>
+  <string name="button_text_view_power">Pili göster</string>
   <string name="cache_check_content">%1$d uygulama, önbellek %2$s</string>
   <string name="cache_header_title">%2$s alan açmak için %1$d dosyayı temizleyin</string>
   <string name="cache_sort_type_item_name">İsme göre sırala</string>
@@ -417,7 +417,7 @@
   <string name="power_dialog_cancel">İptal</string>
   <string name="power_dialog_cpu_state_balance">Dengeli Mod</string>
   <string name="power_dialog_cpu_state_balance_desc">Sadece ihtiyaç olduğunda CPU performansını yükselt</string>
-  <string name="power_dialog_cpu_state_performance">Yüksek performans</string>
+  <string name="power_dialog_cpu_state_performance">Performans Modu</string>
   <string name="power_dialog_cpu_state_performance_desc">Performansı pilden üstün tut</string>
   <string name="power_dialog_cpu_state_save">Pil tasarrufu</string>
   <string name="power_dialog_cpu_state_save_desc">Pil süresini performanstan üstün tut</string>
@@ -437,6 +437,7 @@
   <string name="power_dialog_screen_brightness_title">Parlaklık</string>
   <string name="power_dialog_sleep_title">Uyku</string>
   <string name="power_dialog_vibration_title">Titreşim</string>
+  <string name="power_dialog_wifi_title">Wi-Fi</string>
   <string name="power_exitlowbattery_whencharge">Takılı olduğunda devre dışı</string>
   <string name="power_idle">"Telefon bekleme"</string>
   <string name="power_mode_airplane_mode">Uçak Modu</string>
@@ -458,6 +459,7 @@
   <string name="power_mode_cpu_state_save_desc">Pil süresini performanstan üstün tutar</string>
   <string name="power_mode_gps">GPS</string>
   <string name="power_mode_internet">2G/3G</string>
+  <string name="power_mode_keep_state">Mevcut durumu koru</string>
   <string name="power_mode_my_mode">Profilim</string>
   <string name="power_mode_my_mode_summary">Geçerli pil ayarların kaydet</string>
   <string name="power_mode_screen_brightness">Parlaklık</string>
@@ -469,13 +471,13 @@
   <string name="power_mode_sleep_never">Asla</string>
   <string name="power_mode_switch_off">Kapalı</string>
   <string name="power_mode_switch_on">Açık</string>
-  <string name="power_mode_synchronization">Senk</string>
+  <string name="power_mode_synchronization">Senkronizasyon</string>
   <string name="power_mode_touch_with_ring">Dokununma sesleri</string>
   <string name="power_mode_touch_with_vibration">Dokununca titret</string>
   <string name="power_mode_vibration">Titreşim</string>
   <string name="power_mode_vibration_no">Asla</string>
   <string name="power_mode_vibration_silence">Zil sesi susturulduğunda</string>
-  <string name="power_mode_vibration_yes">Her Zaman</string>
+  <string name="power_mode_vibration_yes">Her zaman</string>
   <string name="power_mode_wifi">Wi-Fi</string>
   <string name="power_new_choose_mode">Profili seçin</string>
   <string name="power_notify_lowbattery">Pil seviyesi: %1$d%%</string>

@@ -67,7 +67,7 @@
   <string name="confirm_delete_locked_message">Bu kilitli mesajı silmek istediğinizden emin misiniz?</string>
   <string name="confirm_delete_message">Bu mesaj silinsin mi?</string>
   <string name="confirm_dialog_locked_title">Kilitli mesajlar silinsin mi?</string>
-  <string name="confirm_dialog_title">Sil?</string>
+  <string name="confirm_dialog_title">SİLME İŞLEMİNİ ONALAYIN</string>
   <string name="confirm_dlg__msg">CMCC uyarı: Eğer şimdi iptal ederseniz CMCC ücretsiz postalama servisinden yararlanamayacaksınız. İptal etmek istediğinize emin misiniz?</string>
   <string name="confirm_dlg_title">Cihaz Yönetimi</string>
   <string name="confirm_export_dialog_description">Seçilen özel kişiyi silmek istiyormusunuz</string>
@@ -104,7 +104,7 @@
   <string name="delete">Sil</string>
   <string name="delete_bookmark">Favoriyi kaldır</string>
   <string name="delete_message">Sil</string>
-  <string name="delete_phrase">Şablon sil</string>
+  <string name="delete_phrase">Şablonu sil</string>
   <string name="delete_unlocked">Kilitli mesajları sil</string>
   <string name="delivery_report_activity">İletim raporu</string>
   <string name="delivery_toast_body">Mesaj %s tarafından alındı.</string>
@@ -125,7 +125,7 @@
   <string name="edit">Düzenle</string>
   <string name="edit_nickname_for_nocontact">Önce bir alıcı eklemeniz gerekiyor</string>
   <string name="edit_nickname_for_nocontact_by_robot">Önce bir alıcı eklemeniz gerekiyor</string>
-  <string name="edit_phrase">Şablon Düzenle</string>
+  <string name="edit_phrase">Şablonu Düzenle</string>
   <string name="edit_slide_activity">Slaydı düzenle</string>
   <string name="edit_slideshow_activity">Slayt gösterisini düzenle</string>
   <string name="enable_password_protect">Şifre korumasını etkinleştir</string>
@@ -141,19 +141,19 @@
   <string name="exceed_message_size_limitation">Mesaj boyutu sınırına ulaşıldı.</string>
   <string name="expire_on">"Sona erme tarihi: %s"</string>
   <string name="exporting_progress_private_message">Mesajlar dışa aktarılıyor...</string>
-  <string name="failed_to_add_media">Bu %1$s öğesini mesajınıza ekleyemezsiniz.</string>
+  <string name="failed_to_add_media">%1$s öğesini mesajınıza ekleyemezsiniz.</string>
   <string name="failed_to_resize_image">Resim boyutlandırılamadı.</string>
   <string name="fdn_check_failure">Sadece sabit arama numaralarınıza mesaj gönderebilirsiniz</string>
   <string name="feedback_description_hint">Mesajınızı buraya yazın</string>
   <string name="feedback_submit">Geri bildirim gönder</string>
   <string name="festival">Hızlı cevap</string>
   <string name="festival_continue">Tamam</string>
-  <string name="festival_networking_desc">Bu özelliğin düzgün çalışması için internet bağlantısı gerekli.</string>
+  <string name="festival_networking_desc">Bu özelliğin düzgün çalışması için internet bağlantısı gerekiyor.</string>
   <string name="festival_never_remind">"Tekrar gösterme."</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Yükleniyor...</string>
   <string name="fetion_prefix">[Fetion]</string>
-  <string name="file_create_time">Oluşturuldu:</string>
+  <string name="file_create_time">Oluşturma tarihi:</string>
   <string name="file_share_message_description">Sizinle bir dosya paylaşmak istiyorum.</string>
   <string name="file_size">Boyut:</string>
   <string name="file_title">İsim:</string>
@@ -161,7 +161,7 @@
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_from">İleten:</string>
   <string name="forward_prefix">ILT:</string>
-  <string name="found_old_messages">%1$s\'dan %2$s?\'ya kadar olan mesajlar yüklensin mi?</string>
+  <string name="found_old_messages">%1$s - %2$s arasındaki  kadar olan mesajlar yüklensin mi?</string>
   <string name="found_old_messages_title">Diğer SIM kartlarınızdaki mesajlar yüklensin mi?</string>
   <string name="found_wild_messages">Aşağıdaki numaralardan gelen mesajlar Mi Bulut içinde depolanmıştır. %s şimdi hepsi indirilsin mi?</string>
   <string name="found_wild_messages_title">Mesajları indir</string>
@@ -189,7 +189,7 @@
   <string name="loading_mms">Yükleniyor......</string>
   <string name="manage_permission_app_label">Cihaz Yönetimi İzinleri</string>
   <string name="me">Ben</string>
-  <string name="menu_add_black">Add Black</string>
+  <string name="menu_add_black">Engelle</string>
   <string name="menu_add_contact">Kişi ekle</string>
   <string name="menu_call">Ara</string>
   <string name="menu_compose_new">Oluştur</string>
@@ -216,7 +216,7 @@
   <string name="message_queued">Şu an mesajınız gönderilemiyor. Hizmet kullanılabilir olduğunda gönderilecektir.</string>
   <string name="message_readed">Oku</string>
   <string name="message_received">Alındı</string>
-  <string name="message_rejected">Reddedilen</string>
+  <string name="message_rejected">Reddedildi</string>
   <string name="message_saved_as_draft">Mesaj taslak olarak kaydedildi.</string>
   <string name="message_send_failed_title">Mesaj gönderilmedi</string>
   <string name="message_send_read_report">Okundu raporu gönderilecek</string>
@@ -263,7 +263,7 @@
   <string name="mx_enable_int_popup_msg">Mi Mesaj ile herhangi bir MIUI kullanıcısına ücretsiz mesaj gönderebilirsiniz. Wi-Fi\'ya bağlı olmadığınız takdirde veri kullanımı ücretine tabi olacaktır.</string>
   <string name="mx_enable_popup_msg">Mi Mesaj ile herhangi bir MIUI kullanıcısına ücretsiz mesaj gönderebilirsiniz. Wi-Fi\'ya bağlı olmadığınız takdirde veri kullanımı ücretine tabi olacaktır. </string>
   <string name="mx_int_warning_notice">SIM kartınızdan Mi Mesaj\'ı aktifleştirmek için uluslararası bir SMS yollanacaktır. Operatörünüz tarafından uluslararası tarifeye tabi tutulabilirsiniz.</string>
-  <string name="mx_msg">Mi mesaj</string>
+  <string name="mx_msg">Mi Mesaj</string>
   <string name="mx_offline">Çevrimdışı</string>
   <string name="mx_online">Çevrimiçi</string>
   <string name="mx_reactivate">Mi Mesajı Aktifleştir</string>
@@ -438,7 +438,7 @@
   <string name="slide_show_part">Bölüm %1$s/%2$s</string>
   <string name="slideshow_activity">Slayt Gösterisi</string>
   <string name="sms_content">İçerik:</string>
-  <string name="sms_full_body">Bellek dolu olduğundan, gelen bir mesaj reddedildi. Eski mesajlardan bazılarını silin.</string>
+  <string name="sms_full_body">Bellek dolu olduğundan, gelen mesaj reddedildi. Eski mesajlardan bazılarını silin.</string>
   <string name="sms_full_title">Metin mesaj hafızası dolu</string>
   <string name="sms_rejected_body">Gelen bir mesaj bilinmeyen bir nedenden dolayı  reddedildi.</string>
   <string name="sms_rejected_title">Kısa mesaj reddedildi</string>

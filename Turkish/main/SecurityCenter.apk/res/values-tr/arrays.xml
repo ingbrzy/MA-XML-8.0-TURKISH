@@ -16,8 +16,8 @@
 <item>Asla</item>
 </string-array>
 <string-array name="power_dialog_cpu_state_items">
-<item>Yüksek Performans</item>
-<item>Dengeli Performans</item>
+<item>Performans Modu</item>
+<item>Dengeli Mod</item>
 </string-array>
 <string-array name="power_dialog_vibration_items">
 <item>Titreşim kapalı</item>
@@ -42,4 +42,9 @@
 <item>3</item>
 <item>4</item>
 </integer-array>
+<string-array name="power_dialog_wifi_internet_state_items">
+<item>Kapat</item>
+<item>Etkinleştir</item>
+<item>Mevcut durumu koru</item>
+</string-array>
 </resources>

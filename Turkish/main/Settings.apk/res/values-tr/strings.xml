@@ -63,8 +63,17 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="account_add">Ekle</string>
   <string name="account_autostar_label">Otomatik başlatma yönetimi</string>
   <string name="account_list">Tüm Hesaplar</string>
+  <string name="account_settings">Hesaplar</string>
+  <string name="account_sync_settings_title">Senkronize</string>
   <string name="activate_miui_screensaver">Uyku esnasında ekran koruyucu</string>
   <string name="activating">Etkinleştiriliyor...</string>
+  <string name="active_device_admin_msg">Cihaz yöneticisi</string>
+  <string name="active_input_method_subtypes">Etkin giriş yöntemleri</string>
+  <string name="activity_not_found">Uygulama telefonunuzda yüklü değil!</string>
+  <string name="activity_picker_label">Etkinlik seçin</string>
+  <string name="adb_keys_warning_message">"Daha önce yetkili olduğunuz tüm bilgisayarlardan USB hata ayıklama erişimini iptal etmek istiyor musunuz?"</string>
+  <string name="adb_warning_message">USB hata ayıklaması yalnızca geliştirme amaçlıdır. Verileri bilgisayarınızla cihazınız arasında kopyalamak, bildirim göndermeksizin uygulamaları cihazınıza yüklemek ve günlük verilerini okumak için kullanın.</string>
+  <string name="adb_warning_title">USB hata ayıklamasına izin verilsin mi?</string>
   <string name="add_auto_startup_application">Ekle</string>
   <string name="additional_system_update_settings_list_item_title">Ek sistem güncellemeleri</string>
   <string name="adjust_3d_depth_title">Oyunlar için 3D derinliği</string>
@@ -137,6 +146,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="app_special_disable_dlg_title">Verileri silinip uygulaması devre dışı bırakılsın mı?</string>
   <string name="app_switch_key">Menü (Son kullanılanlar) tuşu</string>
   <string name="application_forbid_auto_startup">Arka planda çalışmaması için %s durdurun</string>
+  <string name="application_info_label">Uygulama bilgisi</string>
   <string name="application_item_already_permission">İzin verildi</string>
   <string name="application_item_disable">Devre dışı</string>
   <string name="application_item_permission">İzin ver</string>
@@ -2004,8 +2014,8 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="xiaomi_router_notif_title">Mi Router bildirimleri</string>
   <string name="yes">Evet</string>
   <string name="zone_auto">Otomatik zaman dilimi</string>
-  <string name="zone_auto_summaryOff">Ağ tarafından sağlanan saat dilimini kullan</string>
-  <string name="zone_auto_summaryOn">Ağ tarafından sağlanan saat dilimini kullan</string>
+  <string name="zone_auto_summaryOff">Ağ tarafından sağlanan zaman dilimini kullan</string>
+  <string name="zone_auto_summaryOn">Ağ tarafından sağlanan zaman dilimini kullan</string>
   <string name="zone_list_menu_sort_alphabetically">Alfabetik sırala</string>
   <string name="zone_list_menu_sort_by_timezone">Zaman dilimine göre sırala</string>
 </resources>
