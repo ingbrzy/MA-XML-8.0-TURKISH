@@ -671,7 +671,7 @@ CC: %4$s
   <string name="preference_head_load_description">Mobil veri kullanırken, sadece mesaj başlıklarını indirin.</string>
   <string name="preference_head_load_title">Veri kullanımını azalt</string>
   <string name="preference_imap_tips"/>
-+ <string name="preference_pop_tips">Ekler, POP3 protokolü zorunlu isteği nedeniyle, posta içeriği ile indirilecek. Mobil veri kullanımına dikkat ediniz.</string>
+  <string name="preference_pop_tips">Ekler, POP3 protokolü zorunlu isteği nedeniyle, posta içeriği ile indirilecek. Mobil veri kullanımına dikkat ediniz.</string>
   <string name="preference_removal_action_title">Arşiv ve silme işlemi</string>
   <string name="preference_sender_image_description">Görüşme listesinde adının yanında resim görünür</string>
   <string name="preference_sender_image_title">Gönderen resmi</string>
