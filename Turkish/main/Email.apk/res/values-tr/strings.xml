@@ -21,6 +21,10 @@
   <string name="account_folder_list_summary_outbox">Giden Kutusu</string>
   <string name="account_folder_list_summary_starred">Yıldızlı</string>
   <string name="account_name_toast">Kullanıcı adı zaten var</string>
+  <string name="account_options_acc_title">Hesap</string>
+  <string name="account_options_common_title">Temel Ayarlar</string>
+  <string name="account_options_only_title">Sadece mobil ağı kullanarak başlığı indir</string>
+  <string name="account_options_sync_title">Senkronize Ayarları</string>
   <string name="account_password_spaces_error">"Bu parola bir veya daha fazla boşluk karakterleri ile başlar ya da biter. Birçok sunucu boşluk şifreleri desteklemez."</string>
   <string name="account_security_dialog_content_fmt">%s güvenlik ayarlarını güncellemeniz gerekiyor.</string>
   <string name="account_security_dialog_title">Güvenlik güncellemesi</string>
@@ -41,8 +45,8 @@
   <string name="account_settings_enforced_summary">Yok</string>
   <string name="account_settings_exit_server_settings">Kaydedilmemiş değişiklikleri iptal etmek istiyor musunuz?</string>
   <string name="account_settings_incoming_label">Gelen Sunucusu Ayarları</string>
-  <string name="account_settings_incoming_summary">Kullanıcı, şifre, ve gelen sunucusu ayarları</string>
-  <string name="account_settings_list_title">Please select mail service providers need to add:</string>
+  <string name="account_settings_incoming_summary">Kullanıcı, şifre, ve diğer sunucu ayarları</string>
+  <string name="account_settings_list_title">Posta servis sağlayıcılarını seçiniz:</string>
   <string name="account_settings_login_dialog_content_fmt">%s için kullanıcı adı ya da şifre hatalı.Şimdi bunları güncellemek istiyor musunuz?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">%s oturumu açılamadı; %s Kullanıcı adı/şifrenizi güncellemek istiyor musunuz?</string>
   <string name="account_settings_login_dialog_title">"Oturum açılamadı"</string>
@@ -164,6 +168,7 @@
   <string name="account_setup_outgoing_username_label">Kullanıcı adı</string>
   <string name="account_setup_security_policies_required_fmt">%s sunucusu,  Android cihazın bazı güvenlik özelliklerini uzaktan kontrol etmesi için izin istiyor. Bu hesabı kurmayı tamamlamak istiyor musunuz?</string>
   <string name="account_setup_security_required_title">Uzaktan güvenlik yönetimi</string>
+  <string name="account_setup_server_acc_manager_title">Hesap Yöneticisi</string>
   <string name="account_setup_service_not_set">E-posta servis ayarları yapılmadı</string>
   <string name="account_setup_username_password_toast">Geçerli bir e-posta adresinizi ve şifrenizi yazın.</string>
   <string name="account_setup_username_uneditable_error">"Hesabın kullanıcı adını değiştiremezsiniz. Farklı bir kullanıcı adına sahip bir hesap eklemek için, Hesap ekle öğesine dokunun."</string>
@@ -428,6 +433,10 @@
   <string name="general_preference_text_zoom_small">Ufak</string>
   <string name="general_preference_text_zoom_tiny">İnce</string>
   <string name="generic_attachment_problem">"Dosya eklenemedi"</string>
+  <string name="head_only_enable_dialog_message">Only the title (instead of the whole email) is downloaded without click under traffic.</string>
+  <string name="head_only_enable_dialog_nagative">Reddet</string>
+  <string name="head_only_enable_dialog_positive">Kabul et</string>
+  <string name="head_only_enable_dialog_title">Trafik tasarrufu</string>
   <string name="giftcard_payment">%1$s MiKredisi</string>
   <string name="header_category_account">Hesaplar</string>
   <string name="header_category_other">Diğer Ayarlar</string>
@@ -615,6 +624,9 @@ CC: %4$s
   <string name="perference_change_pw">Şifreyi güncelle</string>
   <string name="perference_change_pw_notnull_tips">Şifre boş olamaz</string>
   <string name="perference_change_pw_ok_tips">Şifre başarıyla güncellendi</string>
+  <string name="perference_setup_pop_del">Postayı sunucudan kaldır</string>
+  <string name="perference_setup_recv_tag">Gelen posta sunucusu</string>
+  <string name="perference_setup_send_tag">Giden posta sunucusu</string>
   <string name="permission_access_provider_desc">Uygulama alınan iletiler, gönderilen iletiler, kullanıcı adları ve şifreler de dahil olmak üzere tüm E-posta veritabanına erişim sağlar.</string>
   <string name="permission_access_provider_label">E-posta sağlayıcınıza veri erişimi</string>
   <string name="permission_read_attachment_desc">Uygulama e-posta eklerini okuma izni verir.</string>
@@ -655,8 +667,11 @@ CC: %4$s
   <string name="policy_text_truncation">Posta yazı boyutunu kısıtla</string>
   <string name="prefDialogTitle_conversationListIcon">Gönderen resmi</string>
   <string name="prefDialogTitle_removal_action">Arşiv ve silme işlemi</string>
+  <string name="preference_eas_tips">Gelen aktivasyon sayfası, e-posta sunucusu tarafından talep edilmektedir.</string>
   <string name="preference_head_load_description">Mobil veri kullanırken, sadece mesaj başlıklarını indirin.</string>
   <string name="preference_head_load_title">Veri kullanımını azalt</string>
+  <string name="preference_imap_tips"/>
++ <string name="preference_pop_tips">Ekler, POP3 protokolü zorunlu isteği nedeniyle, posta içeriği ile indirilecek. Mobil veri kullanımına dikkat ediniz.</string>
   <string name="preference_removal_action_title">Arşiv ve silme işlemi</string>
   <string name="preference_sender_image_description">Görüşme listesinde adının yanında resim görünür</string>
   <string name="preference_sender_image_title">Gönderen resmi</string>

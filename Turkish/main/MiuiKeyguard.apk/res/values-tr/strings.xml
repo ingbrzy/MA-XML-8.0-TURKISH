@@ -2,6 +2,7 @@
 <resources>
   <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth cihazı kilit açılması için çok uzak.</string>
   <string name="contact_carrier_message">Eğer herhangi bir sorunuz varsa, lütfen şebeke operatörünüze danışın.</string>
+  <string name="confirm_pin_msg">PIN kodunu tekrar girin</string>
   <string name="default_lockscreen_unlock_hint_text">KİLİDİ AÇMAK İÇİN YUKARI KAYDIRIN</string>
   <string name="delete">Sil</string>
   <string name="emergency_call_string">Acil</string>
@@ -27,6 +28,8 @@
   <string name="input_pin_code_to_unlock">Cihaz kilidini açmak için PIN kodunu girin</string>
   <string name="input_puk_code">PUK kodunu girin</string>
   <string name="input_puk_code_to_unlock">Cihaz kilidini açmak için lütfen PUK kodunu girin</string>
+  <string name="invalid_confirm_pin_hint">"PIN kodları eşleşmiyor!"</string>
+  <string name="keyguard_torch_cover_text">El feneri için, Güç düğmesine basın</string>
   <string name="lock_screen_date">"d MMMM yyyy
 EEEE"</string>
   <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>

@@ -81,8 +81,7 @@
   <string name="sns_footer_text">Mi Notlar ile oluşturuldu</string>
   <string name="sns_hint_content">Şu an aklında ne var?</string>
   <string name="sns_hint_title">Konu (isteğe bağlı)</string>
-  <string name="sns_message_building">İleti oluşturuluyor...</string>
-  <string name="sns_message_sending">İletiliyor...</string>
+  <string name="sns_message_disconnect">"Lütfen ağ bağlantısını kontrol edin!"</string>
   <string name="sns_title_edit">Başlığı düzenle</string>
   <string name="sns_title_send">Mesaj gönder</string>
   <string name="sns_toast_empty">Boş ileti gönderilemiyor</string>
