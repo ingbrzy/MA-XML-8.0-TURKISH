@@ -26,6 +26,10 @@
   <string name="actionbar_share">Paylaş</string>
   <string name="actionbar_web_search">"Ara"</string>
   <string name="adblock_notification">%d reklam engellendi</string>
+  <string name="adblock_rules_number_text">%d öğe engellendi</string>
+  <string name="adblock_rules_restore">Onar</string>
+  <string name="adblock_websites_settings_empyt_hint">Boş kural</string>
+  <string name="adblock_websites_settings_title">Özel kurallar</string>
   <string name="add_bookmark">Yer İmlerine Ekle</string>
   <string name="add_bookmark_group">Grup ekle</string>
   <string name="add_folder">Klasöre ekle</string>
@@ -82,6 +86,10 @@
   <string name="clear_history_group">Geçmişi Temizle (%s sayfa)</string>
   <string name="clear_search_history">Geçmişi Temizle</string>
   <string name="clip_dialog_title">Kopyalanan URL açılsın mı?</string>
+  <string name="close_ads_choice_no">Hayır</string>
+  <string name="close_ads_choice_yes">Evet</string>
+  <string name="close_ads_message">Bu içeriği kapatacaksınız. Bu içerik daha sonra engellensin mi? Engellenen içerik; Ayarlar &gt; Gelişmiş &gt; Özel kurallar sekmesinde görüntülenecektir. </string>
+  <string name="close_ads_title">İpucu</string>
   <string name="close_all_tab_alert_message">"Tüm sekmeler kapatılsın mı?"</string>
   <string name="close_all_tab_alert_title">"Tüm sekmeleri kapat"</string>
   <string name="close_cloud_tab_tip">%s üzerindeki bulut sekmeleri kapatılsın mı?</string>

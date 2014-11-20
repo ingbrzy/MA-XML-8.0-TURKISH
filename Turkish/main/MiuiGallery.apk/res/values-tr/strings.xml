@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">İçe Aktar</string>
+  <string name="abandon">İptal</string>
   <string name="accept">"Kabul"</string>
   <string name="accept_or_deny">"%1$s %2$s albümünü sizinle paylaştı."</string>
   <string name="action_fail_unknown_error">Tanımlanamayan bir hata oluştu</string>
@@ -18,11 +19,11 @@
   <string name="add_to_cloud_space_full_message">Bulut albümü dolu</string>
   <string name="add_to_cloud_successfully_message">Bulut albümüne eklendi</string>
   <string name="add_to_cloud_type_not_support_message">Bu dosya türü desteklenmiyor</string>
-  <string name="add_to_cloud_unfinished_message_with_count">%1$s  parça buluta eklenemedi</string>
+  <string name="add_to_cloud_unfinished_message_with_count">%1$s  öğe buluta eklenemedi</string>
   <string name="add_to_cloud_unknow_reasons">Bilinmeyen hata</string>
-  <string name="add_to_secret_failed_message_with_count"> %2$s parça şu gizli :  %1$s eklenemez. </string>
+  <string name="add_to_secret_failed_message_with_count"> %2$s öğe gizli albüme eklenemedi : %1$s </string>
   <string name="add_to_secret_successfully_message">Gizli albüme eklendi</string>
-  <string name="add_to_secret_unfinished_message_with_count">%1$s parça gizliye eklenemedi</string>
+  <string name="add_to_secret_unfinished_message_with_count">%1$s öğe gizli albüme eklenemedi</string>
   <string name="adding_recipients">Alıcılar ekleniyor...</string>
   <string name="album_member">Albüm üyeleri %s</string>
   <string name="album_name">Albüm Adı</string>
@@ -44,6 +45,8 @@
   <string name="alert_init_merged_message">"Artık cihazınızda ve Bulut alanınızda depolanan resimleriniz, Fotoğraflar sekmesinde birlikte görülebilecek. "</string>
   <string name="alert_init_merged_title">Fotoğraflarınıza kolayca ulaşın</string>
   <string name="alert_message_open_sync">Öncelikle senkronizasyonu etkinleştirmelisiniz.</string>
+  <string name="alert_secret_album_message">Bulut albümünden gizli albüme ilerleyebilirsiniz</string>
+  <string name="alert_secret_album_title">Gizli Albüm</string>
   <string name="already_apply_album">"%1$s açılsın mı?"</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Android duvar kağıtları</string>
@@ -55,6 +58,9 @@
   <string name="auto_create_recent_album">Favori albümleri otomatik olarak oluştur</string>
   <string name="auto_create_recent_album_confirm">Galeri favori albüm bilgilerini silecektir. El ile favori olarak işaretlenmiş olanlar etkilenmez.</string>
   <string name="auto_create_recent_album_over_ten_times">Bir albüm 10 defadan fazla açıldığında favori olarak işaretlenir</string>
+  <string name="auto_upload_album_comfirm_to_share">Bu albüm otomatik olarak yüklenecektir paylaşmak istiyor musunuz?</string>
+  <string name="auto_upload_tip">Etkinleştirdikten sonra aynı isimde albüm oluşturulur. Aynı isimde var olan albümler birleştirilecektir.</string>
+  <string name="auto_upload_title">Otomatik yükle</string>
   <string name="autofix">Oto Düzelt</string>
   <string name="autohomemain">Autohomemain</string>
   <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
@@ -169,6 +175,7 @@
   <string name="details_title">%2$d öğeden %1$d :</string>
   <string name="device_model">Cihaz</string>
   <string name="directory_info_divider">"  |  "</string>
+  <string name="do_not_save">Kaydetme</string>
   <string name="documentary">Belgesel</string>
   <string name="done">Yapıldı</string>
   <string name="doodle">Karalama</string>
@@ -182,6 +189,7 @@
   <string name="edit">Düzenle</string>
   <string name="edited_photo_bucket_name">Düzenlendi</string>
   <string name="email_picker_title">Paylaşılan Email ekle</string>
+  <string name="enable">Aç</string>
   <string name="enable_cloud_for_sharing">Paylaşılan resimleri görüntülemek için bulut albümlerini aktif etmelisiniz.</string>
   <string name="enter_email_hint">"Email adresini girin"</string>
   <string name="error_album_not_exist">"Albüm bulunamadı"</string>
@@ -205,6 +213,7 @@
   <string name="exit_share_successfully">"%1$s çıkıldı"</string>
   <string name="exposure_time">Pozlama süresi</string>
   <string name="external_sd_card">SD Kart</string>
+  <string name="external_sdcard_root">SD kart kök dizini</string>
   <string name="external_usb_device">USB depolama</string>
   <string name="external_usb_device_hm">Harici USB Depolama</string>
   <string name="facelift">Face Glow</string>
@@ -230,6 +239,7 @@
   <string name="frame_movie">Film</string>
   <string name="frame_semicircle">Yarım Daire</string>
   <string name="frame_white">Beyaz</string>
+  <string name="free">Ücretsiz</string>
   <string name="gallery_cloud_provider_name">Bulut albümü</string>
   <string name="gallery_setting">Ayarlar</string>
   <string name="get_album_info_in_process">Paylaşılan albümün detayları isteniyor...</string>
@@ -270,6 +280,7 @@
   <string name="internal_miui_capture_screen_folder_display_name">Dahili Ekran Görüntüleri</string>
   <string name="internal_sd_card">Dahili hafıza</string>
   <string name="internal_sd_card_hm">Telefon hafızası</string>
+  <string name="internal_sdcard_root">Dahili hafıza kök dizini</string>
   <string name="invalid_invition_url">Hatalı davet bağlantısı</string>
   <string name="invalid_recipient_message">Girdiğiniz alıcı isimleri geçersiz</string>
   <string name="iso">ISO</string>
@@ -366,10 +377,17 @@
   <string name="operation_too_often">İşleminiz frekans limitine ulaştı. Lütfen 1 dakika sonra tekrar deneyin.</string>
   <string name="operation_unset_as_screensaver">Ekran koruyucuyu iptal et</string>
   <string name="orientation">Yönlendirme</string>
+  <string name="original">Orijinal</string>
+  <string name="original_scale">Orijinal boyut</string>
   <string name="other_category">Ek Ayarlar</string>
   <string name="owner_album_subtitle">%1$s üyeyle paylaşıldı</string>
   <string name="paint_cancel_context">İptali kabul ediyor musunuz?</string>
   <string name="paint_cancel_title">Değişimi iptal et</string>
+  <string name="paint_cancel_context">"Abandon the changes you've made to this image?"</string>
+  <string name="paint_cancel_title">Değişiklikler iptal</string>
+  <string name="paint_crop_cancel_context">Kaydedilsin mi?</string>
+  <string name="paint_crop_cancel_title">Değişiklikler iptal</string>
+  <string name="paint_crop_tips">Daha iyi bir görüntü elde etmek için, ilgili parçaları kılavuz noktaları üzerinde hareket ettirin ve yeniden boyutlandırın.</string>
   <string name="path">Dosya Yolu</string>
   <string name="people">Kişiler</string>
   <string name="photo_page_always_rotate">Resimleri otomatik çevir</string>
@@ -377,9 +395,9 @@
   <string name="photo_page_save_image">Kaydet</string>
   <string name="photo_page_save_uri_image_fail">"Resim kaydı başarısız."</string>
   <string name="photo_page_save_uri_image_ok">Resim, Kamera resimlerine kaydedildi.</string>
-  <string name="photo_paint_adjust">ayarla</string>
+  <string name="photo_paint_adjust">Ayarla</string>
   <string name="photo_paint_crop">Kırp</string>
-  <string name="photo_paint_effect">efekt</string>
+  <string name="photo_paint_effect">Efekt</string>
   <string name="photo_paint_rotate">Döndür</string>
   <string name="photo_saved">%s kaydedildi</string>
   <string name="photo_size">Boyut</string>
@@ -387,10 +405,13 @@
   <string name="photos">" Fotoğraf"</string>
   <string name="pick_too_many_recipients">Çok fazla alıcı</string>
   <string name="pick_too_much_tips">Bu kadar fazla öğe seçilemiyor (maksimum %d öğe).</string>
+  <string name="pick_with_limited_upper_bound_title">%d öğe seçtiniz</string>
   <string name="picker_no_album_selected">Hiç bir albüm seçilmedi</string>
   <string name="picker_no_items_selected">Hiç bir öğe seçilmedi</string>
   <string name="picker_select_album_title_empty">Bir albüm seçin</string>
   <string name="picker_tab_photo">Foto</string>
+  <string name="pocket_camera_picture">Cep kamerası fotoğrafları</string>
+  <string name="pocket_camera_video">Cep kamerası videoları</string>
   <string name="posterize">Posterize</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Görüntüleri silmeye hazırlanılıyor...</string>
@@ -409,6 +430,9 @@
   <string name="redeye">Kırmızı Göz</string>
   <string name="redeye_tooltip">Kırmızı gözü azaltmak için dokunun</string>
   <string name="refocus_data_downloading">Yeniden odaklanma verisi indiriliyor...</string>
+  <string name="remove_from_secret_failed_message_with_count">"%2$s öğe kaldırılamadı!: %1$s."</string>
+  <string name="remove_from_secret_successfully_message">Gizli albümden kaldırıldı</string>
+  <string name="remove_from_secret_unfinished_message_with_count">%1$s öğe kaldırılamadı!</string>
   <string name="remove_from_secret_failed_message_with_count">%2$s  parça şu gizli : %1$s  \'den silinemez. </string>
   <string name="remove_from_secret_successfully_message">Gizli albümden kaldırıldı</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s parça gizliden kaldırılamadı</string>
@@ -425,6 +449,7 @@
   <string name="retry_to_request_qr_code">Tekrar Dene</string>
   <string name="rotate">Döndür</string>
   <string name="rotate_tooltip">Döndürmek için fotoğrafı sürükleyin</string>
+  <string name="same_name_album_exists_alert">Fotoğraflarınızı otomatik olarak bu albüme yüklemek istiyor musunuz?</string>
   <string name="saturation">Doygunluk</string>
   <string name="save">Kaydet</string>
   <string name="save_error">Kesilmiş resim kaydedilemiyor</string>
@@ -441,10 +466,12 @@
   <string name="screensaver_path">"Albüm: "</string>
   <string name="screensaver_path_not_set">Hiç biri seçilmedi</string>
   <string name="sd_not_available">SD karta erişim sağlanamıyor.</string>
+   <string name="sdcard_root">SD kart kök dizini</string>
   <string name="seconds">"Saniye"</string>
   <string name="secret_album_display_name">Gizli albüm</string>
   <string name="select_album">Düzenleme Modu</string>
   <string name="select_all">Tümünü seç</string>
+  <string name="select_auto_upload_albums">Buluta yüklenecek albümü seçin</string>
   <string name="select_image">Resim Seç</string>
   <string name="select_item">Düzenleme Modu</string>
   <string name="select_too_much_to_send_tips">Bu kadar fazla öğe gönderilemiyor (maksimum %d öğe).</string>
@@ -498,6 +525,7 @@
   <string name="slideshow_repeat_mode">Döngü</string>
   <string name="slideshow_time_select_title">Slayt gösterisi süresini ayarla</string>
   <string name="slideshow_time_title">Süre</string>
+  <string name="square">Kare</string>
   <string name="start_slide_show">Slayt Gösterisini Başlat</string>
   <string name="storage_all_volumes">Tüm depolama aygıtları</string>
   <string name="storage_no_space">Yeterli alan yok</string>
@@ -562,4 +590,5 @@
   <string name="width">Genişlik</string>
   <string name="yellow_page">Sarı sayfa</string>
   <string name="yes">Evet</string>
+  <string name="yunyi_pocket_camera">Cep kamerası</string>
 </resources>
