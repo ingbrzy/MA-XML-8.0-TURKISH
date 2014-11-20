@@ -24,11 +24,11 @@
         <item quantity="one">+1</item>
     </plurals>
     <plurals name="Nevents">
-        <item quantity="other">%d olay</item>
-        <item quantity="one">1 olay</item>
+        <item quantity="other">%d etkinlik</item>
+        <item quantity="one">1 etkinlik</item>
     </plurals>
     <plurals name="N_remaining_events">
-        <item quantity="other">+%d olay</item>
-        <item quantity="one">+1 olay</item>
+        <item quantity="other">+%d etkinlik</item>
+        <item quantity="one">+1 etkinlik</item>
     </plurals>
 </resources>
