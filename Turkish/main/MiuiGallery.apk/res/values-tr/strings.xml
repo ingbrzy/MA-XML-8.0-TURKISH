@@ -383,8 +383,6 @@
   <string name="owner_album_subtitle">%1$s üyeyle paylaşıldı</string>
   <string name="paint_cancel_context">İptali kabul ediyor musunuz?</string>
   <string name="paint_cancel_title">Değişimi iptal et</string>
-  <string name="paint_cancel_context">"Abandon the changes you've made to this image?"</string>
-  <string name="paint_cancel_title">Değişiklikler iptal</string>
   <string name="paint_crop_cancel_context">Kaydedilsin mi?</string>
   <string name="paint_crop_cancel_title">Değişiklikler iptal</string>
   <string name="paint_crop_tips">Daha iyi bir görüntü elde etmek için, ilgili parçaları kılavuz noktaları üzerinde hareket ettirin ve yeniden boyutlandırın.</string>
@@ -433,9 +431,6 @@
   <string name="remove_from_secret_failed_message_with_count">"%2$s öğe kaldırılamadı!: %1$s."</string>
   <string name="remove_from_secret_successfully_message">Gizli albümden kaldırıldı</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s öğe kaldırılamadı!</string>
-  <string name="remove_from_secret_failed_message_with_count">%2$s  parça şu gizli : %1$s  \'den silinemez. </string>
-  <string name="remove_from_secret_successfully_message">Gizli albümden kaldırıldı</string>
-  <string name="remove_from_secret_unfinished_message_with_count">%1$s parça gizliden kaldırılamadı</string>
   <string name="remove_hidden_album">Albüm gizliliğini kaldır</string>
   <string name="remove_recent_album">Favorilerden kaldır</string>
   <string name="rename_failed">"Yeniden adlandırma başarısız"</string>
