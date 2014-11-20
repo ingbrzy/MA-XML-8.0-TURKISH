@@ -192,12 +192,12 @@
   <string name="hints_auto_start_warning_info">Otomatik başlatmayı yasakladığınızda hiçbir mesaj almazsınız</string>
   <string name="hints_cache_header_left">Önbellekteki dosyalar: %d</string>
   <string name="hints_cleanning_text">Temizleniyor...</string>
-  <string name="hints_finish_quick_cleanup">Temizliği bitir</string>
-  <string name="hints_finish_quick_cleanup_title">%s çöpün temizlenmesini bitir</string>
+  <string name="hints_finish_quick_cleanup">Detaylara gözat</string>
+  <string name="hints_finish_quick_cleanup_title">%s çöpü temizle</string>
   <string name="hints_finish_quick_scan">Tarama tamamlandı</string>
-  <string name="hints_garbage_cleanup_result_danger">Tehlikeli</string>
-  <string name="hints_garbage_cleanup_result_risk">Riskli</string>
-  <string name="hints_garbage_cleanup_result_safe">Güvenli</string>
+  <string name="hints_garbage_cleanup_result_danger">Çöpleri şimdi temizle</string>
+  <string name="hints_garbage_cleanup_result_risk">Çöpleri şimdi temizle</string>
+  <string name="hints_garbage_cleanup_result_safe">Herşey iyi görünüyor...</string>
   <string name="hints_garbage_handle_item_content">%1$d öğe， %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Boş</string>
   <string name="hints_get_root_disable_title">%d uygulamanın root erişimi yok</string>

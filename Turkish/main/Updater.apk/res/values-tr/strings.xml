@@ -98,7 +98,7 @@
   <string name="no_proper_updates">Telefonunuz için güncelleme bulunamadı</string>
   <string name="no_wifi_msg">"Wi-Fi bağlantısı yok, mobil veri kullanılarak indirmeye devam edilecek!"</string>
   <string name="no_wifi_title">Veri kullanım uyarısı!</string>
-  <string name="not_open">Açık değil</string>
+  <string name="not_open">Kapat</string>
   <string name="notification_downloading">Güncelleme indiriliyor…</string>
   <string name="notification_load_body_alpha">Cihazınızı güncellemek için Xiaomi hesabınız ile giriş yapın.</string>
   <string name="notification_load_body_dev">Cihazınızı güncellemek için Xiaomi hesabınız ile giriş yapın.</string>
@@ -116,7 +116,7 @@
   <string name="notification_updating">Güncelleniyor…</string>
   <string name="now">Şimdi Güncelle</string>
   <string name="on_checking">Güncellemeler Kontrol Ediliyor...</string>
-  <string name="open_now">Şimdi AÇ</string>
+  <string name="open_now">Aç</string>
   <string name="particular_build">Özel</string>
   <string name="pause">Duraklat</string>
   <string name="previous">Önceki</string>
@@ -130,8 +130,8 @@
   <string name="refuse_recommend_reason">Lütfen sebebinizi yazın...</string>
   <string name="repeat">Tekrar Dene</string>
   <string name="set_auto">Oto Modunu Ayarla</string>
-  <string name="set_auto_msg">Yeni bir güncelleme varsa, Wi-Fi ağına bağlandığınızda akıllı güncelleme sistemi otomatik olarak indirir.</string>
-  <string name="set_auto_update_title">Güncellemeleri otomatik indirmeyi aç</string>
+  <string name="set_auto_msg">Güncellemeleri Wi-Fi ağı üzerinden otomatik olarak indirir.</string>
+  <string name="set_auto_update_title">Güncellemeleri otomatik indi</string>
   <string name="set_installfail_full_msg">"Şu an güncelleme yapılamıyor, TAMAM\'a dokunarak rapor gönderin"</string>
   <string name="set_installfail_msg">Mobil veri bağlantısı üzerinden bu güncellemeyi indirmeniz, veri kullanımını artıracaktır.</string>
   <string name="set_installfail_title">İndirme için tekrar denensin mi?</string>
