@@ -5,11 +5,11 @@
   <string name="act_find_city_hot_title">Ekle</string>
   <string name="act_set_city_find_side">Şehir bulunuyor...</string>
   <string name="act_set_city_find_side_error">Şehir bulunamadı</string>
-  <string name="act_weather_cycle_link_china">WeatherChina</string>
+  <string name="act_weather_cycle_link_china"/>
   <string name="act_weather_find_city_added">Şehir eklendi</string>
   <string name="act_weather_find_city_click_retry">Tekrar Dene</string>
-  <string name="act_weather_find_city_connect_net">"Ağa bağlantısı yok!"</string>
-  <string name="act_weather_find_city_net_no_good">"Ağa bağlantısı yok!"</string>
+  <string name="act_weather_find_city_connect_net">"Ağ bağlantısı yok!"</string>
+  <string name="act_weather_find_city_net_no_good">"Ağ bağlantısı yok!"</string>
   <string name="act_weather_find_city_no_result">Sonuç yok</string>
   <string name="act_weather_find_city_searching">Aranıyor...</string>
   <string name="activity_find_city_dialog_cancel">İptal</string>
@@ -17,7 +17,7 @@
   <string name="activity_find_city_dialog_set">Ayar</string>
   <string name="activity_find_city_dialog_title">Konum Servisi</string>
   <string name="activity_main_refresh_time">%1$s güncellendi</string>
-  <string name="activity_main_refresh_timeout">Zaman aşımı yenile</string>
+  <string name="activity_main_refresh_timeout">Zaman aşımı!</string>
   <string name="activity_main_time_format">dd.MM</string>
   <string name="activity_main_update_time">Güncelleme: %1$s</string>
   <string name="activity_main_update_time_right_now">Şimdi</string>
@@ -40,7 +40,7 @@
   <string name="menu_add">Konum ekle</string>
   <string name="menu_location">Konumlar</string>
   <string name="menu_more">Ayrıntılar</string>
-  <string name="network_unavailable">"Ağa bağlantısı yok!"</string>
+  <string name="network_unavailable">"Ağ bağlantısı yok!"</string>
   <string name="view_aqi_main_no_data">N/A</string>
   <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
   <string name="view_aqi_pubtime">%1$s güncellendi</string>
@@ -55,10 +55,10 @@
   <string name="view_indexes_title_feel">Hissedilen (°C)</string>
   <string name="view_indexes_title_humidity">Nem oranı (%)</string>
   <string name="view_indexes_title_pressure">Basınç (mb)</string>
-  <string name="view_indexes_title_uv">UV</string>
+  <string name="view_indexes_title_uv">UV İndeksi</string>
   <string name="view_indexes_title_visibility">Görüş uzaklığı (km)</string>
   <string name="view_indexes_title_wind">Rüzgar</string>
-  <string name="view_sun_titile">Gündoğumu ve günbatımı</string>
+  <string name="view_sun_titile">Gündoğumu ve Günbatımı</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">℃</string>
