@@ -2,10 +2,10 @@
 <resources>
     <plurals name="timer_item_duration_display_seconds">
         <item quantity="other">%1$d saniye</item>
-        <item quantity="one">1 saniye</item>
+        <item quantity="one">%1$d saniye</item>
     </plurals>
     <plurals name="timer_item_duration_display_minutes">
         <item quantity="other">%1$d dakika</item>
-        <item quantity="one">1 dakika</item>
+        <item quantity="one">%1$d dakika</item>
     </plurals>
 </resources>
