@@ -38,7 +38,6 @@
   <string name="action_phone">Çağrı</string>
   <string name="action_qrcode">QR kodu</string>
   <string name="action_screen_shot">Ekran görüntüsü</string>
-  <string name="action_search">Ara</string>
   <string name="action_send_text_message">SMS</string>
   <string name="action_share_to_miliao">MiTalk</string>
   <string name="action_share_to_miliao_wall">MiTalk</string>
@@ -52,7 +51,7 @@
   <string name="address">Adres:</string>
   <string name="app_name">MiKey</string>
   <string name="app_not_installed">Uygulama yüklü değil</string>
-  <string name="back_camera">Arka kaera</string>
+  <string name="back_camera">Arka kamera</string>
   <string name="birthday">Doğum günü:</string>
   <string name="call_to">Çağrı</string>
   <string name="cancel">İptal</string>
@@ -99,8 +98,6 @@
   <string name="copy">Kopyala</string>
   <string name="copy_succeed">Kopyalama başarılı</string>
   <string name="default_action_title">Varsayılan eylem</string>
-  <string name="default_toolbar_items">.CapturePhotoAction,.FlashlightAction,.AudioRecorderAction,0,0,0</string>
-  <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>
   <string name="delete">Sil</string>
   <string name="delete_confirm">Bu eylemi silmek  istiyor musunuz?</string>
   <string name="delete_gesture">Mikey buton hareketini silmek istiyor musunuz?</string>
@@ -174,12 +171,6 @@ Oyun oynayın, fotoğraf çekin, ses gönderin…
   <string name="screenshot_full">Tam ekran</string>
   <string name="scrennshot_select_title">Yakalama boyutunu seçin</string>
   <string name="sdcard">SD kart</string>
-  <string name="search_baidu_text">Baidu</string>
-  <string name="search_cancel_text">İptal</string>
-  <string name="search_go_text">Metin</string>
-  <string name="search_iciba_text">Iciba</string>
-  <string name="search_select_title">Metin ara</string>
-  <string name="search_taobao_text">TaoBao</string>
   <string name="select_baidusearch">Baidu arama</string>
   <string name="select_baiduvoicesearch">Baidu sesle arama</string>
   <string name="select_camera">Kamerayı seç</string>
@@ -191,9 +182,6 @@ Oyun oynayın, fotoğraf çekin, ses gönderin…
   <string name="setting_instant_photo_text">Fotoğraf çekmeden önce odakla</string>
   <string name="setting_keeplive_desc">Bu seçenek uygulamanın arka planda çalışmasını ve verdiğiniz konutlara daha çabuk tepki vermesini sağlar. Ancak pil tüketimini arttırabilir.</string>
   <string name="setting_keeplive_text">Arka planda çalış</string>
-  <string name="setting_key_mode_dust_cap">key_dust_cap</string>
-  <string name="setting_key_mode_silent_open">key_silent_default</string>
-  <string name="setting_key_silent">key_silent</string>
   <string name="setting_proximity_desc">Mikey\'i cebinizde taşırken bu özelliği kullanın</string>
   <string name="setting_proximity_text">Yakınlık sensörünü kullan</string>
   <string name="setting_silent_mode">Sessiz mod</string>
@@ -201,9 +189,6 @@ Oyun oynayın, fotoğraf çekin, ses gönderin…
   <string name="setting_silent_mode_desc">Eğer kulaklık bağlamak istiyorsanız ,kulaklık modunu seçin ve Mikey bağlantısını kesin. Aksi takdirde ses çıkışı düzgün çalışmaz .</string>
   <string name="setting_silent_mode_dust_cap">Bağlama modu</string>
   <string name="setting_speed_desc">Buton tıklama hızı</string>
-  <string name="setting_speed_max_time">1000</string>
-  <string name="setting_speed_middle_time">500ms</string>
-  <string name="setting_speed_min_time">0</string>
   <string name="setting_speed_quick">Hızlı</string>
   <string name="setting_speed_slow">Yavaş</string>
   <string name="setting_speed_text">Hız</string>
@@ -264,4 +249,17 @@ Kullanmak için ekranın üzerinden aşağı doğru kaydırın."</string>
   <string name="vcard_prompt">Kişi, adı olmadığı için eklenemedi!</string>
   <string name="web">Website:</string>
   <string name="write_pic_fail">Resim kaydedilemedi!</string>
+  <string name="wallpaper_action">Duvar kağıdını değiştir</string>
+  <string name="wallpaper_change_both">Masaüstü + kilit ekranı</string>
+  <string name="wallpaper_change_desktop">Masaüstü duvar kağıdı</string>
+  <string name="wallpaper_change_failed">Değiştirme başarısız!</string>
+  <string name="wallpaper_change_home">Kilit ekranı duvar kağıdı</string>
+  <string name="wallpaper_change_home_failed">Değiştirme başarısız!</string>
+  <string name="wallpaper_change_ok">Duvar kağıdı değiştirildi</string>
+  <string name="wallpaper_changing">Duvar kağıdı değiştiriliyor...</string>
+  <string name="wallpaper_no_more">Değiştirme</string>
+  <string name="select_vol">Lütfen ses tuşlarını seçin</string>
+  <string name="action_key_vol">Ses tuşları</string>
+  <string name="action_key_vol_down">Ses kısma</string>
+  <string name="action_key_vol_up">Ses açma</string>
 </resources>
