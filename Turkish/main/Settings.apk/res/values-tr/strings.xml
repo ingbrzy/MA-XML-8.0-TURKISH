@@ -192,7 +192,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="battery_desc_apps">Uygulama tarafından kullanılan pil</string>
   <string name="battery_desc_bluetooth">Bluetooth tarafından kullanılan pil</string>
   <string name="battery_desc_display">Ekran ve arka aydınlatma ışığı tarafından kullanılan pil</string>
-  <string name="battery_desc_other_apps">Diğer uygulamalar tarafından tüketilen toplam güç</string>
+  <string name="battery_desc_other_apps">Diğer uygulamalar tarafından tüketilen toplam pil</string>
   <string name="battery_desc_radio">Telefon radyosu tarafından kullanılan pil</string>
   <string name="battery_desc_standby">Telefon boştayken kullanılan pil</string>
   <string name="battery_desc_users">Kullanıcı tarafından kullanılan pil</string>
@@ -767,6 +767,9 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="force_msaa_summary">OpenGL ES 2.0 uyg için 4x MSAA\'ı etkinleştir </string>
   <string name="force_rtl_layout_all_locales">RTL yerleşimini zorla</string>
   <string name="force_rtl_layout_all_locales_summary">Tüm yerel ayarlar için RTL ekran yerleşim yönünü zorla</string>
+  <string name="force_stop">Zorla Durdur</string>
+  <string name="force_stop_dlg_text">Bu  işlem uygulamanın hatalı davranmasına neden olabilir !</string>
+  <string name="force_stop_dlg_title">Zorla durdurmak istiyor musunuz?</string>
   <string name="forget_wifi_message">Bu Wi-Fi ağı unutulsun mu? Ağa tekrar bağlanmak istesiniz şifreyi tekrar girmeniz gerekecektir</string>
   <string name="found_new_version">Yeni güncelleme bulundu!</string>
   <string name="free_wifi_confirm">Tamam</string>
@@ -831,7 +834,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="header_data_and_synchronization">VERİ ve SENKRONİZE</string>
   <string name="high_performance_notif_summary">Performans modu açık.</string>
   <string name="high_performance_notif_title">Pil kullanımı uyarısı</string>
-  <string name="high_performance_title">Kıyaslama testi yaptığınız farkedildi. En iyi performansı elde etmek için güç yönetiminden \"Performans\" modunu seçin.</string>
+  <string name="high_performance_title">Kıyaslama testi yaptığınız farkedildi. En iyi performansı elde etmek için Pil yönetiminden \"Performans\" modunu seçin.</string>
   <string name="home_key">Ev tuşu</string>
   <string name="ime_security_warning">Bu giriş yöntemi, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yöntem, %1$s uygulamasından gelmektedir. Bu giriş yöntemini kullanmak istiyor musunuz?</string>
   <string name="immediately_destroy_activities">Etkinlikleri saklama</string>
@@ -974,7 +977,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="lockscreen_glogin_checking_password">Kontrol ediliyor...</string>
   <string name="lockscreen_glogin_password_hint">Şifre</string>
   <string name="lockscreen_glogin_submit_button">Giriş Yap</string>
-  <string name="main_running_process_description">Ana işle kullanımda.</string>
+  <string name="main_running_process_description">Ana işlem kullanımda.</string>
   <string name="make_sure_cancel_update">Güncelleme iptal edilsin mi?</string>
   <string name="man_add_application">Ekle</string>
   <string name="manage_device_admin">Cihaz Yöneticileri</string>
@@ -1145,8 +1148,8 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="pointer_speed">İşaretçi hızı</string>
   <string name="power_autorun_apps_empty">Otomatik başlatılan uygulama yok</string>
   <string name="power_autorun_empty">Uygulama yok</string>
-  <string name="power_mgr">Güç</string>
-  <string name="power_mode">Güç ayarları</string>
+  <string name="power_mgr">Pil</string>
+  <string name="power_mode">Pil ayarları</string>
   <string name="power_mode_balanced_title">Dengeli modu etkinleştir</string>
   <string name="power_settings_title">Sistem Performansı</string>
   <string name="power_usage_history">Pil kullanımı</string>
@@ -1162,7 +1165,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="preferred_app_settings_reset">Varsayılan ayarlara dönülsün mü?</string>
   <string name="preferred_app_settings_reset_message">Varsayılan uygulama ayarlarına dönmek istiyor musunuz?</string>
   <string name="preferred_application_title">%s Başlatıcı değiştirilecek!</string>
-  <string name="preferred_application_warning_message">Varsayılan %1$s başlatıcıyı değiştirmeniz, güç tüketimini arttırır ve cihaz güvenliğini riske atabilir. Varsayılan %2$s kullanmanız tavsiye edilir!</string>
+  <string name="preferred_application_warning_message">Varsayılan %1$s başlatıcıyı değiştirmeniz, pil tüketimini arttırır ve cihaz güvenliğini riske atabilir. Varsayılan %2$s kullanmanız tavsiye edilir!</string>
   <string name="preferred_application_warning_replace">Değiştir</string>
   <string name="preferred_application_warning_title">Varsayılan %s kullan</string>
   <string name="preferred_application_warning_use_system">%s kullan</string>
@@ -1370,7 +1373,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="search_launcher">Başlatıcı</string>
   <string name="search_led">Bildirim Işığı</string>
   <string name="search_network">Ağ</string>
-  <string name="search_power_mode">Güç Modu</string>
+  <string name="search_power_mode">Pil Modu</string>
   <string name="search_ring_volume">Zilsesi Seviyesi</string>
   <string name="search_ringtone">Zilsesi</string>
   <string name="search_screen_timeout">Uyku</string>

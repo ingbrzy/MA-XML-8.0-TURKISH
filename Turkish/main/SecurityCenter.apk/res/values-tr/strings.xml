@@ -156,7 +156,7 @@
   <string name="empty_title_ad">Reklam dosyası bulunamadı</string>
   <string name="empty_title_apk">Yükleme paketi bulunamadı</string>
   <string name="empty_title_auto_start_list">Hiçbir otomatik başlangıç uygulaması yok</string>
-  <string name="empty_title_garbage_cache">Önbelleği boşalt</string>
+  <string name="empty_title_garbage_cache">Önbellek boş</string>
   <string name="empty_title_garbage_white_list">Boş</string>
   <string name="empty_title_installed_apps">boş</string>
   <string name="empty_title_large_files">boş</string>
@@ -486,7 +486,7 @@
   <string name="power_save_choose_mode">Profili seçin</string>
   <string name="power_save_choose_recovery_mode">Profili seçin</string>
   <string name="power_save_low_battery_auto_save_title">Pil tasarrufu</string>
-  <string name="power_save_low_battery_option_recovery_title">Pil şarj olduysa:</string>
+  <string name="power_save_low_battery_option_recovery_title">Pil şarj olduysa</string>
   <string name="power_save_low_battery_option_summary">Pil eşik seviyesinin üstüne çıkınca, cihaz en son kullanılan profile geri döner</string>
   <string name="power_save_low_battery_option_title">Pil seviyesi düşükse</string>
   <string name="power_save_low_battery_percentage_fifty">50%</string>
@@ -500,7 +500,7 @@
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Bitiş</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
-  <string name="power_save_on_time_goout_title">Şu moda geç</string>
+  <string name="power_save_on_time_goout_title">Süre bitince şu moda geç</string>
   <string name="power_save_on_time_option_recovery_title">Süre bitince şu moda geç</string>
   <string name="power_save_on_time_option_summary">Bu süre sonunda cihaz en son kullanılan profili geri döner</string>
   <string name="power_save_on_time_option_title">Bu süre boyunca şu moda geç</string>

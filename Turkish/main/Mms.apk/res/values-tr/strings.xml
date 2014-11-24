@@ -137,7 +137,7 @@
   <string name="error_state_text">Mesaj gönderimi ve alıcıların durumu tutarsız. Lütfen bir hata raporu alın ve http://go/droidanizer üzerinden bildirin </string>
   <string name="error_timed_msg">"Geçersiz zaman."</string>
   <string name="ex_type_mx">Bulut mesajı</string>
-  <string name="ex_type_sms">yazılı mesaj/MMS</string>
+  <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Mesaj boyutu sınırına ulaşıldı.</string>
   <string name="expire_on">"Sona erme tarihi: %s"</string>
   <string name="exporting_progress_private_message">Mesajlar dışa aktarılıyor...</string>
@@ -214,7 +214,7 @@
   <string name="message_failed_body">Tekrar deneyin!</string>
   <string name="message_pending">Gönderiliyor</string>
   <string name="message_queued">Şu an mesajınız gönderilemiyor. Hizmet kullanılabilir olduğunda gönderilecektir.</string>
-  <string name="message_readed">Oku</string>
+  <string name="message_readed">Okundu</string>
   <string name="message_received">Alındı</string>
   <string name="message_rejected">Reddedildi</string>
   <string name="message_saved_as_draft">Mesaj taslak olarak kaydedildi.</string>

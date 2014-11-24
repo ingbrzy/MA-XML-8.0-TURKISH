@@ -89,8 +89,8 @@
   <string name="dlg_clear_current_sms">Bu numaradan gelen tüm engellenmiş mesajlar silinsin mi?</string>
   <string name="dlg_delete_keyword">Seçilen kelimeler listeden silinsin mi?</string>
   <string name="dlg_edit_keyword">Kelimeyi düzenle</string>
-  <string name="dlg_import_blacklist">Kara Listeye ekleniyor...</string>
-  <string name="dlg_import_whitelist">İstisnalar listesine ekleniyor...</string>
+  <string name="dlg_import_blacklist">Ekleniyor...</string>
+  <string name="dlg_import_whitelist">Ekleniyor...</string>
   <string name="dlg_keyword_ok">Kaydet</string>
   <string name="dlg_message_not_open_stranger_identify">Telefon ayarlarından bilinmeyen numaraları belirlemeyi etkinleştirmeniz gerekir. </string>
   <string name="dlg_no_block">Bu numara Kara Listeden kaldırılsın mı?</string>
@@ -98,10 +98,10 @@
   <string name="dlg_remove_address_blacklist">Bu konum Kara Listeden kaldırılsın ve ilgili mesajlar gelen kutusuna taşınsın mı?</string>
   <string name="dlg_remove_address_whitelist">Bu konum istisnalar listesinden kaldırılsın mı?</string>
   <string name="dlg_remove_blacklist">Bu numara Kara Listeden kaldırılsın mı?</string>
-  <string name="dlg_remove_blacklist_ing">Kara Listeden kaldırılıyor...</string>
+  <string name="dlg_remove_blacklist_ing">Kaldırılıyor...</string>
   <string name="dlg_remove_blacklist_ok">Kara Listeden Kaldır</string>
   <string name="dlg_remove_whitelist">Bu numaralar istisnalar listesinden kaldırılsın mı?</string>
-  <string name="dlg_remove_whitelist_ing">İstisnalardan kaldırılıyor...</string>
+  <string name="dlg_remove_whitelist_ing">Kaldırılıyor...</string>
   <string name="dlg_retore">Gelen kutusuna geri yüklensin mi ?</string>
   <string name="dlg_retore_ok">Geri yükle</string>
   <string name="dlg_title_not_open_stranger_identify">Bilinmeyen numaraları belirlemeyi etkinleştir</string>
@@ -153,7 +153,7 @@
   <string name="menu_edit">Düzenle</string>
   <string name="menu_mark">Numarayı rapor et</string>
   <string name="menu_no_block">Kara Listeden kaldır</string>
-  <string name="menu_remove">Kaldır</string>
+  <string name="menu_remove">Sil</string>
   <string name="menu_report_block">İstenmeyen</string>
   <string name="menu_restore">Gelen kutusuna geri yükle</string>
   <string name="menu_sms">Mesaj gönder</string>
@@ -170,7 +170,7 @@
   <string name="sms_delete_hint">Seçili numaradan gelen ve engellenen mesajlar silinsin mi?</string>
   <string name="st_advanced_setting_group">Gelişmiş</string>
   <string name="st_antispam_black_adress_add">Bir konum seçin</string>
-  <string name="st_antispam_bw_adress_add">Yerel adres seçin</string>
+  <string name="st_antispam_bw_adress_add">Bir konum seçin</string>
   <string name="st_antispam_bw_choose_modes">Numaraları Engelle</string>
   <string name="st_antispam_bw_head_add">Ön ek ekle</string>
   <string name="st_antispam_bw_man_add">Telefon numarası ekle</string>
@@ -180,7 +180,7 @@
   <string name="st_antispam_des_permit">İzin ver</string>
   <string name="st_antispam_des_permit_nokeyword">İzin ver</string>
   <string name="st_antispam_des_smart_anti">Filtre</string>
-  <string name="st_antispam_des_uesless">Etkin değil</string>
+  <string name="st_antispam_des_uesless">Kapalı</string>
   <string name="st_antispam_mode_add_new">Kural Ekle</string>
   <string name="st_antispam_mode_blacklist">Numaraları Engelle</string>
   <string name="st_antispam_mode_blacklist_sum">"Kara Listedeki elle eklediğim numaralardan gelen mesaj ve çağrıları engelle"</string>
@@ -217,7 +217,7 @@
   <string name="st_filter_keywords_setting_title">Kelime filtresini ayarla</string>
   <string name="st_filter_keywords_title">Anahtar kelime filtresi</string>
   <string name="st_filter_sms_button">Mesajları filtrele</string>
-  <string name="st_hint_add_head_number">Ön ek (\"*\" otomatik eklenecektir)</string>
+  <string name="st_hint_add_head_number">Ön eki girin</string>
   <string name="st_hint_add_phonenumber">Telefon numarasını gir</string>
   <string name="st_message_SMS_AntiSpam">Mesajları engelle</string>
   <string name="st_message_SMSpass">Mesajlara izin ver</string>

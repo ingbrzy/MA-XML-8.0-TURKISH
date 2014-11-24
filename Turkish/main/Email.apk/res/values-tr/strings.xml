@@ -433,10 +433,10 @@
   <string name="general_preference_text_zoom_small">Ufak</string>
   <string name="general_preference_text_zoom_tiny">İnce</string>
   <string name="generic_attachment_problem">"Dosya eklenemedi"</string>
-  <string name="head_only_enable_dialog_message">Only the title (instead of the whole email) is downloaded without click under traffic.</string>
-  <string name="head_only_enable_dialog_nagative">Reddet</string>
-  <string name="head_only_enable_dialog_positive">Kabul et</string>
-  <string name="head_only_enable_dialog_title">Trafik tasarrufu</string>
+  <string name="head_only_enable_dialog_message">Tıklama olmadan tüm e-posta yerine sadece başlık trafik ile indirilir.</string>
+  <string name="head_only_enable_dialog_nagative">İptal</string>
+  <string name="head_only_enable_dialog_positive">Tamam</string>
+  <string name="head_only_enable_dialog_title">Trafik tasarrufu uyarsı !</string>
   <string name="giftcard_payment">%1$s MiKredisi</string>
   <string name="header_category_account">Hesaplar</string>
   <string name="header_category_other">Diğer Ayarlar</string>

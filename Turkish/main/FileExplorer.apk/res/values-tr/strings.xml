@@ -171,6 +171,8 @@
   <string name="name_illegal">Bir isim girmelisiniz.</string>
   <string name="net_lose_connected">Ağ bağlantısı yok</string>
   <string name="networkView_notConnected">Ağ bağlantısı kurulamıyor</string>
+  <string name="network_connect_confirm_des">Kuipan kullanımı ağ erişimi gerektirir, kabul ediyor musunuz?</string>
+  <string name="never_notify_network_connect">"Tekrar gösterme"</string>
   <string name="new_folder_name">Yeni klasör</string>
   <string name="no">Hayır</string>
   <string name="no_enough_storage_indication">Cihaz hafızası dolu.</string>
@@ -262,6 +264,7 @@
   <string name="storage_usb">USB depolama</string>
   <string name="storage_warning">Harici depolama kullanılabilir değil</string>
   <string name="sys_size_enable"> Kullanılabilir alan</string>
+  <string name="system_alert">UYARI !</string>
   <string name="tab_category">Kategori</string>
   <string name="tab_expand">Genişlet</string>
   <string name="tab_local">Yerel</string>
