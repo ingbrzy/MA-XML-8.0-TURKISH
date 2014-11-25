@@ -48,6 +48,9 @@
   <string name="button_week">"H"</string>
   <string name="calendar_refresh">Yenile</string>
   <string name="calendar_server_error">Sunucu hatası</string>
+  <string name="can_not_modify_allday_event">Tüm gün süren etkinlik değiştirilemez</string>
+  <string name="can_not_modify_event">Değiştirilemez</string>
+  <string name="can_not_modify_repeating_acrossing_days_event">Tüm gün süren ve tekrarlanan etkinlik değiştirilemez</string>
   <string name="change_response_title">Yanıtı değiştir</string>
   <string name="chongsha"/>
   <string name="copy_db">Veritabanı gönder</string>
@@ -86,6 +89,7 @@ Takvimin kişiler listesine erişmesine izin veriyor musunuz?"</string>
   <string name="edit_event_confirm_message">Etkinlikteki değişikliklerden vazgeçilsin mi?</string>
   <string name="edit_event_from_label">Başlangıç zamanı</string>
   <string name="edit_event_label">Ayrıntılar</string>
+  <string name="edit_event_reminder_off_toast">Geçerli hatırlatma modu yok</string>
   <string name="edit_event_show_all">Tümünü göster</string>
   <string name="edit_event_to_label">Bitiş zamanı</string>
   <string name="edit_label">Düzenle</string>
@@ -247,6 +251,7 @@ Takvimin kişiler listesine erişmesine izin veriyor musunuz?"</string>
   <string name="widget_no_events">Sonraki, ajanda yok</string>
   <string name="widget_select_style">Bir stil seçin</string>
   <string name="work_day_indication">: (</string>
+  <string name="xiaomi_calendar_display_name">Xiaomi Takvimi</string>
   <string name="yearly">"Yıllık (her %s  )"</string>
   <string name="yearly_plain">Yıllık</string>
 </resources>

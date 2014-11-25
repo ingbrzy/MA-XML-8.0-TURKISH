@@ -59,10 +59,12 @@
   <string name="Generic_Version">Sürüm: %1$s</string>
   <string name="HIPS_Action_Accept">İzin ver</string>
   <string name="HIPS_Action_Accept_Colored">İzin ver</string>
+  <string name="HIPS_Action_Accept_Once">Bir kez izin ver</string>
   <string name="HIPS_Action_Prompt">Sor</string>
   <string name="HIPS_Action_Prompt_Colored">Sor</string>
   <string name="HIPS_Action_Reject">Engelle</string>
   <string name="HIPS_Action_Reject_Colored">Engelle</string>
+  <string name="HIPS_Action_Reject_Once">Bir kez engelle</string>
   <string name="HIPS_Group_DataPrivacy">Gizlilik</string>
   <string name="HIPS_Group_Expense">Güvenlik</string>
   <string name="HIPS_Group_Internet">İnternet</string>
@@ -155,6 +157,18 @@
   <string name="HIPS_Perm_ROOT_Desc">Uygulama ROOT yetkisi alabilir</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s uygulama ROOT yetkisi alabilir</string>
   <string name="HIPS_Perm_ROOT_Title">Uygulama ROOT yetkisi alabilir</string>
+  <string name="HIPS_Perm_Read_Call_Log">Çağrı loglarını okuma</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">Çağrı loglarını okuma</string>
+  <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s uygulama çağrı loglarını okuyabilir</string>
+  <string name="HIPS_Perm_Read_Contact">Kişileri okuma</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">Kişileri okuma</string>
+  <string name="HIPS_Perm_Read_Contact_Hint">%1$s uygulama kişilerinizi okuyabilir</string>
+  <string name="HIPS_Perm_Read_MMS">MMS mesajlarını okuma</string>
+  <string name="HIPS_Perm_Read_MMS_Desc">MMS mesajlarını okuma</string>
+  <string name="HIPS_Perm_Read_MMS_Hint">%1$s uygulama MMS mesajlarını okuyabilir</string>
+  <string name="HIPS_Perm_Read_SMS">SMS mesajlarını okuma</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">SMS mesajlarını okuma</string>
+  <string name="HIPS_Perm_Read_SMS_Hint">%1$s uygulama SMS mesajlarını okuyabilir</string>
   <string name="HIPS_Perm_Recorder_Audio">Uygulama ses kaydedebilir</string>
   <string name="HIPS_Perm_Recorder_AudioVideo">Uygulama ses ve video kaydedebilir</string>
   <string name="HIPS_Perm_Recorder_Camera">Uygulama fotoğraf çekebilir</string>
@@ -198,8 +212,12 @@
   <string name="HIPS_Perm_Wakelock">Uyku moduna geçmeyi önleme</string>
   <string name="HIPS_Perm_Wakelock_Desc">Uygulama cihazın uyku moduna geçmesini engelleyebilir</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s uygulama cihazın uyku moduna geçmesini engelleyebilir</string>
+  <string name="HIPS_Perm_Xiaomi_Account">Xiaomi Hesabı</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Desc">Xiaomi hesabına erişme</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s uygulama Xiaomi hesabına erişebilir</string>
   <string name="HIPS_SecurityPrompt_Accept">İzin ver (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">İzin ver</string>
+  <string name="HIPS_SecurityPrompt_Accept_Once">Bir kez izin ver (%d)</string>
   <string name="HIPS_SecurityPrompt_Caption">! GÜVENLİK UYARISI !</string>
   <string name="HIPS_SecurityPrompt_Next">İleri</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Root erişimi</string>
@@ -210,6 +228,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Uygulamalara root erişim izni vermeniz kendi sorumluluğunuzdadır.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">%1$s uygulamasına root erişim izni verilsin mi?</string>
   <string name="HIPS_SecurityPrompt_Reject">Engelle (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_Once">Bir kez engelle (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Seçimi hatırla</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s şunu yapmaya çalışıyor: %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d izin</string>
@@ -234,4 +253,5 @@
   <string name="SysOpt_Boost_Boot">Önyükleme</string>
   <string name="SysOpt_Boost_Receiver">Arkaplan</string>
   <string name="app_name">İzin yönetimi</string>
+  <string name="permisson_reject_notice_toast_text">"\"%1$s\" uygulaasının %2$s yetkisi yok. Uygulama yetkilerini Aarlar &gt; İzinlerden kontrol edebilirsiniz."</string>
 </resources>
