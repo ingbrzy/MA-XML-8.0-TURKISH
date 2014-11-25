@@ -66,7 +66,7 @@
   <string name="call_home">Evi Ara</string>
   <string name="call_isdn">ISDN\'yi Ara</string>
   <string name="call_log_empty_gecode">-</string>
-  <string name="call_log_item_count_and_date">%1$d %2$s</string>
+  <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Yeni</string>
   <string name="call_log_old_header">Eski</string>
   <string name="call_main">Ana Numarayı Ara</string>
@@ -89,12 +89,12 @@
   <string name="calllog_menu_send_sms">İleti gönder</string>
   <string name="callrecordview_item_newcontact">Yeni Kişi</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d dk %2$d sn</string>
-  <string name="callrecordview_item_op_time_missed">Bağlanmadı</string>
+  <string name="callrecordview_item_op_time_missed">-Bağlanmadı</string>
   <string name="callrecordview_item_op_time_only_minutes">%d dk</string>
   <string name="callrecordview_item_op_time_only_seconds">%d sn</string>
   <string name="callrecordview_item_op_time_rejected">Çağrı reddedildi</string>
-  <string name="callrecordview_item_op_time_short_incoming">"Gelen: "</string>
-  <string name="callrecordview_item_op_time_short_outgoing">"Giden: "</string>
+  <string name="callrecordview_item_op_time_short_incoming">"-Gelen: "</string>
+  <string name="callrecordview_item_op_time_short_outgoing">"-Giden: "</string>
   <string name="callrecordview_menu_add_call_note">Çağrı notu ekle</string>
   <string name="callrecordview_menu_batch_delete">Toplu sil</string>
   <string name="callrecordview_menu_delete">Arama geçmişini temizle</string>
@@ -279,7 +279,7 @@
   <string name="dialerIconLabel">En Son</string>
   <string name="dialerKeyboardHintText">Çevirmek için klavyeyi kullanın</string>
   <string name="dialer_addAnotherCall">Çağrı ekle</string>
-  <string name="dialer_empty_text_loading">Yükleniyor......</string>
+  <string name="dialer_empty_text_loading">Yükleniyor...</string>
   <string name="dialer_empty_text_no_call_log">Arama kaydı yok</string>
   <string name="dialer_empty_text_no_search_result">Kişi kaydı yok</string>
   <string name="dialer_returnToInCallScreen">Çağrıya dön</string>
