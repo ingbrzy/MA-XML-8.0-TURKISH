@@ -8,8 +8,8 @@
   <string name="cit_OTG_waiting_out">Şimdi USB OTG cihazı çıkarın</string>
   <string name="cit_ac_charger_in">AC şarj bağlandı</string>
   <string name="cit_ac_charger_out">AC şarj çıkarıldı.</string>
-  <string name="cit_accelermeter_sensor_check_summary">Cihazı hızlı bir şekilde tek bir doğrultuda hareket ettirin. X, Y, Z koordinat değerleri aşağıda gösterilmiştir.
-(Telefon hareket halindeyken: X sağ/sol yönlerini, Y Ön/Arka yönlerini, Z Aşağı/Yukarı yönlerini temsil etmektedir).\nCihaz kalibrasyonunu yapmadan önce düz bir zemine yerleştirin.</string>
+  <string name="cit_accelermeter_sensor_check_summary">"Cihazı hızlı bir şekilde tek bir doğrultuda hareket ettirin. X, Y, Z koordinat değerleri aşağıda gösterilmiştir.
+Cihaz kalibrasyonunu yapmadan önce düz bir zemine yerleştirin."</string>
   <string name="cit_accelermeter_sensor_check_title">İvmeölçer</string>
   <string name="cit_aud_spkcal">Kalibrasyon</string>
   <string name="cit_audio_cali_done">Kalibrasyon tamam!</string>
@@ -24,19 +24,33 @@
   <string name="cit_audio_lb_backmic_to_speaker_title">Arkaplan Mikrofon ses vericisi testi</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Arkaplan Mikrofon ses vericisi testi</string>
   <string name="cit_audio_lb_phonecall_title">Çağrı test simülasyonu</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">Arka hoparlör mikrofon geribildirim testi.  \n\nTelefonu çevirin, Arka mikrofona konuşun ve sesinizi hoparlörden duyuyor olmalısınız.</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">Ana alıcı mikrofon testi.\n\nTelefonu çağrı yapar pozisyonda tutun ve mikrofona konuşun. Sesinizi duyuyor olacaksınız.</string>
-  <string name="cit_audio_lb_summary_phonecall">Arama testi simülasyonu.\n\nTelefonu çağrı yapıyor gibi tutun, ana mikrofona konuşun, sesinizi hoparlörden duyuyor olmalısınız. Bu testi sessiz bir çevrede yapın </string>
-  <string name="cit_audio_lb_summary_topmic_to_speaker">Arka hoparlör mikrofon geribildirim testi.  \n\nTelefonu çevirin, Arka mikrofona konuşun ve sesinizi hoparlörden duyuyor olmalısınız</string>
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Arka hoparlör mikrofon geribildirim testi. 
+  
+  Telefonu çevirin, Arka mikrofona konuşun ve sesinizi hoparlörden duyuyor olmalısınız.</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Ana alıcı mikrofon testi. 
+  
+  Telefonu çağrı yapar pozisyonda tutun ve mikrofona konuşun. Sesinizi duyuyor olacaksınız."</string>
+  <string name="cit_audio_lb_summary_phonecall">"Arama testi simülasyonu. 
+  
+  Telefonu çağrı yapıyor gibi tutun, ana mikrofona konuşun, sesinizi hoparlörden duyuyor olmalısınız. Bu testi sessiz bir çevrede yapın "</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Arka hoparlör mikrofon geribildirim testi. 
+  
+  Telefonu çevirin, Arka mikrofona konuşun ve sesinizi hoparlörden duyuyor olmalısınız"</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Üst Mikrofon - Hoparlör geri bildirim testi</string>
   <string name="cit_audio_loopback_check_one_title">Mikrofon ses alıcısı testi</string>
-  <string name="cit_audio_loopback_check_summary_first">Ana mikrofon ses kayıt geribesleme testi\n\nTelefonunuzu arama yapıyormuş gibi tutarak mikrofona konusun, alıcıdan sesinizi duymalısınız.</string>
-  <string name="cit_audio_loopback_check_summary_second">İkincil mikrofon hoparlör testi.\n\nTelefonu kulaklık girişi aşağıya bakacak şekilde çevirin. Alıcıya konuşun. Sesinizi harici hoparlörden duymalısınız.</string>
+  <string name="cit_audio_loopback_check_summary_first">"Ana mikrofon ses kayıt geribesleme testi. 
+  
+  Telefonunuzu arama yapıyormuş gibi tutarak mikrofona konusun, alıcıdan sesinizi duymalısınız.</string>
+  <string name="cit_audio_loopback_check_summary_second">"İkincil mikrofon hoparlör testi. 
+  
+  Telefonu kulaklık girişi aşağıya bakacak şekilde çevirin. Alıcıya konuşun. Sesinizi harici hoparlörden duymalısınız."</string>
   <string name="cit_audio_loopback_check_two_title">Mikrofon ses vericisi testi</string>
   <string name="cit_audio_loopback_dualmic_earpiece_title">Ortam gürültüsü azaltma testi</string>
   <string name="cit_audio_loopback_next">Sonraki</string>
   <string name="cit_audio_loopback_previous">Önceki</string>
-  <string name="cit_audio_loopback_summary_dualmic_earpiece">Ortam gürültüsü indirgeme testi\n\nTelefonu çağrı cevaplıyormuş gibi tutun ve mikrofona konuşun. Sesinizin ortam gürültüsünden arındırılmış halini duyacaksınız.</string>
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Ortam gürültüsü indirgeme testi. 
+  
+  Telefonu çağrı cevaplıyormuş gibi tutun ve mikrofona konuşun. Sesinizin ortam gürültüsünden arındırılmış halini duyacaksınız."</string>
   <string name="cit_battery_temp_fail">Pil ısısı normal değil (değer=%d)</string>
   <string name="cit_battery_temp_pass">Pil ısısı normal</string>
   <string name="cit_batterylight_blue">Mavi</string>
@@ -50,14 +64,19 @@
   <string name="cit_bluetooth_address_open_error">Bluetooth adres bilgileri alınamıyor. Bluetooth cihazı açılırken bir hata oluştu.</string>
   <string name="cit_bluetooth_not_support">Bu telefon bluetooth cihazlarını desteklemiyor</string>
   <string name="cit_bluetooth_scan_retry">Tekrar tara</string>
-  <string name="cit_bluetooth_scanning">Bluetooth cihazları taranıyor\u2026</string>
+  <string name="cit_bluetooth_scanning">Bluetooth cihazları taranıyor...</string>
   <string name="cit_bluetooth_scanning_bluetooth_done">Tarama tamamlandı. Hiçbir cihaz bulunamadı.</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Bluetooth cihazını açarken hata oluştu.</string>
-  <string name="cit_bluetooth_scanning_opening_bluetooth">Bluetooth cihazı açılıyor\u2026</string>
+  <string name="cit_bluetooth_scanning_opening_bluetooth">Bluetooth cihazı açılıyor...</string>
   <string name="cit_button_light_off">Tuş ışıklarını kapat</string>
   <string name="cit_button_light_on">Tuş ışıklarını aç</string>
   <string name="cit_calibration_fail">Kalibrasyon hatası</string>
   <string name="cit_calibration_pass">Kalibrasyon geçildi</string>
+  <string name="cit_camera_calibration_summary">"Test talimatları:
+  
+1.Kamera arayüzüne girmek için aşağıdaki kalibrasyon butonuna dokunun.
+2.Çıkmak için Geri Butonuna dokunun.
+3.OIS kalibasyonu bitince size bildirilecektir."</string>
   <string name="cit_camera_sdcard_error">Fotoğraf çekilemedi, SD kart dolu.</string>
   <string name="cit_charger_plugin_check_summary">USB şarz cihazı bağlandığı zaman \"USB/AC ile Şarj oluyor\" yazısı altında görüntülenmeledir.</string>
   <string name="cit_charger_plugin_check_title">Şarj aleti (cihaza bağlayın)</string>
@@ -82,7 +101,12 @@
   <string name="cit_fm_open_2">FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Bluetooth açılıyor...</string>
   <string name="cit_fm_start_service">Radyoyu aç</string>
-  <string name="cit_front_camera_check_summary">Test kılavuzu:\n\n1.Ön kamera arayüzüne girmek için kamera düğmesine dokunun\n2.Deklanşöre basın\n3.Kontrol simgesine basın. Sistem fotoğrafı otomatik olarak saklayacaktır.\n4Çekilen fotoğraf aşağıda gösterilmelidir. Testi tamamlamak için \"Sil\" e dokunun.</string>
+  <string name="cit_front_camera_check_summary">"Test kılavuzu:
+  
+  1.Ön kamera arayüzüne girmek için kamera düğmesine dokunun
+  2.Deklanşöre basın
+  3.Kontrol simgesine basın. Sistem fotoğrafı otomatik olarak saklayacaktır.
+  4Çekilen fotoğraf aşağıda gösterilmelidir. Testi tamamlamak için \"Sil\" e dokunun."</string>
   <string name="cit_front_camera_check_title">Ön Kamera</string>
   <string name="cit_gps_check_summary">GPS ile ilgili bilgi aşağıda gösterilmektedir.</string>
   <string name="cit_gps_check_title">GPS</string>
@@ -135,10 +159,16 @@
   <string name="cit_light_sensor_check_title">Işık sensörü</string>
   <string name="cit_magnetic_sensor_check_summary">Aşağıda, mevcut manyetik sensör değerleri X, Y, Z değerleri gösterilmiştir</string>
   <string name="cit_magnetic_sensor_check_title">Manyetik sensör</string>
-  <string name="cit_main_camera_check_summary">Test kılavuzu:\n\n1.Arka kamera arayüzüne girmek için kamera düğmesine dokunun\n2.Flash\'ın aktif olduğundan emin olun\n3.Deklanşöre basın\n4.Kontrol simgesine basın. Sistem fotoğrafı otomatik olarak kaydedecektir.\n5Çekilen fotoğraf aşağıda gösterilmelidir. Testi tamamlamak için \"Sil\" e dokunun.</string>
+  <string name="cit_main_camera_check_summary">"Test kılavuzu:
+  
+  1.Arka kamera arayüzüne girmek için kamera düğmesine dokunun
+  2.Flaşın açık olduğundan emin olun
+  3.Deklanşöre basın
+  4.Kontrol simgesine basın. Sistem fotoğrafı otomatik olarak kaydedecektir.
+  5Çekilen fotoğraf aşağıda gösterilmelidir. Testi tamamlamak için \"Sil\" e dokunun."</string>
   <string name="cit_main_camera_check_title">Arka kamera</string>
   <string name="cit_name">Donanım testleri</string>
-  <string name="cit_not_available">Bu test MIUI\'nin bu versiyonunda yapılamaz</string>
+  <string name="cit_not_available">Bu test MIUI\'ın bu versiyonunda yapılamaz</string>
   <string name="cit_notificationlight">Bildirim ışığı</string>
   <string name="cit_notificationlight_off">Bildirim ışığını kapat</string>
   <string name="cit_notificationlight_on">Bildirim ışığını aç</string>
@@ -162,7 +192,8 @@
   <string name="cit_sd_fail">Bir hata oluştu</string>
   <string name="cit_sd_mount">SD kartı tak</string>
   <string name="cit_sd_mount_sucess">SD kart takıldı</string>
-  <string name="cit_sd_mp3_not_existed">SD kart için de \"music.mp3\" adında dosya bulunamadı.\n \"music.mp3\" dosyasını SD karta attıktan sonra tekrar deneyiniz.</string>
+  <string name="cit_sd_mp3_not_existed">SD kart için de \"music.mp3\" adında dosya bulunamadı.
+  \"music.mp3\" dosyasını SD karta attıktan sonra tekrar deneyiniz.</string>
   <string name="cit_sd_plugged_in">SD kart algılandı, şimdi SD kartı çıkarın</string>
   <string name="cit_sd_plugged_out">SD kart kaldırıldı, şimdi SD kartı takın</string>
   <string name="cit_sd_plugin_check_summary">\"SD kart algılandı, SD kartı çıkar\" yazısı altında görüntülenmeledir.</string>
@@ -205,7 +236,7 @@
   <string name="cit_tool_log_bugreport">Hata raporu</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
   <string name="cit_tool_log_file_not_exist">%s bulunamadı</string>
-  <string name="cit_tool_log_generate_bugreport">Hata raporu oluşturuluyor\u2026</string>
+  <string name="cit_tool_log_generate_bugreport">Hata raporu oluşturuluyor...</string>
   <string name="cit_tool_log_kmsg">Son kernel günlüğü</string>
   <string name="cit_tool_log_logcat">ADB logu</string>
   <string name="cit_tool_log_modem">Modem logu</string>
@@ -267,7 +298,7 @@
   <string name="cit_usb_charger_out">USB şarj çıkarıldı.</string>
   <string name="cit_version_check_summary">Aşağıda işletim sistemi bilgisi bulunmaktadır. Yeşil ile belirtilen alanın doğru olduğunu onaylayın.</string>
   <string name="cit_version_check_title">Versiyon bilgisini kontrol et</string>
-  <string name="cit_vga_camera_calibration">Calibration</string>
+  <string name="cit_vga_camera_calibration">Kalibrasyon</string>
   <string name="cit_vga_camera_capture">Fotoğraf çek</string>
   <string name="cit_vga_camera_capture_fail">Fotoğraf çekilemedi</string>
   <string name="cit_vga_camera_delete">Fotoğrafı sil</string>
@@ -287,8 +318,8 @@
   <string name="cit_wifi_address_error">Wi-Fi adresi alamadı, Wi-Fi bağlantısını kontrol edip tekrar deneyin.</string>
   <string name="cit_wifi_ap_scan_check_summary">Aşağıdaki alanda tespit edilen  Wi-Fi AP cihazların bilgileri yer almaktadır. Yeşil ile vurgulanmış bilgilerin doğruluğunu onaylayın.</string>
   <string name="cit_wifi_ap_scan_check_title">Wi-Fi erişim noktası tarama</string>
-  <string name="cit_wifi_ap_scan_retry">Tekrar taranıyor\u2026</string>
-  <string name="cit_wifi_ap_scanning">Taranıyor\u2026</string>
+  <string name="cit_wifi_ap_scan_retry">Tekrar taranıyor...</string>
+  <string name="cit_wifi_ap_scanning">Taranıyor...</string>
   <string name="cit_wifi_fail_to_scan">Herhangi bir Wi-Fi ağı bulamadı</string>
   <string name="cit_wifi_state_refresh">Yenile</string>
 </resources>
