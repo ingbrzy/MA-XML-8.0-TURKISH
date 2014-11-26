@@ -1879,6 +1879,8 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_scan_notify_text_location_on">"Konum doğruluğunu artırmak  ve diğer amaçlar için, Google ve diğer uygulamalar Wi-Fi kapalı olduğunda bile, yakındaki ağları tarayabilir. Bu özelliği kapatmak için Gelişmiş sekmesine bakabilirsiniz."</string>
   <string name="wifi_secured_first_item">%1$s ile şifrelenmiş</string>
   <string name="wifi_secured_second_item">,  %1$s ile şifrelenmiş</string>
+  <string name="wifi_security">Güvenlik</string>
+  <string name="wifi_security_none">Yok</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>

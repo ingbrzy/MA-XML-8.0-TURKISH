@@ -195,6 +195,10 @@
   <string name="filename_empty_alert_message">Bir dosya ismi girin :)</string>
   <string name="filename_illegal_alert_message">Dosya isminden geçersiz bir karakter çıkartıldı</string>
   <string name="find_on_page">Sayfada bul</string>
+  <string name="find_on_page_cancel">İptal</string>
+  <string name="find_on_page_matches">%d eşleşme</string>
+  <string name="find_on_page_next">İleri</string>
+  <string name="find_on_page_prev">Geri</string>
   <string name="folder_name">Klasör ismi</string>
   <string name="general_set_default_browser_dialog_close_txt">Kapat</string>
   <string name="general_set_default_browser_dialog_ok_txt">Tamam</string>
@@ -231,6 +235,7 @@
   <string name="local_bookmarks">Xiaomi</string>
   <string name="low_memory_error">"Düşük bellek nedeniyle önceki işlemi tamamlanamıyor"</string>
   <string name="max_tabs_warning">Sekme limitine erişildi</string>
+  <string name="maximum_input_alert">En çok 2048 karakter girilebilir!</string>
   <string name="media_player_error_button">Tamam</string>
   <string name="media_player_error_text_invalid_progressive_playback">"Üzgünüz, video akışı yapılamaz"</string>
   <string name="media_player_error_text_unknown">"Üzgünüz, Bu video oynatılamaz."</string>
@@ -534,6 +539,8 @@
   <string name="too_many_windows_dialog_title">Sekme limitine erişildi</string>
   <string name="up_to_loading_tips">Yenilemek için bırakın</string>
   <string name="url_copy_done">URL panoya kopyalandı.</string>
+  <string name="url_find_on_page_result">Tarayıcıda Görüntüle</string>
+  <string name="url_find_on_page_result_item">\"%s\" için tüm metni görüntüle</string>
   <string name="url_hint">Arayın veya URL adresini girin</string>
   <string name="url_opened_in_background">Arkaplan sekmesinde aç</string>
   <string name="url_suggest_indicator_bookmark">Yer imleri/Geçmiş</string>

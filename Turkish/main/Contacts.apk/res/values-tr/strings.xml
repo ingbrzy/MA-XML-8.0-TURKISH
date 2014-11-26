@@ -84,7 +84,7 @@
   <string name="call_work">İşi Ara</string>
   <string name="call_work_mobile">İş Telefonunu Ara</string>
   <string name="call_work_pager">İş Çağrı Cihazını Ara</string>
-  <string name="calllog_menu_blacklist">Engelle</string>
+  <string name="calllog_menu_blacklist">Kara Listeye ekle</string>
   <string name="calllog_menu_edit_before_call">Düzenle</string>
   <string name="calllog_menu_send_sms">İleti gönder</string>
   <string name="callrecordview_item_newcontact">Yeni Kişi</string>
@@ -305,8 +305,8 @@
   <string name="display_sim_contacts">SIM kayıtlarını göster</string>
   <string name="display_ungrouped">Tüm diğer kişiler</string>
   <string name="display_warn_remove_ungrouped">\"%s\" senkronize ile gruplandırılmamış kişilerden kaldırılıyor.</string>
-  <string name="dlg_add_blacklist">Bu numara engellensin mi?</string>
-  <string name="dlg_remove_blacklist">Bu numaranın engeli kaldırılsın mı?</string>
+  <string name="dlg_add_blacklist">Bu numara Kara Listeye eklensin mi?</string>
+  <string name="dlg_remove_blacklist">Bu numara Kara Listeden kaldırılsın mı?</string>
   <string name="duplicate_group_name">Grup adı zaten var</string>
   <string name="editContactDescription">Kişiyi Düzenle</string>
   <string name="editGroupDescription">Grubu düzenle</string>
@@ -713,7 +713,7 @@
   <string name="savingContact">Kişi kaydediliyor...</string>
   <string name="savingDisplayGroups">Görüntüleme seçenekleri kaydediliyor...</string>
   <string name="scan">Tara</string>
-  <string name="scan_duplicate_message">Rehberde tekrarlanan veriler %1$d</string>
+  <string name="scan_duplicate_message">%1$d kişi aynı bilgiyi içeriyor.</string>
   <string name="scan_merge">Muhtemel çift girişler aranıyor, lütfen bekleyin...</string>
   <string name="scan_qrcode_card_hint1">QR Kodunu tara</string>
   <string name="scan_qrcode_card_hint2">Bilgileri kişilerinize ekleyin</string>

@@ -241,6 +241,9 @@
   <string name="body_hint">E-posta yaz</string>
   <string name="body_forward_email_text">[Yönlendir]</string>
   <string name="body_inline_pic_text">[resim]</string>
+  <string name="bottom_bar_more_delete">Sil</string>
+  <string name="bottom_bar_more_quickreply">Hızlı cevap</string>
+  <string name="bottom_bar_more_unread">Okunmadı</string>
   <string name="button_bind_phone">Bağla</string>
   <string name="button_count_down_reget">Doğrulama kodu alın (%1$s)</string>
   <string name="button_reget">Doğrulama kodu alın</string>
@@ -495,8 +498,8 @@
   <string name="mark_important">Önemli olarak işaretle</string>
   <string name="mark_not_important">Önemsiz olarak işaretle</string>
   <string name="mark_not_spam">İstenmeyen olarak raporla</string>
-  <string name="mark_read">Okunmuş</string>
-  <string name="mark_unread">Okunmamış</string>
+  <string name="mark_read">Okundu</string>
+  <string name="mark_unread">Okunmadı</string>
   <string name="me_object_pronun">Ben</string>
   <string name="me_subject_pronun">Ben</string>
   <string name="meeting_accepted">Kabul edilen: %s</string>
