@@ -27,12 +27,13 @@
   <string name="actionbar_web_search">"Ara"</string>
   <string name="adblock_notification">%d reklam engellendi</string>
   <string name="adblock_rules_number_text">%d öğe engellendi</string>
-  <string name="adblock_rules_restore">Onar</string>
-  <string name="adblock_websites_settings_empyt_hint">Boş kural</string>
-  <string name="adblock_websites_settings_title">Özel kurallar</string>
+  <string name="adblock_rules_restore">Engeli kaldır</string>
+  <string name="adblock_websites_settings_empyt_hint">"Engellenen site yok"</string>
+  <string name="adblock_websites_settings_title">Engellenen siteler</string>
   <string name="add_bookmark">Yer İmlerine Ekle</string>
   <string name="add_bookmark_group">Grup ekle</string>
-  <string name="add_folder">Klasöre ekle</string>
+  <string name="add_folder">Yer İmlerine ekle</string>
+  <string name="add_new_bookmark">Add bookmark</string>
   <string name="add_new_quicklink">Hızlı bağlantılara ekle</string>
   <string name="add_ql_bm_title">Kaydet</string>
   <string name="add_quicklink_to_popular">Açılış sayfasına ekle</string>
@@ -86,10 +87,10 @@
   <string name="clear_history_group">Geçmişi Temizle (%s sayfa)</string>
   <string name="clear_search_history">Geçmişi Temizle</string>
   <string name="clip_dialog_title">Kopyalanan URL açılsın mı?</string>
-  <string name="close_ads_choice_no">Hayır</string>
-  <string name="close_ads_choice_yes">Evet</string>
-  <string name="close_ads_message">Bu içeriği kapatacaksınız. Bu içerik daha sonra engellensin mi? Engellenen içerik; Ayarlar &gt; Gelişmiş &gt; Özel kurallar sekmesinde görüntülenecektir. </string>
-  <string name="close_ads_title">İpucu</string>
+  <string name="close_ads_choice_no">Engelle</string>
+  <string name="close_ads_choice_yes">İzin ver</string>
+  <string name="close_ads_message">Bu sitenin içeriği engellenecek. Bu içerik daha sonra engellensin mi? Engellenen içerik; Ayarlar &gt; Gelişmiş &gt; Özel kurallar sekmesinde görüntülenecektir. </string>
+  <string name="close_ads_title">İçerik engellenecek!</string>
   <string name="close_all_tab_alert_message">"Tüm sekmeler kapatılsın mı?"</string>
   <string name="close_all_tab_alert_title">"Tüm sekmeleri kapat"</string>
   <string name="close_cloud_tab_tip">%s üzerindeki bulut sekmeleri kapatılsın mı?</string>
@@ -146,6 +147,9 @@
   <string name="copy_to_clipboard_failure_message">"Panoya kopyalama başarısız"</string>
   <string name="copy_url">Bağlantıyı kopyala</string>
   <string name="create_qr_code">QR Kodu</string>
+  <string name="data_traffic_prompt_change">Gezinmek için mobil veri bağlantısı kullanılacak. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
+  <string name="data_traffic_prompt_message">Gezinmek için mobil veri bağlantısı kullanılacak. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
+  <string name="data_traffic_prompt_title">Mobil veri kullanım uyarısı!</string>
   <string name="date_picker_dialog_clear">Temizle</string>
   <string name="date_picker_dialog_other_button_label">Diğer</string>
   <string name="date_picker_dialog_set">Ayarla</string>
@@ -175,7 +179,7 @@
   <string name="edit">Düzenle</string>
   <string name="edit_quicklink">Düzenle</string>
   <string name="empty_bookmark">Boş</string>
-  <string name="empty_history">Geçmiş yok.</string>
+  <string name="empty_history">Geçmiş boş</string>
   <string name="empty_history_hint">Boş</string>
   <string name="empty_snapshot_hint">Boş</string>
   <string name="enter_developer_mode">Geliştirici Modu</string>
@@ -553,6 +557,9 @@
   <string name="v5_deselect_all">Hiçbirini seçme</string>
   <string name="v5_edit_mode_title_empty">0 Seçili</string>
   <string name="v5_select_all">Tümünü seç</string>
+  <string name="video_project_button">Dur</string>
+  <string name="video_project_msg">%s üzerinden gösteriliyor</string>
+  <string name="video_project_title">Harici ekran</string>
   <string name="video_title">Video</string>
   <string name="voice_sub_title">Ne diyeceğinizi bilmiyor musunuz? \"mi.com\" u deneyin.</string>
   <string name="voice_title">Komutunuzu konuşun...</string>
@@ -603,5 +610,7 @@
   <string name="webview_no_matches">Hiçbir şey bulunamadı</string>
   <string name="webview_ok">Tamam</string>
   <string name="webview_older">Eski</string>
+  <string name="webview_today">Bugün</string>
+  <string name="webview_yesterday">Dün</string>
   <string name="week_picker_dialog_title">Haftayı ayarla</string>
 </resources>

@@ -60,6 +60,13 @@
         <item>Büyük</item>
         <item>Çok Büyük</item>
     </string-array>
+	 <string-array name="pref_text_size_choices">
+		<item>Çok Küçük</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+        <item>Çok Büyük</item>
+	</string-array>
      <string-array name="pref_content_plugins_choices">
         <item>Her zaman Açık</item>
         <item>İsteğe göre</item>
