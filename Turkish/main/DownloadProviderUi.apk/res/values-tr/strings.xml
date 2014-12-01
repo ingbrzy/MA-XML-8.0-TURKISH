@@ -27,7 +27,7 @@
   <string name="dialog_cannot_resume">İndirme kesildi, devam edilemiyor.</string>
   <string name="dialog_confirm_delete_checkbox_message">Yerel dosyaları sil</string>
   <string name="dialog_confirm_delete_downloads_message">%d görev silinsin mi?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Bu görevleri sil</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Bu görevleri silmek istiyor musunuz</string>
   <string name="dialog_failed_body">İndirme daha sonra tekrar denesin ya da dosya silinsin mi?</string>
   <string name="dialog_file_already_exists">Indirilemiyor, hedef dosya zaten var.</string>
   <string name="dialog_file_missing_body">İndirilen dosya bulunamadı.</string>
@@ -68,6 +68,7 @@
   <string name="download_title">İndirilenler</string>
   <string name="download_title_sorted_by_date">İndirilenler - Tarihe göre</string>
   <string name="download_title_sorted_by_size">İndirilenler - Boyuta göre</string>
+  <string name="download_wait_connect">Bağlantı bekleniyor</string>
   <string name="download_when_network_connected">İndirme mobil şebekeyi kullanıyor</string>
   <string name="downloads_operating">Çalışıyor...</string>
   <string name="dredge_xunlei_account">Opening of the Xunlei member</string>
@@ -105,7 +106,7 @@
   <string name="paused_queued_for_wifi">Wi-Fi bağlantısı bekleniyor</string>
   <string name="paused_unknown">Bilinmeyen hata</string>
   <string name="paused_waiting_for_network">Ağ bağlantısı bekleniyor</string>
-  <string name="paused_waiting_to_retry">Yeniden denemek için bekleniyor</string>
+  <string name="paused_waiting_to_retry">Yeniden denemek için bekliyor</string>
   <string name="period_of_validity">Geçerlilik:</string>
   <string name="prefDefault_max_bytes_limit">52428800</string>
   <string name="pref_dialog_title_max_bytes_limit">Dosya boyutu limiti</string>

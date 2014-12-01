@@ -1265,6 +1265,10 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="recent_location_requests_summary">Aşağıdaki uygulamalar konum bilginizi görüntülemek istiyor</string>
   <string name="recent_location_requests_title">Konum erişimi</string>
   <string name="recompute_size">Hesaplanıyor...</string>
+  <string name="regulatory_information">Düzenleme bilgileri</string>
+  <string name="remove_account_failed">Bu hesap, bazı uygulamalar için gereklidir. Hesabı ancak Ayarlar &gt; Yedek &amp; sıfırlama içinden telefonu varsayılan fabrika ayarlarına geri döndürerek kaldırabilirsiniz (tüm kişisel verileriniz silinir).</string>
+  <string name="remove_account_label">Hesabı kaldır</string>
+  <string name="remove_device_admin">Devre dışı bırak</string>
   <string name="remove_from_frequently_fragment">\"%s\" öğesi Genel Ayarlardan kaldırılsın mı?</string>
   <string name="reset_app_preferences">Uygulama ayarlarını sıfırla</string>
   <string name="reset_app_preferences_button">Uygulamaları sıfırla</string>
@@ -1525,7 +1529,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="status_bar_settings_show_notificationBar_notification">Bildirim çubuğunda göster</string>
   <string name="status_bar_settings_show_notification_icon">Bildirim simgesini göster</string>
   <string name="status_bar_settings_show_screenshot_notification">Ekran görüntüsü bildirimini göster</string>
-  <string name="status_bar_settings_show_statusBar_notification">Tuş kilidinde göster</string>
+  <string name="status_bar_settings_show_statusBar_notification">Bildirimleri kilit ekranında göster</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Bildirim, ekranın üst kısmında görünür ve otomatik olarak kaybolur</string>
   <string name="status_bar_settings_show_wifi_name">Wi-Fi göster</string>
   <string name="status_bar_settings_status_bar">Durum çubuğu</string>
