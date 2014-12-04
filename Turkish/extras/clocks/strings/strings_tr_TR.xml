@@ -2,4 +2,6 @@
 <strings> 
     <string name="date_time" value="d MMMM EEEE"/>
     <string name="language" value="tr"/>
+	<string name="desc_date_format" value="d MMMM EEEE"/>
+    <string name="desc_time" value="'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', Saati göstermek için iki kez dokunun'"/>
 </strings>

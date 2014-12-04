@@ -11,6 +11,8 @@
   <string name="bluetooth_problem3">"Dosya gönderilemiyor"</string>
   <string name="bluetooth_problem4">"Dosya alamıyor"</string>
   <string name="btn_send">Gönder</string>
+  <string name="button_feedback">Diğer</string>
+  <string name="button_plus">+1</string>
   <string name="camera_problem1">Kötü fotoğraf kalitesi</string>
   <string name="camera_problem2">"USB Kamera bağlanamıyor"</string>
   <string name="camera_problem3">Kamera kendiliğinden kapanıyor</string>
@@ -29,12 +31,18 @@
   <string name="err_type">Hata türü</string>
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Kamera</string>
+  <string name="err_type_hardware">Donanım</string>
+  <string name="err_type_hardware_summary">Tuşlar, şarj, sensörler vs.</string>
+  <string name="err_type_mysuggestion">Öneriler</string>
+  <string name="err_type_mysuggestion_summary">Geribildirim ile fikirlerinizi paylaşın.</string>
   <string name="err_type_nonsystemapp">Uygulamalar</string>
   <string name="err_type_power_consuming">Güç tüketimi</string>
   <string name="err_type_reboot">T.Başlatma</string>
   <string name="err_type_signal">Ağ sorunları</string>
   <string name="err_type_suggestion">Öneriler</string>
   <string name="err_type_systemapp">Sistem</string>
+  <string name="err_type_system">Sistem</string>
+  <string name="err_type_system_summary">Hafıza, performas vs.</string>
   <string name="err_type_wifi">Wi-Fi</string>
   <string name="hot_problem">Genel hataları göster</string>
   <string name="loading_apps">Liste oluşturuluyor...</string>
@@ -52,6 +60,9 @@
   <string name="power_consuming_problem1">"Güncellemeden sonra güç tüketimi arttı"</string>
   <string name="power_consuming_problem2">"Bu uygulamayı kullandığımda güç tüketiyor"</string>
   <string name="power_consuming_problem3">"Bekleme sırasında yüksek güç tüketimi"</string>
+  <string name="problem_detail">Sebep</string>
+  <string name="problem_solution">Çözüm</string>
+  <string name="problem_title">Açıklama</string>
   <string name="reboot_problem1">"Yeniden başlatılamıyor"</string>
   <string name="reboot_problem2">"Belirli bir uygulamayı kullanırken rastgele yeniden başlatılıyor"</string>
   <string name="refresh">Yenile</string>

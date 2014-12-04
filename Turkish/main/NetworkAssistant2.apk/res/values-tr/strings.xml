@@ -227,8 +227,13 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="pref_traffic_saving_whitelist_hint">"Uygulamalar grubunu seçmek için veri kısıtlamalarını kaldır"</string>
   <string name="pref_version">Versiyon %s</string>
   <string name="pref_warning_values">Mobil veri uyarı değeri</string>
-  <string name="privacy_declare_dialog_message">"Bu servisi kullandığınız zaman Opera\'nın &lt;a href=http://max.oupeng.com/eula.html&gt; Hizmet Şartlarını&lt;/a&gt; kabul etmiş olursunuz."</string>
+  <string name="privacy_declare_dialog_message">"Bu servisi kullandığınız zaman Opera\'nın Hizmet Şartlarını kabul etmiş olursunuz."</string>
   <string name="privacy_declare_dialog_title">Hizmet Şartları</string>
+  <string name="privacy_prompt_purchase_history_message">"Telefon numaranız ve taşıyıcı detayları, mobil veri satın alma geçmişini almak için Xiaomi sunucularına yüklenecektir."</string>
+  <string name="privacy_prompt_tc_sms_report_message">"Telefon numaranız ve taşıyıcı detayları, veri kullanım bilgisini güncellemek için Xiaomi sunucularına yüklenecektir."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"Telefon numaranız ve taşıyıcı detayları, SMS sorgu şablonlarını güncellemek ve bu özelliğin sizin bölgenizde mevcut olup olmadığını kontrol etmek için Xiaomi sunucularına yüklenecektir."</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Telefon numaranız ve taşıyıcı detayları, veri satın alma seçenekleri hakkında daha fazla bilgi almak için Xiaomi sunucularına yüklenecektir."</string>
+  <string name="privacy_prompt_upload">Gizlilik bildirimi</string>
   <string name="read_number">86 makale</string>
   <string name="read_unit">" makale"</string>
   <string name="right_precent">100%</string>
@@ -247,12 +252,16 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="tips_message">Eğer mobil veri limitini bilmiyorsanız, %2$s (%1$s) arayarak kontrol edebilirsiniz (Sadece Çin).</string>
   <string name="traffic_config_alert_body">"Operatörünüzünün hesaplamasına göre %s kullandınız.
   Veri kullanımı bilgisi güncellensin mi?"</string>
-  <string name="traffic_config_alert_body_leisure">"Operatörünüzün hesabına göre bu ay en yüksek %1$s kullandınız.
-  Bu değer elle ayarladığınız %2$s değerinden farklı."</string>
+  <string name="traffic_config_alert_body_extra">"
+ Bu ay %1$s of ek veri aldınız. Bu manuel eklediğiniz %2$s göre farklı."</string>
+  <string name="traffic_config_alert_body_extra_notset">"
+ Bu ay %s of ek veri aldınız. Bu aylık veri planınızı yansıtmaz"</string>
+  <string name="traffic_config_alert_body_leisure">"
+ Aylık planlanmış veri limitiniz %1$s. Bu manuel ayarladığınız %2$s göre farklı."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
-  Operatörünüzün hesabına göre bu ay geriye %s limit üstü kullanabileceğiniz veri kaldı. Limit üstü için bir değer ayarlamadınız."</string>
+ Aylık planlanmış veri limitiniz %1$s. Limit üstü için bir değer ayarlamadınız."</string>
   <string name="traffic_config_alert_body_normal">
-  "Operatörünüzün hesabına göre bu ay en yüksek %1$s kullandınız. Bu değer elle ayarladığınız %2$s değerinden farklı."</string>
+ "Aylık planlanmış veri limitiniz %1$s . Bu değer elle ayarladığınız %2$s değerinden farklı."</string>
   <string name="traffic_config_alert_cancel">İptal</string>
   <string name="traffic_config_alert_nomore">"Tekrar gösterme"</string>
   <string name="traffic_config_alert_ok">Tamam</string>

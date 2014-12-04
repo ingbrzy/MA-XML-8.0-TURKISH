@@ -32,6 +32,8 @@
   <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_city">Düzenle</string>
+  <string name="first_start_network_msg">Hava durumu bilgilerinin alınması için ağ bağlantısı gerekmektedir.</string>
+  <string name="first_start_network_title">Bağlantı uyarısı</string>
   <string name="gps_hint">Geçerli konum</string>
   <string name="loading_weather">Yükleniyor...</string>
   <string name="location_allow_err">"Konumunuz belirlenemiyor"</string>

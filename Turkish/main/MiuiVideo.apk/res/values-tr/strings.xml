@@ -186,7 +186,7 @@
   <string name="offline_media_empty_hint">Boş</string>
   <string name="offline_no_source">"Çevrimdışı modda görüntüleyemezsiniz"</string>
   <string name="offline_no_wifi">Wi-Fi bağlantısı yok. Videoyu indirmek için mobil veri bağlantısını etkinleştirin.</string>
-  <string name="offline_setting">Çevrimdışı içerik</string>
+  <string name="offline_setting">Veri kullanımı</string>
   <string name="ok">Tamam</string>
   <string name="online_video">Online</string>
   <string name="other_setting">Diğer</string>
@@ -273,6 +273,8 @@
   <string name="upgrade">Güncelle</string>
   <string name="use_cellular_network">Mobil veri bağlantısı kullanın</string>
   <string name="use_cellular_network_summary">Video indirmek için mobil veri bağlantısı kullan.</string>
+  <string name="use_cellular_offlinedownload_summary">Mobil veri ile video indirirken bildirim göster</string>
+  <string name="use_cellular_offlinedownload_title">İndirme bildirimleri</string>
   <string name="use_cellular_play_summary">Mobil veri ile video izlerken bildirim göster</string>
   <string name="use_cellular_play_title">Veri kullanım bildirimi</string>
   <string name="userdata_alert_content">"Video izlemek için mobil veri bağlantısı kullanmak veri kullanımını arttırır. Veri kullanım sınırını aşarsanız, operatörünüz tarafından ekstra ücret talep edilebilir."</string>

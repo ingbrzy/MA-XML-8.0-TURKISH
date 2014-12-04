@@ -59,10 +59,10 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="find_device_success_title">CİHAZIMI BUL</string>
   <string name="finish">TAMAM</string>
   <string name="flight_mode">Uçak modu</string>
-  <string name="free_space_has_received">Bu ay zaten ücretsiz alan eklenmiş!</string>
+  <string name="free_space_has_received">Bu ayki ücretsiz alan eklendi!</string>
   <string name="free_space_receive_fail">"Güncellenemiyor!"</string>
   <string name="get_first_month_gb">%s ücretsiz alan alın</string>
-  <string name="get_this_month_gb">Bu ay %s ücretsiz alan alın</string>
+  <string name="get_this_month_gb">%s ücretsiz alan alın</string>
   <string name="google_100gb">100GB</string>
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
@@ -78,6 +78,11 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="master_alert_notif_dspt_no">Herşey güncel.</string>
   <string name="master_alert_notif_title">Son senkronizasyon %s gün önce</string>
   <string name="micloud">Mi Bulut</string>
+  <string name="micloud_check_sim_notify_text">"SIM kartınız değişmiş gibi görünüyor. 
+  Mi Hesabınızla oturum açarak Mi Bulut hizmetini tekrar etkinleştirin."</string>
+  <string name="micloud_check_sim_notify_title">Mi Bulutu tekrar etkinleştir</string>
+  <string name="micloud_check_sim_title">"SIM kartınız değişmiş gibi görünüyor. 
+  Mi Hesabınızla oturum açarak Mi Bulut hizmetini tekrar etkinleştirin."</string>
   <string name="micloud_detail_fail">Başarısız</string>
   <string name="micloud_detail_lastest">Senkronize edildi</string>
   <string name="micloud_detail_pending">Bekliyor</string>
@@ -111,6 +116,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_main_space_risk">%d veri senkronize edilecek, lütfen deplama alanınızı güncelleyin.</string>
   <string name="micloud_main_stop_sync">Senkronizeyi durdur</string>
   <string name="micloud_main_suggest_sync">"Senkronize edilmemiş bazı öğeler var"</string>
+  <string name="micloud_main_sync_exception">Senkronizasyon hatası!</string>
   <string name="micloud_main_sync_now">Şimdi senkronize et</string>
   <string name="micloud_main_sync_on_wifi">Wi-Fi kullan</string>
   <string name="micloud_main_sync_pause">Senkronize durakladı</string>

@@ -11,6 +11,15 @@
   <string name="apply_update_dialog_cancel_button">İptal</string>
   <string name="apply_update_dialog_update_button">Güncelle</string>
   <string name="apply_upload_info_message">Telefonunuz yeniden başlatılacak ve güncelleme hemen yüklenecektir.</string>
+  <string name="auto_agree_clause">"Güncellenmiş Gizlilik Politikamız şimdiden yürürlüğe girmiştir. "</string>
+  <string name="auto_button_examine">Gözat</string>
+  <string name="auto_button_examine_immediately">Gözat</string>
+  <string name="auto_button_sure_cancel">İptal</string>
+  <string name="auto_check_clause_button">Gözat</string>
+  <string name="auto_check_clause_msg">"Telefonunuzu güncellemeden önce bizim güncellenen Gizlilik Politikasımızı kabul etmeniz gerekmektedir. "</string>
+  <string name="auto_dialog_msg">"Biz Gizlilik Politikamızı güncelledik. Telefonuzu güncellemeden önce dikkatle okuyunuz. "</string>
+  <string name="auto_dialog_msg_check_again">"Telefonunuzu güncellemeden önce bizim güncellenen Gizlilik Politikasımızı kabul etmeniz gerekmektedir.  "</string>
+  <string name="auto_dialog_title_check_again">Güncelleme iptal edilsin mi?</string>
   <string name="auto_update">Güncelleyi otomatik indir</string>
   <string name="auto_update_sum"/>
   <string name="autosetmode">Güncelleme ayarları</string>
@@ -68,6 +77,7 @@
   <string name="fourgrid_notificaiont">Durum çubuğunda göster</string>
   <string name="get_update_error">Güncelleme bilgileri alınamadı</string>
   <string name="go_on_download">Devam</string>
+  <string name="important_suggestion">Gizlilik Politikası değişti</string>
   <string name="install">Yükle</string>
   <string name="install_failed">Güncelleme başarısız!</string>
   <string name="install_file_explorer">Lütfen dosya yöneticisi uygulamasını kurun</string>
@@ -176,6 +186,7 @@
   <string name="update_success_title">Cihaz güncellemesi tamamlandı!</string>
   <string name="updater_nolog">Değişiklikler listesi mevcut değil</string>
   <string name="updater_nonetwork">Ağ bağlantısı yok!</string>
+  <string name="updater_nonetwork_clause">Gizlilik Politikasına gözatmak için lütfen bir ağa bağlanın.</string>
   <string name="upgrade_close">Kapat</string>
   <string name="upgrade_kernel">Kernelinizi güncelleniz gerekiyor</string>
   <string name="upgrade_kernel_msg">"Kernel versiyonunuz MIUI ROM ile eşleşmiyor. Manuel olarak kerneli güncellemelisiniz. Lütfen yükseltmeyi öğrenmek için izleyin:

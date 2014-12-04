@@ -45,7 +45,7 @@
   <string name="alert_init_merged_message">"Artık cihazınızda ve Bulut alanınızda depolanan resimleriniz, Fotoğraflar sekmesinde birlikte görülebilecek. "</string>
   <string name="alert_init_merged_title">Fotoğraflarınıza kolayca ulaşın</string>
   <string name="alert_message_open_sync">Öncelikle senkronizasyonu etkinleştirmelisiniz.</string>
-  <string name="alert_secret_album_message">Bulut albümünden gizli albüme ilerleyebilirsiniz</string>
+  <string name="alert_secret_album_message">Gizli albümleri görüntülemek için albümün altından yukarı doğru kaydırın</string>
   <string name="alert_secret_album_title">Gizli Albüm</string>
   <string name="already_apply_album">"%1$s açılsın mı?"</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -175,7 +175,7 @@
   <string name="details_title">%2$d öğeden %1$d :</string>
   <string name="device_model">Cihaz</string>
   <string name="directory_info_divider">"  |  "</string>
-  <string name="do_not_save">Kaydetme</string>
+  <string name="do_not_save">"Kaydetme"</string>
   <string name="documentary">Belgesel</string>
   <string name="done">Yapıldı</string>
   <string name="doodle">Karalama</string>

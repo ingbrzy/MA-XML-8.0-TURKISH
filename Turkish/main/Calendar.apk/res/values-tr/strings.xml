@@ -17,8 +17,8 @@
   <string name="accessibility_repeats">Tekrar</string>
   <string name="accessibility_sync_cal">Takvimi eşitle</string>
   <string name="accounts">Hesaplar &amp; eşitleme</string>
-  <string name="account_and_calendar">Hesap ve takvim</string>
-  <string name="account_and_calendar_to_display">Görüntülenecek hesap ve takvim</string>
+  <string name="account_and_calendar">Hesaplar</string>
+  <string name="account_and_calendar_to_display">Görüntülenecek takvimi seçin</string>
   <string name="action_text_new_event">Yeni etkinlik</string>
   <string name="action_text_today">"Bugün"</string>
   <string name="add_account">Hesap ekle</string>
@@ -38,8 +38,8 @@
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 gün sonra %3$s kişisinin %4$s.</string>
-  <string name="birthday_notification_text_today">Tebrik etmeyi unutmayın!</string>
-  <string name="birthday_notification_title_three_days_later">%1$s kişisinin %2$s yaklaşıyor</string>
+  <string name="birthday_notification_text_today">"Tebrik etmeyi unutmayın :)"</string>
+  <string name="birthday_notification_title_three_days_later">"%1$s kişisinin %2$s yaklaşıyor"</string>
   <string name="birthday_notification_title_today">%1$s kişisinin %3$s</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">doğum günü</string>
@@ -49,7 +49,7 @@
   <string name="calendar_refresh">Yenile</string>
   <string name="calendar_server_error">Sunucu hatası</string>
   <string name="can_not_modify_allday_event">Tüm gün süren etkinlik değiştirilemez</string>
-  <string name="can_not_modify_event">Değiştirilemez</string>
+  <string name="can_not_modify_event">Etkinlik değiştirilemez</string>
   <string name="can_not_modify_repeating_acrossing_days_event">Tüm gün süren ve tekrarlanan etkinlik değiştirilemez</string>
   <string name="change_response_title">Yanıtı değiştir</string>
   <string name="chongsha"/>
@@ -62,17 +62,17 @@
   <string name="creating_event">Etkinlik oluşturuldu</string>
   <string name="creating_event_with_guest">Davetiyeler gönderilecek.</string>
   <string name="cta_notice_checkbox">Tekrar gösterme</string>
-  <string name="cta_notice_message">"Takvimdeki \"Doğumgünü hatırlatıcı\" size, kişiler listenizdeki kayıtların doğum günlerini hatırlatabilir.
-Takvimin kişiler listesine erişmesine izin veriyor musunuz?"</string>
+  <string name="cta_notice_message">"Takvimdeki Doğum günü hatırlatıcısı, size kişiler listenizdeki kayıtların doğum günlerini hatırlatabilir.
+Takvimin kişiler listesinize erişmesine izin veriyor musunuz?"</string>
   <string name="cta_notice_ok">TAMAM</string>
-  <string name="cta_notice_title">Açıklama:</string>
+  <string name="cta_notice_title">Erişim Uyarısı:</string>
   <string name="cta_notify_settings">Kişilere erişimde uyar</string>
   <string name="custom">Özel (telefondan değiştirilemez)</string>
   <string name="daily">Günlük</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Gün</string>
   <string name="day_view_new_event_hint">"Yeni etkinlik"</string>
-  <string name="default_reminder_mode">Varsayılan hatırlatma notu</string>
+  <string name="default_reminder_mode">Hatırlatıcılar</string>
   <string name="delete_calendar">Sil</string>
   <string name="delete_label">Sil</string>
   <string name="delete_recurring_event_title">%s silinsin mi?</string>
@@ -89,7 +89,7 @@ Takvimin kişiler listesine erişmesine izin veriyor musunuz?"</string>
   <string name="edit_event_confirm_message">Etkinlikteki değişikliklerden vazgeçilsin mi?</string>
   <string name="edit_event_from_label">Başlangıç zamanı</string>
   <string name="edit_event_label">Ayrıntılar</string>
-  <string name="edit_event_reminder_off_toast">Geçerli hatırlatma modu yok</string>
+  <string name="edit_event_reminder_off_toast">Hatırlatıcılar kapalı</string>
   <string name="edit_event_show_all">Tümünü göster</string>
   <string name="edit_event_to_label">Bitiş zamanı</string>
   <string name="edit_label">Düzenle</string>
@@ -124,7 +124,7 @@ Takvimin kişiler listesine erişmesine izin veriyor musunuz?"</string>
   <string name="hide_controls">Kontrolleri gizle</string>
   <string name="hint_attendees">Misafirler</string>
   <string name="hint_description">Tanım</string>
-  <string name="hint_what">Etkinlik hatırlatma içeriği</string>
+  <string name="hint_what">Etkinlik adı</string>
   <string name="hint_where">Konum</string>
   <string name="jump_date">Atla</string>
   <string name="jump_date_full">Tarihe atla</string>
@@ -152,7 +152,7 @@ Takvimin kişiler listesine erişmesine izin veriyor musunuz?"</string>
   <string name="month_medium_september">Eylül</string>
   <string name="month_view">Ay</string>
   <string name="monthly">Aylık</string>
-  <string name="monthly_on_day">"Aylık (aynı gün)"</string>
+  <string name="monthly_on_day">"Aylık (aynı tarih)"</string>
   <string name="monthly_on_day_count" formatted="false">"Aylık %1$s  %2$s "</string>
   <string name="more_string">%1$s daha...</string>
   <string name="new_event_dialog_label">Yeni etkinlik</string>
@@ -176,7 +176,7 @@ Takvimin kişiler listesine erişmesine izin veriyor musunuz?"</string>
   <string name="preferences_alerts_vibrateWhen_title">Titreşim</string>
   <string name="preferences_build_version">Sürüm</string>
   <string name="preferences_category_account_title">Hesap</string>
-  <string name="preferences_category_general_title">Genel</string>
+  <string name="preferences_category_general_title">Genel Ayarlar</string>
   <string name="preferences_clear_search_history_summary">Tüm yaptığınız aramaları temizler.</string>
   <string name="preferences_clear_search_history_title">Arama geçmişini temizle</string>
   <string name="preferences_default_reminder_default">10</string>
@@ -235,7 +235,7 @@ Takvimin kişiler listesine erişmesine izin veriyor musunuz?"</string>
   <string name="time_zone">Zaman dilimi</string>
   <string name="today">Bugün</string>
   <string name="today_at_time_fmt">Bugün şu zamanda %s</string>
-  <string name="today_no_events">Bugün ajandanız boş</string>
+  <string name="today_no_events">Bugün etkinlik yok</string>
   <string name="tomorrow">Yarın</string>
   <string name="tomorrow_at_time_fmt">Yarın şu zamanda %s</string>
   <string name="view_event_calendar_label">Takvim:</string>
@@ -248,10 +248,10 @@ Takvimin kişiler listesine erişmesine izin veriyor musunuz?"</string>
   <string name="when_label">Ne zaman</string>
   <string name="where_label">Nerede</string>
   <string name="widget_events">Sonraki etkinlikler</string>
-  <string name="widget_no_events">Sonraki, ajanda yok</string>
+  <string name="widget_no_events">Etkinlik yok</string>
   <string name="widget_select_style">Bir stil seçin</string>
   <string name="work_day_indication">: (</string>
-  <string name="xiaomi_calendar_display_name">Xiaomi Takvimi</string>
+  <string name="xiaomi_calendar_display_name">Takvim</string>
   <string name="yearly">"Yıllık (her %s  )"</string>
   <string name="yearly_plain">Yıllık</string>
 </resources>

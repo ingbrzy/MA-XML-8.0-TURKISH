@@ -8,4 +8,12 @@
         <item quantity="other">%1$d dakika</item>
         <item quantity="one">%1$d dakika</item>
     </plurals>
+    <plurals name="timer_message_with_minutes">
+		<item quantity="other">%1$d dakika</item>
+		<item quantity="one">%1$d dakika</item>
+  </plurals>
+  <plurals name="timer_message_with_seconds">
+		<item quantity="other">%1$d saniye</item>
+		<item quantity="one">%1$d saniye</item>
+  </plurals>
 </resources>

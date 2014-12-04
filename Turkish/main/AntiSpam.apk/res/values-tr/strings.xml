@@ -57,7 +57,7 @@
   <string name="bl_no_block_call">Engellenen çağrı yok</string>
   <string name="bl_no_block_sms">Engellenen mesaj yok</string>
   <string name="blacklist_prefix_add_hint">Bu ön ek ile başlayan tüm numaraları engelle</string>
-  <string name="block_message_number">Mesajlar: %d</string>
+  <string name="block_message_number">SMS: %d</string>
   <string name="block_phone_number">Çağrılar: %d</string>
   <string name="button_text_delete">Sil</string>
   <string name="button_to_setting">Ayarlar</string>
@@ -180,12 +180,12 @@
   <string name="sms_delete_hint">Seçili numaradan gelen ve engellenen mesajlar silinsin mi?</string>
   <string name="special_number_group">Özel numaraları engelle</string>
   <string name="st_advanced_setting_group">Gelişmiş</string>
-  <string name="st_antispam_black_adress_add">Bir konum seçin</string>
-  <string name="st_antispam_bw_adress_add">Bir konum seçin</string>
-  <string name="st_antispam_bw_choose_modes">Numaraları Engelle</string>
+  <string name="st_antispam_black_adress_add">Konum ekle</string>
+  <string name="st_antispam_bw_adress_add">Konum ekle</string>
+  <string name="st_antispam_bw_choose_modes">Listeye ekle</string>
   <string name="st_antispam_bw_head_add">Ön ek ekle</string>
   <string name="st_antispam_bw_man_add">Telefon numarası ekle</string>
-  <string name="st_antispam_bw_pick_add">Bir kişi seçin</string>
+  <string name="st_antispam_bw_pick_add">Kişi ekle</string>
   <string name="st_antispam_delete">Sil</string>
   <string name="st_antispam_des_anti">Engelle</string>
   <string name="st_antispam_des_permit">İzin ver</string>
