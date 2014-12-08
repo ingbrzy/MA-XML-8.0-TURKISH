@@ -490,6 +490,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="change_security_lock">Kilit açma yöntemini değiştir</string>
   <string name="check_update">Güncellemeleri kontrol et</string>
   <string name="checking_for_updates">Güncellemeler kontrol ediliyor...</string>
+  <string name="choose_timezone">Zaman dilimini seç</string>
   <string name="cleaner">Temizleyici</string>
   <string name="clear_activities">Varsayılanları temizle</string>
   <string name="clear_activities_summary">Varsayılan olarak, bazı işlemler için bu uygulamayı kullanın</string>
@@ -532,6 +533,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Kimlik bilgileri deposu için şifreyi yazın.</string>
   <string name="credentials_wrong_password">Şifre yanlış!</string>
+  <string name="current_input_method">Varsayılan Giriş Yöntemi</string>
   <string name="current_use_ese">Gömülü güvenli elemanı kullan</string>
   <string name="current_use_uicc_se">SIM karttan güvenli bir öğe kullan</string>
   <string name="data_size_label">Veri</string>
@@ -883,6 +885,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="line_breaking_title">Metin iyileştirme</string>
   <string name="local_backup_section_summary">Sistem uygulamaları, hesaplar ve uygulamaları yedekle</string>
   <string name="local_backup_section_title">Yerel yedekler</string>
+  <string name="locale_default">Varsayılan</string>
   <string name="location_access_summary">Uygulamalar konum bilginizi alır</string>
   <string name="location_access_title">Konum erişimi</string>
   <string name="location_category_location_services">Konum servisleri</string>
