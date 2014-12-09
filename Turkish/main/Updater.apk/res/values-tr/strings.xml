@@ -119,7 +119,9 @@
   <string name="notification_reboot_des">%s sürümüne güncellemek için cihazı tekrar başlatın.</string>
   <string name="notification_reboot_seccess_des">Güncelleme bilgisini paylaşmak için dokunun.</string>
   <string name="notification_reboot_seccess_title">Cihaz güncellendi!</string>
+  <string name="notification_reboot_summary_hm">Tekrar başlatmak için dokunun.</string>
   <string name="notification_reboot_title">Güncelleme tamamlandı</string>
+  <string name="notification_reboot_title_hm">Güncellemeyi uygulamak için tekrar başlat</string>
   <string name="notification_share">Paylaş</string>
   <string name="notification_update_new_version">Kullanılabilir yeni güncelleme var :)</string>
   <string name="notification_update_now">Şimdi Güncelle</string>

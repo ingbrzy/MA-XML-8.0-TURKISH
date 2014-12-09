@@ -13,7 +13,7 @@
   <string name="buy_space_expire_concat">%1$s - %2$s</string>
   <string name="cloud_find_device">Cihazımı bul</string>
   <string name="cloud_space_upgrade_message">%sGB alan eklemek için dokunun</string>
-  <string name="cloud_space_upgrade_no_quota_info">Yüklenemedi, birkaç dakika bekleyip tekrar deneyin!</string>
+  <string name="cloud_space_upgrade_no_quota_info">"Depolama bilgisi alınamıyor!"</string>
   <string name="cloud_space_upgrade_title">Mi Bulut için daha fazla alan</string>
   <string name="cloud_sync_setting_summary_standard">Standart: Fotoğrafları, videoları, MMS ve kişi fotorağlarını Wi-Fi  ile, diğer verileri mobil ağ ile senkronize et</string>
   <string name="cloud_sync_setting_summary_wlan">Sadece Wi-Fi : Bütün verileri sadece Wi-Fi  ile senkronize et</string>
@@ -83,7 +83,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_check_sim_notify_title">Mi Bulutu tekrar etkinleştir</string>
   <string name="micloud_check_sim_title">"SIM kartınız değişmiş gibi görünüyor. 
   Mi Hesabınızla oturum açarak Mi Bulut hizmetini tekrar etkinleştirin."</string>
-  <string name="micloud_detail_fail">Başarısız</string>
+  <string name="micloud_detail_fail">"Sekronize edilemedi"</string>
   <string name="micloud_detail_lastest">Senkronize edildi</string>
   <string name="micloud_detail_pending">Bekliyor</string>
   <string name="micloud_detail_preference_syncing">Senkronize ediliyor</string>

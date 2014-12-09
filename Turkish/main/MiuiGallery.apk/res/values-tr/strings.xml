@@ -488,8 +488,8 @@
   <string name="set_screensaver_path_message_if_only_charging">Bu albümdeki resimler telefonunuz sarj olurken ekran koruyucuda gösterilecek.</string>
   <string name="set_screensaver_path_title">Ekran koruyucu slayt gösterisi</string>
   <string name="set_wallpaper">Duvarkağıdı ayarlanıyor...</string>
-  <string name="settings">Ayarlar</string>
-  <string name="settings_i_xiaomi_com">i.xiaomi.com üzerinden Bulut alanınıza resimlerinizi saklayabilir ve görüntüleyebilirsiniz</string>
+  <string name="settings">Galeri Ayarları</string>
+  <string name="settings_i_xiaomi_com">i.mi.com adresinden giriş yaparak resimlerinizi Bulut alanında saklayabilir ve görüntüleyebilirsiniz</string>
   <string name="shadow">Gölgeler</string>
   <string name="share_album">Albümü paylaş</string>
   <string name="share_album_owner">Sahibi</string>
@@ -514,7 +514,7 @@
   <string name="slideshow">Slayt Gösterisi</string>
   <string name="slideshow_category">Slayt Gösterisi</string>
   <string name="slideshow_dream_name">Slayt Gösterisi</string>
-  <string name="slideshow_interval">Her slaytı şu kadar süre göster</string>
+  <string name="slideshow_interval">Slayt gösterim süresi</string>
   <string name="slideshow_interval_dialog_title">Slayt aralığı 0 saniyeden fazla olmalıdır</string>
   <string name="slideshow_interval_invalid">Aralık 1~3600 saniye arasında olmalıdır</string>
   <string name="slideshow_repeat_mode">Döngü</string>
