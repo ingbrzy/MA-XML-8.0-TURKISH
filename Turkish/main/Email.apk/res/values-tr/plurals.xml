@@ -45,12 +45,12 @@
         <item quantity="one">Taslak</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">%1$d Sohbeti silmek istiyor musunuz?</item>
+        <item quantity="other">%1$d sohbeti silmek istiyor musunuz?</item>
         <item quantity="one">Sohbeti silmek istiyor musunuz?</item>
-        <item quantity="zero">%1$d Sohbeti silmek istiyor musunuz?</item>
-        <item quantity="two">%1$d Sohbeti silmek istiyor musunuz?</item>
-        <item quantity="few">%1$d Sohbeti silmek istiyor musunuz?</item>
-        <item quantity="many">%1$d Sohbeti silmek istiyor musunuz?</item>
+        <item quantity="zero">%1$d sohbeti silmek istiyor musunuz?</item>
+        <item quantity="two">%1$d sohbeti silmek istiyor musunuz?</item>
+        <item quantity="few">%1$d sohbeti silmek istiyor musunuz?</item>
+        <item quantity="many">%1$d sohbeti silmek istiyor musunuz?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Sohbetlerin tümünü silmek istiyor musunuz?</item>

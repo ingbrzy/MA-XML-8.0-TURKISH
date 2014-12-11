@@ -36,4 +36,7 @@
 	<item quantity="other">%d şarkı</item>
 	<item quantity="one">1 şarkı</item>
 </plurals>
+<plurals name="Nnew_tracks_count">
+	<item quantity="other">%d yeni</item>
+</plurals>
 </resources>

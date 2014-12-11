@@ -35,6 +35,7 @@
   <string name="first_start_network_msg">Hava durumu bilgilerinin alınması için ağ bağlantısı gerekmektedir.</string>
   <string name="first_start_network_title">Bağlantı uyarısı</string>
   <string name="gps_hint">Geçerli konum</string>
+  <string name="international_detail_menu_title">Detaylar</string>
   <string name="loading_weather">Yükleniyor...</string>
   <string name="location_allow_err">"Konumunuz belirlenemiyor"</string>
   <string name="location_management">Konumlar</string>
@@ -60,6 +61,7 @@
   <string name="view_indexes_title_uv">UV İndeksi</string>
   <string name="view_indexes_title_visibility">Görüş uzaklığı (km)</string>
   <string name="view_indexes_title_wind">Rüzgar</string>
+  <string name="view_realtime_clear_substitution">Açık</string>
   <string name="view_sun_titile">Gündoğumu ve Günbatımı</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>

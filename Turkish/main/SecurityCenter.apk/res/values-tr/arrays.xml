@@ -47,4 +47,9 @@
 <item>Aç</item>
 <item>Değiştirme</item>
 </string-array>
+<string-array name="auto_clean_time">
+<item>Günlük</item>
+<item>Her 3 günde</item>
+<item>Her hafta</item>
+</string-array>
 </resources>

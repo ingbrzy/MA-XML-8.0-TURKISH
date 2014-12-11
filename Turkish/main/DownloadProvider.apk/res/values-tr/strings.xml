@@ -19,7 +19,14 @@
   <string name="notification_download_failed">İndirme işlemi başarısız!</string>
   <string name="notification_need_wifi_for_size">Dosyanın büyüklüğü göz önüne alındığında Wi-Fi ile indirmeniz tavsiye edilir</string>
   <string name="notification_paused_in_background">Arka planda bekletiliyor</string>
+  <string name="privacy_notif_content">Detaylar için dokunun</string>
+  <string name="privacy_notif_title">Xunlei Hızlandırıcı açık</string>
+  <string name="privacy_tip_cancel">İptal</string>
+  <string name="privacy_tip_content">"İndirmeleri hızlandırmak için Xunlei Accelerator kullanılsın mı? İndirme bağlantıları Xunlei sunucularına yüklenecektir. Mi Hesap ayrıntılarınızda, herhangi bir aktif abonelik olup olmadığını kontrol etmeniz için yüklenecektir."</string>
+  <string name="privacy_tip_ok">TAMAM</string>
+  <string name="privacy_tip_title">Xunlei Hızlandırıcı kullanılsın mı?</string>
   <string name="root_downloads">İndirmeler</string>
+  <string name="task_already_exist">Görev zaten var!</string>
   <string name="wifi_recommended_body" formatted="false">"Mobil veri üzerinden indirme：
 
  %s（%s）

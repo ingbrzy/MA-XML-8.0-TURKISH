@@ -759,10 +759,13 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="font_size_large">Büyük</string>
   <string name="font_size_medium">Orta</string>
   <string name="font_size_normal">Varsayılan</string>
-  <string name="font_size_preview">NE MUTLU TÜRKÜM DİYENE !!</string>
+  <string name="font_size_preview">NE MUTLU TÜRKÜM DİYENE</string>
   <string name="font_size_save">TAMAM</string>
   <string name="font_size_small">Küçük</string>
-  <string name="font_size_summary">NE MUTLU TÜRKÜM DİYENE !!</string>
+  <string name="font_size_summary">NE MUTLU TÜRKÜM DİYENE</string>
+  <string name="font_size_summary1">"
+ NE MUTLU TÜRKÜM DİYENE "</string>
+  <string name="font_size_summary2">JeeJen Home</string>
   <string name="force_hw_ui">GPU oluşturmayı zorla</string>
   <string name="force_hw_ui_summary">Uygulamalarda 2D donanım hızlandırmayı kullan</string>
   <string name="force_msaa">4x MSAA\'a zorla</string>
@@ -1605,6 +1608,8 @@ PIN kodu yanlış olabilir!"</string>
   <string name="timezone_settings">Zaman Dilimi</string>
   <string name="title_color_calibration">"Renk Düzeltme ön ayar"</string>
   <string name="title_dolby_control">Dolby digital plus</string>
+  <string name="title_font">Yazı tipi</string>
+  <string name="title_font_current">Kullanılıyor</string>
   <string name="title_font_size">Yazı boyutu</string>
   <string name="title_hdmi_color_calibration">"Renk Düzeltme ön ayar"</string>
   <string name="toast_lockscreen_glogin_empty_password">Şifreyi girin</string>
@@ -1672,6 +1677,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">"Şekil, PIN veya şifre güvenliğini değiştir veya devre dışı bırak"</string>
   <string name="unlock_set_unlock_launch_picker_title">Ekran Kilidini Seç</string>
   <string name="unlock_set_unlock_mode_password">Şifre</string>
+  <string name="unlock_set_unlock_mode_pattern">Desen</string>
   <string name="unlock_set_unlock_mode_pin">Pin kodu</string>
   <string name="unlock_set_unlock_none_title">Kaydırma</string>
   <string name="unlock_set_unlock_password_title">Şifre</string>
@@ -1841,6 +1847,8 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_empty_list_wifi_on">Wi-Fi ağları aranıyor</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">İnternet bağlantısı iyi olmadıkça Wi-Fi ağı kullanılmaz</string>
+  <string name="wifi_forget">Unut</string>
+  <string name="wifi_gateway">Ağ geçidi</string>
   <string name="wifi_ip_address">IP adresi</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">IP Ayarları</string>
@@ -1850,6 +1858,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_ip_settings_invalid_network_prefix_length">0 ile 32 arasında bir ağ ön ek uzunluğu yazın.</string>
   <string name="wifi_ip_settings_menu_cancel">İptal</string>
   <string name="wifi_ip_settings_menu_save">Kaydet</string>
+  <string name="wifi_menu_forget">Ağı unut</string>
   <string name="wifi_menu_p2p">Wi-Fi Yönlendir</string>
   <string name="wifi_menu_scan">Tara</string>
   <string name="wifi_menu_wfd">Wi-Fi Gösterimi</string>
@@ -1959,6 +1968,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="wifi_status">Durum</string>
   <string name="wifi_status_test">Wi-Fi durumu</string>
   <string name="wifi_stopping">Wi-Fi kapatılıyor...</string>
+  <string name="wifi_subnet_mask">Alt ağ maskesi</string>
   <string name="wifi_suspend_optimizations">Wi-Fi Optimizasyonu</string>
   <string name="wifi_suspend_optimizations_summary">Wi-Fi açıkken pil kullanımını en aza indirir</string>
   <string name="wifi_tether_checkbox_text">İnternet Paylaşımı</string>
