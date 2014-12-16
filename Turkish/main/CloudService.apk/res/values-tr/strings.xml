@@ -120,7 +120,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_main_sync_now">Şimdi senkronize et</string>
   <string name="micloud_main_sync_on_wifi">Wi-Fi kullan</string>
   <string name="micloud_main_sync_pause">Senkronize durakladı</string>
-  <string name="micloud_main_sync_stop">Senkronizeyi durdu</string>
+  <string name="micloud_main_sync_stop">Senkronize durdu</string>
   <string name="micloud_main_synced_data_count">%d öğe senkronize edildi</string>
   <string name="micloud_main_syncing">Veriler senkronize ediliyor...</string>
   <string name="micloud_main_update_space">Depolama alanını güncelle</string>
@@ -148,6 +148,7 @@ Kullanılan: %s | Kalan: %s "</string>
   <string name="micloud_web_discription">i.mi.com adresinden oturum açın ve her yerden dosyalarınıza kolayca ulaşın...</string>
   <string name="micloud_web_discription_01">i.mi.com adresinden oturum açın.</string>
   <string name="micloud_web_discription_02">Her yerden dosyalarınıza kolayca ulaşın...</string>
+  <string name="micloud_web_discription_international">www.mi.com/micloud adresini ziyaret edin</string>
   <string name="mx_dspt">Mi Mesaj</string>
   <string name="mx_dspt_provision">"Mi Mesaj; SMS ücreti ödemeden diğer MIUI kullanıcılarına mesaj göndermenizi sağlar.
 

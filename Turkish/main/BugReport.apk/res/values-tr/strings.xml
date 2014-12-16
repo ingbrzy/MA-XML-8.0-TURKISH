@@ -11,6 +11,8 @@
   <string name="bluetooth_problem3">"Dosya gönderilemiyor"</string>
   <string name="bluetooth_problem4">"Dosya alamıyor"</string>
   <string name="btn_send">Gönder</string>
+  <string name="bugreport_tool_log_toast">Log %s konumuna kaydedildi</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Hata raporu oluşturuluyor, lütfen bekleyin...</string>
   <string name="button_feedback">Diğer</string>
   <string name="button_plus">+1</string>
   <string name="camera_problem1">Kötü fotoğraf kalitesi</string>
@@ -98,4 +100,8 @@
   <string name="wlan_unavailable_dialog_button_sent">Gönder</string>
   <string name="wlan_unavailable_dialog_content">"Raporunuzu göndermek %s veri kullanımına sebep olacaktır. Raporun Wi-Fi ağına bağlanıldığında  gönderilmesi için lütfen Bekle tuşuna tıklayın."</string>
   <string name="wlan_unavailable_dialog_title">"Veri kullanımı"</string>
+  <string name="submit_dialog_cancel">İptal</string>
+  <string name="submit_dialog_confirm">Gönder</string>
+  <string name="submit_dialog_content">"Görüşleriniz, hata günlükleri ve ekli görüntüler ile birlikte, Xiaomi sunucularına gönderilir."</string>
+  <string name="submit_dialog_title">Xiaomi\'ye rapor gönder</string>
 </resources>

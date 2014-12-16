@@ -23,6 +23,9 @@
   <string name="action_key_play_prev">Önceki</string>
   <string name="action_key_power">Güç</string>
   <string name="action_key_power_long">Güç (Uzun basın)</string>
+  <string name="action_key_vol">Ses tuşları</string>
+  <string name="action_key_vol_down">Ses açma</string>
+  <string name="action_key_vol_up">Ses kısma</string>
   <string name="action_kuaidi">Hızlı taxi</string>
   <string name="action_lock_screen">Ekranı kilitle</string>
   <string name="action_open_camera">Kamera</string>
@@ -145,6 +148,7 @@ Oyun oynayın, fotoğraf çekin, ses gönderin…
   <string name="know_it">Tamam</string>
   <string name="long_click">Uzun basma</string>
   <string name="message_photo_end">Resim kaydedildi</string>
+  <string name="mikey_sprite_toggle_title">MiKey sihirbazı</string>
   <string name="name">Adı:</string>
   <string name="nickname">Takma adı:</string>
   <string name="no_usage">...</string>
@@ -160,6 +164,9 @@ Oyun oynayın, fotoğraf çekin, ses gönderin…
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Galeri</string>
   <string name="place_barcode_into_rectangle">QR koduna odaklan</string>
+  <string name="privacy_mode_end">Gizlilik modu devre dışı</string>
+  <string name="privacy_mode_started">Gizlilik modu etkin</string>
+  <string name="privacy_mode_title">Gizlilik modu</string>
   <string name="rank_prefix">"Sıralamalar: "</string>
   <string name="rank_suffix">" puan"</string>
   <string name="recognize">Tanı</string>
@@ -167,6 +174,12 @@ Oyun oynayın, fotoğraf çekin, ses gönderin…
   <string name="running_notification">Xiaomi MiKey</string>
   <string name="scan_fail">Tarama başarısız!</string>
   <string name="scan_result">Tarama sonuçları</string>
+  <string name="screenkey_disabled">Ekran tuşları kapalı</string>
+  <string name="screenkey_enabled">Ekran tuşları açık</string>
+  <string name="screenkey_title">Koruyucu tuşu</string>
+  <string name="screenshot_crop">Kırp</string>
+  <string name="screenshot_full">Fullscreen</string>
+  <string name="scrennshot_select_title">Select capture size</string>
   <string name="screenshot_crop">Kırp</string>
   <string name="screenshot_full">Tam ekran</string>
   <string name="scrennshot_select_title">Yakalama boyutunu seçin</string>
@@ -176,6 +189,7 @@ Oyun oynayın, fotoğraf çekin, ses gönderin…
   <string name="select_camera">Kamerayı seç</string>
   <string name="select_device">Cihazı seç</string>
   <string name="select_direction">Yönler</string>
+  <string name="select_vol">Lütfen ses tuşlarını seçin</string>
   <string name="setting_buy">Mikey\'i satın alın</string>
   <string name="setting_feedback">Geri Bildirim</string>
   <string name="setting_instant_photo_desc">Fotoğraf çekmeden önce kamera odaklanacak </string>

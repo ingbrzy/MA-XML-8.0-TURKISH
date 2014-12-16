@@ -237,6 +237,7 @@
   <string name="msglist_release_to_more">"Görüntülemek için bırakın"</string>
   <string name="multimedia_message">Multimedya Mesajları</string>
   <string name="multimedia_notification">Multimedya mesajı bildirimi</string>
+  <string name="mx_activate_dlg_title">Mi Mesajı etkinleştir</string>
   <string name="mx_activate_error_malformed_info">Bu SIM kart için Mi Mesaj\'ı yeniden aktifleştirmelisiniz.</string>
   <string name="mx_activate_error_server">"Aktivasyon başarısız."</string>
   <string name="mx_activate_error_sim_change">SIM kartınızı değişmiş görünüyor. Mi Mesaj\'ı aktifleştirmek için cihazınız Xiaomi sunucusuna SMS göndermelidir.</string>
@@ -247,6 +248,7 @@
   <string name="mx_activate_int_hint_malformed_info">Mi Mesaj aktivasyonu için uluslararası bir SMS yollanacaktır. Operatörünüz tarafından uluslararası tarifeye tabi tutulabilirsiniz.</string>
   <string name="mx_activate_int_hint_server">Mi Mesaj aktivasyonu için uluslararası bir SMS yollanacaktır. Operatörünüz tarafından uluslararası tarifeye tabi tutulabilirsiniz.</string>
   <string name="mx_activate_int_hint_sim_change">Mi Mesaj aktivasyonu için uluslararası bir SMS yollanacaktır. Operatörünüz tarafından uluslararası tarifeye tabi tutulabilirsiniz.</string>
+  <string name="mx_activate_user_agreement_p1">"Bu servisi kullanarak, Mi Mesaj koşullarını kabul etmiş olursunuz "</string>
   <string name="mx_activate_int_popup_msg">Mi Mesaj, MIUI aracılığıyla ücretsiz mesaj göndermenizi sağlar. Wi-Fi ağına bağlı olmadığınız takdirde veri kullanımı ücretine tabi olacaktır.</string>
   <string name="mx_activate_popup_msg">Mi Mesaj, MIUI aracılığıyla ücretsiz mesaj göndermenizi sağlar. Wi-Fi ağına bağlı olmadığınız takdirde veri kullanımı ücretine tabi olacaktır.</string>
   <string name="mx_activation_done">Mi Mesaj etkinleştirildi</string>
@@ -259,6 +261,7 @@
   <string name="mx_count_dspt">%1$d SMS ve %2$d MMS göndermişsiniz</string>
   <string name="mx_current_status">Durum: Çevrimiçi</string>
   <string name="mx_dspt">Mi Mesaj ile herhangi bir MIUI kullanıcısına ücretsiz mesaj gönderebilirsiniz</string>
+  <string name="mx_dspt_provision">Mi Mesaj, SMS ücreti ödemeden diğer MIUI kullanıcılarına mesaj göndermenizi sağlar. Bu hizmeti etkinleştirmek bir SMS gönderilir ve bu SMS operatörünüz tarafından ücretlendirilebilir.</string>
   <string name="mx_enable">Mi Mesaj</string>
   <string name="mx_enable_int_popup_msg">Mi Mesaj ile herhangi bir MIUI kullanıcısına ücretsiz mesaj gönderebilirsiniz. Wi-Fi ağına bağlı olmadığınız takdirde veri kullanımı ücretine tabi olacaktır.</string>
   <string name="mx_enable_popup_msg">Mi Mesaj ile herhangi bir MIUI kullanıcısına ücretsiz mesaj gönderebilirsiniz. Wi-Fi ağına bağlı olmadığınız takdirde veri kullanımı ücretine tabi olacaktır. </string>
