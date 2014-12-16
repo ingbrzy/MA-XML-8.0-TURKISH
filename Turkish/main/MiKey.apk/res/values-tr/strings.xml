@@ -177,8 +177,6 @@ Oyun oynayın, fotoğraf çekin, ses gönderin…
   <string name="screenkey_disabled">Ekran tuşları kapalı</string>
   <string name="screenkey_enabled">Ekran tuşları açık</string>
   <string name="screenkey_title">Koruyucu tuşu</string>
-  <string name="screenshot_crop">Kırp</string>
-  <string name="screenshot_full">Fullscreen</string>
   <string name="scrennshot_select_title">Select capture size</string>
   <string name="screenshot_crop">Kırp</string>
   <string name="screenshot_full">Tam ekran</string>
@@ -272,12 +270,6 @@ Kullanmak için ekranın üzerinden aşağı doğru kaydırın."</string>
   <string name="wallpaper_change_ok">Duvar kağıdı değiştirildi</string>
   <string name="wallpaper_changing">Duvar kağıdı değiştiriliyor...</string>
   <string name="wallpaper_no_more">Değiştirme</string>
-  <string name="select_vol">Lütfen ses tuşlarını seçin</string>
-  <string name="action_key_vol">Ses tuşları</string>
-  <string name="action_key_vol_down">Ses kısma</string>
-  <string name="action_key_vol_up">Ses açma</string>
   <string name="webpage_input_title">URL adresini girin</string>
   <string name="webpage_title">Web sayfasını aç</string>
-  <string name="screenkey_title">Koruyucu düğmrsi</string>
-  <string name="mikey_sprite_toggle_title">MiKey Sihirbazı</string>
 </resources>
