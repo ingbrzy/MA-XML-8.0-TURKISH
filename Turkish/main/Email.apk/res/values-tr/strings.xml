@@ -199,7 +199,7 @@
   <string name="always_show_images">Her zaman bu gönderenden gelen resimleri göster</string>
   <string name="always_show_images_toast">Bu gönderenden gelen resimler otomatik olarak gösterilecektir.</string>
   <string name="annex_size">Ekler</string>
-  <string name="app_name">E-Posta</string>
+  <string name="app_name">Postalar</string>
   <string name="application_mime_type">application/email-ls</string>
   <string name="archive">Arşivle</string>
   <string name="archived">Arşivlendi</string>
@@ -226,6 +226,7 @@
   <string name="attachment_mgr_name">Ek</string>
   <string name="attachment_not_exists">Ek kullanılabilir değil!</string>
   <string name="attachment_not_found">"Ek indirilemedi."</string>
+  <string name="attachment_stop_all">Dur</string>
   <string name="attachment_text">Metin</string>
   <string name="attachment_type_blocked">"Maalesef bu dosya kaydedilemedi."</string>
   <string name="attachment_unknown">%s Dosya</string>
