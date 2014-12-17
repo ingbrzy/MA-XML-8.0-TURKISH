@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">Uygulama telefonunuzda yüklü değil</string>
-  <string name="application_name">MiHome Başlatıcı</string>
+  <string name="application_name">Miui Başlatıcı</string>
   <string name="apply_as_lock_wallpaper">Uygula</string>
   <string name="apply_as_lock_wallpaper_message">Bu duvarkağıdı kilit ekranına da uygulansın mı?</string>
   <string name="aqi_quality_index_dangerous">Tehlikeli</string>
@@ -71,7 +71,7 @@
   <string name="gadget_photo_44_label">Resim 4x4</string>
   <string name="gadget_photo_label">Resim</string>
   <string name="gadget_search_label">Ara</string>
-  <string name="gadget_weather_app_not_installed">MIUI\'nin hava durumu uygulamasını indirmek için lütfen dokunun</string>
+  <string name="gadget_weather_app_not_installed">MIUI hava durumu uygulamasını indirmek için lütfen dokunun</string>
   <string name="gadget_weather_aqi_title">"Hava Kalitesi:"</string>
   <string name="gadget_weather_download_message">Uygulama içeriğini indirmeniz gerekiyor: %1$s (%2$s). İndirme tamamlandıktan sonra uygulamayı tekrar başlatınız.</string>
   <string name="gadget_weather_download_start">İndir</string>
@@ -93,7 +93,7 @@
   <string name="guide_tips_editing_mode">Bir widget seçmek için dokunun ve basılı tutun</string>
   <string name="install">Yükle</string>
   <string name="invalid_contact_shortcut">Geçersiz kişi</string>
-  <string name="loading_desktop">MiHome Başlatıcı Yükleniyor...</string>
+  <string name="loading_desktop">Miui Başlatıcı Yükleniyor...</string>
   <string name="lock_screen_failed_message">"Uygulama başarısız"</string>
   <string name="lock_screen_success_message">Duvarkağıdı başarıyla uygulandı</string>
   <string name="menu_add">Ekle</string>
@@ -102,7 +102,7 @@
   <string name="menu_edit">Ana ekranı düzenle</string>
   <string name="menu_exit_scene">Mi Space\'den çık</string>
   <string name="menu_item_add_item">Ana ekrana yerleştir</string>
-  <string name="menu_launcher_setting">MiHome Başlatıcı Ayarları</string>
+  <string name="menu_launcher_setting">Miui Başlatıcı Ayarları</string>
   <string name="menu_picktheme">Bir Tema Seçin</string>
   <string name="menu_reset_scene">Varsayılan düzene sıfırla</string>
   <string name="menu_search">Ara</string>
@@ -140,7 +140,7 @@
   <string name="pref_screen_transformation_type_title">Ana ekran geçiş efektleri</string>
   <string name="pref_wallpaper_scroll_type_title">Duvarkağıdı hizalama</string>
   <string name="preferences_general_title">Ek ayarlar</string>
-  <string name="preferences_title">MiHome Başlatıcı Ayarları</string>
+  <string name="preferences_title">Miui Başlatıcı Ayarları</string>
   <string name="reset_scene_prompt">Ekran varsayılan düzene sıfırlanacak.</string>
   <string name="scroll_tip_format_when_announce_accessibility">%1$d sayfa, %2$d uygulama</string>
   <string name="select_frame">Çerçeve</string>

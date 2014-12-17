@@ -342,7 +342,7 @@
   <string name="msg_update_error_code_no_newer_db">Güncel</string>
   <string name="msg_update_error_code_success">Güncelleme tamamlandı</string>
   <string name="msg_update_error_code_unknown_error">Bilinmeyen hata</string>
-  <string name="name_antivirus">"Tencent Gizlilik Politikası"</string>
+  <string name="name_antivirus">"Gizlilik Politikası"</string>
   <string name="name_optimizer">"Cheetah Mobile Gizlilik Politikası"</string>
   <string name="never">Sadece bir kez</string>
   <string name="notification_button_text_of_low_memory">Temizle</string>
@@ -563,7 +563,7 @@
   <string name="pref_title_garbage_process_mode">Bildirimler</string>
   <string name="pref_title_lock_screen_memory_clean">Kilit ekranında temizle</string>
   <string name="pref_title_manual_check_cleanup_db_update">Şimdi güncelleştir</string>
-  <string name="pref_title_open_optimizer_cloud_scan">Online temizleme motoru kullan</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Yükle</string>
   <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
   <string name="process_kernel_label">"Android işletim sistemi"</string>
   <string name="process_mediaserver_label">"MediaServer"</string>
@@ -617,14 +617,14 @@
   <string name="system_header_title">%2$s hafızayı boşaltmak için %1$d işlemi temizleyin</string>
   <string name="title_app_update">Yeni güncellemeler var</string>
   <string name="title_app_update_no">%d güncelleme bulundu</string>
-  <string name="title_cleaner_cloudscan">Online temizleme motoru kullan</string>
+  <string name="title_cleaner_cloudscan">Klasör adlarını yükle</string>
   <string name="title_cloud_account">Mi Hesabı</string>
   <string name="title_cloud_service">Mi Bulut</string>
   <string name="title_data_flow">Veri kullanım uyarısını ayarla</string>
   <string name="text_antivirus_oversea">Virüs tanımlarını gücelle</string>
-  <string name="text_antivirus">Online virüs veritabanı kullan</string>
-  <string name="text_optimizer">Online temizleme motoru kullan</string>
-  <string name="title_antivirus">Virüs taraması</string>
+  <string name="text_antivirus">Uygulama adlarını ve dataylarını yükle</string>
+  <string name="text_optimizer">Klasör adlarını yükle</string>
+  <string name="title_antivirus">Tencent Gizlilik Politikası</string>
   <string name="title_app_update_yes">"Tüm uygulamalar güncel!"</string>
   <string name="title_data_flow_no">Veri kullanımı monitörü kapalı</string>
   <string name="title_data_flow_yes">Veri kullanımı monitörü açık</string>

@@ -2,10 +2,10 @@
 <resources>
   <string name="accept">TAMAM</string>
   <string name="activate">Etkinleştir</string>
-  <string name="activate_feature_call_log_sync">Çağrı kaydı senkronize işlemi</string>
+  <string name="activate_feature_call_log_sync">Çağrı geçmişini senkronize et</string>
   <string name="activate_feature_find_device">Cihazımı bul</string>
-  <string name="activate_feature_mms_sync">SMS Senkronize</string>
-  <string name="activate_feature_mx">Ücretsiz MiCloud Mesajlaşma</string>
+  <string name="activate_feature_mms_sync">Mesajları senkronize et</string>
+  <string name="activate_feature_mx">Mi Mesajlaşma</string>
   <string name="activate_phone_failed_notif_title">MiCloud etkinleştirilemedi!</string>
   <string name="activate_phone_failed_notif_title_msim">%s SIM karttan MiCloud hizmeti başlatılamadı!</string>
   <string name="activate_popup_confirm_failed_phone_error">Lütfen tekrar deneyin!</string>

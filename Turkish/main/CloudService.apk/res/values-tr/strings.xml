@@ -15,8 +15,8 @@
   <string name="cloud_space_upgrade_message">%sGB alan eklemek için dokunun</string>
   <string name="cloud_space_upgrade_no_quota_info">"Depolama bilgisi alınamıyor!"</string>
   <string name="cloud_space_upgrade_title">Mi Bulut için daha fazla alan</string>
-  <string name="cloud_sync_setting_summary_standard">Standart: Fotoğrafları, videoları, MMS ve kişi fotorağlarını Wi-Fi  ile, diğer verileri mobil ağ ile senkronize et</string>
-  <string name="cloud_sync_setting_summary_wlan">Sadece Wi-Fi : Bütün verileri sadece Wi-Fi  ile senkronize et</string>
+  <string name="cloud_sync_setting_summary_standard">"Fotoğrafları, videoları, MMS ve kişi fotorağlarını Wi-Fi  ile, diğer verileri mobil ağ ile senkronize et"</string>
+  <string name="cloud_sync_setting_summary_wlan">Bütün verileri sadece Wi-Fi  ile senkronize et</string>
   <string name="cmcc_micloud_dspt">Mi Bulut kullanarak verilerinizi senkronize edin, cihazını bulun.. </string>
   <string name="contact">Kişiler</string>
   <string name="disable_find_device_error">"Cihaz bulma servisi kapatılamıyor %1$s"</string>
@@ -42,6 +42,7 @@
   <string name="find_device_dspt">Cihazı uzaktan kilitle ve sil</string>
   <string name="find_device_dspt_provision">"Eğer cihazını kaybedecek olursanız; "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">" adresinden konumunu bulabilir ya da fabrika ayarlarına sıfırlayabilirsiniz.
 
 Bu özelliği ayarlardan kontrol edebilirsiniz."
@@ -70,7 +71,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="header_data_and_synchronization">Veri ve Senkronizasyon</string>
   <string name="header_other_settings">İlave ayarlar</string>
   <string name="i_know">Tamam</string>
-  <string name="less_flow_mode">Veri tasarrufu</string>
+  <string name="less_flow_mode">Senkronize için mobil veriyi kullan</string>
   <string name="license_host_unreachable">"Ağa bağlanamıyor. Bu bilgiyi şimdi görüntülemek için buraya gidin: %s."</string>
   <string name="loading">Yükleniyor…</string>
   <string name="loading_hint">Yükleniyor…</string>
@@ -157,7 +158,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="next">İleri</string>
   <string name="noRemind">"Tekrar hatırlatma"</string>
   <string name="no_sim">SIM Kart bulunamadı</string>
-  <string name="only_in_wlan">Sadece Wi-Fi  ile</string>
+  <string name="only_in_wlan">Kapalı</string>
   <string name="other_settings">Diğer ayarlar</string>
   <string name="password">Şifrenizi girin</string>
   <string name="phone_number_may_required_dspt_provision">"Bu servis için telefon numaranız gereklidir. "</string>
@@ -183,18 +184,19 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="sync_dspt">Senkronizasyonu etkinleştir</string>
   <string name="sync_dspt_provision">"Mi Bulut; fotoğraflarınızı, SMS, notlar ve daha fazlasını  Mi Telefonunuz ile senkronize eder. Ayrıca herhangi bir tarayıcıdan bu verilere erişebilirsiniz. "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">".
 
 Bu özelliği ayarlardan kontrol edebilirsiniz."
 </string>
   <string name="sync_item_calllog_summary">Arama ses kayıtlarını senkronize et</string>
-  <string name="sync_item_calllog_title">Arama günlüklerini senkronize et</string>
+  <string name="sync_item_calllog_title">Arama geçmişini senkronize et</string>
   <string name="sync_item_sms_summary">Telefonunuzdaki gönderilen ve alınan SMS\'leri senkronize edin</string>
   <string name="sync_item_sms_title">Mesajları senkronize et</string>
   <string name="sync_off">Kapalı</string>
   <string name="sync_on">Açık</string>
-  <string name="sync_setting">Ayarları senkronize et</string>
-  <string name="sync_standard">Standart</string>
+  <string name="sync_setting">Mobil veri kullanımı</string>
+  <string name="sync_standard">SMS ve arama geçmişi</string>
   <string name="sync_sub_1_intl_sms">Hesabınızı SIM kartınıza bağlamak için ulusararası ve yurt içi SMS gönderilecektir. Operatör tarafından ek ücrete tabi tutulabilirsiniz.</string>
   <string name="sync_sub_1_sms">SIM kartınızı bağlamak için bir mesaj gönderilecektir. Operatör tarafından normal tarife üzerinden ücret alınabilir.</string>
   <string name="sync_sub_1_sms_1_intl_sms">Hesabınızı SIM kartınıza bağlamak için ulusararası ve yurt içi SMS gönderilecektir. Operatör tarafından ek ücrete tabi tutulabilirsiniz.</string>

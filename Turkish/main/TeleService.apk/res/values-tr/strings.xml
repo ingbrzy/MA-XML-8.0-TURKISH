@@ -338,7 +338,7 @@
   <string name="gsm_umts_options">GSM/UMTS ayarları</string>
   <string name="hac_mode_summary">Işitme cihazlarıyla uyumluluğu açın</string>
   <string name="hac_mode_title">Işitme cihazları</string>
-  <string name="handon_ringer_summary">Telefonu kaldırırken zil sesini azaltır</string>
+  <string name="handon_ringer_summary">"Telefon kaldırılınca sil sesi azaltılır. Gelen aramalar için titreşim açıkken bu özellik çalışmaz."</string>
   <string name="handon_ringer_title">Kaldırırken sesi azalt</string>
   <string name="importAllSimEntries">Hepsini içe aktar</string>
   <string name="importSimEntry">İçe aktar</string>
@@ -353,7 +353,7 @@
   <string name="in_sms">Mesaj</string>
   <string name="incall_error_call_failed">Çağrı yapılamıyor!</string>
   <string name="incall_error_emergency_only">Şebekeye kayıt edilemedi!</string>
-  <string name="incall_error_no_phone_number_supplied">Çağrı gönderilemedi, geçersiz numara!</string>
+  <string name="incall_error_no_phone_number_supplied">Geçersiz bir numara girdiniz!</string>
   <string name="incall_error_out_of_service">Mobil şebeke yok!</string>
   <string name="incall_error_power_off">Çağrı yapmak için, öncelikle uçak modunu kapatın!</string>
   <string name="incall_error_turn_off_airplane_mode">Uçak modunu kapatın</string>
@@ -442,11 +442,11 @@
   <string name="mismatch_pin">Girdiğiniz PIN eşleşmiyor. Lütfen tekrar deneyin.</string>
   <string name="mismatch_pin2">Girdiğiniz PIN2 eşleşmiyor. Lütfen tekrar deneyin.</string>
   <string name="missed_call_notify_five_times">5 kez</string>
-  <string name="missed_call_notify_none">Asla</string>
+  <string name="missed_call_notify_none">Hatırlatma yok</string>
   <string name="missed_call_notify_once">1 kez</string>
   <string name="missed_call_notify_ten_times">10 kez</string>
   <string name="missed_call_notify_thrice">3 kez</string>
-  <string name="missed_call_notify_times_summary">Cevapsız aramalar için varsayılan olarak her 5 dakikada bir tekrar</string>
+  <string name="missed_call_notify_times_summary">Cevapsız aramalar için varsayılan olarak her 5 dakikada bir hatırlatma yapılır.</string>
   <string name="missed_call_notify_times_title">Cevapsız çağrı hatırlatma süresi</string>
   <string name="missed_call_notify_twice">2 kez</string>
   <string name="mmiStarted">MMI kodu başladı</string>
@@ -500,8 +500,8 @@ Yerine tercih edilen şebeke kullanılacak."</string>
   <string name="network_unlock">Kilidi aç</string>
   <string name="networks">Şebeke operatörleri</string>
   <string name="networks_title">Şebeke operatörleri</string>
-  <string name="new_Pin2_Label">Yeni PIN2</string>
-  <string name="new_Pin_Label">Yeni PIN</string>
+  <string name="new_Pin2_Label">Yeni PIN2 kodu</string>
+  <string name="new_Pin_Label">Yeni PIN kodu</string>
   <string name="new_password_label">Yeni şifre (4 haneli)</string>
   <string name="no_change">Değişiklik yapılmadı.</string>
   <string name="no_internet_available">İnternet çağrısı için önce İnternet ayarlarını kontrol edin</string>

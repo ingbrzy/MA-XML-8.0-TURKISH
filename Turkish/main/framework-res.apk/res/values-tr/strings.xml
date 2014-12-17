@@ -201,7 +201,7 @@ Kapatmak ister misiniz?"</string>
   <string name="dlg_confirm_kill_storage_users_title">USB belleği aç</string>
   <string name="dlg_error_title">USB işlemi başarısız oldu</string>
   <string name="dlg_ok">Tamam</string>
-  <string name="double_tap_toast">İpucu: Yakınlaştırmak ve uzaklaştırmak için iki kez hafifçe vurun.</string>
+  <string name="double_tap_toast">İpucu: Yakınlaştırmak ve uzaklaştırmak için iki kez hafifçe dokunun.</string>
   <string name="editTextMenuTitle">Metin eylemleri</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
@@ -484,16 +484,16 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">SIM kart kilidi açılıyor…</string>
   <string name="lockscreen_sound_off_label">Sesi kapat</string>
   <string name="lockscreen_sound_on_label">Sesi aç</string>
-  <string name="lockscreen_too_many_failed_attempts_countdown">%d saniye içinde yeniden deneyin.</string>
+  <string name="lockscreen_too_many_failed_attempts_countdown">%d saniye sonra yeniden deneyin.</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Kilit açma deseninizi %d kez yanlış çizdiniz. 
 
-%d saniye içinde tekrar deneyin."</string>
+%d saniye sonratekrar deneyin."</string>
   <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Şifrenizi %d kez yanlış yazdınız. 
 
-%d saniye içinde tekrar deneyin."</string>
+%d saniye sonratekrar deneyin."</string>
   <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN kodunuzu %d kez yanlış girdiniz. 
 
-%d saniye içinde tekrar deneyin."</string>
+%d saniye sonra tekrar deneyin."</string>
   <string name="lockscreen_transport_next_description">Sonraki parça düğmesi</string>
   <string name="lockscreen_transport_pause_description">Duraklat düğmesi</string>
   <string name="lockscreen_transport_play_description">Oynat düğmesi</string>
@@ -1147,7 +1147,7 @@ izin isteğinde bulunuldu."</string>
   <string name="permlab_writeSocialStream">sosyal akışınıza yazma</string>
   <string name="permlab_writeSyncSettings">senkronizasyonu açma/kapatma</string>
   <string name="perms_description_app">Sağlayan: %1$s.</string>
-  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;YENİ: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">YENİ</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Yardımcı</string>
   <string name="phoneTypeCallback">Geri Arama</string>
@@ -1337,7 +1337,7 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
   <string name="sms_short_code_confirm_deny">İptal</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt;, &lt;b&gt;%2$s&lt;/b&gt; adresine bir mesaj göndermek istiyor.</string>
   <string name="sms_short_code_confirm_never_allow">Asla İzin Verme</string>
-  <string name="sms_short_code_details">Bu işlem, mobil hesabınızdan &lt;font fgcolor="#ffffb060"&gt;&amp;#252;cret al&amp;#305;nmas&amp;#305;na neden olabilir&lt;/font&gt;.</string>
+  <string name="sms_short_code_details">Bu işlem, mobil hesabınızdan ücret alınmasına neden olabilir</string>
   <string name="sms_short_code_remember_choice">Seçimimi hatırla</string>
   <string name="sms_short_code_remember_undo_instruction">"Bu ayarı daha sonra Ayarlar &gt; Uygulamalardan değiştirebilirsiniz."</string>
   <string name="smv_application">%1$s uygulaması (%2$s işlemi) kendiliğinden uyguladığı StrictMode politikasını ihlal etti.</string>
@@ -1446,7 +1446,7 @@ Kapatmak ister misiniz?"</string>
   <string name="webviewchromium_color_picker_button_black">Siyah</string>
   <string name="webviewchromium_color_picker_button_blue">Mavi</string>
   <string name="webviewchromium_color_picker_button_cancel">İptal</string>
-  <string name="webviewchromium_color_picker_button_cyan">Camgöbeği</string>
+  <string name="webviewchromium_color_picker_button_cyan">Turkuaz</string>
   <string name="webviewchromium_color_picker_button_green">Yeşil</string>
   <string name="webviewchromium_color_picker_button_magenta">Macenta</string>
   <string name="webviewchromium_color_picker_button_more">Diğer</string>
