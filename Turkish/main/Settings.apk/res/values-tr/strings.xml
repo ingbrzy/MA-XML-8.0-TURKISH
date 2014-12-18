@@ -760,12 +760,13 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="font_size_medium">Orta</string>
   <string name="font_size_normal">Varsayılan</string>
   <string name="font_size_preview">NE MUTLU TÜRKÜM DİYENE</string>
+  <string name="font_size_preview_text">Yüzde yüz TÜRK olduğunu gün cihan senindir.</string>
   <string name="font_size_save">TAMAM</string>
   <string name="font_size_small">Küçük</string>
   <string name="font_size_summary">NE MUTLU TÜRKÜM DİYENE</string>
   <string name="font_size_summary1">"
- NE MUTLU TÜRKÜM DİYENE "</string>
-  <string name="font_size_summary2">JeeJen Home</string>
+  Dalgalan sen de şafaklar gibi ey şanlı hilâl"</string>
+  <string name="font_size_summary2">Hafif Mod</string>
   <string name="force_hw_ui">GPU oluşturmayı zorla</string>
   <string name="force_hw_ui_summary">Uygulamalarda 2D donanım hızlandırmayı kullan</string>
   <string name="force_msaa">4x MSAA\'a zorla</string>
@@ -890,6 +891,10 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="license_title">Lisans</string>
   <string name="line_breaking_summary">Paragraf satır kırılmasını iyileştir</string>
   <string name="line_breaking_title">Metin iyileştirme</string>
+  <string name="link_speed_label">Link hızı:</string>
+  <string name="local_auto_backup_off">Kapalı</string>
+  <string name="local_auto_backup_on">Açık</string>
+  <string name="local_auto_backup_section_title">Otomatik yedekleme</string>
   <string name="local_backup_section_summary">Sistem uygulamaları, hesaplar ve uygulamaları yedekle</string>
   <string name="local_backup_section_title">Yerel yedekler</string>
   <string name="locale_default">Varsayılan</string>
@@ -1654,7 +1659,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="title_color_calibration">"Renk Düzeltme ön ayar"</string>
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Yazı tipi</string>
-  <string name="title_font_current">Kullanılıyor</string>
+  <string name="title_font_current">Sistem yazı tipini seçin</string>
   <string name="title_font_size">Yazı boyutu</string>
   <string name="title_hdmi_color_calibration">"Renk Düzeltme ön ayar"</string>
   <string name="title_layout_current">Kullanılan düzen</string>
