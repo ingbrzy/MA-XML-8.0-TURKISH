@@ -58,6 +58,8 @@
   <string name="resource_buy">Satın Al</string>
   <string name="resource_can_not_selected">%1$s seçilemez!</string>
   <string name="resource_category">Kategori</string>
+  <string name="resource_clear_search_history">Arama geçmişini temizle</string>
+  <string name="resource_clear_search_history_dialog">Arama geçmişini temizlensin mi?</string>
   <string name="resource_comment_1_star">1 Yıldız</string>
   <string name="resource_comment_2_star">2 Yıldız</string>
   <string name="resource_comment_3_star">3 Yıldız</string>
@@ -233,7 +235,7 @@
   <string name="theme_user_agreement_content5">\'nı dikkatle okuyun. Bu işlem internet bağlantısı gerektirir, kabul ediyor musunuz?</string>
   <string name="theme_user_agreement_remind_again">Ağ bağlantısı gerekirse bildir</string>
   <string name="theme_user_agreement_remind_never">"Tekrar hatırlatma"</string>
-  <string name="theme_user_agreement_remind_summary">Cihazı tekrar başlatınca etkinleşecektir.</string>
+  <string name="theme_user_agreement_remind_summary">Ayarlarınız cihazı tekrar başlatınca etkinleşecektir.</string>
   <string name="theme_user_agreement_title">Açıklama</string>
   <string name="theme_yes">Evet</string>
   <string name="third_party_pickers_activity_title">%1$s</string>

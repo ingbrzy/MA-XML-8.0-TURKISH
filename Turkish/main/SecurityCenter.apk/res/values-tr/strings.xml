@@ -154,7 +154,7 @@
   <string name="dialog_msg_backup_and_uninstall_apps">Seçilen uygulamalar yedeklenip ve silinsin mi?</string>
   <string name="dialog_msg_check_all">%2$d öğeyi içeren %1$s seçmek için onaylayın</string>
   <string name="dialog_msg_load_cleanup_engine_error">Temizleme motoru bozulmuş.</string>
-  <string name="dialog_msg_stop_virus_scan">Tamamlanmadan önce virüs tarama duracak!</string>
+  <string name="dialog_msg_stop_virus_scan">Tarama henüz tamamlanmadı, durdrmak istiyor musunuz?</string>
   <string name="dialog_msg_uninstall_apps">Bu uygulamalar kaldırılsın mı?</string>
   <string name="dialog_title_auto_start_declare">Otomatik başlatma hakkında</string>
   <string name="dialog_title_backup_and_uninstall_apps">Yedekle ve kaldır</string>

@@ -1230,7 +1230,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="preferred_sms_settings">Bu uygulama, SMS mesajlarını almak ve göndermek için varsayılan olacaktır.</string>
   <string name="preferred_sms_title">Varsayılan SMS uygulaması</string>
   <string name="preferred_sms_warning_message">\"%1$s\" , mobil veri kullanımını yükseltebilir. Ayrıca güvenliğinizi tehlikeye atabilir.</string>
-  <string name="preferred_sms_warning_use_system">"Kullanılmayan"</string>
+  <string name="preferred_sms_warning_use_system">"İptal"</string>
   <string name="priority_storage_app_settings">Kullanıcı bilgileri  %1$s adresine kayıt edilecektir</string>
   <string name="priority_storage_settings_summary">"SD kart seçilmediği takdirde, kullanıcı bilgileri cihazınızın dahili depolama birimine otomatik kaydedilecektir"</string>
   <string name="priority_storage_summary">Kullanıcı bilgilerini kaydetmek için varsayılan konumu seçin</string>
@@ -1551,7 +1551,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="sound_category_notification_title">Bildirimler</string>
   <string name="sound_category_sound_title">Genel</string>
   <string name="sound_category_system_title">Sisem</string>
-  <string name="sound_effects_enable_title">Dokunma sesleri</string>
+  <string name="sound_effects_enable_title">Ekrana dokunma sesleri</string>
   <string name="sound_settings">Ses ve Titreşim Ayarları</string>
   <string name="spellchecker_language">Dil</string>
   <string name="spellchecker_quick_settings">Ayarlar</string>
@@ -1889,6 +1889,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_context_menu_change_wapi_certificate">WAPI Sertifkasını değiştir</string>
   <string name="wifi_context_menu_connect">Ağa bağlan</string>
   <string name="wifi_context_menu_forget">Ağı unut</string>
+  <string name="wifi_disabled_generic">Devre dışı</string>
   <string name="wifi_disabled_help">Zayıf bağlantı nedeniyle ağ kullanılmadı. Ayarlar &gt; Wi-Fi Gösterimi, Gelişmiş menü öğesi ile bu davranışı kapatın.</string>
   <string name="wifi_display_certification">Kablosuz ekran sertifikası</string>
   <string name="wifi_display_certification_summary">Kablosuz ekran sertifikası ayarlarını göster</string>
@@ -1933,6 +1934,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_priority_type_title">Elle AP önceliğini ayarlayın</string>
   <string name="wifi_quick_toggle_summary">Wi-Fi bağlantısını aç</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
+  <string name="wifi_remembered">Kayıtlı</string>
   <string name="wifi_required_info_text">Kurulumu tamamlamak için cihazınızın Wi-Fi ağına bağlanması gerekiyor. Yüklemeden sonra, mobil data ve Wi-Fi arasında geçiş yapabilirsiniz.</string>
   <string name="wifi_save">Kaydet</string>
   <string name="wifi_scan_always_available">Kullanılabilir ağları tara</string>
