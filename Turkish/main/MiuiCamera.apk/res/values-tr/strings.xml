@@ -2,9 +2,9 @@
 <resources>
   <string name="Import">İçe aktar</string>
   <string name="access_sd_fail">"SD belleğe erişilemiyor."</string>
-  <string name="accessibilit_camera_video_switch_picker_and_state">Kamera ve video arası geçiş (Şu anda Kullanılan %s)</string>
-  <string name="accessibility_camera_auto_flashmode">Otomatik flash</string>
-  <string name="accessibility_camera_flash_closemode">Flash kapalı</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Kamera ve video arası geçiş (Kullanılan %s)</string>
+  <string name="accessibility_camera_auto_flashmode">Otomatik flaş</string>
+  <string name="accessibility_camera_flash_closemode">Flaş kapalı</string>
   <string name="accessibility_camera_flashmode">Flaş açık</string>
   <string name="accessibility_camera_picker">Ön ve arka kamera arası geçiş</string>
   <string name="accessibility_close_more_ptions">Diğer ayarları kapat</string>
@@ -16,7 +16,7 @@
   <string name="accessibility_shutter_button">Deklanşör tuşu</string>
   <string name="accessibility_skin_beautify_closed">Ten tonu düzeltici kapalı</string>
   <string name="accessibility_skin_beautify_opened">Ten tonu düzeltici açık</string>
-  <string name="accessibility_zoom_control">Zum kontrolü</string>
+  <string name="accessibility_zoom_control">Yakınlaştrma kontrolü</string>
   <string name="albums">Albümler</string>
   <string name="aperture">Açıklık</string>
   <string name="app_details">Uygulama Detayları:</string>
@@ -62,10 +62,10 @@
   <string name="details">Ayrıntılar</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
-  <string name="details_title">%2$d de %1$d öğe:</string>
+  <string name="details_title">%2$d - %1$d </string>
   <string name="dialog_ok">Tamam</string>
   <string name="disable_video_snapshot_hint">Özel efektler açıkken videodan kesit alınamaz.</string>
-  <string name="download_by_browser">Bir web tarayıcısı indir</string>
+  <string name="download_by_browser">Bir web tarayıcısı indirin</string>
   <string name="download_qq">QQ indir</string>
   <string name="download_wechat">WeChat indir</string>
   <string name="duration">Süre</string>
@@ -135,8 +135,8 @@
   <string name="group_by_location">Konuma göre</string>
   <string name="group_by_tags">Etikete göre</string>
   <string name="group_by_time">Zamana göre</string>
-  <string name="hand_night_exit_button_text">Gece modundan çık</string>
-  <string name="hdr_exit_button_text">HDR modundan çık</string>
+  <string name="hand_night_exit_button_text">Gece modunu kapat</string>
+  <string name="hdr_exit_button_text">HDR modunu kapat</string>
   <string name="height">Yükseklik</string>
   <string name="import_complete">İçe aktarım tamamlandı</string>
   <string name="import_contact">Kişileri İçe aktar</string>
@@ -156,7 +156,7 @@
   <string name="mimetype">MIME türü</string>
   <string name="model">Model</string>
   <string name="no_save">Kaydetme</string>
-  <string name="no_storage">Kamerayı kullanmadan önce lütfen bir SD kartı takın</string>
+  <string name="no_storage">Kamerayı kullanmadan önce lütfen bir SD kart takın</string>
   <string name="no_thumbnail">Ön izleme yok</string>
   <string name="not_enough_space">Dahili hafıza dolu</string>
   <string name="not_selectable_in_scene_mode">Sahne modunda seçilemez</string>
@@ -179,6 +179,10 @@
   <string name="pref_advanced_settings">Gelişmiş</string>
   <string name="pref_audio_indicator_entry_off">Ses kapalı</string>
   <string name="pref_audio_indicator_entry_on">Ses açık</string>
+  <string name="pref_audio_focus_entry_front">Ön</string>
+  <string name="pref_audio_focus_entry_general">Normal</string>
+  <string name="pref_audio_focus_entry_rear">Arka</string>
+  <string name="pref_audio_focus_title">Ses odak noktası</string>
   <string name="pref_camcorder_settings">Video kamera ayarı</string>
   <string name="pref_camcorder_settings_category">Kamera ayarları</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
@@ -203,7 +207,7 @@
   <string name="pref_camera_coloreffect_entry_mirror">Ayna</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mozaik</string>
-  <string name="pref_camera_coloreffect_entry_nashvile">Çivit</string>
+  <string name="pref_camera_coloreffect_entry_nashvile">Mavi</string>
   <string name="pref_camera_coloreffect_entry_none">Normal</string>
   <string name="pref_camera_coloreffect_entry_planet">Küçük dünya</string>
   <string name="pref_camera_coloreffect_entry_seventy">1970ler</string>
@@ -222,13 +226,17 @@
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
   <string name="pref_camera_exposuretime_entry_125">1/125s</string>
   <string name="pref_camera_exposuretime_entry_15">1/15s</string>
+  <string name="pref_camera_exposuretime_entry_16s">16s</string>
   <string name="pref_camera_exposuretime_entry_2">1/2s</string>
   <string name="pref_camera_exposuretime_entry_250">1/250s</string>
   <string name="pref_camera_exposuretime_entry_30">1/30s</string>
+  <string name="pref_camera_exposuretime_entry_32s">32s</string>
   <string name="pref_camera_exposuretime_entry_4">1/4s</string>
+  <string name="pref_camera_exposuretime_entry_4s">4s</string>
   <string name="pref_camera_exposuretime_entry_5000">1/5000s</string>
   <string name="pref_camera_exposuretime_entry_60">1/60s</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
+  <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Otomatik</string>
   <string name="pref_camera_exposuretime_title">Pozlama süresi</string>
   <string name="pref_camera_facedetection_title">Yüz algılama</string>
@@ -238,14 +246,14 @@
   <string name="pref_camera_flashmode_title">Flaş modu</string>
   <string name="pref_camera_flashmode_entry_torch">Elfeneri</string>
   <string name="pref_camera_focusmode_entry_auto">Otomatik</string>
-  <string name="pref_camera_focusmode_entry_continuous">CAF</string>
+  <string name="pref_camera_focusmode_entry_continuous">Sürekli otomatik odak (CAF)</string>
   <string name="pref_camera_focusmode_entry_infinity">Sonsuz</string>
   <string name="pref_camera_focusmode_entry_lock">Kilit</string>
   <string name="pref_camera_focusmode_entry_macro">Makro</string>
   <string name="pref_camera_focusmode_entry_manual">Elle ayar</string>
   <string name="pref_camera_focusmode_entry_normal">Normal</string>
   <string name="pref_camera_focusmode_title">Odaklama modu</string>
-  <string name="pref_camera_front_fb_title">Enhance skin tones</string>
+  <string name="pref_camera_front_fb_title">Cilt tonları geliştir</string>
   <string name="pref_camera_hand_night_title">Gece Modu</string>
   <string name="pref_camera_hdr_type_entry_live">Canlı HDR</string>
   <string name="pref_camera_hdr_type_entry_normal">Normal HDR</string>
@@ -254,9 +262,9 @@
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
   <string name="pref_camera_hfr_entry_off">Kapalı</string>
-  <string name="pref_camera_hfr_title">Yüksek kare hızı (Slow Motion)</string>
-  <string name="pref_camera_histogram_entry_disable">Devre dışı</string>
-  <string name="pref_camera_histogram_entry_enable">Etkin</string>
+  <string name="pref_camera_hfr_title">Yavaş çekim modu(Slow Motion)</string>
+  <string name="pref_camera_histogram_entry_disable">Kapalı</string>
+  <string name="pref_camera_histogram_entry_enable">Açık</string>
   <string name="pref_camera_histogram_title">Histogram</string>
   <string name="pref_camera_iso_entry_auto">Otomatik</string>
   <string name="pref_camera_iso_entry_iso100">ISO100</string>
@@ -265,14 +273,15 @@
   <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
   <string name="pref_camera_iso_entry_iso800">ISO800</string>
-  <string name="pref_camera_iso_title">ISO Seç</string>
+  <string name="pref_camera_iso_title">ISO değerini seçin</string>
   <string name="pref_camera_jpegquality_entry_high">Yüksek</string>
   <string name="pref_camera_jpegquality_entry_low">Düşük</string>
   <string name="pref_camera_jpegquality_entry_normal">Normal</string>
   <string name="pref_camera_jpegquality_title">Fotoğraf kalitesi</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Odakla</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Odaklama</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Seri çekim</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Deklanşör tuşu uzun basma</string>
+  <string name="pref_camera_long_pressing_shutter_title">AE/AF/AWB ayarını sabitlemek için deklanşör butonuna basılı tutun.</string>
   <string name="pref_camera_manual_mode_title">Manuel</string>
   <string name="pref_camera_movie_solid_title">Resim Sabitleyici</string>
   <string name="pref_camera_multilevel_entry_high">Yüksek</string>
@@ -289,7 +298,7 @@
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
-  <string name="pref_camera_picture_format_title">Resim formatı seç</string>
+  <string name="pref_camera_picture_format_title">Resim formatı seçin</string>
   <string name="pref_camera_picturesize_entry_1024x768">0.8M(1024x768)</string>
   <string name="pref_camera_picturesize_entry_1280x720">0.9M(1280x720)</string>
   <string name="pref_camera_picturesize_entry_1280x960">1.3M(1280x960)</string>
@@ -320,13 +329,13 @@
   <string name="pref_camera_recordlocation_entry_on">Açık</string>
   <string name="pref_camera_recordlocation_title">Konum bilgisini kaydet</string>
   <string name="pref_camera_redeyereduction_entry_auto">Otomatik</string>
-  <string name="pref_camera_redeyereduction_entry_disable">Devre dışı</string>
-  <string name="pref_camera_redeyereduction_entry_enable">Etkin</string>
+  <string name="pref_camera_redeyereduction_entry_disable">Kapalı</string>
+  <string name="pref_camera_redeyereduction_entry_enable">açık</string>
   <string name="pref_camera_redeyereduction_title">Kırmızı göz azaltma</string>
   <string name="pref_camera_referenceline_title">Referans çizgisi</string>
   <string name="pref_camera_saturation_title">Doygunluk</string>
   <string name="pref_camera_scenedetect_title">Otomatik sahne algılama</string>
-  <string name="pref_camera_scenemode_entry_auto">Oto</string>
+  <string name="pref_camera_scenemode_entry_auto">Otomatik</string>
   <string name="pref_camera_scenemode_entry_backlight">Arkaplan ışığı</string>
   <string name="pref_camera_scenemode_entry_beach">Plaj</string>
   <string name="pref_camera_scenemode_entry_fireworks">Havai Fişek</string>
@@ -340,7 +349,7 @@
   <string name="pref_camera_scenemode_entry_sports">Sport</string>
   <string name="pref_camera_scenemode_entry_sunset">Gün Batımı</string>
   <string name="pref_camera_scenemode_title">Sahne modu</string>
-  <string name="pref_camera_settings">Cihaz ayarı</string>
+  <string name="pref_camera_settings">Cihaz ayarları</string>
   <string name="pref_camera_settings_category">Kamera ayarları</string>
   <string name="pref_camera_settings_title">Ayarlar</string>
   <string name="pref_camera_sharpness_title">Keskinlik</string>
@@ -352,8 +361,8 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">Devre dışı</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Etkin</string>
   <string name="pref_camera_skinToneEnhancement_title">Cilt tonunu zenginleştirme</string>
-  <string name="pref_camera_sound_entry_off">kapalı</string>
-  <string name="pref_camera_sound_entry_on">açık</string>
+  <string name="pref_camera_sound_entry_off">Kapalı</string>
+  <string name="pref_camera_sound_entry_on">Açık</string>
   <string name="pref_camera_sound_title">Kamera sesi</string>
   <string name="pref_camera_touchafaec_entry_off">Kapalı</string>
   <string name="pref_camera_touchafaec_entry_on">Açık</string>
@@ -366,7 +375,7 @@
   <string name="pref_camera_volumekey_function_entry_exposure">Pozlama</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Deklanşör</string>
   <string name="pref_camera_volumekey_function_entry_volume">Ses</string>
-  <string name="pref_camera_volumekey_function_entry_zoom">Zum</string>
+  <string name="pref_camera_volumekey_function_entry_zoom">Yakınlaştır</string>
   <string name="pref_camera_volumekey_function_title">Ses tuşları fonksiyonu</string>
   <string name="pref_camera_watermark_title">Tarih etiketi</string>
   <string name="pref_camera_whitebalance_entry_auto">Otomatik</string>
@@ -379,11 +388,11 @@
   <string name="pref_camera_whitebalance_title">Beyaz Dengesi</string>
   <string name="pref_camera_zsl_entry_off">Kapalı</string>
   <string name="pref_camera_zsl_entry_on">Açık</string>
-  <string name="pref_camera_zsl_title">ZSL</string>
+  <string name="pref_camera_zsl_title">Sıfır deklanşör gecikmesi (ZSL)</string>
   <string name="pref_capture_settings">Kamera ayarı</string>
   <string name="pref_exposure_title">Pozlama</string>
   <string name="pref_face_beauty_title">Görüntü tonları</string>
-  <string name="pref_front_mirror_entry_auto">Oto</string>
+  <string name="pref_front_mirror_entry_auto">Otomatik</string>
   <string name="pref_front_mirror_entry_off">Kapalı</string>
   <string name="pref_front_mirror_entry_on">Açık</string>
   <string name="pref_front_mirror_title">Ön kamera aynası</string>
@@ -393,12 +402,12 @@
   <string name="pref_grp_restore_settings">Ayarları sıfırla</string>
   <string name="pref_manual_exposure_title">Elle pozlama</string>
   <string name="pref_priority_storage_title">SD karta kaydet</string>
-  <string name="pref_qc_focus_position_title">Fokus</string>
-  <string name="pref_scan_qrcode_title">QR kod tara</string>
+  <string name="pref_qc_focus_position_title">Odaklama</string>
+  <string name="pref_scan_qrcode_title">QR kodu tara</string>
   <string name="pref_settings_mode">Kamera modu</string>
   <string name="pref_video_captrue_ability_title">Videodan fotoğraf alma</string>
   <string name="pref_video_focusmode_entry_auto">Dokunma</string>
-  <string name="pref_video_focusmode_entry_continuous">CAF</string>
+  <string name="pref_video_focusmode_entry_continuous">Sürekli otomatik odak (CAF)</string>
   <string name="pref_video_focusmode_title">Odaklama modu</string>
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
@@ -410,7 +419,7 @@
   <string name="pref_video_speed_fast_title">Hızlı çekim</string>
   <string name="pref_video_speed_slow_title">Yavaş çekim</string>
   <string name="pref_video_speed_title">Video Çekim Hızı</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_10">.3 saniye (10 kez)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_10">0.3 saniye (10 kez)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">4 saniye (120 kez)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">5 saniye (150 kez)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_1800">60 saniye (1800 kez)</string>
@@ -428,8 +437,8 @@
   <string name="qq_details">QQ detayları:</string>
   <string name="qr_code_details">QR kod detayları:</string>
   <string name="raw_data_exit_button_text">RAW modundan çık</string>
-  <string name="record_back_pressed_hint">Kaydı durdurmak için tekrar basın</string>
-  <string name="resume_playing_message">%s den oynatmaya devam et?</string>
+  <string name="record_back_pressed_hint">Kaydı durdurmak için tekrar dokunun</string>
+  <string name="resume_playing_message">%s den oynatmaya devam edilsin mi?</string>
   <string name="resume_playing_restart">Yeniden başlat</string>
   <string name="resume_playing_resume">Oynatmaya devam et</string>
   <string name="resume_playing_title">Videoyu devam ettir</string>
@@ -457,6 +466,8 @@
   <string name="show_images_only">Sadece resimler</string>
   <string name="show_on_map">Haritada göster</string>
   <string name="show_videos_only">Sadece videolar</string>
+  <string name="simple_mode_button_asd_flash">Kapat</string>
+  <string name="simple_mode_button_asd_hdr">Kapat</string>
   <string name="simple_mode_button_text_audio_capture">Ses kaydını kapat</string>
   <string name="simple_mode_button_text_color_effect">Filtreyi kapat</string>
   <string name="simple_mode_button_text_countdown">Geri sayımı kapat</string>
@@ -516,15 +527,9 @@
   <string name="wifi_security">Güvenlik:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">"Bu Wi-Fi ağına bağlanmadan önce güvenliğinizi kontrol edin."</string>
-  <string name="simple_mode_button_asd_flash">Kapat</string>
-  <string name="simple_mode_button_asd_hdr">Kapat</string>
-  <string name="pref_camera_long_pressing_shutter_title">AE/AF/AWB ayarını sabitlemek için deklanşör butonuna basılı tutun.</string>
-  <string name="pref_camera_exposuretime_entry_8s">8s</string>
-  <string name="pref_camera_exposuretime_entry_4s">4s</string>
-  <string name="pref_camera_exposuretime_entry_32s">32s</string>
-  <string name="pref_camera_exposuretime_entry_16s">16s</string>
-  <string name="pref_audio_focus_entry_front">Ön</string>
-  <string name="pref_audio_focus_entry_general">Normal</string>
-  <string name="pref_audio_focus_entry_rear">Arka</string>
-  <string name="pref_audio_focus_title">Ses odak noktası</string>
+
+  
+  
+  
+  
 </resources>
