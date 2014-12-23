@@ -63,4 +63,17 @@
 <item>10 dakika içinde</item>
 <item>Asla</item>
 </string-array>
+<string-array name="alarm_repeat_type">
+ <item>Birkez</item>
+ <item>Hergün</item>
+ <item>Yasal işgünleri</item>
+ <item>Hafta günleri</item>
+ <item>Özel</item>
+ </string-array>
+ <string-array name="alarm_repeat_type_no_workdays">
+ <item>Birkez</item>
+ <item>Hergün</item>
+ <item>Hafta günleri</item>
+ <item>Özel</item>
+ </string-array>
 </resources>

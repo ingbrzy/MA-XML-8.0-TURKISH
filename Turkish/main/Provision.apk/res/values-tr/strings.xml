@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">TAMAM</string>
-  <string name="congratulation_label">MIUI dünyasına hoşgeldiniz!</string>
-  <string name="congratulation_next">Tamam</string>
+  <string name="congratulation_label"/>
   <string name="disagree">İptal</string>
   <string name="input_method_category">"E-posta, not yazmak ve diğer her alanda kullanmak için varsayılan klavyenizi seçin. Unutmayın ki istediğiniz her zaman üçüncü parti klavye uygulamalarını yükleyebilirsiniz."</string>
   <string name="input_method_setting">Varsayılan klavyeyi seçin</string>
@@ -11,7 +10,6 @@
   <string name="locale_picker_desc">"Daha sonra konumunuzu değiştirmek isterseniz, telefonunuzu fabrika verilerine sıfırlamanız gerekir
   "</string>
   <string name="locale_picker_title">Konumunuzu seçin</string>
-  <string name="logo_congratulation">Her şey tamam!</string>
   <string name="miui_privacy_policy_no_network">Ağ bağlantısı yok. Gizlilik Politikasını görüntülemek için: %s</string>
   <string name="miui_terms_no_network">Ağ bağlantısı yok. Hizmet Şartlarını görüntülemek için: %s</string>
   <string name="multisim_settings_category">SIM kart ayarları</string>
@@ -24,10 +22,15 @@
   <string name="other_settings_user_experience">Kullanıcı görüşleri</string>
   <string name="other_settings_user_experience_summary">"Anonim kullanıcı verileri göndererek MIUI gelişimine yardımcı olun "</string>
   <string name="other_settings_user_experience_summary1">"(Gizlilik Politikası)"</string>
+  <string name="page_layout_label">Yazı boyutu ve ana ekran düzenini, bildiirm alanını, tuş takımı ve dafa fazlasını ayarlayın</string>
+  <string name="page_layout_title">Sistem düzeni</string>
   <string name="pref_title_data_slot">Tercih edilen veri SIM kartı</string>
   <string name="pref_title_voice_slot">Tercih edilen ses SIM kartı</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
-  <string name="provision_inputmethod_policy_description">"Seçilen klavyeleri görüntüle "</string>
+  <string name="provision_finish">TAMAM</string>
+  <string name="provision_finish_restart">Tekrar başat</string>
+  <string name="provision_inputmethod_policy_description">"
+ Seçilen klavyeleri görüntüle  "</string>
   <string name="provision_inputmethod_policy_description1">Gizlilik Politikası</string>
   <string name="setting_locale">Konum ayarlanıyor...</string>
   <string name="shut_down">Telefonu Kapat</string>
@@ -42,6 +45,7 @@
   <string name="terms_of_use">Hizmet Şartları</string>
   <string name="terms_of_use_label">"MIUI\'ı kullanmadan önce Kullanıcı Sözleşmesi ve Gizlilik Politikasını kabul etmeniz gerekir.
   "</string>
+  <string name="title_congratulation">"Herşey tamam !"</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="welcome">Hoşgeldiniz</string>
 </resources>

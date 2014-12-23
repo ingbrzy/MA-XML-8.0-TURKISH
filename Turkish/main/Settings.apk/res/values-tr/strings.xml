@@ -1173,8 +1173,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="page_layout_7">Notlar</string>
   <string name="page_layout_8">Takvim</string>
   <string name="page_layout_9">Posta</string>
-  <string name="page_layout_confirm_message">"Ekran çözünürlüğü değiştirildi, masaüstünüzün güncellenmesi birkaç dakika alabilir.
-  Devam etmek istiyor musunuz?"</string>
+  <string name="page_layout_confirm_message">"Değişikliklerin uygulanması için cihazınızın tekrar başlatılması gerekiyor. Bu işlem birkaç dakika alabilir."</string>
   <string name="page_layout_confirm_title">Ekran ölçüsünü değiştir</string>
   <string name="passwordIncorrect">Girdiğiniz şifre hatalı</string>
   <string name="password_guard">Şifre</string>
@@ -1260,6 +1259,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="process_stats_type_cached">Önbellek</string>
   <string name="process_stats_type_foreground">Önplan</string>
   <string name="provision_next">İleri</string>
+  <string name="provision_page_layout_confirm_message">Değişikliklerin uygulanması için cihazınızın tekrar başlatılması gerekiyor. Bu işlem birkaç dakika alabilir.</string>
   <string name="proxy_exclusionlist_label">Şunlar için proxy\'yi atla</string>
   <string name="proxy_hostname_label">Proxy ana bilgisayar adı</string>
   <string name="proxy_port_label">Port</string>
@@ -1827,6 +1827,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="volume_alarm_mute">Alarmları sustur</string>
   <string name="volume_bluetooth_description">Bluetooth Sesi</string>
   <string name="volume_category_title">Sesler</string>
+  <string name="volume_hifi_description">Hi-Fi ayarları</string>
   <string name="volume_media_description">Müzik ve diğer medya sesleri</string>
   <string name="volume_media_mute">Müzik &amp; diğer medya seslerini sustur</string>
   <string name="volume_notification_description">Bildirimler</string>

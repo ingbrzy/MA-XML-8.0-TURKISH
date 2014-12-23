@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_airplane_mode">Uçak modu.</string>
+  <string name="accessibility_airplane_mode">Uçak modu</string>
   <string name="accessibility_back">Geri</string>
   <string name="accessibility_battery_level">Pil yüzdesi: %d</string>
   <string name="accessibility_bluetooth_connected">Bluetooth bağlandı.</string>
@@ -93,16 +93,16 @@
   <string name="ext_media_badremoval_notification_title">USB depolama beklenmedik bir şekilde çıkartıldı</string>
   <string name="ext_media_checking_notification_message">Hatalar kontrol ediliyor.</string>
   <string name="ext_media_checking_notification_title">USB depolama hazırlanıyor</string>
-  <string name="ext_media_mountable_notification_message">"'Dosyalara git' e dokunun"</string>
+  <string name="ext_media_mountable_notification_message">"Açmak için dokunun"</string>
   <string name="ext_media_mountable_notification_title">"USB depolama cihazı bağlandı"</string>
-  <string name="ext_media_nofs_notification_message">USB depolama boş ya da  desteklenmeyen dosya sistemi içeriyor.</string>
-  <string name="ext_media_nofs_notification_title">Boş USB depolama</string>
+  <string name="ext_media_nofs_notification_message">USB depolama boş veya dosya sistemi desteklenmiyor</string>
+  <string name="ext_media_nofs_notification_title">USB depolama boş</string>
   <string name="ext_media_nomedia_notification_message">USB depolama çıkartıldı. Yeni medya yerleştirin.</string>
   <string name="ext_media_nomedia_notification_title">USB depolama çıkartıldı</string>
-  <string name="ext_media_safe_remove">"Güvenlice çıkart"</string>
-  <string name="ext_media_safe_unmount_notification_message">USB depolomayı güvenlice çıkartabilirsiniz.</string>
-  <string name="ext_media_safe_unmount_notification_title">USB depolama cihazı güvenlice çıkartılabilir</string>
-  <string name="ext_media_unmountable_notification_message">USB Depolama zarar görmüş. Format atmayı deneyebilirsiniz.</string>
+  <string name="ext_media_safe_remove">"Güvenle çıkart"</string>
+  <string name="ext_media_safe_unmount_notification_message">USB depolomayı güvenle çıkartabilirsiniz.</string>
+  <string name="ext_media_safe_unmount_notification_title">USB depolama cihazı güvenle çıkartılabilir</string>
+  <string name="ext_media_unmountable_notification_message">USB depolama zarar görmüş. Format atmayı deneyebilirsiniz.</string>
   <string name="ext_media_unmountable_notification_title">USB Depolama zarar görmüş</string>
   <string name="gps_notification_found_text">Konum GPS ile belirlendi</string>
   <string name="gps_notification_searching_text">GPS uyduları aranıyor..</string>
@@ -139,8 +139,8 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="notification_otg_trackball_out">Trackball bağlantısı kesildi</string>
   <string name="notification_otg_unknow_in">OTG cihazı bağlandı</string>
   <string name="notification_otg_unknow_out">OTG Cihaz bağlantısı kesildi</string>
-  <string name="reject_call">Aramayı reddet</string>
-  <string name="return_to_incall_screen">Aramaya geri dön</string>
+  <string name="reject_call">Çağrıyı reddet</string>
+  <string name="return_to_incall_screen">Çağrıya dön</string>
   <string name="screenshot_failed_text">Ekran görüntüsü kaydedilemedi. Depolama birimi kullanımda olabilir.</string>
   <string name="screenshot_failed_title">Ekran görüntüsü alınamadı.</string>
   <string name="screenshot_saved_text">Ekran görüntüsüne gözatmak için dokunun.</string>
@@ -156,7 +156,7 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="share">Paylaş</string>
   <string name="status_bar_date_format">d MMMM EEEE</string>
   <string name="status_bar_date_formatter">%2$s</string>
-  <string name="status_bar_network_flow">Bugün: %1$s Kalan: %2$s Kota: %3$s</string>
+  <string name="status_bar_network_flow">Bugün: %1$s - Kalan: %2$s - Kota: %3$s</string>
   <string name="status_bar_network_flow_exceed">"Bugün: %1$s | Aşılan: %2$s | Kota: %3$s"</string>
   <string name="status_bar_network_flow_today">Bugün:%1$s</string>
   <string name="status_bar_network_name_separator">|</string>

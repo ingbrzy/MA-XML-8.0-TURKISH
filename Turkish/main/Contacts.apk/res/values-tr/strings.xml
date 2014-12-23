@@ -627,7 +627,7 @@
   <string name="pref_summary_import_from_account">Google ve Exchange hesabından Mi hesabıma aktar</string>
   <string name="pref_title_account_import">Hesaptan aktar</string>
   <string name="pref_title_import_from_account">Xiaomi hesabıma aktar</string>
-  <string name="preference_auto_ip_summary_disable">Etkin değil</string>
+  <string name="preference_auto_ip_summary_disable">Kapalı</string>
   <string name="preference_auto_ip_summary_on">Hattınızın IP öneki: %s</string>
   <string name="preference_auto_ip_title">Otomatik IP Ayarları</string>
   <string name="preference_contacts">Rehber</string>
@@ -716,7 +716,7 @@
   <string name="scan_duplicate_message">%1$d kişi aynı bilgiyi içeriyor.</string>
   <string name="scan_merge">Muhtemel çift girişler aranıyor, lütfen bekleyin...</string>
   <string name="scan_qrcode_card_hint1">QR Kodunu tara</string>
-  <string name="scan_qrcode_card_hint2">Bilgileri kişilerinize ekleyin</string>
+  <string name="scan_qrcode_card_hint2">Kişilere ekleyin</string>
   <string name="scanning">Taranıyor...</string>
   <string name="scanning_sdcard_failed_message">Sebep: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Depolama alanı taranamıyor</string>
@@ -754,7 +754,7 @@
   <string name="simContacts_title">SIM Numaraları</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Sim Kart Kapasitesini Görüntüle</string>
-  <string name="sim_capacity_content" formatted="false">Toplam kapasite:%d, Kullanımda olan: %d</string>
+  <string name="sim_capacity_content" formatted="false">Toplam :%d | Kullanılan: %d</string>
   <string name="sim_card_no_free_space_message">SIM kartınız dolu, yeni kişiler eklenemiyor.Lütfen SIM kartınızda yer açtıktan sonra tekrar deneyin</string>
   <string name="sim_card_no_free_space_title">SIM kart dolu</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Hiçbirini seçme</string>

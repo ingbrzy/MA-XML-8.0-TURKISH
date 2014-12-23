@@ -18,9 +18,11 @@ Cihaz kalibrasyonunu yapmadan önce düz bir zemine yerleştirin."</string>
   <string name="cit_audio_cali_playing">Kalibrasyon için butona basın</string>
   <string name="cit_audio_cali_summary">PA hoparlör kalibrasyonu</string>
   <string name="cit_audio_cali_title">PA hoparlör kalibrasyon testi</string>
+  <string name="cit_audio_cali_valueC">Sayaç:</string>
   <string name="cit_audio_cali_valueF0">F0:</string>
   <string name="cit_audio_cali_valueR">Impedance:</string>
   <string name="cit_audio_cali_valueT">tCoef:</string>
+  <string name="cit_audio_calibrating">Kalibrasyon devam ediyor..</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Arkaplan Mikrofon ses vericisi testi</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Arkaplan Mikrofon ses vericisi testi</string>
   <string name="cit_audio_lb_phonecall_title">Çağrı test simülasyonu</string>
