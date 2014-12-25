@@ -35,6 +35,8 @@
   <string name="attach_subject">Konu</string>
   <string name="attach_take_photo">Fotoğraf çek</string>
   <string name="attach_video">Video</string>
+  <string name="audio_download_failed">Ses dosyası indirilemedi!</string>
+  <string name="audio_playing_seconds">%d\"</string>
   <string name="back_to_message_list">Mesaj listesine dön</string>
   <string name="batch_adding_progress_message">Ekleniyor</string>
   <string name="batch_delete_confirm_dialog_message">Seçilen %1$s mesaj silinsin mi?</string>
@@ -49,6 +51,7 @@
   <string name="cannot_add_slide_anymore">Daha fazla slayt eklenemiyor.</string>
   <string name="cannot_forward_drm_obj">Mesajdaki DRM nesnesi yönlendirilemiyor.</string>
   <string name="cannot_get_details">Ayrıntılar alınamıyor.</string>
+  <string name="cannot_resend_audio">"Kayıt gönderilemiyor!"</string>
   <string name="cannot_send_message">Mesaj gönderilemiyor</string>
   <string name="cannot_send_message_reason">Mesajınızın geçerli alıcısı yok.</string>
   <string name="change_duration_activity">Süreyi değiştir</string>
@@ -118,6 +121,7 @@
   <string name="download">İndir</string>
   <string name="download_later">Şu anda indirilemiyor. Daha sonra tekrar deneyin.</string>
   <string name="downloading">İndiriliyor</string>
+  <string name="downloading_file_can_not_play">Lütfen indirme işleminin bitmesini bekleyin</string>
   <string name="duration_not_a_number">Süre bir sayı olmalıdır.</string>
   <string name="duration_sec">Süre (%s sn)</string>
   <string name="duration_selector_title">"Slayt süresi"</string>
@@ -172,6 +176,7 @@
   <string name="guild_add_attachments">Dosya veya gülümseme eklemek için burayı tıklayın</string>
   <string name="guild_add_recipients">Adres defterinden alıcı eklemek için burayı tıklayın</string>
   <string name="has_invalid_recipient">Geçersiz alıcı :%1$s</string>
+  <string name="guild_msim_switcher">SIM kartı değiştirmek çin dokunun</string>
   <string name="hidden_sender_address">Gizli gönderen adresi</string>
   <string name="hint_search_sms">%d mesaj</string>
   <string name="hms_first_use_tips">Servis mesajlarının alınması için, Wi-Fi ağına bağlı olmanız gerekiyor</string>
@@ -184,6 +189,7 @@
   <string name="invalid_recipient_message">Alıcıları düzeltin, aksi takdirde mesajı almayacaklar.</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Slayt gösterisi düzeni "</string>
+  <string name="left_cancel">İptal etmek için sola kaydır</string>
   <string name="loading_all_messages">Mesajlar yükleniyor...</string>
   <string name="loading_conversations">Görüşmeler yükleniyor...</string>
   <string name="loading_mms">Yükleniyor......</string>
@@ -204,6 +210,7 @@
   <string name="menu_new_manual">Bir numara giriniz</string>
   <string name="menu_pick_from_contact">Kişilerden seç</string>
   <string name="menu_preferences">Ayarlar</string>
+  <string name="menu_send_as_common">SMS olarak göder</string>
   <string name="menu_unlock">Kilit açık</string>
   <string name="menu_view_contact">Kişileri görüntüle</string>
   <string name="menu_yellowpage">%s görüntüle</string>
@@ -220,6 +227,7 @@
   <string name="message_saved_as_draft">Mesaj taslak olarak kaydedildi.</string>
   <string name="message_send_failed_title">Mesaj gönderilmedi</string>
   <string name="message_send_read_report">Okundu raporu gönderilecek</string>
+  <string name="message_sent">Gönderildi</string>
   <string name="message_size_label">Mesaj boyutu:</string>
   <string name="message_too_big_for_audio">Mesaj cok büyük</string>
   <string name="message_too_big_for_video">Mesaj, video eklenemeyecek kadar büyük.</string>
@@ -237,6 +245,7 @@
   <string name="msglist_release_to_more">"Görüntülemek için bırakın"</string>
   <string name="multimedia_message">Multimedya Mesajları</string>
   <string name="multimedia_notification">Multimedya mesajı bildirimi</string>
+  <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_dlg_title">Mi Mesajı etkinleştir</string>
   <string name="mx_activate_error_malformed_info">Bu SIM kart için Mi Mesaj\'ı yeniden aktifleştirmelisiniz.</string>
   <string name="mx_activate_error_server">"Aktivasyon başarısız."</string>
@@ -298,6 +307,7 @@
   <string name="phrase_list_title">Şablonlar</string>
   <string name="pick_too_many_recipients">Çok fazla alıcı var!</string>
   <string name="play">Oynat</string>
+  <string name="playing_failed">"Oynatılamıyor!"</string>
   <string name="pref_advanced_settings_title">Gelişmiş Ayarlar</string>
   <string name="pref_collapse_sp_messages_summary">Operatörden gelen aynı mesajları birleştir</string>
   <string name="pref_edit_smsc_address">SMS merkezi numarası</string>
@@ -347,6 +357,7 @@
   <string name="pref_title_wake_up_screen">Ekran ışığını aç</string>
   <string name="preferences_title">"Ayarlar"</string>
   <string name="prepare_send">Göndermeye hazırlanılıyor...</string>
+  <string name="press_recording">Kayıt için mikrofon simgesine basılı tutun</string>
   <string name="preview">Önizleme</string>
   <string name="preview_slideshow">Önizleme</string>
   <string name="priority_high">Yüksek</string>
@@ -365,10 +376,12 @@
   <string name="received_label">Alındı:</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">Alıcı:</string>
+  <string name="recording_failed">"Kaydedilemiyor!"</string>
   <string name="refill_now">Şimdi tekrar doldur</string>
   <string name="refresh">Yenile</string>
   <string name="refresh_failed">Güncelleme başarısız</string>
   <string name="refreshing">Yenileniyor...</string>
+  <string name="release_cancel">İptal etmek için bırakın</string>
   <string name="remove">Kaldır</string>
   <string name="remove_music">Müziği kaldır</string>
   <string name="remove_picture">Resmi kaldır</string>
@@ -379,6 +392,7 @@
   <string name="replace_image">Resmi değiştir</string>
   <string name="resent_message">Tekrar gönder</string>
   <string name="resize_image_error_information">Bu resim, yeniden boyutlandırıldığında dahi gönderilemeyecek kadar büyük.</string>
+  <string name="resource_price_free">Ücretsiz</string>
   <string name="restore_all_button_msg">Bu numaranın tüm mesajlarını geri yükle</string>
   <string name="restore_blocked_message">Mesajı geri yükle</string>
   <string name="restore_to_phone_memory_failed">"Onarılamadı"</string>
@@ -387,6 +401,7 @@
   <string name="save">Kaydet</string>
   <string name="save_ringtone">Zil sesi olarak kaydet</string>
   <string name="save_to_sim">SIM karta kaydet</string>
+  <string name="sdcard_has_not_enough_space">SD kartta eterli boş alan yok!</string>
   <string name="save_to_sim_failed">"Kaydedilemedi"</string>
   <string name="saved_label">Kaydedildi:</string>
   <string name="saved_ringtone">Zil sesi kaydedildi</string>
@@ -447,6 +462,8 @@
   <string name="sms_rejected_body">Gelen bir mesaj bilinmeyen bir nedenden dolayı  reddedildi.</string>
   <string name="sms_rejected_title">Kısa mesaj reddedildi</string>
   <string name="sp_category_all">Tüm servis mesajları</string>
+  <string name="snippet_audio">[ses]</string>
+  <string name="snippet_picture">[resim]</string>
   <string name="sp_category_bank">Banka servis mesajları</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Bildirimler</string>
@@ -516,6 +533,7 @@
   <string name="view_hms_details">Detaylar</string>
   <string name="view_message_details">Detayları görüntüle</string>
   <string name="wap_push_title">"[WAP Push] "</string>
+  <string name="warning_show">%ds de gönder</string>
   <string name="xiaomi_service_number">Servis numarası</string>
   <string name="yes">Tamam</string>
 </resources>

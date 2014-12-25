@@ -3,6 +3,7 @@
   <string name="action_cancel">İptal</string>
   <string name="action_confirm">Seç</string>
   <string name="action_submit">Gönder</string>
+  <string name="announcement">Dikkat</string>
   <string name="app_empty">"İndirilen uygulamanız yok"</string>
   <string name="app_label">Hata Bildirimi</string>
   <string name="app_title">"Hata Rapor Merkezi"</string>
@@ -32,12 +33,12 @@
   <string name="discard_draft_dialog_content">"Bu raporda yaptığınız değişiklikler kaybedilecektir."</string>
   <string name="discard_draft_dialog_title">Taslak iptal edilsin mi?</string>
   <string name="err_type">Hata türü</string>
+  <string name="err_type_app">Uygulamalar</string>
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Kamera</string>
   <string name="err_type_hardware">Donanım</string>
   <string name="err_type_hardware_summary">Tuşlar, şarj, sensörler vs.</string>
-  <string name="err_type_mysuggestion">Öneriler</string>
-  <string name="err_type_mysuggestion_summary">Geribildirim ile fikirlerinizi paylaşın.</string>
+  <string name="err_type_more">Daha</string>
   <string name="err_type_nonsystemapp">Uygulamalar</string>
   <string name="err_type_power_consuming">Güç tüketimi</string>
   <string name="err_type_reboot">T.Başlatma</string>
@@ -71,6 +72,7 @@
   <string name="refresh">Yenile</string>
   <string name="report_miui">Hata Bildirimi</string>
   <string name="screen_lock">"Ekran kilidi"</string>
+  <string name="screen_orientation_type">-1</string>
   <string name="section_description">Açıklama</string>
   <string name="section_err_type">Hatanın türü</string>
   <string name="section_screenshot">Ekran görüntüsü</string>
@@ -83,11 +85,14 @@
   <string name="system_app_select">Yerleşik uygulamalar</string>
   <string name="systemui">Bildirim çubuğu</string>
   <string name="title_hot_problem">Genel hatalar</string>
+  <string name="title_nonsystem_app">Diğer Uygulamalar</string>
+  <string name="title_system_app">MIUI Uygulamaları</string>
   <string name="toast_description_required">Bir açıklama yapılması gereklidir</string>
   <string name="toast_feedback_network_unavailable">"Ağa bağlanamıyor!"</string>
   <string name="toast_feedback_pending_wlan">"Mesaj bir Wi-Fi ağına bağlandığınızda gönderilecektir"</string>
   <string name="toast_feedback_submitted">Rapor gönderildi</string>
   <string name="toast_feedbackservice_in_submit">Önceki geri bildirim gönderiliyor...</string>
+  <string name="toast_network_unavailable">"Ağ bağlantısı olmadığı için gönderilemiyor!"</string>
   <string name="toast_pending_log_collection">Kayıtlar halen toplanıyor...</string>
   <string name="toast_report_copied_to_clipboard">Rapor panoya kopyalandı</string>
   <string name="toast_report_sent_failed">"Rapor gönderilemiyor"</string>

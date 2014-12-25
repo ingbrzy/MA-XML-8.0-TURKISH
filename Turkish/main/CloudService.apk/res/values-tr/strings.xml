@@ -154,6 +154,8 @@ Kullanılan: %s | Kalan: %s "</string>
   <string name="mx_dspt_provision">"Mi Mesaj; SMS ücreti ödemeden diğer MIUI kullanıcılarına mesaj göndermenizi sağlar.
 
 Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
+<string name="mx_dspt_provision_privacy">"Bu hizmet telefon numaranızı isteyebilir. Operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı ücreti alabilir.
+  Bu özellik, şifreleri ve cihazınızın kimliğini Mi sunucularına yükler."</string>
   <string name="mx_sub_dspt_provision">Mi Mesaj</string>
   <string name="next">İleri</string>
   <string name="noRemind">"Tekrar hatırlatma"</string>
@@ -182,19 +184,20 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="sub_sync_item_sms_summary">"Bir Wi-Fi ağına bağlandığınız da sadece resim, foto, ses gibi medya dosyaları senkronize edilecektir"</string>
   <string name="sub_sync_item_sms_title_wifi_only">MMS senkronize için yalnızca Wi-Fi kullan</string>
   <string name="sync_dspt">Senkronizasyonu etkinleştir</string>
+  <string name="sync_dspt_entrance_provision">Fotoğraflarınızı, kişilerinizi ve verilerinizi senkronize edin.</string>
+  <string name="sync_dspt_entrance_provision_2">Daha fazlasını öğren</string>
   <string name="sync_dspt_provision">"Mi Bulut; fotoğraflarınızı, SMS, notlar ve daha fazlasını  Mi Telefonunuz ile senkronize eder. Ayrıca herhangi bir tarayıcıdan bu verilere erişebilirsiniz. "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-  <string name="sync_dspt_provision3">".
-
-Bu özelliği ayarlardan kontrol edebilirsiniz."
-</string>
+  <string name="sync_dspt_provision3">"Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
+  <string name="sync_dspt_provision_title">Mi Bulut</string>
   <string name="sync_item_calllog_summary">Arama ses kayıtlarını senkronize et</string>
   <string name="sync_item_calllog_title">Arama geçmişini senkronize et</string>
   <string name="sync_item_sms_summary">Telefonunuzdaki gönderilen ve alınan SMS\'leri senkronize edin</string>
   <string name="sync_item_sms_title">Mesajları senkronize et</string>
   <string name="sync_off">Kapalı</string>
   <string name="sync_on">Açık</string>
+  <string name="sync_resend_sms_dspt_provision">. SIM kartınızı değiştirirseniz, operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı için ücret alabilir.</string>
   <string name="sync_setting">Mobil veri kullanımı</string>
   <string name="sync_standard">SMS ve arama geçmişi</string>
   <string name="sync_sub_1_intl_sms">Hesabınızı SIM kartınıza bağlamak için ulusararası ve yurt içi SMS gönderilecektir. Operatör tarafından ek ücrete tabi tutulabilirsiniz.</string>
@@ -214,7 +217,8 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="upgrade_space_successful">%sGB alan eklendi</string>
   <string name="upgrade_space_successful_total">%sGB kullanılabilir alan</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
-  <string name="user_agreement_p6">"Bu özelliğin kullanımı"</string>
+  <string name="user_agreement_p6">
+  "Bu özelliğin kullanımı"</string>
   <string name="user_agreement_p7">"Mi Bulut Hizmet Şartları\'na tabidir."</string>
   <string name="user_agreement_p8">.</string>
   <string name="vcode">Doğrulama kodu</string>

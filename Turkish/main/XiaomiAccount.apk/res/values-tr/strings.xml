@@ -37,6 +37,7 @@
   <string name="data_keep_in_device">Bu cihazda sakla</string>
   <string name="data_wipe_from_device">Bu cihazdan sil</string>
   <string name="delete_device_btn">Sil</string>
+  <string name="delete_device_failed">"Cihaz silinemiyor!"</string>
   <string name="delete_device_notice">"Cihazı sildikten sonra oturumunuz otomatik olarak kapatılacaktır.Hesabınızda saklanan verilere ulaşma imkanınız olmayacaktır."</string>
   <string name="device_delete_loading">Bekleyin…</string>
   <string name="device_delete_success_message">"Oturum açamıyorsanız şifrenizi hemen değiştirin"</string>
@@ -97,6 +98,7 @@
   <string name="mipay_center">Banka hesabı</string>
   <string name="no_network_btn">Yenile</string>
   <string name="no_network_title">"Ağa bağlanılamıyor"</string>
+  <string name="no_response_retry">Cevap yok, tekrar deneyin!</string>
   <string name="no_sim_card">SIM kart yok</string>
   <string name="nobind">Eklenmedi</string>
   <string name="other_devices">Diğer cihazlar</string>
