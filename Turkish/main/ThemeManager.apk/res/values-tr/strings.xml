@@ -30,7 +30,10 @@
   <string name="description_version">Sürüm:</string>
   <string name="description_version_szie">Sürüm: %1$s Boyut: %2$s</string>
   <string name="desktop_wallpaper">Masaüstü Duvar Kağıtları</string>
-  <string name="download_success">Başarıyla indirildi!</string>
+  <string name="download_failed">İndirme işlemi başarısız !</string>
+  <string name="download_preview_failed">"Önizleme yüklenemiyor !"</string>
+  <string name="download_success">İndirme işlemi tamamlandı!</string>
+  <string name="fail_to_add_account">"Hesap eklenemiyor !"</string>
   <string name="live_wallpaper">Canlı Duvar Kağıtları</string>
   <string name="loading">Yükleniyor...</string>
   <string name="loading_resource_detail_fail">Tema yüklenemedi!</string>

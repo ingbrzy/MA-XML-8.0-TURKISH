@@ -48,7 +48,10 @@
   <string name="err_type_system">Sistem</string>
   <string name="err_type_system_summary">Hafıza, performas vs.</string>
   <string name="err_type_wifi">Wi-Fi</string>
+  <string name="err_type_xiaomi_family">Mi Ailesi</string>
+  <string name="err_type_xiaomi_service">Müşteri Hizmetleri</string>
   <string name="hot_problem">Genel hataları göster</string>
+  <string name="hot_problem_empty">Boş</string>
   <string name="loading_apps">Liste oluşturuluyor...</string>
   <string name="loading_hot_problem">Yükleniyor...</string>
   <string name="menu_attach_screenshot">Ekran Görüntüsü Ekle</string>
@@ -80,7 +83,7 @@
   <string name="signal_problem2">Zayıf sinyal</string>
   <string name="status_msg_collecting_log">Kayıtlar toplanıyor...</string>
   <string name="status_msg_pending_upload">%d yorum gönderiliyor...</string>
-  <string name="suggestion_description">Umut ediyorum X özelliğini ekleyeceksiniz, çünkü...</string>
+  <string name="suggestion_description">Açıklamanızı yazın...</string>
   <string name="suggestion_problem1">Bu özelliği eklemelisiniz çünkü...</string>
   <string name="system_app_select">Yerleşik uygulamalar</string>
   <string name="systemui">Bildirim çubuğu</string>

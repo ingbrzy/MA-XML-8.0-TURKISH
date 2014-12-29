@@ -96,6 +96,7 @@
   <string name="micloud_user_phone">Telefon Numarası</string>
   <string name="mili_center">Mi Kredi</string>
   <string name="mipay_center">Banka hesabı</string>
+  <string name="my_device_title">Aktif Cihaz :</string>
   <string name="no_network_btn">Yenile</string>
   <string name="no_network_title">"Ağa bağlanılamıyor"</string>
   <string name="no_response_retry">Cevap yok, tekrar deneyin!</string>
@@ -103,7 +104,7 @@
   <string name="nobind">Eklenmedi</string>
   <string name="other_devices">Diğer cihazlar</string>
   <string name="passport_access_denied">Erişim engellendi</string>
-  <string name="passport_account_hint_text">E-posta ya da telefon nmarası</string>
+  <string name="passport_account_hint_text">E-posta ya da telefon numarası</string>
   <string name="passport_account_name">Hesap: %1$s</string>
   <string name="passport_account_not_activated">"Hesap aktif değil"</string>
   <string name="passport_account_not_actived">"Hesabınız aktif değil"</string>
