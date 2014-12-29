@@ -23,7 +23,7 @@
   <string name="choose_wallpaper">Duvar kağıdını seçin</string>
   <string name="chooser_wallpaper">Duvar kağıdını şuradan seç</string>
   <string name="confirm_btn_label">"Tamam"</string>
-  <string name="current_preview">Önizle</string>
+  <string name="current_preview">Önizleme</string>
   <string name="current_wallpaper">Şu anki</string>
   <string name="custom_wallpaper_picker">Gözat</string>
   <string name="default_folder_title_game">Oyunlar</string>
@@ -188,8 +188,8 @@
   <string name="transformation_type_leftpage">Sayfa</string>
   <string name="transformation_type_rotate">Döndür</string>
   <string name="transformation_type_stack">Kademeli</string>
-  <string name="uninstall">Kaldır</string>
-  <string name="uninstall_dialog_message">Kaldırma uygulamaya ilişkin tüm bilgileri silecek.</string>
+  <string name="uninstall">SİL</string>
+  <string name="uninstall_dialog_message">Uygulamaya ilişkin tüm bilgiler silecek !</string>
   <string name="uninstall_dialog_title_format">%s kaldır</string>
   <string name="uninstall_dialog_title_multi_format" formatted="false">%s ve diğer %d uygulama kaldırılılsın mı?</string>
   <string name="uninstall_result_failed">"%s kaldırılamadı!"</string>

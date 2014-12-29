@@ -44,10 +44,10 @@
   <string name="auto_answer_delay_title">Otomatik cevaplama gecikme süresi</string>
   <string name="auto_answer_pref_summary">Otomatik cevaplama</string>
   <string name="auto_answer_pref_title">Otomatik cevaplama</string>
-  <string name="auto_answer_scenario_enteries_always">Herzaman</string>
-  <string name="auto_answer_scenario_enteries_bluetooth_only">Sadece Bluetooth bağlandı</string>
-  <string name="auto_answer_scenario_enteries_headset_bluetooth">Kulaklık ya da  bluetooth bağlandı</string>
-  <string name="auto_answer_scenario_enteries_headset_only">Kulaklık bağlandı</string>
+  <string name="auto_answer_scenario_enteries_always">Her zaman</string>
+  <string name="auto_answer_scenario_enteries_bluetooth_only">Sadece Bluetooth bağlanınca</string>
+  <string name="auto_answer_scenario_enteries_headset_bluetooth">Kulaklık ya da  bluetooth bağlanınca</string>
+  <string name="auto_answer_scenario_enteries_headset_only">Kulaklık bağlanınca</string>
   <string name="auto_answer_scenario_title">Otomatik cevaplama Senaryosu</string>
   <string name="auto_answer_setting_title">Otomatik cevaplama ayarları</string>
   <string name="auto_answer_summary_delay">(Süre: %s Saniye)</string>
