@@ -18,6 +18,8 @@
   <string name="chat_number">10 saat</string>
   <string name="chat_uint">" saat"</string>
   <string name="checkout_traffic_saving_history">Geçmişi görüntüle</string>
+  <string name="daily_limit_network_available_body">Veri kullanım durumu için dokunun</string>
+  <string name="daily_limit_over_message">"Günlük veri limitini aştınız !"</string>
   <string name="daily_pkg_traffic">Mobil veri limiti</string>
   <string name="data_usage_correction_timeout_body">El ile güncellemek için dokununuz.</string>
   <string name="data_usage_correction_timeout_title">Senkronize başarısız</string>
@@ -80,6 +82,7 @@
   <string name="firewall_rule_group_title_mobile">Veri</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%2$s ağı kullanılarak %1$s kullanımı yasaklandı</string>
+  <string name="five_percent_total_pkg">%s (5%% aylık mobil veriniz)</string>
   <string name="force_stop_dlg_text">"Arka plan verileri sınırlanınca, bazı uygulamalar veya hizmetler 2G/3G ile çalıştırılmayabilir."</string>
   <string name="force_stop_dlg_title">Arka plan verilerini kısıtla</string>
   <string name="foreground_traffic">Ön plan %s</string>
@@ -206,6 +209,8 @@
   <string name="pref_title_declaration">Önemli Not</string>
   <string name="pref_title_mobile_traffic">Uyku sırasında veri tüketimini göster</string>
   <string name="pref_title_network_diagnostics">Ağ tanımlama</string>
+  <string name="pref_title_over_traffic_limit_warning">Limiti aşınca mobil veriyi kapat</string>
+  <string name="pref_title_traffic_limit_number">Boyut</string>
   <string name="pref_title_traffic_speed_state">Ağ hızını göster</string>
   <string name="pref_title_update_notification">Veri kullanımını göster</string>
   <string name="pref_traffic_saving_issue">SSS</string>
@@ -234,6 +239,8 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="privacy_prompt_traffic_adjust_message">"Telefon numaranız ve taşıyıcı detayları, SMS sorgu şablonlarını güncellemek ve bu özelliğin sizin bölgenizde mevcut olup olmadığını kontrol etmek için Xiaomi sunucularına yüklenecektir."</string>
   <string name="privacy_prompt_traffic_purchase_message">"Telefon numaranız ve taşıyıcı detayları, veri satın alma seçenekleri hakkında daha fazla bilgi almak için Xiaomi sunucularına yüklenecektir."</string>
   <string name="privacy_prompt_upload">Gizlilik bildirimi</string>
+  <string name="reach_daily_limit_value_body">Mobil veri kullanımını azalt</string>
+  <string name="reach_daily_limit_value_title">Günlük veri sınırına ulaşıldı</string>
   <string name="read_number">86 makale</string>
   <string name="read_unit">" makale"</string>
   <string name="right_precent">100%</string>
@@ -250,8 +257,11 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="spinner_title">%1$s - Mobil veri: %2$s</string>
   <string name="stop_app_button">Dur</string>
   <string name="system_app">Sistem uygulaması</string>
+  <string name="ten_percent_total_pkg">%s (10%% aylık mobil veri)</string>
+  <string name="three_percent_total_pkg">%s (3%% of aylık mobil veri)</string>
   <string name="tips_dialog_title">Mobil veri limitini bilmiyor musun?</string>
   <string name="tips_message">Eğer mobil veri limitini bilmiyorsanız, %2$s (%1$s) arayarak kontrol edebilirsiniz (Sadece Çin).</string>
+  <string name="title_limit_traffic_per_day">Günlük mobil veri limiti</string>
   <string name="traffic_config_alert_body">"Operatörünüzünün hesaplamasına göre %s kullandınız.
   Veri kullanımı bilgisi güncellensin mi?"</string>
   <string name="traffic_config_alert_body_extra">"

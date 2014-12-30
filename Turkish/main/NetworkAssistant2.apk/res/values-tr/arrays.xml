@@ -67,4 +67,13 @@
 	<item>Sık kullanılanlara göre</item>
 	<item>Boyuta göre</item>
  </string-array>
+ <string-array name="over_limit_traffic_waring_style">
+	<item>Uyarı göster</item>
+	<item>Uyar ve mobil veriyi kapat</item>
+</string-array>
+<string-array name="min_limit_pkg_default">
+	<item>1 MB</item>
+	<item>2 MB</item>
+	<item>3 MB</item>
+</string-array>
 </resources>
