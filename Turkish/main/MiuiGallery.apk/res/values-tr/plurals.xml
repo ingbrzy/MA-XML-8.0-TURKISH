@@ -44,5 +44,25 @@
 			<item quantity="other">%1$d öğe</item>
 			<item quantity="zero">%1$d öğe</item>
 			<item quantity="one">%1$d öğe</item>
+		<plurals name="how_many_pics">
+			<item quantity="other">%d fotoğraf</item>
+			<item quantity="one">%d fotoğraf</item>
+		</plurals>
+		<plurals name="how_many_videos">
+			<item quantity="other">%d video</item>
+			<item quantity="one">%d video</item>
+		</plurals>
+		<plurals name="how_many_sub_folders">
+			<item quantity="other">%d klasör</item>
+			<item quantity="one">%d klasör</item>
+		</plurals>
+		<plurals name="message_no_delete_access_with_count">
+			<item quantity="other">"Seçilen %d dosyayı silmek için yetkiniz yok!"</item>
+			<item quantity="one">"Seçilen %d dosyayı silmek için yetkiniz yok!"</item>
+		</plurals>
+		<plurals name="pick_with_limited_upper_bound_title">
+			<item quantity="other">%d öğe seçildi</item>
+			<item quantity="one">%d öğe seçildi</item>
+		</plurals>
     </plurals>
 </resources>

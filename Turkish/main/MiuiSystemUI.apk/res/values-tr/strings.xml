@@ -166,8 +166,8 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="status_bar_recent_guide_bottom">Aşağı kaydırıp kilitleyin</string>
   <string name="status_bar_recent_guide_top">Yukarı kaydırıp kapatın</string>
   <string name="status_bar_recent_inspect_item_title">Uygulama bilgisi</string>
-  <string name="status_bar_recent_memory_info1">"%s "</string>
-  <string name="status_bar_recent_memory_info2">" %s kullanılabilir"</string>
+  <string name="status_bar_recent_memory_info1">%1$s | %2$s kullanılabilir</string>
+  <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Ses kaydediciye dön</string>
   <string name="status_bar_recording_pause">Kayıt duraklatıldı</string>
   <string name="status_bar_settings_airplane">Uçak Modu</string>

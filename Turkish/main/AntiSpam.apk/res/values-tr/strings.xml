@@ -125,6 +125,7 @@
   <string name="info_unantispam_sms">Mesajlara izin ver</string>
   <string name="label_callwait">Çağrı bekletme bildirimi</string>
   <string name="log_count">(%d)</string>
+  <string name="loding">Veri yükleniyor</string>
   <string name="mark_agent">Satış acentası</string>
   <string name="mark_agent_block">Satış acentası olarak işaretlendi</string>
   <string name="mark_banking_insurance">Sigorta satışı</string>
@@ -171,11 +172,14 @@
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">Açık</string>
   <string name="read_all_sms">Okundu olarak işaretle</string>
+  <string name="report">Raporla</string>
   <string name="report_error">"Raporlanamadı!"</string>
   <string name="report_error_not_net">"Ağ bağantısı yok!"</string>
   <string name="report_only">Mesajınızı seçin</string>
   <string name="report_sms">Raporla</string>
   <string name="report_success">Raporlandı</string>
+  <string name="report_warning">"%1$s MIUI sunucularına raporlansın mı?"</string>
+  <string name="report_warning_title">Uyarı</string>
   <string name="sim_not_ready">SIM kart hazır değil!</string>
   <string name="sms_delete_hint">Seçili numaradan gelen ve engellenen mesajlar silinsin mi?</string>
   <string name="special_number_group">Özel numaraları engelle</string>

@@ -46,6 +46,7 @@
   <string name="alert_init_merged_title">Fotoğraflarınıza kolayca ulaşın</string>
   <string name="alert_message_open_sync">Öncelikle senkronizasyonu etkinleştirmelisiniz.</string>
   <string name="alert_secret_album_message">Gizli albümleri görüntülemek için albümün altından yukarı doğru kaydırın</string>
+  <string name="alert_secret_album_set_pattern">Deseni ayarla</string>
   <string name="alert_secret_album_title">Gizli Albüm</string>
   <string name="already_apply_album">"%1$s açılsın mı?"</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -259,9 +260,6 @@
   <string name="home_page_tab_cloud">Bulut</string>
   <string name="home_page_tab_local">Yerel</string>
   <string name="home_page_tab_photo">Fotoğraf</string>
-  <string name="how_many_pics">%d fotoğraf</string>
-  <string name="how_many_sub_folders">%d klasör</string>
-  <string name="how_many_videos">%d video</string>
   <string name="image_download_item_title">Görüntü indiriliyor(%s)</string>
   <string name="image_quota_fulfiled">Görüntü oluşturulamıyor : Görüntü limiti aşıldı</string>
   <string name="immomo_camera">Immomo</string>
@@ -321,7 +319,6 @@
   <string name="menu_item_sort_size_desc">Boyut (azalan)</string>
   <string name="menu_view_contact">Kişiyi gör</string>
   <string name="message_no_delete_access">%s silmeye yetkiniz yok</string>
-  <string name="message_no_delete_access_with_count">Bu %d dosya için izniniz yok.</string>
   <string name="messagelist_sender_self">Ben</string>
   <string name="miliao_folder_display_name">Mi Talk</string>
   <string name="miliao_painting_folder_display_name">Mi Talk karalamaları</string>
@@ -351,6 +348,7 @@
   <string name="no_network_connected">Etkin bir bağlantı tespit edilemedi</string>
   <string name="no_picture_or_video">Boş</string>
   <string name="no_storage_disable_cloud_albums">Bulut uygun değil.</string>
+  <string name="no_such_album">Albüm bulunamadı</string>
   <string name="no_such_item">Öğe bulunamadı</string>
   <string name="no_thumbnail">Ön izleme yok</string>
   <string name="none_picture">Resim yok</string>
@@ -403,7 +401,6 @@
   <string name="photos">" Fotoğraf"</string>
   <string name="pick_too_many_recipients">Çok fazla alıcı</string>
   <string name="pick_too_much_tips">Bu kadar fazla öğe seçilemiyor (maksimum %d öğe).</string>
-  <string name="pick_with_limited_upper_bound_title">%d öğe seçtiniz</string>
   <string name="picker_no_album_selected">Hiç bir albüm seçilmedi</string>
   <string name="picker_no_items_selected">Hiç bir öğe seçilmedi</string>
   <string name="picker_select_album_title_empty">Bir albüm seçin</string>
