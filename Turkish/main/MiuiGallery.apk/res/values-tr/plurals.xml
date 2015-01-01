@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
 		<plurals name="confirm_delete_has_cloud_image">
 			<item quantity="other">Seçilen %s fotoğraf Bulut alanından silinsin mi?</item>
@@ -44,6 +43,7 @@
 			<item quantity="other">%1$d öğe</item>
 			<item quantity="zero">%1$d öğe</item>
 			<item quantity="one">%1$d öğe</item>
+		</plurals>
 		<plurals name="how_many_pics">
 			<item quantity="other">%d fotoğraf</item>
 			<item quantity="one">%d fotoğraf</item>
@@ -64,5 +64,4 @@
 			<item quantity="other">%d öğe seçildi</item>
 			<item quantity="one">%d öğe seçildi</item>
 		</plurals>
-    </plurals>
 </resources>
