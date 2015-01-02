@@ -156,7 +156,7 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="share">Paylaş</string>
   <string name="status_bar_date_format">d MMMM EEEE</string>
   <string name="status_bar_date_formatter">%2$s</string>
-  <string name="status_bar_network_flow">Bugün: %1$s - Kalan: %2$s - Kota: %3$s</string>
+  <string name="status_bar_network_flow">Bugün: %1$s | Kalan: %2$s | Kota: %3$s</string>
   <string name="status_bar_network_flow_exceed">"Bugün: %1$s | Aşılan: %2$s | Kota: %3$s"</string>
   <string name="status_bar_network_flow_today">Bugün:%1$s</string>
   <string name="status_bar_network_name_separator">|</string>
@@ -166,7 +166,7 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="status_bar_recent_guide_bottom">Aşağı kaydırıp kilitleyin</string>
   <string name="status_bar_recent_guide_top">Yukarı kaydırıp kapatın</string>
   <string name="status_bar_recent_inspect_item_title">Uygulama bilgisi</string>
-  <string name="status_bar_recent_memory_info1">%1$s | %2$s kullanılabilir</string>
+  <string name="status_bar_recent_memory_info1">%1$sB | %2$sB kullanılabilir</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Ses kaydediciye dön</string>
   <string name="status_bar_recording_pause">Kayıt duraklatıldı</string>
@@ -176,7 +176,7 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi bağlandı</string>
   <string name="status_bar_style_settings">Bildirimler</string>
   <string name="title_usb_accessory">USB Aksesuar</string>
-  <string name="torch_activity_hint">Kilit ekranında el fenerini açmak için [icon] tuşuna basılı tutun.</string>
+  <string name="torch_activity_hint">Kilit ekranında el fenerini açmak için [icon] simgesine basılı tutun.</string>
   <string name="torch_activity_name">El Feneri</string>
   <string name="torch_closed">El Feneri kapalı</string>
   <string name="torch_opened">El Feneri açık</string>
