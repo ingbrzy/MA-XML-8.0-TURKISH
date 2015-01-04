@@ -57,7 +57,7 @@ EEEE"</string>
   <string name="lockscreen_glogin_too_many_attempts">Çok fazla hatalı desen çizdiniz!</string>
   <string name="lockscreen_pattern_instructions">Kilidi Açmak için deseni çizin</string>
   <string name="lockscreen_pattern_wrong">Tekrar deneyin:</string>
-  <string name="lockscreen_too_many_failed_attempts_countdown">%d saniye içinde tekrar deneyin.</string>
+  <string name="lockscreen_too_many_failed_attempts_countdown">%d saniye sonra tekrar deneyin.</string>
   <string name="lockscreen_transport_next_description">Sonraki</string>
   <string name="lockscreen_transport_play_description">Play Düğmesi</string>
   <string name="lockscreen_transport_prev_description">Önceki</string>
@@ -68,7 +68,7 @@ EEEE"</string>
   <string name="open_wifi_settings">Ağ Bağlantısını Açın</string>
   <string name="phone_locked_string">! TELEFON KİLİTLENDİ !</string>
   <string name="phone_locked_timeout_minutes_string">%s dakika sonra tekrar deneyin</string>
-  <string name="phone_locked_timeout_seconds_string">%s saniye içinde tekrar deneyin</string>
+  <string name="phone_locked_timeout_seconds_string">%s saniye sonra tekrar deneyin</string>
   <string name="pin_operation_failed">PIN işlemi başarısız.</string>
   <string name="pincode_set_to_default_msg">PIN Kodu 1234 olarak ayarlandı, buradan tekrar değiştirebilirsiniz:</string>
   <string name="puk_operation_failed">PUK işlemi başarısız.</string>

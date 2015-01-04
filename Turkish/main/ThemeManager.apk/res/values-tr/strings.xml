@@ -3,7 +3,7 @@
   <string name="account_info">Hesabım</string>
   <string name="all_ringtone_resource">Tümü</string>
   <string name="app_name">Temalar</string>
-  <string name="apply_default_font_tip">"Sistemin geçerli yazı tipi korunsun mu?"</string>
+  <string name="apply_default_font_tip">"Sistemin geçerli yazı tipini korumak ister misiniz?"</string>
   <string name="apply_font_btn_exclude">Şimdi değil</string>
   <string name="apply_font_btn_reboot">Uygula</string>
   <string name="apply_font_tip">"Tema yeni font kütüphanesi içeriyor, tema uygulandıktan sonra telefonunuz tekrar başlatılacak!"</string>
@@ -62,7 +62,7 @@
   <string name="resource_can_not_selected">%1$s seçilemez!</string>
   <string name="resource_category">Kategori</string>
   <string name="resource_clear_search_history">Arama geçmişini temizle</string>
-  <string name="resource_clear_search_history_dialog">Arama geçmişini temizlensin mi?</string>
+  <string name="resource_clear_search_history_dialog">Arama geçmişi temizlensin mi?</string>
   <string name="resource_comment_1_star">1 Yıldız</string>
   <string name="resource_comment_2_star">2 Yıldız</string>
   <string name="resource_comment_3_star">3 Yıldız</string>
@@ -118,7 +118,7 @@
   <string name="resource_download">İndir</string>
   <string name="resource_download_trial">Ücretsiz dene</string>
   <string name="resource_downloaded_title">İndirilen Temalar</string>
-  <string name="resource_downloading">İndiriliyor..</string>
+  <string name="resource_downloading">İndiriliyor...</string>
   <string name="resource_exchange">Hediye çeki ile öde</string>
   <string name="resource_exchange_confirm">Onayla</string>
   <string name="resource_exchange_empty_format">Hediye kodunu girin</string>
@@ -138,7 +138,7 @@
   <string name="resource_exchange_wrong_format_by_local">Girdiğiniz kod biçimi yanlış!.</string>
   <string name="resource_exchange_wrong_format_by_server">"Kod doğrulanmadı, doğru girdiğinizden emin olun."</string>
   <string name="resource_expand_full_text">Aç</string>
-  <string name="resource_get_auth_checking">Kimlik doğrulanıyor...</string>
+  <string name="resource_get_auth_checking">Tema bilgisi alınıyor...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Tema bu cihazda çalışmaz. Xiaomi hesabınız maksimuma ulaştı.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Yetkilendirme sınırına ulaşıldı!</string>
   <string name="resource_get_auth_missing">Tema buradan indirilemiyor, lütfen resmi marketten indirin.</string>
@@ -160,7 +160,7 @@
   <string name="resource_preview">Önizleme</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Ücretsiz</string>
-  <string name="resource_price_unit">MiKredisi</string>
+  <string name="resource_price_unit">Mi Kredisi</string>
   <string name="resource_ranking">Popüler</string>
   <string name="resource_ranking_free">Ücretsiz</string>
   <string name="resource_ranking_purchase">Ücretli</string>
@@ -192,13 +192,13 @@
   <string name="short_ringtone_resource">Kısa</string>
   <string name="theme_batch_has_update_text">%1$d tema için güncelleme var.</string>
   <string name="theme_batch_update_all">Güncelle</string>
-  <string name="theme_batch_update_dlg_content">%1$s ve %2$d diğer temalar güncellenecek?</string>
+  <string name="theme_batch_update_dlg_content">%1$s ve diğer %2$d tema güncellensin mi?</string>
   <string name="theme_batch_update_dlg_content_single">%1$s şimdi güncellensin mi?</string>
   <string name="theme_batch_update_dlg_title">Tema güncelleme</string>
   <string name="theme_batch_updating_text">Güncelleniyor (%1$d)...</string>
   <string name="theme_changed_failed_message">"Tema uygulanamaz"</string>
-  <string name="theme_changed_message">Tema başarıyla uygulandı</string>
-  <string name="theme_changing_dialog_title">Uygulanıyor...</string>
+  <string name="theme_changed_message">Seçtiğiniz tema başarıyla uygulandı</string>
+  <string name="theme_changing_dialog_title">Temanız uygulanıyor...</string>
   <string name="theme_component_title_alarm">Alarm</string>
   <string name="theme_component_title_alarmstyle">Alarm stili</string>
   <string name="theme_component_title_all">Tema</string>

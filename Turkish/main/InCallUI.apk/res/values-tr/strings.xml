@@ -67,7 +67,7 @@
   <string name="call_lost">Arama kesildi.</string>
   <string name="call_record_button_label">Kaydediliyor %s</string>
   <string name="call_record_wait_label">Bekliyor</string>
-  <string name="call_recording_error_low_storage">Yetersiz alan: SD kartınızda yeterli alan yok</string>
+  <string name="call_recording_error_low_storage">SD kartınızda yeterli boş alan yok</string>
   <string name="call_recording_error_privacy">Ziyaretçi modundayken kayıt yapılamıyor </string>
   <string name="call_recording_error_sd_access">"SD karta ulaşılamıyor"</string>
   <string name="call_recording_error_sd_unmounted">Kayıt durduruldu: SD kart çıkartıldı</string>
@@ -352,7 +352,7 @@
   <string name="notification_action_end_call">Bekle</string>
   <string name="notification_dialing">Aranıyor...</string>
   <string name="notification_incoming_call">Gelen arama</string>
-  <string name="notification_missedCallTicker">%s tarafından cevapsız aramanız var</string>
+  <string name="notification_missedCallTicker">%s cevapsız aramanız var</string>
   <string name="notification_missedCallTitle">Cevapsız arama</string>
   <string name="notification_missedCall_call_back">Geri ara</string>
   <string name="notification_missedCall_message">Mesaj</string>
@@ -403,7 +403,7 @@
   <string name="onscreen_merge_calls_text">Çağrıları birleştir</string>
   <string name="onscreen_mute_text">Sessiz</string>
   <string name="onscreen_note_text">Not</string>
-  <string name="onscreen_send_flash_text">Flash</string>
+  <string name="onscreen_send_flash_text">Flaş</string>
   <string name="onscreen_speaker_text">Hoparlör</string>
   <string name="onscreen_swap_calls_text">Değiştir</string>
   <string name="onscreen_tools_off">Araçlar</string>
@@ -445,11 +445,11 @@
   <string name="pin2_changed">PIN2 kodu başarıyla değiştirildi.</string>
   <string name="pin2_invalid">Yanlış bir PIN kodu girdiğinizden FDN güncellenemedi.</string>
   <string name="pin2_or_fdn_invalid">PIN2 kodu hatalı ve ya numara reddedildi. FDN güncellenemedi.</string>
-  <string name="pin_changed">Pin kodu değiştirmesi başarılı.</string>
+  <string name="pin_changed">PIN kodu değiştirildi</string>
   <string name="pin_failed">PIN kodu hatalı</string>
   <string name="port_title">Port numarası</string>
   <string name="prefer_2g">Sadece 2G ağlarını kullan</string>
-  <string name="prefer_2g_summary">Pil TASARRUFU</string>
+  <string name="prefer_2g_summary">Pil tasarrufu sağlar</string>
   <string name="preference_category_ringtone">Zil sesi ve titreşim</string>
   <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Tercih edilen şebeke modu: CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_cdma_evdo_summary">Tercih edilen şebeke modu: CDMA / EvDo</string>
@@ -475,7 +475,7 @@
   <string name="pstn_phone">Cep telefonu araması</string>
   <string name="puk2_requested">Şifre hatalı, SIM kart kilitlendi! PUK2 kodu gerekiyor.</string>
   <string name="puk_requested">Şifre hatalı, SIM kart kilitlendi! PUK2 kodu gerekiyor.</string>
-  <string name="puk_unlocked">SIM kartınızın engeli kaldırılmıştır. Telefon kilidi açılıyor...</string>
+  <string name="puk_unlocked">SIM kartınızın engeli kaldırıldı. Telefon kilidi açılıyor...</string>
   <string name="radio_off_error">Bu ayarları görüntülemeden önce telefonun radyo sinyalini açın.</string>
   <string name="reading_settings">Ayarlar okunuyor...</string>
   <string name="regional_disable">Yerel haberler devre dışı</string>

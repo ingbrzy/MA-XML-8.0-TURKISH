@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <plurals name="updated_contacts">
-<item quantity="other">%s kişi güncellendi</item>
-<item quantity="one">%s kişi güncellendi</item>
+	<item quantity="other">%s kişi güncellendi</item>
+	<item quantity="one">%s kişi güncellendi</item>
 </plurals>
 <plurals name="dirty_contacts_count">
-<item quantity="other">%d kişi</item>
-<item quantity="one">%d kişi</item>
+	<item quantity="other">%d kişi</item>
+	<item quantity="one">%d kişi</item>
 </plurals>
 <plurals name="dirty_mms_count">
-<item quantity="other">%d mesaj</item>
-<item quantity="one">%d mesaj</item>
+	<item quantity="other">%d mesaj</item>
+	<item quantity="one">%d mesaj</item>
 </plurals>
 <plurals name="dirty_note_count">
-<item quantity="other">%d not</item>
-<item quantity="one">%d not</item>
+	<item quantity="other">%d not</item>
+	<item quantity="one">%d not</item>
 </plurals>
 </resources>

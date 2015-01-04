@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string-array name="power_dialog_auto_clean_memory_items">
-<item>1 dakika sonra</item>
-<item>5 dakika sonra</item>
-<item>10 dakika sonra</item>
-<item>Asla</item>
+	<item>1 dakika sonra</item>
+	<item>5 dakika sonra</item>
+	<item>10 dakika sonra</item>
+	<item>Asla</item>
 </string-array>
 <string-array name="power_dialog_sleep_items">
-<item>15 saniye</item>
-<item>30 saniye</item>
-<item>1 dakika</item>
-<item>2 dakika</item>
-<item>5 dakika</item>
-<item>10 dakika</item>
-<item>Asla</item>
+	<item>15 saniye</item>
+	<item>30 saniye</item>
+	<item>1 dakika</item>
+	<item>2 dakika</item>
+	<item>5 dakika</item>
+	<item>10 dakika</item>
+	<item>Asla</item>
 </string-array>
 <string-array name="power_dialog_cpu_state_items">
-<item>Performans Modu</item>
-<item>Dengeli Mod</item>
+	<item>Performans Modu</item>
+	<item>Dengeli Mod</item>
 </string-array>
 <string-array name="power_dialog_vibration_items">
-<item>Titreşim kapalı</item>
-<item>Sadece sessizde titret</item>
-<item>Titreşim açık</item>
+	<item>Titreşim kapalı</item>
+	<item>Sadece sessizde titret</item>
+	<item>Titreşim açık</item>
 </string-array>
 <string-array name="power_dialog_vibration_items_values">
-<item>0</item>
-<item>1</item>
-<item>2</item>
+	<item>0</item>
+	<item>1</item>
+	<item>2</item>
 </string-array>
 <integer-array name="alarm_repeat_type_values">
-<item>0</item>
-<item>1</item>
-<item>2</item>
-<item>3</item>
-<item>4</item>
+	<item>0</item>
+	<item>1</item>
+	<item>2</item>
+	<item>3</item>
+	<item>4</item>
 </integer-array>
 <integer-array name="alarm_repeat_type_no_workdays_values">
-<item>0</item>
-<item>1</item>
-<item>3</item>
-<item>4</item>
+	<item>0</item>
+	<item>1</item>
+	<item>3</item>
+	<item>4</item>
 </integer-array>
 <string-array name="power_dialog_wifi_internet_state_items">
-<item>Kapat</item>
-<item>Aç</item>
-<item>Değiştirme</item>
+	<item>Kapat</item>
+	<item>Aç</item>
+	<item>Değiştirme</item>
 </string-array>
 <string-array name="auto_clean_time">
-<item>Hergün</item>
-<item>Her 3 günde</item>
-<item>Her hafta</item>
+	<item>Hergün</item>
+	<item>Her 3 günde</item>
+	<item>Her hafta</item>
 </string-array>
 <string-array name="auto_process_mode">
-<item>Bildirim ile uyar</item>
-<item>Arkaplanda temizle</item>
-<item>Temizlikten sonra bildirim göster</item>
+	<item>Bildirim ile uyar</item>
+	<item>Arkaplanda temizle</item>
+	<item>Temizlikten sonra bildirim göster</item>
 </string-array>
 <string-array name="auto_memory_clean">
-<item>1 dakika içinde</item>
-<item>5 dakika içinde</item>
-<item>10 dakika içinde</item>
-<item>Asla</item>
+	<item>1 dakika içinde</item>
+	<item>5 dakika içinde</item>
+	<item>10 dakika içinde</item>
+	<item>Asla</item>
 </string-array>
 <string-array name="alarm_repeat_type">
- <item>Birkez</item>
- <item>Hergün</item>
- <item>Yasal işgünleri</item>
- <item>Hafta günleri</item>
- <item>Özel</item>
- </string-array>
- <string-array name="alarm_repeat_type_no_workdays">
- <item>Birkez</item>
- <item>Hergün</item>
- <item>Hafta günleri</item>
- <item>Özel</item>
- </string-array>
+	 <item>Birkez</item>
+	 <item>Hergün</item>
+	 <item>Yasal işgünleri</item>
+	 <item>Hafta günleri</item>
+	 <item>Özel</item>
+</string-array>
+<string-array name="alarm_repeat_type_no_workdays">
+	 <item>Birkez</item>
+	 <item>Hergün</item>
+	 <item>Hafta günleri</item>
+	 <item>Özel</item>
+	 </string-array>
 </resources>

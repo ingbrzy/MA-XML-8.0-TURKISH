@@ -415,22 +415,22 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="kg_sim_pin_instructions">SIM kart PIN kodunu girin</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIM kart kilidi açılıyor…</string>
   <string name="kg_text_message_separator">" — "</string>
-  <string name="kg_too_many_failed_attempts_countdown">%1$d saniye içinde yeniden deneyin.</string>
+  <string name="kg_too_many_failed_attempts_countdown">%1$d saniye sonra deneyin.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Şifrenizi %d kez yanlış yazdınız. 
 
-%d saniye içinde tekrar deneyin."</string>
+%d saniye sonra tekrar deneyin."</string>
   <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Kilit açma deseninizi %d kez yanlış çizdiniz. 
 
-%d saniye içinde tekrar deneyin."</string>
+%d saniye sonra tekrar deneyin."</string>
   <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN kodunuzu %d kez yanlış girdiniz. 
 
-%d saniye içinde tekrar deneyin."</string>
+%d saniye sonra tekrar deneyin."</string>
   <string name="kg_wrong_password">Şifre yanlış!</string>
   <string name="kg_wrong_pattern">Desen yanlış!</string>
   <string name="kg_wrong_pin">PIN kodu yanlış!</string>
   <string name="kilobyteShort">KB</string>
   <string name="last_month">Son ay</string>
-  <string name="launchBrowserDefault">Tarayıcı Başlatılsın mı?</string>
+  <string name="launchBrowserDefault">Tarayıcı başlatılsın mı?</string>
   <string name="launch_warning_original">İlk olarak %1$s başlatıldı.</string>
   <string name="launch_warning_replace">%1$s şimdi çalışıyor.</string>
   <string name="launch_warning_title">Uygulama yönlendirildi</string>
@@ -447,7 +447,7 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefonun kilidini %d defa girdiniz. %d defa daha başarısız deneme yapılırsa, telefon fabrika varsayılanına sıfırlanır ve tüm kullanıcı verileri kaybedilir.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Kilit açma deseninizi %d kez yanlış çizdiniz. %d başarısız denemeden sonra telefonunuzu Google oturum açma bilgilerinizi kullanarak açmanız istenir.
 
- Lütfen %d saniye içinde tekrar deneyin."</string>
+ Lütfen %d saniye sonra tekrar deneyin."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Telefon kilidini %d defa yanlış girdiniz. Telefon şimdi fabrika varsayılanına sıfırlanacak.</string>
   <string name="lockscreen_forgot_pattern_button_text">Deseni unuttunuz mu?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Kullanıcı adınızı veya şifrenizi mi unuttunuz?
@@ -465,9 +465,9 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="lockscreen_low_battery">Şarj cihazınızı takın.</string>
   <string name="lockscreen_missing_sim_instructions">SIM kartı takın.</string>
   <string name="lockscreen_missing_sim_instructions_long">SIM kart yok veya okunamıyor. Bir SIM kart takın.</string>
-  <string name="lockscreen_missing_sim_message">Telefonda SIM kart yok.</string>
-  <string name="lockscreen_missing_sim_message_short">SIM kart yok</string>
-  <string name="lockscreen_network_locked_message">Ağ kilitli</string>
+  <string name="lockscreen_missing_sim_message">SIM KART YOK</string>
+  <string name="lockscreen_missing_sim_message_short">SIM KART YOK</string>
+  <string name="lockscreen_network_locked_message">ŞEBEKE KİLİTLİ</string>
   <string name="lockscreen_password_wrong">Tekrar deneyin</string>
   <string name="lockscreen_pattern_correct">Doğru!</string>
   <string name="lockscreen_pattern_instructions">Kilit açmak için deseni çizin</string>
@@ -487,10 +487,10 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">%d saniye sonra yeniden deneyin.</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Kilit açma deseninizi %d kez yanlış çizdiniz. 
 
-%d saniye sonratekrar deneyin."</string>
+%d saniye sonra tekrar deneyin."</string>
   <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Şifrenizi %d kez yanlış yazdınız. 
 
-%d saniye sonratekrar deneyin."</string>
+%d saniye sonra tekrar deneyin."</string>
   <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN kodunuzu %d kez yanlış girdiniz. 
 
 %d saniye sonra tekrar deneyin."</string>
@@ -499,9 +499,9 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="lockscreen_transport_play_description">Oynat düğmesi</string>
   <string name="lockscreen_transport_prev_description">Önceki parça düğmesi</string>
   <string name="lockscreen_transport_stop_description">Durdur düğmesi</string>
-  <string name="lockscreen_unlock_label">Kilit Aç</string>
+  <string name="lockscreen_unlock_label">Kilidi Aç</string>
   <string name="low_internal_storage_view_text">Bazı sistem işlevleri çalışmayabilir</string>
-  <string name="low_internal_storage_view_title">Depolama alanı bitiyor</string>
+  <string name="low_internal_storage_view_title">Depolama alanı azalıyor</string>
   <string name="low_memory">Telefonun depolama alanı doldu! Yer açmak için bazı dosyaları silin.</string>
   <string name="me">Ben</string>
   <string name="media_bad_removal">SD kart, bağlantısı kesilmeden çıkarıldı.</string>
@@ -1200,7 +1200,7 @@ izin isteğinde bulunuldu."</string>
   <string name="preposition_for_date">%s tarihinde</string>
   <string name="preposition_for_time">%s saatinde</string>
   <string name="preposition_for_year">%s yılında</string>
-  <string name="print_service_installed_message">Etkinleştirmek için hafifçe vurun</string>
+  <string name="print_service_installed_message">Etkinleştirmek için hafifçe dokunun</string>
   <string name="print_service_installed_title">%s hizmeti yüklendi</string>
   <string name="progress_erasing">USB bellek siliniyor…</string>
   <string name="progress_unmounting">USB belleğin bağlantısı kesiliyor…</string>

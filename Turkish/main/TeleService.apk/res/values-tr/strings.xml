@@ -75,13 +75,13 @@
   <string name="autoip_summary">Yabancı numaraya bir IP öneki ekle</string>
   <string name="autoip_support_local_numbers">Herzaman IP öneki kullan</string>
   <string name="back">Geri</string>
-  <string name="badPin">Girilen eski PIN kodu doğru değil.</string>
-  <string name="badPin2">Girilen eski PIN2 kodu doğru değil.</string>
-  <string name="badPuk2">Girilen eski PUK kodu doğru değil.</string>
-  <string name="bad_pin">Girilen eski PIN kodu doğru değil.</string>
-  <string name="bad_pin2">Girilen eski PIN2 kodu doğru değil.</string>
-  <string name="bad_puk">Girilen eski PUK kodu doğru değil.</string>
-  <string name="bad_puk2">Girilen eski PUK2 kodu doğru değil.</string>
+  <string name="badPin">Girilen eski PIN kodu doğru değil!</string>
+  <string name="badPin2">Girilen eski PIN2 kodu doğru değil!</string>
+  <string name="badPuk2">Girilen eski PUK kodu doğru değil!</string>
+  <string name="bad_pin">Girilen eski PIN kodu doğru değil!</string>
+  <string name="bad_pin2">Girilen eski PIN2 kodu doğru değil!</string>
+  <string name="bad_puk">Girilen eski PUK kodu doğru değil!</string>
+  <string name="bad_puk2">Girilen eski PUK2 kodu doğru değil!</string>
   <string name="bf_news_settings">İş ve Finans Haberleri</string>
   <string name="call_barring_sum">Çağrı Engelleme Ayarları</string>
   <string name="call_description_recording">Kayıt ediliyor…</string>
@@ -102,11 +102,11 @@
   <string name="call_record_setting">Çağrı ses kaydı ayarları</string>
   <string name="call_record_whitelist_custom">Özel liste</string>
   <string name="call_recording_notification_message">Gözatmak için dokunun: %s.</string>
-  <string name="call_recording_notification_message_low_storage">Yeterli boş alan yok.</string>
+  <string name="call_recording_notification_message_low_storage">Yeterli boş alan yok!</string>
   <string name="call_recording_notification_message_sd_unmounted">SD kart yok.</string>
   <string name="call_recording_notification_summary">Ses kayıt bildirimlerini göster</string>
   <string name="call_recording_notification_title">Çağrı ses kaydı yapıldı</string>
-  <string name="call_recording_notification_title_error">Ses kaydı yapılamıyor</string>
+  <string name="call_recording_notification_title_error">Ses kaydı yapılamıyor!</string>
   <string name="call_recording_notification_toggle_title">Ses kayıt bildirimleri</string>
   <string name="call_recording_setting">Çağrıları kaydet</string>
   <string name="call_settings">Diğer Ayarlar</string>
@@ -122,7 +122,7 @@
   <string name="caller_id_summary">Giden aramalarda numaranızı gizler veya gösterir</string>
   <string name="caller_id_title">Numaramı göster veya gizle</string>
   <string name="callind_multi_sim">Abonelik seçin</string>
-  <string name="callwait_open_hint">\"Çağrı bekletme\" özelliği operatörünüz tarafından sağlanmaktadır. Eğer herhangi bir hata bildirimi alıyorsanız, bu özelliğin desteklendiğinde emin olmak için operatörünüz ile görüşün.</string>
+  <string name="callwait_open_hint">\"Çağrı bekletme\" özelliği operatörünüz tarafından sağlanmaktadır. Eğer herhangi bir hata bildirimi alıyorsanız, bu özelliğin desteklendiğinden emin olmak için operatörünüz ile görüşün.</string>
   <string name="cancel">İptal</string>
   <string name="cancel_call">İptal</string>
   <string name="card_title_MOcall_forwarding">Yönlendirilmiş giden çağrı</string>
@@ -192,8 +192,8 @@
   <string name="connect_later">Şu anda bu şebekeye bağlanamaz!</string>
   <string name="contactAddFailed">SIM karta kişi eklenemedi!</string>
   <string name="contactAddSuccess">SIM karta kişi eklendi</string>
-  <string name="contactPhoto">Kişi fotosu</string>
-  <string name="contactScreen">SIM kayıtlarını ekle/düzenle</string>
+  <string name="contactPhoto">Kişi fotoğrafı</string>
+  <string name="contactScreen">SIM kayıtlarını düzenle</string>
   <string name="contactUpdateFailed">SIM karttaki kayıtlar güncellenemedi!</string>
   <string name="contactUpdateSuccess">SIM karttaki kayıtlar güncellendi</string>
   <string name="contactdeleteFailed">SIM karttaki kayıt silinemedi!</string>
@@ -258,10 +258,10 @@
   <string name="emergency_broadcast_disable">Acil yayın devre dışı</string>
   <string name="emergency_broadcast_enable">Acil yayın etkin</string>
   <string name="emergency_call_area_code_edit_dialog_button">Çağrı</string>
-  <string name="emergency_call_area_code_edit_dialog_hint">e.g: 112</string>
+  <string name="emergency_call_area_code_edit_dialog_hint">Örnek: 112</string>
   <string name="emergency_enable_radio_dialog_title">Acil çağrı</string>
   <string name="empty_alert">%s boş olamaz</string>
-  <string name="empty_networks_list">Şebeke bulunamadı.</string>
+  <string name="empty_networks_list">Şebeke bulunamadı!</string>
   <string name="enable">Aç</string>
   <string name="enable_antispam_strange_summary">Bilinmeyen bir numaradan gelen ilk çağrıyı sustur</string>
   <string name="enable_antispam_strange_title">İlk çağrıyı sustur</string>
@@ -352,10 +352,10 @@
   <string name="ims_menu_save">Kaydet</string>
   <string name="in_calling">Aranıyor..</string>
   <string name="in_sms">Mesaj</string>
-  <string name="incall_error_call_failed">Çağrı yapılamıyor!</string>
-  <string name="incall_error_emergency_only">Şebekeye kayıt edilemedi!</string>
+  <string name="incall_error_call_failed">ÇAĞRI YAPILAMIYOR!</string>
+  <string name="incall_error_emergency_only">ŞEBEKEYE KAYIT OLUNAMADI!</string>
   <string name="incall_error_no_phone_number_supplied">Geçersiz bir numara girdiniz!</string>
-  <string name="incall_error_out_of_service">Mobil şebeke yok!</string>
+  <string name="incall_error_out_of_service">MOBİL ŞEBEKE YOK!</string>
   <string name="incall_error_power_off">Çağrı yapmak için, öncelikle uçak modunu kapatın!</string>
   <string name="incall_error_turn_off_airplane_mode">Uçak modunu kapatın</string>
   <string name="incall_status_dialed_mmi">MMI kodu başlatılıyor…</string>
@@ -400,7 +400,7 @@
   <string name="lable_call_barring">Çağrı engelleme</string>
   <string name="lable_disable">Kapalı</string>
   <string name="lable_enable">Açık</string>
-  <string name="lable_incoming_calls_except">Dolaşımda Gelen çağrılar</string>
+  <string name="lable_incoming_calls_except">Dolaşımda gelen çağrılar</string>
   <string name="lafs_disable">Uçuş takvimi devre dışı</string>
   <string name="lafs_enable">Uçuş takvimi etkin</string>
   <string name="list_language_dtitle">Diller</string>
@@ -419,7 +419,7 @@
   <string name="manage_fdn_list">FDN listesi</string>
   <string name="manage_fdn_list_sum">Kişi listesini yönet</string>
   <string name="managed_roaming_dialog_cancel_button">İptal</string>
-  <string name="managed_roaming_dialog_content">Ağ hizmetleri sınırlı, şebekeyi elle seçmek istiyor musunuz</string>
+  <string name="managed_roaming_dialog_content">Ağ hizmetleri sınırlı, şebekeyi elle seçmek istiyor musunuz?</string>
   <string name="managed_roaming_dialog_ok_button">Tamam</string>
   <string name="managed_roaming_title">Yönetilen dolaşım</string>
   <string name="managed_roaming_title_sub1">Yönetilen dolaşım (SUB1)</string>
@@ -487,16 +487,16 @@
   <string name="network_settings_auto_select_title">"Tercih edilen şebekeyi otomatik seç"</string>
   <string name="network_settings_automatically_option">Tercih edilen şebekeyi otomatik seç (%s)</string>
   <string name="network_settings_confirm_message">Şebeke belki kullanılamıyor!</string>
-  <string name="network_settings_data_connected_change">Veri bağlantısı kullanılırken şebeke değişimine izin verilmiyor</string>
+  <string name="network_settings_data_connected_change">Veri bağlantısı kullanılırken şebeke değişimi yapılamaz!</string>
   <string name="network_settings_duringcall">"İşleme görüşme sırasında izin verilmez"</string>
   <string name="network_settings_forbidden">%s (yasaklanmış)</string>
-  <string name="network_settings_information">Bilgi</string>
+  <string name="network_settings_information">Uyarı:</string>
   <string name="network_settings_next">İleri</string>
   <string name="network_settings_query_failed_message">Şebeke sorgusu başarısız oldu!</string>
   <string name="network_settings_sel_sub">Abonelik seçin</string>
   <string name="network_settings_select_automatic_hint">"Seçilen şebekeye kayıt olunamıyor.
 Yerine tercih edilen şebeke kullanılacak."</string>
-  <string name="network_settings_turn_off">Turn off</string>
+  <string name="network_settings_turn_off">Kapalı</string>
   <string name="network_settings_warn_message">"Sadece elle seçtiğiniz şebekeyi kullanın."</string>
   <string name="network_unlock">Kilidi aç</string>
   <string name="networks">Şebeke operatörleri</string>
@@ -524,7 +524,7 @@ Yerine tercih edilen şebeke kullanılacak."</string>
   <string name="notification_missedCallsMsg">%s Cevapsız çağrınız var.</string>
   <string name="notification_missedCallsTitle">Cevapsız çağrı</string>
   <string name="notification_network_selection_text">Seçilen şebeke (%s) kullanılamaz!</string>
-  <string name="notification_network_selection_title">Şebeke yok!</string>
+  <string name="notification_network_selection_title">ŞEBEKE YOK !</string>
   <string name="notification_on_hold">Beklemede</string>
   <string name="notification_ongoing_call">Giden çağrılar</string>
   <string name="notification_ongoing_calling_format">Aranıyor</string>
@@ -548,7 +548,7 @@ Yerine tercih edilen şebeke kullanılacak."</string>
 Bu işlem birkaç dakika sürebilir."</string>
   <string name="ota_hfa_activation_title">Etkinleştiriliyor...</string>
   <string name="ota_listen">Bu aktivasyon tamamlanana kadar sözlü talimatları izleyin.</string>
-  <string name="ota_next">Sonraki</string>
+  <string name="ota_next">İLERİ</string>
   <string name="ota_progress">Programlama başlarken bekleyin.</string>
   <string name="ota_skip_activation_dialog_message">"Eğer aktivasyonu atlarsanız, aramaları veya mobil veri ağları kullanamazsınız.Aktivasyon yapılana kadar, her açılışta uyarı mesajı görüntülenir."</string>
   <string name="ota_skip_activation_dialog_skip_label">Atla</string>
@@ -584,13 +584,13 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="pin2_invalid">FDN güncellenmedi: yanlış PIN kodu girdiniz!</string>
   <string name="pin2_invalid_or_name_is_too_long">FDN güncellenemedi: yanlış PIN2 kodu veya isim çok uzun.</string>
   <string name="pin2_lock_warning">"
-  Tekrar yanlış girerseniz olursa PIN2 kodu kilitlenir, Lütfen dikkatli olun!"</string>
+  Tekrar yanlış girerseniz PIN2 kodu kilitlenir, lütfen dikkatli olun!"</string>
   <string name="pin_attempts">"
  %d deneme şansınız kaldı."</string>
   <string name="pin_changed">SIM kart PIN kodu değiştirildi</string>
   <string name="pin_failed">Girilen PIN kodu geçersiz!</string>
   <string name="pin_lock_warning">"
-  Yine başarısız olursa telefonunuz kilitlenecek, Lütfen dikkatli olun!"</string>
+  Tekrar yanlış girerseniz telefonunuz kilitlenecek, lütfen dikkatli olun!"</string>
   <string name="pin_progress_change_pin">PIN kodu değiştiriliyor…</string>
   <string name="pin_progress_change_pin2">PIN2 kodu değiştiriliyor…</string>
   <string name="pin_progress_set_fdn_lock">FDN kilit durumu ayarlanıyor…</string>
@@ -646,7 +646,7 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="register_automatically">Otomatik kayıt yapılıyor...</string>
   <string name="register_network_failed_message">"Seçilen şebekeye kayıt olunamıyor, otomatik seçmek ister misiniz?"</string>
   <string name="register_network_failed_title">Hizmet kullanılamaz!</string>
-  <string name="register_on_network">Kaydediliyor %s…</string>
+  <string name="register_on_network">Kaydediliyor : %s…</string>
   <string name="registration_done">Şebekeye kaydı yapıldı.</string>
   <string name="registration_status_checking_status">Durum kontrol ediliyor...</string>
   <string name="registration_status_done">Gelen çağrılar</string>
@@ -872,7 +872,7 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="tty_mode_entries_vco">TTY VCO</string>
   <string name="tty_mode_option_summary">Set TTY mode</string>
   <string name="tty_mode_option_title">TTY modu</string>
-  <string name="turn_off">Kapat</string>
+  <string name="turn_off">Kapalı</string>
   <string name="turn_off_auto_select_confirm_message">Şebeke kullanılabilir değil, bu özellik kapatılsın mı?</string>
   <string name="turn_off_auto_select_title">Otomatik şebeke seçimini kapat</string>
   <string name="turn_off_auto_select_warning_message">Bu özellik kapatılınca, seçtiğiniz şebeke kullanılacak</string>

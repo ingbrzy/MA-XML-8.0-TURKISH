@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="default_smiley_texts">
+<string-array name="default_smiley_texts">
     <item>:-)</item>
     <item>:-(</item>
     <item>;-)</item>
@@ -22,8 +22,8 @@
     <item>x-(</item>
     <item>:-/</item>
     <item>:-I</item>
-  </string-array>
-  <string-array name="default_smiley_names">
+</string-array>
+<string-array name="default_smiley_names">
     <item>Mutlu</item>
     <item>Üzgün</item>
     <item>Göz kırpıyor</item>
@@ -45,15 +45,15 @@
     <item>Deli</item>
     <item>Sırıtma</item>
     <item>Poker surat</item>
-  </string-array>
-  <string-array name="prefEntries_ringtone_repeat">
+</string-array>
+<string-array name="prefEntries_ringtone_repeat">
     <item>1 kez</item>
     <item>2 kez</item>
     <item>3 kez</item>
     <item>5 kez</item>
     <item>10 kez</item>
-  </string-array>
-  <string-array name="contact_entries">
+</string-array>
+<string-array name="contact_entries">
     <item>İsim</item>
     <item>Takma İsim</item>
     <item>Telefon</item>
@@ -65,17 +65,17 @@
     <item>Websitesi</item>
     <item>Adres</item>
     <item>Not</item>
-  </string-array>
-  <string-array name="entries_date_type">
+</string-array>
+<string-array name="entries_date_type">
     <item>Alınan</item>
     <item>Gönderilen</item>
-  </string-array>
-  <string-array name="resent_via_entries_sms">
+</string-array>
+<string-array name="resent_via_entries_sms">
     <item>SMS</item>
     <item>Mi Mesaj</item>
-  </string-array>
-  <string-array name="resent_via_entries_mms">
+</string-array>
+<string-array name="resent_via_entries_mms">
     <item>SMS</item>
     <item>Mi Mesaj</item>
-  </string-array>
+</string-array>
 </resources>

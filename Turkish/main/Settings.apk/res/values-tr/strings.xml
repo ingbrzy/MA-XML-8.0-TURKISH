@@ -963,7 +963,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="lockpassword_pin_set_toast">PIN kodu ayarlandı</string>
   <string name="lockpassword_pin_too_long">PIN kodu en çok %d basamaklı olmalıdır</string>
   <string name="lockpassword_pin_too_short">PIN kodu en az %d basamaklı olmalıdır</string>
-  <string name="lockpassword_press_continue">İşlem tamamlandığında Devam seçeneğine dokunun</string>
+  <string name="lockpassword_press_continue">PIN kodunuzu tekrar girin</string>
   <string name="lockpattern_change_lock_pattern_label">Kilit açma desenini değiştir</string>
   <string name="lockpattern_change_lock_pin_label">"Kilit açma PIN kodunu değiştir"</string>
   <string name="lockpattern_confirm_button_text">Onayla</string>

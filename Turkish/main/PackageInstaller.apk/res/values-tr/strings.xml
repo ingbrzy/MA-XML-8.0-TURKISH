@@ -20,14 +20,14 @@
   <string name="dlg_app_replacement_statement">"Bu uygulama, daha önce yüklediğiniz bir uygulamanın yerine geçecek. 
   
   Eski kullanıcı verileri kaydedilecektir."</string>
-  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) güncel sürümü, (%3$s) sürümünün yerine geçecek ve eski verilerinizi kaydedilecek. Devam etmek istiyor musunuz?"</string>
-  <string name="dlg_app_replacement_title">Yüklenmiş bir uygulamanın yerine geçecek!</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) güncel sürümü, (%3$s) sürümünün yerine geçecek ve eski verilerinizi kaydedilecektir. Devam etmek istiyor musunuz?"</string>
+  <string name="dlg_app_replacement_title">UYARI !</string>
   <string name="dlg_ok">Tamam</string>
-  <string name="dlg_sys_app_replacement_statement">"Bu bir Sistem uygulaması. Yine de değiştirmek istiyor musunuz?
+  <string name="dlg_sys_app_replacement_statement">"Bu bir Sistem uygulamasıdır. Yine de değiştirmek istiyor musunuz?
   
   Eski kullanıcı verileri kaydedilecektir."</string>
   <string name="done">Bitti</string>
-  <string name="high_risk_perms">Yüksek riskli İzinler</string>
+  <string name="high_risk_perms">Yüksek riskli izinler</string>
   <string name="install">Yükle</string>
   <string name="install_confirm_question">Uygulamayı yüklemek istiyor musunuz?</string>
   <string name="install_done">Yüklendi</string>
