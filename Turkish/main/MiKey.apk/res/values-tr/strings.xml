@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-
 <resources>
   <string name="action_baidusearch">Baidu search</string>
   <string name="action_capture_video">Video</string>
@@ -258,8 +257,6 @@ Kullanmak için ekranın üzerinden aşağı doğru kaydırın."</string>
   <string name="unsupport_title">Bu özellik desteklenmiyor</string>
   <string name="update_message">Gücelle!</string>
   <string name="vcard_prompt">Kişi, adı olmadığı için eklenemedi!</string>
-  <string name="web">Website:</string>
-  <string name="write_pic_fail">Resim kaydedilemedi!</string>
   <string name="wallpaper_action">Duvar kağıdını değiştir</string>
   <string name="wallpaper_change_both">Masaüstü + kilit ekranı</string>
   <string name="wallpaper_change_desktop">Masaüstü duvar kağıdı</string>
@@ -269,6 +266,8 @@ Kullanmak için ekranın üzerinden aşağı doğru kaydırın."</string>
   <string name="wallpaper_change_ok">Duvar kağıdı değiştirildi</string>
   <string name="wallpaper_changing">Duvar kağıdı değiştiriliyor...</string>
   <string name="wallpaper_no_more">Değiştirme</string>
+  <string name="web">Website:</string>
   <string name="webpage_input_title">URL adresini girin</string>
   <string name="webpage_title">Web sayfasını aç</string>
+  <string name="write_pic_fail">Resim kaydedilemedi!</string>
 </resources>

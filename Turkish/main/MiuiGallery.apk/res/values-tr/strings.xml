@@ -320,15 +320,21 @@
   <string name="menu_view_contact">Kişiyi gör</string>
   <string name="message_no_delete_access">%s silmeye yetkiniz yok</string>
   <string name="messagelist_sender_self">Ben</string>
+  <string name="miliao">MiTalk</string>
   <string name="miliao_folder_display_name">Mi Talk</string>
   <string name="miliao_painting_folder_display_name">Mi Talk karalamaları</string>
   <string name="miliao_saved_folder_display_name">Mi Talk kayıt edildi</string>
   <string name="mimetype">MIME Türü</string>
   <string name="mipc_1">Cep Kamerası</string>
+  <string name="mishop">MiShop</string>
   <string name="mishop_saved_folder_display_name">Mi Store kaydedildi</string>
   <string name="miui_capture_screen_folder_display_name">Ekran Görüntüleri</string>
   <string name="miui_wallpaper">Duvarkağıdı</string>
   <string name="modified_time">Düzenleme zamanı</string>
+  <string name="moman">MomanCamera</string>
+  <string name="moman_camera_drawing">Moman Camera drawing</string>
+  <string name="moman_camera_icon">Moman Camera emoticon</string>
+  <string name="moman_camera_picture">Moman Camera pictures</string>
   <string name="more">Daha fazla</string>
   <string name="move">Taşı</string>
   <string name="move_to_cloud_album">Şuraya taşı</string>
@@ -407,6 +413,7 @@
   <string name="picker_tab_photo">Foto</string>
   <string name="pocket_camera_picture">Cep kamerası fotoğrafları</string>
   <string name="pocket_camera_video">Cep kamerası videoları</string>
+  <string name="pocketcamera">PocketCamera</string>
   <string name="posterize">Posterize</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Görüntüleri silmeye hazırlanılıyor...</string>
@@ -417,9 +424,11 @@
   <string name="publish_failed">"Yayınlama başarısız"</string>
   <string name="publish_succeeded">Albüm yayınlandı</string>
   <string name="publishing">Yayınlanıyor...</string>
+  <string name="qq">QQ</string>
   <string name="qqbrowser_img">QQ Browser</string>
   <string name="qsbk_save">QSBK</string>
   <string name="quotation">\"%s\"</string>
+  <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Resim tanınıyor...</string>
   <string name="redeye">Kırmızı Göz</string>
@@ -458,7 +467,7 @@
   <string name="screensaver_path">"Albüm: "</string>
   <string name="screensaver_path_not_set">Hiç biri seçilmedi</string>
   <string name="sd_not_available">SD karta erişim sağlanamıyor.</string>
-   <string name="sdcard_root">SD kart kök dizini</string>
+  <string name="sdcard_root">SD kart kök dizini</string>
   <string name="seconds">"Saniye"</string>
   <string name="secret_album_display_name">Gizli albüm</string>
   <string name="select_album">Düzenleme Modu</string>
@@ -503,6 +512,7 @@
   <string name="show_images_only">Sadece resimler</string>
   <string name="show_on_map">Haritada göster</string>
   <string name="show_videos_only">Sadece videolar</string>
+  <string name="sina_weibo">Weibo</string>
   <string name="sina_weibo_save">Weibo</string>
   <string name="size_above">%1$s veya üstü</string>
   <string name="size_below">%1$s veya altı</string>
@@ -533,6 +543,7 @@
   <string name="sync_only_in_wifi">Sadece Wi-Fi ile yükle</string>
   <string name="sync_only_in_wifi_alert">Bu özelliği kapatmak mobil veri kullanımınızı artırabilir.</string>
   <string name="sync_only_in_wifi_summary">Bu seçenek devre dışı olduğunda Galeri resımlerin aktarılması için mobil ağları kullanacaktır</string>
+  <string name="sync_third_party_app_pic_summary">Uygulama klasörlerindeki fotoğraflar Bulut alanınıza otomatik olarak yüklenir</string>
   <string name="system_album">Sistem albümü</string>
   <string name="tab_all_text">İkisine de uygula</string>
   <string name="tab_lockscreen_text">Kilit Ekranı</string>
@@ -558,6 +569,7 @@
   <string name="ubifocus_refocus_data_missing">"Kayıp veriler nedeniyle yeniden odaklanılamıyor"</string>
   <string name="ubifocus_refocus_download_tip">"Yeniden odaklanmadan önce lütfen yeniden odaklanma verilerini indiriniz"</string>
   <string name="ubifocus_refocus_map_error">"Yanlış veriler nedeniyle yeniden odaklanılamıyor"</string>
+  <string name="uc">UC</string>
   <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">"Yayından kaldırma başarısız"</string>
@@ -572,6 +584,8 @@
   <string name="wallpaper">Ana ekran duvar kağıdı</string>
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Uyarı</string>
+  <string name="wechat">WeChat</string>
+  <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="where_is_barcode">QR kodu nerede?</string>
   <string name="white_balance">Beyaz Dengesi</string>
@@ -580,22 +594,8 @@
   <string name="widget_type_photo">Bir resim seçin</string>
   <string name="widget_type_shuffle">Tüm resimleri karışık oynat</string>
   <string name="width">Genişlik</string>
+  <string name="wps">WPS</string>
   <string name="yellow_page">Sarı sayfa</string>
   <string name="yes">Evet</string>
   <string name="yunyi_pocket_camera">Cep kamerası</string>
-  <string name="miliao">MiTalk</string>
-  <string name="mishop">MiShop</string>
-  <string name="moman">MomanCamera</string>
-  <string name="moman_camera_drawing">Moman Camera drawing</string>
-  <string name="moman_camera_icon">Moman Camera emoticon</string>
-  <string name="moman_camera_picture">Moman Camera pictures</string>
-  <string name="pocketcamera">PocketCamera</string>
-  <string name="qq">QQ</string>
-  <string name="qzone">QZone</string>
-  <string name="sina_weibo">Weibo</string>
-  <string name="sync_third_party_app_pic_summary">Uygulama klasörlerindeki fotoğraflar Bulut alanınıza otomatik olarak yüklenir</string>
-  <string name="uc">UC</string>
-  <string name="wechat">WeChat</string>
-  <string name="weibo">Weibo</string>
-  <string name="wps">WPS</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-   <string name="SMS_and_MMS">SMS ve MMS</string>
+  <string name="SMS_and_MMS">SMS ve MMS</string>
   <string name="Settings_title_anti_spam">Kara Liste ayarları</string>
   <string name="Settings_title_anti_virus">Antivirüs ayarları</string>
   <string name="Settings_title_garbage_cleanup">Çöp temizleme ayarları</string>
@@ -604,13 +604,13 @@
   <string name="st_title_mode_choose_group">"Modu seçin"</string>
   <string name="suffix_virus_count_bottom">Toplam</string>
   <string name="suffix_virus_count_top">Risk</string>
-  <string name="summary_antivirus_oversea">Virüs tanımlarını otomatik güncelle</string>
   <string name="summary_antivirus">Online virüs tanımlarını kullanarak uygulama isimlerini ve bilgilerini tara</string>
-  <string name="summary_dev">Uygulamaların kullanıcı bilgilerine erişimini engelle</string>
+  <string name="summary_antivirus_oversea">Virüs tanımlarını otomatik güncelle</string>
   <string name="summary_cleaner_cloudscan">Online tanımlarını kullanarak bilinmeyen dosya adlarını karşılaştır</string>
   <string name="summary_cloud_account">Get the most out of your Mi device</string>
   <string name="summary_cloud_service">Cihazınızdaki fotoğraflar, kişiler ve tüm verileri senkronize edin</string>
   <string name="summary_data_flow">"Operatörünüzün aylık veri limitini geçmemeye dikkat edin"</string>
+  <string name="summary_dev">Uygulamaların kullanıcı bilgilerine erişimini engelle</string>
   <string name="summary_flow_notification">Bildirim alanında aylık veri kullanım istatistiklerini göster</string>
   <string name="summary_flow_purchase_beyond">"Aylık veri limitini %sMB aştınız!"</string>
   <string name="summary_flow_purchase_left">Bu ayki kalan veri limitiniz: %sMB</string>
@@ -632,25 +632,25 @@
   <string name="summary_virus_update">Wi-Fi bağlı olduğunda virüs tanımlarını otomatik güncelle</string>
   <string name="system_check_content">%1$d şüpheli öğe</string>
   <string name="system_header_title">%2$s hafızayı boşaltmak için %1$d işlemi temizleyin</string>
+  <string name="text_antivirus">Uygulama adlarını ve dataylarını yükle</string>
+  <string name="text_antivirus_oversea">Virüs tanımlarını gücelle</string>
+  <string name="text_optimizer">Klasör adlarını yükle</string>
+  <string name="title_antivirus">Tencent Gizlilik Politikası</string>
   <string name="title_app_update">Yeni güncellemeler var</string>
   <string name="title_app_update_no">%d güncelleme bulundu</string>
+  <string name="title_app_update_yes">"Tüm uygulamalar güncel!"</string>
   <string name="title_cleaner_cloudscan">Klasör adlarını yükle</string>
   <string name="title_cloud_account">Mi Hesabı</string>
   <string name="title_cloud_service">Mi Bulut</string>
   <string name="title_data_flow">Veri kullanım uyarısını ayarla</string>
-  <string name="text_antivirus_oversea">Virüs tanımlarını gücelle</string>
-  <string name="text_antivirus">Uygulama adlarını ve dataylarını yükle</string>
-  <string name="text_optimizer">Klasör adlarını yükle</string>
-  <string name="title_antivirus">Tencent Gizlilik Politikası</string>
-  <string name="title_app_update_yes">"Tüm uygulamalar güncel!"</string>
   <string name="title_data_flow_no">Veri kullanımı monitörü kapalı</string>
   <string name="title_data_flow_yes">Veri kullanımı monitörü açık</string>
+  <string name="title_dev_no">Geliştirici seçenekleri açık</string>
+  <string name="title_dev_yes">Geliştirici seçenekleri kapalı</string>
   <string name="title_flow_notification">Veri kullanım raporu</string>
   <string name="title_flow_purchase">Yükleme (kontör) zamanı</string>
   <string name="title_flow_verify">Karşılaştır</string>
   <string name="title_garbage_lib">Otomatik güncelleme</string>
-  <string name="title_dev_no">Geliştirici seçenekleri açık</string>
-  <string name="title_dev_yes">Geliştirici seçenekleri kapalı</string>
   <string name="title_install_virus_no">Yükleme monitörü kapalı</string>
   <string name="title_install_virus_yes">Yükleme monitörü açık</string>
   <string name="title_miui_update">Yeni güncelleme var</string>

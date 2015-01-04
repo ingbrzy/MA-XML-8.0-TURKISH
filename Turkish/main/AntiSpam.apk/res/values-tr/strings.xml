@@ -17,6 +17,7 @@
   <string name="AD_TITLE_COUNT">%d uygulamalar reklam destekli yazılım içermektedir</string>
   <string name="AD_TITLE_NON_COUNT">Reklam destekli yazılım tespit edilemedi</string>
   <string name="AD_Unistall">Yüklemeyi kaldır</string>
+  <string name="APKTOOL_DUMMY_0130">false</string>
   <string name="Call_ADRESS">Yerel Kara Liste</string>
   <string name="Call_BLACKLIST">Engellenen çağrılar listesi</string>
   <string name="Call_DEFAULT">Akıllı Kara Liste</string>
@@ -124,8 +125,8 @@
   <string name="info_unantispam_phone_sms">Çağrı ve mesajlara izin ver</string>
   <string name="info_unantispam_sms">Mesajlara izin ver</string>
   <string name="label_callwait">Çağrı bekletme bildirimi</string>
-  <string name="log_count">(%d)</string>
   <string name="loding">Veri yükleniyor</string>
+  <string name="log_count">(%d)</string>
   <string name="mark_agent">Satış acentası</string>
   <string name="mark_agent_block">Satış acentası olarak işaretlendi</string>
   <string name="mark_banking_insurance">Sigorta satışı</string>
@@ -299,5 +300,4 @@
   <string name="user_define_title">Kural Ekle</string>
   <string name="whitelist_prefix_add_hint">Ön eki olan tüm numaraları istisnalara ekle</string>
   <string name="wl_no_whitelist">İstisna yok</string>
-  <string name="APKTOOL_DUMMY_0130">false</string>
 </resources>

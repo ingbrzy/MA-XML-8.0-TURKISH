@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about">Hakkında</string>
   <string name="about_app_name">Mi Video </string>
   <string name="about_title">Hakkında</string>
   <string name="about_version">1.0.1</string>
@@ -40,8 +41,18 @@
   <string name="cancel">İptal</string>
   <string name="cancel_button">İptal</string>
   <string name="cancel_favorite_success">Favorilerden kaldırıldı</string>
+  <string name="category">Kategori</string>
+  <string name="channel_choice">Seçilen</string>
   <string name="channel_choice_empty_hint">Boş</string>
   <string name="channel_empty_hint">Boş</string>
+  <string name="channel_hot">Sıcak</string>
+  <string name="channel_latest">Son</string>
+  <string name="channel_new">Yeni</string>
+  <string name="channel_ok">TAMAM</string>
+  <string name="channel_recommend">Tavsiye edilen</string>
+  <string name="channel_score">Skor</string>
+  <string name="channel_variety_choice">Seçilen</string>
+  <string name="channel_variety_hot">Sıcak</string>
   <string name="check_network">"Ağa bağlanılamıyor. Veri bağlantınızı kontrol edip tekrar deneyin."</string>
   <string name="choice">"Editörün Seçimi"</string>
   <string name="clarity_high">Yüksek</string>
@@ -203,7 +214,7 @@
   <string name="pptv">PPTV</string>
   <string name="prefix_countdown">Kalan reklamlar</string>
   <string name="priority_storage">Harici SD kart kullan</string>
-  <string name="priority_storage_summary"></string>
+  <string name="priority_storage_summary"/>
   <string name="qiyi">iQiyi</string>
   <string name="rank">En iyi videolar</string>
   <string name="receive_mipush">Push bildirimleri</string>
@@ -350,15 +361,4 @@
   <string name="yesterday">Dün</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
-  <string name="about">Hakkında</string>
-  <string name="category">Kategori</string>
-  <string name="channel_choice">Seçilen</string>
-  <string name="channel_hot">Sıcak</string>
-  <string name="channel_latest">Son</string>
-  <string name="channel_new">Yeni</string>
-  <string name="channel_ok">TAMAM</string>
-  <string name="channel_recommend">Tavsiye edilen</string>
-  <string name="channel_score">Skor</string>
-  <string name="channel_variety_choice">Seçilen</string>
-  <string name="channel_variety_hot">Sıcak</string>
 </resources>

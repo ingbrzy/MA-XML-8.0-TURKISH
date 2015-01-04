@@ -175,8 +175,8 @@
   <string name="group_resend_message">Tekrar gönder (%d)</string>
   <string name="guild_add_attachments">Dosya veya gülümseme eklemek için burayı tıklayın</string>
   <string name="guild_add_recipients">Adres defterinden alıcı eklemek için burayı tıklayın</string>
-  <string name="has_invalid_recipient">Geçersiz alıcı :%1$s</string>
   <string name="guild_msim_switcher">SIM kartı değiştirmek çin dokunun</string>
+  <string name="has_invalid_recipient">Geçersiz alıcı :%1$s</string>
   <string name="hidden_sender_address">Gizli gönderen adresi</string>
   <string name="hint_search_sms">%d mesaj</string>
   <string name="hms_first_use_tips">Servis mesajlarının alınması için, Wi-Fi ağına bağlı olmanız gerekiyor</string>
@@ -257,9 +257,9 @@
   <string name="mx_activate_int_hint_malformed_info">Mi Mesaj aktivasyonu için uluslararası bir SMS yollanacaktır. Operatörünüz tarafından uluslararası tarifeye tabi tutulabilirsiniz.</string>
   <string name="mx_activate_int_hint_server">Mi Mesaj aktivasyonu için uluslararası bir SMS yollanacaktır. Operatörünüz tarafından uluslararası tarifeye tabi tutulabilirsiniz.</string>
   <string name="mx_activate_int_hint_sim_change">Mi Mesaj aktivasyonu için uluslararası bir SMS yollanacaktır. Operatörünüz tarafından uluslararası tarifeye tabi tutulabilirsiniz.</string>
-  <string name="mx_activate_user_agreement_p1">"Bu servisi kullanarak, Mi Mesaj koşullarını kabul etmiş olursunuz "</string>
   <string name="mx_activate_int_popup_msg">Mi Mesaj, MIUI aracılığıyla ücretsiz mesaj göndermenizi sağlar. Wi-Fi ağına bağlı olmadığınız takdirde veri kullanımı ücretine tabi olacaktır.</string>
   <string name="mx_activate_popup_msg">Mi Mesaj, MIUI aracılığıyla ücretsiz mesaj göndermenizi sağlar. Wi-Fi ağına bağlı olmadığınız takdirde veri kullanımı ücretine tabi olacaktır.</string>
+  <string name="mx_activate_user_agreement_p1">"Bu servisi kullanarak, Mi Mesaj koşullarını kabul etmiş olursunuz "</string>
   <string name="mx_activation_done">Mi Mesaj etkinleştirildi</string>
   <string name="mx_auto_resend_mms">MMS olarak gönder</string>
   <string name="mx_auto_resend_mms_summary">Wi-Fi kullanılmıyorken mobil veri üzerinden MMS olarak gönderir. (Operatörünüzün normal veri kullanım ücretlendirmesi uygulanır).</string>
@@ -401,12 +401,12 @@
   <string name="save">Kaydet</string>
   <string name="save_ringtone">Zil sesi olarak kaydet</string>
   <string name="save_to_sim">SIM karta kaydet</string>
-  <string name="sdcard_has_not_enough_space">SD kartta eterli boş alan yok!</string>
   <string name="save_to_sim_failed">"Kaydedilemedi"</string>
   <string name="saved_label">Kaydedildi:</string>
   <string name="saved_ringtone">Zil sesi kaydedildi</string>
   <string name="saved_ringtone_fail">Zil sesi kaydedilemedi</string>
   <string name="saved_to_sim">Kaydedildi</string>
+  <string name="sdcard_has_not_enough_space">SD kartta eterli boş alan yok!</string>
   <string name="search">Mesajlaşma</string>
   <string name="search_empty">Eşleşme yok</string>
   <string name="search_hint">Mesajlaşmada ara</string>
@@ -461,9 +461,9 @@
   <string name="sms_full_title">Metin mesaj hafızası dolu</string>
   <string name="sms_rejected_body">Gelen bir mesaj bilinmeyen bir nedenden dolayı  reddedildi.</string>
   <string name="sms_rejected_title">Kısa mesaj reddedildi</string>
-  <string name="sp_category_all">Tüm servis mesajları</string>
   <string name="snippet_audio">[ses]</string>
   <string name="snippet_picture">[resim]</string>
+  <string name="sp_category_all">Tüm servis mesajları</string>
   <string name="sp_category_bank">Banka servis mesajları</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Bildirimler</string>

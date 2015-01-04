@@ -20,8 +20,8 @@
   <string name="barcode_add_account_prompt">Bir hesap eklemek için, giriş yaptıktan sonra QR kodunu tekrar tarayın.</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_settings">Hesaplar</string>
-  <string name="bind_sns_description">%s ile oturum aç</string>
   <string name="bind_sina_weibo">Sina Weibo ile bağla</string>
+  <string name="bind_sns_description">%s ile oturum aç</string>
   <string name="bind_weibo_description">Sina Weibo\'dan arkadaşlarınızı bulun ve senkronize edin.</string>
   <string name="binded">Bağlama tamamlandı</string>
   <string name="btn_return">Geri</string>
@@ -83,11 +83,11 @@
   <string name="micloud_none">Hiçbiri</string>
   <string name="micloud_reg_new">Hesap oluşturun</string>
   <string name="micloud_space_info">"%s kalan"</string>
+  <string name="micloud_sync_info_synced">Herşey güncel</string>
   <string name="micloud_sync_state_need_wifi">Senkronize için Wi-Fi kullan</string>
   <string name="micloud_sync_state_stop">Durdu</string>
   <string name="micloud_sync_state_synced">Senkronize edildi</string>
   <string name="micloud_sync_state_syncing">Senkronize ediliyor...</string>
-  <string name="micloud_sync_info_synced">Herşey güncel</string>
   <string name="micloud_user_base_info">Kullanıcı Bilgisi</string>
   <string name="micloud_user_email">E-Posta</string>
   <string name="micloud_user_id">Mi Hesap Numarası</string>
@@ -102,6 +102,7 @@
   <string name="no_response_retry">Cevap yok, tekrar deneyin!</string>
   <string name="no_sim_card">SIM kart yok</string>
   <string name="nobind">Eklenmedi</string>
+  <string name="opening_page">Açılıyor...</string>
   <string name="other_devices">Diğer cihazlar</string>
   <string name="passport_access_denied">Erişim engellendi</string>
   <string name="passport_account_hint_text">E-posta ya da telefon numarası</string>
@@ -235,7 +236,6 @@
   <string name="passport_xiaomi_account_dspt">Mi Bulut, Temalar ve diğer hizmetler için lütfen Mi Hesabınız ile oturum açın..</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2"/>
-  <string name="opening_page">Açılıyor...</string>
   <string name="password">Şifrenizi girin</string>
   <string name="phone_activated">%s etkinleştirildi</string>
   <string name="phone_unactivated">Aktif değil</string>
@@ -257,7 +257,7 @@
   <string name="remove_trust_btn">Cihazı kaldır</string>
   <string name="remove_trust_notice">Güvenli cihazlardan kaldır ve oturumu kapat</string>
   <string name="removing_account">Çıkış yapılıyor...</string>
-   <string name="rename_current_device">"Cihaz adını değiştir"</string>
+  <string name="rename_current_device">"Cihaz adını değiştir"</string>
   <string name="scan_barcode_title">Mi hesabınıza oturum açmak için QR kodunu taratın</string>
   <string name="seperator_forget_and_foreign">" | "</string>
   <string name="service_error">Servis hatası</string>

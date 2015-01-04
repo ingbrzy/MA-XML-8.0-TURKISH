@@ -220,8 +220,8 @@
   <string name="attachment_audio">Ses</string>
   <string name="attachment_bar_title">Ekler</string>
   <string name="attachment_canceling">İptal ediliyor, lütfen bekleyin!</string>
-  <string name="attachment_download_all">Hepsini indir</string>
   <string name="attachment_decoding">Ek indirildi, çözümlenirken lütfen bekleyin...</string>
+  <string name="attachment_download_all">Hepsini indir</string>
   <string name="attachment_image">Resim</string>
   <string name="attachment_mgr_name">Ek</string>
   <string name="attachment_not_exists">Ek kullanılabilir değil!</string>
@@ -242,8 +242,8 @@
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
   <string name="blank_feedback_toast">Görüşler kısmı boş olamaz!</string>
-  <string name="body_hint">E-posta yaz</string>
   <string name="body_forward_email_text">[Yönlendir]</string>
+  <string name="body_hint">E-posta yaz</string>
   <string name="body_inline_pic_text">[resim]</string>
   <string name="bottom_bar_more_delete">Sil</string>
   <string name="bottom_bar_more_quickreply">Hızlı cevap</string>
@@ -441,11 +441,11 @@
   <string name="general_preference_text_zoom_small">Ufak</string>
   <string name="general_preference_text_zoom_tiny">İnce</string>
   <string name="generic_attachment_problem">"Dosya eklenemedi"</string>
+  <string name="giftcard_payment">%1$s MiKredisi</string>
   <string name="head_only_enable_dialog_message">Tıklama olmadan tüm e-posta yerine sadece başlık trafik ile indirilir.</string>
   <string name="head_only_enable_dialog_nagative">İptal</string>
   <string name="head_only_enable_dialog_positive">Tamam</string>
   <string name="head_only_enable_dialog_title">Trafik tasarrufu uyarsı !</string>
-  <string name="giftcard_payment">%1$s MiKredisi</string>
   <string name="header_category_account">Hesaplar</string>
   <string name="header_category_other">Diğer Ayarlar</string>
   <string name="header_label_general_preferences">Genel Ayarlar</string>
@@ -460,7 +460,7 @@
   <string name="ignore_spam_warning">Yoksay, ben bu mesaja güveniyorum</string>
   <string name="inbox_folders_heading">Yerel klasörler</string>
   <string name="info">Bilgi</string>
-   <string name="inline_picture_deleted">"Resim bulunamadı"</string>
+  <string name="inline_picture_deleted">"Resim bulunamadı"</string>
   <string name="inline_picture_download_complete">Resim indirildi</string>
   <string name="input_password_prompt">Şifreyi girin:</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
