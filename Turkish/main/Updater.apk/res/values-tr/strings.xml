@@ -34,7 +34,7 @@
   <string name="cancel_download_buton_text">İptal</string>
   <string name="check_update">Güncellemeleri kontrol et</string>
   <string name="check_update_policy">Ayarlar</string>
-  <string name="check_update_when_wifi_available">Sadece Wi-Fi kullan</string>
+  <string name="check_update_when_wifi_available">Sadece Wi-Fi ile kontrol et</string>
   <string name="check_update_when_wifi_available_sum">Güncelleme kontrolü için sadece Wi-Fi ağını kullan.</string>
   <string name="checking_for_updates">Güncellemeler kontrol ediliyor...</string>
   <string name="choose_recommend">Tavsiye isteyip istemediğinizi seçiniz</string>
@@ -98,7 +98,7 @@
   <string name="monthly_build">Aylık Yapı</string>
   <string name="my_best_update">En iyi gücellemem</string>
   <string name="my_expect_update">Beklenen güncelemem</string>
-  <string name="my_rank">Güncelleme sıralaması:</string>
+  <string name="my_rank">"Güncelleme durumu: "</string>
   <string name="my_update_feel">Duygularım</string>
   <string name="my_worst_update">En kötü güncellemem</string>
   <string name="network_error">Ağ bağlantısı hatası oluştu!</string>
@@ -108,7 +108,7 @@
   <string name="no_proper_updates">Telefonunuz için güncelleme bulunamadı</string>
   <string name="no_wifi_msg">"Wi-Fi bağlantısı yok, mobil veri kullanılarak indirmeye devam edilecek!"</string>
   <string name="no_wifi_title">Veri kullanım uyarısı!</string>
-  <string name="not_open">Kapat</string>
+  <string name="not_open">Şimdi değil</string>
   <string name="notification_downloading">Güncelleme indiriliyor…</string>
   <string name="notification_load_body_alpha">Cihazınızı güncellemek için Xiaomi hesabınız ile giriş yapın.</string>
   <string name="notification_load_body_dev">Cihazınızı güncellemek için Xiaomi hesabınız ile giriş yapın.</string>

@@ -619,6 +619,8 @@
   <string name="summary_install_virus">Uygulamaları yüklemeden önce virüs taramasından geçirin</string>
   <string name="summary_miui_update">%s için güncelleme var.</string>
   <string name="summary_mms">İstenmeyen mesajları filtrele (Satış, reklam vb.)</string>
+  <string name="summary_network_switch">Araçlar uygulamasının internete bağlanmasına izin ver</string>
+  <string name="summary_never_flow_verify">"Bu şekil operatörünüz ile doğrulanamadı!"</string>
   <string name="summary_optimizer">Online virüs tanımlarını kullanarak bilinmeyen dosya adlarını tara</string>
   <string name="summary_permission">Gizliliğimi tehlikeli üçüncü şahıs uygulamalarından koru</string>
   <string name="summary_permission_root">Cihazınız ve kişisel verileriniz, root erişimi olan uygulamaların saldırılarına karşı daha savunmasızdır</string>
@@ -658,6 +660,7 @@
   <string name="title_miui_update_yes">MIUI güncel!</string>
   <string name="title_mms_no">Mesaj filtresi devre dışı</string>
   <string name="title_mms_yes">Mesaj filtresi etkin</string>
+  <string name="title_network_switch">İnternet bağlantısına izin ver</string>
   <string name="title_optimizer">Temizleyici</string>
   <string name="title_permission_no">İzin yöneticisi kapalı</string>
   <string name="title_permission_root">Root erişimi uyarısı</string>
@@ -686,6 +689,7 @@
   <string name="toast_garbage_lib">Temizleyici oto-güncelleme açık</string>
   <string name="toast_garbage_list_empty">Her şey iyi görünüyor, temizliğe gerek yok!</string>
   <string name="toast_network_eror">Ağ hatası</string>
+  <string name="toast_network_switch">Bu uygulama internete bağlanabilir</string>
   <string name="toast_removed_from_white_list">" istisnalardan çıkarıldı"</string>
   <string name="toast_root_apply_accept">%s için root erişimi onaylandı</string>
   <string name="toast_root_apply_reject">%s için root erişimi engellendi</string>
