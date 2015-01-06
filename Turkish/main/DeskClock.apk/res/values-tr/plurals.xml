@@ -16,4 +16,8 @@
 	<item quantity="other">%1$d saniye</item>
 	<item quantity="one">%1$d saniye</item>
 </plurals>
+<plurals name="snooze_message">
+	<item quantity="other">%d DAKiKA ERTELE</item>
+	<item quantity="one">%d DAKiKA ERTELE</item>
+</plurals>
 </resources>

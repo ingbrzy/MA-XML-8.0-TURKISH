@@ -89,12 +89,12 @@
   <string name="calllog_menu_send_sms">İleti gönder</string>
   <string name="callrecordview_item_newcontact">Yeni Kişi</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d dk %2$d sn</string>
-  <string name="callrecordview_item_op_time_missed">- Bağlanmadı</string>
+  <string name="callrecordview_item_op_time_missed">| Bağlanmadı</string>
   <string name="callrecordview_item_op_time_only_minutes">%d dk</string>
   <string name="callrecordview_item_op_time_only_seconds">%d sn</string>
-  <string name="callrecordview_item_op_time_rejected">- Çağrı reddedildi</string>
-  <string name="callrecordview_item_op_time_short_incoming">"- Gelen: "</string>
-  <string name="callrecordview_item_op_time_short_outgoing">"- Giden: "</string>
+  <string name="callrecordview_item_op_time_rejected">| Çağrı reddedildi</string>
+  <string name="callrecordview_item_op_time_short_incoming">"| Gelen: "</string>
+  <string name="callrecordview_item_op_time_short_outgoing">"| Giden: "</string>
   <string name="callrecordview_menu_add_call_note">Çağrı notu ekle</string>
   <string name="callrecordview_menu_batch_delete">Toplu sil</string>
   <string name="callrecordview_menu_delete">Arama geçmişini temizle</string>
@@ -102,7 +102,7 @@
   <string name="callrecordview_menu_delete_all">Tüm arama geçmişini temizle</string>
   <string name="callrecordview_menu_delete_called">Giden çağrıları temizle</string>
   <string name="callrecordview_menu_delete_confirm">%s silinsin mi?</string>
-  <string name="callrecordview_menu_delete_missed">Cevaplanmayan çağrıları temizle</string>
+  <string name="callrecordview_menu_delete_missed">Cevapsız çağrıları temizle</string>
   <string name="callrecordview_menu_delete_new">Yeni numaraların arama geçmişini temizle</string>
   <string name="callrecordview_menu_delete_one">Bu kaydı listeden temizle</string>
   <string name="callrecordview_menu_delete_sim">%s arama geçmişini sil</string>
@@ -814,7 +814,7 @@
   <string name="sms_work_pager">İş Çağrı Cihazına Mesaj Gönder</string>
   <string name="social_widget_label">Rehber</string>
   <string name="social_widget_loading">Yükleniyor...</string>
-  <string name="solar_calendar">公历</string>
+  <string name="solar_calendar"/>
   <string name="splitConfirmation">Bu kişi birden fazla kişi olarak ayrılacaktır.</string>
   <string name="splitConfirmation_title">Kişi ayırılsın mı?</string>
   <string name="starredList">Yıldızlı</string>

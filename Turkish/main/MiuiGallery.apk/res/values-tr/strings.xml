@@ -61,6 +61,8 @@
   <string name="auto_create_recent_album_over_ten_times">Bir albüm 10 defadan fazla açıldığında favori olarak işaretlenir</string>
   <string name="auto_upload_album_comfirm_to_share">Bu albüm otomatik olarak yüklenecektir paylaşmak istiyor musunuz?</string>
   <string name="auto_upload_tip">Etkinleştirdikten sonra aynı isimde albüm oluşturulur. Aynı isimde var olan albümler birleştirilecektir.</string>
+  <string name="auto_upload_guide">Fotoğraflarınızı ve diğer uygulamalarınızı Mi Buluta otomatik yükleyin.</string>
+  <string name="auto_upload_setting_toast">Mi Bulut ayarlarında bu özellik için ek seçenekleri bulabilirsiniz.</string>
   <string name="auto_upload_title">Otomatik yükle</string>
   <string name="autofix">Oto Düzelt</string>
   <string name="autohomemain">Autohomemain</string>
@@ -245,6 +247,7 @@
   <string name="gallery_setting">Galeri Ayarları</string>
   <string name="get_album_info_in_process">Paylaşılan albümün detayları isteniyor...</string>
   <string name="global_setting">Galeri Ayarları</string>
+  <string name="go_setting">Ayarlara gözat</string>
   <string name="grain">Film tanesi</string>
   <string name="grayscale">B&amp;W</string>
   <string name="group_by">Gruba göre</string>
@@ -346,6 +349,7 @@
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="new_device_tips">"Cihazı örüntülemek için dokunun
   "</string>
+  <string name="new_feature">Yeni özellik</string>
   <string name="no">Hayır</string>
   <string name="no_albums_alert">Uygun albüm bulunamadı</string>
   <string name="no_connectivity">Bazı konumlar şebeke sorunları sebebiyle tanımlanamıyor</string>
@@ -359,6 +363,7 @@
   <string name="no_thumbnail">Ön izleme yok</string>
   <string name="none_picture">Resim yok</string>
   <string name="not_auto_create_recent_album">Favori oluşturmayı geri al</string>
+  <string name="not_now">Şimdi değil</string>
   <string name="not_show_hidden_albums">Gizli albümleri gösterme</string>
   <string name="only_show_camera_in_first_page">Kamera resimlerini ilk sayfada göster</string>
   <string name="only_show_camera_in_first_page_summary">Kapatıldığında bulut albumünün resimleri ilk sayfada gösterilecek.</string>

@@ -12,8 +12,10 @@
   <string name="bluetooth_problem3">"Dosya gönderilemiyor"</string>
   <string name="bluetooth_problem4">"Dosya alamıyor"</string>
   <string name="btn_send">Gönder</string>
-  <string name="bugreport_tool_log_toast">Log %s konumuna kaydedildi</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Hata raporu oluşturuluyor, lütfen bekleyin...</string>
+  <string name="bugreport_dump_complete_notification_summary">Görüntülemek için dokunun</string>
+  <string name="bugreport_dump_complete_notification_title">Hata raporu oluşturuldu.</string>
+  <string name="bugreport_dump_start_notification_summary">Bu işlem birkaç dakika sürebilir.</string>
+  <string name="bugreport_dump_start_notification_title">Hata raporu oluşturuluyor...</string>
   <string name="button_feedback">Diğer</string>
   <string name="button_plus">+1</string>
   <string name="camera_problem1">Kötü fotoğraf kalitesi</string>
