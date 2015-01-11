@@ -861,4 +861,14 @@
 	<item>Ana şebeke</item>
 	<item>Tüm şebekeler</item>
 </string-array>
+<string-array name="screen_optimize_title">
+	<item>Otomatik kontrast</item>
+	<item>Arttırılmış kontrast</item>
+	<item>Standard</item>
+</string-array>
+<string-array name="screen_optimize_summary">
+	<item>Kontrastı ışığa göre optimize et</item>
+	<item>"Ekran kontrastını arttır"</item>
+	<item>Kontrast sabit kalır</item>
+</string-array>
 </resources>

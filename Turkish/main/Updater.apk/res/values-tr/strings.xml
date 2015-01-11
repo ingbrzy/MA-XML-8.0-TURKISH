@@ -5,12 +5,10 @@
   <string name="active_xiaomi_account_msg">"Mi Hesabınızı etkinleştirmek için lütfen https://account.xiaomi.com/pass/serviceLogin adresine gidin."</string>
   <string name="active_xiaomi_account_title">Mi Hesabını etkinleştir</string>
   <string name="app_name">Güncelleyici</string>
-  <string name="apply_later_button_text">Sonra</string>
-  <string name="apply_now_button_text">Güncelle</string>
   <string name="apply_title">Güncelleniyor... (%s)</string>
   <string name="apply_update_dialog_cancel_button">İptal</string>
   <string name="apply_update_dialog_update_button">Güncelle</string>
-  <string name="auto_agree_clause">"Güncellenmiş Gizlilik Politikamız şimdiden yürürlüğe girmiştir. "</string>
+  <string name="auto_agree_clause">Gizlilik Politikası güncellendi</string>
   <string name="auto_button_examine">Gözat</string>
   <string name="auto_button_examine_immediately">Gözat</string>
   <string name="auto_button_sure_cancel">İptal</string>
@@ -21,7 +19,7 @@
   <string name="auto_dialog_title_check_again">Güncelleme iptal edilsin mi?</string>
   <string name="auto_update">Güncelleyi otomatik indir</string>
   <string name="auto_update_sum"/>
-  <string name="autosetmode">Güncelleme ayarları</string>
+  <string name="autosetmode">Ayarları</string>
   <string name="best_update">En iyi güncellemem</string>
   <string name="boot_recovery">Recovery modunda başlat</string>
   <string name="button_text_check">Güncellemeleri kontrol et</string>
@@ -37,6 +35,7 @@
   <string name="check_update_when_wifi_available_sum">Güncelleme kontrolü için sadece Wi-Fi ağını kullan.</string>
   <string name="checking_for_updates">Güncellemeler kontrol ediliyor...</string>
   <string name="choose_recommend">Tavsiye isteyip istemediğinizi seçiniz</string>
+  <string name="clean_up_button">Temizle</string>
   <string name="comment_invalid">Bu güncellemeyi puanla (yıldızlara dokunarak)</string>
   <string name="comment_publish">Gönder</string>
   <string name="comment_sending">Gönderiliyor...</string>
@@ -49,23 +48,18 @@
   <string name="current_version_text">"Geçerli versiyon"</string>
   <string name="current_version_update_monthly_build">Sadece aylık yapıya güncelle</string>
   <string name="daily_build">Gecelik</string>
-  <string name="dialog_no">Hayır</string>
-  <string name="dialog_ok">Tamam</string>
-  <string name="dialog_yes">Evet</string>
   <string name="download_again">Tekrar indir</string>
   <string name="download_cancel">İptal</string>
   <string name="download_current_rom">Güncellemeyi uygula</string>
   <string name="download_error">İndirme hatası, biraz bekleyip tekrar deneyin!</string>
-  <string name="download_failed">"İndirilemiyor"</string>
   <string name="download_full">Tam indir</string>
   <string name="download_title">İndiriliyor... (%s)</string>
   <string name="download_title_first">Güncelleme bilgisi alınıyor…</string>
   <string name="download_title_full_download">Paket bilgisi alınıyor…</string>
-  <string name="downloading_description">İndiriliyor...</string>
   <string name="edit_comment">Yorum ekle</string>
   <string name="edit_comment_title">Düzenle</string>
   <string name="edit_text_default">Bir yorum yazın</string>
-  <string name="emegency_build">Yapı:</string>
+  <string name="emegency_build">"Yapı "</string>
   <string name="exception_while_downloading">Güncelleme indirilirken hata oluştu</string>
   <string name="expect">4. Beklentiler</string>
   <string name="experimental_build">Alfa</string>
@@ -77,7 +71,6 @@
   <string name="go_on_download">Devam</string>
   <string name="important_suggestion">Gizlilik Politikası değişti</string>
   <string name="install">Yükle</string>
-  <string name="install_failed">Güncelleme başarısız!</string>
   <string name="install_local">Yerel yükle</string>
   <string name="install_qq">QQ uygulamasını kur</string>
   <string name="internal_build">Dahili</string>
@@ -109,9 +102,7 @@
   <string name="notification_load_body_dev">Cihazınızı güncellemek için Xiaomi hesabınız ile giriş yapın.</string>
   <string name="notification_load_title_alpha">Xiaomi hesabınız ile giriş yapın</string>
   <string name="notification_load_title_dev">Xiaomi hesabınız ile giriş yapın</string>
-  <string name="notification_new_version">%s sürümüne güncelle</string>
   <string name="notification_reboot_btn">Tekrar başlat</string>
-  <string name="notification_reboot_des">%s sürümüne güncellemek için cihazı tekrar başlatın.</string>
   <string name="notification_reboot_seccess_des">Güncelleme bilgisini paylaşmak için dokunun.</string>
   <string name="notification_reboot_seccess_title">Cihaz güncellendi!</string>
   <string name="notification_reboot_summary_hm">Tekrar başlatmak için dokunun.</string>
@@ -130,7 +121,6 @@
   <string name="progress_title_checking">Güncellemeler Kontrol Ediliyor…</string>
   <string name="reboot">Sonra başlat</string>
   <string name="reboot_now">Tekrar başlat</string>
-  <string name="reboot_to_new_system">Yeni sistem için tekrar başlat</string>
   <string name="recommend">Önerilir</string>
   <string name="recommend_comment_hint">Sebep (Tercihe bağlı)</string>
   <string name="recommend_vote_title">MIUI Beta Takım Anketi</string>
@@ -167,11 +157,13 @@
   <string name="update_comment_title">Yorumlarınız</string>
   <string name="update_downfull_no_info_sum">İndirilemiyor, biraz bekleyip tekrar deneyin!</string>
   <string name="update_downfull_no_info_title">Günceleme indirilemiyor!</string>
-  <string name="update_feedback">Güncelleme hakkındaki önerileriniz</string>
+  <string name="update_feedback">Önerileriniz</string>
   <string name="update_feedback_end">"Bu haftaki anketi kaçırdınız."</string>
   <string name="update_feedback_end_sum">Her Salı katılabilirsiniz.</string>
   <string name="update_feedback_expired">"Bu haftaki anketi kaçırdınız.
   Lütfen önümüzdeki salı günü tekrar deneyin..."</string>
+  <string name="update_feedback_need_account">Mi Hesabınız ile oturum açın</string>
+  <string name="update_feedback_need_network">Önce bir ağa bağlanın</string>
   <string name="update_feedback_need_update">Geri bildirim göndermeden önce cihazınızı en son MIUI sürümüne güncellemeniz gerekir!</string>
   <string name="update_feel">Duygularım</string>
   <string name="update_general">Fena değil</string>

@@ -354,6 +354,7 @@
   <string name="in_sms">Mesaj</string>
   <string name="incall_error_call_failed">ÇAĞRI YAPILAMIYOR!</string>
   <string name="incall_error_emergency_only">ŞEBEKEYE KAYIT OLUNAMADI!</string>
+  <string name="incall_error_no_active_sim">Etkin SIM kart yok!</string>
   <string name="incall_error_no_phone_number_supplied">Geçersiz bir numara girdiniz!</string>
   <string name="incall_error_out_of_service">MOBİL ŞEBEKE YOK!</string>
   <string name="incall_error_power_off">Çağrı yapmak için, öncelikle uçak modunu kapatın!</string>
@@ -361,6 +362,7 @@
   <string name="incall_status_dialed_mmi">MMI kodu başlatılıyor…</string>
   <string name="international_disable">Yabancı haberler devre dışı</string>
   <string name="international_enable">Yabancı haberler etkin</string>
+  <string name="international_roaming_setting">Uluslar arası dolaşım</string>
   <string name="internet_phone">İnternet çağrısı</string>
   <string name="invalid_password">Şifreyi girin</string>
   <string name="invalid_pin">PIN kodu yanlış, Tekrar girin.</string>

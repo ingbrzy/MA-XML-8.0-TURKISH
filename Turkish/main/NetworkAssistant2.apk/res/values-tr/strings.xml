@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_to_whitelist_button">İzinleri yönet</string>
+  <string name="add_white_list">Ekle</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Bir ay önce güncellendi</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Bir hafta önce güncellendi</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Bir hafta önce güncellendi</string>
@@ -7,6 +9,7 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">2 gün önce güncellendi</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Dün güncellendi: %s</string>
   <string name="adjust_traffic_data">Kullanılan verileri giriniz</string>
+  <string name="alter_dialog_message">Uluslar arası dolaşımda veri servslerine bağlanmanız kullanım ücretlerini önemli ölçüde arttırabilir.</string>
   <string name="app_detail">Ayrıntılar</string>
   <string name="app_mobile">Veri</string>
   <string name="app_name">Veri kullanımı</string>
@@ -71,6 +74,10 @@
   <string name="declaration_dialog_msg">Bu özellik, mobil veri kullanımını izlemenize yardımcı olur, fakat size net sonuçları vermez bu yüzden makul bir limit belirleyin.</string>
   <string name="deleted_apps">Silinen uygulamalar</string>
   <string name="detail_app_button">Uygulama bilgisi</string>
+  <string name="dialog_app_roaming_message">"Uluslar arası dolaşımda iken sadece istisnalar listesindeki uygulamalar veri servisini kullanabilir. %1$s istisnalar listesine eklenmemiş!"</string>
+  <string name="dialog_app_roaming_title">"%1$s için uluslar arası dolaşım etkin değil"</string>
+  <string name="dialog_roaming_message">Bu uygulamayı istisnalar listesine eklemek istiyor musunuz?</string>
+  <string name="dialog_roaming_title">Uluslar arası dolaşım</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="firewall_activity_lable">Uygulama için mobil veriyi kısıtla</string>
@@ -80,6 +87,7 @@
   <string name="firewall_fragment_tab_title_nonsys">Yüklendi</string>
   <string name="firewall_fragment_tab_title_sys">Sistem</string>
   <string name="firewall_rule_group_title_mobile">Veri</string>
+  <string name="firewall_rule_group_title_roaming">Uluslar arası dolaşım</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%2$s ağı kullanılarak %1$s kullanımı yasaklandı</string>
   <string name="five_percent_total_pkg">%s (5%% aylık mobil veriniz)</string>
@@ -94,6 +102,8 @@
   <string name="input_aviable_traffic">Mobil Veri limitini ayarlayın</string>
   <string name="input_traffic_pkg">Kullanılan verileri girin</string>
   <string name="input_used_hint">Kullanılan verileri girin</string>
+  <string name="international_roaming_setting">Uluslar arası dolaşım</string>
+  <string name="international_roaming_whitelist_count">%d uygulama dolaşımda iken veri servislerini kullanabilir</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Boş</string>
   <string name="lock_screen_traffic_warn_title">Mobil veri uyarıları</string>
@@ -167,6 +177,10 @@
   <string name="pref_add_traffic_pkg">Ayrıca satın alınan veri</string>
   <string name="pref_adjust_data_usage">Operatör mesaj deseni</string>
   <string name="pref_adjust_traffic_data">Veri kullanımını ayarla</string>
+  <string name="pref_allow_connect_network_summary">Uluslar arası dolaşımda veri servislerine bağlan</string>
+  <string name="pref_allow_connect_network_title">Uluslar arası veri dolaşımı</string>
+  <string name="pref_allow_connect_network_whitelist_summary">Uygulamalara veri servislerine bağlanması için izin verin</string>
+  <string name="pref_allow_connect_network_whitelist_title">İstisnalara izin ver</string>
   <string name="pref_app_traffic_managent">Uygulama için mobil veriyi kısıtla</string>
   <string name="pref_auto_adjust_settings">Oto-Senkronize ayarları</string>
   <string name="pref_auto_adjust_traffic">İstatistikleri senkronize et</string>
@@ -232,6 +246,7 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="pref_traffic_saving_whitelist_hint">"Uygulamalar grubunu seçmek için veri kısıtlamalarını kaldır"</string>
   <string name="pref_version">Versiyon %s</string>
   <string name="pref_warning_values">Mobil veri uyarı değeri</string>
+  <string name="pref_whitelist_setting">İstisnalar</string>
   <string name="privacy_declare_dialog_message">"Bu servisi kullandığınız zaman Opera\'nın Hizmet Şartlarını kabul etmiş olursunuz."</string>
   <string name="privacy_declare_dialog_title">Hizmet Şartları</string>
   <string name="privacy_prompt_purchase_history_message">"Telefon numaranız ve taşıyıcı detayları, mobil veri satın alma geçmişini almak için Xiaomi sunucularına yüklenecektir."</string>
@@ -244,6 +259,10 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="read_number">86 makale</string>
   <string name="read_unit">" makale"</string>
   <string name="right_precent">100%</string>
+  <string name="roaming_not_start_body">İstisnalar listesindeki uygulamalar, dolaşımda iken veri servislerine bağlanabilir</string>
+  <string name="roaming_not_start_title">Uluslar arası dolaşım</string>
+  <string name="roaming_start_body">İstisnalar listesindeki uygulamaların, dolaşımda iken veri servislerine bağlanmasına izin verin</string>
+  <string name="roaming_start_title">Uluslar arası dolaşım</string>
   <string name="sc_allow_network_dialog_message">Bu ağ bağlantısı uygulama erişimine izin vermek için gereklidir.</string>
   <string name="sc_allow_network_dialog_tiltle">Mobil veri tasarrufu kullanılamaz</string>
   <string name="setting_traffic_pkg">Mobil veri limitinizi ayarlayın</string>
@@ -257,6 +276,7 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="spinner_title">%1$s - Mobil veri: %2$s</string>
   <string name="stop_app_button">Dur</string>
   <string name="system_app">Sistem uygulaması</string>
+  <string name="tc_sms_report_toast_text">Bilgi alınıyor…</string>
   <string name="ten_percent_total_pkg">%s (10%% aylık mobil veri)</string>
   <string name="three_percent_total_pkg">%s (3%% of aylık mobil veri)</string>
   <string name="tips_dialog_title">Mobil veri limitini bilmiyor musun?</string>

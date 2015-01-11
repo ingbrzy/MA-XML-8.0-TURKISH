@@ -1396,6 +1396,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="screen">Ekran</string>
   <string name="screen_color_temperature">Renk sıcaklığını ayarla</string>
   <string name="screen_color_temperature_and_saturation">Renk sıcaklığı ve doygunluk</string>
+  <string name="screen_effect">Kontrast ve renkler</string>
   <string name="screen_key_long_press">Ekran tuşlarına uzun basma ayarları</string>
   <string name="screen_key_long_press_action">Tetik fonksiyonu</string>
   <string name="screen_key_long_press_timeout">Uzun basma süresi</string>
@@ -1403,6 +1404,11 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="screen_never_timeout_title">Hiç bir zaman</string>
   <string name="screen_on_proximity_sensor_summary"/>
   <string name="screen_on_proximity_sensor_title">Telefonu cepte taşıma modu</string>
+  <string name="screen_optimize">Kontrast</string>
+  <string name="screen_paper_mode_summary">Uzun süreli okuma, Blu-ray zarar azaltma etkinleştirildiğinde</string>
+  <string name="screen_paper_mode_title">Okuma modu</string>
+  <string name="screen_paper_mode_turn_off">Kapalı</string>
+  <string name="screen_paper_mode_turn_on">Açık</string>
   <string name="screen_saturation">Renk doygunluğunu ayarla</string>
   <string name="screen_timeout">Uyku modu süresi</string>
   <string name="screen_timeout_summary">%1$s sonra ekranı kapatır</string>
@@ -1923,6 +1929,8 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_context_menu_forget">Ağı unut</string>
   <string name="wifi_disabled_generic">Kapalı</string>
   <string name="wifi_disabled_help">Zayıf bağlantı nedeniyle ağ kullanılmadı. Ayarlar &gt; Wi-Fi Gösterimi, Gelişmiş menü öğesi ile bu davranışı kapatın.</string>
+  <string name="wifi_disconnected_notification_summary">Diğer Wi-Fi bağlantısını deniyor</string>
+  <string name="wifi_disconnected_notification_title">Wi-Fi bağlantısı kesildi</string>
   <string name="wifi_display_certification">Kablosuz ekran sertifikası</string>
   <string name="wifi_display_certification_heading">Sertifikasyon</string>
   <string name="wifi_display_certification_summary">Kablosuz ekran sertifikası ayarlarını göster</string>

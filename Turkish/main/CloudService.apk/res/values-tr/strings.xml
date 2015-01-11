@@ -56,6 +56,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="find_device_notice_p3">"Telefonunuzu bulmak, kilitlemek ve yeniden yüklemek için...
   Eğer SIM kart değiştirirseniz, yeni bir SMS gönderilecektir."</string>
   <string name="find_device_send_sms_alert">SIM kartı değiştirirseniz, başka bir SMS bu hizmeti yeniden etkinleştirmek için otomatik olarak gönderilir.</string>
+  <string name="find_device_status_ok">i.mi.com ile her yerden cihazınıza ulaşabilirsiniz...</string>
   <string name="find_device_stop_noise">Sessize almak için Tamam\'a basın</string>
   <string name="find_device_success_title">CİHAZIMI BUL</string>
   <string name="finish">TAMAM</string>
@@ -129,6 +130,12 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_more">Daha fazla bilgi</string>
   <string name="micloud_proceed">Devam</string>
   <string name="micloud_sec_dspt">ve arkadaşlarınızla paylaşın.</string>
+  <string name="micloud_setting_browser_summary">Yer imleri ve geçmiş</string>
+  <string name="micloud_setting_contact_summary">Kişi bilgileri ve profil fotoğrafları</string>
+  <string name="micloud_setting_gallery_summary">Fotoğraflar ve videolar</string>
+  <string name="micloud_setting_music_summary">Oynatma listensi ve favoriler</string>
+  <string name="micloud_setting_sms_summary">SMS ve MMS mesajları</string>
+  <string name="micloud_setting_wifi_summary">Wi-Fi Ayarları</string>
   <string name="micloud_space_full_influence">Kullanım alanım bitince ne yapacağım?</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Aboneliğinizi yenilemeniz gerekmektedir.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Aboneliğinizi yenilemeniz gerekmektedir.</string>
@@ -155,6 +162,7 @@ Kullanılan: %s | Kalan: %s "</string>
 
 Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="mx_dspt_provision_privacy">"Bu hizmet telefon numaranızı isteyebilir. Operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı ücreti alabilir.
+  
   Bu özellik, şifreleri ve cihazınızın kimliğini Mi sunucularına yükler."</string>
   <string name="mx_sub_dspt_provision">Mi Mesaj</string>
   <string name="next">İleri</string>
@@ -184,7 +192,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="sub_sync_item_sms_summary">"Bir Wi-Fi ağına bağlandığınız da sadece resim, foto, ses gibi medya dosyaları senkronize edilecektir"</string>
   <string name="sub_sync_item_sms_title_wifi_only">MMS senkronize için yalnızca Wi-Fi kullan</string>
   <string name="sync_dspt">Senkronizasyonu etkinleştir</string>
-  <string name="sync_dspt_entrance_provision">Fotoğraflarınızı, kişilerinizi ve verilerinizi senkronize edin.</string>
+  <string name="sync_dspt_entrance_provision">"Fotoğraflarınızı, kişilerinizi ve verilerinizi senkronize edin."</string>
   <string name="sync_dspt_entrance_provision_2">Daha fazlasını öğren</string>
   <string name="sync_dspt_provision">"Mi Bulut; fotoğraflarınızı, SMS, notlar ve daha fazlasını  Mi Telefonunuz ile senkronize eder. Ayrıca herhangi bir tarayıcıdan bu verilere erişebilirsiniz. "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
@@ -197,7 +205,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="sync_item_sms_title">Mesajları senkronize et</string>
   <string name="sync_off">Kapalı</string>
   <string name="sync_on">Açık</string>
-  <string name="sync_resend_sms_dspt_provision">. SIM kartınızı değiştirirseniz, operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı için ücret alabilir.</string>
+  <string name="sync_resend_sms_dspt_provision">" SIM kartınızı değiştirirseniz, operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı için ücret alabilir."</string>
   <string name="sync_setting">Mobil veri kullanımı</string>
   <string name="sync_standard">SMS ve arama geçmişi</string>
   <string name="sync_sub_1_intl_sms">Hesabınızı SIM kartınıza bağlamak için ulusararası ve yurt içi SMS gönderilecektir. Operatör tarafından ek ücrete tabi tutulabilirsiniz.</string>

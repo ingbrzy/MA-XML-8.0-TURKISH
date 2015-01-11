@@ -134,6 +134,7 @@
   <string name="account_setup_names_user_name_empty_error">"Bu alan boş olamaz."</string>
   <string name="account_setup_names_user_name_label">Adınız (giden postalarda görüntülenecek)</string>
   <string name="account_setup_need_password_verification">Hesabınız için ikincil şifre açıldı, kimlik doğrulaması gerekmektedir</string>
+  <string name="account_setup_not_disturb_title">DND modu</string>
   <string name="account_setup_options_background_attachments_label">Wi-Fi bağlandığında ekleri  otomatik indir</string>
   <string name="account_setup_options_headline">Hesap ayarları</string>
   <string name="account_setup_options_mail_check_frequency_10min">Her 10 dakikada</string>
@@ -267,6 +268,7 @@
   <string name="change_account_type">Hesap türünü değiştir</string>
   <string name="change_folders_selection_dialog_title">Klasörleri değiştir</string>
   <string name="change_sync_settings">Senk ayarlarını değiştir</string>
+  <string name="changepw_dialog_tips">Lütfen \"%s\" şifresini tekrar girin</string>
   <string name="chat_item_msg_people_unit">Kişi</string>
   <string name="chat_item_msg_user_etc">…</string>
   <string name="chat_item_msg_user_saying">söyledi:</string>
@@ -290,12 +292,12 @@
   <string name="compose_sent">Mesaj gönderildi</string>
   <string name="confirm">Tamam</string>
   <string name="confirm_delete">Bu postayı silmek istiyor musunuz ?</string>
+  <string name="confirm_delete_conversation_title">Sil</string>
   <string name="confirm_discard_text">Bu mesaj silinsin mi?</string>
   <string name="confirm_response">Yanıt gönderiliyor…</string>
   <string name="confirm_save_message_no">Hayır</string>
   <string name="confirm_save_message_title">Mesaj kaydedilsin mi?</string>
   <string name="confirm_save_message_yes">Evet</string>
-  <string name="confirm_send_message">Mesaj gönderilsin mi?</string>
   <string name="confirm_send_message_with_no_body">"Mesajda herhangi bir metin yok."</string>
   <string name="confirm_send_message_with_no_subject">"Mesaj başlığında herhangi bir metin yok."</string>
   <string name="confirm_send_title">Mesaj gönderilsin mi?</string>
@@ -348,15 +350,21 @@
   <string name="dismiss_tip_hover_text">Yoksayma ip ucu</string>
   <string name="done">Tamam</string>
   <string name="done_action">Tamam</string>
+  <string name="donot_disturb_endtime_title">Kime</string>
+  <string name="donot_disturb_starttime_title">Kimden</string>
+  <string name="donot_disturb_summary">Telefonunuz ayarladığını süre boyunca yeni mesaj almaz ve bildirim ile uyarmaz...</string>
+  <string name="donot_disturb_title">Gece içi DND modu</string>
   <string name="donot_download">Geçici olarak indir</string>
   <string name="donot_upgrade">Yeni sürüme yükseltme</string>
   <string name="downlaod_cancel_confirm_download">İndirmeyi iptal et</string>
   <string name="downlaod_cancel_continue_download">İptal</string>
   <string name="downlaod_confirm_download">İndir</string>
   <string name="downlaod_nonWifi_confirm_message">Dosya mobil veri ile indirilsin mi?</string>
+  <string name="downlaod_nonWifi_confirm_title">Bu ek indirilsin mi?</string>
   <string name="download_again">Tekrar indir</string>
   <string name="download_before_sharing">" Henüz indirilmemiş, paylaşmadan önce, lütfen indirin!"</string>
-  <string name="download_cancel_confirm_title">İndirmeyi iptal etmek istiyor musunuz?</string>
+  <string name="download_cancel_confirm_message">İndirme işlemi durdurulacak</string>
+  <string name="download_cancel_confirm_title">Bu eki indir</string>
   <string name="download_complete_message">Yeni deneyim için güncellemeye hemen tıklayın！</string>
   <string name="download_complete_not_cancel">İndirme tamamlandı</string>
   <string name="download_complete_title">İndirme tamamlandı</string>
@@ -467,6 +475,7 @@
   <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
   <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">%s adresi geçersiz.</string>
+  <string name="invalid_recipient_title">Alıcı hatası !</string>
   <string name="kilobytes">%s KB</string>
   <string name="label_giftcard">Hediye Çeki:</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
@@ -566,7 +575,6 @@ CC: %4$s
   <string name="more_atts_remaining">%1$d ek kaldı</string>
   <string name="more_atts_total">Toplam %1$d ek</string>
   <string name="more_context">Daha</string>
-  <string name="more_info_attachment">Bilgi</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Başka klasöre taşındı</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
@@ -581,6 +589,7 @@ CC: %4$s
   <string name="next_not_prompt">"Sorma"</string>
   <string name="no">Hayır</string>
   <string name="no_application_found">Bu dosyayı açacak ya da görüntüleyecek uygulama yok.</string>
+  <string name="no_application_found_title">Eki aç</string>
   <string name="no_content_in_body">[İçerik yok]</string>
   <string name="no_conversations">Mesaj yok.</string>
   <string name="no_display_this_version">Bu sürümü gösterme</string>
@@ -720,8 +729,8 @@ CC: %4$s
   <string name="quoted_text_label">Alıntı metni</string>
   <string name="read_string">Sohbet okundu</string>
   <string name="recent_folders_heading">Favori klasörler</string>
-  <string name="recipient_error_dialog_title">Alıcı hatası!</string>
   <string name="recipient_needed">En az bir alıcı ekleyin.</string>
+  <string name="recipient_needed_title">Uyarı</string>
   <string name="recipient_null_dialog_title">Uyarı</string>
   <string name="refresh">Yenile</string>
   <string name="refreshing">Yenileniyor…</string>
@@ -732,6 +741,7 @@ CC: %4$s
   <string name="remote_search_result">Sunucuda %s e-posta bulundu</string>
   <string name="remove_account">Hesabı kaldır</string>
   <string name="remove_account_confirm">\"%1$s\" hesabı WPSMail\'den  silinecek.</string>
+  <string name="remove_account_confirm_title">Hesabı sil</string>
   <string name="remove_folder">%1$s\'den kaldır</string>
   <string name="remove_star">Yıldızı kaldır</string>
   <string name="reply">Cevapla</string>
