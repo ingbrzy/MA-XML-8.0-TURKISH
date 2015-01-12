@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_to_whitelist_button">İzinleri yönet</string>
+  <string name="add_to_whitelist_button">İstisnaları yönet</string>
   <string name="add_white_list">Ekle</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Bir ay önce güncellendi</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Bir hafta önce güncellendi</string>
@@ -9,7 +9,7 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">2 gün önce güncellendi</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Dün güncellendi: %s</string>
   <string name="adjust_traffic_data">Kullanılan verileri giriniz</string>
-  <string name="alter_dialog_message">Uluslar arası dolaşımda veri servslerine bağlanmanız kullanım ücretlerini önemli ölçüde arttırabilir.</string>
+  <string name="alter_dialog_message">Uluslar arası dolaşımda veri servislerine bağlanmanız kullanım ücretlerini önemli ölçüde arttırabilir. İstisnalar listesindeki uygulamaların veri servislerine bağlanmasına izin vermek istiyor musunuz?</string>
   <string name="app_detail">Ayrıntılar</string>
   <string name="app_mobile">Veri</string>
   <string name="app_name">Veri kullanımı</string>

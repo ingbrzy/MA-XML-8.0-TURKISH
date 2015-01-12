@@ -365,10 +365,10 @@
   <string name="international_roaming_setting">Uluslar arası dolaşım</string>
   <string name="internet_phone">İnternet çağrısı</string>
   <string name="invalid_password">Şifreyi girin</string>
-  <string name="invalid_pin">PIN kodu yanlış, Tekrar girin.</string>
-  <string name="invalid_pin2">PIN2 kodu yanlış, Tekrar girin.</string>
-  <string name="invalid_puk">PUK kodu yanlış, Tekrar girin.</string>
-  <string name="invalid_puk2">PUK2 kodu yanlış, Tekrar girin.</string>
+  <string name="invalid_pin">PIN kodu yanlış, tekrar deneyin!</string>
+  <string name="invalid_pin2">PIN2 kodu yanlış, tekrar deneyin!</string>
+  <string name="invalid_puk">PUK kodu yanlış, tekrar deneyin!</string>
+  <string name="invalid_puk2">PUK2 kodu yanlış, tekrar deneyin!</string>
   <string name="labelCDMAMore">CDMA çağrı ayarları</string>
   <string name="labelCF">Çağrı yönlendirme</string>
   <string name="labelCFB">Meşgulse yönlendir</string>

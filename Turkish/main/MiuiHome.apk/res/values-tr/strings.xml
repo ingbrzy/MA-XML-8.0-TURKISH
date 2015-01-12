@@ -38,10 +38,10 @@
   <string name="disable_auto_start_message">Açılışta otomatik başlatmayı devre dışı bırak.</string>
   <string name="disable_wallpaper_scroll">Duvar kağıdını kaydırmayı kapat</string>
   <string name="edit_folder_title">"Klasör ismini düzenle"</string>
-  <string name="editing_add_widget_tips">Widget\'leri düzenle</string>
+  <string name="editing_add_widget_tips">Widgetleri düzenle</string>
   <string name="editing_mode_enter_tip_text">Ana ekranı düzenlemek için iki parmağınızla sıkıştırın</string>
-  <string name="editing_mode_title">%1$d öğe seçildi</string>
-  <string name="editing_mode_title_empty">Öğeleri seç</string>
+  <string name="editing_mode_title">%1$d öğe seçtiniz</string>
+  <string name="editing_mode_title_empty">0 oğe seçtiniz</string>
   <string name="editing_set_transition_effect_tips">Ekranlar arası geçiş efektini seç</string>
   <string name="editing_set_wallpaper_tips">Duvar kağıdı seç</string>
   <string name="editing_tips">Ana Ekranı Düzenle</string>
@@ -77,7 +77,7 @@
   <string name="gadget_clock_label">Saat</string>
   <string name="gadget_error_text">"Widget yüklenmesi sırasında bir sorun oluştu"</string>
   <string name="gadget_google_search_label">Google Arama</string>
-  <string name="gadget_load_error">Widget yükleniyor...</string>
+  <string name="gadget_load_error">Widget yüklenemiyor!</string>
   <string name="gadget_mtz_label">Mi Araçları</string>
   <string name="gadget_notes_label">Notlar</string>
   <string name="gadget_photo_22_label">Resim 2x2</string>
@@ -107,7 +107,7 @@
   <string name="guide_tips_editing_mode">Bir widget seçmek için dokunun ve basılı tutun</string>
   <string name="install">Yükle</string>
   <string name="invalid_contact_shortcut">Geçersiz kişi</string>
-  <string name="is_setting_wallpaper_toast">Duvar kağıdı aarlanıyor…</string>
+  <string name="is_setting_wallpaper_toast">Duvar kağıdınız ayarlanıyor…</string>
   <string name="is_system_wallpaper_message">"Sistem kaynakları silinemez!"</string>
   <string name="loading_desktop">Miui Başlatıcı Yükleniyor...</string>
   <string name="local_wallpaper">Yerel</string>
@@ -127,7 +127,7 @@
   <string name="menu_sort">Uygulamaları Sırala</string>
   <string name="menu_wallpaper">Duvar kağıdı</string>
   <string name="menu_workspace_preview">Ana Ekranları Önizle</string>
-  <string name="mi_wallpaper">MIUI Duvar kağıtları</string>
+  <string name="mi_wallpaper">MIUI Tema Mağazası</string>
   <string name="multi_selecting_tips">Seçmek için, uygulamanın ikonuna dokunun</string>
   <string name="online_wallpaper">İnternet</string>
   <string name="out_of_space">EKRANDA YETERLİ ALAN YOK !</string>
@@ -148,7 +148,7 @@
   <string name="pref_enable_drawing_cache_summary">Daha fazla hafıza için bu özelliği kapatın. Telefonunuzun yavaş çalışmasına sebep olabilir.</string>
   <string name="pref_enable_drawing_cache_title">Çekmece önbelleği</string>
   <string name="pref_icon_shadow_summary">Uygulama ikon gölgelerini ve sık kullanılanların yansıma efektlerini açın</string>
-  <string name="pref_icon_shadow_title">Uygulama İkon Gölgeleri</string>
+  <string name="pref_icon_shadow_title">Simgelerin gölgesini göster</string>
   <string name="pref_keep_in_memory_summary">Hafıza düşük olsa bile Başlatıcı\'nın çalışmasına engel olma</string>
   <string name="pref_keep_in_memory_title">Hafızada Sakla</string>
   <string name="pref_keep_layout_summary">"Ana ekranınızın düzenini değiştirmek, uygulamaların birbirlerine göre olan konumlarını değiştirmez"</string>
@@ -163,7 +163,7 @@
   <string name="scroll_tip_format_when_announce_accessibility">%1$d sayfa, %2$d uygulama</string>
   <string name="select_frame">Çerçeve</string>
   <string name="select_photo">Resim</string>
-  <string name="setting_wallpaper_tip">Taşı veya boyutlandır</string>
+  <string name="setting_wallpaper_tip">Ayarlamak için kaydırın yada çimdik hareketi yapın</string>
   <string name="settings_shortcut">"Ayarlar"</string>
   <string name="show_all">Tümünü göster</string>
   <string name="sort_by_abc">İsme göre sırala</string>
@@ -190,7 +190,7 @@
   <string name="transformation_type_stack">Kademeli</string>
   <string name="uninstall">SİL</string>
   <string name="uninstall_dialog_message">Uygulamaya ilişkin tüm bilgiler silecek !</string>
-  <string name="uninstall_dialog_title_format">%s kaldır</string>
+  <string name="uninstall_dialog_title_format">%s kaldırılsın mı?</string>
   <string name="uninstall_dialog_title_multi_format" formatted="false">%s ve diğer %d uygulama kaldırılılsın mı?</string>
   <string name="uninstall_result_failed">"%s kaldırılamadı!"</string>
   <string name="uninstall_result_multi_succeeded">%1$d uygulama kaldırıldı</string>

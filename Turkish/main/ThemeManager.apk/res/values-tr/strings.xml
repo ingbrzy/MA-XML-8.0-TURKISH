@@ -80,8 +80,8 @@
   <string name="menu_item_show_more">Daha fazla göster</string>
   <string name="mi_wallpaper">MIUI Duvar Kağıtları</string>
   <string name="my_gifts">Hediyeler</string>
-  <string name="my_gifts_purchased">Satın alnan</string>
-  <string name="my_gifts_received">Alınan</string>
+  <string name="my_gifts_purchased">Satın alınan</string>
+  <string name="my_gifts_received">Teslim alınan</string>
   <string name="online_no_network">"Ağ bağlantısı yok!"</string>
   <string name="online_resource_entry">Çevrimiçi kaynaklar</string>
   <string name="payment_info">Mi Kredisi</string>
@@ -184,7 +184,7 @@
   <string name="resource_get_auth_exceed_max_limit_tips">Tema bu cihazda çalışmaz. Xiaomi hesabınız maksimuma ulaştı.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Yetkilendirme sınırına ulaşıldı!</string>
   <string name="resource_get_auth_has_been_undercarriaged">Bu tema artık mevcut değil !</string>
-  <string name="resource_get_auth_not_official">! Üçüncü taraf kaynakların temalar desteklenmez !</string>
+  <string name="resource_get_auth_not_official">! Üçüncü taraf kaynakların temaları desteklenmez !</string>
   <string name="resource_get_auth_retrieving">Yetki alınıyor...</string>
   <string name="resource_has_been_downloaded">"Bu tema zaten indirilmiş."</string>
   <string name="resource_import_successful">İndirme tamamlandı</string>
@@ -194,7 +194,7 @@
   <string name="resource_menu_refresh">Yenile</string>
   <string name="resource_mute">Yok</string>
   <string name="resource_my">Yerel</string>
-  <string name="resource_no_match_app">Bu eylemi gerçekleştirecek uygulama bulunmadı!</string>
+  <string name="resource_no_match_app">Bu eylemi gerçekleştirecek uygulama bulunamadı!</string>
   <string name="resource_no_network_text">"Ağ bağlantısı yok !"</string>
   <string name="resource_no_result">Sonuç bulunamadı!</string>
   <string name="resource_notification_default">Bildirimler</string>
