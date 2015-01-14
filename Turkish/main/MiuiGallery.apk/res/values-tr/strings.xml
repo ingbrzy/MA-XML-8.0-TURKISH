@@ -63,6 +63,8 @@
   <string name="auto_upload_tip">Etkinleştirdikten sonra aynı isimde albüm oluşturulur. Aynı isimde var olan albümler birleştirilecektir.</string>
   <string name="auto_upload_guide">Fotoğraflarınızı ve diğer uygulamalarınızı Mi Buluta otomatik yükleyin.</string>
   <string name="auto_upload_setting_toast">Mi Bulut ayarlarında bu özellik için ek seçenekleri bulabilirsiniz.</string>
+  <string name="auto_upload_guide_msssage">Fotoğraflarınızı ve diğer uygulamalarınızı Mi Buluta otomatik yükleyin. </string>
+  <string name="auto_upload_guide_title">Otomatik güncelle</string>
   <string name="auto_upload_title">Otomatik yükle</string>
   <string name="autofix">Oto Düzelt</string>
   <string name="autohomemain">Autohomemain</string>
@@ -349,7 +351,6 @@
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="new_device_tips">"Cihazı örüntülemek için dokunun
   "</string>
-  <string name="new_feature">Yeni özellik</string>
   <string name="no">Hayır</string>
   <string name="no_albums_alert">Uygun albüm bulunamadı</string>
   <string name="no_connectivity">Bazı konumlar şebeke sorunları sebebiyle tanımlanamıyor</string>

@@ -1173,9 +1173,9 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Sahip Bilgileri</string>
   <string name="page_layout_1">Sun 16/08</string>
-  <string name="page_layout_10">Haberler</string>
-  <string name="page_layout_11">Güvenlik</string>
-  <string name="page_layout_12">Ayarlar</string>
+  <string name="page_layout_10">Ayarlar</string>
+  <string name="page_layout_11">Hava</string>
+  <string name="page_layout_12">Güvenlik</string>
   <string name="page_layout_13">Araçlar</string>
   <string name="page_layout_14">Oyunlar</string>
   <string name="page_layout_15">Uygulamalar</string>
@@ -1199,10 +1199,10 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="page_layout_31">Chartte Yvon</string>
   <string name="page_layout_4">Müzik</string>
   <string name="page_layout_5">Video</string>
-  <string name="page_layout_6">Hava durumu</string>
-  <string name="page_layout_7">Notlar</string>
-  <string name="page_layout_8">Takvim</string>
-  <string name="page_layout_9">Posta</string>
+  <string name="page_layout_6">Uygulamalar</string>
+  <string name="page_layout_7">Oyunlar</string>
+  <string name="page_layout_8">Mi yaşam</string>
+  <string name="page_layout_9">Temalar</string>
   <string name="page_layout_confirm_message">"Değişikliklerin uygulanması için cihazınızın tekrar başlatılması gerekiyor. Bu işlem birkaç dakika alabilir."</string>
   <string name="page_layout_confirm_title">Ekran ölçüsünü değiştir</string>
   <string name="passwordIncorrect">Girdiğiniz şifre hatalı</string>
@@ -1405,6 +1405,8 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="screen_on_proximity_sensor_summary"/>
   <string name="screen_on_proximity_sensor_title">Telefonu cepte taşıma modu</string>
   <string name="screen_optimize">Kontrast</string>
+  <string name="screen_paper_mode_apps_title">Bu uygulama için Okuma Modunu kullan</string>
+  <string name="screen_paper_mode_off_apps_title">"Aşağıdaki uygulamalar için Okuma modunu kullanma "</string>
   <string name="screen_paper_mode_summary">Ekranın arkaplan parlaklığı azaltılır.</string>
   <string name="screen_paper_mode_title">Okuma modu</string>
   <string name="screen_paper_mode_turn_off">Kapat</string>

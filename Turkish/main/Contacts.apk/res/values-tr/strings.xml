@@ -671,6 +671,9 @@
   <string name="profile_display_name">Profilimi ayarla</string>
   <string name="profile_name">Profilim</string>
   <string name="profile_name_photo">Ben</string>
+  <string name="pull_to_refresh_pull_label">Yenilemek için çekin…</string>
+  <string name="pull_to_refresh_refreshing_label">Yükleniyor…</string>
+  <string name="pull_to_refresh_release_label">Yenilemek için bırakın…</string>
   <string name="qr_card_card">QR Kodu</string>
   <string name="qrcode_card_title">QR Kodu</string>
   <string name="quickcontact_missing_app">Bu eylemi işlemek için uygulama bulunamadı</string>
@@ -910,6 +913,7 @@
   <string name="yellowpage_navigation_send_to_desktop_downloading">İkon indirliyor...</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"Ağ konumu hizmeti etkin"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Ana ekrana eklendi</string>
+  <string name="yellowpage_search_the_yellowpage">Dizinde ara</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Öğeleri seç</string>
 </resources>

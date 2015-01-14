@@ -7,6 +7,7 @@
   <string name="action_item_add_to_new_playlist">Yeni</string>
   <string name="action_item_delete">Sil</string>
   <string name="action_item_download">İndir</string>
+  <string name="action_item_hide">Gizle</string>
   <string name="action_item_remove">Kaldır</string>
   <string name="action_item_send">Gönder</string>
   <string name="add_music">Şarkı ekle</string>
@@ -126,6 +127,8 @@
   <string name="filter_by_duration_min">0 san</string>
   <string name="filter_by_duration_prefix">"Minimum süre: "</string>
   <string name="filter_by_duration_summary">"Kısa ses dosyaları gösterilmez"</string>
+  <string name="filter_by_folder">Klasöre göre</string>
+  <string name="filter_by_folder_summary">Gösterilecek klasörü seçin</string>
   <string name="filter_by_size">Boyuta göre</string>
   <string name="filter_by_size_max">2MB</string>
   <string name="filter_by_size_min">0KB</string>
@@ -231,6 +234,7 @@
   <string name="search_title_song">Şarkı</string>
   <string name="select_album">Albümü seçin</string>
   <string name="select_device">Bir cihaz seçin</string>
+  <string name="select_displayed_folders">Gösterilecek klasörleri seçin</string>
   <string name="select_local_album">Yerel Albümü Seçin</string>
   <string name="select_local_lyric">Yerel Şarkı Sözünü Seçin</string>
   <string name="select_lyric">Şarkı Sözünü Seçin</string>

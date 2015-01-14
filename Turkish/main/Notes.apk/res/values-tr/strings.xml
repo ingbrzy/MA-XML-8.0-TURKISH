@@ -33,6 +33,7 @@
   <string name="format_move_notes_to_folder">%1$d notu %2$s klasörüne taşındı</string>
   <string name="hint_foler_name">İsim</string>
   <string name="info_note_enter_desktop">Ana ekrana eklendi</string>
+  <string name="loading_text">Yükleniyor...</string>
   <string name="login_sync">Giriş ve Senkronize</string>
   <string name="menu_create_folder">Yeni Klasör</string>
   <string name="menu_delete">Sil</string>
@@ -88,6 +89,7 @@
   <string name="sns_toast_over_limit">Resim olarak gönderildi (Metin limiti üstünde)</string>
   <string name="toast_folder_privacy_mode">Misafir modunda klasörler düzenlenemez</string>
   <string name="toast_message_add_image_fail">Resim eklenemedi</string>
+  <string name="toast_message_add_text_warn">"Bu dosya türü desteklenmiyor!"</string>
   <string name="toast_reach_text_limit_attachment">Notun içeriği yeni ek eklemek için çok uzun</string>
   <string name="toast_reach_text_limit_truncate">Notun içeriği kesildi çünkü çok uzun.</string>
   <string name="undo">Geri al</string>

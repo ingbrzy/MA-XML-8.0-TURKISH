@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth cihazı kilit açılması için çok uzak.</string>
+  <string name="click_to_enter_text">KİLİDİ AÇMAK İÇİN DOKUNUN</string>
   <string name="confirm_pin_msg">PIN kodunu tekrar girin</string>
   <string name="contact_carrier_message">Eğer herhangi bir sorunuz varsa, lütfen şebeke operatörünüze danışın.</string>
   <string name="default_lockscreen_unlock_hint_text">KİLİDİ AÇMAK İÇİN YUKARI KAYDIRIN</string>
@@ -65,6 +66,8 @@ EEEE"</string>
   <string name="missed_call_text">%d CEVAPSIZ ÇAĞRINIZ VAR</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ile kilit kaldırıldı</string>
   <string name="miui_unlockscreen_password_wrong">Tekrar deneyin:</string>
+  <string name="open_camera_hint_text">Kamerayı açmak için sola kaydırın</string>
+  <string name="open_remote_center_hint_text">Mi Kumanda için sağa kaydırın</string>
   <string name="open_wifi_settings">Ağ Bağlantısını Açın</string>
   <string name="phone_locked_string">! TELEFON KİLİTLENDİ !</string>
   <string name="phone_locked_timeout_minutes_string">%s dakika sonra tekrar deneyin</string>

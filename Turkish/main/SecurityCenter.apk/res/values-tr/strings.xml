@@ -136,6 +136,7 @@
   <string name="clean_content_three">Atla %s</string>
   <string name="clean_content_two">%1$s ve%2$s</string>
   <string name="clean_content_zero">"Temizlik yapma"</string>
+  <string name="confirm_auto_cleaner">Tamam</string>
   <string name="cta_button_text_agree">Tamam</string>
   <string name="cta_button_text_cancel">İptal</string>
   <string name="cta_checkbox_title">"Tekrar gösterme"</string>
@@ -382,6 +383,7 @@
   <string name="permission_send_sms_descx">Uygulamalar SMS ve MMS gönderebilir</string>
   <string name="permission_with_SMS_and_MMS">SMS ve MMS ile ilgili İzinler</string>
   <string name="permission_with_call_and_contact">Telefon görüşmeleri, kişi bilgileri ve çağrı logları ile ilgili izinler.</string>
+  <string name="positive_confirm">Tamam</string>
   <string name="power_20s_enter_mode">Pil %1$ds ise şu moda geç: %2$s</string>
   <string name="power_20s_shutdown">Telefonunuz 20 saniye içinde kapanacak</string>
   <string name="power_apply_toast">%s moduna geçildi</string>
@@ -609,10 +611,13 @@
   <string name="suffix_virus_count_top">Risk</string>
   <string name="summary_antivirus">Online virüs tanımlarını kullanarak uygulama isimlerini ve bilgilerini tara</string>
   <string name="summary_antivirus_oversea">Virüs tanımlarını otomatik güncelle</string>
+  <string name="summary_auto_cleaner">Her 3 günde bir otomatik temizleme yapmak istiyor musunuz?</string>
   <string name="summary_cleaner_cloudscan">Online tanımlarını kullanarak bilinmeyen dosya adlarını karşılaştır</string>
   <string name="summary_cloud_account">Get the most out of your Mi device</string>
   <string name="summary_cloud_service">Cihazınızdaki fotoğraflar, kişiler ve tüm verileri senkronize edin</string>
   <string name="summary_data_flow">"Operatörünüzün aylık veri limitini geçmemeye dikkat edin"</string>
+  <string name="summary_delete_cache">Seçtiğiniz önbellek verilerini silmek istiyor musunuz?</string>
+  <string name="summary_delete_large_file">Seçtiğiniz dosyaları silmek istiyor musunuz?</string>
   <string name="summary_dev">Uygulamaların kullanıcı bilgilerine erişimini engelle</string>
   <string name="summary_flow_notification">Bildirim alanında aylık veri kullanım istatistiklerini göster</string>
   <string name="summary_flow_purchase_beyond">"Aylık veri limitini %sMB aştınız!"</string>
@@ -644,12 +649,15 @@
   <string name="title_app_update">Yeni güncellemeler var</string>
   <string name="title_app_update_no">%d güncelleme bulundu</string>
   <string name="title_app_update_yes">"Tüm uygulamalar güncel!"</string>
+  <string name="title_auto_cleaner">Otomatik temizle</string>
   <string name="title_cleaner_cloudscan">Klasör adlarını yükle</string>
   <string name="title_cloud_account">Mi Hesabı</string>
   <string name="title_cloud_service">Mi Bulut</string>
   <string name="title_data_flow">Veri kullanım uyarısını ayarla</string>
   <string name="title_data_flow_no">Veri kullanımı monitörü kapalı</string>
   <string name="title_data_flow_yes">Veri kullanımı monitörü açık</string>
+  <string name="title_delete_cache">Önbellek verilerini sil</string>
+  <string name="title_delete_large_file">Büyük dosyaları sil</string>
   <string name="title_dev_no">Geliştirici seçenekleri açık</string>
   <string name="title_dev_yes">Geliştirici seçenekleri kapalı</string>
   <string name="title_flow_notification">Veri kullanım raporu</string>

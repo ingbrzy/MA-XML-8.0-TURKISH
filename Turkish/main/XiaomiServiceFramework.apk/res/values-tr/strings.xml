@@ -84,5 +84,7 @@
 Cihaz Kimliği geçerli IMEI veya MAC adresi olmalıdır. Cihaz ID olmadan bazı hesap ve Bulut hizmetleri kullanılamaz."</string>
   <string name="error_device_id_title">"Geçerli Cihaz ID alınamıyor"</string>
   <string name="sim_unactivated_title">SIM kartınız aktif değil!</string>
+  <string name="sync_notification_title_format">Senkronize edilen öğeler: %1$s</string>
+  <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xmsf_activate_info">XMSF etkinleştirme bilgisi</string>
 </resources>

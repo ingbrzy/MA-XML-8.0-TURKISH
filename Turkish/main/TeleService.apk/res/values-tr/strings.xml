@@ -618,7 +618,8 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="preferred_network_type_3g_only_warning">"Sadece 3G şebekesini seçtiniz, SIM kartınızın 3G desteği yoksa telefon sinyal alamaz! Devam etmek istiyor musunuz?"</string>
   <string name="preferred_network_type_cdma">CDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">3G Öncelikli Şebeke</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred">4G Öncelikli şebeke</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred">4G Öncelikli şebeke (LTE)</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G Öncelikli şebeke (CDMA)</string>
   <string name="preferred_network_type_pref_entries_auto">Otomatik</string>
   <string name="preferred_network_type_pref_entries_global">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g">Sadece 2G (Pil tasarrufu sağlar)</string>

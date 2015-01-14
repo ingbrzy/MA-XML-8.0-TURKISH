@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="already_deleted">(silinmiş)</string>
+  <string name="already_deleted">%s(silinmiş)</string>
   <string name="already_disable_backup">Yedekleme bu cihaz için zaten devre dışı</string>
   <string name="already_enable_backup">Yedekleme bu cihaz için zaten etkin</string>
   <string name="app_installed">Yüklendi</string>
