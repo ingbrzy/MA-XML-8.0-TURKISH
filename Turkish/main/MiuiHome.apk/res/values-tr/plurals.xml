@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <plurals name="editing_mode_title">
-	<item quantity="other">%1$d öğe seçildi</item>
-	<item quantity="zero">%1$d öğe seçildi</item>
-	<item quantity="one">%1$d öğe seçildi</item>
-	<item quantity="two">%1$d öğe seçildi</item>
-	<item quantity="few">%1$d öğe seçildi</item>
-	<item quantity="many">%1$d öğe seçildi</item>
+	<item quantity="other">%1$d öğe seçtiniz</item>
+	<item quantity="zero">%1$d öğe seçtiniz</item>
+	<item quantity="one">%1$d öğe seçtiniz</item>
+	<item quantity="two">%1$d öğe seçtiniz</item>
+	<item quantity="few">%1$d öğe seçtiniz</item>
+	<item quantity="many">%1$d öğe seçtiniz</item>
 	</plurals>
 <plurals name="uninstall_dialog_title_format">
 	<item quantity="other">%1$s ve diğer %2$d uygulama kaldırılsın mı?</item>

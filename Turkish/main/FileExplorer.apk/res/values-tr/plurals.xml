@@ -41,11 +41,11 @@
 	<item quantity="many">Kalan yükleme dosyası: %1$d</item>
 </plurals>
 <plurals name="numSelectedFile">
-	<item quantity="other">%1$d öğe seçildi</item>
-	<item quantity="zero">%1$d öğe seçildi</item>
-	<item quantity="one">%1$d öğe seçildi</item>
-	<item quantity="two">%1$d öğe seçildi</item>
-	<item quantity="few">%1$d öğe seçildi</item>
-	<item quantity="many">%1$d öğe seçildi</item>
+	<item quantity="other">%1$d öğe seçtiniz</item>
+	<item quantity="zero">%1$d öğe seçtiniz</item>
+	<item quantity="one">%1$d öğe seçtiniz</item>
+	<item quantity="two">%1$d öğe seçtiniz</item>
+	<item quantity="few">%1$d öğe seçtiniz</item>
+	<item quantity="many">%1$d öğe seçtiniz</item>
 </plurals>
 </resources>

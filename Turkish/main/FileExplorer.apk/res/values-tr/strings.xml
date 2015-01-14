@@ -60,9 +60,9 @@
   <string name="delete_dialog_button">SİL</string>
   <string name="delete_failed">Silinemedi!</string>
   <string name="delete_file">Dosyayı silmek istiyor musunuz?</string>
-  <string name="delete_files">Seçilen %1$d dosyayı silmek istiyor musunuz?</string>
+  <string name="delete_files">Seçitiğiniz %1$d dosyayı silmek istiyor musunuz?</string>
   <string name="delete_folder">Bu klasörü silmek istiyor musunuz?</string>
-  <string name="delete_folders">Seçilen %1$d klasörü silmek istiyor musunuz?</string>
+  <string name="delete_folders">Seçitiğiniz %1$d klasörü silmek istiyor musunuz?</string>
   <string name="des_running_trans">%1$d dosya transfer edilemedi.</string>
   <string name="dialog_select_type">Tür seç</string>
   <string name="dialog_type_audio">Ses</string>
@@ -250,7 +250,7 @@
   <string name="share_link_failed">Link oluşturma hatası.</string>
   <string name="show_message">Açmadan önce dosyanın inmesi gereklidir.</string>
   <string name="sign_description">Oturum açılıyor...</string>
-  <string name="signin_error">"Sunucuya bağlanılamadı. Ağ bağlantınızı kontrol edin."</string>
+  <string name="signin_error">"Lütfen AĞ ayarlarını kontrol edin!"</string>
   <string name="signin_success">"Hoşgeldiniz!
   Boş alan eklendi: %1$s"</string>
   <string name="space_info">Kuaipan: %1$s kullanılabilir，toplam: %2$s</string>
@@ -277,7 +277,7 @@
   <string name="toast_file_not_can_read">Bu işlemi gerçekleştirmek için uygulama bulunamadı</string>
   <string name="tools">Araçlar</string>
   <string name="trans_task">Ağ transferi</string>
-  <string name="trans_task_delete_confirm_message">Seçili %1$d görev silinsin mi?</string>
+  <string name="trans_task_delete_confirm_message">Seçitiğiniz %1$d görev silinsin mi?</string>
   <string name="transing">Gönderiliyor</string>
   <string name="trash_box_capacity">Geri dönüşüm kutusu %1$s</string>
   <string name="trash_box_link">Çöp kutusunu boşaltmak için pan.xiaomi.com adresini ziyaret edin</string>

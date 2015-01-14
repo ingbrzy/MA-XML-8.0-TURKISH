@@ -131,10 +131,10 @@
   <string name="confirm">Tamam</string>
   <string name="confirm_delete">%s resim silinsin mi?</string>
   <string name="confirm_delete_album" formatted="false">%s albüm (toplam %s  öğe) silinsin mi?</string>
-  <string name="confirm_delete_has_cloud_image_video">Seçilen %s öğe Bulut alanından silinsin mi?</string>
-  <string name="confirm_delete_has_cloud_local_image_video">Seçilen %s öğe Yerel ve Bulut alanından silinsin mi?</string>
+  <string name="confirm_delete_has_cloud_image_video">Seçtiğiniz %s öğe Bulut alanından silinsin mi?</string>
+  <string name="confirm_delete_has_cloud_local_image_video">Seçtiğiniz %s öğe Yerel ve Bulut alanından silinsin mi?</string>
   <string name="confirm_delete_has_local_image_video">%s öğe silinsin mi?</string>
-  <string name="confirm_delete_home_merge_item">"Yerel ve Bulutta bulunan %s resmi silinsin mi?"</string>
+  <string name="confirm_delete_home_merge_item">"Yerel ve Bulutta bulunan %s resim silinsin mi?"</string>
   <string name="confirm_delete_init_message">Bu resim Yerel ve Bulut alanından silinecektir. Sadece cihazınızdan silmek istiyorsanız, lütfen \"Yerel\" \ sekmesinde işlem yapın.</string>
   <string name="confirm_delete_init_title">İpucu</string>
   <string name="confirm_delete_pictures">%s resmi sil</string>
@@ -413,8 +413,8 @@
   <string name="photos">" Fotoğraf"</string>
   <string name="pick_too_many_recipients">Çok fazla alıcı</string>
   <string name="pick_too_much_tips">Bu kadar fazla öğe seçilemiyor (maksimum %d öğe).</string>
-  <string name="picker_no_album_selected">Hiç bir albüm seçilmedi</string>
-  <string name="picker_no_items_selected">Hiç bir öğe seçilmedi</string>
+  <string name="picker_no_album_selected">Hiç bir albüm seçmediniz!</string>
+  <string name="picker_no_items_selected">Hiç bir öğe seçmediniz!</string>
   <string name="picker_select_album_title_empty">Bir albüm seçin</string>
   <string name="picker_tab_photo">Foto</string>
   <string name="pocket_camera_picture">Cep kamerası fotoğrafları</string>

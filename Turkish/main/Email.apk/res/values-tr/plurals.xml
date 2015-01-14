@@ -25,12 +25,12 @@
 	<item quantity="one">%dGB</item>
 </plurals>
 <plurals name="num_selected">
-	<item quantity="other">%d sohbet seçildi</item>
-	<item quantity="zero">%d sohbet seçildi</item>
-	<item quantity="one">%d sohbet seçildi</item>
-	<item quantity="two">%d sohbet seçildi</item>
-	<item quantity="few">%d sohbet seçildi</item>
-	<item quantity="many">%d sohbet seçildi</item>
+	<item quantity="other">%d sohbet seçtiniz</item>
+	<item quantity="zero">%d sohbet seçtiniz</item>
+	<item quantity="one">%d sohbet seçtiniz</item>
+	<item quantity="two">%d sohbet seçtiniz</item>
+	<item quantity="few">%d sohbet seçtiniz</item>
+	<item quantity="many">%d sohbet seçtiniz</item>
 </plurals>
 <plurals name="move_conversation">
 	<item quantity="other">%1$d Sohbeti taşı</item>
@@ -136,11 +136,11 @@
 	<item quantity="many">%1$d mesaj kalıcı olarak silinecektir.</item>
 </plurals>
 <plurals name="contact_num_selected">
-	<item quantity="other">%d seçildi</item>
-	<item quantity="zero">%d seçildi</item>
-	<item quantity="one">%d seçildi</item>
-	<item quantity="two">%d seçildi</item>
-	<item quantity="few">%d seçildi</item>
-	<item quantity="many">%d seçildi</item>
+	<item quantity="other">%d seçtiniz</item>
+	<item quantity="zero">%d seçtiniz</item>
+	<item quantity="one">%d seçtiniz</item>
+	<item quantity="two">%d seçtiniz</item>
+	<item quantity="few">%d seçtiniz</item>
+	<item quantity="many">%d seçtiniz</item>
 </plurals>
 </resources>
