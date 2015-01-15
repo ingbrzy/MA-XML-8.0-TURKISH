@@ -4,7 +4,7 @@
   <string name="application_name">Miui Başlatıcı</string>
   <string name="apply_action">Uygula</string>
   <string name="apply_as_lock_wallpaper">Uygula</string>
-  <string name="apply_as_lock_wallpaper_message">Bu duvar kağıdı kilit ekranına da uygulansın mı?</string>
+  <string name="apply_as_lock_wallpaper_message">Seçtiğiniz duvar kağıdı kilit ekranına da uygulansın mı?</string>
   <string name="apply_as_wallpaper">Ana Ekran</string>
   <string name="apply_both">Her ikisinede uygula</string>
   <string name="aqi_quality_index_dangerous">Tehlikeli</string>
@@ -42,7 +42,7 @@
   <string name="editing_mode_enter_tip_text">Ana ekranı düzenlemek için iki parmağınızla sıkıştırın</string>
   <string name="editing_mode_title">%1$d öğe seçtiniz</string>
   <string name="editing_mode_title_empty">0 öğe seçtiniz</string>
-  <string name="editing_set_transition_effect_tips">Ekranlar arası geçiş efektini seç</string>
+  <string name="editing_set_transition_effect_tips">Ekranlar arası geçiş efektini seçin</string>
   <string name="editing_set_wallpaper_tips">Duvar kağıdı seç</string>
   <string name="editing_tips">Ana Ekranı Düzenle</string>
   <string name="emptyplaylist">Şarkı eklemek için dokunun</string>
@@ -128,7 +128,7 @@
   <string name="menu_wallpaper">Duvar kağıdı</string>
   <string name="menu_workspace_preview">Ana Ekranları Önizle</string>
   <string name="mi_wallpaper">MIUI Tema Mağazası</string>
-  <string name="multi_selecting_tips">Seçmek için, uygulamanın ikonuna dokunun</string>
+  <string name="multi_selecting_tips">Seçmek için, uygulamanın simgesine dokunun</string>
   <string name="online_wallpaper">İnternet</string>
   <string name="out_of_space">EKRANDA YETERLİ ALAN YOK !</string>
   <string name="permdesc_install_shortcut">Bir uygulamanın kullanıcı izni olmadan ana ekrana kısayollar eklemesine izin verir.</string>
@@ -147,13 +147,13 @@
   <string name="pref_cell_layout_size">Uygulama Simge Düzeni</string>
   <string name="pref_enable_drawing_cache_summary">Daha fazla hafıza için bu özelliği kapatın. Telefonunuzun yavaş çalışmasına sebep olabilir.</string>
   <string name="pref_enable_drawing_cache_title">Çekmece önbelleği</string>
-  <string name="pref_icon_shadow_summary">Uygulama ikon gölgelerini ve sık kullanılanların yansıma efektlerini açın</string>
+  <string name="pref_icon_shadow_summary">Uygulama ikon gölgelerini ve sık kullanılanların yansıma efektlerini açar</string>
   <string name="pref_icon_shadow_title">Simgelerin gölgesini göster</string>
-  <string name="pref_keep_in_memory_summary">Hafıza düşük olsa bile Başlatıcı\'nın çalışmasına engel olma</string>
+  <string name="pref_keep_in_memory_summary">Hafıza düşük olsa bile Başlatıcının çalışmasına engel olma</string>
   <string name="pref_keep_in_memory_title">Hafızada Sakla</string>
   <string name="pref_keep_layout_summary">"Ana ekranınızın düzenini değiştirmek, uygulamaların birbirlerine göre olan konumlarını değiştirmez"</string>
   <string name="pref_keep_layout_title">Uygulama konumlarını kilitle</string>
-  <string name="pref_render_in_truecolor_summary">Bu özelliği kapatmak çizim performansını artırır</string>
+  <string name="pref_render_in_truecolor_summary">Bu özelliği kapatmanız çizim performansını artırır</string>
   <string name="pref_render_in_truecolor_title">Yüksek kalitede grafikler</string>
   <string name="pref_screen_transformation_type_title">Ana ekran geçiş efektleri</string>
   <string name="pref_wallpaper_scroll_type_title">Duvar kağıdını kaydırma</string>
@@ -168,7 +168,7 @@
   <string name="show_all">Tümünü göster</string>
   <string name="sort_by_abc">İsme göre sırala</string>
   <string name="sort_by_frequency">Kullanımına göre sırala</string>
-  <string name="sort_by_not_defined">Otomatik sırala</string>
+  <string name="sort_by_not_defined">Otomatik olarak sırala</string>
   <string name="start_activity_failed">"Başlatıcı başlatılamıyor"</string>
   <string name="starting_preset_app">Başlatılıyor...</string>
   <string name="status_downloaded">İndirildi</string>
@@ -195,7 +195,7 @@
   <string name="uninstall_result_failed">"%s kaldırılamadı!"</string>
   <string name="uninstall_result_multi_succeeded">%1$d uygulama kaldırıldı</string>
   <string name="uninstall_result_other_failed" formatted="false">"%s ve diğer %d uygulama kaldırılamadı!"</string>
-  <string name="uninstall_result_succeeded">Uygulama aldırıldı</string>
+  <string name="uninstall_result_succeeded">Uygulama kaldırıldı</string>
   <string name="uninstall_result_two_failed">"%s ve diğer 1 uygulama kaldırılamadı!"</string>
   <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="unnamed_folder_name">İsimsiz Klasör</string>

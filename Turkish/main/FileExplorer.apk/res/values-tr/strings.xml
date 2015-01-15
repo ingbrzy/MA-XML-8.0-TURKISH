@@ -32,7 +32,7 @@
   <string name="category_video">Videolar</string>
   <string name="category_zip">Arşivler</string>
   <string name="choose_send_type">Gönderim tipini seçin</string>
-  <string name="choose_upload_location">KuaiPan yükle</string>
+  <string name="choose_upload_location">KuaiPan klasörüne yükle</string>
   <string name="clean_message"> %1$s alan açıldı.</string>
   <string name="clean_title">Çöp kutusundaki 30 günden eski dosyaları sil</string>
   <string name="clean_trash_box">Çöp kutusunu boşalt</string>
@@ -64,7 +64,7 @@
   <string name="delete_folder">Bu klasörü silmek istiyor musunuz?</string>
   <string name="delete_folders">Seçitiğiniz %1$d klasörü silmek istiyor musunuz?</string>
   <string name="des_running_trans">%1$d dosya transfer edilemedi.</string>
-  <string name="dialog_select_type">Tür seç</string>
+  <string name="dialog_select_type">Dosya türünü seçin</string>
   <string name="dialog_type_audio">Ses</string>
   <string name="dialog_type_image">Resimler</string>
   <string name="dialog_type_text">Belgeler</string>
@@ -185,7 +185,7 @@
   <string name="no_wifi_hint">"Wi-Fi bağlantısı yok"</string>
   <string name="notif_server_starting">FTP Sunucusu başladı...</string>
   <string name="notif_title">FTP sunucusu çalışıyor</string>
-  <string name="open_changed_file_message">"Açmaya çalıştığınız dosya değiştirildi, Problemi çözmek için:
+  <string name="open_changed_file_message">"Açmaya çalıştığınız dosya değiştirildi. Problemi çözmek için:
 1. Dosyayı tekrar indirin.
 2. Kuaipan hesabınıza yükleyin."</string>
   <string name="open_changed_file_title">Değişiklikler uygulandı</string>
