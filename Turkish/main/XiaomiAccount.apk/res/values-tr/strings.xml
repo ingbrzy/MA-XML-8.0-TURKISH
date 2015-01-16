@@ -74,6 +74,8 @@
   <string name="login_title">Mi hesabınızla oturum açın</string>
   <string name="login_with_email_or_id">Başka bir hesapla oturum aç</string>
   <string name="logout_failed">"Oturum kapatılamıyor!"</string>
+  <string name="mi_account_dspt_provision">"Oturum açarak, MIUI Tema Mağazası ve tüm MI servislerine heryerden kolayca ulaşabilirsiniz. "</string>
+  <string name="mi_service">Destek</string>
   <string name="micloud_account_details">Hesap bilgileri</string>
   <string name="micloud_account_name">Mi Hesabı</string>
   <string name="micloud_area_code_title">Ülke kodu</string>
@@ -139,6 +141,7 @@
   <string name="passport_error_dup_phone">Bu telefon numarası zaten başka bir hesap ile ilişkili</string>
   <string name="passport_error_email">Girilen e-osta adresi geçersiz.</string>
   <string name="passport_error_empty_captcha_code">Enter passport_captcha code</string>
+  <string name="passport_error_empty_email">E-posta adresinizi girin</string>
   <string name="passport_error_empty_phone_num">Telen numarasını girin</string>
   <string name="passport_error_empty_pwd">Şifrenizi girin</string>
   <string name="passport_error_empty_username">Kullanıcı adınızı girin</string>

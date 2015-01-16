@@ -35,7 +35,7 @@
   <string name="attach_subject">Konu</string>
   <string name="attach_take_photo">Fotoğraf çek</string>
   <string name="attach_video">Video</string>
-  <string name="audio_download_failed">Ses dosyası indirilemedi!</string>
+  <string name="audio_download_failed">"Ses dosyası indirilemedi!"</string>
   <string name="audio_playing_seconds">%d\"</string>
   <string name="back_to_message_list">Mesaj listesine dön</string>
   <string name="batch_adding_progress_message">Ekleniyor</string>
@@ -180,7 +180,7 @@
   <string name="hidden_sender_address">Gizli gönderen adresi</string>
   <string name="hint_search_sms">%d mesaj</string>
   <string name="hms_first_use_tips">Servis mesajlarının alınması için, Wi-Fi ağına bağlı olmanız gerekiyor</string>
-  <string name="hms_uri_param_err">" \"id\" boş olamaz"</string>
+  <string name="hms_uri_param_err">"URL adresi boş olamaz"</string>
   <string name="importing_progress_private_message">Mesajlar içe aktarılıyor...</string>
   <string name="in_sms">Mesaj</string>
   <string name="insufficient_drm_rights">Yetersiz DRM hakları tespit edildi.</string>
