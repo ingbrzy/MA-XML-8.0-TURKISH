@@ -350,9 +350,9 @@
   <string name="dismiss_tip_hover_text">Yoksayma ip ucu</string>
   <string name="done">Tamam</string>
   <string name="done_action">Tamam</string>
-  <string name="donot_disturb_endtime_title">Kime</string>
-  <string name="donot_disturb_starttime_title">Kimden</string>
-  <string name="donot_disturb_summary">Telefonunuz ayarladığını süre boyunca yeni mesaj almaz ve bildirim ile uyarmaz...</string>
+  <string name="donot_disturb_endtime_title">Bitiş zaman</string>
+  <string name="donot_disturb_starttime_title">Başlangıç zamanı</string>
+  <string name="donot_disturb_summary">Telefonunuz, ayarladığınız süre boyunca yeni mesaj almaz ve bildirim ile uyarmaz...</string>
   <string name="donot_disturb_title">Gece için DND modu</string>
   <string name="donot_download">Geçici olarak indir</string>
   <string name="donot_upgrade">Yeni sürüme yükseltme</string>
