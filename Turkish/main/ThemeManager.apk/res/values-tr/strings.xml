@@ -157,6 +157,9 @@
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s detayları</string>
   <string name="resource_download">İndir</string>
+  <string name="resource_download_notification_content">Gözatmak için dokunun</string>
++ <string name="resource_download_notification_title_many">%1$s tema başarıyla indirildi!</string>
++ <string name="resource_download_notification_title_one">Tema başarıyla indirildi!</string>
   <string name="resource_download_trial">Ücretsiz dene</string>
   <string name="resource_downloaded_title">İndirilen Temalar</string>
   <string name="resource_downloading">İndiriliyor...</string>
@@ -250,7 +253,6 @@
   <string name="selected_resource_file_invalid">"Seçilen kaynak dosyasını kullanamazsınız"</string>
   <string name="settings">Ayarlar</string>
   <string name="short_ringtone_resource">Kısa</string>
-  <string name="theme_batch_has_update_text">%1$d tema için güncelleme var.</string>
   <string name="theme_batch_update_all">Güncelle</string>
   <string name="theme_batch_update_dlg_content">%1$s ve diğer %2$d tema güncellensin mi?</string>
   <string name="theme_batch_update_dlg_content_single">%1$s şimdi güncellensin mi?</string>
@@ -306,6 +308,7 @@
   <string name="theme_user_agreement_content3">" ve "</string>
   <string name="theme_user_agreement_content4">Gizlilik politikası </string>
   <string name="theme_user_agreement_content5">\'nı dikkatle okuyun. Bu işlem internet bağlantısı gerektirir, kabul ediyor musunuz?</string>
+  <string name="theme_user_agreement_exit">ÇIKIŞ</string>
   <string name="theme_user_agreement_remind_again">Ağ bağlantısı gerekirse bildir</string>
   <string name="theme_user_agreement_remind_never">"Tekrar hatırlatma"</string>
   <string name="theme_user_agreement_remind_summary">Ayarlarınız cihazı tekrar başlatınca etkinleşecektir.</string>

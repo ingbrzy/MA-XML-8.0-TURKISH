@@ -106,7 +106,8 @@
   <string name="international_roaming_whitelist_count">%d uygulama dolaşımda iken veri servislerini kullanabilir</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Boş</string>
-  <string name="lock_screen_traffic_warn_title">Mobil veri uyarıları</string>
+  <string name="lock_screen_traffic_notify_body">Ekran kapalıyken Mobil veri kullanımı: %s</string>
+  <string name="lock_screen_traffic_warn_title">Ekran kapalıyken Mobil veri uyarısı</string>
   <string name="main_alert_message_no_imsi">SIM kart yok</string>
   <string name="main_alert_message_no_mobile_package">"Veri limitiniz ayarlanmamış"</string>
   <string name="main_alert_message_slot_no_data_connection">"SIM kart girişiniz mobil veri bağlantısını desteklemiyor"</string>
@@ -153,8 +154,6 @@
   <string name="network_assistant_upgraded_title">Güncelleme tamamlandı</string>
   <string name="network_control">Uygulama ayarları</string>
   <string name="none_mi_service_app_detail">Boş</string>
-  <string name="notification_content_title">Kısıtlı iken %1$s kullanıldı</string>
-  <string name="notification_title">%1$s-%2$s: %3$s Kullanılan</string>
   <string name="ok_button">Tamam</string>
   <string name="online_chat">Sohbet</string>
   <string name="online_read">Okuma</string>
@@ -304,6 +303,9 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="traffic_correction_start_correction_failed">İstek başarısız oldu, operatör ayarını kontrol edin</string>
   <string name="traffic_correction_success">Veri kullanım bilgileri güncellendi</string>
   <string name="traffic_none">Hiçbiri</string>
+  <string name="traffic_over_purchase_body">Detaylar için dokunun.</string>
+  <string name="traffic_over_purchase_link">"Veri limitini aştınız.&lt;br/&gt;Veri kotanızı aştığınız taktirde, operatörünüz sizden ek ücret talep edebilir.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Şimdi kontör yükleyin ve 50% tasarruf yapın.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_title">Veri limitini aştınız !</string>
   <string name="traffic_protection_data_usage_summary">"Tarifenizdeki aylık veri kullanım sınırını aşmamanız için mobil veri uyarılarını ayarla."</string>
   <string name="traffic_protection_label">Mobil veri uyarıları</string>
   <string name="traffic_protection_next">Sonraki</string>
@@ -311,6 +313,8 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="traffic_protection_text_hint">Mobil veri limiti: %s</string>
   <string name="traffic_protection_unknown">Daha sonra ayarla</string>
   <string name="traffic_protection_use_data">Mobil veri etkinleştirildi</string>
+  <string name="traffic_purchase_body">Şimdi kontör yükleyin ve 50% tasarruf yapın.</string>
+  <string name="traffic_purchse_suggestion">Kontör yükleme zamanı</string>
   <string name="traffic_saving_button_sorted">Ayrıntılar</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Sıralama ölçütü</string>
   <string name="traffic_saving_button_start">Etkinleştir</string>
@@ -342,6 +346,13 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="traffic_saving_whitelist_btn_remove">Kaldır</string>
   <string name="traffic_saving_whitelist_btn_removed">Uygulama listeden kaldırıldı</string>
   <string name="traffic_saving_whitelist_no_app">Uygulama yok</string>
+  <string name="traffic_setting_app_count">%d apps</string>
+  <string name="traffic_setting_completed">TAMAM</string>
+  <string name="traffic_setting_daily_limit_summary">Veri kullanım limitini ayarla</string>
+  <string name="traffic_setting_extra_pkg_oversea_summary">Veri planı ve kullanım limitini ayarlayın</string>
+  <string name="traffic_setting_extra_pkg_summary">Veri planı ve kullanım limitini ayarlayın</string>
+  <string name="traffic_setting_extra_pkg_title">Ek ayarlar</string>
+  <string name="traffic_setting_extra_traffic_title">Ek ayarlar</string>
   <string name="traffic_setting_fragment_area">Yerel</string>
   <string name="traffic_setting_fragment_brand">Marka</string>
   <string name="traffic_setting_fragment_button1_text">İptal</string>
@@ -357,6 +368,9 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="traffic_setting_fragment_sms_content_tips">Mesajınızı buraya yazın</string>
   <string name="traffic_setting_fragment_template">Mesaj taslağı</string>
   <string name="traffic_setting_fragment_title">Tüketim kontrolü ayarı</string>
+  <string name="traffic_setting_open">Aç</string>
+  <string name="traffic_setting_step_num">Veri planı ayarları</string>
+  <string name="traffic_warning_purchase_title">Kalan: %d%%</string>
   <string name="usage_sorted_activity_lable">Veri kullanımı</string>
   <string name="usage_sorted_empty_text">Boş</string>
   <string name="usage_sorted_loading_text">Yükleniyor...</string>

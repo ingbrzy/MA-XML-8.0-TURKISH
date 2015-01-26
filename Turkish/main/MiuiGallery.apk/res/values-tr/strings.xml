@@ -45,7 +45,7 @@
   <string name="alert_init_merged_message">"Artık cihazınızda ve Bulut alanınızda depolanan resimleriniz, Fotoğraflar sekmesinde birlikte görülebilecek. "</string>
   <string name="alert_init_merged_title">Fotoğraflarınıza kolayca ulaşın</string>
   <string name="alert_message_open_sync">Öncelikle senkronizasyonu etkinleştirmelisiniz.</string>
-  <string name="alert_secret_album_message">Gizli albümlere eklemek için albümün altından aşağıya doğru kaydırın</string>
+  <string name="alert_secret_album_message">Mi Buluttaki Gizli albümü görüntülemek için albümün altından aşağıya doğru kaydırın</string>
   <string name="alert_secret_album_set_pattern">Kilit açma desenini ayarla</string>
   <string name="alert_secret_album_title">Gizli albüme eklendi</string>
   <string name="already_apply_album">"%1$s açılsın mı?"</string>
@@ -93,6 +93,7 @@
   <string name="cannot_send_message_reason">Geçerli alıcı yok</string>
   <string name="cant_delete_cloud_album">Silme başarısız: %s bu bir sistem albümü veya başkalarıyla paylaşılıyor.</string>
   <string name="cleaning_cache">Önbellek temizleniyor...</string>
+  <string name="choose_cloud_album">Albümü seç</string>
   <string name="clear_thumbnail_cache">Önizleme belleğini temizle</string>
   <string name="clear_thumbnail_cache_confirm">Tarayıcıda kaydedilen tüm önizleme belleği temizlenecek.</string>
   <string name="clear_thumbnail_cache_summary">Tarayıcıda kaydedilen önizleme belleğini temizle</string>

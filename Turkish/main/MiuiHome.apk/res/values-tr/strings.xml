@@ -1,6 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">Uygulama telefonunuzda yüklü değil</string>
+  <string name="app_category_books">Kitaplar</string>
+  <string name="app_category_education">Eğitim</string>
+  <string name="app_category_entertainment">Eğlence</string>
+  <string name="app_category_finance">Finans</string>
+  <string name="app_category_games">Oyunlar</string>
+  <string name="app_category_health">Sağlık</string>
+  <string name="app_category_lifestyle">Yaşam</string>
+  <string name="app_category_music_movie">Müzik &amp; Video</string>
+  <string name="app_category_news">Haberler</string>
+  <string name="app_category_photos">Fotoğraflar</string>
+  <string name="app_category_productivity">Verimlilik</string>
+  <string name="app_category_shopping">Alışveriş</string>
+  <string name="app_category_social">Sosyal</string>
+  <string name="app_category_sport">Spor</string>
+  <string name="app_category_tools">Araçlar</string>
+  <string name="app_category_travel">Seyahat</string>
   <string name="application_name">Miui Başlatıcı</string>
   <string name="apply_action">Uygula</string>
   <string name="apply_as_lock_screen">Kilit Ekranı</string>
