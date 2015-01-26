@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="note_count_in_folder">
+	<item quantity="other">%1$s not</item>
+	<item quantity="one">1 not</item>
+</plurals>
+<plurals name="search_results_title">
+	<item quantity="other">\"%2$s\" için %1$s sonuç</item>
+	<item quantity="one">\"%2$s\" için %1$s sonuç</item>
+</plurals>
+<plurals name="note_terms">
+	<item quantity="other">%1$s not</item>
+	<item quantity="one">%1$s not</item>
+</plurals>
+<plurals name="folder_terms">
+	<item quantity="other">%1$s klasör</item>
+	<item quantity="one">%1$s klasör</item>
+</plurals>
+</resources>

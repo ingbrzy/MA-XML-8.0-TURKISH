@@ -5,10 +5,10 @@
   <string name="alert_action_edit_anyway">Düzenlemeye devam et</string>
   <string name="alert_edit_action_delete">Sil</string>
   <string name="alert_edit_action_update">Güncelle</string>
-  <string name="alert_message_delete_folders">%1$s klasörü silmek istiyor musunuz?</string>
-  <string name="alert_message_delete_folders_notes">%1$s dosya ve %2$s notu silmek istiyor musunuz?</string>
+  <string name="alert_message_delete_folders">%1$s silinsin mi?</string>
+  <string name="alert_message_delete_folders_notes">%1$s ve %2$s silinsin mi?</string>
   <string name="alert_message_delete_note">Bu notu silmek istiyor musunuz?</string>
-  <string name="alert_message_delete_notes">%1$s notu silmek istiyor musunuz?</string>
+  <string name="alert_message_delete_notes">%1$s silinsin mi?</string>
   <string name="alert_message_edit_anyway">Notta desteklenmeyen içerikler var, veri kaybına neden olabilir.</string>
   <string name="alert_title_edit_anyway">Notu düzenlemeyi onaylayın, bu veri kaybına neden olabilir, devam etmek istiyor musunuz?</string>
   <string name="app_name">Notlar</string>
