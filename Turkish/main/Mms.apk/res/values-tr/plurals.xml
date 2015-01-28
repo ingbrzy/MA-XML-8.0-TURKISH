@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <plurals name="confirm_delete_conversation">
-	<item quantity="other">%1$s mesajı silmek istiyor musunuz?</item>
-	<item quantity="one">Mesajı silmek istiyor musunuz?</item>
+	<item quantity="other">Seçtiğiniz %1$s mesajı silmek istiyor musunuz?</item>
+	<item quantity="one">Bu mesajı silmek istiyor musunuz?</item>
 </plurals>
 <plurals name="slide_duration">
 	<item quantity="other">%s saniye</item>
@@ -19,10 +19,10 @@
 	<item quantity="one">%1$s  arama sonuçlari „%2$s”</item>
 </plurals>
 <plurals name="recipient_count">
-	<item quantity="other">Kişiler: %1$s</item>
+	<item quantity="other">%1$s Kişi</item>
 </plurals>
 <plurals name="message_count">
-	<item quantity="other">Mesajlar: %1$s</item>
+	<item quantity="other">1$s Mesaj</item>
 	<item quantity="one">%1$s Mesaj</item>
 </plurals>
 </resources>

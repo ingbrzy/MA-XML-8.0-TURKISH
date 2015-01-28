@@ -39,7 +39,7 @@
   <string name="audio_playing_seconds">%d\"</string>
   <string name="back_to_message_list">Mesaj listesine dön</string>
   <string name="batch_adding_progress_message">Ekleniyor</string>
-  <string name="batch_delete_confirm_dialog_message">Seçilen %1$s mesaj silinsin mi?</string>
+  <string name="batch_delete_confirm_dialog_message">Seçtiğiniz %1$s mesaj silinsin mi?</string>
   <string name="batch_deleting_message_progress_message">Siliniyor...</string>
   <string name="batch_deleting_progress_message">Siliniyor...</string>
   <string name="bcc_label">Bcc:</string>
@@ -63,17 +63,17 @@
   <string name="confirm">Onayla</string>
   <string name="confirm_add_blacklist_dialog_dspt">Bu numara Kara Listeye eklensin mi?</string>
   <string name="confirm_delete_SIM_message">SIM kart mesajı silinsin mi?</string>
-  <string name="confirm_delete_all_SIM_messages">Tüm SIM kart mesajları silinsin mi?</string>
+  <string name="confirm_delete_all_SIM_messages">SIM karttaki tüm mesajlar silinsin mi?</string>
   <string name="confirm_delete_all_conversations">Tüm konuşmalar silinsin mi?</string>
   <string name="confirm_delete_conversation">Tüm konu silinsin mi?</string>
   <string name="confirm_delete_group_message">Grup mesajları silinsin mi?</string>
   <string name="confirm_delete_locked_message">Bu kilitli mesajı silmek istediğinizden emin misiniz?</string>
   <string name="confirm_delete_message">Bu mesaj silinsin mi?</string>
   <string name="confirm_dialog_locked_title">Kilitli mesajlar silinsin mi?</string>
-  <string name="confirm_dialog_title">SİLME İŞLEMİNİ ONALAYIN</string>
+  <string name="confirm_dialog_title">UYARI!</string>
   <string name="confirm_dlg__msg">CMCC uyarı: Eğer şimdi iptal ederseniz CMCC ücretsiz postalama servisinden yararlanamayacaksınız. İptal etmek istediğinize emin misiniz?</string>
   <string name="confirm_dlg_title">Cihaz Yönetimi</string>
-  <string name="confirm_export_dialog_description">Seçilen özel kişiyi silmek istiyormusunuz</string>
+  <string name="confirm_export_dialog_description">Seçilen özel kişiyi silmek istiyor musunuz</string>
   <string name="confirm_export_dialog_title">Özel kişiyi kaldır</string>
   <string name="confirm_no_block_positive">Engeli kaldır</string>
   <string name="confirm_no_block_title">Bu numara kara listeden kaldırılıp gönderilen tüm mesajlar yeniden yüklensin mi?</string>
@@ -152,9 +152,9 @@
   <string name="feedback_submit">Geri bildirim gönder</string>
   <string name="festival">Hızlı cevap</string>
   <string name="festival_continue">Tamam</string>
-  <string name="festival_networking_desc">Bu özelliğin düzgün çalışması için internet bağlantısı gerekiyor.</string>
+  <string name="festival_networking_desc">Bu özelliğin düzgün çalışması için internet bağlantısı gerekir!</string>
   <string name="festival_networking_title">Uyarı</string>
-  <string name="festival_never_remind">"Tekrar gösterme."</string>
+  <string name="festival_never_remind">"Tekrar gösterme"</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Yükleniyor...</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -166,7 +166,7 @@
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_from">İleten:</string>
   <string name="forward_prefix">ILT:</string>
-  <string name="found_old_messages">%1$s - %2$s arasındaki  kadar olan mesajlar yüklensin mi?</string>
+  <string name="found_old_messages">%1$s - %2$s arasındaki mesajlar yüklensin mi?</string>
   <string name="found_old_messages_title">Diğer SIM kartlarınızdaki mesajlar yüklensin mi?</string>
   <string name="found_wild_messages">Aşağıdaki numaralardan gelen mesajlar Mi Bulut içinde depolanmıştır. %s şimdi hepsi indirilsin mi?</string>
   <string name="found_wild_messages_title">Mesajları indir</string>
@@ -176,7 +176,7 @@
   <string name="group_resend_message">Tekrar gönder (%d)</string>
   <string name="guild_add_attachments">Dosya veya gülümseme eklemek için burayı tıklayın</string>
   <string name="guild_add_recipients">Adres defterinden alıcı eklemek için burayı tıklayın</string>
-  <string name="guild_msim_switcher">SIM kartı değiştirmek çin dokunun</string>
+  <string name="guild_msim_switcher">SIM kartı değiştirmek için dokunun</string>
   <string name="has_invalid_recipient">Geçersiz alıcı :%1$s</string>
   <string name="hidden_sender_address">Gizli gönderen adresi</string>
   <string name="hint_search_sms">%d mesaj</string>
@@ -269,7 +269,7 @@
   <string name="mx_auto_resend_sms_summary">Wi-Fi kullanılmıyorken mobil veri üzerinden yazılı mesaj olarak gönderir. (Operatörünüzün normal veri kullanım ücretlendirmesi uygulanır).</string>
   <string name="mx_btn_enable">Etkinleştir</string>
   <string name="mx_btn_enable_now">Etkin</string>
-  <string name="mx_count_dspt">%1$d SMS ve %2$d MMS göndermişsiniz</string>
+  <string name="mx_count_dspt">%1$d SMS ve %2$d MMS gönderdiniz</string>
   <string name="mx_current_status">Durum: Çevrimiçi</string>
   <string name="mx_dspt">Mi Mesaj ile herhangi bir MIUI kullanıcısına ücretsiz mesaj gönderebilirsiniz</string>
   <string name="mx_dspt_provision">Mi Mesaj, SMS ücreti ödemeden diğer MIUI kullanıcılarına mesaj göndermenizi sağlar. Bu hizmeti etkinleştirmek bir SMS gönderilir ve bu SMS operatörünüz tarafından ücretlendirilebilir.</string>
@@ -284,7 +284,7 @@
   <string name="mx_recommend_msg">Mi Mesaj aktivasyonu için dokunun.</string>
   <string name="mx_type_guide">Mi Mesaj ile herhangi bir MIUI kullanıcısına Wi-Fi ya da mobil ağ üzerinden ücretsiz mesaj gönderebilirsiniz</string>
   <string name="mx_warning_notice">Mi Mesaj aktivasyonu için bir mesaj gönderilecek. Mobil servis sağlayıcı tarifesinden ücretlendirilebilir.</string>
-  <string name="need_download">Eşitleniyor...</string>
+  <string name="need_download">Senkronize ediliyor...</string>
   <string name="new_message">Yeni mesaj</string>
   <string name="new_message_arrived">Yeni bir mesajınız var</string>
   <string name="new_phrase">Yeni Şablon</string>
@@ -319,7 +319,7 @@
   <string name="pref_mms_settings_title">"Multimedia (MMS) mesajları"</string>
   <string name="pref_notification_settings_title">Bildirimler</string>
   <string name="pref_other_title">Diğer</string>
-  <string name="pref_sms_theme_title">Görüntü</string>
+  <string name="pref_sms_theme_title">Görüntüleme</string>
   <string name="pref_summary_allow_si_sl_push">(SI/SL) WAP Push mesajlar  ve bildirimlerine izin verir</string>
   <string name="pref_summary_delete_limit">Her bir konuşma için %1$s mesaj</string>
   <string name="pref_summary_delivery_reports">Mesaj gönderildiğinde iletildi raporu alır</string>
@@ -352,7 +352,7 @@
   <string name="pref_title_mms_retrieval_during_roaming">Dolaşımda otomatik al</string>
   <string name="pref_title_notification_body_enabled">Mesaj önizlemesini göster</string>
   <string name="pref_title_ringtone_repeat">Bildirim sesi sayısı</string>
-  <string name="pref_title_ringtone_repeat_summary"/>
+  <string name="pref_title_ringtone_repeat_summary">Ekran kapalı iken mesaj geldiğinde çalınacak bildirim sesi sayısını ayarlayın.</string>
   <string name="pref_title_show_recent_contacts">Son kişileri göster</string>
   <string name="pref_title_sms_delete">Metin mesajı limiti</string>
   <string name="pref_title_system_mms_priority">Sistem MMS uyg. önceliği</string>
@@ -451,8 +451,8 @@
   <string name="sim_card_cloud">%s (Bulut mesajı)</string>
   <string name="sim_copy_to_phone_memory">Telefon hafızasına kopyala</string>
   <string name="sim_delete">Sil</string>
-  <string name="sim_empty">SIM kartta hiç mesaj yok</string>
-  <string name="sim_full_body">Daha fazla yer açmak için bazı mesajalrı silin.</string>
+  <string name="sim_empty">SIM kartta mesaj yok</string>
+  <string name="sim_full_body">Daha fazla yer açmak için bazı mesajaları silin.</string>
   <string name="sim_full_title">SIM kart dolu</string>
   <string name="sim_manage_messages_title">SIM karttaki kısa mesajlar</string>
   <string name="sim_view">Görüntüle</string>
@@ -471,7 +471,7 @@
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Bildirimler</string>
   <string name="sp_mark_as_read">Tümü okundu olarak işaretlensin mi?</string>
-  <string name="sp_mark_as_read_progress">Okundu sayılıyor...</string>
+  <string name="sp_mark_as_read_progress">İşlem yapılıyor...</string>
   <string name="sp_mark_as_read_title">Hepsi okundu olarak işaretlensin mi?</string>
   <string name="status_failed">Başarısız</string>
   <string name="status_label">Durum:</string>

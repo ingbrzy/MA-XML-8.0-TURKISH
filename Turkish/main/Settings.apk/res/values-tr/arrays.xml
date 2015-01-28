@@ -843,7 +843,7 @@
 	<item>Yüksek</item>
 </string-array>
 <string-array name="preferred_app_entries">
-	<item>MiHome Başlatıcı</item>
+	<item>Miui Başlatıcı</item>
 	<item>Çağrı</item>
 	<item>Mesajlar</item>
 	<item>İnternet</item>
@@ -853,10 +853,14 @@
 	<item>E-posta</item>
 </string-array>
 <string-array name="handy_mode_size_text_entries">
-	<item>4,5 "</item>
-	<item>4,0 "</item>
-	<item>3,5 "</item>
+	<item>4,5 inç</item>
+	<item>4,0 inç</item>
+	<item>3,5 inç</item>
 </string-array>
+ <string-array name="handy_mode_size_value_entries">
+	<item>4.5</item>
+	<item>4.0</item>
+	<item>3.5</item>
 <string-array name="agps_network_entries">
 	<item>Ana şebeke</item>
 	<item>Tüm şebekeler</item>

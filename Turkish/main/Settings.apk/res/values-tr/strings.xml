@@ -404,7 +404,7 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="bluetooth_searching_for_devices">Arıyor…</string>
   <string name="bluetooth_settings">Bluetooth</string>
   <string name="bluetooth_settings_summary">Bağlantıları yönet, cihaz adını gir ve keşfedilebilirlik ayarını yap</string>
-  <string name="bluetooth_settings_title">Bluetooth Ayarları</string>
+  <string name="bluetooth_settings_title">Bluetooth</string>
   <string name="bluetooth_show_received_files">Alınan dosyaları göster</string>
   <string name="bluetooth_tether_checkbox_text">Bluetooth internet paylaşımı</string>
   <string name="bluetooth_tethering_available_subtext">Bu telefonun İnternet bağlantısı paylaşılıyor</string>
@@ -816,10 +816,10 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="google_backup_section_title">Google Yedekleme &amp; Geri Yükleme</string>
   <string name="gsm_to_wifi_connect_type_title">GSM\'den Wi-Fi\'ya</string>
-  <string name="handy_mode">Pratik mod</string>
-  <string name="handy_mode_enable">Pratik mod</string>
+  <string name="handy_mode">Tek elle kullanım modu</string>
+  <string name="handy_mode_enable">Tek elle kullanım modu</string>
   <string name="handy_mode_size">Ekran boyutu</string>
-  <string name="handy_mode_tips">Ev tuşundan sağa veya sola doğru kaydırın</string>
+  <string name="handy_mode_tips">Ekranı küçültmek istediğiniz yön için; Ev tuşundan sağa veya sola doğru kaydırın</string>
   <string name="haptic_feedback_enable_title">Dokununca titret</string>
   <string name="haptic_feedback_level">Titreşim seviyesi</string>
   <string name="hdmi_3d_display_enable_summary">3D oyunlar için etkinleştir</string>
@@ -841,7 +841,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="header_category_system">TEMEL SİSTEM AYARLARI</string>
   <string name="header_category_wireless_networks">Wi-Fi ve MOBİL ŞEBEKE AYARLARI</string>
   <string name="header_data_and_synchronization">VERİ ve SENKRONİZE</string>
-  <string name="high_performance_notif_summary">Performans modu açık.</string>
+  <string name="high_performance_notif_summary">Performans modu açık</string>
   <string name="high_performance_notif_title">Pil kullanımı uyarısı</string>
   <string name="high_performance_title">Kıyaslama testi yaptığınız farkedildi. En iyi performansı elde etmek için Pil yönetiminden \"Performans\" modunu seçin.</string>
   <string name="home_key">Ev tuşu</string>
@@ -1926,10 +1926,11 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_cancel">İptal</string>
   <string name="wifi_certificate">Sertifika</string>
   <string name="wifi_configured_ap_list">Önceden yapılandırılmış APler</string>
+  <string name="wifi_connect">Kapalı</string>
   <string name="wifi_connect_failed_message">Wi-Fi bağlantısına ulaşılamıyor</string>
   <string name="wifi_context_menu_change_password">Şifreyi değiştir</string>
   <string name="wifi_context_menu_change_wapi_certificate">WAPI Sertifkasını değiştir</string>
-  <string name="wifi_context_menu_connect">Ağa bağlan</string>
+  <string name="wifi_context_menu_connect">Bağlan</string>
   <string name="wifi_context_menu_forget">Ağı unut</string>
   <string name="wifi_disabled_generic">Kapalı</string>
   <string name="wifi_disabled_help">Zayıf bağlantı nedeniyle ağ kullanılmadı. Ayarlar &gt; Wi-Fi Gösterimi, Gelişmiş menü öğesi ile bu davranışı kapatın.</string>
@@ -2054,7 +2055,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_setting_sleep_policy_title">Uyku modunda Wi-Fi açık</string>
   <string name="wifi_settings">Wi-Fi Ağları</string>
   <string name="wifi_settings_category">Wi-Fi ayarları</string>
-  <string name="wifi_settings_title">Wi-Fi Ayarları</string>
+  <string name="wifi_settings_title">Wi-Fi</string>
   <string name="wifi_setup_back">Geri</string>
   <string name="wifi_setup_cancel">İptal</string>
   <string name="wifi_setup_connect">Bağlan</string>

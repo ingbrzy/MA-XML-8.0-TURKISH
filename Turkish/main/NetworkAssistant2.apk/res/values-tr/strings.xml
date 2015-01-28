@@ -106,8 +106,10 @@
   <string name="international_roaming_whitelist_count">%d uygulama dolaşımda iken veri servislerini kullanabilir</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Boş</string>
-  <string name="lock_screen_traffic_notify_body">Ekran kapalıyken Mobil veri kullanımı: %s</string>
+  <string name="lock_screen_setting_summary">100KB kullanımdan sonra bildirim göster</string>
+  <string name="lock_screen_traffic_notify_body">%1$s için kilitli | %2$s veri kullanıldı</string>
   <string name="lock_screen_traffic_warn_title">Ekran kapalıyken Mobil veri uyarısı</string>
+  <string name="main_alert_message_month_limit_error">Ayarladığınız veri limiti geçersiz!</string>
   <string name="main_alert_message_no_imsi">SIM kart yok</string>
   <string name="main_alert_message_no_mobile_package">"Veri limitiniz ayarlanmamış"</string>
   <string name="main_alert_message_slot_no_data_connection">"SIM kart girişiniz mobil veri bağlantısını desteklemiyor"</string>
@@ -154,6 +156,12 @@
   <string name="network_assistant_upgraded_title">Güncelleme tamamlandı</string>
   <string name="network_control">Uygulama ayarları</string>
   <string name="none_mi_service_app_detail">Boş</string>
+  <string name="notify_daily_data_usage_body">%s bugün kullanıldı. Limiti ayarlamak için dokunun.</string>
+  <string name="notify_daily_limit_body">%s bu hafta kullanıldı. Limiti ayarlamak için dokunun.</string>
+  <string name="notify_daily_limit_title">Günlük veri limitini ayarla</string>
+  <string name="notify_month_traffic_body">%s bu ay kullanıldı. Limiti ayarlamak için dokunun.</string>
+  <string name="notify_setting_pkg_title">Aylık veri limitini ayarla</string>
+  <string name="notify_weekly_pkg_body">%s bu hafta kullanıldı. Limiti ayarlamak için dokunun.</string>
   <string name="ok_button">Tamam</string>
   <string name="online_chat">Sohbet</string>
   <string name="online_read">Okuma</string>
@@ -248,7 +256,6 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="pref_whitelist_setting">İstisnalar</string>
   <string name="privacy_declare_dialog_message">"Bu servisi kullandığınız zaman Opera\'nın Hizmet Şartlarını kabul etmiş olursunuz."</string>
   <string name="privacy_declare_dialog_title">Hizmet Şartları</string>
-  <string name="privacy_prompt_purchase_history_message">"Telefon numaranız ve taşıyıcı detayları, mobil veri satın alma geçmişini almak için Xiaomi sunucularına yüklenecektir."</string>
   <string name="privacy_prompt_tc_sms_report_message">"Telefon numaranız ve taşıyıcı detayları, veri kullanım bilgisini güncellemek için Xiaomi sunucularına yüklenecektir."</string>
   <string name="privacy_prompt_traffic_adjust_message">"Telefon numaranız ve taşıyıcı detayları, SMS sorgu şablonlarını güncellemek ve bu özelliğin sizin bölgenizde mevcut olup olmadığını kontrol etmek için Xiaomi sunucularına yüklenecektir."</string>
   <string name="privacy_prompt_traffic_purchase_message">"Telefon numaranız ve taşıyıcı detayları, veri satın alma seçenekleri hakkında daha fazla bilgi almak için Xiaomi sunucularına yüklenecektir."</string>
@@ -278,17 +285,20 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="tc_sms_report_toast_text">Bilgi alınıyor…</string>
   <string name="ten_percent_total_pkg">%s (10%% aylık mobil veri)</string>
   <string name="three_percent_total_pkg">%s (3%% of aylık mobil veri)</string>
+  <string name="timeshow_h_m">%1$dh %2$dm</string>
+  <string name="timeshow_m_s">%1$dm %2$ds</string>
+  <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">Mobil veri limitini bilmiyor musun?</string>
   <string name="tips_message">Eğer mobil veri limitini bilmiyorsanız, %2$s (%1$s) arayarak kontrol edebilirsiniz (Sadece Çin).</string>
   <string name="title_limit_traffic_per_day">Günlük mobil veri limiti</string>
   <string name="traffic_config_alert_body">"Operatörünüzünün hesaplamasına göre %s kullandınız.
   Veri kullanımı bilgisi güncellensin mi?"</string>
   <string name="traffic_config_alert_body_extra">"
- Bu ay %1$s of ek veri aldınız. Bu manuel eklediğiniz %2$s göre farklı."</string>
+ Bu ay %1$s of ek veri aldınız. Bu elle eklediğiniz %2$s göre farklı."</string>
   <string name="traffic_config_alert_body_extra_notset">"
  Bu ay %s of ek veri aldınız. Bu aylık veri planınızı yansıtmaz"</string>
   <string name="traffic_config_alert_body_leisure">"
- Aylık planlanmış veri limitiniz %1$s. Bu manuel ayarladığınız %2$s göre farklı."</string>
+ Aylık planlanmış veri limitiniz %1$s. Bu elle ayarladığınız %2$s göre farklı."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
  Aylık planlanmış veri limitiniz %1$s. Limit üstü için bir değer ayarlamadınız."</string>
   <string name="traffic_config_alert_body_normal">
@@ -302,6 +312,10 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="traffic_correction_start_correction">Operatörden kontrol ediliyor...</string>
   <string name="traffic_correction_start_correction_failed">İstek başarısız oldu, operatör ayarını kontrol edin</string>
   <string name="traffic_correction_success">Veri kullanım bilgileri güncellendi</string>
+  <string name="traffic_limit_error_alert_body">"Operatörünüzün hesabına göre bu ay %1$s veriniz kaldı. Bu el ile ayarladığınız %2$s veri limitine göre daha fazla."</string>
+  <string name="traffic_limit_error_alert_iknow">TAMAM</string>
+  <string name="traffic_limit_error_alert_reset">Limiti sıfırla</string>
+  <string name="traffic_limit_error_alert_title">Veri limit hatırlatıcısı %s</string>
   <string name="traffic_none">Hiçbiri</string>
   <string name="traffic_over_purchase_body">Detaylar için dokunun.</string>
   <string name="traffic_over_purchase_link">"Veri limitini aştınız.&lt;br/&gt;Veri kotanızı aştığınız taktirde, operatörünüz sizden ek ücret talep edebilir.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Şimdi kontör yükleyin ve 50% tasarruf yapın.&lt;/U&gt;&lt;/font&gt;"</string>
@@ -370,6 +384,7 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="traffic_setting_fragment_title">Tüketim kontrolü ayarı</string>
   <string name="traffic_setting_open">Aç</string>
   <string name="traffic_setting_step_num">Veri planı ayarları</string>
+  <string name="traffic_setting_update_template_falure">"Ağ bağlantısı yok!"</string>
   <string name="traffic_warning_purchase_title">Kalan: %d%%</string>
   <string name="usage_sorted_activity_lable">Veri kullanımı</string>
   <string name="usage_sorted_empty_text">Boş</string>
