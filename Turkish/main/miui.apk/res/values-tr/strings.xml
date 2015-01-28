@@ -11,6 +11,8 @@
   <string name="address">Adres</string>
   <string name="afternoon">ÖS</string>
   <string name="am">AM</string>
+  <string name="app_name_which_call">uygulama:%s</string>
+  <string name="app_version_which_call">Uygulama sürümü:%s</string>
   <string name="birthday">Doğum günü</string>
   <string name="check_phone_error_title">Senkronizasyon kapalı</string>
   <string name="check_phone_io_error">"Ağ bağlantısı yok!"</string>
@@ -160,7 +162,8 @@
   <string name="friday_shortest">Cum</string>
   <string name="im">Im</string>
   <string name="label">MIUI SDK</string>
-  <string name="license_host_unreachable">Ağa bağlanılamıyor. Bu bilgiyi görüntülemek için %s adresine gidin.</string>
+  <string name="license_host_unreachable">"Ağa bağlanılamıyor. Bu bilgiyi görüntülemek için 
+  %s adresine gidin."</string>
   <string name="loading">Yükleniyor...</string>
   <string name="mibi_license">Mi Kredisi Kullanıcı Sözleşmesi</string>
   <string name="midnight">AM</string>
@@ -218,6 +221,7 @@
   <string name="permlab_sendSmsNoConfirmation">Onay almadan SMS gönder</string>
   <string name="phone">Telefon</string>
   <string name="pm">PM</string>
+  <string name="policy_name">Politika:%s</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="saturday">Cumartesi</string>
   <string name="saturday_short">Cts</string>
