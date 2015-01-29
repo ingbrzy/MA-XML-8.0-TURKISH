@@ -60,11 +60,11 @@
   <string name="auto_create_recent_album_confirm">Galeri favori albüm bilgilerini silecektir. El ile favori olarak işaretlenmiş olanlar etkilenmez.</string>
   <string name="auto_create_recent_album_over_ten_times">Bir albüm 10 defadan fazla açıldığında favori olarak işaretlenir</string>
   <string name="auto_upload_album_comfirm_to_share">Bu albüm otomatik olarak yüklenecektir paylaşmak istiyor musunuz?</string>
-  <string name="auto_upload_tip">Etkinleştirdikten sonra aynı isimde albüm oluşturulur. Aynı isimde var olan albümler birleştirilecektir.</string>
   <string name="auto_upload_guide">Fotoğraflarınızı ve diğer uygulamalarınızı Mi Buluta otomatik yükleyin.</string>
-  <string name="auto_upload_setting_toast">Mi Bulut ayarlarında bu özellik için ek seçenekleri bulabilirsiniz.</string>
   <string name="auto_upload_guide_msssage">Fotoğraflarınızı ve diğer uygulamalarınızı Mi Buluta otomatik yükleyin. </string>
   <string name="auto_upload_guide_title">Otomatik güncelle</string>
+  <string name="auto_upload_setting_toast">Mi Bulut ayarlarında bu özellik için ek seçenekleri bulabilirsiniz.</string>
+  <string name="auto_upload_tip">Etkinleştirdikten sonra aynı isimde albüm oluşturulur. Aynı isimde var olan albümler birleştirilecektir.</string>
   <string name="auto_upload_title">Otomatik yükle</string>
   <string name="autofix">Oto Düzelt</string>
   <string name="autohomemain">Autohomemain</string>
@@ -92,8 +92,8 @@
   <string name="cannot_send_message">İleti gönderilemiyor</string>
   <string name="cannot_send_message_reason">Geçerli alıcı yok</string>
   <string name="cant_delete_cloud_album">Silme başarısız: %s bu bir sistem albümü veya başkalarıyla paylaşılıyor.</string>
-  <string name="cleaning_cache">Önbellek temizleniyor...</string>
   <string name="choose_cloud_album">Albümü seç</string>
+  <string name="cleaning_cache">Önbellek temizleniyor...</string>
   <string name="clear_thumbnail_cache">Önizleme belleğini temizle</string>
   <string name="clear_thumbnail_cache_confirm">Tarayıcıda kaydedilen tüm önizleme belleği temizlenecek.</string>
   <string name="clear_thumbnail_cache_summary">Tarayıcıda kaydedilen önizleme belleğini temizle</string>
