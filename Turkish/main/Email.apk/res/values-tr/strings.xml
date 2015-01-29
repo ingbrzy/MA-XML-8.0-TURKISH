@@ -767,6 +767,10 @@ CC: %4$s
   <string name="search_results_header">Sonuçlar</string>
   <string name="search_results_loaded">%1$d</string>
   <string name="search_results_searching_header">Aranıyor…</string>
+  <string name="search_tabs_name_all">Tümü</string>
+  <string name="search_tabs_name_recipient">Alıcı</string>
+  <string name="search_tabs_name_sender">Gönderen</string>
+  <string name="search_tabs_name_subject">Konu</string>
   <string name="search_title">Birleştirilmiş e-posta</string>
   <string name="search_txt_size_limit_prompt">Arama terimi en az 3 karakter içermelidir</string>
   <string name="search_unsupported">Bu hesapta arama desteklenmiyor</string>

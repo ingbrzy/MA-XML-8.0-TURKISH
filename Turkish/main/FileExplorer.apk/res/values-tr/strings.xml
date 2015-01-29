@@ -6,7 +6,7 @@
   <string name="already_signin_description">Zaten oturum açmış durumdasınız.</string>
   <string name="app_name">Dosyalarım</string>
   <string name="background">Gizle</string>
-  <string name="big5_summary">Geleneksel Çince için varsayılan Windows kodlaması</string>
+  <string name="big5_summary">Geleneksel Çince Windows kodlaması</string>
   <string name="big5_title">BIG5</string>
   <string name="bind_account">Varolan hesabını senkronize et</string>
   <string name="bind_account_summary">Mi Hesabı ile mevcut KuaiPan hesabını senkronize edin</string>
@@ -20,11 +20,11 @@
   <string name="category_bluetooth">Bluetooth</string>
   <string name="category_document">Belgeler</string>
   <string name="category_favorite">Favoriler</string>
-  <string name="category_log">Loglar</string>
   <string name="category_mirouter">Router</string>
   <string name="category_music">Müzik</string>
   <string name="category_other">Diğer</string>
   <string name="category_picture">Resimler</string>
+  <string name="category_recent">Yeni</string>
   <string name="category_theme">Temalar</string>
   <string name="category_type_document">Belgeler</string>
   <string name="category_type_meida">Medya</string>
@@ -44,6 +44,7 @@
   <string name="compress_title">Sıkıştır</string>
   <string name="confirm">Tamam</string>
   <string name="confirm_know">Tamam</string>
+  <string name="connect_network_setting_des">İnternet bağlantısı için sor</string>
   <string name="copy_failed">"Kopyalanamıyor"</string>
   <string name="create_kuaipan_shortcut_pref">Masa üstünde kısayol oluştur</string>
   <string name="create_new_folder_desctiption">Klasör oluşturuluyor...</string>
@@ -109,7 +110,7 @@
   <string name="ftp_transfer_secure">Güvenlik</string>
   <string name="ftp_username_and_passworld">Giriş Yap</string>
   <string name="ftp_username_hint">Kullanıcı Adı</string>
-  <string name="gbk_summary">Basitleştirilmiş Çince için varsayılan Windows kodlaması</string>
+  <string name="gbk_summary">Basitleştirilmiş Çince için Windows kodlaması</string>
   <string name="gbk_title">GBK</string>
   <string name="gigabyteShort">GB</string>
   <string name="instruction">FTP Client için aşağıdaki adresi girin: </string>
@@ -119,7 +120,7 @@
   <string name="kuaipan_over_space">KuaiPan alanınız doldu</string>
   <string name="kuaipan_prompt">Uyarı</string>
   <string name="kuaipan_prompt_message">"
-  Ne yazık ki sunucu şu anda servis veremiyor. Lütfen daha sonra tekrar deneyin!
+  Ne yazık ki sunuclarımız şu anda servis veremiyor. Lütfen daha sonra tekrar deneyin!
   "</string>
   <string name="kuaipan_tech_support">kuaipan.cn adresine giriş yapın</string>
   <string name="load_err">Yüklenemiyor</string>
@@ -174,7 +175,7 @@
   <string name="net_lose_connected">Ağ bağlantısı yok</string>
   <string name="networkView_notConnected">Ağ bağlantısı kurulamıyor</string>
   <string name="network_connect_confirm_des">Dosyalarım uygulaması bazı özellikler için ağ bağlantısı kullanır, kabul ediyor musunuz?</string>
-  <string name="never_notify_network_connect">"Tekrar gösterme"</string>
+  <string name="never_notify_network_connect">Seçimi hatırla</string>
   <string name="new_folder_name">Yeni klasör</string>
   <string name="no">Hayır</string>
   <string name="no_enough_storage_indication">Cihaz hafızası dolu.</string>
@@ -190,7 +191,7 @@
 1. Dosyayı tekrar indirin.
 2. Kuaipan hesabınıza yükleyin."</string>
   <string name="open_changed_file_title">Değişiklikler uygulandı</string>
-  <string name="open_file_failed">Dosya açılamıyor</string>
+  <string name="open_file_failed">"Dosya açılamadı!"</string>
   <string name="operating">İşleniyor...</string>
   <string name="operation_agree">Tamam</string>
   <string name="operation_cancel">İptal</string>
@@ -203,7 +204,7 @@
   <string name="operation_create_folder_message">Klasör adı</string>
   <string name="operation_decompressing">Ayrıştırılıyor...</string>
   <string name="operation_delete">Sil</string>
-  <string name="operation_delete_confirm_message">SİLME UYARISI!</string>
+  <string name="operation_delete_confirm_message">UYARI!</string>
   <string name="operation_delete_confirm_message_folder">Klasördeki tüm dosyalar silinecek! </string>
   <string name="operation_deleting">Siliniyor...</string>
   <string name="operation_deleting_detail">Siliniyor (%1$d/%2$d)</string>
@@ -309,7 +310,7 @@
   <string name="utf8_title">UTF-8</string>
   <string name="wait_net">Ağ bağlantısı bekleniyor</string>
   <string name="wait_sdcard">SD kart için bekliyor...</string>
-  <string name="wait_wifi">Wi-Fi için bekliyor</string>
+  <string name="wait_wifi">Wi-Fi bağlantısı bekleniyor</string>
   <string name="waiting">Bekleniyor</string>
   <string name="wangpan_root_path">KuaiPan</string>
   <string name="wifi_state">Wi-Fi bağlantısı</string>
