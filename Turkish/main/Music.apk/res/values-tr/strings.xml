@@ -191,6 +191,8 @@
   <string name="network_error">"Ağ bağlantısını kontrol edin ve tekrar deneyin!"</string>
   <string name="network_failure">Ağ bağlantısını kontrol edin ve tekrar deneyin!</string>
   <string name="network_traffic">Veri kullanımı</string>
+  <string name="no_album_info">Albüm bilgisi yok</string>
+  <string name="no_artist_info">Sanatçı bilgisi yok</string>
   <string name="no_favorites_songs">Boş</string>
   <string name="no_file_picker_find">Telefonda dosya yönetim uygulaması yok!</string>
   <string name="no_introduction">Özet yok</string>
@@ -226,6 +228,8 @@
   <string name="retry">Tekrar Dene</string>
   <string name="ringtone_not_support">"Şarkı biçimi desteklenmiyor!"</string>
   <string name="search_album">Online Albüm Ara</string>
+  <string name="search_for_album">Albüm</string>
+  <string name="search_for_artist">Sanatçı</string>
   <string name="search_hint">Sanatçı, albüm yada şarkı adını girin</string>
   <string name="search_lyric">Online Şarkı Sözü Ara</string>
   <string name="search_title">Ara</string>
@@ -258,6 +262,7 @@
   <string name="start_to_play">Oynat</string>
   <string name="stream_quality">Akış kalitesi</string>
   <string name="streamloadingtext">%s bağlanılıyor</string>
+  <string name="support_online_only">Sadece online destek</string>
   <string name="tab_album_list">Albüm</string>
   <string name="tab_artist_list">Sanatçı</string>
   <string name="tab_local_folder_list">Klasör</string>

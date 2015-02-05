@@ -34,7 +34,7 @@
   <string name="data_usage_limit_body">Mobil veriyi etkinleştirmek için dokunun.</string>
   <string name="data_usage_limit_snoozed_body">"Aylık kullanım limitinizi bu ay için aştınız."</string>
   <string name="data_usage_mobile_limit_snoozed_title">"Mobil veri kullanım limitini aştınız"</string>
-  <string name="data_usage_mobile_limit_title">Mobil veri kapalı</string>
+  <string name="data_usage_mobile_limit_title">Mobil veri limitine ulaşıldı</string>
   <string name="data_usage_no_total_package_body">Veri kullanım limiti üst sınırını görüntülemek için dokunun.</string>
   <string name="data_usage_no_total_package_body_dual">Veri kullanım üst limitini %s için ayarlamak için dokunun.</string>
   <string name="data_usage_no_total_package_title">Veri kullanım limiti</string>
@@ -327,7 +327,7 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="traffic_protection_text_hint">Mobil veri limiti: %s</string>
   <string name="traffic_protection_unknown">Daha sonra ayarla</string>
   <string name="traffic_protection_use_data">Mobil veri etkinleştirildi</string>
-  <string name="traffic_purchase_body">Şimdi kontör yükleyin ve 50% tasarruf yapın.</string>
+  <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_purchse_suggestion">Kontör yükleme zamanı</string>
   <string name="traffic_saving_button_sorted">Ayrıntılar</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Sıralama ölçütü</string>
@@ -385,7 +385,7 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="traffic_setting_open">Aç</string>
   <string name="traffic_setting_step_num">Veri planı ayarları</string>
   <string name="traffic_setting_update_template_falure">"Ağ bağlantısı yok!"</string>
-  <string name="traffic_warning_purchase_title">Kalan: %d%%</string>
+  <string name="traffic_warning_purchase_title">Veri kullanım uyarısı</string>
   <string name="usage_sorted_activity_lable">Veri kullanımı</string>
   <string name="usage_sorted_empty_text">Boş</string>
   <string name="usage_sorted_loading_text">Yükleniyor...</string>

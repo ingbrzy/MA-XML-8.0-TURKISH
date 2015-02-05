@@ -35,6 +35,7 @@
   <string name="authenticating_manually">"Kimlik doğrulaması yapılamadı"</string>
   <string name="average_score">Ortalama puanı</string>
   <string name="avg_score">%.1f</string>
+  <string name="baodian">İşaretçi</string>
   <string name="bestv">Bestv</string>
   <string name="buffering">Yükleniyor...</string>
   <string name="buffering_video_netplay_label_v5">Yükleniyor...</string>
@@ -42,6 +43,7 @@
   <string name="cancel_button">İptal</string>
   <string name="cancel_favorite_success">Favorilerden kaldırıldı</string>
   <string name="category">Kategori</string>
+  <string name="catoon">Çizgi film</string>
   <string name="channel_choice">Seçilen</string>
   <string name="channel_empty_hint">Boş</string>
   <string name="channel_hot">Sıcak</string>
@@ -140,6 +142,7 @@
   <string name="gong_count_ji">Toplam %d Ep. </string>
   <string name="gong_count_xiang">%d öğe</string>
   <string name="good">Tamam</string>
+  <string name="hollywood">Hollywood</string>
   <string name="hot">Popüler</string>
   <string name="hot_recommend">Trend</string>
   <string name="icntv">iCNTV</string>
@@ -149,6 +152,7 @@
   <string name="install_comfirm">Yüklemek için dokunun</string>
   <string name="installed">Yüklendi</string>
   <string name="introduce">Özet</string>
+  <string name="japank">Japon TV</string>
   <string name="ji">Bölüm</string>
   <string name="key_back_down_toast">Çıkmak için tekrar dokun</string>
   <string name="lekan">Lekan</string>
@@ -297,6 +301,7 @@
   <string name="updateapk_intro">Değişiklikler</string>
   <string name="updatedalready">Güncellendi</string>
   <string name="upgrade">Güncelle</string>
+  <string name="usa">US TV</string>
   <string name="use_cellular_network">Mobil veri bağlantısı kullanın</string>
   <string name="use_cellular_network_summary">Video indirmek için mobil veri bağlantısı kullan.</string>
   <string name="use_cellular_offlinedownload_summary">Mobil veri ile video indirirken bildirim göster</string>
