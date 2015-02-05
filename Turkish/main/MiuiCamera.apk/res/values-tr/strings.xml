@@ -13,6 +13,7 @@
   <string name="accessibility_more_ptions_opened">Diğer ayarlar açık</string>
   <string name="accessibility_open_more_ptions">Diğer ayarları aç</string>
   <string name="accessibility_review_thumbnail">En son fotoğraf</string>
+  <string name="accessibility_setting_button">Ek ayarlar butonu</string>
   <string name="accessibility_shutter_button">Deklanşör tuşu</string>
   <string name="accessibility_skin_beautify_closed">Ten tonu düzeltici kapalı</string>
   <string name="accessibility_skin_beautify_opened">Ten tonu düzeltici açık</string>
@@ -37,6 +38,7 @@
   <string name="confirm_change_mode_title">Modu değiştir</string>
   <string name="confirm_change_to_expert_mode_message">Profesyonel moda geçmek istiyor musunuz?</string>
   <string name="confirm_change_to_simple_mode_message">Basit moda geçmek istiyor musunuz?</string>
+  <string name="confirm_location_alert">Uyarı</string>
   <string name="confirm_location_message">Fotoğraflarla konum bilgisi kaydedilsin mi?</string>
   <string name="confirm_location_title">Konum bilgisini kaydet</string>
   <string name="confirm_restore_message">Kamera ayarlarını sıfırlamak istiyor musunuz?</string>
@@ -486,6 +488,7 @@
   <string name="snapshotsize_low_powermode">"Fotoğraf çözünürlüğü şu an kullandığınız düşük güç yönetimi ayarlarınızca desteklenmiyor. Videodan kesit alma çözünürlüğü kullanılacak."</string>
   <string name="spaceIsLow_content">SD Kart belleğiniz dolmak üzere</string>
   <string name="success_message_import_from_account">İçe aktarıldı</string>
+  <string name="start_capture">TAMAM</string>
   <string name="tags">Etiketler</string>
   <string name="tap_to_exposure">Manuel pozlama için dokunun</string>
   <string name="tap_to_focus">Odaklamak için dokunun</string>

@@ -619,6 +619,7 @@ CC: %4$s
   <string name="outbox_alert_button_confirm">Onayla</string>
   <string name="outbox_alert_button_no_resend">"Gönderme"</string>
   <string name="outbox_alert_button_resend">Tekrar gönder</string>
+  <string name="outbox_alert_certificate_error">E-posta sertifikasını lütfen güncelleyin</string>
   <string name="outbox_alert_description_auth_error">Giden posta sunucusu açılamadı!</string>
   <string name="outbox_alert_description_http_error">HTTP sunucusu hatası!</string>
   <string name="outbox_alert_description_provision_error">Sunucu hatası!</string>
@@ -627,7 +628,8 @@ CC: %4$s
   <string name="outbox_alert_duplicate_click">"Sürekli tıklamayın, postalar senkronize ediliyor"</string>
   <string name="outbox_alert_edit_resend">Düzenle ve tekrar gönder</string>
   <string name="outbox_alert_failed_edit_resend">Gönderim başarısız, lütfen düzenleyin ve tekrar gönderin!</string>
-  <string name="outbox_alert_mailbox_not_found">E-posta adresi bulunamadı!</string>
+  <string name="outbox_alert_mailbox_not_found">E-posta adresi bulunamadı!</string>  
+  <string name="outbox_alert_rw_io_error">Posta okuma yazma hatası, lütfen tekrar deneyin</string>
   <string name="outbox_alert_select_operation">Lütfen işlemi seçin</string>
   <string name="outbox_alert_title_sent_failed">Gönderilemedi!</string>
   <string name="parase_setup_data">Ayarlar yükleniyor ...</string>
@@ -759,6 +761,7 @@ CC: %4$s
   <string name="save_action">Kaydet</string>
   <string name="save_attachment">Kaydet</string>
   <string name="save_draft">Taslağı kaydet</string>
+  <string name="save_draft_failed">Taslak kaydedilemedi!</string>
   <string name="saved">%s kaydedildi.</string>
   <string name="saving">Kaydediliyor…</string>
   <string name="search_attachment">Ara</string>
