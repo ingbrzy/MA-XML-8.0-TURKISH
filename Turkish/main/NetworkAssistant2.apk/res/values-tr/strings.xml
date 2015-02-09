@@ -156,12 +156,12 @@
   <string name="network_assistant_upgraded_title">Güncelleme tamamlandı</string>
   <string name="network_control">Uygulama ayarları</string>
   <string name="none_mi_service_app_detail">Boş</string>
-  <string name="notify_daily_data_usage_body">%s bugün kullanıldı. Limiti ayarlamak için dokunun.</string>
-  <string name="notify_daily_limit_body">%s bu hafta kullanıldı. Limiti ayarlamak için dokunun.</string>
+  <string name="notify_daily_data_usage_body">Bu gün %s veri kullanıldı.</string>
+  <string name="notify_daily_limit_body">Bu hafta %s veri kullanıldı.</string>
   <string name="notify_daily_limit_title">Günlük veri limitini ayarla</string>
-  <string name="notify_month_traffic_body">%s bu ay kullanıldı. Limiti ayarlamak için dokunun.</string>
+  <string name="notify_month_traffic_body">Bu ay %s veri kullanıldı.</string>
   <string name="notify_setting_pkg_title">Aylık veri limitini ayarla</string>
-  <string name="notify_weekly_pkg_body">%s bu hafta kullanıldı. Limiti ayarlamak için dokunun.</string>
+  <string name="notify_weekly_pkg_body">Bu hafta %s veri kullanıldı.</string>
   <string name="ok_button">Tamam</string>
   <string name="online_chat">Sohbet</string>
   <string name="online_read">Okuma</string>
@@ -192,7 +192,7 @@
   <string name="pref_auto_adjust_settings">Oto-Senkronize ayarları</string>
   <string name="pref_auto_adjust_traffic">İstatistikleri senkronize et</string>
   <string name="pref_automatic_adjust"> Ayarlar</string>
-  <string name="pref_avaible_traffic">Wireless Planı</string>
+  <string name="pref_avaible_traffic">Kablosuz Planı</string>
   <string name="pref_category_title_other">Diğer ayarlar</string>
   <string name="pref_check_network_diagnostics">Mobil verinin normal çalıştığını kontrol edin</string>
   <string name="pref_connect_settings_enable_background">Arka plan verilerini aç</string>

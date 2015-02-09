@@ -7,7 +7,6 @@
 	<item>Kahve</item>
 	<item>Yeşil</item>
 	<item>Mavi</item>
-	<item>Koyu</item>
 </string-array>
 <string-array name="pref_homepage_choices">
 	<item>Varsayılan açılış sayfası</item>
@@ -32,6 +31,13 @@
 	<item>Her zaman</item>
 </string-array>
 <string-array name="pref_text_size_choices">
+	<item>Çok Küçük</item>
+	<item>Küçük</item>
+	<item>Normal</item>
+	<item>Büyük</item>
+	<item>Çok Büyük</item>
+</string-array>
+<string-array name="pref_text_zoom_choices">
 	<item>Çok Küçük</item>
 	<item>Küçük</item>
 	<item>Normal</item>
