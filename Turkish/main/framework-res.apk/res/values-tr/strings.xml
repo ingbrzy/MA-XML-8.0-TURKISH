@@ -155,7 +155,7 @@ Kapatmak ister misiniz?"</string>
   <string name="data_usage_warning_title">Veri kullanım uyarısı</string>
   <string name="data_usage_wifi_limit_snoozed_title">Kablosuz veri limiti aşıldı</string>
   <string name="data_usage_wifi_limit_title">Kablosuz veri devre dışı bırkldı</string>
-  <string name="date_and_time" formatted="false">%d %b %Y %H:%M:%S</string>
+  <string name="date_and_time" formatted="false">%-k:%M:%S %-e.%-m.%Y</string>
   <string name="date_picker_decrement_day_button">Günü azalt</string>
   <string name="date_picker_decrement_month_button">Ayı azalt</string>
   <string name="date_picker_decrement_year_button">Yılı azalt</string>
@@ -206,7 +206,7 @@ Kapatmak ister misiniz?"</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
   <string name="ellipsis">…</string>
-  <string name="ellipsis_two_dots">‥</string>
+  <string name="ellipsis_two_dots">..</string>
   <string name="emailTypeCustom">Özel</string>
   <string name="emailTypeHome">Ev</string>
   <string name="emailTypeMobile">Mobil</string>
@@ -288,8 +288,8 @@ Kapatmak ister misiniz?"</string>
   <string name="heavy_weight_switcher_text">Başka bir uygulama zaten çalışıyor. Yeni bir uygulama başlatmadan bu uygulama durdurulmalıdır.</string>
   <string name="heavy_weight_switcher_title">Uygulama değiştirilsin mi?</string>
   <string name="hour">saat</string>
-  <string name="hour_ampm" formatted="false">%-l%P</string>
-  <string name="hour_cap_ampm" formatted="false">%-l%p</string>
+  <string name="hour_ampm" formatted="false">%-l %P</string>
+  <string name="hour_cap_ampm" formatted="false">%-l %p</string>
   <string name="hours">saat</string>
   <string name="httpError">Bir ağ hatası oluştu.</string>
   <string name="httpErrorAuth">Kimlik doğrulanamadı.</string>
@@ -440,7 +440,7 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
   <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
-  <string name="lockscreen_battery_short">%%%d</string>
+  <string name="lockscreen_battery_short">%d %%</string>
   <string name="lockscreen_carrier_default">ŞEBEKE YOK!</string>
   <string name="lockscreen_charged">Şarj tamamlandı</string>
   <string name="lockscreen_emergency_call">Acil durum çağrısı</string>
@@ -615,7 +615,7 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="mmiComplete">MMI tamamlandı.</string>
   <string name="mmiError">Bağlantı sorunu veya geçersiz MMI kodu.</string>
   <string name="mmiFdnError">İşlem sadece sabit arama numaralarıyla sınırlandırılmıştır.</string>
-  <string name="month_day_year" formatted="false">%d %B %Y</string>
+  <string name="month_day_year" formatted="false">%-e. %B %Y</string>
   <string name="more_item_label">Diğer</string>
   <string name="needPuk">SIM kart PUK kilidi devrede. Kilidi açmak için PUK kodunu yazın.</string>
   <string name="needPuk2">Engellenen SIM kartı açmak için PUK2 kodunu yazın.</string>
@@ -636,7 +636,7 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="number_picker_increment_button">Artır</string>
   <string name="number_picker_increment_scroll_action">Artırmak için yukarı, azaltmak için aşağı kaydırın.</string>
   <string name="number_picker_increment_scroll_mode">%s rakamına dokunun ve basılı tutun.</string>
-  <string name="numeric_date_template" formatted="false">%s %s %s</string>
+  <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
   <string name="ok">Tamam</string>
   <string name="old_app_action">%1$s öğesine geri dön</string>
   <string name="old_app_description">Yeni uygulamayı başlatmayın.</string>
@@ -1367,7 +1367,7 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
   <string name="throttle_warning_notification_title">Yüksek düzeyde mobil veri kullanımı</string>
   <string name="throttled_notification_message">Mobil veri kullanımı hakkında daha fazla bilgi edinmek için dokunun.</string>
   <string name="throttled_notification_title">Mobil veri limiti aşıldı</string>
-  <string name="time_of_day" formatted="false">%H:%M:%S</string>
+  <string name="time_of_day" formatted="false">%-k:%M:%S</string>
   <string name="time_picker_decrement_hour_button">Saati azalt</string>
   <string name="time_picker_decrement_minute_button">Dakikayı azalt</string>
   <string name="time_picker_decrement_set_am_button">ÖÖ değerini ayarla</string>

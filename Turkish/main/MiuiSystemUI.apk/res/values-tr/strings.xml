@@ -143,7 +143,7 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="return_to_incall_screen">Çağrıya dön</string>
   <string name="screenshot_failed_text">Ekran görüntüsü kaydedilemedi. Depolama birimi kullanımda olabilir.</string>
   <string name="screenshot_failed_title">Ekran görüntüsü alınamadı.</string>
-  <string name="screenshot_saved_text">Ekran görüntüsüne gözatmak için dokunun.</string>
+  <string name="screenshot_saved_text">Görüntülemek için dokunun.</string>
   <string name="screenshot_saved_title">Ekran görüntüsü alındı.</string>
   <string name="screenshot_saving_text">Ekran görüntüsü kaydediliyor.</string>
   <string name="screenshot_saving_ticker">Ekran görüntüsü kaydediliyor...</string>
@@ -168,7 +168,7 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="status_bar_recent_guide_bottom">Aşağı kaydırıp kilitleyin</string>
   <string name="status_bar_recent_guide_top">Yukarı kaydırıp kapatın</string>
   <string name="status_bar_recent_inspect_item_title">Uygulama bilgisi</string>
-  <string name="status_bar_recent_memory_info1">%1$sB | %2$sB kullanılabilir</string>
+  <string name="status_bar_recent_memory_info1">%2$sB | %1$sB kullanılabilir</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Ses kaydediciye dön</string>
   <string name="status_bar_recording_pause">Kayıt duraklatıldı</string>
