@@ -14,7 +14,7 @@
   <string name="accessibility_time_picker_minute">Dakika</string>
   <string name="accessibility_time_picker_second">Saniye</string>
   <string name="account_prifix">Hesap:</string>
-  <string name="action">Sign in</string>
+  <string name="action">Oturum aç</string>
   <string name="action_menu_text_bandwidth">Bandwidth</string>
   <string name="action_menu_text_bandwidth_off">Bandwidth/Off</string>
   <string name="action_menu_text_bandwidth_on">Bandwidth/On</string>
@@ -35,9 +35,9 @@
   <string name="adblock_websites_settings_empyt_hint">"Engellenen site yok"</string>
   <string name="adblock_websites_settings_title">Engellenen siteler</string>
   <string name="add_bookmark">Yer İmlerine Ekle</string>
-  <string name="add_bookmark_group">Grup ekle</string>
+  <string name="add_bookmark_group">Gruba ekle</string>
   <string name="add_folder">Yer İmlerine ekle</string>
-  <string name="add_new_bookmark">Add bookmark</string>
+  <string name="add_new_bookmark">Yer İmlerine ekle</string>
   <string name="add_new_quicklink">Hızlı bağlantılara ekle</string>
   <string name="add_ql_bm_title">Kaydet</string>
   <string name="add_quicklink_to_popular">Açılış sayfasına ekle</string>
@@ -298,7 +298,7 @@
   <string name="miui_bookmark_menu_moveout_group_txt">Taşı</string>
   <string name="miui_content_copy">Kopyala</string>
   <string name="miui_content_cut">Kes</string>
-  <string name="miui_content_open_url">OpenURL</string>
+  <string name="miui_content_open_url">URL\'i aç</string>
   <string name="miui_content_paste">Yapıştır</string>
   <string name="miui_content_select">Seç</string>
   <string name="miui_content_select_all">Tümünü seç</string>
@@ -579,7 +579,7 @@
   <string name="tab_history">Geçmiş</string>
   <string name="tab_hotpage">Trend</string>
   <string name="tab_most_visited">En çok ziyaret edilenler</string>
-  <string name="tab_quicklinks">Kullanışlı</string>
+  <string name="tab_quicklinks">Ev</string>
   <string name="tab_videopage">Video</string>
   <string name="tab_yellowpage">Popüler</string>
   <string name="time_picker_dialog_am">AM</string>
@@ -605,7 +605,7 @@
   <string name="user_defined_webpage">Açılış sayfasına ekle</string>
   <string name="user_defined_webpage_title">Açılış sayfasına ekle</string>
   <string name="v5_deselect_all">Hiçbirini seçme</string>
-  <string name="v5_edit_mode_title_empty">0 Seçili</string>
+  <string name="v5_edit_mode_title_empty">0 öğe seçildi</string>
   <string name="v5_select_all">Tümünü seç</string>
   <string name="video_activity_name">Video Koleksiyonları</string>
   <string name="video_collect_cancel">Toplamayı iptal et</string>

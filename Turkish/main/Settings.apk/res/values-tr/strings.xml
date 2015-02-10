@@ -1586,6 +1586,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="skip_step">Atla</string>
   <string name="slot_status_title">"IMEI bilgileri"</string>
   <string name="small_font">Ufak</string>
+  <string name="smartcover_sensitive_title">Akıllı Kapak Modu</string>
   <string name="sms_application_title">Varsayılan SMS uyglaması</string>
   <string name="sms_change_default_dialog_text" formatted="false">SMS uygulaması olarak %s yerine %s kullanmak ister misiniz?</string>
   <string name="sms_change_default_dialog_title">SMS uygulaması değişsin mi?</string>
@@ -1634,8 +1635,8 @@ PIN kodu yanlış olabilir!"</string>
   <string name="status_bar_settings_show_notificationBar_notification">Bildirim çubuğunda göster</string>
   <string name="status_bar_settings_show_notification_icon">Bildirim simgesini göster</string>
   <string name="status_bar_settings_show_screenshot_notification">Ekran görüntüsü bildirimini göster</string>
-  <string name="status_bar_settings_show_statusBar_notification">Bildirimleri kilit ekranında göster</string>
-  <string name="status_bar_settings_show_statusBar_notification_summary">Bildirim, ekranın üst kısmında görünür ve otomatik olarak kaybolur</string>
+  <string name="status_bar_settings_show_statusBar_notification">Kayan bildirimleri göster</string>
+  <string name="status_bar_settings_show_statusBar_notification_summary">Kayan bildirimleri kilit ekranında göster</string>
   <string name="status_bar_settings_show_wifi_name">Wi-Fi göster</string>
   <string name="status_bar_settings_status_bar">Durum çubuğu</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Tıklatınca kapat</string>
@@ -1936,6 +1937,11 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_certificate">Sertifika</string>
   <string name="wifi_configured_ap_list">Önceden yapılandırılmış APler</string>
   <string name="wifi_connect">Bağlan</string>
+  <string name="wifi_connect_cmcc_dialog_cancel">İptal</string>
+  <string name="wifi_connect_cmcc_dialog_confirm">TAMAM</string>
+  <string name="wifi_connect_cmcc_dialog_content">CMCC veri ağına bağlandı</string>
+  <string name="wifi_connect_cmcc_dialog_not_remind">"Tekrar gösterme"</string>
+  <string name="wifi_connect_cmcc_dialog_title">Veri kullanım bildirimleri</string>
   <string name="wifi_connect_failed_message">Wi-Fi bağlantısına ulaşılamıyor</string>
   <string name="wifi_context_menu_change_password">Şifreyi değiştir</string>
   <string name="wifi_context_menu_change_wapi_certificate">WAPI Sertifkasını değiştir</string>
@@ -2006,8 +2012,15 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_menu_wps_pin">WPS Pin Girişi</string>
   <string name="wifi_more">Daha Fazla</string>
   <string name="wifi_network_prefix_length">Ağ ön ek uzunluğu</string>
+  <string name="wifi_notify_cmcc_connected_summary">CMCC ağına bağlanınca bildirim göster</string>
+  <string name="wifi_notify_cmcc_connected_title">CMCC ağı bildirimleri</string>
   <string name="wifi_notify_open_networks">Ağ bildirimleri</string>
   <string name="wifi_notify_open_networks_summary">Açık bir ağ kullanılabilir olduğunda bana bildir</string>
+  <string name="wifi_off_airplane_on_cancel">İptal</string>
+  <string name="wifi_off_airplane_on_confirm">TAMAM</string>
+  <string name="wifi_off_airplane_on_content">Uçak modunda iken Wi-Fi\'ı açabilirsiniz</string>
+  <string name="wifi_off_airplane_on_not_remind">"Tekrar gösterme"</string>
+  <string name="wifi_off_airplane_on_title">Uçak modunda Wi-Fi</string>
   <string name="wifi_on_time">Wi-Fi açık kalma süresi</string>
   <string name="wifi_other_network">Diğer ağlar…</string>
   <string name="wifi_p2p_cancel_connect_message">%1$s ile bağlantı davetini iptal etmek istiyor musunuz?</string>

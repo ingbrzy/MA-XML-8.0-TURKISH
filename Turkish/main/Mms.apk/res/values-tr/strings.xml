@@ -270,7 +270,7 @@
   <string name="mx_btn_enable">Etkinleştir</string>
   <string name="mx_btn_enable_now">Etkin</string>
   <string name="mx_count_dspt">%1$d SMS ve %2$d MMS gönderdiniz</string>
-  <string name="mx_current_status">Durum: Çevrimiçi</string>
+  <string name="mx_current_status">Veri kullanım ayarları</string>
   <string name="mx_dspt">Mi Mesaj ile herhangi bir MIUI kullanıcısına ücretsiz mesaj gönderebilirsiniz</string>
   <string name="mx_dspt_provision">Mi Mesaj, SMS ücreti ödemeden diğer MIUI kullanıcılarına mesaj göndermenizi sağlar. Bu hizmeti etkinleştirmek bir SMS gönderilir ve bu SMS operatörünüz tarafından ücretlendirilebilir.</string>
   <string name="mx_enable">Mi Mesaj</string>
@@ -322,14 +322,14 @@
   <string name="pref_sms_theme_title">Görüntüleme</string>
   <string name="pref_summary_allow_si_sl_push">(SI/SL) WAP Push mesajlar  ve bildirimlerine izin verir</string>
   <string name="pref_summary_delete_limit">Her bir konuşma için %1$s mesaj</string>
-  <string name="pref_summary_delivery_reports">Mesaj gönderildiğinde iletildi raporu alır</string>
+  <string name="pref_summary_delivery_reports">Mesaj gönderildiğinde iletildi raporu göster</string>
   <string name="pref_summary_hide_festival">Çince dili dışı kullanım için önerilenler tabını kaldır</string>
   <string name="pref_summary_manage_sim_messages">SIM kartınızda depolanan mesajları yönetin</string>
   <string name="pref_summary_mms_auto_retrieval">Mesajları otomatik olarak al</string>
   <string name="pref_summary_mms_read_reports">Gönderdiğiniz her mesaj için bir okundu raporu iste</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Dolaşırken mesajları otomatik olarak al</string>
   <string name="pref_summary_mx_feedback">MIUI gelişimine yardımcı olun! Eksik ve hataları Xiaomi\'e bildirin.</string>
-  <string name="pref_summary_notification_body_enabled">Gelen mesaj içeriğinin önizlemesini gösterir (kilit ekranı, durum çubuğu, mesaj penceresi)</string>
+  <string name="pref_summary_notification_body_enabled">Gelen mesaj içeriğinin önizlemesini göster (kilit ekranı, durum çubuğu, mesaj penceresi)</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Misafir modunda mesajların ön izlemesi yapılamaz</string>
   <string name="pref_summary_off_system_mms_priority">MMS servisi için 3. şahıs uygulamalarını kullan</string>
   <string name="pref_summary_on_system_mms_priority">MIUI Mesajlaşma uygulumasını MMS servisi için varsayılan olarak ata</string>
@@ -350,9 +350,9 @@
   <string name="pref_title_mms_delete">Multimedia mesajı limiti</string>
   <string name="pref_title_mms_read_reports">Okundu raporları</string>
   <string name="pref_title_mms_retrieval_during_roaming">Dolaşımda otomatik al</string>
-  <string name="pref_title_notification_body_enabled">Mesaj önizlemesini göster</string>
+  <string name="pref_title_notification_body_enabled">Mesajları kilit ekranında göster</string>
   <string name="pref_title_ringtone_repeat">Bildirim sesi sayısı</string>
-  <string name="pref_title_ringtone_repeat_summary">Ekran kapalı iken mesaj geldiğinde çalınacak bildirim sesi sayısını ayarlayın.</string>
+  <string name="pref_title_ringtone_repeat_summary">"Ekran kapalı iken mesaj geldiğinde çalınacak bildirim sesi sayısını ayarlayın."</string>
   <string name="pref_title_show_recent_contacts">Son kişileri göster</string>
   <string name="pref_title_sms_delete">Metin mesajı limiti</string>
   <string name="pref_title_system_mms_priority">Sistem MMS uyg. önceliği</string>

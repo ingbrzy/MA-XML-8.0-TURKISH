@@ -156,11 +156,11 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="share">Paylaş</string>
   <string name="status_bar_date_format">d MMMM EEEE</string>
   <string name="status_bar_date_formatter">%2$s</string>
-  <string name="status_bar_network_flow">"Bugün: %1$s | Kalan: %2$s | Kota: %3$s"</string>
-  <string name="status_bar_network_flow_exceed">"Bugün: %1$s | Aşılan: %2$s | Kota: %3$s"</string>
-  <string name="status_bar_network_flow_exceed_to_purchase">Bugün: %1$s | Aşılan: |%3$s | Satın al &gt;</string>
+  <string name="status_bar_network_flow_content">"Bugün: %1$s | Kalan: %2$s"</string>
+  <string name="status_bar_network_flow_exceed_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Aşılan:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+  <string name="status_bar_network_flow_limit">" Aylık Limit: %1$s"</string>
+  <string name="status_bar_network_flow_purchase">" Satın Al &gt;"</string>
   <string name="status_bar_network_flow_today">Bugün:%1$s</string>
-  <string name="status_bar_network_flow_warning_to_purchase">"Bugün: %1$s Kalan: %2$s Satın al &gt;"</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Son uygulamanız yok!</string>
   <string name="status_bar_recent_guide_all">"Yukarı kaydırıp kapatın, 
