@@ -32,7 +32,7 @@
   <string name="ThreeWCMmi">Üç yönlü arama</string>
   <string name="VideoView_error_button">Tamam</string>
   <string name="VideoView_error_text_invalid_progressive_playback">Bu video bu cihazda akış için uygun değil.</string>
-  <string name="VideoView_error_text_unknown">Bu video oynatılamıyor.</string>
+  <string name="VideoView_error_text_unknown">Bu video oynatılamıyor!</string>
   <string name="VideoView_error_title">Video sorunu</string>
   <string name="accept">Kabul et</string>
   <string name="accessibility_binding_label">Erişebilirlik</string>
@@ -479,7 +479,7 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="lockscreen_return_to_call">Çağrıya dön</string>
   <string name="lockscreen_screen_locked">Ekran kilitli.</string>
   <string name="lockscreen_sim_locked_message">SIM kart kilitli.</string>
-  <string name="lockscreen_sim_puk_locked_instructions">"Kullanıcı Rehberi\'ne bakın veya Müşteri Hizmetlerine başvurun."</string>
+  <string name="lockscreen_sim_puk_locked_instructions">"PIN1 kodu bloke oldu.Kullanıcı Rehberine bakın veya Müşteri Hizmetlerine başvurun."</string>
   <string name="lockscreen_sim_puk_locked_message">SIM kart PUK kilidi devrede.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">SIM kart kilidi açılıyor…</string>
   <string name="lockscreen_sound_off_label">Sesi kapat</string>
@@ -1207,6 +1207,8 @@ izin isteğinde bulunuldu."</string>
   <string name="quick_contacts_not_available">Bu kişiyi görüntüleyecek uygulama bulunamadı.</string>
   <string name="reason_service_unavailable">Yazdırma hizmeti etkin değil</string>
   <string name="reason_unknown">bilinmiyor</string>
+  <string name="reboot_confirm">Telefonunuz tekrar başlatılacak</string>
+  <string name="reboot_progress">Tekrar başlatılıyor…</string>
   <string name="reboot_safemode_confirm">Cihazı kapatıp güvenli modda tekrar açmak ister misiniz? Bu işlem, yüklediğiniz tüm üçüncü taraf uygulamaları devre dışı bırakacaktır. Daha sonra tekrar açtığınızda bu uygulamalar geri yüklenecektir.</string>
   <string name="reboot_safemode_title">Güvenli modda yeniden aç</string>
   <string name="recent_tasks_title">En Son Görevler</string>
@@ -1375,6 +1377,7 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
   <string name="time_picker_increment_hour_button">Saati artır</string>
   <string name="time_picker_increment_minute_button">Dakikayı artır</string>
   <string name="time_picker_increment_set_pm_button">ÖS değerini ayarla</string>
+  <string name="transient_navigation_confirmation_long">Sistem çubuğu ortaya çıkarmak için ekranın kenarına doğru kaydırın</string>
   <string name="turn_off_radio">Kablosuzu kapat</string>
   <string name="turn_on_radio">Kablosuzu aç</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Yakınlaştırma denetimi için iki kez dokunun</string>
@@ -1442,19 +1445,19 @@ Kapatmak ister misiniz?"</string>
   <string name="webviewchromium_accessibility_time_picker_minute">Dakika</string>
   <string name="webviewchromium_accessibility_time_picker_second">Saniye</string>
   <string name="webviewchromium_actionbar_share">Paylaş</string>
-  <string name="webviewchromium_actionbar_web_search">Web arama</string>
+  <string name="webviewchromium_actionbar_web_search">Web araması</string>
   <string name="webviewchromium_color_picker_button_black">Siyah</string>
   <string name="webviewchromium_color_picker_button_blue">Mavi</string>
   <string name="webviewchromium_color_picker_button_cancel">İptal</string>
   <string name="webviewchromium_color_picker_button_cyan">Turkuaz</string>
   <string name="webviewchromium_color_picker_button_green">Yeşil</string>
-  <string name="webviewchromium_color_picker_button_magenta">Macenta</string>
+  <string name="webviewchromium_color_picker_button_magenta">Eflatun</string>
   <string name="webviewchromium_color_picker_button_more">Diğer</string>
   <string name="webviewchromium_color_picker_button_red">Kırmızı</string>
   <string name="webviewchromium_color_picker_button_set">Ayarla</string>
   <string name="webviewchromium_color_picker_button_white">Beyaz</string>
   <string name="webviewchromium_color_picker_button_yellow">Sarı</string>
-  <string name="webviewchromium_color_picker_dialog_title">Renk seçin</string>
+  <string name="webviewchromium_color_picker_dialog_title">Rengi seçin</string>
   <string name="webviewchromium_color_picker_hue">Ton</string>
   <string name="webviewchromium_color_picker_saturation">Doygunluk</string>
   <string name="webviewchromium_color_picker_value">Değer</string>
@@ -1474,7 +1477,7 @@ Kapatmak ister misiniz?"</string>
   <string name="webviewchromium_opening_file_error">Seçilen dosya açılamadı</string>
   <string name="webviewchromium_private_browsing_warning">"Bu işlev, Android\'in bu sürümünde desteklenmiyor."</string>
   <string name="webviewchromium_profiler_error_toast">Profil oluşturucu başlatılamadı</string>
-  <string name="webviewchromium_profiler_no_storage_toast">Harici depolama birimi hazır olmadığından profil oluşturucu başlatılamıyor</string>
+  <string name="webviewchromium_profiler_no_storage_toast">"Harici depolama birimi hazır olmadığından profil oluşturucu başlatılamıyor"</string>
   <string name="webviewchromium_profiler_started_toast">Profil oluşturucu başlatıldı</string>
   <string name="webviewchromium_profiler_stopped_toast">Profil oluşturucu tamamlandı. Sonuçlar %1$s dosyasına yazıldı.</string>
   <string name="webviewchromium_time_picker_dialog_am">ÖÖ</string>
