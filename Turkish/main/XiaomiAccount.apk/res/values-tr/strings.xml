@@ -33,6 +33,7 @@
   <string name="account_user_name">Ad</string>
   <string name="account_user_name_dialog_title">Kullanıcı adını girin</string>
   <string name="account_user_phone">Telefon numarası</string>
+  <string name="account_user_using_facebook_avatar">Facebook profil resmini kullan</string>
   <string name="account_user_using_qq_avatar">QQ profil resmini kullan</string>
   <string name="account_user_using_weibo_avatar">Sina Weibo profil resmini kullan</string>
   <string name="account_xiaomi_service">Servisler</string>
@@ -284,11 +285,12 @@
   <string name="seperator_forget_and_foreign">" | "</string>
   <string name="service_error">Servis hatası</string>
   <string name="sina_weibo">Sina Weibo</string>
-  <string name="skip_login">Oturum açmayı geç</string>
+  <string name="skip_login">Oturum açmayı atla</string>
   <string name="skip_login_u">Oturum açmayı atla</string>
   <string name="skip_register">Atla</string>
+  <string name="sns_access_token_expired_warning">Hesap oturum açma süresi doldu. Bu hesabı eklemek için tekrar giriş yapın.</string>
   <string name="timeout_retry">İstek zaman aşımına uğradı!</string>
-  <string name="title_reg">Hesap oluşturun</string>
+  <string name="title_reg">Hesap oluştur</string>
   <string name="trust_device">Güvenli cihaz</string>
   <string name="update_contacts">Adres kitabını güncelle</string>
   <string name="update_contacts_description">Sina Weibo kişilerinizin bilgilerini senkronizasyon etmek için Mi Hesabınızı kullanacak.</string>
