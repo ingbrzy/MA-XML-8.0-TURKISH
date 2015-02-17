@@ -24,7 +24,7 @@
   <string name="account_user_avatar_from_album">Fotoğrafı seç</string>
   <string name="account_user_avatar_from_camera">Fotoğraf çek</string>
   <string name="account_user_birthday">Doğum tarihi</string>
-  <string name="account_user_details">User info</string>
+  <string name="account_user_details">Kullanıcı Bilgileri</string>
   <string name="account_user_email">Eposta</string>
   <string name="account_user_gender">Cinsiyet</string>
   <string name="account_user_gender_female">Kadın</string>
@@ -158,7 +158,7 @@
   <string name="passport_error_device_id">"Cihaz ID alınamıyor"</string>
   <string name="passport_error_dup_email">Bu e-posta zaten başka bir hesap ile ilişkili</string>
   <string name="passport_error_dup_phone">Bu telefon numarası zaten başka bir hesap ile ilişkili</string>
-  <string name="passport_error_email">Girilen e-osta adresi geçersiz.</string>
+  <string name="passport_error_email">Girilen e-posta adresi geçersiz.</string>
   <string name="passport_error_empty_captcha_code">Enter passport_captcha code</string>
   <string name="passport_error_empty_email">E-posta adresinizi girin</string>
   <string name="passport_error_empty_phone_num">Telen numarasını girin</string>
