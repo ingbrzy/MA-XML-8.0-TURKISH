@@ -605,9 +605,9 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="device_admin_title">Cihaz yönetimi</string>
   <string name="device_admin_warning">Bu yöneticinin etkinleştirilmesi, %1$s uygulamasının şu işlemleri gerçekleştirilmesine izin verir:</string>
   <string name="device_cpu">İşlemci</string>
-  <string name="device_cpu2_info">"2 Çekirdek"</string>
-  <string name="device_cpu4_info">"4 Çekirdek"</string>
-  <string name="device_cpu8_info">"8 Çekirdek"</string>
+  <string name="device_cpu2_info">"2 Çekirdek "</string>
+  <string name="device_cpu4_info">"4 Çekirdek "</string>
+  <string name="device_cpu8_info">"8 Çekirdek "</string>
   <string name="device_edit_title">Cihaz adını değiştir</string>
   <string name="device_info_default">Bilinmiyor</string>
   <string name="device_info_label">Cihaz bilgileri</string>
@@ -1166,7 +1166,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="only_when_charging">Sadece şarj olurken</string>
   <string name="open_wifi_connect_summary">Detayları görüntülemek için dokun</string>
   <string name="open_wifi_connect_title">%1$s ile bağlandı</string>
-  <string name="other_advanced_settings">İlave ayarlar</string>
+  <string name="other_advanced_settings">Diğer ayarlar</string>
   <string name="other_personal_settings">Kişisel ayarlar</string>
   <string name="other_relative">Diğer yetkiler</string>
   <string name="overlay_display_devices_title">İkincil ekranları simüle et</string>
@@ -1513,7 +1513,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s kullanılan</string>
   <string name="service_manage">Ayarlar</string>
-  <string name="service_manage_description">"%1$s: şu anda kullanılıyor. Kontrol etmek için Ayarlar\'a dokunun."</string>
+  <string name="service_manage_description">"%1$s: şu anda kullanılıyor. Kontrol etmek için Ayarlara dokunun."</string>
   <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Yeniden başlatılıyor..</string>
   <string name="service_started_by_app">Uygulama tarafından başlatıldı.</string>
@@ -1590,7 +1590,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="sms_application_title">Varsayılan SMS uyglaması</string>
   <string name="sms_change_default_dialog_text" formatted="false">SMS uygulaması olarak %s yerine %s kullanmak ister misiniz?</string>
   <string name="sms_change_default_dialog_title">SMS uygulaması değişsin mi?</string>
-  <string name="sms_change_default_no_previous_dialog_text">SMS uygulaması olarak %s kullaılsın mı?</string>
+  <string name="sms_change_default_no_previous_dialog_text">SMS uygulaması olarak %s kullanılsın mı?</string>
   <string name="sms_delivered_sound_dialog_title">SMS raporu bildirimi sesi</string>
   <string name="sms_delivered_sound_title">SMS raporu bildirimi sesi</string>
   <string name="sms_received_sound_dialog_title">SMS alındı bildirimi sesini seçin</string>

@@ -273,7 +273,7 @@
   <string name="enable_disable_eo">İş fırsatları</string>
   <string name="enable_disable_international">Uluslararası</string>
   <string name="enable_disable_lafs">Bölgesel uçuş takvimi</string>
-  <string name="enable_disable_local">Bölge</string>
+  <string name="enable_disable_local">Bölge Ayarları</string>
   <string name="enable_disable_local_weather">Hava durumu</string>
   <string name="enable_disable_lodgings">Konaklamalar</string>
   <string name="enable_disable_maintenance">Tamirhaneler</string>
@@ -610,7 +610,7 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="preference_telocation_summary_countrycode_on">Ülke kodunu oto-ekle</string>
   <string name="preference_telocation_summary_teloc_off">Kişi konumunu gizle</string>
   <string name="preference_telocation_summary_teloc_on">Kişi konumunu göster</string>
-  <string name="preference_telocation_title">Bölge</string>
+  <string name="preference_telocation_title">Bölge Ayarları</string>
   <string name="preferred_network_mode_dialogtitle">Şebeke modu</string>
   <string name="preferred_network_mode_summary">Şebeke modunu değiştir</string>
   <string name="preferred_network_mode_title">Şebeke modu</string>
@@ -879,7 +879,7 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="turn_off_auto_select_warning_message">Bu özellik kapatılınca, seçtiğiniz şebeke kullanılacak</string>
   <string name="turnover_mute_summary">Telefon yatay yerleştirilmiş ise gelen çağrıyı susturmak için cihazı ters çevirin</string>
   <string name="turnover_mute_title">Susturmak için ters çevir</string>
-  <string name="undefined">Tanımlanamayan</string>
+  <string name="undefined">Liste boş</string>
   <string name="unknown">Bilinmeyen</string>
   <string name="unknown_num">Bilinmeyen numara</string>
   <string name="unlock_failed">Şebeke kilit açma isteği başarısız.</string>

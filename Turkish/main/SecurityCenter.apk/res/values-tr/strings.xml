@@ -93,8 +93,8 @@
   <string name="btn_text_virus_scan">Tara</string>
   <string name="button_antivirus">TAMAM</string>
   <string name="button_optimizer">TAMAM</string>
-  <string name="button_text_accept">Kabul</string>
-  <string name="button_text_accept_timer">Kabul (%d)</string>
+  <string name="button_text_accept">TAMAM</string>
+  <string name="button_text_accept_timer">TAMAM (%d)</string>
   <string name="button_text_add_to_white_list">İstisnalara ekle</string>
   <string name="button_text_backup_uninstall">Yedekle ve kaldır</string>
   <string name="button_text_cancel">İptal</string>
@@ -135,7 +135,7 @@
   <string name="clean_content_all">Herşey</string>
   <string name="clean_content_one">%s</string>
   <string name="clean_content_three">Atla %s</string>
-  <string name="clean_content_two">%1$s ve%2$s</string>
+  <string name="clean_content_two">%1$s ve %2$s</string>
   <string name="clean_content_zero">"Temizlik yapma"</string>
   <string name="confirm_auto_cleaner">Tamam</string>
   <string name="cta_button_text_agree">Tamam</string>
