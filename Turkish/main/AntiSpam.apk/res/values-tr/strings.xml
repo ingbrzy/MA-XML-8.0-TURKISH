@@ -19,7 +19,7 @@
   <string name="AD_Unistall">Yüklemeyi kaldır</string>
   <string name="APKTOOL_DUMMY_0130">false</string>
   <string name="Call_ADRESS">Yerel Kara Liste</string>
-  <string name="Call_BLACKLIST">Engellenen çağrılar listesi</string>
+  <string name="Call_BLACKLIST">Engellendi</string>
   <string name="Call_DEFAULT">Akıllı Kara Liste</string>
   <string name="Call_MODENAME">Varsayılan Kara Liste</string>
   <string name="Call_PREFIX">Engellenmiş ön eki listesi</string>
@@ -62,7 +62,7 @@
   <string name="block_phone_number">Çağrılar: %d</string>
   <string name="button_text_delete">Sil</string>
   <string name="button_to_setting">Ayarlar</string>
-  <string name="call_delete_hint">Seçili numaradan gelen çağrılar silinsin mi?</string>
+  <string name="call_delete_hint">Seçtiğiniz numaradan gelen çağrılar silinsin mi?</string>
   <string name="call_delete_title">Çağrıyı sil</string>
   <string name="call_transfer_block">Yönlendirilmiş çağrıları engelle</string>
   <string name="call_transfer_block_type">Yönlendirilmiş çağrıları engelle</string>
@@ -92,7 +92,7 @@
   <string name="dlg_clear_current_call">Bu numaradan gelen tüm engellenmiş çağrılar temizlensin mi?</string>
   <string name="dlg_clear_current_ok">Temizle</string>
   <string name="dlg_clear_current_sms">Bu numaradan gelen tüm engellenmiş mesajlar silinsin mi?</string>
-  <string name="dlg_delete_keyword">Seçilen kelimeler listeden silinsin mi?</string>
+  <string name="dlg_delete_keyword">Seçtiğiniz kelimeler listeden silinsin mi?</string>
   <string name="dlg_edit_keyword">Kelimeyi düzenle</string>
   <string name="dlg_import_blacklist">Ekleniyor...</string>
   <string name="dlg_import_whitelist">Ekleniyor...</string>
@@ -184,7 +184,7 @@
   <string name="report_warning">"%1$s MIUI sunucularına raporlansın mı?"</string>
   <string name="report_warning_title">Uyarı</string>
   <string name="sim_not_ready">SIM kart hazır değil!</string>
-  <string name="sms_delete_hint">Seçili numaradan gelen ve engellenen mesajlar silinsin mi?</string>
+  <string name="sms_delete_hint">Seçtiğiniz numaradan gelen ve engellenen mesajlar silinsin mi?</string>
   <string name="sms_delete_title">Mesajı sil</string>
   <string name="sms_smart_engine_update">SMS filtresini otomatik güncelle</string>
   <string name="special_number_group">Özel numaraları engelle</string>
@@ -237,7 +237,7 @@
   <string name="st_filter_keywords_setting_title">Kelime filtresini ayarla</string>
   <string name="st_filter_keywords_title">Anahtar kelime filtresi</string>
   <string name="st_filter_sms_button">Mesajları filtrele</string>
-  <string name="st_hint_add_head_number">Ön eki girin</string>
+  <string name="st_hint_add_head_number">Ön ekini girin</string>
   <string name="st_hint_add_phonenumber">Telefon numarasını gir</string>
   <string name="st_message_SMS_AntiSpam">Mesajları engelle</string>
   <string name="st_message_SMSpass">Mesajlara izin ver</string>

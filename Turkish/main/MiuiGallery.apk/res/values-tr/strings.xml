@@ -226,7 +226,7 @@
   <string name="facetan">Face Tan</string>
   <string name="fail_hint">Operasyon başarısız</string>
   <string name="fail_init_gallery_db_helper">"Galeri veri tabanı yüklenemedi"</string>
-  <string name="fail_to_download_n_items">İndirme başarısız %s</string>
+  <string name="fail_to_download_n_items">"%s indirilemedi"</string>
   <string name="fail_to_pick_email">Geçersiz Email</string>
   <string name="fail_to_sync_album">"Albümün sunucuyla senkronizasyonu başarısız. Ağ bağlantılarınızı kontrol edin."</string>
   <string name="file_not_exist_message">Dosya bulunmuyor</string>

@@ -106,12 +106,12 @@
   <string name="international_roaming_whitelist_count">%d uygulama dolaşımda iken veri servislerini kullanabilir</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Boş</string>
-  <string name="lock_screen_setting_summary">100KB kullanımdan sonra bildirim göster</string>
-  <string name="lock_screen_traffic_notify_body">%1$s için kilitli | %2$s veri kullanıldı</string>
-  <string name="lock_screen_traffic_warn_title">Ekran kapalıyken Mobil veri uyarısı</string>
+  <string name="lock_screen_setting_summary">Ekran kilitli iken 100KB kullanımdan sonra bildirim göster</string>
+  <string name="lock_screen_traffic_notify_body">Ekran Kilitli %1$s | %2$s veri kullanıldı</string>
+  <string name="lock_screen_traffic_warn_title">Kilit ekranı bildirimleri</string>
   <string name="main_alert_message_month_limit_error">Ayarladığınız veri limiti geçersiz!</string>
   <string name="main_alert_message_no_imsi">SIM kart yok</string>
-  <string name="main_alert_message_no_mobile_package">"Veri limitiniz ayarlanmamış"</string>
+  <string name="main_alert_message_no_mobile_package">"Veri limitiniz ayarlı değil"</string>
   <string name="main_alert_message_slot_no_data_connection">"SIM kart girişiniz mobil veri bağlantısını desteklemiyor"</string>
   <string name="main_button_idel_traffic">Limit</string>
   <string name="main_button_normal_traffic">Üst Limit</string>
@@ -219,7 +219,7 @@
   <string name="pref_package_traffic_leisure">%1$s | Limit: %2$s</string>
   <string name="pref_package_traffic_normal">Limit: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Ek: %2$s</string>
-  <string name="pref_package_traffic_settings">Mobil veriyi sınırlayın</string>
+  <string name="pref_package_traffic_settings">Mobil veriyi sınırla</string>
   <string name="pref_pkg_begin_date">Mobil veri yenilenme tarihi</string>
   <string name="pref_setting_operators_message">Veri kullanımını kontrol etmek için operatörünüze mesaj gönderin</string>
   <string name="pref_show_mobile_traffic">Cihaz kilitlendikten sonra, (5 dakikadan daha uzun olmalıdır) Cihaz kilitli olduğu süre boyunca tüketim verilerinin durumunu görüntüle</string>
@@ -328,7 +328,7 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="traffic_protection_unknown">Daha sonra ayarla</string>
   <string name="traffic_protection_use_data">Mobil veri etkinleştirildi</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
-  <string name="traffic_purchse_suggestion">Kontör yükleme zamanı</string>
+  <string name="traffic_purchse_suggestion">Veri limiti aşıldı</string>
   <string name="traffic_saving_button_sorted">Ayrıntılar</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Sıralama ölçütü</string>
   <string name="traffic_saving_button_start">Etkinleştir</string>

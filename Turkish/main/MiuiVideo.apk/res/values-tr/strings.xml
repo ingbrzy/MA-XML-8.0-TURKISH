@@ -144,7 +144,7 @@
   <string name="gong_count_xiang">%d öğe</string>
   <string name="good">Tamam</string>
   <string name="hollywood">Hollywood</string>
-  <string name="hot">Popüler</string>
+  <string name="hot">Yeni</string>
   <string name="hot_recommend">Trend</string>
   <string name="icntv">iCNTV</string>
   <string name="info_channel_title">Haberler</string>
@@ -172,12 +172,12 @@
   <string name="menu_item_disable_audio_enhance">Ses zenginleştiriciyi devre dışı bırak</string>
   <string name="menu_item_enable_audio_enhance">Ses zenginleştiriciyi etkinleştir</string>
   <string name="minute"> Dakika</string>
-  <string name="mipush_setting">Bildirimler</string>
+  <string name="mipush_setting">İçerik bildirimleri</string>
   <string name="month">Ay</string>
   <string name="more">Şuna git:%s</string>
   <string name="my">Yerel</string>
   <string name="my_favorite">Favoriler</string>
-  <string name="my_offline">Çevrimdışı</string>
+  <string name="my_offline">İndirilen</string>
   <string name="mycamera">Videolarım</string>
   <string name="myfavorite">Favori</string>
   <string name="myfavorite_onlylocal">Yıldızlı</string>
@@ -190,7 +190,7 @@
   <string name="nowifi_alert_dialog_exit">Çıkış</string>
   <string name="nowifi_alert_dialog_message">"Bu işlemle mobil veri kullanımınızı önemli miktarda arttırabilirsiniz."</string>
   <string name="nowifi_alert_dialog_title">Video yüklemesi için mobil ağ kullanılsın mı?</string>
-  <string name="offline">Çevrimdışı</string>
+  <string name="offline">İndirilen</string>
   <string name="offline_alert_title">Veri kullanımı</string>
   <string name="offline_alert_wifi">"Veri kullanımını azaltmak için İndirme Duraklatıldı ve Wi-Fi ye bağlandığınızda devam edecek."</string>
   <string name="offline_loaded">Offline video</string>
@@ -200,7 +200,7 @@
   <string name="offline_media_empty_title">Empty</string>
   <string name="offline_no_selected_item_hint">Choose a video</string>
   <string name="offline_no_source">"Çevrimdışı modda görüntüleyemezsiniz"</string>
-  <string name="offline_setting">Çevrimdışı medya</string>
+  <string name="offline_setting">Veri kullanım bildirimleri</string>
   <string name="offline_status_failed">Hata</string>
   <string name="offline_status_finished">Bitti</string>
   <string name="offline_status_loading">İndiriliyor</string>
@@ -209,7 +209,7 @@
   <string name="offline_with">Çevrimdışı (%d)</string>
   <string name="ok">Tamam</string>
   <string name="online_video">Online</string>
-  <string name="other_setting">Diğer</string>
+  <string name="other_setting">Diğer Ayarlar</string>
   <string name="partner_specials">alan ekle</string>
   <string name="pause">Duraklat</string>
   <string name="percent_status">%.0f%%</string>
@@ -226,7 +226,7 @@
   <string name="priority_storage">SD karta kaydet</string>
   <string name="priority_storage_summary"/>
   <string name="qiyi">iQiyi</string>
-  <string name="receive_mipush">Push bildirimleri</string>
+  <string name="receive_mipush">Yeni video bildirimleri</string>
   <string name="receive_mipush_summary">Yeni online içerik izlenebilir olduğunda bildirim al</string>
   <string name="recent_play">En son izlenenler</string>
   <string name="recentplay">En son oynatılanlar</string>
@@ -298,10 +298,10 @@
   <string name="update_to_count_ji">%d. bölüme güncellendi</string>
   <string name="update_to_count_qi">%s e güncellendi</string>
   <string name="update_version_prefix">Güncellenecek sürüm:</string>
-  <string name="updateapk_intro">Değişiklikler</string>
+  <string name="updateapk_intro">"Neler yeni"</string>
   <string name="updatedalready">Güncellendi</string>
   <string name="upgrade">Güncelle</string>
-  <string name="usa">US TV</string>
+  <string name="usa">USA</string>
   <string name="use_cellular_network">Mobil veri bağlantısı kullanın</string>
   <string name="use_cellular_network_summary">Video indirmek için mobil veri bağlantısı kullan.</string>
   <string name="use_cellular_offlinedownload_summary">Mobil veri ile video indirirken bildirim göster</string>

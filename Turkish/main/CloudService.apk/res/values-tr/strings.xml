@@ -21,13 +21,13 @@
   <string name="contact">Kişiler</string>
   <string name="disable_find_device_error">"Cihaz bulma servisi kapatılamıyor %1$s"</string>
   <string name="enableAll">Herşeyi senkronize et</string>
-  <string name="enable_cloud_service_notification">"Bulut hizmeti açık değil"</string>
+  <string name="enable_cloud_service_notification">"Mi Bulut hizmeti açık değil"</string>
   <string name="enable_find_device_error">"Cihaz bulma servisi açılamıyor. %1$s "</string>
   <string name="enable_micloud">Oturum açın veya hesap oluşturun</string>
   <string name="enable_sync">Aç</string>
   <string name="enable_sync_dspt">Senkronizasyon kapalı</string>
   <string name="error_data_in_transfer">Verileriniz taşınıyor. Tahmini gereken süre %s saat.</string>
-  <string name="error_data_in_transfer_title">Bulut servisine şu anda erişilemiyor.</string>
+  <string name="error_data_in_transfer_title">Mi Bulut servisine şu anda erişilemiyor.</string>
   <string name="error_forbidden">Hesabınızla ilgili bazı problemler var : Senkronizasyon devre dışı.</string>
   <string name="error_network">"Ağa bağlanılamıyor"</string>
   <string name="error_not_acceptable">Senkronizasyon devre dışı bırakıldı.</string>
@@ -64,8 +64,8 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="flight_mode">Uçak modu</string>
   <string name="free_space_has_received">Bu ayki ücretsiz alan eklendi!</string>
   <string name="free_space_receive_fail">"Güncellenemiyor!"</string>
-  <string name="get_first_month_gb">%s ücretsiz alan alın</string>
-  <string name="get_this_month_gb">%s ücretsiz alan alın</string>
+  <string name="get_first_month_gb">%s ücretsiz alan ekle</string>
+  <string name="get_this_month_gb">%s ücretsiz alan ekle</string>
   <string name="google_100gb">100GB</string>
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
@@ -100,7 +100,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_dspt_provision">Mi Bulut kullanarak verilerinizi senkronize edin, cihazını bulun ve arkadaşlarınızla paylaşın.</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
-  <string name="micloud_full_influence_dspt">"Bütün fotoğralarınız, videolarınız, notlarınız ve uygulamalarınız bulutta yedeklenecektir.
+  <string name="micloud_full_influence_dspt">"Bütün fotoğralarınız, videolarınız, notlarınız ve uygulamalarınız Mi Bulutta yedeklenecektir.
   Böylece cihazınızı kaybetseniz veya hasarlasanız bile bilgileriniz güvende olacaktır.
   
   Buluttaki alanınız dolduğunda dahi eski bilgileriniz kaybolmayacaktır.
