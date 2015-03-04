@@ -39,6 +39,10 @@
 <plurals name="Nnew_tracks_count">
 	<item quantity="other">%d yeni</item>
 </plurals>
+<plurals name="Nnew_local_audios">
+	<item quantity="other">%d şarkı eklendi</item>
+	<item quantity="one">%d şarkı eklendi</item>
+</plurals>
 <plurals name="Ntracks_similar_count">
 	 <item quantity="other">%d benzer şarkı</item>
 	 <item quantity="one">%d benzer şarkı</item>

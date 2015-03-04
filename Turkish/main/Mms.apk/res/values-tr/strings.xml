@@ -319,6 +319,7 @@
   <string name="pref_mms_settings_title">"Multimedia (MMS) mesajları"</string>
   <string name="pref_notification_settings_title">Bildirimler</string>
   <string name="pref_other_title">Diğer</string>
+  <string name="pref_show_sms_template_summary">Doğrulama kodlarını otomatik kopyala ve doldur</string>
   <string name="pref_sms_theme_title">Görüntüleme</string>
   <string name="pref_summary_allow_si_sl_push">(SI/SL) WAP Push mesajlar  ve bildirimlerine izin verir</string>
   <string name="pref_summary_delete_limit">Her bir konuşma için %1$s mesaj</string>
@@ -497,6 +498,7 @@
   <string name="timed_message_to">şuna</string>
   <string name="title_collapse_sp_messages">Operatör grup mesajları</string>
   <string name="title_date_type">Tarih</string>
+  <string name="title_show_sms_template">Doğrulama kodu için SMS kontrolü yap</string>
   <string name="title_timed_message_dialog">Saatli mesaj ayarlayın</string>
   <string name="to_address_label">Kime:</string>
   <string name="to_count">%d alıcı</string>
