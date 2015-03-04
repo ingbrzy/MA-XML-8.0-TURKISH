@@ -107,7 +107,7 @@
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Boş</string>
   <string name="lock_screen_setting_summary">Ekran kilitli iken 100KB kullanımdan sonra bildirim göster</string>
-  <string name="lock_screen_traffic_notify_body">Ekran Kilitli %1$s | %2$s veri kullanıldı</string>
+  <string name="lock_screen_traffic_notify_body">Ekran Kilitli: %1$s | %2$s veri kullanıldı</string>
   <string name="lock_screen_traffic_warn_title">Kilit ekranı bildirimleri</string>
   <string name="main_alert_message_month_limit_error">Ayarladığınız veri limiti geçersiz!</string>
   <string name="main_alert_message_no_imsi">SIM kart yok</string>
@@ -285,8 +285,8 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="tc_sms_report_toast_text">Bilgi alınıyor…</string>
   <string name="ten_percent_total_pkg">%s (10%% aylık mobil veri)</string>
   <string name="three_percent_total_pkg">%s (3%% of aylık mobil veri)</string>
-  <string name="timeshow_h_m">%1$dh %2$dm</string>
-  <string name="timeshow_m_s">%1$dm %2$ds</string>
+  <string name="timeshow_h_m">%1$ds %2$dd</string>
+  <string name="timeshow_m_s">%1$d %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">Mobil veri limitini bilmiyor musun?</string>
   <string name="tips_message">Eğer mobil veri limitini bilmiyorsanız, %2$s (%1$s) arayarak kontrol edebilirsiniz (Sadece Çin).</string>
