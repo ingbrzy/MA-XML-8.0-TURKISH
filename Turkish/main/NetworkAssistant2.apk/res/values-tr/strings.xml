@@ -107,7 +107,7 @@
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Boş</string>
   <string name="lock_screen_setting_summary">Ekran kilitli iken 100KB kullanımdan sonra bildirim göster</string>
-  <string name="lock_screen_traffic_notify_body">Ekran Kilitli %1$s | %2$s veri kullanıldı</string>
+  <string name="lock_screen_traffic_notify_body">Ekran Kilitli: %1$s | %2$s veri kullanıldı</string>
   <string name="lock_screen_traffic_warn_title">Kilit ekranı bildirimleri</string>
   <string name="main_alert_message_month_limit_error">Ayarladığınız veri limiti geçersiz!</string>
   <string name="main_alert_message_no_imsi">SIM kart yok</string>
