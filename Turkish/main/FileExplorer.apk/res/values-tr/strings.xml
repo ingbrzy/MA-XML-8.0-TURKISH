@@ -63,7 +63,6 @@
   <string name="delete_file">Dosyayı silmek istiyor musunuz?</string>
   <string name="delete_files">Seçitiğiniz %1$d dosyayı silmek istiyor musunuz?</string>
   <string name="delete_folder">Bu klasörü silmek istiyor musunuz?</string>
-  <string name="delete_selected_tasks">Seçtiğiniz öğeleri silmek istiyor musunuz？</string>
   <string name="delete_folders">Seçitiğiniz %1$d klasörü silmek istiyor musunuz?</string>
   <string name="des_running_trans">%1$d dosya transfer edilemedi.</string>
   <string name="dialog_select_type">Dosya türünü seçin</string>
@@ -98,7 +97,6 @@
   <string name="file_loading">Yükleniyor...</string>
   <string name="file_not_exist">"Dosya mevcut değil"</string>
   <string name="file_too_large">Dosya çok büyük.</string>
-  <string name="files">Dosyalar</string>
   <string name="finished">Tamamlandı</string>
   <string name="folder_exist">Klasör zaten mevcut.</string>
   <string name="folder_name_illegal">Dosya ismi geçersiz</string>
@@ -114,32 +112,16 @@
   <string name="ftp_username_hint">Kullanıcı Adı</string>
   <string name="gbk_summary">Basitleştirilmiş Çince için Windows kodlaması</string>
   <string name="gbk_title">GBK</string>
-  <string name="get_cloud_space">500GB ekle</string>
   <string name="gigabyteShort">GB</string>
   <string name="instruction">FTP Client için aşağıdaki adresi girin: </string>
   <string name="instruction_pre">FTP sunucusunu başlatmak için dokunun</string>
   <string name="kilobyteShort">KB</string>
-  <string name="kp_category_all">Kategori</string>
-  <string name="kp_category_doc">Word</string>
-  <string name="kp_category_excel">Excel</string>
-  <string name="kp_category_pdf">PDF</string>
-  <string name="kp_category_ppt">PowerPoint</string>
-  <string name="kp_category_txt">Metin</string>
-  <string name="kuaipan_cloud_photo">KuaiPan fotoğrafları</string>
-  <string name="kuaipan_create_shortcut_success">Kısayol oluşturuldu</string>
-  <string name="kuaipan_data_formater_with_year">d.M.yyy</string>
-  <string name="kuaipan_data_formater_without_year">d.M</string>
-  <string name="kuaipan_delete_success">Fotoğraf silindi</string>
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">KuaiPan alanınız doldu</string>
-  <string name="kuaipan_photo_folder_divider">,</string>
-  <string name="kuaipan_photo_locate">Konum %1$s</string>
-  <string name="kuaipan_photo_more_folder_count">%1$s</string>
   <string name="kuaipan_prompt">Uyarı</string>
   <string name="kuaipan_prompt_message">"
   Ne yazık ki sunuclarımız şu anda servis veremiyor. Lütfen daha sonra tekrar deneyin!
   "</string>
-  <string name="kuaipan_root_fooder">Ev</string>
   <string name="kuaipan_tech_support">kuaipan.cn adresine giriş yapın</string>
   <string name="load_err">Yüklenemiyor</string>
   <string name="loading">Yükleniyor...</string>
@@ -196,7 +178,6 @@
   <string name="never_notify_network_connect">Seçimi hatırla</string>
   <string name="new_folder_name">Yeni klasör</string>
   <string name="no">Hayır</string>
-  <string name="no_display_file">"%1$s gösterilemiyor!"</string>
   <string name="no_enough_storage_indication">Cihaz hafızası dolu.</string>
   <string name="no_enough_storage_title">Yeterli boş alan yok</string>
   <string name="no_file">Dosya yok</string>
