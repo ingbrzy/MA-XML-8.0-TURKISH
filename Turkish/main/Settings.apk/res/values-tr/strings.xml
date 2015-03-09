@@ -1947,6 +1947,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_context_menu_change_wapi_certificate">WAPI Sertifkasını değiştir</string>
   <string name="wifi_context_menu_connect">Bağlan</string>
   <string name="wifi_context_menu_forget">Ağı unut</string>
+  <string name="wifi_datanetwork_switch_not_remind">"Tekrar Gösterme"</string>
   <string name="wifi_disabled_generic">Kapalı</string>
   <string name="wifi_disabled_help">Zayıf bağlantı nedeniyle ağ kullanılmadı. Ayarlar &gt; Wi-Fi Gösterimi, Gelişmiş menü öğesi ile bu davranışı kapatın.</string>
   <string name="wifi_disconnected_notification_summary">Diğer Wi-Fi bağlantısını deniyor</string>

@@ -78,4 +78,16 @@
     <item>SMS</item>
     <item>Mi Mesaj</item>
 </string-array>
+<string-array name="entries_sms_validity_period">
+	<item>Ayarlı değil</item>
+	<item>1 saat</item>
+	<item>6 saat</item>
+	<item>12 saat</item>
+	<item>1 gün</item>
+	<item>En fazla süre</item>
+</string-array>
+<string-array name="entries_mms_validity_period">
+	<item>En fazla süre</item>
+	<item>2 gün</item>
+</string-array>
 </resources>

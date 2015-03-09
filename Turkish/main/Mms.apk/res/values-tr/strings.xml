@@ -302,6 +302,7 @@
   <string name="notification_multiple">%s okunmamış mesajınız var</string>
   <string name="notification_multiple_title">Yeni mesajlar</string>
   <string name="number_add_hint">Bir numara giriniz</string>
+  <string name="open_url_with_web">Url adresinin açılması için izin verilsin mi?</string>
   <string name="overwrite_edited_content">Düzenlenen içeriğin üzerine yazılacak.</string>
   <string name="phrase_confirm_delete_message">Şablon silinsin mi?</string>
   <string name="phrase_empty">Şablon yok</string>
@@ -351,11 +352,13 @@
   <string name="pref_title_mms_delete">Multimedia mesajı limiti</string>
   <string name="pref_title_mms_read_reports">Okundu raporları</string>
   <string name="pref_title_mms_retrieval_during_roaming">Dolaşımda otomatik al</string>
+  <string name="pref_title_mms_validity_period">MMS geçerlilik süresi</string>
   <string name="pref_title_notification_body_enabled">Mesajları kilit ekranında göster</string>
   <string name="pref_title_ringtone_repeat">Bildirim sesi sayısı</string>
   <string name="pref_title_ringtone_repeat_summary">"Ekran kapalı iken mesaj geldiğinde çalınacak bildirim sesi sayısını ayarlayın."</string>
   <string name="pref_title_show_recent_contacts">Son kişileri göster</string>
   <string name="pref_title_sms_delete">Metin mesajı limiti</string>
+  <string name="pref_title_sms_validity_period">SMS geçerlilik süresi</string>
   <string name="pref_title_system_mms_priority">Sistem MMS uyg. önceliği</string>
   <string name="pref_title_vcard">vCard ile gönder</string>
   <string name="pref_title_wake_up_screen">Ekran ışığını aç</string>

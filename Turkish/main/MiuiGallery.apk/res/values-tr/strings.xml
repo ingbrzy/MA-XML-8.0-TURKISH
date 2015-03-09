@@ -76,10 +76,13 @@
   <string name="bigscreen_slide_fail_cause_loading">Resim yüklendikten sonra slayt gösterisini yeniden başlat</string>
   <string name="bigscreen_slide_playing">Slayt gösterisi cihazda oynatılıyor: %s</string>
   <string name="bigscreen_video_quit">Çıkmak için dokunun</string>
+  <string name="black_white">Siyah-Beyaz</string>
+  <string name="brannan">EarlyBird</string>
   <string name="browse_category">Görüntüle</string>
   <string name="by_email">Email</string>
   <string name="by_others">Diğerleri</string>
   <string name="by_sms">Yazılı ileti</string>
+  <string name="camera_black_white">KameraSiyah-Beyaz</string>
   <string name="camera_connected">Kamera bağlandı</string>
   <string name="camera_disconnected">Kamera bağlantısı kesildi</string>
   <string name="camera_folder_display_name">Kamera resimleri</string>
@@ -146,12 +149,16 @@
   <string name="confirm_download">%s öğesini indirmeniz gerekli. Bu ipucu bir daha gösterilmeyecek.</string>
   <string name="confirm_download_video_message">Bu videoyu izleyebilmek için önce tamamen indirmeniz gerekmektedir. Wi-Fi bağlantısı aktif olduğunda indirme devam edecek.</string>
   <string name="confirm_download_video_title">Video\'yu indir</string>
+  <string name="confirm_merge_face_albums">" "%s albüm ile birleştirilsin mi?" "</string>
   <string name="contact_photo">Kişi fotoğrafı olarak ayarla</string>
   <string name="context_menu_add_contact">Kişilere ekle</string>
   <string name="context_menu_copy">Kopyala</string>
   <string name="context_menu_copy_notice">Seçilen alan panoya kopyalandı</string>
   <string name="contrast">Kontrast</string>
+  <string name="cool">Güzel</string>
+  <string name="cool_portrait">GüzelPortre</string>
   <string name="create_new_cloud_folder">Yeni klasör oluştur</string>
+  <string name="create_new_face">Yeni yüz</string>
   <string name="crop">Kes</string>
   <string name="crop_fail_to_load_image">"Resim yüklenemedi"</string>
   <string name="crop_label">Kes</string>
@@ -192,6 +199,7 @@
   <string name="download_refocus_data">Yeniden odaklanma verisi indiriliyor</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Süre</string>
+  <string name="early_bird">Brannan</string>
   <string name="edit">Düzenle</string>
   <string name="edited_photo_bucket_name">Düzenlendi</string>
   <string name="email_picker_title">Paylaşılan Email ekle</string>
@@ -222,6 +230,16 @@
   <string name="external_sdcard_root">SD kart kök dizini</string>
   <string name="external_usb_device">USB depolama</string>
   <string name="external_usb_device_hm">Harici USB Depolama</string>
+  <string name="face_album">Yüz albümü</string>
+  <string name="face_album_not_named">Adlandırılmadı</string>
+  <string name="face_album_rename_hint">Bir ad girin</string>
+  <string name="face_albumset_detecting_tip">"Yüzler tespit ediliyor...
+ Yüz albümleri yakında hazır olacak."</string>
+  <string name="face_albumset_empty">"Yüz tespit edilmedi.
+ Daha fazla fotoğraf çekerek tekrar deneyin."</string>
+  <string name="face_albumset_use_tip">"Fotoğrafları kolayca görüntülemek ve yönetmek için,
+  güzel yüzleri bulmanıza yardım eder."</string>
+  <string name="face_move_dialog_title">Yüz albümünü seç</string>
   <string name="facelift">Face Glow</string>
   <string name="facetan">Face Tan</string>
   <string name="fail_hint">Operasyon başarısız</string>
@@ -264,9 +282,11 @@
   <string name="highlight">Işık</string>
   <string name="home_my_captured_items">"Kamera rulosundaki görüntüler"</string>
   <string name="home_page_tab_cloud">Bulut</string>
+  <string name="home_page_tab_face">Yüz</string>
   <string name="home_page_tab_local">Yerel</string>
   <string name="home_page_tab_photo">Fotoğraf</string>
-  <string name="image_download_item_title">Görüntü indiriliyor(%s)</string>
+  <string name="ignore_face">Bu yüzü yoksay</string>
+  <string name="image_download_item_title">Görüntüyü indir(%s)</string>
   <string name="image_quota_fulfiled">Görüntü oluşturulamıyor : Görüntü limiti aşıldı</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">İçe Aktarma Tamamlandı</string>
@@ -325,6 +345,7 @@
   <string name="menu_item_sort_size_asc">Boyut (artan)</string>
   <string name="menu_item_sort_size_desc">Boyut (azalan)</string>
   <string name="menu_view_contact">Kişiyi gör</string>
+  <string name="merge_album_positive_button_text">Birleştir</string>
   <string name="message_no_delete_access">%s silmeye yetkiniz yok</string>
   <string name="messagelist_sender_self">Ben</string>
   <string name="miliao">MiTalk</string>
@@ -349,6 +370,7 @@
   <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Başlamak için bir yüze dokunun</string>
   <string name="must_pick_file">Bir resim seçin</string>
+  <string name="name_wrong">%s yanlış</string>
   <string name="negative">Negatif</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="new_device_tips">"Cihazı örüntülemek için dokunun
@@ -368,6 +390,7 @@
   <string name="not_auto_create_recent_album">Favori oluşturmayı geri al</string>
   <string name="not_now">Şimdi değil</string>
   <string name="not_show_hidden_albums">Gizli albümleri gösterme</string>
+  <string name="old">​Yaşlı</string>
   <string name="only_show_camera_in_first_page">Kamera resimlerini ilk sayfada göster</string>
   <string name="only_show_camera_in_first_page_summary">Kapatıldığında bulut albumünün resimleri ilk sayfada gösterilecek.</string>
   <string name="open">Etkin</string>
@@ -381,6 +404,7 @@
   <string name="operation_failed">"Operasyon başarısız"</string>
   <string name="operation_in_process">"İşleniyor..."</string>
   <string name="operation_refresh">Yenile</string>
+  <string name="operation_remove_from_face_album">Yüzü sil</string>
   <string name="operation_remove_secret">Gizli albümden kaldır</string>
   <string name="operation_rename">Yeniden adlandır</string>
   <string name="operation_set_as_screensaver">Ekran koruyucu olarak ayarla</string>
@@ -409,7 +433,7 @@
   <string name="photo_paint_crop">Kırp</string>
   <string name="photo_paint_effect">Efekt</string>
   <string name="photo_paint_rotate">Döndür</string>
-  <string name="photo_saved">%s kaydedildi</string>
+  <string name="photo_save_succeed">Kaydedildi.</string>
   <string name="photo_size">Boyut</string>
   <string name="photoeditor_name">Mi Fotoğraf Stüdyosu</string>
   <string name="photos">" Fotoğraf"</string>
@@ -423,6 +447,7 @@
   <string name="pocket_camera_video">Cep kamerası videoları</string>
   <string name="pocketcamera">PocketCamera</string>
   <string name="posterize">Posterize</string>
+  <string name="preparing_data">Hazırlanıyor...</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Görüntüleri silmeye hazırlanılıyor...</string>
   <string name="priority_storage">SD karta kaydedin</string>
@@ -447,6 +472,8 @@
   <string name="remove_from_secret_unfinished_message_with_count">%1$s öğe gizli albümden kaldırılamadı!</string>
   <string name="remove_hidden_album">Albüm gizliliğini kaldır</string>
   <string name="remove_recent_album">Favorilerden kaldır</string>
+  <string name="rename_face_album">Adı değiştir</string>
+  <string name="rename_fail_msg">Ad değiştirme başarısız!</string>
   <string name="rename_failed">"Yeniden adlandırma başarısız"</string>
   <string name="rename_failed_duplicated_name">Aynı isime sahip başka bir dosya zaten mevcut.</string>
   <string name="renren_image">RenRen</string>
@@ -456,6 +483,7 @@
   <string name="request_sms_url_title">İpucu</string>
   <string name="retry_to_create_album">"Tekrar Dene"</string>
   <string name="retry_to_request_qr_code">Tekrar Dene</string>
+  <string name="rise">Rise</string>
   <string name="rotate">Döndür</string>
   <string name="rotate_tooltip">Döndürmek için fotoğrafı sürükleyin</string>
   <string name="same_name_album_exists_alert">Fotoğraflarınızı otomatik olarak bu albüme yüklemek istiyor musunuz?</string>
@@ -537,6 +565,7 @@
   <string name="slideshow_time_title">Süre</string>
   <string name="square">Kare</string>
   <string name="start_slide_show">Slayt Gösterisini Başlat</string>
+  <string name="start_to_use_face_albumset">Yüz albümleri kullanmak için Başlat</string>
   <string name="storage_all_volumes">Tüm depolama aygıtları</string>
   <string name="storage_no_space">Yeterli alan yok</string>
   <string name="straighten">Düzelt</string>
@@ -587,6 +616,7 @@
   <string name="user_alias_self">Kendi</string>
   <string name="video_err">Video oynatılamıyor</string>
   <string name="video_not_exist">Video mevcut değil</string>
+  <string name="view_face_album">Albüme gözat</string>
   <string name="view_sharers">Paylaşılanları göster</string>
   <string name="vignette">Skeç</string>
   <string name="wallpaper">Ana ekran duvar kağıdı</string>
@@ -597,6 +627,7 @@
   <string name="weikan_weikan">Weikan TV</string>
   <string name="where_is_barcode">QR kodu nerede?</string>
   <string name="white_balance">Beyaz Dengesi</string>
+  <string name="who_is_this">Bu kim?</string>
   <string name="widget_type">Resimleri seçin</string>
   <string name="widget_type_album">Bir albüm seçin</string>
   <string name="widget_type_photo">Bir resim seçin</string>
