@@ -25,6 +25,7 @@
   <string name="add_to_secret_successfully_message">Gizli albüme eklendi</string>
   <string name="add_to_secret_unfinished_message_with_count">%1$s öğe gizli albüme eklenemedi</string>
   <string name="adding_recipients">Alıcılar ekleniyor...</string>
+  <string name="adjust">Ayarla</string>
   <string name="album_member">Albüm üyeleri %s</string>
   <string name="album_name">Albüm Adı</string>
   <string name="album_quota_fulfiled">Albüm oluşturulamıyor : Albüm limiti aşıldı</string>
@@ -77,12 +78,12 @@
   <string name="bigscreen_slide_playing">Slayt gösterisi cihazda oynatılıyor: %s</string>
   <string name="bigscreen_video_quit">Çıkmak için dokunun</string>
   <string name="black_white">Siyah-Beyaz</string>
-  <string name="brannan">EarlyBird</string>
+  <string name="brannan">Sabah</string>
   <string name="browse_category">Görüntüle</string>
   <string name="by_email">Email</string>
   <string name="by_others">Diğerleri</string>
   <string name="by_sms">Yazılı ileti</string>
-  <string name="camera_black_white">KameraSiyah-Beyaz</string>
+  <string name="camera_black_white">Siyah-Beyaz</string>
   <string name="camera_connected">Kamera bağlandı</string>
   <string name="camera_disconnected">Kamera bağlantısı kesildi</string>
   <string name="camera_folder_display_name">Kamera resimleri</string>
@@ -156,9 +157,9 @@
   <string name="context_menu_copy_notice">Seçilen alan panoya kopyalandı</string>
   <string name="contrast">Kontrast</string>
   <string name="cool">Güzel</string>
-  <string name="cool_portrait">GüzelPortre</string>
+  <string name="cool_portrait">Portre</string>
   <string name="create_new_cloud_folder">Yeni klasör oluştur</string>
-  <string name="create_new_face">Yeni yüz</string>
+  <string name="create_new_face">Yeni kişi</string>
   <string name="crop">Kes</string>
   <string name="crop_fail_to_load_image">"Resim yüklenemedi"</string>
   <string name="crop_label">Kes</string>
@@ -202,6 +203,7 @@
   <string name="early_bird">Brannan</string>
   <string name="edit">Düzenle</string>
   <string name="edited_photo_bucket_name">Düzenlendi</string>
+  <string name="effect">Efekt</string>
   <string name="email_picker_title">Paylaşılan Email ekle</string>
   <string name="enable">Aç</string>
   <string name="enable_cloud_for_sharing">Paylaşılan resimleri görüntülemek için bulut albümlerini aktif etmelisiniz.</string>
@@ -233,12 +235,9 @@
   <string name="face_album">Yüz albümü</string>
   <string name="face_album_not_named">Adlandırılmadı</string>
   <string name="face_album_rename_hint">Bir ad girin</string>
-  <string name="face_albumset_detecting_tip">"Yüzler tespit ediliyor...
- Yüz albümleri yakında hazır olacak."</string>
-  <string name="face_albumset_empty">"Yüz tespit edilmedi.
- Daha fazla fotoğraf çekerek tekrar deneyin."</string>
-  <string name="face_albumset_use_tip">"Fotoğrafları kolayca görüntülemek ve yönetmek için,
-  güzel yüzleri bulmanıza yardım eder."</string>
+  <string name="face_albumset_detecting_tip">Lütfen bekleyin...</string>
+  <string name="face_albumset_empty">"Yüz tespit edilmedi"</string>
+  <string name="face_albumset_use_tip">"Fotoğrafları kolayca görüntülemek ve yönetmek için, yüz tanımayı kullanın"</string>
   <string name="face_move_dialog_title">Yüz albümünü seç</string>
   <string name="facelift">Face Glow</string>
   <string name="facetan">Face Tan</string>

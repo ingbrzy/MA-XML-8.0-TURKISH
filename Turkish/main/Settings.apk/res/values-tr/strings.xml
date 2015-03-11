@@ -426,6 +426,11 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="bluetooth_unlock_settings_devices_title">Cihaz</string>
   <string name="bluetooth_unlock_settings_toggle_title">Uygula:</string>
   <string name="bluetooth_unlock_settings_unlock_device">Cihaz kilidini aç</string>
+  <string name="bluetooth_unlock_state_disconnected">Bağlantı kesildi</string>
+  <string name="bluetooth_unlock_state_key_error">Anahtar hatası</string>
+  <string name="bluetooth_unlock_state_label">Durum:</string>
+  <string name="bluetooth_unlock_state_ok">Başarılı</string>
+  <string name="bluetooth_unlock_state_too_far">Yeteri kadar yakın değil</string>
   <string name="bluetooth_unlock_title">Kilidi Bluetooth cihazla aç</string>
   <string name="bluetooth_unlock_turned_off">Kapalı</string>
   <string name="bluetooth_unlock_turned_on">Açık</string>
@@ -621,6 +626,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="device_name_usage_point">Bu ad yakınındaki diğer Bluetooth cihazları için görünür olacaktır.</string>
   <string name="device_picker">Bluetooth cihazı seçicisi</string>
   <string name="device_sd_memory">SD kart:</string>
+  <string name="device_security_settings_title">Güvenlik</string>
   <string name="device_status">Durum</string>
   <string name="device_status_activity_title">Durum</string>
   <string name="device_status_summary">Telefon numarası, sinyal vb.</string>
@@ -723,6 +729,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="dtmf_tone_enable_title">Tuş takımı dokunma sesleri</string>
   <string name="enable_adb">USB hata ayıklama modu</string>
   <string name="enable_adb_summary">USB bağlandığında hata ayıklama modu</string>
+  <string name="enable_crypt_keeper_encrypt">Şifrelemeyi aç</string>
   <string name="enable_drive_mode">Sürüş modunu etkinleştir</string>
   <string name="enable_mobile_data_when_opening_hotspot">Mobil veri de etkinleştirilsin mi?</string>
   <string name="enable_opengl_traces_title">OpenGL izlerini etkinleştir</string>
@@ -902,6 +909,8 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="local_backup_section_summary">Sistem uygulamaları, hesaplar ve uygulamaları yedekle</string>
   <string name="local_backup_section_title">Yerel yedekler</string>
   <string name="locale_default">Varsayılan</string>
+  <string name="location_access_off">Kapalı</string>
+  <string name="location_access_on">Açık</string>
   <string name="location_access_summary">Uygulamalar konum bilginizi alır</string>
   <string name="location_access_title">Konum erişimi</string>
   <string name="location_agps_apn_choose_dialog_title">Apn türü</string>
@@ -1268,6 +1277,8 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="priority_storage_title">Depolama ayarları</string>
   <string name="privacy_mode_dialog_message">Aramalar, notlar, resimler, mesajlar ve başlatıcı ayarları kullanıcıdan gizlenecektir</string>
   <string name="privacy_mode_dialog_title">Misafir modu</string>
+  <string name="privacy_mode_summary">Kullanıcı verileri kullanıcıdan gizlenir</string>
+  <string name="privacy_mode_title">İzinler</string>
   <string name="privacy_mode_enable_sum">Çağrı günlüklerini ve mesajları gizle.</string>
   <string name="privacy_mode_enable_title">Misafir modu</string>
   <string name="privacy_protect_title">Gizlilik koruma</string>
