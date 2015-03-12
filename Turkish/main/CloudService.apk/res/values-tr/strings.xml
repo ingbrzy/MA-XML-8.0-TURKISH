@@ -5,11 +5,14 @@
   <string name="activate">Etkinleştir</string>
   <string name="activating">Etkinleştiriliyor...</string>
   <string name="alert_notif_title_dspt">Senkronize edilemiyor</string>
+  <string name="antispam_sync">DND Ayarları</string>
   <string name="app_name">Mi Bulut</string>
   <string name="bad_authentication">Geçersiz kullanıcı adı veya parola</string>
   <string name="btn_return">Geri</string>
   <string name="button_cancel">İptal</string>
   <string name="buy_space_expire">Satın alınan kapasite %s kadar geçerlidir</string>
+  <string name="calendar_sync">Takvim</string>
+  <string name="click_to_enabled">Senkronie etmek için dokunun</string>
   <string name="buy_space_expire_concat">%1$s - %2$s</string>
   <string name="cloud_find_device">Cihazımı bul</string>
   <string name="cloud_space_upgrade_message">%sGB alan eklemek için dokunun</string>
@@ -17,6 +20,7 @@
   <string name="cloud_space_upgrade_title">Mi Bulut için daha fazla alan</string>
   <string name="cloud_sync_setting_summary_standard">"Fotoğrafları, videoları, MMS ve kişi fotorağlarını Wi-Fi  ile, diğer verileri mobil ağ ile senkronize et"</string>
   <string name="cloud_sync_setting_summary_wlan">Bütün verileri sadece Wi-Fi  ile senkronize et</string>
+  <string name="cloudservice_new_sync">%s Mi Bulut ile senkronize et</string>
   <string name="cmcc_micloud_dspt">Mi Bulut kullanarak verilerinizi senkronize edin, cihazını bulun.. </string>
   <string name="contact">Kişiler</string>
   <string name="disable_find_device_error">"Cihaz bulma servisi kapatılamıyor %1$s"</string>
@@ -58,6 +62,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   Eğer SIM kart değiştirirseniz, yeni bir SMS gönderilecektir."</string>
   <string name="find_device_send_sms_alert">SIM kartı değiştirirseniz, başka bir SMS bu hizmeti yeniden etkinleştirmek için otomatik olarak gönderilir.</string>
   <string name="find_device_status_ok">i.mi.com ile her yerden cihazınıza ulaşabilirsiniz...</string>
+  <string name="find_device_status_ok_international">www.mi.com/micloud ile her yerden cihazınıza ulaşabilirsiniz...</string>
   <string name="find_device_stop_noise">Sessize almak için Tamam\'a basın</string>
   <string name="find_device_success_title">CİHAZIMI BUL</string>
   <string name="finish">TAMAM</string>
@@ -120,6 +125,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_main_stop_sync">Senkronizeyi durdur</string>
   <string name="micloud_main_suggest_sync">"Senkronize edilmemiş bazı öğeler var"</string>
   <string name="micloud_main_sync_exception">Senkronizasyon hatası!</string>
+  <string name="micloud_main_sync_init">Bilgi alınıyor</string>
   <string name="micloud_main_sync_now">Şimdi senkronize et</string>
   <string name="micloud_main_sync_on_wifi">Wi-Fi kullan</string>
   <string name="micloud_main_sync_pause">Senkronize durakladı</string>
@@ -127,16 +133,20 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_main_synced_data_count">%d öğe senkronize edildi</string>
   <string name="micloud_main_syncing">Verileriniz senkronize ediliyor...</string>
   <string name="micloud_main_update_space">Depolama alanını güncelle</string>
-  <string name="micloud_main_wlan_sync_data_count">%d öğe Wi-Fi ile senkronize için bekliyor</string>
+  <string name="micloud_main_wlan_sync_data_count">%d öğe senkronize için bekliyor</string>
   <string name="micloud_more">Daha fazla bilgi</string>
   <string name="micloud_proceed">Devam</string>
   <string name="micloud_sec_dspt">ve arkadaşlarınızla paylaşın.</string>
+  <string name="micloud_setting_antispam_summary">DND için İstisnalar ve bloke edilen telefon numaraları.</string>
   <string name="micloud_setting_browser_summary">Yer imleri ve geçmiş</string>
   <string name="micloud_setting_contact_summary">Kişi bilgileri ve profil fotoğrafları</string>
   <string name="micloud_setting_gallery_summary">Fotoğraflar ve videolar</string>
   <string name="micloud_setting_music_summary">Oynatma listensi ve favoriler</string>
   <string name="micloud_setting_sms_summary">SMS ve MMS mesajları</string>
   <string name="micloud_setting_wifi_summary">Wi-Fi Ayarları</string>
+  <string name="micloud_single_dspt">Verilerinizi senkronize etmek, cihazınızı bulmak ve arkadaşlarınızla bir şeyler paylaşmak için Mi Bulutu kullanın.</string>
+  <string name="micloud_space_duokan_detail">Duokan uygulamasını kullanarak Duokan içeriğinizi yönetin.</string>
+  <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">Kullanım alanım bitince ne yapacağım?</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Aboneliğinizi yenilemeniz gerekmektedir.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Aboneliğinizi yenilemeniz gerekmektedir.</string>

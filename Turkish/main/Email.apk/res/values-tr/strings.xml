@@ -76,6 +76,7 @@
   <string name="account_setup_account_type_headline">Hesap türü</string>
   <string name="account_setup_account_type_instructions">Bu ne tür bir hesap?</string>
   <string name="account_setup_account_type_title">Hesap kurulumu</string>
+  <string name="account_setup_address_label">Eposta</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Hesap ayarları, kullanıcı adı ve şifrenizi onaylayın.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Hesap ayarlarında hata!</string>
   <string name="account_setup_basics_email_label">E-posta adresi</string>
@@ -86,6 +87,7 @@
   <string name="account_setup_check_settings_check_incoming_msg">Gelen sunucusu ayarları kontrol ediliyor…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">Giden sunucusu ayarları kontrol ediliyor…</string>
   <string name="account_setup_check_settings_retr_info_msg">Hesap bilgileri alınıyor…</string>
+  <string name="account_setup_correct_address_tips">Eposta adresinizi girin</string>
   <string name="account_setup_creating_account_msg">Hesap oluşturuluyor…</string>
   <string name="account_setup_deleting_account_msg">Hesap siliniyor…</string>
   <string name="account_setup_exchange_certificate_title">İstemci sertifikası</string>
@@ -190,7 +192,7 @@
   <string name="add_label">Klasör ekle</string>
   <string name="add_photo_attachment">Resim ekle</string>
   <string name="add_pre_message_attachments">Ön mesaja ek eklensin mi?</string>
-  <string name="add_pre_message_attachments_no">Hayır</string>
+  <string name="add_pre_message_attachments_no">"Ekleme"</string>
   <string name="add_pre_message_attachments_yes">Ekle</string>
   <string name="add_star">Yıldız ekle</string>
   <string name="add_video_attachment">Video ekle</string>
@@ -623,6 +625,7 @@ CC: %4$s
   <string name="outbox_alert_certificate_error">E-posta sertifikasını lütfen güncelleyin</string>
   <string name="outbox_alert_description_auth_error">Giden posta sunucusu açılamadı!</string>
   <string name="outbox_alert_description_http_error">HTTP sunucusu hatası!</string>
+  <string name="outbox_alert_description_insufficient_storage_error">Posta sunucusunda yetersiz depolama</string>
   <string name="outbox_alert_description_provision_error">Sunucu hatası!</string>
   <string name="outbox_alert_description_sent_failed">"Neden:
   Ek boyutu limiti aşıyor"</string>
@@ -735,6 +738,8 @@ CC: %4$s
   <string name="recipient_needed">En az bir alıcı ekleyin.</string>
   <string name="recipient_needed_title">Uyarı</string>
   <string name="recipient_null_dialog_title">Uyarı</string>
+  <string name="reduce_the_receiving_frequencye_summary">Ayarlanan zaman içinde düşük eposta senkronize oranı</string>
+  <string name="reduce_the_receiving_frequencye_title">Düşük eposta senkronize oranı</string>
   <string name="refresh">Yenile</string>
   <string name="refreshing">Yenileniyor…</string>
   <string name="refreshing_done">Bitti</string>
@@ -763,6 +768,8 @@ CC: %4$s
   <string name="save_attachment">Kaydet</string>
   <string name="save_draft">Taslağı kaydet</string>
   <string name="save_draft_failed">Taslak kaydedilemedi!</string>
+  <string name="save_power_summary">Ayarlanan zaman içinde pil tasarrufu</string>
+  <string name="save_power_title">Pil tasarrufu</string>
   <string name="saved">%s kaydedildi.</string>
   <string name="saving">Kaydediliyor…</string>
   <string name="search_attachment">Ara</string>
@@ -799,6 +806,7 @@ CC: %4$s
   <string name="ser_resp_err_map_connect_err">İnternet bağlantısı hatası!</string>
   <string name="ser_resp_err_map_nouser">Kullanıcı yok</string>
   <string name="ser_resp_err_map_or">Ya da</string>
+  <string name="ser_resp_err_map_pserr">Şifre ya da kullanıcı adı hatalı</string>
   <string name="ser_resp_err_map_pserr">Yanlış Kullanıcı Adı / Şifre</string>
   <string name="ser_resp_err_map_serclosed">Servis sonlandırıldı</string>
   <string name="ser_resp_err_map_ssl">" 'Güvenlik ayarlarından' SSL / TLS (Tüm sertifikaları kabul et) seçmeyi deneyin"</string>

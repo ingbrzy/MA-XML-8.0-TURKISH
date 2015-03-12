@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_bind_prompt">Kullanıcı bilgileri taşınıyor, bu işlem birkaç dakika sürebilir...</string>
+  <string name="action_mode_deselect_all">Seçimi kaldır</string>
+  <string name="action_mode_select_all">Tümünü seç</string>
   <string name="add_task">Görev ekle</string>
   <string name="adding_upload_tasks">Görevler ekleniyor</string>
   <string name="already_signin_description">Zaten oturum açmış durumdasınız.</string>
