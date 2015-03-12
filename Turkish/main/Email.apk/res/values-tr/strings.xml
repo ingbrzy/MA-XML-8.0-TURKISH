@@ -807,7 +807,6 @@ CC: %4$s
   <string name="ser_resp_err_map_nouser">Kullanıcı yok</string>
   <string name="ser_resp_err_map_or">Ya da</string>
   <string name="ser_resp_err_map_pserr">Şifre ya da kullanıcı adı hatalı</string>
-  <string name="ser_resp_err_map_pserr">Yanlış Kullanıcı Adı / Şifre</string>
   <string name="ser_resp_err_map_serclosed">Servis sonlandırıldı</string>
   <string name="ser_resp_err_map_ssl">" 'Güvenlik ayarlarından' SSL / TLS (Tüm sertifikaları kabul et) seçmeyi deneyin"</string>
   <string name="set_network">Ağı ayarla</string>
