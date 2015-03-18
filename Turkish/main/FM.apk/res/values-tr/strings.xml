@@ -54,7 +54,7 @@
   <string name="group_other">Diğer</string>
   <string name="hint_frequency">Frekans: %1$s ~ %2$s</string>
   <string name="hint_label">Etiket</string>
-  <string name="hint_station_name">İstasyon adı girin</string>
+  <string name="hint_station_name">İstasyon adını girin</string>
   <string name="increase_af">Frekansı arttır</string>
   <string name="input_station">Radyo frekansı (MHz)</string>
   <string name="label_recording">Kayıt: %s</string>
@@ -84,7 +84,7 @@
   <string name="msg_do_not_support_fm">FM Radio bu cihazda desteklenmiyor</string>
   <string name="msg_fm_starting">Başlatılıyor...</string>
   <string name="msg_headsetpluggedin">Kulaklıkları şimdi çıkarın.</string>
-  <string name="msg_noantenna_message">Kulaklık bulunamadı. Bazı özellikler kullanılamaz.</string>
+  <string name="msg_noantenna_message">Kulaklık yok, bazı özellikler kullanılamaz.</string>
   <string name="msg_scanning">FM istasyonları için taranıyor...</string>
   <string name="msg_scanning_pty">%s için taranıyor...</string>
   <string name="msg_search_title">FM - %1$s</string>
@@ -138,7 +138,7 @@
   <string name="toast_delete_station">%sMHz silindi</string>
   <string name="toast_edit_station">Değişiklikler kaydedildi</string>
   <string name="toast_fm_error_startfailed">Kayıt hatası. Başka bir uygulama kayıt özelliklerini kullanıyor olabilir. Lütfen kontrol edin.</string>
-  <string name="toast_fm_not_stated">FM daha başlatılmadı</string>
+  <string name="toast_fm_not_stated">FM henüz başlatılmadı</string>
   <string name="toast_fm_recorder_access_error">Ziyaretçi modunda kayıt yapılamaz</string>
   <string name="toast_fm_recorder_internal_error">FM kayıt hatası</string>
   <string name="toast_fm_recorder_storage_full">Kaydedilemiyor: Yeterli boş alan yok</string>
@@ -147,7 +147,7 @@
   <string name="toast_fm_stoping">Durduruluyor...</string>
   <string name="toast_removed_from_presets">Kanallardan kaldır</string>
   <string name="toast_save_station">%sMHz kaydedildi</string>
-  <string name="toast_sleep_mode">Radyoyu durdurulacak %s</string>
+  <string name="toast_sleep_mode">Radyo %s içinde durdurulacak</string>
   <string name="toast_sleep_mode_exit">Uyku modu iptal edildi</string>
   <string name="transmit_msg_string">Yayın şuradan alınıyor:</string>
   <string name="turn_off_fm">Radyoyu Kapat</string>

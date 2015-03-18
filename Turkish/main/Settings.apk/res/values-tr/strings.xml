@@ -78,6 +78,10 @@ Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her
   <string name="additional_system_update_settings_list_item_title">Ek sistem güncellemeleri</string>
   <string name="adjust_3d_depth_title">Oyunlar için 3D derinliği</string>
   <string name="advanced_settings">Gelişmiş Ayarlar</string>
+  <string name="agps_roaming">Dolaşımda A-GPS</string>
+  <string name="agps_roaming_dia">Dolaşımda A-GPS kullanmanız, mobil veri miktarını arttırabilir.</string>
+  <string name="agps_roaming_dia_title">Dolaşımda A-GPS kullan</string>
+  <string name="agps_roaming_summary">Dolaşımda A-GPS kullanmanız, pil seviyesinin daha çabuk düşmesine neden olabilir.</string>
   <string name="airplane_mode">Uçak Modu</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Ekran koruyucu kullanımı ekstra pil tüketimine sebep olacaktır.</string>
   <string name="alert_show_screensaver_when_not_charging_title">Pil kullanımı</string>

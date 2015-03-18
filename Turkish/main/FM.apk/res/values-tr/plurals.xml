@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="toast_channel_searched">
+<item quantity="other">%1$d istasyon tarandı</item>
+<item quantity="zero">%1$d istasyon tarandı</item>
+<item quantity="one">1 istasyon tarandı</item>
+<item quantity="two">%1$d istasyon tarandı</item>
+<item quantity="few">%1$d istasyon tarandı</item>
+<item quantity="many">%1$d istasyon tarandı</item>
+</plurals>
+</resources>
