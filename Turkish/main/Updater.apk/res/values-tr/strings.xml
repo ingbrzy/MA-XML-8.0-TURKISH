@@ -24,8 +24,8 @@
   <string name="boot_recovery">Recovery modunda başlat</string>
   <string name="button_text_check">Güncellemeleri kontrol et</string>
   <string name="button_text_later_reboot">Daha sonra başlat</string>
-  <string name="button_text_reboot">Şimdi Tekrar Başlat</string>
-  <string name="button_text_reboot_hm">Şimdi Tekrar Başlat</string>
+  <string name="button_text_reboot">Tekrar Başlat</string>
+  <string name="button_text_reboot_hm">Tekrar Başlat</string>
   <string name="button_text_update">Güncelle</string>
   <string name="cancel_download">Güncelleme indirme işlemi durdurulsun mu?</string>
   <string name="cancel_download_buton_text">İptal</string>
@@ -71,6 +71,7 @@
   <string name="go_on_download">Devam</string>
   <string name="important_suggestion">Gizlilik Politikası değişti</string>
   <string name="install">Yükle</string>
+  <string name="install_failed">Güncelleme başarısız!</string>
   <string name="install_local">Yerel yükle</string>
   <string name="install_qq">QQ uygulamasını kur</string>
   <string name="internal_build">Dahili</string>
@@ -120,6 +121,11 @@
   <string name="previous">Önceki</string>
   <string name="progress_title_checking">Güncellemeler Kontrol Ediliyor…</string>
   <string name="reboot">Sonra başlat</string>
+  <string name="recovery_failed_button">OK</string>
+  <string name="recovery_failed_msg">"Güncelleme için telefonunuzda yeterli boş alan yok. Mi PC Suite yazılımını kullanarak deneyin:
+ http://zhushou.xiaomi.com"</string>
+  <string name="recovery_failed_notification_msg">"Recovery moduna girilemiyor"</string>
+  <string name="recovery_failed_title">Güncelleme için Mi PC Suite yazılımını kullan</string>
   <string name="reboot_now">Tekrar başlat</string>
   <string name="recommend">Önerilir</string>
   <string name="recommend_comment_hint">Sebep (Tercihe bağlı)</string>

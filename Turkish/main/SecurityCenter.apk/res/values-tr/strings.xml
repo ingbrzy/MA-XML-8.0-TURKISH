@@ -617,6 +617,7 @@
   <string name="summary_cloud_account">Daha fazla servise erişim için, Xiaomi hesabınız ile oturum açmanız gerekir.</string>
   <string name="summary_cloud_service">Cihazınızdaki fotoğraflar, kişiler ve tüm verileri senkronize edin</string>
   <string name="summary_data_flow">"Operatörünüzün aylık veri limitini geçmemeye dikkat edin"</string>
+  <string name="summary_default_app">"%s varsayılan sistem uygulaması olarak ayarlı değil"</string>
   <string name="summary_delete_cache">Seçtiğiniz önbellek verilerini silmek istiyor musunuz?</string>
   <string name="summary_delete_large_file">Seçtiğiniz dosyaları silmek istiyor musunuz?</string>
   <string name="summary_dev">Uygulamaların kullanıcı bilgilerine erişimini engelle</string>
@@ -657,6 +658,7 @@
   <string name="title_data_flow">Veri kullanım uyarısını ayarla</string>
   <string name="title_data_flow_no">Veri kullanımını izleme kapalı</string>
   <string name="title_data_flow_yes">Veri kullanımını izleme açık</string>
+  <string name="title_default_app">"MIUI %s varsayılan olarak ayarlı değil"</string>
   <string name="title_delete_cache">Önbellek verilerini sil</string>
   <string name="title_delete_large_file">Büyük dosyaları sil</string>
   <string name="title_dev_no">Geliştirici seçenekleri açık</string>
@@ -696,6 +698,7 @@
   <string name="toast_backup_uninstall_failed">%d uygulama yedeklenemedi. Biraz bekleyin ve yeniden deneyin.</string>
   <string name="toast_backup_uninstall_success">Yedekleme ve kaldırma tamamlandı</string>
   <string name="toast_cleaner_cloudscan">Temizleyici online tanımarı kullanacak</string>
+  <string name="toast_default_app">"%1$s sistem varsayılanı olarak ayarla %2$s"</string>
   <string name="toast_flow_notification">Veri kullanım bildirimleri açık</string>
   <string name="toast_garbage_cleanup_success">Temizlik tamamlandı!</string>
   <string name="toast_garbage_lib">Temizleyici oto-güncelleme açık</string>

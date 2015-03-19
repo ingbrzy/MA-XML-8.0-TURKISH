@@ -218,10 +218,13 @@
   <string name="menu_view_contact">Kişileri görüntüle</string>
   <string name="menu_yellowpage">%s görüntüle</string>
   <string name="message_class_label">Mesaj sınıfı:</string>
+  <string name="message_contact">Kişi:</string>
   <string name="message_details_title">Mesaj detayları</string>
   <string name="message_download_failed_title">Mesaj indirilmedi</string>
+  <string name="message_expired">Süresi geçmiş</string>
   <string name="message_failed">Hata</string>
   <string name="message_failed_body">Tekrar deneyin!</string>
+  <string name="message_number">Telefon numarası:</string>
   <string name="message_pending">Gönderiliyor</string>
   <string name="message_queued">Şu an mesajınız gönderilemiyor. Hizmet kullanılabilir olduğunda gönderilecektir.</string>
   <string name="message_readed">Okundu</string>
@@ -424,6 +427,7 @@
   <string name="secs">saniye</string>
   <string name="select_audio">Ses seçin</string>
   <string name="select_bottom_text">Metin altta</string>
+  <string name="select_copy_text">Mesaj metnini kopyala</string>
   <string name="select_different_media">Farklı bir %1$s seçin.</string>
   <string name="select_link_title">İşlem seçin</string>
   <string name="select_local_audio">Ses dosyasını seç</string>
