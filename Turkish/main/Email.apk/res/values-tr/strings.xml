@@ -772,6 +772,7 @@ CC: %4$s
   <string name="save_power_title">Pil tasarrufu</string>
   <string name="saved">%s kaydedildi.</string>
   <string name="saving">Kaydediliyor…</string>
+  <string name="sdcard_cannot_use">SD kart kullanılamıyor</string>
   <string name="search_attachment">Ara</string>
   <string name="search_hint">E-posta ara</string>
   <string name="search_result">Arama sonuçları :</string>
@@ -876,6 +877,12 @@ CC: %4$s
   <string name="unsent_messages_in_outbox">%2$s içinde gönderilmemiş %1$s</string>
   <string name="updated_at">Son yenileme: %1$s</string>
   <string name="updated_just_now">Şimdi yenilendi</string>
+  <string name="upload_log">Tanımlama loglarını yükle</string>
+  <string name="upload_log_failed">Yükleme başarısız</string>
+  <string name="upload_log_success">Yükleme tamamlandı</string>
+  <string name="upload_log_title">Tanımlama logları yüklensin mi?</string>
+  <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
+  <string name="uploading_logs">Yükleniyor</string>
   <string name="validation_failed_prompt">Doğrulama hatası,lütfen %s sunucusu ayarlarını kontrol edin!</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -898,5 +905,6 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="widget_other_views">Diğer</string>
   <string name="wrong_password">Şifre yanlış!</string>
   <string name="yes">Evet</string>
+  <string name="you_are_in_mobile_network">Şu anda bir mobil ağ kullanıyorsanız, trafiğe dikkat edin!</string>
   <string name="zip_viewer_no_file">Dosya yok!</string>
 </resources>

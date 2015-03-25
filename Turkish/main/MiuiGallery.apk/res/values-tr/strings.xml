@@ -50,6 +50,9 @@
   <string name="alert_secret_album_set_pattern">Kilit açma desenini ayarla</string>
   <string name="alert_secret_album_title">Gizli albüme eklendi</string>
   <string name="already_apply_album">"%1$s açılsın mı?"</string>
+  <string name="always_rotate_alert_msg">Galeri ayarlarından devre dışı bırakabilirsiniz</string>
+  <string name="always_rotate_alert_positive_button_text">Etkinleştir</string>
+  <string name="always_rotate_alert_title">Resimleri otomatik döndürme etkin</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Android duvar kağıtları</string>
   <string name="aperture">Açıklık</string>
@@ -416,8 +419,8 @@
   <string name="original_scale">Orijinal boyut</string>
   <string name="other_category">Ek Ayarlar</string>
   <string name="owner_album_subtitle">%1$s üyeyle paylaşıldı</string>
-  <string name="paint_cancel_context">İptali kabul ediyor musunuz?</string>
-  <string name="paint_cancel_title">Değişimi iptal et</string>
+  <string name="paint_cancel_context">Değişiklikler iptal edilsin mi?</string>
+  <string name="paint_cancel_title">Uyarı</string>
   <string name="paint_crop_cancel_context">Kaydedilsin mi?</string>
   <string name="paint_crop_cancel_title">Değişiklikler iptal</string>
   <string name="paint_crop_tips">Daha iyi bir görüntü elde etmek için, ilgili parçaları kılavuz noktaları üzerinde hareket ettirin ve yeniden boyutlandırın.</string>
