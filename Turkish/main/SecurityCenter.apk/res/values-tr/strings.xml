@@ -137,6 +137,10 @@
   <string name="clean_content_three">Atla %s</string>
   <string name="clean_content_two">%1$s ve %2$s</string>
   <string name="clean_content_zero">"Temizlik yapma"</string>
+  <string name="cmcc_app_check_dialog_message">Tamamlamak için cihazı tekrar başlatın</string>
+  <string name="cmcc_app_check_dialog_negative">Sonra</string>
+  <string name="cmcc_app_check_dialog_positive">Restart now</string>
+  <string name="cmcc_app_check_dialog_title">Tekrar başlat</string>
   <string name="confirm_auto_cleaner">Tamam</string>
   <string name="cta_button_text_agree">Tamam</string>
   <string name="cta_button_text_cancel">İptal</string>
@@ -361,8 +365,10 @@
   <string name="never">Sadece bir kez</string>
   <string name="notification_button_text_of_low_memory">Temizle</string>
   <string name="notification_summary_after_auto_cleanup">%s temizlendi.</string>
+  <string name="notification_summary_cmcc_app_check">Detaylar için dokunun</string>
   <string name="notification_summary_of_garbage_cleanup">Çöp dosyaları:%s </string>
   <string name="notification_summary_of_low_memory">Hafıza az olduğunda yeni uygulama yüklenmez</string>
+  <string name="notification_title_cmcc_app_check">Son kontrolden bu yana %d geçti.<string>
   <string name="notification_title_firewall_blocked">Engellendi</string>
   <string name="notification_title_of_garbage_cleanup">Çöp boyutu uyarısı</string>
   <string name="notification_title_of_low_memory">Kullanılan depolama alanı: %s</string>
@@ -616,6 +622,7 @@
   <string name="summary_cleaner_cloudscan">Online tanımlarını kullanarak bilinmeyen dosya adlarını karşılaştır</string>
   <string name="summary_cloud_account">Daha fazla servise erişim için, Xiaomi hesabınız ile oturum açmanız gerekir.</string>
   <string name="summary_cloud_service">Cihazınızdaki fotoğraflar, kişiler ve tüm verileri senkronize edin</string>
+  <string name="summary_cmcc_app_check">"Bazı uygulamalar doğrulanamadı!"</string>
   <string name="summary_data_flow">"Operatörünüzün aylık veri limitini geçmemeye dikkat edin"</string>
   <string name="summary_default_app">"%s varsayılan sistem uygulaması olarak ayarlı değil"</string>
   <string name="summary_delete_cache">Seçtiğiniz önbellek verilerini silmek istiyor musunuz?</string>
@@ -655,6 +662,7 @@
   <string name="title_cleaner_cloudscan">Klasör adlarını yükle</string>
   <string name="title_cloud_account">Mi Hesabı</string>
   <string name="title_cloud_service">Mi Bulut</string>
+  <string name="title_cmcc_app_check">"Doğrulama tamamlanmadı"</string>
   <string name="title_data_flow">Veri kullanım uyarısını ayarla</string>
   <string name="title_data_flow_no">Veri kullanımını izleme kapalı</string>
   <string name="title_data_flow_yes">Veri kullanımını izleme açık</string>

@@ -10,7 +10,7 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Dün güncellendi: %s</string>
   <string name="adjust_traffic_data">Kullanılan verileri giriniz</string>
   <string name="alter_dialog_message">Uluslar arası dolaşımda veri servislerine bağlanmanız kullanım ücretlerini önemli ölçüde arttırabilir. İstisnalar listesindeki uygulamaların veri servislerine bağlanmasına izin vermek istiyor musunuz?</string>
-  <string name="apn_exception_summary">Operatör apn ayarları anormal</string>
+  <string name="apn_exception_summary">Operatör APN ayarları testi</string>
   <string name="apn_exception_title">APN ayarlarını kontrol et</string>
   <string name="app_detail">Ayrıntılar</string>
   <string name="app_mobile">Veri</string>
@@ -184,7 +184,7 @@
   <string name="network_diagnostics">Şebeke testi</string>
   <string name="none_mi_service_app_detail">Boş</string>
   <string name="notify_daily_data_usage_body">Bu gün %s veri kullanıldı.</string>
-  <string name="notify_daily_limit_body">Bu hafta %s veri kullanıldı.</string>
+  <string name="notify_daily_limit_body">Bu gün %s veri kullanıldı.</string>
   <string name="notify_daily_limit_title">Günlük veri limitini ayarla</string>
   <string name="notify_month_traffic_body">Bu ay %s veri kullanıldı.</string>
   <string name="notify_setting_pkg_title">Aylık veri limitini ayarla</string>
@@ -199,7 +199,7 @@
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
-  <string name="pay_charge">Kontör yükle</string>
+  <string name="pay_charge">Ek veri satınal</string>
   <string name="per_month_pkg_traffic_settings">Mobil veri limiti ayarlayın</string>
   <string name="permit_running_network">Arka plan verilerini aç</string>
   <string name="person_hotpot">Mobil İnternet paylaşımı</string>
@@ -293,7 +293,7 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="read_number">86 makale</string>
   <string name="read_unit">" makale"</string>
   <string name="repair">Onar</string>
-  <string name="replace_dns">Otomatik yerleştir</string>
+  <string name="replace_dns">DNS\'i otomatik yerleştir</string>
   <string name="right_precent">100%</string>
   <string name="roaming_not_start_body">İstisnalar listesindeki uygulamalar, dolaşımda iken veri servislerine bağlanabilir</string>
   <string name="roaming_not_start_title">Uluslar arası dolaşım</string>
