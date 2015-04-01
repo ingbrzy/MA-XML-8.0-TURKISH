@@ -50,6 +50,10 @@
   <string name="address_choose_hint">%1$s、%2$s ve %3$d konum</string>
   <string name="addwhitelist">İstisnalar listesine ekle</string>
   <string name="all_address_choose_hint">Tüm konumlar</string>
+  <string name="antispam_notificaiton_type_show_all">Herhangi bir çağrı engellenince bildir</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">Karalistede olmayan numara engellenince bildir</string>
+  <string name="antispam_notificaiton_type_show_none">"Bildirim gösterme"</string>
+  <string name="antispam_notification_setting_title">Engelleme bildirimleri</string>
   <string name="app_name">Kara Liste</string>
   <string name="backsound_set_hint">%s için arka ses ayarlansın mı?</string>
   <string name="baidu_thanks">Baidu tarafından sağlanmaktadır</string>

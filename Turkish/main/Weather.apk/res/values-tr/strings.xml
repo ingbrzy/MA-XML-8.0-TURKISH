@@ -23,14 +23,14 @@
   <string name="activity_main_update_time_right_now">Şimdi</string>
   <string name="activity_weather_main_null_data">- -</string>
   <string name="activity_weathermain_locationg">Konumunuz bulunuyor...</string>
-  <string name="activity_weathermain_locationg_error">HATA!</string>
+  <string name="activity_weathermain_locationg_error">Konumunuz bulunamadı!</string>
   <string name="add_city">Ekle</string>
   <string name="app_name">Hava Durumu</string>
   <string name="button_abandon">Değişikliklerden vazgeç</string>
   <string name="button_allow">İzin ver</string>
   <string name="button_not_allow">Yoksay</string>
   <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
-  <string name="data_source_timezone">GMT%1$s</string>
+  <string name="data_source_timezone">GMT %1$s</string>
   <string name="edit_city">Düzenle</string>
   <string name="first_start_network_msg">Hava durumu bilgilerinin alınması için ağ bağlantısı gerekmektedir.</string>
   <string name="first_start_network_title">Bağlantı uyarısı</string>

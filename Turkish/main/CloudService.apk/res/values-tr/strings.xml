@@ -10,9 +10,24 @@
   <string name="bad_authentication">Geçersiz kullanıcı adı veya parola</string>
   <string name="btn_return">Geri</string>
   <string name="button_cancel">İptal</string>
+  <string name="buy_more_space_b_class">"mi.com/micloud adresinden oturum açın ve daha fazla alan alın (Sadece Çin)...
+"</string>
+  <string name="buy_more_space_c_class">"Bu özellik Çin kullasnıcıları için geçerlidir."</string>
   <string name="buy_space_expire">Satın alınan kapasite %s kadar geçerlidir</string>
   <string name="calendar_sync">Takvim</string>
   <string name="click_to_enabled">Senkronie etmek için dokunun</string>
+  <string name="cloud_back_up_button_ok">Zorla durdur</string>
+  <string name="cloud_back_up_close_info">Yedeklemek için dokunun.</string>
+  <string name="cloud_back_up_dialog_content">"Yedekleme durdurulsun mu? Bu yedeği kullanmanız mümkün olmayacaktır"</string>
+  <string name="cloud_back_up_interval_long">1 hafta</string>
+  <string name="cloud_back_up_interval_short">1 hour</string>
+  <string name="cloud_back_up_network_unavailable">"Kaldırılamaz, Wi-Fi ağına bağlanıp tekrar deneyin."</string>
+  <string name="cloud_back_up_open_info">"Ana ekran düzenini ve uygulama her %1$s internete bağlandığında yedekle.
+ Son yedekleme: %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Ana ekran düzenini ve uygulama her %1$s internete bağlandığında yedekle.</string>
+  <string name="cloud_back_up_remove_success">Yedek silindi</string>
+  <string name="cloud_back_up_title">Ana ekranı yedekle</string>
+  <string name="cloud_backup_dialog_title">Mi Bulut ile yedekle</string>
   <string name="buy_space_expire_concat">%1$s - %2$s</string>
   <string name="cloud_find_device">Cihazımı bul</string>
   <string name="cloud_space_upgrade_message">%sGB alan eklemek için dokunun</string>
