@@ -41,7 +41,8 @@
   <string name="sim_dectection_next">Devam</string>
   <string name="sim_redetection">SIM kartı tekrar kontrol edin</string>
   <string name="summary_not_set">Ayarlı değil</string>
-  <string name="summary_sim_card">Kart %1$d%2$s</string>
+  <string name="summary_sim_card">Kart %1$d</string>
+   <string name="summary_sim_card_with_operator">Kart %1$d, %2$s</string>
   <string name="terms_of_service">Hizmet şartları</string>
   <string name="terms_of_use">Hizmet Şartları</string>
   <string name="terms_of_use_label">"MIUI\'ı kullanmadan önce Kullanıcı Sözleşmesi ve Gizlilik Politikasını kabul etmeniz gerekir.

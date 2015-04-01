@@ -365,6 +365,7 @@
   <string name="pref_title_show_recent_contacts">Son kişileri göster</string>
   <string name="pref_title_sms_delete">Metin mesajı limiti</string>
   <string name="pref_title_sms_validity_period">SMS geçerlilik süresi</string>
+  <string name="pref_title_storage_status">Mesaj depolama durumu</string>
   <string name="pref_title_system_mms_priority">Sistem MMS uyg. önceliği</string>
   <string name="pref_title_vcard">vCard ile gönder</string>
   <string name="pref_title_wake_up_screen">Ekran ışığını aç</string>
@@ -389,6 +390,7 @@
   <string name="received_label">Alındı:</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">Alıcı:</string>
+  <string name="recipients_over_size">Çok fazla alıcı var!.</string>
   <string name="recording_failed">"Kaydedilemiyor!"</string>
   <string name="refill_now">Şimdi tekrar doldur</string>
   <string name="refresh">Yenile</string>
@@ -494,6 +496,12 @@
   <string name="stick">İğnele</string>
   <string name="stick_conversation">Geçerli sohbeti iğnele</string>
   <string name="sticked_conversation">İğne zaten kaldırılmış!</string>
+  <string name="storage_dialog_attachments">Mms ekleri:</string>
+  <string name="storage_dialog_available_space">Kullanılabilir alan:</string>
+  <string name="storage_dialog_database">Veri tabanı:</string>
+  <string name="storage_dialog_mms">Mms: %d</string>
+  <string name="storage_dialog_mms_size">Mms boyutu:</string>
+  <string name="storage_dialog_sms">Sms: %d</string>
   <string name="storage_limits_activity">Depolama sınırları</string>
   <string name="storage_limits_message">Her mesaj dizisi için kaydettiğiniz mesaj sayısı sınırlansın mı?</string>
   <string name="storage_limits_setting">Sınırları ayarla</string>
