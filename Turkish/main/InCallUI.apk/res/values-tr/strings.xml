@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_bluetooth_headset_selected">Bluetooth kulaklık seçildi</string>
   <string name="accept_modify_call_request_prompt">Değiştirilmiş arama kabul edilsin mi?</string>
   <string name="accessibility_call_muted">Telefon sessiz.</string>
+  <string name="accessibility_call_put_on_hold">Çağrı beklemede</string>
+  <string name="accessibility_call_removed_from_hold">Çağrı beklemeden kaldırıldı</string>
+  <string name="accessibility_call_unmuted">Çağrı sesli</string>
+  <string name="accessibility_earpiece_selected">Earpiece selected</string>
   <string name="accessibility_speakerphone_enabled">Hoparlör etkin.</string>
+  <string name="accessibility_speakerphone_selected">Hoparlör seçildi</string>
+  <string name="accessibility_wired_headset_selected">Kablolu kulaklık seçildi</string>
   <string name="add_fdn_contact">Sabit arama numarası ekle</string>
   <string name="add_sip_account">Hesap ekle</string>
   <string name="add_vm_number_str">Numara ekle</string>
@@ -23,6 +30,7 @@
   <string name="alert_dialog_ok">TAMAM</string>
   <string name="alert_dialog_yes">Evet</string>
   <string name="antispam_marked_count">%1$d MIUI kullanıcısı tarafından bildirildi</string>
+  <string name="antispam_notification_title">Bilinmeyen numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
   <string name="apn_settings">Erişim noktası adları</string>
   <string name="atr_disable">Bölge trafik raporları devre dışı</string>
@@ -63,6 +71,7 @@
   <string name="callFailed_unobtainable_number">Geçersiz numara</string>
   <string name="callFailed_userBusy">Hat meşgul</string>
   <string name="callUnanswered_forwarded">Arama cevaplanmadı ve yönlendirildi</string>
+  <string name="call_description_recording">Kayıt yapılıyor…</string>
   <string name="call_forwarding_settings">Arama yönlendirme ayarları</string>
   <string name="call_lost">Arama kesildi.</string>
   <string name="call_record_button_label">Kaydediliyor %s</string>
@@ -73,11 +82,22 @@
   <string name="call_recording_error_sd_unmounted">Kayıt durduruldu: SD kart çıkartıldı</string>
   <string name="call_recording_error_start_failed">Kayıt cihazınız başka bir uygulama tarafından kullanılıyor</string>
   <string name="call_recording_error_unknown">Bilinmeyen bir hata oluştu</string>
+  <string name="call_recording_notification_message">Dinlemek için dokunun.</string>
+  <string name="call_recording_notification_message_low_storage">SD kart doldu</string>
+  <string name="call_recording_notification_message_sd_unmounted">SD kart kaldırıldı</string>
+  <string name="call_recording_notification_title">Çağrı kaydedildi</string>
+  <string name="call_recording_notification_title_error">"Çağrı kaydedilemedi"</string>
   <string name="call_settings">Çağrı ayarları</string>
   <string name="call_title_redialing_with_times">%d defa tekrar arandı</string>
   <string name="caller_manage_header">Konferans araması %s</string>
   <string name="calling_via_template">%s ile aranıyor</string>
   <string name="card_title_call_ended">"Arama sona erdi "</string>
+  <string name="cancel">İptal</string>
+  <string name="card_title_call_ended">Arama sona erdi</string>
+  <string name="card_title_callback_number">"Geri arama numaranız
+  %1$s"</string>
+  <string name="card_title_callback_number_emergency">"Acil geri arama numaranız
+  %1$s"</string>
   <string name="card_title_conf_call">"Konferans araması "</string>
   <string name="card_title_dialing">Aranıyor...</string>
   <string name="card_title_hanging_up">"Kapatılıyor "</string>
@@ -88,6 +108,10 @@
   <string name="card_title_on_hold">"Beklemede "</string>
   <string name="card_title_redialing">Tekrar aranıyor</string>
   <string name="card_title_threeway_call">Üç yönlü arama</string>
+  <string name="card_title_video_call">Video call</string>
+  <string name="card_title_video_call_connecting">Video çağrısına bağlanıyor</string>
+  <string name="card_title_video_call_error">Video çağrısına bağlanamadı</string>
+  <string name="card_title_video_call_requesting">İstek yapılıyor</string>
   <string name="cb_sms_settings">Hücre Yayını SMS ayarları</string>
   <string name="cdma_activate_device">Cihazı etkinleştir</string>
   <string name="cdma_lte_data_service">Veri servisini ayarla</string>
@@ -124,10 +148,11 @@
   <string name="deleting_fdn_contact">Sabit arama numarası siliniyor...</string>
   <string name="description_delete_button">Sil</string>
   <string name="description_dial_button">Ara</string>
+  <string name="description_direction_down">%s için sola kaydır.</string>
   <string name="description_direction_down_left">Aşağı sol</string>
   <string name="description_direction_down_right">Aşağı sağ</string>
-  <string name="description_direction_left">%s için sola kaydır.</string>
-  <string name="description_direction_right"> %s  için sağa kaydır.</string>
+ <string name="description_direction_left">%s için sola kaydır.</string>
+  <string name="description_direction_right">%s için sağa kaydır.</string>
   <string name="description_direction_up">%s için yukarı kaydır.</string>
   <string name="description_direction_up_left">Yukarı sol</string>
   <string name="description_direction_up_right">Yukarı sağ</string>
@@ -143,6 +168,16 @@
   <string name="description_image_button_three">üç</string>
   <string name="description_image_button_two">iki</string>
   <string name="description_image_button_zero">sıfır</string>
+  <string name="description_target_accept_upgrade_to_video_request">Video isteğini kabul et</string>
+  <string name="description_target_answer">Cevapla</string>
+  <string name="description_target_answer_audio_call">Sesli çağrı olarak cevapla</string>
+  <string name="description_target_answer_rx_video">RX Video olarak cevapla</string>
+  <string name="description_target_answer_tx_video">TX Video olarak cevapla</string>
+  <string name="description_target_answer_video">Video olarak cevapla</string>
+  <string name="description_target_answer_video_call">Video çağrısı olarak cevapla</string>
+  <string name="description_target_decline">Reddet</string>
+  <string name="description_target_decline_upgrade_to_video_request">Video isteğini reddet</string>
+  <string name="description_target_send_sms">SMS gönder</string>
   <string name="description_target_answer">Cevapla</string>
   <string name="description_target_answer_rx_video">RX Video ile cevapla</string>
   <string name="description_target_answer_tx_video">TX Video ile cevapla</string>
@@ -212,6 +247,7 @@
   <string name="eo_enable">İş İmkanları etkinleştirildi</string>
   <string name="error_updating_title">Arama ayarları hatası</string>
   <string name="exception_error">Ağ ya da SIM kart hatası.</string>
+  <string name="fake_phone_activity_placeCall_text">Sahte çağrı</string>
   <string name="fdn">Sabit Arama Numaraları(FDN)</string>
   <string name="fdn_activation">FDN etkinleştirme</string>
   <string name="fdn_check_failure">"Telefon uygulamanızın Sabit Arama Numaraları ayarı açık durumda. Bu yüzden bazı arama özellikleri çalışmamaktadır."</string>
@@ -241,6 +277,7 @@
   <string name="incall_call_type_label_sip">İnternet araması</string>
   <string name="incall_error_call_failed">Arama gönderilemedi.</string>
   <string name="incall_error_emergency_only">Şebekeye kayıtlı değil!</string>
+  <string name="incall_error_missing_voicemail_number">Sesli mesaj numarası bilinmiyor.</string>
   <string name="incall_error_no_phone_number_supplied">Arama gönderilemedi. Girilen numara geçersiz.</string>
   <string name="incall_error_out_of_service">Mobil şebekeye ulaşılamıyor!</string>
   <string name="incall_error_power_off">Bir arama yapabilmek için, öncelikle uçak modunu kapatın.</string>
@@ -253,6 +290,7 @@
   <string name="incall_error_supp_service_unknown">Desteklenmeyen servis.</string>
   <string name="incall_status_dialed_mmi">MMI dizisine başlanıyor...</string>
   <string name="incoming_call_forwarded_title">Yönlendirilen aramalar</string>
+  <string name="incoming_via_template">%s ile gelen</string>
   <string name="international_disable">Uluslararası haberler devre dışı</string>
   <string name="international_enable">Uluslararası haberler etkinleştirildi</string>
   <string name="internet_phone">İnternet araması</string>
@@ -263,16 +301,6 @@
   <string name="ivr_menu_dialing_msg_no_mute">Seçilen servise gidin...[Otomatik hata düzeltme etkin]</string>
   <string name="ivr_menu_list_sub_menu_count_format">%s basın</string>
   <string name="ivr_menu_list_title">Ses menüsü</string>
-  <string name="jeejen_answer_call_text">Çağrıyı cevapla</string>
-  <string name="jeejen_card_title_call_cancel">Cağrı iptal</string>
-  <string name="jeejen_card_title_call_ended">Çağrı sona erdi</string>
-  <string name="jeejen_card_title_dialing">Aranıyor</string>
-  <string name="jeejen_card_title_in_call"/>
-  <string name="jeejen_card_title_incoming_call">Gelen çağrı</string>
-  <string name="jeejen_card_title_on_hold"/>
-  <string name="jeejen_end_call_text">Bitir</string>
-  <string name="jeejen_reject_call_text">Reddet</string>
-  <string name="jeejen_toggle_dialpad_text">Tuş takımı</string>
   <string name="labelCDMAMore">CDMA telefon ayarları</string>
   <string name="labelCF">Arama yönlendirme</string>
   <string name="labelCFB">Meşgul olduğunda yönlendir</string>
@@ -349,9 +377,14 @@
   <string name="not_a_valid_port">Port numarası 1000 ile 65534 arasında olmalıdır.</string>
   <string name="not_allowed">SIM kartınız bu ağa bağlantınızı kabul etmiyor.</string>
   <string name="not_voice_capable">Sesli arama desteklenmiyor</string>
+  <string name="notification_action_accept">Kabul et</string>
+  <string name="notification_action_answer_video">Video</string>
+  <string name="notification_action_answer_voice">Ses</string>
+  <string name="notification_action_dismiss">Reddet</string>
   <string name="notification_action_end_call">Bekle</string>
   <string name="notification_dialing">Aranıyor...</string>
   <string name="notification_incoming_call">Gelen arama</string>
+  <string name="notification_incoming_video_call">Gelen video çağrısı</string>
   <string name="notification_missedCallTicker">%s cevapsız aramanız var</string>
   <string name="notification_missedCallTitle">Cevapsız arama</string>
   <string name="notification_missedCall_call_back">Geri ara</string>
@@ -362,6 +395,7 @@
   <string name="notification_network_selection_title">SERVİS YOK</string>
   <string name="notification_on_hold">Beklemede</string>
   <string name="notification_ongoing_call">Devam eden çağrı</string>
+  <string name="notification_requesting_video_call">Gelen video isteği</string>
   <string name="notification_voicemail_no_vm_number">Sesli mesaj numarası bilinmiyor</string>
   <string name="notification_voicemail_text_format">Arama %s</string>
   <string name="notification_voicemail_title">Yeni sesli mesaj</string>
@@ -378,6 +412,7 @@
   <string name="onscreenAddCallText">Arama ekle</string>
   <string name="onscreenAddParticipant">Katılımcı ekle</string>
   <string name="onscreenAudioText">Ses</string>
+  <string name="onscreenChangeToVoiceText">Ses çağrısını değiştir</string>
   <string name="onscreenEndCallText">Bitir</string>
   <string name="onscreenHoldText">Beklemeye al</string>
   <string name="onscreenManageCallsText">Aramaları yönet</string>
@@ -385,8 +420,11 @@
   <string name="onscreenMergeCallsText">Aramaları birleştir</string>
   <string name="onscreenModifyCallText">Aramayı değiştir</string>
   <string name="onscreenMuteText">Sessiz</string>
+  <string name="onscreenOverflowText">Daha fazla ayar</string>
+  <string name="onscreenPauseVideoText">Videoyu durdur</string>
   <string name="onscreenShowDialpadText">Tuş takımı</string>
   <string name="onscreenSwapCallsText">Değiştir</string>
+  <string name="onscreenSwitchCameraText">Kamerayı aç</string>
   <string name="onscreenVideoCallText">Görüntülü arama</string>
   <string name="onscreen_add_call_text">Çağrı ekle</string>
   <string name="onscreen_audio_mode">Kullanarak cevapla</string>
@@ -431,6 +469,11 @@
   Çekim gücü daha yüksek bir yer bulmanız gerekiyor olabilir(Pencere, dış mekan).
   Daha sonra tekrar deneyin ve daha fazla bilgi için müsteri hizmetlerini arayın."</string>
   <string name="other_settings">Diğer arama ayarları</string>
+  <string name="overflowAddMenuItemText">Çağrı ekle</string>
+  <string name="overflowHoldMenuItemText">Beklet</string>
+  <string name="overflowMergeMenuItemText">Çağrıları birleştir</string>
+  <string name="overflowResumeMenuItemText">Devam et</string>
+  <string name="overflowSwapMenuItemText">Değiştir</string>
   <string name="password_title">Şifre</string>
   <string name="pause_prompt_no">Hayır</string>
   <string name="pause_prompt_str">Ses tonları gönderiliyor</string>
@@ -525,7 +568,9 @@
   <string name="saving_account">Hesap kaydediliyor...</string>
   <string name="search_networks">Şebeke ara</string>
   <string name="selectContact">kişi seç</string>
+  <string name="select_account_dialog_title">Hesabı seç</string>
   <string name="select_automatically">Otomatik olarak seç</string>
+  <string name="select_voice_call_sim">SIM kartı seç</string>
   <string name="send_button">Gönder</string>
   <string name="send_keepalive_title">Send keep-alive</string>
   <string name="separate_from_conference">Çağrıları ayır</string>
@@ -547,6 +592,7 @@
   <string name="sip_call_options_title">Internet aramasını kullan</string>
   <string name="sip_call_options_wifi_only_entry_1">Bütün aramalar için</string>
   <string name="sip_call_options_wifi_only_title">Internet aramasını kullan (sadece Wi-Fi)</string>
+  <string name="sip_always_send_keepalive">Always send</string>
   <string name="sip_edit_new_title">SIP hesap detayları</string>
   <string name="sip_edit_title">SIP hesap detayları</string>
   <string name="sip_menu_add">Ekle</string>
@@ -555,7 +601,11 @@
   <string name="sip_receive_calls">Gelen aramaları al</string>
   <string name="sip_receive_calls_summary">Batarya ömrünü kısaltır</string>
   <string name="sip_settings">İnternet arama ayarları</string>
+  <string name="sip_system_decide">Automatic</string>
   <string name="sports_news_settings">Spor haberleri</string>
+  <string name="stk_cc_ss_to_dial_error">SS isteği ÇAĞRI isteği ile değiştirildi.</string>
+  <string name="stk_cc_ss_to_ss_error">SS isteği SS isteği ile değiştirildi.</string>
+  <string name="stk_cc_ss_to_ussd_error">SS isteği USSD isteği ile değiştirildi.</string>
   <string name="stock_quotes_disable">Hisse Senetleri devre dışı</string>
   <string name="stock_quotes_enable">Hisse Senetleri etkinleştirildi</string>
   <string name="sum_carrier_select">Ağ operatörünü seçin</string>
@@ -623,5 +673,6 @@
   <string name="voicemail_settings_number_label">Sesli mesaj numarası</string>
   <string name="vt_init_fail_str">VT başlatma başarısız oldu. VoLTE çağrı dönüştürülüyor</string>
   <string name="wait_prompt_str">Aşağıdaki tonları gönderilsin mi? </string>
+  <string name="waiting_close_airplane_mode">Uçak modunun kapatılması bekleniyor ...</string>
   <string name="wild_prompt_str">Joker karakterini şununla değiştirin:</string>
 </resources>

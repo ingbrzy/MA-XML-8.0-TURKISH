@@ -8,7 +8,7 @@
   <string name="disconnect">Bağlantıyı kes</string>
   <string name="duration">Süre:</string>
   <string name="legacy_title">VPN bir ağ bağlantısıdır.</string>
-  <string name="prompt">%s uygulaması VPN bağlantısı kurmaya çalışıyor.</string>
+  <string name="prompt">Bağlantı isteği</string>
   <string name="session">Oturum:</string>
-  <string name="warning">Devam ederseniz uygulama tüm ağ trafiğini izleyecek. Kötü amaçlı yazılım riski olsada çalıştır</string>
+  <string name="warning">%s uygulaması tüm ağ trafiğini izlemek istiyor. Kötü amaçlı yazılım riski olsada çalıştır</string>
 </resources>
