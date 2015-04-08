@@ -523,8 +523,6 @@
   <string name="menu_edit">Kişiyi düzenle</string>
   <string name="menu_select_all">Tümünü seç</string>
   <string name="menu_select_title">%d seçildi</string>
-  <string name="menu_delete">Kişiyi sil</string>
-  <string name="menu_edit">Kişiyi düzenle</string>
   <string name="messageCFB">Numara meşgulse</string>
   <string name="messageCFNRc">Numaraya ulaşılamıyorsa</string>
   <string name="messageCFNRy">Cevap yoksa</string>
@@ -638,7 +636,6 @@ Yerine tercih edilen şebeke kullanılacak."</string>
   <string name="notification_missedCall_call_back">ARA</string>
   <string name="notification_missedCall_message">SMS Gönder</string>
   <string name="notification_missedCallsMsg">%s Cevapsız çağrınız var.</string>
-  <string name="notification_missedCallTitle">Cevapsız çağrı</string>
   <string name="notification_missedCallsTitle">Cevapsız çağrı</string>
   <string name="notification_network_selection_text">Seçilen şebeke (%s) kullanılamaz!</string>
   <string name="notification_network_selection_title">ŞEBEKE YOK !</string>

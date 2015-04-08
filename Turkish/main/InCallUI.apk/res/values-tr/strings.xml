@@ -93,7 +93,6 @@
   <string name="calling_via_template">%s ile aranıyor</string>
   <string name="card_title_call_ended">"Arama sona erdi "</string>
   <string name="cancel">İptal</string>
-  <string name="card_title_call_ended">Arama sona erdi</string>
   <string name="card_title_callback_number">"Geri arama numaranız
   %1$s"</string>
   <string name="card_title_callback_number_emergency">"Acil geri arama numaranız
@@ -177,12 +176,6 @@
   <string name="description_target_answer_video_call">Video çağrısı olarak cevapla</string>
   <string name="description_target_decline">Reddet</string>
   <string name="description_target_decline_upgrade_to_video_request">Video isteğini reddet</string>
-  <string name="description_target_send_sms">SMS gönder</string>
-  <string name="description_target_answer">Cevapla</string>
-  <string name="description_target_answer_rx_video">RX Video ile cevapla</string>
-  <string name="description_target_answer_tx_video">TX Video ile cevapla</string>
-  <string name="description_target_answer_video">Video ile cevapla</string>
-  <string name="description_target_decline">Reddet</string>
   <string name="description_target_send_sms">SMS gönder</string>
   <string name="dial_emergency_empty_error">Arama yapılamadı. Bir acil durum numarası çevirin.</string>
   <string name="dial_emergency_error">Arama gönderilemedi.%s bir acil durum numarası değil.</string>
