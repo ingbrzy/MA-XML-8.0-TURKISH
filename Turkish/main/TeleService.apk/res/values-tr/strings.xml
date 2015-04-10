@@ -88,7 +88,7 @@
   <string name="bad_puk2">Girilen eski PUK2 kodu doğru değil!</string>
   <string name="bf_news_settings">İş ve Finans Haberleri</string>
   <string name="callFailed_cb_enabled">"Engelleme açıkken giden çağrı yapılamaz"</string>
-   <string name="callFailed_congestion">Şebeke meşgul</string>
+   <string name="callFailed_congestion">Numara meşgul</string>
    <string name="callFailed_dialToDial">Farklı numara çağrısı ile değiştirildi</string>
    <string name="callFailed_dialToSs">SS isteği ile değiştirilidi</string>
    <string name="callFailed_dialToUssd">USSD isteği ile değiştirildi</string>
@@ -138,8 +138,8 @@
   <string name="call_recording_notification_title_error">Ses kaydı yapılamıyor!</string>
   <string name="call_recording_notification_toggle_title">Ses kaydı bildirimleri</string>
   <string name="call_recording_setting">Çağrıları kaydet</string>
-  <string name="call_settings">Diğer Ayarlar</string>
-  <string name="call_settings_category">Diğer Ayarlar</string>
+  <string name="call_settings">Telefon Ayarları</string>
+  <string name="call_settings_category">Diğer Telefon Ayarları</string>
   <string name="call_settings_title_font_family">sans-serif-light</string>
   <string name="call_title_redialing_with_times">Tekrar arama süresi %d</string>
   <string name="call_waiting_summary">Konuşma sırasında gelen çağrıyı göster</string>
@@ -166,8 +166,8 @@
   <string name="card_title_callonhold">Beklet</string>
   <string name="card_title_callonhold_released">çağrı bırakıldı</string>
   <string name="card_title_callretrieved">Çağrı alındı</string>
-  <string name="card_title_clir_suppression_rejected">CLIR Suppression Rejected</string>
-  <string name="card_title_conditionalCF">Call Forward Conditional is enabled</string>
+  <string name="card_title_clir_suppression_rejected">CLIR Bastırma Reddedildi</string>
+  <string name="card_title_conditionalCF">Koşullu çağrı yönlendirme etkin</string>
   <string name="card_title_conf_call">Konferans çağrısı</string>
   <string name="card_title_cugcall">CUG çağrısı</string>
   <string name="card_title_deflectedcall">Çağrı Reddedildi</string>
@@ -694,8 +694,8 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="ota_unsuccessful">"Telefon etkinleştirme hatası,
 
   daha iyi bir kapsama alanında (dış mekanda) tekrar deneyin ."</string>
-  <string name="other_settings">Diğer Telefon Ayarları</string>
-  <string name="other_settings_category">Ek ayarlar</string>
+  <string name="other_settings">Telefon Ayarları</string>
+  <string name="other_settings_category">Ek Telefon ayarları</string>
   <string name="password_changed">Şifre değiştirildi</string>
   <string name="password_title">Şifre</string>
   <string name="pause_prompt_no">Hayır</string>
