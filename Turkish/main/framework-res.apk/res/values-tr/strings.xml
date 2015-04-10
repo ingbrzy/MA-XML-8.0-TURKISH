@@ -1275,6 +1275,7 @@ izin isteğinde bulunuldu."</string>
   <string name="reboot_progress">Tekrar başlatılıyor…</string>
   <string name="reboot_safemode_confirm">Cihazı kapatıp güvenli modda tekrar açmak ister misiniz? Bu işlem, yüklediğiniz tüm üçüncü taraf uygulamaları devre dışı bırakacaktır. Daha sonra tekrar açtığınızda bu uygulamalar geri yüklenecektir.</string>
   <string name="reboot_safemode_title">Güvenli modda yeniden aç</string>
+  <string name="reboot_title">Tekrar başlat</string>
   <string name="recent_tasks_title">En Son Görevler</string>
   <string name="relationTypeAssistant">Yardımcı</string>
   <string name="relationTypeBrother">Erkek Kardeş</string>
@@ -1348,9 +1349,13 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
   <string name="selectAll">Tümünü seç</string>
   <string name="selectTextMode">Metin seç</string>
   <string name="select_character">Karakter ekle</string>
-  <string name="select_input_method">Giriş yöntemini seçin</string>
+  <string name="select_day">Ay ve günü seçin</string>
+  <string name="select_hours">Saati seçin</string>
+  <string name="select_input_method">Klavyeyi seçin</string>
   <string name="select_keyboard_layout_notification_message">Bir klavye düzeni seçmek için dokunun.</string>
   <string name="select_keyboard_layout_notification_title">Klavye düzeni seçin</string>
+  <string name="select_minutes">Dakikayı seçin</string>
+  <string name="select_year">Yılı seçin</string>
   <string name="sendText">Kısa mesaj için bir işlem seçin</string>
   <string name="sending">Gönderiliyor…</string>
   <string name="serial_number">Seri numara:</string>
@@ -1375,6 +1380,7 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
   <string name="share_action_provider_share_with">Şununla paylaş:</string>
   <string name="shareactionprovider_share_with">Şununla paylaş:</string>
   <string name="shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="show_ime">Giriş yöntemini göster</string>
   <string name="shutdown_confirm">Telefonunuz kapanacak.</string>
   <string name="shutdown_confirm_question">Kapatmak istiyor musunuz?</string>
   <string name="shutdown_progress">Kapanıyor…</string>
@@ -1426,6 +1432,9 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
   <string name="sync_undo_deletes">Silme işlemlerini geri al</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Kurulum için dokunun.</string>
+  <string name="tethered_notification_multi_device_message">%1$s cihaz bağlı</string>
+  <string name="tethered_notification_no_device_message">Bağlı cihaz yok</string>
+  <string name="tethered_notification_one_device_message">%1$s cihaz bağlı</string>
   <string name="tethered_notification_title">Doğrudan bağlantı veya ortak erişim noktası etkin</string>
   <string name="textSelectionCABTitle">Metin seçimi</string>
   <string name="text_copied">Metin panoya kopyalandı.</string>
@@ -1450,6 +1459,8 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
   <string name="upload_file">Dosya seç</string>
   <string name="usb_accessory_notification_title">USB aksesuarına bağlandı</string>
   <string name="usb_cd_installer_notification_title">Yükleyici olarak bağlandı</string>
+  <string name="usb_charging_notification_title">Şarj modunda bağlandı</string>
+  <string name="usb_choose_notification_title">USB seçenekleri için dokunun.</string>
   <string name="usb_mtp_notification_title">Medya cihazı olarak bağlandı</string>
   <string name="usb_notification_message">Diğer USB seçenekleri için dokunun.</string>
   <string name="usb_ptp_notification_title">Kamera olarak bağlandı</string>
@@ -1467,7 +1478,10 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
   <string name="usb_storage_stop_title">USB bellek kullanılıyor</string>
   <string name="usb_storage_title">USB bağlandı</string>
   <string name="use_physical_keyboard">Fiziksel klavye</string>
+  <string name="use_a_different_app">Farklı uygulama kullan</string>
+  <string name="user_owner_label">Kişisel uygulamalar</string>
   <string name="user_switched">Geçerli kullanıcı: %1$s.</string>
+  <string name="user_switching_message">Şu kullanıcıya geçiliyor %1$s…</string>
   <string name="validity_period">Geçerlilik:</string>
   <string name="volume_alarm">Alarm ses düzeyi</string>
   <string name="volume_bluetooth_call">Bluetooth gelen çağrı ses düzeyi</string>
@@ -1555,6 +1569,15 @@ Kapatmak ister misiniz?"</string>
   <string name="weeks">hafta</string>
   <string name="whichApplication">İşlemi şunu kullanarak tamamla</string>
   <string name="whichHomeApplication">Ana ekran uygulaması seçin</string>
+  <string name="whichApplicationNamed">Complete action using %1$s</string>
+   <string name="whichEditApplication">Şununla düzenle</string>
+   <string name="whichEditApplicationNamed">%1$s ile düzenle</string>
+   <string name="whichHomeApplication">Ana uygulama seç</string>
+   <string name="whichHomeApplicationNamed">%1$s ev olarak kullan</string>
+   <string name="whichSendApplication">Şununla paylaş</string>
+   <string name="whichSendApplicationNamed">%1$s ile paylaş</string>
+  <string name="whichViewApplication">Şununla aç</string>
+  <string name="whichViewApplicationNamed">%1$s ile aç</string>
   <string name="wifi_available_sign_in">Kablosuz ağda oturum açın</string>
   <string name="wifi_display_notification_connected_message">%1$s bağlantısı yapıldı</string>
   <string name="wifi_display_notification_connected_title">Ekran yayınlanıyor</string>
@@ -1579,6 +1602,8 @@ Kapatmak ister misiniz?"</string>
   <string name="write_fail_reason_cancelled">İptal edildi</string>
   <string name="write_fail_reason_cannot_write">İçerik yazılırken hata oluştu</string>
   <string name="year">yıl</string>
+  <string name="year_picker_description">Yıl listesi</string>
   <string name="years">yıl</string>
   <string name="yes">Tamam</string>
+  <string name="zen_mode_forever">Süresiz</string>
 </resources>

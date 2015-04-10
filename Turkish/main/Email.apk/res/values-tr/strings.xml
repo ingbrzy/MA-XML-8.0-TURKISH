@@ -453,6 +453,11 @@
   <string name="general_preference_text_zoom_tiny">İnce</string>
   <string name="generic_attachment_problem">"Dosya eklenemedi"</string>
   <string name="giftcard_payment">%1$s MiKredisi</string>
+  <string name="gmail_acceleration">Gmail için proxy kullan</string>
+   <string name="gmail_login_confirm_to_use_proxy">Gmail için proxy kullanılsın mı?</string>
+   <string name="gmail_login_verify">Gmail hesabı ekle</string>
+   <string name="gmail_web_login_go">TAMAM</string>
+  <string name="gmail_web_login_required_message">Sign in to Gmail</string>
   <string name="head_only_enable_dialog_message">Tıklama olmadan tüm e-posta yerine sadece başlık trafik ile indirilir.</string>
   <string name="head_only_enable_dialog_nagative">İptal</string>
   <string name="head_only_enable_dialog_positive">Tamam</string>
@@ -575,6 +580,11 @@ CC: %4$s
   <string name="message_saved">Mesaj taslak olarak kaydedildi</string>
   <string name="message_type_name">mesaj</string>
   <string name="message_view_attachment_background_load">Yönlendirilen mesajda bir veya daha fazla ek var.</string>
+  <string name="mibill_privacy_policy_button1">Şimdi değil</string>
+   <string name="mibill_privacy_policy_button2">TAMAM</string>
+   <string name="mibill_privacy_policy_description">Mi Cüzdan Posta uygulaması ile alınan tüm e-postaları analiz edecek ve sizin için tüm kredi kartı faturaları yönetecek. Bu servis şirket posta uygulamaları için varsayılan olarak kapalıdır..</string>
+   <string name="mibill_privacy_policy_link">"https://www.mipay.com/res/doc/eula/email.html" hizmet şartlarını kabul etmiş olursunuz.</string>
+  <string name="mibill_privacy_policy_title">Mi Cüzdan eposta analizi</string>
   <string name="more_atts_remaining">%1$d ek kaldı</string>
   <string name="more_atts_total">Toplam %1$d ek</string>
   <string name="more_context">Daha</string>
@@ -618,6 +628,7 @@ CC: %4$s
   <string name="now_version">Geçerli sürüm：</string>
   <string name="ok">Tamam</string>
   <string name="okay_action">Tamam</string>
+  <string name="open_proxy_in_settings">"Gmail bölgenizde kullanılamıyor. Proxy sunucusu kullanarak Gmail postalarınızı alabilir ve gönderebilirsiniz. Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="other_mail">Diğer posta</string>
   <string name="outbox_alert_button_confirm">Onayla</string>
   <string name="outbox_alert_button_no_resend">"Gönderme"</string>
@@ -863,6 +874,11 @@ CC: %4$s
   <string name="title_sms_code">Doğrulama kodunu girin</string>
   <string name="to">Kime</string>
   <string name="to_heading">"Kime: "</string>
+  <string name="toast_bar_fail_synchronization">Bağlantı hatası, tekrar deneyin!</string>
+   <string name="toast_bar_insufficient_memory_space">Telefonda yetersiz depolama alanı, e-posta senktronize başarısız!</string>
+   <string name="toast_bar_invalid_account">Hesabınızın süresi dolmuş, yeniden oturum açın!</string>
+   <string name="toast_bar_no_connection_network">Ağ bağlantısı yok!</string>
+  <string name="toast_bar_open_gmail_synchronization">Gmail kısıtlanmış, kullanmak için dokunun!</string>
   <string name="too_large_to_attach_additional">"Dosya eklenmedi. %1$s limit aşıldı."</string>
   <string name="too_large_to_attach_multiple">"Birden fazla dosya eklenemedi. Limit %1$s."</string>
   <string name="too_large_to_attach_single">"%1$s\'den fazla dosya eklenemez."</string>
@@ -879,9 +895,11 @@ CC: %4$s
   <string name="updated_just_now">Şimdi yenilendi</string>
   <string name="upload_log">Tanımlama loglarını yükle</string>
   <string name="upload_log_failed">Yükleme başarısız</string>
+  <string name="upload_log_no">İptal</string>
   <string name="upload_log_success">Yükleme tamamlandı</string>
   <string name="upload_log_title">Tanımlama logları yüklensin mi?</string>
   <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
+  <string name="upload_log_yes">Yükle</string>
   <string name="uploading_logs">Yükleniyor</string>
   <string name="validation_failed_prompt">Doğrulama hatası,lütfen %s sunucusu ayarlarını kontrol edin!</string>
   <string name="veiled_address"/>

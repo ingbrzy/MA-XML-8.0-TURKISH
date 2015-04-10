@@ -8,11 +8,15 @@
     <item quantity="other">%1$d dakika</item>
     <item quantity="one">%1$d dakika</item>
 </plurals>
-<plurals name="timer_message_with_minutes">
-	<item quantity="other">%1$d dakika</item>
-	<item quantity="one">%1$d dakika</item>
+<plurals name="timer_message_hour">
+	<item quantity="other">"%1$d saat "</item>
+	<item quantity="one">"%1$d saat "</item>
 </plurals>
-<plurals name="timer_message_with_seconds">
+<plurals name="timer_message_minute">
+	<item quantity="other">"%1$d dakika "</item>
+	<item quantity="one">"%1$d dakika "</item>
+</plurals>
+<plurals name="timer_message_seconds">
 	<item quantity="other">%1$d saniye</item>
 	<item quantity="one">%1$d saniye</item>
 </plurals>
