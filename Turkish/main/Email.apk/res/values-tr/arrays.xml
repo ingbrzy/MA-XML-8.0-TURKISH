@@ -21,12 +21,12 @@
 <string-array name="prefEntries_autoAdvance">
 	<item>Yeni mesajlar</item>
 	<item>Eski mesajlar</item>
-	<item>Sohbet listesi</item>
+	<item>Gelen kutusu</item>
 </string-array>
 <string-array name="prefSummaries_autoAdvance">
 	<item>Sildikten sonra yeni mesajları göster</item>
 	<item>Sildikten sonra eski mesajları göster</item>
-	<item>Sildikten sonra sohbet listesini göster</item>
+	<item>Sildikten sonra gelen kutusunu göster</item>
 </string-array>
 <string-array name="prefEntries_removal_action">
 	<item>Arşivi göster</item>
