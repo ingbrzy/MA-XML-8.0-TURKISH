@@ -2592,60 +2592,60 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="power_overcounted">Aşırı</string>
 	<string name="power_unaccounted">Çeşitli</string>
 	<string name="power_usage_list_summary">Son tam şarjdan beri kullanılan</string>
-	<string name="preferred_network_offload_footer">Disable Network Name Broadcast protects from third parties getting access to your network information.</string>
-	<string name="preferred_network_offload_header">Disable Network Name Broadcast</string>
-	<string name="preferred_network_offload_popup">Disabling Network Name Broadcast will prevent automatic connection to hidden networks.</string>
-	<string name="preferred_network_offload_title">Preferred network Offload</string>
-	<string name="preferred_network_type_summary">LTE (recommended)</string>
-	<string name="preferred_network_type_title">Preferred network type</string>
-	<string name="primary_sub_select_title">Default 4G/3G Subscription</string>
-	<string name="processor_info">Processor info</string>
-	<string name="profile_owner_add_title">Activate Profile Manager?</string>
+	<string name="preferred_network_offload_footer">Üçüncü tarafların ağ bilgilerime erişim korumasını kapat</string>
+	<string name="preferred_network_offload_header">Şebeke adı yayınını kapat</string>
+	<string name="preferred_network_offload_popup">Şebeke Adı Yayınını kapatma, gizli ağlara otomatik bağlantıyı engeller.</string>
+	<string name="preferred_network_offload_title">Öncelikli şebeke boşaltma</string>
+	<string name="preferred_network_type_summary">LTE (Önerilen)</string>
+	<string name="preferred_network_type_title">Tercih edilen şebeke türü</string>
+	<string name="primary_sub_select_title">Varsayılan 4G/3G abonelikleri</string>
+	<string name="processor_info">İşlemci bilgisi</string>
+	<string name="profile_owner_add_title">Profil yöneticisi açılsın mı?</string>
 	<string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
 	<string name="proxy_url_title">"PAC URL: "</string>
-	<string name="query_hint_text">Search settings</string>
+	<string name="query_hint_text">Arama ayarları</string>
 	<string name="radio_info_dcrtinfo_label">DcRtInfo:</string>
-	<string name="remove_managed_profile_label">Remove work profile</string>
-	<string name="repeat_title">Repeat</string>
-	<string name="restr_pin_enter_admin_pin">Enter administrator PIN</string>
-	<string name="restriction_nfc_enable_summary_config">Allow data exchange when this %1$s touches another NFC device</string>
-	<string name="ring_volume_option_title">Ring volume</string>
-	<string name="running_processes_header_apps_prefix">Apps</string>
-	<string name="running_processes_header_cached_prefix">Cached</string>
-	<string name="running_processes_header_footer">App RAM usage</string>
-	<string name="running_processes_header_free_prefix">Free</string>
-	<string name="running_processes_header_ram">%1$s of RAM</string>
-	<string name="running_processes_header_system_prefix">System</string>
-	<string name="running_processes_header_title">Device memory</string>
-	<string name="running_processes_header_used_prefix">Used</string>
-	<string name="screen_locking_sounds_title">Screen locking sounds</string>
-	<string name="screen_pinning_description">"When turned on, you can use screen pinning to keep the current screen in view until you unpin.
+	<string name="remove_managed_profile_label">İş profilini kaldır</string>
+	<string name="repeat_title">Tekrarla</string>
+	<string name="restr_pin_enter_admin_pin">Yönetici PIN kodunu girin</string>
+	<string name="restriction_nfc_enable_summary_config">%1$s diğer NFC cihaza dokununca veri aktarımına izin ver</string>
+	<string name="ring_volume_option_title">Zil sesi seviyesi</string>
+	<string name="running_processes_header_apps_prefix">Uygulamalar</string>
+	<string name="running_processes_header_cached_prefix">Önbellekte</string>
+	<string name="running_processes_header_footer">Uygulama RAM kullanımı</string>
+	<string name="running_processes_header_free_prefix">Boş</string>
+	<string name="running_processes_header_ram">%1$s  RAM</string>
+	<string name="running_processes_header_system_prefix">Sistem</string>
+	<string name="running_processes_header_title">Cihaz hafızası</string>
+	<string name="running_processes_header_used_prefix">Kullanılan</string>
+	<string name="screen_locking_sounds_title">Ekranı kilitleme sesi</string>
+	<string name="screen_pinning_description">"Açtığınız zaman, ekran iğnelemeyi kullanabilirsiniz.
 
-	To use screen pinning:
+	Ekran iğnelemeyi kullanmak için:
 
-	1. Make sure screen pinning is turned on.
+	1. İğnelemenin açık olduğundan emin olun.
 
-	2. Open the screen you want to pin.
+	2. İğnelemek istediğiniz ekranı açın.
 
-	3. Touch Overview.
+	3. Genel bakışa dokunun.
 
-	4. Touch the pin icon."</string>
-	<string name="screen_pinning_title">Screen pinning</string>
-	<string name="search_menu">Search</string>
-	<string name="search_recents_queries_label">Recent searches</string>
-	<string name="search_results_label">Results</string>
-	<string name="search_results_title">Settings</string>
-	<string name="secure_lock_encryption_warning">"Because you've turned on an accessibility service, your device won’t use your screen lock to enhance data encryption."</string>
-	<string name="select_logd_size_dialog_title">Select Logger sizes per log buffer</string>
-	<string name="select_logd_size_title">Logger buffer sizes</string>
-	<string name="setup_wifi_nfc_tag">Set up WLAN NFC Tag</string>
-	<string name="setup_wizard_back_button_label">Back</string>
-	<string name="setup_wizard_next_button_label">Next</string>
-	<string name="severe_threats_summary">Receive alerts for severe threats to life and property</string>
-	<string name="severe_threats_title">Severe threats</string>
-	<string name="sim_absent">No SIM/RUIM</string>
-	<string name="sim_call_back_title">Call back from default SIM</string>
-	<string name="sim_calls_always_use">Always use this for calls</string>
+	4. İğne simgesine dokunun."</string>
+	<string name="screen_pinning_title">Ekran iğnelem</string>
+	<string name="search_menu">Ara</string>
+	<string name="search_recents_queries_label">Son arananlar</string>
+	<string name="search_results_label">Sonuçlar</string>
+	<string name="search_results_title">Ayarlar</string>
+	<string name="secure_lock_encryption_warning">"Bir erişilebilirlik hizmeti açtınız, cihazınız veri şifrelemeyi geliştirmek için ekran kilidi kullanamaz"</string>
+	<string name="select_logd_size_dialog_title">Log boyutunu seç</string>
+	<string name="select_logd_size_title">Log buffer boyutu</string>
+	<string name="setup_wifi_nfc_tag">Wi-Fi NFC etiketini ayarla</string>
+	<string name="setup_wizard_back_button_label">Geri</string>
+	<string name="setup_wizard_next_button_label">İleri</string>
+	<string name="severe_threats_summary">Can ve mal tehditleri için uyarılar al</string>
+	<string name="severe_threats_title">Tehditler</string>
+	<string name="sim_absent">SIM/RUIM yok</string>
+	<string name="sim_call_back_title">Varsayılan SIM karttan ara</string>
+	<string name="sim_calls_always_use">Çağrılar için herzaman bunu kullan</string>
 	<string name="sim_calls_ask_first_prefs_title">Ask first</string>
 	<string name="sim_card_number_title">SIM %1$d</string>
 	<string name="sim_card_select_title">Select SIM card</string>
