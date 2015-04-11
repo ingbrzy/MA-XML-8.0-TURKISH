@@ -2323,8 +2323,6 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="bluetooth_broadcasting_explaination">"Bu özellik açıkken, telefonunuz çevredeki diğer cihazlarla iletişim kurabilir.
 
 	Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
-	<string name="bluetooth_dun_profile_summary_connected">DUN Sunucusuna bağlandı</string>
-	<string name="bluetooth_dun_profile_summary_use_for">Use for Dial-up Network Access</string>
 	<string name="bluetooth_empty_list_user_restricted">"You don't have permission to change Bluetooth settings."</string>
 	<string name="bluetooth_enter_pin_msg_hs">Device requires High Security 16 character passkey</string>
 	<string name="bluetooth_is_disconnect_question">Disconnect %1$s?</string>
@@ -2342,12 +2340,9 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="bluetooth_preference_paired_dialog_keyboard_option">Keyboard</string>
 	<string name="bluetooth_preference_paired_dialog_name_label">Name</string>
 	<string name="bluetooth_preference_paired_dialog_title">Paired device</string>
-	<string name="bluetooth_profile_dun">Dial-up Network Access</string>
 	<string name="bluetooth_profile_pbap">Contact sharing</string>
 	<string name="bluetooth_profile_pbap_summary">Use for contact sharing</string>
 	<string name="bluetooth_profile_sap">SIM Access</string>
-	<string name="bluetooth_sap_profile_summary_connected">Connected to SIM Access Server</string>
-	<string name="bluetooth_sap_profile_summary_use_for">Use for SIM Access</string>
 	<string name="bluetooth_tethering_off_subtext_config">"Sharing this %1$d's Internet connection"</string>
 	<string name="brightness_title">Brightness</string>
 	<string name="bssid_label">BSSID:</string>
@@ -2410,15 +2405,12 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="date_time_set_timezone_title">Zaman dilimi</string>
 	<string name="debug_view_attributes">Görünüm niteliği incelemeyi etkinleştir</string>
 	<string name="default_sound">Varsayılan ses</string>
-	<string name="device_additional_status">Ek durum bilgisi</string>
-	<string name="device_additional_status_summary">Telefon numarası, Sinyal, IMEI, vs.</string>
 	<string name="device_feedback">Bu cihaz ile ilgili geri bildirim gönder</string>
 	<string name="device_reset_title">Cihazı Sıfırla</string>
 	<string name="dial_pad_tones_title">Tuş takımı sesleri</string>
 	<string name="disableNetwork">disableNetwork</string>
 	<string name="disable_data_string">Ver ibağlantısını kapat</string>
 	<string name="disabled_because_no_backup_security">Kullanmak için, öncelikle bir ekran kilidi ayarlayın</string>
-	<string name="disconnect">disconnect</string>
 	<string name="display_auto_rotate_rotate">Ekran içeriğini döndür</string>
 	<string name="display_auto_rotate_stay_in_current">Mevcut yönde kal</string>
 	<string name="display_auto_rotate_stay_in_landscape">Yatay görünümde kal</string>
@@ -2523,10 +2515,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="keywords_wifi">wifi wi-fi network connection</string>
 	<string name="last_time_used_label">Son kullanılanlar</string>
 	<string name="lift_to_wake_title">Uyandırmak için kaldır</string>
-	<string name="link_speed_label">Link hızı:</string>
 	<string name="loading_notification_apps">Uygulamalar yükleniyor...</string>
-	<string name="location_agps_def_supl_host">221.176.0.55</string>
-	<string name="location_agps_def_supl_port">7275</string>
 	<string name="location_agps_register_network_type_dialog_summary">Şebekeyi seç</string>
 	<string name="location_category_enhanced_location">Gelişmiş Konum</string>
 	<string name="lock_after_timeout_summary_with_exception">%1$s uyuyunca, %2$s tarafından kilit açılır</string>
@@ -2589,14 +2578,6 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="oem_unlock_enable">OEM kilit açmayı etkinleştir</string>
 	<string name="oem_unlock_enable_summary">OEM kilit açmaya izin ver</string>
 	<string name="okay">TAMAM</string>
-	<string name="oldman_mode_confirm_title">Telefon tekrar başlatılsın mı?</string>
-	<string name="oldman_mode_confirm_will_normal_mode_text">Exit Lite mode?</string>
-	<string name="oldman_mode_confirm_will_oldman_mode_text">Your device will reboot to enter Lite mode.</string>
-	<string name="oldman_mode_enabled_name">Lite mode</string>
-	<string name="oldman_mode_entry_name">Lite mode</string>
-	<string name="oldman_mode_entry_title">Lite mode</string>
-	<string name="oldman_mode_settings_caption">Lite mode settings</string>
-	<string name="oldman_mode_summary">Use simplified Home screen and menus</string>
 	<string name="other_sound_settings">Diğer sesler</string>
 	<string name="personal_device_admin_title">Kişisel</string>
 	<string name="power_charge_remaining">%1$s şarj</string>
@@ -2629,7 +2610,6 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="restr_pin_enter_admin_pin">Enter administrator PIN</string>
 	<string name="restriction_nfc_enable_summary_config">Allow data exchange when this %1$s touches another NFC device</string>
 	<string name="ring_volume_option_title">Ring volume</string>
-	<string name="rssi_label">RSSI:</string>
 	<string name="running_processes_header_apps_prefix">Apps</string>
 	<string name="running_processes_header_cached_prefix">Cached</string>
 	<string name="running_processes_header_footer">App RAM usage</string>
@@ -2658,7 +2638,6 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="secure_lock_encryption_warning">"Because you've turned on an accessibility service, your device won’t use your screen lock to enhance data encryption."</string>
 	<string name="select_logd_size_dialog_title">Select Logger sizes per log buffer</string>
 	<string name="select_logd_size_title">Logger buffer sizes</string>
-	<string name="service_client_name">%1$s</string>
 	<string name="setup_wifi_nfc_tag">Set up WLAN NFC Tag</string>
 	<string name="setup_wizard_back_button_label">Back</string>
 	<string name="setup_wizard_next_button_label">Next</string>
@@ -2844,11 +2823,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="wifi_saved_access_points_titlebar">Saved networks</string>
 	<string name="wifi_scan_always_available_title">Always allow scanning</string>
 	<string name="wifi_scan_always_turnoff_message">To turn this off, go to Advanced in the overflow menu.</string>
-	<string name="wifi_security_WAPI_CERT">WAPI CERT</string>
-	<string name="wifi_security_WAPI_PSK">WAPI PSK</string>
 	<string name="wifi_security_eap">802.1x EAP</string>
-	<string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-	<string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
 	<string name="wifi_security_short_eap">802.1x</string>
 	<string name="wifi_security_short_wep">WEP</string>
 	<string name="wifi_security_short_wpa">WPA</string>
