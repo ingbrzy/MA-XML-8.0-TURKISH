@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Telefon</string>
+    <string name="unknown">Bilinmiyor</string>
+    <string name="notification_missedCallTitle">Cevapsız çağrı</string>
+    <string name="notification_missedCallsTitle">Cevapsız çağrı</string>
+    <string name="notification_missedCallsMsg">%s Cevapsız çağrınız var</string>
+    <string name="notification_missedCallTicker">Cevapsız çağrınız var: %s</string>
+    <string name="notification_missedCall_call_back">Çağrıya dön</string>
+    <string name="notification_missedCall_message">Mesaj</string>
+    <string name="accessibility_call_muted">Çağrı sessiz</string>
+    <string name="accessibility_speakerphone_enabled">Hoparlör etkin.</string>
+    <string name="respond_via_sms_canned_response_1">"Şu an konuşamıyorum, ne oldu?"</string>
+    <string name="respond_via_sms_canned_response_2">"Sonra ararım"</string>
+    <string name="respond_via_sms_canned_response_3">"Şu an müsait değilimstring>
+    <string name="respond_via_sms_canned_response_4">"Araba kullanıyorum, polis var...?"</string>
+    <string name="respond_via_sms_setting_title">Hızlı cevaplar</string>
+    <string name="respond_via_sms_setting_title_2">Hızlı cevapları düzenle</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Hızlı cevaplar</string>
+    <string name="respond_via_sms_menu_reset_default_activity">Varsayılan uygulamayı sıfırla</string>
+    <string name="respond_via_sms_confirmation_format">Mesaj suraya gönderildi: %s.</string>
+    <string name="outgoing_call_not_allowed">Bu kullanıcıya acil olmayan telefon görüşmeleri yapmak için izin verilmez</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Girdiğiniz numara geçersiz</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Önce tty Mmodunu kapatın</string>
+    <string name="no_vm_number">Sesli mesaj numarası yok</string>
+    <string name="no_vm_number_msg">SIM kartta sesli mesaj numarası yok</string>
+    <string name="add_vm_number_str">Numara ekle</string>
+    <string name="test_account_0_label">Q Mobile</string>
+    <string name="test_account_1_label">Market Wireless</string>
+    <string name="test_account_2_label">Sonoma Circles Talk Plus</string>
+    <string name="test_account_3_label">Bay Voice Chat Pro</string>
+    <string name="test_account_0_short_description">Account with Q Mobile</string>
+    <string name="test_account_1_short_description">Account with Market Wireless</string>
+    <string name="test_account_2_short_description">Talk to everyone in your Circles!</string>
+    <string name="test_account_3_short_description">Chat with Chat Network users</string>
+    <string name="handle_restricted">KISITLI</string>
+    <string name="headset_plugin_view_text">Kulaklık takıldı</string>
+    <string name="headset_plugin_view_title">Kulaklık</string>
+    <string name="select_account_dialog_title">Hesabı seç</string>
+    <string name="voice_report_incoming_call">Aranıyor</string>
+    <string name="voice_report_unknown_num">Bilinmeyen numara</string>
+</resources>
