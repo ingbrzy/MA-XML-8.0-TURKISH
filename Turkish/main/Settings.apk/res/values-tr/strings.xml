@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_settings">Telefon Hakkında</string>
   <string name="about_settings_summary">Yazılım bilgileri vs...</string>
@@ -917,7 +917,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="local_backup_section_summary">Sistem uygulamaları, hesaplar ve uygulamaları yedekle</string>
   <string name="local_backup_section_title">Yerel yedekler</string>
   <string name="locale_default">Varsayılan</string>
-  <string name="locale_settings">Yerel</string>
+  <string name="locale_settings">Konum</string>
   <string name="location_access_off">Kapalı</string>
   <string name="location_access_on">Açık</string>
   <string name="location_access_summary">Uygulamalar konum bilginizi alır</string>
@@ -2367,13 +2367,39 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="condition_provider_security_warning_title">%1$s etkinleştirilsin mi?</string>
 	<string name="continue_all_caps">DEVAM</string>
 	<string name="credentials_settings_not_available">Sertifikalar Bu kullanıcı için geçerli değil</string>
-	<string name="crypt_keeper_confirm_encrypt">You need to draw your unlock pattern to confirm encrypting your device.</string>
-	<string name="crypt_keeper_data_corrupt_summary">"The password you entered is correct, but unfortunately your data is corrupt. 
+  <string name="crypt_keeper_button_text">Telefonu şifrele</string>
+  <string name="crypt_keeper_confirm_encrypt">Onaylamak için kilit açma desenini çizin</string>
+  <string name="crypt_keeper_confirm_title">Şifrelensin mi?</string>
+  <string name="crypt_keeper_cooldown">^1 saniye sonra tekrar deneyin</string>
+  <string name="crypt_keeper_data_corrupt_summary">"Girdiğiniz parola doğru, ama ne yazık ki veri bozuk. 
 
-	To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you'll have an opportunity to restore any data that was backed up to your Google Account."</string>
-	<string name="crypt_keeper_data_corrupt_title">Decryption unsuccessful</string>
-	<string name="crypt_keeper_setup_time_remaining">Wait while your phone is being encrypted. Time remaining: ^1</string>
-	<string name="crypt_keeper_warn_wipe">Warning: Your device will be wiped after ^1 more failed attempts to be unlocked!</string>
+Telefonunuzu kullanmanız için fabrika ayarlarına sıfırlamanız gerekiyor. Sıfırlamadan sonra Google hesabınızdaki yedekleri kullanabilirsiniz."</string>
+  <string name="crypt_keeper_data_corrupt_title">Başarısız!</string>
+  <string name="crypt_keeper_desc">"Hesaplarınızı, ayarlarınızı, indirilen uygulamalar ve bunların verilerini, medya ve diğer dosyaları şifreleyebilirsiniz. Telefonunuzu şifreledikten  sonra, bir ekran kilidi ayarladıysanız (yani, bir desen veya sayısal bir PIN veya şifre), telefonunuzu her açtığınızda bu şifreyi girmeniz gerekir. Şifreyi çözmenin diğer yolu, tüm verileri silerek, fabrika ayarlarına sıfırlama yapmaktır.
+
+Şifreleme bir saat veya daha fazla sürer. İşleme dolu bille başlamanız ve şarj aletini takmanız tavsiye edilir.Eğer keserseniz, verilerinizin bir kısmını veya tamamını kaybedersiniz."</string>
+  <string name="crypt_keeper_dialog_need_password_message">Şifrelemeye başlamadan önce kilit ekranı PIN kodu veya şifresi ayarlamanız gerekir.</string>
+  <string name="crypt_keeper_dialog_need_password_title">Şifre ya da PIN kodu yok</string>
+  <string name="crypt_keeper_encrypt_title">Telefonu şifrele</string>
+  <string name="crypt_keeper_encrypted_summary">Şifrelendi</string>
+  <string name="crypt_keeper_enter_password">Şifrenizi girin</string>
+  <string name="crypt_keeper_failed_summary">"Şifreleme tamamlanamadı. Sonuç olarak, telefonunuzdaki verileri artık erişilebilir. 
+
+Telefonunuzu kullanmanız için fabrika ayarlarına sıfırlamanız gerekiyor. Sıfırlamadan sonra Google hesabınızdaki yedekleri kullanabilirsiniz."</string>
+  <string name="crypt_keeper_failed_title">Şifreleme başarılı</string>
+  <string name="crypt_keeper_final_desc">"Şifreleme işlemi geri döndürülemez ve bunu kesmeniz halinde, veri kaybedersiniz. 
+
+Şifreleme, bir saat veya daha fazla sürer, işlem sırasında telefon birkaç kez yeniden başlayacaktır."</string>
+  <string name="crypt_keeper_low_charge_text">Pili şarj edip tekrar deneyin</string>
+  <string name="crypt_keeper_settings_title">Şifrele</string>
+  <string name="crypt_keeper_setup_description">Telefonunuz şifrelenirirken bekleyin. ^1% tamamlandı.</string>
+  <string name="crypt_keeper_setup_time_remaining">Telefonunuz şifrelenirirken bekleyin. Kalan süre: ^1</string>
+  <string name="crypt_keeper_setup_title">Şifreleniyor</string>
+  <string name="crypt_keeper_switch_input_method">Giriş yöntemini değiştir</string>
+  <string name="crypt_keeper_unplugged_text">Şarj aletini bağlayın ve tekrar deneyin</string>
+  <string name="crypt_keeper_warn_wipe">Uyarı: ^1 başarısız kilit açma işleminden sonra cihazınız silinecektir!</string>
+  <string name="cryptkeeper_emergency_call">Acil çağrılar</string>
+  <string name="cryptkeeper_return_to_call">Çağrıya dön</string>
 	<string name="daltonizer_mode_deuteranomaly">Deuteranomaly (kırmızı-yeşil)</string>
 	<string name="daltonizer_mode_disabled">Kapalı</string>
 	<string name="daltonizer_mode_monochromacy">Monochromacy</string>
@@ -2438,32 +2464,32 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="enable_quickboot_summary">Cihaz normal kapatılınca QuickBoot moduna geçer</string>
 	<string name="enable_quickboot_title">QuickBoot modu aç</string>
 	<string name="enable_service_encryption_warning">%1$s servisini açarsanız, cihazınızın veri şifrelemeyi geliştirmek için ekran kilidi kullanmaz.</string>
-	<string name="enable_service_password_reason">Because turning on %1$s affects data encryption, you need to confirm your password.</string>
-	<string name="enable_service_pattern_reason">Because turning on %1$s affects data encryption, you need to confirm your pattern.</string>
-	<string name="enable_service_pin_reason">Because turning on %1$s affects data encryption, you need to confirm your PIN.</string>
+	<string name="enable_service_password_reason">%1$s servisini açarsanız veri şifreleme etkilenir ve şifrenizi onaylamanız gerekir</string>
+	<string name="enable_service_pattern_reason">%1$s servisini açarsanız veri şifreleme etkilenir ve deseninizi onaylamanız gerekir</string>
+	<string name="enable_service_pin_reason">%1$s servisini açarsanız veri şifreleme etkilenir ve PIN kodunuzu onaylamanız gerekir</string>
 	<string name="encrypt_dont_require_password">HAYIR</string>
 	<string name="encrypt_dont_require_pattern">HAYIR</string>
 	<string name="encrypt_dont_require_pin">HAYIR</string>
-	<string name="encrypt_require_password">Require password to start device</string>
-	<string name="encrypt_require_pattern">Require pattern to start device</string>
-	<string name="encrypt_require_pin">Require PIN to start device</string>
+	<string name="encrypt_require_password">Cihazı başlatmanız için şifre gerekiyor</string>
+	<string name="encrypt_require_pattern">Cihazı başlatmanız için desen gerekiyor</string>
+	<string name="encrypt_require_pin">Cihazı başlatmanız için PIN kodu gerekiyor</string>
 	<string name="encrypt_talkback_dialog_message_password">"When you enter your password to start this device, accessibility services like %1$s won't yet be available."</string>
 	<string name="encrypt_talkback_dialog_message_pattern">"When you enter your pattern to start this device, accessibility services like %1$s won't yet be available."</string>
 	<string name="encrypt_talkback_dialog_message_pin">"When you enter your PIN to start this device, accessibility services like %1$s won't yet be available."</string>
 	<string name="encrypt_talkback_dialog_require_password">Require password?</string>
 	<string name="encrypt_talkback_dialog_require_pattern">Require pattern?</string>
 	<string name="encrypt_talkback_dialog_require_pin">Require PIN?</string>
-	<string name="encryption_continue_button">Continue</string>
-	<string name="encryption_interstitial_header">Encryption</string>
-	<string name="encryption_interstitial_message_password">"You can further protect this device by requiring your password before it starts up. Until the device starts up, it can't receive calls, messages, or notifications, including alarms. 
+	<string name="encryption_continue_button">DEVAM</string>
+	<string name="encryption_interstitial_header">Şifrele</string>
+	<string name="encryption_interstitial_message_password">"Başlamadan önce şifre ile bu cihazı koruyabilirsiniz. Cihaz açılana kadar, alarmlar dahil aramaları, mesajları, veya bildirimleri alamazsınız.
 
-	This helps protect data on lost or stolen devices."</string>
-	<string name="encryption_interstitial_message_pattern">"You can further protect this device by requiring your pattern before it starts up. Until the device starts up, it can't receive calls, messages, or notifications, including alarms. 
+Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yardımcı olur."</string>
+	<string name="encryption_interstitial_message_pattern">"Başlamadan önce desen ile bu cihazı koruyabilirsiniz. Cihaz açılana kadar, alarmlar dahil aramaları, mesajları, veya bildirimleri alamazsınız.
 
-	This helps protect data on lost or stolen devices."</string>
-	<string name="encryption_interstitial_message_pin">"You can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can't receive calls, messages, or notifications, including alarms. 
+Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yardımcı olur."</string>
+	<string name="encryption_interstitial_message_pin">"Başlamadan önce PIN kodu ile bu cihazı koruyabilirsiniz. Cihaz açılana kadar, alarmlar dahil aramaları, mesajları, veya bildirimleri alamazsınız.
 
-	This helps protect data on lost or stolen devices."</string>
+Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yardımcı olur."</string>
 	<string name="enhanced_4g_lte_mode_summary">Gelişmiş ses ve iletişim için LTE veri kullan (Önerilen)</string>
 	<string name="enhanced_4g_lte_mode_title">Gelişmiş 4G LTE Modu</string>
 	<string name="enter_pattern">Başlamak için deseninizi çizin</string>
@@ -2878,4 +2904,8 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="zen_mode_when_every_night">Every night</string>
 	<string name="zen_mode_when_never">Never</string>
 	<string name="zen_mode_when_weeknights">Weeknights</string>
+  <string name="mobile_connect_to_internet">Lütfen internete bağlanın</string>
+  <string name="mobile_insert_sim_card">Lütfen SIM kartı yerleştirin</string>
+  <string name="mobile_no_provisioning_url">%1$s, bilinen yetkilendirme sitesi yok.</string>
+  <string name="mobile_unknown_sim_operator">SIM operatörü bilinmiyor</string>
 </resources>
