@@ -877,10 +877,49 @@
 	<item>Kontrast sabit kalır</item>
 </string-array>
 <string-array name="pink_panel_led_color_values">
-	<item>mavi</item>
+	<item>Mavi</item>
 	<item>Kırmızı</item>
 	<item>Sarı</item>
 	<item>Yeşil</item>
 	<item>Mor</item>
+</string-array>
+<string-array name="data_usage_data_range">
+	<item>Son 30 gün</item>
+	<item>Kullanımı ayarla...</item>
+</string-array>
+<string-array name="sim_card_data_range">
+	<item>Son 4 hane</item>
+	<item>İlk 4 hane</item>
+</string-array>
+<string-array name="app_ops_permissions">
+	<item>İzin verilen</item>
+	<item>Yoksayılan</item>
+	<item>Her zaman sor</item>
+</string-array>
+<string-array name="entries_zen_mode">
+	<item>Kapalı</item>
+	<item>Sınırlı kesintiler</item>
+	<item>Sıfır kesintiler</item>
+</string-array>
+<string-array name="proc_stats_memory_states">
+	<item>Normal</item>
+	<item>Makul</item>
+	<item>Düşük</item>
+	<item>Kritik</item>
+<string-array name="proc_stats_process_states">
+	<item>Kalıcı</item>
+	<item>Yüksek aktivite</item>
+	<item>Önemli (ön plan)</item>
+	<item>Önemli (arka plan)</item>
+	<item>Yedek</item>
+	<item>Ağır</item>
+	<item>Servis(çalışan)</item>
+	<item>Servis(tekrar başlayan)</item>
+	<item>Alıcı</item>
+	<item>Ev</item>
+	<item>Son aktivite</item>
+	<item>Önbelleğe alınmış (aktivite)</item>
+	<item>Önbelleğe alınmış (istemci aktivitesi)</item>
+	<item>Önbelleğe alınmış (boş)</item>
 </string-array>
 </resources>

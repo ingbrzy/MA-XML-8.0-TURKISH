@@ -872,6 +872,12 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="install_preinstall_app">Uygulamalar yükleniyor…</string>
   <string name="install_text">Yükle</string>
   <string name="install_unknown_applications">Market dışı uygulamaların yüklenmesine izin ver</string>
+  <string name="intent_sender_account_label">Hesap:</string>
+  <string name="intent_sender_action_label">Eylem:</string>
+  <string name="intent_sender_data_label">Veri:</string>
+  <string name="intent_sender_resource_label">Kaynak:</string>
+  <string name="intent_sender_sendbroadcast_text">Yayın gönder</string>
+  <string name="intent_sender_startactivity_text">Aktivite başlat</string>
   <string name="internal_format">Dahili depolamayı sil</string>
   <string name="internal_format_summary">Dahili depolamadaki tüm veriler silinir.</string>
   <string name="internal_media_format_button_text">Dahili depolamayı sil</string>
@@ -1330,7 +1336,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Bağlandı</string>
   <string name="radioInfo_data_connecting">Bağlanıyor</string>
-  <string name="radioInfo_data_disconnected">Bağlantı kesildi</string>
+  <string name="radioInfo_data_disconnected">Bağlantı yok</string>
   <string name="radioInfo_data_suspended">Askıya alındı</string>
   <string name="radioInfo_display_asu">asu</string>
   <string name="radioInfo_display_bytes">bytes</string>
@@ -1712,7 +1718,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="status_msid_number">MSID</string>
   <string name="status_network_type">Mobil ağ türü</string>
   <string name="status_number">Telefon numaram</string>
-  <string name="status_operator">Ağ</string>
+  <string name="status_operator">Operatör</string>
   <string name="status_prl_version">PRL Sürümü</string>
   <string name="status_roaming">Dolaşım</string>
   <string name="status_serial_number">Seri numarası</string>
