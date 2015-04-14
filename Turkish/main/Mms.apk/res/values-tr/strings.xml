@@ -80,7 +80,7 @@
   <string name="confirm_no_block_title">Bu numara kara listeden kaldırılıp gönderilen tüm mesajlar yeniden yüklensin mi?</string>
   <string name="confirm_rate_limit">Çok sayıda MMS gönderilecek. Onaylıyor musunuz.?</string>
   <string name="confirm_restore_all_title">Bu numaranın tüm mesajları geri yüklensin mi?</string>
-  <string name="confirm_restore_checkbox">Bu numaranın gönderdiği mesajları engelleme</string>
+  <string name="confirm_restore_checkbox">Engellenen mesajları kurtar</string>
   <string name="confirm_restore_message">Seçtiğiniz mesajlar onarılsın mı?</string>
   <string name="confirm_restore_positive">Kurtar</string>
   <string name="confirm_restore_title">Seçilen tüm mesajlar kurtarılsın mı?</string>
@@ -506,6 +506,7 @@
   <string name="storage_limits_message">Her mesaj dizisi için kaydettiğiniz mesaj sayısı sınırlansın mı?</string>
   <string name="storage_limits_setting">Sınırları ayarla</string>
   <string name="storage_limits_setting_dismiss">Sınır yok</string>
+  <string name="storage_unavailable">Yeterli boş alan yok!</string>
   <string name="subject_hint">Konu</string>
   <string name="subject_label">Konu:</string>
   <string name="text_in_popup_saved_to_clipboard">Panoya kopyalandı</string>

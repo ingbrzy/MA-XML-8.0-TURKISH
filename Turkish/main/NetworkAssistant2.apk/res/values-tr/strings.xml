@@ -27,7 +27,7 @@
   <string name="cancel_button">İptal</string>
   <string name="chat_number">10 saat</string>
   <string name="chat_uint">" saat"</string>
-  <string name="check_network_state">Şebeke durumunu kontrol et</string>
+  <string name="check_network_state">Ağ durumunu kontrol et</string>
   <string name="checkout_traffic_saving_history">Geçmişi görüntüle</string>
   <string name="choose">Seç</string>
   <string name="connect_internet_by_mobiledata">Mobil veri şebekesi ile internete bağlan</string>
@@ -116,8 +116,8 @@
   <string name="free_time_traffic_settings">Mobil Veri limiti ayarları</string>
   <string name="free_time_traffic_title">Mobil Veri limitini girin</string>
   <string name="free_traffic_settings">Kullanım ayarları</string>
-  <string name="gateway_exception_summary">Router\'ı kontrol edip tekrar deneyin</string>
-  <string name="gateway_exception_title">Test router</string>
+  <string name="gateway_exception_summary">Yönlendiriciyi kontrol edip tekrar deneyin</string>
+  <string name="gateway_exception_title">Yönlendirici testi</string>
   <string name="input_aviable_traffic">Mobil Veri limitini ayarlayın</string>
   <string name="input_traffic_pkg">Kullanılan verileri girin</string>
   <string name="input_used_hint">Kullanılan verileri girin</string>
@@ -161,9 +161,9 @@
   <string name="main_secondary_message_traffic_used_noleisure">%s kullanılan yüksek veri | geriye veri kalmadı</string>
   <string name="main_secondary_message_traffic_used_normal">%s yüksek miktarda veri kullanıldı</string>
   <string name="main_toolbar_firewall">Uygulamanın veri kullanımını kısıtla</string>
-  <string name="main_toolbar_internet_by_mobiledata">Mobil veri ile internete bağlan</string>
-  <string name="main_toolbar_internet_by_pc_brige">USB ile internete bağlan</string>
-  <string name="main_toolbar_internet_by_wifi">Wi-Fi ile internete bağlan</string>
+  <string name="main_toolbar_internet_by_mobiledata">Mobil Veri ile internet bağlantısı</string>
+  <string name="main_toolbar_internet_by_pc_brige">USB ile internet bağlantısı</string>
+  <string name="main_toolbar_internet_by_wifi">Wi-Fi ile internet bağlantısı</string>
   <string name="main_toolbar_purchase">Satın al/yükle</string>
   <string name="main_toolbar_saving">Veri Tasarrufu</string>
   <string name="main_toolbar_statistic">Veri kullanımı istatistikleri</string>
@@ -422,7 +422,7 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="traffic_setting_step_num">Veri planı ayarları</string>
   <string name="traffic_setting_update_template_falure">"Ağ bağlantısı yok!"</string>
   <string name="traffic_warning_purchase_title">Veri kullanım uyarısı</string>
-  <string name="unable_connect_internet">"Şebekeye bağlanamıyor!"</string>
+  <string name="unable_connect_internet">"Ağ bağlantısı yok!"</string>
   <string name="usage_sorted_activity_lable">Veri kullanımı</string>
   <string name="usage_sorted_empty_text">Boş</string>
   <string name="usage_sorted_loading_text">Yükleniyor...</string>

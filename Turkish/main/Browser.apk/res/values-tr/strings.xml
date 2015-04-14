@@ -65,7 +65,8 @@
   <string name="block_ads_choice_continue">Devam</string>
   <string name="block_ads_message">Bu sitenin mesajları engellensin mi?</string>
   <string name="block_ads_title">İçerik reklam barındırabilir</string>
-  <string name="bookmark_URL_already_exisit">Bu URL zaten yer imlerinde</string>
+  <string name="bookmark_url_already_exisit">Bu URL zaten yer imlerinde var</string>
+  <string name="bookmark_URL_already_exisit">Bu URL zaten yer imlerinde var</string>
   <string name="bookmark_add_group_text_header">Seçili %1$d öğesini gruba ekle</string>
   <string name="bookmark_add_to">Ekle</string>
   <string name="bookmark_folder_needs_title">"Bir grup ismi girin"</string>
@@ -252,7 +253,7 @@
   <string name="js_dialog_before_unload_negative_button">Sayfada kal</string>
   <string name="js_dialog_before_unload_positive_button">Sayfadan ayrıl</string>
   <string name="js_dialog_before_unload_title">Uyarı</string>
-  <string name="js_dialog_title">sayfa \" %s \" şunu söylüyor:</string>
+  <string name="js_dialog_title">sayfa \"%s\" şunu söylüyor:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">JavaScript\'i devre dışı bırakmak bazı sitelerin hatalı gösterilmesine neden olabilir</string>
   <string name="js_disable_confirm_title">JavaScript\'i devre dışı bırak?</string>

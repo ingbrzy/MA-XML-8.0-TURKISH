@@ -80,7 +80,6 @@ Kapatmak ister misiniz?"</string>
 
 Kapatmak ister misiniz?"</string>
   <string name="anr_title"/>
-  <string name="app_no_restricted_accounts">Bu uygulama, kısıtlanmış profillerin hesaplarını desteklemez</string>
   <string name="app_not_found">Bu eylemi gerçekleştirecek bir uygulama bulunamadı</string>
   <string name="app_running_notification_text">Daha fazla bilgi edinmek için veya uygulamayı durdurmak için dokunun.</string>
   <string name="app_running_notification_title">%1$s çalışıyor</string>
@@ -199,15 +198,6 @@ Kapatmak ister misiniz?"</string>
   <string name="deleteText">Sil</string>
   <string name="deleted_key">%1$s silindi</string>
   <string name="deny">Reddet</string>
-  <string name="description_direction_down">%s için aşağı kaydırın.</string>
-  <string name="description_direction_left">%s için sola kaydırın.</string>
-  <string name="description_direction_right">%s için sağa kaydırın.</string>
-  <string name="description_direction_up">%s için yukarı kaydırın.</string>
-  <string name="description_target_camera">Kamera</string>
-  <string name="description_target_search">Ara</string>
-  <string name="description_target_silent">Sessiz</string>
-  <string name="description_target_soundon">Ses açık</string>
-  <string name="description_target_unlock">Kilidi aç</string>
   <string name="description_target_unlock_tablet">Kilidi açmak için kaydırın.</string>
   <string name="dial_number_using">"Numarayı çevir:
 %s"</string>
@@ -824,7 +814,6 @@ Geri almak için, genel bakışa basılı tutun."</string>
   <string name="permdesc_invokeCarrierSetup">İzin sahibine, operatör tarafından sağlanan yapılandırma uygulamasını çalıştırma izni verir. Normal uygulamalarda hiçbir zaman gerek duyulmaz.</string>
   <string name="permdesc_killBackgroundProcesses">Uygulamaya diğer uygulamalara ait arka plan işlemleri sonlandırma izni verir. Bu izin, diğer uygulamaların çalışmayı durdurmasına neden olabilir.</string>
   <string name="permdesc_locationUpdates">Uygulamaya, radyo iletişimiyle konum güncelleme bildirimlerini etkinleştirme/devre dışı bırakma izni verir. Normal uygulamaların kullanımına yönelik değildir.</string>
-  <string name="permdesc_magnify_display">Uygulamaya bir ekranın içeriğini büyütme izni verir. Kötü amaçlı uygulamalar ekranın içeriğini etkileyerek cihazı kullanılmaz hale getirebilir.</string>
   <string name="permdesc_manageAccounts">Uygulamaya, hesap ekleme, kaldırma ve hesapların şifrelerini silme gibi işlemleri yapma izni verir.</string>
   <string name="permdesc_manageActivityStacks">Uygulamaya, diğer uygulamaların içinde çalıştığı etkinlik yığınlarını ekleme, kaldırma ve değiştirme izni verir. Kötü amaçlı uygulamalar diğer uygulamaların davranışlarını olumsuz etkileyebilir.</string>
   <string name="permdesc_manageAppTokens">Uygulamaya, kendi normal Z sıralamalarını atlayarak kendi jetonlarını oluşturma ve yönetme izni verir. Normal uygulamalar için gerekli değildir.</string>
@@ -834,7 +823,6 @@ Geri almak için, genel bakışa basılı tutun."</string>
   <string name="permdesc_manageNetworkPolicy">Uygulamaya, ağ politikalarını yönetme ve uygulamaya özgü kuralları tanımlama izni verir.</string>
   <string name="permdesc_manageUsb">Uygulamaya, USB cihazlarına ilişkin tercihleri ve izinleri yönetme izni verir.</string>
   <string name="permdesc_manageUsers">Uygulamalara, sorgulama, oluşturma ve silme işlemleri de dahil olmak üzere cihazdaki kullanıcıları yönetme izni verir.</string>
-  <string name="permdesc_markNetworkSocket">Uygulamaya, yönlendirme için yuva işaretlerini değiştirme izni verir</string>
   <string name="permdesc_masterClear">Uygulamaya, tüm verileri, yapılandırmayı ve yüklü uygulamaları silerek sistemi tamamen fabrika ayarlarına sıfırlama izni verir.</string>
   <string name="permdesc_mediaContentControl">Uygulamaya, medya oynatmayı ve medya bilgilerine (başlık, yazar...) erişimi denetleme izni verir.</string>
   <string name="permdesc_mediaStorageWrite">Uygulamaya, dahili medya depolama içeriğini değiştirme izni verir.</string>
@@ -1511,60 +1499,6 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
 
 Kapatmak ister misiniz?"</string>
   <string name="websearch">Google Web Arama</string>
-  <string name="webviewchromium_accessibility_content_view">Web Görünümü</string>
-  <string name="webviewchromium_accessibility_date_picker_month">Ay</string>
-  <string name="webviewchromium_accessibility_date_picker_week">Hafta</string>
-  <string name="webviewchromium_accessibility_date_picker_year">Yıl</string>
-  <string name="webviewchromium_accessibility_datetime_picker_date">Tarih</string>
-  <string name="webviewchromium_accessibility_datetime_picker_time">Saat</string>
-  <string name="webviewchromium_accessibility_time_picker_ampm">ÖÖ/ÖS</string>
-  <string name="webviewchromium_accessibility_time_picker_hour">Saat</string>
-  <string name="webviewchromium_accessibility_time_picker_milli">Milisaniye</string>
-  <string name="webviewchromium_accessibility_time_picker_minute">Dakika</string>
-  <string name="webviewchromium_accessibility_time_picker_second">Saniye</string>
-  <string name="webviewchromium_actionbar_share">Paylaş</string>
-  <string name="webviewchromium_actionbar_web_search">Web araması</string>
-  <string name="webviewchromium_color_picker_button_black">Siyah</string>
-  <string name="webviewchromium_color_picker_button_blue">Mavi</string>
-  <string name="webviewchromium_color_picker_button_cancel">İptal</string>
-  <string name="webviewchromium_color_picker_button_cyan">Turkuaz</string>
-  <string name="webviewchromium_color_picker_button_green">Yeşil</string>
-  <string name="webviewchromium_color_picker_button_magenta">Eflatun</string>
-  <string name="webviewchromium_color_picker_button_more">Diğer</string>
-  <string name="webviewchromium_color_picker_button_red">Kırmızı</string>
-  <string name="webviewchromium_color_picker_button_set">Ayarla</string>
-  <string name="webviewchromium_color_picker_button_white">Beyaz</string>
-  <string name="webviewchromium_color_picker_button_yellow">Sarı</string>
-  <string name="webviewchromium_color_picker_dialog_title">Rengi seçin</string>
-  <string name="webviewchromium_color_picker_hue">Ton</string>
-  <string name="webviewchromium_color_picker_saturation">Doygunluk</string>
-  <string name="webviewchromium_color_picker_value">Değer</string>
-  <string name="webviewchromium_copy_to_clipboard_failure_message">Panoya kopyalanamadı</string>
-  <string name="webviewchromium_date_picker_dialog_clear">Temizle</string>
-  <string name="webviewchromium_date_picker_dialog_other_button_label">Diğer</string>
-  <string name="webviewchromium_date_picker_dialog_set">Ayarla</string>
-  <string name="webviewchromium_date_picker_dialog_title">Tarihi ayarlayın</string>
-  <string name="webviewchromium_date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
-  <string name="webviewchromium_low_memory_error">Bellek yetersiz olduğundan önceki işlem tamamlanamadı</string>
-  <string name="webviewchromium_media_player_error_button">Tamam</string>
-  <string name="webviewchromium_media_player_error_text_invalid_progressive_playback">Maalesef bu video, bu cihaza akışla göndermek için uygun değil.</string>
-  <string name="webviewchromium_media_player_error_text_unknown">Maalesef bu video oynatılamıyor.</string>
-  <string name="webviewchromium_media_player_error_title">Video oynatılamıyor</string>
-  <string name="webviewchromium_media_player_loading_video">Video yükleniyor</string>
-  <string name="webviewchromium_month_picker_dialog_title">Ayı ayarla</string>
-  <string name="webviewchromium_opening_file_error">Seçilen dosya açılamadı</string>
-  <string name="webviewchromium_private_browsing_warning">"Bu işlev, Android\'in bu sürümünde desteklenmiyor."</string>
-  <string name="webviewchromium_profiler_error_toast">Profil oluşturucu başlatılamadı</string>
-  <string name="webviewchromium_profiler_no_storage_toast">"Harici depolama birimi hazır olmadığından profil oluşturucu başlatılamıyor"</string>
-  <string name="webviewchromium_profiler_started_toast">Profil oluşturucu başlatıldı</string>
-  <string name="webviewchromium_profiler_stopped_toast">Profil oluşturucu tamamlandı. Sonuçlar %1$s dosyasına yazıldı.</string>
-  <string name="webviewchromium_time_picker_dialog_am">ÖÖ</string>
-  <string name="webviewchromium_time_picker_dialog_hour_minute_separator">:</string>
-  <string name="webviewchromium_time_picker_dialog_minute_second_separator">:</string>
-  <string name="webviewchromium_time_picker_dialog_pm">ÖS</string>
-  <string name="webviewchromium_time_picker_dialog_second_subsecond_separator">.</string>
-  <string name="webviewchromium_time_picker_dialog_title">Saati ayarla</string>
-  <string name="webviewchromium_week_picker_dialog_title">Haftayı ayarla</string>
   <string name="week">hafta</string>
   <string name="weeks">hafta</string>
   <string name="whichApplication">İşlemi şunu kullanarak tamamla</string>
@@ -1578,11 +1512,6 @@ Kapatmak ister misiniz?"</string>
   <string name="whichViewApplication">Şununla aç</string>
   <string name="whichViewApplicationNamed">%1$s ile aç</string>
   <string name="wifi_available_sign_in">Kablosuz ağda oturum açın</string>
-  <string name="wifi_display_notification_connected_message">%1$s bağlantısı yapıldı</string>
-  <string name="wifi_display_notification_connected_title">Ekran yayınlanıyor</string>
-  <string name="wifi_display_notification_connecting_message">%1$s bağlantısı yapılıyor</string>
-  <string name="wifi_display_notification_connecting_title">Ekran yayınlanıyor</string>
-  <string name="wifi_display_notification_disconnect">Bağlantıyı kes</string>
   <string name="wifi_p2p_dialog_title">Kablosuz Doğrudan Bağlantı</string>
   <string name="wifi_p2p_enabled_notification_message">Ayarlar için dokunun</string>
   <string name="wifi_p2p_enabled_notification_title">Kablosuz Doğrudan özelliği açık</string>
