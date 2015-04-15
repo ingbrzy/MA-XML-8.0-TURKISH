@@ -41,6 +41,7 @@
   <string name="create_playlist">Oynatma listesi oluştur</string>
   <string name="data_usage_warning">Veri kullanımı</string>
   <string name="data_usage_warning_summary">Yüksek kalite ayarlarını kullanmanız daha yüksek veri trafiğine neden olacaktır.</string>
+  <string name="delete">SİL</string>
   <string name="delete_file_as_well">Yerel dosyalarıda sil</string>
   <string name="delete_file_end">Dosyalar silindi.</string>
   <string name="delete_file_start">Seçilen dosyaları sil</string>
@@ -221,6 +222,7 @@
   <string name="ok">Tamam</string>
   <string name="online_music">Online</string>
   <string name="online_playlist_is_empty">Oynatma listesi boş!</string>
+  <string name="only_online_can_select_quality">Sadece online şarkıların kalitesi seçilir</string>
   <string name="order_process_fail">"Hesabınız yetkilendirilemiyor. Birkaç dakika bekleyip tekrar deneyiniz."</string>
   <string name="payment_fail">"Ödeme başarısız"</string>
   <string name="payment_success">Ödeme başarılı</string>
@@ -238,6 +240,7 @@
   <string name="project_device_mobile">Mobil cihaz</string>
   <string name="quit_warining">Oynatıcı %d dakika içinde durdurulacak</string>
   <string name="recommend_fragment_title">Öne Çıkanlar</string>
+  <string name="remove">Kaldır</string>
   <string name="retry">Tekrar Dene</string>
   <string name="ringtone_not_support">"Şarkı biçimi desteklenmiyor!"</string>
   <string name="search_album">Albüm Ara</string>
@@ -272,6 +275,9 @@
   <string name="sleep_mode_title">Uyku modu zamanlayıcı</string>
   <string name="song_name">Şarkı</string>
   <string name="song_not_find">"Ağ bağlantısı yok ya da şarkı kullanılamıyor!"</string>
+  <string name="sort_by_language">Dil</string>
+  <string name="sort_by_name">Ad</string>
+  <string name="sort_by_time">Tarih</string>
   <string name="source_from">"Kaynak: %1$s"</string>
   <string name="start_to_play">Oynat</string>
   <string name="stream_quality">Akış kalitesi</string>
@@ -284,7 +290,6 @@
   <string name="tab_local_track_list">Şarkı listesi</string>
   <string name="tab_track_list">Şarkılar</string>
   <string name="take_effect_afater_restart">Bu ayarın etkili olması için Müzik uygulamasını yeniden başlatmanız gerekir.</string>
-  <string name="today_update">Müzik güncellendi</string>
   <string name="track_list_control_download">İndir</string>
   <string name="track_list_control_edit_add_tracks">Şarkı ekle</string>
   <string name="track_list_control_edit_delete_playlist">Sil</string>

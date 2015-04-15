@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Folders">Klasörler</string>
+  <string name="SMTP_independent_verification_text">SMTP bağımsız doğrulama</string>
+  <string name="SMTP_password_text">Şifre</string>
+  <string name="SMTP_username_text">Kullanıcı adı</string>
   <string name="abc_action_bar_home_description">Eve git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="abc_action_menu_overflow_description">Daha fazla ayar</string>
@@ -426,6 +429,7 @@
   <string name="folder_sent_name_en3">Gönderilen öğeler</string>
   <string name="folder_sent_name_en4">[Gmail]/Gönderilen posta</string>
   <string name="folder_shortcut_widget_label">E-posta klasörü</string>
+  <string name="folder_synchronization_mail_settings">Klasör senkronize posta ayarları</string>
   <string name="folder_trash_name_en0">Çöp</string>
   <string name="folder_trash_name_en1">Silinen mesajlar</string>
   <string name="folder_trash_name_en2">Silinen mesaj</string>
@@ -875,10 +879,10 @@ CC: %4$s
   <string name="to">Kime</string>
   <string name="to_heading">"Kime: "</string>
   <string name="toast_bar_fail_synchronization">Bağlantı hatası, tekrar deneyin!</string>
-   <string name="toast_bar_insufficient_memory_space">Telefonda yetersiz depolama alanı, e-posta senktronize başarısız!</string>
-   <string name="toast_bar_invalid_account">Hesabınızın süresi dolmuş, yeniden oturum açın!</string>
-   <string name="toast_bar_no_connection_network">Ağ bağlantısı yok!</string>
-  <string name="toast_bar_open_gmail_synchronization">Gmail kısıtlanmış, kullanmak için dokunun!</string>
+  <string name="toast_bar_insufficient_memory_space">Telefonda yetersiz depolama alanı!</string>
+  <string name="toast_bar_invalid_account">Hesabınızın süresi dolmuş, yeniden oturum açın!</string>
+  <string name="toast_bar_no_connection_network">Ağ bağlantısı yok!</string>
+  <string name="toast_bar_open_gmail_synchronization">Gmail proxy sunucusunu kullanmak için dokunun!</string>
   <string name="too_large_to_attach_additional">"Dosya eklenmedi. %1$s limit aşıldı."</string>
   <string name="too_large_to_attach_multiple">"Birden fazla dosya eklenemedi. Limit %1$s."</string>
   <string name="too_large_to_attach_single">"%1$s\'den fazla dosya eklenemez."</string>
