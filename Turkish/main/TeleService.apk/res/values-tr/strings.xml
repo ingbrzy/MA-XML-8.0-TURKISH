@@ -344,7 +344,7 @@
   <string name="enable_pin">SIM kart PIN kodu </string>
   <string name="enable_pin_ok">SIM kart PIN kodu açık</string>
   <string name="enable_proximity_summary">Yakınlık sensörü etkinse, konuşma sırasında ekran otomatik olarak kapatılır</string>
-  <string name="enable_proximity_title">Yakınlık sensörü etkin</string>
+  <string name="enable_proximity_title">Yakınlık sensörü</string>
   <string name="enable_sim_pin">SIM kart PIN kodu etkin</string>
   <string name="enable_video_calling_dialog_close">Kapat</string>
    <string name="enable_video_calling_dialog_msg">Görüntülü aramayı açmak için, sistem ayarlarından Gelişmiş 4G LTE Modu etkinleştirmeniz gerekir.</string>
@@ -401,8 +401,8 @@
   <string name="gsm_umts_options">GSM/UMTS ayarları</string>
   <string name="hac_mode_summary">Işitme cihazlarıyla uyumluluğu açın</string>
   <string name="hac_mode_title">Işitme cihazları</string>
-  <string name="handon_ringer_summary">"Telefon kaldırılınca sil sesi azaltılır. Gelen aramalar için titreşim açıkken bu özellik çalışmaz."</string>
-  <string name="handon_ringer_title">Kaldırırken titreşimi kapat</string>
+  <string name="handon_ringer_summary">"Telefon kaldırılınca zil sesi azaltılır. Gelen aramalar için titreşim açıkken bu özellik çalışmaz."</string>
+  <string name="handon_ringer_title">Kaldırırken zil sesini kapat</string>
   <string name="hintName">Adı</string>
   <string name="hintPhonenumber">Telefon numarası</string>
   <string name="importAllSimEntries">Hepsini içe aktar</string>
@@ -983,7 +983,7 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="sip_menu_save">Kaydet</string>
   <string name="sip_receive_calls">Gelen çağrıları al</string>
   <string name="sip_receive_calls_summary">Pil ömrünü azaltır</string>
-  <string name="sip_settings">SIP ayarları</string>
+  <string name="sip_settings">İnternet Çağrısı Ayarları</string>
   <string name="sip_system_decide">Otomatik</string>
    <string name="slot">Slot</string>
   <string name="sliding_down_hint">Aşağıya kaydırıp cevaplayın</string>

@@ -34,6 +34,10 @@
   <string name="privacy_tip_title">Xunlei Hızlandırıcısı kullanılsın mı?</string>
   <string name="root_downloads">İndirmeler</string>
   <string name="task_already_exist">Görev zaten var!</string>
+  <string name="warning_tip_cancel">İndir</string>
+  <string name="warning_tip_content">"Bu indirme işlemini tamamlamak için Mobil Veri bağlantısını kullanmanız durumunda veri kullanımınız artabilir ve operatörünüz ek ücretler uygulayabilir..."</string>
+  <string name="warning_tip_ok">Dur</string>
+  <string name="warning_tip_title">Veri Kullanım Uyarısı !</string>
   <string name="wifi_recommended_body" formatted="false">"Mobil veri üzerinden indirme：
 
  %s（%s）
