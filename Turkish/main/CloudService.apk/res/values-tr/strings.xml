@@ -3,6 +3,7 @@
   <string name="access_denied">Giriş engellendi</string>
   <string name="account">Hesap</string>
   <string name="activate">Etkinleştir</string>
+  <string name="activate_number_change_dialog_message">Etkinleştirmek gereken ana numarayı seçin, voip aramada bu numarayı göreceksiniz</string>
   <string name="activating">Etkinleştiriliyor...</string>
   <string name="alert_notif_title_dspt">Senkronize edilemiyor</string>
   <string name="antispam_sync">DND Ayarları</string>
@@ -200,7 +201,9 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="mx_dspt_provision_privacy">"Bu hizmet telefon numaranızı isteyebilir. Operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı ücreti alabilir.
   
   Bu özellik, şifreleri ve cihazınızın kimliğini Mi sunucularına yükler."</string>
+  <string name="mx_dspt_provision_with_voip">İnternet bağlantısını kullanarak diğer MIUI kullanıcılarını ücretsiz arayabilirsiniz. Bu özelliği Ayarlardan açıp kapatabilirsiniz.</string>
   <string name="mx_sub_dspt_provision">Mi Mesaj</string>
+  <string name="mx_sub_dspt_provision_with_voip">İnternet Çağrısı</string>
   <string name="next">İleri</string>
   <string name="noRemind">"Tekrar hatırlatma"</string>
   <string name="no_sim">SIM Kart bulunamadı</string>
@@ -274,6 +277,8 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="vcode">Doğrulama kodu</string>
   <string name="verify">Doğrula</string>
   <string name="view_storage_title">Depolama alanı</string>
+  <string name="voip_choose_sim">Mi Voice aktivasyonu için telefon numarasını seçin</string>
+  <string name="voip_dspt">Mi Voice</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xmpp_server_addr"/>

@@ -26,11 +26,11 @@
     <string name="managed_provisioning_error_text">"İş profili ayarlanamıyor, BT bölümü ile temasa geçin"</string>
     <string name="managed_provisioning_not_supported">"Cihazınız iş profilini desteklemiyor"</string>
     <string name="user_is_not_owner">İş profillerinin Cihaz sahibi tarafından ayarlanması gerekir</string>
-    <string name="managed_provisioning_not_supported_by_launcher">"Sizin iş profili bu başlatıcı uygulaması tarafından desteklenmiyor. Uyumlu bir başlatıcı geçmeniz gerekir."</string>
+    <string name="managed_provisioning_not_supported_by_launcher">"İş profiliniz bu başlatıcı uygulaması tarafından desteklenmiyor. Uyumlu bir başlatıcı geçmeniz gerekir."</string>
     <string name="cancel_provisioning">İptal</string>
     <string name="pick_launcher">TAMAM</string>
     <string name="default_owned_device_username">Kullanıcı</string>
-    <string name="setup_device">Cihazınızı yarlayın</string>
+    <string name="setup_device">Cihazınızı ayarlayın</string>
     <string name="progress_data_process">Veriler işleniyor...</string>
     <string name="progress_connect_to_wifi">Wi-Fi\'a bağlanıyor...</string>
     <string name="progress_download">Yönetici uygulaması indiriliyor...</string>

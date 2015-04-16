@@ -82,6 +82,7 @@
   <string name="menu_title_download_current_rom">Güncelleme paketini indir</string>
   <string name="menu_title_pick_rom_file">Güncelleme paketini seç</string>
   <string name="menu_title_recovery">Recovery modunda başlat</string>
+  <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;MIUI forum sitesine gidin.&lt;/a&gt;" "</string>
   <string name="miui_summary_has_new_version">Yeni güncelleme buludu</string>
   <string name="miui_summary_no_new_version">Yeni güncelleme yok</string>
   <string name="miui_summary_now_version">"Güncelleme için bir ağa bağlanın"</string>
@@ -192,6 +193,23 @@
   <string name="validate_pkg_failed_msg">"İndirdiğiniz güncelleme bizim veriler ile eşleşmiyor. Tekrar indirmeyi deneyin!"</string>
   <string name="validate_pkg_failed_title">"Günceleme doğrulanamadı!!"</string>
   <string name="view_upgrade_tutorial">Öğreticiyi görüntüle</string>
+  <string name="vote_beta">Beta Geri Bildirim Programı</string>
+  <string name="vote_error1">"Beta Geri Bildirim Programı üyesi 
+ değilsiniz gibi görünüyor"</string>
+  <string name="vote_error2">"Geri Bildirim gönderilemedi.
+ Cihazınızı güncelleyip tekrar deneyin."</string>
+  <string name="vote_error3">"Oturum açılamıyor.
+ Mi Hesabınız ile oturum açıp tekrar deneyin."</string>
+  <string name="vote_error4">Geri Bildirim zaten gönderildi</string>
+  <string name="vote_error5">"Birşeyler ters gitti.
+ Geri Bildirim gönderilemedi."</string>
+  <string name="vote_error_nonetwork">"Ağ bağlantısı yok!"</string>
+  <string name="vote_experience">Forum deneyimi</string>
+  <string name="vote_hint">Oy kullanmak için MIUI forumdan 20 tecrübe puanı alın</string>
+  <string name="vote_join">Oy Kullanıldı</string>
+  <string name="vote_not_recommend">"Tavsiye edilmez"</string>
+  <string name="vote_recommend">Bu güncelleme tavsiye edilir</string>
+  <string name="vote_submit">Gönder</string>
   <string name="weekly_build">Haftalık Yapı</string>
   <string name="worst_update">Şu ana kadarki en kötü güncelleme</string>
 </resources>
