@@ -719,6 +719,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="dolby_roomsize_normal">Normal</string>
   <string name="dolby_roomsize_summary">"Surround ses ayarları kulaklık takılı iken yapılabilir"</string>
   <string name="dolby_roomsize_title">"Surround:"</string>
+  <string name="done_button">TAMAM</string>
   <string name="downloading_description">İndiriliyor...</string>
   <string name="drive_mode">Sürüş modu</string>
   <string name="drive_mode_auto_reply">Otomatik cevapla</string>
@@ -1132,7 +1133,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="music_dolby_eq_enter_alert_title">Dolby müziği aç</string>
   <string name="music_dolby_ieq_flat">Kapalı</string>
   <string name="music_dolby_ieq_focused">Odaklanmış</string>
-  <string name="music_dolby_ieq_open">Aç</string>
+  <string name="music_dolby_ieq_open">Açık</string>
   <string name="music_dolby_ieq_rich">Zenginleştirilmiş</string>
   <string name="music_dolby_preset_select">Ekolayzır modunu seçin</string>
   <string name="music_dolby_surround_virtualizer">Sanal Surround</string>
@@ -1161,7 +1162,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="music_hifi_volume">Hi-Fi ses düzeyi</string>
   <string name="music_mi_effect_summary">Hoparlörler kullanırken daima Mi Ses geliştirici kullanın</string>
   <string name="music_mi_effect_title">Mi Ses geliştirici kullan</string>
-  <string name="music_title_dolby_control">DOLBY Ayarları</string>
+  <string name="music_title_dolby_control">DOLBY Digital Ayarları</string>
   <string name="musicfx_title">Müzik efektleri</string>
   <string name="nearby_wifi">Yakındaki Wi-Fi ağları</string>
   <string name="need_reboot_now">Güncellemeyi tamamlamak için cihazınızı tekrar başlatmanız gerekir!</string>
@@ -2383,7 +2384,7 @@ Telefonunuzu kullanmanız için fabrika ayarlarına sıfırlamanız gerekiyor. S
   <string name="crypt_keeper_data_corrupt_title">Başarısız!</string>
   <string name="crypt_keeper_desc">"Hesaplarınızı, ayarlarınızı, indirilen uygulamalar ve bunların verilerini, medya ve diğer dosyaları şifreleyebilirsiniz. Telefonunuzu şifreledikten  sonra, bir ekran kilidi ayarladıysanız (yani, bir desen veya sayısal bir PIN veya şifre), telefonunuzu her açtığınızda bu şifreyi girmeniz gerekir. Şifreyi çözmenin diğer yolu, tüm verileri silerek, fabrika ayarlarına sıfırlama yapmaktır.
 
-Şifreleme bir saat veya daha fazla sürer. İşleme dolu bille başlamanız ve şarj aletini takmanız tavsiye edilir.Eğer keserseniz, verilerinizin bir kısmını veya tamamını kaybedersiniz."</string>
+Şifreleme bir saat veya daha fazla sürer. İşleme dolu pille başlamanız ve şarj aletini takmanız tavsiye edilir.İşlemi iptal ederseniz, verilerinizin bir kısmını veya tamamını kaybedersiniz."</string>
   <string name="crypt_keeper_dialog_need_password_message">Şifrelemeye başlamadan önce kilit ekranı PIN kodu veya şifresi ayarlamanız gerekir.</string>
   <string name="crypt_keeper_dialog_need_password_title">Şifre ya da PIN kodu yok</string>
   <string name="crypt_keeper_encrypt_title">Telefonu şifrele</string>
@@ -2881,7 +2882,7 @@ Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yard
 	<string name="zen_mode_automation_category">Otomasyon</string>
 	<string name="zen_mode_default_option">Kapatılana kadar</string>
 	<string name="zen_mode_downtime_category">Kapalı kalma süresi (sadece öncelikli kesintiler)</string>
-	<string name="zen_mode_downtime_days">Gün</string>
+	<string name="zen_mode_downtime_days">Günleri Seçin</string>
 	<string name="zen_mode_downtime_days_none">Yok</string>
 	<string name="zen_mode_end_time">Bitiş zamanı</string>
 	<string name="zen_mode_end_time_summary_format">%s sonraki gün</string>
