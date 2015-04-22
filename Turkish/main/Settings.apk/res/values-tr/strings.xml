@@ -2277,7 +2277,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="accessibility_display_daltonizer_preference_subtitle">Bu özellik, deneyseldir ve performansı etkileyebilir.</string>
 	<string name="accessibility_display_daltonizer_preference_title">Renk düzeltme</string>
 	<string name="accessibility_display_inversion_preference_subtitle">(Deneysel)Performansı etkileyebilir.</string>
-	<string name="accessibility_display_inversion_preference_title">Ters renkler</string>
+	<string name="accessibility_display_inversion_preference_title">Renkleri ters çevir</string>
 	<string name="accessibility_display_title">Ekran</string>
 	<string name="accessibility_feature_or_input_method_not_allowed">Kuruluşunuz tarafından izin verilmiyor</string>
 	<string name="accessibility_sync_in_progress">Senkronize ediliyor</string>
@@ -2360,8 +2360,8 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="calls_title">Çağrılar</string>
 	<string name="cancel_all_caps">İPTAL</string>
 	<string name="captioning_foreground_opacity">Yazı matlığı</string>
-	<string name="captioning_window_color">Başlık pencere rengi</string>
-	<string name="captioning_window_opacity">Başlık pencere matlığı</string>
+	<string name="captioning_window_color">Pencere başlığı rengi</string>
+	<string name="captioning_window_opacity">Pencere başlığı matlığı</string>
 	<string name="category_personal">Kişisel</string>
 	<string name="category_work">İş</string>
 	<string name="cellular_data_summary">Hücresel şebeke üzerinden veri kullanımına izin ver</string>
@@ -2373,7 +2373,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 	<string name="condition_provider_security_warning_summary">%1$s  için DND modundan çıkış koşullarını eklemek mümkün olacaktır.</string>
 	<string name="condition_provider_security_warning_title">%1$s etkinleştirilsin mi?</string>
 	<string name="continue_all_caps">DEVAM</string>
-	<string name="credentials_settings_not_available">Sertifikalar Bu kullanıcı için geçerli değil</string>
+	<string name="credentials_settings_not_available">Sertifikalar bu kullanıcı için geçerli değil</string>
   <string name="crypt_keeper_button_text">Telefonu şifrele</string>
   <string name="crypt_keeper_confirm_encrypt">Onaylamak için kilit açma desenini çizin</string>
   <string name="crypt_keeper_confirm_title">Şifrelensin mi?</string>
@@ -2557,7 +2557,7 @@ Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yard
 	<string name="lock_screen_notifications_summary_hide">Hassas bildirim içeriğini gizle</string>
 	<string name="lock_screen_notifications_summary_show">Tüm bildirim içeriğini göster</string>
 	<string name="lock_screen_notifications_title">Cihaz kilitliyken</string>
-	<string name="lockpassword_pin_no_sequential_digits">Artan, azalan ve rakamlardan tekrarlanan diziler yasaklanmıştır</string>
+	<string name="lockpassword_pin_no_sequential_digits">Artan, azalan ve rakamlardan tekrarlanan diziler kullanılamaz</string>
 	<string name="lockpattern_settings_power_button_instantly_locks_summary">%1$s tarafından kilit açılır</string>
 	<string name="macaddr_label">MAC addr:</string>
 	<string name="mah">%d mAh</string>
@@ -2615,12 +2615,12 @@ Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yard
 	<string name="personal_device_admin_title">Kişisel</string>
 	<string name="power_charge_remaining">%1$s şarj</string>
 	<string name="power_charging">%1$d%% - %2$s</string>
-	<string name="power_charging_duration">%1$d%% - %2$s kadar tam</string>
-	<string name="power_charging_duration_ac">%1$d%% - %2$s kadar tam (AC)</string>
-	<string name="power_charging_duration_usb">%1$d%% - %2$s kadar tam (USB)</string>
-	<string name="power_charging_duration_wireless">%1$d%% - %2$s kadar tam (Wi-Fi)</string>
+	<string name="power_charging_duration">Şarj Süresi: %1$d%% - %2$s</string>
+	<string name="power_charging_duration_ac">Şarj Süresi: %1$d%% - %2$s (AC)</string>
+	<string name="power_charging_duration_usb">Şarj Süresi: %1$d%% - %2$s(USB)</string>
+	<string name="power_charging_duration_wireless">Şarj Süresi: %1$d%% - %2$s (Kablosuz)</string>
 	<string name="power_discharge_remaining">%1$s kaldı</string>
-	<string name="power_discharging_duration">Yaklaşık - %1$d%%. %2$s kaldı</string>
+	<string name="power_discharging_duration">Yaklaşık: %1$d%%. %2$s kaldı</string>
 	<string name="power_flashlight">Flaş</string>
 	<string name="power_overcounted">Aşırı</string>
 	<string name="power_unaccounted">Çeşitli</string>
@@ -2824,7 +2824,7 @@ Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yard
 	©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
 	<string name="wifi_aggressive_handover">Hücresel geçiş için agresif Wi-Fi</string>
 	<string name="wifi_aggressive_handover_summary">Etkinleştirildiğinde; Wi-Fi sinyali düşük olduğunda Hücresel veri bağlantısı üzerinden geçiş için Wi-Fi daha agresif olacaktır.</string>
-	<string name="wifi_allow_scan_with_traffic">Wi-Fi dolaşım taramalarına herzaman izin ver</string>
+	<string name="wifi_allow_scan_with_traffic">Wi-Fi taramalarına izin ver</string>
 	<string name="wifi_allow_scan_with_traffic_summary">Arayüzde veri trafiği miktarına dayalı Wi-Fi Dolaşım taramalarına izin verir/engeller.</string>
 	<string name="wifi_api_test">Wi-Fi API</string>
 	<string name="wifi_assistant_card_message">Wifi Asistanı ile mevcut ağlara otomatik bağlan.</string>
@@ -2915,4 +2915,5 @@ Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yard
     <string name="mobile_insert_sim_card">Lütfen SIM kartı yerleştirin</string>
     <string name="mobile_no_provisioning_url">%1$s, bilinen yetkilendirme sitesi yok.</string>
     <string name="mobile_unknown_sim_operator">SIM operatörü bilinmiyor</string>
+	<string name="manage_mobile_plan_title">Mobil planı</string>
 </resources>

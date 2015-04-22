@@ -54,6 +54,7 @@
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">%s oturumu açılamadı; %s Kullanıcı adı/şifrenizi güncellemek istiyor musunuz?</string>
   <string name="account_settings_login_dialog_title">"Oturum açılamadı"</string>
   <string name="account_settings_mail_check_frequency_label">Gelen kutusu kontrol sıklığı</string>
+  <string name="account_settings_mibill_resolve_label">Eposta tablo analizi</string>
   <string name="account_settings_name_label">Adınız</string>
   <string name="account_settings_notifications">Bildirim Ayarları</string>
   <string name="account_settings_notify_label">E-posta bildirimleri</string>
@@ -91,8 +92,8 @@
   <string name="account_setup_check_settings_check_outgoing_msg">Giden sunucusu ayarları kontrol ediliyor…</string>
   <string name="account_setup_check_settings_retr_info_msg">Hesap bilgileri alınıyor…</string>
   <string name="account_setup_correct_address_tips">Eposta adresinizi girin</string>
-  <string name="account_setup_creating_account_msg">Hesap oluşturuluyor…</string>
-  <string name="account_setup_deleting_account_msg">Hesap siliniyor…</string>
+  <string name="account_setup_creating_account_msg">Hesabınız ayarlanıyor…</string>
+  <string name="account_setup_deleting_account_msg">Hesabınız siliniyor…</string>
   <string name="account_setup_exchange_certificate_title">İstemci sertifikası</string>
   <string name="account_setup_exchange_device_id_label">Mobil cihaz ID</string>
   <string name="account_setup_exchange_no_certificate">Yok</string>
@@ -927,6 +928,6 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="widget_other_views">Diğer</string>
   <string name="wrong_password">Şifre yanlış!</string>
   <string name="yes">Evet</string>
-  <string name="you_are_in_mobile_network">Şu anda bir mobil ağ kullanıyorsanız, trafiğe dikkat edin!</string>
+  <string name="you_are_in_mobile_network">Şu anda bir mobil veri ağını kullanıyorsanız, trafiğe dikkat edin!</string>
   <string name="zip_viewer_no_file">Dosya yok!</string>
 </resources>

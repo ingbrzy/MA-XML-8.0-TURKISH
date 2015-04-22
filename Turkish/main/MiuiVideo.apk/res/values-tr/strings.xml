@@ -34,6 +34,7 @@
   <string name="all_episode">Tüm bölümler</string>
   <string name="app_latest_version">Uygulama zaten son sürüm</string>
   <string name="app_name">Mi Video</string>
+  <string name="app_plugin_ready">%1$s bileşeni hazır</string>
   <string name="app_upgrade_version">Yeni sürüm</string>
   <string name="app_version">Uygulama sürümü</string>
   <string name="authenticated_failed">"Oturum açılamadı"</string>
@@ -118,8 +119,11 @@
   <string name="download_progress_0p">0%</string>
   <string name="download_queue">Adres getiriliyor</string>
   <string name="download_running">Çalışıyor</string>
+  <string name="download_start_message">%1$s bileşeni indirildikten sonra yüklenecektir</string>
   <string name="download_task_with">%d görev</string>
+  <string name="download_url_waiting">Hazırlanıyor</string>
   <string name="download_with">İndiriliyor %1$s/%2$s</string>
+  <string name="downloading_app_plugin">%1$s bileşen indiriliyor</string>
   <string name="edit">Düzenle</string>
   <string name="edit_comment">Yorum ekle</string>
   <string name="empty_data">Yükleme hatası</string>
@@ -144,9 +148,9 @@
   <string name="gong_count_xiang">%d öğe</string>
   <string name="good">Tamam</string>
   <string name="hint_apk_download"> \"%1$s\" uygulamayı indirmek ve yüklemek için dokunun</string>
-   <string name="hint_apk_install">Uygulama indirme</string>
-   <string name="hint_apk_text_update">Uygulamanın yeni sürümü mevcut, indirmek ister misiniz?</string>
-  <string name="hint_apk_title_update">Yeni sürüm</string>
+  <string name="hint_apk_install">Uygulama indirme</string>
+  <string name="hint_apk_text_update">%1$s yeni sürüm var, güncellensin mi?</string>
+  <string name="hint_apk_title_update">%1$s Yeni Sürüm</string>
   <string name="icntv">iCNTV</string>
   <string name="info_channel_title">Haberler</string>
   <string name="info_video_loading">Yükleniyor...</string>
@@ -170,6 +174,7 @@
   <string name="login_tip_content">Takip ettiğiniz programları eşitlemek ve güncellemek için Mi Account hesabınızla giriş yapın.</string>
   <string name="login_tip_title">Oturum açın</string>
   <string name="media_name_comment">%s yorum</string>
+  <string name="memory_mode_desc">Hafıza kullanımını kaydet</string>
   <string name="menu_item_disable_audio_enhance">Ses zenginleştiriciyi devre dışı bırak</string>
   <string name="menu_item_enable_audio_enhance">Ses zenginleştiriciyi etkinleştir</string>
   <string name="menu_name">Menü</string>
@@ -179,6 +184,7 @@
   <string name="mipush_setting">İçerik bildirimleri</string>
   <string name="month">Ay</string>
   <string name="my_favorite">Favoriler</string>
+  <string name="my_local_favorite">Yerel favoriler</string>
   <string name="my_offline">İndirilen</string>
   <string name="mycamera">Videolarım</string>
   <string name="myfavorite">Favori</string>
@@ -221,6 +227,8 @@
   <string name="other_setting">Diğer Ayarlar</string>
   <string name="pause">Duraklat</string>
   <string name="percent_status">%.0f%%</string>
+  <string name="performance_mode">Çalışma Modu</string>
+  <string name="performance_mode_desc">Performans önceliği</string>
   <string name="personal_center">Kişisel Merkez</string>
   <string name="pick_addon_to_delete">öge seçin</string>
   <string name="play">Oynat</string>
@@ -307,7 +315,7 @@
   <string name="update_to_count_qi">%s e güncellendi</string>
   <string name="updatedalready">Güncellendi</string>
   <string name="upgrade">Güncelle</string>
-  <string name="use_cellular_network">Mobil veri bağlantısı kullanın</string>
+  <string name="use_cellular_network">Mobil veri ayarları</string>
   <string name="use_cellular_network_summary">Video indirmek için mobil veri bağlantısı kullan.</string>
   <string name="use_cellular_offlinedownload_summary">Mobil veri ile video indirirken bildirim göster</string>
   <string name="use_cellular_offlinedownload_title">İndirme bildirimleri</string>
@@ -317,6 +325,7 @@
   <string name="version_select">Sürüm seç</string>
   <string name="version_select_summary">Alfa, geliştirme ya da stabil sürümü seçin</string>
   <string name="video">Video</string>
+   <string name="video_app_update">Güncelle</string>
   <string name="video_bbs">Katıl</string>
   <string name="video_bbs_url">Uygulama gelişimine yardımcı olun</string>
   <string name="video_count">%d video</string>
