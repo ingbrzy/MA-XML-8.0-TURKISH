@@ -49,6 +49,7 @@
   <string name="alert_secret_album_message">Mi Buluttaki Gizli albümü görüntülemek için albümün altından aşağıya doğru kaydırın</string>
   <string name="alert_secret_album_set_pattern">Kilit açma desenini ayarla</string>
   <string name="alert_secret_album_title">Gizli albüme eklendi</string>
+  <string name="all_video_album_display_name">Tüm videolar</string>
   <string name="already_apply_album">"%1$s açılsın mı?"</string>
   <string name="always_rotate_alert_msg">Galeri ayarlarından devre dışı bırakabilirsiniz</string>
   <string name="always_rotate_alert_positive_button_text">Etkinleştir</string>
@@ -137,6 +138,7 @@
   <string name="comfirm_delete_current_album">Bu albüm silinsin mi?</string>
   <string name="comma">, </string>
   <string name="confirm">Tamam</string>
+  <string name="confirm_all_photo_not_this_people_face">Tüm fotoğraflarda olmadığından emin misiniz?</string>
   <string name="confirm_delete">%s resim silinsin mi?</string>
   <string name="confirm_delete_album" formatted="false">%s albüm (toplam %s  öğe) silinsin mi?</string>
   <string name="confirm_delete_has_cloud_image_video">Seçtiğiniz %s öğe Bulut alanından silinsin mi?</string>
@@ -153,7 +155,10 @@
   <string name="confirm_download">%s öğesini indirmeniz gerekli. Bu ipucu bir daha gösterilmeyecek.</string>
   <string name="confirm_download_video_message">Bu videoyu izleyebilmek için önce tamamen indirmeniz gerekmektedir. Wi-Fi bağlantısı aktif olduğunda indirme devam edecek.</string>
   <string name="confirm_download_video_title">Video\'yu indir</string>
+  <string name="confirm_face">Eşle</string>
+  <string name="confirm_left_photo_will_move_out">Ftoğraflar bu albümün dışına taşınacak</string>
   <string name="confirm_merge_face_albums">" "%s albüm ile birleştirilsin mi?" "</string>
+  <string name="confirm_not_face">Bu kişi değil</string>
   <string name="contact_photo">Kişi fotoğrafı olarak ayarla</string>
   <string name="context_menu_add_contact">Kişilere ekle</string>
   <string name="context_menu_copy">Kopyala</string>
@@ -210,6 +215,7 @@
   <string name="email_picker_title">Paylaşılan Email ekle</string>
   <string name="enable">Aç</string>
   <string name="enable_cloud_for_sharing">Paylaşılan resimleri görüntülemek için bulut albümlerini aktif etmelisiniz.</string>
+  <string name="enabling_face_feature">Açılıyor...</string>
   <string name="enter_email_hint">"Email adresini girin"</string>
   <string name="error_album_not_exist">"Albüm bulunamadı"</string>
   <string name="error_cloud_not_active">Bulut albümü kullanımda değil</string>
@@ -240,6 +246,7 @@
   <string name="face_album_rename_hint">Bir ad girin</string>
   <string name="face_albumset_detecting_tip">Lütfen bekleyin...</string>
   <string name="face_albumset_empty">"Yüz tespit edilmedi"</string>
+  <string name="face_albumset_pending_enable_tip">Cihazınız Wi-Fi ağına bağlandığında fotoğraflarınız sıralanacaktır</string>
   <string name="face_albumset_use_tip">"Fotoğrafları kolayca görüntülemek ve yönetmek için, yüz tanımayı kullanın"</string>
   <string name="face_move_dialog_title">Yüz albümünü seç</string>
   <string name="facelift">Face Glow</string>
@@ -287,6 +294,7 @@
   <string name="home_page_tab_face">Yüz</string>
   <string name="home_page_tab_local">Yerel</string>
   <string name="home_page_tab_photo">Fotoğraf</string>
+  <string name="ignore_album">Yoksay</string>
   <string name="ignore_face">Bu yüzü yoksay</string>
   <string name="image_download_item_title">Görüntüyü indir(%s)</string>
   <string name="image_quota_fulfiled">Görüntü oluşturulamıyor : Görüntü limiti aşıldı</string>
@@ -299,6 +307,7 @@
   <string name="impunity_declaration_settings">Ağ bildirimini göster</string>
   <string name="impunity_declaration_summary">Galeri uygulaması başlayınca herzaman ağ bildirimi göster</string>
   <string name="impunity_declaration_title">Uyarı:</string>
+  <string name="in_home_page_long_press_photo_setting_secret_photo">Galeride, özel yapmak istediğiniz fotoğrafa basılı tutun ve Gizli albüme ekleyi seçin.</string>
   <string name="initial_cloud_button_text">Giriş Yap</string>
   <string name="initial_cloud_text">Dilediğiniz yerden resimlerinize ulaşın ve görüntüleyin.</string>
   <string name="initializing_cloud">Başlatılıyor...</string>
@@ -319,6 +328,10 @@
   <string name="kick_sharer">"Paylaşılan kullanıcıyı kaldır"</string>
   <string name="kick_sharer_failed">"Kullanıcı kaldırma başarısız"</string>
   <string name="kick_sharer_successfully">"Kullanıcı kaldırıldı"</string>
+  <string name="last_chinese_new_year">son Çin yeni yılı</string>
+  <string name="last_new_year">Son yeni yıl</string>
+  <string name="last_valentine_day">Son sevgililer günü</string>
+  <string name="last_year_today">1 yıl önce</string>
   <string name="loading">Yükleniyor...</string>
   <string name="loading_failure">"Fotoğraf yüklenemedi"</string>
   <string name="loading_image">Resim indirliyor...</string>
@@ -366,6 +379,7 @@
   <string name="moman_camera_icon">Moman Camera emoticon</string>
   <string name="moman_camera_picture">Moman Camera pictures</string>
   <string name="more">Daha fazla</string>
+  <string name="mosaic">mozaik</string>
   <string name="move">Taşı</string>
   <string name="move_to_cloud_album">Şuraya taşı</string>
   <string name="mtgif">MTGIF</string>
@@ -375,6 +389,7 @@
   <string name="name_wrong">%s yanlış</string>
   <string name="negative">Negatif</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
+  <string name="network_connected_rescan">İnternete bağlandıktan sonra tekrar tarayın.</string>
   <string name="new_device_tips">"Cihazı örüntülemek için dokunun
   "</string>
   <string name="no">Hayır</string>
@@ -384,6 +399,7 @@
   <string name="no_map_app">Bu işlem için uygulama bulunamadı</string>
   <string name="no_network_connected">Etkin bir bağlantı tespit edilemedi</string>
   <string name="no_picture_or_video">Boş</string>
+  <string name="no_secret_photo">Gizli fotoğraf yok</string>
   <string name="no_storage_disable_cloud_albums">Bulut uygun değil.</string>
   <string name="no_such_album">Albüm bulunamadı</string>
   <string name="no_such_item">Öğe bulunamadı</string>
@@ -419,11 +435,13 @@
   <string name="original_scale">Orijinal boyut</string>
   <string name="other_category">Ek Ayarlar</string>
   <string name="owner_album_subtitle">%1$s üyeyle paylaşıldı</string>
+  <string name="paint_brush">Boya fırçası</string>
   <string name="paint_cancel_context">Değişiklikler iptal edilsin mi?</string>
   <string name="paint_cancel_title">Uyarı</string>
   <string name="paint_crop_cancel_context">Kaydedilsin mi?</string>
   <string name="paint_crop_cancel_title">Değişiklikler iptal</string>
   <string name="paint_crop_tips">Daha iyi bir görüntü elde etmek için, ilgili parçaları kılavuz noktaları üzerinde hareket ettirin ve yeniden boyutlandırın.</string>
+  <string name="paint_highlight">ÖneÇıkan</string>
   <string name="path">Dosya Yolu</string>
   <string name="people">Kişiler</string>
   <string name="photo_page_always_rotate">Resimleri otomatik çevir</string>
@@ -440,7 +458,7 @@
   <string name="photoeditor_name">Mi Fotoğraf Stüdyosu</string>
   <string name="photos">" Fotoğraf"</string>
   <string name="pick_too_many_recipients">Çok fazla alıcı</string>
-  <string name="pick_too_much_tips">Bu kadar fazla öğe seçilemiyor (maksimum %d öğe).</string>
+  <string name="pick_too_much_tips">En fazla %d öğe seçilebilir</string>
   <string name="picker_no_album_selected">Hiç bir albüm seçmediniz!</string>
   <string name="picker_no_items_selected">Hiç bir öğe seçmediniz!</string>
   <string name="picker_select_album_title_empty">Bir albüm seçin</string>
@@ -455,6 +473,7 @@
   <string name="priority_storage">SD karta kaydedin</string>
   <string name="priority_storage_summary">SD kart takıldığında, dosyaları SD karta otomatik olarak indir.</string>
   <string name="projection">Projeksiyon</string>
+  <string name="project_available_tip">Projeksiyon tespit edildi</string>
   <string name="public_url_descript">Bu URL\'yi kullanarak herkes albümünüzü ziyaret edebilir</string>
   <string name="publish_failed">"Yayınlama başarısız"</string>
   <string name="publish_succeeded">Albüm yayınlandı</string>
@@ -485,6 +504,7 @@
   <string name="request_sms_url_title">İpucu</string>
   <string name="retry_to_create_album">"Tekrar Dene"</string>
   <string name="retry_to_request_qr_code">Tekrar Dene</string>
+  <string name="return_to_top">\"Fotoğraflara\" dokunarak yukarı çıkın</string>
   <string name="rise">Sıcak</string>
   <string name="rotate">Döndür</string>
   <string name="rotate_tooltip">Döndürmek için fotoğrafı sürükleyin</string>
@@ -504,6 +524,7 @@
   <string name="screensaver_category">Ekran koruyucu</string>
   <string name="screensaver_path">"Albüm: "</string>
   <string name="screensaver_path_not_set">Hiç biri seçilmedi</string>
+  <string name="script">script</string>
   <string name="sd_not_available">SD karta erişim sağlanamıyor.</string>
   <string name="sdcard_root">SD kart kök dizini</string>
   <string name="seconds">"Saniye"</string>
@@ -513,6 +534,7 @@
   <string name="select_auto_upload_albums">Buluta yüklenecek albümü seçin</string>
   <string name="select_image">Resim Seç</string>
   <string name="select_item">Düzenleme Modu</string>
+  <string name="select_item_face">Select photos belong to %1</string>
   <string name="select_too_much_to_send_tips">Bu kadar fazla öğe gönderilemiyor (maksimum %d öğe).</string>
   <string name="select_video">Video Seç</string>
   <string name="send">Gönder</string>
@@ -551,6 +573,8 @@
   <string name="show_on_map">Haritada göster</string>
   <string name="show_videos_only">Sadece videolar</string>
   <string name="sina_weibo">Weibo</string>
+  <string name="single_device_project_dialog_checkbox_text">Bu ekranı hatırla</string>
+  <string name="single_device_project_dialog_title">Cast to %s</string>
   <string name="sina_weibo_save">Weibo</string>
   <string name="size_above">%1$s veya üstü</string>
   <string name="size_below">%1$s veya altı</string>
@@ -605,7 +629,9 @@
   <string name="ubifocus_data_missing">Bazı veriler kayıp</string>
   <string name="ubifocus_guide_text">Yeniden odaklanmak için uzun basın</string>
   <string name="ubifocus_map_error">Bazı veriler hatalı</string>
+  <string name="ubifocus_data_invalid">Bu resmin bazı verileri geçersiz</string>
   <string name="ubifocus_refocus_data_missing">"Kayıp veriler nedeniyle yeniden odaklanılamıyor"</string>
+  <string name="ubifocus_refocus_data_invalid">"Bu resmin bazı verileri geçersiz"</string>
   <string name="ubifocus_refocus_download_tip">"Yeniden odaklanmadan önce lütfen yeniden odaklanma verilerini indiriniz"</string>
   <string name="ubifocus_refocus_map_error">"Yanlış veriler nedeniyle yeniden odaklanılamıyor"</string>
   <string name="uc">UC</string>
@@ -618,6 +644,7 @@
   <string name="user_alias_self">Kendi</string>
   <string name="video_err">Video oynatılamıyor</string>
   <string name="video_not_exist">Video mevcut değil</string>
+  <string name="videos">Videolar</string>
   <string name="view_face_album">Albüme gözat</string>
   <string name="view_sharers">Paylaşılanları göster</string>
   <string name="vignette">Skeç</string>

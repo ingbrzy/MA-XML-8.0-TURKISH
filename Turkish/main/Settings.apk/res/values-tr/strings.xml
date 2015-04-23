@@ -1636,7 +1636,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="sim_reenter_new">Yeni PIN kodunu tekrar girin</string>
   <string name="sim_status_title">SIM Durumu</string>
   <string name="skip_label">Atla</string>
-  <string name="skip_lock_screen_confirm_msg">Şu uygulamalar kilit ekranında devre dışı kalacak: Bildirimler, müzik çalar kontrolü, kamera ve Mi Başlatıcı erişimi.</string>
+  <string name="skip_lock_screen_confirm_msg">Bildirimler, müzik çalar kontrolü, kamera ve Mi Başlatıcı kilit ekranında devre dışı bırakılır.</string>
   <string name="skip_step">Atla</string>
   <string name="slot_status_title">"IMEI bilgileri"</string>
   <string name="small_font">Ufak</string>
@@ -1662,7 +1662,10 @@ PIN kodu yanlış olabilir!"</string>
   <string name="spellchecker_security_warning">Bu yazım denetleyici, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yazım denetleyici, %1$s uygulamasından gelmektedir. Bu yazım denetleyiciyi kullanmak istiyor musunuz?</string>
   <string name="spellcheckers_settings_title">Yazım düzeltme</string>
   <string name="stable_build">" | Stabil Sürüm"</string>
-  <string name="status_bar_and_notification_bar">Bildirimler ve durum çubuğu</string>
+  <string name="status_bar_and_notification_bar">Bildirim alanı ve durum çubuğu</string>
+  <string name="status_bar_app_disable_notification">Boş</string>
+  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Kilit ekranı, bildirim alanı</string>
+  <string name="status_bar_app_enable_on_notificationBar">Bildirim alanı</string>
   <string name="status_bar_filter_item_description">Bildirimleri yapılandırmak için Ayarlar &gt; Durum çubuğu &gt; Bildirimleri Yönet sekmesine gidiniz.</string>
   <string name="status_bar_filter_item_preview_image">Önizleme</string>
   <string name="status_bar_key_position_custom">Özel tuş konumu</string>
@@ -1770,10 +1773,13 @@ PIN kodu yanlış olabilir!"</string>
   <string name="title_color_calibration">"Renk Düzeltme ön ayar"</string>
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Yazı tipi</string>
+  <string name="title_font2">Yazı tipi</string>
   <string name="title_font_current">Sistem yazı tipini seçin</string>
+  <string name="title_font_current2">Sistem yazı tipini seçin</string>
   <string name="title_font_size">Yazı boyutu</string>
   <string name="title_hdmi_color_calibration">"Renk Düzeltme ön ayar"</string>
-  <string name="title_layout_current">Kullanılan düzen</string>
+  <string name="title_layout_current">Yazı boyutunu seçin</string>
+  <string name="title_layout_current2">Yazı boyutunu seçin</string>
   <string name="toast_lockscreen_glogin_empty_password">Şifreyi girin</string>
   <string name="toast_need_login">Mi hesabınızda oturum açın</string>
   <string name="total_size">Taplam :%s</string>

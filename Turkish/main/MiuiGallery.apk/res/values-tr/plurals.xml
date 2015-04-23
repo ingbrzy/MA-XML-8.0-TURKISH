@@ -64,4 +64,8 @@
 		<item quantity="other">%d öğe seçtiniz</item>
 		<item quantity="one">%d öğe seçtiniz</item>
 	</plurals>
+	<plurals name="more_face">
+       <item quantity="other">%1$s yeni yüzü %2$s\'e ait olabilir >></item>
+       <item quantity="one">%1$s yeni yüzü %2$s\'e ait olabilir  >></item>
+   	</plurals>
 </resources>

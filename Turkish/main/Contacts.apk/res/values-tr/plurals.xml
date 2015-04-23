@@ -91,27 +91,35 @@
         <item quantity="one">%1$d kişi seçildi</item>
     </plurals>
 	<plurals name="export_sim_contacts_dialog_message">
-  <item quantity="other">SIM kartta %d kişi saklayabilirsiniz.</item>
-  <item quantity="one">SIM kartta %d kişi saklayabilirsiniz.</item>
-  </plurals>
-  <plurals name="confirm_delete_sim_entry_miui">
-  <item quantity="other">%d kii SIM karttan silinsin mi?</item>
-  <item quantity="one">%d kii SIM karttan silinsin mi?</item>
-  </plurals>
-  <plurals name="export_sim_contact_finish_success">
-  <item quantity="other">%d kişi kopyalandı</item>
-  <item quantity="one">%d kişi kopyalandı</item>
-  </plurals>
-  <plurals name="btn_delete_multi_contacts">
-  <item quantity="other">%d kişiyi sil</item>
-  <item quantity="one">Kişiyi sil</item>
-  </plurals>
- <plurals name="batch_delete_msg">
-  <item quantity="other">%d kişiyi silinsin mi?</item>
-  <item quantity="one">%d kişiyi silinsin mi?</item>
-  </plurals>
-<plurals name="callNoAnswerTimeFormat">
-  <item quantity="other">%d defa çaldı</item>
-  <item quantity="one">%d defa çaldı</item>
-  </plurals>
+		<item quantity="other">SIM kartta %d kişi saklayabilirsiniz.</item>
+		<item quantity="one">SIM kartta %d kişi saklayabilirsiniz.</item>
+	</plurals>
+	<plurals name="confirm_delete_sim_entry_miui">
+		<item quantity="other">%d kişi SIM karttan silinsin mi?</item>
+		<item quantity="one">%d kişi SIM karttan silinsin mi?</item>
+	</plurals>
+	<plurals name="export_sim_contact_finish_success">
+		<item quantity="other">%d kişi kopyalandı</item>
+		<item quantity="one">%d kişi kopyalandı</item>
+	</plurals>
+	<plurals name="btn_delete_multi_contacts">
+		<item quantity="other">%d kişiyi sil</item>
+		<item quantity="one">Kişiyi sil</item>
+	</plurals>
+	<plurals name="batch_delete_msg">
+		<item quantity="other">%d kişiyi silinsin mi?</item>
+		<item quantity="one">%d kişiyi silinsin mi?</item>
+	</plurals>
+	<plurals name="callNoAnswerTimeFormat">
+		<item quantity="other">%d defa çaldı</item>
+		<item quantity="one">%d defa çaldı</item>
+	</plurals>
+	<plurals name="dlg_add_blacklist">
+		<item quantity="other">%1$d numara Kara listeye eklensin mi?</item>
+		<item quantity="one">Bu numara Kara listeye eklensin mi??</item>
+	</plurals>
+	<plurals name="dlg_remove_blacklist">
+		<item quantity="other">%1$d numara Kara listeden kaldırılsın mı?</item>
+		<item quantity="one">Bu numara Kara listeden kaldırılsın mı?</item>
+	</plurals>
 </resources>

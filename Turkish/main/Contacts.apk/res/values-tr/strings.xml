@@ -16,6 +16,7 @@
   <string name="add_2sec_pause">2 saniye duraklama ekle</string>
   <string name="add_account">Hesap ekle</string>
   <string name="add_blacklist">Kara Listeye ekle</string>
+  <string name="add_blacklist_dialog_title">Bu numara Kara listeye eklensin mi?</string>
   <string name="add_connection_button">Bağlantı ekle</string>
   <string name="add_contact_dlg_message_fmt">\"%s\" kişilere eklensin mi?</string>
   <string name="add_field">Başka bir alan ekle</string>
@@ -39,6 +40,7 @@
   <string name="auto_set_nickname">Otomatik</string>
   <string name="batch_delete">Kişileri toplu sil</string>
   <string name="batch_delete_msg">Seçilen %d kişi silinsin mi? Bu kişilerin Bulutta kayıtlı bilgileri de silinecektir.</string>
+  <string name="blacklist">Kara liste</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth bağlantısı kesildi</string>
   <string name="blurbJoinContactDataWith">%s: kişisiyle birleştirmek istediğiniz kaydı seçin </string>
   <string name="btn_delete_multi_contacts">%d kişiyi sil</string>
@@ -307,8 +309,6 @@
   <string name="display_sim_contacts">SIM kayıtlarını göster</string>
   <string name="display_ungrouped">Tüm diğer kişiler</string>
   <string name="display_warn_remove_ungrouped">\"%s\" senkronize ile gruplandırılmamış kişilerden kaldırılıyor.</string>
-  <string name="dlg_add_blacklist">Bu numara Kara Listeye eklensin mi?</string>
-  <string name="dlg_remove_blacklist">Bu numara Kara Listeden kaldırılsın mı?</string>
   <string name="duplicate_group_name">Grup adı zaten var</string>
   <string name="editContactDescription">Kişiyi Düzenle</string>
   <string name="editGroupDescription">Grubu düzenle</string>
@@ -707,7 +707,8 @@
   <string name="refresh">Yenile</string>
   <string name="relationLabelsGroup">İlişki Durumu</string>
   <string name="removePhoto">Resmi kaldır</string>
-  <string name="remove_blacklist">Engeli kaldır</string>
+  <string name="remove_blacklist">Kara listeden kaldır</string>
+  <string name="remove_blacklist_dialog_title">Bu umara Kara listeden kaldırılsın mı?</string>
   <string name="remove_duplicate">"MIUI aynı kişileri bulup birleştirmenize yardım edecek.
 
   Başlamak için alttaki simgeye dokunun."</string>

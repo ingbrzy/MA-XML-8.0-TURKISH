@@ -309,6 +309,7 @@
   <string name="notification_multiple_title">Yeni mesajlar</string>
   <string name="number_add_hint">Bir numara giriniz</string>
   <string name="open_url_with_web">Url adresinin açılması için izin verilsin mi?</string>
+  <string name="over_max_mms_size">MMS çok büyük!</string>
   <string name="overwrite_edited_content">Düzenlenen içeriğin üzerine yazılacak.</string>
   <string name="phrase_confirm_delete_message">Şablon silinsin mi?</string>
   <string name="phrase_empty">Şablon yok</string>
@@ -390,7 +391,7 @@
   <string name="received_label">Alındı:</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">Alıcı:</string>
-  <string name="recipients_over_size">Çok fazla alıcı var!.</string>
+  <string name="recipients_over_size">Çok fazla alıcı var!</string>
   <string name="recording_failed">"Kaydedilemiyor!"</string>
   <string name="refill_now">Şimdi tekrar doldur</string>
   <string name="refresh">Yenile</string>
@@ -496,12 +497,12 @@
   <string name="stick">İğnele</string>
   <string name="stick_conversation">Geçerli sohbeti iğnele</string>
   <string name="sticked_conversation">İğne zaten kaldırılmış!</string>
-  <string name="storage_dialog_attachments">Mms ekleri:</string>
+  <string name="storage_dialog_attachments">MMS ekleri:</string>
   <string name="storage_dialog_available_space">Kullanılabilir alan:</string>
   <string name="storage_dialog_database">Veri tabanı:</string>
-  <string name="storage_dialog_mms">Mms: %d</string>
+  <string name="storage_dialog_mms">MMS: %d</string>
   <string name="storage_dialog_mms_size">Mms boyutu:</string>
-  <string name="storage_dialog_sms">Sms: %d</string>
+  <string name="storage_dialog_sms">SMS: %d</string>
   <string name="storage_limits_activity">Depolama sınırları</string>
   <string name="storage_limits_message">Her mesaj dizisi için kaydettiğiniz mesaj sayısı sınırlansın mı?</string>
   <string name="storage_limits_setting">Sınırları ayarla</string>
@@ -527,7 +528,7 @@
   <string name="toast_feedback_finish">Raporunuz bir Wi-Fi ağına bağlandığınızda gönderilecektir</string>
   <string name="toast_feedback_max">"Bir gün içerisinde 3'ten fazla rapor gönderemezsiniz"</string>
   <string name="toast_feedback_start">Log kaydi toplanıyor...</string>
-  <string name="too_many_attachments">Ekler için %1$s kadar limit vardır. Yalnızca ilk  %2$s eklenecek.</string>
+  <string name="too_many_attachments">%1$s ekten fazlası eklenemez. Yalnızca ilk  %2$s ek eklenecek.</string>
   <string name="too_many_recipients">Mesaj çok fazla (%1$s) alıcıya sahip. %2$s kişiden fazla alıcı ekleyemezsiniz.</string>
   <string name="too_many_unsent_mms">Mesaj şu anda gönderilemiyor. Gönderilmemiş çok fazla multimedya mesajı var.</string>
   <string name="try_to_send">Tekrar gönder</string>

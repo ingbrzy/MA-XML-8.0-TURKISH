@@ -313,6 +313,7 @@
   <string name="miui_search_notification_message">Arama Çubuğunu açmak için dokunun.</string>
   <string name="miui_search_notification_title">Arama</string>
   <string name="miuichromium_default_text_encoding">Latin-1</string>
+  <string name="miuichromium_error_page_diagnostic">Ağ tanımlama</string>
   <string name="miuichromium_error_page_mobile">Mobil ağ</string>
   <string name="miuichromium_error_page_reason_network">URL adresini görüntüle</string>
   <string name="miuichromium_error_page_reason_server">Tarayıcı bu sayfayı yükleyemedi</string>
@@ -567,6 +568,10 @@
   <string name="sub_sync_item_browser_title_history_summary">Tarayıcının senkronizasyon geçmişi</string>
   <string name="sub_sync_item_browser_title_novel">Romanları senkronize et</string>
   <string name="sub_sync_item_browser_title_novel_summary">Roman tarayıcısını senkronize et</string>
+  <string name="sub_sync_item_browser_title_useful">Faydalı sayfaları senkronize et</string>
+  <string name="sub_sync_item_browser_title_useful_summary">Tarayıcıdaki faydalı sayfaları senkronize eder</string>
+  <string name="sub_sync_item_browser_title_video">Video geçmişini senkronronize et</string>
+  <string name="sub_sync_item_browser_title_video_summary">"Cihazınızda sıkça izlediğiniz video listesini senkronize eder"</string>
   <string name="sub_sync_item_browser_title_webapp">Web uygulamalarını eşitle</string>
   <string name="sub_sync_item_browser_title_webapp_summary">Web uygulamaları ve favorilerim eklendi</string>
   <string name="suggest_access_appstore">Mi Uygulama Mağazası</string>

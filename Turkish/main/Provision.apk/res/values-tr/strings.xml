@@ -35,9 +35,11 @@
   <string name="shut_down">Telefonu Kapat</string>
   <string name="sim_card_detecting">SIM kart kontrol ediliyor...</string>
   <string name="sim_card_detection">Lütfen bir SIM kart yerleştirin</string>
+  <string name="sim_card_detecting_title">SIM kartı kontrol et</string>
   <string name="sim_card_detection_info">Lütfen bir SIM kart yerleştirin ve gelen talimatları izleyin.</string>
   <string name="sim_dectection_next">Devam</string>
   <string name="sim_redetection">SIM kartı tekrar kontrol edin</string>
+  <string name="skip_underline">Atla</string>
   <string name="summary_not_set">Ayarlı değil</string>
   <string name="summary_sim_card">Kart %1$d</string>
    <string name="summary_sim_card_with_operator">Kart %1$d, %2$s</string>

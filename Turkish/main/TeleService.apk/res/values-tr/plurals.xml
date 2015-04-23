@@ -12,4 +12,8 @@
 	<item quantity="other">Seçilen eylem acil arama modunda kullanılamaz. Telefon %s dakika boyunca bu modda olacak. Artık ayrılmak istiyor musunuz?</item>
 	<item quantity="one">Seçilen eylem acil arama modunda kullanılamaz. Telefon %s dakika boyunca bu modda olacak. Artık ayrılmak istiyor musunuz?</item>
 </plurals>
+<plurals name="call_recording_notification_complete">
+	<item quantity="other">%d çağrı kaydedildi.</item>
+	<item quantity="one">1 çağrı kaydedildi.</item>
+</plurals>
 </resources>
