@@ -147,7 +147,7 @@
   <string name="gong_count_ji">Toplam %d Ep. </string>
   <string name="gong_count_xiang">%d öğe</string>
   <string name="good">Tamam</string>
-  <string name="hint_apk_download"> \"%1$s\" uygulamayı indirmek ve yüklemek için dokunun</string>
+  <string name="hint_apk_download">Uygulamayı yükle</string>
   <string name="hint_apk_install">Uygulama indirme</string>
   <string name="hint_apk_text_update">%1$s yeni sürüm var, güncellensin mi?</string>
   <string name="hint_apk_title_update">%1$s Yeni Sürüm</string>
@@ -155,6 +155,7 @@
   <string name="info_channel_title">Haberler</string>
   <string name="info_video_loading">Yükleniyor...</string>
   <string name="init">Birim</string>
+  <string name="install_apk">Yükle</string>
   <string name="install_comfirm">Yüklemek için dokunun</string>
   <string name="install_plugin">Eklentiyi yükle</string>
   <string name="introduce">Özet</string>

@@ -156,7 +156,7 @@
   <string name="confirm_download_video_message">Bu videoyu izleyebilmek için önce tamamen indirmeniz gerekmektedir. Wi-Fi bağlantısı aktif olduğunda indirme devam edecek.</string>
   <string name="confirm_download_video_title">Video\'yu indir</string>
   <string name="confirm_face">Eşle</string>
-  <string name="confirm_left_photo_will_move_out">Ftoğraflar bu albümün dışına taşınacak</string>
+  <string name="confirm_left_photo_will_move_out">Soldaki fotoğraflar bu albümün dışına taşınacak</string>
   <string name="confirm_merge_face_albums">" "%s albüm ile birleştirilsin mi?" "</string>
   <string name="confirm_not_face">Bu kişi değil</string>
   <string name="contact_photo">Kişi fotoğrafı olarak ayarla</string>
@@ -307,7 +307,7 @@
   <string name="impunity_declaration_settings">Ağ bildirimini göster</string>
   <string name="impunity_declaration_summary">Galeri uygulaması başlayınca herzaman ağ bildirimi göster</string>
   <string name="impunity_declaration_title">Uyarı:</string>
-  <string name="in_home_page_long_press_photo_setting_secret_photo">Galeride, özel yapmak istediğiniz fotoğrafa basılı tutun ve Gizli albüme ekleyi seçin.</string>
+  <string name="in_home_page_long_press_photo_setting_secret_photo">Gizlemek istediğiniz fotoğrafa basılı tutun ve \"Gizli albüme ekle\" seçeneğini seçin.</string>
   <string name="initial_cloud_button_text">Giriş Yap</string>
   <string name="initial_cloud_text">Dilediğiniz yerden resimlerinize ulaşın ve görüntüleyin.</string>
   <string name="initializing_cloud">Başlatılıyor...</string>
@@ -379,7 +379,7 @@
   <string name="moman_camera_icon">Moman Camera emoticon</string>
   <string name="moman_camera_picture">Moman Camera pictures</string>
   <string name="more">Daha fazla</string>
-  <string name="mosaic">mozaik</string>
+  <string name="mosaic">Mozaik</string>
   <string name="move">Taşı</string>
   <string name="move_to_cloud_album">Şuraya taşı</string>
   <string name="mtgif">MTGIF</string>

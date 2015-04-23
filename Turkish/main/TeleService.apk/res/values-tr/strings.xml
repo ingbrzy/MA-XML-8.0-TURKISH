@@ -190,6 +190,8 @@
   <string name="cb_sms_settings">Hücre Yayını SMS ayarları</string>
   <string name="cdma_activate_device">Cihazı etkinleştir</string>
   <string name="cdma_conference_call">Konferans çağrısı</string>
+  <string name="cdma_alert_message">"Mobil veri için varsayılan olarak başka bir kart seçerseniz, UIM SIM kart kullanmak mümkün olmayacaktır."</string>
+  <string name="cdma_alert_title">UIM kartı varsayılan olmalıdır</string>
   <string name="cdma_display_precise_call_state_message">Operatörünüz bunu desteklemiyorsa, arama durumunda bu geçiş açıldığında hatalar olabilir. Bunu açmak istediğiniz emin misiniz?</string>
   <string name="cdma_display_precise_call_state_summary">CDMA Arama sayacı şebeke operatörü ile sınırlıdır. Yerel operatör destekliyorsa, arama durumunda tam gösterilebilir.</string>
   <string name="cdma_display_precise_call_state_title">Hassas arama durumunu göster</string>
@@ -212,6 +214,9 @@
   <string name="cfnrc_title">Ulaşılamıyorsa yönlendir</string>
   <string name="cfnry_title">Cevap yoksa  yönlendir</string>
   <string name="cfu_title">Herzaman yönlendir</string>
+  <string name="change_default_data">Değiştir</string>
+  <string name="change_default_data_alert_message">"Çin Telekom SIM kart kullanmak mümkün olmayacaktır."</string>
+  <string name="change_default_data_alert_title">UIM kartı varsayılan olmalıdır</string>
   <string name="change">Ayarla</string>
   <string name="change_num">Güncelle</string>
   <string name="change_password">Engelleme şifresini değiştir</string>
@@ -225,6 +230,7 @@
   <string name="close_profile">Kapat</string>
   <string name="cloud_antispam_title">Bilinmeyen numaraları tespit et</string>
   <string name="command_error_fdn_failure">Bu işlemi yapmak için FDN\'i kapatın.</string>
+  <string name="confirm_change_default_data">Değiştir</string>
   <string name="confirm_password_label">Yeni şifreyi onaylayın</string>
   <string name="confirmPin2Label">Yeni PIN2 kodunu onaylayın</string>
   <string name="confirmPinLabel">Yeni PIN kodunu onaylayın</string>
@@ -627,10 +633,11 @@ Yerine tercih edilen şebeke kullanılacak."</string>
   <string name="no_wifi_available_title">Wi-Fi bağlantısı yok</string>
   <string name="not_a_valid_port">Port numarası 1000 ve 65534 arasında olmalıdır</string>
   <string name="not_allowed">SIM kartınız bu şebekeye bağlanma izni vermiyor.</string>
+  <string name="not_change_default_data">"Değişiklik yapma"</string>
   <string name="not_voice_capable">Sesli çağrı desteklenmiyor</string>
   <string name="notification_action_end_call">Çağrıyı Kapat</string>
- <string name="notification_dialing">Aranıyor</string>
- <string name="notification_incoming_call">Gelen çağrı</string>
+  <string name="notification_dialing">Aranıyor</string>
+  <string name="notification_incoming_call">Gelen çağrı</string>
   <string name="notification_missedCallTicker">%s Cevapsız çağrınız var.</string>
   <string name="notification_missedCallTitle">Cevapsız çağrı</string>
   <string name="notification_missedCall_call_back">ARA</string>
@@ -861,6 +868,7 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="reject_via_sms_summary">Arama reddedildiğinde arayana gönderilecek SMS\'i ayarlayın</string>
   <string name="reject_via_sms_title">SMS ile reddet ayarları</string>
   <string name="remember_my_choice">Her zaman internet çağrıları için kullanabilirsiniz</string>
+  <string name="remind_another_time">"Tekrar gösterme"</string>
   <string name="remove">Sil</string>
   <string name="remove_ims_account">Hesabı sil</string>
   <string name="remove_sip_account">Hesabı kaldır</string>
