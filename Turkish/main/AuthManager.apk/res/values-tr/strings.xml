@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Uygulamalar</string>
-  <string name="Dashboard_HIPS_Disable_Content">"Devre dışı bırakmanız MIUI\'ın uygulama isteklerini izlemesini, güvenliğinizin ve gizliliğinizin korunmasını durduracaktır.
-  Devre dışı bırakmak istediğinize emin misiniz?"</string>
+  <string name="Dashboard_HIPS_Disable_Content">"Devre dışı bırakmanız durumunda MIUI, uygulama isteklerini izlemeyecektir.!"</string>
   <string name="Dashboard_HIPS_Disable_Title">İzinler</string>
   <string name="Dashboard_Log">Kayıtlar</string>
   <string name="Dashboard_Log_Clear_Content">Bütün loglar silinecektir.</string>
@@ -72,8 +71,8 @@
   <string name="HIPS_Group_PIM">Kullanıcı verisi</string>
   <string name="HIPS_Group_PhoneID">Cihaz kimliği</string>
   <string name="HIPS_Group_ROOT">ROOT Erişimi</string>
-  <string name="HIPS_Perm_AdjustRingerVolume">Uygulama zil sesini ayarlayabilir</string>
-  <string name="HIPS_Perm_AdjustVolumeInCall">Uygulama gelen çağrı sesini ayarlayabilir</string>
+  <string name="HIPS_Perm_AdjustRingerVolume">Zil sesini değiştirme</string>
+  <string name="HIPS_Perm_AdjustVolumeInCall">Gelen çağrı sesini değiştirme</string>
   <string name="HIPS_Perm_AllowAll">Tümüne izin ver</string>
   <string name="HIPS_Perm_AnswerCall">Uygulama çağrılara cevap verebilir</string>
   <string name="HIPS_Perm_AudioRecorder">Ses Kaydetme</string>
@@ -82,14 +81,14 @@
   <string name="HIPS_Perm_AutoStart">Otomatik başlatma</string>
   <string name="HIPS_Perm_AutoStart_Desc">Uygulama cihaz açıldığında otomatik başlayabilir</string>
   <string name="HIPS_Perm_AutoStart_Hint">%1$s uygulama cihaz açıldığında otomatik başlayabilir</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth bağlantıları</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth bağlantılarını değiştirme</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Uygulama Bluetooth bağlantısını aktifleştirebilir</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s uygulama Bluetooth bağlantısını aktifleştirebilir</string>
   <string name="HIPS_Perm_Calendar">Takvim olaylarını okuma</string>
   <string name="HIPS_Perm_Calendar_Desc">Uygulama takviminize erişebilir</string>
   <string name="HIPS_Perm_Calendar_Hint">%1$s uygulama takviminize erişebilir</string>
   <string name="HIPS_Perm_Call">Arama yapma</string>
-  <string name="HIPS_Perm_CallLog">Arama geçmişi</string>
+  <string name="HIPS_Perm_CallLog">Arama geçmişini okuma ve yazma</string>
   <string name="HIPS_Perm_CallLog_Access">Uygulama çağrı geçmişine erişebilir</string>
   <string name="HIPS_Perm_CallLog_Desc">Uygulama arama geçmişinizi görüntüleyebilir</string>
   <string name="HIPS_Perm_CallLog_Hint">%1$s uygulama arama geçmişinizi görüntüleyebilir</string>
@@ -102,7 +101,7 @@
   <string name="HIPS_Perm_Call_Desc">Uygulamaya arama yapmak, aramayı cevaplamak ve reddetmek için izin verebilir</string>
   <string name="HIPS_Perm_Call_Hint">%1$s uygulama arama yapabilir, aramayı cevaplayabilir ve reddedebilir</string>
   <string name="HIPS_Perm_Call_Number">%1$s ara</string>
-  <string name="HIPS_Perm_CancelMissedCalls">Uygulama cevapsız çağrıları silebilir</string>
+  <string name="HIPS_Perm_CancelMissedCalls">cevapsız çağrıları silme</string>
   <string name="HIPS_Perm_Contact">Kişileri değiştirme</string>
   <string name="HIPS_Perm_Contact_Access">Uygulama kişi bilgilerinize erişebilir</string>
   <string name="HIPS_Perm_Contact_Desc">Uygulama kişi listenizi görüntüleyebilir</string>
@@ -120,10 +119,10 @@
   <string name="HIPS_Perm_Location_Desc">Uygulamalar konumunuzu belirlemek için GPS ve internet baglantısı kullanabilir</string>
   <string name="HIPS_Perm_Location_Hint">%1$s uygulama konumunuzu belirlemek için GPS ve İnternet bağlantınızı kullanabilir</string>
   <string name="HIPS_Perm_Location_Monitor">Uygulama konumunuzu takip edebilir</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">Şebeke baz istasyonu üzerinden veri</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">Şebeke baz istasyonu üzerinden veri alma</string>
   <string name="HIPS_Perm_Location_Source_GPS">GPS üzerinden konum bilgisi alma</string>
   <string name="HIPS_Perm_Location_Source_Network">Ağ üzerinden konum bilgisi alma</string>
-  <string name="HIPS_Perm_MMS">MMS yazma</string>
+  <string name="HIPS_Perm_MMS">MMS yazma ve silme</string>
   <string name="HIPS_Perm_MMS_Access">Uygulama MMS verilerinize erişebilir</string>
   <string name="HIPS_Perm_MMS_Desc">Uygulama MMS\'lerinizi görüntüleyebilir</string>
   <string name="HIPS_Perm_MMS_Hint">%1$s uygulama MMS\'lerinizi görüntüleyebilir</string>
@@ -135,10 +134,10 @@
   <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s uygulama veri bağlantısını aktifleştirebilir</string>
   <string name="HIPS_Perm_Network_Accept">%1$s\'den gelen bağlantı kabul edilsin mi?</string>
   <string name="HIPS_Perm_Network_Connect">Bağlantı konumu: %1$s</string>
-  <string name="HIPS_Perm_Network_Listen">%1$s bağlantı noktası dinleniyor</string>
+  <string name="HIPS_Perm_Network_Listen">%1$s bağlantı noktası dinleme</string>
   <string name="HIPS_Perm_Network_MobileEvent">Mobil veri kullanımı</string>
-  <string name="HIPS_Perm_Network_Recv">Veriyi alma</string>
-  <string name="HIPS_Perm_Network_Send">Verileri gönderme</string>
+  <string name="HIPS_Perm_Network_Recv">Veri alma</string>
+  <string name="HIPS_Perm_Network_Send">Veri gönderme</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Bilinmeyen adres</string>
   <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
   <string name="HIPS_Perm_Notification">Bildirimleri görüntüleme</string>
@@ -147,7 +146,7 @@
   <string name="HIPS_Perm_PhoneID">Cihaz kimliğini okuma</string>
   <string name="HIPS_Perm_PhoneID_Desc">Uygulama cihazınızın IMEI ve IMSI bilgilerine erişebilir</string>
   <string name="HIPS_Perm_PhoneID_Hint">%1$s uygulama cihazınızın IMEI ve IMSI bilgilerine erişebilir</string>
-  <string name="HIPS_Perm_PhoneID_ICCID">Uygulama şu izinleri alabilir </string>
+  <string name="HIPS_Perm_PhoneID_ICCID">"Cihaz ICCID bilgisini okuma"</string>
   <string name="HIPS_Perm_PhoneID_IMEI">Uygulama cihazın IMEI numarasına erişebilir</string>
   <string name="HIPS_Perm_PhoneID_IMEISN">Uygulama cihazın IMEI SN numarasına erişebilir</string>
   <string name="HIPS_Perm_PhoneID_IMSI">Uygulama cihazın IMSI numarasına erişebilir</string>
@@ -169,17 +168,17 @@
   <string name="HIPS_Perm_Read_SMS">SMS mesajlarını okuma</string>
   <string name="HIPS_Perm_Read_SMS_Desc">SMS mesajlarını okuma</string>
   <string name="HIPS_Perm_Read_SMS_Hint">%1$s uygulama SMS mesajlarını okuyabilir</string>
-  <string name="HIPS_Perm_Recorder_Audio">Uygulama ses kaydedebilir</string>
+  <string name="HIPS_Perm_Recorder_Audio">Mikrofona erişme ve ses kaydetme</string>
   <string name="HIPS_Perm_Recorder_AudioVideo">Uygulama ses ve video kaydedebilir</string>
-  <string name="HIPS_Perm_Recorder_Camera">Uygulama fotoğraf çekebilir</string>
+  <string name="HIPS_Perm_Recorder_Camera">Video ve fotoğraf için kameraya erişme</string>
   <string name="HIPS_Perm_Recorder_Video">Uygulama ses ve video kaydedebilir</string>
-  <string name="HIPS_Perm_Recorder_VoiceCall">Uygulama aramalarınızı kaydedebilir</string>
+  <string name="HIPS_Perm_Recorder_VoiceCall">Aramalarınızı kaydetme</string>
   <string name="HIPS_Perm_RejectAll">Tümünü engelle</string>
-  <string name="HIPS_Perm_SMS">SMS yazma</string>
+  <string name="HIPS_Perm_SMS">SMS yazma ve silme</string>
   <string name="HIPS_Perm_SMS_Access">Uygulama SMS verilerinize erişebilir</string>
   <string name="HIPS_Perm_SMS_Desc">Uygulama SMS görüşmelerinizi görüntüleyebilir</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s uygulama SMS görüşmelerinizi görüntüleyebilir</string>
-  <string name="HIPS_Perm_SendMMS">MMS gönderin</string>
+  <string name="HIPS_Perm_SendMMS">MMS gönderme</string>
   <string name="HIPS_Perm_SendMMS_Desc">Uygulamaya MMS göndermek için izin verir</string>
   <string name="HIPS_Perm_SendMMS_Hint">%1$s uygulama MMS gönderebilir</string>
   <string name="HIPS_Perm_SendSMS">SMS gönderme</string>
@@ -196,11 +195,11 @@
   <string name="HIPS_Perm_Settings_Desc">Uygulama sistem ayarlarını değiştirebilir</string>
   <string name="HIPS_Perm_Settings_Hint">%1$s uygulama sistem ayarlarını değiştirebilir</string>
   <string name="HIPS_Perm_Settings_Modify">Uygulama sistem ayarlarını değiştirebilir</string>
-  <string name="HIPS_Perm_SilenceRinger">Uygulama gelen çağrıları sessize alabilir</string>
+  <string name="HIPS_Perm_SilenceRinger">Gelen çağrıları sessize alma</string>
   <string name="HIPS_Perm_SystemAlert">Açılır pencere bildirimlerini görüntüleme</string>
   <string name="HIPS_Perm_SystemAlert_Desc">Uygulama açılır pencere bildirimi gösterebilir</string>
   <string name="HIPS_Perm_SystemAlert_Hint">%1$s uygulama açılır pencere bildirimi gösterebilir</string>
-  <string name="HIPS_Perm_VideoRecorder">Kamera erişimi</string>
+  <string name="HIPS_Perm_VideoRecorder">Kameraya erişime</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">Uygulama kameraya erişebilir</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s uygulama kameraya erişebilir</string>
   <string name="HIPS_Perm_WIFINetwork">Wi-Fi ağı kullanma</string>
@@ -244,14 +243,14 @@
   <string name="Privacy_App_Trust_Summary_Off">Bu uygulama sistemin diğer kısımlarına ulaşmaya çalışırsa beni uyar</string>
   <string name="Privacy_App_Trust_Summary_On">Bu uygulama sistemin diğer kısımlarına ulaşmaya çalışırsa beni uyar</string>
   <string name="Privacy_App_Uninstall">Kaldır</string>
-  <string name="Privacy_Perm_Count">%1$d izin verildi \"|\" %2$d engelendi.</string>
+  <string name="Privacy_Perm_Count">%1$d izin verildi | %2$d engelendi.</string>
   <string name="Su_Enable_Dialog">%1$s uygulaması root erişimi istiyor.</string>
-  <string name="Su_Package_Forbidden">%1$s root erişimi yok.</string>
+  <string name="Su_Package_Forbidden">"%1$s root erişimi yok."</string>
   <string name="Su_Unavailable">MIUI kararlı sürümünde root erişimi etkin değildir. Root erişimi için MIUI geliştirici sürümünü yüklemeniz gerekir. </string>
   <string name="SysOpt_Boost_AutoStart">Otomatik başlatma izni</string>
   <string name="SysOpt_Boost_AutoStart_Group">Otomatik başlatma</string>
   <string name="SysOpt_Boost_Boot">Önyükleme</string>
   <string name="SysOpt_Boost_Receiver">Arkaplan</string>
-  <string name="app_name">İzin yönetimi</string>
+  <string name="app_name">İzin yöneticisi</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" uygulamasının %2$s yetkisi yok. Uygulama yetkilerini Aarlar &gt; İzinlerden kontrol edebilirsiniz."</string>
 </resources>
