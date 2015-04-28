@@ -1775,7 +1775,6 @@ PIN kodu yanlış olabilir!"</string>
   <string name="tether_settings_title_usb_bluetooth">Paylaşım</string>
   <string name="tether_settings_title_wifi">Taşınabilir HotSpot</string>
   <string name="tethering_help_button_text">Yardım</string>
-  <string name="tethering_settings_not_available">Paylaşım ayarları bu kullanıcı için etkin değil!</string>
   <string name="timezone_settings">Zaman Dilimi</string>
   <string name="title_color_calibration">"Renk Düzeltme ön ayar"</string>
   <string name="title_dolby_control">DOLBY Digital Plus</string>
@@ -2820,7 +2819,6 @@ Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yard
 	<string name="usb_mount_summary" />
 	<string name="usb_sdcard_summary">Bilgisayardaki medya dosyalarını SD karta aktarmaya imkan sağlar</string>
 	<string name="usb_sdcard_title">SD kartı bağla</string>
-	<string name="usb_tethering_turnon_subtext">Açmak için bağlayın</string>
 	<string name="usb_unmount_inform_text">USB depolama bağlı olmayabilir</string>
 	<string name="use_nuplayer">NuPlayer kullan (deneysel)</string>
 	<string name="use_nuplayer_summary">AwesomePlayer yerine NuPlayer kullan</string>
