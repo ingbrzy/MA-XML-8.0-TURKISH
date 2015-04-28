@@ -154,6 +154,7 @@
   <string name="higher_quality_music">Yüksek kaliteli müzik</string>
   <string name="higher_quality_music_summary">Daha yüksek bit hızında müzik indir ve aktar</string>
   <string name="i_know">TAMAM</string>
+  <string name="i_know_it">TAMAM</string>
   <string name="impunity_declaration">"Online Müzik Servisi uygulamasını kullanarak, Baidu\'nun Kullanım Şartları kabul etmiş olursunuz"</string>
   <string name="impunity_declaration_ignore">"Tekrar gösterme"</string>
   <string name="impunity_declaration_negative_text">ÇIK</string>
@@ -261,6 +262,7 @@
   <string name="send_to">Şuraya gönder</string>
   <string name="send_to_title">Şuraya gönder(%1$s)</string>
   <string name="server_error">Sunucu hatası</string>
+  <string name="service_stop">Servis verilmiyor</string>
   <string name="set_album_successful">Albüm kaydedildi</string>
   <string name="set_as_ring">Zilsesi yap</string>
   <string name="set_id3_failed">"Şarkı bilgisi kaydedilemedi!"</string>
@@ -304,6 +306,12 @@
   <string name="trigger_to_scan_media_library_start">Yenileniyor...</string>
   <string name="ultra_high_quality">En yüksek</string>
   <string name="unknown_album_name">Bilinmeyen albüm</string>
+  <string name="upgrade_force">"Telif hakları nedeni ile online akış hizmetini durduruyoruz. Kaliteli müzik dinlemek için Müzik uygulamasını güncelleyin."</string>
+  <string name="upgrade_immediate">Şimdi Güncelle</string>
+  <string name="upgrade_nobeta">"Telif hakkı sorunları çözülene kadar online akış hizmetini durduruyoruz. Rahatsızlıktan dolayı özür dileriz :("</string>
+  <string name="upgrade_remind">Güncelleme var</string>
+  <string name="upgrade_suggest">"Telif hakları nedeni ile online akış hizmetini durduruyoruz. Kaliteli müzik dinlemek için Müzik uygulamasını güncelleyin."</string>
+  <string name="upgrade_waringing">"Sadece cihazınızda depolanan müzikleri çevrimdışı dinlemeniz mümkün olacaktır."</string>
   <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="valid_period">"Geçerlilik: "</string>
   <string name="vip_recommend_title">Yüksek kaliteli müzik alın</string>

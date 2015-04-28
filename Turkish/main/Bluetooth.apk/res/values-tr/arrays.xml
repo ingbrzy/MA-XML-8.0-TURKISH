@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Zil çalarken titret</item>
+        <item>Mesaj alınca titret</item>
+        <item>Alarm çalarken titret</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Fotoğraf çek</item>
+        <item>Telefonu bul</item>
+        <item>Mi-keyi bul</item>
+    </string-array>
+</resources>

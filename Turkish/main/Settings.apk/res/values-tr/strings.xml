@@ -1678,6 +1678,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="status_bar_settings_advanced">Ek ayarlar </string>
   <string name="status_bar_settings_all_app_display_loading">Yükleniyor...</string>
   <string name="status_bar_settings_basic_settings">Temel Ayarlar</string>
+  <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
   <string name="status_bar_settings_custom_carrier">Servis sağlayıcısı adını değiştir</string>
   <string name="status_bar_settings_custom_notification">Bildirimleri yönet</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fi adını düzenle</string>
@@ -1769,9 +1770,15 @@ PIN kodu yanlış olabilir!"</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Sistem Güncellemeleri</string>
   <string name="tether_settings_title_all">İnternet Paylaşımı</string>
+  <string name="tether_settings_title_bluetooth">Bluetooth paylaşımı</string>
+  <string name="tether_settings_title_usb">USB paylaşımı</string>
+  <string name="tether_settings_title_usb_bluetooth">Paylaşım</string>
+  <string name="tether_settings_title_wifi">Taşınabilir HotSpot</string>
+  <string name="tethering_help_button_text">Yardım</string>
+  <string name="tethering_settings_not_available">Paylaşım ayarları bu kullanıcı için etkin değil!</string>
   <string name="timezone_settings">Zaman Dilimi</string>
   <string name="title_color_calibration">"Renk Düzeltme ön ayar"</string>
-  <string name="title_dolby_control">Dolby digital plus</string>
+  <string name="title_dolby_control">DOLBY Digital Plus</string>
   <string name="title_font">Yazı tipi</string>
   <string name="title_font2">Yazı tipi</string>
   <string name="title_font_current">Sistem yazı tipini seçin</string>
@@ -1797,6 +1804,16 @@ PIN kodu yanlış olabilir!"</string>
   <string name="trackball_wake_title">Trackball uyanma</string>
   <string name="transition_animation_scale_title">Geçiş animasyonu ölçeği</string>
   <string name="translation_contributors_title">Katkıda bulunanlar</string>
+  <string name="trusted_credentials">Güvenilir Kimlik Bilgileri</string>
+  <string name="trusted_credentials_disable_confirmation">Sistem CA sertifikası kapatılsın mı?</string>
+  <string name="trusted_credentials_disable_label">Kapat</string>
+  <string name="trusted_credentials_enable_confirmation">Sistem CA sertifikası açılsın mı?</string>
+  <string name="trusted_credentials_enable_label">Aç</string>
+  <string name="trusted_credentials_remove_confirmation">Kalıcı olarak kullanıcı CA sertifikasını kaldırılsın mı?</string>
+  <string name="trusted_credentials_remove_label">Kaldır</string>
+  <string name="trusted_credentials_summary">Güvenilir CA sertifikalarını görüntüle</string>
+  <string name="trusted_credentials_system_tab">Sistem</string>
+  <string name="trusted_credentials_user_tab">Kullanıcı</string>
   <string name="try_again">Tekrar dene</string>
   <string name="tts_data_installed_summary">Konuşma sentezi için gereken sesler zaten düzgün bir şekilde yüklendi</string>
   <string name="tts_default_lang_summary">Dil tanımlı sesi, konuşulan metin için ayarlar</string>
@@ -1862,6 +1879,13 @@ PIN kodu yanlış olabilir!"</string>
   <string name="usb_msd_driver_installer_title">Driver Installer Disk (MSD)</string>
   <string name="usb_msd_summary">Lets you transfer files on Windows and Mac</string>
   <string name="usb_msd_title">Mass storage</string>
+  <string name="usb_tethering_active_subtext">Paylaşıldı</string>
+  <string name="usb_tethering_available_subtext">USB bağlandı, paylaşımı kontrol edin</string>
+  <string name="usb_tethering_button_text">USB paylaşımı</string>
+  <string name="usb_tethering_errored_subtext">USB paylaşım hatası</string>
+  <string name="usb_tethering_storage_active_subtext">"USB depolama kullanımda iken paylaşılamaz"</string>
+  <string name="usb_tethering_turnon_subtext">Açmak için bağlayın</string>
+  <string name="usb_tethering_unavailable_subtext">USB bağlı değil</string>
   <string name="user_add_user_message_long">"Farklı kullanıcılar ekleyerek bu cihazı başka insanlarla paylaşabilirsiniz. 
   
   Her kullanıcı indirdiği uygulamalarla, duvar kağıtlarıyla kendi alanını kişiselleştirebilir. Kullanıcılar Wi-Fi gibi tablet ayarlarını da değiştirebilirler.
@@ -2696,7 +2720,7 @@ Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yard
 	<string name="sim_editor_carrier">Operatör</string>
 	<string name="sim_editor_color">SIM rengi</string>
 	<string name="sim_editor_name">SIM adı</string>
-	<string name="sim_editor_num_format">Ekran numarası</string>
+	<string name="sim_editor_num_format">Görüntüleme numarası</string>
 	<string name="sim_editor_number">Numara</string>
 	<string name="sim_editor_title">SIM kart</string>
 	<string name="sim_enable_disable_lock_not_supported">"SIM/RUIM kilidi değiştirilemez.

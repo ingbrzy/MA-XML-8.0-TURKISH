@@ -185,11 +185,11 @@
   <string name="contact_status_update_attribution">%1$s ile</string>
   <string name="contact_status_update_attribution_with_date">%1$s %2$s ile</string>
   <string name="contact_unfavorite_toast">Kişi favori listesinden kaldırıldı</string>
-  <string name="contactsAllLabel">Rehber</string>
+  <string name="contactsAllLabel">KİŞİLER</string>
   <string name="contactsFavoritesLabel">Favoriler</string>
   <string name="contactsGroupsLabel">Gruplar</string>
   <string name="contactsJoinedMessage">Kişiler birleştirildi</string>
-  <string name="contactsList">Rehber</string>
+  <string name="contactsList">KİŞİLER</string>
   <string name="contacts_unavailable_add_account">Hesabınız ile oturum açın</string>
   <string name="contacts_unavailable_create_contact">Yeni kişi oluştur</string>
   <string name="contacts_unavailable_import_contacts">Dosyadaki kişileri içe aktar</string>
@@ -211,9 +211,9 @@
   <string name="delete_call_log_title">Silinecek arama geçmişini seçin</string>
   <string name="delete_contact_calllog_title">"Çağrı geçmişi silinsin mi?"</string>
   <string name="delete_dial_input">Sil</string>
-  <string name="delete_duplicate">Toplu birleştir</string>
+  <string name="delete_duplicate">Birleştir</string>
   <string name="delete_duplicate_message">"Birleştiriliyor ..."</string>
-  <string name="delete_selected_sim_entry_miui">Seçili kişileri sil</string>
+  <string name="delete_selected_sim_entry_miui">Seçilen SIM kişilerini sil</string>
   <string name="delete_sim_entries_finish">SIM kişileri başarıyla silindi</string>
   <string name="delete_sim_entry_miui">Sil</string>
   <string name="delete_unknown_contact_calllog_title">"Çağrı geçmişi silinsin mi?"</string>
@@ -280,7 +280,7 @@
   <string name="device_version_title">Telefon modelini seçin</string>
   <string name="dial">Çevir</string>
   <string name="dialerDialpadHintText">Çağrı eklemek için numarayı çevirin</string>
-  <string name="dialerIconLabel">En Son</string>
+  <string name="dialerIconLabel">GEÇMİŞ</string>
   <string name="dialerKeyboardHintText">Çevirmek için klavyeyi kullanın</string>
   <string name="dialer_addAnotherCall">Çağrı ekle</string>
   <string name="dialer_empty_text_loading">Yükleniyor...</string>
@@ -296,7 +296,7 @@
   <string name="dialog_sync_add">Senkronize edilen grup ekle</string>
   <string name="dialog_voicemail_airplane_mode_message">Sesli arama için öncelikle uçak modunu kapatınız.</string>
   <string name="dialog_voicemail_not_ready_message">Sesli mesaj ayarlarmak için, Menu &gt; Ayarlara git.</string>
-  <string name="directory_search_label">Rehber</string>
+  <string name="directory_search_label">KİŞİLER</string>
   <string name="display_all_contacts">Tüm kişiler</string>
   <string name="display_more_groups">Daha falza grup</string>
   <string name="display_only_phones">Eksik numaraları gizle</string>
@@ -450,7 +450,7 @@
   <string name="list_filter_custom">Özel</string>
   <string name="list_filter_customize">Kişiselleştir</string>
   <string name="list_filter_phones">Telefon numarası olan tüm kişiler</string>
-  <string name="list_filter_single">Rehber</string>
+  <string name="list_filter_single">KİŞİLER</string>
   <string name="loading_group_members">Grup üyeleri yükleniyor...</string>
   <string name="loading_groups">Gruplar yükleniyor...</string>
   <string name="loading_recent">Son arananlar yükleniyor...</string>
@@ -589,7 +589,7 @@
   <string name="other_contacts">Diğer kişiler</string>
   <string name="other_phone">Diger telefonlar</string>
   <string name="payphone">Ankesörlü Telefon</string>
-  <string name="people">Rehber</string>
+  <string name="people">KİŞİLER</string>
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefon</string>
@@ -634,7 +634,7 @@
   <string name="preference_auto_ip_summary_disable">Kapalı</string>
   <string name="preference_auto_ip_summary_on">Hattınızın IP öneki: %s</string>
   <string name="preference_auto_ip_title">Otomatik IP Ayarları</string>
-  <string name="preference_contacts">Rehber</string>
+  <string name="preference_contacts">KİŞİLER</string>
   <string name="preference_contacts_display">Rehber görünümü</string>
   <string name="preference_contacts_filter">Görüntülenecek Rehber</string>
   <string name="preference_contacts_more">Rehber ayarları</string>
@@ -652,7 +652,7 @@
   <string name="preference_others">Diğerleri</string>
   <string name="preference_phone">Telefon</string>
   <string name="preference_phone_more_title">Çağrı ayarları</string>
-  <string name="preference_remove_duplicate">Aynı kişi kayıtlarını birleştir</string>
+  <string name="preference_remove_duplicate">Aynı kişileri birleştir</string>
   <string name="preference_simple_mode_description">Fotoğraf ve diğer rehber bilgilerini gizle</string>
   <string name="preference_simple_mode_title">Basit görünüm</string>
   <string name="preference_smart_group_company_summary">Şirkete göre gruplandır</string>
@@ -752,7 +752,7 @@
   <string name="share_via">Gönder</string>
   <string name="share_visible_contacts">Kişileri paylaş</string>
   <string name="shortcutActivityTitle">Bir kişi kısayolu seçin</string>
-  <string name="shortcutContact">Rehber</string>
+  <string name="shortcutContact">KİŞİLER</string>
   <string name="shortcutDialContact">Direk arama</string>
   <string name="shortcutMessageContact">Direk mesaj</string>
   <string name="showAllContactsJoinItem">Tüm kişileri göster</string>
@@ -820,7 +820,7 @@
   <string name="sms_work">İşe Mesaj gönder</string>
   <string name="sms_work_mobile">Mobil İş Numarasına Mesaj Gönder</string>
   <string name="sms_work_pager">İş Çağrı Cihazına Mesaj Gönder</string>
-  <string name="social_widget_label">Rehber</string>
+  <string name="social_widget_label">KİŞİLER</string>
   <string name="social_widget_loading">Yükleniyor...</string>
   <string name="solar_calendar"/>
   <string name="splitConfirmation">Bu kişi birden fazla kişi olarak ayrılacaktır.</string>
@@ -875,7 +875,7 @@
   <string name="vcard_import_request_rejected_message">vCard içe aktarım isteği reddedildi. Lütfen daha sonra tekrar deneyin.</string>
   <string name="vcard_import_will_start_message">%s kısa zamanda içe aktarılacaktır.</string>
   <string name="vcard_import_will_start_message_with_default_name">Dosya kısa süre içinde içe aktarılacaktır.</string>
-  <string name="vcard_unknown_filename">Rehber</string>
+  <string name="vcard_unknown_filename">KİŞİLER</string>
   <string name="video_chat">Videolu Sohbet</string>
   <string name="viewContactDesription">Kişiyi Gör</string>
   <string name="viewContactTitle">Kişi Ayrıntıları</string>

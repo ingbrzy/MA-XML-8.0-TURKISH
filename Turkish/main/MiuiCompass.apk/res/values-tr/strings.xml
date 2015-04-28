@@ -8,7 +8,10 @@
   <string name="calibrate_failed">Kalibrasyon başarısız!</string>
   <string name="calibrate_failed_no_location">"Kalibre edilemiyor"</string>
   <string name="calibrate_failed_timeout">"Sunucuyla bağlantı kurulamıyor"</string>
-  <string name="calibrate_success">Kalibre Edildi</string>
+  <string name="calibrate_rotate_again">Tekrar Dene</string>
+  <string name="calibrate_success">Başarılı</string>
+  <string name="calibrate_tip">Cihazınızı eğin ve dairenin etrafında topu döndürün</string>
+  <string name="calibrate_title">Pusulayı Kalibre Et</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_calibrat_altitude">Kalibre ediliyor...</string>
   <string name="dialog_title_no_network">Ağa bağlanılamıyor</string>
