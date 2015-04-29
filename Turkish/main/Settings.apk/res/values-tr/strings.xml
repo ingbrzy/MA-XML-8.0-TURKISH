@@ -771,6 +771,12 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="firmware_version">Android sürümü</string>
   <string name="floating_window_switch_label">Kayan pencerelere izin ver</string>
   <string name="floating_window_switch_label_disable">Kayan pencereler kapalı</string>
+  <string name="fluency_mode">Sistem performansını optimize et</string>
+  <string name="fluency_mode_confirm_title">Tekrar başlatılsın mı?</string>
+  <string name="fluency_mode_confirm_will_fluency_mode_text">Ayarların uygulanması için cihazınızı tekrar başlatın.</string>
+  <string name="fluency_mode_confirm_will_normal_mode_text">Animasyonların açılması ve ek hahıza kullanımı, sistem performansını düşürebilir.</string>
+  <string name="fluency_mode_enabled_name">Sistem performansını optimize et</string>
+  <string name="fluency_mode_summary">Animasyonları kapat ve hafıza kullanımını düşür.</string>
   <string name="font_size_huge">Çok Büyük</string>
   <string name="font_size_large">Büyük</string>
   <string name="font_size_medium">Orta</string>
@@ -830,6 +836,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="gadget_toggle_bluetooth">Bluetooth ayarları güncelleniyor..</string>
   <string name="gadget_toggle_wifi">Wi-Fi ayaları güncelleniyor..</string>
   <string name="gadget_wifi">Wi-Fi</string>
+  <string name="gesture_wakeup_title">Ekranı açmak için iki kez dokun</string>
   <string name="google_backup_section_title">Google Yedekleme &amp; Geri Yükleme</string>
   <string name="gsm_to_wifi_connect_type_title">GSM\'den Wi-Fi\'ya</string>
   <string name="handy_mode">Tek elle kullanım modu</string>
@@ -1678,7 +1685,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="status_bar_settings_advanced">Ek ayarlar </string>
   <string name="status_bar_settings_all_app_display_loading">Yükleniyor...</string>
   <string name="status_bar_settings_basic_settings">Temel Ayarlar</string>
-  <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
+  <string name="status_bar_settings_carrier_sim">" SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Servis sağlayıcısı adını değiştir</string>
   <string name="status_bar_settings_custom_notification">Bildirimleri yönet</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fi adını düzenle</string>

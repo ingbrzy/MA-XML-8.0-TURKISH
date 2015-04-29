@@ -76,6 +76,8 @@
      <string name="hints_garbage_cleanup_result_danger">Çöpleri şimdi temizle</string>
      <string name="hints_garbage_cleanup_result_risk">Çöpleri şimdi temizle</string>
      <string name="hints_garbage_cleanup_result_safe">Herşey yolunda...</string>
+	 <string name="hints_garbage_handle_item_content">%1$d öğe, %2$s</string>
+     <string name="hints_garbage_handle_item_empty_content">Boş</string>
      <string name="hints_install_apps_interval">%d gün önce kullanıldı</string>
      <string name="hints_install_apps_new">hiç kullanılmadı</string>
      <string name="hints_install_apps_risk">Risk bulundu</string>
