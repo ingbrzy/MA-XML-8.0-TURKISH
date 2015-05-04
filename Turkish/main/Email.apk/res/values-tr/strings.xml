@@ -300,7 +300,6 @@
   <string name="collapse_recipient_details">Alıcı ayrıntılarını genişlet</string>
   <string name="colon">:</string>
   <string name="compose">E-posta yaz</string>
-  <string name="compose_help_context">E-posta yaz</string>
   <string name="compose_send">Gönder</string>
   <string name="compose_sent">Mesaj gönderildi</string>
   <string name="confirm">Tamam</string>
@@ -335,7 +334,6 @@
   <string name="contextmenu_send_mail">E-posta gönder</string>
   <string name="contextmenu_sharelink">Linki paylaş</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Buraya taşı: %1$s</string>
   <string name="conversation_item_mark_read">Okundu</string>
   <string name="conversation_item_mark_unread">Okunmadı</string>
@@ -731,7 +729,6 @@ CC: %4$s
   <string name="quoted_text">Alıntı metni içeriyor</string>
   <string name="quoted_text_label">Alıntı metni</string>
   <string name="read_string">Sohbet okundu</string>
-  <string name="recent_folders_heading">Favori klasörler</string>
   <string name="recent_folders_heading">Sık kullanılan klasörler</string>
   <string name="recipient_needed">En az bir alıcı ekleyin.</string>
   <string name="recipient_needed_title">Uyarı</string>
@@ -896,7 +893,6 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Ayarları tamamlamak için dokunun</string>
   <string name="wait_for_sync_title">Senkronize için bekliyor...</string>
-  <string name="wait_help_context">bekle</string>
   <string name="widget_all_mail">Tüm posta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Diğer</string>
@@ -909,5 +905,4 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
    <string name="mibill_privacy_policy_description">Mi Cüzdan Posta uygulaması ile alınan tüm e-postaları analiz edecek ve sizin için tüm kredi kartı faturaları yönetecek. Bu servis şirket posta uygulamaları için varsayılan olarak kapalıdır..</string>
    <string name="mibill_privacy_policy_link">"https://www.mipay.com/res/doc/eula/email.html" hizmet şartlarını kabul etmiş olursunuz.</string>
   <string name="mibill_privacy_policy_title">Mi Cüzdan eposta analizi</string>
-  <string name="account_settings_mibill_resolve_label">Eposta tablo analizi</string>
 </resources>

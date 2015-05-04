@@ -8,22 +8,6 @@
 	<item quantity="few">Mesajları taşı</item>
 	<item quantity="many">Mesajları taşı</item>
 </plurals>
- <plurals name="message_view_attachment_bytes">
-	<item quantity="other">%dB</item>
-	<item quantity="one">%dB</item>
-</plurals>
-<plurals name="message_view_attachment_kilobytes">
-	<item quantity="other">%dKB</item>
-	<item quantity="one">%dKB</item>
-</plurals>
-<plurals name="message_view_attachment_megabytes">
-	<item quantity="other">%dMB</item>
-	<item quantity="one">%dMB</item>
-</plurals>
-<plurals name="message_view_attachment_gigabytes">
-	<item quantity="other">%dGB</item>
-	<item quantity="one">%dGB</item>
-</plurals>
 <plurals name="num_selected">
 	<item quantity="other">%d sohbet seçtiniz</item>
 	<item quantity="zero">%d sohbet seçtiniz</item>
