@@ -9,12 +9,12 @@
   <string name="calibrate_failed_no_location">"Kalibre edilemiyor"</string>
   <string name="calibrate_failed_timeout">"Sunucuyla bağlantı kurulamıyor"</string>
   <string name="calibrate_rotate_again">Tekrar Dene</string>
-  <string name="calibrate_success">Başarılı</string>
+  <string name="calibrate_success">Kalibrasyon tamamlandı</string>
   <string name="calibrate_tip">Cihazınızı eğin ve dairenin etrafında topu döndürün</string>
   <string name="calibrate_title">Pusulayı Kalibre Et</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_calibrat_altitude">Kalibre ediliyor...</string>
-  <string name="dialog_title_no_network">Ağa bağlanılamıyor</string>
+  <string name="dialog_title_no_network">Ağa bağlantısı yok!</string>
   <string name="direction_east">D</string>
   <string name="direction_north">K</string>
   <string name="direction_north_east">KD</string>
@@ -44,7 +44,7 @@
   <string name="pressure_title">BASINÇ</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Kalibrasyon için sallayın</string>
-  <string name="using_camera_confirm_cancel">Çık</string>
+  <string name="using_camera_confirm_cancel">İptal</string>
   <string name="using_camera_confirm_message">Pusula uygulaması, bazı  fonksiyonların düzgün çalışması için cihazınızın kamerasını kullanabilir.</string>
   <string name="using_camera_confirm_ok">TAMAM</string>
   <string name="using_camera_confirm_title">Kamera Erişimi</string>
