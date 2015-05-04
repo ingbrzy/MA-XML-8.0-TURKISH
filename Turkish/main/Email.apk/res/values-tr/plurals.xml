@@ -143,4 +143,36 @@
 	<item quantity="few">%d seçtiniz</item>
 	<item quantity="many">%d seçtiniz</item>
 </plurals>
+<plurals name="message_view_attachment_bytes">
+	<item quantity="other">%dB</item>
+	<item quantity="zero">%dB</item>
+	<item quantity="one">%dB</item>
+	<item quantity="two">%dB</item>
+	<item quantity="few">%dB</item>
+	<item quantity="many">%dB</item>
+</plurals>
+<plurals name="message_view_attachment_gigabytes">
+	<item quantity="other">%dGB</item>
+	<item quantity="zero">%dGB</item>
+	<item quantity="one">%dGB</item>
+	<item quantity="two">%dGB</item>
+	<item quantity="few">%dGB</item>
+	<item quantity="many">%dGB</item>
+</plurals>
+<plurals name="message_view_attachment_kilobytes">
+	<item quantity="other">%dKB</item>
+	<item quantity="zero">%dKB</item>
+	<item quantity="one">%dKB</item>
+	<item quantity="two">%dKB</item>
+	<item quantity="few">%dKB</item>
+	<item quantity="many">%dKB</item>
+</plurals>
+<plurals name="message_view_attachment_megabytes">
+	<item quantity="other">%dMB</item>
+	<item quantity="zero">%dMB</item>
+	<item quantity="one">%dMB</item>
+	<item quantity="two">%dMB</item>
+	<item quantity="few">%dMB</item>
+	<item quantity="many">%dMB</item>
+</plurals>
 </resources>

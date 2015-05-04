@@ -45,4 +45,11 @@
 	<item>Gönderen</item>
 	<item>Alınma tarihi</item>
 </string-array>
+<string-array name="general_preference_text_zoom_summary_array">
+	<item>Çok ufak</item>
+	<item>Ufak</item>
+	<item>Normal</item>
+	<item>Büyük</item>
+	<item>Çok büyük</item>
+</string-array>
 </resources>
