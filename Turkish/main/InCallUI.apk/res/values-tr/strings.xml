@@ -72,6 +72,7 @@
   <string name="callFailed_userBusy">Hat meşgul</string>
   <string name="callUnanswered_forwarded">Arama cevaplanmadı ve yönlendirildi</string>
   <string name="call_description_recording">Kayıt yapılıyor…</string>
+  <string name="call_extension_conference_mode">Konferans</string>
   <string name="call_forwarding_settings">Arama yönlendirme ayarları</string>
   <string name="call_lost">Arama kesildi.</string>
   <string name="call_record_button_label">Kaydediliyor %s</string>
@@ -421,6 +422,7 @@
   <string name="onscreenVideoCallText">Görüntülü arama</string>
   <string name="onscreen_add_call_text">Çağrı ekle</string>
   <string name="onscreen_audio_mode">Kullanarak cevapla</string>
+  <string name="onscreen_audio_mode_conference">Konferans</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_handset">Eller serbest</string>
   <string name="onscreen_audio_mode_headset">Kulaklık</string>

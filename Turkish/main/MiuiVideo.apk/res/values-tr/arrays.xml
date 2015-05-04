@@ -15,4 +15,9 @@
 	 <item>Sıralama</item>
 	 <item>En yeniler</item>
 </string-array>
+<string-array name="version_list_entries">
+     <item>Stabil</item>
+     <item>Geliştirici</item>
+     <item>Alfa</item>
+</string-array>
 </resources>

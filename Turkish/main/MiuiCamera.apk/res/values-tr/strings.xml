@@ -545,8 +545,10 @@
   <string name="pref_camera_long_press_shutter_feature_title">Deklanşöre basılı tutun</string>
   <string name="pref_camera_peak_entry_off">Kapalı</string>
   <string name="pref_camera_peak_entry_on">Açık</string>
-  <string name="pref_simple_hdr_entry_off">Kapalı</string>
-  <string name="pref_simple_hdr_entry_on">Açık</string>
+  <string name="pref_simple_hdr_entry_off">\'i Kapat</string>
+  <string name="pref_simple_hdr_entry_on">\'i Aç</string>
   <string name="simple_mode_button_text_scene">Sahne modunu kapat</string>
   <string name="simple_mode_button_text_delay_capture">Zamanlayıcıyı kapat</string>
+  <string name="pref_camera_gradienter_title">Seviye</string>
+  <string name="simple_mode_button_text_gradienter">Kapat</string>
 </resources>
