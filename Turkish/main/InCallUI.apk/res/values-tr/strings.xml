@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<string name="accept_modify_call_request_prompt">Değiştirilmiş çağrı isteği kabul edilsin mi?</string>
   <string name="accessibility_bluetooth_headset_selected">Bluetooth kulaklık seçildi</string>
   <string name="accept_modify_call_request_prompt">Değiştirilmiş arama kabul edilsin mi?</string>
   <string name="accessibility_call_muted">Telefon sessiz.</string>
@@ -30,6 +31,7 @@
   <string name="alert_dialog_ok">TAMAM</string>
   <string name="alert_dialog_yes">Evet</string>
   <string name="antispam_marked_count">%1$d MIUI kullanıcısı tarafından bildirildi</string>
+  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Bilinmeyen numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
   <string name="apn_settings">Erişim noktası adları</string>
@@ -63,7 +65,7 @@
   <string name="callFailed_number_unreachable">Numara erişilebilir değil</string>
   <string name="callFailed_outOfService">Hizmet alanı dışında</string>
   <string name="callFailed_out_of_network"> Şebeke alanı dışından arandı</string>
-  <string name="callFailed_powerOff">Anten kapalı</string>
+  <string name="callFailed_powerOff">Radyo kapalı</string>
   <string name="callFailed_server_error">Sunucu hatası. Daha sonra yeniden deneyin.</string>
   <string name="callFailed_server_unreachable">Sunucu erişilebilir değil</string>
   <string name="callFailed_simError">SIM kart yok veya SIM kart hatası</string>
@@ -72,7 +74,7 @@
   <string name="callFailed_userBusy">Hat meşgul</string>
   <string name="callUnanswered_forwarded">Arama cevaplanmadı ve yönlendirildi</string>
   <string name="call_description_recording">Kayıt yapılıyor…</string>
-  <string name="call_extension_conference_mode">Konferans</string>
+  <string name="call_extension_conference_mode">Konferans Modu</string>
   <string name="call_forwarding_settings">Arama yönlendirme ayarları</string>
   <string name="call_lost">Arama kesildi.</string>
   <string name="call_record_button_label">Kaydediliyor %s</string>
@@ -88,7 +90,7 @@
   <string name="call_recording_notification_message_sd_unmounted">SD kart kaldırıldı</string>
   <string name="call_recording_notification_title">Çağrı kaydedildi</string>
   <string name="call_recording_notification_title_error">"Çağrı kaydedilemedi"</string>
-  <string name="call_settings">Çağrı ayarları</string>
+  <string name="call_settings">Çağrı Ayarları</string>
   <string name="call_title_redialing_with_times">%d defa tekrar arandı</string>
   <string name="caller_manage_header">Konferans araması %s</string>
   <string name="calling_via_template">%s ile aranıyor</string>
@@ -141,8 +143,8 @@
   <string name="custom_message_cancel">İptal</string>
   <string name="custom_message_send">Gönder</string>
   <string name="data_enable_summary">Mobil şebeke üzerinden veri erişimini etkinleştir</string>
-  <string name="data_enabled">Mobil veri etkin</string>
-  <string name="default_notification_description">Varsayılan ses(%1$s)</string>
+  <string name="data_enabled">Mobil Veri etkin</string>
+  <string name="default_notification_description">Varsayılan ses (%1$s)</string>
   <string name="default_preference_summary">Ayarlı değil</string>
   <string name="delete_fdn_contact">Sabit arama numarasını sil</string>
   <string name="deleting_fdn_contact">Sabit arama numarası siliniyor...</string>
@@ -205,7 +207,7 @@
   <string name="emergency_enable_radio_dialog_message">Radyo sinyali açılıyor...</string>
   <string name="emergency_enable_radio_dialog_retry">Servis yok, tekrar deneniyor...</string>
   <string name="emergency_enable_radio_dialog_title">Acil Durum Araması</string>
-  <string name="empty_alert">%s gereklidir ve boş bırakılamaz.</string>
+  <string name="empty_alert">%s boş bırakılamaz.</string>
   <string name="empty_networks_list">Hiçbir şebeke bulunamadı.</string>
   <string name="enable">Aç</string>
   <string name="enable_disable_administrative">Yönetim</string>
@@ -338,8 +340,9 @@
   <string name="mismatchPin">"Girdiğiniz PIN kodu hatalı. Tekrar deneyin."</string>
   <string name="mismatchPin2">"Girdiğiniz PIN2 kodu hatalı. Tekrar deneyin."</string>
   <string name="mobile_networks">Mobil şebeke ayarları</string>
-  <string name="modify_call_failure_str">Düzenlenmiş arama isteği başarısız oldu</string>
-  <string name="modify_call_option_title">Hangi tür bir arama?</string>
+  <string name="modify_call_failure_str">"Düzenlenmiş arama isteği başarısız oldu
+  "</string>
+  <string name="modify_call_option_title">Hangi tür arama?</string>
   <string name="modify_call_option_voice">Sadece ses</string>
   <string name="modify_call_option_vt">VT</string>
   <string name="modify_call_option_vt_rx">Video alma</string>
@@ -379,7 +382,7 @@
   <string name="notification_dialing">Aranıyor...</string>
   <string name="notification_incoming_call">Gelen arama</string>
   <string name="notification_incoming_video_call">Gelen video çağrısı</string>
-  <string name="notification_missedCallTicker">%s cevapsız aramanız var</string>
+  <string name="notification_missedCallTicker">Cevapsız aramanız var: %s</string>
   <string name="notification_missedCallTitle">Cevapsız arama</string>
   <string name="notification_missedCall_call_back">Geri ara</string>
   <string name="notification_missedCall_message">Mesaj</string>
@@ -391,9 +394,9 @@
   <string name="notification_ongoing_call">Devam eden çağrı</string>
   <string name="notification_requesting_video_call">Gelen video isteği</string>
   <string name="notification_voicemail_no_vm_number">Sesli mesaj numarası bilinmiyor</string>
-  <string name="notification_voicemail_text_format">Arama %s</string>
+  <string name="notification_voicemail_text_format">Ara %s</string>
   <string name="notification_voicemail_title">Yeni sesli mesaj</string>
-  <string name="notification_voicemail_title_count">Yeni sesli mesaj(%d)</string>
+  <string name="notification_voicemail_title_count">Yeni sesli mesaj (%d)</string>
   <string name="number">Numara</string>
   <string name="ok">Tamam</string>
   <string name="oldPin2Label">Eski PIN2 kodu</string>
@@ -449,19 +452,21 @@
   <string name="ota_next">İleri</string>
   <string name="ota_progress">Telefonunuz programlanırken lütfen bekleyiniz.</string>
   <string name="ota_skip_activation_dialog_message">Eğer etkinleştirme adımını geçerseniz arama yapamayacak ve mobil ağlara bağlanamayacaksınız(Wi-Fi hariç). Telefonunuzu etkinleştirene kadar, cihazı her açışınızda etkinleştirme sorusuyla karşılaşacaksınız.</string>
-  <string name="ota_skip_activation_dialog_skip_label">Geç</string>
-  <string name="ota_skip_activation_dialog_title">Etkinleştirme geçilsin mi?</string>
-  <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
+  <string name="ota_skip_activation_dialog_skip_label">Atla</string>
+  <string name="ota_skip_activation_dialog_title">Etkinleştirme atlansın mı?</string>
+  <string name="ota_spc_failure">AŞIRI SPC HATALARI</string>
   <string name="ota_speaker">Hoparlör</string>
   <string name="ota_successful">Telefonunuz aktifleştirildi. Servisin yeniden başlaması 15 dakika kadar sürebilir.</string>
   <string name="ota_title_activate">Telefonunu etkinleştir</string>
   <string name="ota_title_activate_success">Telefon etkinleştirildi.</string>
   <string name="ota_title_problem_with_activation">Etkinleştirme hatası</string>
-  <string name="ota_touch_activate">Telefonunuzun etkinleştirilmesi için özel bir arama yapılması gerekiyor.
-   Etkinleştir  tuşuna basın ve telefonu etkinleştirmek için lütfen yönlendirmeleri takip edin.</string>
+  <string name="ota_touch_activate">"Telefonunuzun etkinleştirilmesi için özel bir arama yapılması gerekiyor.
+   
+   Etkinleştir  tuşuna basın ve telefonu etkinleştirmek için lütfen yönlendirmeleri takip edin."</string>
   <string name="ota_try_again">Tekrar deneyin</string>
   <string name="ota_unsuccessful">"Telefonunuz etkinleştirilemedi.
   Çekim gücü daha yüksek bir yer bulmanız gerekiyor olabilir(Pencere, dış mekan).
+  
   Daha sonra tekrar deneyin ve daha fazla bilgi için müsteri hizmetlerini arayın."</string>
   <string name="other_settings">Diğer arama ayarları</string>
   <string name="overflowAddMenuItemText">Çağrı ekle</string>
@@ -471,13 +476,15 @@
   <string name="overflowSwapMenuItemText">Değiştir</string>
   <string name="password_title">Şifre</string>
   <string name="pause_prompt_no">Hayır</string>
-  <string name="pause_prompt_str">Ses tonları gönderiliyor</string>
+  <string name="pause_prompt_str">"Ses tonları gönderiliyor
+  "</string>
   <string name="pause_prompt_yes">Evet</string>
   <string name="payphone">Ankesörlü telefon</string>
   <string name="phoneAppLabel">Telefon</string>
   <string name="phone_entered_ecm_text">Acil Durum Arama moduna giriş yapıldı</string>
   <string name="phone_in_ecm_call_notification_text">Veri bağlantısı kapalı</string>
   <string name="phone_in_ecm_notification_title">Acil Durum Arama Modu</string>
+  <string name="phone_info_divider">" ｜ "</string>
   <string name="pick_outgoing_call_phone_type">Arama yerleştir</string>
   <string name="pick_outgoing_sip_phone">İnternet arama hesabı kullan:</string>
   <string name="pin2_changed">PIN2 kodu başarıyla değiştirildi.</string>
@@ -503,23 +510,23 @@
   <string name="preferred_network_mode_lte_summary">Tercih edilen şebeke modu: LTE </string>
   <string name="preferred_network_mode_lte_wcdma_summary">Tercih edilen şebeke modu: LTE / WCDMA</string>
   <string name="preferred_network_mode_summary">Şebeke çalışma modunu değiştirin</string>
-  <string name="preferred_network_mode_title">Şebeke modu</string>
+  <string name="preferred_network_mode_title">Şebeke Modu</string>
   <string name="preferred_network_mode_wcdma_only_summary">Tercih edilen şebeke modu: Sadece WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Tercih edilen şebeke modu: Tercihen WCDMA</string>
-  <string name="primary_account_summary_with">Birincil hesap:%s</string>
+  <string name="primary_account_summary_with">Birincil hesap: %s</string>
   <string name="private_num">Özel Numara</string>
   <string name="progress_dialog_exiting_ecm">Acil arama modundan çıkılıyor</string>
   <string name="proxy_address_title">Giden proxy adresi</string>
   <string name="pstn_phone">Cep telefonu araması</string>
   <string name="puk2_requested">Şifre hatalı, SIM kart kilitlendi! PUK2 kodu gerekiyor.</string>
   <string name="puk_requested">Şifre hatalı, SIM kart kilitlendi! PUK2 kodu gerekiyor.</string>
-  <string name="puk_unlocked">SIM kartınızın engeli kaldırıldı. Telefon kilidi açılıyor...</string>
+  <string name="puk_unlocked">SIM kart kilidi kaldırıldı. Telefon kilidi açılıyor...</string>
   <string name="radio_off_error">Bu ayarları görüntülemeden önce telefonun radyo sinyalini açın.</string>
   <string name="reading_settings">Ayarlar okunuyor...</string>
   <string name="regional_disable">Yerel haberler devre dışı</string>
   <string name="regional_enable">Yöresel haberler etkinleştirildi</string>
   <string name="register_automatically">Otomatik kayıt yapılıyor...</string>
-  <string name="register_on_network">%s bağlanılıyor...</string>
+  <string name="register_on_network">%s şebekesine kaydediliyor...</string>
   <string name="registration_done">Şebekeye kaydedildi.</string>
   <string name="registration_status_checking_status">Durum denetleniyor...</string>
   <string name="registration_status_done">Görüşmeler alınıyor.</string>
@@ -543,6 +550,7 @@
   <string name="respond_via_sms_canned_response_4">Şu anda müsait değilim. Sonra konuşsak olur mu?</string>
   <string name="respond_via_sms_confirmation_format">%s kişiye mesaj gönderildi.</string>
   <string name="respond_via_sms_custom_message">Kendiniz yazın...</string>
+  <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_edittext_dialog_title">Çabuk cevap</string>
   <string name="respond_via_sms_menu_reset_default_activity">Varsayılan uygulamayı sıfırla</string>
   <string name="respond_via_sms_setting_title">Çabuk cevaplar</string>
@@ -559,7 +567,7 @@
   <string name="roaming_enable">Dolaşımdayken veri servislerine bağlan</string>
   <string name="roaming_reenable_message">Ev ağını roaming kapalıyken terk ettiniz. Veri bağlantınız kesildi.</string>
   <string name="roaming_warning">Data roaming\'e izin verilsin mi? Önemli ölçüde ek roaming ücretine tabi tutulabilirsiniz.</string>
-  <string name="save">Kayıt</string>
+  <string name="save">Kaydet</string>
   <string name="saving_account">Hesap kaydediliyor...</string>
   <string name="search_networks">Şebeke ara</string>
   <string name="selectContact">kişi seç</string>
@@ -571,7 +579,7 @@
   <string name="separate_from_conference">Çağrıları ayır</string>
   <string name="set_primary_summary">Dışarı giden aramalar için kullan</string>
   <string name="set_primary_title">Birincil hesap olarak seç</string>
-  <string name="settings_label">Şebeke ayarları</string>
+  <string name="settings_label">Şebeke Ayarları</string>
   <string name="simContacts_airplaneMode">SIM karttan kişileri içe aktarmak için, öncellikle uçak modunu kapatın.</string>
   <string name="simContacts_empty">SIM kartınızda kayıtlı kişi yok.</string>
   <string name="simContacts_emptyLoading">SIM karttan okunuyor...</string>
@@ -584,9 +592,9 @@
   <string name="sip_call_options_entry_1">Veri ağı ulaşılabilir olduğunda bütün aramalar için</string>
   <string name="sip_call_options_entry_2">Sadece internet aramaları için</string>
   <string name="sip_call_options_entry_3">Her arama için sor</string>
-  <string name="sip_call_options_title">Internet aramasını kullan</string>
+  <string name="sip_call_options_title">İnternet aramasını kullan</string>
   <string name="sip_call_options_wifi_only_entry_1">Bütün aramalar için</string>
-  <string name="sip_call_options_wifi_only_title">Internet aramasını kullan (sadece Wi-Fi)</string>
+  <string name="sip_call_options_wifi_only_title">İnternet aramasını kullan (sadece Wi-Fi)</string>
   <string name="sip_always_send_keepalive">Always send</string>
   <string name="sip_edit_new_title">SIP hesap detayları</string>
   <string name="sip_edit_title">SIP hesap detayları</string>
@@ -634,16 +642,22 @@
   <string name="third_party_account_summary">Bu hesap şu anda %s uygulaması tarafından kullanılıyor.</string>
   <string name="throttle_current_usage">Bu dönemde kullanılan veriler</string>
   <string name="throttle_data_usage">Veri kullanımı</string>
+  <string name="throttle_data_usage_subtext">%1$s (%2$d٪) / %3$s dönem maksimum</string>
   <string name="throttle_help">Daha fazla</string>
   <string name="throttle_help_subtext">Operatörünüzün mobil veri kullanım politikaları hakkında daha fazla bilgi</string>
   <string name="throttle_rate">Veri hızı politikası</string>
+  <string name="throttle_rate_subtext">Limit aşılırsa veri oranı %1$d Kb/s değerine düşürülür</string>
+  <string name="throttle_status_subtext">"%1$s (%2$d٪) / %3$s dönem maksimum
+Sonraki dönem %4$d gün içinde başlar (%5$s)"</string>
   <string name="throttle_time_frame">Veri kullanım periodu</string>
+  <string name="throttle_time_frame_subtext">"%1$d٪ döngüyü geçen
+Sonraki dönem %2$d gün içinde başlar (%3$s)"</string>
   <string name="transport_title">Taşıma türü</string>
   <string name="tty_mode_option_summary">TTY modunu ayarla</string>
   <string name="tty_mode_option_title">TTY modu</string>
   <string name="unknown">Bilinmiyor</string>
   <string name="unlock_failed">Şebeke kilidi açma isteği başarısız.</string>
-  <string name="unlock_success">Şebeke kilidi başarıyla açıldı.</string>
+  <string name="unlock_success">Şebeke kilidi açıldı.</string>
   <string name="updating_fdn_contact">Sabit arama numarası güncelleniyor...</string>
   <string name="updating_settings">Ayarlar güncelleniyor...</string>
   <string name="updating_title">Arama ayarları</string>
@@ -652,7 +666,8 @@
   <string name="upgrade_vt_tx_prompt">Aramanızı Video transferi görüşmesine yükseltmek ister misiniz?</string>
   <string name="username_title">Kullanıcı adı</string>
   <string name="vibrate_on_ring_title">Zil sesi çalarken titret</string>
-  <string name="vm_change_failed">Sesli mesaj numarası değiştirilemiyor.Eğer problem devam ederse operatörünüzle iletişime geçin.</string>
+  <string name="vm_change_failed">"Sesli mesaj numarası değiştirilemiyor.
+  Eğer problem devam ederse operatörünüzle iletişime geçin."</string>
   <string name="vm_changed">Sesli mesaj numarası değiştirildi.</string>
   <string name="voice_privacy">Ses gizliliği</string>
   <string name="voice_privacy_summary">Gelişmiş gizlilik modunu etkinleştir</string>
@@ -666,8 +681,10 @@
   <string name="voicemail_provider">Servis</string>
   <string name="voicemail_settings">Kurulum</string>
   <string name="voicemail_settings_number_label">Sesli mesaj numarası</string>
-  <string name="vt_init_fail_str">VT başlatma başarısız oldu. VoLTE çağrı dönüştürülüyor</string>
-  <string name="wait_prompt_str">Aşağıdaki tonları gönderilsin mi? </string>
+  <string name="vt_init_fail_str">"VT başlatma başarısız oldu. Çağrı VoLTEye dönüştürülüyor
+  "</string>
+  <string name="wait_prompt_str">"Aşağıdaki tonları gönderilsin mi? 
+  "</string>
   <string name="waiting_close_airplane_mode">Uçak modunun kapatılması bekleniyor ...</string>
   <string name="wild_prompt_str">Joker karakterini şununla değiştirin:</string>
 </resources>

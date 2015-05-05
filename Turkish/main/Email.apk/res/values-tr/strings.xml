@@ -76,6 +76,7 @@
   <string name="account_settings_sync_email_summary">E-postaları bu hesap için Senkronize et</string>
   <string name="account_settings_unsupported_label">Desteklenmeyen politikalar</string>
   <string name="account_settings_unsupported_summary">Yok</string>
+  <string name="account_settings_using_ringtone">Zil sesi</string>
   <string name="account_settings_vibrate_when_label">Titreşim</string>
   <string name="account_setup_account_type_headline">Hesap türü</string>
   <string name="account_setup_account_type_instructions">Bu ne tür bir hesap?</string>
@@ -424,6 +425,8 @@
   <string name="flow_saved_dlg_title">Veri kullanımını azalt</string>
   <string name="flow_saved_preference_total">Tasarruf: %1$s.</string>
   <string name="folder_icon_desc">Klasör simgesi</string>
+  <string name="folder_list_display_all">Tüm klasörleri göster</string>
+  <string name="folder_list_display_only_import">Sadece önemli klasörleri göster</string>
   <string name="folder_picker_title">Klasör seçici</string>
   <string name="folder_removed">%1$s \'den kaldırıldı</string>
   <string name="folder_shortcut_widget_label">E-posta klasörü</string>
@@ -467,6 +470,7 @@
   <string name="hint_quick_reply_all">Tümünü buradan yanıtla</string>
   <string name="ignore_spam_warning">Yoksay, ben bu mesaja güveniyorum</string>
   <string name="imap_name">IMAP</string>
+  <string name="imap_password_error">Gelen posta sunucusu şifresi hatalı!</string>
   <string name="inbox_folders_heading">Yerel klasörler</string>
   <string name="info">Bilgi</string>
   <string name="inline_picture_deleted">"Resim bulunamadı"</string>
@@ -622,11 +626,14 @@ CC: %4$s
   <string name="outbox_alert_button_resend">Tekrar gönder</string>
   <string name="outbox_alert_certificate_error">E-posta sertifikasını lütfen güncelleyin</string>
   <string name="outbox_alert_description_auth_error">Giden posta sunucusu açılamadı!</string>
+  <string name="outbox_alert_description_cannot_authenticate">%s posta sistem hatası</string>
   <string name="outbox_alert_description_http_error">HTTP sunucusu hatası!</string>
   <string name="outbox_alert_description_insufficient_storage_error">Posta sunucusunda yetersiz depolama</string>
   <string name="outbox_alert_description_provision_error">Sunucu hatası!</string>
+  <string name="outbox_alert_description_reject_by_server">%s tarafından engellendi</string>
   <string name="outbox_alert_description_sent_failed">"Neden:
   Ek boyutu limiti aşıyor"</string>
+  <string name="outbox_alert_description_time_out">Ağ bağlantısı hatası</string>
   <string name="outbox_alert_duplicate_click">"Sürekli tıklamayın, postalar senkronize ediliyor"</string>
   <string name="outbox_alert_edit_resend">Düzenle ve tekrar gönder</string>
   <string name="outbox_alert_failed_edit_resend">Gönderim başarısız, lütfen düzenleyin ve tekrar gönderin!</string>
@@ -818,6 +825,7 @@ CC: %4$s
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
+  <string name="smtp_password_error">Giden posta sunucusu şifresi hatalı!</string>
   <string name="sort_attachment">Sırala</string>
   <string name="status_network_error">Ağ bağlantısı hatası!</string>
   <string name="storage">Depolama</string>
