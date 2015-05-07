@@ -923,4 +923,12 @@
 	<item>Önbelleğe alınmış (istemci aktivitesi)</item>
 	<item>Önbelleğe alınmış (boş)</item>
 </string-array>
+ <string-array name="install_non_market_app_entries">
+	<item>Riskli uygulamalar için izin iste</item>
+	<item>İzin ver</item>
+</string-array>
+<string-array name="install_non_market_app_contents">
+	<item>İzin iste</item>
+	<item>İzin ver</item>
+</string-array>
 </resources>

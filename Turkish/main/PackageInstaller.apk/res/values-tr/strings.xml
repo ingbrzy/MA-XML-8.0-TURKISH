@@ -22,7 +22,7 @@
   Eski kullanıcı verileri kaydedilecektir."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) güncel sürümü, (%3$s) sürümünün yerine geçecek ve eski verilerinizi kaydedilecektir. Devam etmek istiyor musunuz?"</string>
   <string name="dlg_app_replacement_title">UYARI !</string>
-  <string name="dlg_ok">Tamam</string>
+  <string name="dlg_appstore_notice">Uygulamayı resmi marketten indirin</string>
   <string name="dlg_sys_app_replacement_statement">"Bu bir Sistem uygulamasıdır. Yine de değiştirmek istiyor musunuz?
   
   Eski kullanıcı verileri kaydedilecektir."</string>
@@ -44,6 +44,7 @@
   <string name="installing">Yükleniyor...</string>
   <string name="launch">Aç</string>
   <string name="lift_ban">Yasağı kaldır</string>
+  <string name="lift_ban_once">Bir kez izin ver</string>
   <string name="low_risk_perms">Düşük riskli izinler</string>
   <string name="manage_applications">Uygulamalarım</string>
   <string name="manage_device_administrators">Cihaz yöneticileri</string>
@@ -90,7 +91,7 @@
   <string name="uninstall_update_title">Güncellemeyi kaldır</string>
   <string name="uninstalling">Kaldırılıyor...</string>
   <string name="unknown">Bilinmeyen</string>
-  <string name="unknown_apps_dlg_text">"Güvenlik nedeni ile resmi olmayan uygulamalar yüklenemez. Yüklemek isterseniz yasağı kaldırmanız gerekir. Kaldırmak için; Ayarlar-&gt;Güvenlik-&gt;Bilinmeyen kaynaklar."</string>
+  <string name="unknown_apps_dlg_text">"Güvenlik nedeni ile resmi olmayan uygulamalar yüklenemez. Yüklemek isterseniz yasağı kaldırmanız gerekir. Kaldırmak için; Ayarlar-&gt;Güvenlik-&gt;Bilinmeyen kaynaklara göz atın..."</string>
   <string name="unknown_apps_dlg_title">Yükleme durduruldu!</string>
   <string name="unknown_installer">Bilinmeyen yükleyici!</string>
   <string name="virus_scan_caller_unknown">Bilinmeyen</string>

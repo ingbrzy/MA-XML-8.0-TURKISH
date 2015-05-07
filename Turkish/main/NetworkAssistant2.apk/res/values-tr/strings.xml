@@ -103,6 +103,8 @@
   <string name="firewall_fragment_sys_listempty">Boş</string>
   <string name="firewall_fragment_tab_title_nonsys">Yüklendi</string>
   <string name="firewall_fragment_tab_title_sys">Sistem</string>
+  <string name="firewall_network_restrict_notify_message">Ayarlar için dokunun</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s , %2$s ağına bağlanmasına izin verilmedi."</string>
   <string name="firewall_rule_group_title_mobile">Veri</string>
   <string name="firewall_rule_group_title_roaming">Uluslar arası dolaşım</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -349,6 +351,7 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="traffic_correction_start_correction">Operatörden kontrol ediliyor...</string>
   <string name="traffic_correction_start_correction_failed">İstek başarısız oldu, operatör ayarını kontrol edin</string>
   <string name="traffic_correction_success">Veri kullanım bilgileri güncellendi</string>
+  <string name="traffic_correction_success_notify_message">Detaylar için dokunun</string>
   <string name="traffic_limit_error_alert_body">"Operatörünüzün hesabına göre bu ay %1$s veriniz kaldı. Bu el ile ayarladığınız %2$s veri limitine göre daha fazla."</string>
   <string name="traffic_limit_error_alert_iknow">TAMAM</string>
   <string name="traffic_limit_error_alert_reset">Limiti sıfırla</string>

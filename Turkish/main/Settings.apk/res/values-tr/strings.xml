@@ -877,6 +877,8 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="input_settings">Giriş ayarları</string>
   <string name="install_all_warning">Telefonunuz ve kişisel verileriniz, bilinmeyen kaynaklardan gelen uygulamaların saldırılarına karşı daha savunmasızdır. Bu uygulamaları kullanmanız sonucunda telefonunuzun başına gelebilecek her tür hasardan ve veri kaybından yalnızca kendinizin sorumlu olduğunu kabul edersiniz.</string>
   <string name="install_applications">Bilinmeyen kaynaklar</string>
+  <string name="install_no_market_app_summary">Resmi Market dışındaki kaynaklardan uygulama kurulmasına izin verir</string>
+  <string name="install_no_market_app_title">Bilinmeyen Kaynaklar</string>
   <string name="install_preinstall_app">Uygulamalar yükleniyor…</string>
   <string name="install_text">Yükle</string>
   <string name="install_unknown_applications">Market dışı uygulamaların yüklenmesine izin ver</string>
@@ -1064,7 +1066,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="master_clear_accounts">"
 Şu anda aşağıdaki hesaplarda oturum açmış durumdasınız::
 "</string>
-  <string name="master_clear_all">"Tüm verileri silerek fabrika ayarlarına dönmek istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur"</string>
+  <string name="master_clear_all">"Tüm verileri silerek fabrika ayarlarına dönmek istediğinize emin misiniz? Bu işlemin geri dönüşü yoktur!!!"</string>
   <string name="master_clear_button_text">Telefonu sıfırla</string>
   <string name="master_clear_confirm_title">Sıfırlansın mı?</string>
   <string name="master_clear_desc">"Telefonunuzun dahili hafızasındaki şu veriler silinecek: Google hesaplarınız,Sistem uygulamaları ve ayarlarınız ve İndirilen uygulamalarınız"</string>
@@ -1210,7 +1212,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="only_when_charging">Sadece şarj olurken</string>
   <string name="open_wifi_connect_summary">Detayları görüntülemek için dokun</string>
   <string name="open_wifi_connect_title">%1$s ile bağlandı</string>
-  <string name="other_advanced_settings">Diğer ayarlar</string>
+  <string name="other_advanced_settings">Gelişmiş Ayarlar</string>
   <string name="other_personal_settings">Kişisel ayarlar</string>
   <string name="other_relative">Diğer yetkiler</string>
   <string name="overlay_display_devices_title">İkincil ekranları simüle et</string>
@@ -1366,7 +1368,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="radioInfo_service_out">Hizmet dışı</string>
   <string name="radioInfo_unknown">Bilinmiyor</string>
   <string name="radio_controls_summary">Wi-Fi, Bluetooth, uçak modu, mobil ağ ve VPN özelliklerini yönet</string>
-  <string name="radio_controls_title">Ek Ayarlar</string>
+  <string name="radio_controls_title">Diğer Bağlantı Ayarları</string>
   <string name="radio_info_band_mode_label">Radyo bandını seç</string>
   <string name="radio_info_call_redirect_label">Çağrı yeniden yönlendir:</string>
   <string name="radio_info_call_status_label">Çağrı durumu:</string>
@@ -1664,7 +1666,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="sound_category_sound_title">Genel</string>
   <string name="sound_category_system_title">Sistem</string>
   <string name="sound_effects_enable_title">Ekrana dokunma sesleri</string>
-  <string name="sound_settings">Ses ve Titreşim Ayarları</string>
+  <string name="sound_settings">Sesler ve Titreşim</string>
   <string name="spellchecker_language">Dil</string>
   <string name="spellchecker_quick_settings">Ayarlar</string>
   <string name="spellchecker_security_warning">Bu yazım denetleyici, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yazım denetleyici, %1$s uygulamasından gelmektedir. Bu yazım denetleyiciyi kullanmak istiyor musunuz?</string>
@@ -1682,22 +1684,22 @@ PIN kodu yanlış olabilir!"</string>
   <string name="status_bar_screen_key_home">Ana ekran tuşu</string>
   <string name="status_bar_screen_key_menu">Menü tuşu</string>
   <string name="status_bar_screen_key_recent_apps">Son uygulamalar tuşu</string>
-  <string name="status_bar_settings">Durum çubuğu</string>
+  <string name="status_bar_settings">Bildirimler</string>
   <string name="status_bar_settings_advanced">Ek ayarlar </string>
   <string name="status_bar_settings_all_app_display_loading">Yükleniyor...</string>
   <string name="status_bar_settings_basic_settings">Temel Ayarlar</string>
   <string name="status_bar_settings_carrier_sim">" SIM %1$s: "</string>
-  <string name="status_bar_settings_custom_carrier">Servis sağlayıcısı adını değiştir</string>
+  <string name="status_bar_settings_custom_carrier">Operatör adını değiştir</string>
   <string name="status_bar_settings_custom_notification">Bildirimleri yönet</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fi adını düzenle</string>
   <string name="status_bar_settings_enable_notification">Bildirimlere izin ver</string>
   <string name="status_bar_settings_expandable_under_keyguard">Kilit ekranında göster</string>
-  <string name="status_bar_settings_long_click_sort">Değiştirmek için uzun basın ve sürükleyin</string>
+  <string name="status_bar_settings_long_click_sort">Değiştirmek için basılı tutun ve sürükleyin</string>
   <string name="status_bar_settings_no_carrier">Hiçbiri</string>
-  <string name="status_bar_settings_notification_bar">Durum çubuğu</string>
+  <string name="status_bar_settings_notification_bar">Bildirim alanı</string>
   <string name="status_bar_settings_notification_led">Bildirim ışığı</string>
   <string name="status_bar_settings_notification_sound_vibrate">Ses ve titreşim</string>
-  <string name="status_bar_settings_show_carrier">Servis sağlayıcısını göster</string>
+  <string name="status_bar_settings_show_carrier">Operatör adını göster</string>
   <string name="status_bar_settings_show_carrier_summary">Sadece kilit ekranında göster</string>
   <string name="status_bar_settings_show_flow_info">Akış ayrıntılarını göster</string>
   <string name="status_bar_settings_show_home_message">Uygulama simgesini göster</string>
@@ -1706,7 +1708,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="status_bar_settings_show_network_speed">Bağlantı hızını göster</string>
   <string name="status_bar_settings_show_notificationBar_notification">Bildirim çubuğunda göster</string>
   <string name="status_bar_settings_show_notification_icon">Bildirim simgesini göster</string>
-  <string name="status_bar_settings_show_screenshot_notification">Ekran görüntüsü bildirimini göster</string>
+  <string name="status_bar_settings_show_screenshot_notification">Ekran görüntüsü bildimleri</string>
   <string name="status_bar_settings_show_statusBar_notification">Kayan bildirimleri göster</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Kayan bildirimleri kilit ekranında gösterir</string>
   <string name="status_bar_settings_show_wifi_name">Wi-Fi göster</string>
@@ -1714,7 +1716,7 @@ PIN kodu yanlış olabilir!"</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Tıklatınca kapat</string>
   <string name="status_bar_settings_toggle_layout_style">Düzenleme stilini değiştir</string>
   <string name="status_bar_settings_toggle_layout_style_applying">Stil değiştiriliyor...</string>
-  <string name="status_bar_settings_toggle_layout_style_compact">Durum çubuğu</string>
+  <string name="status_bar_settings_toggle_layout_style_compact">Çubuk</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Sayfa</string>
   <string name="status_bar_settings_toggle_position">Geçiş konumlarını değiştir</string>
   <string name="status_bar_style_settings">Bildirimler</string>
@@ -1981,9 +1983,9 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="volume_notification_description">Bildirimler</string>
   <string name="volume_notification_mute">Bildirimleri sustur</string>
   <string name="volume_restore">Ses ayarlarını varsayılana döndür</string>
-  <string name="volume_restore_alert">Tüm ses seviyeleri sıfırlanacak.</string>
+  <string name="volume_restore_alert">Tüm ses seviyeleri sıfırlanacak!</string>
   <string name="volume_ring_description">Zil ve bildirimler sesleri</string>
-  <string name="volume_ring_mute">Zil ve bildirimler seslerini sustur</string>
+  <string name="volume_ring_mute">Zil ve bildirim seslerini sustur</string>
   <string name="volume_system_description">Kamera, kilit ekranı ve sistem bildirimleri gibi sistem sesleri</string>
   <string name="volume_voice_description">Ses seviyesi</string>
   <string name="vpn_cancel">İptal</string>
@@ -2004,7 +2006,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wallpaper_live">Canlı duvar kağıdı</string>
   <string name="wallpaper_lockscreen">Kilit ekranı</string>
   <string name="wallpaper_settings_fragment_title">Duvar kağıdını şurdan seç:</string>
-  <string name="wallpaper_settings_title">Duvar kağıdı</string>
+  <string name="wallpaper_settings_title">Duvar Kağıdı</string>
   <string name="welcome">Hoşgeldiniz</string>
   <string name="wfd_available_devices">Kullanılabilir cihazlar</string>
   <string name="wfd_disconnect_diag_msg">Wi-Fi oturumunu kapatırsanız,%1$s bağlantısı sonlandırılacaktır.</string>
@@ -2621,11 +2623,11 @@ Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yard
 	<string name="mem_use_subtitle">Hafıza kullanımı</string>
 	<string name="mem_use_total">Toplam</string>
 	<string name="mem_use_zram_type">ZRam swap</string>
-	<string name="miui_allow_alarm">Alarma izin ver</string>
-	<string name="miui_allow_light">Işığa izin ver</string>
-	<string name="miui_allow_music">Müziğe izin ver</string>
-	<string name="miui_allow_vibrate">Titreşime izin ver</string>
-	<string name="miui_disturb_title">DND modunu aç</string>
+	<string name="miui_allow_alarm">Alarlar</string>
+	<string name="miui_allow_light">Bildirim ışığı</string>
+	<string name="miui_allow_music">Medya</string>
+	<string name="miui_allow_vibrate">Titreşim</string>
+	<string name="miui_disturb_title">Modu seçin</string>
 	<string name="miui_silent_title">Sessiz modu aç</string>
 	<string name="msim_sim_radio_off">Kapalı</string>
 	<string name="network_operators_settings">Şebeke operatörleri</string>
@@ -2931,11 +2933,11 @@ Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yard
 	<string name="zen_mode_from_starred">Sadece yıldızlı kişiler</string>
 	<string name="zen_mode_important_category">Öncelikli kesintiler</string>
 	<string name="zen_mode_messages">Mesajlar</string>
-	<string name="zen_mode_miui_disturb_category">DND modu</string>
-	<string name="zen_mode_miui_silent_category">Sessiz mod</string>
+	<string name="zen_mode_miui_disturb_category">MOD</string>
+	<string name="zen_mode_miui_silent_category">İzin ver</string>
 	<string name="zen_mode_option_important_interruptions">Sadece öncelikli kesintilere izin ver</string>
-	<string name="zen_mode_option_miui_silent">Miui kesme titreşimine izin ver</string>
-	<string name="zen_mode_option_miui_vibrate">DND</string>
+	<string name="zen_mode_option_miui_silent">Telefon sessiz</string>
+	<string name="zen_mode_option_miui_vibrate">Sadece öncelikli kesintilere izin ver</string>
 	<string name="zen_mode_option_no_interruptions">"Kesinti yapma"</string>
 	<string name="zen_mode_option_off">Herzaman kesinti yap</string>
 	<string name="zen_mode_option_title">Arama ve bildirim alındığında</string>
