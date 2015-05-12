@@ -234,6 +234,7 @@
   <string name="playlist_renamed_message">Oynatma listesi yeniden adlandırıldı</string>
   <string name="please_download_first">Bu şarkıyı zilsesi yapmandan önce indirmeniz gerekir.</string>
   <string name="please_search_or_select">Lütfen seçin ya da arayın</string>
+  <string name="preset_music_playlist">Mi Müzik Listesi</string>
   <string name="presonal_center">Hesap ayarları</string>
   <string name="priority_storage">Harici SD kart kullan</string>
   <string name="priority_storage_summary">İndirmeler SD karta otomatik kaydedilir</string>
@@ -266,6 +267,8 @@
   <string name="set_album_successful">Albüm kaydedildi</string>
   <string name="set_as_ring">Zilsesi yap</string>
   <string name="set_id3_failed">"Şarkı bilgisi kaydedilemedi!"</string>
+  <string name="set_id3_not_have_read_or_write_permission">"Bu dosyayı değiştirme yetkiniz yok!"</string>
+  <string name="set_id3_not_support_format">"Bu dosya biçimi düzenlenemez!"</string>
   <string name="set_id3_successful">Şarkı bilgisi kaydedildi</string>
   <string name="set_lyric_successful">Şarkı  sözü kaydedildi</string>
   <string name="set_ringtones_failed">"Zilsesi yapılamadı!"</string>

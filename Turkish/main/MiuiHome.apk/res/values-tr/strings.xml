@@ -55,6 +55,7 @@
   <string name="disable_auto_start_format">%s otomatik başlatmayı devre dışı bırak</string>
   <string name="disable_auto_start_message">Açılışta otomatik başlatmayı devre dışı bırak.</string>
   <string name="disable_wallpaper_scroll">Duvar kağıdını kaydırmayı kapat</string>
+  <string name="download_action">İndir</string>
   <string name="edit_folder_title">"Klasör ismini düzenle"</string>
   <string name="editing_add_widget_tips">Widgetleri düzenle</string>
   <string name="editing_mode_enter_tip_text">Ana ekranı düzenlemek için iki parmağınızla sıkıştırın</string>
@@ -130,6 +131,7 @@
   <string name="is_setting_wallpaper_toast">Duvar kağıdınız ayarlanıyor…</string>
   <string name="is_system_wallpaper_message">"Sistem kaynakları silinemez!"</string>
   <string name="loading_desktop">Miui Başlatıcı Yükleniyor...</string>
+  <string name="loading_wallpaper">Lütfen bekleyin…</string>
   <string name="local_wallpaper">Yerel</string>
   <string name="lock_screen_failed_message">"Duvar kağıdı ayarlanamadı!"</string>
   <string name="lock_screen_success_message">Duvar kağıdınız başarıyla ayarlandı</string>

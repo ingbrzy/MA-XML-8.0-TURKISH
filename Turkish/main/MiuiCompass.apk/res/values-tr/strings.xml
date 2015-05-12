@@ -24,6 +24,8 @@
   <string name="direction_south_west">GB</string>
   <string name="direction_west">B</string>
   <string name="do_not_show_next_time">"Tekrar gösterme"</string>
+  <string name="first_using_dialog_message">"Pusula uygulamasının doğru çalışması için cihazınızın ağ bağlantısını, kamera ve konum servislerini kullanması gerekiyor."</string>
+  <string name="first_using_dialog_title">Erişim İzni</string>
   <string name="getting_location">Konumunuz alınıyor...</string>
   <string name="guide_toast">Pusulayı kalibre etmek için yukarıdaki hareketli resime göre telefonunuzu hareket ettirin</string>
   <string name="latitude">ENLEM</string>
@@ -45,7 +47,5 @@
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Kalibrasyon için sallayın</string>
   <string name="using_camera_confirm_cancel">İptal</string>
-  <string name="using_camera_confirm_message">Pusula uygulaması, bazı  fonksiyonların düzgün çalışması için cihazınızın kamerasını kullanabilir.</string>
   <string name="using_camera_confirm_ok">TAMAM</string>
-  <string name="using_camera_confirm_title">Kamera Erişimi</string>
 </resources>
