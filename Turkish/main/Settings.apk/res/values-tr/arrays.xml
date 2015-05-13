@@ -931,4 +931,12 @@
 	<item>İzin iste</item>
 	<item>İzin ver</item>
 </string-array>
+<string-array name="lock_screen_secure_after_timeout_entries">
+	<item>Hemen</item>
+	<item>1 dakika</item>
+	<item>2 dakika</item>
+	<item>5 dakika</item>
+	<item>15 dakika</item>
+	<item>30 dakika</item>
+</string-array>
 </resources>

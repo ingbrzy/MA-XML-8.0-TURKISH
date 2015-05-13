@@ -430,6 +430,9 @@
   <string name="search_setting_description">Mesajlarınızdaki metin</string>
   <string name="search_show_more_results">Daha fazla göster</string>
   <string name="secs">saniye</string>
+  <string name="security_alert_desc">"Gönderen kişiler listenizde yok. Numarayı raporlayın.</string>
+  <string name="security_alert_dialog_desc">Bu numarayı raporlayın (%s) ve mesajı incelenmesi için bize gönderin.</string>
+  <string name="security_alert_dialog_title">Raporla</string>
   <string name="select_audio">Ses seçin</string>
   <string name="select_bottom_text">Metin altta</string>
   <string name="select_copy_text">Mesaj metnini kopyala</string>
@@ -493,6 +496,8 @@
   <string name="status_read">Oku</string>
   <string name="status_received">Alındı</string>
   <string name="status_rejected">Reddedildi</string>
+  <string name="sms_report_failed">"Rapor gönderilemedi!"</string>
+  <string name="sms_report_success">Rapor iletildi</string>
   <string name="status_unread">Okunmamış</string>
   <string name="stick">İğnele</string>
   <string name="stick_conversation">Geçerli sohbeti iğnele</string>

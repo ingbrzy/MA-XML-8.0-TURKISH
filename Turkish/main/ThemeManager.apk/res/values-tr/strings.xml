@@ -281,7 +281,7 @@
   <string name="theme_component_title_boot_audio">Açılış Sesi</string>
   <string name="theme_component_title_clock">Saat Stili</string>
   <string name="theme_component_title_contact">Tuş Takımı Stili</string>
-  <string name="theme_component_title_font">Yazı Tipleri</string>
+  <string name="theme_component_title_font">Yazı Tipi</string>
   <string name="theme_component_title_framework">Çerçeveler</string>
   <string name="theme_component_title_icon">Simgeler</string>
   <string name="theme_component_title_launcher">Ev Ekranı Stili</string>
@@ -308,6 +308,8 @@
   <string name="theme_fresh_man_notifaction">Yeni temalar mevcut</string>
   <string name="theme_immediately_apply_tip">Tema güncellendi, şimdi uygulamak istiyor musunuz?</string>
   <string name="theme_import_from_sdcard">Temayı Hafızadan Yükle</string>
+  <string name="theme_is_external_priority_storage">Harici depolamay yükle</string>
+  <string name="theme_is_external_priority_storage_summary">Ayarlarınızın, Temalar uygulamasını tekrar başlatınca etkinleşecektir.</string>
   <string name="theme_multiple_button_title_customize">Özelleştir</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Hayır</string>

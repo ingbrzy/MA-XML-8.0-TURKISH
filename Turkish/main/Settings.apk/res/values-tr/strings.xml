@@ -2596,6 +2596,9 @@ Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yard
 	<string name="lock_screen_notifications_summary_hide">Hassas bildirim içeriğini gizle</string>
 	<string name="lock_screen_notifications_summary_show">Tüm bildirim içeriğini göster</string>
 	<string name="lock_screen_notifications_title">Cihaz kilitliyken</string>
+	<string name="lock_screen_secure_after_timeout_immediately_summary">Hemen şifre iste</string>
+    <string name="lock_screen_secure_after_timeout_summary">%1$s içinde şifre iste</string>
+    <string name="lock_screen_secure_after_timeout_title">Şifre iste</string>
 	<string name="lockpassword_pin_no_sequential_digits">Artan, azalan ve rakamlardan tekrarlanan diziler kullanılamaz</string>
 	<string name="lockpattern_settings_power_button_instantly_locks_summary">%1$s tarafından kilit açılır</string>
 	<string name="macaddr_label">MAC addr:</string>

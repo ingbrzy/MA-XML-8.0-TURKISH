@@ -316,6 +316,13 @@
   <string name="confirm_send_message_with_no_subject">"Mesaj başlığında herhangi bir metin yok."</string>
   <string name="confirm_send_title">Mesaj gönderilsin mi?</string>
   <string name="contact_content_provider">Contact Content Provider</string>
+  <string name="contact_edit_set_black_list">Kara listeyi ayarla</string>
+  <string name="contact_edit_set_phone_contact">Telefon kişilerini düzenle</string>
+  <string name="contact_edit_set_pop_up_tips">Açılır pencere ipuçları</string>
+  <string name="contact_edit_set_unread_top">Okunmamış postaları önce göster</string>
+  <string name="contact_edit_set_vip">VIP ayarla</string>
+  <string name="contact_edit_title_permission">"Kişiler izinleri"</string>
+  <string name="contact_edit_title_phone_contact">Telefon kişileri listesi</string>
   <string name="contact_info_string">%1$s kişi bilgilerini göster</string>
   <string name="contact_info_string_default">Kişi bilgilerini göster</string>
   <string name="contact_list_add_btn">Ekle</string>
@@ -735,6 +742,8 @@ CC: %4$s
   <string name="quick_responses_empty_view">Hızlı cevap yok.</string>
   <string name="quoted_text">Alıntı metni içeriyor</string>
   <string name="quoted_text_label">Alıntı metni</string>
+  <string name="re_download_message_button">Tekrar indirmek için dokunun</string>
+  <string name="re_download_message_info">İndirme başarısız</string>
   <string name="read_string">Sohbet okundu</string>
   <string name="recent_folders_heading">Sık kullanılan klasörler</string>
   <string name="recipient_needed">En az bir alıcı ekleyin.</string>
