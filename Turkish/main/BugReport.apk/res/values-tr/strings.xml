@@ -59,8 +59,8 @@
   <string name="loading_problem_list">Liste yükleniyor…</string>
   <string name="menu_attach_screenshot">Ekran Görüntüsü Ekle</string>
   <string name="menu_copy">Kopyala</string>
-  <string name="menu_discard">Taslağı İptal Et</string>
-  <string name="network_err">"Bağlantı hatası. Bağlantınızı kontrol ederek tekrar deneyiniz."</string>
+  <string name="network_disconnected">"Ağ bağlantısı yok!"</string>
+  <string name="network_err">"Ağ bağlantısı yok!"</string>
   <string name="network_unavailable_dialog_button_ok">Tamam</string>
   <string name="network_unavailable_dialog_content">"Bir ağa bağlanılamıyor. Mesajınız etkin bir veri servisine bağlanıldığında gönderilecektir."</string>
   <string name="network_unavailable_dialog_title">"Bir ağa bağlı olduğunuzdan emin olun"</string>
