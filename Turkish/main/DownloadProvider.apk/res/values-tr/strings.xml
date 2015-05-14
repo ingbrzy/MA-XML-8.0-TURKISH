@@ -23,6 +23,8 @@
   <string name="notif_title_single_downloading">İndiriliyor :%1$s</string>
   <string name="notification_download_complete">İndirme tamamlandı</string>
   <string name="notification_download_failed">İndirme işlemi başarısız!</string>
+  <string name="notification_download_failed_more">%1$d indirme başarısız!</string>
+  <string name="notification_download_success_more">%1$d indirme başarılı</string>
   <string name="notification_need_wifi_for_size">Dosyanın büyüklüğü göz önüne alındığında Wi-Fi ile indirmeniz tavsiye edilir</string>
   <string name="notification_paused_in_background">Arka planda bekletiliyor</string>
   <string name="paused_waiting_for_network">Ağ bağlantısı bekleniyor</string>
