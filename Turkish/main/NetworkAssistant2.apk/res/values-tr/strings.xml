@@ -15,7 +15,7 @@
   <string name="app_detail">Ayrıntılar</string>
   <string name="app_mobile">Veri</string>
   <string name="app_name">Veri kullanımı</string>
-  <string name="app_version">Versiyon</string>
+  <string name="app_version">Sürüm</string>
   <string name="app_wifi">Wi-Fi</string>
   <string name="background_traffic">Arka plan %s</string>
   <string name="begin_date">Mobil Veri yenilenme tarihi</string>
@@ -134,7 +134,7 @@
   <string name="list_empty_text">Boş</string>
   <string name="load_fail">"Yüklenemedi!"</string>
   <string name="local_ip_exception_summary">"Yerel IP adresi alınamadı. MIUI Hata Bildirimi uygulaması ile bu sorunu bize iletebilirsiniz..."</string>
-  <string name="lock_screen_setting_summary">Ekran kilitli iken en az 2 gün içinde 100KB kullanımdan sonra bildirim göster</string>
+  <string name="lock_screen_setting_summary">En az 2 gün içinde 100KB kullanımdan sonra bildirim göster</string>
   <string name="lock_screen_traffic_guide_notification_summary">Ekran kilitli iken mobil veri kullanımı.</string>
   <string name="lock_screen_traffic_guide_notification_title">%s veri kullanıldı</string>
   <string name="lock_screen_traffic_notify_body">Ekran Kilitli: %1$s - %2$s, %3$s veri kullanıldı</string>
@@ -301,7 +301,7 @@ Yönlendiricinizin ethernet kablosunu değiştirin. Evinizdeki diğer bağlantı
   <string name="pref_title_mobile_traffic">Uyku sırasında veri tüketimini göster</string>
   <string name="pref_title_network_diagnostics">Ağ tanımlama</string>
   <string name="pref_title_over_traffic_limit_warning">Limiti aşınca mobil veriyi kapat</string>
-  <string name="pref_title_traffic_limit_number">Boyut</string>
+  <string name="pref_title_traffic_limit_number">Günlük limit</string>
   <string name="pref_title_traffic_speed_state">Ağ hızını göster</string>
   <string name="pref_title_update_notification">Veri kullanımını göster</string>
   <string name="pref_traffic_saving_issue">SSS</string>
@@ -448,7 +448,7 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="traffic_saving_whitelist_btn_remove">Kaldır</string>
   <string name="traffic_saving_whitelist_btn_removed">Uygulama listeden kaldırıldı</string>
   <string name="traffic_saving_whitelist_no_app">Uygulama yok</string>
-  <string name="traffic_setting_app_count">%d apps</string>
+  <string name="traffic_setting_app_count">%d uygulama</string>
   <string name="traffic_setting_completed">TAMAM</string>
   <string name="traffic_setting_daily_limit_summary">Veri kullanım limitini ayarla</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Veri planı ve kullanım limitini ayarlayın</string>
