@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alphabet">Alfabe</string>
   <string name="app_name">SIM Araç Kiti</string>
@@ -24,6 +24,6 @@
   <string name="stk_dialog_accept">EVET</string>
   <string name="stk_dialog_reject">HAYIR</string>
   <string name="stk_dialog_title">SIM Araç Kiti</string>
-  <string name="stk_no_service">Servis Yok</string>
   <string name="stk_intent_permission">STK hizmetlerine izin ver</string>
+  <string name="stk_no_service">Servis Yok</string>
 </resources>

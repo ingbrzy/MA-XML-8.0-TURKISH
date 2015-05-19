@@ -179,7 +179,7 @@
   <string name="lyric">Şarkı sözleri</string>
   <string name="lyric_is_empty">Şarkı sözleri boş ya da kullanılmıyor!</string>
   <string name="lyric_open_other_connect">Mobil ağ ile şarkı sözlerini indir</string>
-   <string name="lyric_setting">Şarkı sözü ayarları</string>
+  <string name="lyric_setting">Şarkı sözü ayarları</string>
   <string name="max_sleep_time">90</string>
   <string name="metered_alert">Mobil veri uyarısı</string>
   <string name="metered_alert_msg">Müzik dinlemek için veri bağlantınızı kullanmanız veri kullanımınızı önemli miktarda arttıracaktır. Operatörünüzün paket limitini geçmemeye dikkat edin. Aksi taktirde ekstra ücretlendirmeyle karşılaşabilirsiniz.</string>
@@ -309,13 +309,13 @@
   <string name="trigger_to_scan_media_library_start">Yenileniyor...</string>
   <string name="ultra_high_quality">En yüksek</string>
   <string name="unknown_album_name">Bilinmeyen albüm</string>
+  <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="upgrade_force">"Telif hakları nedeni ile online akış hizmetini durduruyoruz. Kaliteli müzik dinlemek için Müzik uygulamasını güncelleyin."</string>
   <string name="upgrade_immediate">Şimdi Güncelle</string>
   <string name="upgrade_nobeta">"Telif hakkı sorunları çözülene kadar online akış hizmetini durduruyoruz. Rahatsızlıktan dolayı özür dileriz :("</string>
   <string name="upgrade_remind">Güncelleme var</string>
   <string name="upgrade_suggest">"Telif hakları nedeni ile online akış hizmetini durduruyoruz. Kaliteli müzik dinlemek için Müzik uygulamasını güncelleyin."</string>
   <string name="upgrade_waringing">"Sadece cihazınızda depolanan müzikleri çevrimdışı dinlemeniz mümkün olacaktır."</string>
-  <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="valid_period">"Geçerlilik: "</string>
   <string name="vip_recommend_title">Yüksek kaliteli müzik alın</string>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_bluetooth_headset_selected">Bluetooth kulaklık seçildi</string>
   <string name="accept_modify_call_request_prompt">Değiştirilmiş arama kabul edilsin mi?</string>
+  <string name="accessibility_bluetooth_headset_selected">Bluetooth kulaklık seçildi</string>
   <string name="accessibility_call_muted">Telefon sessiz.</string>
   <string name="accessibility_call_put_on_hold">Çağrı beklemede</string>
   <string name="accessibility_call_removed_from_hold">Çağrı beklemeden kaldırıldı</string>
@@ -93,8 +93,8 @@
   <string name="call_title_redialing_with_times">%d defa tekrar arandı</string>
   <string name="caller_manage_header">Konferans araması %s</string>
   <string name="calling_via_template">%s ile aranıyor</string>
-  <string name="card_title_call_ended">"Arama sona erdi "</string>
   <string name="cancel">İptal</string>
+  <string name="card_title_call_ended">"Arama sona erdi "</string>
   <string name="card_title_callback_number">"Geri arama numaranız
   %1$s"</string>
   <string name="card_title_callback_number_emergency">"Acil geri arama numaranız
@@ -152,7 +152,7 @@
   <string name="description_direction_down">%s için sola kaydır.</string>
   <string name="description_direction_down_left">Aşağı sol</string>
   <string name="description_direction_down_right">Aşağı sağ</string>
- <string name="description_direction_left">%s için sola kaydır.</string>
+  <string name="description_direction_left">%s için sola kaydır.</string>
   <string name="description_direction_right">%s için sağa kaydır.</string>
   <string name="description_direction_up">%s için yukarı kaydır.</string>
   <string name="description_direction_up_left">Yukarı sol</string>
@@ -425,8 +425,8 @@
   <string name="onscreenVideoCallText">Görüntülü arama</string>
   <string name="onscreen_add_call_text">Çağrı ekle</string>
   <string name="onscreen_audio_mode">Kullanarak cevapla</string>
-  <string name="onscreen_audio_mode_conference">Konferans</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
+  <string name="onscreen_audio_mode_conference">Konferans</string>
   <string name="onscreen_audio_mode_handset">Eller serbest</string>
   <string name="onscreen_audio_mode_headset">Kulaklık</string>
   <string name="onscreen_audio_mode_speaker">Hoparlör</string>
@@ -550,9 +550,9 @@
   <string name="respond_via_sms_canned_response_4">Şu anda müsait değilim. Sonra konuşsak olur mu?</string>
   <string name="respond_via_sms_confirmation_format">%s kişiye mesaj gönderildi.</string>
   <string name="respond_via_sms_custom_message">Kendiniz yazın...</string>
-  <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_edittext_dialog_title">Çabuk cevap</string>
   <string name="respond_via_sms_menu_reset_default_activity">Varsayılan uygulamayı sıfırla</string>
+  <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Çabuk cevaplar</string>
   <string name="respond_via_sms_setting_title_2">Çabuk cevapları düzenle</string>
   <string name="response_error">Ağdan beklenmedik yanıt.</string>
@@ -589,13 +589,13 @@
   <string name="sip_account_list">SIP hesapları</string>
   <string name="sip_accounts">İnternet arama (SIP) hesapları</string>
   <string name="sip_accounts_title">Hesaplar</string>
+  <string name="sip_always_send_keepalive">Always send</string>
   <string name="sip_call_options_entry_1">Veri ağı ulaşılabilir olduğunda bütün aramalar için</string>
   <string name="sip_call_options_entry_2">Sadece internet aramaları için</string>
   <string name="sip_call_options_entry_3">Her arama için sor</string>
   <string name="sip_call_options_title">İnternet aramasını kullan</string>
   <string name="sip_call_options_wifi_only_entry_1">Bütün aramalar için</string>
   <string name="sip_call_options_wifi_only_title">İnternet aramasını kullan (sadece Wi-Fi)</string>
-  <string name="sip_always_send_keepalive">Always send</string>
   <string name="sip_edit_new_title">SIP hesap detayları</string>
   <string name="sip_edit_title">SIP hesap detayları</string>
   <string name="sip_menu_add">Ekle</string>

@@ -178,7 +178,7 @@ Kapatmak ister misiniz?"</string>
   <string name="day_picker_description">Günler için ay kılavuzu</string>
   <string name="days">gün</string>
   <string name="decline">Reddet</string>
-   <string name="def_custom_sys_alarm"/>
+  <string name="def_custom_sys_alarm"/>
   <string name="def_custom_sys_mms"/>
   <string name="def_custom_sys_notification"/>
   <string name="def_custom_sys_ringtone"/>
@@ -186,7 +186,7 @@ Kapatmak ister misiniz?"</string>
   <string name="def_custom_sys_ringtone3"/>
   <string name="def_wifi_direct_name"/>
   <string name="def_wifi_wifihotspot_pass"/>
- <string name="def_wifi_wifihotspot_ssid"/>
+  <string name="def_wifi_wifihotspot_ssid"/>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Sesli Mesaj</string>
   <string name="default_audio_route_category_name">Sistem</string>
@@ -214,17 +214,17 @@ Kapatmak ister misiniz?"</string>
   <string name="done_label">TAMAM</string>
   <string name="double_tap_toast">İpucu: Yakınlaştırmak ve uzaklaştırmak için iki kez hafifçe dokunun.</string>
   <string name="downtime_condition_summary">Bitiş zamanı: %1$s</string>
-   <string name="durationDayHour">%1$d gün %2$d saat</string>
-   <string name="durationDayHours">%1$d gün %2$d saat</string>
-   <string name="durationDays">%1$d gün</string>
-   <string name="durationHourMinute">%1$d saat %2$d dak</string>
-   <string name="durationHourMinutes">%1$d saat %2$d dak</string>
-   <string name="durationHours">%1$d saat</string>
-   <string name="durationMinuteSecond">%1$d dak %2$d san</string>
-   <string name="durationMinuteSeconds">%1$d dak %2$d san</string>
-   <string name="durationMinutes">%1$d dak</string>
-   <string name="durationSecond">%1$d san</string>
- <string name="durationSeconds">%1$d san</string>
+  <string name="durationDayHour">%1$d gün %2$d saat</string>
+  <string name="durationDayHours">%1$d gün %2$d saat</string>
+  <string name="durationDays">%1$d gün</string>
+  <string name="durationHourMinute">%1$d saat %2$d dak</string>
+  <string name="durationHourMinutes">%1$d saat %2$d dak</string>
+  <string name="durationHours">%1$d saat</string>
+  <string name="durationMinuteSecond">%1$d dak %2$d san</string>
+  <string name="durationMinuteSeconds">%1$d dak %2$d san</string>
+  <string name="durationMinutes">%1$d dak</string>
+  <string name="durationSecond">%1$d san</string>
+  <string name="durationSeconds">%1$d san</string>
   <string name="editTextMenuTitle">Metin eylemleri</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
@@ -470,19 +470,19 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="lock_to_app_description">"Ekranı İğneleme tek bir görünümde ekranı kilitler.
  
  Geri almak için, geri ve genel bakışa aynı anda basılı tutun."</string>
-   <string name="lock_to_app_description_accessible">"Ekranı İğneleme tek bir görünümde ekranı kilitler.
+  <string name="lock_to_app_description_accessible">"Ekranı İğneleme tek bir görünümde ekranı kilitler.
  
 Geri almak için, genel bakışa basılı tutun."</string>
-   <string name="lock_to_app_exit">Ekran iğnesi kaldırıldı</string>
-   <string name="lock_to_app_negative">Hayır, Teşekkürler...</string>
-   <string name="lock_to_app_positive">Başlat</string>
-   <string name="lock_to_app_start">Ekran iğnelendi</string>
-   <string name="lock_to_app_title">Ekran iğneleme kullanıldın mı?</string>
-   <string name="lock_to_app_toast">İğneyi kaldırmak için, geri ve genel bakışa aynı anda basılı tutun..</string>
-   <string name="lock_to_app_toast_accessible">İğneyi kaldırmak için, genel bakışa basılı tutun.</string>
-   <string name="lock_to_app_toast_locked">"Ekran iğnelendi"</string>
-   <string name="lock_to_app_unlock_password">İğneyi kaldırmadan önce şifre sor</string>
-   <string name="lock_to_app_unlock_pattern">İğneyi kaldırmadan önce desen iste</string>
+  <string name="lock_to_app_exit">Ekran iğnesi kaldırıldı</string>
+  <string name="lock_to_app_negative">Hayır, Teşekkürler...</string>
+  <string name="lock_to_app_positive">Başlat</string>
+  <string name="lock_to_app_start">Ekran iğnelendi</string>
+  <string name="lock_to_app_title">Ekran iğneleme kullanıldın mı?</string>
+  <string name="lock_to_app_toast">İğneyi kaldırmak için, geri ve genel bakışa aynı anda basılı tutun..</string>
+  <string name="lock_to_app_toast_accessible">İğneyi kaldırmak için, genel bakışa basılı tutun.</string>
+  <string name="lock_to_app_toast_locked">"Ekran iğnelendi"</string>
+  <string name="lock_to_app_unlock_password">İğneyi kaldırmadan önce şifre sor</string>
+  <string name="lock_to_app_unlock_pattern">İğneyi kaldırmadan önce desen iste</string>
   <string name="lock_to_app_unlock_pin">İğneyi kaldırmadan önce PIN iste</string>
   <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
@@ -1465,8 +1465,8 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
   <string name="usb_storage_stop_notification_title">USB belleği kapat</string>
   <string name="usb_storage_stop_title">USB bellek kullanılıyor</string>
   <string name="usb_storage_title">USB bağlandı</string>
-  <string name="use_physical_keyboard">Fiziksel klavye</string>
   <string name="use_a_different_app">Farklı uygulama kullan</string>
+  <string name="use_physical_keyboard">Fiziksel klavye</string>
   <string name="user_owner_label">Kişisel uygulamalar</string>
   <string name="user_switched">Geçerli kullanıcı: %1$s.</string>
   <string name="user_switching_message">Şu kullanıcıya geçiliyor %1$s…</string>
@@ -1502,13 +1502,13 @@ Kapatmak ister misiniz?"</string>
   <string name="week">hafta</string>
   <string name="weeks">hafta</string>
   <string name="whichApplication">İşlemi şunu kullanarak tamamla</string>
-  <string name="whichHomeApplication">Ana ekran uygulaması seçin</string>
   <string name="whichApplicationNamed">%1$s ile eylemi tamamla</string>
-   <string name="whichEditApplication">Şununla düzenle</string>
-   <string name="whichEditApplicationNamed">%1$s ile düzenle</string>
-   <string name="whichHomeApplicationNamed">%1$s ev olarak kullan</string>
-   <string name="whichSendApplication">Şununla paylaş</string>
-   <string name="whichSendApplicationNamed">%1$s ile paylaş</string>
+  <string name="whichEditApplication">Şununla düzenle</string>
+  <string name="whichEditApplicationNamed">%1$s ile düzenle</string>
+  <string name="whichHomeApplication">Ana ekran uygulaması seçin</string>
+  <string name="whichHomeApplicationNamed">%1$s ev olarak kullan</string>
+  <string name="whichSendApplication">Şununla paylaş</string>
+  <string name="whichSendApplicationNamed">%1$s ile paylaş</string>
   <string name="whichViewApplication">Şununla aç</string>
   <string name="whichViewApplicationNamed">%1$s ile aç</string>
   <string name="wifi_available_sign_in">Kablosuz ağda oturum açın</string>

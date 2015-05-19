@@ -79,8 +79,8 @@
   <string name="datastream_alert_download">Videoları mobil veri ile indirmek, veri kullanımını artıracaktır.Veri limitinizin üzerine çıktığınızda operatörünüz size ek ücretler uygulayabilir!</string>
   <string name="datastream_alert_hint">Veri kullanım bildirimlerini ayarlardan kapatabilirsiniz.</string>
   <string name="datastream_alert_negative_button">İptal</string>
-  <string name="datastream_alert_positive_button">Devam</string>
   <string name="datastream_alert_play">Video izlemek için mobil veri kullanmanız, çok fazla veri tüketimine neden olacaktır.</string>
+  <string name="datastream_alert_positive_button">Devam</string>
   <string name="datastream_alert_title">Veri kullanım uyarısı</string>
   <string name="day">Gün</string>
   <string name="debug_mode">Hata ayıklama modu</string>
@@ -159,10 +159,10 @@
   <string name="install_comfirm">Yüklemek için dokunun</string>
   <string name="install_plugin">Eklentiyi yükle</string>
   <string name="introduce">Özet</string>
-  <string name="join_alert_title">Dahili teste katıl</string>
-  <string name="join_hint">Kodu girin</string>
   <string name="japank">Japon TV</string>
   <string name="ji">Bölüm</string>
+  <string name="join_alert_title">Dahili teste katıl</string>
+  <string name="join_hint">Kodu girin</string>
   <string name="key_back_down_toast">Çıkmak için tekrar dokun</string>
   <string name="lastrefresh">Son güncelleme:</string>
   <string name="lekan">Lekan</string>
@@ -181,7 +181,7 @@
   <string name="menu_item_disable_audio_enhance">Ses zenginleştiriciyi devre dışı bırak</string>
   <string name="menu_item_enable_audio_enhance">Ses zenginleştiriciyi etkinleştir</string>
   <string name="menu_name">Menü</string>
-   <string name="mine_info_account_summary_none">Giriş yapılmadı</string>
+  <string name="mine_info_account_summary_none">Giriş yapılmadı</string>
   <string name="mine_info_account_title">Hesap bilgileri</string>
   <string name="minute"> Dakika</string>
   <string name="mipush_setting">İçerik bildirimleri</string>
@@ -224,8 +224,8 @@
   <string name="ok">Tamam</string>
   <string name="online_video">Online</string>
   <string name="online_video_oneweek">Geçen hafta boyunca</string>
-   <string name="online_video_oneweek_ago">1 hafta önce</string>
-   <string name="operator_test">Operatör ayarları</string>
+  <string name="online_video_oneweek_ago">1 hafta önce</string>
+  <string name="operator_test">Operatör ayarları</string>
   <string name="operator_test_summary">Operatör moduna gir</string>
   <string name="other_setting">Diğer Ayarlar</string>
   <string name="pause">Duraklat</string>
@@ -274,7 +274,7 @@
   <string name="select_tv_empty_hint">Kanal yok</string>
   <string name="select_tvs">Bir kanal seçin</string>
   <string name="send">Gönder</string>
- <string name="server_summary">Servis sunucusunu seçin</string>
+  <string name="server_summary">Servis sunucusunu seçin</string>
   <string name="server_switch">Sunucu</string>
   <string name="setting">Ayarlar</string>
   <string name="share">Paylaş</string>
@@ -308,9 +308,9 @@
   <string name="total_episode">%1$s Bölüm</string>
   <string name="tudou">Tudou</string>
   <string name="tv_channel_empty_hint">Kanal yok</string>
+  <string name="type_colon">Tür:</string>
   <string name="ui_style">Arayüz stili</string>
   <string name="ui_style_summary">Varsayılan liste görünümü</string>
-  <string name="type_colon">Tür:</string>
   <string name="unfavorite">Favorilerden çıkar</string>
   <string name="unknown_source">Bilinmeyen kaynak</string>
   <string name="update">Güncellendi</string>
@@ -328,7 +328,7 @@
   <string name="version_select">Sürüm seç</string>
   <string name="version_select_summary">Alfa, geliştirme ya da stabil sürümü seçin</string>
   <string name="video">Video</string>
-   <string name="video_app_update">Güncelle</string>
+  <string name="video_app_update">Güncelle</string>
   <string name="video_bbs">Katıl</string>
   <string name="video_bbs_url">Uygulama gelişimine yardımcı olun</string>
   <string name="video_count">%d video</string>
@@ -340,7 +340,7 @@
   <string name="video_info_resolution_label">Video Çözünürlüğü:</string>
   <string name="video_info_video_coding_label">Video kodlama biçimi: </string>
   <string name="video_plugin">Video eklentisi</string>
-   <string name="video_plugin_downloading">İndiriliyor...</string>
+  <string name="video_plugin_downloading">İndiriliyor...</string>
   <string name="video_plugin_prepare">Eklenti hazırlanırken bekleyin...</string>
   <string name="vp_VideoView_error_button">Tamam</string>
   <string name="vp_VideoView_error_network_not_available">Ağa bağlanılamadı</string>

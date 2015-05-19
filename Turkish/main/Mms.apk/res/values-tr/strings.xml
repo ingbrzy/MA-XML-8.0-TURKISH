@@ -481,6 +481,8 @@
   <string name="sms_full_title">Metin mesaj hafızası dolu</string>
   <string name="sms_rejected_body">Gelen bir mesaj bilinmeyen bir nedenden dolayı  reddedildi.</string>
   <string name="sms_rejected_title">Kısa mesaj reddedildi</string>
+  <string name="sms_report_failed">"Rapor gönderilemedi!"</string>
+  <string name="sms_report_success">Rapor iletildi</string>
   <string name="snippet_audio">[ses]</string>
   <string name="snippet_picture">[resim]</string>
   <string name="sp_category_all">Tüm servis mesajları</string>
@@ -496,8 +498,6 @@
   <string name="status_read">Oku</string>
   <string name="status_received">Alındı</string>
   <string name="status_rejected">Reddedildi</string>
-  <string name="sms_report_failed">"Rapor gönderilemedi!"</string>
-  <string name="sms_report_success">Rapor iletildi</string>
   <string name="status_unread">Okunmamış</string>
   <string name="stick">İğnele</string>
   <string name="stick_conversation">Geçerli sohbeti iğnele</string>

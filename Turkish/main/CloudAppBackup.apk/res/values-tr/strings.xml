@@ -22,8 +22,8 @@
   <string name="button_return">Geri</string>
   <string name="button_stop">Durdur</string>
   <string name="cancel_recover_settings">İPTAL</string>
-  <string name="cloud_app_backup_already">" yedeklenmiş"</string>
   <string name="check_fail">Kontrol etme başarısız</string>
+  <string name="cloud_app_backup_already">" yedeklenmiş"</string>
   <string name="cloud_app_backup_cancel">Yedekleme iptal ediliyor...</string>
   <string name="cloud_app_backup_cancel_prompt_message">Yedekleme tamamlanmadı, yine de iptal et?</string>
   <string name="cloud_app_backup_cancel_prompt_title">Yedeklemeyi durdur</string>
@@ -96,8 +96,8 @@
   <string name="dialog_disable_backup">"Bu uygulama yedeklenmeyecek"</string>
   <string name="dialog_prompt_stop_backup">Yedekleme durdurulsun mu?</string>
   <string name="disable_backup">Kapat</string>
-  <string name="download_settings">Ana Ekran ayarlarını indir</string>
   <string name="dont_backup">Yedekleme</string>
+  <string name="download_settings">Ana Ekran ayarlarını indir</string>
   <string name="enable_backup">Etkinleştir</string>
   <string name="error_unknown">Hata</string>
   <string name="explantion_of_data_size">Mi App Market\'i kullanarak alan tasarrufu sağlar</string>
@@ -121,10 +121,10 @@
   <string name="open_wifi_setting">Wi-Fi ayarları</string>
   <string name="process_whole_recovery">\"%s\"dan geri yükleme</string>
   <string name="recover_from_micloud">Bulut alanından onar</string>
-  <string name="recovering">Geri yükleniyor: %s</string>
-  <string name="restore_from_cloud">Mi Bulut\'tan geri yükle</string>
   <string name="recover_settings">Ana Ekran ayarlarını geri yükle</string>
   <string name="recover_settings_description">Cihazınızı açık tutun</string>
+  <string name="recovering">Geri yükleniyor: %s</string>
+  <string name="restore_from_cloud">Mi Bulut\'tan geri yükle</string>
   <string name="restoreing_file_tile">%d dosya geri yükleniyor</string>
   <string name="retry">Tekrar dene</string>
   <string name="sdcard_no_enough_space">Yeterli alan yok</string>
