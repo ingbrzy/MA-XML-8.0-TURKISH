@@ -9,11 +9,11 @@
   <string name="no_vm_number">Sesli mesaj numarası yok</string>
   <string name="no_vm_number_msg">SIM kartta sesli mesaj numarası yok</string>
   <string name="notification_missedCallTicker">Cevapsız çağrınız var: %s</string>
-  <string name="notification_missedCallTitle">Cevapsız çağrı</string>
+  <string name="notification_missedCallTitle">Cevapsız çağrınız var</string>
   <string name="notification_missedCall_call_back">Çağrıya dön</string>
   <string name="notification_missedCall_message">Mesaj</string>
   <string name="notification_missedCallsMsg">%s Cevapsız çağrınız var</string>
-  <string name="notification_missedCallsTitle">Cevapsız çağrı</string>
+  <string name="notification_missedCallsTitle">Cevapsız çağrınız var:</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Girdiğiniz numara geçersiz</string>
   <string name="outgoing_call_not_allowed">Bu kullanıcıya acil olmayan telefon görüşmeleri yapmak için izin verilmez</string>
   <string name="respond_via_sms_canned_response_1">"Şu an konuşamıyorum, ne oldu?"</string>

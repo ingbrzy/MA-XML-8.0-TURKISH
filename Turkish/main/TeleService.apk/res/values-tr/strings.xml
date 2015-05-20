@@ -653,11 +653,11 @@ Yerine tercih edilen şebeke kullanılacak."</string>
   <string name="notification_dialing">Aranıyor</string>
   <string name="notification_incoming_call">Gelen çağrı</string>
   <string name="notification_missedCallTicker">%s Cevapsız çağrınız var.</string>
-  <string name="notification_missedCallTitle">Cevapsız çağrı</string>
+  <string name="notification_missedCallTitle">Cevapsız çağrınız var.</string>
   <string name="notification_missedCall_call_back">ARA</string>
   <string name="notification_missedCall_message">SMS Gönder</string>
   <string name="notification_missedCallsMsg">%s Cevapsız çağrınız var.</string>
-  <string name="notification_missedCallsTitle">Cevapsız çağrı</string>
+  <string name="notification_missedCallsTitle">Cevapsız çağrınız var..</string>
   <string name="notification_network_selection_text">Seçilen şebeke (%s) kullanılamaz!</string>
   <string name="notification_network_selection_title">ŞEBEKE YOK !</string>
   <string name="notification_on_hold">Beklemede</string>
