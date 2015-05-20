@@ -3,10 +3,10 @@
   <string name="Accounts_settings_title">Hesaplar</string>
   <string name="about_settings">Telefon Hakkında</string>
   <string name="about_settings_summary">Yazılım bilgileri vs...</string>
-  <string name="ac_enable_title">İzinler</string>
+  <string name="ac_enable_title">Kişisel uygulamaları gizle</string>
   <string name="ac_privacy_mode_sum">Misafir modunu kapatmak için Erişim Kontrol şifrenizi girin</string>
   <string name="ac_privacy_mode_title">Şifre</string>
-  <string name="ac_set_apps_title">Uygulamaları koru</string>
+  <string name="ac_set_apps_title">Uygulamaları seç</string>
   <string name="accelerometer_title">Ekranı otomatik döndür</string>
   <string name="access_control_app_entry_multiple">%s uygulamasını aç</string>
   <string name="access_control_app_entry_single">Seçilen uygulamayı aç</string>
@@ -1006,11 +1006,7 @@
   <string name="floating_window_switch_label">Kayan pencerelere izin ver</string>
   <string name="floating_window_switch_label_disable">Kayan pencereler kapalı</string>
   <string name="fluency_mode">Sistem performansını optimize et</string>
-  <string name="fluency_mode_confirm_title">Tekrar başlatılsın mı?</string>
-  <string name="fluency_mode_confirm_will_fluency_mode_text">Ayarların uygulanması için cihazınızı tekrar başlatmanız gerekir.</string>
-  <string name="fluency_mode_confirm_will_normal_mode_text">Animasyonların açılması ve ek hafıza kullanımı, sistem performansını düşürebilir.</string>
-  <string name="fluency_mode_enabled_name">Sistem performansını optimize et</string>
-  <string name="fluency_mode_summary">Animasyonları kapat ve hafıza kullanımını düşür.</string>
+  <string name="fluency_mode_confirm_and_reboot">Tekrar Başlat</string>
   <string name="font_size_huge">Çok Büyük</string>
   <string name="font_size_large">Büyük</string>
   <string name="font_size_medium">Orta</string>
@@ -1602,6 +1598,7 @@
   <string name="page_layout_confirm_title">Ekran ölçüsünü değiştir</string>
   <string name="passwordIncorrect">Girdiğiniz şifre hatalı</string>
   <string name="password_guard">Şifre</string>
+  <string name="performance_category">Performans</string>
   <string name="permission_detail_info">Yetki bilgilerini görüntüle</string>
   <string name="permission_detail_info_summary">%1$d güvenlik | %2$d gizlilik | %3$d diğer</string>
   <string name="permission_manage">Yetki yönetimi</string>
@@ -1684,8 +1681,8 @@
   <string name="privacy_mode_dialog_title">Misafir modu</string>
   <string name="privacy_mode_enable_sum">Çağrı günlüklerini ve mesajları gizle.</string>
   <string name="privacy_mode_enable_title">Misafir modu</string>
-  <string name="privacy_mode_summary">Kullanıcı verileri kullanıcıdan gizlenir</string>
-  <string name="privacy_mode_title">İzinler</string>
+  <string name="privacy_mode_summary">Kişisel uygulama ve verileri gizle</string>
+  <string name="privacy_mode_title">Gizlilik Ayarları</string>
   <string name="privacy_protect_title">Gizlilik koruma</string>
   <string name="privacy_relative">Gizlilik</string>
   <string name="privacy_settings">Yedekleme ve Sıfırlama</string>

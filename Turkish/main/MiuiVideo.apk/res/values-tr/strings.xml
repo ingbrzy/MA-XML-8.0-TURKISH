@@ -4,7 +4,7 @@
   <string name="about_app_name">Mi Video </string>
   <string name="about_title">Hakkında</string>
   <string name="about_version">1.0.1</string>
-  <string name="about_version_label">Sürüm kodu</string>
+  <string name="about_version_label">"Sürüm "</string>
   <string name="ad_countdown">Kalan %ss</string>
   <string name="ad_moredetail">Ayrıntılara gözat</string>
   <string name="add_favorite_success">Favoriler</string>
@@ -151,6 +151,7 @@
   <string name="hint_apk_install">Uygulama indirme</string>
   <string name="hint_apk_text_update">%1$s yeni sürüm var, güncellensin mi?</string>
   <string name="hint_apk_title_update">%1$s Yeni Sürüm</string>
+  <string name="i_will_write_comments">Yorum yazacağım ...</string>
   <string name="icntv">iCNTV</string>
   <string name="info_channel_title">Haberler</string>
   <string name="info_video_loading">Yükleniyor...</string>
@@ -239,6 +240,8 @@
   <string name="play_his_empty_title">Dosya yok</string>
   <string name="play_history">En son oynatılanlar</string>
   <string name="play_source_fetching">Bağlanıyor</string>
+  <string name="player_plugin_des">Eklentilere gözat</string>
+  <string name="player_plugin_title">Video oynatıcı eklentileri</string>
   <string name="positive_comment">Beğen</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
@@ -314,7 +317,7 @@
   <string name="unfavorite">Favorilerden çıkar</string>
   <string name="unknown_source">Bilinmeyen kaynak</string>
   <string name="update">Güncellendi</string>
-  <string name="update_to_count_ji">%1$s bölüme güncellendi</string>
+  <string name="update_to_count_ji">%d bölüme güncellendi</string>
   <string name="update_to_count_qi">%s e güncellendi</string>
   <string name="updatedalready">Güncellendi</string>
   <string name="upgrade">Güncelle</string>
@@ -349,6 +352,7 @@
   <string name="vp_VideoView_error_title">Bilinmeyen hata</string>
   <string name="vp_adapt_height">Yüksekliği sığdır</string>
   <string name="vp_adapt_width">Genişliği sığdır</string>
+  <string name="vp_app_name">Video Oynatıcı</string>
   <string name="vp_audio">Ses düzeyi</string>
   <string name="vp_auto_select">Otomatik seçim</string>
   <string name="vp_back">Geri</string>
@@ -368,7 +372,7 @@
   <string name="vp_download_file_fail">İndirme başarısız. Yeterli boş alan olduğundan emin olun </string>
   <string name="vp_exit">Çıkış</string>
   <string name="vp_full_high_definition">1080P</string>
-  <string name="vp_full_screen">Tam ekran oynat</string>
+  <string name="vp_full_screen">Tam ekran</string>
   <string name="vp_function">Ayarlar</string>
   <string name="vp_get_url_error">"URL adresi bulunamadı"</string>
   <string name="vp_hide_media_info">Video bilgilerini gizle</string>
@@ -384,6 +388,9 @@
   <string name="vp_media_info">Video bilgilerini görüntüle</string>
   <string name="vp_milink">Mi Link</string>
   <string name="vp_milink_function">Cast to display</string>
+  <string name="vp_mobile_network_using_negative">İptal</string>
+  <string name="vp_mobile_network_using_positive">Devam</string>
+  <string name="vp_mobile_network_using_warning">Mobil veri ile video izlemeniz, veri kullanımını arttırır ve operatörünüz ek ücretler uygulayabilir!</string>
   <string name="vp_newest_ep">En son</string>
   <string name="vp_next_ci">Sonraki</string>
   <string name="vp_offline">Çevrimdışı</string>
@@ -395,6 +402,9 @@
   <string name="vp_offline_status_wait">Bekliyor</string>
   <string name="vp_offline_title">Çevrimdışı</string>
   <string name="vp_offline_title_name">Bölüm %d</string>
+  <string name="vp_player_plugin_dlg_neg_btn">Kapat</string>
+  <string name="vp_player_plugin_dlg_no_content">Eklenti yok</string>
+  <string name="vp_player_plugin_dlg_title">Video Oynatıcı eklentileri</string>
   <string name="vp_plugin_message">HD video eklentileri yüklensin mi?</string>
   <string name="vp_retry">Tekrar dene</string>
   <string name="vp_scale_screen">En boy oranı geçişi</string>

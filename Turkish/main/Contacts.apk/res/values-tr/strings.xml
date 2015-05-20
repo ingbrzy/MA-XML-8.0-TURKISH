@@ -384,6 +384,7 @@
   <string name="group_rename_dialog_title">Grubu yeniden adlandır</string>
   <string name="group_rename_fail_toast">"Grup adlandırılamadı"</string>
   <string name="group_rename_success_toast">Grup yeniden adlandırıldı</string>
+  <string name="group_sms_error_message">Grup SMS hatası: %s limiti aşıldı</string>
   <string name="group_sms_progress_msg">"Grup SMS için hazırlanıyor..."</string>
   <string name="groupsLabel">Gruplar</string>
   <string name="groups_list_empty">Grup yok</string>

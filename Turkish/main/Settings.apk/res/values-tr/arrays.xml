@@ -939,4 +939,16 @@
 	<item>15 dakika</item>
 	<item>30 dakika</item>
 </string-array>
+<string-array name="fluency_mode_entries">
+	<item>Sistem animasyonlarını kapat</item>
+	<item>Sistem animasyonlarını aç</item>
+</string-array>
+<string-array name="fluency_mode_summaries">
+	<item>"Cihazınızın performansını arttırmak için Sistem animasyonlarını kapatın."</item>
+	<item>"Sistem animasyonlarını açmanız cihazınızın yavaşlamasına neden olabilir."</item>
+</string-array>
+<string-array name="fluency_mode_confirms">
+	<item>Ayarları uygulamak için Tekrar Başlat!</item>
+	<item>Ayarları uygulamak için Tekrar Başlat!</item>
+</string-array>
 </resources>

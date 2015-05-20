@@ -25,9 +25,9 @@
   <string name="cloud_back_up_interval_long">1 hafta</string>
   <string name="cloud_back_up_interval_short">1 hour</string>
   <string name="cloud_back_up_network_unavailable">"Kaldırılamaz, Wi-Fi ağına bağlanıp tekrar deneyin."</string>
-  <string name="cloud_back_up_open_info">"Ana ekran düzenini ve uygulama her %1$s internete bağlandığında yedekle.
+  <string name="cloud_back_up_open_info">"Ana ekran düzenini %1$s ara ile yedekler.
  Son yedekleme: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Ana ekran düzenini ve uygulama her %1$s internete bağlandığında yedekle.</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Ana ekran düzenini %1$s ara ile yedekler.</string>
   <string name="cloud_back_up_remove_success">Yedek silindi</string>
   <string name="cloud_back_up_title">Ana ekranı yedekle</string>
   <string name="cloud_backup_dialog_title">Mi Bulut ile yedekle</string>
@@ -40,6 +40,7 @@
   <string name="cloudservice_new_sync">%s Mi Bulut ile senkronize et</string>
   <string name="cmcc_micloud_dspt">Mi Bulut kullanarak verilerinizi senkronize edin, cihazını bulun.. </string>
   <string name="contact">Kişiler</string>
+  <string name="deskclock_backup">Saatleri yedekle</string>
   <string name="disable_find_device_error">"Cihaz bulma servisi kapatılamıyor %1$s"</string>
   <string name="enableAll">Herşeyi senkronize et</string>
   <string name="enable_cloud_service_notification">"Mi Bulut hizmeti açık değil"</string>
@@ -140,23 +141,32 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_main_space_full">Depolama alanınız doldu</string>
   <string name="micloud_main_space_risk">%d öğe senkronize edildi.</string>
   <string name="micloud_main_stop_sync">Senkronizeyi durdur</string>
+  <string name="micloud_main_suggest_setting">"Senkronize için Wi-Fi bekleniyor.
+  Dafa fazlası için Ayarlara dokunun."</string>
   <string name="micloud_main_suggest_sync">"Senkronize edilmemiş bazı öğeler var"</string>
   <string name="micloud_main_sync_exception">Senkronizasyon hatası!</string>
   <string name="micloud_main_sync_init">Bilgi alınıyor</string>
   <string name="micloud_main_sync_now">Şimdi senkronize et</string>
   <string name="micloud_main_sync_on_wifi">Wi-Fi kullan</string>
   <string name="micloud_main_sync_pause">Senkronize durakladı</string>
+  <string name="micloud_main_sync_setting">Senkronize ayarları</string>
   <string name="micloud_main_sync_stop">Senkronize durdu</string>
   <string name="micloud_main_synced_data_count">%d öğe senkronize edildi</string>
   <string name="micloud_main_syncing">Verileriniz senkronize ediliyor...</string>
+  <string name="micloud_main_title_sync_fail">"senkronize edilemedi!"</string>
+  <string name="micloud_main_title_sync_off">Senkronize kapalı</string>
+  <string name="micloud_main_title_sync_on_wifi">Wi-Fi kullan</string>
   <string name="micloud_main_update_space">Depolama alanını güncelle</string>
   <string name="micloud_main_wlan_sync_data_count">%d öğe senkronize için bekliyor</string>
+  <string name="micloud_member">Premium</string>
+  <string name="micloud_member_advantage">Dafa fazla alan alın</string>
   <string name="micloud_more">Daha fazla bilgi</string>
   <string name="micloud_proceed">Devam</string>
   <string name="micloud_sec_dspt">ve arkadaşlarınızla paylaşın.</string>
   <string name="micloud_setting_antispam_summary">DND için İstisnalar ve bloke edilen telefon numaraları.</string>
   <string name="micloud_setting_browser_summary">Yer imleri ve geçmiş</string>
   <string name="micloud_setting_contact_summary">Kişi bilgileri ve profil fotoğrafları</string>
+  <string name="micloud_setting_deskclock_summary">Saat ayarları</string>
   <string name="micloud_setting_gallery_summary">Fotoğraflar ve videolar</string>
   <string name="micloud_setting_music_summary">Oynatma listensi ve favoriler</string>
   <string name="micloud_setting_sms_summary">SMS ve MMS mesajları</string>
@@ -165,11 +175,16 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_space_duokan_detail">Duokan uygulamasını kullanarak Duokan içeriğinizi yönetin.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">Kullanım alanım bitince ne yapacağım?</string>
+  <string name="micloud_storage">Depolama</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Aboneliğinizi yenilemeniz gerekmektedir.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Aboneliğinizi yenilemeniz gerekmektedir.</string>
   <string name="micloud_storage_expires_soon_title">Mi Bulut depolama süresi yakında doluyor</string>
   <string name="micloud_storage_expires_very_soon_title">Mi Bulut depolama süresi yakında doluyor</string>
   <string name="micloud_storage_usage" formatted="false">Kullanılan: %s Toplam: %s</string>
+  <string name="micloud_sync_alert_dialog_message">Cihazınızdaki fotoğrafları, kişileri, notları ve diğer verileri senkronize edin...</string>
+  <string name="micloud_sync_alert_dialog_negative">İptal</string>
+  <string name="micloud_sync_alert_dialog_positive">TAMAM</string>
+  <string name="micloud_sync_alert_dialog_title">Mi Bulutu kullan</string>
   <string name="micloud_title_dspt" formatted="false">"Toplam: %s
 Kullanılan: %s | Kalan: %s "</string>
   <string name="micloud_title_dspt_remain">"%s kaldı"</string>
@@ -212,6 +227,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="remind_later">Daha sonra_hatırlat</string>
   <string name="restoreSync">Şimdi senkronize et</string>
   <string name="setting">Ayarlar</string>
+  <string name="settings_backup_title">Sistem ayarlarını yedekle</string>
   <string name="sms">SMS</string>
   <string name="space">Alan</string>
   <string name="start_micloud">Başla</string>

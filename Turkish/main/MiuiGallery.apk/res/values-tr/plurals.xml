@@ -68,4 +68,12 @@
        <item quantity="other">%1$s yeni yüzü %2$s\'e ait olabilir >></item>
        <item quantity="one">%1$s yeni yüzü %2$s\'e ait olabilir  >></item>
    	</plurals>
+	<plurals name="confirm_delete_album">
+        <item quantity="other">%1$s albüm silinsin mi (toplam %2$s)?</item>
+        <item quantity="one">%1$s albüm silinsin mi (toplam %2$s)?</item>
+    </plurals>
+	<plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" %2$d albümünden %1$d video silinsin mi? "</item>
+        <item quantity="one">" %2$d albümünden %1$d video silinsin mi? "</item>
+    </plurals>
 </resources>

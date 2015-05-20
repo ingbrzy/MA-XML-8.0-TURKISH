@@ -40,6 +40,7 @@
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 gün sonra %3$s kişisinin %4$s.</string>
+  <string name="birthday_notification_text_three_days_later_with_activity">Pasta ve çiçeği hazırlayın :)</string>
   <string name="birthday_notification_text_today">"Tebrik etmeyi unutmayın :)"</string>
   <string name="birthday_notification_title_three_days_later">"%1$s kişisinin %2$s yaklaşıyor"</string>
   <string name="birthday_notification_title_today">%1$s kişisinin %3$s</string>
@@ -245,6 +246,7 @@ Takvimin kişiler listesinize erişmesine izin veriyor musunuz?"</string>
   <string name="search">Ara</string>
   <string name="search_history_cleared">Arama geçmişi temizlendi</string>
   <string name="search_title">Takvimlerimde ara</string>
+  <string name="select_date">Tarihi seçin</string>
   <string name="select_synced_calendars_button">Senkronize edilecek takvim</string>
   <string name="select_synced_calendars_title">Senkronize edilecek takvim</string>
   <string name="select_visible_calendars_title">Gösterilecek takvim</string>

@@ -30,6 +30,7 @@
   <string name="cloud_task_in_process">%s görev devam ediyor! Yedeği silerseniz işlem iptal edilecek, devam edilsin mi?</string>
   <string name="customization">Özel</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
+  <string name="deskclock_backup">Saatler</string>
   <string name="desktop_downloading">İndiriliyor</string>
   <string name="desktop_installing">Yükleniyor</string>
   <string name="desktop_recovering">Geri yükleniyor</string>
@@ -55,7 +56,8 @@
   <string name="open_wifi_setting">Wi-Fi ayarları</string>
   <string name="process_whole_recovery">Ger iyükleniyor \"%s\"</string>
   <string name="recover_from_micloud">Mi Buluttan geri yükle</string>
-  <string name="recover_settings">Ana ekran ayarlarını geri yükle</string>
+  <string name="recover_home_settings">Ana ekran ayarlarını geri yükle</string>
+  <string name="recover_miui_settings">MIUI sistem ayarlarını geri yükle</string>
   <string name="recover_settings_description">Cihazınızı açık tutun</string>
   <string name="recovering">Geri yükleniyor %s</string>
   <string name="remove_task_in_process">kaldırılıyor</string>
@@ -64,6 +66,7 @@
   <string name="restoreing_file_tile">%d dosya yükleniyor</string>
   <string name="retry">Tekrar dene</string>
   <string name="self_phone">Bu telefon</string>
+  <string name="settings_backup">Sistem ayarları</string>
   <string name="start_backup_to_micloud">Uygulamaları Mi Buluta yükle</string>
   <string name="start_recover">Geri yükle %s</string>
   <string name="wait_icon_download">Uygulama simgeleri indiriliyor</string>

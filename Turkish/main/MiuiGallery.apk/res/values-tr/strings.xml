@@ -99,7 +99,7 @@
   <string name="cannot_remove_creator">Oluşturan kişi kaldırılamıyor</string>
   <string name="cannot_send_message">İleti gönderilemiyor</string>
   <string name="cannot_send_message_reason">Geçerli alıcı yok</string>
-  <string name="cant_delete_cloud_album">Silme başarısız: %s bu bir sistem albümü veya başkalarıyla paylaşılıyor.</string>
+  <string name="cant_delete_system_album">Silme başarısız: %s bu bir sistem albümü veya başkalarıyla paylaşılıyor.</string>
   <string name="choose_cloud_album">Albümü seç</string>
   <string name="cleaning_cache">Önbellek temizleniyor...</string>
   <string name="clear_thumbnail_cache">Önizleme belleğini temizle</string>
@@ -442,6 +442,8 @@
   <string name="paint_crop_cancel_title">Değişiklikler iptal</string>
   <string name="paint_crop_tips">Daha iyi bir görüntü elde etmek için, ilgili parçaları kılavuz noktaları üzerinde hareket ettirin ve yeniden boyutlandırın.</string>
   <string name="paint_highlight">ÖneÇıkan</string>
+  <string name="paint_highlight_cancel_context">Resim kaydedilsin mi?</string>
+  <string name="paint_highlight_cancel_title">Değişikliği yoksay</string>
   <string name="path">Dosya Yolu</string>
   <string name="people">Kişiler</string>
   <string name="photo_page_always_rotate">Resimleri otomatik çevir</string>
