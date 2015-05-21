@@ -53,6 +53,7 @@
   <string name="download_current_rom">Güncellemeyi uygula</string>
   <string name="download_error">İndirme hatası, biraz bekleyip tekrar deneyin!</string>
   <string name="download_full">Tam indir</string>
+  <string name="download_success_reboot_immediately">Güncellemeyi uygulamak için tekrar başlat</string>
   <string name="download_title">İndiriliyor... (%s)</string>
   <string name="download_title_first">Güncelleme bilgisi alınıyor…</string>
   <string name="download_title_full_download">Paket bilgisi alınıyor…</string>
@@ -99,6 +100,7 @@
   <string name="no_wifi_msg">"Wi-Fi bağlantısı yok, mobil veri kullanılarak indirmeye devam edilecek!"</string>
   <string name="no_wifi_title">Veri kullanım uyarısı!</string>
   <string name="not_open">Şimdi değil</string>
+  <string name="notification_auto_reboot_seccess_title">Cihaz otomatik olarak güncellenir</string>
   <string name="notification_downloading">Güncelleme indiriliyor…</string>
   <string name="notification_load_body_alpha">Cihazınızı güncellemek için Xiaomi hesabınız ile giriş yapın.</string>
   <string name="notification_load_body_dev">Cihazınızı güncellemek için Xiaomi hesabınız ile giriş yapın.</string>
@@ -179,10 +181,12 @@
   <string name="update_sad">Vasat (pek iyi değil)</string>
   <string name="update_success">Güncelleme tamamlandı! :)</string>
   <string name="update_success_body">Sürüm: %s</string>
+  <string name="update_success_reboot_immediately">Cıhazınız güncellendi</string>
   <string name="update_success_title">Telefonunuz başarıyla güncelendi!</string>
   <string name="updater_nolog">Değişiklikler listesi mevcut değil</string>
   <string name="updater_nonetwork">"Ağ bağlantısı yok!"</string>
   <string name="updater_nonetwork_clause">"Ağ bağlantısı yok!"</string>
+  <string name="updater_wait_for_unzip">Güncelleme paketi açılıyor…</string>
   <string name="upgrade_close">Kapat</string>
   <string name="upgrade_kernel">Kernelinizi güncelleniz gerekiyor</string>
   <string name="upgrade_kernel_msg">"Kernel versiyonunuz MIUI ROM ile eşleşmiyor. Manuel olarak kerneli güncellemelisiniz. Lütfen yükseltmeyi öğrenmek için izleyin:

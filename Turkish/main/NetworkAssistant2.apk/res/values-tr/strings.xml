@@ -197,7 +197,9 @@
   <string name="network_mobile_exception_detail">"Cihazınız internete bağlanamıyor:
 
  1. Operatörünüzün mobil veri limitini aşmadığınızdan emin olun..
+ 
  2. Cihazınızı tekrar başlatın.
+ 
  3. Bulunduğunuz bölgede operatörünüzün sinyali zayıf olabilir."</string>
   <string name="network_operator_exception_summary">"SIM kart aktivasyonu yapılamadı, SIM kartı ve mobil veri planını kontrol edin"</string>
   <string name="network_permission_exception_tips">"Ağa bağlanmak için mobil veri kullanılamıyor"</string>
@@ -205,20 +207,26 @@
   <string name="network_route_exception_detail">"Bağlı olduğunuz yönlendirici ile ilgili bir sorun olabilir:
 
 
-1. Wi-Fi ağı sorunları
-Halka açık Wi-Fi ağına bağlandıysanız, bu ağdaki kullanıcı sayısının fazla olması bağlantı hızını düşürür. Başka bir ağa bağlanıp tekrar deneyin.
-2.İnternet sağlayıcısı sorunları
-Hesabınızın İnternet Servis Sağlayıcısı ile iyi durumda olduğundan emin olun.
-3.Yönlendirici donanım sorunları
-Yönlendiriciyi kapatıp açın ve admin ayarlarını kontrol edin.
-4.Diğer yönlendirici sorunları
-Cihazın kullanım kılavuzuna bakarak fabrika ayarlarına sıfırlayın.
-5.Yönlendirici kablolarının doğru bağlandığından emin olun
-Yönlendiricinizin ethernet kablosunu değiştirin. Evinizdeki diğer bağlantılardan şüphe ediyorsanız, İnternet Servis Sağlayıcınız ile temasa geçin."</string>
+"&lt;b&gt;"1. Wi-Fi ağı sorunları
+"&lt;/b&gt;"Halka açık Wi-Fi ağına bağlandıysanız, bu ağdaki kullanıcı sayısının fazla olması bağlantı hızını düşürür. Başka bir ağa bağlanıp tekrar deneyin.
+
+"&lt;b&gt;"2.İnternet sağlayıcısı sorunları
+"&lt;/b&gt;"Hesabınızın İnternet Servis Sağlayıcısı ile iyi durumda olduğundan emin olun.
+
+"&lt;b&gt;"3.Yönlendirici donanım sorunları
+"&lt;/b&gt;"Yönlendiriciyi kapatıp açın ve admin ayarlarını kontrol edin.
+
+"&lt;b&gt;"4.Diğer yönlendirici sorunları
+"&lt;/b&gt;"Cihazın kullanım kılavuzuna bakarak fabrika ayarlarına sıfırlayın.
+
+"&lt;b&gt;"5.Yönlendirici kablolarının doğru bağlandığından emin olun
+"&lt;/b&gt;"Yönlendiricinizin ethernet kablosunu değiştirin. Evinizdeki diğer bağlantılardan şüphe ediyorsanız, İnternet Servis Sağlayıcınız ile temasa geçin."</string>
   <string name="network_sim_exception_detail">"SIM kart ile ilgili bir sorun olabilir:
 
  1. SIM kartınızın çalışır durumda olduğundan emin olun, gerekirse bir arkadaşınızın SIM kartını deneyin.
+ 
  2. Çift SIM kart kullanıyorsanız, diğer karta geçerek bağlantınızı kontrol edin.
+ 
  3. Cihazınızın SIM kart yuvasını ve SIM kartınızda hasar olup olmadığını kontrol edin."</string>
   <string name="none_mi_service_app_detail">Boş</string>
   <string name="notify_daily_data_usage_body">Bu gün %s veri kullanıldı.</string>

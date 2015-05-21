@@ -23,7 +23,7 @@
   <string name="cloud_back_up_date_format">HH:mm dd MM.yyyy</string>
   <string name="cloud_back_up_dialog_content">"Yedekleme durdurulsun mu? Bu yedeği kullanmanız mümkün olmayacaktır"</string>
   <string name="cloud_back_up_interval_long">1 hafta</string>
-  <string name="cloud_back_up_interval_short">1 hour</string>
+  <string name="cloud_back_up_interval_short">1 gün</string>
   <string name="cloud_back_up_network_unavailable">"Kaldırılamaz, Wi-Fi ağına bağlanıp tekrar deneyin."</string>
   <string name="cloud_back_up_open_info">"Ana ekran düzenini %1$s ara ile yedekler.
  Son yedekleme: %2$s"</string>
@@ -103,6 +103,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="master_alert_notif_dspt_add">%s öğe senkronize için bekliyor.</string>
   <string name="master_alert_notif_dspt_no">Herşey güncel.</string>
   <string name="master_alert_notif_title">Son senkronizasyon: %s gün önce</string>
+  <string name="micloud_buy_member">Üyeliği yükselt</string>
   <string name="micloud">Mi Bulut</string>
   <string name="micloud_check_sim_notify_text">"SIM kartınız değişmiş gibi görünüyor. 
   Mi Hesabınızla oturum açarak Mi Bulut hizmetini tekrar etkinleştirin."</string>
@@ -158,8 +159,21 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_main_title_sync_on_wifi">Wi-Fi kullan</string>
   <string name="micloud_main_update_space">Depolama alanını güncelle</string>
   <string name="micloud_main_wlan_sync_data_count">%d öğe senkronize için bekliyor</string>
-  <string name="micloud_member">Premium</string>
+  <string name="micloud_member">Mi Bulut üyeliği</string>
   <string name="micloud_member_advantage">Dafa fazla alan alın</string>
+  <string name="micloud_member_buy_content" formatted="false">" %s-%s-%s için geçerli
+
+%s Mi Kredisi yıllık"</string>
+  <string name="micloud_member_buy_title">Siparişi onayla</string>
+  <string name="micloud_member_net_error_alert_message">"İnternet bağlantısı yok!"</string>
+  <string name="micloud_member_net_error_alert_title">"Ağ bağlantısı yok!"</string>
+  <string name="micloud_member_pay_fail_toast">"Ödeme tamamlanamadı!"</string>
+  <string name="micloud_member_pay_miid_error_toast">Hesap hatası</string>
+  <string name="micloud_member_pay_order_error_toast">Veri hatası</string>
+  <string name="micloud_member_refresh_button">Yenile</string>
+  <string name="micloud_member_webload_fail_error_message">Ağ hatası</string>
+  <string name="micloud_member_webload_fail_toast_4xx">"Sayfa yüklenemedi"</string>
+  <string name="micloud_member_webload_fail_toast_5xx">Sunucu hatası</string>
   <string name="micloud_more">Daha fazla bilgi</string>
   <string name="micloud_proceed">Devam</string>
   <string name="micloud_sec_dspt">ve arkadaşlarınızla paylaşın.</string>
