@@ -140,7 +140,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_main_network_error">"Ağ bağlantısı yok!"</string>
   <string name="micloud_main_set_internet">Ağ ayarları</string>
   <string name="micloud_main_space_full">Depolama alanınız doldu</string>
-  <string name="micloud_main_space_risk">%d öğe senkronize edildi.</string>
+  <string name="micloud_main_space_low">Boş alan çok azaladı…</string>
   <string name="micloud_main_stop_sync">Senkronizeyi durdur</string>
   <string name="micloud_main_suggest_setting">"Senkronize için Wi-Fi bekleniyor.
   Dafa fazlası için Ayarlara dokunun."</string>
