@@ -25,14 +25,14 @@
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
   <string name="lockscreen_access_pattern_start">Desen başladı</string>
-  <string name="memory_clear_nothing_result">Temizlemek için bir şey yok</string>
+  <string name="memory_clear_nothing_result">Temizlenecek bir şey yok...</string>
   <string name="memory_clear_result">%1$sB Temizlendi | %2$sB Kullanılabilir</string>
   <string name="paste">Yapıştır</string>
   <string name="reboot_confirm_title">Telefonunuz Tekrar Başlatılacak !</string>
   <string name="reboot_progress">Tekrar Başlatılıyor…</string>
   <string name="replace">Yerleştir</string>
   <string name="screen_button_disabled_message">Ekran altındaki tuşlar kapalı.</string>
-  <string name="screen_button_notification_text">Açmak için Ev ve Güç tışlarına aynı anda basın</string>
+  <string name="screen_button_notification_text">Açmak için Ev ve Güç tuşlarına aynı anda basın</string>
   <string name="screen_button_notification_title">Ekran altındaki tuşlar kapalı</string>
   <string name="screen_on_proximity_sensor_hint">Bu özelliği kapatmak için Geri ve Ses Açma tuşlarına aynı anda basın.</string>
   <string name="screen_on_proximity_sensor_summary">"Ekrandaki turuncu alanı kapatmayın"</string>
