@@ -214,6 +214,7 @@
   <string name="delete_duplicate">Birleştir</string>
   <string name="delete_duplicate_message">"Birleştiriliyor ..."</string>
   <string name="delete_selected_sim_entry_miui">Seçilen SIM kişilerini sil</string>
+  <string name="deleting_sim_entry_miui_prepare">Silmek için hazırlanıyor…</string>
   <string name="delete_sim_entries_finish">SIM kişileri başarıyla silindi</string>
   <string name="delete_sim_entry_miui">Sil</string>
   <string name="delete_unknown_contact_calllog_title">"Çağrı geçmişi silinsin mi?"</string>
@@ -410,6 +411,7 @@
   <string name="import_selected_sim_entries_miui">Seçilen kişileri içe aktar</string>
   <string name="import_sim_entries_finish">SIM kişileri başarıyla içe aktarıldı</string>
   <string name="import_sim_entry_miui">İçe aktar</string>
+  <string name="importing_sim_contacts_miui_prepare">İçe aktarma için hazırlanıyor…</string>
   <string name="import_to_xiaomi_account_confirm">İçe aktar</string>
   <string name="import_to_xiaomi_account_progress_finish">Aktarım tamamlandı</string>
   <string name="import_to_xiaomi_account_progress_message">Aktarılıyor...</string>
@@ -452,6 +454,8 @@
   <string name="list_filter_customize">Kişiselleştir</string>
   <string name="list_filter_phones">Telefon numarası olan tüm kişiler</string>
   <string name="list_filter_single">KİŞİLER</string>
+  <string name="loading">Yükleniyor…</string>
+  <string name="loading_accounts">SIM bilgisi yükleniyor...</string>
   <string name="loading_group_members">Grup üyeleri yükleniyor...</string>
   <string name="loading_groups">Gruplar yükleniyor...</string>
   <string name="loading_recent">Son arananlar yükleniyor...</string>

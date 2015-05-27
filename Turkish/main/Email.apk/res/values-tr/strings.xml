@@ -26,7 +26,7 @@
   <string name="account_name_toast">Kullanıcı adı zaten var</string>
   <string name="account_options_acc_title">Hesap</string>
   <string name="account_options_common_title">Temel Ayarlar</string>
-  <string name="account_options_only_title">Sadece mobil ağı kullanarak başlığı indir</string>
+  <string name="account_options_only_title">Mobil veri kullanılırken sadece başlığı indir</string>
   <string name="account_options_sync_title">Senkronize Ayarları</string>
   <string name="account_password_spaces_error">"Bu parola bir veya daha fazla boşluk karakterleri ile başlar ya da biter. Birçok sunucu boşluk şifreleri desteklemez."</string>
   <string name="account_security_dialog_content_fmt">%s güvenlik ayarlarını güncellemeniz gerekiyor.</string>
@@ -54,7 +54,7 @@
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">%s oturumu açılamadı; %s Kullanıcı adı/şifrenizi güncellemek istiyor musunuz?</string>
   <string name="account_settings_login_dialog_title">"Oturum açılamadı"</string>
   <string name="account_settings_mail_check_frequency_label">Gelen kutusu kontrol sıklığı</string>
-  <string name="account_settings_mibill_resolve_label">Eposta tablo analizi</string>
+  <string name="account_settings_mibill_resolve_label">Faturaları otomatik yönet</string>
   <string name="account_settings_name_label">Adınız</string>
   <string name="account_settings_notifications">Bildirim Ayarları</string>
   <string name="account_settings_notify_label">E-posta bildirimleri</string>
@@ -147,6 +147,7 @@
   <string name="account_setup_names_title">Hesap kurulumu</string>
   <string name="account_setup_names_user_name_empty_error">"Bu alan boş olamaz."</string>
   <string name="account_setup_names_user_name_label">Adınız (giden postalarda görüntülenecek)</string>
+  <string name="account_setup_incoming_username_label_default_hint">Contain domain</string>
   <string name="account_setup_need_password_verification">Hesabınız için ikincil şifre açıldı, kimlik doğrulaması gerekmektedir</string>
   <string name="account_setup_not_disturb_title">DND modu</string>
   <string name="account_setup_options_background_attachments_label">Wi-Fi bağlandığında ekleri  otomatik indir</string>
@@ -321,7 +322,7 @@
   <string name="contact_edit_set_pop_up_tips">Açılır pencere ipuçları</string>
   <string name="contact_edit_set_unread_top">Okunmamış postaları önce göster</string>
   <string name="contact_edit_set_vip">VIP ayarla</string>
-  <string name="contact_edit_title_permission">"Kişiler izinleri"</string>
+  <string name="contact_edit_title_permission">Kişiler izinleri</string>
   <string name="contact_edit_title_phone_contact">Telefon kişileri listesi</string>
   <string name="contact_info_string">%1$s kişi bilgilerini göster</string>
   <string name="contact_info_string_default">Kişi bilgilerini göster</string>
@@ -437,7 +438,7 @@
   <string name="folder_picker_title">Klasör seçici</string>
   <string name="folder_removed">%1$s \'den kaldırıldı</string>
   <string name="folder_shortcut_widget_label">E-posta klasörü</string>
-  <string name="folder_synchronization_mail_settings">Klasör senkronize posta ayarları</string>
+  <string name="folder_synchronization_mail_settings">Klasör senkronize ayarları</string>
   <string name="forward">Yönlendir</string>
   <string name="forward_attachment">Yönlendir</string>
   <string name="forward_attribution">---------- Yönlendirilmiş mesaj ----------Kimden:%1$s, Tarih:%2$s, Konu:%3$s, Kime:%4$s,</string>
@@ -480,7 +481,7 @@
   <string name="imap_password_error">Gelen posta sunucusu şifresi hatalı!</string>
   <string name="inbox_folders_heading">Yerel klasörler</string>
   <string name="info">Bilgi</string>
-  <string name="inline_picture_deleted">"Resim bulunamadı"</string>
+  <string name="inline_picture_deleted">Kayıp resim indiriliyor ...</string>
   <string name="inline_picture_download_complete">Resim indirildi</string>
   <string name="input_password_prompt">Şifreyi girin:</string>
   <string name="invalid_recipient">%s adresi geçersiz.</string>
@@ -586,18 +587,18 @@ CC: %4$s
   <string name="message_saved">Mesaj taslak olarak kaydedildi</string>
   <string name="message_type_name">mesaj</string>
   <string name="message_view_attachment_background_load">Yönlendirilen mesajda bir veya daha fazla ek var.</string>
-  <string name="mibill_privacy_policy_button1">Şimdi değil</string>
+  <string name="mibill_privacy_policy_button1">Kabul etme</string>
   <string name="mibill_privacy_policy_button2">TAMAM</string>
-  <string name="mibill_privacy_policy_description">Mi Cüzdan Posta uygulaması ile alınan tüm e-postaları analiz edecek ve sizin için tüm kredi kartı faturaları yönetecek. Bu servis şirket posta uygulamaları için varsayılan olarak kapalıdır..</string>
+  <string name="mibill_privacy_policy_description">Mi Cüzdan Posta uygulaması ile alınan tüm e-postaları analiz edecek ve sizin için tüm faturaları yönetecek. Bu servis şirket posta uygulamaları için varsayılan olarak kapalıdır..</string>
   <string name="mibill_privacy_policy_link">"https://www.mipay.com/res/doc/eula/email.html" hizmet şartlarını kabul etmiş olursunuz.</string>
-  <string name="mibill_privacy_policy_title">Mi Cüzdan eposta analizi</string>
+  <string name="mibill_privacy_policy_title">Otomatik fatura yönetimini kabul et</string>
   <string name="more_atts_remaining">%1$d ek kaldı</string>
   <string name="more_atts_total">Toplam %1$d ek</string>
   <string name="more_context">Daha</string>
   <string name="more_info_attachment">Bilgi</string>
   <string name="more_string">+%1$s</string>
   <string name="more_than_999">999+</string>
-  <string name="move_to_selection_dialog_title">Başka klasöre taşındı</string>
+  <string name="move_to_selection_dialog_title">Başka klasöre taşı</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Sessiz</string>
   <string name="name_or_number_is_error">Kullanıcı adı/şifre hatası</string>
@@ -606,7 +607,7 @@ CC: %4$s
   <string name="new_incoming_messages_one">%s \' den yeni mesajınız var.</string>
   <string name="new_messages">%1$d yeni mesajınız var</string>
   <string name="next_action">Sonraki</string>
-  <string name="next_not_prompt">"Sorma"</string>
+  <string name="next_not_prompt">"Tekrar gösterme"</string>
   <string name="no">Hayır</string>
   <string name="no_application_found">Bu dosyayı açacak ya da görüntüleyecek uygulama yok.</string>
   <string name="no_application_found_title">Eki aç</string>
@@ -629,6 +630,9 @@ CC: %4$s
   <string name="notification_action_undo_delete">Silindi</string>
   <string name="notification_action_undo_remove_label">etiket kaldırıldı</string>
   <string name="notification_exchange_calendar_added">Exchange takvimi eklendi</string>
+  <string name="oauth_error_description">Kimlik doğrulaması yapılamıyor</string>
+  <string name="oauth_gmail_login_notify">"Google yetkilendirme sayfasında parolanızı yazmanız gerekir"</string>
+  <string name="oauth_login_continue">Devam</string>
   <string name="ok">Tamam</string>
   <string name="okay_action">Tamam</string>
   <string name="open_proxy_in_settings">"Gmail bölgenizde kullanılamıyor. Proxy sunucusu kullanarak Gmail postalarınızı alabilir ve gönderebilirsiniz. Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
@@ -638,7 +642,7 @@ CC: %4$s
   <string name="outbox_alert_button_resend">Tekrar gönder</string>
   <string name="outbox_alert_certificate_error">E-posta sertifikasını lütfen güncelleyin</string>
   <string name="outbox_alert_description_auth_error">Giden posta sunucusu açılamadı!</string>
-  <string name="outbox_alert_description_cannot_authenticate">%s posta sistem hatası</string>
+  <string name="outbox_alert_description_cannot_authenticate">"%s kimliği doğrulanamadı"</string>
   <string name="outbox_alert_description_http_error">HTTP sunucusu hatası!</string>
   <string name="outbox_alert_description_insufficient_storage_error">Posta sunucusunda yetersiz depolama</string>
   <string name="outbox_alert_description_provision_error">Sunucu hatası!</string>
@@ -712,7 +716,7 @@ CC: %4$s
   <string name="pop3_name">POP3</string>
   <string name="prefDialogTitle_conversationListIcon">Gönderen resmi</string>
   <string name="prefDialogTitle_removal_action">Arşiv ve silme işlemi</string>
-  <string name="preference_eas_tips">Gelen aktivasyon sayfası, e-posta sunucusu tarafından talep edilmektedir.</string>
+  <string name="preference_eas_tips">Posta sunucusunu ayarlamak için Etkinleştire dokunun</string>
   <string name="preference_head_load_description">Mobil veri kullanırken, sadece mesaj başlıklarını indirin.</string>
   <string name="preference_head_load_title">Veri kullanımını azalt</string>
   <string name="preference_imap_tips"/>

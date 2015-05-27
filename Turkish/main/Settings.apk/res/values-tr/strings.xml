@@ -1102,7 +1102,7 @@
   <string name="header_data_and_synchronization">VERİ ve SENKRONİZE</string>
   <string name="heads_up_enabled_title">Pop up if high priority</string>
   <string name="hidden_ssid_label">Gizli SSID:</string>
-  <string name="high_performance_notif_summary">Performans modu açık</string>
+  <string name="high_performance_notif_summary">"Performans modu, cihazınızı maksimum kapasitede çalıştırmak için ısı kontrolleri ve pil tüketimi sınırlarını devre dışı bırakır. Performans modu cihazınızın ısınmasına ve pil ömrünün azalmasına neden olabilir!!! "</string>
   <string name="high_performance_notif_title">Pil kullanımı uyarısı</string>
   <string name="high_performance_title">Kıyaslama testi yaptığınız farkedildi. En iyi performansı elde etmek için Pil yönetiminden \"Performans\" modunu seçin.</string>
   <string name="home_key">Ev tuşu</string>
@@ -2502,6 +2502,9 @@
   <string name="vibrate_input_devices_summary">Oyun kumandası bağlandı ise titreşime yönlendirir.</string>
   <string name="vibrate_on_touch_title">Dokununca titret</string>
   <string name="vibrate_when_ringing_title">Zil sesi çalarken titret</string>
+  <string name="virtual_sim_category_title">Sanal SIM</string>
+  <string name="virtual_sim_description">Güvenilir uluslararası dolaşım hizmeti</string>
+  <string name="virtual_sim_title">Veri ağı dolaşımı</string>
   <string name="virus_scan">Virüs taraması</string>
   <string name="virus_scan_app_continue">Taramaya devam et</string>
   <string name="virus_scan_app_find_risk">%d risk bulundu</string>
