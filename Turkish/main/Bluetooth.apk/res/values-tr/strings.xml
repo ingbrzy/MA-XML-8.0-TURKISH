@@ -10,6 +10,7 @@
   <string name="auth_notif_ticker">Obex doğrulama isteği</string>
   <string name="auth_notif_title">Oturum Anahtarı</string>
   <string name="ble_device_address">BLE cihaz MAC</string>
+  <string name="ble_device_profile">Bluetooth cihaz profili</string>
   <string name="ble_device_profile_header_title">Ayarlar</string>
   <string name="ble_device_profile_title">BLE cihaz bağlandı</string>
   <string name="ble_device_rename">Yeniden adlandır</string>
@@ -60,6 +61,7 @@
   <string name="empty_file_notification_sent">Bluetooth paylaşımı: Uzaktan reddedildi %1$s</string>
   <string name="enabling_progress_content">Bluetooth açılıyor…</string>
   <string name="enabling_progress_title">Lütfen bekleyin…</string>
+  <string name="goto_package">Aç %1$s</string>
   <string name="hello">Merhaba dünya</string>
   <string name="inbound_history_title">Gelen transferler</string>
   <string name="inbound_noti_title">Bluetooth paylaşımı: Alınan dosyalar</string>
@@ -76,6 +78,7 @@
   <string name="incoming_line2">Dosya adı</string>
   <string name="incoming_line3">Boyut</string>
   <string name="insert_record">Kayıt ekle</string>
+  <string name="install_package">Daha fazla özellik için %1$s yükleyin</string>
   <string name="localPhoneName">Adım</string>
   <string name="mi_band_vibrate_alarm">Alarm çalınca titret</string>
   <string name="mi_band_vibrate_incall">Zil çalınca titret</string>
@@ -88,6 +91,10 @@
   <string name="mi_key_alert_dialog_title">Mi key Uyarı</string>
   <string name="mi_key_find_mikey">Mi-Keyi bul</string>
   <string name="mi_key_find_phone">Telefonu bul</string>
+  <string name="mi_key_open_camera">Open Camera</string>
+  <string name="mi_key_summary_find_phone">Zilin çalması için Mi Keye basılı tutun</string>
+  <string name="mi_key_summary_open_camera">Kamerayı açmak için Mi Keye iki kez basın</string>
+  <string name="mi_key_summary_take_photo">Fotoğraf çekmek için Mi Keye basın</string>
   <string name="mi_key_take_photo">Fotoğraf çek</string>
   <string name="miui_transfer_history_title">Bluetooth transferleri</string>
   <string name="miui_transfer_inbound_title">Gelen</string>
@@ -118,7 +125,9 @@
   <string name="permlab_bluetoothWhitelist">Beyaz listedeki cihazlara erişme.</string>
   <string name="process"/>
   <string name="progress_scanning">Aranıyor</string>
+  <string name="reset_function_msg">Fonksiyonu yeniden açmanız %1$s hataya neden olur</string>
   <string name="sharedUserId"/>
+  <string name="some_app_taking">(%1$s zaten bu özelliği kullanıyor…)</string>
   <string name="start_server">TCP sunucusunu başlat</string>
   <string name="status_canceled">Transfer kullanıcı tarafından iptal edildi</string>
   <string name="status_connection_error">Bağlantı başarısız!</string>
