@@ -17,12 +17,12 @@
 		<item quantity="one">Seçtiğiniz %s video silinsin mi?</item>
 	</plurals>
 	<plurals name="confirm_delete_has_cloud_local_image">
-		<item quantity="other">Seçtiğiniz %s fotoğraf Yerel ve Bulut alanından silinsin mi?</item>
-		<item quantity="one">Seçtiğiniz %s fotoğraf Yerel ve Bulut alanından silinsin mi?</item>
+		<item quantity="other">Seçtiğiniz %s fotoğraf Telefon ve Bulut alanından silinsin mi?</item>
+		<item quantity="one">Seçtiğiniz %s fotoğraf Telefon ve Bulut alanından silinsin mi?</item>
 	</plurals>
 	<plurals name="confirm_delete_has_cloud_local_video">
-		<item quantity="other">Seçtiğiniz %s video Yerel ve Bulut alanından silinsin mi?</item>
-		<item quantity="one">Seçtiğiniz %s video Yerel ve Bulut alanından silinsin mi?</item>
+		<item quantity="other">Seçtiğiniz %s video Telefon ve Bulut alanından silinsin mi?</item>
+		<item quantity="one">Seçtiğiniz %s video Telefon ve Bulut alanından silinsin mi?</item>
 	</plurals>
 	<plurals name="number_of_items_selected">
 		<item quantity="other">%1$d öğe seçildi</item>

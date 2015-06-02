@@ -142,10 +142,10 @@
   <string name="confirm_delete">%s resim silinsin mi?</string>
   <string name="confirm_delete_album" formatted="false">%s albüm (toplam %s  öğe) silinsin mi?</string>
   <string name="confirm_delete_has_cloud_image_video">Seçtiğiniz %s öğe Bulut alanından silinsin mi?</string>
-  <string name="confirm_delete_has_cloud_local_image_video">Seçtiğiniz %s öğe Yerel ve Bulut alanından silinsin mi?</string>
+  <string name="confirm_delete_has_cloud_local_image_video">Seçtiğiniz %s öğe Telefon ve Bulut alanından silinsin mi?</string>
   <string name="confirm_delete_has_local_image_video">%s öğe silinsin mi?</string>
-  <string name="confirm_delete_home_merge_item">"Yerel ve Bulutta bulunan %s resim silinsin mi?"</string>
-  <string name="confirm_delete_init_message">Bu resim Yerel ve Bulut alanından silinecektir. Sadece cihazınızdan silmek istiyorsanız, lütfen \"Yerel\" \ sekmesinde işlem yapın.</string>
+  <string name="confirm_delete_home_merge_item">"Telefon ve Bulutta bulunan %s resim silinsin mi?"</string>
+  <string name="confirm_delete_init_message">Bu resim Telefon ve Bulut alanından silinecektir. Sadece cihazınızdan silmek istiyorsanız, lütfen \"Telefon\" \ sekmesinde işlem yapın.</string>
   <string name="confirm_delete_init_title">İpucu</string>
   <string name="confirm_delete_pictures">%s resmi sil</string>
   <string name="confirm_delete_system_album">%s  bir sistem albümüdür.</string>
@@ -292,7 +292,7 @@
   <string name="home_my_captured_items">"Kamera rulosundaki görüntüler"</string>
   <string name="home_page_tab_cloud">Bulut</string>
   <string name="home_page_tab_face">Yüz</string>
-  <string name="home_page_tab_local">Yerel</string>
+  <string name="home_page_tab_local">Telefon</string>
   <string name="home_page_tab_photo">Fotoğraf</string>
   <string name="ignore_album">Yoksay</string>
   <string name="ignore_face">Bu yüzü yoksay</string>
@@ -339,7 +339,7 @@
   <string name="loading_suspend">İndirme duraklatıldı : Wi-Fi bağlantısı aktif olduğunda devam edecek</string>
   <string name="loading_thumbnail">Önizleme indiriliyor...</string>
   <string name="loading_video">Video indiriliyor...</string>
-  <string name="local_albums">Yereldeki resimler</string>
+  <string name="local_albums">Telefondaki resimler</string>
   <string name="local_time">(Yerel)</string>
   <string name="location">Konum</string>
   <string name="locations">Konumlar</string>
@@ -546,7 +546,7 @@
   <string name="set_hidden_album">Gizli albüm</string>
   <string name="set_image">Resmi şu şekilde ayarla</string>
   <string name="set_label_all_albums">Tüm albümler</string>
-  <string name="set_label_local_albums">Yereldeki albümler</string>
+  <string name="set_label_local_albums">Telefondaki albümler</string>
   <string name="set_label_mtp_devices">MTP cihazları</string>
   <string name="set_lock_and_wallpaper">Duvar kağıdı ayarlanıyor...</string>
   <string name="set_lock_or_wallpaper">Duvar kağıdı olarak ayarla</string>

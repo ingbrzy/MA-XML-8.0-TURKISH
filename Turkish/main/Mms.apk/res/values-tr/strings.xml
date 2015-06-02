@@ -98,7 +98,7 @@
   <string name="context_menu_send_sms">Mesaj gönder</string>
   <string name="context_menu_view_contact">Kişiyi görüntüle</string>
   <string name="context_menu_view_mms">MMS\'i görüntüle</string>
-  <string name="conversation">Mesajlaşma</string>
+  <string name="conversation">Mesajlar</string>
   <string name="converting_to_picture_message">Resim mesajına çevriliyor.</string>
   <string name="converting_to_text_message">Metin mesajına çevriliyor...</string>
   <string name="copy_message_text">Mesaj metnini kopyala</string>
@@ -182,7 +182,7 @@
   <string name="guild_msim_switcher">SIM kartı değiştirmek için dokunun</string>
   <string name="has_invalid_recipient">Geçersiz alıcı :%1$s</string>
   <string name="hidden_sender_address">Gizli gönderen adresi</string>
-  <string name="hint_search_sms">%d mesaj</string>
+  <string name="hint_search_sms">%d mesajınız var</string>
   <string name="hms_first_use_tips">Servis mesajlarının alınması için, Wi-Fi ağına bağlı olmanız gerekiyor</string>
   <string name="hms_uri_param_err">"URL adresi boş olamaz"</string>
   <string name="importing_progress_private_message">Mesajlar içe aktarılıyor...</string>
@@ -200,7 +200,7 @@
   <string name="loading_mms">Yükleniyor......</string>
   <string name="manage_permission_app_label">Cihaz Yönetimi İzinleri</string>
   <string name="me">Ben</string>
-  <string name="menu_add_black">Kara Liste</string>
+  <string name="menu_add_black">Kara Listeye ekle</string>
   <string name="menu_add_contact">Kişi ekle</string>
   <string name="menu_call">Ara</string>
   <string name="menu_compose_new">Oluştur</string>
@@ -380,7 +380,7 @@
   <string name="priority_low">Düşük</string>
   <string name="priority_normal">Normal</string>
   <string name="privacy_mode_hint">Misafir Modunda mesaj gönderilemez</string>
-  <string name="private_message">Özel mesajlaşma</string>
+  <string name="private_message">Özel mesajlar</string>
   <string name="private_new_notification">Mesaj bildirimleri</string>
   <string name="private_protect">Şifreler</string>
   <string name="private_settings">Özel mesaj ayarları</string>
@@ -423,10 +423,10 @@
   <string name="saved_ringtone_fail">Zil sesi kaydedilemedi</string>
   <string name="saved_to_sim">Kaydedildi</string>
   <string name="sdcard_has_not_enough_space">SD kartta eterli boş alan yok!</string>
-  <string name="search">Mesajlaşma</string>
+  <string name="search">Mesajlar</string>
   <string name="search_empty">Eşleşme yok</string>
-  <string name="search_hint">Mesajlaşmada ara</string>
-  <string name="search_label">Mesajlaşma</string>
+  <string name="search_hint">Mesajlarda ara</string>
+  <string name="search_label">Mesajlar</string>
   <string name="search_setting_description">Mesajlarınızdaki metin</string>
   <string name="search_show_more_results">Daha fazla göster</string>
   <string name="secs">saniye</string>
