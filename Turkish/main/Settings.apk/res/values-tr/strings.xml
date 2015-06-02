@@ -541,9 +541,6 @@
   <string name="bt_hci_snoop_log_summary">Bütün Bluetooth HCI paketlerini bir dosyada topla</string>
   <string name="bt_trace_log">Bluetooth izleme günlüğünü etkinleştir</string>
   <string name="bt_trace_log_summary">Bluetooth izleme günlüğünü etkinleştir</string>
-  <string name="bugreport_tool_log">Hata raporunu yakala</string>
-  <string name="bugreport_tool_log_toast">Buraya kaydedildi %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Hata raporu oluşturuluyor (Bir kaç dakika sürebilir)</string>
   <string name="build_number">Derleme numarası</string>
   <string name="button_disconnect_network">Ağ bağlantısını kes</string>
   <string name="button_light_timeout">Buton ışığı seçenekleri</string>
@@ -1446,11 +1443,6 @@
   <string name="mobile_no_provisioning_url">%1$s, bilinen yetkilendirme sitesi yok.</string>
   <string name="mobile_unknown_sim_operator">SIM operatörü bilinmiyor</string>
   <string name="model_number">Model numarası</string>
-  <string name="modem_tool_log">Modem kayıtlarını yakala</string>
-  <string name="modem_tool_log_start">Yakalamayı başlat</string>
-  <string name="modem_tool_log_start_toast">Model loglarının %s içine dökülmesine başla</string>
-  <string name="modem_tool_log_stop">Yakalamayı durdur</string>
-  <string name="modem_tool_log_stop_toast">Model loglarının %s içine dökülmesini durdur</string>
   <string name="msg_wlan_signal_found">%s ağına bağlanılsın mı?</string>
   <string name="msim_sim_radio_off">Kapalı</string>
   <string name="multi_touch_points_category_title">Çoklu Dokunma noktaları</string>

@@ -591,7 +591,7 @@ CC: %4$s
   <string name="mibill_privacy_policy_button2">TAMAM</string>
   <string name="mibill_privacy_policy_description">Mi Cüzdan Posta uygulaması ile alınan tüm e-postaları analiz edecek ve sizin için tüm faturaları yönetecek. Bu servis şirket posta uygulamaları için varsayılan olarak kapalıdır..</string>
   <string name="mibill_privacy_policy_link">"https://www.mipay.com/res/doc/eula/email.html" hizmet şartlarını kabul etmiş olursunuz.</string>
-  <string name="mibill_privacy_policy_title">Otomatik fatura yönetimini kabul et</string>
+  <string name="mibill_privacy_policy_title">Faturaları otomatik yönet</string>
   <string name="more_atts_remaining">%1$d ek kaldı</string>
   <string name="more_atts_total">Toplam %1$d ek</string>
   <string name="more_context">Daha</string>
@@ -631,7 +631,7 @@ CC: %4$s
   <string name="notification_action_undo_remove_label">etiket kaldırıldı</string>
   <string name="notification_exchange_calendar_added">Exchange takvimi eklendi</string>
   <string name="oauth_error_description">Kimlik doğrulaması yapılamıyor</string>
-  <string name="oauth_gmail_login_notify">"Google yetkilendirme sayfasında parolanızı yazmanız gerekir"</string>
+  <string name="oauth_gmail_login_notify">"Oturum açmak için Google hesabınızın kullanıcı adı ve şifrenizi girmeniz gerekir"</string>
   <string name="oauth_login_continue">Devam</string>
   <string name="ok">Tamam</string>
   <string name="okay_action">Tamam</string>

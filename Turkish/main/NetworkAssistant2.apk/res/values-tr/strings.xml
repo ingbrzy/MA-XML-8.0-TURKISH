@@ -187,11 +187,16 @@
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Yapı detayları</string>
   <string name="mian_page_primary_txt">Uluslar arası dolaşım</string>
+  <string name="miuishare_title_more">Daha</string>
+  <string name="miuishare_title_share">Paylaş</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_assistant_upgraded_body">Detayları görmek için dokunun.</string>
   <string name="network_assistant_upgraded_title">Güncelleme tamamlandı</string>
   <string name="network_blocked_connected_open_wifi">Halka açık ağa bağlandı</string>
   <string name="network_blocked_notification_summary">Detaylar için dokunun</string>
   <string name="network_blocked_switch_wifi">Ağa geç</string>
+  <string name="network_connected_exception_title">Ağ testi yap</string>
   <string name="network_control">Uygulama ayarları</string>
   <string name="network_diagnostics">Şebeke testi</string>
   <string name="network_mobile_exception_detail">"Cihazınız internete bağlanamıyor:
@@ -201,6 +206,7 @@
  2. Cihazınızı tekrar başlatın.
  
  3. Bulunduğunuz bölgede operatörünüzün sinyali zayıf olabilir."</string>
+  <string name="network_not_available">"Ağa bağlanamıyor!"</string>
   <string name="network_operator_exception_summary">"SIM kart aktivasyonu yapılamadı, SIM kartı ve mobil veri planını kontrol edin"</string>
   <string name="network_permission_exception_tips">"Ağa bağlanmak için mobil veri kullanılamıyor"</string>
   <string name="network_roaming_exception_tips">"Dolaşımda iken mobil veri kullanılamıyor"</string>
@@ -228,6 +234,9 @@
  2. Çift SIM kart kullanıyorsanız, diğer karta geçerek bağlantınızı kontrol edin.
  
  3. Cihazınızın SIM kart yuvasını ve SIM kartınızda hasar olup olmadığını kontrol edin."</string>
+  <string name="networkchanged_exception_summary">Ağ bağlantısı değişti, lütfen tekrar test yapın.</string>
+  <string name="networkchanged_exception_title">Bağlantı değişti</string>
+  <string name="no_network_btn">Tekrar dene</string>
   <string name="none_mi_service_app_detail">Boş</string>
   <string name="notify_daily_data_usage_body">Bu gün %s veri kullanıldı.</string>
   <string name="notify_daily_limit_body">Bu gün %s veri kullanıldı.</string>
@@ -250,6 +259,8 @@
   <string name="other_exception_title">Diğer sorunları kontrol et</string>
   <string name="pay_charge">Ek veri satınal</string>
   <string name="per_month_pkg_traffic_settings">Mobil veri limiti ayarlayın</string>
+  <string name="permission_exception_summary">"Bazı uygulamaların internete bağlanmak için izni yok"</string>
+  <string name="permission_exception_title">Ağ izinlerine gözat</string>
   <string name="permit_running_network">Arka plan verilerini aç</string>
   <string name="person_hotpot">Mobil İnternet paylaşımı</string>
   <string name="pkg_traffic">Mobil veri limiti</string>
@@ -321,7 +332,7 @@ Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz..
 &lt;b&gt;2. Veri tasarrufu işlevini niçin kullanıyım?&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
 2G / 3G şebekelerine bağlıyken mobil veri tasarrufu çalışır.
-Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştırılır ve böylece yükleme işlemi hızlandırılır. "</string>
+Veri aktarımı sırasında, metin ve görüntüler sunucu +  <string name="permission_exception_title">View network permissions</string></string>
   <string name="pref_traffic_saving_notify_switch">Bildirim çubuğunda göster</string>
   <string name="pref_traffic_saving_notify_switch_hint">Veri Tasarrufunu bildirim çubuğunda göster</string>
   <string name="pref_traffic_saving_switch">Veri kullanımını azalt</string>
@@ -492,4 +503,4 @@ Veri aktarımı sırasında, metin ve görüntüler sunucu üzerinde sıkıştı
   <string name="wifi_exception_summary">Kullanılabilir Wi-Fi ağı testi</string>
   <string name="wifi_exception_title">Wi-Fi ağı testi</string>
   <string name="wifi_network_blocked_notification_title">İnternet bağlantısı yok!</string>
-</resources>
+</resources>

@@ -7,6 +7,8 @@
   <string name="action_fail_unknown_error">Tanımlanamayan bir hata oluştu</string>
   <string name="activity_not_found">Bu işlemi tamamlamak için geçerli bir uygulama bulunamadı</string>
   <string name="add_account">Hesap ekle</string>
+  <string name="add_event">Etkinlik ekle</string>
+  <string name="add_event_hint">Bir etiket girin</string>
   <string name="add_sharer">Üye Ekle</string>
   <string name="add_to_cloud_album">Albüme ekle</string>
   <string name="add_to_cloud_exceeded_the_size_message">Dosya çok büyük</string>
@@ -138,7 +140,8 @@
   <string name="comfirm_delete_current_album">Bu albüm silinsin mi?</string>
   <string name="comma">, </string>
   <string name="confirm">Tamam</string>
-  <string name="confirm_all_photo_not_this_people_face">Tüm fotoğraflarda olmadığından emin misiniz?</string>
+  <string name="confirm_all_photo_are_this_people_face">Tümü eşleşti mi？</string>
+  <string name="confirm_all_photo_not_this_people_face">Eşleşme yok mu?</string>
   <string name="confirm_delete">%s resim silinsin mi?</string>
   <string name="confirm_delete_album" formatted="false">%s albüm (toplam %s  öğe) silinsin mi?</string>
   <string name="confirm_delete_has_cloud_image_video">Seçtiğiniz %s öğe Bulut alanından silinsin mi?</string>
@@ -156,8 +159,9 @@
   <string name="confirm_download_video_message">Bu videoyu izleyebilmek için önce tamamen indirmeniz gerekmektedir. Wi-Fi bağlantısı aktif olduğunda indirme devam edecek.</string>
   <string name="confirm_download_video_title">Video\'yu indir</string>
   <string name="confirm_face">Eşle</string>
-  <string name="confirm_left_photo_will_move_out">Soldaki fotoğraflar bu albümün dışına taşınacak</string>
+  <string name="confirm_left_photo_will_move_out">Soldaki fotoğraflar onun değil mi?</string>
   <string name="confirm_merge_face_albums">" "%s albüm ile birleştirilsin mi?" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Bu albümü birleştir: &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Bu kişi değil</string>
   <string name="contact_photo">Kişi fotoğrafı olarak ayarla</string>
   <string name="context_menu_add_contact">Kişilere ekle</string>
@@ -231,6 +235,7 @@
   <string name="error_title">"Senkronizasyon Hatası"</string>
   <string name="error_unauthorized">Çok fazla giriş hatası yaptınız : Senkronizasyon devre dışı.</string>
   <string name="error_unknown_host">"Geçerli bir ağ bulunamadı"</string>
+  <string name="event_manage_photos">Fotoğrafları yönet</string>
   <string name="exit">Çıkış</string>
   <string name="exit_share">Albümden çık</string>
   <string name="exit_share_failed">"%1$s  çıkma başarısız"</string>
@@ -246,6 +251,7 @@
   <string name="face_album_rename_hint">Bir ad girin</string>
   <string name="face_albumset_detecting_tip">Lütfen bekleyin...</string>
   <string name="face_albumset_empty">"Yüz tespit edilmedi"</string>
+  <string name="face_albumset_loading_data">Veri yükleniyor…</string>
   <string name="face_albumset_pending_enable_tip">Cihazınız Wi-Fi ağına bağlandığında fotoğraflarınız sıralanacaktır</string>
   <string name="face_albumset_use_tip">"Fotoğrafları kolayca görüntülemek ve yönetmek için, yüz tanımayı kullanın"</string>
   <string name="face_move_dialog_title">Yüz albümünü seç</string>
@@ -360,7 +366,9 @@
   <string name="menu_item_sort_size_asc">Boyut (artan)</string>
   <string name="menu_item_sort_size_desc">Boyut (azalan)</string>
   <string name="menu_view_contact">Kişiyi gör</string>
+  <string name="merge_album">Birleştir</string>
   <string name="merge_album_positive_button_text">Birleştir</string>
+  <string name="merge_album_title">Albümleri birleştir</string>
   <string name="message_no_delete_access">%s silmeye yetkiniz yok</string>
   <string name="messagelist_sender_self">Ben</string>
   <string name="miliao">MiTalk</string>
@@ -459,6 +467,7 @@
   <string name="photo_size">Boyut</string>
   <string name="photoeditor_name">Mi Fotoğraf Stüdyosu</string>
   <string name="photos">" Fotoğraf"</string>
+   <string name="pick_from_contact">Kişilerden seç</string>
   <string name="pick_too_many_recipients">Çok fazla alıcı</string>
   <string name="pick_too_much_tips">En fazla %d öğe seçilebilir</string>
   <string name="picker_no_album_selected">Hiç bir albüm seçmediniz!</string>
