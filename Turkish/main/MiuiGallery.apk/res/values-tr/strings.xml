@@ -15,7 +15,7 @@
   <string name="add_to_cloud_fail_too_many_items">Çok fazla öğe seçildi</string>
   <string name="add_to_cloud_failed_message_with_count"> %2$s öğe buluta eklenemiyor: %1$s </string>
   <string name="add_to_cloud_file_exist_message">Hedef klasörde bu resim zaten mevcut</string>
-  <string name="add_to_cloud_folder">Klasöre ekle</string>
+  <string name="add_to_cloud_folder">Albüme ekle</string>
   <string name="add_to_cloud_image_limit_exceeded_message">Görüntü limiti aşıldı</string>
   <string name="add_to_cloud_local_space_full_message">Depolama tamamen dolu veya hazır değil</string>
   <string name="add_to_cloud_space_full_message">Bulut albümü dolu</string>
@@ -130,17 +130,17 @@
   <string name="cloud_tab_albums">Albümler</string>
   <string name="cloud_tab_all">Hepsi</string>
   <string name="cloud_tab_locations">Konumlar</string>
-  <string name="cloudfolder_already_exists">Aynı isme sahip bir klasör zaten mevcut</string>
-  <string name="cloudfolder_cannot_start_with">Klasör ismi \'%s\' ile başlayamaz</string>
-  <string name="cloudfolder_contain_invalidate_char">Klasör ismi \'%s\' içeremez</string>
+  <string name="cloudfolder_already_exists">Aynı isme sahip bir albüm zaten mevcut</string>
+  <string name="cloudfolder_cannot_start_with">Albüm ismi \'%s\' ile başlayamaz</string>
+  <string name="cloudfolder_contain_invalidate_char">Albüm ismi \'%s\' içeremez</string>
   <string name="cloudfolder_fail_to_load_data">Bilinmeyen bir sebepten ötürü veriler yüklenemedi, lütfen tekrar deneyiniz</string>
-  <string name="cloudfolder_loading_data">(Veriler yükleniyor...)</string>
-  <string name="cloudfolder_name_cannot_empty">Bir klasör ismi girin</string>
-  <string name="cloudfolder_name_reserved">Bu klasör ismi rezerve edilmiş</string>
+  <string name="cloudfolder_loading_data">Veriler yükleniyor...</string>
+  <string name="cloudfolder_name_cannot_empty">Bir albüm ismi girin</string>
+  <string name="cloudfolder_name_reserved">Bu albüm ismi rezerve edilmiş</string>
   <string name="comfirm_delete_current_album">Bu albüm silinsin mi?</string>
   <string name="comma">, </string>
   <string name="confirm">Tamam</string>
-  <string name="confirm_all_photo_are_this_people_face">Tümü eşleşti mi？</string>
+  <string name="confirm_all_photo_are_this_people_face">Tüm fotoğraflar bu kişi ile ilişkilendirilsin mi？</string>
   <string name="confirm_all_photo_not_this_people_face">Eşleşme yok mu?</string>
   <string name="confirm_delete">%s resim silinsin mi?</string>
   <string name="confirm_delete_album" formatted="false">%s albüm (toplam %s  öğe) silinsin mi?</string>
@@ -159,9 +159,9 @@
   <string name="confirm_download_video_message">Bu videoyu izleyebilmek için önce tamamen indirmeniz gerekmektedir. Wi-Fi bağlantısı aktif olduğunda indirme devam edecek.</string>
   <string name="confirm_download_video_title">Video\'yu indir</string>
   <string name="confirm_face">Eşle</string>
-  <string name="confirm_left_photo_will_move_out">Soldaki fotoğraflar onun değil mi?</string>
+  <string name="confirm_left_photo_will_move_out">"Fotoğraf bu kişiyi içermiyor mu?"</string>
   <string name="confirm_merge_face_albums">" "%s albüm ile birleştirilsin mi?" "</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Bu albümü birleştir: &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "%s albüm ile birleştirilsin mi?" "</string>
   <string name="confirm_not_face">Bu kişi değil</string>
   <string name="contact_photo">Kişi fotoğrafı olarak ayarla</string>
   <string name="context_menu_add_contact">Kişilere ekle</string>
@@ -170,7 +170,7 @@
   <string name="contrast">Kontrast</string>
   <string name="cool">Güzel</string>
   <string name="cool_portrait">Portre</string>
-  <string name="create_new_cloud_folder">Yeni klasör oluştur</string>
+  <string name="create_new_cloud_folder">Yeni albüm oluştur</string>
   <string name="create_new_face">Yeni kişi</string>
   <string name="crop">Kes</string>
   <string name="crop_fail_to_load_image">"Resim yüklenemedi"</string>
@@ -298,13 +298,13 @@
   <string name="highlight">Işık</string>
   <string name="home_my_captured_items">"Kamera rulosundaki görüntüler"</string>
   <string name="home_page_tab_cloud">Bulut</string>
-  <string name="home_page_tab_face">Yüz</string>
+  <string name="home_page_tab_face">Kişi</string>
   <string name="home_page_tab_local">Telefon</string>
-  <string name="home_page_tab_photo">Fotoğraf</string>
-  <string name="ignore_album">Yoksay</string>
-  <string name="ignore_alert_title">"Yoksayarsanı hiçbir şey gösterilmeyecek, devam edilsin mi?"</string>
+  <string name="home_page_tab_photo">Fotoğraflar</string>
+  <string name="ignore_album">"Gösterme"</string>
+  <string name="ignore_alert_title">"Bu albüm gösterilmeyecek, devam edilsin mi?"</string>
   <string name="ignore_face">Bu yüzü yoksay</string>
-  <string name="image_download_item_title">Görüntüyü indir(%s)</string>
+  <string name="image_download_item_title">Fotoğrafı indir(%s)</string>
   <string name="image_quota_fulfiled">Görüntü oluşturulamıyor : Görüntü limiti aşıldı</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">İçe Aktarma Tamamlandı</string>
@@ -319,7 +319,7 @@
   <string name="initial_cloud_button_text">Giriş Yap</string>
   <string name="initial_cloud_text">Dilediğiniz yerden resimlerinize ulaşın ve görüntüleyin.</string>
   <string name="initializing_cloud">Başlatılıyor...</string>
-  <string name="input_cloudfolder_name">Klasör ismi</string>
+  <string name="input_cloudfolder_name">Albüm adı</string>
   <string name="internal_camera_folder_display_name">Dahili kamera resimleri</string>
   <string name="internal_miui_capture_screen_folder_display_name">Dahili Ekran Görüntüleri</string>
   <string name="internal_sd_card">Dahili hafıza</string>
@@ -657,7 +657,7 @@
   <string name="user_alias_self">Kendi</string>
   <string name="video_err">Video oynatılamıyor</string>
   <string name="video_not_exist">Video mevcut değil</string>
-  <string name="videos">Videolar</string>
+  <string name="videos">" video"</string>
   <string name="view_face_album">Albüme gözat</string>
   <string name="view_sharers">Paylaşılanları göster</string>
   <string name="vignette">Skeç</string>
@@ -669,7 +669,7 @@
   <string name="weikan_weikan">Weikan TV</string>
   <string name="where_is_barcode">QR kodu nerede?</string>
   <string name="white_balance">Beyaz Dengesi</string>
-  <string name="who_is_this">Bu kim?</string>
+  <string name="who_is_this">Bu fotoğraftaki kim?</string>
   <string name="widget_type">Resimleri seçin</string>
   <string name="widget_type_album">Bir albüm seçin</string>
   <string name="widget_type_photo">Bir resim seçin</string>
