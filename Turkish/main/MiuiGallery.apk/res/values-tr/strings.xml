@@ -247,6 +247,7 @@
   <string name="external_usb_device">USB depolama</string>
   <string name="external_usb_device_hm">Harici USB Depolama</string>
   <string name="face_album">Yüz albümü</string>
+  <string name="face_album_long_tap_tip">Birden fazla kişi seçmek veya grup ayarlarını değiştirmek için profil resmine basılı tutun...</string>
   <string name="face_album_not_named">Adlandırılmadı</string>
   <string name="face_album_rename_hint">Bir ad girin</string>
   <string name="face_albumset_detecting_tip">Lütfen bekleyin...</string>
@@ -301,6 +302,7 @@
   <string name="home_page_tab_local">Telefon</string>
   <string name="home_page_tab_photo">Fotoğraf</string>
   <string name="ignore_album">Yoksay</string>
+  <string name="ignore_alert_title">"Yoksayarsanı hiçbir şey gösterilmeyecek, devam edilsin mi?"</string>
   <string name="ignore_face">Bu yüzü yoksay</string>
   <string name="image_download_item_title">Görüntüyü indir(%s)</string>
   <string name="image_quota_fulfiled">Görüntü oluşturulamıyor : Görüntü limiti aşıldı</string>
@@ -467,7 +469,7 @@
   <string name="photo_size">Boyut</string>
   <string name="photoeditor_name">Mi Fotoğraf Stüdyosu</string>
   <string name="photos">" Fotoğraf"</string>
-   <string name="pick_from_contact">Kişilerden seç</string>
+  <string name="pick_from_contact">Kişilerden seç</string>
   <string name="pick_too_many_recipients">Çok fazla alıcı</string>
   <string name="pick_too_much_tips">En fazla %d öğe seçilebilir</string>
   <string name="picker_no_album_selected">Hiç bir albüm seçmediniz!</string>
@@ -545,7 +547,7 @@
   <string name="select_auto_upload_albums">Buluta yüklenecek albümü seçin</string>
   <string name="select_image">Resim Seç</string>
   <string name="select_item">Düzenleme Modu</string>
-  <string name="select_item_face">Select photos belong to %1</string>
+  <string name="select_item_face">%1 ait fotoğrafları seçin</string>
   <string name="select_too_much_to_send_tips">Bu kadar fazla öğe gönderilemiyor (maksimum %d öğe).</string>
   <string name="select_video">Video Seç</string>
   <string name="send">Gönder</string>

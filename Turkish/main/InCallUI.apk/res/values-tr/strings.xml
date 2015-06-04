@@ -296,6 +296,16 @@
   <string name="ivr_menu_dialing_msg_no_mute">Seçilen servise gidin...[Otomatik hata düzeltme etkin]</string>
   <string name="ivr_menu_list_sub_menu_count_format">%s basın</string>
   <string name="ivr_menu_list_title">Ses menüsü</string>
+  <string name="jeejen_answer_call_text">Cağrıyı cevapla</string>
+  <string name="jeejen_card_title_call_cancel">Çağrı iptal</string>
+  <string name="jeejen_card_title_call_ended">Çağrı bitti</string>
+  <string name="jeejen_card_title_dialing">Aranıyor</string>
+  <string name="jeejen_card_title_in_call"/>
+  <string name="jeejen_card_title_incoming_call">Gelen çağrı</string>
+  <string name="jeejen_card_title_on_hold"/>
+  <string name="jeejen_end_call_text">Çağrıyı bitir</string>
+  <string name="jeejen_reject_call_text">Çağrıyı engelle</string>
+  <string name="jeejen_toggle_dialpad_text">Tuş Takımı</string>
   <string name="labelCDMAMore">CDMA telefon ayarları</string>
   <string name="labelCF">Arama yönlendirme</string>
   <string name="labelCFB">Meşgul olduğunda yönlendir</string>
