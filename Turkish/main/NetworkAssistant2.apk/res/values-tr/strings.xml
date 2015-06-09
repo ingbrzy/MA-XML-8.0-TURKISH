@@ -120,6 +120,7 @@
   <string name="free_time_traffic_title">Mobil Veri limitini girin</string>
   <string name="free_traffic_settings">Kullanım ayarları</string>
   <string name="gateway_exception_summary">Yönlendiriciyi kontrol edip tekrar deneyin</string>
+  <string name="gateway_exception_summary2">"Sunucuya bağlanamadı!"</string>
   <string name="gateway_exception_title">Yönlendirici testi</string>
   <string name="hints_input_roaming_daily_limit">Veri kullanım limitini girin</string>
   <string name="hints_install_apps_new">Hiç kullanılmamış</string>
@@ -196,7 +197,7 @@
   <string name="network_blocked_connected_open_wifi">Halka açık ağa bağlandı</string>
   <string name="network_blocked_notification_summary">Detaylar için dokunun</string>
   <string name="network_blocked_switch_wifi">Ağa geç</string>
-  <string name="network_connected_exception_title">Ağ testi yap</string>
+  <string name="network_connected_exception_title">Ağ kontrol testi</string>
   <string name="network_control">Uygulama ayarları</string>
   <string name="network_diagnostics">Şebeke testi</string>
   <string name="network_mobile_exception_detail">"Cihazınız internete bağlanamıyor:
@@ -317,9 +318,10 @@
   <string name="pref_specified_adjust">Mobil Veri limitini ayarla</string>
   <string name="pref_specified_traffic_settings">Mobil Veri limiti ayarları</string>
   <string name="pref_title_declaration">Önemli Not</string>
+  <string name="pref_title_diagnostics_dont_show_float_notification">Bildirim alanında uyarı göster</string>
   <string name="pref_title_mobile_traffic">Uyku sırasında veri tüketimini göster</string>
   <string name="pref_title_network_diagnostics">Ağ tanımlama</string>
-  <string name="pref_title_over_traffic_limit_warning">Limiti aşınca mobil veriyi kapat</string>
+  <string name="pref_title_over_traffic_limit_warning">Limiti aşınca</string>
   <string name="pref_title_traffic_limit_number">Günlük limit</string>
   <string name="pref_title_traffic_speed_state">Ağ hızını göster</string>
   <string name="pref_title_update_notification">Veri kullanımını göster</string>

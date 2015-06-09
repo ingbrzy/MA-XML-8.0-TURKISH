@@ -155,6 +155,7 @@
   <string name="callind_multi_sim">Abonelik seçin</string>
   <string name="calling_via_template">%s ile aranıyor</string>
   <string name="callwait_open_hint">\"Çağrı bekletme\" özelliği operatörünüz tarafından sağlanmaktadır. Eğer herhangi bir hata bildirimi alıyorsanız, bu özelliğin desteklendiğinden emin olmak için operatörünüz ile görüşün.</string>
+  <string name="can_not_use_for_not_data_sim">"(Kullanılamaz: Varsayılan veri SIM kartı olarak ayarlanması gerekir)"</string>
   <string name="cancel">İptal</string>
   <string name="card_title_MOcall_forwarding">Yönlendirilmiş giden çağrı</string>
   <string name="card_title_MTcall_forwarding">Gelen çağrı yönlendirildi</string>
@@ -171,7 +172,7 @@
   <string name="card_title_conf_call">Konferans çağrısı</string>
   <string name="card_title_cugcall">CUG çağrısı</string>
   <string name="card_title_deflectedcall">Çağrı Reddedildi</string>
-  <string name="card_title_dialing">Aranıyor...</string>
+  <string name="card_title_dialing">Numara Aranıyor</string>
   <string name="card_title_forwardcheckreceived">Alınan çağrıları kontrol et</string>
   <string name="card_title_forwarded_MTcall">Yönlendirilmiş gelen çağrılar</string>
   <string name="card_title_hanging_up">Kapatılıyor</string>
@@ -215,9 +216,6 @@
   <string name="cfnry_title">Cevap yoksa  yönlendir</string>
   <string name="cfu_title">Herzaman yönlendir</string>
   <string name="change">Ayarla</string>
-  <string name="change_default_data">Değiştir</string>
-  <string name="change_default_data_alert_message">"Çin Telekom SIM kart kullanmak mümkün olmayacaktır."</string>
-  <string name="change_default_data_alert_title">UIM kartı varsayılan olmalıdır</string>
   <string name="change_num">Güncelle</string>
   <string name="change_password">Engelleme şifresini değiştir</string>
   <string name="change_pin">PIN kodunu değiştir</string>
@@ -230,9 +228,9 @@
   <string name="close_profile">Kapat</string>
   <string name="cloud_antispam_title">Bilinmeyen numaraları tespit et</string>
   <string name="command_error_fdn_failure">Bu işlemi yapmak için FDN\'i kapatın.</string>
+  <string name="config_default_data_sim">Ayarlar</string>
   <string name="confirmPin2Label">Yeni PIN2 kodunu onaylayın</string>
   <string name="confirmPinLabel">Yeni PIN kodunu onaylayın</string>
-  <string name="confirm_change_default_data">Değiştir</string>
   <string name="confirm_password_label">Yeni şifreyi onaylayın</string>
   <string name="confirm_pin2_label">Yeni PIN2 kodunu onayla</string>
   <string name="confirm_pin_label">Yeni PIN kodunu onayla</string>
@@ -404,6 +402,7 @@
   <string name="get_smsc_address_error">Mesaj merkezi numarası alınamadı, tekrar deneyin.</string>
   <string name="get_smsc_address_timeout">Bağlantı zaman aşımı</string>
   <string name="goPrivate">Özele git</string>
+  <string name="got_it">TAMAM</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Şebeke özellikleri</string>
   <string name="gsm_umts_network_preferences_title">Şebeke özellikleri</string>
   <string name="gsm_umts_options">GSM/UMTS ayarları</string>
@@ -647,7 +646,6 @@ Yerine tercih edilen şebeke kullanılacak."</string>
   <string name="no_wifi_available_title">Wi-Fi bağlantısı yok</string>
   <string name="not_a_valid_port">Port numarası 1000 ve 65534 arasında olmalıdır</string>
   <string name="not_allowed">SIM kartınız bu şebekeye bağlanma izni vermiyor.</string>
-  <string name="not_change_default_data">"Değişiklik yapma"</string>
   <string name="not_voice_capable">Sesli çağrı desteklenmiyor</string>
   <string name="notification_action_end_call">Çağrıyı Kapat</string>
   <string name="notification_dialing">Aranıyor</string>
@@ -882,7 +880,6 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="reject_via_sms_summary">Arama reddedildiğinde arayana gönderilecek SMS\'i ayarlayın</string>
   <string name="reject_via_sms_title">SMS ile reddet ayarları</string>
   <string name="remember_my_choice">Her zaman internet çağrıları için kullanabilirsiniz</string>
-  <string name="remind_another_time">"Tekrar gösterme"</string>
   <string name="remove">Sil</string>
   <string name="remove_ims_account">Hesabı sil</string>
   <string name="remove_sip_account">Hesabı kaldır</string>
@@ -1124,7 +1121,7 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="voice_report_unknown_num">Bilimmeyen numara</string>
   <string name="voicemail">Sesli mesaj</string>
   <string name="voicemail_abbreviated">VM:</string>
-  <string name="voicemail_default">Benim operatörüm</string>
+  <string name="voicemail_default">Operatörüm</string>
   <string name="voicemail_notification_ringtone_title">Zilsesi</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Titreşim</string>
   <string name="voicemail_notification_vibrate_when_default">Asla</string>
@@ -1146,7 +1143,7 @@ Bu işlem birkaç dakika sürebilir."</string>
   <string name="wifi_calling_do_not_use_call_assistant">Çağrı asistanını kullanma</string>
   <string name="wifi_calling_select_call_assistant">Çağrı asistanı seç</string>
   <string name="wifi_calling_select_call_assistant_summary">Çağrılar için şebekeyi yöneten servis/uygulamayı seç</string>
-  <string name="wifi_calling_use_call_assistant">ÇAğrı asistanını kullan</string>
+  <string name="wifi_calling_use_call_assistant">Çağrı asistanını kullan</string>
   <string name="wifi_calling_use_call_assistant_summary">Let apps or services manage networks used for calls</string>
   <string name="wild_prompt_str">Replace wild character with</string>
   <string name="wrong_password">Yanlış şifre</string>

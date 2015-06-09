@@ -449,7 +449,7 @@
   <string name="paint_cancel_context">Değişiklikler iptal edilsin mi?</string>
   <string name="paint_cancel_title">Uyarı</string>
   <string name="paint_crop_cancel_context">Kaydedilsin mi?</string>
-  <string name="paint_crop_cancel_title">Değişiklikler yoksay</string>
+  <string name="paint_crop_cancel_title">Değişiklikleri yoksay</string>
   <string name="paint_crop_tips">Daha iyi bir görüntü elde etmek için, ilgili parçaları kılavuz noktaları üzerinde hareket ettirin ve yeniden boyutlandırın.</string>
   <string name="paint_highlight">ÖneÇıkan</string>
   <string name="paint_highlight_cancel_context">Fotoğraf kaydedilsin mi?</string>
@@ -610,7 +610,7 @@
   <string name="straighten">Düzelt</string>
   <string name="straighten_tooltip">Fotoyu düzeltmek için sürükleyin</string>
   <string name="sync_album">Albümleri senkronize et</string>
-  <string name="sync_album_error">"Bu albümdeki fotoğraflarin yüklenmesi sırasında bir sorun oluştu. Lütfen daha sonra tekrar deneyin."</string>
+  <string name="sync_album_error">"Bu albümdeki fotoğrafların yüklenmesi sırasında bir sorun oluştu. Lütfen daha sonra tekrar deneyin."</string>
   <string name="sync_album_in_proecess">Albüm sunucuyla senkronize ediliyor...</string>
   <string name="sync_album_set_error">"Albüm listesi yüklenirken bir sorun oluştu. Lütfen daha sonra tekrar deneyin."</string>
   <string name="sync_album_summary">Fotoğrafları Bulut alanınıza yükleyin</string>
