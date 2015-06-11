@@ -6,6 +6,8 @@
   <string name="app_no_notification">Bildirim yok</string>
   <string name="app_notificaiton_on_notificationBar">Bildirim çubuğu</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Durum ve bildirim çubuğu</string>
+  <string name="app_name_which_call">Uygulama:%s</string>
+  <string name="app_version_which_call">Uygulama sürümü:%s</string>
   <string name="default_name">Varsayılan</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
@@ -14,13 +16,18 @@
   <string name="group_name_coworkers">Okul</string>
   <string name="group_name_family">Aile</string>
   <string name="group_name_friends">Arkadaşlar</string>
+  <string name="license_host_unreachable">"Ağ bağlantısı yok, bilgiyi görüntülemek için : 
+ %s"</string>
+  <string name="loading">Yükleniyor ...</string>
   <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
   <string name="lockscreen_access_pattern_start">Desen başladı</string>
   <string name="lunar_calendar">Ay Takvimi</string>
   <string name="maml_component_customization_title">Ayarlar</string>
+  <string name="mibi_license">Mi Kredisi Hizmet Şartları</string>
   <string name="no_notification_tips">Bildirim yok</string>
+  <string name="policy_name">Politika:%s</string>
   <string name="presentation_payphone">Telefon kulübesi</string>
   <string name="presentation_private">Gizli Numara</string>
   <string name="presentation_unknown">Bilinmeyen Numara</string>

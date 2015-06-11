@@ -48,6 +48,7 @@
   <string name="cancel">İptal</string>
   <string name="cancel_favorite_success">Favorilerden kaldırıldı</string>
   <string name="check_app_version">Son sürüm kontrol ediliyor...</string>
+  <string name="check_network">Ağ bağlantısını kontrol edip tekrar deneyin</string>
   <string name="check_network">"Ağa bağlanılamıyor. Veri bağlantınızı kontrol edip tekrar deneyin."</string>
   <string name="clarity_high">Yüksek</string>
   <string name="clarity_standard">Standart</string>
@@ -89,6 +90,7 @@
   <string name="declaration_allow">Tamam</string>
   <string name="declaration_content">"Bu uygulamayı kullanarak Sohu Video, iQiyi ve diğer sağlayıcıların kullanım koşullarını kabul etmiş olursunuz"</string>
   <string name="declaration_content_td_custom">"Video uygulamasının düzgün çalışması için internet bağlantısı gerekir !"</string>
+  <string name="defaults">Varsayılan</string>
   <string name="defaults">Varsayılan</string>
   <string name="delete">Sil</string>
   <string name="delete_action_text">SİL (%d)</string>
@@ -137,6 +139,10 @@
   <string name="file_error">Dosya hatası</string>
   <string name="file_not_exist">Dosya mevcut değil!</string>
   <string name="filter">Filtrele</string>
+  <string name="forecast">Forecast</string>
+  <string name="forecast_empty_hint">No Epg</string>
+  <string name="forecasts">EPG</string>
+  <string name="fullscreen">Tam ekran</string>
   <string name="filter_media">Medyayı filtrele</string>
   <string name="funshion">Funshion</string>
   <string name="gong_count_dlna">%d DLNA</string>
@@ -162,6 +168,7 @@
   <string name="join_alert_title">Beta teste katıl</string>
   <string name="join_hint">Kodu girin</string>
   <string name="key_back_down_toast">Çıkmak için tekrar dokun</string>
+  <string name="key_back_down_toast">Çıkmak için GERİ tuşuna tekrar basın</string>
   <string name="lastrefresh">Son güncelleme:</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
@@ -275,6 +282,9 @@
   <string name="select_all">Tümünü seç</string>
   <string name="select_count_xiang">%d Seçildi</string>
   <string name="select_none">Hiçbirini seçme</string>
+  <string name="select_tv">Kanallar</string>
+  <string name="select_tv_empty_hint">Kanal yok</string>
+  <string name="select_tvs">Kanallar</string>
   <string name="select_tv">Kanal seç</string>
   <string name="select_tv_empty_hint">Kanal yok</string>
   <string name="select_tvs">Bir kanal seçin</string>
@@ -322,6 +332,7 @@
   <string name="update_to_count_ji">%1$s bölüme güncellendi</string>
   <string name="update_to_count_qi">%s e güncellendi</string>
   <string name="updatedalready">Güncellendi</string>
+  <string name="tv_channel_empty_hint">Kanal yok</string>
   <string name="upgrade">Güncelle</string>
   <string name="use_cellular_network">Mobil veri ayarları</string>
   <string name="use_cellular_network_summary">Video indirmek için mobil veri bağlantısı kullan.</string>

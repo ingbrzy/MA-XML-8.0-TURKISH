@@ -2,6 +2,7 @@
 <resources>
   <string name="Parse_error_dlg_text">Paket ayrıştırılırken bir hata oluştu!</string>
   <string name="Parse_error_dlg_title">Ayrıştırma hatası!</string>
+  <string name="activity_package_delete_confirm_title">Önemli Uyarı !</string>
   <string name="ad_block_button_title">Reklam engelleme</string>
   <string name="ad_relative">Reklam</string>
   <string name="adware_count">%d eklenti içeriyor</string>
@@ -15,6 +16,11 @@
   <string name="app_not_found_dlg_text">Yüklü uygulamalar listesinde bulunamadı!</string>
   <string name="app_not_found_dlg_title">Uygulama bulunamadı!</string>
   <string name="auto_startup_dialog_msg">MIUI uygulamaları otomatik olarak başlatacak. İzin vermek istiyor musunuz??"</string>
+  <string name="button_text_cancel">İptal</string>
+  <string name="button_text_delete">SİL</string>
+  <string name="button_text_delete_timer">SİL (%d)</string>
+  <string name="button_text_next_step">İleri</string>
+  <string name="button_text_next_step_timer">İleri (%d)</string>
   <string name="caller_app">Yükleme İsteği: %1$s</string>
   <string name="cancel">İptal</string>
   <string name="dlg_app_replacement_statement">"Bu uygulama, daha önce yüklediğiniz bir uygulamanın yerine geçecek. 
@@ -53,6 +59,9 @@
   <string name="other_relative">Diğer izinler</string>
   <string name="out_of_space_dlg_text">%1$s yüklenemedi, yeterli boş alan yok!</string>
   <string name="out_of_space_dlg_title">Alan dışında!</string>
+  <string name="package_delete_confirm_step_1">%s silinsin mi?</string>
+  <string name="package_delete_confirm_step_2">Bu uygulamayı silmeniz sistemin kararlı yapısını bozabilir!</string>
+  <string name="package_delete_confirm_step_3">"Bu uygulamayı tekrar kullanmanız mümkün olmayacaktır!"</string>
   <string name="perm_action_accept">Kabul Et</string>
   <string name="perm_action_prompt">Sor</string>
   <string name="perm_action_reject">Engelle</string>
@@ -79,7 +88,7 @@
   <string name="security_settings_desc">Uygulamaya izin ver:</string>
   <string name="settings">Ayarlar</string>
   <string name="trust_switch_dialog_msg">"MIUI tekrar güvenlik uyarısı yapmayacak, bu uygulamanın güvenli olduğundan emin misiniz？"</string>
-  <string name="uninstall_activity_text">%1$s Aşağıdaki uygulamanın bir parçasıdır:</string>
+  <string name="uninstall_activity_text">%1$s, aşağıdaki uygulamanın bir parçasıdır:</string>
   <string name="uninstall_application_text">Uygulama kaldırılacak!</string>
   <string name="uninstall_application_title">Uygulamayı kaldır</string>
   <string name="uninstall_confirm_question">Uygulamayı kaldırmak istiyor musunuz?</string>
