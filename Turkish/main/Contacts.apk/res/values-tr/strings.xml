@@ -152,6 +152,7 @@
   <string name="close_dial_pad">Tuş takımını kapat</string>
   <string name="cloud_antispam_mark">Raporla</string>
   <string name="cloud_antispam_title">Bilinmeyen numaraları tespit et</string>
+  <string name="cloud_recommend_msg">Kişileri Mi Bulut ile senkronize etmek için dokunun</string>
   <string name="composer_failed_to_get_database_infomation">Veritabanı bilgisi alınamıyor.</string>
   <string name="composer_has_no_exportable_contact">Dışa aktarabilir kişi bulunmamaktadır. Telefonunuzda kişileriniz varsa, bazı veri sağlayıcıları kişilerin telefondan dışa aktarılmasına izin vermiyor olabilir.</string>
   <string name="composer_not_initialized">vCard oluşturucu düzgün başlamadı.</string>
@@ -173,7 +174,7 @@
   <string name="contact_detail_calllog_call_record_tips">Arama ses kaydı</string>
   <string name="contact_directory_description">Dizin %1$s</string>
   <string name="contact_edit_title_edit">Kişiyi Düzenle</string>
-  <string name="contact_edit_title_insert">%s Kişi oluştur</string>
+  <string name="contact_edit_title_insert">%s\' kaydet<string>
   <string name="contact_edit_title_readonly">Sadece okunabilir kişi</string>
   <string name="contact_editor_prompt_multiple_accounts">Kaydedilecek olan hesabı seçin</string>
   <string name="contact_editor_prompt_one_account">Yeni kişi %1$s ile senk edilecek</string>

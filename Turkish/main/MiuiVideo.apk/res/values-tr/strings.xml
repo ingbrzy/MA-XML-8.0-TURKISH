@@ -43,6 +43,8 @@
   <string name="average_score">Ortalama puanı</string>
   <string name="avg_score">%.1f</string>
   <string name="bestv">Bestv</string>
+  <string name="bmp_quality_mode">Görüntü kalitesi</string>
+  <string name="bmp_quality_mode_desc"></string>
   <string name="buffering">Yükleniyor...</string>
   <string name="buffering_video_netplay_label_v5">Yükleniyor...</string>
   <string name="cancel">İptal</string>
@@ -332,13 +334,13 @@
   <string name="use_cellular_offlinedownload_summary">Mobil veri ile video indirirken bildirim göster</string>
   <string name="use_cellular_offlinedownload_title">Mobil veri bildirimleri</string>
   <string name="use_cellular_play_summary">Mobil veri ile video izlemeniz, veri kullanım miktarını önemli ölçüde arttıracaktır!</string>
-  <string name="use_cellular_play_title">Video izlerken bobil veri kullan</string>
+  <string name="use_cellular_play_title">Video izlerken mobil veri kullan</string>
   <string name="user_tab">Hesap</string>
   <string name="version_select">Sürüm seç</string>
   <string name="version_select_summary">Hangi sürümü kullandığınızı seçin</string>
   <string name="video">Video</string>
   <string name="video_app_update">Güncelle</string>
-  <string name="video_bbs">Katıl</string>
+  <string name="video_bbs">Bize Katılın</string>
   <string name="video_bbs_url">Uygulama gelişimine yardımcı olun</string>
   <string name="video_count">%d video</string>
   <string name="video_info_audio_bitrate_label">Ses bit oranı:</string>

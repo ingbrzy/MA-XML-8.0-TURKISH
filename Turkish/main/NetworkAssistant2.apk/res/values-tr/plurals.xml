@@ -20,4 +20,20 @@
 	 <item quantity="other">%d uygulama bulundu</item>
 	 <item quantity="one">%d uygulama bulundu</item>
  </plurals>
+<plurals name="hints_traffic_enable_title">
+	<item quantity="other">%d uygulamanın veri kullanımı izlenmiyor</item>
+	<item quantity="one">%d uygulamanın veri kullanımı izlenmiyor</item>
+</plurals>
+<plurals name="hints_traffic_disable_title">
+	<item quantity="other">%d uygulamanın veri kullanımı izleniyor</item>
+	<item quantity="one">%d uygulamanın veri kullanımı izleniyor</item>
+</plurals>
+<plurals name="hints_traffic_saving_enable_title">
+	<item quantity="other">%d uygulama veri tasarrufu kullanıyor</item>
+	<item quantity="one">%d uygulama veri tasarrufu kullanıyor</item>
+</plurals>
+<plurals name="hints_traffic_saving_disable_title">
+	<item quantity="other">%d uygulama veri tasarrufu kullanmıyor</item>
+	<item quantity="one">%d uygulama veri tasarrufu kullanmıyor</item>
+</plurals>
 </resources>
