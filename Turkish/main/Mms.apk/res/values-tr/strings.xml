@@ -171,8 +171,9 @@
   <string name="forward_prefix">ILT:</string>
   <string name="found_old_messages">%1$s - %2$s arasındaki mesajlar yüklensin mi?</string>
   <string name="found_old_messages_title">Diğer SIM kartlarınızdaki mesajlar yüklensin mi?</string>
-  <string name="found_wild_messages">Aşağıdaki numaralardan gelen mesajlar Mi Bulut içinde depolanmıştır. %s şimdi hepsi indirilsin mi?</string>
-  <string name="found_wild_messages_title">Mesajları indir</string>
+  <string name="found_wild_messages_guide_cloud_desc">Mesajlarınızı Mi Bulut ile senkronize etmek için Mi Hesabınız ile oturum açın ve SMS\'leri senkronize et seçeneğini etkinleştirin.</string>
+  <string name="found_wild_messages_guide_settings_desc">Mi Bulut > Mesaj ayarları > SMS\'leri senkronize et</string>
+  <string name="found_wild_messages_title">SMS mesajlarını Senkronize et</string>
   <string name="from_label">Kimden:</string>
   <string name="group_message">Grup mesajı</string>
   <string name="group_message_failed_title">%d kişiye mesaj gönderilemedi</string>
@@ -327,6 +328,7 @@
   <string name="pref_mms_settings_title">"Multimedia (MMS) mesajları"</string>
   <string name="pref_notification_settings_title">Bildirimler</string>
   <string name="pref_other_title">Diğer</string>
+  <string name="pref_show_blocked_messages_summary">Sohbetteki engellenen mesajları göster</string>
   <string name="pref_show_sms_template_summary">Doğrulama kodlarını otomatik kopyala ve doldur</string>
   <string name="pref_sms_theme_title">Görüntüleme</string>
   <string name="pref_summary_allow_si_sl_push">(SI/SL) WAP Push mesajlar  ve bildirimlerine izin verir</string>
@@ -406,6 +408,7 @@
   <string name="remove_video">Videoyu kaldır</string>
   <string name="replace">Değiştir</string>
   <string name="replace_image">Resmi değiştir</string>
+  <string name="reply_button_msg">Tekrar dene</string>
   <string name="resent_message">Tekrar gönder</string>
   <string name="resize_image_error_information">Bu resim, yeniden boyutlandırıldığında dahi gönderilemeyecek kadar büyük.</string>
   <string name="resource_price_free">Ücretsiz</string>
@@ -523,6 +526,7 @@
   <string name="timed_message_to">şuna</string>
   <string name="title_collapse_sp_messages">Operatör grup mesajları</string>
   <string name="title_date_type">Tarih</string>
+  <string name="title_show_blocked_messages">Engellenen mesajları göster</string>
   <string name="title_show_sms_template">Doğrulama kodu için SMS kontrolü yap</string>
   <string name="title_timed_message_dialog">Saatli mesaj ayarlayın</string>
   <string name="to_address_label">Kime:</string>

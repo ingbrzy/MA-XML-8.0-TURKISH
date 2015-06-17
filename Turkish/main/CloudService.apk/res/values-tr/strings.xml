@@ -25,11 +25,11 @@
   <string name="cloud_back_up_interval_long">1 hafta</string>
   <string name="cloud_back_up_interval_short">1 gün</string>
   <string name="cloud_back_up_network_unavailable">"Kaldırılamaz, Wi-Fi ağına bağlanıp tekrar deneyin."</string>
-  <string name="cloud_back_up_open_info">"Ana ekran düzenini %1$s ara ile yedekler.
- Son yedekleme: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Ana ekran düzenini %1$s ara ile yedekler.</string>
+  <string name="cloud_back_up_open_info">"Ana ekranı ve uygulamaları %1$s ara ile yedekler.
+Son yedekleme: %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Ana ekranı ve uygulamaları %1$s ara ile yedekler.</string>
   <string name="cloud_back_up_remove_success">Yedek silindi</string>
-  <string name="cloud_back_up_title">Ana ekranı yedekle</string>
+  <string name="cloud_back_up_title">Ana ekranı ve uygulamaları yedekle</string>
   <string name="cloud_backup_dialog_title">Mi Bulut ile yedekle</string>
   <string name="cloud_find_device">Cihazımı bul</string>
   <string name="cloud_space_upgrade_message">%sGB alan eklemek için dokunun</string>
@@ -104,7 +104,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="master_alert_notif_dspt_add">%s öğe senkronize için bekliyor.</string>
   <string name="master_alert_notif_dspt_no">Herşey güncel.</string>
   <string name="master_alert_notif_title">Son senkronizasyon: %s gün önce</string>
-  <string name="micloud_buy_member">Üyeliği yükselt</string>
+  <string name="micloud_buy_member">Hesap</string>
   <string name="micloud">Mi Bulut</string>
   <string name="micloud_check_sim_notify_text">"SIM kartınız değişmiş gibi görünüyor. 
   Mi Hesabınızla oturum açarak Mi Bulut hizmetini tekrar etkinleştirin."</string>
@@ -178,22 +178,22 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_more">Daha fazla bilgi</string>
   <string name="micloud_proceed">Devam</string>
   <string name="micloud_sec_dspt">ve arkadaşlarınızla paylaşın.</string>
-  <string name="micloud_setting_antispam_summary">DND için İstisnalar ve bloke edilen telefon numaraları.</string>
+  <string name="micloud_setting_antispam_summary">İstisnalar ve bloke edilen telefon numaralar</string>
   <string name="micloud_setting_browser_summary">Yer imleri ve geçmiş</string>
   <string name="micloud_setting_contact_summary">Kişi bilgileri ve profil fotoğrafları</string>
-  <string name="micloud_setting_deskclock_summary">Saat ayarları</string>
+  <string name="micloud_setting_deskclock_summary">Saat ve alarm ayarları</string>
   <string name="micloud_setting_gallery_summary">Fotoğraflar ve videolar</string>
   <string name="micloud_setting_music_summary">Oynatma listensi ve favoriler</string>
   <string name="micloud_setting_sms_summary">SMS ve MMS mesajları</string>
   <string name="micloud_setting_wifi_summary">Wi-Fi Ayarları</string>
   <string name="micloud_single_dspt">Verilerinizi senkronize etmek, cihazınızı bulmak ve arkadaşlarınızla bir şeyler paylaşmak için Mi Bulutu kullanın.</string>
-  <string name="micloud_space_applist_detail">Telefon uygulamasını kullanarak ana ekran alanını yönetin.</string>
-  <string name="micloud_space_applist_title">Ana Ekranı yedekleme alanı</string>
+  <string name="micloud_space_applist_detail">Ana ekrandaki uygulamalarınızı yönetin.</string>
+  <string name="micloud_space_applist_title">Uygulamaları yönet</string>
   <string name="micloud_space_duokan_detail">Duokan uygulamasını kullanarak Duokan içeriğinizi yönetin.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">Kullanım alanım bitince ne yapacağım?</string>
-  <string name="micloud_space_soundrecorder_detail">Telefon uygulamasını kullanarak ses kaydedici içeriğini yönetin.</string>
-  <string name="micloud_space_soundrecorder_title">Ses kaydedici alanı</string>
+  <string name="micloud_space_soundrecorder_detail">Telefonunuzdaki ses kaydedici içeriğini yönetin.</string>
+  <string name="micloud_space_soundrecorder_title">Ses kayıtları</string>
   <string name="micloud_storage">Depolama</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Aboneliğinizi yenilemeniz gerekmektedir.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Aboneliğinizi yenilemeniz gerekmektedir.</string>
@@ -247,7 +247,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="restoreSync">Şimdi senkronize et</string>
   <string name="setting">Ayarlar</string>
   <string name="settings_backup_title">Sistem ayarlarını yedekle</string>
-  <string name="sms">SMS</string>
+  <string name="sms">Mesajlar</string>
   <string name="space">Alan</string>
   <string name="start_micloud">Başla</string>
   <string name="storage">Depolama</string>
