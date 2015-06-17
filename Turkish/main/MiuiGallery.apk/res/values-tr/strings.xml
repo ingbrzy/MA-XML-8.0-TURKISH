@@ -140,8 +140,8 @@
   <string name="comfirm_delete_current_album">Bu albüm silinsin mi?</string>
   <string name="comma">, </string>
   <string name="confirm">Tamam</string>
-  <string name="confirm_all_photo_are_this_people_face">Tüm fotoğraflar bu kişi ile ilişkilendirilsin mi？</string>
-  <string name="confirm_all_photo_not_this_people_face">Eşleşme yok mu?</string>
+  <string name="confirm_all_photo_are_this_people_face">Tüm fotoğraflar %s ile ilişkilendirilsin mi？</string>
+  <string name="confirm_all_photo_not_this_people_face">%s ile eşleşme yok mu?</string>
   <string name="confirm_delete">%s fotoğraf silinsin mi?</string>
   <string name="confirm_delete_album" formatted="false">%s albüm (toplam %s  öğe) silinsin mi?</string>
   <string name="confirm_delete_has_cloud_image_video">Seçtiğiniz %s öğe Bulut alanından silinsin mi?</string>
@@ -159,7 +159,8 @@
   <string name="confirm_download_video_message">Bu videoyu izleyebilmek için önce tamamen indirmeniz gerekmektedir. Wi-Fi bağlantısı aktif olduğunda indirme devam edecek.</string>
   <string name="confirm_download_video_title">Video\'yu indir</string>
   <string name="confirm_face">Eşle</string>
-  <string name="confirm_left_photo_will_move_out">"Fotoğraf bu kişiyi içermiyor mu?"</string>
+  <string name="confirm_left_photo_will_move_in">%s kalan fotoğraflarda var mı?</string>
+  <string name="confirm_left_photo_will_move_out">"%s kalan fotoğraflarda yok mu?</string>
   <string name="confirm_merge_face_albums">" "%s albüm ile birleştirilsin mi?" "</string>
   <string name="confirm_merge_many_face_albums">" "%s albüm ile birleştirilsin mi?" "</string>
   <string name="confirm_not_face">Bu kişi değil</string>
@@ -235,6 +236,7 @@
   <string name="error_title">"Senkronizasyon Hatası"</string>
   <string name="error_unauthorized">Çok fazla giriş hatası yaptınız : Senkronizasyon devre dışı.</string>
   <string name="error_unknown_host">"Geçerli bir ağ bulunamadı"</string>
+  <string name="event_create_long_photo">Fotoğraf oluşturulıyor…</string>
   <string name="event_manage_photos">Fotoğrafları yönet</string>
   <string name="exit">Çıkış</string>
   <string name="exit_share">Albümden çık</string>
@@ -260,7 +262,7 @@
   <string name="facetan">Face Tan</string>
   <string name="fail_hint">Operasyon başarısız</string>
   <string name="fail_init_gallery_db_helper">"Galeri veri tabanı yüklenemedi"</string>
-  <string name="fail_to_download_n_items">"%s indirilemedi"</string>
+  <string name="fail_to_download_n_items">"%s öğe indirilemedi"</string>
   <string name="fail_to_pick_email">Geçersiz Email</string>
   <string name="fail_to_sync_album">"Albümün sunucuyla senkronizasyonu başarısız. Ağ bağlantılarınızı kontrol edin."</string>
   <string name="file_not_exist_message">Dosya bulunmuyor</string>
@@ -327,6 +329,7 @@
   <string name="internal_sdcard_root">Dahili hafıza kök dizini</string>
   <string name="invalid_invition_url">Hatalı davet bağlantısı</string>
   <string name="invalid_recipient_message">Girdiğiniz alıcı isimleri geçersiz</string>
+  <string name="is">%s olabilir mi?</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">Bu fotoğraf Bulut ile senkronize edilmemiş ve orijinali indirilememektedir</string>
   <string name="item_not_sync_for_origin_video">Bu video Bulut ile senkronize edilmemiş ve indirilememektedir</string>
@@ -369,7 +372,6 @@
   <string name="menu_item_sort_size_desc">Boyut (azalan)</string>
   <string name="menu_view_contact">Kişiyi gör</string>
   <string name="merge_album">Birleştir</string>
-  <string name="merge_album_positive_button_text">Birleştir</string>
   <string name="merge_album_title">Albümleri birleştir</string>
   <string name="message_no_delete_access">%s silmeye yetkiniz yok</string>
   <string name="messagelist_sender_self">Ben</string>
@@ -399,7 +401,7 @@
   <string name="name_wrong">%s yanlış</string>
   <string name="negative">Negatif</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
-  <string name="network_connected_rescan">İnternete bağlandıktan sonra tekrar tarayın.</string>
+  <string name="network_connected_rescan">"İnternet bağlantısı yok"</string>
   <string name="new_device_tips">"Cihazı görüntülemek için dokunun
   "</string>
   <string name="no">Hayır</string>
@@ -416,6 +418,7 @@
   <string name="no_thumbnail">Ön izleme yok</string>
   <string name="none_picture">Görüntü yok</string>
   <string name="not_auto_create_recent_album">Favori oluşturmayı geri al</string>
+  <string name="not_is">%s değil mi?</string>
   <string name="not_now">Şimdi değil</string>
   <string name="not_show_hidden_albums">Gizli albümleri gösterme</string>
   <string name="old">​Eski</string>
@@ -506,6 +509,7 @@
   <string name="remove_from_secret_unfinished_message_with_count">%1$s öğe gizli albümden kaldırılamadı!</string>
   <string name="remove_hidden_album">Albüm gizliliğini kaldır</string>
   <string name="remove_recent_album">Favorilerden kaldır</string>
+  <string name="rename_event">Etkinliği adlandır</string>
   <string name="rename_face_album">Adı değiştir</string>
   <string name="rename_fail_msg">Ad değiştirme başarısız!</string>
   <string name="rename_failed">"Yeniden adlandırma başarısız"</string>
@@ -547,7 +551,7 @@
   <string name="select_auto_upload_albums">Buluta yüklenecek albümü seçin</string>
   <string name="select_image">Fotoğrafı Seç</string>
   <string name="select_item">Düzenleme Modu</string>
-  <string name="select_item_face">%1 ait fotoğrafları seçin</string>
+  <string name="select_item_face">"Fotoğraf '%s' olabilir"</string>
   <string name="select_too_much_to_send_tips">Bu kadar fazla öğe gönderilemiyor (maksimum %d öğe).</string>
   <string name="select_video">Video Seç</string>
   <string name="send">Gönder</string>
@@ -577,6 +581,7 @@
   <string name="share_by_email_successfully">Paylaşıldı  %1$s </string>
   <string name="share_current_album">Geçerli albümü paylaş</string>
   <string name="share_public_url_text">%1$s albümümü seninle paylaştım. Buradan görebilirsin : %2$s</string>
+  <string name="share_title_more">Daha Fazla</string>
   <string name="sharer_quota_fulfiled">Kullanıcı eklenemiyor : Kullanıcı limitine ulaşıldı</string>
   <string name="sharpen">Keskinlik</string>
   <string name="show_all">Fotoğraflar ve videolar</string>

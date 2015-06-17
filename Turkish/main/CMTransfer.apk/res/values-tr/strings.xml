@@ -384,6 +384,7 @@
   <string name="receive_file">Dosya Al</string>
   <string name="receiver_version_error">Alıcı telefondaki CM Transfer sürümü güncel değil. &lt;br&gt;&lt;font color=#909090 &gt;Şimdi güncellensin mi?&lt;/font&gt;</string>
   <string name="receiver_version_error_result">&lt;font color=#909090 &gt;%d dosya gönderilemedi, çünkü &lt;/font&gt;alıcı telefondaki CM Transfer sürümü güncel değil&lt;font color=#909090 &gt;. Güncelleyin ve tekrar deneyin.&lt;/font&gt;</string>
+  <string name="recent_recv_path">Konum:/</string>
   <string name="recv_action_accept">Evet</string>
   <string name="recv_action_deny">Hayır</string>
   <string name="recv_history_file_btn_delele">Sil (%1$d)</string>
