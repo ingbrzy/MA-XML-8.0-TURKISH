@@ -1534,4 +1534,37 @@ Kapatmak ister misiniz?"</string>
   <string name="years">yıl</string>
   <string name="yes">Tamam</string>
   <string name="zen_mode_forever">Süresiz</string>
+  <string name="lockscreen_airplane_mode_on">Uçak Modu</string>
+ <string name="lockscreen_sim_error_message_short">Geçersiz Kart</string>
+ <string name="permission">İzin</string>
+ <string name="permission_remember_choice">Hatırla</string>
+ <string name="pinpuk_attempts">"
+Kalan deneme sayısı :"</string>
+ <string name="progress_nomediapresent">Çıkarılabilir ortam mevcut değil…</string>
+ <string name="quick_contacts_not_available">Bu kişiyi görüntüleyecek uygulama bulunamadı</string>
+ <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
+ <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
+ <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
+ <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
+ <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
+ <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
+ <string name="storage_uicc">UICC storage</string>
+ <string name="transient_navigation_confirmation_long">Sistem çubuğunu ortaya çıkarmak için ekranın kenarından kaydırın</string>
+ <string name="web_user_agent_target_content">"Mobil "</string>
+ <string name="webviewchromium_color_picker_button_black">Siyah</string>
+ <string name="webviewchromium_color_picker_button_blue">Mavi</string>
+ <string name="webviewchromium_color_picker_button_cyan">Cam göbeği</string>
+ <string name="webviewchromium_color_picker_button_green">Yeşil</string>
+ <string name="webviewchromium_color_picker_button_magenta">Eflatun</string>
+ <string name="webviewchromium_color_picker_button_red">Kırmızı</string>
+ <string name="webviewchromium_color_picker_button_white">Beyaz</string>
+ <string name="webviewchromium_color_picker_button_yellow">Sarı</string>
+ <string name="webviewchromium_copy_to_clipboard_failure_message">Panoya kopyalama başarısız</string>
+ <string name="webviewchromium_date_picker_dialog_other_button_label">Diğer</string>
+ <string name="webviewchromium_profiler_error_toast">Profiler başlayamadı</string>
+ <string name="webviewchromium_profiler_no_storage_toast">"Harici depolama hazır değil, profiler başlayamaz"</string>
+ <string name="webviewchromium_profiler_started_toast">Profiler başladı</string>
+ <string name="webviewchromium_profiler_stopped_toast">Profiler bitti. Sonuçlar: %1$s.</string>
+ <string name="webviewchromium_time_picker_dialog_title">Zamanı ayarla</string>
+ <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
 </resources>

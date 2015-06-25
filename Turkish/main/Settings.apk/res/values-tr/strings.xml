@@ -597,6 +597,7 @@
   <string name="change_security_lock">Kilit açma yöntemini değiştir</string>
   <string name="check_update">Güncellemeleri kontrol et</string>
   <string name="checking_for_updates">Güncellemeler kontrol ediliyor...</string>
+  <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">Zaman dilimini seç</string>
   <string name="cleaner">Temizleyici</string>
   <string name="clear_activities">Varsayılanları temizle</string>
@@ -1526,6 +1527,7 @@
   <string name="no_updates_warning2">Sakin olun, bir güncelleme olduğunda size söyleyeceğiz :)</string>
   <string name="noise_suppression">Gürültü engelleme</string>
   <string name="normal_date_format">Bölgesel (%s)</string>
+  <string name="normal_smartcover_title">Opaque front cover</string>
   <string name="not_installed">Yüklenmedi</string>
   <string name="notification_app_settings_button">Bildirim ayarları</string>
   <string name="notification_breathing_light_color_title">Bildirim LED rengi</string>
@@ -2138,6 +2140,7 @@
   <string name="slot_name">SIM %d</string>
   <string name="slot_status_title">"IMEI bilgileri"</string>
   <string name="small_font">Ufak</string>
+  <string name="smallwindow_smartcover_title">Transparent front cover</string>
   <string name="smartcover_sensitive_title">Akıllı Kapak Modu</string>
   <string name="sms_application_title">Varsayılan SMS uyglaması</string>
   <string name="sms_change_default_dialog_text" formatted="false">SMS uygulaması olarak %s yerine %s kullanmak ister misiniz?</string>

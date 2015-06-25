@@ -83,12 +83,15 @@
   <string name="description_direction_left">%s için sola kaydırın.</string>
   <string name="description_direction_up">%s kilidini açmak yukarı kaydırın.</string>
   <string name="description_target_search">Ara</string>
+  <string name="disable_notification_summary">Bu uygulamanın bildirimlerini asla gösterme</string>
+  <string name="disable_notification_title">Bildirimleri engelle</string>
   <string name="dismount_storage">Hayır</string>
   <string name="dlg_confirm_kill_storage_users_text">USB depolamayı açarsanız, kullandığınız bazı uygulamalar durabilir ya da USB depolama kaptılana kadar kullanılamayabilir.</string>
   <string name="dlg_confirm_kill_storage_users_title">USB depolamayı aç</string>
   <string name="dlg_error_title">USB işlemi başarısız</string>
   <string name="dlg_ok">Tamam</string>
   <string name="drive_mode_tip">"Sürüş modundasınız"</string>
+  <string name="expanded_notification_manager">Bildirimleri yönet</string>
   <string name="ext_media_badremoval_notification_message">Veri kaybını önlemek için USB depolamayı çıkarmadan önce bağlantısını kesin.</string>
   <string name="ext_media_badremoval_notification_title">USB depolama beklenmedik bir şekilde çıkartıldı</string>
   <string name="ext_media_checking_notification_message">Hatalar kontrol ediliyor.</string>
@@ -142,6 +145,7 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="notification_otg_trackball_out">Trackball bağlantısı kesildi</string>
   <string name="notification_otg_unknow_in">OTG cihazı bağlandı</string>
   <string name="notification_otg_unknow_out">OTG Cihaz bağlantısı kesildi</string>
+  <string name="notification_template_text">" bildirimi var. Görüntülemek için dokunun"</string>
   <string name="reject_call">Çağrıyı reddet</string>
   <string name="return_to_incall_screen">Çağrıya dön</string>
   <string name="screenshot_failed_text">Ekran görüntüsü kaydedilemedi. Depolama birimi kullanımda olabilir.</string>
