@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">Uygulama telefonunuzda yüklü değil</string>
+  <string name="app_being_backup_message">Uygulama yedekleniyor</string>
+  <string name="app_being_restored_message">Uygulama geri yükleniyor</string>
   <string name="app_category_books">Kitaplar</string>
   <string name="app_category_education">Eğitim</string>
   <string name="app_category_entertainment">Eğlence</string>

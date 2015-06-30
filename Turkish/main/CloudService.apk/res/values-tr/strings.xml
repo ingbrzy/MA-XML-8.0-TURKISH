@@ -47,7 +47,7 @@ Son yedekleme: %2$s"</string>
   <string name="enable_find_device_error">"Cihaz bulma servisi açılamıyor. %1$s "</string>
   <string name="enable_micloud">Oturum açın veya hesap oluşturun</string>
   <string name="enable_sync">Aç</string>
-  <string name="enable_sync_dspt">Senkronizasyon kapalı</string>
+  <string name="enable_sync_dspt">"Senkronize etme"</string>
   <string name="error_data_in_transfer">Verileriniz taşınıyor. Tahmini gereken süre %s saat.</string>
   <string name="error_data_in_transfer_title">Mi Bulut servisine şu anda erişilemiyor.</string>
   <string name="error_forbidden">Hesabınızla ilgili bazı problemler var : Senkronizasyon devre dışı.</string>
@@ -224,6 +224,9 @@ Kullanılan: %s | Kalan: %s "</string>
 
 Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="mx_dspt_provision_privacy">"Bu hizmet telefon numaranızı isteyebilir. Operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı ücreti alabilir.
+  
+  Bu özellik, şifreleri ve cihazınızın kimliğini Mi sunucularına yükler."</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"Bu hizmet telefon numaranızı isteyebilir. Operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı ücreti alabilir.
   
   Bu özellik, şifreleri ve cihazınızın kimliğini Mi sunucularına yükler."</string>
   <string name="mx_dspt_provision_with_voip">İnternet bağlantısını kullanarak diğer MIUI kullanıcılarını ücretsiz arayabilirsiniz. Bu özelliği Ayarlardan açıp kapatabilirsiniz.</string>

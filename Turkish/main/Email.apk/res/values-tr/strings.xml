@@ -112,6 +112,7 @@
   <string name="account_setup_failed_dlg_certificate_message">"Güvenli bir şekilde sunucuya bağlanamıyor."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Güvenli bir şekilde sunucuya bağlanamıyor.
 (%s)"</string>
+  <string name="account_setup_failed_dlg_device_locked">Adresiniz cihaz kilidi tarafından bloke edildi</string>
   <string name="account_setup_failed_dlg_edit_details_action">Detayları düzenle</string>
   <string name="account_setup_failed_dlg_server_message">"Sunucuya bağlanamıyor."</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Sunucuya bağlanamıyor.
@@ -244,6 +245,8 @@
   <string name="attachment_mgr_name">Ek</string>
   <string name="attachment_not_exists">Ek kullanılabilir değil!</string>
   <string name="attachment_not_found">"Ek indirilemedi."</string>
+  <string name="attachment_open_SecurityException_hint">İzinleri kontrol etme vs..</string>
+  <string name="attachment_open_SecurityException_title">Dosyayı açma başarısız!</string>
   <string name="attachment_stop_all">Dur</string>
   <string name="attachment_text">Metin</string>
   <string name="attachment_type_blocked">"Maalesef bu dosya kaydedilemedi."</string>
@@ -370,6 +373,7 @@
   <string name="device_not_activiey_lint1">Cihaz yöneticisi etkin değil</string>
   <string name="device_not_activiey_lint2">Posta hizmeti exchange ile çalışmaz</string>
   <string name="dialog_auto_download_failed">İndirmeyi tamamlamak mümkün değil</string>
+  <string name="dialog_gmail_proxy_server_is_error">Gmail proxy sunucusu hatası</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">%s için yeterli alan yok</string>
   <string name="dialog_insufficient_space_on_external">Ekleri indirmek için yeterli boş alan yok.</string>
   <string name="dialog_insufficient_space_on_internal">Yeterli boş alan yok</string>
@@ -746,8 +750,8 @@ CC: %4$s
   <string name="quick_4">"Bu konuyu görüşmek üzere bir toplantı ayarlayalım."</string>
   <string name="quick_reply_dialog_title">Cevabı seçin</string>
   <string name="quick_reply_hint">%1$d kişiye cevapla</string>
-  <string name="quick_reply_hint_bcc">( BCC)</string>
-  <string name="quick_reply_hint_cc">( CC)</string>
+  <string name="quick_reply_hint_bcc">"( BCC) "</string>
+  <string name="quick_reply_hint_cc">"( CC) "</string>
   <string name="quick_responses_empty_view">Hızlı cevap yok.</string>
   <string name="quoted_text">Alıntı metni içeriyor</string>
   <string name="quoted_text_label">Alıntı metni</string>
@@ -827,6 +831,7 @@ CC: %4$s
   <string name="ser_resp_err_map_or">Ya da</string>
   <string name="ser_resp_err_map_pserr">Şifre ya da kullanıcı adı hatalı</string>
   <string name="ser_resp_err_map_serclosed">Servis sonlandırıldı</string>
+  <string name="ser_resp_err_map_serclosed_url_tag">Nasıl çözülecek?</string>
   <string name="ser_resp_err_map_ssl">" 'Güvenlik ayarlarından' SSL / TLS (Tüm sertifikaları kabul et) seçmeyi deneyin"</string>
   <string name="set_network">Ağı ayarla</string>
   <string name="settings_activity_title">Ayarlar</string>
@@ -892,6 +897,7 @@ CC: %4$s
   <string name="unread_from_someone">Okunmamış: [%s]</string>
   <string name="unread_string">Okunmamış sohbet</string>
   <string name="unsent_messages_in_outbox">%2$s içinde gönderilmemiş %1$s</string>
+  <string name="unzip_file_failed">Unzip başarısız！</string>
   <string name="updated_at">Son yenileme: %1$s</string>
   <string name="updated_just_now">Şimdi yenilendi</string>
   <string name="upload_log">Tanımlama loglarını yükle</string>
@@ -901,7 +907,7 @@ CC: %4$s
   <string name="upload_log_title">Tanımlama logları yüklensin mi?</string>
   <string name="upload_log_yes">Yükle</string>
   <string name="uploading_logs">Yükleniyor</string>
-  <string name="validation_failed_prompt">Doğrulama hatası,lütfen %s sunucusu ayarlarını kontrol edin!</string>
+  <string name="validation_failed_prompt">Doğrulama hatası, %s için sunucu ayarlarını kontrol edin!</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
   <string name="veiled_alternate_text_unknown_person"/>

@@ -48,6 +48,8 @@
   <string name="accessibility_wimax_signal_full">WiMAX sinyali tam.</string>
   <string name="accessibility_wimax_three_bars">WiMAX üç çubuk.</string>
   <string name="accessibility_wimax_two_bars">WiMAX iki çubuk.</string>
+  <string name="activate_usb_message">USB özelliğini etkinleştirmek için bir SIM kart yerleştirin</string>
+  <string name="activate_usb_title">USB etkinleştirme</string>
   <string name="always_use_accessory">Bu USB aksesuar için varsayılan olarak kullan</string>
   <string name="always_use_device">Bu USB cihazı için varsayılan olarak kullan</string>
   <string name="app_label">MIUI Sistem Arayüzü</string>
@@ -195,6 +197,7 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="usb_debugging_title">USB hata ayıklama izin verilsin mi?</string>
   <string name="usb_device_confirm_prompt">USB cihaz bağlanınca %1$s açılsın mı ?</string>
   <string name="usb_device_permission_prompt">%1$s uygulamasının USB cihaza bağlanmasına izin verilsin mi?</string>
+  <string name="usb_function_charging_text">Şarj modunda bağlandı</string>
   <string name="usb_mode_dont_ask">"Tekrar sorma"</string>
   <string name="usb_mode_mount_storage_title">USB Depolama açılsın mı?</string>
   <string name="usb_mode_notification">USB Depolama</string>

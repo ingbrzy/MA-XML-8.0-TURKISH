@@ -435,7 +435,7 @@
   <string name="insertContactDescription">Yeni kişi oluştur</string>
   <string name="insertGroupDescription">Grup oluştur</string>
   <string name="invalidContactMessage">Kişi mevcut değil</string>
-  <string name="keep_local">Yerel olarak sakla</string>
+  <string name="keep_local">"Senkronize etme"</string>
   <string name="keep_local_btn">Telefon dahili hafızasını kullan</string>
   <string name="label_custom_type">Özel</string>
   <string name="label_duplicate_count">(%1$d)</string>
@@ -863,6 +863,8 @@
   <string name="type_mx_msg">Mi Mesaj</string>
   <string name="type_outgoing">Giden Arama</string>
   <string name="type_voicemail">Sesli Mesaj</string>
+  <string name="unknow_phone_number_call_failed">"Bilinmeyen numara aranamıyor"</string>
+  <string name="unknow_phone_number_mms_failed">"Bilinmeyen numaraya mesaj gönderilemiyor"</string>
   <string name="unknown">Bilinmeyen Numara</string>
   <string name="unknown_contact_name">Bilinmeyen kişi</string>
   <string name="upgrade_in_progress">Kişi listesi güncellemesi devam ediyor</string>

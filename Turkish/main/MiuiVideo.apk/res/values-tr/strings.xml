@@ -21,9 +21,9 @@
   <string name="ads_control_desc">Uygulama başlayınca reklamlar görüntülenir</string>
   <string name="airkan_control_device_des">Oynatma kontrolü için alttaki çubuğa dokunun</string>
   <string name="airkan_device_xiaomi_phone">Mi</string>
-  <string name="airkan_playing">casting</string>
+  <string name="airkan_playing">yansıtılıyor</string>
   <string name="airkan_playing_to">" on "</string>
-  <string name="airkan_tips">Tap to cast</string>
+  <string name="airkan_tips">Yansıtmak için dokunun</string>
   <string name="airkan_video_playing">playing</string>
   <string name="airkan_video_playing_in">"Video is "</string>
   <string name="alert_dialog_download_btn_hide">Gizle</string>
@@ -396,7 +396,7 @@
   <string name="vp_maintitlearea">HD video indirin eğlenin</string>
   <string name="vp_media_info">Video bilgilerini görüntüle</string>
   <string name="vp_milink">Mi Link</string>
-  <string name="vp_milink_function">Cast to display</string>
+  <string name="vp_milink_function">Ekrana yansıt</string>
   <string name="vp_mobile_network_using_negative">İptal</string>
   <string name="vp_mobile_network_using_positive">Devam</string>
   <string name="vp_mobile_network_using_warning">Mobil veri ile video izlemeniz, veri kullanımını arttırır ve operatörünüz ek ücretler uygulayabilir!</string>
