@@ -105,6 +105,8 @@ Lütfen postadaki doğrulama kodunu girin"</string>
   <string name="error_ssl_hand_shake">Sunucu bağlantısı hatası. Sistem tarih ve saatini düzeltmeyi deneyin.</string>
   <string name="error_unknown">"Oturum açılamıyor"</string>
   <string name="error_user_name">Geçersiz kullanıcı adı</string>
+  <string name="exceed_binded_phone_times_notice">Bu numara bir çok Mi Hesabı ile bağlı görünüyor. Başka bir numara girin ve tekrar deneyin</string>
+  <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Bu e-posta adresi zaten başka Mi Hesabı ile ilişkilendirilmiş!</string>
   <string name="find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com\'u ziyaret edin.</string>
   <string name="foreign_login">Ülke kodu ekle</string>

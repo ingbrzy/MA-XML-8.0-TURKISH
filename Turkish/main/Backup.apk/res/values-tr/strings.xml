@@ -105,7 +105,7 @@ ve %2$s olarak oturum açın.</string>
   <string name="guarded_mode_dialog_message">Bu özelliğe ziyaretçi modunda izin verilmemektedir.</string>
   <string name="guarded_mode_dialog_title">Ziyaretçi modundasınız</string>
   <string name="import_from_xiaomi_account_hint1">1.\tMi Talk uygulamasını indirin ve oturum açın.\n\thttp://www.miliao.com\n\n2.\tMi Talk uygulamasına gidin ve \"Kişileri Mi Hesabına yedekle\" seçeneğini seçin</string>
-  <string name="import_from_xiaomi_account_hint2"> Zaten bir yedeğiniz varsa, ileri tuşuna dokunun.</string>
+  <string name="import_from_xiaomi_account_hint2"> Mevcut bir yedeğiniz varsa, ileri tuşuna dokunun.</string>
   <string name="import_from_xiaomi_account_hint_title">Cihazlar arasında kişilerinizi yedeklemek için Mi Talk kullanın.</string>
   <string name="local_app_name">Yedekleme</string>
   <string name="local_backup_window_title">Yerel yedek verileri</string>
@@ -131,7 +131,7 @@ ve %2$s olarak oturum açın.</string>
   <string name="notif_backup_title">Verileri yedekle</string>
   <string name="notif_restore_complete_title">Geri yükleme tamamlandı</string>
   <string name="notif_restore_content">Kullanıcı verileri geri yükleniyor</string>
-  <string name="notif_restore_title">Verileri geri yüklwe</string>
+  <string name="notif_restore_title">Verileri geri yükle</string>
   <string name="page_loading">Yükleniyor...</string>
   <string name="progress_backup_hint">Yedekleniyor...</string>
   <string name="progress_restore_hint">Geri yükleniyor...</string>
