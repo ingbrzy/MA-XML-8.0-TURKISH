@@ -6,7 +6,8 @@
   <string name="add_task">Görev ekle</string>
   <string name="adding_upload_tasks">Görevler ekleniyor</string>
   <string name="already_signin_description">Zaten oturum açmış durumdasınız.</string>
-  <string name="app_name">Dosyalarım</string>
+  <string name="app_name">Dosyalar</string>
+  <string name="archive_send_to">Şuraya gönder…</string>
   <string name="background">Gizle</string>
   <string name="big5_summary">Geleneksel Çince Windows kodlaması</string>
   <string name="big5_title">BIG5</string>
@@ -23,11 +24,12 @@
   <string name="category_bluetooth">Bluetooth</string>
   <string name="category_document">Belgeler</string>
   <string name="category_favorite">Favoriler</string>
-  <string name="category_log">Loglar</string>
+  <string name="category_file">Dosyalar</string>
   <string name="category_mirouter">Router</string>
-  <string name="category_music">Müzik</string>
+  <string name="category_music">Müzikler</string>
   <string name="category_other">Diğer</string>
   <string name="category_picture">Resimler</string>
+  <string name="category_recent">Sık kullanılan</string>
   <string name="category_theme">Temalar</string>
   <string name="category_type_document">Belgeler</string>
   <string name="category_type_meida">Medya</string>
@@ -57,6 +59,7 @@
   <string name="data_capacity">Alan: %1$s</string>
   <string name="decompress_cancel">İptal</string>
   <string name="decompress_confirm">Ayrıştır</string>
+  <string name="decompress_destination_error">"Ayrıştırma başarısız: Dosyalar buraya ayrıştırılamaz!"</string>
   <string name="decompress_fail">Ayrıştırma başarısız: Aynı isimle bir dosya var ya da arşiv bozulmuş olabilir.</string>
   <string name="decompress_success">Ayrıştırma tamamlandı</string>
   <string name="decompress_to">Ayrıştırma yolunu seç:</string>
@@ -85,6 +88,7 @@
   <string name="error_filename_too_long">Dosya ismi çok uzun.</string>
   <string name="error_info_cant_send_folder">"Bu dosya türü gönderilemiyor."</string>
   <string name="error_open_file_failed_no_app_found">Bu dosyayı açabilecek uygulama bulunamadı.</string>
+  <string name="expand_all">Hepsi</string>
   <string name="fail_to_create_folder">Yeterli alan yok ya da dosya zaten var.</string>
   <string name="fail_to_create_folder_unknown">"Klasör oluşturulamadı"</string>
   <string name="fail_to_rename">Aynı dosya isminden zaten mevcut.</string>
@@ -119,6 +123,7 @@
   <string name="gbk_title">GBK</string>
   <string name="get_cloud_space">500GB ekle</string>
   <string name="gigabyteShort">GB</string>
+  <string name="group_title">%2$s / %1$s</string>
   <string name="instruction">FTP Client için aşağıdaki adresi girin: </string>
   <string name="instruction_pre">FTP sunucusunu başlatmak için dokunun</string>
   <string name="kilobyteShort">KB</string>
@@ -164,6 +169,7 @@
   <string name="migrate_announcement_msg">KuaiPan hesabınızı, KuaiPan ayarlarında var olan Mi Hesabınız ile senkronize edin.</string>
   <string name="migrate_announcement_title">Taşıma tamamlandı</string>
   <string name="mobile_photo">Telefon Fotoğrafları</string>
+  <string name="month_day_format">d MMMM</string>
   <string name="move_failed">"Taşınamıyor"</string>
   <string name="multi_select_title">%1$s öğe seçildi</string>
   <string name="my_app">Uygulama verileri</string>
@@ -262,6 +268,9 @@
   <string name="sd_card_available">Kullanılabilir: %1$s</string>
   <string name="sd_card_size">SD Kart: %1$s</string>
   <string name="sd_full">Dahili hafıza doldu</string>
+  <string name="sdcard">SD Kart</string>
+  <string name="sdcard_available">Kullanılabilir %1$s</string>
+  <string name="sdcard_total">Toplam %1$s</string>
   <string name="search_hint">Ara</string>
   <string name="search_title">Ara</string>
   <string name="send_to_midrive">KuaiPan</string>
@@ -294,11 +303,16 @@
   <string name="tab_category">Kategori</string>
   <string name="tab_expand">Genişlet</string>
   <string name="tab_local">Yerel</string>
+  <string name="tab_more">Daha</string>
   <string name="tab_networkdisk">KuaiPan</string>
   <string name="tab_path">Konum:</string>
+  <string name="tab_source">UYGULAMALAR</string>
+  <string name="tab_storage">DEPOLAMA</string>
   <string name="tab_phone">Liste görünümü</string>
   <string name="tab_sys_size">Toplam alan</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_more_source">Daha fazla uygulama</string>
+  <string name="title_recent">Sık kullanılan</string>
   <string name="toast_file_not_can_read">Bu işlemi gerçekleştirmek için uygulama bulunamadı</string>
   <string name="tools">Araçlar</string>
   <string name="trans_task">Ağ transferi</string>
@@ -336,7 +350,9 @@
   <string name="wait_wifi">Wi-Fi bağlantısı bekleniyor</string>
   <string name="waiting">Bekleniyor</string>
   <string name="wangpan_root_path">KuaiPan</string>
+  <string name="wechat_video">Video :%s</string>
   <string name="wifi_state">Wi-Fi bağlantısı</string>
   <string name="xiaomi_account">Mi Hesabı</string>
+  <string name="year_month_day_format">d MMM yyyy</string>
   <string name="yes">Evet</string>
 </resources>

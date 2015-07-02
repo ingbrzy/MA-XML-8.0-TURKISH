@@ -140,8 +140,6 @@
   <string name="comfirm_delete_current_album">Bu albüm silinsin mi?</string>
   <string name="comma">, </string>
   <string name="confirm">Tamam</string>
-  <string name="confirm_all_photo_are_this_people_face">Tüm fotoğraflar %s ile ilişkilendirilsin mi？</string>
-  <string name="confirm_all_photo_not_this_people_face">%s ile eşleşme yok mu?</string>
   <string name="confirm_delete">%s fotoğraf silinsin mi?</string>
   <string name="confirm_delete_album" formatted="false">%s albüm (toplam %s  öğe) silinsin mi?</string>
   <string name="confirm_delete_has_cloud_image_video">Seçtiğiniz %s öğe Bulut alanından silinsin mi?</string>
@@ -159,8 +157,6 @@
   <string name="confirm_download_video_message">Bu videoyu izleyebilmek için önce tamamen indirmeniz gerekmektedir. Wi-Fi bağlantısı aktif olduğunda indirme devam edecek.</string>
   <string name="confirm_download_video_title">Video\'yu indir</string>
   <string name="confirm_face">Eşle</string>
-  <string name="confirm_left_photo_will_move_in">%s kalan fotoğraflarda var mı?</string>
-  <string name="confirm_left_photo_will_move_out">"%s kalan fotoğraflarda yok mu?</string>
   <string name="confirm_merge_face_albums">" "%s albüm ile birleştirilsin mi?" "</string>
   <string name="confirm_merge_many_face_albums">" "%s albüm ile birleştirilsin mi?" "</string>
   <string name="confirm_not_face">Bu kişi değil</string>
@@ -501,6 +497,8 @@
   <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Görüntü tanınıyor...</string>
+  <string name="recommanded_face_abandon_tip">Tavsiye edilenlerden kaldırıldı</string>
++  <string name="recommanded_face_added_tip">Şuraya eklendi: \"%s\"</string>
   <string name="redeye">Kırmızı Göz</string>
   <string name="redeye_tooltip">Kırmızı gözü azaltmak için dokunun</string>
   <string name="refocus_data_downloading">Yeniden odaklanma verisi indiriliyor...</string>
