@@ -3,18 +3,19 @@
   <string name="Accounts_settings_title">Hesaplar</string>
   <string name="about_settings">Telefon Hakkında</string>
   <string name="about_settings_summary">Yazılım bilgileri vs...</string>
-  <string name="ac_enable_title">Kişisel uygulamaları gizle</string>
+  <string name="ac_enable_title">Kişisel uygulamaları kilitle</string>
   <string name="ac_privacy_mode_sum">Misafir modunu kapatmak için Erişim Kontrol şifrenizi girin</string>
   <string name="ac_privacy_mode_title">Şifre</string>
-  <string name="ac_set_apps_title">Uygulamaları seç</string>
+  <string name="ac_set_apps_title">Kilitlenecek uygulamaları seç</string>
   <string name="accelerometer_title">Ekranı otomatik döndür</string>
   <string name="access_control_app_entry_multiple">%s uygulamasını aç</string>
   <string name="access_control_app_entry_single">Seçilen uygulamayı aç</string>
-  <string name="access_control_need_password">%s korunuyor</string>
-  <string name="access_control_need_to_unlock">Kilidi açmak için şifre gerekli:</string>
-  <string name="access_control_no_back_footer">Çıkmak için [icon] ikonuna tıklayın</string>
+  <string name="access_control_need_password">"%s uygulaması kilitli!
+"</string></string>
+  <string name="access_control_need_to_unlock">Açmak için şifrenizi girin:</string>
+  <string name="access_control_no_back_footer">Çıkmak için [icon] simgesine dokunun</string>
   <string name="access_control_password_title">Şifre</string>
-  <string name="access_control_recording_intro_header">Şifre koruması için desen çiz:</string>
+  <string name="access_control_recording_intro_header">Şifre koruması için deseni çizin:</string>
   <string name="access_control_reset_by_account">Erişim kontrol şifrenizi sıfırlamak için Mi hesabınız ile giriş yapın</string>
   <string name="access_point_names">Erişim noktası adları</string>
   <string name="accessibility_captioning_title">Açıklamalı Altyazılar</string>
@@ -48,9 +49,9 @@
 	"İki veya daha fazla parmağınızı ekran boyunca kaydırın.
 	"Yakınlaştırma seviyesini ayarlayın: Iki veya daha fazla parmakla büyütün ya da ayrı çekin."
 
-	Parmağınızın altındaki içeriği, aynı zamanda geçici olarak üçlü tıklayıp yakınlaştırabilir ve tutabilirsiniz.
+	Parmağınızın altındaki içeriği, aynı zamanda geçici olarak üçlü dokunup yakınlaştırabilir ve tutabilirsiniz.
 
-	Not: Üçlü tıklayarak yakınlaştırma, klavye ve gezinti çubuğu hariç her yerde çalışır."</string>
+	Not: Üçlü dokunarak yakınlaştırma, klavye ve gezinti çubuğu hariç her yerde çalışır."</string>
   <string name="accessibility_screen_magnification_title">Yakınlaştırma hareketi</string>
   <string name="accessibility_service_default_description">Hiçbir açıklama sağlanmadı.</string>
   <string name="accessibility_service_no_apps_message">"TalkBack, görme engelli veya az gören kullanıcılara yardımcı olmak için sesli geri bildirim sağlar. Bu uygulamayı Android Market\'ten ücretsiz olarak yüklemek ister misiniz?"</string>
@@ -214,7 +215,7 @@
   <string name="auto_launch_label">Varsayılan olarak başlat</string>
   <string name="auto_launch_label_generic">Varsayılan</string>
   <string name="auto_punctuate">Otomatik noktalama</string>
-  <string name="auto_punctuate_summary">\".\" karakterini girmek için Boşluk tuşuna iki kez basın</string>
+  <string name="auto_punctuate_summary">\".\" karakterini girmek için Boşluk tuşuna iki kez dokunun</string>
   <string name="auto_replace">Otomatik değiştir</string>
   <string name="auto_replace_summary">Yanlış yazılmış kelimeleri düzelt</string>
   <string name="auto_restore_summary">Bir uygulamayı yeniden yüklendiğinde, yedeklenen ayarları ve diğer verileri geri yükle</string>
@@ -1150,7 +1151,7 @@
   <string name="key_settings_title">Tuş Ayarları</string>
   <string name="keyboard_layout_default_label">Varsayılan</string>
   <string name="keyboard_layout_dialog_setup_button">Klavye düzenlerini ayarla</string>
-  <string name="keyboard_layout_dialog_switch_hint">Geçiş yapmak için, Kontrol-Boşluk tuşuna basın</string>
+  <string name="keyboard_layout_dialog_switch_hint">Geçiş yapmak için, Kontrol-Boşluk tuşuna dokunun</string>
   <string name="keyboard_layout_dialog_title">Klavye düzenini seçin</string>
   <string name="keyboard_layout_picker_title">Klavye düzenleri</string>
   <string name="keyboard_settings_category">Klavye ve giriş yöntemleri</string>
@@ -1327,7 +1328,7 @@
   <string name="lockpattern_pattern_entered_header">Desen kaydedildi!</string>
   <string name="lockpattern_recording_incorrect_too_short">En az %d noktayı birleştirin ve yeniden deneyin:</string>
   <string name="lockpattern_recording_inprogress">Bittiğinde parmağınızı kaldırın.</string>
-  <string name="lockpattern_recording_intro_footer">"Yardım için Menü\'ye basın."</string>
+  <string name="lockpattern_recording_intro_footer">"Yardım için Menü\'ye dokunun."</string>
   <string name="lockpattern_recording_intro_header">Kilit açma desenini çizin</string>
   <string name="lockpattern_restart_button_text">Yeniden çiz</string>
   <string name="lockpattern_retry_button_text">Tekrar Dene</string>
@@ -2209,7 +2210,7 @@
   <string name="status_bar_settings_show_statusBar_notification_summary">Kayan bildirimleri kilit ekranında gösterir</string>
   <string name="status_bar_settings_show_wifi_name">Wi-Fi göster</string>
   <string name="status_bar_settings_status_bar">Durum çubuğu</string>
-  <string name="status_bar_settings_toggle_collapse_after_clicked">Tıklatınca kapat</string>
+  <string name="status_bar_settings_toggle_collapse_after_clicked">Dokununca kapat</string>
   <string name="status_bar_settings_toggle_layout_style">Düzenleme stilini değiştir</string>
   <string name="status_bar_settings_toggle_layout_style_applying">Stil değiştiriliyor...</string>
   <string name="status_bar_settings_toggle_layout_style_compact">Çubuk</string>
