@@ -2463,6 +2463,10 @@
   <string name="usb_msd_driver_installer_title">Driver Installer Disk (MSD)</string>
   <string name="usb_msd_summary">Lets you transfer files on Windows and Mac</string>
   <string name="usb_msd_title">Mass storage</string>
+  <string name="usb_mtp_summary">Bilgisayar üzerinden dosya aktarımı yapabilirsiniz. (Bakınız: www.android.com/filetransfer)</string>
+  <string name="usb_mtp_title">Dosya aktarımı (MTP)</string>
+  <string name="usb_ptp_summary">"Kamera yazılımı ile fotoğraflarınızı ve MTP desteği olmayan bilgisayarlar ile dosyalarınızı aktarın."</string>
+  <string name="usb_ptp_title">Kamera fotoğrafları (PTP)</string>
   <string name="usb_sdcard_summary">Bilgisayardaki medya dosyalarını SD karta aktarmaya imkan sağlar</string>
   <string name="usb_sdcard_title">SD kartı bağla</string>
   <string name="usb_tethering_active_subtext">Paylaşıldı</string>

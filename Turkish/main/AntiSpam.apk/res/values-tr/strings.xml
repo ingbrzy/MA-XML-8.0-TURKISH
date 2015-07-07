@@ -320,7 +320,7 @@
   <string name="whitelist_prefix_add_hint">Ön eki olan tüm numaraları istisnalara ekle</string>
   <string name="wl_no_whitelist">İstisna yok</string>
   <string name="quiet">Sessiz</string>
-  <string name="quiet_important_interruptions_mode">Sessiz mod</string>
-  <string name="quiet_mode">Sessiz mod</string>
-  <string name="quiet_off_mode">Sessiz mod kapalı</string>
+  <string name="quiet_important_interruptions_mode">Sadece istisnalar izin ver</string>
+  <string name="quiet_mode">Hepsini sustur</string>
+  <string name="quiet_off_mode">Hepsine izin ver</string>
 </resources>
