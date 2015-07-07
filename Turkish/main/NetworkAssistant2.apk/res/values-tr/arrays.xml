@@ -75,4 +75,10 @@
 	<item>2MB</item>
 	<item>3MB</item>
 </string-array>
+<string-array name="traffic_saving_compress_level_string_array">
+	<item>Yok</item>
+	<item>Düşük</item>
+	<item>Orta</item>
+	<item>Yüksek</item>
+</string-array>
 </resources>

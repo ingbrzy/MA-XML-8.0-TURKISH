@@ -340,4 +340,25 @@
   <string name="wallpaper_set_as_destop">Duvar kağıdı yap</string>
   <string name="wallpaper_set_as_lockscreen">Kilit ekranı arkaplanı yap</string>
   <string name="wallpaper_settings">Duvar kağıdı ayarları</string>
+  <string name="resource_network_diagnostics">&lt;u&gt;Ağ tanımlama&lt;/u&gt;</string>
+  <string name="resource_search_color">Aranacak rengi seçin</string>
+  <string name="resource_search_color_hint_black">Siyah</string>
+  <string name="resource_search_color_hint_blue">Mavi</string>
+  <string name="resource_search_color_hint_brown">Kahve</string>
+  <string name="resource_search_color_hint_cyan">Camgöbeği</string>
+  <string name="resource_search_color_hint_gray">Gri</string>
+  <string name="resource_search_color_hint_green">Yeşil</string>
+  <string name="resource_search_color_hint_orange">Turuncu</string>
+  <string name="resource_search_color_hint_pink">Pembe</string>
+  <string name="resource_search_color_hint_purple">Mor</string>
+  <string name="resource_search_color_hint_red">Kırmızı</string>
+  <string name="resource_search_color_hint_white">Beyaz</string>
+  <string name="resource_search_color_hint_yellow">Sarı</string>
+  <string name="resource_select_alarm_audio_confirm">Bu bildirim sesi seçilsin mi?</string>
+  <string name="resource_select_audio_confirm_picker">Bu ses seçilsin mi?</string>
+  <string name="resource_select_boot_audio_confirm">Bu açılış sesi seçilsin mi?</string>
+  <string name="resource_select_notification_audio_confirm">Bu alarm sesi seçilsin mi?</string>
+  <string name="resource_select_ringtone_audio_confirm">Bu zilsesi seçilsin mi?</string>
+  <string name="theme_setting">Ayarlar</string>
+  <string name="vip_level_value">LV%d</string>
 </resources>

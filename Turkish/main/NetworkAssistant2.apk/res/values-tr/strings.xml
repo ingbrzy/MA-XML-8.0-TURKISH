@@ -504,4 +504,24 @@ Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz..
   <string name="wifi_exception_summary">Kullanılabilir Wi-Fi ağı testi</string>
   <string name="wifi_exception_title">Wi-Fi ağı testi</string>
   <string name="wifi_network_blocked_notification_title">İnternet bağlantısı yok!</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Mobil veriyi açmak için dokunun</string>
+  <string name="notify_daily_traffic_saving_title">Bugün %s kullanıldı</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Yeni uygulamaların veri kullanımını azalt</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Yeni yüklenen uygulamalr için veri tasarrufunu otomatik olarak etkinleştir</string>
+  <string name="pref_traffic_saving_compressed">Sıkıştırıldı</string>
+  <string name="pref_traffic_saving_no_compress">Sıkıştırılmadı</string>
+  <string name="pref_traffic_saving_pic_compress_level">Resim sıkıştırma oranı</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Veri tasarrufunu açmak için dokunun</string>
+  <string name="traffic_saving_button_mng">Veri tasarrufu uygulamalarını yönet</string>
+  <string name="traffic_saving_need_optimize">Optimize edilebilir</string>
+  <string name="traffic_saving_notification_button_start">Aç</string>
+  <string name="traffic_saving_one_key_optimize">Veri tasarrufunu optimize et</string>
+  <string name="traffic_saving_optimized">Zaten optimize edilmiş</string>
+  <string name="traffic_saving_pic_compress_orig">Orijinal</string>
+  <string name="traffic_saving_ratio">Veri kullanımı azaltıldı %.2f%%</string>
+  <string name="traffic_saving_ratio_low">"Önemli ölçüde veri kullanımını azaltılamaz"</string>
+  <string name="traffic_saving_recommanded_close">Bu öğeyi kapat</string>
+  <string name="traffic_saving_recommanded_open">Bu öğeyi aç</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Mobil veri kullanımını azaltmak için otomatik olarak veri tasarrufunu etkinleştir.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_title">Aç</string>
 </resources>

@@ -36,4 +36,12 @@
 	<item quantity="other">%d uygulama veri tasarrufu kullanmıyor</item>
 	<item quantity="one">%d uygulama veri tasarrufu kullanmıyor</item>
 </plurals>
+<plurals name="hints_traffic_saving_optimized">
+	<item quantity="other">%d uygulama optimize edildi</item>
+	<item quantity="one">%d uygulama optimize edildi</item>
+</plurals>
+<plurals name="hints_traffic_saving_need_optimize">
+	<item quantity="other">%d uygulama optimize edilebilir</item>
+	<item quantity="one">%d uygulama optimize edilebilir</item>
+</plurals>
 </resources>
