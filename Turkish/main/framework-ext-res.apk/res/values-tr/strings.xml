@@ -82,4 +82,8 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">İ.Paylaşımı</string>
   <string name="unknown_caller">Bilinmeyen numara</string>
+  <string name="permdesc_manageLocationPolicy">Konumu politikalarını yönetmek ve uygulamaya belirli kurallar tanımlamak için izin verir.</string>
+  <string name="permlab_manageLocationPolicy">Konum politikasını yönet</string>
+  <string name="location_usage_restricted_body">Kısıtlamayı kaldırmak için dokunun</string>
+  <string name="location_usage_restricted_title">Arkaplan konumu kısıtlanmış</string>
 </resources>

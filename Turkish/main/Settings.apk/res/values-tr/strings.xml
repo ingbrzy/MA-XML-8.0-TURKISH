@@ -3015,4 +3015,10 @@
   <string name="zone_list_menu_sort_alphabetically">Alfabetik sırala</string>
   <string name="zone_list_menu_sort_by_timezone">Zaman dilimine göre sırala</string>
   <string name="zen_mode_alarm_use">Alarms user config</string>
+  <string name="background_location_control_summary">"Arka planda cihazın konum bilgisini alan uygulamalara izin ver ya da engelle."</string>
+  <string name="background_location_control_title">Arka plan konum servisi erişimi</string>
+  <string name="background_location_deselect_apps">Seçimi kaldır</string>
+  <string name="background_location_requests_summary">"Uygulamaların konum bilgisi almasına izin ver"</string>
+  <string name="background_location_requests_title">Arka plan konum servisine izin ver</string>
+  <string name="background_location_select_apps">Hepsini seç</string>
 </resources>
