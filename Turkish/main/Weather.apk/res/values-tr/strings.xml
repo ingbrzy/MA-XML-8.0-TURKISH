@@ -31,6 +31,8 @@
   <string name="app_name">Hava Durumu</string>
   <string name="button_abandon">Değişikliklerden vazgeç</string>
   <string name="button_allow">İzin ver</string>
+  <string name="button_confirm">İzin ver</string>
+  <string name="button_exit">Çık</string>
   <string name="button_not_allow">Yoksay</string>
   <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
   <string name="data_source_timezone">GMT %1$s</string>
@@ -48,7 +50,7 @@
   <string name="download_preview_failed">"Önizleme yüklenemiyor!"</string>
   <string name="edit_city">Düzenle</string>
   <string name="fail_to_add_account">"Hesap eklenemiyor!"</string>
-  <string name="first_start_network_msg">Hava durumu bilgilerinin alınması için ağ bağlantısı gerekmektedir.</string>
+  <string name="first_start_network_msg">Hava durumu bilgilerinin alınması için ağ bağlantısı ve konum erişimi gerekmektedir.</string>
   <string name="first_start_network_title">Bağlantı uyarısı</string>
   <string name="gps_hint">Geçerli konum</string>
   <string name="international_detail_menu_title">Detaylar</string>

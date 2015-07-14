@@ -25,11 +25,11 @@
   <string name="cloud_back_up_interval_long">1 hafta</string>
   <string name="cloud_back_up_interval_short">1 gün</string>
   <string name="cloud_back_up_network_unavailable">"Kaldırılamaz, Wi-Fi ağına bağlanıp tekrar deneyin."</string>
-  <string name="cloud_back_up_open_info">"Ana ekranı ve uygulamaları %1$s ara ile yedekler.
+  <string name="cloud_back_up_open_info">"Ana ekranı ve uygulamaları %1$s ara ile yedekle.
 Son yedekleme: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Ana ekranı ve uygulamaları %1$s ara ile yedekler.</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Ana ekranı ve uygulamaları %1$s ara ile yedekle.</string>
   <string name="cloud_back_up_remove_success">Yedek silindi</string>
-  <string name="cloud_back_up_title">Ana ekranı ve uygulamaları yedekle</string>
+  <string name="cloud_back_up_title">Uygulamalarımı yedekle</string>
   <string name="cloud_backup_dialog_title">Mi Bulut ile yedekle</string>
   <string name="cloud_find_device">Cihazımı bul</string>
   <string name="cloud_space_upgrade_message">%sGB alan eklemek için dokunun</string>

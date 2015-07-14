@@ -40,6 +40,8 @@
   <string name="dialog_title_queued_body">Dosya mevcut değil.</string>
   <string name="disable">Kapalı</string>
   <string name="disable_download_only_in_wifi_title">Sadece Wi-Fi ile indiri kapat</string>
+  <string name="doc_filter">Belge</string>
+  <string name="download">İndirilenler</string>
   <string name="download_complete">Tamamlanan</string>
   <string name="download_error">Hata</string>
   <string name="download_error_insufficient_space">Yeterli boş alan yok!</string>
@@ -71,6 +73,8 @@
   <string name="download_title_sorted_by_size">İndirilenler - Boyuta göre</string>
   <string name="download_wait_connect">Bağlantı bekleniyor</string>
   <string name="download_when_network_connected">İndirme mobil şebekeyi kullanıyor</string>
+  <string name="downloaded_empty">İndirilen içerik yok</string>
+  <string name="downloading_empty">İndirilen içerik yok</string>
   <string name="downloads_operating">Çalışıyor...</string>
   <string name="dredge_xunlei_account">Opening of the Xunlei member</string>
   <string name="editmode_menu_delete">Sil</string>
@@ -141,6 +145,7 @@
   <string name="select_all">Tümünü seç</string>
   <string name="select_operation_items">Seç</string>
   <string name="selected_count">Seçilen :%1$d / %2$d</string>
+  <string name="show_more">Daha fazla(%s)</string>
   <string name="toast_xunlei_engine_open">"Xunlei hızlandırıcı açık.
  Bu özellik, Çin dışındaki kullanıcılar için tavsiye edilmez"</string>
   <string name="turn_off_xunlei_message">Bu özelliği kapatırsanız indirme hızı yavaşlayabilir!</string>

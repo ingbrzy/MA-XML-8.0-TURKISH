@@ -207,6 +207,8 @@
   <string name="download_fail">"İndirme başarısız"</string>
   <string name="download_fail_confirm_continue">%s indirme başarısız. Devam edilsin mi?</string>
   <string name="download_refocus_data">Yeniden odaklanma verisi indiriliyor</string>
+  <string name="download_without_wifi_msg">"Fotoğrafları mobil veri ile indirmeniz durumunda veri kullanımı artacaktır. Veri kullanım limitinin üzerine çıkarsanız, operatörünüz ek ücret uygulayabilir!"</string>
+  <string name="download_without_wifi_title">Veri kullanım uyarısı</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Süre</string>
   <string name="early_bird">Brannan</string>

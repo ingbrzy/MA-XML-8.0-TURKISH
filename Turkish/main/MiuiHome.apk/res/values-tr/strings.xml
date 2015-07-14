@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">Uygulama telefonunuzda yüklü değil</string>
+  <string name="app_already_exist">Uygulama zaten mevcut!</string>
   <string name="app_being_backup_message">Uygulama yedekleniyor</string>
   <string name="app_being_restored_message">Uygulama geri yükleniyor</string>
   <string name="app_category_books">Kitaplar</string>
@@ -107,6 +108,7 @@
   <string name="gadget_photo_24_label">Resim 4x2</string>
   <string name="gadget_photo_44_label">Resim 4x4</string>
   <string name="gadget_photo_label">Resim</string>
+  <string name="gadget_power_clear_button_label">Super Cleaner</string>
   <string name="gadget_search_label">Ara</string>
   <string name="gadget_weather_app_not_installed">MIUI hava durumu uygulamasını indirmek için lütfen dokunun</string>
   <string name="gadget_weather_aqi_title">"Hava Kalitesi:"</string>
@@ -173,7 +175,7 @@
   <string name="pref_cell_layout_size">Uygulama Simge Düzeni</string>
   <string name="pref_enable_drawing_cache_summary">Daha fazla hafıza için bu özelliği kapatın. Telefonunuzun yavaş çalışmasına sebep olabilir.</string>
   <string name="pref_enable_drawing_cache_title">Çekmece önbelleği</string>
-  <string name="pref_icon_shadow_summary">Uygulama ikon gölgelerini ve sık kullanılanların yansıma efektlerini açar</string>
+  <string name="pref_icon_shadow_summary">Uygulama simge gölgelerini ve sık kullanılanların yansıma efektlerini açar</string>
   <string name="pref_icon_shadow_title">Simgelerin gölgesini göster</string>
   <string name="pref_keep_in_memory_summary">Hafıza düşük olsa bile Başlatıcının çalışmasına engel olma</string>
   <string name="pref_keep_in_memory_title">Hafızada Sakla</string>
@@ -185,6 +187,12 @@
   <string name="pref_wallpaper_scroll_type_title">Duvar kağıdını kaydırma</string>
   <string name="preferences_general_title">Ek ayarlar</string>
   <string name="preferences_title">Miui Başlatıcı Ayarları</string>
+  <string name="process"/>
+  <string name="recommend_apps_default_title">Boş</string>
+  <string name="recommend_apps_notice">Önerilen uygulamalar</string>
+  <string name="recommend_apps_switch_summary">Önerilen uygulamaları ekranın altında göster</string>
+  <string name="recommend_apps_switch_title">Önerilen uygulamalar</string>
+  <string name="recommend_apps_tips">"Bu özelliğin düzgün çalışması için internet bağlantısı gerekmektedir. Kapatmak için klasör adına dokunun."</string>
   <string name="reset_scene_prompt">Ekran varsayılan düzene sıfırlanacak.</string>
   <string name="scroll_tip_format_when_announce_accessibility">%1$d sayfa, %2$d uygulama</string>
   <string name="select_all">Tümünü seç</string>

@@ -83,7 +83,7 @@
   <string name="account_setup_account_type_title">Hesap kurulumu</string>
   <string name="account_setup_address_label">Eposta</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Hesap ayarları, kullanıcı adı ve şifrenizi onaylayın.</string>
-  <string name="account_setup_autodiscover_dlg_authfail_title">Hesap ayarlarında hata!</string>
+  <string name="account_setup_autodiscover_dlg_authfail_title">"Hesap ayarlanamadı!"</string>
   <string name="account_setup_basics_email_label">E-posta adresi</string>
   <string name="account_setup_basics_headline">E-posta hesabı</string>
   <string name="account_setup_basics_manual_setup_action">Elle ayarla</string>
@@ -107,12 +107,12 @@
   <string name="account_setup_failed_certificate_required">İstemci sertifikası gereklidir. Istemci sertifikası ile sunucusuna bağlanılsın mı?</string>
   <string name="account_setup_failed_check_credentials_message">Sunucu bir hata ile cevap verdi. Kullanıcı adınızı ve şifrenizi kontrol edin.</string>
   <string name="account_setup_failed_dlg_auth_message">Kullanıcı adı veya parola yanlış!</string>
-  <string name="account_setup_failed_dlg_auth_message_fmt">"Kullanıcı adı veya parola yanlış!
+  <string name="account_setup_failed_dlg_auth_message_fmt">"Oturum açılamadı
 (%s)"</string>
   <string name="account_setup_failed_dlg_certificate_message">"Güvenli bir şekilde sunucuya bağlanamıyor."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Güvenli bir şekilde sunucuya bağlanamıyor.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_device_locked">Adresiniz cihaz kilidi tarafından bloke edildi</string>
+  <string name="account_setup_failed_dlg_device_locked">"Oturum açılamadı, hesabınız bloke edildi"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Detayları düzenle</string>
   <string name="account_setup_failed_dlg_server_message">"Sunucuya bağlanamıyor."</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Sunucuya bağlanamıyor.
@@ -321,6 +321,9 @@
   <string name="confirm_send_title">Mesaj gönderilsin mi?</string>
   <string name="contact_content_provider">Contact Content Provider</string>
   <string name="contact_edit_set_black_list">Kara listeyi ayarla</string>
+  <string name="contact_edit_set_black_list_from">Bu göndericinin tüm postalarını sil</string>
+  <string name="contact_edit_set_black_list_receive">Bu alıcının tüm postalarını sil </string>
+  <string name="contact_edit_set_black_list_receive_summary">To/Cc listeleri yalnızca bu alıcıyı içeriyor</string>
   <string name="contact_edit_set_phone_contact">Telefon kişilerini düzenle</string>
   <string name="contact_edit_set_pop_up_tips">Açılır pencere ipuçları</string>
   <string name="contact_edit_set_unread_top">Okunmamış postaları önce göster</string>
@@ -744,6 +747,16 @@ CC: %4$s
   <string name="provider_note_live">"Bazı \"+\" hesapların bu programı bağlamak için POP erişimi vardır.Eğer doğru e-posta adresi ve şifre ile giriş yapamıyorsanız, e-posta hesabınıza erişmek için taratıcınızı kullanın"</string>
   <string name="provider_note_t_online">Before setting up this email account, visit the T-Online website and create a password for POP3 email access.</string>
   <string name="pull_to_refresh">Yenilemek için çekin</string>
+  <string name="push_wps_better_confirm_download">İndir</string>
+  <string name="push_wps_better_confirm_exit">Diğer uygulamalar ile aç</string>
+  <string name="push_wps_better_confirm_message">WPS Office bu ekleri destekler ve işinizi kolaylaştırır</string>
+  <string name="push_wps_better_confirm_noshow_hint">"Tekrar gösterme"</string>
+  <string name="push_wps_better_confirm_title">WPS Office önerilir</string>
+  <string name="push_wps_confirm_cancel">İptal</string>
+  <string name="push_wps_confirm_download">İndir</string>
+  <string name="push_wps_confirm_message">Bu eki açacak uygulama bulunamadı, size WPS Office kullanamanızı tavsiye ederiz.</string>
+  <string name="push_wps_confirm_title">WPS Office önerilir</string>
+  <string name="push_wps_no_response_app">Uygulama yok</string>
   <string name="quick_1">Teşekkürler!</string>
   <string name="quick_2">Bu iyi geliyor!</string>
   <string name="quick_3">"Ben daha sonra okuyacağım ve ben size haber vereceğim.."</string>
