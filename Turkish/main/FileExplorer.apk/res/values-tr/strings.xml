@@ -28,6 +28,7 @@
   <string name="category_mirouter">Router</string>
   <string name="category_music">Müzikler</string>
   <string name="category_other">Diğer</string>
+  <string name="category_photo">Fotoğraflar</string>
   <string name="category_picture">Resimler</string>
   <string name="category_recent">Sık kullanılan</string>
   <string name="category_theme">Temalar</string>
@@ -72,6 +73,7 @@
   <string name="delete_folders">Seçitiğiniz %1$d klasörü silmek istiyor musunuz?</string>
   <string name="delete_selected_tasks">Seçtiğiniz öğeleri silmek istiyor musunuz？</string>
   <string name="des_running_trans">%1$d dosya transfer edilemedi.</string>
+  <string name="dialog_confirm">TAMAM</string>
   <string name="dialog_select_type">Dosya türünü seçin</string>
   <string name="dialog_type_audio">Ses</string>
   <string name="dialog_type_image">Resimler</string>
@@ -95,6 +97,7 @@
   <string name="favorite_photo">Fotoğraflar</string>
   <string name="favorite_ringtone">Zil Sesleri</string>
   <string name="favorite_screen_cap">Ekran Görüntüleri</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="file_already_downlaoded">Dosya \"%1$s\" konumuna kaydedildi</string>
   <string name="file_info_canread">Okunabilir: </string>
   <string name="file_info_canwrite">Yazılabilir: </string>
@@ -126,6 +129,7 @@
   <string name="group_title">%2$s / %1$s</string>
   <string name="instruction">FTP Client için aşağıdaki adresi girin: </string>
   <string name="instruction_pre">FTP sunucusunu başlatmak için dokunun</string>
+  <string name="just_now">Şimdi</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Kategori</string>
   <string name="kp_category_doc">Word</string>
@@ -150,7 +154,8 @@
   "</string>
   <string name="kuaipan_root_fooder">Ev</string>
   <string name="kuaipan_tech_support">kuaipan.cn adresine giriş yapın</string>
-  <string name="load_err">Yüklenemiyor</string>
+  <string name="load_err">"Yüklenemiyor"</string>
+  <string name="load_more">Daha fazla</string>
   <string name="loading">Yükleniyor...</string>
   <string name="local_cache_size">Yerel önbellek boyutu: %s</string>
   <string name="login_reg_content">KuaiPan; dosyaları depolamanıza ve birden fazla cihaz arasında bunları senkronize etmenize yardımcı olur.</string>
@@ -206,16 +211,24 @@
   <string name="never_notify_network_connect">Seçimi hatırla</string>
   <string name="new_folder_name">Yeni klasör</string>
   <string name="no">Hayır</string>
+  <string name="no_app_tags">Boş</string>
   <string name="no_display_file">"%1$s gösterilemiyor!"</string>
   <string name="no_enough_storage_indication">Cihaz hafızası dolu.</string>
   <string name="no_enough_storage_title">Yeterli boş alan yok</string>
   <string name="no_file">Dosya yok</string>
   <string name="no_more_space">Yeterli boş alan yok</string>
+  <string name="no_recent_files">Sık kullanılan dosya yok</string>
   <string name="no_tasks">Görev yok</string>
   <string name="no_wifi">"Wi-Fi bağlantısı yok"</string>
   <string name="no_wifi_hint">"Wi-Fi bağlantısı yok"</string>
   <string name="notif_server_starting">FTP Sunucusu başladı...</string>
   <string name="notif_title">FTP sunucusu çalışıyor</string>
+  <string name="notification_dialog_confirm">TAMAM</string>
+  <string name="notification_dialog_content">%1$s değiştirildiğinde veya dosya eklendiğinde otomatik düzenle ve bildir.</string>
+  <string name="notification_dialog_title">Bildirimler</string>
+  <string name="notification_setting">Bildirimler</string>
+  <string name="notification_summary">"%1$s henüz bu özelliği desteklemiyor!"</string>
+  <string name="notification_title">%1$s değiştirildiğinde bildir.</string>
   <string name="open_changed_file_message">"Açmaya çalıştığınız dosya değiştirildi. Problemi çözmek için:
 1. Dosyayı tekrar indirin.
 2. Kuaipan hesabınıza yükleyin."</string>
@@ -265,14 +278,52 @@
   <string name="release_to_signin">Oturum açmak için serbest bırakın</string>
   <string name="rename_description">Yeniden adlandırılıyor...</string>
   <string name="rename_failed">"%1$s yeniden adlandırılamadı"</string>
+  <string name="rlv_last_refreshing_time">Son tarama: %1$s</string>
+  <string name="rlv_loading_more">Bekleyiniz…</string>
+  <string name="rlv_pull_to_refresh">Yenilemek için çekin</string>
+  <string name="rlv_refreshing">Dosyalar taranıyor…</string>
+  <string name="rlv_release_to_refresh">Yenilemek için bırakın</string>
   <string name="sd_card_available">Kullanılabilir: %1$s</string>
   <string name="sd_card_size">SD Kart: %1$s</string>
   <string name="sd_full">Dahili hafıza doldu</string>
   <string name="sdcard">SD Kart</string>
   <string name="sdcard_available">Kullanılabilir %1$s</string>
   <string name="sdcard_total">Toplam %1$s</string>
+  <string name="search_activity_hint">Arama terimini girin</string>
+  <string name="search_app">Kaynak</string>
+  <string name="search_app_more">Daha</string>
+  <string name="search_category">Kategori</string>
+  <string name="search_empty_view_hint">Sonuç yok</string>
+  <string name="search_error_hint">Arama terimini girin</string>
+  <string name="search_file_type_apk">Apk</string>
+  <string name="search_file_type_doc">Belge</string>
+  <string name="search_file_type_music">Müzik</string>
+  <string name="search_file_type_other">Diğer</string>
+  <string name="search_file_type_picture">Fotoğraf</string>
+  <string name="search_file_type_video">Video</string>
   <string name="search_hint">Ara</string>
+  <string name="search_keyword">Etiketler</string>
+  <string name="search_keyword_buy">Alış-veriş</string>
+  <string name="search_keyword_game">Oyun</string>
+  <string name="search_keyword_im">Chat</string>
+  <string name="search_keyword_messge">Express</string>
+  <string name="search_keyword_news">Haberler</string>
+  <string name="search_keyword_wallet">Cüzdan</string>
+  <string name="search_result_hint1">İlgili</string>
+  <string name="search_result_hint2">Tümü</string>
+  <string name="search_result_hint3">" "</string>
+  <string name="search_result_hint4"/>
+  <string name="search_result_hint5"/>
+  <string name="search_result_hint6">(%d öğe)</string>
+  <string name="search_result_hint7">(%d)</string>
+  <string name="search_result_more">Daha</string>
+  <string name="search_statistic_appname">source</string>
+  <string name="search_statistic_keyword">keyin</string>
+  <string name="search_statistic_match_invalid">0</string>
+  <string name="search_statistic_match_valid">1</string>
+  <string name="search_statistic_tag">tag</string>
   <string name="search_title">Ara</string>
+  <string name="search_title_hint">Ara</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Bu dosya türü desteklenmiyor.</string>
   <string name="server_control_advanced_settings">FTP Ayarları</string>
@@ -294,6 +345,7 @@
   <string name="stay_awake_summary">FTP kullanılırken cihaz uyku moduna geçmez</string>
   <string name="stay_awake_title">Uyanık kal</string>
   <string name="stop_server">Sunucuyu durdur</string>
+  <string name="storage_info">%1$s kullanılabilir</string>
   <string name="storage_internal">Dahili hafıza</string>
   <string name="storage_sd_card">SD kart</string>
   <string name="storage_usb">USB depolama</string>
@@ -355,4 +407,5 @@
   <string name="xiaomi_account">Mi Hesabı</string>
   <string name="year_month_day_format">d MMM yyyy</string>
   <string name="yes">Evet</string>
+  <string name="yesterday">Dün</string>
 </resources>

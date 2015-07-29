@@ -64,4 +64,68 @@
 	<item quantity="few"> (%1$d öğe)</item>
 	<item quantity="many"> (%1$d öğe)</item>
 </plurals>
+<plurals name="search_head_hint_app">
+       <item quantity="other">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="zero">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="one">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="two">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="few">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="many">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+   </plurals>
+   <plurals name="search_head_hint_file">
+       <item quantity="other">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="zero">%1$s ile ilgili dosyalar (%2$d öğe))</item>
+       <item quantity="one">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="two">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="few">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="many">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+   </plurals>
+   <plurals name="search_head_hint_tag">
+       <item quantity="other">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="zero">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="one">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="two">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="few">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+       <item quantity="many">%1$s ile ilgili dosyalar (%2$d öğe)</item>
+   </plurals>
+   <plurals name="mins_ago">
+       <item quantity="other">%1$d dakika önce</item>
+       <item quantity="zero">%1$d dakika önce</item>
+       <item quantity="one">%1$d dakika önce</item>
+       <item quantity="two">%1$d dakika önce</item>
+       <item quantity="few">%1$d dakika önce</item>
+       <item quantity="many">%1$d dakika önce</item>
+   </plurals>
+   <plurals name="hours_ago">
+       <item quantity="other">%1$d saat önce</item>
+       <item quantity="zero">%1$d saat önce</item>
+       <item quantity="one">%1$d saat önce</item>
+       <item quantity="two">%1$d saat önce</item>
+       <item quantity="few">%1$d saat önce</item>
+       <item quantity="many">%1$d saat önce</item>
+   </plurals>
+   <plurals name="days_ago">
+       <item quantity="other">%1$d gün önce</item>
+       <item quantity="zero">%1$d gün önce</item>
+       <item quantity="one">%1$d gün önce</item>
+       <item quantity="two">%1$d gün önce</item>
+       <item quantity="few">%1$d gün önce</item>
+       <item quantity="many">%1$d gün önce</item>
+   </plurals>
+   <plurals name="found_new_files">
+       <item quantity="other">%1$d yeni dosya bulundu</item>
+       <item quantity="zero">%1$d yeni dosya bulundu</item>
+       <item quantity="one">%1$d yeni dosya bulundu</item>
+       <item quantity="two">%1$d yeni dosya bulundu</item>
+       <item quantity="few">%1$d yeni dosya bulundu</item>
+       <item quantity="many">%1$d yeni dosya bulundu</item>
+   </plurals>
+   <plurals name="file_notify_title">
+       <item quantity="other">%1$d dosya alındı (uygulama %2$s)</item>
+       <item quantity="zero">%1$d dosya alındı (uygulama %2$s)</item>
+       <item quantity="one">%1$d dosya alındı (uygulama %2$s)</item>
+       <item quantity="two">%1$d dosya alındı (uygulama %2$s)</item>
+       <item quantity="few">%1$d dosya alındı (uygulama %2$s)</item>
+       <item quantity="many">%1$d dosya alındı (uygulama %2$s)</item>
+   </plurals>
 </resources>
