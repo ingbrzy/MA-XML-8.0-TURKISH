@@ -203,6 +203,7 @@
   <string name="add_attachment">Dosya ekle</string>
   <string name="add_bcc_label">Bcc ekle</string>
   <string name="add_cc_label">Cc/Bcc ekle</string>
+  <string name="add_calendar">Hatırlat</string>
   <string name="add_file_attachment">Dosya ekle</string>
   <string name="add_label">Klasör ekle</string>
   <string name="add_photo_attachment">Resim ekle</string>
@@ -338,10 +339,13 @@
   <string name="contact_select">Kişiyi seç</string>
   <string name="content_description">%1$s about %2$s, %3$s on %4$s, %5$s</string>
   <string name="content_description_today">%1$s about %2$s, %3$s at %4$s, %5$s</string>
+  <string name="contextmenu_add">Kişilere ekle</string>
   <string name="contextmenu_add_contact">Kişi ekle</string>
   <string name="contextmenu_copy">Kopyala</string>
   <string name="contextmenu_copylink">URL adresini kopyala</string>
+  <string name="contextmenu_create">Yeni kişi oluştur</string>
   <string name="contextmenu_dial_dot">Ara…</string>
+  <string name="contextmenu_edit">Kişiyi düzenle</string>
   <string name="contextmenu_feedback">Geri bildirim gönder</string>
   <string name="contextmenu_help">Yardım</string>
   <string name="contextmenu_map">Harita</string>

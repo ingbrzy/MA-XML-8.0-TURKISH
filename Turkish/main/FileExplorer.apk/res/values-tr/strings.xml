@@ -106,7 +106,9 @@
   <string name="file_info_modified">Değiştirme: </string>
   <string name="file_info_size">Boyut: </string>
   <string name="file_loading">Yükleniyor...</string>
+  <string name="file_name_invalid">"Dosya ismi şu karakterleri içeremez: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">"Dosya mevcut değil"</string>
+  <string name="folder_name_empty">Dosya adı boş olamaz</string>
   <string name="file_too_large">Dosya çok büyük.</string>
   <string name="files">Dosyalar</string>
   <string name="finished">Tamamlandı</string>
@@ -204,7 +206,7 @@
   <string name="my_photo_desc"/>
   <string name="my_video">Videolar</string>
   <string name="my_video_desc"/>
-  <string name="name_illegal">Bir isim girmelisiniz.</string>
+  <string name="name_empty">Bir isim girmelisiniz.</string>
   <string name="net_lose_connected">Ağ bağlantısı yok</string>
   <string name="networkView_notConnected">Ağ bağlantısı kurulamıyor</string>
   <string name="network_connect_confirm_des">Dosyalarım uygulaması bazı özellikler için ağ bağlantısı kullanır, kabul ediyor musunuz?</string>
@@ -273,9 +275,11 @@
   <string name="paused">Durduruldu</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefon</string>
+  <string name="port_range">Port numarası 1024–65535 arasında olmalıdır</string>
   <string name="pull_to_signin">Oturum açmak için aşağı doğru sürükleyin.</string>
   <string name="query_bind_state">KuaiPan bağlanıyor...</string>
   <string name="release_to_signin">Oturum açmak için serbest bırakın</string>
+  <string name="rename_alert">"Bu dosyanın uzantısını değiştirirseniz, bunu açmanız mümkün olmayabilir."</string>
   <string name="rename_description">Yeniden adlandırılıyor...</string>
   <string name="rename_failed">"%1$s yeniden adlandırılamadı"</string>
   <string name="rlv_last_refreshing_time">Son tarama: %1$s</string>
