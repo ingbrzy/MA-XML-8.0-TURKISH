@@ -107,6 +107,7 @@
 	<plurals name="baby_age_subtitle_day">
        <item quantity="other">%1$d gün</item>
        <item quantity="one">%1$d gün</item>
+    </plurals>
 	<plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
         <item quantity="other">Seçtiğiniz %s öğe telefonunuzdan ve Bulut alanından silinsin mi?</item>
     </plurals>
