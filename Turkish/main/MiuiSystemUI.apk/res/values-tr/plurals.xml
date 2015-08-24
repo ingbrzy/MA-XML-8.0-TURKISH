@@ -4,4 +4,8 @@
 	<item quantity="other">Son Uygulamalar: %d</item>
 	<item quantity="one">1 Yeni uygulama</item>
 </plurals>
+ <plurals name="disable_notification_confirm_title">
+        <item quantity="other">"%d uygulama bildirimi gizlensin mi?"</item>
+        <item quantity="one">"Uygulama bildirimi gizlensin mi?"</item>
+    </plurals>
 </resources>

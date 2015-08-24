@@ -76,4 +76,32 @@
         <item quantity="other">" %2$d albümünden %1$d video silinsin mi? "</item>
         <item quantity="one">" %2$d albümünden %1$d video silinsin mi? "</item>
     </plurals>
+	<plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">%1$d resim %2$d albümünden silinsin mi?</item>
+        <item quantity="one">%1$d resim %2$d albümünden silinsin mi?</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">1 saniye</item>
+    </plurals>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">"Bu yüzler gösterilmeyecek?"</item>
+        <item quantity="one">"Bu yüz gösterilmeyecek?"</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d - %2$s eklendi</item>
+        <item quantity="one">%1$d - %2$s eklendi</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d - %2$s eklendi</item>
+        <item quantity="one">%1$d - %2$s eklendi</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"%1$d yıl "</item>
+        <item quantity="one">"%1$d yıl "</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_month">
+        <item quantity="other">%1$d ay</item>
+        <item quantity="one">%1$d ay</item>
+    </plurals>
 </resources>

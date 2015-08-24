@@ -86,4 +86,8 @@
   <string name="permlab_manageLocationPolicy">Konum politikasını yönet</string>
   <string name="location_usage_restricted_body">Kısıtlamayı kaldırmak için dokunun</string>
   <string name="location_usage_restricted_title">Arkaplan konumu kısıtlanmış</string>
+  <string name="fc_dialog_body">Hata raporunu analiz için MI sunucularına göndermek ister misiniz?</string>
+ <string name="fc_dialog_jump_to_preview">Sonuca gözat</string>
+ <string name="handy_mode_enter_dlg_msg">Tek elle kullanım moduna geçilsin mi?</string>
+ <string name="handy_mode_enter_dlg_title">Tek elle kullanım moduna geç</string>
 </resources>

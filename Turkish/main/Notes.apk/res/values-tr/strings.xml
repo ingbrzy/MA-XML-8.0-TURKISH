@@ -107,4 +107,7 @@ http://www.miui.com/forum.php?lang=1
   <string name="widget_content_loading">Yükleniyor...</string>
   <string name="widget_havenot_content">Herhangi bir not yok, oluşturmak için tıklayın. Boyutlandırmak için dokunun ve kenarlarından uzatın.</string>
   <string name="widget_under_visit_mode">Gizli mod, not içeriği gösterilemiyor</string>
+  <string name="all_terms">%1$s ve %2$s</string>
+  <string name="alert_title_delete">Notu sil</string>
+  <string name="alert_message_delete">%1$s not silinsin mi?</string>
 </resources>

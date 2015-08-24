@@ -226,4 +226,11 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="vpn_text_long">Bağlanıldı: %s. detaylar için dokunun.</string>
   <string name="vpn_title">VPN etkinleştirildi</string>
   <string name="vpn_title_long">VPN ile bağlanıldı: %s</string>
+<string name="block_record_notification_more_text">%1$s &amp; %2$d uygulamanın bildirimleri gizleniyor.</string>
+  <string name="block_record_notification_text">Bildirimler gizleniyor: %1$s.</string>
+  <string name="block_record_notification_title">Bildirimler gizlendi</string>
+  <string name="expanded_confirm_disable_notification">Gizle</string>
+  <string name="kilobyte_per_second">KB/s</string>
+  <string name="megabyte_per_second">MB/s</string>
+  <string name="network_speed_suffix">%1$s%2$s</string>
 </resources>

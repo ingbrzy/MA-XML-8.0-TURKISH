@@ -951,4 +951,14 @@
 	<item>Ayarları uygulamak için Telefonunuzu Tekrar Başlatmanız gerekir!</item>
 	<item>Ayarları uygulamak için Telefonunuzu Tekrar Başlatmanız gerekir!</item>
 </string-array>
+<string-array name="alarm_repeat_type">
+        <item>Hergün</item>
+        <item>Hafta günleri</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Hergün</item>
+        <item>Hafta günleri</item>
+        <item>Özel</item>
+    </string-array>
 </resources>
