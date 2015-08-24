@@ -48,4 +48,7 @@
   <string name="shake_enter_tip">Kalibrasyon için sallayın</string>
   <string name="using_camera_confirm_cancel">İptal</string>
   <string name="using_camera_confirm_ok">TAMAM</string>
+  <string name="dialog_body_no_network">"Ağ bağlantısı yok!"</string>
+  <string name="error_camera_unavailable">Başka bir uygulama Kamerayı kullanıyor olabilir.</string>
+  <string name="error_camera_unavailable_title">Kamera kullanılamıyor</string>
 </resources>

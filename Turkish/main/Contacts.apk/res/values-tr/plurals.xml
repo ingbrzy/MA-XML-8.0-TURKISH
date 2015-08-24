@@ -122,4 +122,12 @@
 		<item quantity="other">%1$d numara Kara listeden kaldırılsın mı?</item>
 		<item quantity="one">Bu numara Kara listeden kaldırılsın mı?</item>
 	</plurals>
+	<plurals name="contacts_count">
+        <item quantity="other">Kişiler: %1$d</item>
+        <item quantity="one">Kişiler: %1$d</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">Senkronize edilmemiş kişiler: %d</item>
+        <item quantity="one">Senkronize edilmemiş kişiler: 1</item>
+    </plurals>
 </resources>

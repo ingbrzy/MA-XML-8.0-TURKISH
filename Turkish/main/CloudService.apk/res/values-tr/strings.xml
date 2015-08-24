@@ -311,4 +311,8 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xmpp_server_addr"/>
+  <string name="micloud_detail_download_syncing">İndiriliyor %s</string>
+  <string name="micloud_detail_upload_syncing">Yükleniyor %s</string>
+  <string name="pref_summary_sync_video_on_wifi_only">Kişi profil videosunu sadece Wi-Fi ile senkronize et</string>
+  <string name="pref_title_sync_video_on_wifi_only">Videoyu sadece Wi-Fi ile senkronize et</string>
 </resources>
