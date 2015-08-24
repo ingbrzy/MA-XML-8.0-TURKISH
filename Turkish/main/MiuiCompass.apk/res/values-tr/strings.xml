@@ -51,4 +51,8 @@
   <string name="dialog_body_no_network">"Ağ bağlantısı yok!"</string>
   <string name="error_camera_unavailable">Başka bir uygulama Kamerayı kullanıyor olabilir.</string>
   <string name="error_camera_unavailable_title">Kamera kullanılamıyor</string>
+  <string name="altitude_uncalibrate_cancel">İptal</string>
+  <string name="altitude_uncalibrate_msg">"GPS veya mobil veri bağlantısı olmadan doğru olarak yüksekliği kalibre edemezsiniz."</string>
+  <string name="altitude_uncalibrate_refresh">Tekrar dene</string>
+  <string name="altitude_uncalibrate_tip">"Yükseklik kalibre edilemedi"</string>
 </resources>

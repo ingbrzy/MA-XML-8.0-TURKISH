@@ -104,4 +104,35 @@
         <item quantity="other">%1$d ay</item>
         <item quantity="one">%1$d ay</item>
     </plurals>
+	<plurals name="baby_age_subtitle_day">
+       <item quantity="other">%1$d gün</item>
+       <item quantity="one">%1$d gün</item>
+	<plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">Seçtiğiniz %s öğe telefonunuzdan ve Bulut alanından silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">Seçtiğiniz %s görüntü telefonunuzdan ve Bulut alanından silinsin mi?</item>
+        <item quantity="one">Seçtiğiniz %s görüntü telefonunuzdan ve Bulut alanından silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">Seçtiğiniz %s video telefonunuzdan ve Bulut alanından silinsin mi?</item>
+        <item quantity="one">Seçtiğiniz %s video telefonunuzdan ve Bulut alanından silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">Seçtiğiniz %s öğe telefonunuzdan ve Bulut alanından silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">Seçtiğiniz %s fotoğraf telefonunuzdan ve Bulut alanından silinsin mi?</item>
+        <item quantity="one">Seçtiğiniz %s fotoğraf telefonunuzdan ve Bulut alanından silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">Seçtiğiniz %s video telefonunuzdan ve Bulut alanından silinsin mi?</item>
+        <item quantity="one">Seçtiğiniz %s video telefonunuzdan ve Bulut alanından silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">Seçtiğiniz %s öğe bu albümden silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">Seçtiğiniz %s öğe silinsin mi?</item>
+    </plurals>
 </resources>

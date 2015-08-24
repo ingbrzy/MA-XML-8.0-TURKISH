@@ -524,4 +524,10 @@ Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz..
   <string name="traffic_saving_recommanded_open">Bu öğeyi aç</string>
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Mobil veri kullanımını azaltmak için otomatik olarak veri tasarrufunu etkinleştir.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Aç</string>
+  <string name="restrictbackground_conflict_saving_msg">"Can't use Data saver when background data is restricted. Turn Data saver off and restrict background data?"</string>
+  <string name="saving_conflict_dialog_cancel">Cancel</string>
+  <string name="saving_conflict_dialog_ok">OK</string>
+  <string name="saving_conflict_dialog_title">Attention</string>
+  <string name="saving_conflict_restrictbackground_msg">"Can't use Data saver when background data is restricted. Allow background data and turn Data saver on?"</string>
+ 
 </resources>

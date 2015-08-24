@@ -952,4 +952,7 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="bottom_bar_more_share">Paylaş</string>
   <string name="get_database_exception">Lütfen uygulama ayarlarından eposta verilerini temizleyin</string>
   <string name="share_choose">Lütfen seçin</string>
+  <string name="account_setup_failed_too_many_partnerships">Oturum açma başarısız</string>
+   <string name="outbox_alert_description_email_size_error">Maksimum posta boyutu aşıldı</string>
+   <string name="outbox_alert_description_fail_authentication">Kullanıcı adı ya da şifre hatalı</string>
 </resources>

@@ -195,7 +195,7 @@ Takvimin kişiler listesinize erişmesine izin veriyor musunuz?"</string>
   <string name="preferences_home_tz_title">Yerel zaman dilimi</string>
   <string name="preferences_reminder_title">Bildirim &amp; Hatırlatmalar</string>
   <string name="preferences_show_week_num_title">Hafta numarasını göster</string>
-  <string name="preferences_title">Takvim Ayarları</string>
+  <string name="preferences_title">Takvim</string>
   <string name="preferences_use_home_tz_descrip">Kendi zaman diliminizde seyahat ederken, takvim ve olayları görüntüler</string>
   <string name="preferences_use_home_tz_title">Yerel zaman dilimini kullan</string>
   <string name="preferences_week_start_day_default">-1</string>
@@ -319,4 +319,6 @@ Takvimin kişiler listesinize erişmesine izin veriyor musunuz?"</string>
    <string name="travel_seat_number_text">Koltuk</string>
    <string name="travel_train_number_text">Tren</string>
    <string name="travel_train_station">Tren istasyonu</string>
+   <string name="alert_reminder_divider">|</string>
++  <string name="alert_reminder_expired">Süresi Doldu</string>
 </resources>

@@ -16,7 +16,7 @@
 	<item>Sadece Wi-Fi ile indir</item>
 </string-array>
 <string-array name="prefValues_max_bytes_limit">
-	<item>2147483647</item>
+	<item>9223372036854775807</item>
 	<item>1048576000</item>
 	<item>104857600</item>
 	<item>52428800</item>
@@ -25,7 +25,7 @@
 	<item>5242880</item>
 	<item>2097152</item>
 	<item>1048576</item>
-	<item>512000</item>
+	<item>524288</item>
 	<item>204800</item>
 	<item>102400</item>
 	<item>0</item>

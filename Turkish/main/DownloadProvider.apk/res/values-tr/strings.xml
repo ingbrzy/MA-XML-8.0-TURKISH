@@ -52,4 +52,13 @@
   <string name="wifi_required_title">Bu dosya şebeke operatörünüz için çok büyük!</string>
   <string name="enter_garbage_clean">Dahili depolamayı temizle.</string>
   <string name="insufficient_space">"Telefonunuzun dahili depolamasında yeterli boş alan yok"</string>
+  <string name="button_download_now">Şimdi indir</string>
+  <string name="button_wait_for_wifi">Bekle</string>
+  <string name="recommended_file_more_in_mobile" formatted="false">Bu %s dosyaları (%s ) indirmeniz mobil veri kullanımını arttıracaktır</string>
+  <string name="recommended_file_one_in_mobile">Bu dosyayı (%s ) indirmeniz mobil veri kullanımını arttıracaktır</string>
+  <string name="recommended_file_size_download_in_mobile" formatted="false">"Şu an Wi-Fi bağlantısı yok. %s
+
+Dosya boyutu alınamıyor. Mobil veri bağlantısını kullanmak için %s dokunun. Wi-Fi bağlantısını beklemek için %s dokunun."</string>
+  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Mobil veri bağlantısını kullanmak için %s dokunun. Wi-Fi bağlantısını beklemek için %s dokunun."</string>
+   
 </resources>

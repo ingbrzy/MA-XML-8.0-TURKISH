@@ -1566,7 +1566,7 @@
   <string name="owner_info_settings_edit_text_hint">Kilit ekranında görüntülenecek metni yazın</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Sahip Bilgileri</string>
-  <string name="page_layout_1">Sun 16/08</string>
+  <string name="page_layout_1">29 Mayıs 1453</string>
   <string name="page_layout_10">Ayarlar</string>
   <string name="page_layout_11">Hava</string>
   <string name="page_layout_12">Güvenlik</string>
@@ -1583,8 +1583,8 @@
   <string name="page_layout_22">Profilimi ayarla</string>
   <string name="page_layout_23">Gruplarım</string>
   <string name="page_layout_24">FAVORİLER</string>
-  <string name="page_layout_25">Daddy</string>
-  <string name="page_layout_26">Zoey Hannah</string>
+  <string name="page_layout_25">26 Ağustos 1071</string>
+  <string name="page_layout_26">C.Madencan</string>
   <string name="page_layout_27">Lian Josie</string>
   <string name="page_layout_28">Zhaohad</string>
   <string name="page_layout_29">Kathy</string>
@@ -1891,7 +1891,7 @@
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Uygulama listenizi güncelleyip okuma modunu kullanmanız için ağ bağlantısı gerekiyor. Kabul ediyor musunuz?</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Hizmet Şartları</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary"/>
-  <string name="screen_paper_mode_update_white_pkg_list_title">Ağ güncelleme listesi</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Otomatik güncelle</string>
   <string name="screen_pinning_description">"Açtığınız zaman, ekran iğnelemeyi kullanabilirsiniz.
 
 	Ekran iğnelemeyi kullanmak için:
@@ -3050,4 +3050,6 @@
    <string name="status_bar_settings_notification_priority">Öncelik</string>
    <string name="status_bar_settings_notification_priority_summary">Listenin en üstündeki bildirimi göster</string>
    <string name="theme_settings_title">Temalar</string>
+   <string name="advanced_text_layout">Gelişmiş metin düzeni fonksiyonunu etkinleştir</string>
+   <string name="experience_optimization_category">Deneyim optimizasyonu</string>
 </resources>
