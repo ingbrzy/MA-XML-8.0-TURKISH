@@ -1,4 +1,4 @@
-MIUI V6 TR XML
+MIUI V7 TR XML
 ===========
 
 MIUI Turkish Translation: **CELALEDDiN MADENCAN**
