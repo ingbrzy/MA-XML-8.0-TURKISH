@@ -324,4 +324,22 @@
   <string name="quiet_important_interruptions_mode">Sadece istisnalar izin ver</string>
   <string name="quiet_mode">Hepsini sustur</string>
   <string name="quiet_off_mode">Hepsine izin ver</string>
+  <string name="address">Adres</string>
+  <string name="birthday">doğum günü</string>
+  <string name="dlg_remove_whitelist_content">Bu numara istisnalardan kaldırılsın mı?</string>
+  <string name="dlg_remove_whitelist_title">Kaldır</string>
+  <string name="email">Email</string>
+  <string name="empty_activity_title">" "</string>
+  <string name="im">IM</string>
+  <string name="mark_agent_block_large"></string>
+  <string name="mark_fraud_block_large"></string>
+  <string name="mark_harass_block_large"></string>
+  <string name="mark_sell_block_large"></string>
+  <string name="name">Adı</string>
+  <string name="nickname">Takma adı</string>
+  <string name="note">Not</string>
+  <string name="organization">Organizasyon</string>
+  <string name="phone">Telefon</string>
+  <string name="sip_phone">SIP Telefon</string>
+  <string name="website">Web adresi</string>
 </resources>

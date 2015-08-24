@@ -82,4 +82,7 @@
   <string name="yellow_page_sms_send_failed">SMS gönderilemedi !</string>
   <string name="yellow_page_sms_sending">Gönderiliyor…</string>
   <string name="yellow_page_unable_send_sms">SMS gönderilemedi</string>
+  <string name="cloud_state_disabled">Mi Bulut ile senkronize kapalı</string>
+  <string name="cloud_state_finished">Mi Bulut ile senkronize edildi</string>
+  <string name="cloud_state_syncing">Mi Bulut ile senkronize edildi</string>
 </resources>

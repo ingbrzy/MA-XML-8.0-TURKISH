@@ -298,4 +298,11 @@
 	 <item>2 gün</item>
 	 <item>1 hafta</item>
 </string-array>
+<string-array name="travel_reminder_minutes_labels">
+        <item>3 saat</item>
+        <item>4 saat</item>
+        <item>5 saat</item>
+        <item>6 saat</item>
+        <item>1 gün</item>
+    </string-array>
 </resources>
