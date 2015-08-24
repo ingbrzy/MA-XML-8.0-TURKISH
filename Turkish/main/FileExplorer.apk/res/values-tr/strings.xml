@@ -412,4 +412,7 @@
   <string name="year_month_day_format">d MMM yyyy</string>
   <string name="yes">Evet</string>
   <string name="yesterday">Dün</string>
+  <string name="delete_file_error">"Dosya silinemedi"</string>
+  <string name="online_not_support">"Şu an bu dosyayı görüntüleyemezsiniz"</string>
+  <string name="smb_loading">Bekleyin…</string>
 </resources>

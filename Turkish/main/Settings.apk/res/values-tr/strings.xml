@@ -1192,10 +1192,12 @@
   <string name="last_time_used_label">Son kullanılanlar</string>
   <string name="launcher_settings_title">Miui Başlatıcı</string>
   <string name="launching_rep">Bildiriliyor...</string>
-  <string name="layout_size_large">Çok Büyük</string>
-  <string name="layout_size_medium">Büyük</string>
-  <string name="layout_size_normal">Normal</string>
-  <string name="layout_size_small">Ufak</string>
+  <string name="layout_size_exhuge">XXL</string>
+  <string name="layout_size_huge">XL</string>
+  <string name="layout_size_large">L</string>
+  <string name="layout_size_medium">M</string>
+  <string name="layout_size_normal">S</string>
+  <string name="layout_size_small">XS</string>
   <string name="led_colors_summary">Bildirim LED rengi</string>
   <string name="led_frequence_summary">LED parlamaları arası süre</string>
   <string name="led_pulse_summary">Bildirimlerde LED ışığı yanıp sönsün</string>
@@ -3052,4 +3054,6 @@
    <string name="theme_settings_title">Temalar</string>
    <string name="advanced_text_layout">Gelişmiş metin düzeni fonksiyonunu etkinleştir</string>
    <string name="experience_optimization_category">Deneyim optimizasyonu</string>
+   <string name="pref_edge_handgrip">Kenar kontrolleri</string>
+   <string name="dndm_alarm_content_not_all">Tümü etkin</string>
 </resources>
