@@ -3024,7 +3024,7 @@
   <string name="background_location_requests_summary">"Uygulamaların konum bilgisi almasına izin ver"</string>
   <string name="background_location_requests_title">Arka plan konum servisine izin ver</string>
   <string name="background_location_select_apps">Hepsini seç</string>
-  <string name="cancel_action">Zrušiť</string>
+  <string name="cancel_action">İptal</string>
    <string name="children_mode_enable_title">Ebeveyn kontrolü</string>
    <string name="children_mode_set_apps_title">Erişilebilir uygulamalar</string>
    <string name="children_mode_tips_off">Ebeveyn kontrolünü açtıktan sonra ana ekran tuşuna dokunun</string>
@@ -3056,4 +3056,7 @@
    <string name="experience_optimization_category">Deneyim optimizasyonu</string>
    <string name="pref_edge_handgrip">Kenar kontrolleri</string>
    <string name="dndm_alarm_content_not_all">Tümü etkin</string>
+   <string name="power_hide_mode_summary">"Kişisel uygulamaların arkaplan işlemlerini, GPS, mobil veri ve Wi-Fi bağlantısını kısıtlayarak pil tasarrufu sağlar."</string>
+  <string name="power_hide_mode_title">Uygulamaların pil kullanımını yönet</string>
+  <string name="handy_mode_enter_ask">Uyarı göster</string>
 </resources>
