@@ -90,4 +90,10 @@
  <string name="fc_dialog_jump_to_preview">Sonuca gözat</string>
  <string name="handy_mode_enter_dlg_msg">Tek elle kullanım moduna geçilsin mi?</string>
  <string name="handy_mode_enter_dlg_title">Tek elle kullanım moduna geç</string>
+	<string name="all_call_livetalk_enable">Use top-up packages for domestic and international calls</string>
+	<string name="all_call_livetalk_remain_mins">Minutes remaining: (%1$s domestic) | %2$s (%3$s)</string>
+	<string name="internal_livetalk_enable">Use top-up packages for domestic calls</string>
+	<string name="internal_remain_mins">%1$s minutes remaining (domestic calls)</string>
+	<string name="international_livetalk_enable">Use top-up packages for international calls</string>
+	<string name="international_remain_mins">%1$s minutes remaining (%2$s calls)</string>
 </resources>

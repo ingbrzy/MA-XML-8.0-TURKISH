@@ -233,4 +233,9 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
+  <string name="screen_pinning_description">İğne kaldırılıncaya kadar bu görünümde tutar. İğneyi kaldırmak için geriye ve genel görünüme basılı tutun.</string>
+  <string name="screen_pinning_description_accessible">İğne kaldırılıncaya kadar bu görünümde tutar. İğneyi kaldırmak için genel görünüme basılı tutun.</string>
+  <string name="screen_pinning_negative">Hayır</string>
+  <string name="screen_pinning_positive">Anladım</string>
+  <string name="screen_pinning_title">Ekran iğnelendi</string>
 </resources>

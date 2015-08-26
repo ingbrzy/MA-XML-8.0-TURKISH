@@ -595,4 +595,22 @@
   <string name="usage_type_wake_lock">"Uyanık tut"</string>
   <string name="virus_list_header_title">%d virüs algılandı</string>
   <string name="history_details_title">Geçmiş detayları</string>
+  <string name="antivirus_choose_engine">%s tanımlarını kullan</string>
+  <string name="antivirus_choose_engine_dialog_title">Tanımları seçin</string>
+  <string name="antivirus_choose_engine_disable_toast">"Tarama devam ederken yapılamaz"</string>
+  <string name="antivirus_choose_engine_settings">Virüs tanımı ayarları</string>
+  <string name="antivirus_choose_engine_title">Tanımlar</string>
+  <string name="antivirus_more_engine_dialog_summary">Birden fazla tanım kullanılması tarama süresini uzatır.</string>
+  <string name="antivirus_more_engine_dialog_title">Uyarı</string>
+  <string name="antivirus_none_engine_dialog_ok">TAMAM</string>
+  <string name="antivirus_none_engine_dialog_title">Tanımları seçin</string>
+  <string name="antivirus_privacy_dialog_cloudscan">Uygulama adlarını ve detaylarını yükle</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">Online virüs tanımlarını kullanarak uygulama adlarını ve detaylarını tara.</string>
+  <string name="antivirus_privacy_dialog_ok">TAMAM</string>
+  <string name="antivirus_privacy_dialog_summary">"Bu özellik cihazınızın kimliğini şifreler, AVL ve Tencent sunucularına gönderir (%s)."</string>
+  <string name="antivirus_privacy_dialog_summary_link">Gizlilik Politikasına gözat</string>
+  <string name="antivirus_privacy_dialog_title">Gizlilik Politikası</string>
+  <string name="antivirus_sec_support">%s</string>
+  <string name="antivirus_update_db">%s</string>
+<string name="descx_quick_scan_preparation">Bekleyin…</string>
 </resources>
