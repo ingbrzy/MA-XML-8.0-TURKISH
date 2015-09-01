@@ -524,10 +524,16 @@ Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz..
   <string name="traffic_saving_recommanded_open">Bu öğeyi aç</string>
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Mobil veri kullanımını azaltmak için otomatik olarak veri tasarrufunu etkinleştir.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Aç</string>
-  <string name="restrictbackground_conflict_saving_msg">"Can't use Data saver when background data is restricted. Turn Data saver off and restrict background data?"</string>
-  <string name="saving_conflict_dialog_cancel">Cancel</string>
-  <string name="saving_conflict_dialog_ok">OK</string>
-  <string name="saving_conflict_dialog_title">Attention</string>
-  <string name="saving_conflict_restrictbackground_msg">"Can't use Data saver when background data is restricted. Allow background data and turn Data saver on?"</string>
- 
+  <string name="restrictbackground_conflict_saving_msg">"Arka plan verileri kısıtlı olduğunda veri tasarrufunu kullanamazsınız. Veri tasarrufu kapatılsın mı?"</string>
+  <string name="saving_conflict_dialog_cancel">İptal</string>
+  <string name="saving_conflict_dialog_ok">TAMAM</string>
+  <string name="saving_conflict_dialog_title">Uyarı!</string>
+  <string name="saving_conflict_restrictbackground_msg">"Arka plan verileri kısıtlı olduğunda veri tasarrufunu kullanamazsınız. Veri tasarrufunu açıp arka plan verilerine izin verilsin mi??"</string>
+  <string name="daily_limit_and_lock_screen">Veri limiti ve bildirimler</string>
+  <string name="lock_screen_traffic_warn_title">Kilit ekranı bildirimleri</string>
+  <string name="lock_screen_warning_category">Kilit ekranı bildirimleri</string>
+  <string name="lock_screen_warning_switch_summary">Veri kullanımı belirlenen miktarı aştığında Kilit ekranında uyarı göster</string>
+  <string name="lock_screen_warning_switch_title">Kilit ekranında uyarı göster</string>
+  <string name="lock_screen_warning_value">Veri kullanım uyarısı</string>
+  <string name="pref_title_diagnostics_show_float_notification">Kayan bildirimler</string>
 </resources>
