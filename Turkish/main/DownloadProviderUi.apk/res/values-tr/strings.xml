@@ -175,7 +175,7 @@
 	<string name="invalid_address">Bu dosya yolu geçersiz</string>
 	<string name="network_error">"İnternet bağlantısı yok"</string>
 	<string name="new_add">Yeni</string>
-	<string name="pref_download_revert_default">Varsayılan indirme konumunu kullan</string>
+	<string name="pref_download_revert_default">Varsayılan</string>
 	<string name="pref_download_storage_path">İndirmeler için yeni klasör oluştur</string>
 	<string name="revert_default">Sıfırla</string>
 	<string name="revert_download_path">Varsayılan indirme konumunu kullanılsın mı?</string>
@@ -192,4 +192,10 @@
 	<string name="version">Sürüm %s</string>
 	<string name="vip_expire_show_info">Xunlei üyeliği bitti.</string>
 	<string name="vip_expire_today_show_info">Xunlei üyeliği bitti.</string>
+	<string name="downloaded">İndirme tamamlandı</string>
+	<string name="downloading">İndiriliyor</string>
+	<string name="install">Yükle</string>
+    <string name="installing">Yükleniyor</string>
+	<string name="open">Aç</string>
+	<string name="paused">Duraklatıldı</string>
 </resources>

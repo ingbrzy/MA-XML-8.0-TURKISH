@@ -353,7 +353,7 @@
   <string name="video_info_resolution_label">Video Çözünürlüğü:</string>
   <string name="video_info_video_coding_label">Video kodlama biçimi: </string>
   <string name="video_plugin">Video eklentisi</string>
-  <string name="video_plugin_downloading">İndiriliyor...</string>
+  <string name="video_plugin_downloading">İndiriliyor(%1$s), bekleyin...</string>
   <string name="video_plugin_prepare">Hazırlanırken bekleyin...</string>
   <string name="vp_VideoView_error_button">Tamam</string>
   <string name="vp_VideoView_error_network_not_available">Ağa bağlanılamadı</string>
