@@ -755,4 +755,12 @@
   <string name="create_baby_album_later_toast">Bebek albümünü istediğiniz zaman Ayarlardan oluşturabilirsiniz</string>
   <string name="not_remind_any_more">"Tekrar sorma"</string>
   <string name="operation_rename_baby">Bebeğin adını girin</string>
+  <string name="associate_face_album">Bir kişi albümü seçin</string>
+  <string name="auto_update_face">Add photos automatically</string>
+  <string name="auto_update_face_summary">Fotoğraflar otomatik olarak eşlenecek ve bebek albümüne eklenecektir</string>
+  <string name="auto_update_off">Kapalı</string>
+  <string name="auto_update_on">Açık</string>
+  <string name="name_wrong">"%s değil"</string>
+  <string name="need_to_turn_on_sync">Mi Bulutu aç</string>
+  <string name="sync_ok">senkronize bitti</string>
 </resources>

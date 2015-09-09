@@ -136,4 +136,28 @@
     <plurals name="confirm_delete_has_local_image_video">
         <item quantity="other">Seçtiğiniz %s öğe silinsin mi?</item>
     </plurals>
+	<plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d resmi yükle</item>
+        <item quantity="one">1 resmi yükle</item>
+    </plurals>
+   <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d videoyu yükle</item>
+        <item quantity="one">1 videoyu yükle</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d resim ve videoyu yükle</item>
+        <item quantity="one">1 resim ve videoyu yükle</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">%1$d resim yükleniyor…</item>
+        <item quantity="one">1 resim yükleniyor…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">%1$d video yükleniyor…</item>
+        <item quantity="one">1 video yükleniyor…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">%1$d resim ve video yükleniyor…</item>
+        <item quantity="one">%1 resim ve video yükleniyor…</item>
+    </plurals>
 </resources>
