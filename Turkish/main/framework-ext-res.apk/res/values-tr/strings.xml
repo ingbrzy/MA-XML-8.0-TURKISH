@@ -33,6 +33,8 @@
   <string name="perm_send_push_dspt">Xiaomi mesajlarına izin ver</string>
   <string name="perm_send_push_lab">Push mesajı gönder</string>
   <string name="reboot_confirm_title">Telefonunuz Tekrar Başlatılacak !</string>
+  <string name="reboot_info_auto_boot">Telefonunuz planlı tekrar başlatma nedeniyle %s\' de tekrar başlatılacaktır</string>
+  <string name="reboot_info_shutdown_alarm">Telefonunuz %s\' de tekrar başlatılacaktır</string>
   <string name="reboot_progress">Tekrar Başlatılıyor…</string>
   <string name="replace">Yerleştir</string>
   <string name="screen_button_disabled_message">Ekran altındaki tuşlar kapalı.</string>
@@ -69,8 +71,8 @@
   <string name="status_bar_toggle_privacy_mode">Ziyaretçi</string>
   <string name="status_bar_toggle_quiet_mode">DND</string>
   <string name="status_bar_toggle_reboot">T.Başlat</string>
-  <string name="status_bar_toggle_rotate">D.Kapat</string>
-  <string name="status_bar_toggle_screen_button">Devre dışı</string>
+  <string name="status_bar_toggle_rotate">Döndürme</string>
+  <string name="status_bar_toggle_screen_button">Ekran Tuşları</string>
   <string name="status_bar_toggle_screenshot">E.Görüntüsü</string>
   <string name="status_bar_toggle_shutdown">Kapat</string>
   <string name="status_bar_toggle_sync">Senkronize</string>

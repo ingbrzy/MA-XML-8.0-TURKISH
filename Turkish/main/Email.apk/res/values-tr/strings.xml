@@ -955,4 +955,5 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="account_setup_failed_too_many_partnerships">Oturum açma başarısız</string>
    <string name="outbox_alert_description_email_size_error">Maksimum posta boyutu aşıldı</string>
    <string name="outbox_alert_description_fail_authentication">Kullanıcı adı ya da şifre hatalı</string>
+   <string name="attachment_list_search_hint">Eklerde ara</string>
 </resources>

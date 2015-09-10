@@ -7,8 +7,26 @@
   <string name="adding_upload_tasks">Görevler ekleniyor</string>
   <string name="already_signin_description">Zaten oturum açmış durumdasınız.</string>
   <string name="app_name">Dosyalar</string>
+  <string name="app_name_bluetooth">Bluetooth</string>
+  <string name="app_name_camera">Kamera</string>
+  <string name="app_name_downloadedrom">Paketler</string>
+  <string name="app_name_downloads">İndirmeler</string>
+  <string name="app_name_market">Mi Market</string>
+  <string name="app_name_midrop">Mi Drop</string>
+  <string name="app_name_miui">MIUI</string>
+  <string name="app_name_miuimusic">Müzik</string>
+  <string name="app_name_miuiringtone">Zilsesi</string>
+  <string name="app_name_miuiwallpaper">Duvar Kağıdı</string>
+  <string name="app_name_screenshot">Ekran görüntüleri</string>
   <string name="archive_send_to">Şuraya gönder…</string>
   <string name="background">Gizle</string>
+  <string name="backup_cancel">Hayır</string>
+  <string name="backup_confirm">Yedekle</string>
+  <string name="backup_success_cancel">TAMAM</string>
+  <string name="backup_success_confirm">Gözat</string>
+  <string name="backup_success_message">Şuraya yedeklendi: %1$s</string>
+  <string name="backup_success_title">Yedeklendi</string>
+  <string name="backup_title">WeChat video yedekleri</string>
   <string name="big5_summary">Geleneksel Çince Windows kodlaması</string>
   <string name="big5_title">BIG5</string>
   <string name="bind_account">Varolan hesabını senkronize et</string>
@@ -51,6 +69,7 @@
   <string name="confirm">Tamam</string>
   <string name="confirm_know">Tamam</string>
   <string name="connect_network_setting_des">İnternet bağlantısı için sor</string>
+  <string name="connection_error">"Bağlandı yapılamadı"</string>
   <string name="copy_failed">"Kopyalanamıyor"</string>
   <string name="create_kuaipan_shortcut_pref">Masa üstünde kısayol oluştur</string>
   <string name="create_new_folder_desctiption">Klasör oluşturuluyor...</string>
@@ -129,6 +148,9 @@
   <string name="get_cloud_space">500GB ekle</string>
   <string name="gigabyteShort">GB</string>
   <string name="group_title">%2$s / %1$s</string>
+  <string name="group_title_extra_backup">Yedekler</string>
+  <string name="group_title_extra_expire">Kullanım süresi dolmak üzere</string>
+  <string name="group_title_extra_new">Yeni</string>
   <string name="instruction">FTP Client için aşağıdaki adresi girin: </string>
   <string name="instruction_pre">FTP sunucusunu başlatmak için dokunun</string>
   <string name="just_now">Şimdi</string>
@@ -225,12 +247,14 @@
   <string name="no_wifi_hint">"Wi-Fi bağlantısı yok"</string>
   <string name="notif_server_starting">FTP Sunucusu başladı...</string>
   <string name="notif_title">FTP sunucusu çalışıyor</string>
+  <string name="notification_content_hint">Gözatmak için dokunun</string>
   <string name="notification_dialog_confirm">TAMAM</string>
   <string name="notification_dialog_content">%1$s değiştirildiğinde veya dosya eklendiğinde otomatik düzenle ve bildir.</string>
   <string name="notification_dialog_title">Bildirimler</string>
   <string name="notification_setting">Bildirimler</string>
   <string name="notification_summary">"%1$s henüz bu özelliği desteklemiyor!"</string>
   <string name="notification_title">%1$s değiştirildiğinde bildir.</string>
+  <string name="notification_wechat_title">Wechat video süresi dolmak üzereyken bana bildir</string>
   <string name="open_changed_file_message">"Açmaya çalıştığınız dosya değiştirildi. Problemi çözmek için:
 1. Dosyayı tekrar indirin.
 2. Kuaipan hesabınıza yükleyin."</string>
@@ -367,6 +391,7 @@
   <string name="tab_phone">Liste görünümü</string>
   <string name="tab_sys_size">Toplam alan</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_expire_video">Kullanım süresi dolmak üzere</string>
   <string name="title_more_source">Daha fazla uygulama</string>
   <string name="title_recent">Sık kullanılan</string>
   <string name="toast_file_not_can_read">Bu işlemi gerçekleştirmek için uygulama bulunamadı</string>

@@ -145,19 +145,19 @@
         <item quantity="one">1 videoyu yükle</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d resim ve videoyu yükle</item>
-        <item quantity="one">1 resim ve videoyu yükle</item>
+        <item quantity="other">%1$d öğe senkronize için bekliyor</item>
+        <item quantity="one">1 öğe senkronize için bekliyor</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">%1$d resim yükleniyor…</item>
-        <item quantity="one">1 resim yükleniyor…</item>
+        <item quantity="other">%1$d öğe senkronize için ediliyor…</item>
+        <item quantity="one">1 öğe senkronize için ediliyor…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">%1$d video yükleniyor…</item>
-        <item quantity="one">1 video yükleniyor…</item>
+        <item quantity="other">%1$d öğe senkronize için ediliyor…</item>
+        <item quantity="one">1 öğe senkronize için ediliyor…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">%1$d resim ve video yükleniyor…</item>
-        <item quantity="one">%1 resim ve video yükleniyor…</item>
+        <item quantity="other">%1$d öğe senkronize için ediliyor…</item>
+        <item quantity="one">%1 öğe senkronize için ediliyor…</item>
     </plurals>
 </resources>
