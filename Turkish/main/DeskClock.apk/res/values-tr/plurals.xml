@@ -24,4 +24,12 @@
 	<item quantity="other">%d DAKiKA ERTELE</item>
 	<item quantity="one">%d DAKiKA ERTELE</item>
 </plurals>
+<plurals name="alarm_alert_snooze_set">
+	<item quantity="other">%d DAKiKA ERTELE</item>
+	<item quantity="one">%d DAKiKA ERTELE</item>
+</plurals>
+<plurals name="auto_silence_summary">
+	<item quantity="other">Alarm %d dakika sonra susturulur</item>
+	<item quantity="one">Alarm %d dakika sonra susturulur</item>
+</plurals>
 </resources>

@@ -535,4 +535,8 @@ Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz..
   <string name="lock_screen_warning_switch_title">Kilit ekranında uyarı göster</string>
   <string name="lock_screen_warning_value">Veri kullanım uyarısı</string>
   <string name="pref_title_diagnostics_show_float_notification">Kayan bildirimler</string>
+  <string name="package_change_notification_summary">Daha fazla öğrenmek için dokunun</string>
+  <string name="package_change_notification_title">veri limitini otomatik ayarla</string>
+  <string name="package_setted_error_notification_summary">Veri kullanım bilgileri için dokunun</string>
+  <string name="package_setted_error_notification_titile">"Veri planı ayarlanamadı!"</string>
 </resources>

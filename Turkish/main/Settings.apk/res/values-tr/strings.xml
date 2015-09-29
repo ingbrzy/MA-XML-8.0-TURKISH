@@ -722,6 +722,8 @@
   <string name="data_usage_disable_wifi_limit">Wi-Fi veri limitini ayarla</string>
   <string name="data_usage_disclaimer">Operatörünüzün veri hesapları cihazınızdan farklı olabilir.</string>
   <string name="data_usage_forground_label">Ön plan:</string>
+  <string name="data_usage_menu_auto_sync">Oto-senkronize</string>
+  <string name="data_usage_menu_metered">İnternet paylaşımı</string>
   <string name="data_usage_menu_allow_background">Arka plan verilerine izin ver</string>
   <string name="data_usage_menu_cellular_networks">Hücresel şebekeler</string>
   <string name="data_usage_menu_hide_ethernet">Ethernet kullanımını gizle</string>
@@ -730,7 +732,7 @@
   <string name="data_usage_menu_sim_cards">SIM kartlar</string>
   <string name="data_usage_metered_body">Hanfi Wi-Fi şebekelerinin taşınabilir hotspot olduğunu belirtin. Uygulamaların bu ağlardan arka planda indirme yapması engellenebilir. Ayrıca uygulamalar bu ağlar üzerinden büyük indirmeler yapmadan önce bildirim vereceklerdir.</string>
   <string name="data_usage_metered_mobile">Mobil Şebekeler</string>
-  <string name="data_usage_metered_title">Mobil İnternet Paylaşımı</string>
+  <string name="data_usage_metered_title">İnternet Paylaşımı</string>
   <string name="data_usage_metered_wifi">Kablosuz Ağlar</string>
   <string name="data_usage_metered_wifi_disabled">Mobile internet paylaşımını seçmek için, önce Wi-Fi bağlantısını açın</string>
   <string name="data_usage_restrict_background">Arka plan verileri sınırlanınca, bazı uygulamalar veya hizmetler 2G/3G ile çalıştırılmayabilir.</string>
