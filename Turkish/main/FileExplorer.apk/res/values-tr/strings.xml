@@ -77,6 +77,11 @@
   <string name="create_share_link_description">Paylaşım linki oluşturuluyor...</string>
   <string name="cution">İpuçları</string>
   <string name="data_capacity">Alan: %1$s</string>
+  <string name="data_consumption_cancel">Çık</string>
+  <string name="data_consumption_checkbox_hint">"Tekrar gösterme"</string>
+  <string name="data_consumption_confirm">TAMAM</string>
+  <string name="data_consumption_message">Bu uygulamanın düzgün çalışması için Wi-Fi kullanarak İnternete bağlanması gerekir.</string>
+  <string name="data_consumption_title">Uyarı!</string>
   <string name="decompress_cancel">İptal</string>
   <string name="decompress_confirm">Ayrıştır</string>
   <string name="decompress_destination_error">"Ayrıştırma başarısız: Dosyalar buraya ayrıştırılamaz!"</string>
@@ -110,6 +115,7 @@
   <string name="error_info_cant_send_folder">"Bu dosya türü gönderilemiyor."</string>
   <string name="error_open_file_failed_no_app_found">Bu dosyayı açabilecek uygulama bulunamadı.</string>
   <string name="expand_all">Hepsi</string>
+  <string name="extract">Ayrıştır</string>
   <string name="fail_to_create_folder">Yeterli alan yok ya da dosya zaten var.</string>
   <string name="fail_to_create_folder_unknown">"Klasör oluşturulamadı"</string>
   <string name="fail_to_rename">Aynı dosya isminden zaten mevcut.</string>
@@ -181,6 +187,9 @@
   <string name="load_err">"Yüklenemiyor"</string>
   <string name="load_more">Daha fazla</string>
   <string name="loading">Yükleniyor...</string>
+  <string name="local_image">Fotoğraflar</string>
+  <string name="local_music">Müzik</string>
+  <string name="local_video">Video</string>
   <string name="local_cache_size">Yerel önbellek boyutu: %s</string>
   <string name="login_reg_content">KuaiPan; dosyaları depolamanıza ve birden fazla cihaz arasında bunları senkronize etmenize yardımcı olur.</string>
   <string name="login_reg_content0">Kuaipan\'a her yerden ulaşın.</string>
@@ -200,6 +209,7 @@
   <string name="mobile_photo">Telefon Fotoğrafları</string>
   <string name="month_day_format">d MMMM</string>
   <string name="move_failed">"Taşınamıyor"</string>
+  <string name="move_to">Şuraya taşı…</string>
   <string name="multi_select_title">%1$s öğe seçildi</string>
   <string name="my_app">Uygulama verileri</string>
   <string name="my_app_desc"/>
@@ -352,6 +362,9 @@
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Ara</string>
   <string name="search_title_hint">Ara</string>
+  <string name="select_image">Fotoğrafları seç</string>
+  <string name="select_music">Müzikleri seç</string>
+  <string name="select_video">Videoları seç</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Bu dosya türü desteklenmiyor.</string>
   <string name="server_control_advanced_settings">FTP Ayarları</string>
@@ -374,7 +387,9 @@
   <string name="stay_awake_title">Uyanık kal</string>
   <string name="stop_server">Sunucuyu durdur</string>
   <string name="storage_info">%1$s kullanılabilir</string>
+  <string name="storage_info_detail">Kullanılabilir:%1$s Toplam:%2$s</string>
   <string name="storage_internal">Dahili hafıza</string>
+  <string name="storage_internal_description">Dahili hafıza</string>
   <string name="storage_sd_card">SD kart</string>
   <string name="storage_usb">USB depolama</string>
   <string name="storage_warning">Harici depolama kullanılabilir değil</string>
@@ -415,6 +430,7 @@
   <string name="upload_file_toolarge_message">%1$d yüklemesi başarısız: 300Mb\'dan yüksek dosyaları yukarı yükleyemezsiniz.</string>
   <string name="uploading">Yükleniyor</string>
   <string name="usb_label">USB</string>
+  <string name="storage_usb_description">USB depolama</string>
   <string name="used">Kullanılan: </string>
   <string name="user_guide">KuaiPan hakkında daha fazlası</string>
   <string name="user_guide_continue_use">Biliyorum</string>

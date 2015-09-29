@@ -128,4 +128,12 @@
        <item quantity="few">%1$d dosya alındı (uygulama %2$s)</item>
        <item quantity="many">%1$d dosya alındı (uygulama %2$s)</item>
    </plurals>
+   <plurals name="file_count">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="two">%1$d</item>
+        <item quantity="few">%1$d</item>
+        <item quantity="many">%1$d</item>
+    </plurals>	
 </resources>

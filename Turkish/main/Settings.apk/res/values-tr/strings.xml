@@ -73,7 +73,7 @@
   <string name="accessibility_toggle_speak_password_preference_title">Şifreleri oku</string>
   <string name="account_add">Ekle</string>
   <string name="account_autostar_label">Otomatik başlatma yönetimi</string>
-  <string name="account_list">Tüm Hesaplar</string>
+  <string name="account_list">Diğer Hesaplar</string>
   <string name="account_settings">Hesaplar</string>
   <string name="account_settings_menu_auto_sync">Verileri oto senkronize et</string>
   <string name="account_settings_menu_auto_sync_personal">Kişisel verileri oto senkronize et</string>
@@ -1563,7 +1563,8 @@
   <string name="oldman_mode_entry_name">Yaşlı modu ayarları</string>
   <string name="oldman_mode_entry_title">Yaşlı modu</string>
   <string name="oldman_mode_settings_caption">Yaşlı modu ayarları</string>
-  <string name="oldman_mode_summary">Yaşlı modunu açmanız ya da kapatmanız halinde, telefon tekrar başlatılacak</string>
+  <string name="oldman_mode_summary">Basit ana ekren ve menüleri kullan</string>
+  <string name="oldman_mode_summary_cta">Bu uygulamanın düzgün çalışması için internete bağlanması, kişiler, mesajlar ve konum bilgilerini alması gerekir.</string>
   <string name="only_when_charging">Sadece şarj olurken</string>
   <string name="open_wifi_connect_summary">Detayları görüntülemek için dokun</string>
   <string name="open_wifi_connect_title">%1$s ile bağlandı</string>
@@ -1666,6 +1667,7 @@
   <string name="preferred_app_settings">Varsayılan uygulama ayarları</string>
   <string name="preferred_app_settings_default">Varsayılan</string>
   <string name="preferred_app_settings_reset">Varsayılan ayarlara dönülsün mü?</string>
+  <string name="preferred_app_settings_reset_button">Sıfırla</string>
   <string name="preferred_app_settings_reset_message">Varsayılan uygulama ayarlarına dönmek istiyor musunuz?</string>
   <string name="preferred_application_title">%s Başlatıcı değiştirilecek!</string>
   <string name="preferred_application_warning_message">Varsayılan %1$s başlatıcıyı değiştirmeniz, pil tüketimini arttırır ve cihaz güvenliğini riske atabilir. Varsayılan %2$s kullanmanız tavsiye edilir!</string>

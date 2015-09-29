@@ -327,7 +327,7 @@
   <string name="internal_sdcard_root">Dahili hafıza kök dizini</string>
   <string name="invalid_invition_url">Hatalı davet bağlantısı</string>
   <string name="invalid_recipient_message">Girdiğiniz alıcı isimleri geçersiz</string>
-  <string name="is">%s olabilir mi?</string>
+  <string name="is">Evet</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">Bu fotoğraf Bulut ile senkronize edilmemiş ve orijinali indirilememektedir</string>
   <string name="item_not_sync_for_origin_video">Bu video Bulut ile senkronize edilmemiş ve indirilememektedir</string>
@@ -415,7 +415,7 @@
   <string name="no_thumbnail">Ön izleme yok</string>
   <string name="none_picture">Görüntü yok</string>
   <string name="not_auto_create_recent_album">Favori oluşturmayı geri al</string>
-  <string name="not_is">Değil</string>
+  <string name="not_is">Hayır</string>
   <string name="not_now">Şimdi değil</string>
   <string name="not_show_hidden_albums">Gizli albümleri gösterme</string>
   <string name="old">​Eski</string>
@@ -549,7 +549,7 @@
   <string name="select_auto_upload_albums">Buluta yüklenecek albümü seçin</string>
   <string name="select_image">Fotoğrafı Seç</string>
   <string name="select_item">Düzenleme Modu</string>
-  <string name="select_item_face">"Fotoğraf '%s' olabilir"</string>
+  <string name="select_item_face">" '%s' olabilir mi?"</string>
   <string name="select_too_much_to_send_tips">Bu kadar fazla öğe gönderilemiyor (maksimum %d öğe).</string>
   <string name="select_video">Video Seç</string>
   <string name="send">Gönder</string>
@@ -763,4 +763,5 @@
   <string name="name_wrong">"%s değil"</string>
   <string name="need_to_turn_on_sync">Mi Bulutu aç</string>
   <string name="sync_ok">senkronize bitti</string>
+  <string name="sync_battery_low">Pil seviyesi düşük</string>
 </resources>

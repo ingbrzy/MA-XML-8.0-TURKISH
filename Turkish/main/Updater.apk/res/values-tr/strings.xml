@@ -73,6 +73,7 @@
   <string name="important_suggestion">Gizlilik Politikası değişti</string>
   <string name="install">Yükle</string>
   <string name="install_failed">Güncelleme başarısız!</string>
+  <string name="install_file_explorer">Dosya yöneticisi uygulaması yükleyin!</string>
   <string name="install_local">Yerel yükle</string>
   <string name="install_qq">QQ uygulamasını kur</string>
   <string name="internal_build">Dahili</string>
@@ -84,9 +85,11 @@
   <string name="menu_title_pick_rom_file">Güncelleme paketini seç</string>
   <string name="menu_title_recovery">Recovery modunda başlat</string>
   <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;MIUI forum sitesine gidin.&lt;/a&gt;" "</string>
-  <string name="miui_summary_has_new_version">Yeni güncelleme buludu</string>
+  <string name="miui_summary_has_new_version">"  Yeni güncelleme var  "</string>
   <string name="miui_summary_no_new_version">Yeni güncelleme yok</string>
   <string name="miui_summary_now_version">"Güncelleme için bir ağa bağlanın"</string>
+  <string name="miui_summary_slogan">"  Senin tasarımın  "</string>
+  <string name="miui_summary_updating">"  Güncelleniyor…  "</string>
   <string name="monthly_build">Aylık Yapı</string>
   <string name="my_best_update">En iyi gücellemem</string>
   <string name="my_expect_update">Beklenen güncelemem</string>

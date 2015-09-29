@@ -953,7 +953,11 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="get_database_exception">Lütfen uygulama ayarlarından eposta verilerini temizleyin</string>
   <string name="share_choose">Lütfen seçin</string>
   <string name="account_setup_failed_too_many_partnerships">Oturum açma başarısız</string>
-   <string name="outbox_alert_description_email_size_error">Maksimum posta boyutu aşıldı</string>
-   <string name="outbox_alert_description_fail_authentication">Kullanıcı adı ya da şifre hatalı</string>
-   <string name="attachment_list_search_hint">Eklerde ara</string>
+  <string name="outbox_alert_description_email_size_error">Maksimum posta boyutu aşıldı</string>
+  <string name="outbox_alert_description_fail_authentication">Kullanıcı adı ya da şifre hatalı</string>
+  <string name="attachment_list_search_hint">Eklerde ara</string>
+  <string name="compose_attachment_number_limit">10\'dan fazla dosya eklenemez!</string>
+  <string name="compose_picturesexceedlimits">5\'den fazla resim eklenemez!</string>
+  <string name="contact_in_filter_call_phone_str">Çağrı: %s</string>
+  <string name="contact_in_filter_title">Ondan çağrı var.</string>
 </resources>
