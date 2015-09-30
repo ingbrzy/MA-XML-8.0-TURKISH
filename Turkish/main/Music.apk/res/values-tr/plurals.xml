@@ -48,4 +48,36 @@
 	 <item quantity="other">%d benzer şarkı</item>
 	 <item quantity="one">%d benzer şarkı</item>
 </plurals>
+<plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">%d silinsin mi?</item>
+        <item quantity="one"> %d silinsin mi?</item>
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d sanatçı</item>
+        <item quantity="one">%d sanatçı</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d band</item>
+        <item quantity="one">%d band</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">%d şarkı silinsin mi?</item>
+        <item quantity="one">%d şarkı silinsin mi?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">%d şarkı kaldırılsın mı?</item>
+        <item quantity="one">%d şarkı kaldırılsın mı?</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Oynatıcı %d dakika içinde duracak</item>
+        <item quantity="one">Oynatıcı %d dakika içinde duracak</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d öğe seçtiniz</item>
+        <item quantity="one">%d öğe seçtiniz</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Şarkılar favorilere eklendi.</item>
+        <item quantity="one">Şarkı favorilere eklendi.</item>
+    </plurals>
 </resources>
