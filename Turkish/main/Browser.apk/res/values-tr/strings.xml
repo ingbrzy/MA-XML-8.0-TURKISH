@@ -55,6 +55,14 @@
   <string name="app_new_version">Yükleme tamamlandı: Uygulama en son versiyona güncelleştirildi</string>
   <string name="app_update_install">İndirme tamamlandı. Geliştirilmiş versiyon yüklenmeye hazır.</string>
   <string name="application_name">Safari</string>
+  <string name="aqi_quality_index_break">AQI %1$s</string>
+  <string name="aqi_quality_index_dangerous">AQI %1$s</string>
+  <string name="aqi_quality_index_good">AQI %1$s</string>
+  <string name="aqi_quality_index_hazardous">AQI %1$s</string>
+  <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
+  <string name="aqi_quality_index_moderate">AQI %1$s</string>
+  <string name="aqi_quality_index_pure">AQI %1$s</string>
+  <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
   <string name="autologin_bar_error">"Oturum açılamadı"</string>
   <string name="autologin_bar_hide_text">Gizle</string>
   <string name="autologin_bar_login_text">Oturum Aç</string>
@@ -92,6 +100,7 @@
   <string name="choosertitle_sharevia">Paylaş:</string>
   <string name="clear">Temizle</string>
   <string name="clear_history">Geçmişi Temizle</string>
+  <string name="clear_most_visited">Kayıt geçmişi</string>
   <string name="clear_history_by_group_alert">%s arama geçmişi temizlensin mi?</string>
   <string name="clear_history_group">Geçmişi Temizle (%s sayfa)</string>
   <string name="clear_search_history">Geçmişi Temizle</string>
@@ -239,6 +248,13 @@
   <string name="geolocation_settings_page_title">Konum erişimini temizle</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Ana ekrana yerleştirildi</string>
+  <string name="homepage_delete_card_menu">Sil</string>
+  <string name="homepage_get_location">Konum bilgisini al</string>
+  <string name="homepage_get_location_failed">"Konum bilgisi alınamadı, şehrinizi seçin"</string>
+  <string name="homepage_more_cards">Daha fazla kart</string>
+  <string name="homepage_more_sites">Daha fazla site</string>
+  <string name="homepage_search_hint">Ara</string>
+  <string name="homepage_top_card_menu">En Üst</string>
   <string name="history_browsed">Tarama geçmişi</string>
   <string name="history_most_visited">Sık kullanılanlar</string>
   <string name="history_saved_webpage">Sayfayı kaydet</string>
@@ -346,6 +362,11 @@
   <string name="miuichromium_save_password_remember">Hatırla</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Bu yolu değiştirmek için SD kart gerekiyor</string>
   <string name="month_picker_dialog_title">Ayı ayarla</string>
+  <string name="nav_bottom_bar_back">Geri</string>
+  <string name="nav_bottom_bar_close_all">Hepsini kapat</string>
+  <string name="nav_bottom_bar_new_tab">Yeni sekme</string>
+  <string name="nav_screen_container_tab_incognito">Gizli sekme</string>
+  <string name="nav_screen_container_tab_normal">Normal sekme</string>
   <string name="move_to_up_folder">Bir seviye yukarı git</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Bağlanmak istiyor musunuz?</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Wi-Fi Uygun Bildirimi</string>
@@ -376,6 +397,7 @@
   <string name="pref_adblock_counts">%d reklam engellendi</string>
   <string name="pref_adblock_title">Reklamları engelle</string>
   <string name="pref_autologin_progress_in_background"> %s kullanılarak arkaplanda Google sitelerine oturum açılıyor</string>
+  <string name="pref_category_hint">Kategori</string>
   <string name="pref_category_title_version">Versiyon</string>
   <string name="pref_clear_adblock_statistics">Reklam engelleme geçmişini temizle</string>
   <string name="pref_clear_adblock_statistics_dlg">Engellenen reklam bilgileri temizlensin mi?</string>
@@ -398,6 +420,9 @@
   <string name="pref_data_preload_summary">": Tarayıcının yüksek güvenli arama sonuçlarını arka planda önyüklemesine izin verin"</string>
   <string name="pref_data_title">Bant genişliği yönetimi</string>
   <string name="pref_enable_adblock_notification">Reklam engelleme bildirimleri</string>
+  <string name="pref_enable_news">haber uyarıları</string>
+  <string name="pref_enable_novels">Roman uyarıları</string>
+  <string name="pref_enable_videos">Video uyarıları</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Son sekme kapanınca çık</string>
   <string name="pref_extras_reset_default">Varsayılan ayarlara sıfırla</string>
   <string name="pref_extras_reset_default_dlg">Ayarlar, varsayılan değerlere geri yüklensin mi?</string>
@@ -429,6 +454,9 @@
   <string name="pref_key_title">Tuş Ayarları</string>
   <string name="pref_link_prefetch_summary">": Tarayıcıya, arka planda bağlantılı web sayfaların önyüklemesine izin verir"</string>
   <string name="pref_link_prefetch_value_never_summary">"Önyükleme görüntülerine asla izin verme"</string>
+  <string name="pref_notifications_hint">Bildirimler</string>
+  <string name="pref_notifications_receive">Yeni bildirim uyarıları</string>
+  <string name="pref_notifications_title">Bildirimler</string>
   <string name="pref_other_title">Diğer</string>
   <string name="pref_privacy_clear_cache">Ön belleği temizle</string>
   <string name="pref_privacy_clear_cache_dlg">Yerel olarak önbelleğe alınmış içerik ve veritabanları silinsin mi?</string>
@@ -634,6 +662,7 @@
   <string name="url_find_on_page_result">Tarayıcıda Görüntüle</string>
   <string name="url_find_on_page_result_item">\"%s\" için tüm metni görüntüle</string>
   <string name="url_hint">Arayın veya URL adresini girin</string>
+  <string name="url_hint_from_search">Arama terimini girin</string>
   <string name="url_opened_in_background">Arkaplan sekmesinde aç</string>
   <string name="url_suggest_indicator_bookmark">Yer imleri/Geçmiş</string>
   <string name="url_suggest_indicator_hoturl">Popüler</string>
