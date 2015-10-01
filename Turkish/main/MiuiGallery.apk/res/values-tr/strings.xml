@@ -700,7 +700,7 @@
   <string name="baby_album_sharer_recommand_face">Mevcut fotoğraflar %1$s eklensin mi?</string>
   <string name="baby_birthday">Doğum günü</string>
   <string name="baby_lock_wallpaper">Kilit ekranı</string>
-  <string name="baby_lock_wallpaper_at_least_one_selected">Albümü seçin</string>
+  <string name="baby_lock_wallpaper_cancelled">Varsaılan duvar kağıdı ile değiştirildi</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Geçerli ayarlar uygulansın mı?</string>
   <string name="baby_lock_wallpaper_title">"Kilit ekranında bebek fotoğraflarını kullan"</string>
   <string name="baby_name_cannot_empty">Adı girin</string>
@@ -764,4 +764,15 @@
   <string name="need_to_turn_on_sync">Mi Bulutu aç</string>
   <string name="sync_ok">senkronize bitti</string>
   <string name="sync_battery_low">Pil seviyesi düşük</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">Kilit ekranı duvar kağıdı sıfırlansın mı?</string>
+  <string name="hidden_album_display_name">Gizli albüm</string>
+  <string name="need_to_turn_on_wlan">Wi-Fi\'a bağlan</string>
+  <string name="need_to_turn_on_network">İnternete bağlan</string>
+  <string name="number_of_uploading_finish">Tüm dosyalar Mi Buluta yüklendi</string>
+  <string name="set_baby_icon_picker_default_title">Bebek simgesini ayarla</string>
+  <string name="set_bg_file_exist_message">Fotoğraf isimlerinde çakışma</string>
+  <string name="set_bg_picker_default_title">Küçük resim ayarla</string>
+  <string name="set_bg_unknow_reasons">Bilinmeyen hata!</string>
+  <string name="sync_cloud_space_full">Bulut alanı tamamen doldu</string>
+   
 </resources>
