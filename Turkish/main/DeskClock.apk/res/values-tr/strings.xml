@@ -123,4 +123,9 @@
   <string name="birthday_alarm_summary">Doğum gününde \"Mutlu Yıllar\" alarm sesini çal</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Susturmak için ekrana dokunun</string>  
+  <string name="skip_alarm_once_hint">Sadece %s için kapat</string>
+  <string name="today">Bugün</string>
+  <string name="tomorrow">Yarın</string>
+  <string name="turn_off_a_repeat_alarm">Alarmı kapat</string>
+  <string name="turn_off_this_repeat_alarm">Bu alarmı kapat</string>
 </resources>

@@ -196,4 +196,15 @@
   <string name="white_list_large_file_header">Büyük dosyalar: %d</string>
   <string name="white_list_residual_header">Artıklar: %d</string>
   <string name="white_list_title">İstisnalar</string>
+  <string name="hints_memory_header_left">Hafıza</string>
+  <string name="mainbtn_text_quick_cleanup">Temizle %s</string>
+  <string name="mainbtn_text_quick_cleanup_default">Temizle</string>
+  <string name="memeory_check_content">%1$d uygulama, hafıza %2$s</string>
+  <string name="hints_list_item_clean">Temiz</string>
+  <string name="hints_list_item_keep">Sakla</string>
+  <string name="hints_list_item_lock">Sakla</string>
+  <string name="hints_list_item_unlock">Temiz</string>
+  <string name="clear_immediately">Temizle</string>
+  <string name="total_clean">%s temizlendi</string>
+   <string name="clear_bigfiles">Gereksiz dosyaları temizleyin.</string>
 </resources>
