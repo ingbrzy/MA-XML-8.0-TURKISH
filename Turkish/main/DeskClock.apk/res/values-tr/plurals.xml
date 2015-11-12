@@ -16,7 +16,7 @@
 	<item quantity="other">"%1$d dakika "</item>
 	<item quantity="one">"%1$d dakika "</item>
 </plurals>
-<plurals name="timer_message_seconds">
+<plurals name="timer_message_second">
 	<item quantity="other">%1$d saniye</item>
 	<item quantity="one">%1$d saniye</item>
 </plurals>
