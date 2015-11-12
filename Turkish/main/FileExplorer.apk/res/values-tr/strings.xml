@@ -36,6 +36,8 @@
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"Birçok öğe gönderilemiyor"</string>
   <string name="cancel">İptal</string>
+  <string name="cancel_success">Tüm dosyalar %s klasörüne taşındı</string>
+  <string name="cancelled_by_user">İşlem iptal edildi</string>
   <string name="category">Kategori</string>
   <string name="category_all">Tümü</string>
   <string name="category_apk">Apk dosyaları</string>
@@ -103,6 +105,7 @@
   <string name="dialog_type_image">Resimler</string>
   <string name="dialog_type_text">Belgeler</string>
   <string name="dialog_type_video">Videolar</string>
+  <string name="dir_not_support">"Bu klasör gizlenemez"</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Klasör boş</string>
   <string name="dlg_error_unmount_text">USB depolama biriminin bağlantısı kesilemedi.</string>
@@ -111,6 +114,9 @@
   <string name="downloading">İndiriliyor...</string>
   <string name="downloading_in_3g">3G ile indiriliyor...</string>
   <string name="enable_sd_card"> SD kart takın yada USB yığın belleği çıkarın.</string>
+  <string name="encrypt_error">"Hata, tekrar deneyin"</string>
+  <string name="encrypt_prefix">GİZLİ</string>
+  <string name="encrypt_success">Tüm dosyalar gizli</string>
   <string name="error_filename_too_long">Dosya ismi çok uzun.</string>
   <string name="error_info_cant_send_folder">"Bu dosya türü gönderilemiyor."</string>
   <string name="error_open_file_failed_no_app_found">Bu dosyayı açabilecek uygulama bulunamadı.</string>
@@ -193,6 +199,7 @@
   <string name="local_cache_size">Yerel önbellek boyutu: %s</string>
   <string name="login_reg_content">KuaiPan; dosyaları depolamanıza ve birden fazla cihaz arasında bunları senkronize etmenize yardımcı olur.</string>
   <string name="login_reg_content0">Kuaipan\'a her yerden ulaşın.</string>
+  <string name="make_private">Gizle</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Dosyaları temizle</string>
   <string name="menu_item_ftp">FTP</string>
@@ -244,6 +251,8 @@
   <string name="network_connect_confirm_des">Dosyalarım uygulaması bazı özellikler için ağ bağlantısı kullanır, kabul ediyor musunuz?</string>
   <string name="never_notify_network_connect">Seçimi hatırla</string>
   <string name="new_folder_name">Yeni klasör</string>
+  <string name="new_function">Gizli Klasör</string>
+  <string name="new_function_info">Gizli bir klasör oluşturmak için, başlangıç sayfasındaki simgelerin ilk satırdan ekranın altına doğru kaydırın.</string>
   <string name="no">Hayır</string>
   <string name="no_app_tags">Boş</string>
   <string name="no_display_file">"%1$s gösterilemiyor!"</string>
@@ -265,10 +274,13 @@
   <string name="notification_summary">"%1$s henüz bu özelliği desteklemiyor!"</string>
   <string name="notification_title">%1$s değiştirildiğinde bildir.</string>
   <string name="notification_wechat_title">Wechat video süresi dolmak üzereyken bana bildir</string>
+  <string name="notify_private_folder_msg">Daha fazlası için dokunun</string>
+  <string name="notify_private_folder_title">Gizli klasör oluştur</string>
   <string name="open_changed_file_message">"Açmaya çalıştığınız dosya değiştirildi. Problemi çözmek için:
 1. Dosyayı tekrar indirin.
 2. Kuaipan hesabınıza yükleyin."</string>
   <string name="open_changed_file_title">Değişiklikler uygulandı</string>
+  <string name="open_private_folder">Gizli klasör oluşturuluyor…</string>
   <string name="open_file_failed">"Dosya açılamadı!"</string>
   <string name="operating">İşleniyor...</string>
   <string name="operation_agree">Tamam</string>
@@ -310,6 +322,8 @@
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefon</string>
   <string name="port_range">Port numarası 1024–65535 arasında olmalıdır</string>
+  <string name="private_files">Gizli</string>
+  <string name="private_folder">Gizli klasör</string>
   <string name="pull_to_signin">Oturum açmak için aşağı doğru sürükleyin.</string>
   <string name="query_bind_state">KuaiPan bağlanıyor...</string>
   <string name="release_to_signin">Oturum açmak için serbest bırakın</string>
@@ -340,6 +354,7 @@
   <string name="search_file_type_picture">Fotoğraf</string>
   <string name="search_file_type_video">Video</string>
   <string name="search_hint">Ara</string>
+  <string name="select_dest_folder">Klasörü seç</string>
   <string name="search_keyword">Etiketler</string>
   <string name="search_keyword_buy">Alış-veriş</string>
   <string name="search_keyword_game">Oyun</string>
@@ -411,6 +426,8 @@
   <string name="title_recent">Sık kullanılan</string>
   <string name="toast_file_not_can_read">Bu işlemi gerçekleştirmek için uygulama bulunamadı</string>
   <string name="tools">Araçlar</string>
+  <string name="transfer_done">Taşıma tamamlandı</string>
+  <string name="transfer_private_data">Gizli klasörler taşınıyor…</string>
   <string name="trans_task">Ağ transferi</string>
   <string name="trans_task_delete_confirm_message">Seçitiğiniz %1$d görev silinsin mi?</string>
   <string name="transing">Gönderiliyor</string>
