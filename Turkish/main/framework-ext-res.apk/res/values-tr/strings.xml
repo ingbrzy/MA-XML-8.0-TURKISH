@@ -89,13 +89,18 @@
   <string name="location_usage_restricted_body">Kısıtlamayı kaldırmak için dokunun</string>
   <string name="location_usage_restricted_title">Arkaplan konumu kısıtlanmış</string>
   <string name="fc_dialog_body">Hata raporunu analiz için MI sunucularına göndermek ister misiniz?</string>
- <string name="fc_dialog_jump_to_preview">Sonuca gözat</string>
- <string name="handy_mode_enter_dlg_msg">Tek elle kullanım moduna geçilsin mi?</string>
- <string name="handy_mode_enter_dlg_title">Tek elle kullanım moduna geç</string>
-	<string name="all_call_livetalk_enable">Use top-up packages for domestic and international calls</string>
-	<string name="all_call_livetalk_remain_mins">Minutes remaining: (%1$s domestic) | %2$s (%3$s)</string>
-	<string name="internal_livetalk_enable">Use top-up packages for domestic calls</string>
-	<string name="internal_remain_mins">%1$s minutes remaining (domestic calls)</string>
-	<string name="international_livetalk_enable">Use top-up packages for international calls</string>
-	<string name="international_remain_mins">%1$s minutes remaining (%2$s calls)</string>
+  <string name="fc_dialog_jump_to_preview">Sonuca gözat</string>
+  <string name="handy_mode_enter_dlg_msg">Tek elle kullanım moduna geçilsin mi?</string>
+  <string name="handy_mode_enter_dlg_title">Tek elle kullanım moduna geç</string>
+  <string name="all_call_livetalk_enable">Use top-up packages for domestic and international calls</string>
+  <string name="all_call_livetalk_remain_mins">Minutes remaining: (%1$s domestic) | %2$s (%3$s)</string>
+  <string name="internal_livetalk_enable">Use top-up packages for domestic calls</string>
+  <string name="internal_remain_mins">%1$s minutes remaining (domestic calls)</string>
+  <string name="international_livetalk_enable">Use top-up packages for international calls</string>
+  <string name="international_remain_mins">%1$s minutes remaining (%2$s calls)</string>
+  <string name="set_password_action">Şifre ayarla</string>
+  <string name="set_password_message">Yeni şifre ayarlansın mı?</string>
+  <string name="set_password_title">Şifre ayarla</string>
+  <string name="cancel_action">İptal</string>
+  <string name="resource_select">Seç</string>
 </resources>
