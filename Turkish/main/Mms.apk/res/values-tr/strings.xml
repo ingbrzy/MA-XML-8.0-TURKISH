@@ -150,6 +150,7 @@
   <string name="ex_type_mx">Bulut mesajı</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Mesaj boyutu sınırına ulaşıldı.</string>
+  <string name="exceed_message_text_limitation">Mesaj metin uzunluğu sınırına ulaşıldı.</string>
   <string name="expire_on">"Sona erme tarihi: %s"</string>
   <string name="exporting_progress_private_message">Mesajlar dışa aktarılıyor...</string>
   <string name="failed_to_add_media">%1$s öğesini mesajınıza ekleyemezsiniz.</string>
@@ -176,7 +177,7 @@
   <string name="found_old_messages">%1$s - %2$s arasındaki mesajlar yüklensin mi?</string>
   <string name="found_old_messages_title">Diğer SIM kartlarınızdaki mesajlar yüklensin mi?</string>
   <string name="found_wild_messages_guide_cloud_desc">Mesajlarınızı Mi Bulut ile senkronize etmek için Mi Hesabınız ile oturum açın ve SMS\'leri senkronize et seçeneğini etkinleştirin.</string>
-  <string name="found_wild_messages_guide_settings_desc">Mi Bulut > Mesaj ayarları > SMS\'leri senkronize et</string>
+  <string name="found_wild_messages_guide_settings_desc">Mi Bulut &gt; Mesaj ayarları &gt; SMS\'leri senkronize et</string>
   <string name="found_wild_messages_title">SMS mesajlarını Senkronize et</string>
   <string name="from_label">Kimden:</string>
   <string name="group_message">Grup mesajı</string>
@@ -274,10 +275,14 @@
   <string name="mx_activate_popup_msg">Mi Mesaj, MIUI aracılığıyla ücretsiz mesaj göndermenizi sağlar. Wi-Fi ağına bağlı olmadığınız takdirde veri kullanımı ücretine tabi olacaktır.</string>
   <string name="mx_activate_user_agreement_p1">"Bu servisi kullanarak, Mi Mesaj koşullarını kabul etmiş olursunuz "</string>
   <string name="mx_activation_done">Mi Mesaj etkinleştirildi</string>
+  <string name="mx_and_voip_enable">Mi Mesaj ve Ses</string>
+  <string name="mx_and_voip_enable_popup_msg">"Mesaj gönderme ve taşıyıcı ücreti ödemeden diğer MIUI kullanıcılarına çağrı yapmak VoIP Weihui tarafından desteklenmektedir. Weihui Gizlilik Politikasına gözatın."</string>
+  <string name="mx_and_voip_enable_popup_msg2">Gizlilik Politikası</string>
   <string name="mx_auto_resend_mms">MMS olarak gönder</string>
   <string name="mx_auto_resend_mms_summary">Wi-Fi kullanılmıyorken mobil veri üzerinden MMS olarak gönderir. (Operatörünüzün normal veri kullanım ücretlendirmesi uygulanır).</string>
   <string name="mx_auto_resend_sms">Bir SMS gönder</string>
   <string name="mx_auto_resend_sms_summary">Wi-Fi kullanılmıyorken mobil veri üzerinden yazılı mesaj olarak gönderir. (Operatörünüzün normal veri kullanım ücretlendirmesi uygulanır).</string>
+  <string name="mx_b2c_message_desc">Şebeke bildirimleri</string>
   <string name="mx_btn_enable">Etkinleştir</string>
   <string name="mx_btn_enable_now">Etkinleştir</string>
   <string name="mx_count_dspt">%1$d SMS ve %2$d MMS gönderdiniz</string>
@@ -570,16 +575,11 @@
   <string name="view_bookmark">Orjinal mesaja bak</string>
   <string name="view_hms_details">Detaylar</string>
   <string name="view_message_details">Detayları görüntüle</string>
+  <string name="voip_enable">Mi Mesaj ve Ses</string>
+  <string name="voip_enable_popup_msg">"Operatör ücreti ödemeden diğer MIUI kullanıcılarına çağrı yapmak VoIP Weihui tarafından desteklenmektedir. Weihui Gizlilik Politikasına gözatın."</string>
+  <string name="voip_enable_popup_msg2">Gizlilik Politikası</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">%ds de gönder</string>
   <string name="xiaomi_service_number">Servis numarası</string>
   <string name="yes">Tamam</string>
-  <string name="exceed_message_text_limitation">Mesaj metin uzunluğu sınırına ulaşıldı.</string>
-  <string name="mx_and_voip_enable">Mi Mesaj ve Ses</string>
-  <string name="mx_and_voip_enable_popup_msg">"Mesaj gönderme ve taşıyıcı ücreti ödemeden diğer MIUI kullanıcılarına çağrı yapmak VoIP Weihui tarafından desteklenmektedir. Weihui Gizlilik Politikasına gözatın."</string>
-  <string name="mx_and_voip_enable_popup_msg2">Gizlilik Politikası</string>
-  <string name="voip_enable">Mi Mesaj ve Ses</string>
-  <string name="voip_enable_popup_msg">"Operatör ücreti ödemeden diğer MIUI kullanıcılarına çağrı yapmak VoIP Weihui tarafından desteklenmektedir. Weihui Gizlilik Politikasına gözatın."</string>
-  <string name="voip_enable_popup_msg2">Gizlilik Politikası</string>
-  <string name="mx_b2c_message_desc">Şebeke bildirimleri</string>
 </resources>

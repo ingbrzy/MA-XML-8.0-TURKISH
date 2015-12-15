@@ -61,6 +61,8 @@
   <string name="clean_content_three">Atla %s</string>
   <string name="clean_content_two">%1$s ve %2$s</string>
   <string name="clean_content_zero">"Temizlik yapma"</string>
+  <string name="clear_bigfiles">Gereksiz dosyaları temizleyin.</string>
+  <string name="clear_immediately">Temizle</string>
   <string name="confirm_auto_cleaner">TAMAM</string>
   <string name="deepclean_cache_header_left">Bellek dosyaları: %d</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Mi Buluttaki fotoğraflarıda sil</string>
@@ -111,7 +113,12 @@
   <string name="hints_latest_garbage_cleanup_never">Hiç temizlik yapılmadı</string>
   <string name="hints_latest_garbage_cleanup_today">Son temizlik: Bugün yapıldı</string>
   <string name="hints_latest_garbage_cleanup_yesterday">Son temizlik: Dün yapıldı</string>
+  <string name="hints_list_item_clean">Temiz</string>
+  <string name="hints_list_item_keep">Sakla</string>
+  <string name="hints_list_item_lock">Sakla</string>
+  <string name="hints_list_item_unlock">Temiz</string>
   <string name="hints_loading_text">Yükleniyor…</string>
+  <string name="hints_memory_header_left">Hafıza</string>
   <string name="hints_quick_cleanning">Temizleniyor…</string>
   <string name="hints_quick_cleanuping">Optimize ediliyor…</string>
   <string name="hints_quick_scanning">Taranıyor…</string>
@@ -121,6 +128,9 @@
   <string name="hints_title_garbage">Çöp</string>
   <string name="item_title_process_mode">Eylemi seçin</string>
   <string name="last_check_canceled">Önceki tarama iptal edilmiş</string>
+  <string name="mainbtn_text_quick_cleanup">Temizle %s</string>
+  <string name="mainbtn_text_quick_cleanup_default">Temizle</string>
+  <string name="memeory_check_content">%1$d uygulama, hafıza %2$s</string>
   <string name="msg_cleanup_db_update_time_unknown">Son güncelleme bilinmiyor</string>
   <string name="msg_update_error_code_already_running">Güncelleniyor</string>
   <string name="msg_update_error_code_network_error">"Ağ bağlantısı yok!"</string>
@@ -190,21 +200,11 @@
   <string name="toast_select_image_need_delete">Silinecek fotoğrafları seçin</string>
   <string name="toast_selecte_group_restore_succeed">Fotoğraflar geri yüklendi</string>
   <string name="toast_uninstall_success">Kaldırma tamamlandı</string>
+  <string name="total_clean">%s temizlendi</string>
   <string name="white_list_ad_header">Reklam dosyaları: %d</string>
   <string name="white_list_apk_header">Yükleme paketleri: %d</string>
   <string name="white_list_cache_header">Bellek dosyaları: %d</string>
   <string name="white_list_large_file_header">Büyük dosyalar: %d</string>
   <string name="white_list_residual_header">Artıklar: %d</string>
   <string name="white_list_title">İstisnalar</string>
-  <string name="hints_memory_header_left">Hafıza</string>
-  <string name="mainbtn_text_quick_cleanup">Temizle %s</string>
-  <string name="mainbtn_text_quick_cleanup_default">Temizle</string>
-  <string name="memeory_check_content">%1$d uygulama, hafıza %2$s</string>
-  <string name="hints_list_item_clean">Temiz</string>
-  <string name="hints_list_item_keep">Sakla</string>
-  <string name="hints_list_item_lock">Sakla</string>
-  <string name="hints_list_item_unlock">Temiz</string>
-  <string name="clear_immediately">Temizle</string>
-  <string name="total_clean">%s temizlendi</string>
-   <string name="clear_bigfiles">Gereksiz dosyaları temizleyin.</string>
 </resources>

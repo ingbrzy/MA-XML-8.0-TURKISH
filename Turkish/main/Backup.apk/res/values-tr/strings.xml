@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<string name="abort_backup_confirm">"Yedekleme iptal edilsin mi?"</string>
+  <string name="abort_backup_confirm">"Yedekleme iptal edilsin mi?"</string>
   <string name="account_contact_backup_info">Mi hesabı, Google hesabı ve Rehber verileri</string>
   <string name="account_login">Oturum açın</string>
   <string name="account_summary">Mi hesabını, Google hesabını ve diğer kullanıcı verilerini yedekle</string>
@@ -32,7 +32,7 @@
   <string name="backup_file_error">Yedekleme başarısız</string>
   <string name="backup_finished">Yedekleme tamamlandı</string>
   <string name="backup_hint">Telefonunuzu kapatmayınız</string>
-   <string name="backup_is_running">Cihaz yedekleniyor</string>
+  <string name="backup_is_running">Cihaz yedekleniyor</string>
   <string name="backup_items_app_tailer">" uygulama veri dosyaları "</string>
   <string name="backup_items_sysdata_tailer">" sistem veri dosyaları, "</string>
   <string name="backup_new">Yeni:</string>
@@ -71,7 +71,7 @@
   <string name="current_phone_location">Telefon</string>
   <string name="current_sim">Mevcut SIM kart</string>
   <string name="custom_progress">%d öğe</string>
-   <string name="data_item_desc">Veri</string>
+  <string name="data_item_desc">Veri</string>
   <string name="data_no_enough_space_message">Telefonunuzun dahli hafızasında yeterli boş alan yok.</string>
   <string name="delete"> Sil </string>
   <string name="delete_backup_process">Siliniyor...</string>

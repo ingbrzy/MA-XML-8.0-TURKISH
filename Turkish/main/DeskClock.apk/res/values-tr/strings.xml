@@ -27,6 +27,8 @@
   <string name="auto_silence_summary">%d dakika sonra alarm susar</string>
   <string name="auto_silence_title">Oto-susturma</string>
   <string name="battery_charging_level">%d%%</string>
+  <string name="birthday_alarm">Doğum günü alarmı</string>
+  <string name="birthday_alarm_summary">Doğum gününde \"Mutlu Yıllar\" alarm sesini çal</string>
   <string name="cancel">İptal</string>
   <string name="close_alarm">Alarmı kapat</string>
   <string name="common_settings">Ayarlar</string>
@@ -84,6 +86,7 @@
   <string name="shutdown_alarm_enable_summary">Telefon kapalı iken alarm aktif</string>
   <string name="shutdown_alarm_title">Telefon kapalı iken alarm</string>
   <string name="silent_alarm_summary">Sessiz</string>
+  <string name="skip_alarm_once_hint">Sadece %s için kapat</string>
   <string name="slider_text">KAPATMAK İÇİ YUKARI KAYDIRIN</string>
   <string name="snooze_confirm_cancel">Erteleme iptal</string>
   <string name="snooze_duration_title">Erteleme süresi</string>
@@ -93,6 +96,8 @@
   <string name="stopwatch_title">Kronometre</string>
   <string name="system_time_setting">Ayarlar</string>
   <string name="time">Zaman</string>
+  <string name="timer_alarm_alert_pad">%s</string>
+  <string name="timer_alarm_cancel_pad">Susturmak için ekrana dokunun</string>
   <string name="timer_alert_alert_silenced">Gerisayım %d dakika sonra susturulacaktır.</string>
   <string name="timer_continue">Devam</string>
   <string name="timer_got_it">Tamam</string>
@@ -112,6 +117,10 @@
   <string name="timer_start_alarm">Zaman doldu!</string>
   <string name="timer_title">Gerisayım</string>
   <string name="timezone_exist_error_message">Zaten bu zaman dilimini görüntülüyorsunuz</string>
+  <string name="today">Bugün</string>
+  <string name="tomorrow">Yarın</string>
+  <string name="turn_off_a_repeat_alarm">Alarmı kapat</string>
+  <string name="turn_off_this_repeat_alarm">Bu alarmı kapat</string>
   <string name="vibrate_pref_summary">Alarm çaldığında titret</string>
   <string name="vibrate_when_ringing">Zil sesi çalarken titret</string>
   <string name="volume_button_setting_summary">"Alarm çalarken ses tuşları işlevini ayarlayın"</string>
@@ -119,13 +128,4 @@
   <string name="workday_alarm_clock">Çalışma Günleri</string>
   <string name="worldclock_empty_text">Dünya saati yok</string>
   <string name="worldclock_title">Saat</string>
-  <string name="birthday_alarm">Doğum günü alarmı</string>
-  <string name="birthday_alarm_summary">Doğum gününde \"Mutlu Yıllar\" alarm sesini çal</string>
-  <string name="timer_alarm_alert_pad">%s</string>
-  <string name="timer_alarm_cancel_pad">Susturmak için ekrana dokunun</string>  
-  <string name="skip_alarm_once_hint">Sadece %s için kapat</string>
-  <string name="today">Bugün</string>
-  <string name="tomorrow">Yarın</string>
-  <string name="turn_off_a_repeat_alarm">Alarmı kapat</string>
-  <string name="turn_off_this_repeat_alarm">Bu alarmı kapat</string>
 </resources>

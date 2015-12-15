@@ -8,6 +8,8 @@
   <string name="activate_feature_mx">Mi Mesajlaşma</string>
   <string name="activate_phone_failed_notif_title">MiCloud etkinleştirilemedi!</string>
   <string name="activate_phone_failed_notif_title_msim">%s SIM karttan MiCloud hizmeti başlatılamadı!</string>
+  <string name="activate_popup_confirm_all_gateway_failed_query_info">Tekrar dene</string>
+  <string name="activate_popup_confirm_all_gateway_failed_send_sms">Tekrar dene</string>
   <string name="activate_popup_confirm_failed_phone_error">Lütfen tekrar deneyin!</string>
   <string name="activate_popup_confirm_failed_query_info">Lütfen tekrar deneyin!</string>
   <string name="activate_popup_confirm_failed_receive_sms">Lütfen tekrar deneyin!</string>
@@ -16,6 +18,10 @@
   <string name="activate_popup_confirm_upload_diagnosis_info">Yükle</string>
   <string name="activate_popup_desc_2_intl_sim_cards">%s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek. (Operatörünüzce ücretlendirilebilir)</string>
   <string name="activate_popup_desc_2_sim_cards">%s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek. (Operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_all_gateway_failed_query_info">"Telefon numarası bulunamadı. SIM kartınızın etkinleştirildiğinden emin olun.
+%s etkinleştirmek için yeni bir SIM kart ile ilgili telefon numarasını girin"</string>
+  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Aktivasyon mesajı gönderilemedi. SIM kartınızın etkinleştirildiğinden emin olun.
+%s etkinleştirmek için yeni bir SIM kart ile ilgili telefon numarasını girin"</string>
   <string name="activate_popup_desc_failed_phone_error">Girilen numara geçersiz!</string>
   <string name="activate_popup_desc_failed_query_info">Telefon numaranız alınamıyor. SIM kartın hizmette olduğundan emin olun.</string>
   <string name="activate_popup_desc_failed_receive_sms">Lütfen girdiğiniz numarayı kontrol edin!</string>
@@ -42,6 +48,8 @@
   <string name="activate_popup_desc_sim_card_downlink">%s özelliklerini etkinleştirmek için SIM kart numaranızı girin.</string>
   <string name="activate_popup_desc_upload_diagnosis_info">"SIM kart etkinleştirilemedi!. Sorunun çözümü için tanımlama bilgilerini bize gönderebilirsiniz. (Rapor ID : %s)"</string>
   <string name="activate_popup_link_diagnosis_detail">Gizlilik bilgileri neleri kapsar?</string>
+  <string name="activate_popup_title_all_gateway_failed_query_info">"Numara bulunamadı"</string>
+  <string name="activate_popup_title_all_gateway_failed_send_sms">"Mesaj gönderilemedi"</string>
   <string name="activate_popup_title_diagnosis_detail">Tanımlama bilgileri</string>
   <string name="activate_popup_title_failed_phone_error">Telefon numarası geçersiz!</string>
   <string name="activate_popup_title_failed_query_info">Numara bulunamıyor!</string>
@@ -92,12 +100,4 @@ Cihaz Kimliği geçerli IMEI veya MAC adresi olmalıdır. Cihaz ID olmadan bazı
   <string name="sync_notification_title_format">Senkronize edilen öğeler: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xmsf_activate_info">XMSF etkinleştirme bilgisi</string>
-  <string name="activate_popup_confirm_all_gateway_failed_query_info">Tekrar dene</string>
-  <string name="activate_popup_confirm_all_gateway_failed_send_sms">Tekrar dene</string>
-  <string name="activate_popup_desc_all_gateway_failed_query_info">"Telefon numarası bulunamadı. SIM kartınızın etkinleştirildiğinden emin olun.
-%s etkinleştirmek için yeni bir SIM kart ile ilgili telefon numarasını girin"</string>
-  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Aktivasyon mesajı gönderilemedi. SIM kartınızın etkinleştirildiğinden emin olun.
-%s etkinleştirmek için yeni bir SIM kart ile ilgili telefon numarasını girin"</string>
- <string name="activate_popup_title_all_gateway_failed_query_info">"Numara bulunamadı"</string>
- <string name="activate_popup_title_all_gateway_failed_send_sms">"Mesaj gönderilemedi"</string>
 </resources>

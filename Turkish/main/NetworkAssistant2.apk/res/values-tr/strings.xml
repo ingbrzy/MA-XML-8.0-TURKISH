@@ -33,7 +33,9 @@
   <string name="connect_internet_by_usbshare">USB ile internete bağlandı</string>
   <string name="connect_internet_by_wifi">Wi-Fi ile internete bağlandı</string>
   <string name="current_network_state_not_need_diagnose">Normal</string>
+  <string name="daily_limit_and_lock_screen">Veri limiti ve bildirimler</string>
   <string name="daily_limit_network_available_body">Veri kullanım durumu için dokunun</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Mobil veriyi açmak için dokunun</string>
   <string name="daily_limit_over_message">"Günlük veri limitini aştınız !"</string>
   <string name="daily_pkg_traffic">Mobil veri limiti</string>
   <string name="data_network_blocked_notification_title">İnternet bağlantısı yok!</string>
@@ -141,6 +143,10 @@
   <string name="lock_screen_traffic_notify_body">Ekran Kilitli: %1$s - %2$s, %3$s veri kullanıldı</string>
   <string name="lock_screen_traffic_purchase_textview">Mobil veri al</string>
   <string name="lock_screen_traffic_warn_title">Kilit ekranı bildirimleri</string>
+  <string name="lock_screen_warning_category">Kilit ekranı bildirimleri</string>
+  <string name="lock_screen_warning_switch_summary">Veri kullanımı belirlenen miktarı aştığında Kilit ekranında uyarı göster</string>
+  <string name="lock_screen_warning_switch_title">Kilit ekranında uyarı göster</string>
+  <string name="lock_screen_warning_value">Veri kullanım uyarısı</string>
   <string name="main_alert_message_month_limit_error">Ayarladığınız veri limiti geçersiz!</string>
   <string name="main_alert_message_no_imsi">SIM kart yok</string>
   <string name="main_alert_message_no_mobile_package">"Veri limitiniz ayarlı değil"</string>
@@ -242,6 +248,7 @@
   <string name="notify_daily_data_usage_body">Bu gün %s veri kullanıldı.</string>
   <string name="notify_daily_limit_body">Bu gün %s veri kullanıldı.</string>
   <string name="notify_daily_limit_title">Günlük veri limitini ayarla</string>
+  <string name="notify_daily_traffic_saving_title">Bugün %s kullanıldı</string>
   <string name="notify_month_traffic_body">Bu ay %s veri kullanıldı.</string>
   <string name="notify_setting_pkg_title">Aylık veri limitini ayarla</string>
   <string name="notify_weekly_pkg_body">Bu hafta %s veri kullanıldı.</string>
@@ -258,6 +265,10 @@
   <string name="operator_number_unicom">10010</string>
   <string name="other_exception_summary">"İnternet bağlantınız yok!"</string>
   <string name="other_exception_title">Diğer sorunları kontrol et</string>
+  <string name="package_change_notification_summary">Daha fazla öğrenmek için dokunun</string>
+  <string name="package_change_notification_title">veri limitini otomatik ayarla</string>
+  <string name="package_setted_error_notification_summary">Veri kullanım bilgileri için dokunun</string>
+  <string name="package_setted_error_notification_titile">"Veri planı ayarlanamadı!"</string>
   <string name="pay_charge">Ek veri satınal</string>
   <string name="per_month_pkg_traffic_settings">Mobil veri limiti ayarlayın</string>
   <string name="permission_exception_summary">"Bazı uygulamaların internete bağlanmak için izni yok"</string>
@@ -319,12 +330,16 @@
   <string name="pref_specified_traffic_settings">Mobil Veri limiti ayarları</string>
   <string name="pref_title_declaration">Önemli Not</string>
   <string name="pref_title_diagnostics_dont_show_float_notification">Bildirim alanında uyarı göster</string>
+  <string name="pref_title_diagnostics_show_float_notification">Kayan bildirimler</string>
   <string name="pref_title_mobile_traffic">Uyku sırasında veri tüketimini göster</string>
   <string name="pref_title_network_diagnostics">Ağ tanımlama</string>
   <string name="pref_title_over_traffic_limit_warning">Limiti aşınca</string>
   <string name="pref_title_traffic_limit_number">Günlük limit</string>
   <string name="pref_title_traffic_speed_state">Ağ hızını göster</string>
   <string name="pref_title_update_notification">Veri kullanımını göster</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Yeni uygulamaların veri kullanımını azalt</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Yeni yüklenen uygulamalr için veri tasarrufunu otomatik olarak etkinleştir</string>
+  <string name="pref_traffic_saving_compressed">Sıkıştırıldı</string>
   <string name="pref_traffic_saving_issue">SSS</string>
   <string name="pref_traffic_saving_issue_content">"
 &lt;b&gt;1. Veri tasarrufu işlevi gizliliğimi ve güvenliğimi riske atar mı?&lt;/b&gt;
@@ -334,8 +349,10 @@ Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz..
 &lt;b&gt;2. Veri tasarrufu işlevini niçin kullanıyım?&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
 2G / 3G şebekelerine bağlıyken mobil veri tasarrufu çalışır.</string>
+  <string name="pref_traffic_saving_no_compress">Sıkıştırılmadı</string>
   <string name="pref_traffic_saving_notify_switch">Bildirim çubuğunda göster</string>
   <string name="pref_traffic_saving_notify_switch_hint">Veri Tasarrufunu bildirim çubuğunda göster</string>
+  <string name="pref_traffic_saving_pic_compress_level">Resim sıkıştırma oranı</string>
   <string name="pref_traffic_saving_switch">Veri kullanımını azalt</string>
   <string name="pref_traffic_saving_switch_hint">Verileri sıkıştırmak için proxy kullanın</string>
   <string name="pref_traffic_saving_title">Veri Tasarrufu Ayarları</string>
@@ -353,12 +370,14 @@ Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz..
   <string name="protocol_exception_title">Ağ protokolü tanımlama</string>
   <string name="protocol_loop_back_exception_summary">Yerel loop back testi başarısız oldu.</string>
   <string name="reach_daily_limit_value_body">Mobil veri kullanımını azalt</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Veri tasarrufunu açmak için dokunun</string>
   <string name="reach_daily_limit_value_title">Günlük veri sınırına ulaşıldı</string>
   <string name="read_number">86 makale</string>
   <string name="read_unit">" makale"</string>
   <string name="renew_ip">Tekrar dene</string>
   <string name="repair">Onar</string>
   <string name="replace_dns">DNS\'i otomatik yerleştir</string>
+  <string name="restrictbackground_conflict_saving_msg">"Arka plan verileri kısıtlı olduğunda veri tasarrufunu kullanamazsınız. Veri tasarrufu kapatılsın mı?"</string>
   <string name="right_precent">100%</string>
   <string name="roaming_limit_dialog_message">Günlük dolaşım veri sınırına ulaştınız.</string>
   <string name="roaming_limit_network_notification_body">Kullanılabilir şebekeler için dokunun</string>
@@ -369,6 +388,10 @@ Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz..
   <string name="roaming_start_body">Veri dolaşımı istisnaları için dokunun</string>
   <string name="roaming_start_title">Uluslar arası dolaşım</string>
   <string name="root">Root Erişimi</string>
+  <string name="saving_conflict_dialog_cancel">İptal</string>
+  <string name="saving_conflict_dialog_ok">TAMAM</string>
+  <string name="saving_conflict_dialog_title">Uyarı!</string>
+  <string name="saving_conflict_restrictbackground_msg">"Arka plan verileri kısıtlı olduğunda veri tasarrufunu kullanamazsınız. Veri tasarrufunu açıp arka plan verilerine izin verilsin mi??"</string>
   <string name="sc_allow_network_dialog_message">Bu ağ bağlantısı uygulama erişimine izin vermek için gereklidir.</string>
   <string name="sc_allow_network_dialog_tiltle">Mobil veri tasarrufu kullanılamaz</string>
   <string name="see_detail">Detaylar</string>
@@ -437,6 +460,7 @@ Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz..
   <string name="traffic_protection_use_data">Mobil veri etkinleştirildi</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_purchse_suggestion">Veri limiti aşıldı</string>
+  <string name="traffic_saving_button_mng">Veri tasarrufu uygulamalarını yönet</string>
   <string name="traffic_saving_button_sorted">Ayrıntılar</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Sıralama ölçütü</string>
   <string name="traffic_saving_button_start">Etkinleştir</string>
@@ -454,8 +478,19 @@ Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz..
   <string name="traffic_saving_msg_month">Bu ayki tasarruf</string>
   <string name="traffic_saving_msg_not_started">Veri tasarrufu kapalı</string>
   <string name="traffic_saving_msg_today">Bugün kaydedilen</string>
+  <string name="traffic_saving_need_optimize">Optimize edilebilir</string>
+  <string name="traffic_saving_notification_button_start">Aç</string>
   <string name="traffic_saving_notify_start_content">%s bu ayki tasarruf</string>
   <string name="traffic_saving_notify_start_title">Veri kullanımını azalt</string>
+  <string name="traffic_saving_one_key_optimize">Veri tasarrufunu optimize et</string>
+  <string name="traffic_saving_optimized">Zaten optimize edilmiş</string>
+  <string name="traffic_saving_pic_compress_orig">Orijinal</string>
+  <string name="traffic_saving_ratio">Veri kullanımı azaltıldı %.2f%%</string>
+  <string name="traffic_saving_ratio_low">"Önemli ölçüde veri kullanımını azaltılamaz"</string>
+  <string name="traffic_saving_recommanded_close">Bu öğeyi kapat</string>
+  <string name="traffic_saving_recommanded_open">Bu öğeyi aç</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Mobil veri kullanımını azaltmak için otomatik olarak veri tasarrufunu etkinleştir.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_title">Aç</string>
   <string name="traffic_saving_tecsupport">Opera Max tarafından desteklenmektedir</string>
   <string name="traffic_saving_title">Veri Tasarrufu</string>
   <string name="traffic_saving_toast_start_mobile">Veri Tasarrufu açık</string>
@@ -504,39 +539,4 @@ Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz..
   <string name="wifi_exception_summary">Kullanılabilir Wi-Fi ağı testi</string>
   <string name="wifi_exception_title">Wi-Fi ağı testi</string>
   <string name="wifi_network_blocked_notification_title">İnternet bağlantısı yok!</string>
-  <string name="daily_limit_network_available_body_open_traffic_saving">Mobil veriyi açmak için dokunun</string>
-  <string name="notify_daily_traffic_saving_title">Bugün %s kullanıldı</string>
-  <string name="pref_traffic_saving_auto_add_whitelist">Yeni uygulamaların veri kullanımını azalt</string>
-  <string name="pref_traffic_saving_auto_add_whitelist_hint">Yeni yüklenen uygulamalr için veri tasarrufunu otomatik olarak etkinleştir</string>
-  <string name="pref_traffic_saving_compressed">Sıkıştırıldı</string>
-  <string name="pref_traffic_saving_no_compress">Sıkıştırılmadı</string>
-  <string name="pref_traffic_saving_pic_compress_level">Resim sıkıştırma oranı</string>
-  <string name="reach_daily_limit_value_body_open_traffic_saving">Veri tasarrufunu açmak için dokunun</string>
-  <string name="traffic_saving_button_mng">Veri tasarrufu uygulamalarını yönet</string>
-  <string name="traffic_saving_need_optimize">Optimize edilebilir</string>
-  <string name="traffic_saving_notification_button_start">Aç</string>
-  <string name="traffic_saving_one_key_optimize">Veri tasarrufunu optimize et</string>
-  <string name="traffic_saving_optimized">Zaten optimize edilmiş</string>
-  <string name="traffic_saving_pic_compress_orig">Orijinal</string>
-  <string name="traffic_saving_ratio">Veri kullanımı azaltıldı %.2f%%</string>
-  <string name="traffic_saving_ratio_low">"Önemli ölçüde veri kullanımını azaltılamaz"</string>
-  <string name="traffic_saving_recommanded_close">Bu öğeyi kapat</string>
-  <string name="traffic_saving_recommanded_open">Bu öğeyi aç</string>
-  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Mobil veri kullanımını azaltmak için otomatik olarak veri tasarrufunu etkinleştir.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font&gt;"</string>
-  <string name="traffic_saving_start_tip_title">Aç</string>
-  <string name="restrictbackground_conflict_saving_msg">"Arka plan verileri kısıtlı olduğunda veri tasarrufunu kullanamazsınız. Veri tasarrufu kapatılsın mı?"</string>
-  <string name="saving_conflict_dialog_cancel">İptal</string>
-  <string name="saving_conflict_dialog_ok">TAMAM</string>
-  <string name="saving_conflict_dialog_title">Uyarı!</string>
-  <string name="saving_conflict_restrictbackground_msg">"Arka plan verileri kısıtlı olduğunda veri tasarrufunu kullanamazsınız. Veri tasarrufunu açıp arka plan verilerine izin verilsin mi??"</string>
-  <string name="daily_limit_and_lock_screen">Veri limiti ve bildirimler</string>
-  <string name="lock_screen_warning_category">Kilit ekranı bildirimleri</string>
-  <string name="lock_screen_warning_switch_summary">Veri kullanımı belirlenen miktarı aştığında Kilit ekranında uyarı göster</string>
-  <string name="lock_screen_warning_switch_title">Kilit ekranında uyarı göster</string>
-  <string name="lock_screen_warning_value">Veri kullanım uyarısı</string>
-  <string name="pref_title_diagnostics_show_float_notification">Kayan bildirimler</string>
-  <string name="package_change_notification_summary">Daha fazla öğrenmek için dokunun</string>
-  <string name="package_change_notification_title">veri limitini otomatik ayarla</string>
-  <string name="package_setted_error_notification_summary">Veri kullanım bilgileri için dokunun</string>
-  <string name="package_setted_error_notification_titile">"Veri planı ayarlanamadı!"</string>
-</resources>
+</resources>

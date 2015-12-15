@@ -26,6 +26,7 @@
   <string name="apply_as_lock_wallpaper_message">Kilit ekranına da uygulansın mı?</string>
   <string name="apply_as_wallpaper">Ana Ekran</string>
   <string name="apply_both">Her ikisinede uygula</string>
+  <string name="apply_negative_action">"Uygulama"</string>
   <string name="aqi_quality_index_dangerous">Tehlikeli</string>
   <string name="aqi_quality_index_good">İyi</string>
   <string name="aqi_quality_index_hazardous">Riskli</string>
@@ -39,6 +40,9 @@
   <string name="cant_remove_folder">"Klasör kaldırılamaz"</string>
   <string name="cant_remove_retained_app">"Bu uygulama kaldırılamadı"</string>
   <string name="cant_remove_system_app">"Sistem uygulaması kaldırılamaz"</string>
+  <string name="children_folder_title">Ebeveyn kontrolü</string>
+  <string name="children_mode_exit">Çık</string>
+  <string name="children_mode_tips">Ayarlara dönün ve uygulamalara erişimi yönetin.</string>
   <string name="choose_wallpaper">Duvar kağıdını seçin</string>
   <string name="chooser_wallpaper">Duvar kağıdını şuradan seç</string>
   <string name="cloud_app_restore_title">Bekliyor</string>
@@ -235,7 +239,9 @@
   <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="unnamed_folder_name">İsimsiz Klasör</string>
   <string name="wallpaper">Duvar kağıdı</string>
+  <string name="wallpaper_auto_change_title">Kilit ekranı</string>
   <string name="wallpaper_failed_message">"Duvar kağıdı ayarlanamadı!"</string>
+  <string name="wallpaper_scaling_message">Sabit boyuta ölçeklendirme</string>
   <string name="wallpaper_settings">Duvar kağıdı Ayarları</string>
   <string name="wallpaper_success_message">Duvar kağıdınız başarıyla ayarlandı</string>
   <string name="widget_favorite_contacts_edit">Düzenleyici</string>
@@ -243,10 +249,4 @@
   <string name="widget_favorite_contacts_style">Boyutu değiştir</string>
   <string name="widget_gadget_player">Müzik</string>
   <string name="widget_global_search">Ara</string>
-   <string name="children_folder_title">Ebeveyn kontrolü</string>
-  <string name="children_mode_exit">Çık</string>
-  <string name="wallpaper_auto_change_title">Kilit ekranı</string>
-  <string name="children_mode_tips">Ayarlara dönün ve uygulamalara erişimi yönetin.</string>
-  <string name="wallpaper_scaling_message">Sabit boyuta ölçeklendirme</string>
-  <string name="apply_negative_action">"Uygulama"</string>
 </resources>

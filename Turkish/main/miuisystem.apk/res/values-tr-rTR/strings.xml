@@ -3,11 +3,14 @@
   <string name="android_ringtone_default_with_actual">Geçerli zil sesi (%1$s)</string>
   <string name="android_ringtone_silent">-</string>
   <string name="android_ringtone_unknown">Bilinmeyen zil sesi</string>
+  <string name="app_name_which_call">Uygulama:%s</string>
   <string name="app_no_notification">Bildirim yok</string>
   <string name="app_notificaiton_on_notificationBar">Bildirim çubuğu</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Durum ve bildirim çubuğu</string>
-  <string name="app_name_which_call">Uygulama:%s</string>
   <string name="app_version_which_call">Uygulama sürümü:%s</string>
+  <string name="cloud_state_disabled">Mi Bulut ile senkronize kapalı</string>
+  <string name="cloud_state_finished">Mi Bulut ile senkronize edildi</string>
+  <string name="cloud_state_syncing">Mi Bulut ile senkronize edildi</string>
   <string name="default_name">Varsayılan</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
@@ -82,7 +85,4 @@
   <string name="yellow_page_sms_send_failed">SMS gönderilemedi !</string>
   <string name="yellow_page_sms_sending">Gönderiliyor…</string>
   <string name="yellow_page_unable_send_sms">SMS gönderilemedi</string>
-  <string name="cloud_state_disabled">Mi Bulut ile senkronize kapalı</string>
-  <string name="cloud_state_finished">Mi Bulut ile senkronize edildi</string>
-  <string name="cloud_state_syncing">Mi Bulut ile senkronize edildi</string>
 </resources>

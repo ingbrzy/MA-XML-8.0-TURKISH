@@ -488,6 +488,7 @@ Geri almak için, genel bakışa basılı tutun."</string>
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
   <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
+  <string name="lockscreen_airplane_mode_on">Uçak Modu</string>
   <string name="lockscreen_battery_short">%d %%</string>
   <string name="lockscreen_carrier_default">ŞEBEKE YOK!</string>
   <string name="lockscreen_charged">Şarj tamamlandı</string>
@@ -526,6 +527,7 @@ Geri almak için, genel bakışa basılı tutun."</string>
   <string name="lockscreen_plugged_in">Şarj oluyor (%%%d)</string>
   <string name="lockscreen_return_to_call">Çağrıya dön</string>
   <string name="lockscreen_screen_locked">Ekran kilitli.</string>
+  <string name="lockscreen_sim_error_message_short">Geçersiz Kart</string>
   <string name="lockscreen_sim_locked_message">SIM kart kilitli.</string>
   <string name="lockscreen_sim_puk_locked_instructions">"PIN1 kodu bloke oldu.Kullanıcı Rehberine bakın veya Müşteri Hizmetlerine başvurun."</string>
   <string name="lockscreen_sim_puk_locked_message">SIM kart PUK kilidi devrede.</string>
@@ -982,6 +984,8 @@ Geri almak için, genel bakışa basılı tutun."</string>
   <string name="permgrouplab_voicemail">Sesli mesaj</string>
   <string name="permgrouplab_wallpaper">Duvar Kağıdı</string>
   <string name="permgrouplab_writeDictionary">Kullanıcı Sözlüğüne Yaz</string>
+  <string name="permission">İzin</string>
+  <string name="permission_remember_choice">Hatırla</string>
   <string name="permission_request_notification_title">İzin istendi</string>
   <string name="permission_request_notification_with_subtitle">"%s hesabı için
 izin isteğinde bulunuldu."</string>
@@ -1222,6 +1226,8 @@ izin isteğinde bulunuldu."</string>
   <string name="phoneTypeWork">İş</string>
   <string name="phoneTypeWorkMobile">İş Yeri Cep Telefonu</string>
   <string name="phoneTypeWorkPager">İş Yeri Çağrı Cihazı</string>
+  <string name="pinpuk_attempts">"
+Kalan deneme sayısı :"</string>
   <string name="policydesc_disableCamera">Tüm cihaz kameralarının kullanımını engelleme.</string>
   <string name="policydesc_disableKeyguardFeatures">"Keyguarddaki bazı özelliklerin kullanılmasını önle."</string>
   <string name="policydesc_encryptedStorage">Depolanan uygulama verilerinin şifrelenmiş olmasını zorunlu kılma.</string>
@@ -1255,6 +1261,7 @@ izin isteğinde bulunuldu."</string>
   <string name="print_service_installed_message">Etkinleştirmek için hafifçe dokunun</string>
   <string name="print_service_installed_title">%s hizmeti yüklendi</string>
   <string name="progress_erasing">USB bellek siliniyor…</string>
+  <string name="progress_nomediapresent">Çıkarılabilir ortam mevcut değil…</string>
   <string name="progress_unmounting">USB belleğin bağlantısı kesiliyor…</string>
   <string name="quick_contacts_not_available">Bu kişiyi görüntüleyecek uygulama bulunamadı.</string>
   <string name="reason_service_unavailable">Yazdırma hizmeti etkin değil</string>
@@ -1408,8 +1415,15 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
   <string name="ssl_certificate">Güvenlik sertifikası</string>
   <string name="ssl_certificate_is_valid">Bu sertifika geçerli.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
+  <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
+  <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
+  <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
+  <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
+  <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
   <string name="storage_internal">Dahili depolama birimi</string>
   <string name="storage_sd_card">SD kart</string>
+  <string name="storage_uicc">UICC storage</string>
   <string name="storage_usb">USB bellek</string>
   <string name="submit">Gönder</string>
   <string name="sync_binding_label">Senkronizasyon</string>
@@ -1495,10 +1509,26 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
   <string name="vpn_title_long">VPN, %s tarafından etkinleştirildi</string>
   <string name="wait">Bekle</string>
   <string name="wallpaper_binding_label">Duvar Kağıdı</string>
+  <string name="web_user_agent_target_content">"Mobil "</string>
   <string name="webpage_unresponsive">"Sayfa yanıt vermiyor.
 
 Kapatmak ister misiniz?"</string>
   <string name="websearch">Google Web Arama</string>
+  <string name="webviewchromium_color_picker_button_black">Siyah</string>
+  <string name="webviewchromium_color_picker_button_blue">Mavi</string>
+  <string name="webviewchromium_color_picker_button_cyan">Cam göbeği</string>
+  <string name="webviewchromium_color_picker_button_green">Yeşil</string>
+  <string name="webviewchromium_color_picker_button_magenta">Eflatun</string>
+  <string name="webviewchromium_color_picker_button_red">Kırmızı</string>
+  <string name="webviewchromium_color_picker_button_white">Beyaz</string>
+  <string name="webviewchromium_color_picker_button_yellow">Sarı</string>
+  <string name="webviewchromium_copy_to_clipboard_failure_message">Panoya kopyalama başarısız</string>
+  <string name="webviewchromium_date_picker_dialog_other_button_label">Diğer</string>
+  <string name="webviewchromium_profiler_error_toast">Profiler başlayamadı</string>
+  <string name="webviewchromium_profiler_no_storage_toast">"Harici depolama hazır değil, profiler başlayamaz"</string>
+  <string name="webviewchromium_profiler_started_toast">Profiler başladı</string>
+  <string name="webviewchromium_profiler_stopped_toast">Profiler bitti. Sonuçlar: %1$s.</string>
+  <string name="webviewchromium_time_picker_dialog_title">Zamanı ayarla</string>
   <string name="week">hafta</string>
   <string name="weeks">hafta</string>
   <string name="whichApplication">İşlemi şunu kullanarak tamamla</string>
@@ -1524,6 +1554,7 @@ Kapatmak ister misiniz?"</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Alıcı:</string>
   <string name="wifi_p2p_turnon_message">Kablosuz Doğrudan Bağlantıyı başlat. Bu işlem, Kablosuz istemci/hotspot kullanımını kapatacak.</string>
+  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Kablosuz bağlantısı kurulamadı</string>
   <string name="wifi_watchdog_network_disabled_detailed">" İnternet bağlantısı zayıf."</string>
   <string name="wireless_display_route_description">Kablosuz ekran</string>
@@ -1534,35 +1565,4 @@ Kapatmak ister misiniz?"</string>
   <string name="years">yıl</string>
   <string name="yes">Tamam</string>
   <string name="zen_mode_forever">Süresiz</string>
-  <string name="lockscreen_airplane_mode_on">Uçak Modu</string>
- <string name="lockscreen_sim_error_message_short">Geçersiz Kart</string>
- <string name="permission">İzin</string>
- <string name="permission_remember_choice">Hatırla</string>
- <string name="pinpuk_attempts">"
-Kalan deneme sayısı :"</string>
- <string name="progress_nomediapresent">Çıkarılabilir ortam mevcut değil…</string>
- <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
- <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
- <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
- <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
- <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
- <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
- <string name="storage_uicc">UICC storage</string>
- <string name="web_user_agent_target_content">"Mobil "</string>
- <string name="webviewchromium_color_picker_button_black">Siyah</string>
- <string name="webviewchromium_color_picker_button_blue">Mavi</string>
- <string name="webviewchromium_color_picker_button_cyan">Cam göbeği</string>
- <string name="webviewchromium_color_picker_button_green">Yeşil</string>
- <string name="webviewchromium_color_picker_button_magenta">Eflatun</string>
- <string name="webviewchromium_color_picker_button_red">Kırmızı</string>
- <string name="webviewchromium_color_picker_button_white">Beyaz</string>
- <string name="webviewchromium_color_picker_button_yellow">Sarı</string>
- <string name="webviewchromium_copy_to_clipboard_failure_message">Panoya kopyalama başarısız</string>
- <string name="webviewchromium_date_picker_dialog_other_button_label">Diğer</string>
- <string name="webviewchromium_profiler_error_toast">Profiler başlayamadı</string>
- <string name="webviewchromium_profiler_no_storage_toast">"Harici depolama hazır değil, profiler başlayamaz"</string>
- <string name="webviewchromium_profiler_started_toast">Profiler başladı</string>
- <string name="webviewchromium_profiler_stopped_toast">Profiler bitti. Sonuçlar: %1$s.</string>
- <string name="webviewchromium_time_picker_dialog_title">Zamanı ayarla</string>
- <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
 </resources>

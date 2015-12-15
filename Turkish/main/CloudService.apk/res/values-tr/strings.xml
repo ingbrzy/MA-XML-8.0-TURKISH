@@ -104,13 +104,14 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="master_alert_notif_dspt_add">%s öğe senkronize için bekliyor.</string>
   <string name="master_alert_notif_dspt_no">Herşey güncel.</string>
   <string name="master_alert_notif_title">Son senkronizasyon: %s gün önce</string>
-  <string name="micloud_buy_member">Hesap</string>
   <string name="micloud">Mi Bulut</string>
+  <string name="micloud_buy_member">Hesap</string>
   <string name="micloud_check_sim_notify_text">"SIM kartınız değişmiş gibi görünüyor. 
   Mi Hesabınızla oturum açarak Mi Bulut hizmetini tekrar etkinleştirin."</string>
   <string name="micloud_check_sim_notify_title">Mi Bulutu tekrar etkinleştir</string>
   <string name="micloud_check_sim_title">"SIM kartınız değişmiş gibi görünüyor. 
   Mi Hesabınızla oturum açarak Mi Bulut hizmetini tekrar etkinleştirin."</string>
+  <string name="micloud_detail_download_syncing">İndiriliyor %s</string>
   <string name="micloud_detail_fail">"Sekronize edilemedi"</string>
   <string name="micloud_detail_lastest">Senkronize edildi</string>
   <string name="micloud_detail_pending">Bekliyor</string>
@@ -118,6 +119,7 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."
   <string name="micloud_detail_preference_wlan">Wi-Fi ile senkronize et</string>
   <string name="micloud_detail_success">Senkronize edildi</string>
   <string name="micloud_detail_syncing">Senkronize ediliyor</string>
+  <string name="micloud_detail_upload_syncing">Yükleniyor %s</string>
   <string name="micloud_detail_wlan">%d öğe senkronize için bekliyor</string>
   <string name="micloud_detail_wlan_contact">%d rehber fotoları senkronize için bekliyor</string>
   <string name="micloud_detail_wlan_mms">%d mms senkronize için bekliyor</string>
@@ -242,9 +244,11 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="phone_number_required_dspt_provision">"Bu servis için telefon numaranız gereklidir. "</string>
   <string name="photo">Fotoğraflar</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Wi-Fi ağına bağlanıldığında sadece kişilerin profil resimlerini senkronize et"</string>
+  <string name="pref_summary_sync_video_on_wifi_only">Kişi profil videosunu sadece Wi-Fi ile senkronize et</string>
   <string name="pref_title_sync_contacts_title">Kişileri senkronize et</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Fotoğrafları senkronize etmek için sadece Wi-Fi kullan</string>
   <string name="pref_title_sync_my_profile_title">Senkronizasyon profili</string>
+  <string name="pref_title_sync_video_on_wifi_only">Videoyu sadece Wi-Fi ile senkronize et</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="remind_later">Daha sonra_hatırlat</string>
   <string name="restoreSync">Şimdi senkronize et</string>
@@ -311,8 +315,4 @@ Bu özelliği ayarlardan kontrol edebilirsiniz."</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xmpp_server_addr"/>
-  <string name="micloud_detail_download_syncing">İndiriliyor %s</string>
-  <string name="micloud_detail_upload_syncing">Yükleniyor %s</string>
-  <string name="pref_summary_sync_video_on_wifi_only">Kişi profil videosunu sadece Wi-Fi ile senkronize et</string>
-  <string name="pref_title_sync_video_on_wifi_only">Videoyu sadece Wi-Fi ile senkronize et</string>
 </resources>

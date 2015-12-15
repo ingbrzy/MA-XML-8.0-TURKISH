@@ -61,6 +61,9 @@
   <string name="battery_low_title">Lütfen şarj cihazını bağlayın</string>
   <string name="battery_low_why">Pil kullanımı</string>
   <string name="battery_profiles">Pil profillerini kullan</string>
+  <string name="block_record_notification_more_text">%1$s &amp; %2$d uygulamanın bildirimleri gizleniyor.</string>
+  <string name="block_record_notification_text">Bildirimler gizleniyor: %1$s.</string>
+  <string name="block_record_notification_title">Bildirimler gizlendi</string>
   <string name="bluetooth_tethered">Bluetooth paylaşımı</string>
   <string name="call_status_dialing">Aranıyor</string>
   <string name="call_status_ringing">Çalıyor</string>
@@ -93,6 +96,7 @@
   <string name="dlg_error_title">USB işlemi başarısız</string>
   <string name="dlg_ok">Tamam</string>
   <string name="drive_mode_tip">"Sürüş modundasınız"</string>
+  <string name="expanded_confirm_disable_notification">Gizle</string>
   <string name="expanded_notification_manager">Bildirimleri yönet</string>
   <string name="ext_media_badremoval_notification_message">Veri kaybını önlemek için USB depolamayı çıkarmadan önce bağlantısını kesin.</string>
   <string name="ext_media_badremoval_notification_title">USB depolama beklenmedik bir şekilde çıkartıldı</string>
@@ -117,6 +121,7 @@
   <string name="hint_for_long_press_app_switch_key">Menüyü görmek için uzun basın</string>
   <string name="invalid_charger">"USB şarj desteklenmiyor.
 Herzaman orjinal aksesuar kullanın."</string>
+  <string name="kilobyte_per_second">KB/s</string>
   <string name="label_view">Gözat</string>
   <string name="lockscreen_carrier_default">Şebeke yok</string>
   <string name="mdb_entering">Başlatılıyor...</string>
@@ -129,7 +134,9 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="media_projection_action_text">Başlat</string>
   <string name="media_projection_dialog_text">"%s ekranda görüntülenen her şeyi yakalama başlayacak."</string>
   <string name="media_projection_remember_text">"Tekrar gösterme"</string>
+  <string name="megabyte_per_second">MB/s</string>
   <string name="mount_storage">Evet</string>
+  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Yeni bildiriminiz yok</string>
   <string name="notification_otg_gamestick_in">Oyun kumandası bağlandı</string>
   <string name="notification_otg_gamestick_out">Oyun kumandası bağlantısı kesildi</string>
@@ -150,6 +157,11 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="notification_template_text">"Yeni bildirimi görüntülemek için dokunun"</string>
   <string name="reject_call">Çağrıyı reddet</string>
   <string name="return_to_incall_screen">Çağrıya dön</string>
+  <string name="screen_pinning_description">İğne kaldırılıncaya kadar bu görünümde tutar. İğneyi kaldırmak için geriye ve genel görünüme basılı tutun.</string>
+  <string name="screen_pinning_description_accessible">İğne kaldırılıncaya kadar bu görünümde tutar. İğneyi kaldırmak için genel görünüme basılı tutun.</string>
+  <string name="screen_pinning_negative">Hayır</string>
+  <string name="screen_pinning_positive">Anladım</string>
+  <string name="screen_pinning_title">Ekran iğnelendi</string>
   <string name="screenshot_failed_text">Ekran görüntüsü kaydedilemedi. Depolama birimi kullanımda olabilir.</string>
   <string name="screenshot_failed_title">Ekran görüntüsü alınamadı.</string>
   <string name="screenshot_saved_text">Görüntülemek için dokunun.</string>
@@ -226,16 +238,4 @@ Herzaman orjinal aksesuar kullanın."</string>
   <string name="vpn_text_long">Bağlanıldı: %s. detaylar için dokunun.</string>
   <string name="vpn_title">VPN etkinleştirildi</string>
   <string name="vpn_title_long">VPN ile bağlanıldı: %s</string>
-<string name="block_record_notification_more_text">%1$s &amp; %2$d uygulamanın bildirimleri gizleniyor.</string>
-  <string name="block_record_notification_text">Bildirimler gizleniyor: %1$s.</string>
-  <string name="block_record_notification_title">Bildirimler gizlendi</string>
-  <string name="expanded_confirm_disable_notification">Gizle</string>
-  <string name="kilobyte_per_second">KB/s</string>
-  <string name="megabyte_per_second">MB/s</string>
-  <string name="network_speed_suffix">%1$s%2$s</string>
-  <string name="screen_pinning_description">İğne kaldırılıncaya kadar bu görünümde tutar. İğneyi kaldırmak için geriye ve genel görünüme basılı tutun.</string>
-  <string name="screen_pinning_description_accessible">İğne kaldırılıncaya kadar bu görünümde tutar. İğneyi kaldırmak için genel görünüme basılı tutun.</string>
-  <string name="screen_pinning_negative">Hayır</string>
-  <string name="screen_pinning_positive">Anladım</string>
-  <string name="screen_pinning_title">Ekran iğnelendi</string>
 </resources>

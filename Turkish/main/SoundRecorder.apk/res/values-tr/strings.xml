@@ -2,6 +2,7 @@
 <resources>
   <string name="access_error">Ziyaretçi modunda kayıt yapılamaz</string>
   <string name="alert_message_delete_record">Seçili kayıtları silmek istiyor musunuz?</string>
+  <string name="alert_message_delete_record_title">Ses kaydını sil</string>
   <string name="app_name">Ses Kayıt</string>
   <string name="back">Geri</string>
   <string name="button_ok">Tamam</string>
@@ -81,6 +82,7 @@
   <string name="record_mark_point">İşaretle %s</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Kaydı seçin</string>
+  <string name="record_quliaty_preference_title">Kayıt kalitesi</string>
   <string name="record_saving">Kaydediliyor...</string>
   <string name="recording">Kayıt ediliyor</string>
   <string name="recording_stopped">Kayıt durduruld</string>
@@ -108,6 +110,4 @@
   <string name="view_list_of_recordings">Kayıtlara gözat</string>
   <string name="wifi_recommended_title">Trafik hatırlatıcı</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="alert_message_delete_record_title">Ses kaydını sil</string>
-  <string name="record_quliaty_preference_title">Kayıt kalitesi</string>
 </resources>

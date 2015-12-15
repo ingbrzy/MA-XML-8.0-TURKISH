@@ -5,12 +5,15 @@
   <string name="alert_action_edit_anyway">Düzenlemeye devam et</string>
   <string name="alert_edit_action_delete">Sil</string>
   <string name="alert_edit_action_update">Güncelle</string>
+  <string name="alert_message_delete">%1$s not silinsin mi?</string>
   <string name="alert_message_delete_folders">%1$s silinsin mi?</string>
   <string name="alert_message_delete_folders_notes">%1$s ve %2$s silinsin mi?</string>
   <string name="alert_message_delete_note">Bu notu silmek istiyor musunuz?</string>
   <string name="alert_message_delete_notes">%1$s silinsin mi?</string>
   <string name="alert_message_edit_anyway">Notta desteklenmeyen içerikler var, veri kaybına neden olabilir.</string>
+  <string name="alert_title_delete">Notu sil</string>
   <string name="alert_title_edit_anyway">Notu düzenlemeyi onaylayın, bu veri kaybına neden olabilir, devam etmek istiyor musunuz?</string>
+  <string name="all_terms">%1$s ve %2$s</string>
   <string name="app_name">Notlar</string>
   <string name="app_widget">Notlar</string>
   <string name="attachment_camera">Kamera</string>
@@ -20,8 +23,8 @@
   <string name="call_record_folder_name">Çağrı Notları</string>
   <string name="default_folder_name">Notlar</string>
   <string name="dlg_desc_confirm_alarm_silent">Alarm sessiz modda ses çıkarır.</string>
- <string name="dlg_info_creating_message">Mesaj oluşturuluyor…</string>
- <string name="dlg_title_confirm_alarm_silent">Sessiz modda alarmı susturmak istiyor musunuz?</string>
+  <string name="dlg_info_creating_message">Mesaj oluşturuluyor…</string>
+  <string name="dlg_title_confirm_alarm_silent">Sessiz modda alarmı susturmak istiyor musunuz?</string>
   <string name="enable_sync">Senkronize</string>
   <string name="enable_sync_desc">Xioami hesabım ile notlar senkronize edilsin mi(%1$s)?</string>
   <string name="error_contact_not_exist">Kişi mevcut değil</string>
@@ -107,7 +110,4 @@ http://www.miui.com/forum.php?lang=1
   <string name="widget_content_loading">Yükleniyor...</string>
   <string name="widget_havenot_content">Herhangi bir not yok, oluşturmak için tıklayın. Boyutlandırmak için dokunun ve kenarlarından uzatın.</string>
   <string name="widget_under_visit_mode">Gizli mod, not içeriği gösterilemiyor</string>
-  <string name="all_terms">%1$s ve %2$s</string>
-  <string name="alert_title_delete">Notu sil</string>
-  <string name="alert_message_delete">%1$s not silinsin mi?</string>
 </resources>

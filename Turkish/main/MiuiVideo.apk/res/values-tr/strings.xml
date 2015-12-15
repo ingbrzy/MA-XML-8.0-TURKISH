@@ -19,8 +19,8 @@
   <string name="adjust_position_prev_media_notice">Son</string>
   <string name="ads_control">Reklamları göster</string>
   <string name="ads_control_desc">Uygulama başlayınca reklamlar görüntülenir</string>
- <string name="ads_ignore">Yoksay</string>
- <string name="airkan_control_device_des">Oynatma kontrolü için alttaki çubuğa dokunun</string>
+  <string name="ads_ignore">Yoksay</string>
+  <string name="airkan_control_device_des">Oynatma kontrolü için alttaki çubuğa dokunun</string>
   <string name="airkan_device_xiaomi_phone">Mi</string>
   <string name="airkan_playing">yansıtılıyor</string>
   <string name="airkan_playing_to">" on "</string>
@@ -45,7 +45,7 @@
   <string name="avg_score">%.1f</string>
   <string name="bestv">Bestv</string>
   <string name="bmp_quality_mode">Görüntü kalitesi</string>
-  <string name="bmp_quality_mode_desc"></string>
+  <string name="bmp_quality_mode_desc"/>
   <string name="buffering">Yükleniyor...</string>
   <string name="buffering_video_netplay_label_v5">Yükleniyor...</string>
   <string name="cancel">İptal</string>
@@ -141,11 +141,11 @@
   <string name="file_error">Dosya hatası</string>
   <string name="file_not_exist">Dosya mevcut değil!</string>
   <string name="filter">Filtrele</string>
+  <string name="filter_media">Medyayı filtrele</string>
   <string name="forecast">Forecast</string>
   <string name="forecast_empty_hint">No Epg</string>
   <string name="forecasts">EPG</string>
   <string name="fullscreen">Tam ekran</string>
-  <string name="filter_media">Medyayı filtrele</string>
   <string name="funshion">Funshion</string>
   <string name="gong_count_dlna">%d DLNA</string>
   <string name="gong_count_ge">Toplam %d</string>

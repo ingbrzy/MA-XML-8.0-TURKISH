@@ -123,6 +123,7 @@
   <string name="account_setup_failed_security">"Güvenlik hatası, sunucu bağlantısı açılamadı!"</string>
   <string name="account_setup_failed_security_policies_unsupported">"Bu sunucu da dahil olmak üzere, Android cihazının desteklemediği güvenlik özellikleri gerektirir: %s"</string>
   <string name="account_setup_failed_tls_required">TLS gerekli ancak sunucu tarafından desteklenmiyor!</string>
+  <string name="account_setup_failed_too_many_partnerships">Oturum açma başarısız</string>
   <string name="account_setup_incoming_delete_policy_delete_label">E-postayı gelen kutusundan sil</string>
   <string name="account_setup_incoming_delete_policy_label">E-postayı sunucudan sil</string>
   <string name="account_setup_incoming_delete_policy_never_label">Asla</string>
@@ -143,12 +144,12 @@
   <string name="account_setup_incoming_server_label">Sunucu</string>
   <string name="account_setup_incoming_title">Hesap kurulumu</string>
   <string name="account_setup_incoming_username_label">Kullanıcı adı</string>
+  <string name="account_setup_incoming_username_label_default_hint">Contain domain</string>
   <string name="account_setup_names_account_name_label">Hesap adı (opsiyonel)</string>
   <string name="account_setup_names_headline">Hesabınızı ayarlayın!</string>
   <string name="account_setup_names_title">Hesap kurulumu</string>
   <string name="account_setup_names_user_name_empty_error">"Bu alan boş olamaz."</string>
   <string name="account_setup_names_user_name_label">Adınız (giden postalarda görüntülenecek)</string>
-  <string name="account_setup_incoming_username_label_default_hint">Contain domain</string>
   <string name="account_setup_need_password_verification">Hesabınız için ikincil şifre açıldı, kimlik doğrulaması gerekmektedir</string>
   <string name="account_setup_not_disturb_title">DND modu</string>
   <string name="account_setup_options_background_attachments_label">Wi-Fi bağlandığında ekleri  otomatik indir</string>
@@ -202,8 +203,8 @@
   <string name="add_account">Hesap ekle</string>
   <string name="add_attachment">Dosya ekle</string>
   <string name="add_bcc_label">Bcc ekle</string>
-  <string name="add_cc_label">Cc/Bcc ekle</string>
   <string name="add_calendar">Hatırlat</string>
+  <string name="add_cc_label">Cc/Bcc ekle</string>
   <string name="add_file_attachment">Dosya ekle</string>
   <string name="add_label">Klasör ekle</string>
   <string name="add_photo_attachment">Resim ekle</string>
@@ -243,6 +244,7 @@
   <string name="attachment_decoding">Ek indirildi, çözümlenirken lütfen bekleyin...</string>
   <string name="attachment_download_all">Hepsini indir</string>
   <string name="attachment_image">Resim</string>
+  <string name="attachment_list_search_hint">Eklerde ara</string>
   <string name="attachment_mgr_name">Ek</string>
   <string name="attachment_not_exists">Ek kullanılabilir değil!</string>
   <string name="attachment_not_found">"Ek indirilemedi."</string>
@@ -269,6 +271,7 @@
   <string name="body_inline_pic_text">[resim]</string>
   <string name="bottom_bar_more_delete">Sil</string>
   <string name="bottom_bar_more_quickreply">Hızlı cevap</string>
+  <string name="bottom_bar_more_share">Paylaş</string>
   <string name="bottom_bar_more_unread">Okunmadı</string>
   <string name="bottom_bar_no_quickreply_toast">Hızlı cevap yok</string>
   <string name="bytes">%s B</string>
@@ -306,6 +309,8 @@
   <string name="collapse_recipient_details">Alıcı ayrıntılarını genişlet</string>
   <string name="colon">:</string>
   <string name="compose">E-posta yaz</string>
+  <string name="compose_attachment_number_limit">10\'dan fazla dosya eklenemez!</string>
+  <string name="compose_picturesexceedlimits">5\'den fazla resim eklenemez!</string>
   <string name="compose_send">Gönder</string>
   <string name="compose_sent">Mesaj gönderildi</string>
   <string name="confirm">Tamam</string>
@@ -331,6 +336,8 @@
   <string name="contact_edit_set_vip">VIP ayarla</string>
   <string name="contact_edit_title_permission">Kişiler izinleri</string>
   <string name="contact_edit_title_phone_contact">Telefon kişileri listesi</string>
+  <string name="contact_in_filter_call_phone_str">Çağrı: %s</string>
+  <string name="contact_in_filter_title">Ondan çağrı var.</string>
   <string name="contact_info_string">%1$s kişi bilgilerini göster</string>
   <string name="contact_info_string_default">Kişi bilgilerini göster</string>
   <string name="contact_list_add_btn">Ekle</string>
@@ -470,6 +477,7 @@
   <string name="general_preference_text_zoom_small">Ufak</string>
   <string name="general_preference_text_zoom_tiny">İnce</string>
   <string name="generic_attachment_problem">"Dosya eklenemedi"</string>
+  <string name="get_database_exception">Lütfen uygulama ayarlarından eposta verilerini temizleyin</string>
   <string name="gmail_acceleration">Gmail için proxy kullan</string>
   <string name="gmail_login_confirm_to_use_proxy">Gmail için proxy kullanılsın mı?</string>
   <string name="gmail_login_verify">Gmail hesabı ekle</string>
@@ -654,6 +662,8 @@ CC: %4$s
   <string name="outbox_alert_certificate_error">E-posta sertifikasını lütfen güncelleyin</string>
   <string name="outbox_alert_description_auth_error">Giden posta sunucusu açılamadı!</string>
   <string name="outbox_alert_description_cannot_authenticate">"%s kimliği doğrulanamadı"</string>
+  <string name="outbox_alert_description_email_size_error">Maksimum posta boyutu aşıldı</string>
+  <string name="outbox_alert_description_fail_authentication">Kullanıcı adı ya da şifre hatalı</string>
   <string name="outbox_alert_description_http_error">HTTP sunucusu hatası!</string>
   <string name="outbox_alert_description_insufficient_storage_error">Posta sunucusunda yetersiz depolama</string>
   <string name="outbox_alert_description_provision_error">Sunucu hatası!</string>
@@ -852,6 +862,7 @@ CC: %4$s
   <string name="ser_resp_err_map_ssl">" 'Güvenlik ayarlarından' SSL / TLS (Tüm sertifikaları kabul et) seçmeyi deneyin"</string>
   <string name="set_network">Ağı ayarla</string>
   <string name="settings_activity_title">Ayarlar</string>
+  <string name="share_choose">Lütfen seçin</string>
   <string name="sharing">Paylaş</string>
   <string name="shortcut_name_title">Klasör kısayol adı</string>
   <string name="show_elided">▶ Alıntı metnini göster</string>
@@ -949,15 +960,4 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="yes">Evet</string>
   <string name="you_are_in_mobile_network">Şu anda bir mobil veri ağını kullanıyorsanız, trafiğe dikkat edin!</string>
   <string name="zip_viewer_no_file">Dosya yok!</string>
-  <string name="bottom_bar_more_share">Paylaş</string>
-  <string name="get_database_exception">Lütfen uygulama ayarlarından eposta verilerini temizleyin</string>
-  <string name="share_choose">Lütfen seçin</string>
-  <string name="account_setup_failed_too_many_partnerships">Oturum açma başarısız</string>
-  <string name="outbox_alert_description_email_size_error">Maksimum posta boyutu aşıldı</string>
-  <string name="outbox_alert_description_fail_authentication">Kullanıcı adı ya da şifre hatalı</string>
-  <string name="attachment_list_search_hint">Eklerde ara</string>
-  <string name="compose_attachment_number_limit">10\'dan fazla dosya eklenemez!</string>
-  <string name="compose_picturesexceedlimits">5\'den fazla resim eklenemez!</string>
-  <string name="contact_in_filter_call_phone_str">Çağrı: %s</string>
-  <string name="contact_in_filter_title">Ondan çağrı var.</string>
 </resources>
