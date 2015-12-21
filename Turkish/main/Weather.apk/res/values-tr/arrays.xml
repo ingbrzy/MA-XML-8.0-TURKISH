@@ -57,4 +57,15 @@
 	<item>Hilal</item>
 	<item>Yeni Ay</item>
 </string-array>
+<string-array name="indices_sport">
+	<item>Uygun</item>
+	<item>Uygun değil</item>
+</string-array>
+<string-array name="indices_car_wash">
+	<item>Uygun</item>
+	<item>Uygun değil</item>
+<string-array name="indices_uv_level">
+	 <item>Hafif</item>
+	 <item>Orta</item>
+	 <item>Güçlü</item>
 </resources>

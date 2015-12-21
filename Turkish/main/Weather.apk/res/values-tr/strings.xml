@@ -276,4 +276,32 @@
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">℃</string>
+  <string name="daily_forcast_drawer_on_bottom">Geri</string>
+  <string name="daily_forcast_drawer_on_top">Diğer günlere gözat</string>
+  <string name="daily_forcast_no_wind">Rüzgar yok</string>
+  <string name="daily_forcast_weather_transfer">%1$s / %2$s</string>
+  <string name="empty">" "</string>
+  <string name="hourly_forcast_now">Şimdi</string>
+  <string name="indices_desc_feel">Hissedilen %1$s°C</string>
+  <string name="indices_desc_humidity">Nem %1$s%%</string>
+  <string name="indices_desc_pressure">%1$shPa</string>
+  <string name="indices_no_restriction">Yok</string>
+  <string name="indices_title_Precip1hr">Hava 1hr</string>
+  <string name="indices_title_car_wash">Oto yıkama</string>
+  <string name="indices_title_feel">Hissedilen</string>
+  <string name="indices_title_humidity">Nem</string>
+  <string name="indices_title_pressure">Basınç</string>
+  <string name="indices_title_restriction">Araba kullanımı</string>
+  <string name="indices_title_sport">Spor</string>
+  <string name="indices_title_uv">UV İndeksi</string>
+  <string name="indices_title_visibility">Görüş uzaklığı</string>
+  <string name="information_manager">Sadece Wi-Fi ile yükle</string>
+  <string name="network_not_available">"İnternet bağlantısı yok!"</string>
+  <string name="no_network_btn">Tekrar dene</string>
+  <string name="open_browser">Safari ile aç</string>
+  <string name="share">Paylaş</string>
+  <string name="sunrise">Gündoğumu</string>
+  <string name="sunset">Günbatımı</string>
+  <string name="title_share_link">URL olarak paylaş</string>
+ </resources>
 </resources>
