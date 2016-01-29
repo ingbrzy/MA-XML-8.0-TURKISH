@@ -1,32 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string-array name="cache_sort_type">
-	 <item>Boyuta göre</item>
-	 <item>Ada göre</item>
-</string-array>
-<string-array name="large_file_sort_type">
-	 <item>Boyuta göre</item>
-	 <item>Ada göre</item>
-</string-array>
-<string-array name="installed_app_sort_type">
-	 <item>Sık kullanılan</item>
-	 <item>Boyuta göre</item>
-</string-array>
-<string-array name="auto_clean_size">
-	 <item>100MB</item>
-	 <item>300MB</item>
-	 <item>500MB</item>
-	 <item>1GB</item>
-</string-array>
-<string-array name="auto_clean_time">
-	<item>Hergün</item>
-	<item>Her 3 günde bir</item>
-	<item>Her hafta</item>
-</string-array>
-<string-array name="auto_process_mode">
-	<item>Bildirim ile uyar</item>
-	<item>Arkaplanda temizle</item>
-	<item>Temizlikten sonra bildirim göster</item>
-</string-array>
-
+    <string-array name="cache_sort_type">
+        <item>Boyut</item>
+        <item>Ad</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Boyut</item>
+        <item>Ad</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Sık kullanılan</item>
+        <item>Boyut</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Hergün</item>
+        <item>Her 3 günde</item>
+        <item>Her 7 günde</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1GB</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Göster</item>
+        <item>"Gösterme"</item>
+        <item>Sonra göster</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>Bu dosyayı temizle</item>
+        <item>"Görünen dosyanın konumu"</item>
+        <item>Dosyayı istisnalara ekle</item>
+        <item>Uygulamayı istisnalara ekle</item>
+    </string-array>
+    <string-array name="trash_clean_menu">
+        <item>Bu dosyayı temizle</item>
+        <item>"Görünen dosyanın konumu"</item>
+        <item>Dosyayı istisnalara ekle</item>
+    </string-array>
+    <string-array name="video_clean_menu">
+        <item>Bu dosyayı temizle</item>
+        <item>Aç</item>
+        <item>Dosyayı istisnalara ekle</item>
+    </string-array>
+    <string-array name="empty_floder_clean_menu">
+        <item>Temizle</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Temizle</item>
+        <item>Bu uygulamayı yükle</item>
+        <item>Klasörde gör</item>
+        <item>İstisnalara ekle</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Kaldır</item>
+    </string-array>
+    <string-array name="auto_alert_apps_time">
+        <item>Her 7 günde</item>
+        <item>Her 15 günde</item>
+        <item>Her 30 günde</item>
+    </string-array>
 </resources>
