@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
+<string-array name="reminder_methods_labels">
         <item>Bildirim</item>
         <item>E-posta</item>
         <item>SMS</item>
         <item>Alarm</item>
-    </string-array>
-    <integer-array name="reminder_methods_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <string-array name="reminder_minutes_labels">
+</string-array>
+<string-array name="reminder_minutes_labels">
         <item>Hatırlatıcısız</item>
         <item>0 dakika</item>
         <item>5 dakika</item>
@@ -24,7 +18,7 @@
         <item>2 gün</item>
         <item>1 hafta</item>
     </string-array>
-    <integer-array name="reminder_minutes_values">
+<integer-array name="reminder_minutes_values">
         <item>-1</item>
         <item>0</item>
         <item>5</item>
@@ -36,7 +30,7 @@
         <item>2880</item>
         <item>10080</item>
     </integer-array>
-    <string-array name="preferences_default_reminder_labels">
+<string-array name="preferences_default_reminder_labels">
         <item>Hatırlatıcısız</item>
         <item>0 dakika</item>
         <item>5 dakika</item>
@@ -48,7 +42,7 @@
         <item>2 gün</item>
         <item>1 hafta</item>
     </string-array>
-    <string-array name="preferences_default_reminder_values">
+<string-array name="preferences_default_reminder_values">
         <item>-1</item>
         <item>0</item>
         <item>5</item>
@@ -60,19 +54,13 @@
         <item>2880</item>
         <item>10080</item>
     </string-array>
-    <string-array name="preferences_week_start_day_labels">
+<string-array name="preferences_week_start_day_labels">
         <item>Varsayılan</item>
         <item>Cumartesi</item>
         <item>Pazar</item>
         <item>Pazartesi</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_values">
-        <item>-1</item>
-        <item>7</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="timezone_labels">
+</string-array>
+<string-array name="timezone_labels">
         <item>Marshall Adaları</item>
         <item>Midway Adası</item>
         <item>Hawaii</item>
@@ -81,7 +69,7 @@
         <item>Tijuana</item>
         <item>Arizona</item>
         <item>Chihuahua</item>
-        <item>Dağ Zamanı</item>
+        <item>Dağ Saati</item>
         <item>Orta Amerika</item>
         <item>Orta Zaman</item>
         <item>Meksika Şehri</item>
@@ -96,25 +84,25 @@
         <item>Newfoundland</item>
         <item>Brezilya</item>
         <item>Buenos Aires</item>
-        <item>Greenland</item>
+        <item>Grönland</item>
         <item>Montevideo</item>
         <item>Orta Atlantik</item>
-        <item>Azores</item>
+        <item>Azor Adaları</item>
         <item>Cape Verde Adaları</item>
         <item>Kazablanka</item>
         <item>Londra, Dublin</item>
         <item>Amsterdam, Berlin</item>
         <item>Belgrad</item>
         <item>Brüksel</item>
-        <item>Sarajevo</item>
+        <item>Saraybosna</item>
         <item>Windhoek</item>
-        <item>W. Afrika Zamanı</item>
+        <item>Batı Afrika Zamanı</item>
         <item>Amman, Ürdün</item>
         <item>Atina, İstanbul</item>
         <item>Beyrüt, Lübnan</item>
         <item>Kahire</item>
         <item>Helsinki</item>
-        <item>Jerusalem</item>
+        <item>Küdüs</item>
         <item>Minsk</item>
         <item>Harare</item>
         <item>Bağdat</item>
@@ -128,9 +116,9 @@
         <item>Dubai</item>
         <item>Kabil</item>
         <item>İslamabad, Karaçi</item>
-        <item>"Ural'sk"</item>
+        <item>"Uralsk"</item>
         <item>Yekaterinburg</item>
-        <item>Kolkata</item>
+        <item>Kalküta</item>
         <item>Sri Lanka</item>
         <item>Kathmandu</item>
         <item>Astana</item>
@@ -139,11 +127,11 @@
         <item>Bangkok</item>
         <item>Beijing</item>
         <item>Hong Kong</item>
-        <item>Irkutsk</item>
+        <item>İrkutsk Bölgesi</item>
         <item>Kuala Lumpur</item>
         <item>Perth</item>
         <item>Taipei</item>
-        <item>Seoul</item>
+        <item>Seul</item>
         <item>Tokyo, Osaka</item>
         <item>Yakutsk</item>
         <item>Adelaide</item>
@@ -157,144 +145,48 @@
         <item>Auckland</item>
         <item>Fiji</item>
         <item>Tonga</item>
-    </string-array>
-    <string-array name="timezone_values">
-        <item>Pasifik/Majuro</item>
-        <item>Pasifik/Midway</item>
-        <item>Pasifik/Honolulu</item>
-        <item>Amerika/Anchorage</item>
-        <item>Amerika/Los_Angeles</item>
-        <item>Amerika/Tijuana</item>
-        <item>Amerika/Phoenix</item>
-        <item>Amerika/Chihuahua</item>
-        <item>Amerika/Denver</item>
-        <item>Amerika/Costa_Rica</item>
-        <item>Amerika/Chicago</item>
-        <item>Amerika/Mexico_City</item>
-        <item>Amerika/Regina</item>
-        <item>Amerika/Bogota</item>
-        <item>Amerika/New_York</item>
-        <item>Amerika/Caracas</item>
-        <item>Amerika/Barbados</item>
-        <item>Amerika/Halifax</item>
-        <item>Amerika/Manaus</item>
-        <item>Amerika/Santiago</item>
-        <item>Amerika/St_Johns</item>
-        <item>Amerika/Sao_Paulo</item>
-        <item>Amerika/Argentina/Buenos_Aires</item>
-        <item>Amerika/Godthab</item>
-        <item>Amerika/Montevideo</item>
-        <item>Atlantic/South_Georgia</item>
-        <item>Atlantic/Azores</item>
-        <item>Atlantic/Cape_Verde</item>
-        <item>Afrika/Casablanca</item>
-        <item>Avrupa/London</item>
-        <item>Avrupa/Amsterdam</item>
-        <item>Avrupa/Belgrade</item>
-        <item>Avrupa/Brussels</item>
-        <item>Avrupa/Sarajevo</item>
-        <item>Afrika/Windhoek</item>
-        <item>Afrika/Brazzaville</item>
-        <item>Asya/Amman</item>
-        <item>Avrupa/Athens</item>
-        <item>Asya/Beirut</item>
-        <item>Afrika/Cairo</item>
-        <item>Avrupa/Helsinki</item>
-        <item>Asya/Jerusalem</item>
-        <item>Avrupa/Minsk</item>
-        <item>Afrika/Harare</item>
-        <item>Asya/Baghdad</item>
-        <item>Avrupa/Moscow</item>
-        <item>Asya/Kuwait</item>
-        <item>Afrika/Nairobi</item>
-        <item>Asya/Tehran</item>
-        <item>Asya/Baku</item>
-        <item>Asya/Tbilisi</item>
-        <item>Asya/Yerevan</item>
-        <item>Asya/Dubai</item>
-        <item>Asya/Kabul</item>
-        <item>Asya/Karachi</item>
-        <item>Asya/Oral</item>
-        <item>Asya/Yekaterinburg</item>
-        <item>Asya/Calcutta</item>
-        <item>Asya/Colombo</item>
-        <item>Asya/Katmandu</item>
-        <item>Asya/Almaty</item>
-        <item>Asya/Rangoon</item>
-        <item>Asya/Krasnoyarsk</item>
-        <item>Asya/Bangkok</item>
-        <item>Asya/Shanghai</item>
-        <item>Asya/Hong_Kong</item>
-        <item>Asya/Irkutsk</item>
-        <item>Asya/Kuala_Lumpur</item>
-        <item>Avustralya/Perth</item>
-        <item>Asya/Taipei</item>
-        <item>Asya/Seoul</item>
-        <item>Asya/Tokyo</item>
-        <item>Asya/Yakutsk</item>
-        <item>Avustralya/Adelaide</item>
-        <item>Avustralya/Darwin</item>
-        <item>Avustralya/Brisbane</item>
-        <item>Avustralya/Hobart</item>
-        <item>Avustralya/Sydney</item>
-        <item>Asya/Vladivostok</item>
-        <item>Pasifik/Guam</item>
-        <item>Asya/Magadan</item>
-        <item>Pasifik/Auckland</item>
-        <item>Pasifik/Fiji</item>
-        <item>Pasifik/Tongatapu</item>
-    </string-array>
-    <string-array name="availability">
+</string-array>
+<string-array name="availability">
         <item>Meşgul</item>
         <item>Uygun</item>
         <item>Belirsiz</item>
-    </string-array>
-    <integer-array name="availability_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <string-array name="visibility">
+</string-array>
+<string-array name="visibility">
         <item>Varsayılan</item>
         <item>Hususi</item>
         <item>Genel</item>
-    </string-array>
-    <string-array name="ordinal_labels">
+</string-array>
+<string-array name="ordinal_labels">
         <item>1.</item>
         <item>2.</item>
         <item>3.</item>
         <item>4.</item>
         <item>Son</item>
-    </string-array>
-    <string-array name="response_labels1">
+</string-array>
+<string-array name="response_labels1">
         <item>(Cevapsiz)</item>
         <item>Evet</item>
         <item>Belki</item>
         <item>Hayır</item>
+</string-array>
+<string-array name="delete_repeating_labels">
+        <item>Sadece bu etkinlik</item>
+        <item>Bu ve gelecek etkinlikler</item>
+        <item>Tüm etkinlikler</item>
     </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>Only this event</item>
-        <item>This and future events</item>
-        <item>All events</item>
-    </string-array>
-    <integer-array name="delete_repeating_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>This &amp; future events</item>
-        <item>All events</item>
+        <item>Bu ve gelecek etkinlikler</item>
+        <item>Tüm etkinlikler</item>
     </string-array>
     <string-array name="change_response_labels">
-        <item>Only this event</item>
-        <item>All events in the series</item>
+        <item>Sadece bu etkinlik</item>
+        <item>Bu serideki tüm etkinlikler</item>
     </string-array>
     <string-array name="buttons_list">
-        <item>Day</item>
-        <item>Week</item>
-        <item>Month</item>
-        <item>Events</item>
+        <item>Gün</item>
+        <item>Hafta</item>
+        <item>Ay</item>
+        <item>Etkinlikler</item>
     </string-array>
     <string-array name="quick_response_defaults">
         <item>Running just a couple of minutes late.</item>
@@ -303,42 +195,37 @@
         <item>"Sorry, I can't make it. We'll have to reschedule."</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Always</item>
+        <item>Daima</item>
         <item>Only when ringer is silenced</item>
-        <item>Never</item>
-    </string-array>
-    <string-array name="prefValues_alerts_vibrateWhen">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
+        <item>Asla</item>
     </string-array>
     <string-array name="widget_style_list">
-        <item>Transparent</item>
-        <item>White background</item>
+        <item>Şeffaf</item>
+        <item>Beyaz arkaplan</item>
     </string-array>
     <string-array name="miui_reminder_minutes_labels">
-        <item>No reminder</item>
-        <item>0 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>1 day</item>
-        <item>2 days</item>
-        <item>1 week</item>
+        <item>Hatırlatıcısız</item>
+        <item>0 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>1 gün</item>
+        <item>2 gün</item>
+        <item>1 hafta</item>
     </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
-        <item>No reminder</item>
-        <item>0 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>1 day</item>
-        <item>2 days</item>
-        <item>1 week</item>
+        <item>Hatırlatıcısız</item>
+        <item>0 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>1 gün</item>
+        <item>2 gün</item>
+        <item>1 hafta</item>
     </string-array>
     <integer-array name="online_reminder_minutes_values">
         <item>0</item>
@@ -359,11 +246,11 @@
         <item>10080</item>
     </integer-array>
     <string-array name="travel_reminder_minutes_labels">
-        <item>3 hours</item>
-        <item>4 hours</item>
-        <item>5 hours</item>
-        <item>6 hours</item>
-        <item>1 day</item>
+        <item>3 saat</item>
+        <item>4 saat</item>
+        <item>5 saat</item>
+        <item>6 saat</item>
+        <item>1 gün</item>
     </string-array>
     <integer-array name="travel_reminder_minutes_values">
         <item>180</item>
@@ -373,89 +260,89 @@
         <item>1440</item>
     </integer-array>
     <string-array name="repeat_frequency_spinner">
-        <item>day</item>
-        <item>week</item>
-        <item>month</item>
-        <item>year</item>
+        <item>gün</item>
+        <item>hafta</item>
+        <item>ay</item>
+        <item>yıl</item>
     </string-array>
     <string-array name="repeat_frequency_spinner_plural">
-        <item>days</item>
-        <item>weeks</item>
-        <item>months</item>
-        <item>years</item>
+        <item>gün</item>
+        <item>hafta</item>
+        <item>ay</item>
+        <item>yıl</item>
     </string-array>
     <string-array name="repeat_choose_day">
-        <item>1st</item>
-        <item>2nd</item>
-        <item>3rd</item>
-        <item>4th</item>
-        <item>5th</item>
-        <item>6th</item>
-        <item>7th</item>
-        <item>8th</item>
-        <item>9th</item>
-        <item>10th</item>
-        <item>11th</item>
-        <item>12th</item>
-        <item>13th</item>
-        <item>14th</item>
-        <item>15th</item>
-        <item>16th</item>
-        <item>17th</item>
-        <item>18th</item>
-        <item>19th</item>
-        <item>20th</item>
-        <item>21st</item>
-        <item>22nd</item>
-        <item>23rd</item>
-        <item>24th</item>
-        <item>25th</item>
-        <item>26th</item>
-        <item>27th</item>
-        <item>28th</item>
-        <item>29th</item>
-        <item>30th</item>
-        <item>31st</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
     </string-array>
     <string-array name="repeat_choose_weekday">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thur</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çar</item>
+        <item>Perş</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+        <item>Paz</item>
     </string-array>
     <string-array name="repeat_choose_month">
-        <item>Jan</item>
-        <item>Feb</item>
+        <item>Oca</item>
+        <item>Şub</item>
         <item>Mar</item>
-        <item>Apr</item>
+        <item>Nis</item>
         <item>May</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Oct</item>
-        <item>Nov</item>
-        <item>Dec</item>
+        <item>Haz</item>
+        <item>Tem</item>
+        <item>Ağu</item>
+        <item>Eyl</item>
+        <item>Eki</item>
+        <item>Kas</item>
+        <item>Ara</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>first</item>
-        <item>second</item>
-        <item>third</item>
-        <item>fourth</item>
-        <item>last</item>
+        <item>birinci</item>
+        <item>ikinci</item>
+        <item>üçüncü</item>
+        <item>dördüncü</item>
+        <item>son</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
-        <item>Mon - Fri</item>
-        <item>Weekend</item>
-        <item>Whole week</item>
+        <item>Pzt - Cuma</item>
+        <item>Hafta Sonu</item>
+        <item>Tüm Hafta</item>
     </string-array>
     <string-array name="repeat_choose_end">
-        <item>Never</item>
-        <item>Time</item>
-        <item>Count</item>
+        <item>Asla</item>
+        <item>Zaman</item>
+        <item>Sayaç</item>
     </string-array>
     <array name="account_birthday">
         <item>#ffe99080</item>
