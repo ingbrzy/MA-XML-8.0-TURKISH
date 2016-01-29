@@ -1,50 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string-array name="backup_dialog_content_type">
-    <item>Wi-Fi verisi</item>
-    <item>Tüm Uygulamalar</item>
-  </string-array>
-  <string-array name="system_package_label">
-    <item>Tarayıcı</item>
-    <item>İzinler</item>
-    <item>Kamera</item>
-    <item>Veri kullanımı</item>
-    <item>Hava Durumu Bilgisi</item>
-    <item>Hava Durumu</item>
-  </string-array>
-  <string-array name="system_data_label">
-    <item>Rehber</item>
-    <item>Çağrı kaydı</item>
-    <item>Mesajlar</item>
-    <item>Multimedya Mesajları</item>
-    <item>Sistem ayarları</item>
-    <item>Wi-Fi ayarları </item>
-    <item>Ana Ekran düzeni</item>
-    <item>Alarm ayarları </item>
-    <item>Notlar </item>
-    <item>DND </item>
-    <item>Hesap</item>
-  </string-array>
-   <string-array name="app_type_desc">
-    <item>Veri</item>
-    <item>Uygulamalar</item>
-    <item>Uygulamalar ve Veri</item>
-  </string-array>
-   <string-array name="cloud_data_label">
-    <item>Rehber</item>
-    <item>Çağrı kaydı</item>
-    <item>Mesajlar</item>
-    <item>Wi-Fi ayarları</item>
-    <item>Notlar</item>
-  </string-array>
-  <string-array name="cloud_account_data">
-    <item>Rehber</item>
-    <item>Wi-Fi ayarları</item>
-    <item>Notlar</item>
-  </string-array>
-  <string-array name="cloud_sim_data">
-    <item>Çağrı kayıtları</item>
-    <item>Mesajlar</item>
-  </string-array>   
-
+    <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
+    </string-array>
+    <string-array name="st_antispam_mode_defined_state">
+        <item>@string/st_antispam_mode_smart_state</item>
+        <item>@string/st_antispam_mode_blacklist_state</item>
+        <item>@string/st_antispam_mode_only_contacts_state</item>
+        <item>@string/st_antispam_mode_only_whitelist_state</item>
+        <item>@string/st_antispam_mode_only_all_deny_state</item>
+    </string-array>
+    <string-array name="st_antispam_mode_defined_state_international">
+        <item>@string/st_antispam_mode_blacklist_state</item>
+        <item>@string/st_antispam_mode_only_contacts_state</item>
+        <item>@string/st_antispam_mode_only_whitelist_state</item>
+        <item>@string/st_antispam_mode_only_all_deny_state</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_0003">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0004">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0005">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0006">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0007">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0008">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0009">false</item>
 </resources>
