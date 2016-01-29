@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="btn_cancel_msg">Azlet</string>
+  <string name="btn_ok_msg">Ertele</string>
+  <string name="msg_battery_low_temperature">Piliniz sıcaklığı çok düşük olduğundan, lütfen şarj cihazının bağlantısını kesin!</string>
+  <string name="msg_battery_over_temperature">Pilinizin sıcaklığı çok yüksek olduğundan, lütfen şarj cihazının bağlantısını kesin!</string>
+  <string name="msg_battery_over_voltage">Pilinizde aşırı gerilim olduğundan, lütfen bataryanızı çıkartın!</string>
+  <string name="msg_charger_over_voltage">Şarj cihazınız aşırı gerilim sağladığından şarj cihazının bağlantısını kesin!</string>
+  <string name="msg_over_current_protection">Piliniz aşırı akım koruması sağladığından lütfen pili çıkartın!</string>
+  <string name="msg_safety_timer_timeout">Şarj süresi çok uzun, şütfen şarj cihazının bağlantısını kesin!</string>
+  <string name="title_battery_low_temperature">Düşük Batarya Sıcaklığı</string>
+  <string name="title_battery_over_temperature">Yüksek Batarya Sıcaklığı</string>
+  <string name="title_battery_over_voltage">Yüksek Batarya Gerilimi</string>
+  <string name="title_charger_over_voltage">Yüksek Şarj Gerilimi</string>
+  <string name="title_over_current_protection">Yüksek Koruma</string>
+  <string name="title_safety_timer_timeout">Uzun Şarj Zamanı</string>
+</resources>
