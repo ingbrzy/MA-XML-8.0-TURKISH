@@ -94,8 +94,7 @@
   <string name="enable_encrypt_summery1">Şifrelenmiş yedeklere ulaşmak için Mi hesabınızla giriş yapmalısınız.</string>
   <string name="enable_encrypt_summery2">"Yedekleriniz otomatik olarak şifrelenecektir. Şifrelenmiş yedeklere erişmek için Mi hesabınızla oturum açmanız gerekmektedir."</string>
   <string name="enable_encrypt_title">Yedeklemeleri Şifrele</string>
-  <string name="enable_encrypt_xiaomi_account">Bu yedek %1$s tarafından oluşturuldu. Silmek için şimdiki hesabı kaldırın.
-ve %2$s olarak oturum açın.</string>
+  <string name="enable_encrypt_xiaomi_account">Bu yedek %1$s tarafından oluşturuldu. Silmek için şimdiki hesabı kaldırın ve %2$s olarak oturum açın.</string>
   <string name="err_authentication_failed">Kimlik doğrulama hatası</string>
   <string name="err_bakfile_broken">"Bu yedek kullanılamaz."</string>
   <string name="err_filesystem_mount">"Yönlendirici depolanmasına erişilemiyor"</string>
@@ -265,7 +264,9 @@ ve %2$s olarak oturum açın.</string>
   <string name="trans_one_key_migrate">Transfer</string>
   <string name="trans_operate_func_one">Metot A</string>
   <string name="trans_operate_func_two">Metot B</string>
-  <string name="trans_operate_new_phone_tips">"Yeni cihazı kullanarak QR kodunu tarayın. Ayarlar &gt; Ek Ayarlar &gt; Transfer\'e gidin. [Alıcı Değilim] diye QR kodu oluştur"</string>
+  <string name="trans_operate_new_phone_tips">"Yeni cihazı kullanarak QR kodunu tarayın.
+Ayarlar &gt; Ek Ayarlar &gt; Transfer\'e gidin.
+[Alıcı Değilim] diye QR kodu oluştur"</string>
   <string name="trans_operate_old_phone_tips1">"1. Eski cihazınıza Transfer uygulamasını yükleyin
 2. Uygulamayı açın ve [Göndericiyim] seçeneğini seçin
 3. Eski aygıtla QR kodunu tarayın"</string>
@@ -278,8 +279,9 @@ ve %2$s olarak oturum açın.</string>
   <string name="trans_progress_subdescript_transingsd_sender">Dosyalar gönderiliyor, %s tamamlandı</string>
   <string name="trans_progress_subdescript_waiting">%s alınması için bekliyor</string>
   <string name="trans_receiver">"Alıcı değilim"</string>
-  <string name="trans_receiver_time_remained">"%s kaldı. Cihazınızı şarjda bulundurun
-Hotspot\'u kapatmayın. İki aygıtı birbirine yakın tutun"</string>
+  <string name="trans_receiver_time_remained">"%s kaldı.
+HOTSPOT\'u kapatmayın.
+İki aygıtı birbirine yakın tutun"</string>
   <string name="trans_receiving_completed">Veri alındı</string>
   <string name="trans_restoring">Onarılıyor…</string>
   <string name="trans_restoring_no_items">Öğeler senkronize ediliyor</string>
@@ -297,8 +299,9 @@ Benzer dosyalar yeni cihazınızın üstüne yazılır"</string>
   <string name="trans_sender_searching">Yeni cihazlar aranıyor</string>
   <string name="trans_sender_searching_ensurance">"Eski aygıttın açık olduğundan emin olun
 Eski aygıtta bağlamak için bekliyor..."</string>
-  <string name="trans_sender_time_remained">"%s kaldı. Şarjınızı koruyun.
-WLAN\'ı kapatmayın. İki aygıtı birbirine yakın tutun."</string>
+  <string name="trans_sender_time_remained">"%s kaldı.
+WLAN\i kapatmayın.
+Cihazlarınızı birbirine yakın tutun."</string>
   <string name="trans_sending_completed">Veri gönderildi</string>
   <string name="trans_show_qr_code_label">Eski cihazı bağlayın</string>
   <string name="trans_show_qr_code_tips">Eski cihazı kullanarak QR kodunu tarayın</string>
@@ -307,7 +310,8 @@ WLAN\'ı kapatmayın. İki aygıtı birbirine yakın tutun."</string>
 Geçen Zaman %s"</string>
   <string name="trans_wait_trans_data">"Eski aygıta bağlı.
 Transferi için bekleniyor..."</string>
-  <string name="trans_waiting_ensurance">"Transferin etkin ve eski aygıtın bağlı olduğundan emin olun"</string>
+  <string name="trans_waiting_ensurance">"Mi Taşıyıcısını üzerinde ve
+eski aygıt açık olduğundan emin olun"</string>
   <string name="trans_waiting_for_sender">Eski aygıttın bağlanması için bekliyor...</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" öğeler"</string>
