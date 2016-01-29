@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="calendar_lable">"Takvim: "</string>
+  <string name="cancel">İptal</string>
+  <string name="date_lable">"Tarih: "</string>
+  <string name="done">Tamam</string>
+  <string name="give_up">İptal</string>
+  <string name="import_button">Aktar</string>
+  <string name="import_complete">İçeri aktarıldı</string>
+  <string name="import_message">Takvim olarak # aktarmak istiyor musunuz?</string>
+  <string name="import_title">Takvim etkinliğini aktar</string>
+  <string name="import_to">İçe aktar</string>
+  <string name="import_vcs_failed">Etkinlik ithalatı başarısız.</string>
+  <string name="importing">Aktarılıyor...</string>
+  <string name="loading">Yükleniyor…</string>
+  <string name="no_access_toast">Hesap bulunamadı. İlk olarak bir hesap ekleyin</string>
+  <string name="no_calendars_found">Bu hesap takvim senkronizasyonunu desteklemiyor, ya da son eşitleme henüz bitmiş değil.</string>
+  <string name="no_syncable_calendars">Alınamadı</string>
+  <string name="not_support_multi_events">Birden fazla etkinlikler ile dosya desteklenmiyor.</string>
+  <string name="null_name">Yok</string>
+  <string name="open">Aç</string>
+  <string name="open_calendar_failed">Takvim kullanılamaz.</string>
+  <string name="progresshundred">100%</string>
+  <string name="progresszero">0%</string>
+  <string name="retry">Tekrarla</string>
+  <string name="title_lable">"Başlık: "</string>
+</resources>
