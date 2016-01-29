@@ -284,7 +284,7 @@
   <string name="geolocation_settings_page_summary_not_allowed">"Bu site konum bilginize erişemiyor."</string>
   <string name="geolocation_settings_page_title">Konum erişimini temizle</string>
   <string name="go_supermarket_button">Git</string>
-  <string name="go_supermarket_title">Diğer uygulamalar, daha hızlı ve App Store'da az veri kullanımı</string>
+  <string name="go_supermarket_title">Diğer uygulamalar, daha hızlı ve App Store\'da az veri kullanımı</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Ana ekrana yerleştirildi</string>
   <string name="history_saved_webpage">Sayfayı kaydet</string>
@@ -484,8 +484,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_force_userscalable">Yakınlaştırmaya zorla</string>
   <string name="pref_force_userscalable_summary">"Yakınlaştırma davranışını denetlemek için bir web sitesinin talebini geçersiz kıl"</string>
   <string name="pref_general_title">Genel</string>
-  <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
-  <string name="pref_key_gesture_title">Buttons &amp; gestures</string>
+  <string name="pref_key_gesture_title">Düğmeler ve Hareketler</string>
   <string name="pref_nav_mode_summary_pad">Pad</string>
   <string name="pref_nav_mode_summary_phone">Telefon</string>
   <string name="pref_nav_mode_title">Tarayıcı Modu</string>
@@ -532,7 +531,6 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_setting_title">Sayfa ayarları</string>
   <string name="pref_ua_string">Kullanıcı aracısı dizesi</string>
   <string name="pref_version_info">Sürüm bilgisi</string>
-  <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
   <string name="pref_volume_key_action">Ses düğmeleri kullanarak ilerleyin</string>
   <string name="pref_weather_location_summary">"Tarayıcının hava eklentisini kullanılır"</string>
   <string name="pref_weather_location_title">Hava Durumu Yeri</string>
@@ -542,9 +540,6 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="profiler_started_toast">Profiler başladı</string>
   <string name="profiler_stopped_toast">Profiler tamamladı. Sonuç %1$s kadar.</string>
   <string name="progress_dialog_setting_wallpaper">Duvar kağıdı ayarlanıyor...</string>
-  <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
-  <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
-  <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
   <string name="pull_to_refresh_pull_label">Yenilemek için çekin...</string>
   <string name="pull_to_refresh_refreshing_label">Yükleniyor…</string>
   <string name="pull_to_refresh_release_label">Tavsiye ve yenilemeye gitmek için yayınlayın</string>
