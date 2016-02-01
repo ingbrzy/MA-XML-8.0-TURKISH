@@ -14,8 +14,8 @@ MIUI Translation: cmadencan@gmail.com
 (Tavsiyeleriniz ve bulduğunuz hataları lütfen Celalleddin arkadaşımıza veya raocakmak@gmail.com adresine gönderin.)
 
 6.1.29 Sürümüne Göre Biten Dosyalar:
-AnalyticsCore.apk, AntiSpam.apk, ApplicationsProvider.apk, AuthManager.apk, Backup.apk, BackupRestoreConfirmation.apk, BarcodeScanner.apk, BatteryWarning.apk, Bluetooth.apk, Browser.apk, BugReport.apk, Calculator.apk, Calendar.apk, CalendarImporter.apk, CalendarProvider.apk, CaptivePortalLogin.apk, CertInstaller.apk, cit.apk, CleanMaster.apk, CloudBackup.apk, CloudService.apk,MiuiCamera.apk,CMTransfer.apk
+AnalyticsCore.apk, AntiSpam.apk, ApplicationsProvider.apk, AuthManager.apk, Backup.apk, BackupRestoreConfirmation.apk, BarcodeScanner.apk, BatteryWarning.apk, Bluetooth.apk, Browser.apk, BugReport.apk, Calculator.apk, Calendar.apk, CalendarImporter.apk, CalendarProvider.apk, CaptivePortalLogin.apk, CertInstaller.apk, cit.apk, CleanMaster.apk, CloudBackup.apk, CloudService.apk,MiuiCamera.apk,CMTransfer.apk,Contacts.apk,ContactsProvider.apk
 
 Çevrilen Dosya: 
-Contacts.apk
+DeskClock.apk
 
