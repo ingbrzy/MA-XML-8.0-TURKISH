@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">İndirme Yöneticisi</string>
-  <string name="auto_restart_under_wifi">Dosyayı Wi-Fi ile otomatik olarak indir</string>
+  <string name="auto_restart_under_wifi">WLAN ile otomatik olarak bu dosyayı indir</string>
   <string name="button_cancel_download">İptal</string>
-  <string name="button_download_now">Şimdi indir</string>
-  <string name="button_queue_for_wifi">Listeye Al</string>
+  <string name="button_download_now">Şimdi İndir</string>
+  <string name="button_queue_for_wifi">Sıraya Al</string>
   <string name="button_start_now">Başlat</string>
   <string name="button_wait_for_wifi">Bekle</string>
   <string name="dialog_insufficient_space_on_cache">Dahili depolamada yeterli boş alan yok!</string>
   <string name="dialog_insufficient_space_on_external">Harici depolamada yeterli boş alan yok!</string>
-  <string name="dialog_not_show_again">Tekrar sorma</string>
+  <string name="dialog_not_show_again">"Tekrar gösterme"</string>
+  <string name="download_apk_desktop_installing">Yükleniyor</string>
+  <string name="download_apk_desktop_pause">Durdur</string>
+  <string name="download_apk_desktop_pending">Bekliyor</string>
+  <string name="download_apk_desktop_running">İndiriliyor</string>
   <string name="download_error">Başarısız</string>
   <string name="download_no_application_title">"Dosya açılamadı!"</string>
   <string name="download_percent">%d%%</string>
-  <string name="download_queued">Sıraya alındı</string>
+  <string name="download_queued">Sıraya Alındı</string>
   <string name="download_remaining">%s kaldı</string>
-  <string name="download_running">Devam ediyor...</string>
-  <string name="download_running_percent">Devam ediyor, %d%%</string>
+  <string name="download_running">İlerliyor</string>
+  <string name="download_running_percent">İlerliyor, %d%%</string>
   <string name="download_unknown_title">&lt;İsimsiz&gt;</string>
   <string name="enter_garbage_clean">Dahili depolamayı temizle.</string>
   <string name="insufficient_space">"Telefonunuzun dahili depolamasında yeterli boş alan yok"</string>
-  <string name="notif_text_engine_off">Xunlei hızlandırıcı kapalı</string>
+  <string name="mobile_recommended_title">Mobil veri kullanımı</string>
+  <string name="notif_text_engine_off">Xunlei Hızlandırıcı kapalı.</string>
   <string name="notif_text_engine_on">Hızlandırılıyor…</string>
   <string name="notif_title_file_size">Toplam: %1$d</string>
   <string name="notif_title_multiple_downloading">%1$d dosya indiriliyor</string>
-  <string name="notif_title_single_downloading">İndiriliyor :%1$s</string>
-  <string name="notification_download_complete">İndirme tamamlandı</string>
-  <string name="notification_download_failed">İndirme işlemi başarısız!</string>
-  <string name="notification_download_failed_more">%1$d indirme başarısız!</string>
-  <string name="notification_download_success_more">%1$d indirme başarılı</string>
-  <string name="notification_need_wifi_for_size">Dosyanın büyüklüğü göz önüne alındığında Wi-Fi ile indirmeniz tavsiye edilir</string>
-  <string name="notification_paused_in_background">Arka planda bekletiliyor</string>
-  <string name="paused_waiting_for_network">Ağ bağlantısı bekleniyor</string>
-  <string name="privacy_notif_content">Detaylar için dokunun</string>
+  <string name="notif_title_single_downloading">%1$s indiriliyor</string>
+  <string name="notification_download_complete">İndirme tamamlandı.</string>
+  <string name="notification_download_failed">İndirme işlemi başarısız.</string>
+  <string name="notification_download_failed_more">"%1$d indirilemedi!"</string>
+  <string name="notification_download_success_more">%1$d indirildi</string>
+  <string name="notification_need_wifi_for_size">Yükleme boyutu WLAN gerektirir.</string>
+  <string name="notification_paused_in_background">Arka planda durdu.</string>
+  <string name="paused_waiting_for_network">Ağ bağlantısı için bekliyor</string>
+  <string name="permdesc_accessAllDownloads">Sistem üzerinde herhangi bir uygulama tarafından başlatılan tüm indirme değişikliklerini ve uygulamayı görüntülemenize izin verir.</string>
+  <string name="permdesc_downloadCacheNonPurgeable">"Uygulama yöneticisi daha fazla alana ihtiyaç duyduğunda hansinin silinmesi gerektiğine karar vermez, bundan dolayı uygulama dosyaları önbelleğe indirmeye izin verir."</string>
+  <string name="permdesc_downloadCompletedIntent">Tamamlanmış indirme hakkında bildirim göndermeye izni verir. Kötü amaçlı uygulamaların başka dosyaları indirmemesi için bir şaşırtma taktiği olarak kullanabilirsiniz. </string>
+  <string name="permdesc_downloadManager">Uygulama indirme yöneticisine erişmesini sağlar ve dosyaları indirmek için kullanabilirsiniz. Kötü amaçlı uygulamalar indirmeleri bozabilir ve özel bilgilere erişmek için bunu kullanabilirsiniz.</string>
+  <string name="permdesc_downloadManagerAdvanced">"İndirme yöneticilerine erişmek için uygulamanın gelişmiş fonksiyonlarına izin verir. Kötü amaçlı uygulamalar indirmeleri bozabilir ve özel bilgilere erişmek için bunu kullanabilirsiniz."</string>
+  <string name="permdesc_downloadWithoutNotification">Herhangi bir bildirim olmaksızın indirme yöneticisi ile dosyaları indirmek için uygulamanın kullanıcıya gösterilmesine izin verir.</string>
+  <string name="permdesc_seeAllExternal">Uygulamanın bağımsız olarak indirilenlerde dahil tüm indirmeleri SD Kartta görüntülemesine izin verir.</string>
+  <string name="permlab_accessAllDownloads">Tüm sistem indirmelerine erişir.</string>
+  <string name="permlab_downloadCacheNonPurgeable">Karşıdan yükleme önbelleğini rezervle</string>
+  <string name="permlab_downloadCompletedIntent">İndirme bildirimleri gönder.</string>
+  <string name="permlab_downloadManager">İndirme Yöneticisine eriş</string>
+  <string name="permlab_downloadManagerAdvanced">Gelişmiş indirme yöneticisi fonksiyonları.</string>
+  <string name="permlab_downloadWithoutNotification">bildirimsiz indirilen dosyalar</string>
+  <string name="permlab_seeAllExternal">SD karta yapılan tüm indirmeleri gör</string>
+  <string name="privacy_notif_content">Detaylari görmek için dokunun.</string>
   <string name="privacy_notif_title">Xunlei Hızlandırıcı açık</string>
   <string name="privacy_tip_cancel">İptal</string>
   <string name="privacy_tip_content">"İndirmeleri hızlandırmak için Xunlei Hızlandırıcısı kullanılsın mı? İndirme bağlantıları Xunlei sunucularına yüklenecektir. Mi Hesap ayrıntılarınızda, herhangi bir aktif abonelik olup olmadığını kontrol etmeniz için yüklenecektir."</string>
   <string name="privacy_tip_ok">TAMAM</string>
   <string name="privacy_tip_title">Xunlei Hızlandırıcısı kullanılsın mı?</string>
-  <string name="recommended_file_more_in_mobile" formatted="false">Bu %s dosyaları (%s ) indirmeniz mobil veri kullanımını arttıracaktır</string>
-  <string name="recommended_file_one_in_mobile">Bu dosyayı (%s ) indirmeniz mobil veri kullanımını arttıracaktır</string>
-  <string name="recommended_file_size_download_in_mobile" formatted="false">"Şu an Wi-Fi bağlantısı yok. %s
-
-Dosya boyutu alınamıyor. Mobil veri bağlantısını kullanmak için %s dokunun. Wi-Fi bağlantısını beklemek için %s dokunun."</string>
-  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Mobil veri bağlantısını kullanmak için %s dokunun. Wi-Fi bağlantısını beklemek için %s dokunun."</string>
+  <string name="recommended_file_size_download_in_mobile">Bu dosyayı indirmek için mobil veri %s kullanılsın mı?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Bu dosyayı indirmek için mobil veri bağlantısını kullanılsın mı?</string>
   <string name="root_downloads">İndirmeler</string>
-  <string name="task_already_exist">Görev zaten var!</string>
+  <string name="task_already_exist">Görev zaten var</string>
   <string name="warning_tip_cancel">İndir</string>
-  <string name="warning_tip_content">"Bu indirme işlemini tamamlamak için Mobil Veri bağlantısını kullanmanız durumunda veri kullanımınız artabilir ve operatörünüz ek ücretler uygulayabilir..."</string>
+  <string name="warning_tip_content">"WLAN ile artık bağlı değilsiniz. Mobil veri bağlantınızı kullanarak bu indirme veri kullanımını artıracaktır. Eğer planlarınız veri sınırı üzerine çıkarsanız, operatörünüz sizden ek ücret talep edebilir."</string>
   <string name="warning_tip_ok">Dur</string>
-  <string name="warning_tip_title">Veri Kullanım Uyarısı !</string>
-  <string name="wifi_recommended_body" formatted="false">"Mobil veri üzerinden indirme：
+  <string name="warning_tip_title">Veri Kullanım Uyarısı</string>
+  <string name="wifi_recommended_body" formatted="false">"Şimdi %s indirmeye başlayacak fakat bu mobil veri kullanımına neden olacak yine mobil veri kullanımı operatörüz tarafından ücretlenebilir.
 
- %s（%s）
+ Bu indirme işlemini WLAN ağına bağlı olduğunuz bir dahaki sefere başlamak için %s dokunun."</string>
+  <string name="wifi_recommended_title">Daha sonra indirme işleminde kuyruğa eklensin mi?</string>
+  <string name="wifi_required_body" formatted="false">"%s tamamlamak için WLAN kullanmanız gerekir. 
 
- Bu dosyayı indirme işlemi, mobil veri kullanımını ve ücretleri önemli ölçüde artırabilir"</string>
-  <string name="wifi_recommended_title">Dosyayı listeye alıp Wi-Fi ile indirmeniz tavsiye edilir!</string>
-  <string name="wifi_required_body" formatted="false">"Dosya çok büyük, indirmeyi tamamlamak için Wi-Fi bağlantısı gerekiyor. 
-
- Wi-Fi bağlantısı sağlandığında, %s için indirme işlemi başlayacak."</string>
-  <string name="wifi_required_title">Bu dosya şebeke operatörünüz için çok büyük!</string>
+Bu indirme işlemini WLAN ağına bağlı olduğunuz bir dahaki sefere başlaması için %s dokunun."</string>
+  <string name="wifi_required_title">Operatör şebekesi için çok büyük indirme</string>
 </resources>
