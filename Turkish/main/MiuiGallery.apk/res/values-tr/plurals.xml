@@ -1,163 +1,159 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<plurals name="confirm_delete_has_cloud_image">
-		<item quantity="other">Seçtiğiniz %s fotoğraf Bulut alanından silinsin mi?</item>
-		<item quantity="one">Seçtiğiniz %s fotoğraf Bulut alanından silinsin mi?</item>
-	</plurals>
-	<plurals name="confirm_delete_has_local_image">
-		<item quantity="other">Seçtiğiniz %s fotoğraf silinsin mi?</item>
-		<item quantity="one">Seçtiğiniz %s fotoğraf silinsin mi?</item>
-	</plurals>
-	<plurals name="confirm_delete_has_cloud_video">
-		<item quantity="other">Seçtiğiniz %s video Bulut alanından silinsin mi?</item>
-		<item quantity="one">Seçtiğiniz %s video Bulut alanından silinsin mi?</item>
-	</plurals>
-	<plurals name="confirm_delete_has_local_video">
-		<item quantity="other">Seçtiğiniz %s video silinsin mi?</item>
-		<item quantity="one">Seçtiğiniz %s video silinsin mi?</item>
-	</plurals>
-	<plurals name="confirm_delete_has_cloud_local_image">
-		<item quantity="other">Seçtiğiniz %s fotoğraf Telefon ve Bulut alanından silinsin mi?</item>
-		<item quantity="one">Seçtiğiniz %s fotoğraf Telefon ve Bulut alanından silinsin mi?</item>
-	</plurals>
-	<plurals name="confirm_delete_has_cloud_local_video">
-		<item quantity="other">Seçtiğiniz %s video Telefon ve Bulut alanından silinsin mi?</item>
-		<item quantity="one">Seçtiğiniz %s video Telefon ve Bulut alanından silinsin mi?</item>
-	</plurals>
-	<plurals name="number_of_items_selected">
-		<item quantity="other">%1$d öğe seçildi</item>
-		<item quantity="zero">%1$d öğe seçildi</item>
-		<item quantity="one">%1$d öğe seçildi</item>
-	</plurals>
-	<plurals name="number_of_pictures">
-		<item quantity="other">%1$d</item>
-		<item quantity="zero">%1$d</item>
-		<item quantity="one">%1$d</item>
-	</plurals>
-	<plurals name="number_of_images">
-		<item quantity="other">%1$d fotoğraf</item>
-		<item quantity="zero">%1$d fotoğraf</item>
-		<item quantity="one">%1$d fotoğraf</item>
-	</plurals>
-	<plurals name="number_of_items">
-		<item quantity="other">%1$d öğe</item>
-		<item quantity="zero">%1$d öğe</item>
-		<item quantity="one">%1$d öğe</item>
-	</plurals>
-	<plurals name="how_many_pics">
-		<item quantity="other">%d fotoğraf</item>
-		<item quantity="one">%d fotoğraf</item>
-	</plurals>
-	<plurals name="how_many_videos">
-		<item quantity="other">%d video</item>
-		<item quantity="one">%d video</item>
-	</plurals>
-	<plurals name="how_many_sub_folders">
-		<item quantity="other">%d klasör</item>
-		<item quantity="one">%d klasör</item>
-	</plurals>
-	<plurals name="message_no_delete_access_with_count">
-		<item quantity="other">"Seçtiğiniz %d dosyayı silmek için yetkiniz yok!"</item>
-		<item quantity="one">"Seçtiğiniz %d dosyayı silmek için yetkiniz yok!"</item>
-	</plurals>
-	<plurals name="pick_with_limited_upper_bound_title">
-		<item quantity="other">%d öğe seçtiniz</item>
-		<item quantity="one">%d öğe seçtiniz</item>
-	</plurals>
-	<plurals name="more_face">
-       <item quantity="other">%1$s / %2$s</item>
-       <item quantity="one">%1$s / %2$s</item>
-   	</plurals>
-	<plurals name="confirm_delete_album">
-        <item quantity="other">%1$s albüm silinsin mi (toplam %2$s)?</item>
-        <item quantity="one">%1$s albüm silinsin mi (toplam %2$s)?</item>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">%1$s albümleri silinsin mi (%2$s toplamı)?</item>
+        <item quantity="one">Bu albüm silinsin mi(%s toplam)?</item>
     </plurals>
-	<plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">" %2$d albümünden %1$d video silinsin mi? "</item>
-        <item quantity="one">" %2$d albümünden %1$d video silinsin mi? "</item>
+    <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">&lt;Veri>"Cihazın &lt;xliff:g id=ITEM>%s&lt;/xliff:g> dahili depolamasından ve Mi Buluttan öğeler silinsin mi?"&lt;/Data></item>
     </plurals>
-	<plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">%1$d resim %2$d albümünden silinsin mi?</item>
-        <item quantity="one">%1$d resim %2$d albümünden silinsin mi?</item>
+    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">&lt;Veri>"Cihazınızın &lt;xliff:g id=ITEM>%s&lt;/xliff:g> dahili depolamasından ve Mi Buluttan fotoğraflar silinsin mi?"&lt;/Veri></item>
+        <item quantity="one">&lt;Veri>"Cihazınızın dahili depolamasından ve Mi Buluttaki fotoğraf silinsin mi?"&lt;/Veri></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">&lt;Veri>"Cihazın &lt;xliff:g id=ITEM>%s&lt;/xliff:g> dahili depolamadan ve Mi Buluttan videolar silinsin mi?"&lt;/Veri></item>
+        <item quantity="one">&lt;Veri>"Cihazın dahili depolamasından ve Mi Buluttan bu video silinsin mi?"&lt;/Veri></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">&lt;Veri>Mi Buluttaki &lt;xliff:g id=ITEM>%s&lt;/xliff:g> öğeler silinsin mi?&lt;/Veri></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">&lt;Veri>Mi Buluttaki &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotoğraflar silinsin mi?&lt;/Veri></item>
+        <item quantity="one">&lt;Veri>Mi Buluttaki fotoğraf silinsin mi?&lt;/Veri></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">&lt;Veri>Mi Buluttaki &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videolar silinsin mi?&lt;/Veri></item>
+        <item quantity="one">&lt;Veri>Mi Buluttaki bu video silinsin mi?&lt;/Veri></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">&lt;Veri>Bu albümdeki &lt;xliff:g id=ITEM>%s&lt;/xliff:g> öğeler silinsin mi?&lt;/Veri></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">%s öğe silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">&lt;Veri>Bu albümdeki &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotoğraflar silinsin mi?&lt;/Veri></item>
+        <item quantity="one">&lt;Veri>Bu albümdeki fotoğraf silinsin mi?&lt;/Veri></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">%s fotoğraflar silinsin mi?</item>
+        <item quantity="one">Bu fotoğraf silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">&lt;Veri>Bu albümden &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videolar silinsin mi?&lt;/Veri></item>
+        <item quantity="one">&lt;Veri>Bu albümden &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videolar silinsin mi?&lt;/Veri></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">%s videolar silinsin mi?</item>
+        <item quantity="one">Bu video silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">&lt;Veri>%2$d albümden &lt;xliff:g id=ITEM>%1$d videolar&lt;/xliff:g> silinsin mi?&lt;/Veri></item>
+        <item quantity="one">&lt;Veri>%2$d albümdeki video silinsin mi?&lt;/Veri></item>
+    </plurals>
+    <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">&lt;Veri>%2$d albümünde ki &lt;xliff:g id=ITEM>%1$d fotoğraflar&lt;/xliff:g> silinsin mi?&lt;/Veri></item>
+        <item quantity="one">&lt;Veri>%2$d albümündeki bu fotoğraf silinsin mi?&lt;/Veri></item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d seçildi</item>
+        <item quantity="zero">%1$d seçildi</item>
+        <item quantity="one">%1$d seçildi</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d fotoğraflar</item>
+        <item quantity="one">%d fotoğraf</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d videolar</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d klasörler</item>
+        <item quantity="one">%d klasör</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">"Bu %d dosyaları silmek için izniniz yok."</item>
+        <item quantity="one">"Bu %d dosyayı silmek için izniniz yok."</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">%d öğeleri seçebilirsiniz</item>
+        <item quantity="one"> %d öğeyi seçebilirsiniz</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d fotoğraflar</item>
+        <item quantity="zero">%1$d fotoğraflar</item>
+        <item quantity="one">%1$d fotoğraf</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d öğeler</item>
+        <item quantity="zero">%1$d öğeler</item>
+        <item quantity="one">%1$d öğe</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%d saniye</item>
         <item quantity="one">1 saniye</item>
     </plurals>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Bu yüzler gösterilmeyecek?"</item>
-        <item quantity="one">"Bu yüz gösterilmeyecek?"</item>
+        <item quantity="other">"Bu yüzleri göstermiyorsunuz?"</item>
+        <item quantity="one">"Bu yüzü göstermiyorsunuz?"</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%2$s %1$s fotoğraflar </item>
+        <item quantity="one">%2$s %1$s fotoğraf</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d - %2$s eklendi</item>
-        <item quantity="one">%1$d - %2$s eklendi</item>
+        <item quantity="other">%2$s %1$d fotoğraflar eklendi</item>
+        <item quantity="one">%2$s %1$d fotoğraf eklendi</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d - %2$s eklendi</item>
-        <item quantity="one">%1$d - %2$s eklendi</item>
+        <item quantity="other">%2$s %1$d fotoğraflar eklendi</item>
+        <item quantity="one">%2$s %1$d fotoğraf eklendi</item>
     </plurals>
     <plurals name="baby_age_subtitle_year">
         <item quantity="other">"%1$d yıl "</item>
         <item quantity="one">"%1$d yıl "</item>
     </plurals>
     <plurals name="baby_age_subtitle_month">
-        <item quantity="other">%1$d ay</item>
-        <item quantity="one">%1$d ay</item>
+        <item quantity="other">"%1$d ay "</item>
+        <item quantity="one">"%1$d ay "</item>
     </plurals>
-	<plurals name="baby_age_subtitle_day">
-       <item quantity="other">%1$d gün</item>
-       <item quantity="one">%1$d gün</item>
+    <plurals name="baby_age_subtitle_day">
+        <item quantity="other">%1$d gün</item>
+        <item quantity="one">%1$d gün</item>
     </plurals>
-	<plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">Seçtiğiniz %s öğe telefonunuzdan ve Bulut alanından silinsin mi?</item>
+    <plurals name="baby_album_share_user_count_tip">
+        <item quantity="other">%1$d takipçi</item>
+        <item quantity="one">%1$d takipçi</item>
     </plurals>
-    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">Seçtiğiniz %s görüntü telefonunuzdan ve Bulut alanından silinsin mi?</item>
-        <item quantity="one">Seçtiğiniz %s görüntü telefonunuzdan ve Bulut alanından silinsin mi?</item>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d fotoğraf eşitlenmeyi bekliyor</item>
+        <item quantity="one">1 fotoğraf eşitlenmeyi bekliyor</item>
     </plurals>
-    <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">Seçtiğiniz %s video telefonunuzdan ve Bulut alanından silinsin mi?</item>
-        <item quantity="one">Seçtiğiniz %s video telefonunuzdan ve Bulut alanından silinsin mi?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">Seçtiğiniz %s öğe telefonunuzdan ve Bulut alanından silinsin mi?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">Seçtiğiniz %s fotoğraf telefonunuzdan ve Bulut alanından silinsin mi?</item>
-        <item quantity="one">Seçtiğiniz %s fotoğraf telefonunuzdan ve Bulut alanından silinsin mi?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">Seçtiğiniz %s video telefonunuzdan ve Bulut alanından silinsin mi?</item>
-        <item quantity="one">Seçtiğiniz %s video telefonunuzdan ve Bulut alanından silinsin mi?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">Seçtiğiniz %s öğe bu albümden silinsin mi?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_image_video">
-        <item quantity="other">Seçtiğiniz %s öğe silinsin mi?</item>
-    </plurals>
-	<plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d resmi yükle</item>
-        <item quantity="one">1 resmi yükle</item>
-    </plurals>
-   <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d videoyu yükle</item>
-        <item quantity="one">1 videoyu yükle</item>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d video eşitlenmeyi bekliyor</item>
+        <item quantity="one">1 video eşitlenmeyi bekliyor</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d öğe senkronize için bekliyor</item>
-        <item quantity="one">1 öğe senkronize için bekliyor</item>
+        <item quantity="other">%1$d öğe eşitlenmeyi bekliyor</item>
+        <item quantity="one">1 öğe eşitlenmeyi bekliyor</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">%1$d öğe senkronize için ediliyor…</item>
-        <item quantity="one">1 öğe senkronize için ediliyor…</item>
+        <item quantity="other">%1$d fotoğraf eşitleniyor…</item>
+        <item quantity="one">Fotoğraf eşitleniyor…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">%1$d öğe senkronize için ediliyor…</item>
-        <item quantity="one">1 öğe senkronize için ediliyor…</item>
+        <item quantity="other">%1$d video eşitleniyor…</item>
+        <item quantity="one">Video eşitleniyor…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">%1$d öğe senkronize için ediliyor…</item>
-        <item quantity="one">%1 öğe senkronize için ediliyor…</item>
+        <item quantity="other">%1$d öğe eşitleniyor…</item>
+        <item quantity="one">Öğe eşitleniyor…</item>
     </plurals>
 </resources>
