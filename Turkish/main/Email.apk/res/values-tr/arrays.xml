@@ -1,55 +1,86 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string-array name="compose_modes">
-	<item>Cevapla</item>
-	<item>Tümünü cevapla</item>
-	<item>Yönlendir</item>
-</string-array>
-<string-array name="sync_status">
-	<item>Başarılı</item>
-	<item>Bağlantı yok.</item>
-	<item>"Giriş yapılamıyor."</item>
-	<item>Güvenlik hatası.</item>
-	<item>"Senkronize edilemiyor."</item>
-	<item>Hata</item>
-</string-array>
-<string-array name="moveto_folder_sections">
-	<item>Sistem</item>
-	<item>Sık kullanılan</item>
-	<item>Tüm klasörler</item>
-</string-array>
-<string-array name="prefEntries_autoAdvance">
-	<item>Yeni mesajlar</item>
-	<item>Eski mesajlar</item>
-	<item>Gelen kutusu</item>
-</string-array>
-<string-array name="prefSummaries_autoAdvance">
-	<item>Sildikten sonra yeni mesajları göster</item>
-	<item>Sildikten sonra eski mesajları göster</item>
-	<item>Sildikten sonra gelen kutusunu göster</item>
-</string-array>
-<string-array name="prefEntries_removal_action">
-	<item>Arşivi göster</item>
-	<item>Silinenleri göster</item>
-	<item>Arşiv ve silinenleri göster</item>
-</string-array>
-<string-array name="prefSummaries_removal_action_summary">
-	<item>Arşivi göster</item>
-	<item>Silinenleri göster</item>
-	<item>Arşiv ve silinenleri göster</item>
-</string-array>
-<string-array name="menu_att_mgr_sort_string_array">
-	<item>Son bakılanlar</item>
-	<item>Biçim</item>
-	<item>Adı</item>
-	<item>Gönderen</item>
-	<item>Alınma tarihi</item>
-</string-array>
-<string-array name="general_preference_text_zoom_summary_array">
-	<item>Çok ufak</item>
-	<item>Ufak</item>
-	<item>Normal</item>
-	<item>Büyük</item>
-	<item>Çok büyük</item>
-</string-array>
-</resources>
+    <string-array name="compose_modes">
+        <item>Cevapla</item>
+        <item>Tümünü Cevapla</item>
+        <item>Yönlendir</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Küçücük</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+        <item>Kocaman</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>En Son Görüntülenen</item>
+        <item>Biçim</item>
+        <item>Adı</item>
+        <item>Gönderen</item>
+        <item>Tarihte Alındı</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Sık Kullanılan</item>
+        <item>Tüm Dizinler</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Yeni Mesajlar</item>
+        <item>Eski Mesajlar</item>
+        <item>Gelen Kutusu</item>
+    </string-array>
+    
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Site:</item>
+        <item>E-Posta:</item>
+        <item>Mobil:</item>
+        <item>Telefon:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Faks:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adres:</item>
+        <item>Tel:</item>
+        <item>Adı:</item>
+        <item>E-Posta:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Faks:</item>
+        <item>Posta Kodu:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Feragat:</item>
+        <item>E-Posta Feragatı</item>
+        <item>WPSMail yoluyla gönder</item>
+        <item>Şundan Geldi</item>
+        <item>Şunla Gönder</item>
+        <item>Teşekkürler,</item>
+        <item>Saygılarımla</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Teşekkürler,</item>
+        <item>Saygılarımla</item>
+        <item>Gönderen</item>
+        <item>Asıl E-Post</item>
+        <item>Gönderen</item>
+        <item>Gönderilen</item>
+        <item>Gönderen</item>
+        <item>Bu Posta</item>
+        <item>Feragat</item>
+        <item>E-Posta Feragatı</item>
+    </string-array>
+    <string-array name="smtp_host_prefixes">
+        <item>pop3</item>
+        <item>pop</item>
+        <item>imap</item>
+    </string-array>
+    </resources>
