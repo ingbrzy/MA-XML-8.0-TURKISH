@@ -1,162 +1,114 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-<plurals name="move_messages">
-	<item quantity="other">Mesajları taşı</item>
-	<item quantity="one">Mesajı taşı</item>
-	<item quantity="zero">Mesajları taşı</item>
-	<item quantity="two">Mesajları taşı</item>
-	<item quantity="few">Mesajları taşı</item>
-	<item quantity="many">Mesajları taşı</item>
-</plurals>
-<plurals name="num_selected">
-	<item quantity="other">%d sohbet seçtiniz</item>
-	<item quantity="zero">%d sohbet seçtiniz</item>
-	<item quantity="one">%d sohbet seçtiniz</item>
-	<item quantity="two">%d sohbet seçtiniz</item>
-	<item quantity="few">%d sohbet seçtiniz</item>
-	<item quantity="many">%d sohbet seçtiniz</item>
-</plurals>
-<plurals name="move_conversation">
-	<item quantity="other">%1$d Sohbeti taşı</item>
-	<item quantity="one">Sohbeti taşı</item>
-	<item quantity="zero">%1$d Sohbeti taşı</item>
-	<item quantity="two">%1$d Sohbeti taşı</item>
-	<item quantity="few">%1$d Sohbeti taşı</item>
-	<item quantity="many">%1$d Sohbeti taşı</item>
-</plurals>
-<plurals name="draft">
-	<item quantity="other">Taslak</item>
-	<item quantity="one">Taslak</item>
-</plurals>
-<plurals name="confirm_delete_conversation">
-	<item quantity="other">%1$d sohbeti silmek istiyor musunuz?</item>
-	<item quantity="one">Sohbeti silmek istiyor musunuz?</item>
-	<item quantity="zero">%1$d sohbeti silmek istiyor musunuz?</item>
-	<item quantity="two">%1$d sohbeti silmek istiyor musunuz?</item>
-	<item quantity="few">%1$d sohbeti silmek istiyor musunuz?</item>
-	<item quantity="many">%1$d sohbeti silmek istiyor musunuz?</item>
-</plurals>
-<plurals name="confirm_delete_conversation_with_sub">
-	<item quantity="other">Sohbetlerin tümünü silmek istiyor musunuz?</item>
-	<item quantity="one">Sohbetlerin tümünü silmek istiyor musunuz?</item>
-	<item quantity="zero">Sohbetlerin tümünü silmek istiyor musunuz?</item>
-	<item quantity="two">Sohbetlerin tümünü silmek istiyor musunuz?</item>
-	<item quantity="few">Sohbetlerin tümünü silmek istiyor musunuz?</item>
-	<item quantity="many">Sohbetlerin tümünü silmek istiyor musunuz?</item>
-</plurals>
-<plurals name="confirm_archive_conversation">
-	<item quantity="other">%1$d sohbet arşivlensin mi?</item>
-	<item quantity="one">Sohbet arşivlensin mi?</item>
-	<item quantity="zero">%1$d sohbet arşivlensin mi?</item>
-	<item quantity="two">%1$d sohbet arşivlensin mi?</item>
-	<item quantity="few">%1$d sohbet arşivlensin mi?</item>
-	<item quantity="many">%1$d sohbet arşivlensin mi?</item>
-</plurals>
-<plurals name="confirm_discard_drafts_conversation">
-	<item quantity="other">%1$d sohbetin taslakları silinsin mi ?</item>
-	<item quantity="one">Sohbetin taslakları silinsin mi?</item>
-</plurals>
-<plurals name="conversation_unstarred">
-	<item quantity="other">Yıldızsız %1$d sohbet.</item>
-	<item quantity="one">Yıldızsız %1$d sohbet.</item>
-</plurals>
-<plurals name="conversation_muted">
-	<item quantity="other">%1$d sohbet sessize alındı.</item>
-	<item quantity="one">%1$d sohbet sessize alındı.</item>
-</plurals>
-<plurals name="conversation_spammed">
-	<item quantity="other">%1$d sohbet olarak raporlandı.</item>
-	<item quantity="one">%1$d sohbet spam olarak raporlandı.</item>
-</plurals>
-<plurals name="conversation_not_spam">
-	<item quantity="other">%1$d sohbet spam olarak raporlanmadı.</item>
-	<item quantity="one">%1$d sohbet spam olarak raporlanmadı.</item>
-</plurals>
-<plurals name="conversation_not_important">
-	<item quantity="other">%1$d sohbet önemsiz olarak işaretlendi.</item>
-	<item quantity="one">%1$d sohbet önemsiz olarak işaretlendi.</item>
-</plurals>
-<plurals name="conversation_phished">
-	<item quantity="other">%1$d sohbet dolandırıcı olarak raporlandı.</item>
-	<item quantity="one">%1$d sohbet dolandırıcı olarak raporlandı.</item>
-</plurals>
-<plurals name="conversation_archived">
-	<item quantity="other">%1$d sohbet arşivlendi.</item>
-	<item quantity="one">%1$d sohbet arşivlendi.</item>
-</plurals>
-<plurals name="conversation_deleted">
-	<item quantity="other">%1$d sohbet silindi.</item>
-	<item quantity="one">%1$d sohbet silindi.</item>
-</plurals>
-<plurals name="conversation_folder_changed">
-	<item quantity="other">Klasörleri değiştir.</item>
-	<item quantity="one">Klasörü değiştir.</item>
-</plurals>
-<plurals name="new_incoming_messages_many">
-	<item quantity="other">%1$d yeni mesajınız var.</item>
-	<item quantity="zero">%1$d yeni mesajınız var.</item>
-	<item quantity="one">%1$d yeni mesajınız var.</item>
-	<item quantity="two">%1$d yeni mesajınız var.</item>
-	<item quantity="few">%1$d yeni mesajınız var.</item>
-	<item quantity="many">%1$d yeni mesajınız var.</item>
-</plurals>
-<plurals name="show_messages_read">
-	<item quantity="other">%1$d eski mesaj var.</item>
-	<item quantity="zero">%1$d eski mesaj var.</item>
-	<item quantity="one">%1$d eski mesaj var.</item>
-	<item quantity="two">%1$d eski mesaj var.</item>
-	<item quantity="few">%1$d eski mesaj var.</item>
-	<item quantity="many">%1$d eski mesaj var.</item>
-</plurals>
-<plurals name="actionbar_unread_messages">
-	<item quantity="other">%1$d okunmamış mesajınız var</item>
-</plurals>
-<plurals name="empty_folder_dialog_message">
-	<item quantity="other">%1$d mesaj kalıcı olarak silinecektir.</item>
-	<item quantity="one">%1$d mesaj kalıcı olarak silinecektir.</item>
-	<item quantity="zero">%1$d mesaj kalıcı olarak silinecektir.</item>
-	<item quantity="two">%1$d mesaj kalıcı olarak silinecektir.</item>
-	<item quantity="few">%1$d mesaj kalıcı olarak silinecektir.</item>
-	<item quantity="many">%1$d mesaj kalıcı olarak silinecektir.</item>
-</plurals>
-<plurals name="contact_num_selected">
-	<item quantity="other">%d seçtiniz</item>
-	<item quantity="zero">%d seçtiniz</item>
-	<item quantity="one">%d seçtiniz</item>
-	<item quantity="two">%d seçtiniz</item>
-	<item quantity="few">%d seçtiniz</item>
-	<item quantity="many">%d seçtiniz</item>
-</plurals>
-<plurals name="message_view_attachment_bytes">
-	<item quantity="other">%dB</item>
-	<item quantity="zero">%dB</item>
-	<item quantity="one">%dB</item>
-	<item quantity="two">%dB</item>
-	<item quantity="few">%dB</item>
-	<item quantity="many">%dB</item>
-</plurals>
-<plurals name="message_view_attachment_gigabytes">
-	<item quantity="other">%dGB</item>
-	<item quantity="zero">%dGB</item>
-	<item quantity="one">%dGB</item>
-	<item quantity="two">%dGB</item>
-	<item quantity="few">%dGB</item>
-	<item quantity="many">%dGB</item>
-</plurals>
-<plurals name="message_view_attachment_kilobytes">
-	<item quantity="other">%dKB</item>
-	<item quantity="zero">%dKB</item>
-	<item quantity="one">%dKB</item>
-	<item quantity="two">%dKB</item>
-	<item quantity="few">%dKB</item>
-	<item quantity="many">%dKB</item>
-</plurals>
-<plurals name="message_view_attachment_megabytes">
-	<item quantity="other">%dMB</item>
-	<item quantity="zero">%dMB</item>
-	<item quantity="one">%dMB</item>
-	<item quantity="two">%dMB</item>
-	<item quantity="few">%dMB</item>
-	<item quantity="many">%dMB</item>
-</plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d okunmamış</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">%1$d görüşmeler arşivlensin mi?</item>
+        <item quantity="zero">%1$d görüşmeler arşivlensin mi?</item>
+        <item quantity="one">Bu görüşme arşivlensin mi?</item>
+        <item quantity="two">%1$d görüşmeler arşivlensin mi?</item>
+        <item quantity="few">%1$d görüşmeler arşivlensin mi?</item>
+        <item quantity="many">%1$d görüşmeler arşivlensin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$d görüşmeler silinsin mi?</item>
+        <item quantity="zero">%1$d görüşmeler silinsin mi?</item>
+        <item quantity="one">Bu görüşme silinsin mi?</item>
+        <item quantity="two">%1$d görüşmeler silinsin mi?</item>
+        <item quantity="few">%1$d görüşmeler silinsin mi?</item>
+        <item quantity="many">%1$d görüşmeler silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Bu görüşmeler birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
+        <item quantity="zero">Bu görüşmeler birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
+        <item quantity="one">Bu görüşme birleştirilmiş öğe içerir. Yine de bu silinsin mi?</item>
+        <item quantity="two">Bu görüşmeler birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
+        <item quantity="few">Bu görüşmeler birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
+        <item quantity="many">Bu görüşmeler birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d seçildi</item>
+        <item quantity="zero">%d seçildi</item>
+        <item quantity="one">%d seçildi</item>
+        <item quantity="two">%d seçildi</item>
+        <item quantity="few">%d seçildi</item>
+        <item quantity="many">%d seçildi</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b> %1$d &lt;/b> arşivlendi.</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> arşivlendi.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b> %1$d &lt;/b> silindi.</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> silindi.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Klasörler değişti.</item>
+        <item quantity="one">Klasör değişti.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b> %1$d &lt;/b> sessizde</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> sessizde.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b> %1$d &lt;/b>" mesajlar 'önemli' dizininden kaldırıldı"</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b>" 'önemli' dizininden kaldırıldı"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b> %1$d &lt;/b>" 'istenmeyen' dizininden kaldırıldı"</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b>" 'istenmeyen' dizininden kaldırıldı"</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b> %1$d &lt;/b> mesajlar istenmeyen olarak raporlandı</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> mesaj istenmeyen olarak raporlandı</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b> %1$d &lt;/b> istenmeyen olarak işaretlendi</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> istenmeyen olarak işaretlendi</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Taslaklar</item>
+        <item quantity="one">Taslak</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d mesajlar kalıcı olarak silinecek.</item>
+        <item quantity="zero">%1$d mesajlar kalıcı olarak silinecek.</item>
+        <item quantity="one">%1$d mesaj kalıcı olarak silinecek.</item>
+        <item quantity="two">%1$d mesajlar kalıcı olarak silinecek.</item>
+        <item quantity="few">%1$d mesajlar kalıcı olarak silinecek.</item>
+        <item quantity="many">%1$d mesajlar kalıcı olarak silinecek.</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d görüşmeleri taşı</item>
+        <item quantity="zero">%1$d görüşmeleri taşı</item>
+        <item quantity="one">Görüşmeyi Taşı</item>
+        <item quantity="two">%1$d görüşmeleri taşı</item>
+        <item quantity="few">%1$d görüşmeleri taşı</item>
+        <item quantity="many">%1$d görüşmeleri taşı</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d yeni mesajları göster.</item>
+        <item quantity="zero">%1$d yeni mesajları göster.</item>
+        <item quantity="one">%1$d yeni mesaji göster.</item>
+        <item quantity="two">%1$d yeni mesajları göster.</item>
+        <item quantity="few">%1$d yeni mesajları göster.</item>
+        <item quantity="many">%1$d yeni mesajları göster.</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d seçildi</item>
+        <item quantity="zero">%d seçildi</item>
+        <item quantity="one">%d seçildi</item>
+        <item quantity="two">%d seçildi</item>
+        <item quantity="few">%d seçildi</item>
+        <item quantity="many">%d seçildi</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d eski mesajlar</item>
+        <item quantity="zero">%1$d eski mesajlar</item>
+        <item quantity="one">%1$d eski mesaj</item>
+        <item quantity="two">%1$d eski mesajlar</item>
+        <item quantity="few">%1$d eski mesajlar</item>
+        <item quantity="many">%1$d eski mesajlar</item>
+    </plurals>
 </resources>
