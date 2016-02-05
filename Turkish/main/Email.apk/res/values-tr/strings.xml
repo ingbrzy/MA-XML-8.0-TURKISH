@@ -9,7 +9,6 @@
   <string name="abc_searchview_description_search">Ara</string>
   <string name="abc_searchview_description_submit">Sorgu gönder</string>
   <string name="abc_searchview_description_voice">Sesli Ara</string>
-  <string name="account_cache_provider">Hesap Önbellek Sağlayıcısı</string>
   <string name="account_duplicate_dlg_message_fmt">"\"%s\" hesabı için zaten bu kullanıcı adını kullanıyorsunuz."</string>
   <string name="account_duplicate_dlg_title">Tekrarlanan Hesap</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -158,7 +157,7 @@
   <string name="add_pre_message_attachments_yes">Ekle</string>
   <string name="add_star">Yıldız</string>
   <string name="allread">Tümünü Oku</string>
-  <string name="always_bcc_myself">Damima Banada Bcc</string>
+  <string name="always_bcc_myself">Daima Banada Bcc</string>
   <string name="always_show_images">Her zaman bu göndericinin resimlerini göster</string>
   <string name="app_name">Posta</string>
   <string name="application_mime_type">application/email-ls</string>
@@ -283,7 +282,6 @@
   <string name="contextmenu_send_mail">E-Posta gönder</string>
   <string name="contextmenu_sharelink">Bağlantıyı paylaş</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Görüşme İçerik Tedarikçisi</string>
   <string name="conversation_folder_moved">%1$s\a taşındı</string>
   <string name="conversation_item_mark_read">Okundu</string>
   <string name="conversation_item_mark_unread">Okunmadı</string>
@@ -353,8 +351,7 @@
   <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Posta</string>
   <string name="email_sina">Sina Posta</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
-  <string name="empty_account_tip">"Hesap bulunamadı"</string>
+ <string name="empty_account_tip">"Hesap bulunamadı"</string>
   <string name="empty_email_tip">"Boş E-Posta gönderilemez"</string>
   <string name="empty_spam">İstenmeyenleri temizle</string>
   <string name="empty_spam_dialog_title">İstenmeyenler temizlensin mi?</string>
@@ -422,7 +419,6 @@
   <string name="forward_attribution_no_headers">---------- Yönlendirilmiş Mesaj ----------</string>
   <string name="forward_download_failed_ticker">"Bir veya daha fazla ek yönlendirilemedi."</string>
   <string name="forward_download_failed_title">Ekler yönlendirilemedi</string>
-  <string name="forward_subject_label">İlet:</string>
   <string name="from_heading">"Kimden: "</string>
   <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
   <string name="general_preference_confirm_send_label">Göndermeden önce onayla</string>
@@ -485,14 +481,6 @@
   <string name="mailbox_name_display_starred">Yıldızlı</string>
   <string name="mailbox_name_display_trash">Çöp Kutusu</string>
   <string name="mailbox_name_display_unread">Okunmamış</string>
-  <string name="mailbox_name_server_all_unread">Okunmamış</string>
-  <string name="mailbox_name_server_drafts">Taslaklar</string>
-  <string name="mailbox_name_server_inbox">Gelen Kutusu</string>
-  <string name="mailbox_name_server_junk">Önemsiz</string>
-  <string name="mailbox_name_server_outbox">Giden Kutusu</string>
-  <string name="mailbox_name_server_sent">Giden</string>
-  <string name="mailbox_name_server_starred">Yıldızlı</string>
-  <string name="mailbox_name_server_trash">Çöp Kutusu</string>
   <string name="mailbox_settings_activity_title">Eşitleme Ayarları</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Eşitleme Ayarları (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Posta eşitlemesi</string>
@@ -667,7 +655,6 @@
   <string name="policy_screen_timeout">Ekranı kilitlemesi için cihazın boşta olması  gerekir</string>
   <string name="policy_text_truncation">Posta yazı boyutunu kısıtla</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">liste</string>
   <string name="preference_eas_tips">Posta sunucusu ayarındaki Etkinleştir\'e dokun.</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">POP3\'te, ekler otomatik olarak e-posta ile indirilebilir olacak. Bu mobil veri kullanımını artırabilir.</string>
@@ -734,8 +721,6 @@
   <string name="quote_divider_qq_en">------------------ Orjinal ------------------</string>
   <string name="quote_divider_qq_zh">------------------ 原始邮件 ------------------</string>
   <string name="quoted_text">Alıntılanan metini ekleyin</string>
-  <string name="quoted_text_background_color_string">@android:color/white</string>
-  <string name="quoted_text_font_color_string">@color/gray_text_color</string>
   <string name="quoted_text_label">Alıntı metni</string>
   <string name="re_download_message_button">Tekrar indirmek için dokunun</string>
   <string name="re_download_message_info">"Posta indirilemedi"</string>
@@ -756,12 +741,7 @@
   <string name="reply_add_bodycontent">Hızlı cevap metni mesaj içeriğine eklensin mi?</string>
   <string name="reply_all">Tümünü Cevapla</string>
   <string name="reply_attribution" formatted="false">%s, %s yazdı:</string>
-  <string name="reply_subject_label">Cevapla:</string>
   <string name="report_phishing">Kimlik Avı Raporu</string>
-  <string name="report_rendering_improvement">Güzel görünüyor</string>
-  <string name="report_rendering_improvement_desc">Bu mesaj güzel gözüküyor</string>
-  <string name="report_rendering_problem">Kötü görünüyor</string>
-  <string name="report_rendering_problem_desc">Bu mesaj kötü görünüyor</string>
   <string name="report_spam">İstenmeyen Raporu</string>
   <string name="request_entity_large">Bu dosya çok büyük</string>
   <string name="respond_inline">Satıriçi Cevap</string>
@@ -894,11 +874,9 @@
   <string name="wait_for_manual_sync_body">"Bu hesap otomatik eşitlemeye ayarlanmadı
 Mail eşitlenmeden önce "&lt;b&gt;Şimdi Eşitleye&lt;/b&gt; dokunun veya bu hesabın postaları otomatik eşitlemesi için &lt;b&gt;Eşitleme Ayarlarını Değiştir&lt;/b&gt; seçeneğini kullanın</string>
   <string name="wait_for_sync_title">Eşitlemek için bekleniyor</string>
-  <string name="wait_help_context">bekle</string>
   <string name="widget_all_mail">Tüm Posta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Diğer</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">Girdiğiniz şifre doğru değildir</string>
   <string name="yes">Evet</string>
   <string name="you_are_in_mobile_network">Mobil veri bağlantısı kullanarak günlük gönderilsin mi? Eğer planladığınız veri kullanımının üzerine çıkarsanız, öperatörünüz sizden ek ücret talep edebilir.</string>
