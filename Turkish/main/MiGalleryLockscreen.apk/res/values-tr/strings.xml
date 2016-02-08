@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">galeri</string>
+  <string name="at_least_one">En az bir kategori seçiniz</string>
+  <string name="cancel">Çık</string>
+  <string name="change_time">Aralığı Değiştir</string>
+  <string name="day">1 gün</string>
+  <string name="declaration">Ücretsiz abonelik için en iyi küresel medya zevki. En son haberler, film bültenleri ve magazinleri güncel tutun.</string>
+  <string name="declaration_lockscreen_title">Günlüklü Kilit Ekranını etkinleştir</string>
+  <string name="declaration_title">Hükümler ve Koşullar</string>
+  <string name="hour_1">1 saat</string>
+  <string name="hour_3">3 saat</string>
+  <string name="lockscreen_magazine_subscribe">%1$s takipçi</string>
+  <string name="lockscreen_magazine_summary">Her gün kilit ekranına sabit olarak verilen duvar kağıtlarını al.</string>
+  <string name="lockscreen_magazine_system_subscribe">%1$s duvar kağıtları</string>
+  <string name="lockscreen_magazine_system_title">Varsayılan</string>
+  <string name="lockscreen_magazine_title">Günlüklü Kilit Ekranı</string>
+  <string name="no_long_show">"Tekrar gösterme"</string>
+  <string name="ok_lockscreen">Tamam</string>
+  <string name="ok_network">Kabul ediyor ve Günlüklü Duvar Kağıdını etkinleştiriyorum</string>
+  <string name="resource_apply">Uygula</string>
+  <string name="resource_no_network_text">"Ağa bağlanamıyor."</string>
+  <string name="setting_head">Ayarlar</string>
+  <string name="summary">"Bizim &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Kullanım Koşulları ve &lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt; Gizlilik Politikasını &lt;/a&gt; kabul edip başlamanız için internet bağlantısına ihtiyaç var.​"</string>
+  <string name="theme_apply_failured">"Kilit ekranı duvar kağıdı uygulanamıyor"</string>
+  <string name="theme_apply_success">Kilit ekranı uygulandı</string>
+  <string name="theme_applying">Uygulanıyor...</string>
+  <string name="wlan_download">Sadece WLAN</string>
+</resources>
