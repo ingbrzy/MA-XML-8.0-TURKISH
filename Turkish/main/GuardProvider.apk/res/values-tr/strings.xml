@@ -10,17 +10,17 @@
   <string name="avl_dialog_cloudscan"/>
   <string name="avl_dialog_dbupdate"/>
   <string name="avl_dialog_header">"Bu özellik cihaz kimliğini şifleyerek AVL sunucularına gönderir (%s)."</string>
-  <string name="avl_dialog_policy">Gizlilik Politikasına gözat</string>
-  <string name="avl_dialog_title">"AVL Gizlilik Politikası"</string>
+  <string name="avl_dialog_policy">Gizlilik Kurallarına Gözat</string>
+  <string name="avl_dialog_title">"AVL'nin Gizlilik Kuralı"</string>
   <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
   <string name="default_sdcard_volume_path"/>
   <string name="hello_world">Merhaba Dünya!</string>
   <string name="menu_settings">Ayarlar</string>
   <string name="tencent_dialog_cloudscan">Online virüs tanımlarını kullanarak uygulama adlarını ve ayrıntıları tarayın.</string>
-  <string name="tencent_dialog_dbupdate">Virüs tanımlarını otomatik güncelle</string>
+  <string name="tencent_dialog_dbupdate">Virus tanımlamalarını otomatik olarak güncelle</string>
   <string name="tencent_dialog_header">"Bu özellik cihaz kimliğini şifleyerek Tencent sunucularına gönderir (%s)."</string>
-  <string name="tencent_dialog_policy">Gizlilik Politikasına gözat</string>
-  <string name="tencent_dialog_title">Tencent Gizlilik Politikası</string>
+  <string name="tencent_dialog_policy">Gizlilik Kuralına Gözat</string>
+  <string name="tencent_dialog_title">Tencent’in Gizlilik Kuralı</string>
   <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
-  <string name="title_activity_main">Aktiviteler</string>
+  <string name="title_activity_main">Esas Faaliyet</string>
 </resources>
