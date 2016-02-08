@@ -1,67 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<array name="item_shake_animation_scaler">
-	<item>0dp</item>
-	<item>-4dp</item>
-	<item>2dp</item>
-	<item>-1dp</item>
-	<item>0dp</item>
-</array>
-<array name="app_locating_animation_scaler">
-	<item>1.0</item>
-	<item>1.4</item>
-	<item>0.9</item>
-	<item>1.1</item>
-	<item>1.0</item>
-</array>
-<string-array name="transformation_entries">
-	<item>Sallantı</item>
-	<item>Kaydır</item>
-	<item>Soldur</item>
-	<item>Yuvarlan</item>
-	<item>Sayfa</item>
-	<item>Harmanla</item>
-	<item>3B Döndür</item>
-	<item>3B Küp</item>
-</string-array>
-<string-array name="transformation_values">
-	<item>0</item>
-	<item>1</item>
-	<item>2</item>
-	<item>3</item>
-	<item>5</item>
-	<item>7</item>
-	<item>8</item>
-	<item>4</item>
-</string-array>
-<string-array name="wallpaper_scroll_entries">
-	<item>Temaya göre ayarla</item>
-	<item>Merkez</item>
-	<item>Sol</item>
-	<item>Sağ</item>
-</string-array>
-<string-array name="cell_layout_size_entries">
-	<item>4x4</item>
-	<item>4x5</item>
-</string-array>
-<string-array name="cell_layout_size_values">
-	<item>4x4</item>
-	<item>4x5</item>
-</string-array>
-<string-array name="gadget_weather_theme_type_entries">
-	<item>Varsayılan</item>
-	<item>Klasik</item>
-</string-array>
-<string-array name="editing_mode_entries">
-	<item>Taşı</item>
-	<item>Widget</item>
-	<item>Duvarkağıdı</item>
-	<item>Efekt</item>
-</string-array>
-<string-array name="editing_mode_values">
-	<item>0</item>
-	<item>1</item>
-	<item>2</item>
-	<item>3</item>
-	</string-array>
+    <string-array name="widget_sizes">
+        <item>home_edit_box_area_1_1</item>
+        <item>home_edit_box_area_1_2</item>
+        <item>home_edit_box_area_1_3</item>
+        <item>home_edit_box_area_1_4</item>
+        <item>home_edit_box_area_2_1</item>
+        <item>home_edit_box_area_2_2</item>
+        <item>home_edit_box_area_2_3</item>
+        <item>home_edit_box_area_2_4</item>
+        <item>home_edit_box_area_3_1</item>
+        <item>home_edit_box_area_3_2</item>
+        <item>home_edit_box_area_3_3</item>
+        <item>home_edit_box_area_3_4</item>
+        <item>home_edit_box_area_4_1</item>
+        <item>home_edit_box_area_4_2</item>
+        <item>home_edit_box_area_4_3</item>
+        <item>home_edit_box_area_4_4</item>
+    </string-array>
+    <array name="item_shake_animation_scaler">
+        <item>0.0dip</item>
+        <item>-4.0dip</item>
+        <item>2.0dip</item>
+        <item>-1.0dip</item>
+        <item>0.0dip</item>
+    </array>
+    <array name="app_locating_animation_scaler">
+        <item>1.0</item>
+        <item>1.4</item>
+        <item>0.9</item>
+        <item>1.1</item>
+        <item>1.0</item>
+    </array>
+    <string-array name="transformation_entries">
+        <item>Geçiştir</item>
+        <item>Kaydır</item>
+        <item>Bindirmeli</item>
+        <item>Karıştır</item>
+        <item>Sayfa</item>
+        <item>Basamaklı</item>
+        <item>Döndür</item>
+        <item>Küp</item>
+    </string-array>
+    <string-array name="transformation_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>8</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Varsayılan Tema</item>
+        <item>Merkeze</item>
+        <item>Sola</item>
+        <item>Sağa</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_values">
+        <item>Temayla</item>
+        <item>merkez</item>
+        <item>sol</item>
+        <item>sağ</item>
+    </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Varsayılan</item>
+        <item>Klasik</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Açık</item>
+        <item>Bulutlu</item>
+        <item>Puslu</item>
+        <item>Sisli</item>
+        <item>Şiddetli Yağmur Fırtınası</item>
+        <item>Yağmur Fırtınası</item>
+        <item>Çok Ağır Yağış</item>
+        <item>Sağanak</item>
+        <item>Sağanak Yağmur</item>
+        <item>Ağır Yağmur</item>
+        <item>Yağmur</item>
+        <item>Çiseleyen Yağmur</item>
+        <item>Sulu Kar</item>
+        <item>Kar Fırtınası</item>
+        <item>Yer Yer Karlı</item>
+        <item>Yoğun Kar Yağışı</item>
+        <item>Kar Yağışı</item>
+        <item>Hafif Kar Yağışı</item>
+        <item>Güçlü Kum Fırtınası</item>
+        <item>Kum Fırtınası</item>
+        <item>Hafif Kum Fırtınası</item>
+        <item>Kum Fırtınası</item>
+        <item>Dolu</item>
+        <item>Kayan Toz</item>
+        <item>Pus</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Uygulamaları Taşı</item>
+        <item>Widgets</item>
+        <item>Duvar Kağıdı</item>
+        <item>Efekler</item>
+    </string-array>
+    <string-array name="editing_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
 </resources>
