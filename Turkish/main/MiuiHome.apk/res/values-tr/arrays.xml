@@ -58,13 +58,7 @@
         <item>Sola</item>
         <item>Sağa</item>
     </string-array>
-    <string-array name="wallpaper_scroll_values">
-        <item>Temayla</item>
-        <item>merkez</item>
-        <item>sol</item>
-        <item>sağ</item>
-    </string-array>
-    <string-array name="cell_layout_size_entries">
+   <string-array name="cell_layout_size_entries">
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
