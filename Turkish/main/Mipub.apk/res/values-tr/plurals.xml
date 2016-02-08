@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Seçilmiş %1$s görüşmeler silinsin mi?</item>
+        <item quantity="one">Bu görüşme silinsin mi?</item>
+    </plurals>
+</resources>
