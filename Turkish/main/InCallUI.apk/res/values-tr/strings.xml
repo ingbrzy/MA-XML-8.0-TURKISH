@@ -95,7 +95,7 @@
   <string name="emergency_call_dialog_number_for_display">Acil Numara</string>
   <string name="fraud_call_answer">Cevapla</string>
   <string name="fraud_call_decline">Reddet</string>
-  <string name="fraud_call_waring">Lütfen dikkatli olun: Kişisel bilgileri içeren mesajlar göndermeden önce gönderdiğiniz kişinin kimliğini: telefon veya video ile tekrardan doğrulayın.</string>
+  <string name="fraud_call_waring">Lütfen dikkatli olun: Şahsi bilgileri içeren mesajlar göndermeden önce gönderdiğiniz kişinin kimliğini: telefon veya video ile tekrardan doğrulayın.</string>
   <string name="inCallLabel">InCallUI</string>
   <string name="incall_call_type_label_sip">İnternetten Ara</string>
   <string name="incall_error_supp_service_conference">Konferans araması yapılamıyor.</string>
@@ -147,7 +147,7 @@
   <string name="ok">Tamam</string>
   <string name="online_check_provider_info">%s tarafından tanımlandı</string>
   <string name="online_check_provider_name_by_cmb">Çin Tüccarlar Bankası</string>
-  <string name="online_check_warning_info_by_cmb">"Lütfen dikkatli olun: Şahsi finans bilgileri içeren mesajlar göndermeden önce gönderdiğiniz kişinin kimliğini telefon veya video ile tekrardan doğrulayın."</string>
+  <string name="online_check_warning_info_by_cmb">"Lütfen dikkatli olun: Şahsi mâli bilgileri içeren mesajlar göndermeden önce gönderdiğiniz kişinin kimliğini telefon veya video ile tekrardan doğrulayın."</string>
   <string name="online_check_warning_type_by_cmb">İstenmeyen</string>
   <string name="onscreenEndCallText">Son</string>
   <string name="onscreen_add_call_text">Çağrı Ekle</string>
