@@ -184,7 +184,6 @@ Pil tasarrufu, cihaz şarj olurken otomatik olarak kapatılır."</string>
   <string name="common_name_prefixes"/>
   <string name="common_name_suffixes"/>
   <string name="condition_provider_service_binding_label">Durum sağlayıcı</string>
-  <string name="config_activityRecognitionHardwarePackageName">@null</string>
   <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
   <string name="config_chooseAccountActivity">android/android.accounts.ChooseAccountActivity</string>
   <string name="config_chooseTypeAndAccountActivity">android/android.accounts.ChooseTypeAndAccountActivity</string>
@@ -199,8 +198,6 @@ Pil tasarrufu, cihaz şarj olurken otomatik olarak kapatılır."</string>
   <string name="config_ethernet_iface_regex">(eth\\d)|(usbnet0)</string>
   <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
   <string name="config_fusedLocationProviderPackageName">com.android.location.fused</string>
-  <string name="config_geocoderProviderPackageName">@null</string>
-  <string name="config_geofenceProviderPackageName">@null</string>
   <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
   <string name="config_isoImagePath"/>
   <string name="config_mms_user_agent">Android-Mms/0.1</string>
@@ -226,7 +223,7 @@ Pil tasarrufu, cihaz şarj olurken otomatik olarak kapatılır."</string>
   <string name="content_description_sliding_handle">Kaydırma Kolu Dokunun &amp; basılı tutun.</string>
   <string name="continue_to_enable_accessibility">Erişilebilirliği sağlamak için iki parmağınızı basılı tutarak tutun.</string>
   <string name="copy">Kopyala</string>
-  <string name="copyUrl">URL'yi kopyala</string>
+  <string name="copyUrl">URL\'yi kopyala</string>
   <string name="create_contact_using">"%s
  kullanarak kişi oluştur"</string>
   <string name="cut">Kes</string>
@@ -259,10 +256,7 @@ Pil tasarrufu, cihaz şarj olurken otomatik olarak kapatılır."</string>
   <string name="day_of_week_label_typeface">sans-serif</string>
   <string name="day_picker_description">Günler için ay kılavuzu</string>
   <string name="days">gün</string>
-  <string name="db_default_journal_mode">İSRAR ET</string>
-  <string name="db_default_sync_mode">TAM</string>
-  <string name="db_wal_sync_mode">TAM</string>
-  <string name="decline">Kabul Etme</string>
+ <string name="decline">Kabul Etme</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Sesli Mesaj</string>
   <string name="default_audio_route_category_name">Sistem</string>
@@ -271,7 +265,6 @@ Pil tasarrufu, cihaz şarj olurken otomatik olarak kapatılır."</string>
   <string name="default_audio_route_name_headphones">Kulaklıklar</string>
   <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="default_sms_application">com.android.mms</string>
-  <string name="default_wallpaper_component">@null</string>
   <string name="delete">Sil</string>
   <string name="deleteText">Sil</string>
   <string name="deleted_key">%1$s silindi</string>
@@ -1586,7 +1579,6 @@ Uzun süre yüksek sesle dinlemek kulaklarınıza zarar verebilir."</string>
   <string name="sync_too_many_deletes">Silme sınırı aşıldı</string>
   <string name="sync_too_many_deletes_desc">%3$s hesabında %2$s için %1$d adet silinmiş öğe var. Ne yapmak istiyorsunuz?</string>
   <string name="sync_undo_deletes">Silinenleri geri al</string>
-  <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Ayarlamak için dokunun.</string>
   <string name="tethered_notification_title">Bağlanma veya Hotspot etkin</string>
