@@ -12,5 +12,5 @@ MIUI Translation: cmadencan@gmail.com & raocakmak@gmail.com
 
 
 Translating and Fixing File: 
-FileExplorer.apk, FindDevice.apk
+MiuiSystemUI.apk, MiuiVideo.apk, MiuiVoip.apk
 
