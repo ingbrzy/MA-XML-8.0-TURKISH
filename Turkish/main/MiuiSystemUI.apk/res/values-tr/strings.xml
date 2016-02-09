@@ -110,7 +110,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="ext_media_safe_unmount_notification_title">USB depolama cihazı güvenle çıkartılabilir</string>
   <string name="ext_media_unmountable_notification_message">USB depolama zarar görmüş. Yeniden format atmayı deneyebilirsiniz.</string>
   <string name="ext_media_unmountable_notification_title">USB Depolama zarar görmüş</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">GPS ile konumu belirle</string>
   <string name="gps_notification_searching_text">GPS uyduları aranıyor.</string>
   <string name="invalid_charger">"USB şarj desteklenmiyor.
