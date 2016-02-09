@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d yeni bildirimler</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+</resources>
