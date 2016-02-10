@@ -12,5 +12,5 @@ MIUI Translation: cmadencan@gmail.com & raocakmak@gmail.com
 
 
 Translating and Fixing File: 
-MiuiSystemUI.apk, MiuiVideo.apk, MiuiVoip.apk
+MtkBt.apk, Music.apk, MusicFX.apk, NetworkAssistant2.apk, Notes.apk...
 
