@@ -1,97 +1,157 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string-array name="default_smiley_texts">
-    <item>:-)</item>
-    <item>:-(</item>
-    <item>;-)</item>
-    <item>:-P</item>
-    <item>=-O</item>
-    <item>:-*</item>
-    <item>:O</item>
-    <item>B-)</item>
-    <item>:-$</item>
-    <item>:-!</item>
-    <item>:-[</item>
-    <item>O:-)</item>
-    <item>:-\\</item>
-    <item>:\'(</item>
-    <item>:-X</item>
-    <item>:-D</item>
-    <item>o_O</item>
-    <item>&lt;3</item>
-    <item>x-(</item>
-    <item>:-/</item>
-    <item>:-I</item>
-</string-array>
-<string-array name="default_smiley_names">
-    <item>Mutlu</item>
-    <item>Üzgün</item>
-    <item>Göz kırpıyor</item>
-    <item>Dil çıkartıyor</item>
-    <item>Şaşırmış</item>
-    <item>Öpüyor</item>
-    <item>Bağırıyor</item>
-    <item>Havalı</item>
-    <item>Para delisi</item>
-    <item>Ağzı sıkı</item>
-    <item>Mahçup</item>
-    <item>Melek</item>
-    <item>Kararsız</item>
-    <item>Ağlıyor</item>
-    <item>Dudaklar mühürlendi</item>
-    <item>Gülüyor</item>
-    <item>Şaşkın</item>
-    <item>Kalp</item>
-    <item>Deli</item>
-    <item>Sırıtma</item>
-    <item>Poker surat</item>
-</string-array>
-<string-array name="prefEntries_ringtone_repeat">
-    <item>1 kez</item>
-    <item>2 kez</item>
-    <item>3 kez</item>
-    <item>5 kez</item>
-    <item>10 kez</item>
-</string-array>
-<string-array name="contact_entries">
-    <item>İsim</item>
-    <item>Takma İsim</item>
-    <item>Telefon</item>
-    <item>E-mail</item>
-    <item>Organizasyon</item>
-    <item>IM</item>
-    <item>SIP Phone</item>
-    <item>Doğum günü</item>
-    <item>Websitesi</item>
-    <item>Adres</item>
-    <item>Not</item>
-</string-array>
-<string-array name="entries_date_type">
-    <item>Alınan</item>
-    <item>Gönderilen</item>
-</string-array>
-<string-array name="entries_date_type_rightvalue">
-    <item>Alınan</item>
-    <item>Gönderilen</item>
-</string-array>
-<string-array name="resent_via_entries_sms">
-    <item>SMS</item>
-    <item>Mi Mesaj</item>
-</string-array>
-<string-array name="resent_via_entries_mms">
-    <item>SMS</item>
-    <item>Mi Mesaj</item>
-</string-array>
-<string-array name="entries_sms_validity_period">
-	<item>Ayarlı değil</item>
-	<item>1 saat</item>
-	<item>6 saat</item>
-	<item>12 saat</item>
-	<item>1 gün</item>
-	<item>En fazla süre</item>
-</string-array>
-<string-array name="entries_mms_validity_period">
-	<item>En fazla süre</item>
-	<item>2 gün</item>
-</string-array>
-</resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Mutlu</item>
+        <item>Üzgün</item>
+        <item>Göz Kırp</item>
+        <item>Dil Çıkart</item>
+        <item>Şaşırmış</item>
+        <item>Öpüyor</item>
+        <item>Bağırıyor</item>
+        <item>Havalı</item>
+        <item>Para Delisi</item>
+        <item>Ketum</item>
+        <item>Mahçup</item>
+        <item>Melek</item>
+        <item>Kararsız</item>
+        <item>Ağlıyor</item>
+        <item>Dudaklar Mühürlü</item>
+        <item>Gülüyor</item>
+        <item>Şaşkın</item>
+        <item>Kalp</item>
+        <item>Deli</item>
+        <item>Sırıt</item>
+        <item>İfadesiz Surat</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 kez</item>
+        <item>2 kez</item>
+        <item>3 kez</item>
+        <item>5 kez</item>
+        <item>10 kez</item>
+    </string-array>
+    <string-array name="prefValues_ringtone_repeat">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Adı</item>
+        <item>Rumuzu</item>
+        <item>Telefon</item>
+        <item>E-Posta</item>
+        <item>Kuruluş</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Doğum Günü</item>
+        <item>Websitesi</item>
+        <item>Adres</item>
+        <item>Not</item>
+        <item>İlişki</item>
+    </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
+        <item>vnd.android.cursor.item/relation</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Alınan</item>
+        <item>Gönderilen</item>
+    </string-array>
+    <string-array name="entries_date_type_rightvalue">
+        <item>Alınan</item>
+        <item>Gönderilen</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mi Mesaji</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mi Mesaji</item>
+    </string-array>
+    <string-array name="entryvalues_date_type">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Ayarsız</item>
+        <item>1 saat</item>
+        <item>6 saat</item>
+        <item>12 saat</item>
+        <item>1 gün</item>
+        <item>Azami</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period_value">
+        <item>-1</item>
+        <item>60</item>
+        <item>360</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>635040</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Azami</item>
+        <item>2 gün</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period_value">
+        <item>0</item>
+        <item>172800</item>
+    </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Tüm mesajları eşitle</item>
+        <item>Seçilen SIM kartlarda ki mesajları eşitle</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 saniye</item>
+        <item>2 saniye</item>
+        <item>3 saniye</item>
+        <item>4 saniye</item>
+        <item>5 saniye</item>
+        <item>6 saniye</item>
+        <item>7 saniye</item>
+        <item>8 saniye</item>
+        <item>9 saniye</item>
+        <item>10 saniye</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Daima</item>
+        <item>Sadece sessizde iken</item>
+        <item>Asla</item>
+    </string-array>
+    </resources>
