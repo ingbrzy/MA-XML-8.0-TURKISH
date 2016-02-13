@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="group_name_translate">
-        <item>Varsayılan mod</item>
-        <item>Gizli mod</item>
-        <item>Okuma modu</item>
-        <item>Medya modu</item>
+        <item>Varsayılan</item>
+        <item>Gizli Mod</item>
+        <item>Okuyucu Modu</item>
+        <item>Ortam Modu</item>
     </string-array>
     <string-array name="event_name_translate">
-        <item>Uygulama önplanda</item>
-        <item>Ekranı aç</item>
-        <item>Ekranı kapat</item>
-        <item>10 dakika sonra ekranı kapat</item>
-        <item>Tam ekrana gir</item>
-        <item>Tam ekrandan çık</item>
-        <item>Uygulama arkaplanda</item>
-        <item>Telefon şarj oluyor</item>
-        <item>Telefon şarj olmuyor</item>
-        <item>Telefon bekleme modunda</item>
+        <item>Önplanda çalışan uygulama</item>
+        <item>Ekran Açık</item>
+        <item>Ekran Kapalı</item>
+        <item>10 dakika boyunca ekran kapalı</item>
+        <item>Tam Ekran</item>
+        <item>Tam Ekrandan çık</item>
+        <item>Arkaplanda çalışan uygulama</item>
+        <item>Telefon şarj ediliyor</item>
+        <item>"Telefon şarj edilmiyor"</item>
+        <item>Telefon boşta</item>
     </string-array>
     <string-array name="action_name_translate">
-        <item>En yüksek ekran parlaklığı</item>
-        <item>En yüksek CPU Frekansı</item>
-        <item>Ekran modu</item>
-        <item>CPU kullanımı</item>
-        <item>Veri bağlantısı</item>
+        <item>Azami ekran parlaklığı</item>
+        <item>Azami CPU Frekansı</item>
+        <item>Ekran Modu</item>
+        <item>CPU Kullanımı</item>
+        <item>Veri Kullanımı</item>
         <item>Konum</item>
-        <item>İlk mesaj bildirimi</item>
-        <item>Kilit bildirimi</item>
+        <item>İlk Bildirim</item>
+        <item>Kilit ekranı bildirimleri</item>
+        <item>Arkaplan veri bağlantıları kısıtlı</item>
     </string-array>
     <string-array name="action_param_translate">
-        <item>İşlem yapma</item>
-        <item>Standard</item>
+        <item>Yok</item>
+        <item>Varsayılan</item>
         <item>Resim</item>
         <item>Film</item>
         <item>Pil tasarrufu</item>
@@ -38,10 +39,48 @@
         <item>Performans</item>
         <item>Aç</item>
         <item>Kapat</item>
+        <item>Hemen</item>
+        <item>10 dakika sonra</item>
+        <item>30 dakika sonra</item>
+        <item>Ne zaman ekran kapalı</item>
     </string-array>
     <string-array name="app_groups">
         <item>seçildi</item>
         <item>seçilmedi</item>
         <item>diğeri seçildi</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>özelleştirildi</item>
+        <item>tavsiye edildi</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>kullanılıyor</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>Uyandırma Kilidi</item>
+        <item>WIFI tara</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Uyan</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>Uyku Kilidi</item>
+        <item>WIFI tara</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Uyan</item>
+    </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item>şu anda çok fazla</item>
+        <item>bu gün çok</item>
+    </string-array>
+    <array name="read_enable" />
+    <string-array name="read_disable">
+        <item>com.chaozh.iReaderFree</item>
     </string-array>
 </resources>
