@@ -117,7 +117,6 @@
   <string name="pref_camera_coloreffect_entry_yesteryear">Geçen Yıl</string>
   <string name="pref_camera_coloreffect_title">Filterler</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
-  <string name="pref_camera_delay_capture_default">5</string>
   <string name="pref_camera_delay_capture_entry_10s">10s</string>
   <string name="pref_camera_delay_capture_entry_3s">3s</string>
   <string name="pref_camera_delay_capture_entry_5s">5s</string>
@@ -190,7 +189,6 @@
   <string name="pref_camera_multilevel_entry_middle">Orta (Varsayılan)</string>
   <string name="pref_camera_multilevel_entry_normal">Normal</string>
   <string name="pref_camera_panoramamode_title">Geniş Görünüm</string>
-  <string name="pref_camera_peak_default">off</string>
   <string name="pref_camera_peak_entry_off">Kapalı</string>
   <string name="pref_camera_peak_entry_on">Açık</string>
   <string name="pref_camera_peak_title">Odak Yoğunluğu</string>
@@ -288,7 +286,6 @@
   <string name="pref_face_beauty_low">i:1</string>
   <string name="pref_face_beauty_medium">i:2</string>
   <string name="pref_face_beauty_title">Güzellik</string>
-  <string name="pref_front_camera_delay_capture_default">-1</string>
   <string name="pref_front_mirror_entry_auto">Yüzün Tespit Edilmesi</string>
   <string name="pref_front_mirror_entry_off">Kapalı</string>
   <string name="pref_front_mirror_entry_on">Açık</string>
@@ -304,7 +301,6 @@
   <string name="pref_video_focusmode_entry_auto">Dokun</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Odak Modu</string>
-  <string name="pref_video_quality_default_cmcc_test">4</string>
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_quality_entry_4kuhd">4K</string>
