@@ -12,5 +12,5 @@ MIUI Translation: cmadencan@gmail.com & raocakmak@gmail.com
 
 
 Translating and Fixing File: 
-PowerKeeper.apk, PrintSpooler.apk, Provision.apk, ProxyHandler.apk, QuickSearchBox.apk...
+Settings.apk, Shell.apk, SoundRecorder.apk, Stk1.apk, Telecom.apk, TelephonyProvider.apk...
 
