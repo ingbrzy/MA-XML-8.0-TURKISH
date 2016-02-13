@@ -80,7 +80,6 @@
         <item>bu gün çok</item>
     </string-array>
     <array name="read_enable" />
-    <string-array name="read_disable">
-        <item>com.chaozh.iReaderFree</item>
+    <item>com.chaozh.iReaderFree</item>
     </string-array>
 </resources>
