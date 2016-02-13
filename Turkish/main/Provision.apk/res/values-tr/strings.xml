@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="agree">TAMAM</string>
+  <string name="agree">Kabul</string>
   <string name="congratulation_label"/>
+  <string name="desc_extra_fingerprint"/>
+  <string name="desc_fingerprint">Cihaz kilidini açmak için parmakizini kullanın, Mi Ödeme işlemlerinden veya uygulama ve hizmetlere oturum açıp onaylayın.</string>
   <string name="disagree">İptal</string>
   <string name="ime_privacy_policy">Seçilen klavye için Gizlilik Politikası</string>
   <string name="ime_privacy_policy_no_network">Ağ bağlantısı yok. %s klavyesinin Gizlilik Politikası görüntüle</string>
@@ -9,44 +11,47 @@
   <string name="input_method_setting">Varsayılan klavyeyi seçin</string>
   <string name="install_preinstall_app">Uygulamalar yükleniyor...</string>
   <string name="locale_picker_title">Konumunuzu seçin</string>
-  <string name="miui_privacy_policy_no_network">Ağ bağlantısı yok. Gizlilik Politikasını görüntülemek için: %s</string>
-  <string name="miui_terms_no_network">Ağ bağlantısı yok. Hizmet Şartlarını görüntülemek için: %s</string>
+  <string name="miui_privacy_policy_no_network">"Ağ bağlantısı yok. Gizlilik Politikasını görüntülemek için: %s"</string>
+  <string name="miui_terms_no_network">"Ağ bağlantısı yok. Hizmet Şartlarını görüntülemek için: %s"</string>
   <string name="multisim_settings_category">SIM kart ayarları</string>
   <string name="multisim_settings_title">2 SIM kart algılandı</string>
-  <string name="network_access_warning">Ağ bağlantısı gerekiyor!</string>
-  <string name="next">İleri</string>
-  <string name="other_settings">Ek ayarlar</string>
+  <string name="network_access_warning">My hizmetlerini etkinleştirmek ve cihazı bulmak için internete bağlanmak gerekir.</string>
+  <string name="next">Sonraki</string>
+  <string name="next_fingerprint">Sonraki</string>
+  <string name="other_settings">Ek Ayarlar</string>
   <string name="other_settings_location">Konum</string>
   <string name="other_settings_location_summary">Uygulamaların yerinizi belirlemesine izin verir</string>
-  <string name="other_settings_user_experience">Kullanıcı görüşleri</string>
-  <string name="other_settings_user_experience_summary">"Anonim kullanıcı verileri göndererek MIUI gelişimine yardımcı olun "</string>
-  <string name="other_settings_user_experience_summary1">"(Gizlilik Politikası)"</string>
-  <string name="page_layout_label">Yazı boyutu ve ana ekran düzenini, bildiirm alanını, tuş takımı ve dafa fazlasını ayarlayın</string>
+  <string name="other_settings_user_experience">Kullanıcı Deneyim Programı</string>
+  <string name="other_settings_user_experience_summary">Anonim kullanım verileri göndererek MIUI geliştirilmesine yardımcı olun (%s)</string>
+  <string name="other_settings_user_experience_summary1">Gizlilik Politikasına bak</string>
+  <string name="page_layout_label">Yazı boyutu ve Ana Ekran düzenini, bildirm alanını, tuş takımı ve dafa fazlasını ayarlayın.</string>
   <string name="page_layout_title">Sistem düzeni</string>
   <string name="pref_title_data_slot">Tercih edilen veri SIM kartı</string>
   <string name="pref_title_voice_slot">Tercih edilen ses SIM kartı</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
-  <string name="provision_finish">TAMAM</string>
-  <string name="provision_finish_restart">Tekrar başat</string>
+  <string name="provision_finish">Tamam</string>
+  <string name="provision_finish_restart">Y. Başlat</string>
   <string name="provision_inputmethod_policy_description">"
- Seçilen klavyeleri görüntüle  "</string>
+Seçilen klavyeler Gizlilik Politikası\'nı görüntüleyin."</string>
   <string name="provision_inputmethod_policy_description1">Gizlilik Politikası</string>
   <string name="setting_locale">Konum ayarlanıyor...</string>
-  <string name="shut_down">Telefonu Kapat</string>
+  <string name="shut_down">Kapatın</string>
   <string name="sim_card_detecting">SIM kart kontrol ediliyor...</string>
   <string name="sim_card_detecting_title">SIM kartı kontrol et</string>
-  <string name="sim_card_detection">Lütfen bir SIM kart yerleştirin</string>
-  <string name="sim_card_detection_info">Lütfen bir SIM kart yerleştirin ve gelen talimatları izleyin.</string>
+  <string name="sim_card_detection">SIM kartı takın</string>
+  <string name="sim_card_detection_info">SIM kartı takmak için, cihazınızla birlikte verilen talimatları okuyun.</string>
   <string name="sim_dectection_next">Devam</string>
-  <string name="sim_redetection">SIM kartı tekrar kontrol edin</string>
-  <string name="skip_underline">Atla</string>
+  <string name="sim_redetection">Tekrar kontrol et</string>
+  <string name="skip_underline">&lt;u&gt;Bu adımı atla&lt;/u&gt;</string>
   <string name="summary_not_set">Ayarlı değil</string>
   <string name="summary_sim_card">Kart %1$d</string>
-  <string name="summary_sim_card_with_operator">Kart %1$d, %2$s</string>
-  <string name="terms_of_use">Hizmet Şartları</string>
-  <string name="terms_of_use_label">"MIUI\'ı kullanmadan önce Kullanıcı Sözleşmesi ve Gizlilik Politikasını kabul etmeniz gerekir.
-  "</string>
-  <string name="title_congratulation">"Herşey tamam !"</string>
-  <string name="user_agreement">Kullanıcı Sözleşmesi</string>
+  <string name="summary_sim_card_with_operator">Kart %1$d: %2$s</string>
+  <string name="terms_of_use">Hükümler ve Koşullar</string>
+  <string name="terms_of_use_label">"Gizliliğiniz bizim için çok önemlidir. Lütfen Hizmet Şartları ve Gizlilik Politikasını okuyarak topladığımız bilgileri, nasıl kullandığımızı anlayın.
+
+MIUI kullanmadan önce bizim Hizmet Şartlari ve Gizlilik Politikası\'nı kabul etmek zorundasınız."</string>
+  <string name="title_congratulation">"Şimdi herşeye hazırsın!"</string>
+  <string name="title_fingerprint">Parmakizinizi ekleyin</string>
+  <string name="user_agreement">Hizmet Şartları</string>
   <string name="welcome">Hoşgeldiniz</string>
 </resources>
