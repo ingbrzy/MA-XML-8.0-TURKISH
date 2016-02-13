@@ -2,7 +2,7 @@
 <resources>
   <string name="Connect">Bağlan</string>
   <string name="Disconnect">Bağlantıyı Kes</string>
-  <string name="Register">kayıt</string>
+  <string name="Register"Kayıt</string>
   <string name="Start">Başlat</string>
   <string name="StartScan">Taramaya Başla</string>
   <string name="Stop">Dur</string>
@@ -13,10 +13,7 @@
   <string name="TestP2pLs">P2pLegacyStation Testi</string>
   <string name="TestReceiver">Alma Testi</string>
   <string name="TestSender">Gönderme Testi</string>
-  <string name="Unregister">kayıtsız</string>
-  <string name="action_bonjour">Bonjour</string>
-  <string name="action_p2pgo">P2pGroupOwner</string>
-  <string name="action_p2pls">P2pLegacyStation</string>
+  <string name="Unregister">Kayıtsız</string>
   <string name="action_settings">Ayarlar</string>
   <string name="app_name">Mi Drop</string>
   <string name="cancel_confirm">İptal</string>
@@ -25,8 +22,7 @@
   <string name="cancel_receive_stop">Almaya devam et</string>
   <string name="cancel_stop">Göndermeye devam et</string>
   <string name="file_not_support">"Bu dosya türü desteklenmiyor"</string>
-  <string name="hello_world">Merhaba Dünya!</string>
-  <string name="help">yardım</string>
+ <string name="help">Yardım</string>
   <string name="i_know">Anladım</string>
   <string name="intro_midrop">Mi Drop</string>
   <string name="intro_page1_text1">Yakındaki cihazlarla dosya paylaşın</string>
@@ -91,13 +87,6 @@
   <string name="sender_transfer_interrupt">"Aktarım kesildi, transfer sırasında WLAN\'ı kapatmayın"</string>
   <string name="sender_wait">Bekliyor</string>
   <string name="sender_wait_queue">Bekliyor</string>
-  <string name="title_activity_bonjour">BonjourActivity</string>
-  <string name="title_activity_intro">IntroActivity</string>
-  <string name="title_activity_main">MainActivity</string>
-  <string name="title_activity_p2p_group_client">P2pGroupClientActivity</string>
-  <string name="title_activity_p2p_group_owner">P2pGroupOwnerActivity</string>
-  <string name="title_activity_p2p_legacy_station">P2pLegacyStationActivity</string>
-  <string name="title_activity_reception">ReceptionActivity</string>
   <string name="transfer_interrupt">Aktarım kesildi</string>
   <string name="transmission_click_send">gönder</string>
   <string name="transmission_connect">"Alıcı bulamadı​"</string>
