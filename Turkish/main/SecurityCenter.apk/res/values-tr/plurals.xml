@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<plurals name="power_center_battery_day">
-	<item quantity="other">"%d gün "</item>
-	<item quantity="one">"%d gün "</item>
-</plurals>
-<plurals name="power_center_battery_hour">
-	<item quantity="other">"%d saat "</item>
-	<item quantity="one">"%d saat "</item>
-</plurals>
-<plurals name="power_center_battery_minute">
-	<item quantity="other">"%d dakika "</item>
-	<item quantity="one">"%d dakika "</item>
-</plurals>
-<plurals name="hints_auto_start_enable_title">
-	<item quantity="other">%d uygulamanın otomatik başlama izni var</item>
-	<item quantity="one">%d uygulamanın otomatik başlama izni var</item>
-</plurals>
-<plurals name="hints_auto_start_disable_title">
-	<item quantity="other">"%d uygulamanın otomatik başlama izni yok"</item>
-	<item quantity="one">"%d uygulamanın otomatik başlama izni yok"</item>
-</plurals>
-<plurals name="hints_apps_perm_count">
-	<item quantity="other">%d izin</item>
-	<item quantity="one">%d izin</item>
-</plurals>
-<plurals name="hints_permission_apps_count">
-	<item quantity="other">%d uygulama</item>
-	<item quantity="one">%d uygulama</item>
-</plurals>
-<plurals name="hints_get_root_enable_title">
-	<item quantity="other">%d uygulamanın root erişim izni var</item>
-	<item quantity="one">%d uygulamanın root erişim izni var</item>
-</plurals>
-<plurals name="hints_get_root_disable_title">
-	<item quantity="other">"%d uygulamanın root erişim izni yok"</item>
-	<item quantity="one">"%d uygulamanın root erişim izni yok"</item>
-</plurals>
-<plurals name="summary_app_update">
-	<item quantity="other">%d uygulama için güncelleme var.</item>
-	<item quantity="one">%d uygulama için güncelleme var.</item>
-</plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d gün "</item>
+        <item quantity="one">"%d gün "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d saat "</item>
+        <item quantity="one">"%d saat "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d dakika "</item>
+        <item quantity="one">"%d dakika "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%duygulama otomatik başlar</item>
+        <item quantity="one">%d uygulama otomatik başlar</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">"%d otomatik başlama izni yok"</item>
+        <item quantity="one">"%d otomatik başlama izni yok"</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d izni</item>
+        <item quantity="one">%d izni</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d uygulama</item>
+        <item quantity="one">%d uygulama</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d uygulamanın root erişim izni var</item>
+        <item quantity="one">%d uygulamanın root erişim izni var</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">"%duygulamanın root erişim izni yok"</item>
+        <item quantity="one">"%d uygulamanın root erişim izni yok"</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d uygulama için güncelleme var.</item>
+        <item quantity="one">%d uygulama için güncelleme var.</item>
+    </plurals>
 </resources>
