@@ -1,55 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<plurals name="show_dev_countdown">
-	<item quantity="other">Geliştirici modunu elde etmek için adım sayısı: %1$d.</item>
-	<item quantity="one">Geliştirici modunu elde etmek için adım sayısı: %1$d.</item>
-</plurals>
-<plurals name="lockpassword_password_requires_letters">
-	<item quantity="other">Parolada en az %d adet harf kullanılması gerekir</item>
-	<item quantity="one">Parola en az bir harf içermelidir</item>
-</plurals>
-<plurals name="lockpassword_password_requires_lowercase">
-	<item quantity="other">Parola %d adet küçük harf içermelidir</item>
-	<item quantity="one">Parola en az bir adet küçük harf içermelidir</item>
-</plurals>
-<plurals name="lockpassword_password_requires_uppercase">
-	<item quantity="other">Parola en az %d adet büyük harf içermelidir</item>
-	<item quantity="one">Parola en az bir büyük harf içermelidir</item>
-</plurals>
-<plurals name="lockpassword_password_requires_numeric">
-	<item quantity="other">Parola en az %d basamaklı olmalıdır</item>
-	<item quantity="one">Parola en az bir basamaklı olmalıdır</item>
-</plurals>
-<plurals name="lockpassword_password_requires_symbols">
-	<item quantity="other">Parola en az %d adet özel karakter içermelidir</item>
-	<item quantity="one">Parola en az bir özel karakter içermelidir</item>
-</plurals>
-<plurals name="lockpassword_password_requires_nonletter">
-	<item quantity="other">Parola en az %d adet harf olmayan başka karakter içermelidir</item>
-	<item quantity="one">Parola sadece bir adet harf olmayan karakter içermelidir</item>
-</plurals>
-<plurals name="manage_notification_access_summary_nonzero">
-	<item quantity="other">%d uygulama bildirimleri okuyabilir</item>
-	<item quantity="one">%d uygulama bildirimleri okuyabilir</item>
-</plurals>
-<plurals name="wrong_pin_code">
-	<item quantity="other">PIN kodu hatalı, %d deneme şansınız kaldı.</item>
-	<item quantity="one">PIN kodu hatalı, %d deneme şansınız kaldı.</item>
-</plurals>
-<plurals name="print_search_result_count_utterance">
-	<item quantity="other">%1$s yazıcı bulundu</item>
-	<item quantity="one">%1$s yazıcı bulundu</item>
-</plurals>
-<plurals name="show_pho_countdown">
-	<item quantity="other">"Telefon bilgilerine ulaşmanız için %1$d adım kaldı."</item>
-	<item quantity="one">"Telefon bilgilerine ulaşmanız için %1$d adım kaldı."</item>
-</plurals>
-<plurals name="show_cit_countdown">
-	<item quantity="other">"Cihaz test uygulamasına ulaşmanız için %1$d adım kaldı."</item>
-	<item quantity="one">"Cihaz test uygulamasına ulaşmanız için %1$d adım kaldı."</item>
-</plurals>
-<plurals name="show_rep_countdown">
-	<item quantity="other">"Hata raporu oluşturmanız için %1$d adım kaldı."</item>
-	<item quantity="one">"Hata raporu oluşturmanız için %1$d adım kaldı."</item>
-</plurals>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">"%s uygulamaların bildirimleri gösterilemiyor"</item>
+        <item quantity="one">"1 uygulamanın bildirimleri gösterilemiyor"</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s uygulamanın bildirimi gösteriliyor</item>
+        <item quantity="one">1 uygulamanın bildirimi gösteriliyor</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Geliştirici moduna geçebilmek için %1$d adımınız kaldı.</item>
+        <item quantity="one">%1$d adım sonra geliştirici moduna geçeceksiniz.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Şifre en az %d harf içermelidir.</item>
+        <item quantity="one">Şifre en az 1 harf içermelidir.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Şifre en az %d adet küçük harf içermelidir.</item>
+        <item quantity="one">Şifre en az bir adet küçük harf içermelidir.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Şifre en az %d adet büyük harf içermelidir.</item>
+        <item quantity="one">Şifre en az bir büyük harf içermelidir.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Şifre en az %d sayısal rakam içermelidir.</item>
+        <item quantity="one">Şifre en az 1 sayısal rakam içermelidir.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Şifre en az %d adet özel karakter içermelidir</item>
+        <item quantity="one">Şifre en az 1 özel karakter içermelidir.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Şifre en az %d adet harf olmayan başka karakter içermelidir.</item>
+        <item quantity="one">Şifre sadece bir adet harf olmayan karakter içermelidir.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Yanlış SIM PIN kodu, %d deneme hakkınız kaldı.</item>
+        <item quantity="one">Yanlış SIM PIN kodu, %d deneme hakkınız kaldı. Cihazınızın kilidini açmak için taşıyıcı başvurmanız gerekir.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d uygulama bildirimleri okuyabilir</item>
+        <item quantity="one">%d uygulama bildirimleri okuyabilir</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d uygulama koşulları sağlıyor</item>
+        <item quantity="one">%d uygulama koşulları sağlıyor</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">"Telefon bilgilerine ulaşmanız için %1$d adım kaldı."</item>
+        <item quantity="one">"Telefon bilgilerine ulaşmanız için %1$d adım kaldı."</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">"Cihaz Test Uygulamasına ulaşmanız için %1$d adım kaldı."</item>
+        <item quantity="one">"Cihaz Test Uygulamasına ulaşmanız için %1$d adım kaldı."</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">"Hata Raporu oluşturmanız için %1$d adım kaldı."</item>
+        <item quantity="one">"Hata Raporu oluşturmanız için %1$d adım kaldı."</item>
+    </plurals>
 </resources>
