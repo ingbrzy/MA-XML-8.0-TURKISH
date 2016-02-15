@@ -1,7 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-<plurals name="record_downloading_complete_count">
-	<item quantity="other">%d kayıt indirildi</item>
-	<item quantity="one">%d kayıt indirildi</item>
-</plurals>
+    <plurals name="record_downloading_complete_count">
+        <item quantity="other">%d kayıt indirildi</item>
+        <item quantity="one">%d kayıt indirildi</item>
+    </plurals>
+    <plurals name="local_records_count">
+        <item quantity="other">%d öğe</item>
+        <item quantity="one">%d öğe</item>
+    </plurals>
+    <plurals name="unsynced_records_count">
+        <item quantity="other">%d eşitlenmedi</item>
+        <item quantity="one">%d eşitlenmedi</item>
+    </plurals>
 </resources>
