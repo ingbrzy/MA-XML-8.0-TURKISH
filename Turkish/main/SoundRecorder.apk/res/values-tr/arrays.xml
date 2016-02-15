@@ -1,49 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string-array name="duration_entries">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-    <item>8</item>
-    <item>9</item>
-    <item>:</item>
-</string-array>
-<string-array name="date_entries">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-    <item>8</item>
-    <item>9</item>
-    <item>-</item>
-    <item>/</item>
-</string-array>
-<string-array name="record_scenes_entries">
-    <item>Müzik için</item>
-    <item>İnsan sesi için</item>
-</string-array>
-<string-array name="record_scenes_values">
-    <item>1</item>
-    <item>2</item>
-	<item>3</item>
-</string-array>
-<string-array name="x5_record_scenes_entries">
-	<item>Music</item>
-	<item>Voice</item>
-	<item>Interview</item>
-</string-array>
-<string-array name="record_quality_entries">
+    <string-array name="record_type_values">
+        <item>audio/mpeg</item>
+        <item>audio/amr</item>
+    </string-array>
+    <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Müzik</item>
+        <item>Ses</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Müzik</item>
+        <item>Ses</item>
+        <item>Röportaj</item>
+    </string-array>
+    <string-array name="record_scenes_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="record_quality_entries">
         <item>Yüksek</item>
-        <item>Standard</item>
+        <item>Standart</item>
         <item>Düşük</item>
-</string-array>
+    </string-array>
+    <string-array name="record_quality_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
+    </string-array>
 </resources>
