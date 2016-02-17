@@ -197,11 +197,6 @@
         <item>Çıkarılabilir SD kart</item>
         <item>Sistem karar versin</item>
     </string-array>
-    <string-array name="app_install_location_values">
-        <item>cihaz</item>
-        <item>sdkart</item>
-        <item>otomatik</item>
-    </string-array>
     <string-array name="app_ops_permissions">
         <item>İzinli</item>
         <item>Yoksayılan</item>
