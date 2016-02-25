@@ -3,6 +3,7 @@
   <string name="app_name">galeri</string>
   <string name="at_least_one">En az bir kategori seçiniz</string>
   <string name="cancel">Çık</string>
+  <string name="cancel_international">İptal Et</string>
   <string name="change_time">Aralığı Değiştir</string>
   <string name="day">1 gün</string>
   <string name="declaration">Ücretsiz abonelik için en iyi küresel medya zevki. En son haberler, film bültenleri ve magazinleri güncel tutun.</string>
@@ -10,7 +11,6 @@
   <string name="declaration_title">Hükümler ve Koşullar</string>
   <string name="hour_1">1 saat</string>
   <string name="hour_3">3 saat</string>
-  <string name="lockscreen_magazine_subscribe">%1$s takipçi</string>
   <string name="lockscreen_magazine_summary">Her gün kilit ekranına sabit olarak verilen duvar kağıtlarını al.</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s duvar kağıtları</string>
   <string name="lockscreen_magazine_system_title">Varsayılan</string>
@@ -22,8 +22,10 @@
   <string name="resource_no_network_text">"Ağa bağlanamıyor."</string>
   <string name="setting_head">Ayarlar</string>
   <string name="summary">"Bizim &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Kullanım Koşulları ve &lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt; Gizlilik Politikasını &lt;/a&gt; kabul edip başlamanız için internet bağlantısına ihtiyaç var.​"</string>
+  <string name="summary_international">"Bu ürünü kullanmakla, şunu kabul etmiş olursunuz: &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Kullanıcı Sözleşmesi&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Gizlilik Politikası&lt;/a&gt;. Bu uygulamanın normal bir şekilde çalışması için internete bağlanması gerekiyor."</string>
   <string name="theme_apply_failured">"Kilit ekranı duvar kağıdı uygulanamıyor"</string>
   <string name="theme_apply_success">Kilit ekranı uygulandı</string>
   <string name="theme_applying">Uygulanıyor...</string>
-  <string name="wlan_download">Sadece WLAN</string>
+  <string name="wlan_download">Wi-Fi ağına bağlandığında güncelle</string>
+  <string name="wlan_download_cn">WLAN ağına bağlandığında güncelle</string>
 </resources>
