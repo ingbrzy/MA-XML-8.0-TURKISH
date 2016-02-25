@@ -45,6 +45,7 @@
   <string name="accessibility_wimax_signal_full">WiMAX sinyali tam.</string>
   <string name="accessibility_wimax_three_bars">WiMAX üç çubuk.</string>
   <string name="accessibility_wimax_two_bars">WiMAX iki çubuk.</string>
+  <string name="account_info">Giriş yapılmadı</string>
   <string name="activate_usb_message">Bu özelliği etkinleştirmek için bir SIM kart yerleştirin</string>
   <string name="activate_usb_title">USB\'yi etkinleştir</string>
   <string name="always_use_accessory">Bu USB aksesuarı varsayılan olarak kullan</string>
@@ -110,6 +111,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="ext_media_safe_unmount_notification_title">USB depolama cihazı güvenle çıkartılabilir</string>
   <string name="ext_media_unmountable_notification_message">USB depolama zarar görmüş. Yeniden format atmayı deneyebilirsiniz.</string>
   <string name="ext_media_unmountable_notification_title">USB Depolama zarar görmüş</string>
+  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">GPS ile konumu belirle</string>
   <string name="gps_notification_searching_text">GPS uyduları aranıyor.</string>
   <string name="invalid_charger">"USB şarj desteklenmiyor.
@@ -133,8 +135,9 @@ Her zaman orjinal aksesuar kullanın."</string>
   <string name="mount_storage">Evet</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Bildirim yok.</string>
-  <string name="notification_otg_gamestick_in">Oyun kontrolcusu bağlandı</string>
-  <string name="notification_otg_gamestick_out">Oyun kontrolcusunun bağlantısı kesildi</string>
+  <string name="notification_header_title">Bildirimler</string>
+  <string name="notification_otg_gamestick_in">Oyun denetleyicisi bağlandı</string>
+  <string name="notification_otg_gamestick_out">Oyun denetleyicisinin bağlantısı kesildi</string>
   <string name="notification_otg_keyboard_in">Klavye bağlandı</string>
   <string name="notification_otg_keyboard_out">Klavye bağlantısı kesildi</string>
   <string name="notification_otg_mouse_in">Fare bağlandı</string>
@@ -175,7 +178,10 @@ Her zaman orjinal aksesuar kullanın."</string>
   <string name="settings_toggle_position_divider_page">Bar üzerine yerleştirilen %1$d geçiş etkin</string>
   <string name="settings_toggle_position_reset">Geçişleri sıfırla</string>
   <string name="share">Paylaş</string>
-  <string name="status_bar_date_format">d/M E</string>
+  <string name="status_bar_date_format">"d MMMM
+EEEE"</string>
+  <string name="status_bar_date_format_12">"d MMMM
+EEEE"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Bugün: %1$s | Kalan: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Aşılan: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
