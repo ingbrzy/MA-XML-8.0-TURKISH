@@ -3,7 +3,7 @@
   <string name="agree">Kabul</string>
   <string name="congratulation_label"/>
   <string name="desc_extra_fingerprint"/>
-  <string name="desc_fingerprint">Cihaz kilidini açmak için parmakizini kullanın, Mi Ödeme işlemlerinden veya uygulama ve hizmetlere oturum açıp onaylayın.</string>
+  <string name="desc_fingerprint">Cihaz kilidini açmak için parmakizini kullanın, Mi Ödeme işlemlerinde veya uygulama ve hizmetlere oturum açıp onaylayın.</string>
   <string name="disagree">İptal</string>
   <string name="ime_privacy_policy">Seçilen klavye için Gizlilik Politikası</string>
   <string name="ime_privacy_policy_no_network">Ağ bağlantısı yok. %s klavyesinin Gizlilik Politikası görüntüle</string>
@@ -28,12 +28,12 @@
   <string name="page_layout_title">Sistem düzeni</string>
   <string name="pref_title_data_slot">Tercih edilen veri SIM kartı</string>
   <string name="pref_title_voice_slot">Tercih edilen ses SIM kartı</string>
-  <string name="privacy_policy">Gizlilik Politikası</string>
+  <string name="privacy_policy">Gizlilik Politikası </string>
   <string name="provision_finish">Tamam</string>
   <string name="provision_finish_restart">Y. Başlat</string>
   <string name="provision_inputmethod_policy_description">"
 Seçilen klavyeler Gizlilik Politikası\'nı görüntüleyin."</string>
-  <string name="provision_inputmethod_policy_description1">Gizlilik Politikası</string>
+  <string name="provision_inputmethod_policy_description1">Gizlilik Politikası </string>
   <string name="setting_locale">Konum ayarlanıyor...</string>
   <string name="shut_down">Kapatın</string>
   <string name="sim_card_detecting">SIM kart kontrol ediliyor...</string>
@@ -42,7 +42,7 @@ Seçilen klavyeler Gizlilik Politikası\'nı görüntüleyin."</string>
   <string name="sim_card_detection_info">SIM kartı takmak için, cihazınızla birlikte verilen talimatları okuyun.</string>
   <string name="sim_dectection_next">Devam</string>
   <string name="sim_redetection">Tekrar kontrol et</string>
-  <string name="skip_underline">&lt;u&gt;Bu adımı atla&lt;/u&gt;</string>
+  <string name="skip_underline">Bu adımı atla</string>
   <string name="summary_not_set">Ayarlı değil</string>
   <string name="summary_sim_card">Kart %1$d</string>
   <string name="summary_sim_card_with_operator">Kart %1$d: %2$s</string>
