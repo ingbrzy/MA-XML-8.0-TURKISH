@@ -152,7 +152,7 @@
 Sadece kare modunda"</string>
   <string name="aifsnout">Aifsn  0 den 255! kadar olmalı</string>
   <string name="airplane_error_msg">"Telefon uçak modundayken FM kullanamazsınız."</string>
-  <string name="airplane_error_msg_dlg">"You can't use FM when the phone is in airplane mode, Kapat düğmesine veya kapatmak için Geri tuşuna basın!"</string>
+  <string name="airplane_error_msg_dlg">"Telefon uçak modundayken FM kullanamazsınız, Kapat düğmesine veya kapatmak için Geri tuşuna basın!"</string>
   <string name="alertdialog_message">Lütfen 10 saniye bekleyip, kapatın ve sonucu yazın!</string>
   <string name="alertdialog_title">Bildirim:</string>
   <string name="all_pass">Tüm testi geçti</string>
@@ -190,7 +190,7 @@ Sadece kare modunda"</string>
   <string name="battery_info_health_overheat">Aşırı ısınma</string>
   <string name="battery_info_health_unknown">Bilinmeyen</string>
   <string name="battery_info_health_unspecified_failure">Bilinmeyen hata</string>
-  <string name="battery_info_id_label">Battery ID</string>
+  <string name="battery_info_id_label">Pil ID</string>
   <string name="battery_info_level_label">Pil seviyesi:</string>
   <string name="battery_info_power_ac">AC</string>
   <string name="battery_info_power_ac_usb">AC+USB</string>
