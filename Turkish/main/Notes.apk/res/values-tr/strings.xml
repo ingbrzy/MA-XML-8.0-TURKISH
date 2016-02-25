@@ -65,7 +65,7 @@
   <string name="permdesc_accessNote">Kötü niyetli uygulamalar bunu kişisel bilgilerinize erişmek için kullanabilir.</string>
   <string name="permlab_accessNote">Notlara Erişim</string>
   <string name="pref_desc_alarm_when_silent">Zil susturulduğu zaman hatırlatmalar için alarmlar hala çalacaktır</string>
-  <string name="pref_title_alarm_when_silent">"Hatırlatıcıları susturmayın"</string>
+  <string name="pref_title_alarm_when_silent">"Sessizdeyken Hatırlat"</string>
   <string name="pref_title_common">Ek Ayarlar</string>
   <string name="pref_title_font_size">Yazı boyutu</string>
   <string name="pref_title_note_style">Tarzı</string>
@@ -109,7 +109,7 @@
   <string name="undo">Geri Al</string>
   <string name="unknown_source">Bilinmeyen kaynak</string>
   <string name="welcome_note_for_cm">"Ve daha büyük özellikler!
-  - Mi Bulut ile eşitleme 
+  - Mi Bulut ile eşitle 
   - Hatırlatıcı ayarları"</string>
   <string name="widget_content_loading">Biraz bekleyin...</string>
   <string name="widget_havenot_content">"Not bulamadı. Bir not oluşturmak için dokunun. Yeniden boyutlandırmak için, dokunun &amp; bir kenarını sürükleyin."</string>
