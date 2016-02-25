@@ -195,8 +195,8 @@
   <string name="attachment_video">Video</string>
   <string name="attachments_header">Ekler</string>
   <string name="authority_email_provider">com.android.email.provider</string>
-  <string name="auto_advance_help_title">After deleting a message, view…</string>
-  <string name="auto_advance_label">Mesajin devamını sil</string>
+  <string name="auto_advance_help_title">Mesaji sildikten sonra, görüntüle </string>
+  <string name="auto_advance_label">Sildikten sonra devam et</string>
   <string name="auto_advance_summary">Mesaj sildikten sonra ilerlemek için bir mesaj seçin</string>
   <string name="auto_sync_off">Otomatik eşitleme kapalı.</string>
   <string name="bcc">Bcc</string>
@@ -224,7 +224,7 @@
   <string name="chat_item_msg_people_unit">kişi</string>
   <string name="chat_item_msg_user_etc"/>
   <string name="chat_view_description">E-Posta mesajlarını konuşma kabarcıkları gibi görüntüle</string>
-  <string name="chat_view_title">Görüşmeye Bak</string>
+  <string name="chat_view_title">Sohbeti Görüntüle</string>
   <string name="check_setup_data">Sunucu ayarları doğrulanıyor...</string>
   <string name="choosertitle_sharevia">Kullanarak Paylaş</string>
   <string name="clear">Temizle</string>
