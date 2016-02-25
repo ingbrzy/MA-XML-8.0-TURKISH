@@ -139,7 +139,8 @@
   <string name="group_shortcuts">Kısayollar</string>
   <string name="guide_install_app_msg">"Uygulama telefonunuzda yüklü değil. Uygulama bulunup yüklensin mi?"</string>
   <string name="guide_install_app_title">Uygulama bulunup, yüklensin mi?</string>
-  <string name="guide_tips_editing_mode">Dokunup &amp; bir widget seçmek için basılı tutun</string>
+  <string name="guide_tips_editing_mode">Dokunup &amp; bir Widget seçmek için basılı tutun</string>
+  <string name="home_indicator">bottom_point</string>
   <string name="image_too_small_message">"Orijinal görüntü yeterince büyük değil"</string>
   <string name="install">Yükle</string>
   <string name="invalid_contact_shortcut">Geçersiz kişi</string>
@@ -168,7 +169,7 @@
   <string name="menu_workspace_preview">Ana Ekranları Önizle</string>
   <string name="mi_wallpaper">MIUI Tema Mağazası</string>
   <string name="mtzgadget_missing_text">"Widget mevcut değil"</string>
-  <string name="multi_selecting_tips">Uygulamayı almak için, simegesine dokunun</string>
+  <string name="multi_selecting_tips">Uygulamayı eklemek için, simgesine dokunun</string>
   <string name="online_wallpaper">Çevirimiçi</string>
   <string name="out_of_space">Bu Ana Ekranda daha fazla sayfa yok</string>
   <string name="permdesc_install_shortcut">Bir uygulamanın kullanıcı izni olmadan ana ekrana kısayollar eklemesine izin verir.</string>
@@ -253,6 +254,7 @@
   <string name="wallpaper_auto_change_title">Kilit Ekranı</string>
   <string name="wallpaper_failed_message">"Duvar kağıdı uygulanamadı"</string>
   <string name="wallpaper_scaling_message">Sabit boyuta ölçekle</string>
+  <string name="wallpaper_scrolling">Tümü</string>
   <string name="wallpaper_settings">Duvar Kağıdı Ayarları</string>
   <string name="wallpaper_success_message">Duvar Kağıdı uygulandı</string>
   <string name="widget_favorite_contacts_edit">Düzenleyici</string>
