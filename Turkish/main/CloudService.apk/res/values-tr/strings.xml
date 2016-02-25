@@ -5,7 +5,7 @@
   <string name="activate">Etkinleştir</string>
   <string name="activate_number_change_dialog_message">Etkinleştirmek gereken ana numarayı seçin, VoIP aramada bu numarayı göreceksiniz</string>
   <string name="activating">Etkinleştiriliyor...</string>
-  <string name="alert_notif_title_dspt">Senkronize edilemiyor</string>
+  <string name="alert_notif_title_dspt">Eşitlenemiyor</string>
   <string name="antispam_sync">Rahatsız Etme Ayarları</string>
   <string name="app_name">Mi Bulut</string>
   <string name="apple_10gb">20GB</string>
@@ -48,12 +48,12 @@ Son yedekleme: %2$s"</string>
   <string name="cloud_space_upgrade_no_quota_info">"Depolama bilgisi alınamıyor"</string>
   <string name="cloud_space_upgrade_title">Mi Bulut için daha fazla alan</string>
   <string name="cloudservice_new_sync">Mi Bulut ile %s eşleştir</string>
-  <string name="cmcc_micloud_dspt">Mi Bulut kullanarak verilerinizi senkronize edin, cihazını bulun ve arkadaşlarınızla paylaşın.. </string>
+  <string name="cmcc_micloud_dspt">Mi Bulut kullanarak verilerinizi eşitleyin, cihazını bulun ve arkadaşlarınızla paylaşın.. </string>
   <string name="contact">Kişiler</string>
   <string name="deskclock_backup">Saatleri yedekle</string>
   <string name="disable_find_device_error">"Cihaz bulma servisi kapatılamıyor %1$s"</string>
   <string name="disable_find_device_success">Cihaz bulma kapalı.</string>
-  <string name="enableAll">Herşeyi senkronize et</string>
+  <string name="enableAll">Herşeyi eşitle</string>
   <string name="enable_cloud_service_notification">Mi Bulutu etkinleştirmeniz gerekiyor</string>
   <string name="enable_find_device_error">"Cihaz Bul hizmeti açılamıyor. %1$s"</string>
   <string name="enable_find_device_success">C,haz Bul hizmeti açık.</string>
@@ -351,7 +351,7 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="pref_title_sync_contacts_title">Şahısları eşitle</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Fotoğrafları sadece WLAN kullanarak eşitle</string>
   <string name="pref_title_sync_video_on_wifi_only">Videoları sadece WLAn kullanarak eşitle</string>
-  <string name="privacy_policy">Gizlilik Politikası</string>
+  <string name="privacy_policy">Gizlilik Politikası </string>
   <string name="remind_later">Şimdi değil</string>
   <string name="restoreSync">Şimdi eşitle</string>
   <string name="setting">Ayarlar</string>
@@ -384,7 +384,7 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI'nin yerleşik uygulamalarının fotoğrafları, şahısları, notları ve daha fazlasını yedekleyebilmesi için Mi Bulut\'a ihtiyacı var. Mi Bulut ücretsiz ve kullanıma hazır halde gelir."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Bulut kullan</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Neden Mi Bulut kullanmıyorsun?"</string>
-  <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Bu adımı atla&lt;/u&gt;</string>
+  <string name="sync_dspt_entrance_provision_skip">Bu adımı atla</string>
   <string name="sync_dspt_provision">"Fotoğraflarınızı, şahısları, notları ve daha fazlasını eşitleyin, her yerden erişin "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
@@ -416,7 +416,7 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="upgrade_space_successful">%sGB eklendi</string>
   <string name="upgrade_space_successful_total">%sGB geçerli</string>
   <string name="upgrade_space_tb">TB</string>
-  <string name="user_agreement">Kullanıcı Sözleşmesi</string>
+  <string name="user_agreement">Kullanıcı Sözleşmesi </string>
   <string name="user_agreement_p5">"
 "</string>
   <string name="user_agreement_p6">"Bu hizmeti kullanarak, kabul etmiş oluyorsunuz "</string>
