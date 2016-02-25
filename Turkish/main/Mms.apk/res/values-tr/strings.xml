@@ -158,9 +158,7 @@
   <string name="exporting_progress_private_message">Aktarılıyor…</string>
   <string name="failed_to_add_media">"%1$s mesajınıza ekleyemezsiniz."</string>
   <string name="failed_to_resize_image">Resim boyutlandırılamadı.</string>
-  <string name="fdn_check_failure">Sadece sabit arama numaralarınıza mesaj gönderebilirsiniz</string>
-  <string name="feedback_description_hint">Geribildirimi buraya yaz</string>
-  <string name="feedback_submit">Gönder</string>
+  <string name="fdn_check_failure">Sadece sabit arama numaralarınıza mesaj gönderebilirsiniz.</string>
   <string name="festival">Hitaplar</string>
   <string name="festival_continue">Tamam</string>
   <string name="festival_networking_desc">Bu özelliğin normal çalışması için internete bağlanması gerekiyor.</string>
@@ -293,7 +291,7 @@
   <string name="mx_activate_status_desc_wait_for_sms_fail">" Mi Mesaji Etkinleştirilmedi"</string>
   <string name="mx_and_voip_enable">Mi Mesaji &amp; Voice</string>
   <string name="mx_and_voip_enable_popup_msg">"Mesaj gönderme ve taşıyıcı ücreti ödemeden diğer MIUI kullanıcılarına çağrı yapmak VoIP Weihui tarafından desteklenmektedir. Weihui Gizlilik Politikasına gözatın."</string>
-  <string name="mx_and_voip_enable_popup_msg2">Gizlilik Politikası</string>
+  <string name="mx_and_voip_enable_popup_msg2">Gizlilik Politikası </string>
   <string name="mx_auto_resend_mms">MMS olarak gönder</string>
   <string name="mx_auto_resend_mms_summary">"Wi-Fi kullanılmıyorken mobil veri üzerinden MMS olarak gönderir. (Operatörünüzün normal veri kullanım ücretlendirmesi uygular.)"</string>
   <string name="mx_auto_resend_sms">SMS olarak gönder</string>
@@ -358,12 +356,14 @@
   <string name="play">Oynat</string>
   <string name="playing_failed">"Oynatılamadı"</string>
   <string name="prefDefault_ringtone_repeat">1</string>
+  <string name="prefDefault_vibrateWhen">never</string>
+  <string name="prefDefault_vibrate_false">never</string>
+  <string name="prefDefault_vibrate_true">always</string>
   <string name="pref_advanced_settings_title">Ek Ayarlar</string>
   <string name="pref_allow_network_access_summary">Teslimat ve diğer hizmetler hakkında en son bilgileri almak için açın.</string>
   <string name="pref_collapse_sp_messages_summary">Operatörden gelen aynı mesajları birleştir</string>
   <string name="pref_edit_smsc_address">SMS Merkezi Numarası</string>
   <string name="pref_forward_title">Yönlendir</string>
-  <string name="pref_key_mx_feedback">Geribildirim</string>
   <string name="pref_message_recovery_introduction_title">İletileri Kurtar</string>
   <string name="pref_messages_to_save">Kaydetmek için mesajların sayısını ayarla</string>
   <string name="pref_mms_settings_title">Multimedia (MMS) mesajları</string>
@@ -381,7 +381,6 @@
   <string name="pref_summary_mms_auto_retrieval">Otomatik olarak mesajlardaki fotoğrafları ve videoları indir</string>
   <string name="pref_summary_mms_read_reports">Alıcı MMS içeriğini yüklendiğinde uyarı ileti dizisi görünümünü göster</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Dolaşım sırasında otomatik olarak mesajların fotoğraf ve videoları indir</string>
-  <string name="pref_summary_mx_feedback">Hataları raporla ve geribildirimi gönder</string>
   <string name="pref_summary_notification_body_enabled">Kilit ekranında ve bildirimde mesajları göster</string>
   <string name="pref_summary_notification_body_enabled_when_secure">"Misafir modunda mesajların ön izlemesi yapılamaz"</string>
   <string name="pref_summary_off_system_mms_priority">MMS göndermek ve almak için üçüncü parti uygulamaları kullan</string>
@@ -586,11 +585,7 @@
   <string name="to_count">%d alıcı</string>
   <string name="to_label">"Kime "</string>
   <string name="to_send_wrapper">"%s tarihinde gönderilecek"</string>
-  <string name="toast_description_required">"Tanım alanı boş bırakılamaz"</string>
-  <string name="toast_feedback_finish">"Raporunuz bir Wi-Fi ağına bağlandığınızda gönderilecektir"</string>
-  <string name="toast_feedback_max">"Bir gün içerisinde 3'ten fazla rapor gönderemezsiniz"</string>
-  <string name="toast_feedback_start">Günlük verisi alınıyor…</string>
-  <string name="too_many_attachments">"Can't exceed %1$s attachments. Only the first %2$s will be added."</string>
+  <string name="too_many_attachments">"%1$s eki geçemez. Sadece ilk %2$s ek eklenecek."</string>
   <string name="too_many_recipients">"Mesaj çok fazla (%1$s) alıcıya sahip. %2$s kişiden fazla alıcı ekleyemezsiniz."</string>
   <string name="too_many_unsent_mms">"Mesaj şu anda gönderilemiyor. Gönderilmemiş çok fazla multimedya mesajı var."</string>
   <string name="try_to_send">Tekrar gönder</string>
@@ -623,7 +618,7 @@ Yapılan girişim: %s."</string>
   <string name="view_message_details">Detayları görüntüle</string>
   <string name="voip_enable">Mi Mesaji ve Voice</string>
   <string name="voip_enable_popup_msg">"Operatör ücreti ödemeden diğer MIUI kullanıcılarına çağrı yap. VoIP Weihui tarafından desteklenmektedir. Weihui Gizlilik Politikasına gözatın."</string>
-  <string name="voip_enable_popup_msg2">Gizlilik Politikası</string>
+  <string name="voip_enable_popup_msg2">Gizlilik Politikası </string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">%ds\'de gönder</string>
   <string name="wild_msg_processing">Çalışıyor...</string>
