@@ -54,7 +54,7 @@
   <string name="caching_vcard_title">Önbellekleniyor</string>
   <string name="callAgain">Tekrar Ara</string>
   <string name="callBack">Geri Ara</string>
-  <string name="callDetailTitle">Call details</string>
+  <string name="callDetailTitle">Çağrı Detayları</string>
   <string name="callDetailsDurationFormat" formatted="false">%s dakika %s saniye</string>
   <string name="callShortcutActivityTitle">Aranacak numarayı seçin</string>
   <string name="call_assistant">%s Ara</string>
@@ -172,6 +172,8 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
+  <string name="config_export_vcard_type">v30_generic</string>
+  <string name="config_import_vcard_type">Varsayılan</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Çağrı geçmişi silinsin mi?</string>
   <string name="confirm_delete_selected_all_call_logs">Çağrı geçmişi silinsin mi?</string>
@@ -222,7 +224,7 @@ Kartvizitler kapalı"</string>
   <string name="contact_edit_title_readonly">Sadece okunabilir kişi</string>
   <string name="contact_editor_prompt_multiple_accounts">Kişiyi kaydet</string>
   <string name="contact_editor_prompt_one_account">Yeni kişi %1$s ile eşitlenecek</string>
-  <string name="contact_editor_prompt_zero_accounts">Mobil veya yeni bir online hesabınıza saklayın</string>
+  <string name="contact_editor_prompt_zero_accounts">Mobil veya yeni bir çevrimiçi hesabınızda saklayın</string>
   <string name="contact_is_readOnly">"Sadece okunur kişiler düzenlemez"</string>
   <string name="contact_list_loading">Yükleniyor...</string>
   <string name="contact_pick_photo">Fotoğraf</string>
@@ -390,7 +392,7 @@ Kartvizitler kapalı"</string>
   <string name="event_edit_field_hint_text">Tarih</string>
   <string name="export_sim_contact_finish">Kişiler aktarıldı</string>
   <string name="export_sim_contact_finish_msg">%1$d aktarıldı | %2$d atlandı | %3$d kaldı</string>
-  <string name="export_to_sdcard">Depolama için aktarıldı</string>
+  <string name="export_to_sdcard">Depolamaya aktarıldı</string>
   <string name="export_to_sim">SIM karta aktar</string>
   <string name="export_to_sim1">SIM karta 1\'e aktar</string>
   <string name="export_to_sim2">SIM kart 2\'ye aktar</string>
@@ -404,7 +406,7 @@ Sebep: \"%s\""</string>
   <string name="exporting_contact_list_title">Kişi bilgisi dışa aktarılıyor</string>
   <string name="exporting_vcard_canceled_title"> %s dişa aktarımı iptal edildi.</string>
   <string name="exporting_vcard_finished_title"> %s dışa aktarımı bitti.</string>
-  <string name="external_profile_title">%1$s Mi profilim</string>
+  <string name="external_profile_title">%1$s Mi Profilim</string>
   <string name="fail_reason_could_not_initialize_exporter">"Dışa aktarım başlatılamıyor: \"%s\"."</string>
   <string name="fail_reason_could_not_open_file" formatted="false">" \"%s\": %s açılamadı."</string>
   <string name="fail_reason_error_occurred_during_export">Dışa aktarma sırasında bir sorun oluştu: \"%s\".</string>
@@ -465,7 +467,7 @@ Sebep: \"%s\""</string>
   <string name="import_all_vcard_string">Tüm vCard dosyalarını içe aktar</string>
   <string name="import_contact_card_button">İçe aktar</string>
   <string name="import_failure_no_vcard_file">Hafızada vCard dosyası bulunamadı.</string>
-  <string name="import_from_onekey_migrate">Mi Mover kullanarak içeri aktar</string>
+  <string name="import_from_onekey_migrate">Mi Taşıyıcı kullanarak içeri aktar</string>
   <string name="import_from_other_phone">Başka bir telefondan içe aktar</string>
   <string name="import_from_sdcard">Hafızadan içe aktar</string>
   <string name="import_from_sim">SIM karttan içe aktar</string>
@@ -565,9 +567,9 @@ Sebep: \"%s\""</string>
   <string name="locale_change_in_progress">Kişi listesi, dil değişikliğini yansıtacak şekilde güncellenmektedir.</string>
   <string name="login_ok">Oturum Aç</string>
   <string name="lunarBirthdayLabelsGroup">Ay takvimine göre doğum günü</string>
-  <string name="lunar_calendar">农历</string>
-  <string name="lunar_leap">闰</string>
-  <string name="lunar_yue">月</string>
+  <string name="lunar_calendar">Ay Takvimi</string>
+  <string name="lunar_leap">Ayın turu</string>
+  <string name="lunar_yue">Kamerî Ay</string>
   <string name="make_primary">Bu seçimi hatırla</string>
   <string name="map_custom">%s adresine bak</string>
   <string name="map_home">Ev adresine bak</string>
@@ -638,7 +640,7 @@ Sebep: \"%s\""</string>
   <string name="miprofile_bind_account_alertdialog_title">Telefon Numarası Ekle</string>
   <string name="miprofile_contact_add">Ekle</string>
   <string name="miprofile_contact_added">Eklendi</string>
-  <string name="miprofile_contact_header">Kartvizitlerle Kişiler</string>
+  <string name="miprofile_contact_header">Kartvizitler ile Kişiler</string>
   <string name="miprofile_contact_meaasge">Yerel Kişiler</string>
   <string name="miprofile_contact_verifying">Onaylanıyor</string>
   <string name="miprofile_edit_title">Profili Düzenle</string>
@@ -938,7 +940,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="recent_contacts_label">En Son</string>
   <string name="recent_number">En Son</string>
   <string name="recent_updates">En Son Güncellemeler</string>
-  <string name="redirect_calls_to_vm_confirm_message">"Posta kutunuzu ayarlamadan önce mobil şebeke sağlayıcınızın sözleşme şartlarınızı ve koşullarınızı kontrol edin."</string>
+  <string name="redirect_calls_to_vm_confirm_message">Posta kutunuzu ayarlamadan önce mobil şebeke sağlayıcınızın sözleşme şartlarınızı ve koşullarınızı kontrol edin.</string>
   <string name="redirect_calls_to_vm_confirm_text">Tamam</string>
   <string name="refresh">Yenile</string>
   <string name="relationLabelsGroup">İlişki Durumu</string>
@@ -974,7 +976,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="select_none">Seçilmedi</string>
   <string name="select_show_contacts">Kişi Listesi</string>
   <string name="select_vcard_title">vCard Dosyası Seç</string>
-  <string name="send_contact_shortcut_todesktop_success">Ana ekrana eklendi</string>
+  <string name="send_contact_shortcut_todesktop_success">Ana Ekrana eklendi</string>
   <string name="send_to_voicemail_checkbox">Çağrıları doğrudan sesli mesaja yönlendir</string>
   <string name="separatorJoinAggregateAll">Tüm Kişiler</string>
   <string name="separatorJoinAggregateSuggestions">Önerilen Kişiler</string>
