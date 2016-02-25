@@ -5,7 +5,7 @@
   <string name="account_login">Oturum Aç</string>
   <string name="account_summary">Mi hesabını, Google hesabını ve diğer kullanıcı verilerini yedekle</string>
   <string name="already_enable_encrypt">Şifreleme Aktif</string>
-  <string name="app_name">Yedekleme</string>
+  <string name="app_name">Yedekle</string>
   <string name="apps_and_data_item_desc">Uygulama ve Veriler</string>
   <string name="auto_backup">Düzenli yedeklemeyi planlayın</string>
   <string name="auto_backup_all_user_apps">Tüm Uygulamalar</string>
@@ -14,13 +14,13 @@
   <string name="auto_backup_choose_title">Yedeklenecek öğeleri seçin</string>
   <string name="auto_backup_date">Yedekleme Zamanı</string>
   <string name="auto_backup_only_wifi">Sadece WLAN etkin olduğunda</string>
-  <string name="auto_backup_open">Otomatik Yedekleme</string>
+  <string name="auto_backup_open">Otomatik Yedekle</string>
   <string name="auto_backup_progress">Yedekleniyor...</string>
   <string name="auto_backup_select_user_apps">Uygulamaları Seç</string>
   <string name="auto_backup_selected_user_apps">Seçilen Uygulamalar</string>
   <string name="auto_backup_setting">Otomatik Yedekleme Ayarı</string>
   <string name="auto_backup_system_data">Sistem</string>
-  <string name="auto_backup_time">Yedekleme zamanı</string>
+  <string name="auto_backup_time">Yedekleme Zamanı</string>
   <string name="auto_backup_user_data">Uygulamalar</string>
   <string name="backup">Yedekle</string>
   <string name="backup_data">Verileri Yedekle</string>
@@ -28,9 +28,9 @@
   <string name="backup_empty">Yedek bulunamadı</string>
   <string name="backup_empty_info">" Verilerinizi, ayarlarınızı ve uygulamalarınızı yedekleyin"</string>
   <string name="backup_empty_info_onpad">" Verilerinizi, ayarlarınızı ve uygulamalarınızı yedekleyin"</string>
-  <string name="backup_error">Yedekleme başarısız</string>
-  <string name="backup_failed">Yedekleme başarısız</string>
-  <string name="backup_file_error">Yedekleme başarısız</string>
+  <string name="backup_error">"Yedekleme başarısız"</string>
+  <string name="backup_failed">"Yedekleme başarısız"</string>
+  <string name="backup_file_error">"Yedekleme başarısız"</string>
   <string name="backup_finished">Yedekleme tamamlandı</string>
   <string name="backup_hint">Telefonunuzu kapatmayınız</string>
   <string name="backup_hint_onpad">Telefonunuzu açık tutun</string>
@@ -49,20 +49,20 @@
   <string name="button_next">Sonraki</string>
   <string name="button_ok">Tamam</string>
   <string name="button_return">Geri</string>
-  <string name="button_send">Send</string>
+  <string name="button_send">Gönder</string>
   <string name="call_title">Çağrı Geçmişi</string>
   <string name="camera_summary">Kamera Ayarları(fotoğraflar hariç)</string>
   <string name="cancel">İptal</string>
   <string name="cancel_backup">Dur</string>
   <string name="cancel_restore">Dur</string>
   <string name="click_to_view">Görüntülemek için dokunun</string>
-  <string name="cloud_app_name">Mi Bulut Yedekleme</string>
+  <string name="cloud_app_name">Mi Bulut Yedekle</string>
   <string name="cloud_backup_hint">Yedeklerinize erişmek için giriş yapın</string>
   <string name="cloud_backup_login">Mi hesabınızla giriş yapınız</string>
-  <string name="cloud_backup_window_title">Mi Bulut Yedekleme</string>
+  <string name="cloud_backup_window_title">Mi Bulut Yedekle</string>
   <string name="cloud_home_title">Mi Bulut</string>
   <string name="cloud_item_info_summary">" (Yerel: %1$s | Mi Bulut: %2$s)"</string>
-  <string name="cloud_last_backup">"Son Yedekleme "</string>
+  <string name="cloud_last_backup">"Son Yedekle "</string>
   <string name="cloud_no_backup">Yedek bulunamadı</string>
   <string name="cloud_restore_guide">%s\'ın kullanıcı verilerini geri yüklemek için, Geri yükleye dokunun</string>
   <string name="cloud_restore_title">Yedeklenen veriyi geri yükle</string>
@@ -78,10 +78,10 @@
   <string name="custom_progress">%d öğeler</string>
   <string name="data_item_desc">Veri</string>
   <string name="data_no_enough_space_message">"Telefonunuzun dahili hafızasında yeterli boş alan yok."</string>
-  <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
+  <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="delete"> Sil </string>
   <string name="delete_backup_process">Siliniyor…</string>
-  <string name="delete_backup_title">Delete backup</string>
+  <string name="delete_backup_title">Yedeği Sil</string>
   <string name="delete_failed_backup_confirm">Yedekleme hatalar içeriyor.</string>
   <string name="deselect_all">Hiçbirini Seçme</string>
   <string name="digit_percent">%</string>
@@ -114,21 +114,21 @@
 </string>
   <string name="files_backup_info">SD karttaki tüm dosyalar (fotoğraflar, müzikler, videolar, uygulama verileri vb.)</string>
   <string name="findlost_contact">Kişileri Geri Yükle</string>
-  <string name="findlost_contact_online">Kişileri Mi Buluttan Geri Yükle</string>
-  <string name="guarded_mode_dialog_message">"Bu işleve ziyaret modunda izin verilmez."</string>
-  <string name="guarded_mode_dialog_title">"Ziyaretçi modundasınız"</string>
+  <string name="findlost_contact_online">Mi Bulut kişilerini geri yükle</string>
+  <string name="guarded_mode_dialog_message">"Bu özellik Misafir Modunda izin verilmez."</string>
+  <string name="guarded_mode_dialog_title">"Misafir Modundasınız"</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009 Mi Talk uygulamasını indirin ve oturum açın.
 \u0009http://www.miliao.com
 
 2.\u0009 Mi Talk Ayarlarına gidin ve ”Kişileri Mi Hesabına Yedekle” seçeneğini seçin"</string>
-  <string name="import_from_xiaomi_account_hint2"> Mevcut bir yedeğiniz varsa, ileri tuşuna dokunun.</string>
+  <string name="import_from_xiaomi_account_hint2"> Mevcut bir yedeğiniz varsa, İleri tuşuna dokunun.</string>
   <string name="import_from_xiaomi_account_hint_title">Cihazlar arasında kişilerinizi yedeklemek için Mi Talk kullanın.</string>
   <string name="local_app_name">Yedekle</string>
   <string name="local_backup_window_title">Yerel Yedek Verisi</string>
-  <string name="local_home_title">Yerel Yedekleme</string>
+  <string name="local_home_title">Yerel Yedekle</string>
   <string name="local_no_backup">Yedek bulunamadı.</string>
-  <string name="local_restore_window_title">Yerel geri yükleme</string>
-  <string name="local_select_account_contact">Hesaplar &amp; kişiler</string>
+  <string name="local_restore_window_title">Yerel Geri Yükle</string>
+  <string name="local_select_account_contact">Hesaplar &amp; Kişiler</string>
   <string name="local_select_audio">Sesler</string>
   <string name="local_select_doc">Dökümanlar</string>
   <string name="local_select_files">SD Kart</string>
@@ -136,9 +136,9 @@
   <string name="local_select_sysdata">Sistem</string>
   <string name="local_select_userapp">Uygulamalar</string>
   <string name="local_select_video">Videolar</string>
-  <string name="miliao_account_guide">Herhangi bir yerden, Mi Cloud, MIUI Tema Store ve diğer MI hizmetlerinden faydalanabilmek için MI Hesabı kullanın.</string>
+  <string name="miliao_account_guide">Herhangi bir yerden, Mi Bulut, MIUI Tema Mağazası ve diğer MI hizmetlerinden faydalanabilmek için MI Hesabını kullanın.</string>
   <string name="miliao_account_login">Mi Talk ile oturum açın</string>
-  <string name="mms_title">Multimedya Mesajları</string>
+  <string name="mms_title">Multimedya Mesajlaşma</string>
   <string name="multi_select_title">%1$s seçildi</string>
   <string name="never">Asla</string>
   <string name="new_backup">Yedekle</string>
@@ -152,7 +152,7 @@
   <string name="notif_restore_complete_title">Başarıyla geri yüklendi</string>
   <string name="notif_restore_content">Kullanıcı verileri geri yükleniyor</string>
   <string name="notif_restore_title">Verileri geri yükle</string>
-  <string name="page_loading">Yükleniyor...</string>
+  <string name="page_loading">Biraz bekleyin...</string>
   <string name="progress_backup_hint">Yedekleniyor...</string>
   <string name="progress_restore_hint">Geri Yükleniyor...</string>
   <string name="prompt_reading">Okunuyor...</string>
@@ -168,13 +168,13 @@
   <string name="restore_contacts_hit">Geri yüklenen verileri görmek için tekrar giriş yapmanız gerekiyor.</string>
   <string name="restore_counts">Geri Yükle:</string>
   <string name="restore_data">Geri yüklenecek öğeleri seçin</string>
-  <string name="restore_failed">Geri yükleme başarısız</string>
+  <string name="restore_failed">"Geri yüklenemedi"</string>
   <string name="restore_finished">Başarıyla geri yüklendi</string>
   <string name="restore_is_running">Cihaz geri yükleniyor</string>
   <string name="restore_launcher_layout_hit">Başlatıcı ayarlarını geri yükle</string>
   <string name="restore_progress">Geri yükleniyor...</string>
   <string name="restore_report">Geri yükleme detayları</string>
-  <string name="restore_telephony_hit">Geri yükleme telefonu yeniden başlatacak.</string>
+  <string name="restore_telephony_hit">Geri yükleme telefon uygulamasını yeniden başlatacak.</string>
   <string name="retry">Tekrar Dene</string>
   <string name="reverse_all">Tümünü Temizle</string>
   <string name="router_backup_hint">Lütfen cihazınızı açık tutun</string>
@@ -213,7 +213,7 @@
   <string name="summary_err_restore_encrypting">"Geri alınamadı. Bu yedekleme Mi Hesabınızı kullanarak yapılmış olduğundan emin olun."</string>
   <string name="summary_err_restore_no_network">"Ağa bağlanılamadı"</string>
   <string name="system_backup">Yedekle</string>
-  <string name="system_backup_info">Sistem ayarları ve Ana ekran düzeni</string>
+  <string name="system_backup_info">Sistem Ayarları ve Ana Ekran düzeni</string>
   <string name="task_backup_cancel_progress">Durduruluyor...</string>
   <string name="task_backup_finished_local">"Yedeklendi "</string>
   <string name="task_canceled">Yedekleme iptal edildi</string>
@@ -234,7 +234,7 @@
   <string name="task_restore_finished_local">"Geri Yüklendi "</string>
   <string name="task_restore_none">Geri yüklenecek hiç bir şey yok</string>
   <string name="task_running_backup_dialog">Yedekleme çalışıyor. Görüntülemek için Tamam\'a dokunun.</string>
-  <string name="task_running_backup_hint">Bu işlem halihazırda arka planda yürütülüyor</string>
+  <string name="task_running_backup_hint">Bu işlem halihazırda arkaplanda yürütülüyor</string>
   <string name="task_running_dialog">Yedekleme ve geri yükleme işlemleri sürüyor. Görüntülemek için Tamam\'a dokunun.</string>
   <string name="task_running_hint">İşlem zaten arka planda devam ediyor</string>
   <string name="task_running_restore_dialog">Geri yükleme çalışıyor. Görüntülemek için Tamam\'a dokunun.</string>
@@ -243,7 +243,7 @@
   <string name="task_stopped_exception">Geri yükleme iptal edildi</string>
   <string name="total_num">%d öğeler,</string>
   <string name="trans_backingup">Yedekleniyor...</string>
-  <string name="trans_backingup_no_items">Senkronize ediliyor...</string>
+  <string name="trans_backingup_no_items">Eşitleniyor...</string>
   <string name="trans_cancel_confirm">Transfer devam ediyor, iptal edilsin mi?</string>
   <string name="trans_cancelling">İptal ediliyor</string>
   <string name="trans_connect_failed_toast">"Bağlanamadı"</string>
@@ -257,8 +257,8 @@
   <string name="trans_main_tutor">Kişileri, arama geçmişinizi, ayarlarınızı, uygulamalarınızı ve ana ekran düzenini yeni cihazınıza Transfer edin.</string>
   <string name="trans_my_device">Cihazım</string>
   <string name="trans_one_key_migrate">Transfer</string>
-  <string name="trans_operate_func_one">Metot A</string>
-  <string name="trans_operate_func_two">Metot B</string>
+  <string name="trans_operate_func_one">Usul A</string>
+  <string name="trans_operate_func_two">Usul B</string>
   <string name="trans_operate_new_phone_tips">"Yeni cihazı kullanarak QR kodunu tarayın.
 Ayarlar &gt; Ek Ayarlar &gt; Transfer\'e gidin.
 [Alıcı Değilim] diye QR kodu oluştur"</string>
@@ -279,7 +279,7 @@ HOTSPOT\'u kapatmayın.
 İki aygıtı birbirine yakın tutun"</string>
   <string name="trans_receiving_completed">Veri alındı</string>
   <string name="trans_restoring">Onarılıyor…</string>
-  <string name="trans_restoring_no_items">Öğeler senkronize ediliyor</string>
+  <string name="trans_restoring_no_items">Öğeler eşitleniyor</string>
   <string name="trans_scan_invalid_qrcode">QR kodu geçersiz</string>
   <string name="trans_scan_qr_code_tips">Yeni cihazı kullanarak QR kodunu tarayın</string>
   <string name="trans_select_data">Verileri seçin</string>
