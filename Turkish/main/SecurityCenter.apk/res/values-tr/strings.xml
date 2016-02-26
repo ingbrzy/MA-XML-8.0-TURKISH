@@ -549,14 +549,14 @@
   <string name="summary_flow_verify">"Operatörün veri istatistikleri %d gündür eşitlenmedi."</string>
   <string name="summary_garbage_lib">Casus, reklam ve diğer istenmeyen çöpleri kaldırmak için son tanımlamaları kullanın</string>
   <string name="summary_install_virus">Uygulamaları yüklemeden önce virüs taramasından geçirin</string>
-  <string name="summary_live_talk_purchase">Yurtiçi aramalar için dakika başına sadece 0,05 ¥.</string>
+  <string name="summary_live_talk_purchase">Arama ücretlerinden %70 tasarruf edin.</string>
   <string name="summary_miui_update">%s için güncelleme var.</string>
   <string name="summary_mms">İstenmeyen mesajları otomatik olarak engelle</string>
   <string name="summary_network_switch">Güvenlik uygulamasının internete bağlanmasına izin ver</string>
   <string name="summary_never_flow_verify">"Bu numara operatör ile doğrulanmadı"</string>
   <string name="summary_permission">İstenmeyen ödemeleri önle ve kişisel verileri koru</string>
   <string name="summary_permission_root">Cihazınız ve kişisel veriler, kök erişimi olan uygulamalara karşı daha savunmasızdır</string>
-  <string name="summary_power_optimizer">"Cihazınızın performansını azaltacaktır"</string>
+  <string name="summary_power_optimizer">"Pil azaldığında cihazınızın performansını düşürebilir"</string>
   <string name="summary_saving_switch">Uygulamaların mobil veri bağlantısı kullanımını sınırla</string>
   <string name="summary_show_notification">"Güvenlik Merkezinin kontrollerini bildirim alanına iğnele"</string>
   <string name="summary_telecom_operator">Operatörün aylık veri kullanım istatistiklerini al</string>
@@ -564,6 +564,7 @@
   <string name="summary_virus">Cihazı güvenli tutmak için virüsleri kaldır</string>
   <string name="summary_virus_cloudscan">Uygulamanın isimlerini ve bilgilerini yükleyin ve çevrimiçi virüs tanımlarını kullanarak tarayın</string>
   <string name="summary_virus_update">Otomatik olarak en son virüs tanımlarını al</string>
+  <string name="summary_xiaomi_roaming">Uluslararası ağ trafiği için MB başına 0.01 yuan.</string>
   <string name="system_check_content">%1$d riskli</string>
   <string name="system_check_content_none">Güvenli</string>
   <string name="system_header_title">%1$d işlemin %2$s hafizadan temizle</string>
@@ -585,7 +586,7 @@
   <string name="title_garbage_lib">Otomatik güncellemeler</string>
   <string name="title_install_virus_no">Yüklemeleri izleme kapalı</string>
   <string name="title_install_virus_yes">Yüklemeleri izleme açık</string>
-  <string name="title_live_talk_purchase">Şimdi kontör yükle</string>
+  <string name="title_live_talk_purchase">Kontür paketini aç</string>
   <string name="title_miui_update">Güncelleme mevcut</string>
   <string name="title_mms_no">Mesaj filtresi devre dışı</string>
   <string name="title_mms_yes">Mesaj filtresi etkin</string>
@@ -604,6 +605,7 @@
   <string name="title_virus_update_no">Virüs tanımlarını için otomatik güncelleme kapalı</string>
   <string name="title_virus_update_yes">Virüs tanımlarını için otomatik güncelleme açık</string>
   <string name="title_virus_yes">Virüs bulunamadı</string>
+  <string name="title_xiaomi_roaming">Mi Dolaşımı</string>
   <string name="toast_cleaner_cloudscan">Temizleyici çevrimiçi tanımları kullanacak</string>
   <string name="toast_default_app">"%1$s sistem varsayılanı olarak ayarla %2$s"</string>
   <string name="toast_flow_notification">Veri kullanım bildirimleri açıldı</string>
