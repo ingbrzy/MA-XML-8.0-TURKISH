@@ -14,11 +14,12 @@
   <string name="find_device">Cihazı Bul</string>
   <string name="find_device_crash">Cihazı Bul beklenmedik şekilde kapatıldı</string>
   <string name="find_device_error_account_sys_timeout">"Mi Hesabına bağlanılamadı"</string>
+  <string name="find_device_error_account_unknown_error">Mi Hesap Hatası (%s)</string>
   <string name="find_device_error_network">Veri bağlantınızı kontrol edin ve tekrar deneyin.</string>
-  <string name="find_device_error_password_changed">Hesabı parolası en son değiştirildi</string>
-  <string name="find_device_error_server">Sunucu hatası</string>
-  <string name="find_device_error_unknown">Bilinmeyen hata.</string>
-  <string name="find_device_noise_title">Cihazı Bul alarmı</string>
+  <string name="find_device_error_password_changed">Hesabı parolası en son değiştirildi.</string>
+   <string name="find_device_error_server">Sunucu Hatası (%s)</string>
++  <string name="find_device_error_unknown">Bilinmeyen Hata (%s)</string>
+   <string name="find_device_noise_title">Cihazı Bul alarmı</string>
   <string name="find_device_notice_p1">Git</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"tespit et, kilitle veya telefonu geri yükle.
@@ -27,7 +28,7 @@ SIM kartları geçerseniz, başka bir SMS bu özelliği etkinleştirmek için ot
   <string name="find_device_storage_corrupted">Cihazı Bul depolaması bozuk. Cihazınız artık güvenli değil.</string>
   <string name="find_device_success_title">Cihazı Bul</string>
   <string name="i_know">Tamam</string>
-  <string name="lock_msg_phone">İletişim bilgileri: %s</string>
+  <string name="lock_msg_phone">İletişim Bilgileri: %s</string>
   <string name="login_failed">"Oturum açılamadı"</string>
   <string name="password">Şifre</string>
   <string name="phone_locked">Bu cihaz mevcut Mi Hesabı ile ilgili olabilir (%s). Bu cihazı etkinleştirmek için oturum açın.</string>
@@ -44,6 +45,15 @@ SIM kartları geçerseniz, başka bir SMS bu özelliği etkinleştirmek için ot
   <string name="unlock_error_ssl_hand_shake">"Sunucuya bağlanamıyor. Tarih ve saati elle ayarlamayı deneyin."</string>
   <string name="unlock_error_unknown">"Oturum açılamıyor"</string>
   <string name="unlock_error_user_name">Geçersiz kullanıcı adı</string>
+  <string name="unlock_help">"Ağa bağlı kalın
+Çalışan bir SIM kart yüklediyseniz ve cihazınız etkisiz bir WLAN ağına bağlı olmadığından emin olun
+
+Şifreyi unuttunuz mu?
+Şifrenizi sıfırlamak için id.mi.com adresine gidin
+
+Diğer sebepler
+i.mi.com oturumu açın ve oradan cihazınızın kilidini deneyin"</string>
+  <string name="unlock_help_title">Yardım kilidini aç:</string>
   <string name="unlock_wrong_captcha">Girdiğiniz kod yanlış</string>
   <string name="unlocking">Etkinleştiriliyor…</string>
   <string name="verify_password_failed">"Mi Hesap kimliği doğrulanamadı. %s."</string>
