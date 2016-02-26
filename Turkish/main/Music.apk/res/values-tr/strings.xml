@@ -39,7 +39,7 @@
   <string name="all_tracks_short">Tüm şarkılar</string>
   <string name="already_download">İndiriliyor...</string>
   <string name="already_favorited">Zaten favorilerde</string>
-  <string name="android_sdk_too_low">"Android sürümü çok düşük olduğundan müzikler güncellenemedi. Lütfen güncelleme yapın."</string>
+  <string name="android_sdk_too_low">"Önce Android sürümünü güncelleyin.</string>
   <string name="artist">Sanatçılar</string>
   <string name="artist_is_empty">Sanatçı adı boş olamaz.</string>
   <string name="artist_name">Sanatçı</string>
@@ -300,10 +300,12 @@
   <string name="more_online_release">Fazlası</string>
   <string name="more_online_song">Fazlası</string>
   <string name="more_online_suggest">Fazlası</string>
+  <string name="more_settings">Gelişmiş Ayarlar +</string>
+  <string name="more_settings_summary">İndirme ayarları, Uyku Modu, Mobil Veri, Dosya Filtreleri, vb...</string>
   <string name="multichoice">Seç</string>
   <string name="music_browser_label">Müzik</string>
   <string name="music_filter">Ses dosyalarını filtrele</string>
-  <string name="music_quality">Müzik kalitesi</string>
+  <string name="music_service">Müzik Servisi</string>
   <string name="music_settings">Müzik</string>
   <string name="music_traffic">Müzik veri planı</string>
   <string name="music_traffic_summary">Dinleyin ve verileri kullanmadan şarkılari indir</string>
@@ -357,7 +359,6 @@
   <string name="online_playlist_is_empty">Oynatma listesi boş!</string>
   <string name="order_pending">Onay bekleniyor</string>
   <string name="order_process_fail">"Hesabınız yetkilendirilemiyor. Birkaç dakika bekleyip tekrar deneyiniz."</string>
-  <string name="page_local_setting">Ayarlar</string>
   <string name="pay">Ödeme:</string>
   <string name="pay_now">Şimdi öde</string>
   <string name="payment_fail">Ödeme başarısız</string>
@@ -409,6 +410,7 @@
   <string name="send_to">Paylaş</string>
   <string name="send_to_title">(%1$s) Gönder</string>
   <string name="server_error">Sunucu hatası . Lütfen daha sonra tekrar deneyin</string>
+  <string name="service_and_settings">Servis ve Hizmetler</string>
   <string name="service_stop">Hizmet devam etmiyor</string>
   <string name="set_album_successful">Albüm kaydedildi</string>
   <string name="set_as_ring">Zil Sesi yap</string>
@@ -443,16 +445,17 @@
   <string name="sort_by_name">Ad</string>
   <string name="sort_by_time">Tarih</string>
   <string name="source_from">Kaynak: %1$s</string>
-  <string name="start_download_music">Müzik yükseltme paketini indirmeye başlayın.</string>
+  <string name="start_download_music">Güncellemeler indiriliyor…</string>
   <string name="start_to_download">İndiriliyor...</string>
   <string name="start_to_play">Oynat</string>
-  <string name="start_to_use">Tadını çıkarmaya başla</string>
+  <string name="start_to_use">Uygulamayı Aç</string>
   <string name="stream_normal">Standart kalitede oyna</string>
   <string name="stream_quality">Akış kalitesi</string>
   <string name="streamloadingtext">%s için bBağlanılıyor</string>
+  <string name="sub_explanation">Müzik Veri Planı</string>
+  <string name="sub_explanation_message">"Müzik veri planı şu anda Çin Unicom tarafından desteklenmektedir.Şebeke operatörünüz bu özelliği desteklemiyor. Düzenli mobil veri satın alabilirsiniz."</string>
+  <string name="subed">Açık</string>
   <string name="suggest_text">İnsanlar neyi sevdi</string>
-  <string name="support_online_only">"Müzik veri planı şu anda Çin Unicom tarafından desteklenmektedir.Şebeke operatörünüz bu özelliği desteklemiyor. Düzenli mobil veri satın alabilirsiniz."</string>
-  <string name="suggest_text">People who liked this also liked</string>
   <string name="sync_only_in_wifi">Yanlızca WLAN ile eşitle</string>
   <string name="sync_only_in_wifi_summary">Mi Bulutu ile tüm cihazlarınızda Müziklerinizi eşitleyin. Müzikleri eşitlemek için mobil veri bağlantısı kullanmak veri kullanımınızı artacaktır. Eğer planlarınız veri sınırı üzerinden çıkarsa, operatörünüz size ek ücret yansıtabilir.</string>
   <string name="tab_album">Albümler</string>
@@ -468,7 +471,9 @@
   <string name="tab_track">Şarkılar</string>
   <string name="tab_track_list">Şarkılar</string>
   <string name="take_effect_afater_restart">Bu ayarın etkili olması için Müzik uygulamasını yeniden başlatmanız gerekir.</string>
-  <string name="time_to_upgrade">Mi Müzik uygulamasını güncelleyin</string>
+  <string name="ticket_summary">Gösterileri, konserler, tiyatro ve diğer etkinlikler için bilet satın al</string>
+  <string name="ticket_title">Biletleri Göster</string>
+  <string name="time_to_upgrade">Mi Müzik son sürüme güncelleyin</string>
   <string name="title_online_artist">Popüler Sanatçılar</string>
   <string name="title_online_billboard">Zirvedekiler</string>
   <string name="title_online_fm">Radyo</string>
@@ -532,5 +537,5 @@
   <string name="vip_renew_title">Abonelik sona erdi</string>
   <string name="vip_required">Ayrıcalıklı Şarkı Paketindetinde ki bu şarkıyı çalmak için sizin olsun. Biz sizin için atlanır.</string>
   <string name="vip_required_with_song">Ayrıcalıklı Şarkı Paketindetinde ki “%s” sizin olsun. Biz sizin için atlanır.</string>
-  <string name="welcome_to_new_music">Mi Müzik yeni sürümüne hoş geldiniz</string>
+  <string name="welcome_to_new_music">Mi Müzik yeni sürümüne hoş geldiniz!</string>
 </resources>
