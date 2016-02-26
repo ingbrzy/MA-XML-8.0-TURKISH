@@ -2,7 +2,7 @@
 <resources>
   <string name="add_account_desc">Mi Hesabınız ile notlarınız eşitlensin mi?</string>
   <string name="alarm_bar_title">Hatırlatıcı</string>
-  <string name="alert_action_edit_anyway">Düzenle</string>
+  <string name="alert_action_edit_anyway">Düzenlemeyi Koru</string>
   <string name="alert_edit_action_delete">Kaldır</string>
   <string name="alert_edit_action_update">Değiştir</string>
   <string name="alert_message_delete">%1$s not silinsin mi?</string>
@@ -112,6 +112,6 @@
   - Mi Bulut ile eşitle 
   - Hatırlatıcı ayarları"</string>
   <string name="widget_content_loading">Biraz bekleyin...</string>
-  <string name="widget_havenot_content">"Not bulamadı. Bir not oluşturmak için dokunun. Yeniden boyutlandırmak için, dokunun &amp; bir kenarını sürükleyin."</string>
-  <string name="widget_under_privacy_mode">"Misafir modunda notları görüntüleyemezsiniz"</string>
+  <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Yeniden boyutlandırmak için Widget\'e basılı tutun.</string>
+  <string name="widget_under_privacy_mode">"Misafir Modunda notları görüntüleyemezsiniz"</string>
 </resources>
