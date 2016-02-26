@@ -75,7 +75,9 @@
   <string name="pano_dialog_title">Geniş Görünüm</string>
   <string name="pano_dialog_waiting_previous">Bir önceki pgeniş görünüm işinin bitmesini bekliyor</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+  <string name="pano_how_to_use_prompt_align_reference_line">Referans çizgisi ile oku hizalayın</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Devam et…</string>
+  <string name="pano_how_to_use_prompt_slow_down">Lütfen biraz yavaşlayın</string>
   <string name="pano_how_to_use_prompt_to_move">Yavaş yavaş kaydırmaya başlayın</string>
   <string name="pano_review_saving_indication_str">Saklanıyor...</string>
   <string name="pano_too_fast_prompt">Çok hızlı</string>
@@ -159,7 +161,7 @@
   <string name="pref_camera_focusmode_entry_manual">Elle Ayarla</string>
   <string name="pref_camera_focusmode_entry_normal">Standart</string>
   <string name="pref_camera_focusmode_title">Odaklanma Modu</string>
-  <string name="pref_camera_gradienter_title">Eğim</string>
+  <string name="pref_camera_gradienter_title">Düzelt</string>
   <string name="pref_camera_hand_night_title">Gece Modu</string>
   <string name="pref_camera_hdr_entry_auto">Otomatik</string>
   <string name="pref_camera_hdr_entry_live">Canlı</string>
@@ -199,7 +201,7 @@
   <string name="pref_camera_multilevel_entry_lowest">En Düşük</string>
   <string name="pref_camera_multilevel_entry_middle">Orta (Varsayılan)</string>
   <string name="pref_camera_multilevel_entry_normal">Normal</string>
-  <string name="pref_camera_panoramamode_title">PanoGeniş Görünümrama</string>
+  <string name="pref_camera_panoramamode_title">Geniş Görünüm</string>
   <string name="pref_camera_peak_entry_off">Kapalı</string>
   <string name="pref_camera_peak_entry_on">Açık</string>
   <string name="pref_camera_peak_title">Odak Yoğunluğu</string>
@@ -258,7 +260,6 @@
   <string name="pref_camera_skinToneEnhancement_entry_auto">Otomatik Düzelt</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Pasif</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Aktif</string>
-  <string name="pref_camera_snap_default">@string/pref_camera_snap_value_off</string>
   <string name="pref_camera_snap_enable_title">Hızlı Geçiş Modu</string>
   <string name="pref_camera_snap_entry_off">Kapalı</string>
   <string name="pref_camera_snap_entry_take_movie">Ekran kapalı olduğunda &amp; basın. Video kaydını başlatmak için Ses Seviyesini Azalt düğmesini basılı tutun. Durdurmak için bırakın.</string>
@@ -354,7 +355,7 @@
   <string name="simple_mode_button_text_face_beauty">Güzelliği Kapat</string>
   <string name="simple_mode_button_text_fast_video">Ağır Çekimi Kapat</string>
   <string name="simple_mode_button_text_fisheye">Balık Gözü Kapat</string>
-  <string name="simple_mode_button_text_gradienter">Eğimi Kapat</string>
+  <string name="simple_mode_button_text_gradienter">Düzeltmeyi Kapat</string>
   <string name="simple_mode_button_text_hand_night">Gece Modunu Kapat</string>
   <string name="simple_mode_button_text_hdr">HDR\'yi Kapat</string>
   <string name="simple_mode_button_text_magic_mirror">Sihirli Aynayı Kapat</string>
