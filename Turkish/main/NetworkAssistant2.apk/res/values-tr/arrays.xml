@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="date_of_traffic">
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Bu Hafta "</item>
+        <item>"Bugün "</item>
+       <item>"Bu Ay "</item>
+    </string-array><string-array name="date_of_traffic">
         <item>"Dün "</item>
         <item>"Bugün "</item>
-        <item>"Bu ay "</item>
+        <item>"Bu Ay "</item>
     </string-array>
-    <string-array name="date_of_traffic_prefix">
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Bu Hafta: "</item>
+        <item>"Bugün: "</item>
+        <item>"Bu Ay: "</item>
+    </string-array><string-array name="date_of_traffic_prefix">
         <item>"Dün: "</item>
         <item>"Bugün: "</item>
-        <item>"Bu ay: "</item>
+        <item>"Bu Ay: "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Dün (veri)</item>
         <item>Bugün (veri)</item>
-        <item>Bu ay (veri)</item>
+        <item>Bu Ay (veri)</item>
         <item>Dün ki WLAN</item>
         <item>Bugün ki WLAN</item>
-        <item>Bu ay ki WLAN</item>
+        <item>Bu Ay ki WLAN</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Dün (veri)</item>
         <item>Bugün (veri)</item>
-        <item>Bu ay (veri)</item>
+        <item>Bu Ay (veri)</item>
     </string-array>
     <string-array name="network_speed_update_internals">
         <item>3 sn</item>
