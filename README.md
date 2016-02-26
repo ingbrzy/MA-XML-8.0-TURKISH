@@ -1,5 +1,5 @@
 MIUI V7.X TR XML
-(Translating 6.2.18 Dev) 
+(Translating 6.2.25 Dev) 
 ==============================
 
 MIUI Turkish Translation: ** ORHAN CAKMAK **&** CELALEDDiN MADENCAN **
@@ -12,5 +12,5 @@ MIUI Translation: raocakmak@gmail.com & cmadencan@gmail.com
 
 
 Translating and Fixing File: 
-Settings.apk, TeleService.apk, ThemeManager.apk, Updater.apk...
+TeleService.apk, ThemeManager.apk, Updater.apk, Weather.apk...
 
