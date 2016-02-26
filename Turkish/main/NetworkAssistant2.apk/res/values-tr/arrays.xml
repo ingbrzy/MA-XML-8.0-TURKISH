@@ -4,7 +4,8 @@
         <item>"Bu Hafta "</item>
         <item>"Bugün "</item>
        <item>"Bu Ay "</item>
-    </string-array><string-array name="date_of_traffic">
+    </string-array>
+	<string-array name="date_of_traffic">
         <item>"Dün "</item>
         <item>"Bugün "</item>
         <item>"Bu Ay "</item>
@@ -13,7 +14,8 @@
         <item>"Bu Hafta: "</item>
         <item>"Bugün: "</item>
         <item>"Bu Ay: "</item>
-    </string-array><string-array name="date_of_traffic_prefix">
+    </string-array>
+	<string-array name="date_of_traffic_prefix">
         <item>"Dün: "</item>
         <item>"Bugün: "</item>
         <item>"Bu Ay: "</item>
