@@ -17,9 +17,9 @@
   <string name="find_device_error_account_unknown_error">Mi Hesap Hatası (%s)</string>
   <string name="find_device_error_network">Veri bağlantınızı kontrol edin ve tekrar deneyin.</string>
   <string name="find_device_error_password_changed">Hesabı parolası en son değiştirildi.</string>
-   <string name="find_device_error_server">Sunucu Hatası (%s)</string>
-+  <string name="find_device_error_unknown">Bilinmeyen Hata (%s)</string>
-   <string name="find_device_noise_title">Cihazı Bul alarmı</string>
+  <string name="find_device_error_server">Sunucu Hatası (%s)</string>
+  <string name="find_device_error_unknown">Bilinmeyen Hata (%s)</string>
+  <string name="find_device_noise_title">Cihazı Bul alarmı</string>
   <string name="find_device_notice_p1">Git</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"tespit et, kilitle veya telefonu geri yükle.
