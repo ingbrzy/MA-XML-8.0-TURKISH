@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">"Uygulama telefonunuzda yüklü değil"</string>
-  <string name="add_screen">Ekran düğmesini ekle</string>
+  <string name="add_screen">Ekran Ekle</string>
   <string name="app_already_exist">Uygulama zaten mevcut</string>
   <string name="app_being_backup_message">Uygulama yedekleniyor</string>
   <string name="app_being_restored_message">Uygulama geri yüklendi</string>
@@ -61,7 +61,7 @@
   <string name="default_folder_title_tools">Araçlar</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Sil</string>
-  <string name="delete_screen">Ekran Sil düğmesi</string>
+  <string name="delete_screen">Ekranı Sil</string>
   <string name="delete_wallpaper_message">Seçtiğiniz %1$d duvar kağıdı silisin mi?</string>
   <string name="delete_wallpapers_message">Seçtiğiniz %1$d duvar kağıdı silisin mi?</string>
   <string name="deselect_all">Hiçbirini Seçme</string>
@@ -140,7 +140,6 @@
   <string name="guide_install_app_msg">"Uygulama telefonunuzda yüklü değil. Uygulama bulunup yüklensin mi?"</string>
   <string name="guide_install_app_title">Uygulama bulunup, yüklensin mi?</string>
   <string name="guide_tips_editing_mode">Dokunup &amp; bir Widget seçmek için basılı tutun</string>
-  <string name="home_indicator">bottom_point</string>
   <string name="image_too_small_message">"Orijinal görüntü yeterince büyük değil"</string>
   <string name="install">Yükle</string>
   <string name="invalid_contact_shortcut">Geçersiz kişi</string>
@@ -254,7 +253,6 @@
   <string name="wallpaper_auto_change_title">Kilit Ekranı</string>
   <string name="wallpaper_failed_message">"Duvar kağıdı uygulanamadı"</string>
   <string name="wallpaper_scaling_message">Sabit boyuta ölçekle</string>
-  <string name="wallpaper_scrolling">Tümü</string>
   <string name="wallpaper_settings">Duvar Kağıdı Ayarları</string>
   <string name="wallpaper_success_message">Duvar Kağıdı uygulandı</string>
   <string name="widget_favorite_contacts_edit">Düzenleyici</string>
