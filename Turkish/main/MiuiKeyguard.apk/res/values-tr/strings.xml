@@ -2,7 +2,7 @@
 <resources>
   <string name="click_to_enter_text">Gözatmak için dokunun</string>
   <string name="confirm_pin_msg">PIN kodunu tekrar gir</string>
-  <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı doğru kaydırın</string>
+  <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı doğru kaydırın ▲</string>
   <string name="delete">Sil</string>
   <string name="emergency_call_string">Acil Arama</string>
   <string name="experimental_try_string">Tekrar Dene</string>
@@ -58,7 +58,7 @@
   <string name="phone_locked_timeout_seconds_string">%s saniye sonra tekrar deneyin</string>
   <string name="unlock_sim_string">SIM Kilidini Aç</string>
   <string name="unlock_string">Kilidi Aç</string>
-  <string name="unlocking_sim_card">SIM Kart kilidi açılıyor</string>
+  <string name="unlocking_sim_card">SIM Kart kilidi açılıyor...</string>
   <string name="unlockscreen_low_battery">LLütfen Şarj Cihazına Bağlayın!</string>
   <string name="unlockscreen_recharge_completed">Pil doldu!</string>
   <string name="unlockscreen_recharging_message">Şarj Durumu: %d%%</string>
