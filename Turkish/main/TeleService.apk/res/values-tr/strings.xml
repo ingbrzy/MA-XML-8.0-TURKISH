@@ -17,7 +17,6 @@
   <string name="administrative_disable">Yönetici kapalı</string>
   <string name="administrative_enable">Yönetici etkin</string>
   <string name="advanced_settings">İsteğe Bağlı Ayarlar</string>
-  <string name="advanced_settings_container">Gelişmiş ayarlar kapsayıcısı</string>
   <string name="advanced_settings_hide">▽ Tümünü gizlemek için dokunun</string>
   <string name="advanced_settings_show">▷ Tümünü göstermek için dokunun</string>
   <string name="advertisements_disable">Reklamlar devre dışı</string>
@@ -47,7 +46,6 @@
   <string name="audio_mode_earpiece">Ahizeli Kulaklık</string>
   <string name="audio_mode_speaker">Hoparlör</string>
   <string name="audio_mode_wired_headset">Kablolu Kulaklık</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Kimlik doğrulama için kullanılan kullanıcı adı</string>
   <string name="auth_username_title">Kimlik doğrulamalı kullanıcı adı</string>
   <string name="auto_answer_delay_entries_delay_10s">10 saniye</string>
@@ -256,9 +254,7 @@
   <string name="default_area_code_setting">Varsayılan alan kodu</string>
   <string name="default_areacode">Varsayılan alan kodu</string>
   <string name="default_notification_description">Varsayılan ses (%1$s)</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Ayarlanmadı&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete_fdn_contact">Sabit arama numarasını sil</string>
   <string name="deleting_fdn_contact">Sabit arama numarası siliniyor…</string>
   <string name="description_delete_button">Geri Tuşu</string>
@@ -323,11 +319,9 @@
   <string name="disable_fdn_ok">FDN etkin</string>
   <string name="disable_pin_ok">SIM PIN devre dışı bırakıldı</string>
   <string name="disable_sim_pin">SIM PIN devre dışı bırakıldı</string>
-  <string name="display_name">Ad</string>
   <string name="display_name_summary">&lt;Kullanıcı adıyla aynı&gt;</string>
   <string name="display_name_title">Ad</string>
   <string name="do_not_ask">"Tekrar Sorma"</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Sunucu</string>
   <string name="doneButton">Tamam</string>
   <string name="dtmf_tone_entries_long">Uzun</string>
@@ -813,7 +807,6 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="other_settings">Diğer çağrı ayarları</string>
   <string name="other_settings_category">Diğer</string>
   <string name="overseas_roaming_setting">Veri Dolaşımı</string>
-  <string name="password">Şifre</string>
   <string name="password_changed">Şifre değiştirildi</string>
   <string name="password_title">Şifre</string>
   <string name="pause_prompt_no">Hayır</string>
@@ -860,7 +853,6 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="pin_progress_unlock_icc">SIM kart kilidi açılıyor…</string>
   <string name="plmn_list_setting_add_plmn">Yeni PLMN</string>
   <string name="plmn_list_setting_title">Tercih edilen ağlar</string>
-  <string name="port">Port</string>
   <string name="port_title">Port Numarası</string>
   <string name="preference_auto_ip_summary_disable">Kapalı</string>
   <string name="preference_category_ringtone">Zil Sesi &amp; Titreşim</string>
@@ -989,10 +981,8 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="select_automatically">Otomatik Seç</string>
   <string name="select_voice_call_sim">SIM kartı seç</string>
   <string name="send_button">Gönder</string>
-  <string name="send_keepalive">Gönder ve Canlı Tut</string>
   <string name="send_keepalive_title">Gönder ve Canlı Tut</string>
   <string name="send_order_failed">"Sipariş gönderilemedi"</string>
-  <string name="set_primary">Öncelikli Hesap Olsun</string>
   <string name="set_primary_summary">Giden aramalar için kullanılan</string>
   <string name="set_primary_title">Birinci hesap olarak al</string>
   <string name="set_smsc_address_error">"Numara ayarlanamıyor"</string>
@@ -1026,10 +1016,7 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="sip_accounts">SIP Hesapları</string>
   <string name="sip_accounts_title">Hesaplar</string>
   <string name="sip_add_account_tip_text">İnternet aramasını kullanmak üzere, bir SIP hesabı ekle</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Daima gönder</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Tüm aramalar için veri ağı kullanılabilir olduğunda</string>
   <string name="sip_call_options_entry_2">Sadece SIP çağrıları için</string>
   <string name="sip_call_options_entry_3">Her çağrı için sor</string>
@@ -1132,7 +1119,6 @@ Sonraki dönem %2$d gün içinde başlar (%3$s)"</string>
   <string name="title_user_config">SIM kartı etkinleştir</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="top_up_first">Önce Kontör Yükle</string>
-  <string name="transport">Protokol</string>
   <string name="transport_title">Aktarım Türü</string>
   <string name="tty_mode_option_summary">TTY Modunu Ayarla</string>
   <string name="tty_mode_option_title">TTY Modu</string>
@@ -1154,7 +1140,6 @@ Sonraki dönem %2$d gün içinde başlar (%3$s)"</string>
   <string name="use_history">Etkinlik</string>
   <string name="use_history_duration_min">%1$s dk</string>
   <string name="use_range">Özellikler</string>
-  <string name="username">Adınız</string>
   <string name="username_title">Kullanıcı Adı</string>
   <string name="ussdRunning">USSD kodu çalışıyor...</string>
   <string name="ussd_dialog_sep">----------</string>
