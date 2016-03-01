@@ -12,5 +12,5 @@ MIUI Translation: raocakmak@gmail.com & cmadencan@gmail.com
 
 
 Translating and Fixing File: 
-TeleService.apk, ThemeManager.apk, Updater.apk, Weather.apk...
+ThemeManager.apk, Updater.apk, Weather.apk...
 
