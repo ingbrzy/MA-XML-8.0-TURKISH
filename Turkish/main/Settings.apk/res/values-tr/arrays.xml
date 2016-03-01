@@ -211,10 +211,10 @@
         <item>Önyükleme</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>coarse location</item>
-        <item>fine location</item>
+        <item>yaklaşık konum</item>
+        <item>hassas konum</item>
         <item>GPS</item>
-        <item>vibrate</item>
+        <item>titreşim</item>
         <item>kişileri oku</item>
         <item>kişileri yaz</item>
         <item>çağrı günlüğünü oku</item>
@@ -396,17 +396,6 @@
         <item>3</item>
         <item>4</item>
     </integer-array>
-    <string-array name="captioning_color_selector_titles">
-        <item>@string/color_unspecified</item>
-        <item>@string/color_white</item>
-        <item>@string/color_black</item>
-        <item>@string/color_red</item>
-        <item>@string/color_yellow</item>
-        <item>@string/color_green</item>
-        <item>@string/color_cyan</item>
-        <item>@string/color_blue</item>
-        <item>@string/color_magenta</item>
-    </string-array>
     <integer-array name="captioning_color_selector_values">
         <item>0x100</item>
         <item>0xffffffff</item>
@@ -605,11 +594,11 @@
     <string-array name="overlay_display_devices_values">
         <item></item>
         <item>720x480/160</item>
-        <item>720x480/160,secure</item>
+        <item>720x480/160,güvenli</item>
         <item>1280x720/213</item>
-        <item>1280x720/213,secure</item>
+        <item>1280x720/213,güvenli</item>
         <item>1920x1080/320</item>
-        <item>1920x1080/320,secure</item>
+        <item>1920x1080/320,güvenli</item>
         <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
@@ -622,7 +611,7 @@
         <item>0</item>
         <item>1</item>
         <item>systrace</item>
-        <item>error</item>
+        <item>hata</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Kapat</item>
@@ -632,7 +621,7 @@
     <string-array name="track_frame_time_entries">
         <item>Kapat</item>
         <item>Ekran üzerinde çubuklar halinde</item>
-        <item>In adb shell dumpsys gfxinfo</item>
+        <item>adb içinde shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Kapat</item>
@@ -1018,12 +1007,6 @@ Not: Sadece Ubuntu 8.04!"</item>
     <string-array name="phone_call_noise_suppression_values">
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>pattern</item>
-        <item>numerical</item>
-        <item>mixed</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Yüz kilidini aç</item>
