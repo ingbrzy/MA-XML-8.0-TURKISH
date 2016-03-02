@@ -629,8 +629,8 @@ Kontör yükle ve konuşmaya başla"</string>
   <string name="msim_enable_sim">Aç</string>
   <string name="msim_general_setting">Ayarlar</string>
   <string name="msim_has_been_disabled">(Devre dışı)</string>
-  <string name="msim_info_editor_name">SIM kart adını düzenle</string>
-  <string name="msim_info_editor_number">SIM kart numarasını düzenle</string>
+  <string name="msim_info_editor_name">SIM Kartın Adını Düzenle</string>
+  <string name="msim_info_editor_number">SIM Kartın Numarasını Düzenle</string>
   <string name="msim_info_editor_set_name_error">"Kaydedilemedi"</string>
   <string name="msim_mode_progress_activating_message">Açılıyor</string>
   <string name="msim_mode_progress_deactivating_message">Kapatılıyor</string>
@@ -858,7 +858,7 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="preference_category_ringtone">Zil Sesi &amp; Titreşim</string>
   <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
   <string name="preference_dial_pad_touch_tone_piano">Piyano Tuşları</string>
-  <string name="preference_dial_pad_touch_tone_title">Tuş Takımı Dokunma Tonları</string>
+  <string name="preference_dial_pad_touch_tone_title">Tuşa Dokunma Tonları</string>
   <string name="preference_telocation_summary_countrycode_off">"Ülke kodu otomatik eklenemiyor"</string>
   <string name="preference_telocation_summary_countrycode_on">Ülke Kodunu Otomatik Ekle</string>
   <string name="preference_telocation_summary_teloc_off">Kişi Konumunu Gizle</string>
