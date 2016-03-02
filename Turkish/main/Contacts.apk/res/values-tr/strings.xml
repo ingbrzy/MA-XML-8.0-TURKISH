@@ -465,7 +465,7 @@ Sebep: \"%s\""</string>
   <string name="import_all_vcard_string">Tüm vCard dosyalarını içe aktar</string>
   <string name="import_contact_card_button">İçe aktar</string>
   <string name="import_failure_no_vcard_file">Hafızada vCard dosyası bulunamadı.</string>
-  <string name="import_from_onekey_migrate">Mi Taşıyıcı kullanarak içeri aktar</string>
+  <string name="import_from_onekey_migrate">Mi Transfer kullanarak içeri aktar</string>
   <string name="import_from_other_phone">Başka bir telefondan içe aktar</string>
   <string name="import_from_sdcard">Hafızadan içe aktar</string>
   <string name="import_from_sim">SIM karttan içe aktar</string>
@@ -571,7 +571,7 @@ Sebep: \"%s\""</string>
   <string name="make_primary">Bu seçimi hatırla</string>
   <string name="map_custom">%s adresine bak</string>
   <string name="map_home">Ev adresine bak</string>
-  <string name="map_other">Adreslere Bak</string>
+  <string name="map_other">Adresleri Görüntüle</string>
   <string name="map_work">İş adresine bak</string>
   <string name="meid">MEID</string>
   <string name="meid_invalid">MEID geçersiz</string>
@@ -626,7 +626,7 @@ Sebep: \"%s\""</string>
   <string name="menu_show_voicemails_only">Sadece sesli mesajları göster</string>
   <string name="menu_splitAggregate">Ayır</string>
   <string name="menu_sync_remove">Eşitlenen Grubu Kaldır</string>
-  <string name="menu_viewContact">Kişiye Bak</string>
+  <string name="menu_viewContact">Kişiyi Görüntüle</string>
   <string name="merge_contact_message">%1$d kişi kısmen tekrarlanan veri içeriyor</string>
   <string name="messageShortcutActivityTitle">Mesaj gönderilecek numarayı seçin</string>
   <string name="miprofile_account_type">Kişi Kartvizitleri</string>
@@ -875,8 +875,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
   <string name="preference_dial_pad_touch_tone_human">Ses</string>
   <string name="preference_dial_pad_touch_tone_piano">Piyano Sesi</string>
-  <string name="preference_dial_pad_touch_tone_switch">Tuş Takımı Dokunma Sesleri</string>
-  <string name="preference_dial_pad_touch_tone_title">Tuş Takımı Dokunma Sesleri</string>
+  <string name="preference_dial_pad_touch_tone_switch">Tuşa Dokunma Sesleri</string>
+  <string name="preference_dial_pad_touch_tone_title">Tuşa Dokunma Sesleri</string>
   <string name="preference_display">Görünüm</string>
   <string name="preference_displayOptions">Görünüm Seçenekleri</string>
   <string name="preference_export">Dışa Aktar</string>
@@ -904,7 +904,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="preference_tone_title">Sesler</string>
   <string name="prepare_import">Kişileri İçe Aktar</string>
   <string name="preview_contact_card_title">Kişiler aktarılıyor…</string>
-  <string name="preview_incall_show_entry">Videoya Bak</string>
+  <string name="preview_incall_show_entry">Videoyu Oynat</string>
   <string name="previous">Önceki</string>
   <string name="private_num">Özel Numara</string>
   <string name="profile_display_name">Profilimi Ayarla</string>
@@ -1116,7 +1116,7 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="vcard_unknown_filename">kişi</string>
   <string name="video_call">Video Çağrısı</string>
   <string name="video_chat">Videolu Sohbet</string>
-  <string name="viewContactDesription">Kişiye Bak</string>
+  <string name="viewContactDesription">Kişiyi Görüntüle</string>
   <string name="viewContactTitle">Kişi Detayları</string>
   <string name="view_updates_from_group">Güncellemeleri Görüntüle</string>
   <string name="voicemail">Sesli Mesaj</string>
