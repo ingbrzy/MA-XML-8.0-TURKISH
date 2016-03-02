@@ -7,7 +7,7 @@
   <string name="accessibility_pick_end_time">Bitiş zamanı</string>
   <string name="accessibility_pick_start_date">Başlangıç tarihi</string>
   <string name="accessibility_pick_start_time">Başlangıç zamanı</string>
-  <string name="accessibility_pick_time_zone">Zaman dilimi</string>
+  <string name="accessibility_pick_time_zone">Zaman Dilimi</string>
   <string name="accessibility_reminder_privacy">Gizlilik</string>
   <string name="accessibility_reminder_showmeas">Bana göster</string>
   <string name="accessibility_reminder_time">Hatırlatıcı zamanı</string>
@@ -17,7 +17,7 @@
   <string name="accessibility_repeats">Tekrar</string>
   <string name="accessibility_sync_cal">Takvimi eşitle</string>
   <string name="account_and_calendar">Hesaplar</string>
-  <string name="account_and_calendar_to_display">Ekranındaki Takvimler</string>
+  <string name="account_and_calendar_to_display">Görüntülenecek Takvimler</string>
   <string name="accounts">Hesaplar ve Eşitleme</string>
   <string name="acct_not_synced">"Takvimlerinizi güncel olmayabilir bu hesap sekronize edilmemiş"</string>
   <string name="acessibility_cal_notification">Takvim bildirimi</string>
@@ -159,7 +159,7 @@
   <string name="event_info_when">Ne Zaman\u0009\u0009</string>
   <string name="event_info_where">Nerede\u0009</string>
   <string name="event_lunar_month">月</string>
-  <string name="event_show_more">Ek seçenekler</string>
+  <string name="event_show_more">Ek Seçenekler</string>
   <string name="event_view">Etkinliğe bak</string>
   <string name="every_weekday">Haftaiçi (Pzt–Cuma)</string>
   <string name="exist_calendar">已订阅</string>
@@ -344,8 +344,8 @@
   <string name="ticket_card_dialog_positive_button_text">安装</string>
   <string name="ticket_card_lunar">%1$s的火车票</string>
   <string name="ticket_card_phase">- 第%1$s期</string>
-  <string name="time_zone">Zaman dilimi</string>
-  <string name="timezone_label">Zaman dilimi</string>
+  <string name="time_zone">Zaman Dilimi</string>
+  <string name="timezone_label">Zaman Dilimi</string>
   <string name="today">Bugün</string>
   <string name="today_at_time_fmt">Bugün şu zamanda %s</string>
   <string name="today_flight_event">Uçuş</string>
