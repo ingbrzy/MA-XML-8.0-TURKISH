@@ -1,73 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string-array name="weather_type">
-	<item>Açık</item>
-	<item>Bulutlu</item>
-	<item>Kapalı</item>
-	<item>Sisli</item>
-	<item>Yağmur fırtınası</item>
-	<item>Sağanak</item>
-	<item>Sağanak</item>
-	<item>Gök gürültülü sağanak</item>
-	<item>Hafif yağmur</item>
-	<item>Sağanak</item>
-	<item>Hafif yağmur</item>
-	<item>Hafif yağmur</item>
-	<item>Karla karışık yağmur</item>
-	<item>Kar fırtınası</item>
-	<item>Kar</item>
-	<item>Yoğun kar yağışı</item>
-	<item>Hafif kar yağışı</item>
-	<item>Hafif kar yağışı</item>
-	<item>Şiddetli kum fırtınası</item>
-	<item>Kum fırtınası</item>
-	<item>Kum</item>
-	<item>Rüzgarlı</item>
-	<item>Dolu yağışı</item>
-	<item>Toz</item>
-	<item>Sisli</item>
-	<item>Dondurucu yağmur</item>
-	<item>Veri yok!</item>
-</string-array>
-<string-array name="weather_indexes_uv_level">
-	<item>Çok zayıf</item>
-	<item>Zayıf</item>
-	<item>Orta</item>
-	<item>Güçlü</item>
-	<item>Çok Güçlü</item>
-</string-array>
-<string-array name="wind_direction">
-	<item>Rüzgar K</item>
-	<item>Rüzgar KD</item>
-	<item>Rüzgar D</item>
-	<item>Rüzgar GD</item>
-	<item>Rüzgar G</item>
-	<item>Rüzgar GB</item>
-	<item>Rüzgar B</item>
-	<item>Rüzgar KB</item>
-</string-array>
-<string-array name="moon_desc">
-	<item>Yeni Ay</item>
-	<item>Hilal</item>
-	<item>İlk Dördün</item>
-	<item>Şişkin Ay</item>
-	<item>Dolunay</item>
-	<item>Şişkin Ay</item>
-	<item>Son Dördün</item>
-	<item>Hilal</item>
-	<item>Yeni Ay</item>
-</string-array>
-<string-array name="indices_sport">
-	<item>Uygun</item>
-	<item>Uygun değil</item>
-</string-array>
-<string-array name="indices_car_wash">
-	<item>Uygun</item>
-	<item>Uygun değil</item>
-</string-array>
-<string-array name="indices_uv_level">
-	 <item>Hafif</item>
-	 <item>Orta</item>
-	 <item>Güçlü</item>
-</string-array>
+    <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Hong Kong</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Moscow</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>İstanbul</item>
+        <item>Rio de Janeiro</item>
+        <item>Singapore</item>
+        <item>Berlin</item>
+        <item>Rome</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Bangkok</item>
+        <item>Seoul</item>
+        <item>Kuala Lumpur</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Güneşli</item>
+        <item>Bulutlu</item>
+        <item>Kapalı</item>
+        <item>Sisli</item>
+        <item>Ağır Yağmur Fırtınası</item>
+        <item>Sağanak</item>
+        <item>Yağmur Fırtınası</item>
+        <item>Gök Gürültülü Sağanak</item>
+        <item>Kısa Süreli Yağmur</item>
+        <item>Sağanak Yağış</item>
+        <item>Orta Dereceli Yağmur</item>
+        <item>Hafif Yağmur</item>
+        <item>Karla Karışık Yağmur</item>
+        <item>Kar Fırtınası/Tipi</item>
+        <item>Kar</item>
+        <item>Ağır Kar Yağışı</item>
+        <item>Orta Dereceli Kar Yağışı</item>
+        <item>Hafif Kar</item>
+        <item>Güçlü Kum Fırtınası</item>
+        <item>Kum Fırtınası</item>
+        <item>Kumlu</item>
+        <item>Rüzgarlı</item>
+        <item>Dolu</item>
+        <item>Toz</item>
+        <item>Sisli</item>
+        <item>Dondurucu Yağmur</item>
+        <item></item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Zayıf</item>
+        <item>Orta Menzilli</item>
+        <item>Güçlü</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Elverişli</item>
+        <item>Elverişsiz</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Elverişli</item>
+        <item>Elverişsiz</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>K</item>
+        <item>KD</item>
+        <item>D</item>
+        <item>GD</item>
+        <item>G</item>
+        <item>GB</item>
+        <item>B</item>
+        <item>KB</item>
+    </string-array>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+    </string-array>
 </resources>
