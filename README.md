@@ -12,5 +12,5 @@ MIUI Translation: raocakmak@gmail.com & cmadencan@gmail.com
 
 
 Translating and Fixing File: 
-XiaomiAuthenticator.apk, XiaomiServiceFramework.apk, XiaomiVip.apk, XMRemoteController.apk, YellowPage.apk
+XiaomiServiceFramework.apk, XiaomiVip.apk, XMRemoteController.apk, YellowPage.apk
 
