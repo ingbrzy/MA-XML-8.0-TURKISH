@@ -58,7 +58,7 @@
   <string name="baidu_music">Baidu müzik</string>
   <string name="being_disable_auto_payment">Kapatılıyor...</string>
   <string name="being_enable_auto_payment">Açılıyor...</string>
-  <string name="bill_list_fragment_title">Zirvedekiler</string>
+  <string name="bill_list_fragment_title">Popüler</string>
   <string name="bluetooth_device">Bluetooth ses cihazı</string>
   <string name="buffering">Önbellekleniyor...</string>
   <string name="button_add">Ekle</string>
@@ -319,13 +319,14 @@
   <string name="nav_local_favorite">Favori şarkılar</string>
   <string name="nav_local_song">İndirildi</string>
   <string name="nav_online_artist">Sanatçılar</string>
-  <string name="nav_online_billboard">Zirvedekiler</string>
+  <string name="nav_online_billboard">Popüler</string>
   <string name="nav_online_fm">Radyo</string>
   <string name="nav_online_playlist">Çalma Listesi</string>
   <string name="network_failure">Ağ bağlantısını kontrol edin ve tekrar deneyin!</string>
   <string name="network_request_error">"Ağa bağlanamıyor"</string>
   <string name="network_settings_error">"Ağa bağlanamıyor"</string>
   <string name="network_traffic">Veri kullanımı</string>
+  <string name="next_time">Sonraki Zaman</string>
   <string name="no_album_info">Albüm bilgisi yok</string>
   <string name="no_artist_info">Sanatçı bilgisi yok</string>
   <string name="no_enough_info">Yeterli şarkı bilgisi yok</string>
@@ -387,6 +388,7 @@
   <string name="renew_period">"Geçerlilik Tarihi: "</string>
   <string name="repeat_all_notif">Bütün şarkıları tekrarla</string>
   <string name="repeat_current_notif">Geçerli şarkıyı tekrarla</string>
+  <string name="restart_immediate">Şimdi Y. Başlat</string>
   <string name="retry">Tekrar Dene</string>
   <string name="ringtone_not_support">"Şarkı biçimi desteklenmiyor!"</string>
   <string name="search_album">Albüm Ara</string>
@@ -448,6 +450,7 @@
   <string name="start_to_download">İndiriliyor...</string>
   <string name="start_to_play">Oynat</string>
   <string name="start_to_use">Uygulamayı Aç</string>
+  <string name="start_update">Müzik uygulamasını son sürüme güncelleyin.</string>
   <string name="stream_normal">Standart kalitede oyna</string>
   <string name="stream_quality">Akış kalitesi</string>
   <string name="streamloadingtext">%s için bBağlanılıyor</string>
@@ -474,7 +477,7 @@
   <string name="ticket_title">Biletleri Göster</string>
   <string name="time_to_upgrade">Mi Müzik son sürüme güncelleyin</string>
   <string name="title_online_artist">Popüler Sanatçılar</string>
-  <string name="title_online_billboard">Zirvedekiler</string>
+  <string name="title_online_billboard">Popüler</string>
   <string name="title_online_fm">Radyo</string>
   <string name="title_online_recommend">Önerilen Liste</string>
   <string name="title_online_release">Yeni Albümler</string>
@@ -517,6 +520,8 @@
   <string name="upgrade_force">"Telif hakları nedeni ile çevrimiçi akış hizmetini durduruyoruz. Kaliteli müzik dinlemek için Müzik uygulamasını güncelleyin."</string>
   <string name="upgrade_immediate">Şimdi Güncelle</string>
   <string name="upgrade_membership">Daha fazla alan al</string>
+  <string name="upgrade_music">Müzik Güncelle</string>
+  <string name="upgrade_music_message">Paket hazır. Güncellemek için yeniden başlatın.</string>
   <string name="upgrade_nobeta">"Telif hakkı sorunları çözülene kadar çevrimiçi akış hizmetini durduruyoruz. Rahatsızlıktan dolayı özür dileriz :("</string>
   <string name="upgrade_remind">Güncelleme var</string>
   <string name="upgrade_services">Güncellemeler</string>
