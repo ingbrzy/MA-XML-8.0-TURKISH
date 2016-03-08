@@ -2,7 +2,7 @@
 <resources>
   <string name="add_miservice_dialog_content">"%s istisnalar listesine MIUI hizmet çerçevesini eklemenizi gerektirir. MIUI yerleşik uygulamaları ve diğer üçüncü parti uygulamalarından bildirim alabilirsiniz."</string>
   <string name="add_miservice_dialog_title">MIUI hizmet çerçevesi</string>
-  <string name="add_to_whitelist_button">İstisnaları yönet</string>
+  <string name="add_to_whitelist_button">Veri dolaşım istisnaları</string>
   <string name="add_white_list">Ekle</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Bir ay önce güncellendi</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Bir hafta önce güncellendi</string>
@@ -317,7 +317,7 @@ Zirve: %1$s%2$s | %3$s kullanıldı"</string>
   <string name="pref_free_traffic_settings">En üst veri kullanım ayarları</string>
   <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
   <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
-  <string name="pref_leisure_no_overlay">Aç</string>
+  <string name="pref_leisure_no_overlay">Açık</string>
   <string name="pref_leisure_not_opened">Kapat</string>
   <string name="pref_manual_adjust">Kullanım istatistiklerini elle ayarla</string>
   <string name="pref_month_begin_date">Kullanım sıfırlama tarihi</string>
@@ -329,8 +329,9 @@ Zirve: %1$s%2$s | %3$s kullanıldı"</string>
   <string name="pref_package_traffic_normal">Zirve: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Ek: %2$s</string>
   <string name="pref_package_traffic_settings">Mobil veri sınırı</string>
-  <string name="pref_pkg_begin_date">Kullanım sıfırlama tarihi</string>
-  <string name="pref_roaming_daily_limit_setting">Günlük veri dolaşım limiti</string>
+  <string name="pref_roaming_daily_limit_setting">Dolaşımda günlük veri limitini ayarla</string>
+  <string name="pref_roaming_daily_limit_setting_cat_title">Günlük veri sınırı</string>
+  <string name="pref_roaming_setting_gategory">Ayarlar</string>
   <string name="pref_roaming_setting_gategory">Veri dolaşımı</string>
   <string name="pref_setting_operators_message">Cihazınız veri kullanım istatistiklerini eşitlemek için operatöre göndereceği mesaji düzenleyin</string>
   <string name="pref_show_mobile_traffic">Cihaz en fazla 5 dakika süreyle bloke edildikten sonra kilidi açma sırasında veri kullanım istatistiklerini gösterecek</string>
@@ -362,7 +363,7 @@ Zirve: %1$s%2$s | %3$s kullanıldı"</string>
   <string name="pref_traffic_saving_whitelist_hint">"Seçilen uygulamalar için veri kullanımını sınırlama"</string>
   <string name="pref_version">Sürüm %s</string>
   <string name="pref_warning_values">Veri Kullanım Uyarısı seviyesi</string>
-  <string name="pref_whitelist_setting">İstisnaları yönet</string>
+  <string name="pref_whitelist_setting">Veri dolaşım istisnaları</string>
   <string name="privacy_declare_dialog_message">"Bu servisi kullandığınız zaman Opera\'nın &lt;a href=%s&gt; Hizmet Şartları&lt;/a&gt;-nı da kabul etmiş olursunuz."</string>
   <string name="privacy_declare_dialog_title">Hizmet Şartları</string>
   <string name="privacy_prompt_tc_sms_report_message">"Telefon numaranız ve operatör ayrıntıları şifrelenir ve veri kullanım bilgilerini güncellemek için Mi sunucularına yüklenir."</string>
@@ -386,7 +387,7 @@ Zirve: %1$s%2$s | %3$s kullanıldı"</string>
   <string name="roaming_limit_network_notification_body">Kullanılabilir veri şebekeleri için dokunun</string>
   <string name="roaming_limit_notification_title">Günlük dolaşım veri sınırına ulaştınız.</string>
   <string name="roaming_limit_warning_notification_body">Veri kullanımını görüntülemek için dokunun</string>
-  <string name="roaming_not_start_body">Veri dolaşımı ayarları için dokunun</string>
+  <string name="roaming_not_start_body">Veri dolaşımı ayarlarını görüntülemek için dokunun</string>
   <string name="roaming_not_start_title">Uluslararası dolaşım</string>
   <string name="roaming_start_body">Veri dolaşımı istisnaları için dokunun</string>
   <string name="roaming_start_title">Uluslararası dolaşım</string>
@@ -573,7 +574,7 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="traffic_setting_fragment_sms_content_tips">Mesajınızı buraya yazın</string>
   <string name="traffic_setting_fragment_template">Mesaj şablonu</string>
   <string name="traffic_setting_fragment_title">Veri kullanım sorgusu</string>
-  <string name="traffic_setting_open">Aç</string>
+  <string name="traffic_setting_open">Açık</string>
   <string name="traffic_setting_step_num">Veri Planının Ayarları</string>
   <string name="traffic_warning_purchase_title">Mobil Veri Kullanım Uyarısı</string>
   <string name="unable_connect_internet">İnternet bağlantısı yok</string>
