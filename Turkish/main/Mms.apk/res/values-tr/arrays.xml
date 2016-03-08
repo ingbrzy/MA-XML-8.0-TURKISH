@@ -88,15 +88,7 @@
         <item>vnd.android.cursor.item/note</item>
         <item>vnd.android.cursor.item/relation</item>
     </string-array>
-    <string-array name="entries_date_type">
-        <item>Alınan</item>
-        <item>Gönderilen</item>
-    </string-array>
-    <string-array name="entries_date_type_rightvalue">
-        <item>Alınan</item>
-        <item>Gönderilen</item>
-    </string-array>
-    <string-array name="resent_via_entries_sms">
+   <string-array name="resent_via_entries_sms">
         <item>SMS</item>
         <item>Mi Mesaji</item>
     </string-array>
