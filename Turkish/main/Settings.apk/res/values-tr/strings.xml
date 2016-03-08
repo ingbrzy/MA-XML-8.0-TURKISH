@@ -29,7 +29,7 @@
   <string name="accessibility_enable">Erişilebilirlik</string>
   <string name="accessibility_feature_or_input_method_not_allowed">Kuruluşunuz tarafından izin verilmiyor</string>
   <string name="accessibility_feature_state_off">Kapat</string>
-  <string name="accessibility_feature_state_on">Aç</string>
+  <string name="accessibility_feature_state_on">Açık</string>
   <string name="accessibility_global_gesture_preference_description">"Bu özellik açıldığında, hızlıca iki adımda erişilebilirlik özelliklerini etkinleştirebilirsiniz:
 
 1. Adım: Bir ses duyana kadar veya bir titreşim hissedene kadar güç düğmesini basılı tutun.
@@ -38,7 +38,7 @@
 
 Cihazda birden fazla kullanıcı varsa, geçici olarak kilit ekranına erişilebilir, cihaz kilidini açmak için bu kısayolu kullanabilirsiniz."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Kapat</string>
-  <string name="accessibility_global_gesture_preference_summary_on">Aç</string>
+  <string name="accessibility_global_gesture_preference_summary_on">Açık</string>
   <string name="accessibility_global_gesture_preference_title">Erişilebilirlik Kısayolu</string>
   <string name="accessibility_long_press_timeout_preference_title">Dokunma &amp;  Uzun Basma Süresi</string>
   <string name="accessibility_menu_item_settings">Ayarlar</string>
@@ -240,11 +240,17 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="assisted_gps_enabled">A-GPS için sunucuyu kullan (Ağ kullanımını azaltmak için işaretini kaldırın)</string>
   <string name="audio_list_loading">Yükleniyor...</string>
   <string name="audio_profile_settings_title">Ses Profilleri</string>
-  <string name="audio_record_proc_title">Gürültü engelleme</string>
+  <string name="audio_record_proc_title">Gürültüyü Engelle</string>
   <string name="auto_brightness_summary">Işık için parlaklık seviyesini iyi duruma getir</string>
   <string name="auto_brightness_title">Parlaklık Uyarlaması</string>
   <string name="auto_caps">Otomatik büyük harf</string>
   <string name="auto_caps_summary">Cümlelerde ilk harfi büyük yaz</string>
+  <string name="auto_disable_screenbuttons_ask">Sorma devre dışı</string>
+  <string name="auto_disable_screenbuttons_auto">Daima devre dışı</string>
+  <string name="auto_disable_screenbuttons_cancel">İptal</string>
+  <string name="auto_disable_screenbuttons_no">Asla devre dışı olmasın</string>
+  <string name="auto_disable_screenbuttons_summary">Seçilen uygulamaları kullanırken otomatik gezinme düğmelerini devre dışı bırakın. Herhangi bir gezinti düğmesini yeniden etkinleştirmek için iki kez hafifçe dokunun.</string>
+  <string name="auto_disable_screenbuttons_title">Otomatik olarak gezinme düğmelerini devre dışı bırak</string>
   <string name="auto_launch_disable_text">Varsayılan ayarda değil.</string>
   <string name="auto_launch_enable_text">"Bu uygulamayı bazı işlemler için varsayılan olarak başlatmayı seçtiniz."</string>
   <string name="auto_launch_label">Varsayılan olarak başlat</string>
@@ -259,7 +265,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="auto_startup_count">%d uygulamaya otomatik başlama izni verildi</string>
   <string name="automatic_brightness">Otomatik Parlaklık</string>
   <string name="available_size">%s mevcut</string>
-  <string name="awake">Aygıtın uyanıkken süresi</string>
+  <string name="awake">Aygıtın uyanık kalma süresi</string>
   <string name="back_key">Geri</string>
   <string name="background_data">Arkaplan Verisi</string>
   <string name="background_data_dialog_message">Arkaplan verilerini devre dışı bırakmak, pilden tasarruf sağlar ve veri kullanımını azaltır. Bazı uygulamalar yine de arkaplan veri bağlantısını kullanmaya devam edebilir.</string>
@@ -320,7 +326,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="battery_info_label">Pil Bilgileri</string>
   <string name="battery_info_level_label">Pil Seviyesi:</string>
   <string name="battery_info_power_ac">AC</string>
-  <string name="battery_info_power_ac_usb">AC+USB</string>
+  <string name="battery_info_power_ac_usb">ACUSB</string>
   <string name="battery_info_power_label">Elektrik Fişi:</string>
   <string name="battery_info_power_unknown">Bilinmiyor</string>
   <string name="battery_info_power_unplugged">Prize takılı değil</string>
@@ -569,7 +575,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_unlock_state_too_far">Yeterince yakın değil</string>
   <string name="bluetooth_unlock_title">Bluetooth ile kilidi aç</string>
   <string name="bluetooth_unlock_turned_off">Kapalı</string>
-  <string name="bluetooth_unlock_turned_on">Aç</string>
+  <string name="bluetooth_unlock_turned_on">Açık</string>
   <string name="bluetooth_untether_blank">%1$s internet paylaşımı kesilecek.</string>
   <string name="bluetooth_visibility_timeout">Görünürlük zaman aşımı</string>
   <string name="breathing_light_color_menu_title">Işık rengi</string>
@@ -987,7 +993,7 @@ Veri kullanımı telefonla ölçülür ve operatör kullanım hesaplaması farkl
   <string name="disabled">Kapalı</string>
   <string name="disabled_because_no_backup_security">Kullanmak için, öncelikle bir ekran kilidi ayarlayın</string>
   <string name="disconnect">bağlantıyı kes</string>
-  <string name="display_auto_rotate_rotate">Aç</string>
+  <string name="display_auto_rotate_rotate">Açık</string>
   <string name="display_auto_rotate_stay_in_current">Kapat</string>
   <string name="display_auto_rotate_stay_in_landscape">Yataya kilitle</string>
   <string name="display_auto_rotate_stay_in_portrait">Dikeye kilitle</string>
@@ -1253,7 +1259,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="force_stop_dlg_text">Bir uygulamayı zorla durdurmak, bunun hatalı davranmasına neden olabilir.</string>
   <string name="force_stop_dlg_title">Zorla durdurmak istiyor musunuz?</string>
   <string name="forget">UNUT</string>
-  <string name="forget_password_button_text">&lt;u&gt;Şifreyi Unut&lt;/u&gt;</string>
+  <string name="forget_password_button_text">Şifreyi Unuttum</string>
   <string name="forget_wifi_message">Telefonunuz bu ağa otomatik bağlanmayı kesecek.</string>
   <string name="found_new_version">Güncelleme var</string>
   <string name="fp_nav_center_back_to_home_title">Ana ekrana geri dönmek için Ana Sayfa düğmesine dokunun</string>
@@ -1503,7 +1509,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="link_speed_label">Bağlantı hızı:</string>
   <string name="loading_notification_apps">Uygulamalar yükleniyor...</string>
   <string name="local_auto_backup_off">Kapat</string>
-  <string name="local_auto_backup_on">Aç</string>
+  <string name="local_auto_backup_on">Açık</string>
   <string name="local_auto_backup_section_title">Otomatik Yedekle</string>
   <string name="local_backup_password_summary_change">Değiştirmek veya masaüstü tam yedeklemeler için parolayı kaldırmak için dokunun</string>
   <string name="local_backup_password_summary_none">"Masaüstü tam yedeklemeleri şu an korunmuyor"</string>
@@ -1789,7 +1795,7 @@ Müzik, resim, ve diğer kullanıcı verilerini temizlemek içine "&lt;b&gt;SD k
   <string name="miui_screensaver_show_time">Süre</string>
   <string name="miui_screensaver_show_time_select_title">Sunum Süresi Ayarı</string>
   <string name="miui_screensaver_state_off">Kapat</string>
-  <string name="miui_screensaver_state_on">Aç</string>
+  <string name="miui_screensaver_state_on">Açık</string>
   <string name="miui_screensaver_title">Ekran Koruyucu</string>
   <string name="miui_screensaver_usage">Ekran koruyucu ekran kapandıktan 5 saniye sonra başlayacak</string>
   <string name="miui_silent_title">Sessiz Mod</string>
@@ -2137,7 +2143,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="print_enable">Yazdırmayı etkinleştir</string>
   <string name="print_failed_state_title_template">Yazıcı Hatası: %1$s</string>
   <string name="print_feature_state_off">Kapat</string>
-  <string name="print_feature_state_on">Aç</string>
+  <string name="print_feature_state_on">Açık</string>
   <string name="print_job_summary">"%1$s
 %2$s"</string>
   <string name="print_menu_item_add_printer">Yazıcı Ekle</string>
@@ -2229,7 +2235,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="quick_launch_display_mode_applications">Uygulamalar</string>
   <string name="quick_launch_display_mode_shortcuts">Kısayollar</string>
   <string name="quick_launch_no_shortcut">Kısayol yok</string>
-  <string name="quick_launch_shortcut">Ara + %1$s</string>
+  <string name="quick_launch_shortcut">Ara  %1$s</string>
   <string name="quick_launch_summary">Uygulamaları başlatmak için klavye kısayollarını ayarlayın</string>
   <string name="quick_launch_title">Hızlı Başlat</string>
   <string name="quiet">Rahatsız Etme</string>
@@ -2254,7 +2260,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="radioInfo_phone_idle">Boşta</string>
   <string name="radioInfo_phone_offhook">Çağrı devam ediyor</string>
   <string name="radioInfo_phone_ringing">Çalıyor</string>
-  <string name="radioInfo_roaming_in">Aktif</string>
+  <string name="radioInfo_roaming_in">Etkin</string>
   <string name="radioInfo_roaming_not">Pasif</string>
   <string name="radioInfo_service_emergency">Yalnızca acil çağrılar için</string>
   <string name="radioInfo_service_in">Hizmette</string>
@@ -2262,7 +2268,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="radioInfo_service_out">Hizmet dışı</string>
   <string name="radioInfo_unknown">Bilinmiyor</string>
   <string name="radio_controls_summary">WLAN, Bluetooth, Uçak Modu, Mobil Ağlar, &amp; VPN\'i Yönet</string>
-  <string name="radio_controls_title">Fazlası</string>
+  <string name="radio_controls_title">Diğer Ağlar</string>
   <string name="radio_info_band_mode_label">Radyo bandını seç</string>
   <string name="radio_info_call_redirect_label">Çağrı yeniden yönlendir:</string>
   <string name="radio_info_call_status_label">Çağrı durumu:</string>
@@ -2735,7 +2741,7 @@ Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</st
   <string name="status_bar_app_disable_notification">Bildirimleri gizle</string>
   <string name="status_bar_app_enable_floating">Kayan Bildirimler</string>
   <string name="status_bar_app_enable_keyguard">Ekran Kilidi</string>
-  <string name="status_bar_app_enable_message">Rozetler</string>
+  <string name="status_bar_app_enable_message">Simgeler</string>
   <string name="status_bar_key_position_custom">Özel Tuş Pozisyonu</string>
   <string name="status_bar_screen_button_key">Ekran Tuşları</string>
   <string name="status_bar_screen_key_back">Geri Tuşu</string>
@@ -2832,7 +2838,7 @@ Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</st
   <string name="supl_not_set">&lt;Ayarsız&gt;</string>
   <string name="supplicant_state_label">Rica Durumu:</string>
   <string name="switch_off_text">Kapat</string>
-  <string name="switch_on_text">Aç</string>
+  <string name="switch_on_text">Açık</string>
   <string name="symbols_not_allowed_for_password">"Şifre semboller içeremez"</string>
   <string name="sync_active">Eşitleme etkin</string>
   <string name="sync_automatically">Uygulama verisini otomatik eşitle</string>
@@ -3137,7 +3143,7 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
   <string name="user_dict_settings_context_menu_edit_title">Düzenle</string>
   <string name="user_dict_settings_edit_dialog_title">Kelimeyi düzenle</string>
   <string name="user_dict_settings_empty_text">"Herhangi bir sözlük yok
-Ekle butonunu (+)kullanarak kelime ekleyin."</string>
+Ekle butonunu ()kullanarak kelime ekleyin."</string>
   <string name="user_dict_settings_more_languages">Diğer Diller…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Sözlüğüm</string>
@@ -3457,7 +3463,7 @@ Wi‑Fi Asistanı"</string>
   <string name="wifi_menu_wps_pbc">WPS Push Tuşu</string>
   <string name="wifi_menu_wps_pin">WPS Pin Girişi</string>
   <string name="wifi_menu_write_to_nfc">NFC etiketine yazın</string>
-  <string name="wifi_more">Diğer Bağlantılar</string>
+  <string name="wifi_more">Fazlası</string>
   <string name="wifi_network_prefix_length">Önek uzunluğu</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Aralıkta değil</string>
@@ -3606,7 +3612,7 @@ Farklı bir WLAN ağına başlanmak için "&lt;b&gt;Geri&lt;/b&gt; tuşuna dokun
   <string name="wifi_share_summary2">Başka bir MIUI kullanıcısı bir ağı paylaştığında, bir şifre olmadan doğrudan ona bağlanabilirsiniz.</string>
   <string name="wifi_share_summary3">Ayrıca diğer MIUI kullanıcıları ile halka açık WLAN ağlarını paylaşabilirsiniz.</string>
   <string name="wifi_share_turn_off">Kapat</string>
-  <string name="wifi_share_turn_on">Aç</string>
+  <string name="wifi_share_turn_on">Açık</string>
   <string name="wifi_share_upload">Paylaş</string>
   <string name="wifi_share_upload_finish">Paylaşıldı</string>
   <string name="wifi_share_uploading">Paylaşılıyor...</string>
@@ -3692,7 +3698,7 @@ Farklı bir WLAN ağına başlanmak için "&lt;b&gt;Geri&lt;/b&gt; tuşuna dokun
   <string name="window_animation_scale_title">Pencere animasyon ölçeği</string>
   <string name="wireless_networks_settings_title">Kablosuz &amp; Ağlar</string>
   <string name="wireless_off">Kapat</string>
-  <string name="wireless_on">Aç</string>
+  <string name="wireless_on">Açık</string>
   <string name="wizard_back">Geri</string>
   <string name="wizard_finish">Bitti</string>
   <string name="wizard_next">Sonraki</string>
