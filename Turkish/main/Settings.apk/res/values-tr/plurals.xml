@@ -60,4 +60,13 @@
         <item quantity="other">"Hata Raporu oluşturmanız için %1$d adım kaldı."</item>
         <item quantity="one">"Hata Raporu oluşturmanız için %1$d adım kaldı."</item>
     </plurals>
+	<plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Daima %d uygulama devre dışı</item>
+        <item quantity="one">Daima 1 uygulama devre dışı</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Asla %d uygulama devre dışı olmasın</item>
+        <item quantity="one">Asla 1 uygulama devre dışı olmasın</item>
+    </plurals>
+ 
 </resources>
