@@ -287,6 +287,12 @@
   <string name="permission_send_sms_descx">Uygulamalar SMS ve MMS gönderebilir</string>
   <string name="permission_with_SMS_and_MMS">SMS ve MMS ile ilgili izinler</string>
   <string name="permission_with_call_and_contact">Telefon görüşmeleri, kişi bilgileri ve çağrı günlükleri ile ilgili izinler.</string>
+  <string name="pm_auto_start_basic_services_lock">Kilitle</string>
+  <string name="pm_auto_start_basic_services_unlock">Kilidi Aç</string>
+  <string name="pm_auto_start_by_basic_services">Esas Hizmetler</string>
+  <string name="pm_auto_start_by_other_services">Bu hizmetleri kapatmayı dene</string>
+  <string name="pm_auto_start_by_system">Uygulamaları Başlat</string>
+  <string name="pm_auto_start_proc_is_running">Çalışan</string>
   <string name="pm_root_success_notification_title">Root erişimi etkin</string>
   <string name="power_20s_enter_mode">Pil %1$ds ise şu moda geç: %2$s</string>
   <string name="power_20s_shutdown">Telefonunuz 20 saniye içinde kapanacak</string>
@@ -405,7 +411,7 @@
   <string name="power_mode_sleep_in_seconds">%1$d saniye sonra</string>
   <string name="power_mode_sleep_never">Asla</string>
   <string name="power_mode_switch_off">Kapat</string>
-  <string name="power_mode_switch_on">Aç</string>
+  <string name="power_mode_switch_on">Açık</string>
   <string name="power_mode_synchronization">Eşitle</string>
   <string name="power_mode_touch_with_ring">Dokunulduğunda sesle bildir</string>
   <string name="power_mode_touch_with_vibration">Dokunulduğunda titret</string>
