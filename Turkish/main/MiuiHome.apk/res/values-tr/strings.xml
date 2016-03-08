@@ -22,14 +22,14 @@
   <string name="app_category_tools">Araçlar</string>
   <string name="app_category_travel">Seyahat</string>
   <string name="application_name">Sistem Başlatıcısı</string>
-  <string name="apply">Uygula</string>
-  <string name="apply_action">Uygula</string>
-  <string name="apply_as_lock_screen">Kilit Ekranı</string>
-  <string name="apply_as_lock_wallpaper_message">Duvar kağıdı kilit ekranına da uygulansın mı?</string>
-  <string name="apply_as_lockwallpaper_action">Kilit Ekranı</string>
-  <string name="apply_as_wallpaper">Ana Ekran</string>
+  <string name="apply">Ayarla</string>
+  <string name="apply_action">Ayarla</string>
+  <string name="apply_as_lock_screen">Kilit Ekranı olarak ayarla</string>
+  <string name="apply_as_lock_wallpaper_message">Kilit Ekranına bu duvar kağıdı ayarlansın mı?</string>
+  <string name="apply_as_lockwallpaper_action">Ayarla</string>
+  <string name="apply_as_wallpaper">Ana Ekran olarak ayarla</string>
   <string name="apply_both">Her ikisine de</string>
-  <string name="apply_negative_action">"Uygulama"</string>
+  <string name="apply_negative_action">"Ayarlama!"</string>
   <string name="aqi_quality_index_dangerous">Tehlikeli</string>
   <string name="aqi_quality_index_good">İyi</string>
   <string name="aqi_quality_index_hazardous">Riskli</string>
@@ -48,7 +48,7 @@
   <string name="children_mode_exit">Çık</string>
   <string name="children_mode_tips">Ayarlar dönün ve uygulamalara erişimi yönetin.</string>
   <string name="choose_wallpaper">Duvar kağıdını seçin</string>
-  <string name="chooser_wallpaper">Duvar kağıdını seç</string>
+  <string name="chooser_wallpaper">Yeni duvar kağıdını seç</string>
   <string name="cloud_app_restore_title">Bekliyor</string>
   <string name="configure_wallpaper">Ayarlar</string>
   <string name="confirm_btn_label">Tamam</string>
@@ -150,7 +150,7 @@
   <string name="loading_desktop">Biraz bekleyin...</string>
   <string name="loading_wallpaper">Biraz bekleyin...</string>
   <string name="local_wallpaper">İndirildi</string>
-  <string name="lock_screen_failed_message">"Kilit ekranı duvar kağıdı uygulanamıyor"</string>
+  <string name="lock_screen_failed_message">"Kilit ekranı duvar kağıdı ayarlanamıyor"</string>
   <string name="lock_screen_success_message">Duvar kağıdınız başarıyla ayarlandı</string>
   <string name="menu_add">Ekle</string>
   <string name="menu_back_desktop">Ana Ekrana Dön</string>
@@ -182,7 +182,7 @@
   <string name="permlab_uninstall_shortcut">Kısayolları kaldır</string>
   <string name="permlab_write_settings">Ana Ekran Ayarlarını ve Kısayolları düzenle</string>
   <string name="photo_adjust">Önizleme</string>
-  <string name="photo_confirm">Uygula</string>
+  <string name="photo_confirm">Ayarla</string>
   <string name="photo_load_failed">"Resim yyüklenemedi"</string>
   <string name="pref_cell_layout_size">Uygulama Simge Düzeni</string>
   <string name="pref_enable_drawing_cache_summary">Daha fazla hafıza için bu özelliği kapatın. Telefonunuzun yavaş çalışmasına sebep olabilir.</string>
@@ -251,7 +251,7 @@
   <string name="unnamed_folder_name">İsimsiz Klasör</string>
   <string name="wallpaper">Duvar Kağıdı</string>
   <string name="wallpaper_auto_change_title">Kilit Ekranı</string>
-  <string name="wallpaper_failed_message">"Duvar kağıdı uygulanamadı"</string>
+  <string name="wallpaper_failed_message">"Duvar kağıdı ayarlanamadı"</string>
   <string name="wallpaper_scaling_message">Sabit boyuta ölçekle</string>
   <string name="wallpaper_settings">Duvar Kağıdı Ayarları</string>
   <string name="wallpaper_success_message">Duvar Kağıdı uygulandı</string>
