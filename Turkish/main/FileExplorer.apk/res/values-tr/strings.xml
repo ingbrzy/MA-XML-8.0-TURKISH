@@ -422,6 +422,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="operation_show_sys">Gizli dosyaları göster</string>
   <string name="operation_unfavorite">Favoriden Çıkart</string>
   <string name="operation_unlike">Beğenme!</string>
+  <string name="otg_file_can_not_open">"USB\'deki dosya açılamıyor. Önce dahili depolamaya dosyayı kopyalayın."</string>
   <string name="pan_settting">KuaiPan Ayarları</string>
   <string name="partial_cancel_successful">"Bazı dosyalar kaldırılamadı. %s dosyalarının geri kalanı taşındı."</string>
   <string name="partial_delete_failure">"Bazı dosyalar silinemedi, tekrar deneyin"</string>
@@ -429,7 +430,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="partial_repair_done">Bazı dosyalar geri yüklendi</string>
   <string name="paused">Durduruldu</string>
   <string name="petabyteShort">PB</string>
-  <string name="phone">Dahili depolama</string>
+  <string name="phone">Dahili Depolama</string>
   <string name="phone_storage">Depolama</string>
   <string name="phone_storage_apk_title">APK: </string>
   <string name="phone_storage_audio_title">Müzik: </string>
@@ -447,7 +448,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="pick_folder">Dizin seç</string>
   <string name="port_range">Port numarası 1024–65535 arasında olmalıdır</string>
   <string name="private_files">Gizli</string>
-  <string name="private_folder">Gizli klasör</string>
+  <string name="private_folder">Gizli Klasör</string>
   <string name="private_folder_no_file_hints">Gizli dizin yok.</string>
   <string name="private_folder_update">Gizli dosyalar güncelleniyor...</string>
   <string name="private_toast_hint1">Gizli klasörlere dosyalar eklemek için dokunun</string>
