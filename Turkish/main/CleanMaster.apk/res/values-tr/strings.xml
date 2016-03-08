@@ -119,11 +119,13 @@
   <string name="dialog_msg_backup_and_uninstall_apps">Yedekle ve seçilen uygulamaları kaldır?!</string>
   <string name="dialog_msg_check_all">%2$d öğeyi içeren %1$s \'i seçmek için onaylayın</string>
   <string name="dialog_msg_load_cleanup_engine_error">Temizleyici motoru bozuldu.</string>
+  <string name="dialog_msg_stop_scan">"Tamamlanmadan önce çöp için tarama durdurulsun mu?"</string>
   <string name="dialog_msg_uninstall_apps">Bu uygulamalar kaldırılsın mı?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Yedekle ve Kaldır</string>
   <string name="dialog_title_check_all">Tümünü Seç</string>
   <string name="dialog_title_delete_image">Seçilen görüntüleri sil</string>
   <string name="dialog_title_load_cleanup_engine_error">Birşeyler ters gitti!</string>
+  <string name="dialog_title_stop_scan">Çöp taramasını durdur</string>
   <string name="dialog_title_uninstall_apps">Kaldır</string>
   <string name="download">İndir</string>
   <string name="downloading">İndiriliyor</string>
