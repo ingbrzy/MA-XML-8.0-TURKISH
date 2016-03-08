@@ -439,6 +439,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="paused_waiting_to_retry">Tekrar denemek için bekleniyor...</string>
   <string name="popup_window_attempt">Bu sitenin pop-up pencere açmasına izin verilsin mi?</string>
   <string name="positive_confirm_message">Yine de kapat</string>
+  <string name="pref_accessibility">Erişebilirlik</string>
   <string name="pref_accessibility_title">Erişebilirlik</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Ortak harf kombinasyonları adres çubuğunda tek başına girilebilir</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Hızlı URL girişi</string>
@@ -459,7 +460,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_content_cloud_speedup">Proxy sunucuları kullanılarak içeriği daha hızlı yükle</string>
   <string name="pref_content_fontsize_setting">Font Ayarları</string>
   <string name="pref_content_homepage">Başlangıç Sayfasını Ayarla</string>
-  <string name="pref_content_javascript">JavaScripti Aktifleştir</string>
+  <string name="pref_content_javascript">JavaScripti Etkinleştir</string>
   <string name="pref_content_night_read_mode">Gece Modu</string>
   <string name="pref_content_search_engine">Adres çubuğundaki arama motoru</string>
   <string name="pref_content_search_engine_summary">Bir arama motoru seçin</string>
