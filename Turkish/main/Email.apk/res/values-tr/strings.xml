@@ -3,12 +3,6 @@
   <string name="SMTP_independent_verification_text">SMTP Bağımsız Doğrulama</string>
   <string name="SMTP_password_text">Şifre</string>
   <string name="SMTP_username_text">Kullanıcı Adı</string>
-  <string name="abc_action_mode_done">Tamam</string>
-  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
-  <string name="abc_searchview_description_query">Sorguyu ara</string>
-  <string name="abc_searchview_description_search">Ara</string>
-  <string name="abc_searchview_description_submit">Sorgu gönder</string>
-  <string name="abc_searchview_description_voice">Sesli Ara</string>
   <string name="account_duplicate_dlg_message_fmt">"\"%s\" hesabı için zaten bu kullanıcı adını kullanıyorsunuz."</string>
   <string name="account_duplicate_dlg_title">Tekrarlanan Hesap</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -155,7 +149,7 @@
   <string name="add_pre_message_attachments">Taslağa ek eklensin mi?</string>
   <string name="add_pre_message_attachments_no">"Ekleme"</string>
   <string name="add_pre_message_attachments_yes">Ekle</string>
-  <string name="add_star">Yıldız</string>
+  <string name="add_star">Favori</string>
   <string name="allread">Tümünü Oku</string>
   <string name="always_bcc_myself">Daima Banada Bcc</string>
   <string name="always_show_images">Her zaman bu göndericinin resimlerini göster</string>
@@ -232,6 +226,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Resimler temizlensin mi?</string>
   <string name="clear_display_images_whitelist_title">Resimleri temizle</string>
   <string name="click_download_all_content">[ İçeriği indirmek için dokunun ]</string>
+  <string name="click_to_reload">Yeniden yüklemek için ekrana tıklayın</string>
   <string name="collapse_recipient_details">Alıcı ayrıntılarını daralt</string>
   <string name="colon">:</string>
   <string name="compose">Yaz</string>
@@ -277,7 +272,7 @@
   <string name="contextmenu_feedback">Geribildirim gönder</string>
   <string name="contextmenu_help">Yardım</string>
   <string name="contextmenu_map">Harita</string>
-  <string name="contextmenu_open">Aç</string>
+  <string name="contextmenu_open">Açık</string>
   <string name="contextmenu_openlink">Tarayıcıda Aç</string>
   <string name="contextmenu_send_mail">E-Posta gönder</string>
   <string name="contextmenu_sharelink">Bağlantıyı paylaş</string>
@@ -449,6 +444,18 @@
   <string name="hint_quick_reply_all">Tümünü Cevapla</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Gelen posta sunucusu için şifre yanlış</string>
+  <string name="info_actionbar_normal_detail">Makale ayrıntıları</string>
+  <string name="info_actionbar_subscribe">Abonelik çizgisi</string>
+  <string name="info_item_from">Gönderen </string>
+  <string name="info_item_hide">Gizle</string>
+  <string name="info_loading">Yükleniyor</string>
+  <string name="info_name_title">Yenilikler</string>
+  <string name="info_no_message">Makale yok!</string>
+  <string name="info_no_more_message">"Daha fazlası yok"</string>
+  <string name="info_switch_summary">Gelen Kutusundaki yeniliklere bak</string>
+  <string name="info_switch_title">Gelen Kutusu Yenilikleri</string>
+  <string name="info_sync_error">Eşitleme hatası, daha sonra tekrar deneyin.</string>
+  <string name="information_subscribe_first_intro">「Abone Ol」 ilk kez kullanılacak ,Lütfen ilgilendiğiniz etiketleri seçin. Size çeşitli içerikler önereceğiz~</string>
   <string name="inline_picture_deleted">Eksik resim indiriliyor...</string>
   <string name="input_password_prompt">Şifreni gir</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
@@ -478,7 +485,7 @@
   <string name="mailbox_name_display_junk">İstenmeyen</string>
   <string name="mailbox_name_display_outbox">Giden Kutusu</string>
   <string name="mailbox_name_display_sent">Giden</string>
-  <string name="mailbox_name_display_starred">Yıldızlı</string>
+  <string name="mailbox_name_display_starred">Favoride</string>
   <string name="mailbox_name_display_trash">Çöp Kutusu</string>
   <string name="mailbox_name_display_unread">Okunmamış</string>
   <string name="mailbox_settings_activity_title">Eşitleme Ayarları</string>
@@ -520,7 +527,8 @@
   <string name="menu_att_mgr_order_size">Boyuta Göre</string>
   <string name="menu_change_folders">Taşı</string>
   <string name="menu_compose">Yaz</string>
-  <string name="menu_folder_options">Eşitleme Ayarları</string>
+  <string name="menu_discovery">Bul</string>
+   <string name="menu_folder_options">Eşitleme Ayarları</string>
   <string name="menu_move_to">Taşı</string>
   <string name="menu_move_to_inbox">Gelen Kutusuna Taşı</string>
   <string name="menu_photo_save_all">Tümünü Kaydet</string>
@@ -553,8 +561,11 @@
   <string name="move_to_selection_dialog_title">Başka dizine taşı</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Sessiz</string>
+  <string name="net_check_title">Ağ bağlantısı kurulamadı. Ağ ayarlarını kontrol edin ve tekrar deneyin.</string>
   <string name="network_error">Bağlantı yok</string>
   <string name="network_not_available">"Ağa bağlanamıyor"</string>
+  <string name="network_try_again">Ağı kontrol edin</string>
+  <string name="network_unavailable">Ağ mevcut değil</string>
   <string name="new_incoming_messages_one"> %s\'dan yeni mesaj. Göster.</string>
   <string name="new_messages">%1$d yeni mesajlar</string>
   <string name="next_action">Sonraki</string>
@@ -672,6 +683,7 @@
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Yenilemek için aşağı çek</string>
+  <string name="pull_up_to_load_more">Daha fazlasını yükle</string>
   <string name="push_wps_better_confirm_download">İndir</string>
   <string name="push_wps_better_confirm_exit">Şimdi değil</string>
   <string name="push_wps_better_confirm_message">WPS Office kullanarak bu eki açmayı deneyin.</string>
@@ -769,6 +781,7 @@
   <string name="security_unsupported_ticker_fmt">"\"%s\" hesabı güvenlik gereksinimleri nedeniyle eşitlenemiyor."</string>
   <string name="select_attachment_type">Ek türünü seçin</string>
   <string name="select_no_file">Ek seçilmedi</string>
+  <string name="selected_lable">Seçildi</string>
   <string name="send">Gönder</string>
   <string name="send_failed">"Mesaj gönderilemedi!"</string>
   <string name="sender_whitelist_cleared">"Resimler otomatik olarak gösterilmeyecektir."</string>
@@ -849,10 +862,11 @@
   <string name="trigger_y_char">y</string>
   <string name="try_exchange_login">EXCHANGE ile giriş yap</string>
   <string name="turn_auto_sync_on_dialog_body">Yapılan değişiklikler sadece Gmail ile değil tüm uygualmalar ve hesaplar, diğer cihazlar, web, %1$s ile aralarındaki içerikleride eşitleyecektir.</string>
-  <string name="turn_auto_sync_on_dialog_confirm_btn">Aç</string>
+  <string name="turn_auto_sync_on_dialog_confirm_btn">Açık</string>
   <string name="turn_auto_sync_on_dialog_title">Otomatik eşitleme açılsın mı?</string>
   <string name="undo">Geri Al</string>
   <string name="unread_string">okunmamış görüşme</string>
+  <string name="unselected_lable">Fazlası</string>
   <string name="unsent_messages_in_outbox">%2$s içinde gönderilmemiş %1$s</string>
   <string name="unzip_file_failed">"Dosya açılamadı"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
@@ -879,6 +893,7 @@ Mail eşitlenmeden önce "&lt;b&gt;Şimdi Eşitleye&lt;/b&gt; dokunun veya bu he
   <string name="widget_other_views">Diğer</string>
   <string name="wrong_password">Girdiğiniz şifre doğru değildir</string>
   <string name="yes">Evet</string>
+  <string name="yidianzixun">yidianzixun</string>
   <string name="you_are_in_mobile_network">Mobil veri bağlantısı kullanarak günlük gönderilsin mi? Eğer planladığınız veri kullanımının üzerine çıkarsanız, öperatörünüz sizden ek ücret talep edebilir.</string>
   <string name="zip_viewer_no_file">Dosya yok.</string>
 </resources>
