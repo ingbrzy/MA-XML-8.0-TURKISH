@@ -6,6 +6,13 @@
   <string name="apply_password_action">Şifreyi belirle</string>
   <string name="apply_password_confirm_dlg_msg">%s için parola istensin mi​?</string>
   <string name="apply_password_confirm_dlg_title">Bu şifre %s için kullanılacak</string>
+  <string name="auto_disable_screenbuttons_disable_toast_text">Ekran düğmeleri devre dışı, çıkmak için herhangi bir tuşa çift basın</string>
+  <string name="auto_disable_screenbuttons_enable_toast_text">Ekran düğmeleri etkin</string>
+  <string name="auto_disable_screenbuttons_float_text">Ekran düğmelerini devre dışı bırakmak için dokunun</string>
+  <string name="auto_disable_screenbuttons_prompts_message">Devre dışıyken çıkmak için çift basın, bu eylemin gerçekleşmesini sağlar </string>
+  <string name="auto_disable_screenbuttons_prompts_not_show_again">Bunu tekrar sorma</string>
+  <string name="auto_disable_screenbuttons_prompts_ok">Tamam</string>
+  <string name="auto_disable_screenbuttons_prompts_title">Otomatik olarak ekran düğmelerini devre dışı bırak</string>
   <string name="auto_start_warning_allow">İzin ver</string>
   <string name="auto_start_warning_deny">Reddet</string>
   <string name="auto_start_warning_title">%s için otomatik başlama izni verilsin mi?</string>
