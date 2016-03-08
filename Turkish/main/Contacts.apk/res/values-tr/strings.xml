@@ -41,8 +41,8 @@
   <string name="audio_chat">Sesli Sohbet</string>
   <string name="auto_nickname">Otomatik</string>
   <string name="auto_set_nickname">Otomatik</string>
-  <string name="back_view_description">Geri dönmek için dokunun</string>
-  <string name="batch_delete">Kişileri toplu sil</string>
+  <string name="back_view_description">Geri dön</string>
+   <string name="batch_delete">Kişileri toplu sil</string>
   <string name="blacklist">Kara liste</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth bağlantısı kesildi</string>
   <string name="blurbJoinContactDataWith"> %s ile birleştirmek istediğiniz kişiyi seçin:</string>
@@ -344,8 +344,8 @@ Kartvizitler kapalı"</string>
   <string name="dialer_empty_text_loading">Biraz Bekleyin...</string>
   <string name="dialer_empty_text_no_call_log">Arama kaydı yok</string>
   <string name="dialer_empty_text_no_search_result">Kişi kaydı yok</string>
-  <string name="dialer_menu_description">Çeviriciyi göstermek için dokunun</string>
-  <string name="dialer_returnToInCallScreen">Çağrıya dön</string>
+  <string name="dialer_menu_description">Arayanı göster</string>
+   <string name="dialer_returnToInCallScreen">Çağrıya dön</string>
   <string name="dialer_useDtmfDialpad">Dokunmatik tuş takımı kullan</string>
   <string name="dialog_import">Kişileri içe aktar</string>
   <string name="dialog_import_export">Kişileri İçe/Dışa Aktar</string>
@@ -1135,14 +1135,13 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="voicemail_status_configure_voicemail">Sesli Mesajini Ayarla</string>
   <string name="voicemail_status_messages_waiting">"Sesli mesaj sunucusuna bağlanılamıyor. Yeni sesli mesajlar beklemektedir."</string>
   <string name="voicemail_status_voicemail_not_available">"Sesli mesaj sunucusuna bağlanılamıyor"</string>
-  <string name="voip_audio_description">VoIP arama yapmak için dokunun</string>
+  <string name="voip_audio_description">VoIP Çağrısı</string>
   <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_contacts_entry">Mi Voice</string>
   <string name="voip_loading_contact">Biraz bekleyin...</string>
   <string name="voip_name">Mi Voice</string>
   <string name="voip_recommend_msg">Mi Voice kullanmak için dokunun</string>
   <string name="voip_shortcut_name">Mi Voice</string>
-  <string name="voip_video_description">VoIP görüntülü arama yapmak için dokunun</string>
   <string name="websiteLabelsGroup">Web Sitesi</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Veriyi Temizle</string>
