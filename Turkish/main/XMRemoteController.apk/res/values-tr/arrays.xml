@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Soğutma</item>
+        <item>Isıtma</item>
+        <item>Nem Alma</item>
+        <item>Fan</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Cihazınız sadece Mi TV, Mi-Box ve Wi-Fi kullanarak diğer Android cihazlarıyla eşleştirebilirsiniz.</item>
+        <item>"Eşleştirme esnasında doğru A/C modelini seçtiğinizden emin olun. Eşleştirme tamamlanana kadar cihazınızdaki yönergeleri izleyin."</item>
+        <item>Hayır. Şu anda IR uzaktan kumanda olarak Mi 4, Mi 4c ve Redmi Not 2 kullanabilirsiniz.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Pazar</item>
+        <item>Ptesi</item>
+        <item>Salı</item>
+        <item>Çar</item>
+        <item>Per</item>
+        <item>Cuma</item>
+        <item>Ctesi</item>
+    </string-array>
+    <string-array name="question">
+        <item>Neden benim telefonum kablosuz cihazlar için aramaya devam ediyor?</item>
+        <item>"Neden sadece A/C açıp/kapatabiliyorum?"</item>
+        <item>Mi 3 Mi 2ve Redmi IR uzaktan kumandasını kullanabilir miyim?</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+</resources>
