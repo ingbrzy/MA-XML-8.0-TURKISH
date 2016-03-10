@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s indirilen</item>
+        <item quantity="one">%1$s indirilen</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s kullanıcı</item>
+        <item quantity="one">%1$s kullanıcı</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d marka mevcut</item>
+        <item quantity="one">1 marka mevcut</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d gün önce</item>
+        <item quantity="zero">%1$d gün önce</item>
+        <item quantity="one">%1$d gün önce</item>
+        <item quantity="two">%1$d gün önce</item>
+        <item quantity="few">%1$d gün önce</item>
+        <item quantity="many">%1$d gün önce</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d saat önce</item>
+        <item quantity="zero">%1$d saat önce</item>
+        <item quantity="one">%1$d saat önce</item>
+        <item quantity="two">%1$d saat önce</item>
+        <item quantity="few">%1$d saat önce</item>
+        <item quantity="many">%1$d saat önce</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d dakika önce</item>
+        <item quantity="zero">%1$d dakika önce</item>
+        <item quantity="one">%1$d min ago</item>
+        <item quantity="two">%1$d dakika önce</item>
+        <item quantity="few">%1$d dakika önce</item>
+        <item quantity="many">%1$d dakika önce</item>
+    </plurals>
+</resources>
