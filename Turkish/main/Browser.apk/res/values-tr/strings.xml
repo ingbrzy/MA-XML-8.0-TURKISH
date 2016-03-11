@@ -71,6 +71,7 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+  <string name="autofill_popup_content_description">Otomatik doldurma açılır penceresini göster </string>
   <string name="autologin_bar_error">"Oturum açılamadı"</string>
   <string name="autologin_bar_hide_text">Gizle</string>
   <string name="autologin_bar_login_text">Oturum Aç</string>
@@ -432,6 +433,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="page_info_address">Adres:</string>
   <string name="page_info_view">Sayfa bilgisi görünümü</string>
   <string name="password">Şifre</string>
+  <string name="password_generation_popup_content_description">Şifre oluşturmayı açılır pencerede göster</string>
   <string name="pause_download">Durduruldu</string>
   <string name="paused_queued_for_wifi">Bağlantı bekleniyor...</string>
   <string name="paused_unknown">Durduruldu</string>
@@ -718,6 +720,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="version_update_file_download_toast">İndiriliyor</string>
   <string name="version_update_file_not_found">"Güncellemeler bulamıyor"</string>
   <string name="video_activity_name">Favoriler</string>
+  <string name="video_buffering_percent">"Önbellekleniyor "</string>
   <string name="video_buffering_percent_string">"Belleğe Alınıyor "</string>
   <string name="video_collect_cancel">Favorilerden Çıkart</string>
   <string name="video_collect_success">Favorilerde</string>
@@ -745,6 +748,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="video_group_noupdates_list">Kullanılabilir güncelleştirme yok</string>
   <string name="video_group_updates_list">Güncellemeler</string>
   <string name="video_history_empty">Geçmiş yok</string>
+  <string name="video_play_error">Video Oynatma Hatası</string>
   <string name="video_project_button">Dur</string>
   <string name="video_project_msg">Video %s dökümünde</string>
   <string name="video_project_title">Video Dökümü</string>
