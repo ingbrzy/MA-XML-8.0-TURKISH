@@ -386,7 +386,7 @@ Kartvizitler kapalı"</string>
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">"Kişinin adını yazın"</string>
   <string name="eventLabelsGroup">Doğum Günü</string>
-  <string name="eventTypeCustom">Şahsi</string>
+  <string name="eventTypeCustom">Kişi</string>
   <string name="event_edit_field_hint_text">Tarih</string>
   <string name="export_sim_contact_finish">Kişiler aktarıldı</string>
   <string name="export_sim_contact_finish_msg">%1$d aktarıldı | %2$d atlandı | %3$d kaldı</string>
@@ -535,7 +535,7 @@ Sebep: \"%s\""</string>
   <string name="invalidContactMessage">"Kişi mevcut değil"</string>
   <string name="keep_local">"Eşitlenemedi"</string>
   <string name="keep_local_btn">"Telefonun dahili hafızasını kullan"</string>
-  <string name="label_custom_type">Şahsi</string>
+  <string name="label_custom_type">Kişi</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Tekrarlanmış kişi yok</string>
   <string name="label_notes">Notlar</string>
@@ -995,12 +995,10 @@ Favorilerinize bir kişi eklemek için:
   <string name="simContacts_emptyLoading">SIM karttan kişiler yükleniyor...</string>
   <string name="simContacts_title">SIM Karttaki Kişiler</string>
   <string name="sim_account_name">SIM</string>
-  <string name="sim_capacity">Sim Kart Kapasitesini Görüntüle</string>
+  <string name="sim_capacity">SIM Kart Kapasitesini Görüntüle</string>
   <string name="sim_capacity_content" formatted="false">Toplam :%d | Kullanılan: %d</string>
   <string name="sim_card_no_free_space_message">Yeterli alan yok</string>
   <string name="sim_card_no_free_space_title">SIM Kart Dolu</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">Hiçbirini Seçme</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">Tümünü Seç</string>
   <string name="sim_contact_existing">Kişi zaten var</string>
   <string name="sim_contact_invalid">Geçersiz SIM Kişisi</string>
   <string name="sim_contact_search_error">Bir hata oluştu</string>
