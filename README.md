@@ -1,5 +1,5 @@
 MIUI V7.X TR XML
-(Translating 6.3.3 Dev) (Hermes Files)
+(Translating 6.3.11 Dev) (Hermes Files)
 ==============================
 
 MIUI Turkish Translation: ** ORHAN CAKMAK **
