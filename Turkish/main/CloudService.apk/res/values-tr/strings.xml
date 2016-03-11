@@ -95,7 +95,7 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="find_device_status_ok">Herhangi bir yerdeki cihazı i.mi.co\'da bulun</string>
   <string name="find_device_status_ok_international">Herhangi bir yerdeki cihazı www.mi.com/micloud\'da bulun.</string>
   <string name="find_device_success_title">Cihaz Bul</string>
-  <string name="forget_password">&lt;u&gt;Şifreyi unuttum&lt;/u&gt;</string>
+  <string name="forget_password">Şifreyi Unuttum</string>
   <string name="free_space_has_received">Zaten bu ay boş alan eklendi</string>
   <string name="free_space_receive_fail">"Güncellenemiyor!"</string>
   <string name="get_first_month_gb">%s ücretsiz alan ekle</string>
@@ -215,7 +215,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız ya da fazlada
   <string name="micloud_main_message_not_synced">%s veri eşitlenemedi</string>
   <string name="micloud_main_network_abnormal">"Ağa bağlanamıyor"</string>
   <string name="micloud_main_network_error">"Ağa bağlanamıyor"</string>
-  <string name="micloud_main_set_internet">Ağ</string>
+  <string name="micloud_main_set_internet">Ağ Ayarları</string>
   <string name="micloud_main_space_full">Bulut depolaması doldu</string>
   <string name="micloud_main_space_full_title">Bulut depolaması doldu</string>
   <string name="micloud_main_space_low">Neredeyse boş alan yok…</string>
@@ -259,11 +259,13 @@ Daha fazla özellik görmek için Eşitleme Ayarları düğmesine dokunun."</str
   <string name="micloud_member_webload_fail_toast_5xx">Sunucu hatası</string>
   <string name="micloud_more">Daha fazlasını öğren</string>
   <string name="micloud_notif_content_battery_low">Pil seviyesi çok düşük.</string>
+  <string name="micloud_notif_content_clipboard_push">Her an heryerden yapıştırabilirsiniz.</string>
   <string name="micloud_notif_content_depend_wifi">Eşitleme için WLAN\'a bağlan.</string>
   <string name="micloud_notif_content_master_depend_wifi">Önce WLAN\'a bağlan.</string>
   <string name="micloud_notif_content_memory_low">Yetersiz depolama alanı.</string>
   <string name="micloud_notif_content_sync_with_off">Cihazı şimdi eşitlemek için dokunun.</string>
   <string name="micloud_notif_title_battery_low">"Mi Bulut ile eşitlenemedi"</string>
+  <string name="micloud_notif_title_clipboard_push">İçerik panoya kopyalandı</string>
   <string name="micloud_notif_title_depend_wifi">%d eşitlemek için bekliyor</string>
   <string name="micloud_notif_title_master_depend_wifi">"Mi Bulut ile eşitlenemedi"</string>
   <string name="micloud_notif_title_memory_low">"Mi Bulut ile eşitlenemedi"</string>
