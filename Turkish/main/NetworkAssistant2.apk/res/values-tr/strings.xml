@@ -176,7 +176,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="main_secondary_message_traffic_detail_leisure">"
   Yoğun Olmayan: %1$s kalan | %2$s kullanılan"</string>
   <string name="main_secondary_message_traffic_detail_normal">"
-Zirve: %1$s%2$s | %3$s kullanıldı"</string>
+En Üst: %1$s%2$s | %3$s kullanıldı"</string>
   <string name="main_secondary_message_traffic_over">"aşan "</string>
   <string name="main_secondary_message_traffic_remain">"kalan "</string>
   <string name="main_secondary_message_traffic_used_leisure">%s en üst veri kullanıldı</string>
@@ -307,7 +307,7 @@ Zirve: %1$s%2$s | %3$s kullanıldı"</string>
   <string name="pref_connect_settings_exceed_limit">En yüksek veri kullanımını kısıtlayın</string>
   <string name="pref_connect_settings_exceed_limit_hint">En yüksek veri kullanım sınırına ulaştığında veri bağlantısını kapat</string>
   <string name="pref_daily_adjust">En yüksek veri sınırı ayarı</string>
-  <string name="pref_daily_traffic">Zirve veri sınırı</string>
+  <string name="pref_daily_traffic">En üst veri sınırı</string>
   <string name="pref_data_usage_ignore_settings">Veri kullanımını görmezden gel</string>
   <string name="pref_data_usage_ignore_settings_summary">"Seçilen uygulama grubunun veri kullanımını takip etme"</string>
   <string name="pref_data_usage_not_set">Veri kullanımı üst limiti</string>
@@ -326,7 +326,7 @@ Zirve: %1$s%2$s | %3$s kullanıldı"</string>
   <string name="pref_new_installed_preconfig_title">"Yeni uygulamaların varsayılan ayarları"</string>
   <string name="pref_open_adjust_traffic">Update data usage every day using stats from your carrier</string>
   <string name="pref_package_traffic_leisure">%1$s | En-Üst: %2$s</string>
-  <string name="pref_package_traffic_normal">Zirve: %s</string>
+  <string name="pref_package_traffic_normal">En Üst: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Ek: %2$s</string>
   <string name="pref_package_traffic_settings">Mobil veri sınırı</string>
   <string name="pref_roaming_daily_limit_setting">Dolaşımda günlük veri limitini ayarla</string>
