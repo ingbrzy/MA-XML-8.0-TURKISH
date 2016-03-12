@@ -79,7 +79,6 @@ Not: Büyütme için üç kez vurma klavye ve gezinme çubuğunda dışında her
   <string name="account_settings_menu_auto_sync_work">Çalışma verilerini otomatik eşitle</string>
   <string name="account_settings_title">Hesaplar</string>
   <string name="account_sync_settings_title">Eşitle</string>
-  <string name="activate_miui_screensaver">Uyku esnasında ekran koruyucu</string>
   <string name="activating">Etkinleştiriliyor...</string>
   <string name="active_device_admin_msg">Cihaz Yöneticisi</string>
   <string name="active_input_method_subtypes">Faal Giriş Usulleri</string>
@@ -121,8 +120,6 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="airplane_mode">Uçak Modu</string>
   <string name="alarm_volume_option_title">Alarm Seviyesi</string>
   <string name="alarm_volume_title">Alarm</string>
-  <string name="alert_show_screensaver_when_not_charging_msg">Ekran koruyucu kullanmak daha fazla güç tüketimine neden olur</string>
-  <string name="alert_show_screensaver_when_not_charging_title">Pil Kullanımı</string>
   <string name="all_volume_title">Ses</string>
   <string name="allow">İzin Ver</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Widget oluşturduktan sonra, %1$s görüntülenen tüm verilere erişebilir.</string>
@@ -1792,12 +1789,6 @@ Müzik, resim, ve diğer kullanıcı verilerini temizlemek içine "&lt;b&gt;SD k
   <string name="miui_data_usage_menu_metered">Mobile Hotspot</string>
   <string name="miui_disturb_title">Rahatsız Etme</string>
   <string name="miui_experience_optimization">MIUI\'yi en iyi hale getir</string>
-  <string name="miui_screensaver_show_time">Süre</string>
-  <string name="miui_screensaver_show_time_select_title">Sunum Süresi Ayarı</string>
-  <string name="miui_screensaver_state_off">Kapat</string>
-  <string name="miui_screensaver_state_on">Açık</string>
-  <string name="miui_screensaver_title">Ekran Koruyucu</string>
-  <string name="miui_screensaver_usage">Ekran koruyucu ekran kapandıktan 5 saniye sonra başlayacak</string>
   <string name="miui_silent_title">Sessiz Mod</string>
   <string name="mms_breathing_light_color_title">Mesajların Işık Rengi</string>
   <string name="mms_breathing_light_freq_title">Mesajların Yanıp-Sönme Aralığı</string>
@@ -1976,7 +1967,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="onekey_migrate">Mi Transfer</string>
   <string name="online_resource_entry">Çevrimiçi kaynaklar</string>
   <string name="only_one_home_message">Başka bir Ana Sayfa uygulaması yüklenene kadar Ana Sayfa ayarları gizli olacak.</string>
-  <string name="only_when_charging">Yalnızca güç kaynağına bağlı olduğunda</string>
   <string name="onscreen_keyboard_settings_summary">Ekran klavyesi ayarları</string>
   <string name="open_miui_optimization_title">MIUI\'i en iyi hale getiri aç</string>
   <string name="open_miui_optimization_warning_message">Cihazınız bu değişikliği uygulamak için yeniden başlayacak</string>
@@ -2067,7 +2057,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="pico_not_installed">Yüklenmedi</string>
   <string name="pico_voice_summary_female">Kadın</string>
   <string name="pico_voice_summary_male">Erkek</string>
-  <string name="picture_source">Fotoğraflar</string>
   <string name="pin_failed">SIM PIN işlemi başarısız!</string>
   <string name="ping_test_label">Ping testini çalıştır</string>
   <string name="please_select_phase2">Faz 2 doğrulaması</string>
@@ -2391,6 +2380,7 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="scan_list_label">Tarama sonuçları:</string>
   <string name="screen">Ekran</string>
   <string name="screen_color_and_optimize">Renkler &amp; Kontrast</string>
+  <string name="screen_color_and_optimize_disabled">"Okuma modunda renk sıcaklığı ayarlanamaz"</string>
   <string name="screen_color_temperature">Renkler</string>
   <string name="screen_color_temperature_and_saturation">Renkler &amp; Doygunluk</string>
   <string name="screen_compatibility_label">Ekran Uyumluluğu</string>
