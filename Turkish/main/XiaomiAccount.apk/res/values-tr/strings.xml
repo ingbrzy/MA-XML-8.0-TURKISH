@@ -12,7 +12,7 @@
   <string name="account_bind_settings">Hesaplar</string>
   <string name="account_binded_phone">Telefon %d</string>
   <string name="account_crop_user_avatar">Fotoğrafı kırp</string>
-  <string name="account_dspt_provision">"Mi Bulut, MIUI Tema Mağazası ve diğer Mi hizmetlerine her yerden oturum açın. "</string>
+  <string name="account_dspt_provision">"Herhangi bir yerden Mi Bulut,Tema Mağazası ve diğer hizmetlere oturum açın. "</string>
   <string name="account_dspt_provision2">Fazlasını Öğren</string>
   <string name="account_empty_user_name">Mi Hesap kullanıcı adını girin</string>
   <string name="account_error_longer_user_name">"Ad 20 karakterden uzun olamaz"</string>
@@ -173,7 +173,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_error_verify_code">Girdiğiniz kod yanlış.</string>
   <string name="passport_failed_to_send_activate_email">"Etkinleştirme e-postası gönderilemedi"</string>
   <string name="passport_find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com adresini ziyaret edin.</string>
-  <string name="passport_forget_password">&lt;u&gt;Şifremi unuttum&lt;/u&gt;</string>
+  <string name="passport_forget_password">Şifremi unuttum</string>
   <string name="passport_forget_password_no_underline">Şifremi unuttum</string>
   <string name="passport_get_back_pwd">Hesap şifresini al</string>
   <string name="passport_get_verify_code">Kodu al</string>
@@ -186,7 +186,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_input_vcode_hint">Doğrulama kodunu girin</string>
   <string name="passport_license_host_unreachable">"Ağa bağlanamıyor. %s sayfayı görebilirsiniz."</string>
   <string name="passport_loading">Yükleniyor…</string>
-  <string name="passport_login">Varolan hesabınıza oturum açın</string>
+  <string name="passport_login">Hesabınıza oturum açın</string>
   <string name="passport_login_check_find_device">Cihazı Bul durumu kontrol ediliyor</string>
   <string name="passport_login_check_find_device_failed">"Cihazı Bul kontrol edilemedi. Ağ bağlantınızı kontrol edin."</string>
   <string name="passport_login_failed">"Oturum açılamıyor"</string>
@@ -196,7 +196,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_login_notice">Oturum açılıyor…</string>
   <string name="passport_login_short">Oturum aç</string>
   <string name="passport_login_title">Mi Hesabınızda oturum açın</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;E-Posta adresi veya Mi Hesap ID ile oturum açın&lt;/u&gt;</string>
+  <string name="passport_login_with_email_or_id">E-Posta adresi veya Mi Hesap ID ile oturum açın</string>
   <string name="passport_next">Sonraki</string>
   <string name="passport_notification_title">%1$s için oturum açma hatası</string>
   <string name="passport_password_req_notice">Şifre 8-16 karakter haneli olmalı sayılar ve harfler içermelidir (küçük harfe duyarlı).</string>
@@ -211,7 +211,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_re_register">Tekrar oturum açın</string>
   <string name="passport_recycle_account_prompt">Bu sizin Mi Hesabınız mı?</string>
   <string name="passport_reg_failed">"Hesabınız ayarlanamıyor"</string>
-  <string name="passport_reg_new">Ücretsiz bir Mi Hesabı oluşturun</string>
+  <string name="passport_reg_new">Mi Hesabı oluşturun</string>
   <string name="passport_reg_sms_send_prompt">Doğrulama kodunu şuraya gönder: %s</string>
   <string name="passport_reg_success">Hesabınız oluşturuldu</string>
   <string name="passport_reg_success_summary">%1$s hesabınızla bağlanmıştır. Oturum açmak için veya şifrenizi sıfırlamak için kullanabilirsiniz.</string>
@@ -250,11 +250,11 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_skip_setup_account_title">Kurulumu Atla</string>
   <string name="passport_title_reg">Hesap oluştur</string>
   <string name="passport_trust_device">Bu cihaz güvenli</string>
-  <string name="passport_user_agreement">Kullanıcı Sözleşmesi</string>
-  <string name="passport_user_agreement_p1">kabul etmiş olursunuz</string>
-  <string name="passport_user_agreement_p2">Kullanıcı Sözleşmesi </string>
-  <string name="passport_user_agreement_p3"> ve </string>
-  <string name="passport_user_agreement_p4">Gizlilik Politikasını</string>
+  <string name="passport_user_agreement"> Kullanıcı Sözleşmesi</string>
+  <string name="passport_user_agreement_p1">Kullanıcı Sözleşmesi </string>
+  <string name="passport_user_agreement_p2"> ve </string>
+  <string name="passport_user_agreement_p3">Gizlilik Politikası\'nı</string>
+  <string name="passport_user_agreement_p4">kabul etmiş olursunuz.</string>
   <string name="passport_vcode_notification_title">Oturum açma doğrulanması tamamlanamadı</string>
   <string name="passport_vcode_prompt_long">Doğrulama kodunu girin</string>
   <string name="passport_verification_failed">Kimlik doğrulama başarısız</string>
@@ -273,7 +273,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="phone_unactivated">Etkinleştirilmedi</string>
   <string name="phone_unknown">Bilinmeyen</string>
   <string name="photoPickerNotFoundText">Resim bulunmamaktadır.</string>
-  <string name="provision_skip_login">&lt;u&gt;Bu adımı atla&lt;/u&gt;</string>
+  <string name="provision_skip_login">Bu adımı atla</string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">Mesajları, kişileri ve diğer verileri Mi Hesabınızla eşitlemek iter misiniz?</string>
   <string name="remove_device_success_notice">Eğer bu cihazı güvenilir cihazlardan kaldırırsanız, yeniden otorum açıp doğrulamanız gerekebilir.</string>
