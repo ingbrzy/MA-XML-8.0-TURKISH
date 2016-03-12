@@ -22,6 +22,7 @@
   <string name="action_item_share">Paylaş</string>
   <string name="add_music">Şarkı ekle</string>
   <string name="alaka_required">"Bu şarkı mevcut değildir."</string>
+  <string name="add_to_last_of_playlist">Çalma listesinin sonuna ekleyin.</string>
   <string name="album_name">Albüm</string>
   <string name="album_search_title">Albüm</string>
   <string name="alert_msg_vip_song_for_download">Bu şarkıyı indirmek için Ayrıcalıklı Şarkı Paketi al.</string>
@@ -244,6 +245,7 @@
   <string name="japan_korea_group">Gruplar (Japon-Kore)</string>
   <string name="japan_korea_male">Erkek Sanatçılar (Japon-Kore)</string>
   <string name="ktv_playlist">KTV oynatma listesi</string>
+  <string name="latest_song">Geçmişi oynat(%d).</string>
   <string name="like">Beğen</string>
   <string name="list_detail_title">Detaylar</string>
   <string name="list_item_play_FM_radio">FM radyo oynatmak için dokunun</string>
@@ -268,6 +270,7 @@
   <string name="metered_allow">Akış</string>
   <string name="metered_disallow">İptal</string>
   <string name="metered_play_toast">Veri bağlantısı üzerinden akış</string>
+  <string name="milink_unavaliable_please_update">Mi bağlantı işlevi kullanılamaz. MIUI sistemini güncellemek gerekir.</string>
   <string name="min_sleep_time">1</string>
   <string name="miui_music">Mi Müzik</string>
   <string name="miuishare_account_activate_confirmation">Ettinleştirme gerekiyor</string>
@@ -365,6 +368,7 @@
   <string name="payment_fail">Ödeme başarısız</string>
   <string name="payment_success">Ödeme başarılı</string>
   <string name="play_all_song">Tümünü Oynat</string>
+  <string name="play_next">Sonrakini oynat.</string>
   <string name="playback_failed_no_title_by_bad_file">"Şarkı oynatılamıyor. Format desteklenmiyor veya dosya yok."</string>
   <string name="playlist_deleted_message">Oynatma listesi silindi</string>
   <string name="playlist_renamed_message">Oynatma listesi yeniden adlandırıldı</string>
@@ -379,6 +383,15 @@
   <string name="priority_storage_summary">İndirmeler mevcutsa SD karta otomatik kaydedilir</string>
   <string name="project_device">Mi Telefon</string>
   <string name="project_device_mobile">Mobil cihaz</string>
+  <string name="radar">ACRCloud</string>
+  <string name="radar_click_to_retry">Tekrar denemek için tıklayın</string>
+  <string name="radar_fail">Sonuçsuz</string>
+  <string name="radar_fail_by_noise">Çok gürültülü olabilir</string>
+  <string name="radar_listening_state">Tanıma süreci içerisindedir</string>
+  <string name="radar_possible_result">Muhtemel şarkılar</string>
+  <string name="radar_retry">Tekrar dene</string>
+  <string name="radar_searching_state">Arama süreci içerisindedir</string>
+  <string name="radar_support_by">ACRCloud ile güçlendirilmiştir</string>
   <string name="really_pay">Şimdi ödensin mi?</string>
   <string name="recommend_fragment_title">Öncelikliler</string>
   <string name="remaining">Bu ay kalan:</string>
@@ -391,6 +404,7 @@
   <string name="restart_immediate">Şimdi Y. Başlat</string>
   <string name="retry">Tekrar Dene</string>
   <string name="ringtone_not_support">"Şarkı biçimi desteklenmiyor!"</string>
+  <string name="save_to_playlist">Çalma listesi olarak kaydedin.</string>
   <string name="search_album">Albüm Ara</string>
   <string name="search_for_album">Albüm</string>
   <string name="search_for_artist">Sanatçı</string>
@@ -400,10 +414,11 @@
   <string name="search_title_album">Albümler</string>
   <string name="search_title_singer">Sanatçılar</string>
   <string name="search_title_song">Şarkı</string>
+  <string name="second_symbol">s</string>
   <string name="sel_svc">Servisi seçin</string>
   <string name="select_album">Albümü seçin</string>
   <string name="select_all">Tümünü Seç</string>
-  <string name="select_device">Select device</string>
+  <string name="select_device">Cihazı seç</string>
   <string name="select_displayed_folders">Gösterilecek klasörleri seçin</string>
   <string name="select_local_album">Yerel Albümü Seçin</string>
   <string name="select_local_lyric">Şarkı Sözünü Seçin</string>
