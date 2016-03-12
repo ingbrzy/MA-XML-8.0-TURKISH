@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Shell</string>
+  <string name="bugreport_confirm">"Hata raporları, kişisel ve özel bilgiler dahil olmak üzere, sistemin çeşitli günlük dosyalarından veriler içerir. Sadece güvendiğiniz uygulamalarla güvendiğiniz kişilere hata raporlarını paylaşın."</string>
+  <string name="bugreport_confirm_repeat">Bu mesajı bir dahaki sefere göster</string>
+  <string name="bugreport_finished_text">Hata Raporunu paylaşmak için dokunun</string>
+  <string name="bugreport_finished_title">Hata raporu yakalandı</string>
+</resources>
