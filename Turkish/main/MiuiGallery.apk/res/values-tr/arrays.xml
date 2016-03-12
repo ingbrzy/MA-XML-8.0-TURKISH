@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="slideshow_time_entries">
-        <item>5 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>Unlimited</item>
+        <item>5 dakika</item>
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>Limitsiz</item>
     </string-array>
     <string-array name="baby_sexy">
-        <item>Boy</item>
-        <item>Girl</item>
+        <item>Erkek</item>
+        <item>Kız</item>
     </string-array>
     <string-array name="owner_relation">
-        <item>Father</item>
-        <item>Mother</item>
-        <item>Paternal Grandfather</item>
-        <item>Paternal Grandmother</item>
-        <item>Maternal Grandfather</item>
-        <item>Maternal Grandmother</item>
+        <item>Baba</item>
+        <item>Anne</item>
+        <item>Büyükbaba</item>
+        <item>Nine</item>
+        <item>Dede</item>
+        <item>Büyükanne</item>
     </string-array>
 </resources>
