@@ -50,7 +50,7 @@ account.xiaomi.com adresine giriş yapın ve Yeniden Etkinleştir-e tıklayın."
   <string name="error_qr">QR kodunu yorumlamak mümkün değil.</string>
   <string name="error_title">Hata</string>
   <string name="error_uri">Anahtar tanınmadı.</string>
-  <string name="forget_password">&lt;u&gt;Şifremi unuttum&lt;/u&gt;</string>
+  <string name="forget_password">Şifremi unuttum</string>
   <string name="general_security_exception">Genel güvenlik istisnaları</string>
   <string name="gif_not_support_camera_msg">Cihazınız video kaydetmeyi desteklemiyor.</string>
   <string name="how_it_works_menu_item">Nasıl çalışır?</string>
@@ -165,7 +165,7 @@ Tarih &amp; Zaman ayarları değiştirilmedi."</string>
   <string name="title_patternforgotten">"Şifrenizi mi unuttunuz?
 Yapılabilecekler："</string>
   <string name="title_updatepattern">Şifreyi değiştir</string>
-  <string name="title_visible_pattern">Deseni görünür yap</string>
+  <string name="title_visible_pattern">Kilitleme Deseni Görünsün</string>
   <string name="type_prompt">Anahtar Türü</string>
   <string name="update_pattern_jump">&lt;u&gt;Şifreyi kaldır&lt;/u&gt;</string>
   <string name="version_preference_title">Sürüm</string>
