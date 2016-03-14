@@ -39,10 +39,10 @@
   <string name="lockscreen_charging_msg">Şarj Ediliyor</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">  Telefonunuzu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuz fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri kaybolacaktır.
   </string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Şifrenizi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuzu Mi Hesabı kullanarak açmanız istenecektir.
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuzu Mi Hesabı kullanarak açmanız istenecektir.
 
   %d saniye sonra tekrar deneyin."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Telefonunuzu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. Telefonunuz şimdi fabrika ayarlarına geri döndürülecektir.</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Telefonu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. Telefonunuz şimdi fabrika ayarlarına geri döndürülecektir.</string>
   <string name="lockscreen_glogin_checking_password">Kontrol ediliyor...</string>
   <string name="lockscreen_glogin_invalid_input">Kullanıcı adı veya şifre geçersiz!</string>
   <string name="lockscreen_glogin_password_hint">Şifre</string>
@@ -59,7 +59,7 @@
   <string name="unlock_sim_string">SIM Kilidini Aç</string>
   <string name="unlock_string">Kilidi Aç</string>
   <string name="unlocking_sim_card">SIM Kart kilidi açılıyor...</string>
-  <string name="unlockscreen_low_battery">LLütfen Şarj Cihazına Bağlayın!</string>
+  <string name="unlockscreen_low_battery">Lütfen Şarj Cihazına Bağlayın!</string>
   <string name="unlockscreen_recharge_completed">Pil doldu!</string>
   <string name="unlockscreen_recharging_message">Şarj Durumu: %d%%</string>
   <string name="wrong_password">Şifre yanlış!</string>
