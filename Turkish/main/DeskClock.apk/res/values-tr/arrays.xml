@@ -25,21 +25,22 @@
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Bir kez</item>
         <item>Günlük</item>
+        <item>İş Günleri</item>
+        <item>Tatil Günleri</item>
         <item>Pazartesi\'den Cuma\'ya</item>
         <item>Özel</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
-        <item>0</item>
-        <item>1</item>
         <item>2</item>
         <item>3</item>
         <item>4</item>
+		<item>5</item>
     </integer-array>
     <integer-array name="alarm_repeat_type_no_workdays_values">
         <item>0</item>
         <item>1</item>
-        <item>3</item>
         <item>4</item>
+        <item>5</item>
     </integer-array>
     <string-array name="alarm_set">
         <item>Alarma 1 dakikadan daha az kaldı</item>
