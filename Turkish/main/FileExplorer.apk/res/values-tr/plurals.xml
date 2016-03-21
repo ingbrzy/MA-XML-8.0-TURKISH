@@ -175,5 +175,21 @@
         <item quantity="two">%1$d WeChat videosu yedeklendi.</item>
         <item quantity="few">%1$d WeChat videosu yedeklendi.</item>
         <item quantity="many">%1$d WeChat videosu yedeklendi.</item>
+	<plurals name="remote_video_update">
+		<item quantity="other">%1$s yeni video bulundu</item>
+        <item quantity="zero">%1$s yeni video bulundu</item>
+        <item quantity="one">%1$s yeni video bulundu</item>
+        <item quantity="two">%1$s yeni video bulundu</item>
+        <item quantity="few">%1$s yeni video bulundu</item>
+        <item quantity="many">%1$s yeni video bulundu</item>
+    </plurals>
+    <plurals name="video_ad_download_tip">
+        <item quantity="other"> İndirilenler</item>
+        <item quantity="zero"> İndirilenler</item>
+        <item quantity="one"> İndirilenler</item>
+        <item quantity="two"> İndirilenler</item>
+        <item quantity="few"> İndirilenler</item>
+        <item quantity="many"> İndirilenler</item>
+     </plurals>
     </plurals>
 </resources>
