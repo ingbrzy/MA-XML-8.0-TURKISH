@@ -245,10 +245,12 @@
   <string name="trans_backingup">Yedekleniyor...</string>
   <string name="trans_backingup_no_items">Eşitleniyor...</string>
   <string name="trans_calculating">Hesaplanıyor...</string>
-  <string name="trans_calculating_app_sd_size">Gönderilecek veri boyutu hesaplanıyor, %s tarandı</string>
-  <string name="trans_calculating_base_size">"Uygulamanın temel boyutu hesaplanıyor"</string>
+  <string name="trans_calculating_app_sd_size">Gönderilecek dosya boyutu hesaplanıyor, %s tarandı</string>
+  <string name="trans_calculating_base_size">"Uygulamanın uygulama boyutu hesaplanıyor"</string>
   <string name="trans_cancel_confirm">Transfer devam ediyor, iptal edilsin mi?</string>
   <string name="trans_cancelling">İptal ediliyor</string>
+  <string name="trans_connect_failed_message">"Bağlanamadı, cihazı yeniden bağlatın veya tekrar deneyin. Yeniden başlattıktan sonra Mi Transfer\'i başlatın veya Ayarlar > Ek Ayarlar > Mi Transfer bölümüne gidip [Göndericiyim] seçeneğini seçin."</string>
+  <string name="trans_connect_failed_title">"Bağlanamadı"</string>
   <string name="trans_connect_failed_toast">"Bağlanamadı"</string>
   <string name="trans_connecting_toast">Bağlanıyor...</string>
   <string name="trans_detail_category_account">Hesaplar ve Kişiler</string>
@@ -259,8 +261,8 @@
   <string name="trans_generate_qr_code_failed">"QR Kod oluşturulamadı"</string>
   <string name="trans_main_tutor">Kişileri, arama geçmişinizi, ayarlarınızı, uygulamalarınızı ve ana ekran düzenini yeni cihazınıza Transfer edin.</string>
   <string name="trans_my_device">Cihazım</string>
-  <string name="trans_native_no_space">"Bu cihazda yeterli alan yok
-Lütfen en az %s alan tezmileyin"</string>
+  <string name="trans_native_no_space">"Bu cihazda yeterli depolama alanı yok
+Lütfen en az %s alan temizleyin"</string>
   <string name="trans_one_key_migrate">Transfer</string>
   <string name="trans_operate_func_one">Usul A</string>
   <string name="trans_operate_func_two">Usul B</string>
@@ -271,7 +273,7 @@ Ayarlar &gt; Ek Ayarlar &gt; Transfer\'e gidin.
 2. Uygulamayı açın ve [Göndericiyim] seçeneğini seçin
 3. Eski aygıtla QR kodunu tarayın"</string>
   <string name="trans_operate_old_phone_tips2">"Ayarlar &gt; Ek Ayarlar &gt; Transfer yerinde [Göndericiyim] seçin"</string>
-  <string name="trans_please_waiting">Lütfen bekleyin...</string>
+  <string name="trans_please_waiting">Biraz bekleyin...</string>
   <string name="trans_progress_subdescript_br_receiver"> %1$s geri yükleniyor, %2$s tamamlandı</string>
   <string name="trans_progress_subdescript_br_sender">%1$s yedekleniyor, %2$s tamamlandı</string>
   <string name="trans_progress_subdescript_transing_receiver">%1$s alınıyor, %2$s tamamlandı</string>
@@ -309,7 +311,7 @@ Cihazlarınızı birbirine yakın tutun."</string>
   <string name="trans_sending_completed">Veri gönderildi</string>
   <string name="trans_show_qr_code_label">Eski cihazı bağlayın</string>
   <string name="trans_show_qr_code_tips">Eski cihazı kullanarak QR kodunu tarayın</string>
-  <string name="trans_start_failed_message">Başlatılamadı, lütfen yeniden deneyin veya yeniden başlatın ve yeniden deneyin</string>
+  <string name="trans_start_failed_message">Başlatılamadı, lütfen yeniden deneyin veya cihazı yeniden başlatın</string>
   <string name="trans_start_failed_title">Başlatılamadı</string>
   <string name="trans_time_format_second">Bir dakikadan daha az</string>
   <string name="trans_time_spent">"
