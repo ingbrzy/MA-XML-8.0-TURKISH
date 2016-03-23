@@ -48,6 +48,7 @@
   <string name="bookmark_confirm_delete_message">Mesaj favorilerden kaldırılsın mı?</string>
   <string name="bookmark_empty">Favori mesaj yok</string>
   <string name="bookmark_list_title">Favori</string>
+  <string name="call_sender">Çağrı Gönderici</string>
   <string name="cannot_add_picture_and_video">"Video ve resim aynı slayta eklenemez."</string>
   <string name="cannot_add_slide_anymore">"Daha fazla slayt eklenemiyor."</string>
   <string name="cannot_forward_drm_obj">"Mesajdaki DRM nesnesi yönlendirilemiyor."</string>
@@ -511,6 +512,7 @@
   <string name="set">Ayarla</string>
   <string name="share_img">Paylaş</string>
   <string name="show_all_messages">Tüm mesajları görüntüle</string>
+  <string name="show_sender">Gönderici bilgisini göster</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
   <string name="sim_card_cloud">%s (Mi Mesaji)</string>
