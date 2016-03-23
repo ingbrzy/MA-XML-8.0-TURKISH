@@ -83,6 +83,7 @@
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="baby_album">Bebek Albümü</string>
   <string name="baby_album_change_background">Arkaplan fotoğrafını değiştir</string>
+  <string name="baby_album_needs_auto_backup_tip">Bebek albümü Otomatik Yedeklemesi etkin değil</string>
   <string name="baby_album_new_photo_remind">Bebek Albümü\'nde yeni fotoğraflar var.</string>
   <string name="baby_album_setting_title">Bebek Bilgisi</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s'nin %2$s,
@@ -117,6 +118,7 @@
   <string name="by_sms">Mesaj</string>
   <string name="byteShort">B</string>
   <string name="camera_black_white">Siyah &amp;Beyaz</string>
+  <string name="camera_needs_auto_backup_tip">Kamera albümü yedeklendi</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Bebek duvar kağıdı iptal edisin ve Varsayılan kilit ekran duvar kağıdı sıfırlansın mı?</string>
   <string name="cancel_hint">Operasyon iptal edildi</string>
@@ -507,6 +509,8 @@
   <string name="click_download_gif">gif indirmek için tıklayın</string>
   <string name="click_top_right">Bu simgeye dokunun</string>
   <string name="cloud_camera_display_name">Kamera Fotoğrafları</string>
+  <string name="cloud_guide_auto_backup_title">Mi Bulut için yedeklenecek albümleri seçin</string>
+  <string name="cloud_guide_welcome_title">Mi Bulut</string>
   <string name="cloud_screenshots_display_name">Ekran Görüntüleri</string>
   <string name="cloud_settings">Mi Bulut</string>
   <string name="cloudfolder_cannot_start_with">"Albüm adı '%s' ile başlamıyor"</string>
@@ -522,9 +526,9 @@
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; %s bu albümle birleştirilsin mi? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Eşleşmedi</string>
   <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Eminseniz: &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Bu yüz onaylandıktan sonra \"%2$s\" albüme taşınacak. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Emin değilseniz: &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Bu yüz onaylandıktan sonra \"%2$s\" albüme taşınacak. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Emin değilseniz: &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Eminseniz: &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Bu yüz onaylandıktan sonra \"%2$s\" albüme taşınacak. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Emin değilseniz: &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Bu yüz onaylandıktan sonra \"%2$s\" albüme taşınacak. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Emin değilseniz: &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="contact_tip">Kişi</string>
   <string name="context_menu_add_contact">Kişilere Ekle</string>
   <string name="context_menu_copy">Kopyala</string>
@@ -589,6 +593,8 @@
   <string name="email_picker_title">Paylaşılan E-Posta Ekle</string>
   <string name="enable_cloud_for_sharing">Paylaşılan fotoğrafları görüntülemek için Bulut albümlerini açmanız gerekir.</string>
   <string name="enable_face_album_summary">Kişilere göre fotoğrafları otomatik sırala</string>
+  <string name="enable_face_album_title">Kişiye Göre Sırala</string>
+  <string name="enable_micloud_service">Mi Bulut kullanmaya başlayın</string>
   <string name="enabling_face_feature">Biraz bekleyin...</string>
   <string name="enter_email_hint">E-Posta adresini girin</string>
   <string name="error_album_not_exist">"Albüm yok"</string>
@@ -651,6 +657,7 @@
   <string name="frame_white_tooltip">photoeditor_frame_white</string>
   <string name="free">Serbest</string>
   <string name="gallery_setting">Ayarlar</string>
+  <string name="gallery_sync_disable_toast">Galeri eşitlemesi etkin değil</string>
   <string name="get_album_info_in_process">"Paylaşılan albümlerin detayları alınıyor..."</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
@@ -689,6 +696,7 @@
   <string name="input_baby_nick_name">Rumuzu Girin</string>
   <string name="input_nickname_toast">"Bebeğin adını girin"</string>
   <string name="input_or_select_a_name">Bir ad seçin veya girin</string>
+  <string name="introduce">Fotoğrafları ve videoları otomatik yedekle</string>
   <string name="invalid_invition_url">Geçersiz URL davetiyesi</string>
   <string name="invalid_recipient_message">Girdiğiniz alıcı isimleri geçersiz</string>
   <string name="invite_send_sms_tip">Operatörünüz bu davetiyeyi göndermek için kullanılan bir SMS mesajı için ücret alabilir.</string>
@@ -737,6 +745,7 @@
   <string name="need_to_turn_on_wlan">Önce WLAN\'a bağlan</string>
   <string name="negative">Negatif</string>
   <string name="network_connected_rescan">"Ağa bağlanamıyor"</string>
+  <string name="next">Sonraki</string>
   <string name="no">Hayır</string>
   <string name="no_map_app">Hiçbir uygulama bu işlemi gerçekleştiremiyor</string>
   <string name="no_network_connected">Şebeke bulunamadı</string>
@@ -899,6 +908,7 @@
   <string name="slideshow_interval_title">Her slayt için göster</string>
   <string name="slideshow_interval_value">%1$d saniye</string>
   <string name="slim_after_backuped_summary">Mi Bulut\'ta yedeklendikten sonra yerel fotoğraflar yüksek çözünürlükte en iyi hale getirilir. Tam çözünürlüklü olanlar hala Mi Bulut\'ta saklanır. Bu yerel depolamada bir çok fotoğrafı kaydedebilirsiniz.</string>
+  <string name="slim_after_backuped_summary_with_size">Mi Bulut\'ta yedeklendikten sonra yerel fotoğraflar yüksek çözünürlükte en iyi hale getirilir. Tam çözünürlüklü olanlar hala Mi Bulut\'ta saklanır. %1$s kaydedilebilir.</string>
   <string name="slim_after_backuped_title">Yedeklendikten sonra yerel depolamayı en iyi duruma getir</string>
   <string name="square">Kare</string>
   <string name="start_to_use_face_albumset">Kişiye Göre Sırala</string>
@@ -924,6 +934,7 @@
   <string name="title_set_name">Adı Girin</string>
   <string name="title_warn">Uyarı</string>
   <string name="to_count">Toplam %d</string>
+  <string name="to_enable_gallery_sync_dialog_message">Önce gelari eşitleme özelliğini açın</string>
   <string name="to_enable_sync_dialog_message">Önce eşitleme özelliğini etkinleştirin</string>
   <string name="to_enable_sync_dialog_positive_button_text">Git</string>
   <string name="to_enable_sync_dialog_title">Eşitle</string>
@@ -948,6 +959,7 @@
   <string name="view_queuing_status">Durumu denetle</string>
   <string name="vignette">Süslü Foto</string>
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
+  <string name="welcome">Mi Bulut\'a Hoşgeldiniz</string>
   <string name="where_is_barcode">"QR kodu nerede?"</string>
   <string name="who_is_this">Kim?</string>
   <string name="xiaomi_account_not_exists_toast">"Xiaomi hesabı yok"</string>
