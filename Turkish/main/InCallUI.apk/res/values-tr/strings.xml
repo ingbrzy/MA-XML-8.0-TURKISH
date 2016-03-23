@@ -6,6 +6,7 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Bilinmeyen numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
+  <string name="areacode_set_default">Varsayılan</string>
   <string name="callFailed_cb_enabled">"Gelen bir arama sürerken giden arama yapamazsınız."</string>
   <string name="callFailed_congestion">Şebeke meşgul</string>
   <string name="callFailed_dialToDial">Arama isteği farklı numara ile birlikte arama için değiştirildi.</string>
@@ -48,6 +49,7 @@
   <string name="call_title_redialing_with_times">%d kez yeniden arandı</string>
   <string name="caller_manage_header">%s konferans araması</string>
   <string name="calling_via_template">%s ile aranıyor</string>
+  <string name="can_not_call_oneself">"Bu numara aranamadı"</string>
   <string name="cancel">İptal</string>
   <string name="card_title_call_ended">"Arama bitti "</string>
   <string name="card_title_conf_call">Konferans Çağrısı</string>
@@ -72,6 +74,7 @@
   <string name="conference_caller_name_me">Ben</string>
   <string name="contactPhoto">kişi resmi</string>
   <string name="contacts_icon_label">Kişiler</string>
+  <string name="default_area_code_setting">Varsayılan Alan Kodu</string>
   <string name="description_image_button_answer">Cevaplamak için yukarı kaydırın</string>
   <string name="description_image_button_dialpad">Tuş Takımı</string>
   <string name="description_image_button_eight">sekiz</string>
@@ -92,6 +95,10 @@
   <string name="description_image_button_two">iki</string>
   <string name="description_image_button_zero">sıfır</string>
   <string name="description_target_answer">Cevapla</string>
+  <string name="dialog_activate_livetalk">Numarayı Doğrula</string>
+  <string name="dialog_call_ordinary_telephone">Düzenli Çağrı</string>
+  <string name="dialog_purchase">Kontör</string>
+  <string name="do_not_ask">Tekrar Gösterme</string>
   <string name="emergency_call_dialog_number_for_display">Acil Numara</string>
   <string name="fraud_call_answer">Cevapla</string>
   <string name="fraud_call_decline">Reddet</string>
@@ -115,8 +122,10 @@
   <string name="jeejen_end_call_text">Çağrıyı Sonlandır</string>
   <string name="jeejen_reject_call_text">Çağrıyı Reddet</string>
   <string name="jeejen_toggle_dialpad_text">Tuş Takımı</string>
-  <string name="livetalk_dial">Kontür Yükle</string>
-  <string name="livetalk_left_minute">%sm dakika kaldı</string>
+  <string name="keep_wait_call_back">Beklemeye devam et</string>
+  <string name="livetalk_dial">Kontör paketini kullan</string>
+  <string name="livetalk_hangup">Telefonu kapat</string>
+  <string name="livetalk_left_minute">%s dak kaldı</string>
   <string name="manageConferenceLabel">Konferans Görüşmesini Yönet</string>
   <string name="miprofile_stranger_card">Yabancı kart</string>
   <string name="modify_call_failure_str">"Düzenlenmiş arama isteği başarısız
@@ -129,10 +138,21 @@
   <string name="modify_call_prompt_no">Hayır</string>
   <string name="modify_call_prompt_yes">Evet</string>
   <string name="msim_select_default_time_left">(%d s)</string>
+  <string name="network_error_message">Geçerli ağ istikrarsız. Düzenli çağrısına geçiş ise operatör tarafından ücretli işlemlere sahip.</string>
+  <string name="network_error_title">İstikrarsız ağ</string>
+  <string name="no_balance_message">Yetersiz kontör bakiyesi. Düzenli çağrılar operatör tarafından ücretlendirilir.</string>
+  <string name="no_balance_title">Yetersiz bakiye</string>
+  <string name="no_call_back_message">Bağlantı süresi uzadı. Düzenli çağrılar operatör tarafından ücretlendirilir.</string>
+  <string name="no_call_back_title">Dikkat</string>
   <string name="no_vm_number">Sesli mesaj numarası eksik</string>
   <string name="no_vm_number_msg">SIM kartta kayıtlı Sesli Mesaj numarası yok.</string>
   <string name="non_ivr_menu_collapse_menu">Menüyü Daralt</string>
   <string name="non_ivr_menu_view_menu">Menüyü Görüntüle</string>
+  <string name="not_activate_sim_card_content">Kontör paketini kullanmaya başlamak için telefon numaranızı doğrulayın. Düzenli çağrılar operatör tarafından ücretlendirilir.</string>
+  <string name="not_activate_sim_card_content_title">Telefon numarası doğrulanmadı</string>
+  <string name="not_activate_sim_card_content_with_operator">SIM %1$s (%2$s)kontor paketini kulanmak için doğrulayın. Düzenli çağrılar operatör tarafından ücretlendirilir.</string>
+  <string name="not_support_message">Bu numara aranamadı. Düzenli çağrılar operatör tarafından ücretlendirilir.</string>
+  <string name="not_support_title">Bu numara desteklenmiyor</string>
   <string name="notification_action_accept">Kabul</string>
   <string name="notification_action_answer_video">Video</string>
   <string name="notification_action_answer_voice">Ses</string>
@@ -178,6 +198,7 @@
   <string name="select_voice_call_sim">SIM Kartını Seç</string>
   <string name="separate_from_conference">Ayrı Bir Çağrı</string>
   <string name="suspect_info">"Şahsi mâli bilgileriniz hakkında birine cevap vermeden önce telefon veya video aracılığıyla konuştuğunuz kişinin kimliğini mutlaka teyit edin."</string>
+  <string name="time_left_livetalk">(%dS)</string>
   <string name="unknown">Bilinmiyor</string>
   <string name="upgrade_vt_prompt">Aramayı görüntülü görüşmeye yükseltmek ister misiniz?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Önce TTY modunu kapatın</string>
