@@ -52,6 +52,10 @@
         <item quantity="other">%d fotoğraf</item>
         <item quantity="one">%d fotoğraf</item>
     </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d öğe | %2$s</item>
+        <item quantity="one">%1$d öğe | %2$s</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d fotoğraf yedeklenmeyi bekliyor</item>
         <item quantity="one">1 fotoğraf yedeklenmeyi bekliyor</item>
