@@ -147,6 +147,7 @@
   <string name="downloading">İndiriliyor...</string>
   <string name="downloading_in_3g">3G ile indiriliyor...</string>
   <string name="email_platform">E-Postal</string>
+  <string name="enable_documentsui">Önce Ayarlar > Yüklü Uygulamalar altından %s açın</string>
   <string name="enable_sd_card">SD kart takın yada USB yığın belleği devre dışı bırakın.</string>
   <string name="enable_usb">USB cihazı bağla</string>
   <string name="encrypt_error">"Dosyalar gizlenemedi, tekrar deneyin"</string>
@@ -356,6 +357,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="no_tasks">Görev yok.</string>
   <string name="no_wifi">Bağlantı bulunmadı.</string>
   <string name="no_wifi_hint">Bağlantı yok.</string>
+  <string name="not_installed_documentsui">DocumentsUI yüklenmedi</string>
   <string name="notif_server_starting">FTP Sunucusu başlıyor...</string>
   <string name="notif_title">FTP sunucusu çalışıyor</string>
   <string name="notification_content_hint">Görüntülemek için dokunun</string>
@@ -599,6 +601,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="tag_weixin_video">Video Klipler</string>
   <string name="terabyteShort">TB</string>
   <string name="title_app_tags">Uygulamalar</string>
+  <string name="title_enable_documentsui">DocumentsUI aç</string>
   <string name="title_expire_video">Süresi Dolmak Üzere</string>
   <string name="title_recent">Sık Kullanılan</string>
   <string name="title_report_video">Raporla</string>
@@ -648,6 +651,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_not_login">Önce giriş yap</string>
   <string name="utf8_summary">FTP sistemi varsayılan kodlaması</string>
   <string name="utf8_title">UTF-8</string>
+  <string name="video_ad_download">Yükle</string>
   <string name="video_play_failed">Bilinmeyen hata</string>
   <string name="video_releasing">Yükleniyor…</string>
   <string name="video_replay">Tekrar oyna</string>
