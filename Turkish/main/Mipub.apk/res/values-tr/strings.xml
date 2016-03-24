@@ -42,7 +42,7 @@
   <string name="context_menu_new_contact">Yeni kişi oluştur</string>
   <string name="context_menu_send_mail">E-Posta gönder</string>
   <string name="context_menu_send_sms">Mesaj gönder</string>
-  <string name="conversation_list_title">Mi Mesaji</string>
+  <string name="conversation_list_title">Mi Mesaj</string>
   <string name="converting_to_picture_message">MMS mesajina dönüştürülüyor...</string>
   <string name="converting_to_text_message">Metin mesajina dönüştürülüyor…</string>
   <string name="copy_message_text">Metni kopyala</string>
@@ -63,7 +63,7 @@
   <string name="enable_password_protect">Şifre lazım</string>
   <string name="enable_visible_pattern_title">Deseni görünür hale getir</string>
   <string name="english_subject_limit">40 karakter limiti</string>
-  <string name="ex_type_mx">Mi Mesaji</string>
+  <string name="ex_type_mx">Mi Mesaj</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Mesaj boyutunun sınırına ulaşıldı.</string>
   <string name="failed_to_add_media">"Mesajiniza %1$s ekleyemezsiniz."</string>
@@ -88,7 +88,7 @@
   <string name="menu_add_black">Bu numarayı engelle</string>
   <string name="menu_add_contact">Varolan bir kişiye ekle</string>
   <string name="menu_call">Çağrı</string>
-  <string name="menu_contact">Şahıs bilgisine bak</string>
+  <string name="menu_contact">Şahıs Bilgisine Gözat</string>
   <string name="menu_forward">İlet</string>
   <string name="menu_lock">Sık Kullanılan</string>
   <string name="menu_mark">İşaretle</string>
@@ -118,8 +118,8 @@
   <string name="mx_auto_resend_sms_summary">"WLAN bağlı değilken mobil veri bağlantısı üzerinden SMS olarak mesaj gönderebilirsiniz. Bu operatörün ücretine tâbidir."</string>
   <string name="mx_current_status">Veri Kullanım Ayarları</string>
   <string name="mx_dspt">Masraf ödemeden diğer MIUI cihazlara mesaj gönderin</string>
-  <string name="mx_enable">Mi Mesaji</string>
-  <string name="mx_msg">Mi Mesaji</string>
+  <string name="mx_enable">Mi Mesaj</string>
+  <string name="mx_msg">Mi Mesaj</string>
   <string name="mx_on_sim_1">SIM 1\'den Mi Mesaji</string>
   <string name="mx_on_sim_2">SIM 2\'den Mi Mesaji</string>
   <string name="mx_recommend_msg">Mi Mesajı açmak için dokunun.</string>
