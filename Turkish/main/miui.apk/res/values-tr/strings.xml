@@ -2,8 +2,8 @@
 <resources>
   <string name="abc_action_bar_home_description">Ana Ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
-  <string name="action_mode_deselect_all">Hiçbirini Seçme</string>
-  <string name="action_mode_select_all">Tümünü Seç</string>
+  <string name="action_mode_deselect_all">Vazgeç</string>
+  <string name="action_mode_select_all">Hepsi</string>
   <string name="action_mode_title_empty">Öğeleri seç</string>
   <string name="activate">Etkinleştir</string>
   <string name="activate_fail_notification_title">Eşitlemeyi Etkinleştir</string>
@@ -322,7 +322,7 @@
   <string name="date_picker_label_year"/>
   <string name="date_time_done">Tamam</string>
   <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
-  <string name="deselect_all">Hiçbirini Seçme</string>
+  <string name="deselect_all">Vazgeç</string>
   <string name="early_morning">ÖÖ</string>
   <string name="earthly_branches_chen">辰</string>
   <string name="earthly_branches_chou">丑</string>
@@ -473,7 +473,7 @@
   <string name="saturday">Cumartesi</string>
   <string name="saturday_short">Cts</string>
   <string name="saturday_shortest">Cts</string>
-  <string name="select_all">Tümünü Seç</string>
+  <string name="select_all">Hepsi</string>
   <string name="select_item">Öğeleri seç</string>
   <string name="send">Gönder</string>
   <string name="send_sms_for_sync_notice">Operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı için ücret alabilir.</string>
