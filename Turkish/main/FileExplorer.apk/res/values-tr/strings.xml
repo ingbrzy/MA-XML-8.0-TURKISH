@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_bind_prompt">Kullanıcı verisi taşınıyor… Bu birkaç dakika sürebilir.</string>
-  <string name="action_mode_deselect_all">Hiçbirini Seçme</string>
-  <string name="action_mode_select_all">Tümünü Seç</string>
+  <string name="action_mode_deselect_all">Vazgeç</string>
+  <string name="action_mode_select_all">Hepsi</string>
   <string name="ad_download">İndir</string>
   <string name="ad_downloading">Biraz bekleyin...</string>
   <string name="add_private">Dosyaları şimdi gizle</string>
