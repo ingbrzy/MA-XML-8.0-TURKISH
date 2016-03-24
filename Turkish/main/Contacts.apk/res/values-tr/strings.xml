@@ -310,7 +310,7 @@ Kartvizitler kapalı"</string>
   <string name="description_view_contact">%1$s kişiyi gözat </string>
   <string name="description_view_contact_detail">Kişiye Gözat</string>
   <string name="description_voicemail_button">Sesli Mesaj</string>
-  <string name="deselect_all">Hiçbirini Seçme</string>
+  <string name="deselect_all">Vazgeç</string>
   <string name="details_list_group_header_more_action">Fazlası</string>
   <string name="details_list_group_header_other">Diğer</string>
   <string name="device_bluetooth_title">Kişileri Aktar</string>
@@ -349,8 +349,8 @@ Kartvizitler kapalı"</string>
   <string name="dialer_useDtmfDialpad">Dokunmatik tuş takımı kullan</string>
   <string name="dialog_import">Kişileri içe aktar</string>
   <string name="dialog_import_export">Kişileri İçe/Dışa Aktar</string>
-  <string name="dialog_new_contact_account">Hesap altında kişi oluştur</string>
-  <string name="dialog_new_group_account">Hesap altında grup oluştur</string>
+  <string name="dialog_new_contact_account">Hesapta kişi oluştur</string>
+  <string name="dialog_new_group_account">Hesapta grup oluştur</string>
   <string name="dialog_phone_call_prohibited_message">Çağrı gönderilemedi</string>
   <string name="dialog_sync_add">Eşleşmiş grup ekle</string>
   <string name="dialog_voicemail_airplane_mode_message">Sesli arama için öncelikle uçak modunu kapatınız.</string>
@@ -390,12 +390,12 @@ Kartvizitler kapalı"</string>
   <string name="event_edit_field_hint_text">Tarih</string>
   <string name="export_sim_contact_finish">Kişiler aktarıldı</string>
   <string name="export_sim_contact_finish_msg">%1$d aktarıldı | %2$d atlandı | %3$d kaldı</string>
-  <string name="export_to_sdcard">Depolamaya aktarıldı</string>
+  <string name="export_to_sdcard">Depolamaya Aktar</string>
   <string name="export_to_sim">SIM karta aktar</string>
-  <string name="export_to_sim1">SIM karta 1\'e aktar</string>
-  <string name="export_to_sim2">SIM kart 2\'ye aktar</string>
+  <string name="export_to_sim1">SIM Kart 1 Aktar</string>
+  <string name="export_to_sim2">SIM Kart 2\'ye Aktar</string>
   <string name="export_to_sim_title">Aktarılıyor…</string>
-  <string name="export_vcard_description">Export vCard to SD card</string>
+  <string name="export_vcard_description">vCard dosyasından SD Karta aktar</string>
   <string name="exporting_contact_failed_message">"Kişi bilgisi dışa aktarılamadı.
 Sebep: \"%s\""</string>
   <string name="exporting_contact_failed_title">"Dışa aktarılamıyor"</string>
@@ -615,8 +615,8 @@ Sebep: \"%s\""</string>
   <string name="menu_redirect_calls_to_vm">Tüm sesli aramalar</string>
   <string name="menu_removeStar">Favorilerden kaldır</string>
   <string name="menu_search">Ara</string>
-  <string name="menu_select_all">Tümünü Seç</string>
-  <string name="menu_select_none">Tümünü Seçme</string>
+  <string name="menu_select_all">Hepsi</string>
+  <string name="menu_select_none">Hepsime</string>
   <string name="menu_sendSMS">Kişiye mesaj gönder</string>
   <string name="menu_sendTextMessage">Metin mesajı gönder</string>
   <string name="menu_set_ring_tone">Zil Sesini Ayarla</string>
@@ -855,8 +855,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="postal_region">Eyalet</string>
   <string name="postal_street">Sokak</string>
   <string name="pref_key_photo">Fotoğraf</string>
-  <string name="pref_key_photo_word_summary">Birşey yoksa kişilere otomatik resim tayin eder.</string>
-  <string name="pref_key_photo_word_title">Kişi Fotoğrafı Tayin Et</string>
+  <string name="pref_key_photo_word_summary">Eğer kişini fotoğrafı yoksa, otomatik olarak resim tayin eder.</string>
+  <string name="pref_key_photo_word_title">Kişi Fotoğrafını Tayin Et</string>
   <string name="pref_key_rebuild_t9_index_message">Arama sorunlarını çözmek için dizini yeniden oluştur</string>
   <string name="pref_key_rebuild_t9_index_title">Dizin verilerini yeniden oluştur</string>
   <string name="pref_key_sim_manage">SIM Kartlar</string>
@@ -869,7 +869,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="preference_auto_ip_summary_on">Hattınızın IP Öneki: %s</string>
   <string name="preference_auto_ip_title">Otomatik IP Ayarları</string>
   <string name="preference_contacts">Kişiler</string>
-  <string name="preference_contacts_display">Görüntü Tercihleri</string>
+  <string name="preference_contacts_display">Görüntüleme Tercihleri</string>
   <string name="preference_contacts_filter">Kişi Listelerini Yapılandır</string>
   <string name="preference_contacts_more">Kişileri Düzenle</string>
   <string name="preference_contacts_recovery_introduction">Kişileri Kurtar</string>
@@ -969,7 +969,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="search_results_searching">Aranıyor...</string>
   <string name="search_settings_description">Kişilerin Adları</string>
   <string name="searching_vcard_message">Hafızadaki vCard verisi aranıyor...</string>
-  <string name="select_all">Tümünü Seç</string>
+  <string name="select_all">Hepsi</string>
   <string name="select_done">Daha fazla seçmeyin</string>
   <string name="select_groups">Grupları Seç</string>
   <string name="select_none">Seçilmedi</string>
@@ -1088,7 +1088,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="transfer_accounts">Hesapları transfer et</string>
   <string name="type_incoming">Gelen Arama</string>
   <string name="type_missed">Cevapsız Çağrı</string>
-  <string name="type_mx_msg">Mi Mesaji</string>
+  <string name="type_mx_msg">Mi Mesaj</string>
   <string name="type_outgoing">Giden Arama</string>
   <string name="type_voicemail">Sesli Mesaj</string>
   <string name="unable_get_device_id">IMEI alınamıyor</string>
