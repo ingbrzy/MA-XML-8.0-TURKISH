@@ -47,7 +47,7 @@
   <string name="button_text_cleanup">Temizle</string>
   <string name="button_text_delete_from_white_list">Kaldır</string>
   <string name="button_text_delete_pic">Sil</string>
-  <string name="button_text_deselect_all_photos">Hiçbirini Seçme</string>
+  <string name="button_text_deselect_all_photos">Vazgeç</string>
   <string name="button_text_group_ignore">Yoksay</string>
   <string name="button_text_group_unlike">Yenilenen yok</string>
   <string name="button_text_install">Yükle</string>
@@ -59,7 +59,7 @@
   <string name="button_text_photo_selected">Seçildi</string>
   <string name="button_text_restore_ignore">Geri Al</string>
   <string name="button_text_select_all">Seç</string>
-  <string name="button_text_select_all_photos">Tümünü Seç</string>
+  <string name="button_text_select_all_photos">Hepsi</string>
   <string name="button_text_select_pic">Seç</string>
   <string name="button_text_uninstall">Kaldır</string>
   <string name="button_text_uninstall_only">%s Kaldır</string>
@@ -122,7 +122,7 @@
   <string name="dialog_msg_stop_scan">"Devam eden temizleme taraması durdurulsun mu?"</string>
   <string name="dialog_msg_uninstall_apps">Bu uygulamalar kaldırılsın mı?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Yedekle ve Kaldır</string>
-  <string name="dialog_title_check_all">Tümünü Seç</string>
+  <string name="dialog_title_check_all">Hepsi</string>
   <string name="dialog_title_delete_image">Seçilen görüntüleri sil</string>
   <string name="dialog_title_load_cleanup_engine_error">Birşeyler ters gitti!</string>
   <string name="dialog_title_stop_scan">Taramayı Durdur</string>
