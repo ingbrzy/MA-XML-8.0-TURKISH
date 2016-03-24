@@ -1133,10 +1133,14 @@ Not: Sadece Ubuntu 8.04!"</item>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>
+        <item>ag</item>
         <item>ar</item>
+        <item>bs</item>
         <item>bh</item>
         <item>bd</item>
+        <item>bb</item>
         <item>be</item>
+        <item>bz</item>
         <item>bo</item>
         <item>bw</item>
         <item>br</item>
@@ -1147,6 +1151,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>cr</item>
         <item>ci</item>
         <item>cu</item>
+        <item>dm</item>
         <item>do</item>
         <item>ec</item>
         <item>eg</item>
@@ -1157,6 +1162,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>fr</item>
         <item>gf</item>
         <item>gh</item>
+        <item>gd</item>
         <item>gt</item>
         <item>gy</item>
         <item>ht</item>
@@ -1197,6 +1203,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>pe</item>
         <item>ph</item>
         <item>qa</item>
+        <item>ro</item>
         <item>ru</item>
         <item>rw</item>
         <item>sa</item>
@@ -1208,6 +1215,9 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>kr</item>
         <item>es</item>
         <item>lk</item>
+        <item>kn</item>
+        <item>lc</item>
+        <item>vc</item>
         <item>sd</item>
         <item>sr</item>
         <item>sz</item>
@@ -1218,6 +1228,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>th</item>
         <item>tn</item>
         <item>tr</item>
+        <item>tt</item>
         <item>ug</item>
         <item>ua</item>
         <item>ae</item>
@@ -1230,20 +1241,29 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>zw</item>
     </string-array>
     <string-array name="broadcast_locales">
+        <item>AG</item>
         <item>AR</item>
         <item>BO</item>
+        <item>BS</item>
+        <item>BB</item>
+        <item>BZ</item>
         <item>BR</item>
         <item>CL</item>
         <item>CO</item>
         <item>EC</item>
         <item>GF</item>
+        <item>GD</item>
         <item>GY</item>
         <item>IN</item>
         <item>IL</item>
         <item>PY</item>
         <item>PE</item>
         <item>SR</item>
+        <item>KN</item>
+        <item>LC</item>
+        <item>VC</item>
         <item>TW</item>
+        <item>TT</item>
         <item>UY</item>
         <item>VE</item>
     </string-array>
@@ -1251,12 +1271,13 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>keyguard</item>
         <item>childrenmode</item>
         <item>file_explorer</item>
+        <item>com_miui_applicatinlock_use_fingerprint_state</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Kilit Ekranı</item>
         <item>Çocuk Modu</item>
         <item>Dosya Gezgini</item>
-        <item>App lock</item>
+        <item>Uygulama Kilidi</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Her Gün</item>
