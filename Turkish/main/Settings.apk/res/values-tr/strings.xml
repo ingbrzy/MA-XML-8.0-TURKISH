@@ -3,7 +3,8 @@
   <string name="Accounts_settings_title">Hesaplar</string>
   <string name="about_settings">Telefon Hakkında</string>
   <string name="about_settings_summary">Yasal bilgi, durum ve yazılım sürümünü gör</string>
-  <string name="ac_enable_title">Şahsi uygulamaları kilitle</string>
+  <string name="ac_enable_summary">Şifre uygulayı açmak için gerekli olacaktır</string>
+  <string name="ac_enable_title">Uygulama Kilidi</string>
   <string name="ac_privacy_mode_sum">Kapalı Misafir modunu açmak için bir şifre iste</string>
   <string name="ac_privacy_mode_title">Şifre</string>
   <string name="ac_set_apps_title">Kilitlemek için uygulamaları seçin</string>
@@ -1584,7 +1585,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="lock_screen_secure_after_timeout_title">Şifre istendi</string>
   <string name="lock_screen_unlock_show">Kaydırma ekranını atla</string>
   <string name="lock_screen_unlock_show_summary">Doğrudan Ana Sayfaya ve Şifre girişi ekranına git</string>
-  <string name="lock_settings">Kilit Ekranı</string>
+  <string name="lock_settings">Kilit Ekranı &amp; Şifre</string>
   <string name="lock_settings_common_title">Kilit Ayarları</string>
   <string name="lock_settings_picker_settings">Akran Kilidi Ayarı</string>
   <string name="lock_settings_picker_title">Ekran kilidini seç</string>
@@ -2738,7 +2739,7 @@ Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</st
   <string name="status_bar_screen_key_home">Ana Sayfa Tuşu</string>
   <string name="status_bar_screen_key_menu">Menü Tuşu</string>
   <string name="status_bar_screen_key_recent_apps">Son Uygulamalar Tuşu</string>
-  <string name="status_bar_settings">Bildirimler</string>
+  <string name="status_bar_settings">Bildirimler &amp; Durum Çubuğu</string>
   <string name="status_bar_settings_advanced">Ek Ayarlar</string>
   <string name="status_bar_settings_all_app_display_loading">Biraz bekleyin...</string>
   <string name="status_bar_settings_basic_settings">Temel Ayarlar</string>
