@@ -827,8 +827,8 @@
   <string name="special_text_sender_en">gönderici</string>
   <string name="special_text_sender_zh">发件人</string>
   <string name="storage">Depolama</string>
-  <string name="str_select_all">Tümünü Seç</string>
-  <string name="str_select_none">Hiçbirini Seçme</string>
+  <string name="str_select_all">Hepsi</string>
+  <string name="str_select_none">Vazgeç</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Konu</string>
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
