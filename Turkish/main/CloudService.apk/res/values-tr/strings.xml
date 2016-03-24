@@ -92,9 +92,9 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="find_device_reading_status">Durum yükleniyor…</string>
   <string name="find_device_reading_status_failure">"Durum yüklenemedi."</string>
   <string name="find_device_send_sms_alert">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS gönderilecektir.</string>
-  <string name="find_device_status_ok">Herhangi bir yerdeki cihazı i.mi.co\'da bulun</string>
-  <string name="find_device_status_ok_international">Herhangi bir yerdeki cihazı www.mi.com/micloud\'da bulun.</string>
-  <string name="find_device_success_title">Cihaz Bul</string>
+  <string name="find_device_status_ok">Herhangi bir yerdeki telefonu i.mi.co adresinden bulun</string>
+  <string name="find_device_status_ok_international">Herhangi bir yerdeki telefonu www.mi.com/micloud adresinde bulun.</string>
+  <string name="find_device_success_title">Telefonu Bul</string>
   <string name="forget_password">Şifreyi Unuttum</string>
   <string name="free_space_has_received">Zaten bu ay boş alan eklendi</string>
   <string name="free_space_receive_fail">"Güncellenemiyor!"</string>
@@ -208,7 +208,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız ya da fazlada
   <string name="micloud_main_battery_message">"%d öğelerinin eşitlenebilmesi için cihazınızı bir güç kaynağına bağlayın"</string>
   <string name="micloud_main_clear_now">Temizle</string>
   <string name="micloud_main_data_unsynced">%d eşitleme için bekleniyor</string>
-  <string name="micloud_main_detail">Detaylar Bak</string>
+  <string name="micloud_main_detail">Detaylara Gözat</string>
   <string name="micloud_main_last_sync_time">%s eşitlendi</string>
   <string name="micloud_main_memory_low_message">"Eşitleme için, bulutta depolanmış bazı öğeleri silin."</string>
   <string name="micloud_main_memory_low_title">Yetersiz depolama alanı</string>
@@ -275,7 +275,7 @@ Daha fazla özellik görmek için Eşitleme Ayarları düğmesine dokunun."</str
   <string name="micloud_sec_dspt">ve arkadaşlarınızla paylaşın.</string>
   <string name="micloud_setting_antispam_summary">İstisnalar ve engellenen telefon numaraları</string>
   <string name="micloud_setting_browser_summary">Yerimleri, geçmiş ve sekmeler</string>
-  <string name="micloud_setting_contact_summary">Şahıs bilgileri ve profil fotoğrafları</string>
+  <string name="micloud_setting_contact_summary">Şahsın Bilgileri ve Profil Fotoğrafları</string>
   <string name="micloud_setting_deskclock_summary">Saat dilimi ve alarm ayarları</string>
   <string name="micloud_setting_gallery_summary">Fotoğraflar ve videolar</string>
   <string name="micloud_setting_music_summary">Çalma listeleri ve favoriler</string>
@@ -348,8 +348,8 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="phone_number_may_required_dspt_provision">"Bu servisin telefon numaranıza ihtiyacı var. "</string>
   <string name="phone_number_required_dspt_provision">"Bu servisin telefon numaranıza ihtiyacı var. "</string>
   <string name="photo">Fotoğraflar</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">"WLAN ile bir ağa bağlandığında sadece şahis profil resimlerini eşitle"</string>
-  <string name="pref_summary_sync_video_on_wifi_only">"WLAN ile bir ağa bağlandığında sadece şahıs profil videolarını eşitle"</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">"WLAN ile bir ağa bağlandığında sadece şahsın profil resimlerini eşitle"</string>
+  <string name="pref_summary_sync_video_on_wifi_only">"WLAN ile bir ağa bağlandığında sadece şahsın profil videolarını eşitle"</string>
   <string name="pref_title_sync_contacts_title">Şahısları eşitle</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Fotoğrafları sadece WLAN kullanarak eşitle</string>
   <string name="pref_title_sync_video_on_wifi_only">Videoları sadece WLAn kullanarak eşitle</string>
