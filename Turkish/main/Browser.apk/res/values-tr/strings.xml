@@ -4,7 +4,7 @@
   <string name="abc_action_bar_up_description">Yukarı Git</string>
   <string name="abc_action_menu_overflow_description">Daha Fazla</string>
   <string name="abc_action_mode_done">Tamam</string>
-  <string name="abc_action_mode_select_all">Tümünü Seç</string>
+  <string name="abc_action_mode_select_all">Hepsi</string>
   <string name="accept_cookies_confirm_message">Bu özelliği kapamak bazı web sitelerinin hatalı davranmasına neden olabilir.</string>
   <string name="accessibility_button_clear">Girişi temizle</string>
   <string name="accessibility_date_picker_month">Ay</string>
@@ -207,8 +207,8 @@
   <string name="dialog_title_not_available">"İndirilemedi"</string>
   <string name="dialog_title_queued_body">Dosya henüz mevcut değil</string>
   <string name="dont_remind_again">Bu seçimi hatırla</string>
-  <string name="download_btn_select_all">Tümünü Seç</string>
-  <string name="download_btn_select_none">Tümünü Seçme</string>
+  <string name="download_btn_select_all">Hepsi</string>
+  <string name="download_btn_select_none">Hepsime</string>
   <string name="download_complete">İndirme Tamamlandı</string>
   <string name="download_completed">İndirildi</string>
   <string name="download_default_path_txt">Bu seçimi hatırla</string>
@@ -356,7 +356,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miui_content_open_url">URL Aç</string>
   <string name="miui_content_paste">Yapıştır</string>
   <string name="miui_content_select">Seç</string>
-  <string name="miui_content_select_all">Tümünü Seç</string>
+  <string name="miui_content_select_all">Hepsi</string>
   <string name="miui_content_share">Paylaş</string>
   <string name="miui_content_web_search">Ara</string>
   <string name="miui_quicksearch_enable_pref_summary">Tarayıcı arama çubuğunu her zaman bildirim alanında göster</string>
@@ -702,9 +702,9 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="user_defined_webpage">Başlangıç Sayfasına Ekle</string>
   <string name="user_defined_webpage_title">Başlangıç Sayfasına Ekle</string>
   <string name="username">Adı</string>
-  <string name="v5_deselect_all">Tümünü Seçme</string>
+  <string name="v5_deselect_all">Hepsime</string>
   <string name="v5_edit_mode_title_empty">0 seçildi</string>
-  <string name="v5_select_all">Tümünü Seç</string>
+  <string name="v5_select_all">Hepsi</string>
   <string name="version_check_button_checking">Denetleniyor...</string>
   <string name="version_check_button_default">Güncellemeleri kontrol et</string>
   <string name="version_check_button_download_failed">İndirmeye devam et</string>
