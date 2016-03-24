@@ -34,14 +34,14 @@
   <string name="aqi_detail_pm25">PM2.5 : %1$s μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
   <string name="aqi_detail_so2">SO&lt;small&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/small&gt; : %1$s μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
   <string name="aqi_detail_subtitle">AQI : %1$s</string>
-  <string name="aqi_detail_title">Aqi Kalite İndeksi</string>
+  <string name="aqi_detail_title">Hava Kalite İndeksi</string>
   <string name="button_abandon">Değişikliklerden vazgeç</string>
   <string name="button_allow">Tamam</string>
   <string name="button_confirm">İzin Ver</string>
   <string name="button_exit">Çık</string>
   <string name="button_not_allow">İptal</string>
   <string name="daily_forcast_drawer_on_bottom">Gizli</string>
-  <string name="daily_forcast_drawer_on_top">Diğer Günleri Görüntüle</string>
+  <string name="daily_forcast_drawer_on_top">Diğer Zamanları Görüntüle</string>
   <string name="daily_forcast_no_wind">Rüzgarsız</string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s sonra.</string>
@@ -64,7 +64,7 @@
   <string name="indices_desc_pressure">%1$s hPa</string>
   <string name="indices_desc_visibility">%1$skm</string>
   <string name="indices_no_restriction">Yok</string>
-  <string name="indices_title_Precip1hr">Yağış 1hr</string>
+  <string name="indices_title_Precip1hr">1sa. Yağış Miktarı</string>
   <string name="indices_title_car_wash">Araç Yıkama</string>
   <string name="indices_title_feel">Hissedilen</string>
   <string name="indices_title_humidity">Nem</string>
@@ -97,8 +97,8 @@
   <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"Ekran görüntüsü alınamadı"</string>
-  <string name="sunrise">Güneşin Doğuşu</string>
-  <string name="sunset">Güneşin Batışı</string>
+  <string name="sunrise">Gündoğumu</string>
+  <string name="sunset">Günbatımı</string>
   <string name="title_share_link">URL\'yi Paylaş</string>
   <string name="twc_logo_title"/>
   <string name="view_forecast_item_yesterday">Dün</string>
