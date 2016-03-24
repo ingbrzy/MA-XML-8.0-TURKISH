@@ -1334,10 +1334,10 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="usage_sorted_empty_text">Boş</string>
   <string name="usage_sorted_loading_text">Biraz bekleyin…</string>
   <string name="usage_type_audio">Ses</string>
-  <string name="usage_type_cpu">CPU Toplam</string>
+  <string name="usage_type_cpu">Toplam CPU Kullanımı</string>
   <string name="usage_type_cpu_foreground">CPU Önplan</string>
-  <string name="usage_type_data_recv">Mobil veri alındı</string>
-  <string name="usage_type_data_send">Mobile veri gönderildi</string>
+  <string name="usage_type_data_recv">Mobil Veri Alımı</string>
+  <string name="usage_type_data_send">Mobil Veri Gönderimi</string>
   <string name="usage_type_data_wifi_recv">WLAN veri alındı</string>
   <string name="usage_type_data_wifi_send">WLAN veri gönderildi</string>
   <string name="usage_type_gps">GPS</string>
@@ -1345,7 +1345,7 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="usage_type_on_time">Açık Kalma Süresi</string>
   <string name="usage_type_phone">Telefon</string>
   <string name="usage_type_video">Video</string>
-  <string name="usage_type_wake_lock">Uyanık tut</string>
+  <string name="usage_type_wake_lock">Uyanık Kalma Zamanı</string>
   <string name="usage_type_wifi_running">WLAN çalışıyor</string>
   <string name="usb_install_desc">Bu uygulama USB yoluyla yüklensin mi?</string>
   <string name="usbsharenet_exception_summary">"Paylaşılan USB bağlantısını kullanarak internete bağlanamıyor. Cihazınızın USB bağlantısını kontrol edin ve Mi PC Suite\'i yeniden başlatın."</string>
