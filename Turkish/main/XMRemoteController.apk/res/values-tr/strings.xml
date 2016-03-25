@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ac_gree">Gree AC</string>
+  <string name="ac_gree">Gree Klima</string>
   <string name="ac_mode_auto">Otomatik</string>
   <string name="ac_mode_cold">Soğutma</string>
   <string name="ac_mode_dry">Nem Alma</string>
@@ -116,7 +116,7 @@
   <string name="current_version_frame">Güncel sürüm %s</string>
   <string name="current_version_latest">Güncelleme mevcut değil</string>
   <string name="data_request_error">"Bilgi alınamadı"</string>
-  <string name="day">d</string>
+  <string name="day">g</string>
   <string name="day_string">Gün</string>
   <string name="delete">Sil</string>
   <string name="delete_confirm">Cihaz silinsin mi?</string>
@@ -132,7 +132,7 @@
   <string name="diagnosis_intro">Bağlantı sorunları için ağı test et</string>
   <string name="dialog_install_assistant_content">Mi TV veya Mi Kutunun en iyi şekilde Mi Screencast yükle</string>
   <string name="dining_room">Yemek Odası</string>
-  <string name="download_assistant">Screen cast</string>
+  <string name="download_assistant">İndirme Yardımcısı</string>
   <string name="download_path_fail">"İndirilemedi. Cihazınızın SD kart veya USB sürücüsünü kontrol edin."</string>
   <string name="download_times">İndirmeler: %1$d</string>
   <string name="downloading">İndiriliyor...</string>
