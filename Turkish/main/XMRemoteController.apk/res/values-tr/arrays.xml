@@ -3,27 +3,27 @@
     <string-array name="ac_mode_array">
         <item>Soğutma</item>
         <item>Isıtma</item>
-        <item>Nem Alma</item>
+        <item>Nem alma</item>
         <item>Fan</item>
     </string-array>
     <string-array name="answer">
-        <item>Cihazınız sadece Mi TV, Mi-Box ve Wi-Fi kullanarak diğer Android cihazlarıyla eşleştirebilirsiniz.</item>
-        <item>"Eşleştirme esnasında doğru A/C modelini seçtiğinizden emin olun. Eşleştirme tamamlanana kadar cihazınızdaki yönergeleri izleyin."</item>
-        <item>Hayır. Şu anda IR uzaktan kumanda olarak Mi 4, Mi 4c ve Redmi Not 2 kullanabilirsiniz.</item>
+        <item>Cihazınız kızılötesini desteklemiyor. Cihazınız yalnızca Mi TV, Mi Box ve Wifi kullanan birkaç Android aygıtıyla eşleşebilir</item>
+        <item>Eşleştirme sürecinde klima modelini doğru olarak seçtiğinizden emin olun. Eşleştirme işlemi tamamlanana kadar cihazınızdaki yönergeleri izleyin</item>
+        <item>Hayır. Şu anda IR uzaktan kumanda olarak Mi 4, Mi 4c ve Redmi Not 2 kullanabilirsiniz</item>
     </string-array>
     <string-array name="epg_week_tab">
-        <item>Pazar</item>
-        <item>Ptesi</item>
-        <item>Salı</item>
-        <item>Çar</item>
-        <item>Per</item>
-        <item>Cuma</item>
-        <item>Ctesi</item>
+        <item>Paz</item>
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çrş</item>
+        <item>Prş</item>
+        <item>Cum</item>
+        <item>Cts</item>
     </string-array>
     <string-array name="question">
-        <item>Neden benim telefonum kablosuz cihazlar için aramaya devam ediyor?</item>
-        <item>"Neden sadece A/C açıp/kapatabiliyorum?"</item>
-        <item>Mi 3 Mi 2ve Redmi IR uzaktan kumandasını kullanabilir miyim?</item>
+        <item>Telefonum neden kablosuz cihazları aramaya devam ediyor?</item>
+        <item>Klimayı neden yalnızca açabiliyorum. Neden kapatamıyorum?</item>
+        <item>Mi 3, Mi 2 ve Redmi cihazlarını kızılötesi kumanda olarak kullanabilir miyim?</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
