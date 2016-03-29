@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="items_selected">
-        <item quantity="other">%d öğe seçildi</item>
-        <item quantity="one">%d öğe seçildi</item>
+        <item quantity="other">%d öge seçildi</item>
+        <item quantity="one">%d öge seçildi</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Şimdi</item>
+        <item quantity="other">Az önce</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Şimdi</item>
+        <item quantity="other">Az önce</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Hemen</item>
+        <item quantity="other">Bir kaç dakika önce</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Hemen</item>
+        <item quantity="other">Bir kaç dakika önce</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">1 saat önce</item>
