@@ -28,60 +28,60 @@
         <item>"Bu ay: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Dün (veri)</item>
-        <item>Bugün (veri)</item>
-        <item>Bu ay (veri)</item>
-        <item>Dün WLAN</item>
-        <item>Bugün WLAN</item>
-        <item>Bu ay WLAN</item>
+        <item>Dün (Veri)</item>
+        <item>Bugün (Veri)</item>
+        <item>Bu ay (Veri)</item>
+        <item>Dün (Wifi)</item>
+        <item>Bugün (Wifi)</item>
+        <item>Bu ay (Wifi)</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Dün (veri)</item>
-        <item>Bugün (veri)</item>
-        <item>Bu ay (veri)</item>
+        <item>Dün (Veri)</item>
+        <item>Bugün (Veri)</item>
+        <item>Bu ay (Veri)</item>
     </string-array>
     <string-array name="network_speed_update_internals">
-        <item>3 san</item>
-        <item>4 san</item>
-        <item>5 san</item>
-        <item>6 san</item>
-        <item>7 san</item>
-        <item>8 san</item>
-        <item>9 san</item>
+        <item>3 saniye</item>
+        <item>4 saniye</item>
+        <item>5 saniye</item>
+        <item>6 saniye</item>
+        <item>7 saniye</item>
+        <item>8 saniye</item>
+        <item>9 saniye</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Mobil kullanım "</item>
-        <item>"WLAN kullanımı "</item>
-        <item>"Veri kullanımı "</item>
+        <item>"Wifi kullanımı "</item>
+        <item>"Tasarruf edilen veri "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Mobil kullanım "</item>
-        <item>"WLAN kullanımı "</item>
+        <item>"Mobil veri kullanımı "</item>
+        <item>"Wifi kullanımı "</item>
     </string-array>
     <string-array name="traffic_sort_type">
         <item>"Mobil veri kullanımı "</item>
-        <item>"WLAN kullanımı "</item>
-        <item>"Veri kullanımı "</item>
+        <item>"Wifi kullanımı "</item>
+        <item>"Tasarruf edilen veri "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
-        <item>Otomataik Olarak Al</item>
-        <item>Elle Al</item>
+        <item>Otomatik olarak al</item>
+        <item>El ile ayarla</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
-        <item>Uyarıyı Göster</item>
+        <item>Uyarı görüntüle</item>
         <item>Uyar ve mobil veriyi kapat</item>
     </string-array>
     <string-array name="roaming_apps_sorted_type">
-        <item>Sıklıkla Kullanılan</item>
-        <item>Adı</item>
+        <item>En fazla kullanan</item>
+        <item>İsim</item>
     </string-array>
     <string-array name="traffic_saving_compress_level_string_array">
-        <item>Yok</item>
+        <item>Ayarlı değil</item>
         <item>Düşük</item>
         <item>Orta</item>
         <item>Yüksek</item>
     </string-array>
-     <string-array name="power_dialog_auto_clean_memory_items">
+    <string-array name="power_dialog_auto_clean_memory_items">
         <item>1 dakika sonra</item>
         <item>5 dakika sonra</item>
         <item>10 dakika sonra</item>
@@ -93,22 +93,22 @@
         <item>1 dakika</item>
         <item>2 dakika</item>
         <item>5 dakika</item>
-        <item>10 dakika</item>
+        <item>10 Dakika</item>
         <item>Asla</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-        <item>Yüksek Performans</item>
+        <item>Yüksek performans</item>
         <item>Dengeli</item>
     </string-array>
     <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Kapalı</item>
-        <item>Açık</item>
-        <item>Varsayılan</item>
+        <item>Kapat</item>
+        <item>Aç</item>
+        <item>Değişiklik yapma</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
-        <item>Titreşimsiz</item>
-        <item>Sessizse Titreşimli</item>
-        <item>Daima Titreşimli</item>
+        <item>Asla titreme</item>
+        <item>Sessiz modda daima titre</item>
+        <item>Her zaman titre</item>
     </string-array>
     <string-array name="power_dialog_vibration_items_values">
         <item>0</item>
@@ -116,16 +116,16 @@
         <item>2</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Bir Kez</item>
-        <item>Her Gün</item>
-        <item>Yasal iş günleri</item>
-        <item>Haftaiçi</item>
+        <item>Bir kez</item>
+        <item>Her gün</item>
+        <item>İş günleri</item>
+        <item>Hafta içi</item>
         <item>Özel</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Bir Kez</item>
-        <item>Her Gün</item>
-        <item>Haftaiçi</item>
+        <item>Bir kez</item>
+        <item>Her gün</item>
+        <item>Hafta içi</item>
         <item>Özel</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
