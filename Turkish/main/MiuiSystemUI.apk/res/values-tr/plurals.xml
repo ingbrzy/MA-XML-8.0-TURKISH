@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d en son uygulama</item>
-        <item quantity="one">1 en son uygulama</item>
+        <item quantity="other">%d son uygulama</item>
+        <item quantity="one">1 son uygulama</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
-        <item quantity="other">"%d uygulamanın bildirimleri gizlensin mi?"</item>
-        <item quantity="one">"Bu uygulamanın bildirimleri gizlensin mi?"</item>
+        <item quantity="other">%d uygulamanın bildirimleri gizlensin mi?</item>
+        <item quantity="one">Bu uygulamanın bildirimleri gizlensin mi?</item>
     </plurals>
 </resources>
