@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="color_mode_labels">
-        <item>Siyah &amp; Beyaz</item>
-        <item>Rekli</item>
+        <item>Siyah &amp; beyaz</item>
+        <item>Renkli</item>
     </string-array>
     <string-array name="orientation_labels">
         <item>Dikey</item>
         <item>Yatay</item>
+    </string-array>
+    <string-array name="page_options_labels">
+        <item>Tümü</item>
+        <item>Aralık</item>
     </string-array>
 </resources>
