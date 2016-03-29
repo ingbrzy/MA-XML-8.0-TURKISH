@@ -1,9 +1,9 @@
 <resources>
-    <string name="label_airplane_mode">Uçak Modu</string>
-    <string name="label_silent_mode">Sessiz Mod</string>
-    <string name="label_reboot">Tekrar Başlat</string>
+    <string name="label_airplane_mode">Uçak</string>
+    <string name="label_silent_mode">Sessiz</string>
+    <string name="label_reboot">Yeniden başlat</string>
     <string name="label_shutdown">Kapat</string>
-    <string name="label_alert_reboot">Tekrar başlatmak için dokunun</string>
-    <string name="label_alert_shutdown">Kapatmak için dokunun</string>
-	<string name="label_blank">Geri</string>
+    <string name="label_alert_reboot">Yeniden başlat</string>
+    <string name="label_alert_shutdown">Kapat</string>
+    <string name="label_blank">Geri</string>
 </resources>
