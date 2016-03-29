@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="helps">
+        <item>Telefon</item>
+        <item>Manifatura</item>
+        <item>İletişim</item>
+        <item>Açık başvuru</item>
+        <item>Hatırlatma ayarla</item>
+        <item>İnternette ara</item>
+        <item>Yemek</item>
+        <item>Müzik ara</item>
+        <item>Tren bileti</item>
+        <item>Hava durumu</item>
+        <item>Harita</item>
+        <item>Sohbet et</item>
+        <item>Arayıcı</item>
+    </string-array>
+    <string-array name="help_tel">
+        <item>Hakan Güven aradı</item>
+        <item>Hakan Güven ara</item>
+        <item>10086 ara</item>
+    </string-array>
+    <string-array name="help_sms">
+        <item>Hakan Güven mesaj gönderdi</item>
+        <item>10086 kısa mesaj gönder</item>
+        <item>Gece geç saatlerde</item>
+    </string-array>
+    <string-array name="help_contact">
+        <item>Hakan Güven numaralarını gör</item>
+        <item>Yeni kişiler, Hakan Güven, 186xxxxxxxx</item>
+        <item>Hakan Güven yayınlanan bir numara</item>
+    </string-array>
+    <string-array name="help_alarm">
+        <item>Beni otururken hatırlat: 11:30</item>
+        <item>Yarım saat sonra izlemek için hatırlat</item>
+        <item>Cumartesi sabah babamı almak için bana hatırlat: 08:00</item>
+    </string-array>
+    <string-array name="help_launch">
+        <item>Kamerayı aç</item>
+        <item>Zimbileri aç</item>
+        <item>Çılgın kuşları indir</item>
+    </string-array>
+    <string-array name="help_web">
+        <item>Darı ağı açık</item>
+        <item>Arama darı</item>
+        <item>Baidu darı</item>
+    </string-array>
+    <string-array name="help_dinner">
+        <item>Yakınlardaki lezzetli neler</item>
+        <item>Sichuan Müzesi yakınında</item>
+        <item>McDonaldsın tren istasyonu yakınında bulunmaktadır</item>
+    </string-array>
+    <string-array name="help_music">
+        <item>Kayıtsızca bir kaç şarkı</item>
+        <item>Ben abartılı duymak istiyorum</item>
+        <item>İlk porselen</item>
+    </string-array>
+    <string-array name="help_train">
+        <item>Şanghay Pekine tren kontrolü</item>
+        <item>Wuhan şehrine uçuşlar yarın yoktur</item>
+        <item>Lhasaya bir bilet istiyorum</item>
+    </string-array>
+    <string-array name="help_weather">
+        <item>Hava durumu</item>
+        <item>Bir sonraki yağmur yarın değil</item>
+        <item>Xicheng hava durumu</item>
+    </string-array>
+    <string-array name="help_map">
+        <item>İzmire nasıl gidilir</item>
+        <item>Cennetin tapınağı nerede</item>
+        <item>Ulusal stadyuma nasıl giidilir</item>
+    </string-array>
+    <string-array name="help_chat">
+        <item>Bana bir şaka söyle</item>
+        <item>Bana bir şiir söyle</item>
+        <item>Efsanevi Phoenix kimdir</item>
+    </string-array>
+    <string-array name="help_translate">
+        <item>Hava durumu Türkçeye çevrilmiş</item>
+    </string-array>
+    <string-array name="week">
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+    </string-array>
+    <string-array name="pre_open_app">
+        <item>Açık</item>
+        <item>Başlangıç</item>
+    </string-array>
+    <string-array name="whitelist_actions">
+        <item>miui.intent.action.GARBAGE_CLEANUP</item>
+        <item>miui.intent.action.POWER_MANAGER</item>
+        <item>miui.intent.action.ANTI_VIRUS</item>
+        <item>android.intent.action.VIEW_DATA_USAGE_SUMMARY</item>
+        <item>android.intent.action.SET_FIREWALL</item>
+        <item>miui.intent.action.LICENSE_MANAGER</item>
+    </string-array>
+    <string-array name="yellow_page">
+        <item>com.android.contacts</item>
+        <item>com.android.contacts.activities.YellowPageNavigation</item>
+    </string-array>
+    <string-array name="password_guard">
+        <item>com.android.settings</item>
+        <item>com.android.settings.MiuiPasswordGuardActivity</item>
+    </string-array>
+    <string-array name="phone">
+        <item>com.android.contacts</item>
+        <item>com.android.contacts.activities.TwelveKeyDialer</item>
+    </string-array>
+    <string-array name="report_method_entry_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="whitelist_names">
+        <item>Temizleyici</item>
+        <item>Güç optimizasyonu</item>
+        <item>Virüs tarama</item>
+        <item>Ağ asistanı</item>
+        <item>Taciz kesişimi</item>
+        <item>Yetki yönetimi</item>
+    </string-array>
+    <string-array name="source_app_name">
+        <item>Mobil QQ</item>
+        <item>Telefon QQ</item>
+        <item>Sina Weibo</item>
+    </string-array>
+    <string-array name="target_app_name">
+        <item>QQ</item>
+        <item>QQ</item>
+        <item>BiHiroshi</item>
+    </string-array>
+    <string-array name="res_no_voice">
+        <item>Ne diyeceğini bilmiyor musun?</item>
+        <item>Lütfen tekrar et</item>
+        <item>Ne diyorsun</item>
+        <item>Duyamıyorum</item>
+        <item>Anlamadım</item>
+        <item>Tekrar</item>
+    </string-array>
+    <string-array name="report_method_entries">
+        <item>Kulaklık bağlandığında</item>
+        <item>Herzaman</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="voice_effect_names">
+        <item>Varsayılan</item>
+        <item>JiaJia</item>
+        <item>XiaoRong</item>
+        <item>XiaoMei</item>
+        <item>NanNan</item>
+        <item>XiaoFeng</item>
+        <item>XiaoQiang</item>
+        <item>XiaoKun</item>
+        <item>DaLong</item>
+        <item>Donald Duck</item>
+    </string-array>
+    <string-array name="voice_effect_descs">
+        <item>Çince-ingilizce kadın sesi</item>
+        <item>Çin kadın sesi</item>
+        <item>Sichuan kadın sesi</item>
+        <item>Kanton kadın sesi</item>
+        <item>Çince-ingilizce kız sesi</item>
+        <item>Çince-ingilizce erkek sesi</item>
+        <item>İnsan erkek sesi</item>
+        <item>Henan erkek sesi</item>
+        <item>Kanton erkek sesi</item>
+        <item>Karikatür</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Güneşli</item>
+        <item>Bulutlu</item>
+        <item>Kapalı</item>
+        <item>Sisli</item>
+        <item>Yoğun yağmur fırtınası</item>
+        <item>Sağanak</item>
+        <item>Sağanak</item>
+        <item>Gök gürültülü sağanak</item>
+        <item>Hafif yağışlı</item>
+        <item>Yoğun sağanak</item>
+        <item>Hafif yağmurlu</item>
+        <item>Hafif Yağmur</item>
+        <item>Karla karışık yağmur</item>
+        <item>Kar fırtınası</item>
+        <item>Karlı</item>
+        <item>Yoğun karlı</item>
+        <item>Hafif karlı</item>
+        <item>Hafif karlı</item>
+        <item>Şiddetli kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Kum</item>
+        <item>Rüzgarlı</item>
+        <item>Dolu</item>
+        <item>Toz</item>
+        <item>Sisli</item>
+        <item>Dondurucu yağmur</item>
+        <item>Yok</item>
+    </string-array>
+</resources>
