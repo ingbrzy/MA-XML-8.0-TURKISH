@@ -26,25 +26,25 @@
     <string-array name="default_smiley_names">
         <item>Mutlu</item>
         <item>Üzgün</item>
-        <item>Göz Kırp</item>
-        <item>Dil Çıkart</item>
+        <item>Göz kırpıyor</item>
+        <item>Dil çıkartıyor</item>
         <item>Şaşırmış</item>
         <item>Öpüyor</item>
         <item>Bağırıyor</item>
         <item>Havalı</item>
-        <item>Para Delisi</item>
-        <item>Ketum</item>
+        <item>Para delisi</item>
+        <item>Ağzı sıkı</item>
         <item>Mahçup</item>
         <item>Melek</item>
         <item>Kararsız</item>
         <item>Ağlıyor</item>
-        <item>Dudaklar Mühürlü</item>
+        <item>Dudaklar mühürlendi</item>
         <item>Gülüyor</item>
         <item>Şaşkın</item>
         <item>Kalp</item>
         <item>Deli</item>
-        <item>Sırıt</item>
-        <item>İfadesiz Surat</item>
+        <item>Sırıtma</item>
+        <item>Poker surat</item>
     </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>1 kez</item>
@@ -61,15 +61,15 @@
         <item>10</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Adı</item>
-        <item>Rumuzu</item>
+        <item>İsim</item>
+        <item>Takma isim</item>
         <item>Telefon</item>
-        <item>E-Posta</item>
+        <item>E-posta</item>
         <item>Kuruluş</item>
         <item>IM</item>
-        <item>SIP Telefon</item>
-        <item>Doğum Günü</item>
-        <item>Websitesi</item>
+        <item>SIP telefon</item>
+        <item>Doğum günü</item>
+        <item>İnternet sitesi</item>
         <item>Adres</item>
         <item>Not</item>
         <item>İlişki</item>
@@ -88,25 +88,25 @@
         <item>vnd.android.cursor.item/note</item>
         <item>vnd.android.cursor.item/relation</item>
     </string-array>
-   <string-array name="resent_via_entries_sms">
-        <item>SMS</item>
-        <item>Mi Mesaj</item>
+    <string-array name="resent_via_entries_sms">
+        <item>Mesaj</item>
+        <item>Mi mesaj</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
-        <item>Mi Mesaj</item>
+        <item>Mi mesaj</item>
     </string-array>
     <string-array name="entryvalues_date_type">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="entries_sms_validity_period">
-        <item>Ayarsız</item>
+        <item>Ayarlı değil</item>
         <item>1 saat</item>
         <item>6 saat</item>
         <item>12 saat</item>
         <item>1 gün</item>
-        <item>Azami</item>
+        <item>Maksimum</item>
     </string-array>
     <string-array name="entries_sms_validity_period_value">
         <item>-1</item>
@@ -117,7 +117,7 @@
         <item>635040</item>
     </string-array>
     <string-array name="entries_mms_validity_period">
-        <item>Azami</item>
+        <item>Maksimum</item>
         <item>2 gün</item>
     </string-array>
     <string-array name="entries_mms_validity_period_value">
@@ -125,8 +125,8 @@
         <item>172800</item>
     </string-array>
     <string-array name="wild_msg_sync_options">
-        <item>Tüm mesajları eşitle</item>
-        <item>Seçilen SIM kartlarda ki mesajları eşitle</item>
+        <item>Tüm mesajları senkronize et</item>
+        <item>Seçilen Sim karttaki mesajları senkronize et</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 saniye</item>
@@ -142,8 +142,13 @@
         <item>Diğer</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
-        <item>Daima</item>
-        <item>Sadece sessizde iken</item>
+        <item>Her zaman</item>
+        <item>Yalnızca sessiz modda</item>
         <item>Asla</item>
     </string-array>
-    </resources>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+</resources>
