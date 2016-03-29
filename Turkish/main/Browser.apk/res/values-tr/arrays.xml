@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="config_keySystemUuidMapping" />
+    <string-array name="pref_ua_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_homepage_values">
+        <item>miui_home</item>
+        <item>other</item>
+    </string-array>
     <string-array name="pref_text_zoom_values">
         <item>50</item>
         <item>75</item>
@@ -30,21 +40,21 @@
         <item>google</item>
     </string-array>
     <string-array name="bookmarks_cm_customization">
-        <item>MM网</item>
+        <item>MM ağı</item>
         <item>http://a.10086.cn/j/6061/</item>
-        <item>手机阅读</item>
+        <item>Cm read</item>
         <item>http://wap.cmread.com</item>
-        <item>手机游戏</item>
+        <item>10086</item>
         <item>http://g.10086.cn</item>
-        <item>手机视频</item>
+        <item>Cm video</item>
         <item>http://wap.cmvideo.cn</item>
-        <item>无线音乐</item>
+        <item>10086</item>
         <item>http://m.10086.cn/wireless/html5/index.html</item>
-        <item>冲浪网址</item>
+        <item>10086</item>
         <item>http://go.10086.cn/?coc=6GG2GGRq</item>
-        <item>飞信首页</item>
+        <item>10086</item>
         <item>http://f.10086.cn</item>
-        <item>139邮箱</item>
+        <item>10086</item>
         <item>http://mail.10086.cn</item>
         <item>12580</item>
         <item>http://12580wap.10086.cn/?pid=PCM002942000</item>
@@ -83,7 +93,23 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
     </string-array>
-   <string-array name="search_engines">
+    <string-array name="bookmarks_zh">
+        <item>Mi forum</item>
+        <item>http://bbs.xiaomi.cn/</item>
+        <item>Bbs</item>
+        <item>http://m.baidu.com/?from=1269a</item>
+        <item>Baidu</item>
+        <item>http://www.google.com.hk/</item>
+        <item>Sina</item>
+        <item>http://3g.sina.com.cn/</item>
+        <item>QQ</item>
+        <item>http://3g.qq.com/</item>
+        <item>İfeng</item>
+        <item>http://i.ifeng.com/?ch=rj_mr</item>
+        <item>163</item>
+        <item>http://3g.163.com/</item>
+    </string-array>
+    <string-array name="search_engines">
         <item>baidu</item>
         <item>sogou</item>
         <item>google</item>
@@ -127,7 +153,7 @@
         <item>http://ff.search.yahoo.com/gossip?output=fxjson&amp;command={searchTerms}</item>
     </string-array>
     <string-array name="baidu">
-        <item>百度</item>
+        <item>Baidu</item>
         <item>baidu.com</item>
         <item>http://m.baidu.com/favicon.ico</item>
         <item>http://m.baidu.com/s?from=1269a&amp;word={searchTerms}</item>
@@ -135,18 +161,18 @@
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
     <string-array name="sogou">
-        <item>搜狗</item>
+        <item>Sogou</item>
         <item>sogou.com</item>
         <item>http://wap.sogou.com/favicon.ico</item>
-        <item>http://wap.sogou.com/web/sl?keyword={searchTerms}&amp;bid=sogou-mobp-95e62984b87e9064</item>
+        <item>http://wap.sogou.com/web/searchlist.jsp?keyword={searchTerms}&amp;pid=xiaomi9&amp;e=1187</item>
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
     <string-array name="sm">
-        <item>神马</item>
+        <item>Sm</item>
         <item>sm.cn</item>
         <item>http://stlogo.sm.cn/wap/sm/img/favicon.ico</item>
-        <item>http://m.yz.sm.cn/s?q={searchTerms}&amp;from=wy204461</item>
+        <item>http://m.yz.sm.cn/s?q={searchTerms}&amp;from=wy920328</item>
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
@@ -159,7 +185,7 @@
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
     <string-array name="s139">
-        <item>百度</item>
+        <item>139</item>
         <item>139.com</item>
         <item>http://s.139.com/favicon.ico</item>
         <item>http://139.chinaso.com/page/search?pn=1&amp;fr=wap&amp;q={searchTerms}</item>
@@ -167,7 +193,7 @@
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
     <string-array name="yicha">
-        <item>易查</item>
+        <item>Yicha</item>
         <item>yicha.cn</item>
         <item>http://yicha.cn/favicon.ico</item>
         <item>http://yicha.cn/union/u.jsp?p=page&amp;site=2145958584&amp;key={searchTerms}</item>
@@ -175,7 +201,7 @@
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
     <string-array name="easou">
-        <item>宜搜</item>
+        <item>Easou</item>
         <item>easou.com:8080</item>
         <item>http://ad3.easou.com:8080/favicon.ico</item>
         <item>http://ad3.easou.com:8080/j10ad/ea2.jsp?channel=11&amp;cid=bwcn3511_49059_D_1&amp;wver=t&amp;q={searchTerms}</item>
@@ -183,7 +209,7 @@
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
     <string-array name="taobao">
-        <item>淘宝</item>
+        <item>Taobao</item>
         <item>taobao.com</item>
         <item>http://r.m.taobao.com/favicon.ico</item>
         <item>http://r.m.taobao.com/s?p=mm_32549094_4130482_13394846&amp;q={searchTerms}</item>
@@ -191,7 +217,7 @@
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
     <string-array name="dianping">
-        <item>团购</item>
+        <item>Dianping</item>
         <item>dianping.com</item>
         <item>http://developer.dianping.com/favicon.ico</item>
         <item>http://m.dianping.com/shoplist/2/kw/{searchTerms}/search</item>
@@ -199,7 +225,7 @@
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
     <string-array name="tupian">
-        <item>图片</item>
+        <item>Baidu</item>
         <item>baidu.com</item>
         <item>http://image.baidu.com/favicon.ico</item>
         <item>http://m.baidu.com/s?from=1000228f&amp;vit=union&amp;st=103041&amp;word={searchTerms}&amp;tn=bdwis</item>
@@ -207,13 +233,133 @@
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
     <string-array name="shipin">
-        <item>视频</item>
+        <item>Youku</item>
         <item>youku.com</item>
         <item>http://m.baidu.com/favicon.ico</item>
         <item>http://m.baidu.com/video?from=1000228j&amp;word={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
+    <string-array name="google_in_list">
+        <item>search_google</item>
+        <item>ic_search_engine_google</item>
+        <item>google</item>
+    </string-array>
+    <string-array name="yahoo_in_list">
+        <item>search_yahoo</item>
+        <item>ic_search_engine_yahoo</item>
+        <item>yahoo</item>
+    </string-array>
+    <string-array name="bing_in_list">
+        <item>search_bing</item>
+        <item>ic_search_engine_bing</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="baidu_in_list">
+        <item>search_baidu</item>
+        <item>ic_search_engine_baidu</item>
+        <item>baidu</item>
+    </string-array>
+    <string-array name="sm_in_list">
+        <item>search_sm</item>
+        <item>ic_search_engine_sm</item>
+        <item>sm</item>
+    </string-array>
+    <string-array name="sogou_in_list">
+        <item>search_sogou</item>
+        <item>ic_search_engine_sogou</item>
+        <item>sogou</item>
+    </string-array>
+    <string-array name="bing_zh_CN_in_list">
+        <item>search_bing</item>
+        <item>ic_search_engine_bing</item>
+        <item>bing_zh_CN</item>
+    </string-array>
+    <string-array name="s139_in_list">
+        <item>search_s139</item>
+        <item>ic_search_engine_s139</item>
+        <item>s139</item>
+    </string-array>
+    <string-array name="taobao_in_list">
+        <item>search_taobao</item>
+        <item>ic_search_engine_taobao</item>
+        <item>taobao</item>
+    </string-array>
+    <string-array name="yicha_in_list">
+        <item>search_yicha</item>
+        <item>ic_search_engine_yicha</item>
+        <item>yicha</item>
+    </string-array>
+    <string-array name="easou_in_list">
+        <item>search_easou</item>
+        <item>ic_search_engine_easou</item>
+        <item>easou</item>
+    </string-array>
+    <string-array name="dianping_in_list">
+        <item>search_dianping</item>
+        <item>ic_search_engine_dianping</item>
+        <item>dianping</item>
+    </string-array>
+    <string-array name="shipin_in_list">
+        <item>search_shipin</item>
+        <item>ic_search_engine_shipin</item>
+        <item>shipin</item>
+    </string-array>
+    <string-array name="tupian_in_list">
+        <item>search_tupian</item>
+        <item>ic_search_engine_tupian</item>
+        <item>tupian</item>
+    </string-array>
+    <string-array name="pref_data_preload_values">
+        <item>@string/pref_data_preload_value_never</item>
+        <item>@string/pref_data_preload_value_wifi_only</item>
+        <item>@string/pref_data_preload_value_always</item>
+    </string-array>
+    <string-array name="pref_images_preload_values">
+        <item>@string/pref_images_preload_value_never</item>
+        <item>@string/pref_images_preload_value_wifi_only</item>
+        <item>@string/pref_images_preload_value_always</item>
+    </string-array>
+    <string-array name="pref_video_preload_values">
+        <item>@string/pref_video_preload_value_never</item>
+        <item>@string/pref_video_preload_value_wifi_only</item>
+        <item>@string/pref_video_preload_value_always</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_values">
+        <item>@string/pref_link_prefetch_value_never</item>
+        <item>@string/pref_link_prefetch_value_wifi_only</item>
+        <item>@string/pref_link_prefetch_value_always</item>
+    </string-array>
+    <integer-array name="readmode_content_font_size">
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+    </integer-array>
+    <integer-array name="readmode_title_font_size">
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>32</item>
+        <item>36</item>
+    </integer-array>
+    <integer-array name="readmode_theme_bgcolors">
+        <item>0xfff7f7f7</item>
+        <item>0xffe6ddd1</item>
+        <item>0xffd8d8d8</item>
+        <item>0xffcdc3b5</item>
+        <item>0xffb0c0b6</item>
+        <item>0xff111214</item>
+    </integer-array>
+    <integer-array name="readmode_theme_fontcolors">
+        <item>0xff000000</item>
+        <item>0xff000000</item>
+        <item>0xff3e4042</item>
+        <item>0xff543b20</item>
+        <item>0xff2e3833</item>
+        <item>0xff646974</item>
+    </integer-array>
     <integer-array name="hot_words_item_text_bg_color">
         <item>0xfff2f6e8</item>
         <item>0xffe8f6f6</item>
@@ -243,15 +389,15 @@
         <item>iPad</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Varsayılan Açılış Sayfası</item>
-        <item>Hususi</item>
+        <item>Varsayılan başlangıç sayfası</item>
+        <item>Özel</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Küçücük</item>
         <item>Küçük</item>
         <item>Normal</item>
         <item>Büyük</item>
-        <item>Kocaman</item>
+        <item>Çok büyük</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Telefon</item>
