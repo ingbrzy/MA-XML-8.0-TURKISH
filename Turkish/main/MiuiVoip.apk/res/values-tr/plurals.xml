@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="show_dev_countdown">
-        <item quantity="other">Mi Voice geliştirici olmanıza %1$d adım kaldı.</item>
-        <item quantity="one">Mi Voice geliştirici olmanıza %1$d adım kaldı.</item>
+        <item quantity="other">Mi ses geliştiricisi olmaya %1$d adım kaldı</item>
+        <item quantity="one">Mi ses geliştiricisi olmaya %1$d adım kaldı</item>
     </plurals>
     <plurals name="show_nondev_countdown">
-        <item quantity="other">Voice geliştiriciden çıkmanıza %1$d adım kaldı.</item>
-        <item quantity="one">Mi Voice geliştiriciden çıkmanıza %1$d adım kaldı.</item>
+        <item quantity="other">Mi ses geliştiricisi olmamaya %1$d adım kaldı</item>
+        <item quantity="one">Mi ses geliştiricisi olmamaya %1$d adım kaldı</item>
     </plurals>
 </resources>
