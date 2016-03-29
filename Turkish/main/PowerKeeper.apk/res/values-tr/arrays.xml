@@ -1,37 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="broadcast_general_type_restricted">
+        <item>android.intent.action.SCREEN_ON</item>
+        <item>android.intent.action.SCREEN_OFF</item>
+        <item>android.net.wifi.RSSI_CHANGED</item>
+        <item>android.net.wifi.SCAN_RESULTS</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <integer-array name="alarm_general_type_restricted">
+        <item>-1</item>
+    </integer-array>
+    <string-array name="cpu_actions_device">
+        <item>cancro</item>
+    </string-array>
+    <string-array name="group_name">
+        <item>normal</item>
+        <item>hide</item>
+        <item>reading</item>
+        <item>media</item>
+    </string-array>
     <string-array name="group_name_translate">
-        <item>Varsayılan</item>
-        <item>Gizli Mod</item>
-        <item>Okuyucu Modu</item>
-        <item>Ortam Modu</item>
+        <item>Varsayılan mod</item>
+        <item>Gizli mod</item>
+        <item>Okuma modu</item>
+        <item>Medya modu</item>
+    </string-array>
+    <string-array name="event_name">
+        <item>foreground_change</item>
+        <item>screen_on</item>
+        <item>screen_off</item>
+        <item>screen_off_10_min</item>
+        <item>full_screen_enter</item>
+        <item>full_screen_exit</item>
+        <item>background_change</item>
+        <item>start_charging</item>
+        <item>stop_charging</item>
+        <item>idle_enter</item>
     </string-array>
     <string-array name="event_name_translate">
-        <item>Önplanda çalışan uygulama</item>
-        <item>Ekran Açık</item>
-        <item>Ekran Kapalı</item>
-        <item>10 dakika boyunca ekran kapalı</item>
-        <item>Tam Ekran</item>
-        <item>Tam Ekrandan çık</item>
-        <item>Arkaplanda çalışan uygulama</item>
-        <item>Telefon şarj ediliyor</item>
-        <item>"Telefon şarj edilmiyor"</item>
-        <item>Telefon boşta</item>
+        <item>Uygulama ön planda</item>
+        <item>Ekranı aç</item>
+        <item>Ekranı kapat</item>
+        <item>10 dakika sonra ekranı kapat</item>
+        <item>Tam ekrana gir</item>
+        <item>Tam ekrandan çık</item>
+        <item>Uygulama arkaplanda</item>
+        <item>Telefon şarj oluyor</item>
+        <item>Telefon şarj olmuyor</item>
+        <item>Telefon bekleme modunda</item>
+    </string-array>
+    <string-array name="action_name">
+        <item>set_brightness</item>
+        <item>set_cpufreq_max</item>
+        <item>set_lcd_mode</item>
+        <item>set_cpu_powermode</item>
+        <item>set_data_connection</item>
+        <item>set_location</item>
+        <item>set_idle_notification</item>
+        <item>set_keyguard_notification</item>
+        <item>set_bg_data_delay_time</item>
     </string-array>
     <string-array name="action_name_translate">
-        <item>Azami ekran parlaklığı</item>
-        <item>Azami CPU Frekansı</item>
-        <item>Ekran Modu</item>
-        <item>CPU Kullanımı</item>
-        <item>Veri Kullanımı</item>
+        <item>En yüksek ekran parlaklığı</item>
+        <item>En yüksek işlemci frekansı</item>
+        <item>Ekran modu</item>
+        <item>İşlemci kullanımı</item>
+        <item>Veri bağlantısı</item>
         <item>Konum</item>
-        <item>İlk Bildirim</item>
+        <item>İlk mesaj bildirimi</item>
         <item>Kilit ekranı bildirimleri</item>
-        <item>Arkaplan veri bağlantıları kısıtlı</item>
+        <item>Arka plan veri bağlantılarını kısıtla</item>
+    </string-array>
+    <string-array name="action_param">
+        <item>none</item>
+        <item>ui</item>
+        <item>still</item>
+        <item>movie</item>
+        <item>low</item>
+        <item>middle</item>
+        <item>high</item>
+        <item>true</item>
+        <item>false</item>
+        <item>bg_delay_0_mins</item>
+        <item>bg_delay_10_mins</item>
+        <item>bg_delay_30_mins</item>
+        <item>bg_delay_screen_off</item>
     </string-array>
     <string-array name="action_param_translate">
-        <item>Yok</item>
-        <item>Varsayılan</item>
+        <item>İşlem yapma</item>
+        <item>Standard</item>
         <item>Resim</item>
         <item>Film</item>
         <item>Pil tasarrufu</item>
@@ -42,7 +99,35 @@
         <item>Hemen</item>
         <item>10 dakika sonra</item>
         <item>30 dakika sonra</item>
-        <item>Ne zaman ekran kapalı</item>
+        <item>Ekan kapalıyken</item>
+    </string-array>
+    <string-array name="shown_mandatory_event_name">
+        <item>foreground_change</item>
+    </string-array>
+    <string-array name="shown_optional_event_name">
+        <item>full_screen_enter</item>
+        <item>start_charging</item>
+        <item>idle_enter</item>
+    </string-array>
+    <string-array name="shown_action_name">
+        <item>set_cpu_powermode</item>
+        <item>set_lcd_mode</item>
+        <item>set_data_connection</item>
+        <item>set_location</item>
+        <item>set_idle_notification</item>
+        <item>set_keyguard_notification</item>
+        <item>set_sync_alarm</item>
+        <item>set_bg_data_delay_time</item>
+    </string-array>
+    <string-array name="shown_action_param_default">
+        <item>middle</item>
+        <item>ui</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>bg_delay_10_mins</item>
     </string-array>
     <string-array name="app_groups">
         <item>seçildi</item>
@@ -50,33 +135,41 @@
         <item>diğeri seçildi</item>
     </string-array>
     <string-array name="hmode_app_groups">
-        <item>özelleştirildi</item>
-        <item>tavsiye edildi</item>
+        <item>Özel</item>
+        <item>Önerilen</item>
     </string-array>
     <string-array name="power_checker_group_prefix">
-        <item>kullanılıyor</item>
+        <item>using</item>
         <item></item>
         <item></item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>Uyandırma Kilidi</item>
-        <item>WIFI tara</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Uyan</item>
+        <item>Çekirdek uyandırma kilidi</item>
+        <item>Uyandırma kilidi</item>
+        <item>Wifi tarama</item>
+        <item>Gps</item>
+        <item>İşlemci</item>
+        <item>Uyandırma</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>Uyku Kilidi</item>
-        <item>WIFI tara</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Uyan</item>
+        <item>Çekirdek uyandırma kilidi</item>
+        <item>Uyandırma kilidi</item>
+        <item>Wifi tarama</item>
+        <item>Gps</item>
+        <item>İşlemci</item>
+        <item>Uyandırma</item>
     </string-array>
     <string-array name="power_checker_group_suffix">
         <item></item>
-        <item>şu anda çok fazla</item>
-        <item>bu gün çok</item>
+        <item>Şu anda çok fazla</item>
+        <item>Bu gün içinde çok fazla</item>
     </string-array>
-    </resources>
+    <string-array name="invisible_app_groups">
+        <item>selected</item>
+        <item>unselected</item>
+    </string-array>
+    <array name="read_enable" />
+    <string-array name="read_disable">
+        <item>com.chaozh.iReaderFree</item>
+    </string-array>
+</resources>
