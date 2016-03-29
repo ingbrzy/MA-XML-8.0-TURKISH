@@ -2,11 +2,11 @@
 <resources>
     <plurals name="Nminutes">
         <item quantity="other">%d dakika</item>
-        <item quantity="one">1 minute</item>
+        <item quantity="one">1 dakika</item>
     </plurals>
     <plurals name="Nmins">
-        <item quantity="other">%d dk</item>
-        <item quantity="one">1 dk</item>
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">1 dakika</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d saat</item>
@@ -17,7 +17,7 @@
         <item quantity="one">1 gün</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">%d Hafta</item>
+        <item quantity="other">%d hafta</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
