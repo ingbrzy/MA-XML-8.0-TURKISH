@@ -1,72 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">"%s uygulamaların bildirimleri gösterilemiyor"</item>
-        <item quantity="one">"1 uygulamanın bildirimleri gösterilemiyor"</item>
+        <item quantity="other">%s uygulamanın bildirimleri görüntüleniyor</item>
+        <item quantity="one">1 uygulamanın bildirimleri görüntüleniyor</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s uygulamanın bildirimi gösteriliyor</item>
-        <item quantity="one">1 uygulamanın bildirimi gösteriliyor</item>
+        <item quantity="other">%s uygulamanın bildirimleri görüntülenmiyor</item>
+        <item quantity="one">1 uygulamanın bildirimleri görüntülenmiyor</item>
     </plurals>
     <plurals name="show_dev_countdown">
-        <item quantity="other">Geliştirici moduna geçebilmek için %1$d adımınız kaldı.</item>
-        <item quantity="one">%1$d adım sonra geliştirici moduna geçeceksiniz.</item>
+        <item quantity="other">Geliştirici olmanıza %1$d adım kaldı</item>
+        <item quantity="one">Geliştirici olmanıza %1$d adım kaldı</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Şifre en az %d harf içermelidir.</item>
-        <item quantity="one">Şifre en az 1 harf içermelidir.</item>
+        <item quantity="other">Şifre en az %d harf içermelidir</item>
+        <item quantity="one">Şifre en az 1 harf içermelidir</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Şifre en az %d adet küçük harf içermelidir.</item>
-        <item quantity="one">Şifre en az bir adet küçük harf içermelidir.</item>
+        <item quantity="other">Şifre en az %d küçük harf içermelidir</item>
+        <item quantity="one">Şifre en az 1 küçük harf içermelidir</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Şifre en az %d adet büyük harf içermelidir.</item>
-        <item quantity="one">Şifre en az bir büyük harf içermelidir.</item>
+        <item quantity="other">Şifre en az %d büyük harf içermelidir</item>
+        <item quantity="one">Şifre en az 1 büyük harf içermelidir</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Şifre en az %d sayısal rakam içermelidir.</item>
-        <item quantity="one">Şifre en az 1 sayısal rakam içermelidir.</item>
+        <item quantity="other">Şifre en az %d rakam içermelidir</item>
+        <item quantity="one">Şifre en az 1 rakam içermelidir</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Şifre en az %d adet özel karakter içermelidir</item>
-        <item quantity="one">Şifre en az 1 özel karakter içermelidir.</item>
+        <item quantity="other">Şifre en az %d özel sembol içermelidir</item>
+        <item quantity="one">Şifre en az 1 özel sembol içermelidir</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Şifre en az %d adet harf olmayan başka karakter içermelidir.</item>
-        <item quantity="one">Şifre sadece bir adet harf olmayan karakter içermelidir.</item>
-    </plurals>
-    <plurals name="wrong_pin_code">
-        <item quantity="other">Yanlış SIM PIN kodu, %d deneme hakkınız kaldı.</item>
-        <item quantity="one">Yanlış SIM PIN kodu, %d deneme hakkınız kaldı. Cihazınızın kilidini açmak için taşıyıcı başvurmanız gerekir.</item>
+        <item quantity="other">Şifre harf olmayan en az %d karakter içermelidir</item>
+        <item quantity="one">Şifre harf olmayan en az 1 karakter içermelidir</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d uygulama bildirimleri okuyabilir</item>
         <item quantity="one">%d uygulama bildirimleri okuyabilir</item>
     </plurals>
-    <plurals name="manage_condition_providers_summary_nonzero">
-        <item quantity="other">%d uygulama koşulları sağlıyor</item>
-        <item quantity="one">%d uygulama koşulları sağlıyor</item>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Yanlış Sim Pin kodu. %d deneme hakkınız kaldı</item>
+        <item quantity="one">Yanlış Sim Pin kodu. Cihazının kilidini açmak için operatörünüzle bağlantı kurmak zorunda kalmadan önce %d deneme hakkınız kaldı</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s yazıcı bulundu</item>
+        <item quantity="one">%1$s yazıcı bulundu</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">"Telefon bilgilerine ulaşmanız için %1$d adım kaldı."</item>
-        <item quantity="one">"Telefon bilgilerine ulaşmanız için %1$d adım kaldı."</item>
+        <item quantity="other">Telefon bilgisi girişi için %1$d adım uzaklıktasınız</item>
+        <item quantity="one">Telefon bilgisi girişi için %1$d adım uzaklıktasınız</item>
     </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">"Cihaz Test Uygulamasına ulaşmanız için %1$d adım kaldı."</item>
-        <item quantity="one">"Cihaz Test Uygulamasına ulaşmanız için %1$d adım kaldı."</item>
+        <item quantity="other">Donanım testi için %1$d adım uzaklıktasınız</item>
+        <item quantity="one">Donanım testi için %1$d adım uzaklıktasınız</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">"Hata Raporu oluşturmanız için %1$d adım kaldı."</item>
-        <item quantity="one">"Hata Raporu oluşturmanız için %1$d adım kaldı."</item>
+        <item quantity="other">Hata bildirimi için %1$d adım uzaklıktasınız</item>
+        <item quantity="one">Hata bildirimi için %1$d adım uzaklıktasınız</item>
     </plurals>
-	<plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Daima %d uygulama devre dışı</item>
-        <item quantity="one">Daima 1 uygulama devre dışı</item>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">%d uygulama için devre dışı bırak</item>
+        <item quantity="one">1 uygulama için devre dışı bırak</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Asla %d uygulama devre dışı olmasın</item>
-        <item quantity="one">Asla 1 uygulama devre dışı olmasın</item>
+        <item quantity="other">%d uygulama için devre dışı bırakma</item>
+        <item quantity="one">1 uygulama için devre dışı bırakma</item>
     </plurals>
- 
 </resources>
