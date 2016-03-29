@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string-array name="record_type_entries">
+    <string-array name="record_type_values">
+        <item>audio/mpeg</item>
+        <item>audio/amr</item>
+    </string-array>
+    <string-array name="record_type_entries">
         <item>MP3</item>
         <item>AMR</item>
     </string-array>

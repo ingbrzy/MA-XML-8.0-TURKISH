@@ -5,11 +5,11 @@
         <item quantity="one">%d kayıt indirildi</item>
     </plurals>
     <plurals name="local_records_count">
-        <item quantity="other">%d öğe</item>
-        <item quantity="one">%d öğe</item>
+        <item quantity="other">%d öge</item>
+        <item quantity="one">%d öge</item>
     </plurals>
     <plurals name="unsynced_records_count">
-        <item quantity="other">%d eşitlenmedi</item>
-        <item quantity="one">%d eşitlenmedi</item>
+        <item quantity="other">%d öge senkronize edilmedi</item>
+        <item quantity="one">%d öge senkronize edilmedi</item>
     </plurals>
 </resources>
