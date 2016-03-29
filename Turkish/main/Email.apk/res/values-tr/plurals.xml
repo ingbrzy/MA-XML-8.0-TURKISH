@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">%1$d okunmamış</item>
+        <item quantity="other">%1$d adet okunmamış ileti</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
-        <item quantity="other">%1$d görüşmeler arşivlensin mi?</item>
-        <item quantity="zero">%1$d görüşmeler arşivlensin mi?</item>
-        <item quantity="one">Bu görüşme arşivlensin mi?</item>
-        <item quantity="two">%1$d görüşmeler arşivlensin mi?</item>
-        <item quantity="few">%1$d görüşmeler arşivlensin mi?</item>
-        <item quantity="many">%1$d görüşmeler arşivlensin mi?</item>
+        <item quantity="other">%1$d konuşma arşivlensin mi?</item>
+        <item quantity="zero">%1$d konuşma arşivlensin mi?</item>
+        <item quantity="one">Konuşma arşivlensin mi?</item>
+        <item quantity="two">%1$d konuşma arşivlensin mi?</item>
+        <item quantity="few">%1$d konuşma arşivlensin mi?</item>
+        <item quantity="many">%1$d konuşma arşivlensin mi?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">%1$d görüşmeler silinsin mi?</item>
-        <item quantity="zero">%1$d görüşmeler silinsin mi?</item>
-        <item quantity="one">Bu görüşme silinsin mi?</item>
-        <item quantity="two">%1$d görüşmeler silinsin mi?</item>
-        <item quantity="few">%1$d görüşmeler silinsin mi?</item>
-        <item quantity="many">%1$d görüşmeler silinsin mi?</item>
+        <item quantity="other">%1$d konuşma silinsin mi?</item>
+        <item quantity="zero">%1$d konuşma silinsin mi?</item>
+        <item quantity="one">Konuşma silinsin mi?</item>
+        <item quantity="two">%1$d konuşma silinsin mi?</item>
+        <item quantity="few">%1$d konuşma silinsin mi?</item>
+        <item quantity="many">%1$d konuşma silinsin mi?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Bu görüşmeler birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
-        <item quantity="zero">Bu görüşmeler birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
-        <item quantity="one">Bu görüşme birleştirilmiş öğe içerir. Yine de bu silinsin mi?</item>
-        <item quantity="two">Bu görüşmeler birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
-        <item quantity="few">Bu görüşmeler birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
-        <item quantity="many">Bu görüşmeler birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
+        <item quantity="other">Bu konuşma birleşik ögeler içeriyor. Yinede silinsin mi?</item>
+        <item quantity="zero">Bu konuşma birleşik ögeler içeriyor. Yinede silinsin mi?</item>
+        <item quantity="one">Bu konuşma birleşik ögeler içeriyor. Yinede silinsin mi?</item>
+        <item quantity="two">Bu konuşma birleşik ögeler içeriyor. Yinede silinsin mi?</item>
+        <item quantity="few">Bu konuşma birleşik ögeler içeriyor. Yinede silinsin mi?</item>
+        <item quantity="many">Bu konuşma birleşik ögeler içeriyor. Yinede silinsin mi?</item>
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d seçildi</item>
@@ -36,79 +36,79 @@
         <item quantity="many">%d seçildi</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&lt;b>%1$d&lt;/b> arşivlendi.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> arşivlendi.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> ileti arşivlendi</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> arşivlendi</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> silindi.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> silindi.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> ileti silindi</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> silindi</item>
     </plurals>
     <plurals name="conversation_folder_changed">
-        <item quantity="other">Klasörler değişti.</item>
-        <item quantity="one">Klasör değişti.</item>
+        <item quantity="other">Klasör değiştirildi</item>
+        <item quantity="one">Klasör değiştirildi</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> sessizde</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> sessizde.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> konuşma sessize alındı</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> konuşma sessize alındı</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&lt;b>%1$d&lt;/b>" mesajlar 'önemli' dizininden kaldırıldı"</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b>" 'önemli' dizininden kaldırıldı"</item>
+        <item quantity="other">"&lt;b>%1$d&lt;/b> ileti önemli klasöründen kaldırıldı"</item>
+        <item quantity="one">"&lt;b>%1$d&lt;/b> önemli klasöründen kaldırıldı"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&lt;b>%1$d&lt;/b>" 'istenmeyen' dizininden kaldırıldı"</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b>" 'istenmeyen' dizininden kaldırıldı"</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> spam klasöründen kaldırıldı</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> spam klasöründen kaldırıldı</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&lt;b>%1$d&lt;/b> mesajlar istenmeyen olarak raporlandı</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> mesaj istenmeyen olarak raporlandı</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> ileti spam olarak rapor edildi</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ileti spam olarak rapor edildi</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&lt;b>%1$d&lt;/b> istenmeyen olarak işaretlendi</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> istenmeyen olarak işaretlendi</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> spam olarak işaretlendi</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> spam olarak işaretlendi</item>
     </plurals>
     <plurals name="draft">
-        <item quantity="other">Taslaklar</item>
+        <item quantity="other">Taslak</item>
         <item quantity="one">Taslak</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
-        <item quantity="other">%1$d mesajlar kalıcı olarak silinecek.</item>
-        <item quantity="zero">%1$d mesajlar kalıcı olarak silinecek.</item>
-        <item quantity="one">%1$d mesaj kalıcı olarak silinecek.</item>
-        <item quantity="two">%1$d mesajlar kalıcı olarak silinecek.</item>
-        <item quantity="few">%1$d mesajlar kalıcı olarak silinecek.</item>
-        <item quantity="many">%1$d mesajlar kalıcı olarak silinecek.</item>
+        <item quantity="other">%1$d adet ileti kalıcı olarak silinecek</item>
+        <item quantity="zero">%1$d adet ileti kalıcı olarak silinecek</item>
+        <item quantity="one">%1$d adet ileti kalıcı olarak silinecek</item>
+        <item quantity="two">%1$d adet ileti kalıcı olarak silinecek</item>
+        <item quantity="few">%1$d adet ileti kalıcı olarak silinecek</item>
+        <item quantity="many">%1$d adet ileti kalıcı olarak silinecek</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">%1$d görüşmeleri taşı</item>
-        <item quantity="zero">%1$d görüşmeleri taşı</item>
-        <item quantity="one">Görüşmeyi Taşı</item>
-        <item quantity="two">%1$d görüşmeleri taşı</item>
-        <item quantity="few">%1$d görüşmeleri taşı</item>
-        <item quantity="many">%1$d görüşmeleri taşı</item>
+        <item quantity="other">%1$d konuşmayı taşı</item>
+        <item quantity="zero">%1$d konuşmayı taşı</item>
+        <item quantity="one">Konuşmayı taşı</item>
+        <item quantity="two">%1$d konuşmayı taşı</item>
+        <item quantity="few">%1$d konuşmayı taşı</item>
+        <item quantity="many">%1$d konuşmayı taşı</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
-        <item quantity="other">%1$d yeni mesajları göster.</item>
-        <item quantity="zero">%1$d yeni mesajları göster.</item>
-        <item quantity="one">%1$d yeni mesaji göster.</item>
-        <item quantity="two">%1$d yeni mesajları göster.</item>
-        <item quantity="few">%1$d yeni mesajları göster.</item>
-        <item quantity="many">%1$d yeni mesajları göster.</item>
+        <item quantity="other">%1$d yeni mesajı göster</item>
+        <item quantity="zero">%1$d yeni mesajı göster</item>
+        <item quantity="one">%1$d yeni mesajı göster</item>
+        <item quantity="two">%1$d yeni mesajı göster</item>
+        <item quantity="few">%1$d yeni mesajı göster</item>
+        <item quantity="many">%1$d yeni mesajı göster</item>
     </plurals>
     <plurals name="num_selected">
-        <item quantity="other">%d seçildi</item>
-        <item quantity="zero">%d seçildi</item>
-        <item quantity="one">%d seçildi</item>
-        <item quantity="two">%d seçildi</item>
-        <item quantity="few">%d seçildi</item>
-        <item quantity="many">%d seçildi</item>
+        <item quantity="other">%d öge seçildi</item>
+        <item quantity="zero">%d öge seçildi</item>
+        <item quantity="one">%d öge seçildi</item>
+        <item quantity="two">%d öge seçildi</item>
+        <item quantity="few">%d öge seçildi</item>
+        <item quantity="many">%d öge seçildi</item>
     </plurals>
     <plurals name="show_messages_read">
-        <item quantity="other">%1$d eski mesajlar</item>
-        <item quantity="zero">%1$d eski mesajlar</item>
-        <item quantity="one">%1$d eski mesaj</item>
-        <item quantity="two">%1$d eski mesajlar</item>
-        <item quantity="few">%1$d eski mesajlar</item>
-        <item quantity="many">%1$d eski mesajlar</item>
+        <item quantity="other">%1$d adet eski ileti</item>
+        <item quantity="zero">%1$d adet eski ileti</item>
+        <item quantity="one">%1$d adet eski ileti</item>
+        <item quantity="two">%1$d adet eski ileti</item>
+        <item quantity="few">%1$d adet eski ileti</item>
+        <item quantity="many">%1$d adet eski ileti</item>
     </plurals>
 </resources>
