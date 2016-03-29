@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_label">Harici Depolama</string>
-  <string name="root_documents">Dökümanlar</string>
-  <string name="root_internal_storage">Dahili Depolama</string>
+    <string name="app_label">Harici depolama</string>
+    <string name="root_internal_storage">Dahili depolama</string>
+    <string name="root_documents">Dokümanlar</string>
 </resources>
