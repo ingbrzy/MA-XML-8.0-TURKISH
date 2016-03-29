@@ -2,14 +2,14 @@
 <resources>
     <string-array name="contact_entries">
         <item>Adı</item>
-        <item>Rumuz</item>
+        <item>Kullanıcı adı</item>
         <item>Telefon</item>
-        <item>E-Posta</item>
-        <item>Kuruluş</item>
+        <item>E-posta</item>
+        <item>Organizasyon</item>
         <item>IM</item>
-        <item>SIP Telefon</item>
-        <item>Doğum Günü</item>
-        <item>Website</item>
+        <item>Sıp telefon</item>
+        <item>Doğum günü</item>
+        <item>İnternet sitesi</item>
         <item>Adres</item>
         <item>Not</item>
     </string-array>
@@ -28,20 +28,20 @@
     </string-array>
     <string-array name="font_size_names">
         <item>Küçük</item>
-        <item>Orta</item>
+        <item>Varsayılan</item>
         <item>Büyük</item>
-        <item>Kocaman</item>
+        <item>Çok büyük</item>
     </string-array>
     <string-array name="welcome_notes_content">
         <item>"Bir not oluşturmak için dokunun
 "</item>
-        <item>"Bir resim eklemek veya onay kutularını göstermek için, aşağıdaki düğmeye dokunun
+        <item>"Bir resim eklemek veya onay kutularını göstermek için aşağıdaki düğmeye dokunun
 "</item>
-        <item>"Basın ve basılı tutup notu iğneleyin, taşıyın ve silin
+        <item>"Bir notu iğnelemek, taşımak veya silmek için basın ve basılı tutun
 "</item>
-        <item>"Ve daha büyük özellikleri!
-  - Mi Bulutu ile eşitleyin
-  - Hatırlatıcılar ayarlayın"</item>
+        <item>"Daha fazla harika özellikler
+- Mi bulut ile senkronize edin
+- Hatırlatmaları ayarlayın"</item>
     </string-array>
     <integer-array name="welcome_notes_color">
         <item>0</item>
