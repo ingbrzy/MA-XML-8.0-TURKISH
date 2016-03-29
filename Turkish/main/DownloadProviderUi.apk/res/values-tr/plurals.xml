@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">%d öge silinsin mi?</item>
+        <item quantity="one">Öge silinsin mi?</item>
+    </plurals>
+</resources>

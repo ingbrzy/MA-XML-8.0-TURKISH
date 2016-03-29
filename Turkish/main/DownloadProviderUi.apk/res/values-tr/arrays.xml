@@ -2,14 +2,14 @@
 <resources>
     <string-array name="prefEntries_max_bytes_limit">
         <item>Sınırsız</item>
-        <item>100MB</item>
-        <item>20MB</item>
-        <item>10MB</item>
-        <item>5MB</item>
-        <item>2MB</item>
-        <item>1MB</item>
-        <item>512KB</item>
-        <item>Daima WLAN\'i bekle</item>
+        <item>100 Mb</item>
+        <item>20 Mb</item>
+        <item>10 Mb</item>
+        <item>5 Mb</item>
+        <item>2 Mb</item>
+        <item>1 Mb</item>
+        <item>512 Kb</item>
+        <item>Her zaman wifi için bekle</item>
     </string-array>
     <string-array name="video_type">
         <item>avi</item>
