@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mipay_bill_setting_alarm_time_entryDescs">
+        <item>Bir hafta önceden</item>
+        <item>Üç gün önceden</item>
+        <item>İki gün önceden</item>
+        <item>Bir gün önceden</item>
+        <item>Hatırlatma</item>
+    </string-array>
+    <integer-array name="mipay_bill_setting_alarm_time_realvalues">
+        <item>7</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="mipay_bill_credit_detail_alarm_time">
+        <item>1. gün</item>
+        <item>2. gün</item>
+        <item>3. gün</item>
+        <item>4. gün</item>
+        <item>5. gün</item>
+        <item>6. gün</item>
+        <item>7. gün</item>
+        <item>8. gün</item>
+        <item>9. gün</item>
+        <item>10. gün</item>
+        <item>11. gün</item>
+        <item>12. gün</item>
+        <item>13. gün</item>
+        <item>14. gün</item>
+        <item>15. gün</item>
+        <item>16. gün</item>
+        <item>17. gün</item>
+        <item>18. gün</item>
+        <item>19. gün</item>
+        <item>20. gün</item>
+        <item>21. gün</item>
+        <item>22. gün</item>
+        <item>23. gün</item>
+        <item>24. gün</item>
+        <item>25. gün</item>
+        <item>26. gün</item>
+        <item>27. gün</item>
+        <item>28. gün</item>
+    </string-array>
+    <integer-array name="mipay_bill_credit_detail_alarm_time_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+    </integer-array>
+    <string-array name="mipay_num_key_text_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>
