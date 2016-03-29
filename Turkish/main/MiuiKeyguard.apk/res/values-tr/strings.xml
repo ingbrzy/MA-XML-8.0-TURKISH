@@ -1,66 +1,66 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="click_to_enter_text">Gözatmak için dokunun</string>
-  <string name="confirm_pin_msg">PIN kodunu tekrar gir</string>
-  <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı doğru kaydırın ▲</string>
-  <string name="delete">Sil</string>
-  <string name="emergency_call_string">Acil Arama</string>
-  <string name="experimental_try_string">Tekrar Dene</string>
-  <string name="experimental_validate">Doğrula</string>
-  <string name="experimental_validate_fail">"Oturum açılamadı"</string>
-  <string name="experimental_validate_password">Şifre</string>
-  <string name="experimental_validate_progress">Oturum açılıyor...</string>
-  <string name="experimental_validate_thanks">Teşekkürler!</string>
-  <string name="experimental_validate_username">Kullanıcı Adı</string>
-  <string name="experimental_validate_warning">MIUI\'yi daha iyi hale getirdiğiniz için teşekkürler!</string>
-  <string name="find_device_turn_off_flight_mode">Uçak Modunu kapat</string>
-  <string name="fingerprint_not_identified_msg">Cihazınızın kilidini açmak için parolanızı girin.</string>
-  <string name="fingerprint_not_identified_title">Şifrenizi girin</string>
-  <string name="fingerprint_try_again_text">Tekrar deneyin</string>
-  <string name="forget_password_string">Şifremi unuttum</string>
-  <string name="incorrect_pincode">PIN Kodu hatalı!</string>
-  <string name="incorrect_pincode_remaining_attempts">PIN kodu hatalı, %d kez deneme hakkınız kaldı</string>
-  <string name="incorrect_pukcode">PUK kodu hatalı!</string>
-  <string name="incorrect_pukcode_remaining_attempts">PUK kodu hatalı, %d kez deneme hakkınız kaldı</string>
-  <string name="input_password_after_boot_msg">"Cihaz yeniden başladıktan sonra şifreyi girmeniz gerekecek."</string>
-  <string name="input_password_hint_text">Şifreyi girin</string>
-  <string name="input_pin_code">PIN kodunu girin</string>
-  <string name="input_puk_code">PUK kodunu girin</string>
-  <string name="invalid_confirm_pin_hint">"PIN kodları eşleşmiyor!"</string>
-  <string name="invalid_sim_pin_hint">PIN Kodu 4-8 karakter arasında olmalı</string>
-  <string name="invalid_sim_puk_hint">PUK Kodu en az 8 karakter uzunluğunda olmalı</string>
-  <string name="keyguard_torch_cover_text">El Fenerini açık tutmak için, Güç düğmesini basılı tutun</string>
-  <string name="lock_screen_date">d MMMM EEEE</string>
-  <string name="lock_screen_date_12">d MMMM EEEE</string>
-  <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
-  <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
-  <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
-  <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
-  <string name="lockscreen_charging_msg">Şarj Ediliyor</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">  Telefonunuzu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuz fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri kaybolacaktır.
-  </string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuzu Mi Hesabı kullanarak açmanız istenecektir.
+    <string name="delete">Sil</string>
+    <string name="unlockscreen_recharging_message">Şarj oluyor: %%%d</string>
+    <string name="unlockscreen_recharge_completed">Pil şarj oldu</string>
+    <string name="unlockscreen_low_battery">Şarj cihazını bağlayın</string>
+    <string name="lockscreen_charging_msg">Şarj oluyor</string>
+    <string name="emergency_call_string">Acil</string>
+    <string name="forget_password_string">Şifreyi unuttum</string>
+    <string name="input_puk_code">Puk kodu</string>
+    <string name="unlocking_sim_card">Sim kart kilidi açılıyor</string>
+    <string name="input_pin_code">Pin kodu</string>
+    <string name="incorrect_pukcode_remaining_attempts">Yanlış Puk kodu. %d tane hakkınız kaldı</string>
+    <string name="incorrect_pincode_remaining_attempts">Yanlış Pin kodu. %d tane hakkınız kaldı</string>
+    <string name="incorrect_pukcode">Hatalı Puk kodu</string>
+    <string name="incorrect_pincode">Hatalı Pin Kodu</string>
+    <string name="open_wifi_settings">Ağ bağlantısını aç</string>
+    <string name="lock_screen_date">dd MMMM EEEE</string>
+    <string name="lock_screen_date_12">dd MMMM EEEE</string>
+    <string name="lockscreen_glogin_password_hint">Şifre</string>
+    <string name="lockscreen_glogin_checking_password">Kontrol ediliyor</string>
+    <string name="login_website_in_case_forget_password">Şifrenizi sıfırlamak için \"www.mi.com/micloud\" adresine gidin</string>
+    <string name="experimental_validate_thanks">Teşekkürler</string>
+    <string name="experimental_validate_warning">"Miui'yi daha iyi hale getirdiğiniz için teşekkürler"</string>
+    <string name="experimental_validate">Onaylama</string>
+    <string name="experimental_try_string">Dene</string>
+    <string name="experimental_validate_username">Kullanıcı adı</string>
+    <string name="experimental_validate_password">Şifre</string>
+    <string name="experimental_validate_progress">Oturum açılıyor</string>
+    <string name="experimental_validate_fail">Oturum açılamadı</string>
+    <string name="lockscreen_glogin_invalid_input">Geçersiz kullanıcı adı veya şifre</string>
+    <string name="find_device_turn_off_flight_mode">Uçak modunu kapatın</string>
+    <string name="phone_locked_string">Telefon kilitli</string>
+    <string name="phone_locked_timeout_seconds_string">%s saniye içinde tekrar deneyin</string>
+    <string name="phone_locked_timeout_minutes_string">%s dakika sonra tekrar deneyin</string>
+    <string name="input_password_hint_text">Şifreyi girin</string>
+    <string name="unlock_sim_string">Tamam</string>
+    <string name="lockscreen_glogin_submit_button">Oturum aç</string>
+    <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
+    <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
+    <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
+    <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
+    <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı doğru kaydırın</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Şifrenizi %d defa yanlış girdiniz. %d başarısız deneme daha yaparsanız telefonunuzu Mi hesabınızı kullanarak açmanız istenecek
 
-  %d saniye sonra tekrar deneyin."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Telefonu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. Telefonunuz şimdi fabrika ayarlarına geri döndürülecektir.</string>
-  <string name="lockscreen_glogin_checking_password">Kontrol ediliyor...</string>
-  <string name="lockscreen_glogin_invalid_input">Kullanıcı adı veya şifre geçersiz!</string>
-  <string name="lockscreen_glogin_password_hint">Şifre</string>
-  <string name="lockscreen_glogin_submit_button">Oturum Aç</string>
-  <string name="login_website_in_case_forget_password">Şifrenizi sıfırlamak için www.mi.com/micloud adresine gidin</string>
-  <string name="missed_call_text">%d cevapsız arama var</string>
-  <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ile kilit kaldırıldı</string>
-  <string name="open_camera_hint_text">Kamerayı açmak için sola kaydırın</string>
-  <string name="open_remote_center_hint_text">Mi Kumanda için sağa kaydırın</string>
-  <string name="open_wifi_settings">Ağ Bağlantısını Aç</string>
-  <string name="phone_locked_string">! TELEFON KİLİTLENDİ !</string>
-  <string name="phone_locked_timeout_minutes_string">%s dakika sonra tekrar deneyin</string>
-  <string name="phone_locked_timeout_seconds_string">%s saniye sonra tekrar deneyin</string>
-  <string name="unlock_sim_string">SIM Kilidini Aç</string>
-  <string name="unlock_string">Kilidi Aç</string>
-  <string name="unlocking_sim_card">SIM Kart kilidi açılıyor...</string>
-  <string name="unlockscreen_low_battery">Lütfen Şarj Cihazına Bağlayın!</string>
-  <string name="unlockscreen_recharge_completed">Pil doldu!</string>
-  <string name="unlockscreen_recharging_message">Şarj Durumu: %d%%</string>
-  <string name="wrong_password">Şifre yanlış!</string>
+%d saniye sonra tekrar deneyin"</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefonunuzu açmak için gerekli olan şifreyi %d defa yanlış girdiniz. %d başarısız deneme daha yaparsanız telefon fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri kaybolacak     </string>
+    <string name="lockscreen_failed_attempts_now_wiping">Telefonunuzu açmak için gerekli olan şifreyi %d defa yanlış girdiniz. Telefon şimdi fabrika ayarlarına geri döndürülecek     </string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ile kilit açıldı</string>
+    <string name="missed_call_text">%d cevapsız arama</string>
+    <string name="wrong_password">Yanlış parola</string>
+    <string name="keyguard_torch_cover_text">El fenerini açık tutmak için güç düğmesine basılı tutun</string>
+    <string name="confirm_pin_msg">Pin kodunu yeniden girin</string>
+    <string name="invalid_confirm_pin_hint">Pin kodları eşleşmiyor</string>
+    <string name="unlock_string">Kilidi aç</string>
+    <string name="open_camera_hint_text">Kamera için sola kaydırın</string>
+    <string name="open_remote_center_hint_text">Mi remote için sağa kaydırın</string>
+    <string name="click_to_enter_text">Görüntülemek için dokunun</string>
+    <string name="fingerprint_try_again_text">Yeniden deneyin</string>
+    <string name="fingerprint_not_identified_title">Parmak izi okunamadı</string>
+    <string name="fingerprint_not_identified_msg">Cihaz kilidini açmak için parolanızı girin</string>
+    <string name="invalid_sim_pin_hint">4-8 rakamdan oluşan bir Pin girin</string>
+    <string name="invalid_sim_puk_hint">Puk kodu 8 sayı veya daha fazla olmalıdır</string>
+    <string name="input_password_after_boot_msg">Cihaz yeniden başlatıldıktan sonra şifreyi girmeniz gerekecektir</string>
+    <string name="fingerprint_lockout_msg">Bir dakika bekledikten sonra tekrar parmak izi ile kilidi açmayı deneyin</string>
 </resources>
