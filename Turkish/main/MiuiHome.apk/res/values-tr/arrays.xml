@@ -33,13 +33,13 @@
         <item>1.0</item>
     </array>
     <string-array name="transformation_entries">
-        <item>Geçiştir</item>
-        <item>Kaydır</item>
-        <item>Bindirmeli</item>
-        <item>Karıştır</item>
+        <item>Sayfa slayt</item>
+        <item>Slayt</item>
+        <item>Çapraz solma</item>
+        <item>Yuvarlanma</item>
         <item>Sayfa</item>
-        <item>Basamaklı</item>
-        <item>Döndür</item>
+        <item>Kademeli</item>
+        <item>Döndürme</item>
         <item>Küp</item>
     </string-array>
     <string-array name="transformation_values">
@@ -53,12 +53,18 @@
         <item>4</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>Varsayılan Tema</item>
-        <item>Merkeze</item>
-        <item>Sola</item>
-        <item>Sağa</item>
+        <item>Varsayılan tema</item>
+        <item>Merkez</item>
+        <item>Sol</item>
+        <item>Sağ</item>
     </string-array>
-   <string-array name="cell_layout_size_entries">
+    <string-array name="wallpaper_scroll_values">
+        <item>byTheme</item>
+        <item>center</item>
+        <item>left</item>
+        <item>right</item>
+    </string-array>
+    <string-array name="cell_layout_size_entries">
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
@@ -71,37 +77,37 @@
         <item>Klasik</item>
     </string-array>
     <string-array name="gadget_weather_image">
-        <item>Açık</item>
+        <item>Güneşli</item>
         <item>Bulutlu</item>
         <item>Puslu</item>
         <item>Sisli</item>
-        <item>Şiddetli Yağmur Fırtınası</item>
-        <item>Yağmur Fırtınası</item>
-        <item>Çok Ağır Yağış</item>
+        <item>Çok şiddetli sağanak</item>
         <item>Sağanak</item>
-        <item>Sağanak Yağmur</item>
-        <item>Ağır Yağmur</item>
-        <item>Yağmur</item>
-        <item>Çiseleyen Yağmur</item>
-        <item>Sulu Kar</item>
-        <item>Kar Fırtınası</item>
-        <item>Yer Yer Karlı</item>
-        <item>Yoğun Kar Yağışı</item>
-        <item>Kar Yağışı</item>
-        <item>Hafif Kar Yağışı</item>
-        <item>Güçlü Kum Fırtınası</item>
-        <item>Kum Fırtınası</item>
-        <item>Hafif Kum Fırtınası</item>
-        <item>Kum Fırtınası</item>
+        <item>Çok yoğun sağanak</item>
+        <item>Gök gürültülü sağanak</item>
+        <item>Hafif yağışlı</item>
+        <item>Yoğun yağışlı</item>
+        <item>Yağmurlu</item>
+        <item>Çiseli</item>
+        <item>Sulu kar</item>
+        <item>Kar fırtınası</item>
+        <item>Kar yağışı</item>
+        <item>Yoğun kar yağışı</item>
+        <item>Kar yağışı</item>
+        <item>Hafif kar yağışı</item>
+        <item>Güçlü kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Hafif kum fırtınası</item>
+        <item>Kum fırtınası</item>
         <item>Dolu</item>
-        <item>Kayan Toz</item>
-        <item>Pus</item>
+        <item>Tozlu</item>
+        <item>Sisli</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Uygulamaları Taşı</item>
-        <item>Widgets</item>
-        <item>Duvar Kağıdı</item>
-        <item>Efekler</item>
+        <item>Düzenle</item>
+        <item>Araçlar</item>
+        <item>Duvar kağıdı</item>
+        <item>Efektler</item>
     </string-array>
     <string-array name="editing_mode_values">
         <item>0</item>
