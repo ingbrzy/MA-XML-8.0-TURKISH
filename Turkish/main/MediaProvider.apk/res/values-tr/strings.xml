@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="Add_More_Ringtones">Daha Fazla Zil Sesi...</string>
-  <string name="alarm_sound_default">Varsayılan alarm sesi</string>
-  <string name="app_label">Medya Depolaması</string>
-  <string name="artist_label">Artist</string>
-  <string name="notification_sound_default">Varsayılan bildirim sesi</string>
-  <string name="ringtone_default">Varsayılan zil sesi</string>
-  <string name="root_audio">Ses</string>
-  <string name="root_images">Resimler</string>
-  <string name="root_videos">Videolar</string>
-  <string name="uid_label">Medya</string>
-  <string name="upgrade_msg">Medya veritabanı güncelleniyor.</string>
+    <string name="uid_label">Medya</string>
+    <string name="app_label">Medya depolama</string>
+    <string name="upgrade_msg">Medya veri tabanı yeni sürüme geçiriliyor</string>
+    <string name="artist_label">Sanatçı</string>
+    <string name="ringtone_default">Varsayılan zil sesi</string>
+    <string name="notification_sound_default">Varsayılan bildirim sesi</string>
+    <string name="alarm_sound_default">Varsayılan alarm sesi</string>
+    <string name="root_images">Fotoğraflar</string>
+    <string name="root_videos">Videolar</string>
+    <string name="root_audio">Sesler</string>
+    <string name="drm_licensed_message">Zil sesi veya bildirim uyarıSI olarak dRM korumalı içeriği ayarlamak için açılamıyor</string>
 </resources>
