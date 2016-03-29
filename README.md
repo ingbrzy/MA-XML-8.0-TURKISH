@@ -1,16 +1,15 @@
 MIUI V7.X TR XML
-(Translating 6.3.24 Dev) (Hermes Files)
+(Translating 6.3.24 Dev)
 ==============================
 
-MIUI Turkish Translation: ** ORHAN CAKMAK **
+MIUI Turkish Translation: ** Miui Turkish Team **
 
 Translation Contributors:
 - [ingbrzy](http://xiaomi.eu)
 - [ MIUI Turkiye Fansite](http://www.miuiturkiye.net)  
 
-MIUI Translation: raocakmak@gmail.com
+MIUI Translation: haqanguven@msn.com
 
 
-Translating and Fixing File: 
-XMRemoteController.apk
+6.3.24 Full Turkish Lang
 
