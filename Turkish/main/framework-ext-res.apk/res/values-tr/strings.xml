@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_toggle_ac">Ekran kilidi</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_auto_brightness">Parlaklık</string>
     <string name="status_bar_toggle_data">Mobil veri</string>
@@ -35,7 +34,6 @@
     <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
     <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
     <string name="status_bar_toggle_privacy_mode_action">com.android.settings/.Settings$AccessControlActivity</string>
-    <string name="status_bar_toggle_ac_action">com.android.settings/.Settings$AccessControlActivity</string>
     <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
     <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
     <string name="screen_rotation_freeze_message">Otomatik döndürme devre dışı bırakıldı</string>
@@ -107,9 +105,7 @@
     <string name="call_record_sample_prefix_miui">Arama</string>
     <string name="call_record_or">" veya "</string>
     <string name="caller_info_name_delimiter">" veya "</string>
-    <string name="first_back_long_press_message">"Geçerli işlemi ve işlemin arkaplan servislerini durdurmak için Geri tuşuna basın ve basılı tutun
-
-Bu özelliği açmak için Ayarlar > Sistem > Tuşlar bölümüne gidin"</string>
+    <string name="first_back_long_press_message">"Geçerli işlemi ve işlemin arkaplan servislerini durdurmak için geri tuşuna basın ve basılı tutun. Bu özelliği açmak için Ayarlar > Sistem > Tuşlar bölümüne gidin"</string>
     <string name="force_exit_message">%1$s kapatıldı</string>
     <string name="force_exit_skip_message">%1$s sistem tarafından gerekli olduğundan kapatılamıyor</string>
     <string name="fm_record_smaple_prefix_miui">Radyo kaydedici</string>
