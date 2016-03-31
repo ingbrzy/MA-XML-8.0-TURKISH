@@ -343,7 +343,7 @@
     <string name="airplane_mode">Uçak modu</string>
     <string name="radio_controls_title">Daha fazla</string>
     <string name="wireless_networks_settings_title">Kablosuz özelliği ve ağlar</string>
-    <string name="radio_controls_summary">Wifi, bluetooth, uçak modu, mobil ağlar, &amp; ve Vpn özelliklerini yönet</string>
+    <string name="radio_controls_summary">Wifi, bluetooth, uçak modu, mobil ağlar &amp; Vpn özelliklerini yönet</string>
     <string name="roaming">Veri dolaşımı</string>
     <string name="roaming_enable">Dolaşırken veri hizmetlerine bağlan</string>
     <string name="roaming_disable">Dolaşırken veri hizmetlerine bağlan</string>
@@ -650,7 +650,7 @@ Telefonunuz kullanmaya devam edebilmek için fabrika ayarlarına sıfırlama iş
     <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_eap_method">Eap yöntemi</string>
     <string name="please_select_phase2">İki aşamalı kimlik doğrulaması</string>
-    <string name="wifi_eap_ca_cert">CA sertifikası</string>
+    <string name="wifi_eap_ca_cert">Ca sertifikası</string>
     <string name="wifi_eap_user_cert">Kullanıcı sertifikası</string>
     <string name="wifi_eap_identity">Kimlik</string>
     <string name="wifi_eap_anonymous">Anonim kimlik</string>
@@ -1550,7 +1550,7 @@ Cihazda birden fazla kullanıcı varsa, kilit ekranında bu kısayol kullanıld�
     <string name="awake">Cihazın açılma zamanı</string>
     <string name="wifi_on_time">Zamanında wifi</string>
     <string name="bluetooth_on_time">Wifi zamanlama</string>
-    <string name="usage_name_percent">%1$s - %2$s%%</string>
+    <string name="usage_name_percent">%1$s - %%%2$s</string>
     <string name="history_details_title">Geçmiş ayrıntıları</string>
     <string name="details_title">Ayrıntıları kullan</string>
     <string name="details_subtitle">Ayrıntıları kullan</string>
@@ -1627,7 +1627,7 @@ Cihazda birden fazla kullanıcı varsa, kilit ekranında bu kısayol kullanıld�
     <string name="menu_proc_stats_type_background">Arka plan</string>
     <string name="menu_proc_stats_type_foreground">Ön plan</string>
     <string name="menu_proc_stats_type_cached">Önbelleğe alındı</string>
-    <string name="voice_input_output_settings">Ses girişi/çıkışı</string>
+    <string name="voice_input_output_settings">Ses girişi ve çıkışı</string>
     <string name="voice_input_output_settings_title">Ses giriş ve çıkış ayarları</string>
     <string name="voice_search_settings_title">Ses ile arama</string>
     <string name="keyboard_settings_title">Android klavye</string>
@@ -1695,7 +1695,7 @@ Cihazda birden fazla kullanıcı varsa, kilit ekranında bu kısayol kullanıld�
     <string name="gadget_location">Konum</string>
     <string name="gadget_sync">Senkronizasyon</string>
     <string name="gadget_brightness_template">Parlaklık: %1$s</string>
-    <string name="gadget_brightness_state_auto">otomatik</string>
+    <string name="gadget_brightness_state_auto">Otomatik</string>
     <string name="gadget_brightness_state_full">Tam</string>
     <string name="gadget_brightness_state_half">Yarım</string>
     <string name="gadget_brightness_state_off">Kapalı</string>
@@ -1706,7 +1706,7 @@ Cihazda birden fazla kullanıcı varsa, kilit ekranında bu kısayol kullanıld�
     <string name="credentials_reset">Kimlik bilgilerini temizle</string>
     <string name="credentials_reset_summary">Tüm sertifikaları kaldır</string>
     <string name="trusted_credentials">Güvenilir kimlik bilgisi</string>
-    <string name="trusted_credentials_summary">Güvenilir CA sertifikalarını görüntüle</string>
+    <string name="trusted_credentials_summary">Güvenilir Ca sertifikalarını görüntüle</string>
     <string name="credential_storage_type">Depolama türü</string>
     <string name="credential_storage_type_hardware">Donanım destekli</string>
     <string name="credential_storage_type_software">Yalnızca yazılım</string>
@@ -1921,7 +1921,7 @@ Googlenin kişilerinize, randevularınıza ve diğer bilgilerinize istediğiniz 
     <string name="data_usage_tab_3g">2G-3G</string>
     <string name="data_usage_list_mobile">Mobil</string>
     <string name="data_usage_list_none">Hiçbiri</string>
-    <string name="data_usage_enable_mobile">Mobil veriler</string>
+    <string name="data_usage_enable_mobile">Mobil verileri</string>
     <string name="data_usage_enable_3g">2G-3G verileri</string>
     <string name="data_usage_enable_4g">4G verileri</string>
     <string name="data_usage_app_settings">Uygulama ayarlarını görüntüle</string>
@@ -2138,7 +2138,7 @@ Herhangi bir kullanıcı, güncellenen uygulama izinlerini diğer kullanıcılar
     <string name="wizard_next">İleri</string>
     <string name="wizard_finish">Son</string>
     <string name="user_image_take_photo">Fotoğraf çek</string>
-    <string name="user_image_choose_photo">Galeriden fotoğraf seç</string>
+    <string name="user_image_choose_photo">Fotoğraf seç</string>
     <string name="regulatory_info_text" />
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wifi kapalı olduğundan kablosuz görüntü devre dışı</string>
     <string name="cell_broadcast_settings_summary">Acil uyarıları görüntülemek için türlerini seçin</string>
@@ -2367,7 +2367,7 @@ Herhangi bir kullanıcı, güncellenen uygulama izinlerini diğer kullanıcılar
     <string name="button_disconnect_network">Ağ bağlantısını kes</string>
     <string name="no_nearby_wifi">Wifi bağlantısı yok</string>
     <string name="manually_add_network">Ağ ekle</string>
-    <string name="network_detail">%s Ağ detayları</string>
+    <string name="network_detail">%s ağ detayları</string>
     <string name="connected_wifi">Bağlı</string>
     <string name="incoming_call_breathing_light_color_title">Aramalar</string>
     <string name="notification_breathing_light_color_title">Bildirimler</string>
@@ -2519,7 +2519,7 @@ Herhangi bir kullanıcı, güncellenen uygulama izinlerini diğer kullanıcılar
     <string name="virus_scanner_provider">Güvenlik sağlayıcısı: %s</string>
     <string name="virus_scanner_auto_update">Otomatik Güncelle</string>
     <string name="virus_scanner_date_formater">dd MMM yyyy</string>
-    <string name="virus_scanner_manual_update"> Güncellendi %s </string>
+    <string name="virus_scanner_manual_update"> Güncellendi: %s </string>
     <string name="virus_scanner_lib_updating">Virus veritabanı güncelleniyor</string>
     <string name="virus_scanner_lib_already_latest">Zaten en son tanımlamaları kullanıyorsunuz</string>
     <string name="virus_scanner_lib_update_failed">Güncelleme başarısız</string>
@@ -2659,8 +2659,8 @@ Herhangi bir kullanıcı, güncellenen uygulama izinlerini diğer kullanıcılar
     <string name="system">Sistem</string>
     <string name="screen_color_temperature">Renkler</string>
     <string name="screen_saturation">Doygunluk</string>
-    <string name="screen_color_temperature_and_saturation">Renkler &amp; doygunluk</string>
-    <string name="screen_effect">Kontrast &amp; renkler</string>
+    <string name="screen_color_temperature_and_saturation">Renkler ve doygunluk</string>
+    <string name="screen_effect">Kontrast ve renkler</string>
     <string name="screen_optimize">Kontrast</string>
     <string name="screen_color_and_optimize">Kontrast &amp; renk</string>
     <string name="screen_paper_mode_title">Okuma</string>
