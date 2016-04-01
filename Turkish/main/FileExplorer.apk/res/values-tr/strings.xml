@@ -54,13 +54,13 @@
     <string name="category_picture">Fotoğraflar</string>
     <string name="category_theme">Temalar</string>
     <string name="category_document">Belgeler</string>
-    <string name="category_zip">Sıkışmış</string>
+    <string name="category_zip">Sıkıştırılmış</string>
     <string name="category_apk">Uygulamalar</string>
     <string name="category_other">Karışık</string>
     <string name="category_favorite">Favoriler</string>
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_recent">En son</string>
-    <string name="category_download">İndirilen</string>
+    <string name="category_download">İndirilenler</string>
     <string name="category_midrive">Sürücü</string>
     <string name="operation_rename_message">Yeni adı gir</string>
     <string name="operation_create_folder_message">Klasör adını girin</string>
@@ -205,7 +205,7 @@ Boş alanınız %1$s"</string>
     <string name="already_signin_description">Zaten oturum açmış durumdasınız</string>
     <string name="pull_to_signin">Oturum açmak ve boş disk alanı almak için aşağı doğru sürükleyin</string>
     <string name="release_to_signin">Oturum açmak için serbest bırakın</string>
-    <string name="server_control_settings">Sunucu ayarları</string>
+    <string name="server_control_settings">Ayarlar</string>
     <string name="server_control_advanced_settings">Gelişmiş ayarlar</string>
     <string name="server_control_charset">Aktarma kodlaması</string>
     <string name="utf8_title">UTF-8</string>
