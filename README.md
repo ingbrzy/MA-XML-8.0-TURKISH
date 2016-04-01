@@ -11,5 +11,5 @@ Translation Contributors:
 MIUI Translation: haqanguven@msn.com
 
 
-6.3.24 Full Turkish Lang
+6.3.31 Full Turkish Lang
 
