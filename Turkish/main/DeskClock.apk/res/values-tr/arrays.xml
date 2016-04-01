@@ -925,6 +925,11 @@
         <item>C298</item>
         <item>C299</item>
     </string-array>
+    <string-array name="stat_volume_button_behaviors">
+        <item>Hayır</item>
+        <item>Daha sonra ertele</item>
+        <item>Kapat</item>
+    </string-array>
     <string-array name="alarm_in_furture">
         <item>Alarma 1 dakikadan daha az kaldı</item>
         <item>Alarma %1$s kaldı</item>
@@ -965,8 +970,8 @@
     <integer-array name="alarm_repeat_type_no_workdays_values">
         <item>0</item>
         <item>1</item>
-        <item>3</item>
         <item>4</item>
+        <item>5</item>
     </integer-array>
     <string-array name="alarm_set">
         <item>Alarma 1 dakikadan daha az kaldı</item>

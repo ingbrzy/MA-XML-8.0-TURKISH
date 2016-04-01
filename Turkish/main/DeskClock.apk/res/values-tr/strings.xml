@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="stat_repeat_none">Tek</string>
+    <string name="stat_repeat_everyday">Her gün</string>
+    <string name="stat_repeat_legal_workday">Yasal çalışma</string>
+    <string name="stat_repeat_legal_off_day">Yasal tatil</string>
+    <string name="stat_repeat_weekdays">Pazartesiden cumaya</string>
+    <string name="stat_repeat_weekends">Hafta sonu</string>
+    <string name="stat_repeat_self_define">Görenek</string>
     <string name="slider_text">Susturmak için yukarı kaydır</string>
     <string name="snooze_confirm_cancel">Ertelemeyi iptal et</string>
     <string name="timer_alarm_cancel_pad">Zili durdurmak için ekrana dokunun</string>
@@ -17,7 +24,6 @@
     <string name="delete_timer_item_title">Zamanlayıcı sil</string>
     <string name="delete_selected_timer_item">Zamanlayıcı silinsin mi?</string>
     <string name="delete_timezone_title">Zaman dilimini sil</string>
-    <string name="delelte_selected_timezone">Zaman dilimi silinsin mi?</string>
     <string name="timezone_exist_error_message">Zaman dilimi eklenemedi. Zaten var</string>
     <string name="alarm_disabled">Devre dışı bırakıldı</string>
     <string name="alarm_ascending_mode_title">Artan alarm sesi</string>

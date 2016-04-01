@@ -32,4 +32,12 @@
         <item quantity="other">Alarm %d dakika sonra susturulacaktır</item>
         <item quantity="one">Alarm %d dakika sonra susturulacaktır</item>
     </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">Seçilen alarmlar silinsin mi?</item>
+        <item quantity="one">Alarm silinsin mi?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Seçilen saat dilimi silinsin mi?</item>
+        <item quantity="one">Saat dilimi silinsin mi?</item>
+    </plurals>
 </resources>
