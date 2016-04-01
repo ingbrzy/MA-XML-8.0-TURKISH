@@ -3,13 +3,13 @@
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_auto_brightness">Parlaklık</string>
     <string name="status_bar_toggle_data">Mobil veri</string>
-    <string name="status_bar_toggle_flight_mode">Uçak</string>
+    <string name="status_bar_toggle_flight_mode">Uçak modu</string>
     <string name="status_bar_toggle_gps">Gps</string>
     <string name="status_bar_toggle_lock">Kilitle</string>
     <string name="status_bar_toggle_mute">Sessiz</string>
     <string name="status_bar_toggle_privacy_mode">Misafir</string>
     <string name="status_bar_toggle_rotate">Döndürme</string>
-    <string name="status_bar_toggle_screen_button">Tuşları kapat</string>
+    <string name="status_bar_toggle_screen_button">Tuşları kilitle</string>
     <string name="status_bar_toggle_screenshot">Ekran resmi</string>
     <string name="status_bar_toggle_sync">Senkronize</string>
     <string name="status_bar_toggle_torch">El feneri</string>
@@ -17,7 +17,7 @@
     <string name="status_bar_toggle_wifi">Wifi</string>
     <string name="status_bar_toggle_power_mode">Performans</string>
     <string name="status_bar_toggle_wifi_ap">İnternet paylaşımı</string>
-    <string name="status_bar_toggle_quiet_mode">Uyku</string>
+    <string name="status_bar_toggle_quiet_mode">Uyku modu</string>
     <string name="status_bar_toggle_paper_mode">Okuma</string>
     <string name="status_bar_toggle_midrop">Mi damla</string>
     <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
@@ -109,7 +109,7 @@
     <string name="force_exit_message">%1$s kapatıldı</string>
     <string name="force_exit_skip_message">%1$s sistem tarafından gerekli olduğundan kapatılamıyor</string>
     <string name="fm_record_smaple_prefix_miui">Radyo kaydedici</string>
-    <string name="global_actions_airplane_mode">Uçak</string>
+    <string name="global_actions_airplane_mode">Uçak modu</string>
     <string name="global_actions_reboot">Yeniden başlat</string>
     <string name="global_actions_shutdown">Kapat</string>
     <string name="global_actions_silent_mode">Sessiz</string>
@@ -138,7 +138,7 @@
     <string name="softap_notifif_title">%s paylaşımı açık</string>
     <string name="softap_notifif_summary">%d bağlandı</string>
     <string name="unknown_caller">Bilinmeyen numara</string>
-    <string name="handy_mode_title">Tek elle modu</string>
+    <string name="handy_mode_title">Tek el modu</string>
     <string name="handy_mode_summary">Kapatmak için ekranın boş alanına dokunun</string>
     <string name="handy_mode_enter_dlg_title">Tek el</string>
     <string name="handy_mode_enter_dlg_msg">Tek el ile kullanım açılsın mı?</string>
