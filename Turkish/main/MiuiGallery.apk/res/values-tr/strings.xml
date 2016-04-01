@@ -489,7 +489,7 @@
     <string name="cityname_373">Zigong</string>
     <string name="cityname_374">Zunyi</string>
     <string name="cityname_375">YanCheng</string>
-    <string name="app_name">Fotoğraflar</string>
+    <string name="app_name">Galeri</string>
     <string name="home_page_label">Fotoğraf</string>
     <string name="album_page_label">Albüm</string>
     <string name="crop_label">Kırp</string>
@@ -693,11 +693,11 @@
     <string name="auto_upload_disable_toast">Bu albümdeki fotoğraflar ve videolar otomatik olarak yedeklenmeyecek</string>
     <string name="to_enable_sync_dialog_title">Senkronize et</string>
     <string name="to_enable_sync_dialog_message">İlk önce senkronizasyonu açın</string>
-    <string name="to_enable_gallery_sync_dialog_message">İlk önce fotoğraflar için senkronizasyonu açın</string>
+    <string name="to_enable_gallery_sync_dialog_message">İlk önce galeri için senkronizasyonu açın</string>
     <string name="to_enable_sync_dialog_positive_button_text">Ayarlara git</string>
     <string name="xiaomi_account_not_exists_toast">Mi hesabı yok</string>
-    <string name="sync_diabled_toast">Fotoğraflar senkronizasyonu kapalı</string>
-    <string name="gallery_sync_disable_toast">Fotoğraflar senkronizasyonu kapalı</string>
+    <string name="sync_diabled_toast">Galeri senkronizasyonu kapalı</string>
+    <string name="gallery_sync_disable_toast">Galeri senkronizasyonu kapalı</string>
     <string name="share_album_needs_auto_upload_tip">Paylaşılan albümler için yedeklemeyi kapatamazsınız</string>
     <string name="auto_upload_before_share_title">İpucu</string>
     <string name="auto_upload_before_share_message">Paylaşmadan önce Mi buluta bu albümü yedeklemelisiniz</string>
