@@ -25,8 +25,8 @@
         <item quantity="one">%d dakika ertele</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">%d dakika ertele</item>
-        <item quantity="one">%d dakika ertele</item>
+        <item quantity="other">%d boyunca erteleniyor</item>
+        <item quantity="one">%d boyunca erteleniyor</item>
     </plurals>
     <plurals name="auto_silence_summary">
         <item quantity="other">Alarm %d dakika sonra susturulacaktır</item>

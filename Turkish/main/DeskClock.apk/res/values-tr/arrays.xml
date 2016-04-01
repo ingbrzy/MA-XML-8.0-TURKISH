@@ -954,9 +954,9 @@
         <item>Özel</item>
     </string-array>
 	<string-array name="alarm_repeat_type_no_workdays">
-        <item>Önce</item>
+        <item>Bir kez</item>
         <item>Günlük</item>
-        <item>Pazartesi ile cuma</item>
+        <item>Pazartesi - cuma</item>
         <item>Özel</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
