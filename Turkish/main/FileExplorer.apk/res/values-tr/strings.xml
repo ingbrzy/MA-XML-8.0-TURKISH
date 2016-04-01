@@ -262,10 +262,9 @@ Boş alanınız %1$s"</string>
     <string name="bind_account_summary">Eğer bir Mi sürücü hesabınız varsa kişisel verilerinizi almak için ekleyebilirsiniz</string>
     <string name="binded_accout_title">Mi sürücü hesabı</string>
     <string name="binded_accout_description">Hesaplar birleştirilir. Giriş için Xiaomi hesabı veya Mi sürücü hesabınızı kullanabilirsiniz</string>
-    <string name="cleaning">Temizleniyor</string>
-    <string name="account_bind_prompt">Kullanıcı verileri işleniyor. Hesabınız geçici olarak kilitlenir. Lütfen bekleyin</string>
-    <string name="migrate_announcement_title">Hesap taşıma</string>
-    <string name="migrate_announcement_msg">Eğer hesabınız varsa tercih ve ayarları bağlayabilirsiniz</string>
+    <string name="account_bind_prompt">Kullanıcı verileri taşınıyor. Bu işlem birkaç dakika sürebilir</string>
+    <string name="migrate_announcement_title">Hesap taşındı</string>
+    <string name="migrate_announcement_msg">Hesabınız varsa tercih ve ayarları bağlayabilirsiniz</string>
     <string name="operation_deleting_detail">Dosyalar siliniyor: (%1$d/%2$d)</string>
     <string name="operation_moving_detail">Dosyalar taşınıyor: (%1$d/%2$d)</string>
     <string name="operation_copying">Kopyalanıyor</string>
@@ -339,7 +338,6 @@ Boş alanınız %1$s"</string>
     <string name="downloading_in_3g">3G indiriliyor</string>
     <string name="operate_confirm_in_3g">Bu büyük bir dosyadır. İndirmek için mobil veri bağlantısını kullanılsın mı?</string>
     <string name="files">Dosyalar</string>
-    <string name="get_cloud_space">500 Gb ekle</string>
     <string name="kp_category_all">Kategori</string>
     <string name="kp_category_doc">Word</string>
     <string name="kp_category_excel">Excel</string>
@@ -421,7 +419,6 @@ Boş alanınız %1$s"</string>
     <string name="search_result_hint5" />
     <string name="search_result_hint6">(%d öge)</string>
     <string name="search_result_hint7">(%d)</string>
-    <string name="dialog_confirm">Tamam</string>
     <string name="search_empty_view_hint">Sonuç yok</string>
     <string name="search_result_more">Daha fazla</string>
     <string name="search_error_hint">Aramak için anahtar kelime girin</string>
@@ -605,7 +602,6 @@ havalı çıkartmaları asla gözden kaçırmayın"</string>
     <string name="remote_video_no_network">Ağa bağlanamıyor. Bağlantıyı kontrol edin ve tekrar deneyin</string>
     <string name="remote_video_server_error">Sunucuya bağlanılamıyor. Bir ya da iki dakika içinde tekrar deneyin</string>
     <string name="remote_video_report_success">Görüşleriniz için teşekkür ederiz</string>
-    <string name="remote_video_update">%1$s yeni video bulundu</string>
     <string name="share_to">Paylaş</string>
     <string name="wechat_platform">WeChat</string>
     <string name="wxcircle_platform">Moments</string>
@@ -670,4 +666,7 @@ havalı çıkartmaları asla gözden kaçırmayın"</string>
     <string name="not_installed_documentsui">Belgeler yüklü değil</string>
     <string name="title_enable_documentsui">Belgeleri etkinleştir</string>
 	<string name="error_contains_sharer_path">/MIUI/Gallery/cloud/sharer klasöründeki dosyaların şifreleri çözülemiyor. Dosyaları başka bir konuma taşıdıktan sonra yeniden deneyin</string>
+	<string name="server_error">Sunucu hatası. Daha sonra tekrar deneyin (Hata: %s)</string>
+    <string name="network_not_available">Ağa bağlanamıyor</string>
+    <string name="request_timeout">Ağ isteği zaman aşımına uğradı</string>
 </resources>
