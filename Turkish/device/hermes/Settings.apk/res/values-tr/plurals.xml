@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">%s uygulamanın bildirimleri görüntüleniyor</item>
+        <item quantity="one">1 uygulamanın bildirimleri görüntüleniyor</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s uygulamanın bildirimleri görüntülenmiyor</item>
+        <item quantity="one">1 uygulamanın bildirimleri görüntülenmiyor</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Geliştirici olmanıza %1$d adım kaldı</item>
+        <item quantity="one">Geliştirici olmanıza %1$d adım kaldı</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Şifre en az %d harf içermelidir</item>
+        <item quantity="one">Şifre en az 1 harf içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Şifre en az %d küçük harf içermelidir</item>
+        <item quantity="one">Şifre en az 1 küçük harf içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Şifre en az %d büyük harf içermelidir</item>
+        <item quantity="one">Şifre en az 1 büyük harf içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Şifre en az %d rakam içermelidir</item>
+        <item quantity="one">Şifre en az 1 rakam içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Şifre en az %d özel sembol içermelidir</item>
+        <item quantity="one">Şifre en az 1 özel sembol içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Şifre harf olmayan en az %d karakter içermelidir</item>
+        <item quantity="one">Şifre harf olmayan en az 1 karakter içermelidir</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Yanlış Sim Pin kodu. %d deneme hakkınız kaldı</item>
+        <item quantity="one">Yanlış Sim Pin kodu. Cihazının kilidini açmak için operatörünüzle bağlantı kurmak zorunda kalmadan önce %d deneme hakkınız kaldı</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d uygulama bildirimleri okuyabilir</item>
+        <item quantity="one">%d uygulama bildirimleri okuyabilir</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d uygulama koşulları sağlıyor</item>
+        <item quantity="one">%d uygulama koşulları sağlıyor</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Telefon bilgisi girişi için %1$d adım uzaklıktasınız</item>
+        <item quantity="one">Telefon bilgisi girişi için %1$d adım uzaklıktasınız</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Donanım testi için %1$d adım uzaklıktasınız</item>
+        <item quantity="one">Donanım testi için %1$d adım uzaklıktasınız</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Hata bildirimi için %1$d adım uzaklıktasınız</item>
+        <item quantity="one">Hata bildirimi için %1$d adım uzaklıktasınız</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">%d uygulama için devre dışı bırak</item>
+        <item quantity="one">1 uygulama için devre dışı bırak</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">%d uygulama için devre dışı bırakma</item>
+        <item quantity="one">1 uygulama için devre dışı bırakma</item>
+    </plurals>
+</resources>
