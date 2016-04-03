@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="calendar_default_name">Varsayılan</string>
+  <string name="calendar_info">Takvim bilgisi</string>
+  <string name="calendar_info_error">Hata</string>
+  <string name="calendar_info_events">Olaylar: %1$d</string>
+  <string name="calendar_info_events_dirty">Olaylar: %1$d, Kaydedilmemiş: %2$d</string>
+  <string name="calendar_info_no_calendars">Takvim yok</string>
+  <string name="calendar_storage">Takvim Depolama</string>
+  <string name="debug_tool_delete_button">Sil</string>
+  <string name="debug_tool_email_body">Tüm randevu ve kişisel bilgiler takvim veritabanına eklendi. Dikkatli kullanınız .</string>
+  <string name="debug_tool_email_sender_picker">Dosyanızı göndermek için bir program seçin</string>
+  <string name="debug_tool_email_subject">Takvim veritabanı eklendi</string>
+  <string name="debug_tool_message">Şunları yapabilirsin: 1) Herhangi bir uygulama tarafından SD kart/USB depolama için takvim veritabanının bir kopyasını yapabilir, 2) e-posta atabilirsin. Dosyayı kopyaladığınızda ya da e-posta aldığınızda, en kısa zamanda silmeyi unutmayın.</string>
+  <string name="debug_tool_start_button">Başlat</string>
+  <string name="holiday_data_no_network">Şebeke yok. Daha sonra tekrar deneyin!</string>
+  <string name="holiday_data_update_failed">Güncelleme hatalarını kontrol edin ve daha sonra tekrar deneyin.</string>
+  <string name="holiday_data_update_succeed">Güncelleştirme tamamlandı</string>
+  <string name="holiday_data_updating">Güncelleniyor...</string>
+  <string name="holiday_update_summary">Takvim bilgilerini güncellemek için dokunun.</string>
+  <string name="holiday_update_title">Güncelleştirme kullanılabilir</string>
+  <string name="provider_label">Takvim</string>
+  <string name="upgrade_msg">Takvim veritabanı yükseltiliyor.</string>
+</resources>
