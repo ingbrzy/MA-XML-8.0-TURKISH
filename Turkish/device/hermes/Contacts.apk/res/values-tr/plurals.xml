@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d şahıs telefon numarası ile görüntüleniyor</item>
+        <item quantity="one">1 şahıs telefon numarası ile görüntüleniyor</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Toplam %d şahıs görüntüleniyor</item>
+        <item quantity="one">Toplam 1 şahıs görüntüleniyor</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d şahıs bulundu</item>
+        <item quantity="one">1 şahıs bulundu</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d şahıs bulundu</item>
+        <item quantity="one">1 şahıs bulundu</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">%0$d şahıs birleştirildi</item>
+        <item quantity="one">Birleştirilmemiş</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d grup</item>
+        <item quantity="one">1 grup</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s\'den %1$d kişi</item>
+        <item quantity="one">%2$s\'den %1$d kişi</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d Kişi</item>
+        <item quantity="one">%1$d Kişi</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d Kişi</item>
+        <item quantity="one">%1$d Kişi</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d sesli mesaj</item>
+        <item quantity="one">Sesli Mesaj</item>
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM kartta %d kişi saklanabilir.</item>
+        <item quantity="one">SIM kartta %d kişi saklanabilir.</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">SIM karttaki %d kişiler silinsin mi?</item>
+        <item quantity="one">SIM karttaki %d kişiler silinsin mi?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d seçildi</item>
+        <item quantity="one">%1$d seçildi</item>
+    </plurals>
+    <plurals name="number_of_items_available">
+        <item quantity="other">%1$d kaldı</item>
+        <item quantity="one">%1$d kaldı</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d favoriler</item>
+        <item quantity="one">%1$d favori</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d son kişi</item>
+        <item quantity="one">1 son kişi</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d kişiler</item>
+        <item quantity="one">%1$d kişi</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d numara</item>
+        <item quantity="one">%1$d numara</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d kişi maili</item>
+        <item quantity="one">1 kişi maili</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d favori</item>
+        <item quantity="one">%1$d favori</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d son kişi</item>
+        <item quantity="one">%1$d son kişi</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d  kişi eklendi"</item>
+        <item quantity="one">%1$d kişi eklendi</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">%d kişi silindi</item>
+        <item quantity="one">Kişi sil</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d şahıs</item>
+        <item quantity="one">1 şahıs</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d kişi içe aktarıldı</item>
+        <item quantity="one">%1$d kişi içe aktarıldı</item>
+    </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">%d kişi SIM karttan silinsin mi?</item>
+        <item quantity="one">%d kişi SIM karttan silinsin mi?</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">%1$d kişi seçildi</item>
+        <item quantity="zero">%1$d kişi seçildi</item>
+        <item quantity="one">%1$d kişi seçildi</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other"> %1$d numara engellensin mi?</item>
+        <item quantity="one">Bu numara engellensin mi?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">%1$d numara Kara Listeden kaldırılsın mı?</item>
+        <item quantity="one">Bu numara Kara Listeden kaldırılsın mı?</item>
+    </plurals>
+    <plurals name="voip_contacts_count">
+        <item quantity="other">%1$d kişi</item>
+        <item quantity="one">%1$d kişi</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">%d kez çaldı</item>
+        <item quantity="one"> %d kez çaldı</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">Kişiler: %1$d</item>
+        <item quantity="one">Kişiler: %1$d</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">Eşitlenmemiş Kişiler: %d</item>
+        <item quantity="one">Eşitlenmemiş Kişiler: 1</item>
+    </plurals>
+</resources>
