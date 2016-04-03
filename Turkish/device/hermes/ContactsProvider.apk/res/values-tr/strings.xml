@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Kişiler Deposu</string>
+  <string name="call_log_provider_label">Arama Geçmişi</string>
+  <string name="create_contact">Yeni Kişi</string>
+  <string name="debug_dump_database_message">Öncelikle 1) Tüm kişilerin bilgi ve çağrı geçmişinini içeren tam bir kopyalama yapın 2) Bunu mail atın.  Yaptığınız kopyalamayı mail adresinden aldıktan sonra kopyanızı silimeyi unutmayın.</string>
+  <string name="debug_dump_delete_button">ŞimdiSil</string>
+  <string name="debug_dump_email_body">Tüm itibat bilgilerimi, itibat bilgisi veri tabanıma iliştir. Dikkatli kullanın.</string>
+  <string name="debug_dump_email_sender_picker">Dosyanızı göndermek için bir program seçin</string>
+  <string name="debug_dump_email_subject">İtibatlar Veritabanı eklendi</string>
+  <string name="debug_dump_start_button">Başlat</string>
+  <string name="debug_dump_title">İrtibatlar veritabanını kopyala</string>
+  <string name="default_directory">Kişiler</string>
+  <string name="edit_contact">Kişilere Ekle</string>
+  <string name="local_invisible_directory">Diğer</string>
+  <string name="pound_search_tip">Kişi aramak için \"#\" karakterinden sonra numarayı yazınız.</string>
+  <string name="provider_label">Kişiler</string>
+  <string name="read_write_all_voicemail_description">Mağazamız için uygulamanın bu cihazdaki tüm sesli uygulamalara erişebilmesini sağla.</string>
+  <string name="read_write_all_voicemail_label">Tüm Sesli Mesajlara Eriş</string>
+  <string name="search_the_yellowpage">Sarı Sayfalarda Ara</string>
+  <string name="send_sms">Mesaj Gönder</string>
+  <string name="sharedUserLabel">Android Sistem Uygulamaları</string>
+  <string name="third_party_delete_contact_info">"\"%s\" kişilerinizi silmeye çalışıyor. Bu eylem üçüncü parti uygulamalar tarafından yürütülür. Kişileri silmek için MUIU\'nin Kişiler uygulamasını kullanabilirsiniz."</string>
+  <string name="upgrade_msg">Kişiler veritabanı yükseltiliyor...</string>
+  <string name="upgrade_out_of_memory_notification_text">Yükseltmeyi tamamlamak için dokunun.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Kişi güncellemesi için daha fazla boş alan gerekiyor</string>
+  <string name="upgrade_out_of_memory_notification_title">Kişiler için depolama yükseltiliyor</string>
+  <string name="video_call">Videolu Arama</string>
+  <string name="voicemail_from_column">"Şurdan Sesli Mesaj: "</string>
+</resources>
