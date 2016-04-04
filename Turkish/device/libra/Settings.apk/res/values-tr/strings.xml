@@ -1203,7 +1203,6 @@ Müzik, resimler ve diğer kullanıcı verilerinin temizlenmesi için "<b>Sd kar
     <string name="bluetooth_tethering_device_connected_subtext">İnternet bağlantısını 1 cihaz ile paylaşılıyor</string>
     <string name="bluetooth_tethering_devices_connected_subtext">İnternet bağlantısını %1$d cihaz ile paylaşılıyor</string>
     <string name="bluetooth_tethering_off_subtext">İnternet bağlantısı paylaşılmıyor</string>
-    <string name="bluetooth_tethering_off_subtext">Bu telefonun internet bağlantısı paylaşılmıyor</string>
     <string name="bluetooth_tethering_errored_subtext">İnternet paylaşımı yapılamadı</string>
     <string name="bluetooth_tethering_overflow_error">En çok %1$d cihaz için internet paylaşımı yapılabilir</string>
     <string name="bluetooth_untether_blank">%1$s internet paylaşımı kesilecek</string>
@@ -2400,7 +2399,6 @@ Herhangi bir kullanıcı, güncellenen uygulama izinlerini diğer kullanıcılar
     <string name="regulatory_info_text" />
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wifi kapalı olduğundan kablosuz görüntü devre dışı</string>
     <string name="cell_broadcast_settings_summary">Acil uyarıları görüntülemek için türlerini seçin</string>
-    <string name="screen_timeout_title">Uyku modu</string>
     <string name="sim_status_title">Sim durumu</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
