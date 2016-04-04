@@ -185,6 +185,7 @@
     </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wpa</item>
         <item>@string/wifi_security_wpa2</item>
     </string-array>
     <string-array name="wifi_eap_method">
@@ -232,14 +233,6 @@
         <item>1</item>
         <item>0</item>
     </string-array>
-    <string-array name="data_usage_data_range">
-        <item>Son 30 gün</item>
-        <item>Kullanım döngüsünü ayarla</item>
-    </string-array>
-    <string-array name="sim_card_data_range">
-        <item>Son 4 basamak</item>
-        <item>İlk 4 basamak</item>
-    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Otomatik</item>
         <item>Yalnızca 5 GHz</item>
@@ -280,7 +273,24 @@
     <string-array name="wifi_proxy_settings">
         <item>Yok</item>
         <item>El ile</item>
-        <item>Proxy otomatik yapılandır</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Kapalı</item>
+        <item>Uyarı</item>
+        <item>Titret</item>
+    </string-array>
+    <string-array name="emergency_tone_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="special_locale_codes">
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>Basitleştirilmiş</item>
+        <item>Geleneksel</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Yok</item>
@@ -336,18 +346,12 @@
         <item>sdcard</item>
         <item>auto</item>
     </string-array>
-    <string-array name="app_ops_permissions">
-        <item>İzin ver</item>
-        <item>Yoksay</item>
-        <item>Her zaman sor</item>
-    </string-array>
     <string-array name="app_ops_categories">
         <item>Konum</item>
         <item>Kişisel</item>
         <item>Mesajlaşma</item>
         <item>Medya</item>
         <item>Cihaz</item>
-        <item>Bootup</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>Yaklaşık konum</item>
@@ -393,23 +397,6 @@
         <item>Uyanık tut</item>
         <item>Konumu izle</item>
         <item>Yüksek güç tüketen konum hizmetlerini izle</item>
-        <item>Kullanım istatistiklerini al</item>
-        <item>Mikrofonu sustur/aç</item>
-        <item>Pencere bildirimi</item>
-        <item>Medya projesi</item>
-        <item>Vpn etkinleştir</item>
-        <item>Wifi değiştir</item>
-        <item>Bluetooth değiştir</item>
-        <item>Multimedyayı gönder</item>
-        <item>Multimedyayı oku</item>
-        <item>Multimedya yaz</item>
-        <item>Otomatik başlat</item>
-        <item>Nfc değiştir</item>
-        <item>Mesajları sil</item>
-        <item>Multimedyayı sil</item>
-        <item>Kişileri sil</item>
-        <item>Arama günlüğü sil</item>
-        <item>Veriyi değiştir</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Konum</item>
@@ -455,23 +442,6 @@
         <item>Uyanık tut</item>
         <item>Konum</item>
         <item>Konum</item>
-        <item>Kullanım istatistiklerini al</item>
-        <item>Mikrofonu sustur/aç</item>
-        <item>Pencere bildirimi</item>
-        <item>Medya projesi</item>
-        <item>Vpn etkinleştir</item>
-        <item>Wifi değiştir</item>
-        <item>Bluetooth değiştir</item>
-        <item>Multimedyayı gönder</item>
-        <item>Multimedyayı oku</item>
-        <item>Multimedya yaz</item>
-        <item>Otomatik başlat</item>
-        <item>Nfc değiştir</item>
-        <item>Mesajları sil</item>
-        <item>Multimedyayı sil</item>
-        <item>Kişileri sil</item>
-        <item>Arama günlüğü sil</item>
-        <item>Veriyi değiştir</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Kısa</item>
@@ -485,25 +455,17 @@
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
         <item>Varsayılan</item>
-        <item>Sans-serif</item>
-        <item>Sans-serif condensed</item>
-        <item>Sans-serif monospace</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif dar</item>
         <item>Serif</item>
-        <item>Serif monospace</item>
-        <item>Casual</item>
-        <item>Cursive</item>
-        <item>Small capitals</item>
+        <item>Sabit boşluklu</item>
     </string-array>
     <string-array name="captioning_typeface_selector_values">
         <item></item>
         <item>sans-serif</item>
         <item>sans-serif-condensed</item>
-        <item>sans-serif-monospace</item>
         <item>serif</item>
-        <item>serif-monospace</item>
-        <item>casual</item>
-        <item>cursive</item>
-        <item>sans-serif-smallcaps</item>
+        <item>monospace</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Çok küçük</item>
@@ -520,23 +482,16 @@
         <item>2.0</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
-        <item>Varsayılan</item>
         <item>Hiçbiri</item>
-        <item>Taslak</item>
-        <item>Gölgeli</item>
-        <item>Yükseltilmiş</item>
-        <item>Bunalımlı</item>
+        <item>Dış çizgi</item>
+        <item>Gölge</item>
     </string-array>
     <integer-array name="captioning_edge_type_selector_values">
-        <item>-1</item>
         <item>0</item>
         <item>1</item>
         <item>2</item>
-        <item>3</item>
-        <item>4</item>
     </integer-array>
     <string-array name="captioning_color_selector_titles">
-        <item>@string/color_unspecified</item>
         <item>@string/color_white</item>
         <item>@string/color_black</item>
         <item>@string/color_red</item>
@@ -547,7 +502,6 @@
         <item>@string/color_magenta</item>
     </string-array>
     <integer-array name="captioning_color_selector_values">
-        <item>0x100</item>
         <item>0xffffffff</item>
         <item>0xff000000</item>
         <item>0xffff0000</item>
@@ -626,7 +580,6 @@
         <item>0xffffffff</item>
     </integer-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Varsayılan</item>
         <item>Siyah üzerine beyaz</item>
         <item>Beyaz üzerine siyah</item>
         <item>Siyah üzerine sarı</item>
@@ -634,38 +587,26 @@
         <item>Özel</item>
     </string-array>
     <integer-array name="captioning_preset_selector_values">
-        <item>4</item>
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
         <item>-1</item>
     </integer-array>
-    <string-array name="select_logd_size_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>Art</item>
+        <item>Art (Hata ayıklama)</item>
     </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+    <string-array name="select_runtime_values">
+        <item>libdvm.so</item>
+        <item>libart.so</item>
+        <item>libartd.so</item>
     </string-array>
-    <string-array name="select_logd_size_values">
-        <item>65536</item>
-        <item>262144</item>
-        <item>1048576</item>
-        <item>4194304</item>
-        <item>16777216</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Günlük tampon başına 64K</item>
-        <item>Günlük tampon başına 256K</item>
-        <item>Günlük tampon başına 1M</item>
-        <item>Günlük tampon başına 4M</item>
-        <item>Günlük tampon başına 16M</item>
+    <string-array name="select_runtime_summaries">
+        <item>Dalvik</item>
+        <item>Art</item>
+        <item>Art hata ayıklama derlemesi</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Hiçbir zaman denetleme</item>
@@ -781,22 +722,26 @@
     <string-array name="track_frame_time_entries">
         <item>Kapalı</item>
         <item>Ekranda çubuk şeklinde</item>
+        <item>Ekranda çizgi şeklinde</item>
         <item>adb shell dumpsys gfxinfo içinde</item>
     </string-array>
     <string-array name="track_frame_time_values">
         <item>false</item>
         <item>visual_bars</item>
+        <item>visual_lines</item>
         <item>true</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Kapalı</item>
         <item>Fazla çizilen alanları göster</item>
         <item>Alanları renk körlüğüne uygun olarak göster</item>
+        <item>Fazla çizim sayacını göster</item>
     </string-array>
     <string-array name="debug_hw_overdraw_values">
         <item>false</item>
         <item>show</item>
         <item>show_deuteranomaly</item>
+        <item>count</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standart sınır</item>
@@ -859,76 +804,9 @@
     </string-array>
     <string-array name="ram_states">
         <item>normal</item>
-        <item>moderate</item>
-        <item>low</item>
-        <item>critical</item>
-    </string-array>
-    <string-array name="daltonizer_type_entries">
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
-    </string-array>
-    <string-array name="daltonizer_type_values">
-        <item>12</item>
-        <item>11</item>
-        <item>13</item>
-    </string-array>
-    <string-array name="simulate_color_space_entries">
-        <item>@string/daltonizer_mode_disabled</item>
-        <item>@string/daltonizer_mode_monochromacy</item>
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
-    </string-array>
-    <string-array name="simulate_color_space_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="entries_zen_mode">
-        <item>Kapalı</item>
-        <item>Sınırlı kesintiler</item>
-        <item>Sıfır kesinti</item>
-    </string-array>
-    <string-array name="entryvalues_zen_mode">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <integer-array name="battery_saver_trigger_values">
-        <item>0</item>
-        <item>5</item>
-        <item>15</item>
-    </integer-array>
-    <string-array name="proc_stats_memory_states">
-        <item>Normal</item>
-        <item>Ilımlı</item>
-        <item>Düşük</item>
-        <item>Kritik</item>
-    </string-array>
-    <string-array name="proc_stats_process_states">
-        <item>Kalıcı</item>
-        <item>En aktif</item>
-        <item>Önemli (Ön plan)</item>
-        <item>Önemli (plan)</item>
-        <item>Yedek</item>
-        <item>Ağır</item>
-        <item>Hizmet (Çalışma)</item>
-        <item>Hizmet (Yeniden başlatma)</item>
-        <item>Alıcı</item>
-        <item>Ev</item>
-        <item>Son aktivite</item>
-        <item>Önbelleklenen (Etkinlik)</item>
-        <item>Önbelleklenen (Etkinlik istemcisi)</item>
-        <item>Önbelleklenen (Boş)</item>
-    </string-array>
-    <string-array name="hidedm_plmn_list">
-        <item>46000</item>
-        <item>46002</item>
-        <item>46003</item>
-        <item>46007</item>
+        <item>orta</item>
+        <item>düşük</item>
+        <item>kritik düzeyde düşük</item>
     </string-array>
     <string-array name="input_method_selector_titles">
         <item>@string/input_method_selector_show_automatically_title</item>
@@ -1009,6 +887,15 @@
         <item>white</item>
         <item>\#FFAA00AA</item>
     </string-array>
+    <string-array name="led_color_entries">
+        <item>Mavi</item>
+        <item>Kırmızı</item>
+        <item>Sarı</item>
+        <item>Yeşil</item>
+        <item>Camgöbeği</item>
+        <item>Beyaz</item>
+        <item>Menekşe</item>
+    </string-array>
     <string-array name="mi1_led_color_values">
         <item>blue</item>
         <item>red</item>
@@ -1025,18 +912,25 @@
         <item>Menekşe</item>
         <item>Mor</item>
     </string-array>
-    <string-array name="led_color_entries">
-        <item>Mavi</item>
-        <item>Kırmızı</item>
-        <item>Sarı</item>
+    <string-array name="pink_panel_led_color_values">
+        <item>blue</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>\#FFAA00AA</item>
+    </string-array>
+    <string-array name="pink_panel_led_color_entries">
+        <item>Eflatun</item>
+        <item>Yakut</item>
+        <item>Turuncu</item>
         <item>Yeşil</item>
-        <item>Camgöbeği</item>
-        <item>Beyaz</item>
-        <item>Menekşe</item>
+        <item>Mor</item>
     </string-array>
     <string-array name="always_enabled_app_list">
         <item>com.xiaomi.hm.health</item>
         <item>cz.zdenekhorak.mibandtools</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
         <item>com.android.providers.applications</item>
         <item>com.android.providers.calendar</item>
         <item>com.android.providers.contacts</item>
@@ -1144,6 +1038,45 @@
         <item>22</item>
         <item>27</item>
     </integer-array>
+    <string-array name="dolby_mode_entries">
+        <item>@string/dolby_mode_off</item>
+        <item>@string/dolby_mode_music</item>
+        <item>@string/dolby_mode_movie</item>
+    </string-array>
+    <string-array name="dolby_bassboost_ranks">
+        <item>@string/dolby_bassboost_low</item>
+        <item>@string/dolby_bassboost_normal</item>
+        <item>@string/dolby_bassboost_high</item>
+    </string-array>
+    <string-array name="dolby_bassboost_rank_valus">
+        <item>0</item>
+        <item>3</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="dolby_roomsize_ranks">
+        <item>@string/dolby_roomsize_low</item>
+        <item>@string/dolby_roomsize_normal</item>
+        <item>@string/dolby_roomsize_high</item>
+    </string-array>
+    <string-array name="dolby_roomsize_rank_valus">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="dolby_equalizer_preset_values">
+        <item>0,0,0,0,0,0,0</item>
+        <item>16,8,0,-8,0,8,16</item>
+        <item>0,0,-4,-8,-8,-4,0</item>
+        <item>-8,-20,4,12,8,8,8</item>
+        <item>4,0,0,-8,-4,0,0</item>
+        <item>16,4,-4,-4,4,4,4</item>
+        <item>16,-4,0,-8,0,-4,-4</item>
+        <item>4,0,-4,-8,0,4,8</item>
+        <item>16,4,-8,-4,-8,-4,0</item>
+        <item>0,-4,-4,-4,-8,-4,-8</item>
+        <item>16,12,-24,-24,-16,12,16</item>
+        <item>24,14,-20,6,12,16,8</item>
+    </string-array>
     <string-array name="wfd_status">
         <item>Oturum başlatılıyor</item>
         <item>Oturum oluşturuldu</item>
@@ -1279,18 +1212,10 @@ Not: Sadece Ubuntu 8.04 için"</item>
         <item>El ile bağlan</item>
         <item>Her zaman sor</item>
     </string-array>
-    <string-array name="wifi_ssid_type_entries">
-        <item>Otomatik olarak bağlan</item>
-        <item>El ile bağlan</item>
-    </string-array>
     <string-array name="wifi_connect_type_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="wifi_ssid_type_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="nfc_se_route_values">
         <item>1</item>
@@ -1393,6 +1318,16 @@ Not: Sadece Ubuntu 8.04 için"</item>
         <item>2</item>
         <item>3</item>
     </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 inç</item>
+        <item>4.0 inç</item>
+        <item>3.5 inç</item>
+    </string-array>
+    <string-array name="handy_mode_size_value_entries">
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>3.5</item>
+    </string-array>
     <string-array name="agps_network_values">
         <item>0</item>
         <item>1</item>
@@ -1427,15 +1362,13 @@ Not: Sadece Ubuntu 8.04 için"</item>
         <item>Ilık</item>
         <item>Soğuk</item>
     </string-array>
-    <string-array name="handy_mode_size_text_entries">
-        <item>4.5 inç</item>
-        <item>4.0 inç</item>
-        <item>3.5 inç</item>
+    <string-array name="install_non_market_app_entries">
+        <item>Aç (Önerilen)</item>
+        <item>Kullanma (Tehlikeli)</item>
     </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
+    <string-array name="install_non_market_app_contents">
+        <item>Aç</item>
+        <item>Kullanma</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_values">
         <item>0</item>
@@ -1464,14 +1397,6 @@ Not: Sadece Ubuntu 8.04 için"</item>
     <string-array name="fluency_mode_confirms">
         <item>Bu ayarı uygulamak için cihazınız yeniden başlatılsın mı?</item>
         <item>Bu ayarı uygulamak için cihazınız yeniden başlatılsın mı?</item>
-    </string-array>
-    <string-array name="screen_resolution_entries">
-        <item>Ultra yüksek (2K)</item>
-        <item>Normal (720p)</item>
-    </string-array>
-    <string-array name="screen_resolution_values">
-        <item>1440</item>
-        <item>720</item>
     </string-array>
     <string-array name="miui_entries_font_size">
         <item>S</item>
