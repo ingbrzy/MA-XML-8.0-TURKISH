@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Uygulama Arama Sağlayıcısı</string>
-    <string name="search_label">Uygulama</string>
-    <string name="application_desc">Uygulama</string>
-    <string name="settings_description">Yüklü Uygulamaların İsimleri</string>
+  <string name="app_label">Uygulama Sağlayıcısını Araştır</string>
+  <string name="application_desc">Uygulama</string>
+  <string name="search_label">Uygulamalar</string>
+  <string name="settings_description">Yüklü Uygulamaların İsimleri</string>
 </resources>
