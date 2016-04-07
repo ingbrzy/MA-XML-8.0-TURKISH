@@ -33,12 +33,12 @@
         <item quantity="one">%d uygulama ara</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d uygulama veri dolaşımı kullanabilir</item>
-        <item quantity="one">%d uygulama veri dolaşımı kullanabilir</item>
+        <item quantity="other">%d uygulama veri dolaşımını kullanabilir</item>
+        <item quantity="one">%d uygulama veri dolaşımını kullanabilir</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">%d uygulama veri dolaşımı kullanamaz</item>
-        <item quantity="one">%d uygulama veri dolaşımı kullanamaz</item>
+        <item quantity="other">%d uygulama veri dolaşımını kullanamaz</item>
+        <item quantity="one">%d uygulama veri dolaşımını kullanamaz</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d uygulama bulundu</item>
@@ -73,16 +73,16 @@
         <item quantity="one">%d uygulama</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">%d uygulamanın kök erişimi var</item>
-        <item quantity="one">%d uygulamanın kök erişimi var</item>
+        <item quantity="other">%d uygulamanın kök erişim izni var</item>
+        <item quantity="one">%d uygulamanın kök erişim izni var</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">%d uygulamanın kök erişimi yok</item>
-        <item quantity="one">%d uygulamanın kök erişimi yok</item>
+        <item quantity="other">%d uygulamanın kök erişim izni yok</item>
+        <item quantity="one">%d uygulamanın kök erişim izni yok</item>
     </plurals>
     <plurals name="summary_app_update">
-        <item quantity="other">%d adet uygulama için güncelleme mevcut</item>
-        <item quantity="one">%d adet uygulama için güncelleme mevcut</item>
+        <item quantity="other">%d uygulama için güncelleme mevcut</item>
+        <item quantity="one">%d uygulama için güncelleme mevcut</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Şifre en az %d harf içermelidir</item>
