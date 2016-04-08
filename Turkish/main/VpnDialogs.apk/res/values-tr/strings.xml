@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="prompt">%s vpn bağlantısı kurmaya çalışıyor</string>
-    <string name="warning">Devam ederek uygulamaya tüm ağ trafiğini kesme iznini veriyorsunuz. <b>Uygulamaya güvenmiyorsanız kabul etmeyin.</b> Aksi halde kötü amaçlı yazılımlar verilerinizin güvenliğini tamamen tehlikeye atabilir. "</string>
-    <string name="accept">Bu uygulamaya güveniyorum</string>
-    <string name="legacy_title">Vpn bağlandığında</string>
-    <string name="configure">Yapılandır</string>
-    <string name="disconnect">Bağlantıyı kes</string>
-    <string name="session">Oturum:</string>
-    <string name="duration">Süre:</string>
-    <string name="data_transmitted">Gönderilen:</string>
-    <string name="data_received">Alınan:</string>
-    <string name="data_value_format">%1$s bayt / %2$s paket</string>
+  <string name="accept">Bu uygulamaya güveniyorum</string>
+  <string name="configure">Yapılandır</string>
+  <string name="data_received">Alınan:</string>
+  <string name="data_transmitted">Gönderilen:</string>
+  <string name="data_value_format">%1$s bayt / %2$s paket</string>
+  <string name="disconnect">Bağlantıyı kes</string>
+  <string name="duration">Süre:</string>
+  <string name="legacy_title">Vpn bağlandığında</string>
+  <string name="prompt">%s vpn bağlantısı kurmaya çalışıyor</string>
+  <string name="session">Oturum:</string>
+  <string name="warning">Devam ederek uygulamaya tüm ağ trafiğini kesme iznini veriyorsunuz. &lt;b&gt;Uygulamaya g&amp;#252;venmiyorsan&amp;#305;z kabul etmeyin.&lt;/b&gt; Aksi halde k&amp;#246;t&amp;#252; ama&amp;#231;l&amp;#305; yaz&amp;#305;l&amp;#305;mlar verilerinizin g&amp;#252;venli&amp;#287;ini tamamen tehlikeye atabilir. "</string>
 </resources>

@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="batteryWarning_label">Pil uyarısı</string>
-    <string name="title_charger_over_voltage">Aşırı şarj gerilimi</string>
-    <string name="title_battery_over_temperature">Pil aşırı sıcak</string>
-    <string name="title_over_current_protection">Aşırı akım koruması</string>
-    <string name="title_battery_over_voltage">Aşırı pil voltajı</string>
-    <string name="title_safety_timer_timeout">Şarj süresi üzerinde</string>
-    <string name="title_battery_low_temperature">Düşük pil sıcaklığı</string>
-    <string name="msg_charger_over_voltage">Şarj cihazınız aşırı gerilim olduğundan şarj cihazının bağlantısını kesin</string>
-    <string name="msg_battery_over_temperature">Uyarı: Pil aşırı sıcak</string>
-    <string name="msg_over_current_protection">Piliniz aşırı akım koruması olduğundan pili çıkarın</string>
-    <string name="msg_battery_over_voltage">Uyarı: Aşırı pil voltajı</string>
-    <string name="msg_safety_timer_timeout">Şarj süresi çok uzun. Şarj cihazınızın bağlantısını kesin</string>
-    <string name="msg_battery_low_temperature">Uyarı: Düşük pil sıcaklığı</string>
-    <string name="btn_ok_msg">Tamam</string>
-    <string name="btn_cancel_msg">Reddet</string>
-    <string name="msg_battery_over_temperature_nochange">Piliniz aşırı sıcak ise pili çıkarın</string>
-    <string name="msg_battery_low_temperature_nochange">Pilinize lütfen dikkat edin. Sıcaklık aralığının altında</string>
-    <string name="msg_battery_over_voltage_nochange">Pilinizde aşırı gerilim olduğundan pili çıkarın</string>
+  <string name="batteryWarning_label">Pil uyarısı</string>
+  <string name="btn_cancel_msg">Reddet</string>
+  <string name="btn_ok_msg">Tamam</string>
+  <string name="msg_battery_low_temperature">Uyarı: Düşük pil sıcaklığı</string>
+  <string name="msg_battery_low_temperature_nochange">Pilinize lütfen dikkat edin. Sıcaklık aralığının altında</string>
+  <string name="msg_battery_over_temperature">Uyarı: Pil aşırı sıcak</string>
+  <string name="msg_battery_over_temperature_nochange">Piliniz aşırı sıcak ise pili çıkarın</string>
+  <string name="msg_battery_over_voltage">Uyarı: Aşırı pil voltajı</string>
+  <string name="msg_battery_over_voltage_nochange">Pilinizde aşırı gerilim olduğundan pili çıkarın</string>
+  <string name="msg_charger_over_voltage">Şarj cihazınız aşırı gerilim olduğundan şarj cihazının bağlantısını kesin</string>
+  <string name="msg_over_current_protection">Piliniz aşırı akım koruması olduğundan pili çıkarın</string>
+  <string name="msg_safety_timer_timeout">Şarj süresi çok uzun. Şarj cihazınızın bağlantısını kesin</string>
+  <string name="title_battery_low_temperature">Düşük pil sıcaklığı</string>
+  <string name="title_battery_over_temperature">Pil aşırı sıcak</string>
+  <string name="title_battery_over_voltage">Aşırı pil voltajı</string>
+  <string name="title_charger_over_voltage">Aşırı şarj gerilimi</string>
+  <string name="title_over_current_protection">Aşırı akım koruması</string>
+  <string name="title_safety_timer_timeout">Şarj süresi üzerinde</string>
 </resources>

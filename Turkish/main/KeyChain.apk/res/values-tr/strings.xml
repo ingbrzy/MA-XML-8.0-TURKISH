@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Anahtar zinciri</string>
-    <string name="title_no_certs">Sertifika bulunamadı</string>
-    <string name="title_select_cert">Sertifika seçin</string>
-    <string name="requesting_application">%s uygulaması sertifika isteğinde bulundu. Sertifika seçmek uygulamanın şimdi ve gelecekte sunucularla iletişiminde bu kimliği kullanmasını sağlar</string>
-    <string name="requesting_server">Uygulama istekte bulunan sunucuyu %s olarak tanımladı. Ancak sertifikaya erişim iznini sadece uygulamaya güveniyorsanız vermelisiniz</string>
-    <string name="install_new_cert_message">Sertifikaları harici depolama biriminde bulunan %1$s veya %2$s uzantılı bir PKCS#12 dosyasından yükleyebilirsiniz</string>
-    <string name="install_new_cert_button_label">Yükle</string>
-    <string name="allow_button">İzin ver</string>
-    <string name="deny_button">Reddet</string>
+  <string name="allow_button">İzin ver</string>
+  <string name="app_name">Anahtar zinciri</string>
+  <string name="deny_button">Reddet</string>
+  <string name="install_new_cert_button_label">Yükle</string>
+  <string name="install_new_cert_message">Sertifikaları harici depolama biriminde bulunan %1$s veya %2$s uzantılı bir PKCS#12 dosyasından yükleyebilirsiniz</string>
+  <string name="requesting_application">%s uygulaması sertifika isteğinde bulundu. Sertifika seçmek uygulamanın şimdi ve gelecekte sunucularla iletişiminde bu kimliği kullanmasını sağlar</string>
+  <string name="requesting_server">Uygulama istekte bulunan sunucuyu %s olarak tanımladı. Ancak sertifikaya erişim iznini sadece uygulamaya güveniyorsanız vermelisiniz</string>
+  <string name="title_no_certs">Sertifika bulunamadı</string>
+  <string name="title_select_cert">Sertifika seçin</string>
 </resources>

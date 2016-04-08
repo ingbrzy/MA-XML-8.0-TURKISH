@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="radioInfo_menu_viewADN">Uim adres defteri görünümü</string>
-    <string name="security_settings_summary">Konum, ekran kilidi, Uim kart kilidi ve kimlik bilgileri depolama kilidini ayarlayın</string>
-    <string name="sim_lock_settings">Uim kart kilit ayarları</string>
-    <string name="sim_lock_settings_category">Uim kart kilidini ayarla</string>
-    <string name="sim_lock_settings_title">Uim kart kilidi</string>
-    <string name="sim_pin_toggle">Kililit Uim kart</string>
-    <string name="sim_pin_change">Uim Pinini değiş</string>
-    <string name="sim_enter_pin">Uim Pin</string>
-    <string name="sim_enable_sim_lock"> Uim kart kilitli</string>
-    <string name="sim_disable_sim_lock">Uim kart kilitli değil</string>
-    <string name="sim_enter_old">Eski Uim Pin</string>
-    <string name="sim_enter_new">Yeni Uim Pin</string>
-    <string name="sim_change_pin">Uim Pin</string>
-    <string name="sim_change_succeeded">Uim Pin kodu başarıyla değiştirildi</string>
-    <string name="sim_lock_failed">"Uim kart kilit durumu değiştiremezsiniz
-Muhtemelen yanlış Pin"</string>
-    <string name="sim_change_failed_enable_sim_lock">"Uim Pin kodu değiştirilemez
+  <string name="radioInfo_menu_viewADN">Uim adres defteri görünümü</string>
+  <string name="security_settings_summary">Konum, ekran kilidi, Uim kart kilidi ve kimlik bilgileri depolama kilidini ayarlayın</string>
+  <string name="sim_change_failed_enable_sim_lock">"Uim Pin kodu değiştirilemez
 Uim kilidi aktif"</string>
-    <string name="sim_lock_change_not_supported">"Uim kilidi değiştirilemiyor
+  <string name="sim_change_pin">Uim Pin</string>
+  <string name="sim_change_succeeded">Uim Pin kodu başarıyla değiştirildi</string>
+  <string name="sim_disable_sim_lock">Uim kart kilitli değil</string>
+  <string name="sim_enable_sim_lock"> Uim kart kilitli</string>
+  <string name="sim_enter_new">Yeni Uim Pin</string>
+  <string name="sim_enter_old">Eski Uim Pin</string>
+  <string name="sim_enter_pin">Uim Pin</string>
+  <string name="sim_lock_change_not_supported">"Uim kilidi değiştirilemiyor
 Uim bunu desteklemiyor"</string>
+  <string name="sim_lock_failed">"Uim kart kilit durumu değiştiremezsiniz
+Muhtemelen yanlış Pin"</string>
+  <string name="sim_lock_settings">Uim kart kilit ayarları</string>
+  <string name="sim_lock_settings_category">Uim kart kilidini ayarla</string>
+  <string name="sim_lock_settings_title">Uim kart kilidi</string>
+  <string name="sim_pin_change">Uim Pinini değiş</string>
+  <string name="sim_pin_toggle">Kililit Uim kart</string>
 </resources>

@@ -1,72 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="hot_search">Popüler</string>
-    <string name="search_history">Geçmiş</string>
-    <string name="loading">Yalnızca bir saniye</string>
-    <string name="show_more">Daha fazla göster</string>
-    <string name="clear_history">Geçmişi temizle</string>
-    <string name="search_in_web">İnternette ara</string>
-    <string name="search_in_app_store">Mi uygulama mağazasında ara</string>
-    <string name="send_secret_code">Kod gönder</string>
-    <string name="xiaomi_search_label">Sonuçlar</string>
-    <string name="distance_unit_meter">metre</string>
-    <string name="distance_unit_kilometer">kilometre</string>
-    <string name="cta_declaration_title">Hizmet şartları</string>
-    <string name="cta_declaration">Bu özelliğin düzgün çalışabilmesi için internete bağlanması, cihazınızın konumuna ulaşması, kişilerinizi ve arama geçmişinizi görüntülemesi gerekmektedir</string>
-    <string name="cta_declaration_ignore">Tekrar gösterme</string>
-    <string name="cta_declaration_positive_text">İzin ver</string>
-    <string name="cta_declaration_negative_text">Çıkış</string>
-    <string name="default_hint">Uygulama, müzik, video, kitap arayın</string>
-    <string name="network_unavailable">İnternet bağlantısı yok</string>
-    <string name="connect_and_retry">İnternete bağlanın ve ardından tekrar deneyin</string>
-    <string name="web_search_results">İnternet arama sonuçları</string>
-    <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
-    <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
-    <string name="apps_search_activity" />
-    <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
-    <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
-    <string name="default_search_domain">.google.com</string>
-    <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
-    <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
-    <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3.1/hotquery</string>
-    <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
-    <string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
-    <string name="baidu_search_url_from_launcher">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
-    <string name="baidu_search_url_from_input">https://m.baidu.com/s?from=1013672d&amp;word=%s&amp;tn=ins</string>
-    <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
-    <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
-    <string name="app_name">Ara</string>
-    <string name="search_widget">Ara</string>
-    <string name="remove_from_history">Arama geçmişinden kaldır</string>
-    <string name="remove_from_history_failed">Geçmişten kaldırılamadı</string>
-    <string name="corpus_selection_heading">Ara</string>
-    <string name="corpus_label_global">Tümü</string>
-    <string name="corpus_label_web">İnternet</string>
-    <string name="corpus_description_web">Yer imleri</string>
-    <string name="corpus_label_apps">Uygulama</string>
-    <string name="corpus_description_apps">Yüklü uygulama adları</string>
-    <string name="corpus_hint_apps">Uygulama ara</string>
-    <string name="menu_settings">Arama ayarları</string>
-    <string name="search_settings">Arama ayarları</string>
-    <string name="google_settings_category_title">Google arama</string>
-    <string name="device_settings_category_title">Kısayolu temizle</string>
-    <string name="system_search_category_title">Telefon</string>
-    <string name="search_sources">Aranabilir ögeler</string>
-    <string name="search_sources_summary">Telefonda ne arayacağınızı seçin</string>
-    <string name="clear_shortcuts">Kısayolu temizle</string>
-    <string name="clear_shortcuts_summary">Bu tüm kısayolları ve son seçilen arama önerileri silinir</string>
-    <string name="clear_shortcuts_prompt">"Bu tüm kısayolları ve son seçilen arama önerileri silinir
+  <string name="app_name">Ara</string>
+  <string name="apps_search_activity"/>
+  <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_input">https://m.baidu.com/s?from=1013672d&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_launcher">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
+  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+  <string name="clear_history">Geçmişi temizle</string>
+  <string name="clear_shortcuts">Kısayolu temizle</string>
+  <string name="clear_shortcuts_agree">Kısayolu temizle</string>
+  <string name="clear_shortcuts_disagree">Kısayolu temizleme</string>
+  <string name="clear_shortcuts_prompt">"Bu tüm kısayolları ve son seçilen arama önerileri silinir
 
 (Tarayıcı geçmişinizi temizlemek için tarayıcı ayarlarını kullanın)"</string>
-    <string name="clear_shortcuts_agree">Kısayolu temizle</string>
-    <string name="clear_shortcuts_disagree">Kısayolu temizleme</string>
-    <string name="recently_shortcut_label">Son kısayollar</string>
-    <string name="menu_help">Yardım</string>
-    <string name="google_search_label">Google</string>
-    <string name="google_app_label">Google arama</string>
-    <string name="google_search_hint">Google arama</string>
-    <string name="google_search_description">Google arama önerileri</string>
-    <string name="voice_search_hint_title">Şunu söylemeyi deneyin:</string>
-    <string name="voice_search_hint_quotation_start">\"</string>
-    <string name="voice_search_hint_quotation_end">\"</string>
+  <string name="clear_shortcuts_summary">Bu tüm kısayolları ve son seçilen arama önerileri silinir</string>
+  <string name="connect_and_retry">İnternete bağlanın ve ardından tekrar deneyin</string>
+  <string name="corpus_description_apps">Yüklü uygulama adları</string>
+  <string name="corpus_description_web">Yer imleri</string>
+  <string name="corpus_hint_apps">Uygulama ara</string>
+  <string name="corpus_label_apps">Uygulama</string>
+  <string name="corpus_label_global">Tümü</string>
+  <string name="corpus_label_web">İnternet</string>
+  <string name="corpus_selection_heading">Ara</string>
+  <string name="cta_declaration">Bu özelliğin düzgün çalışabilmesi için internete bağlanması, cihazınızın konumuna ulaşması, kişilerinizi ve arama geçmişinizi görüntülemesi gerekmektedir</string>
+  <string name="cta_declaration_ignore">Tekrar gösterme</string>
+  <string name="cta_declaration_negative_text">Çıkış</string>
+  <string name="cta_declaration_positive_text">İzin ver</string>
+  <string name="cta_declaration_title">Hizmet şartları</string>
+  <string name="default_hint">Uygulama, müzik, video, kitap arayın</string>
+  <string name="default_search_domain">.google.com</string>
+  <string name="device_settings_category_title">Kısayolu temizle</string>
+  <string name="distance_unit_kilometer">kilometre</string>
+  <string name="distance_unit_meter">metre</string>
+  <string name="google_app_label">Google arama</string>
+  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+  <string name="google_search_description">Google arama önerileri</string>
+  <string name="google_search_hint">Google arama</string>
+  <string name="google_search_label">Google</string>
+  <string name="google_settings_category_title">Google arama</string>
+  <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="hot_search">Popüler</string>
+  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+  <string name="loading">Yalnızca bir saniye</string>
+  <string name="menu_help">Yardım</string>
+  <string name="menu_settings">Arama ayarları</string>
+  <string name="network_unavailable">İnternet bağlantısı yok</string>
+  <string name="recently_shortcut_label">Son kısayollar</string>
+  <string name="remove_from_history">Arama geçmişinden kaldır</string>
+  <string name="remove_from_history_failed">Geçmişten kaldırılamadı</string>
+  <string name="search_history">Geçmiş</string>
+  <string name="search_in_app_store">Mi uygulama mağazasında ara</string>
+  <string name="search_in_web">İnternette ara</string>
+  <string name="search_settings">Arama ayarları</string>
+  <string name="search_sources">Aranabilir ögeler</string>
+  <string name="search_sources_summary">Telefonda ne arayacağınızı seçin</string>
+  <string name="search_widget">Ara</string>
+  <string name="send_secret_code">Kod gönder</string>
+  <string name="show_more">Daha fazla göster</string>
+  <string name="system_search_category_title">Telefon</string>
+  <string name="voice_search_hint_quotation_end">\"</string>
+  <string name="voice_search_hint_quotation_start">\"</string>
+  <string name="voice_search_hint_title">Şunu söylemeyi deneyin:</string>
+  <string name="web_search_results">İnternet arama sonuçları</string>
+  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+  <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3.1/hotquery</string>
+  <string name="xiaomi_search_label">Sonuçlar</string>
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
 </resources>

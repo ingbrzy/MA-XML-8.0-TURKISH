@@ -1,44 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Günlük kilit ekranı</string>
-    <string name="at_least_one">Kategori seç</string>
-    <string name="auto_interval">Otomatik</string>
-    <string name="cancel">İptal et</string>
-    <string name="cancel_international">İptal et</string>
-    <string name="change_time">Değiştirme aralığı</string>
-    <string name="day">Günde bir kez</string>
-    <string name="declaration">Her gün ücretsiz olarak kilit ekranına yeni duvar kağıtları alın</string>
-    <string name="declaration_lockscreen_title">Duvar kağıdı döngüsü</string>
-    <string name="declaration_title">Şartlar ve koşullar</string>
-    <string name="hour_1">Her saat</string>
-    <string name="hour_3">Her 3 saat</string>
-    <string name="lockscreen_magazine_summary">Her gün kilit ekranına duvar kağıtları alın</string>
-    <string name="lockscreen_magazine_system_title">Varsayılan</string>
-    <string name="lockscreen_magazine_title">Günlük kilit ekranı</string>
-    <string name="minutes_15">15 dakika</string>
-    <string name="no_long_show">Tekrar gösterme</string>
-    <string name="ok_international">Tamam</string>
-    <string name="ok_lockscreen">Tamam</string>
-    <string name="ok_network">Kabul et ve aç</string>
-    <string name="resource_apply">Uygula</string>
-    <string name="resource_no_network_text">Ağa bağlanılamıyor</string>
-    <string name="setting_head">Ayarlar</string>
-    <string name="sst_favor_desc">Favori duvar kağıtlarını kontrol et</string>
-    <string name="sst_favor_title">Favoriler</string>
-    <string name="sst_no_favor_wallpaper_hint">Favori duvar kağıtları yok</string>
-    <string name="sst_prov_enable_desc">Kilit ekranında daha güzel duvar kağıtlarının tadını çıkarın</string>
-    <string name="sst_prov_enable_title">Duvar kağıdı döngüsünü etkinleştir</string>
-    <string name="sst_require_one_category_hint">En az bir ögeye abone olun</string>
-    <string name="sst_sti_desc">Zaman aralığını ayarlayın</string>
-    <string name="sst_sti_title">Zaman aralığı</string>
-    <string name="sst_subscribe_title">Abone ol</string>
-    <string name="sst_wifi_only_desc">Mobil veri tasarrufu için devre dışı bırakın</string>
-    <string name="sst_wifi_only_title">Mobil veri üzerinden indirme</string>
-    <string name="summary">"Başlatmanız için bizim &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>kullanıcı sözleşmesi&lt;/a> ve &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>gizlilik politikası&lt;/a> şartlarımızı kabul etmeniz gerekmektedir</string>
-    <string name="summary_international">"Bu ürünü kullanarak &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>kullanıcı sözleşmesi&lt;/a> ve &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>gizlilik politikası&lt;/a> kabul etmiş olursunuz. Bu uygulamanın normal bir şekilde çalışması için internete bağlanması gerekiyor​"</string>
-    <string name="theme_apply_failured">Kilit ekranına uygulanamadı</string>
-    <string name="theme_apply_success">Kilit ekranına uygulandı</string>
-    <string name="theme_applying">Uygulanıyor</string>
-    <string name="wlan_download">Wifi üzerinden güncelle</string>
-    <string name="wlan_download_cn">Wifi üzerinden güncelle</string>
+  <string name="app_name">Günlük kilit ekranı</string>
+  <string name="at_least_one">Kategori seç</string>
+  <string name="auto_interval">Otomatik</string>
+  <string name="cancel">İptal et</string>
+  <string name="cancel_international">İptal et</string>
+  <string name="change_time">Değiştirme aralığı</string>
+  <string name="day">Günde bir kez</string>
+  <string name="declaration">Her gün ücretsiz olarak kilit ekranına yeni duvar kağıtları alın</string>
+  <string name="declaration_lockscreen_title">Duvar kağıdı döngüsü</string>
+  <string name="declaration_title">Şartlar ve koşullar</string>
+  <string name="hour_1">Her saat</string>
+  <string name="hour_3">Her 3 saat</string>
+  <string name="lockscreen_magazine_summary">Her gün kilit ekranına duvar kağıtları alın</string>
+  <string name="lockscreen_magazine_system_title">Varsayılan</string>
+  <string name="lockscreen_magazine_title">Günlük kilit ekranı</string>
+  <string name="minutes_15">15 dakika</string>
+  <string name="no_long_show">Tekrar gösterme</string>
+  <string name="ok_international">Tamam</string>
+  <string name="ok_lockscreen">Tamam</string>
+  <string name="ok_network">Kabul et ve aç</string>
+  <string name="resource_apply">Uygula</string>
+  <string name="resource_no_network_text">Ağa bağlanılamıyor</string>
+  <string name="setting_head">Ayarlar</string>
+  <string name="sst_favor_desc">Favori duvar kağıtlarını kontrol et</string>
+  <string name="sst_favor_title">Favoriler</string>
+  <string name="sst_no_favor_wallpaper_hint">Favori duvar kağıtları yok</string>
+  <string name="sst_prov_enable_desc">Kilit ekranında daha güzel duvar kağıtlarının tadını çıkarın</string>
+  <string name="sst_prov_enable_title">Duvar kağıdı döngüsünü etkinleştir</string>
+  <string name="sst_require_one_category_hint">En az bir ögeye abone olun</string>
+  <string name="sst_sti_desc">Zaman aralığını ayarlayın</string>
+  <string name="sst_sti_title">Zaman aralığı</string>
+  <string name="sst_subscribe_title">Abone ol</string>
+  <string name="sst_wifi_only_desc">Mobil veri tasarrufu için devre dışı bırakın</string>
+  <string name="sst_wifi_only_title">Mobil veri üzerinden indirme</string>
+  <string name="summary">"Başlatmanız için bizim &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;kullanıcı sözleşmesi&lt;/a&gt; ve &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;gizlilik politikası&lt;/a&gt; şartlarımızı kabul etmeniz gerekmektedir</string>
+  <string name="summary_international">"Bu ürünü kullanarak &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;kullanıcı sözleşmesi&lt;/a&gt; ve &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;gizlilik politikası&lt;/a&gt; kabul etmiş olursunuz. Bu uygulamanın normal bir şekilde çalışması için internete bağlanması gerekiyor​"</string>
+  <string name="theme_apply_failured">Kilit ekranına uygulanamadı</string>
+  <string name="theme_apply_success">Kilit ekranına uygulandı</string>
+  <string name="theme_applying">Uygulanıyor</string>
+  <string name="wlan_download">Wifi üzerinden güncelle</string>
+  <string name="wlan_download_cn">Wifi üzerinden güncelle</string>
 </resources>

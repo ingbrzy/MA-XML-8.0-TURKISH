@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="sms_provider_label">Mesajlar</string>
-    <string name="mms_provider_label">Multi medya mesajları</string>
-    <string name="mms_sms_provider_label">Mesajlaşma</string>
-    <string name="siminfo_default_name">Sim: %d</string>
-    <string name="app_label">Telefon ve mesajlaşma deposu</string>
+  <string name="app_label">Telefon ve mesajlaşma deposu</string>
+  <string name="mms_provider_label">Multi medya mesajları</string>
+  <string name="mms_sms_provider_label">Mesajlaşma</string>
+  <string name="siminfo_default_name">Sim: %d</string>
+  <string name="sms_provider_label">Mesajlar</string>
 </resources>

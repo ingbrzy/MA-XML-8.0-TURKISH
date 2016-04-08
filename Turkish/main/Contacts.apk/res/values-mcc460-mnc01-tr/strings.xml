@@ -1,62 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="simContacts_emptyLoading">USim kartınızdan kişiler yükleniyor</string>
-    <string name="simContacts_title">USim kart kişileri</string>
-    <string name="noContactsHelpText">"\"Görüntülenecek kişi yok
+  <string name="account_sim">USim kart</string>
+  <string name="account_sim2">USim kart %d</string>
+  <string name="delete_sim_entries_finish">USim kart üzerindeki kişiler silindi</string>
+  <string name="deleting_sim_entry_miui">USim karttaki kişiler siliniyor</string>
+  <string name="display_sim_contacts">USim kişilerini göster</string>
+  <string name="export_sim_contact_finish">USim karta aktarıldı</string>
+  <string name="export_to_sim">USim karta aktar</string>
+  <string name="export_to_sim1">"USim kart 1'e aktar"</string>
+  <string name="export_to_sim2">"USim kart 2'e aktar"</string>
+  <string name="export_to_sim_title">USim kartınız dışa aktarılıyor</string>
+  <string name="import_from_sim">USim kartı içe aktar</string>
+  <string name="import_from_sim1">"USim kart 1'den içe aktar"</string>
+  <string name="import_from_sim2">"USim kart 2'den içe aktar"</string>
+  <string name="import_sim_entries_finish">USim karttan kişiler içe aktarıldı</string>
+  <string name="importing_sim_contacts_miui">USim karttan kişiler aktarılıyor</string>
+  <string name="noContactsHelpText">"\"Görüntülenecek kişi yok
 
-Kişi eklemek için öncelikle"<b><font fgcolor="#ffffffff">Menüye</font></b> dokunun ve sonrasında:
+Kişi eklemek için öncelikle"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Men&amp;#252;ye&lt;/font&gt;&lt;/b&gt; dokunun ve sonras&amp;#305;nda:
  
-"<b><font fgcolor="#ffffffff"><li>"Hesaplar tuşu ile bir hesap yaratıp ya da ekleyerek hesabınızdaki kişilerinizi telefonunuzla senkronize edebilir
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Yeni kişi ile sıfırdan yeni kişilerinizi oluşturabilir
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"İçe aktar veya dışa aktar ile USim yada Sd kartınızda bulunan kişileri içe aktarabilirsiniz
-"</li></font></b>" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesaplar tu&amp;#351;u ile bir hesap yarat&amp;#305;p ya da ekleyerek hesab&amp;#305;n&amp;#305;zdaki ki&amp;#351;ilerinizi telefonunuzla senkronize edebilir
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Yeni ki&amp;#351;i ile s&amp;#305;f&amp;#305;rdan yeni ki&amp;#351;ilerinizi olu&amp;#351;turabilir
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#304;&amp;#231;e aktar veya d&amp;#305;&amp;#351;a aktar ile USim yada Sd kart&amp;#305;n&amp;#305;zda bulunan ki&amp;#351;ileri i&amp;#231;e aktarabilirsiniz
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
 "</string>
-    <string name="noContactsHelpTextWithSync">"Görüntülenecek kişiniz yok. (Kısa bir süre önce hesap eklediyseniz kişileri senkronize etmek birkaç dakika sürebilir)
+  <string name="noContactsHelpTextWithSync">"Görüntülenecek kişiniz yok. (Kısa bir süre önce hesap eklediyseniz kişileri senkronize etmek birkaç dakika sürebilir)
 
-Kişi eklemek için öncelikle"<b><font fgcolor="#ffffffff">Menüye</font></b>" dokunun ve sonrasında:
+Kişi eklemek için öncelikle"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Men&amp;#252;ye&lt;/font&gt;&lt;/b&gt;" dokunun ve sonras&amp;#305;nda:
  
-"<b><font fgcolor="#ffffffff"><li>"Hesaplar tuşu ile bir hesap yaratıp ya da ekleyerek hesabınızdaki kişilerinizi telefonunuzla senkronize edebilir
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Görünüm ayarları tuşu ile görüntülenecek kişileri seçebilir
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Yeni kişi ile sıfırdan yeni kişilerinizi oluşturabilir
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"İçe aktar veya dışa aktar ile USim veya Sd kartınızda bulunan kişileri içe aktarabilirsiniz
-"</li></font></b>" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesaplar tu&amp;#351;u ile bir hesap yarat&amp;#305;p ya da ekleyerek hesab&amp;#305;n&amp;#305;zdaki ki&amp;#351;ilerinizi telefonunuzla senkronize edebilir
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"G&amp;#246;r&amp;#252;n&amp;#252;m ayarlar&amp;#305; tu&amp;#351;u ile g&amp;#246;r&amp;#252;nt&amp;#252;lenecek ki&amp;#351;ileri se&amp;#231;ebilir
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Yeni ki&amp;#351;i ile s&amp;#305;f&amp;#305;rdan yeni ki&amp;#351;ilerinizi olu&amp;#351;turabilir
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#304;&amp;#231;e aktar veya d&amp;#305;&amp;#351;a aktar ile USim veya Sd kart&amp;#305;n&amp;#305;zda bulunan ki&amp;#351;ileri i&amp;#231;e aktarabilirsiniz
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
 "</string>
-    <string name="import_from_sim">USim kartı içe aktar</string>
-    <string name="export_to_sim_title">USim kartınız dışa aktarılıyor</string>
-    <string name="import_from_sim1">"USim kart 1'den içe aktar"</string>
-    <string name="import_from_sim2">"USim kart 2'den içe aktar"</string>
-    <string name="sim_no_contact">USim kartta kişi yok</string>
-    <string name="sim_indexed_contact_not_exist">USim karttaki %1$d pozisyonu geçersiz. %2$d ile %3$d arasında olması gerekiyor</string>
-    <string name="sim_contact_search_error">USim kart kişileri aranırken hata oluştu</string>
-    <string name="account_sim">USim kart</string>
-    <string name="account_sim2">USim kart %d</string>
-    <string name="display_sim_contacts">USim kişilerini göster</string>
-    <string name="export_to_sim">USim karta aktar</string>
-    <string name="export_to_sim1">"USim kart 1'e aktar"</string>
-    <string name="export_to_sim2">"USim kart 2'e aktar"</string>
-    <string name="sim_card_no_free_space_title">USim kart dolu</string>
-    <string name="sim_card_no_free_space_message">USim kartınız dolu. Yeni kişileri içe aktaramazsınız. USim kartınızı temizleyin ve yeniden deneyin</string>
-    <string name="sim_contacts">USim kişileri</string>
-    <string name="export_sim_contact_finish">USim karta aktarıldı</string>
-    <string name="sim_export_loading">USim kart okunuyor</string>
-    <string name="sim_capacity">USim kart depolama</string>
-    <string name="sim_error_not_ready">USim kişileri yükleniyor</string>
-    <string name="sim_contact_existing">USim kişisi zaten mevcut</string>
-    <string name="sim_contact_invalid">Geçersiz USim kişisi</string>
-    <string name="pref_key_sim_manage">USim kart yönetimi</string>
-    <string name="pref_key_sim_manage1">USim kart 1</string>
-    <string name="pref_key_sim_manage2">USim kart 2</string>
-    <string name="simContacts_airplaneMode">Kişileri USim karta aktarmak için uçak modunu kapatınız</string>
-    <string name="readingSimContacts">USim kart bilgisi okunuyor</string>
-    <string name="importing_sim_contacts_miui">USim karttan kişiler aktarılıyor</string>
-    <string name="import_sim_entries_finish">USim karttan kişiler içe aktarıldı</string>
-    <string name="deleting_sim_entry_miui">USim karttaki kişiler siliniyor</string>
-    <string name="delete_sim_entries_finish">USim kart üzerindeki kişiler silindi</string>
-    <string name="simContacts_empty">USim kartta kişi yok</string>
-    <string name="sim_account_name">USim</string>
+  <string name="pref_key_sim_manage">USim kart yönetimi</string>
+  <string name="pref_key_sim_manage1">USim kart 1</string>
+  <string name="pref_key_sim_manage2">USim kart 2</string>
+  <string name="readingSimContacts">USim kart bilgisi okunuyor</string>
+  <string name="simContacts_airplaneMode">Kişileri USim karta aktarmak için uçak modunu kapatınız</string>
+  <string name="simContacts_empty">USim kartta kişi yok</string>
+  <string name="simContacts_emptyLoading">USim kartınızdan kişiler yükleniyor</string>
+  <string name="simContacts_title">USim kart kişileri</string>
+  <string name="sim_account_name">USim</string>
+  <string name="sim_capacity">USim kart depolama</string>
+  <string name="sim_card_no_free_space_message">USim kartınız dolu. Yeni kişileri içe aktaramazsınız. USim kartınızı temizleyin ve yeniden deneyin</string>
+  <string name="sim_card_no_free_space_title">USim kart dolu</string>
+  <string name="sim_contact_existing">USim kişisi zaten mevcut</string>
+  <string name="sim_contact_invalid">Geçersiz USim kişisi</string>
+  <string name="sim_contact_search_error">USim kart kişileri aranırken hata oluştu</string>
+  <string name="sim_contacts">USim kişileri</string>
+  <string name="sim_error_not_ready">USim kişileri yükleniyor</string>
+  <string name="sim_export_loading">USim kart okunuyor</string>
+  <string name="sim_indexed_contact_not_exist">USim karttaki %1$d pozisyonu geçersiz. %2$d ile %3$d arasında olması gerekiyor</string>
+  <string name="sim_no_contact">USim kartta kişi yok</string>
 </resources>
