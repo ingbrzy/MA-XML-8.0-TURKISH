@@ -1,5 +1,5 @@
 MIUI V7.X TR XML
-(Translating 6.4.7 Dev)
+(Translating 6.4.7 Developer)
 ==============================
 
 MIUI Turkish Translation: (Miui Turkish Team)
@@ -10,8 +10,8 @@ Translation Contributors:
 - [ MIUI Turkiye Fansite](http://www.miuiturkiye.net)  
 - [ Türkçe çeviri düzeltme öneri konusu](http://forum.miuiturkiye.net/konu/xiaomi-eu-turkce-ceviri.4726/)  
 
-MIUI Translation: haqanguven@msn.com
+E-mail: haqanguven@msn.com
 
 
-6.3.31 Full Turkish Lang
+6.4.7 Full Turkish Lang
 
