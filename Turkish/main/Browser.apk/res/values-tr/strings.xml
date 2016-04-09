@@ -2,7 +2,7 @@
 <resources>
   <string name="abc_action_bar_home_description">Açılış Sayfası</string>
   <string name="abc_action_bar_up_description">Yukarı Git</string>
-  <string name="abc_action_menu_overflow_description">Daha Fazla</string>
+  <string name="abc_action_menu_overflow_description">Fazlası</string>
   <string name="abc_action_mode_done">Tamam</string>
   <string name="abc_action_mode_select_all">Hepsi</string>
   <string name="accept_cookies_confirm_message">Bu özelliği kapamak bazı web sitelerinin hatalı davranmasına neden olabilir.</string>
@@ -633,7 +633,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="select_dot">Metni seç</string>
   <string name="select_download_device">Cihazı seç</string>
   <string name="share_page_text">"【%1$s】 zevk alıyorum | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Bu web sitesinin URL'si güvenli olduğundan emin olmak için Xiaomi sunucularına gönderilir. Ayarlar bölümünden istediğiniz zaman bu özelliği kapatabilirsiniz.</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Bu web sitesinin URL\'si güvenli olduğundan emin olmak için Xiaomi sunucularına gönderilir. Ayarlar bölümünden istediğiniz zaman bu özelliği kapatabilirsiniz.</string>
   <string name="show_security_tip_dialog_title">Kullanım Koşulları</string>
   <string name="show_weather_location_getter_tip_dialog_description">Hava servisleri tarayıcınızda anlık güncel hava durumu bilgilerini size sunması için konum bilgisine erişiyor. Ayarlar bölümünden bu özelliği kapatabilirsiniz.</string>
   <string name="sign_in_to" formatted="false"> %s1 için oturum aç \"%s2\"</string>
