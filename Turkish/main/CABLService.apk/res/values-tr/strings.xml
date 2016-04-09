@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Uyarlanabilir Arka Işık Ayarlarının İçeriği</string>
+  <string name="cabl_enable_summary_off">Arka ışık ekran içeriğini ayarlayamıyor </string>
+  <string name="cabl_enable_summary_on">Arka ışık ekran içeriğini yeniden ayarlayacak</string>
+  <string name="cabl_enable_title">Uyarlanabilir Arka Işık İçeriği Etkin</string>
+  <string name="cabl_info_default">Bilinmiyor</string>
+  <string name="cabl_level_default">Otomatik</string>
+  <string name="cabl_levels_summary">CALB içeriği etkilemeden mümkün olduğunca güç tasarrufu sağlar. CABL otomatik görsel kalite seviyesini içerik türüne göre tespit edip, güç tasarrufunu en üst düzeye çıkartır.</string>
+  <string name="cabl_levels_title">Görsel Kalite Seviyesi</string>
+  <string name="cabl_settings_title">Uyarlanabilir Arka Işık İçerik Ayarları</string>
+  <string name="cabl_version_title">CABL Sürümü</string>
+</resources>
