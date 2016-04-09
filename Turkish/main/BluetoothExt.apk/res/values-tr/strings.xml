@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="bluetooth_dun_acceptance_dialog_text">%1$s DUN kullanmak istiyor. %2$s erişimi alsın mı?</string>
+  <string name="bluetooth_dun_request">DUN İsteği</string>
+  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s dosya ve klasörlerinize erişmek istiyor. %2$s erişimi alsın mı?</string>
+  <string name="bluetooth_ftp_request">FTP İsteği</string>
+  <string name="bluetooth_mas_acceptance_dialog_text">%1$s mesajlarınıza erişmek istiyor. %2$s erişimi alsın mı?</string>
+  <string name="bluetooth_mas_request">Mesaj Erişim isteği</string>
+  <string name="bluetooth_remember_choice">Daima İzinli</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s SIM\'inize erişmek istiyor. %2$s erişimi alsın mı?</string>
+  <string name="bluetooth_sap_request">SAP İsteği</string>
+  <string name="defaultname">Araç Kiti</string>
+  <string name="dun_acceptance_timeout_message">%1$s ile bağlantı zaman aşımına uğradı</string>
+  <string name="dun_notif_message">\"%1$s\" bağlantı için dokunun.</string>
+  <string name="dun_notif_ticker">Bluetooth DUN İsteği</string>
+  <string name="dun_notif_title">DUN için Oturum Anahtarı Talebi</string>
+  <string name="ftp_acceptance_dialog_header">Telefon Klasör Erişimi</string>
+  <string name="ftp_acceptance_dialog_title">%1$s telefon klasörlere erişmek istiyor. %2$s erişimi alsın mı?</string>
+  <string name="ftp_acceptance_timeout_message">%1$s ile bağlantı zaman aşımına uğradı</string>
+  <string name="ftp_authentication_timeout_message">%1$s ile giriş oturumu zaman aşımına uğradı</string>
+  <string name="ftp_notif_message">\"%1$s\" bağlantı için dokunun.</string>
+  <string name="ftp_notif_ticker">Bluetooth bağlantı isteği</string>
+  <string name="ftp_notif_title">FTP için Oturum Anahtarı Talebi</string>
+  <string name="ftp_session_key_dialog_header">Bluetooth oturum anahtarı gerekli</string>
+  <string name="ftp_session_key_dialog_title">%1$s için oturum anahtarı tipi</string>
+  <string name="map_acceptance_dialog_header">Telefon Klasör Erişimi</string>
+  <string name="map_acceptance_dialog_title">%1$s telefon klasörlere erişmek istiyor. %2$s erişimi alsın mı?</string>
+  <string name="map_acceptance_timeout_message">%1$s ile bağlantı zaman aşımına uğradı</string>
+  <string name="map_alert_conn_failed_message">Bluetooth MAP bağlantısı başarısız oldu.</string>
+  <string name="map_authentication_timeout_message">%1$s ile giriş oturumu zaman aşımına uğradı</string>
+  <string name="map_notif_message">\"%1$s\" bağlantı için dokunun.</string>
+  <string name="map_notif_ticker">Bluetooth bağlantı isteği</string>
+  <string name="map_notif_title">MAP için Oturum Anahtarı Talebi</string>
+  <string name="map_session_key_dialog_header">Bluetooth oturum anahtarı gerekli</string>
+  <string name="map_session_key_dialog_title">%1$s için oturum anahtarı tipi</string>
+  <string name="process"/>
+  <string name="sap_acceptance_timeout_message">%1$s ile bağlantı zaman aşımına uğradı</string>
+  <string name="sap_notif_message">\"%1$s\" bağlantı için dokunun.</string>
+  <string name="sap_notif_ticker">Bluetooth SIM Erişim isteği</string>
+  <string name="sap_notif_title">SAP için Oturum Anahtarı Talebi</string>
+</resources>
