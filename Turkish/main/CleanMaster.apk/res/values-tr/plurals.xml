@@ -46,27 +46,27 @@
         <item quantity="one">%d grup</item>
     </plurals>
     <plurals name="deepclean_cache_summary">
-        <item quantity="other">%d uygulama için önemsiz verileri temizleyebilirsiniz</item>
-        <item quantity="one">%d uygulama için önemsiz verileri temizleyebilirsiniz</item>
+        <item quantity="other"> %d uygulama için önemsiz verileri temizleyebilirsin</item>
+        <item quantity="one"> %d uygulama için önemsiz verileri temizleyebilirsin</item>
     </plurals>
     <plurals name="deepclean_app_summary">
-        <item quantity="other">%d uygulama yüklenmiş. Nadiren kullanılan uygulamaları silebilirsiniz</item>
-        <item quantity="one">%d uygulama yüklenmiş. Bunu silebilirsiniz</item>
+        <item quantity="other">%d uygulama yüklendi,nadiren kullanılan uygulamaları silebilirsin</item>
+        <item quantity="one">%d uygulama yüklendi,nadiren kullanılan uygulamalardan birini silebilirsin</item>
     </plurals>
     <plurals name="deepclean_large_summary">
-        <item quantity="other">%d büyük dosya bulundu. Önemsiz olanları silebilirsiniz</item>
-        <item quantity="one">%d büyük dosya bulundu. Bunu silebilirsiniz</item>
+        <item quantity="other">Büyük %d dosya bulundu, önemsizse silebilirsin</item>
+        <item quantity="one">%d büyük dosya bulundu, bunu silebilirsin</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
-        <item quantity="other">%d fotoğraf bulundu. Yinelenen veya gereksiz fotoğrafları silebilirsiniz</item>
-        <item quantity="one">%d fotoğraf bulundu. Yinelenen veya gereksiz fotoğrafları silebilirsiniz</item>
+        <item quantity="other">%d fotoğraf bulundu, yinelenen veya gereksiz görüntüleri silebilirsiniz</item>
+        <item quantity="one"> %d fotoğraf bulundu, yinelenen veya gereksiz görüntüleri silebilirsiniz</item>
     </plurals>
     <plurals name="deepclean_apk_summary">
-        <item quantity="other">Bulunan %d uygulamadan gereksiz olanları silebilirsiniz</item>
-        <item quantity="one">Bulunan %d uygulamadan gereksiz olanları silebilirsiniz</item>
+        <item quantity="other">%d APK bulundu, gereksiz olanları silebilirsiniz.</item>
+        <item quantity="one">%d APK bulundu, gereksiz olanı silebilirsiniz.</item>
     </plurals>
     <plurals name="deepclean_video_summary">
-        <item quantity="other">Bulunan %d videodan gereksiz olanları silebilirsiniz​</item>
-        <item quantity="one">Bulunan %d videodan gereksiz olanları silebilirsiniz</item>
+        <item quantity="other">%d video bulundu, gereksiz olanları silebilirsiniz.</item>
+        <item quantity="one">%d video bulundu, gereksiz olanı silebilirsiniz.</item>
     </plurals>
 </resources>
