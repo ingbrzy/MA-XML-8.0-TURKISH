@@ -2,47 +2,47 @@
 <resources>
     <string-array name="cache_sort_type">
         <item>Boyut</item>
-        <item>Adı</item>
+        <item>Ad</item>
     </string-array>
     <string-array name="large_file_sort_type">
         <item>Boyut</item>
-        <item>Adı</item>
+        <item>Ad</item>
     </string-array>
     <string-array name="installed_app_sort_type">
-        <item>Sık kullanılan</item>
+        <item>Sıkça kullanılan</item>
         <item>Boyut</item>
     </string-array>
     <string-array name="auto_clean_time">
-        <item>Her gün</item>
-        <item>3 günde bir</item>
-        <item>7 günde bir</item>
+        <item>Hergün</item>
+        <item>Her 3 günde</item>
+        <item>Her 7 günde</item>
     </string-array>
     <string-array name="auto_clean_size">
-        <item>100 Mb</item>
-        <item>300 Mb</item>
-        <item>500 Mb</item>
-        <item>1 Gb</item>
+        <item>100 MB</item>
+        <item>300 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
         <item>Göster</item>
-        <item>Gösterme</item>
-        <item>Daha sonra göster</item>
+        <item>"Gösterme!"</item>
+        <item>Sonra göster</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Bu dosyayı temizle</item>
         <item>Dosya konumunu görüntüle</item>
-        <item>İstisnalara dosya ekle</item>
-        <item>İstisnalara uygulama ekle</item>
+        <item>Dosyayı istisnalara ekle</item>
+        <item>Uygulamayı istisnalara ekle</item>
     </string-array>
     <string-array name="trash_clean_menu">
-        <item>Dosyayı temizle</item>
+        <item>Bu dosyayı temizle</item>
         <item>Dosya konumunu görüntüle</item>
-        <item>İstisnalara dosya ekle</item>
+        <item>Dosyayı istisnalara ekle</item>
     </string-array>
     <string-array name="video_clean_menu">
-        <item>Dosyayı temizle</item>
+        <item>Bu dosyayı temizle</item>
         <item>Aç</item>
-        <item>İstisnalara dosya ekle</item>
+        <item>Dosyayı istisnalara ekle</item>
     </string-array>
     <string-array name="empty_floder_clean_menu">
         <item>Temizle</item>
@@ -50,15 +50,20 @@
     <string-array name="apk_clean_menu">
         <item>Temizle</item>
         <item>Yükle</item>
-        <item>Konumu görüntüle</item>
+        <item>Klasörü görüntüle</item>
+        </string-array>
+    <string-array name="long_add_menu">
         <item>İstisnalara ekle</item>
+    </string-array>
+    <string-array name="long_add_app_menu">
+        <item>Uygulamayı istisnalara ekle</item>
     </string-array>
     <string-array name="app_clean_menu">
         <item>Kaldır</item>
     </string-array>
     <string-array name="auto_alert_apps_time">
-        <item>Her 7 gün</item>
-        <item>Her 15 gün</item>
-        <item>Her 30 gün</item>
+        <item>Her 7 günde</item>
+        <item>Her 15 günde</item>
+        <item>Her 30 günde</item>
     </string-array>
 </resources>
