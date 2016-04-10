@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Hesaplayıcı</string>
+  <string name="app_name">Hesap Makinesi</string>
   <string name="clear">C</string>
   <string name="clearDesc">Temizle</string>
   <string name="clear_history">Geçmişi temizle</string>
   <string name="cos">cos</string>
-  <string name="cosDesc">Kosinüs</string>
+  <string name="cosDesc">kosinüs</string>
   <string name="cos_mathematical_value">cos</string>
-  <string name="del">Sil</string>
+  <string name="del">SİL</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
   <string name="digit2">2</string>
@@ -23,7 +23,7 @@
   <string name="dot">.</string>
   <string name="dotDesc">Nokta</string>
   <string name="e">e</string>
-  <string name="eDesc">Euler sayısı</string>
+  <string name="eDesc">"Euler Sayısı"</string>
   <string name="e_mathematical_value">e</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
@@ -37,7 +37,7 @@
   <string name="lgDesc">Logaritma</string>
   <string name="lg_mathematical_value">lg</string>
   <string name="ln">ln</string>
-  <string name="lnDesc">Doğal logaritma</string>
+  <string name="lnDesc">Tabii logaritma</string>
   <string name="ln_mathematical_value">ln</string>
   <string name="minus">−</string>
   <string name="minusDesc">Eksi</string>
@@ -59,5 +59,5 @@
   <string name="tan">tan</string>
   <string name="tanDesc">Tanjant</string>
   <string name="tan_mathematical_value">tan</string>
-  <string name="text_copied_toast">Metin kopyalandı</string>
+  <string name="text_copied_toast">Metin kopyalandı.</string>
 </resources>
