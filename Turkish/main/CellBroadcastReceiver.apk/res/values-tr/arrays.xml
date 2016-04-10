@@ -15,9 +15,9 @@
         <item>10</item>
     </string-array>
     <string-array name="alert_reminder_interval_entries">
-        <item>Bir defa</item>
-        <item>2 dakikada bir</item>
-        <item>15 dakikada bir</item>
+        <item>Birkez</item>
+        <item>Her 2 dakikada</item>
+        <item>Her 15 dakikada</item>
         <item>Kapalı</item>
     </string-array>
     <string-array name="alert_reminder_interval_values">
