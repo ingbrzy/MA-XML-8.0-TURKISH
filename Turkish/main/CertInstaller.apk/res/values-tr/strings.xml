@@ -1,34 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Sertifika yükleyicisi</string>
-  <string name="cert_is_added">%s yüklendi</string>
-  <string name="cert_missing_error">Sertifika dosyası bulunamadığından yüklenemedi</string>
-  <string name="cert_not_saved">Sertifika yüklenmemiş</string>
-  <string name="cert_read_error">Sertifika dosyası okunamadığından yüklenemedi</string>
-  <string name="cert_too_large_error">Sertifika boyutu çok büyük olduğundan yüklenemedi</string>
-  <string name="credential_info">Paket şunları içeriyor:</string>
-  <string name="credential_name">Sertifika adı:</string>
-  <string name="credential_password">Sertifikaları çıkarmak için şifreyi yazın</string>
-  <string name="credential_usage_label">Kimlik bilgisinin kullanımı:</string>
-  <string name="extracting_pkcs12">Çıkarılıyor</string>
-  <string name="invalid_cert">Sertifika geçersiz</string>
-  <string name="n_cacrts">%d Ca sertifikası</string>
-  <string name="name_char_error">Yalnızca harflerden ve rakamlardan oluşan bir ad yazın</string>
-  <string name="name_credential_dialog_title">Sertifikayı adlandırın</string>
-  <string name="name_empty_error">Ad yaz</string>
-  <string name="no_cert_file_found">Sd kartta hiçbir sertifika dosyası bulunamadı</string>
-  <string name="no_cert_to_saved">Yüklenecek sertifika yok</string>
-  <string name="one_cacrt">Ca sertifikası</string>
-  <string name="one_usercrt">Kullanıcı sertifikası</string>
-  <string name="one_userkey">Kullanıcı anahtarı</string>
-  <string name="only_primary_user_allowed">Sadece bu cihazın sahibi sertifikaları yükleyebilir</string>
-  <string name="p12_description">PKCS12 anahtar deposundaki sertifikalar</string>
-  <string name="password_empty_error">Şifreyi yazın</string>
-  <string name="password_error">Doğru şifreyi yazın</string>
-  <string name="pick_file_title">Sertifika seçin</string>
-  <string name="pkcs12_file_password_dialog_title">%s dosyasından ayıkla</string>
-  <string name="pkcs12_password_dialog_title">Sertifikayı çıkart</string>
-  <string name="sdcard_not_present">Sd kart yok</string>
-  <string name="storage_error">Sertifika kaydedilemedi. Tekrar denemek için tamama dokunun</string>
-  <string name="unable_to_save_cert">Sertifika kaydedilemedi. Kimlik bilgileri deposu etkinleştirilmemiş veya düzgün bir şekilde başlatılmamış</string>
+  <string name="app_name">Sertifika Yükleyici</string>
+  <string name="cert_is_added">%s yüklendi.</string>
+  <string name="cert_missing_error">Sertifika dosyası bulunamadığından yüklenemedi.</string>
+  <string name="cert_not_saved">Sertifika yüklü değil.</string>
+  <string name="cert_read_error">Sertifika dosyası okunamadığından yüklenemedi.</string>
+  <string name="cert_too_large_error">"Sertifika boyutu çok büyük olduğu için yüklenmedi."</string>
+  <string name="credential_info">Paket İçeriği:</string>
+  <string name="credential_name">Sertifika Adı:</string>
+  <string name="credential_password">Sertifikaları ayıklamak için şifreyi yazın.</string>
+  <string name="credential_usage_label">Kimlik Bilgisi:</string>
+  <string name="done_label">Tamam</string>
+  <string name="extracting_pkcs12">Ayıklanıyor ...</string>
+  <string name="install_done">%1$s kimlik bilgileri WLAN kayıtlı şebekelere eklenmiştir.</string>
+  <string name="install_done_title">Kimlik bilgileri yüklendi</string>
+  <string name="invalid_cert">Sertifika geçersiz.</string>
+  <string name="n_cacrts">%d CA sertifikası</string>
+  <string name="name_char_error">Sadece harf ve rakamlardan oluşan bir ad yazın.</string>
+  <string name="name_credential_dialog_title">Sertifika Adı</string>
+  <string name="name_empty_error">Bir ad yazın.</string>
+  <string name="no_cert_file_found">Hiçbir sertifika dosyası telefonun depolamasında bulunamadı</string>
+  <string name="no_cert_to_saved">Yüklemek için sertifika yok.</string>
+  <string name="one_cacrt">Bir CA sertifikası</string>
+  <string name="one_usercrt">Bir kullanıcı sertifikası</string>
+  <string name="one_userkey">Bir kullanıcı anahtarı</string>
+  <string name="only_primary_user_allowed">Sadece cihaz sahibi sertifikaları kurabilir.</string>
+  <string name="p12_description">PKCS12 deposundaki sertifikalar.</string>
+  <string name="password_empty_error">Lütfen parolayı girin.</string>
+  <string name="password_error">Doğru parolayı girin.</string>
+  <string name="pick_file_title">Sertifika Seç</string>
+  <string name="pkcs12_file_password_dialog_title">%s Dosyasından Ayıkla</string>
+  <string name="pkcs12_password_dialog_title">Sertifikayı Ayıkla</string>
+  <string name="sdcard_not_present">"SD kart mevcut değil."</string>
+  <string name="storage_error">"Sertifika kaydedilemedi. Tekrar denemek için Tamam\'a dokunun."</string>
+  <string name="unable_to_save_cert">"Sertifika kaydedilemedi. Tekrar denemek için Tamam\'a dokunun."</string>
+  <string name="wifi_cancel_label">İptal</string>
+  <string name="wifi_config_text">"Adı: %1$s
+FQDN: %2$s
+Konsorsiyum: %3$s
+Ülke: %4$s
+Yetki Usulu: EAP-%5$s
+"</string>
+  <string name="wifi_detail_label">Detaylar</string>
+  <string name="wifi_detail_title">%s Detayları</string>
+  <string name="wifi_dismiss_label">Reddet</string>
+  <string name="wifi_install_label">Yükle</string>
+  <string name="wifi_installer_detail">%1$s ile kullanılabilir ağlara bağlanmak için WLAN kimlik bilgileri yükleyin.</string>
+  <string name="wifi_installer_download_error">"İndirilen dosyanın problemli olmasından dolayı yüklenemiyor. Geçerli kaynaktan indirilen dosyanın doğru olup/olmadığından emin olun."</string>
+  <string name="wifi_installer_fail">"WLAN kimlik bilgileri yüklenemiyor. Dosyayı tekrar indirmeyi deneyin."</string>
+  <string name="wifi_installer_fail_no_wifi">WLAN bağlantısını açıp, tekrar deneyin.</string>
+  <string name="wifi_installer_fail_no_wifi_title">Yükleme iptal edildi</string>
+  <string name="wifi_installer_fail_title">"Yüklenemiyor"</string>
+  <string name="wifi_installing_label">Yükleniyor</string>
+  <string name="wifi_no_config">Yok</string>
+  <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+  <string name="wifi_title">WLAN Profili</string>
+  <string name="wifi_tls_config_text">"İstemci Sertifikası:
+%1$s
+Key: %2$s
+"</string>
+  <string name="wifi_trust_config_text">"Güvenilir Sertifika:
+%s
+"</string>
+  <string name="wifi_ttls_config_text">"Kullanıcı Adı: %s
+"</string>
 </resources>
