@@ -25,19 +25,19 @@
         <item quantity="one">%d dakika ertele</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">%d boyunca erteleniyor</item>
-        <item quantity="one">%d boyunca erteleniyor</item>
+        <item quantity="other">%d dakika erteleniyor.</item>
+        <item quantity="one">%d dakika erteleniyor.</item>
     </plurals>
     <plurals name="auto_silence_summary">
-        <item quantity="other">Alarm %d dakika sonra susturulacaktır</item>
-        <item quantity="one">Alarm %d dakika sonra susturulacaktır</item>
+        <item quantity="other">Alarm %d dakika sonra susturulur</item>
+        <item quantity="one">Alarm %d dakika sonra susturulur</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
-        <item quantity="other">Seçilen alarmlar silinsin mi?</item>
-        <item quantity="one">Alarm silinsin mi?</item>
+        <item quantity="other">Seçili alarmlar silinsin mi?</item>
+        <item quantity="one">Bu alarm silinsin mi?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">Seçilen saat dilimi silinsin mi?</item>
-        <item quantity="one">Saat dilimi silinsin mi?</item>
+        <item quantity="other">Seçili zaman dilimi silinsin mi?</item>
+        <item quantity="one">Bu zaman dilimi silinsin mi?</item>
     </plurals>
 </resources>
