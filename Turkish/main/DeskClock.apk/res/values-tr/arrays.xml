@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cities_names_miui">
-        <item>Abidjan</item>
-        <item>Accra</item>
+        <item>Abican</item>
+        <item>Akra</item>
         <item>Addis Ababa</item>
-        <item>Algiers</item>
+        <item>Cezayir</item>
         <item>Blantyre</item>
         <item>Brazzaville</item>
-        <item>Cairo</item>
-        <item>Casablanca</item>
-        <item>Conakry</item>
+        <item>Kahire</item>
+        <item>Kazablanka</item>
+        <item>Konakri</item>
         <item>Dakar</item>
-        <item>Dar es Salaam</item>
-        <item>Djibouti</item>
+        <item>Darüsselam</item>
+        <item>Cibuti</item>
         <item>Freetown</item>
         <item>Gaborone</item>
         <item>Harare</item>
         <item>Johannesburg</item>
         <item>Kampala</item>
-        <item>Khartoum</item>
+        <item>Hartum</item>
         <item>Kigali</item>
         <item>Kinshasa</item>
         <item>Lagos</item>
         <item>Maseru</item>
-        <item>Mogadishu</item>
+        <item>Mogadişu</item>
         <item>Nairobi</item>
         <item>São Tomé</item>
         <item>Timbuktu</item>
-        <item>Tripoli</item>
-        <item>Tunis</item>
+        <item>Trablus</item>
+        <item>Tunus</item>
         <item>Anchorage</item>
         <item>Mendoza</item>
         <item>Aruba</item>
@@ -103,13 +103,13 @@
         <item>Amman</item>
         <item>Anadyr</item>
         <item>Aqtau</item>
-        <item>Baghdad</item>
+        <item>Bağdat</item>
         <item>Bahrain</item>
-        <item>Baku</item>
+        <item>Bakü</item>
         <item>Bangkok</item>
         <item>Beirut</item>
         <item>Calcutta</item>
-        <item>Damascus</item>
+        <item>Şam</item>
         <item>Dhaka</item>
         <item>Dubai</item>
         <item>Gaza</item>
@@ -174,7 +174,7 @@
         <item>Gibraltar</item>
         <item>Helsinki</item>
         <item>Isle of Man</item>
-        <item>Istanbul</item>
+        <item>İstanbul</item>
         <item>Lisbon</item>
         <item>London</item>
         <item>Luxembourg</item>
@@ -926,9 +926,9 @@
         <item>C299</item>
     </string-array>
     <string-array name="stat_volume_button_behaviors">
-        <item>Hayır</item>
-        <item>Daha sonra ertele</item>
-        <item>Kapat</item>
+        <item>Yok</item>
+        <item>Sonraya Ertele</item>
+        <item>Kapalı</item>
     </string-array>
     <string-array name="alarm_in_furture">
         <item>Alarma 1 dakikadan daha az kaldı</item>
@@ -948,15 +948,15 @@
     <string-array name="alarm_repeat_type">
         <item>Bir kez</item>
         <item>Günlük</item>
-        <item>Çalışma günleri</item>
-        <item>Tatil günleri</item>
-        <item>Pazartesi - Cuma</item>
+        <item>Çalışma Günleri</item>
+        <item>Tatil Günleri</item>
+        <item>Pazartesi-Cuma</item>
         <item>Özel</item>
     </string-array>
 	<string-array name="alarm_repeat_type_no_workdays">
         <item>Bir kez</item>
         <item>Günlük</item>
-        <item>Pazartesi - cuma</item>
+        <item>Pazartesi-Cuma</item>
         <item>Özel</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
@@ -987,7 +987,7 @@
         <item>1 dakika</item>
         <item>5 dakika</item>
         <item>10 dakika</item>
-        <item>15 dakikat</item>
+        <item>15 dakika</item>
         <item>20 dakika</item>
         <item>25 dakika</item>
         <item>30 dakika</item>
@@ -1002,7 +1002,7 @@
         <item>30</item>
 	</string-array>
     <string-array name="auto_silence_entries">
-        <item>Kapalı</item>
+        <item>Asla</item>
         <item>1 dakika</item>
         <item>5 dakika</item>
         <item>10 dakika</item>
@@ -1022,9 +1022,9 @@
         <item>30</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Eylem yok</item>
+        <item>Birşey Yapma</item>
         <item>Ertele</item>
-        <item>Durdur</item>
+        <item>Kapat</item>
     </string-array>
     <string-array name="volume_button_setting_values">
         <item>0</item>
