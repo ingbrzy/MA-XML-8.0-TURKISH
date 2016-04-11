@@ -338,13 +338,13 @@ eski aygıtın açık olduğundan emin olun"</string>
   <string name="xiaomi_account_type">com.xiaomi </string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">İndirme Yöneticisine bağlanamadı, lütfen Uygulama Yönetiminden İndirme Yöneticisinin durumunu kontrol edin.</string>
-  <string name="xiaomi_external_storage_unavailable">Depolama mevcut dğil, lütfen SD kartı kontrol edin.</string>
+  <string name="xiaomi_external_storage_unavailable">Depolama mevcut değil, lütfen SD kartı kontrol edin.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Yönlendirici</string>
   <string name="xiaomi_router_location">Mi Yönlendirici: %s</string>
   <string name="xiaomi_update_dialog_message">"Tanıtım Sürümü: %1$s
-Size: %2$s"</string>
+Boyut: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Tanıtım Sürümü: %1$s
 Delta Güncelleme Boyutu: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Yeni sürüm mevcut!</string>
