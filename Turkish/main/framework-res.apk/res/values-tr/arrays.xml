@@ -6,6 +6,16 @@
         <item>Diğer</item>
         <item>Özel</item>
     </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
     <string-array name="organizationTypes">
         <item>İş</item>
         <item>Diğer</item>
@@ -15,9 +25,9 @@
         <item>Ev</item>
         <item>Mobil</item>
         <item>İş</item>
-        <item>İş Faks</item>
-        <item>Ev Faks</item>
-        <item>Çağrı cihazı</item>
+        <item>İş Faksı</item>
+        <item>Ev Faksı</item>
+        <item>Çağrı Cihazı</item>
         <item>Diğer</item>
         <item>Özel</item>
     </string-array>
@@ -27,59 +37,77 @@
         <item>Diğer</item>
         <item>Özel</item>
     </string-array>
-     <string-array name="app_ops_labels">
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to use vibrate</item>
-        <item>Trying to read contacts</item>
-        <item>Trying to modify contacts</item>
-        <item>Trying to read call log</item>
-        <item>Trying to modify call log</item>
-        <item>Trying to read calendar</item>
-        <item>Trying to modify calendar</item>
-        <item>Trying to access location</item>
-        <item>Trying to post notification</item>
-        <item>Trying to access location</item>
-        <item>Trying to make phone call</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to send SMS</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to modify settings</item>
-        <item>Trying to draw on top</item>
-        <item>Trying to access notifications</item>
-        <item>Trying to access Camera</item>
-        <item>Trying to record audio</item>
-        <item>Trying to play audio</item>
-        <item>Trying to read clipboard</item>
-        <item>Trying to modify clipboard</item>
-        <item>Trying to use media buttons</item>
-        <item>Trying to use audio focus</item>
-        <item>Trying to use master volume</item>
-        <item>Trying to use voice volume</item>
-        <item>Trying to use ring volume</item>
-        <item>Trying to use media volume</item>
-        <item>Trying to use alarm volume</item>
-        <item>Trying to use notification volume</item>
-        <item>Trying to use bluetooth volume</item>
-        <item>Trying to Keep device awake</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to turn on/off Wifi</item>
-        <item>Trying to turn on/off bluetooth</item>
-        <item>Trying to turn on/off mobile data</item>
-        <item>Trying to send MMS</item>
-        <item>Trying to read MMS</item>
-        <item>Trying to write MMS</item>
-        <item>Trying to start at bootup</item>
-    </string-array>
+   <array name="common_nicknames" />
     <string-array name="imAddressTypes">
+        <item>Ev</item>
+        <item>İş</item>
+        <item>Diğer</item>
+        <item>Özel</item>
+    </string-array>
+    <array name="carrier_properties" />
+    <string-array name="app_ops_labels">
+        <item>Konum erişimi için deneniyor</item>
+        <item>Konum erişimi için deneniyor</item>
+        <item>Konum erişimi için deneniyor</item>
+        <item>Titreşim kullanımı için deneniyor</item>
+        <item>Kişileri okumaya çalışıyor</item>
+        <item>Kişileri yazmaya çalışıyor</item>
+        <item>Çağrı günlüğünü okumaya çalışıyor</item>
+        <item>Çağrı günlüğünü yazmaya çalışıyor</item>
+        <item>Takvimi okumaya çalışıyor</item>
+        <item>Takvimi değiştirmek için çalışılıyor</item>
+        <item>Konum erişimi için deneniyor</item>
+        <item>Bildirimi göndermek için çalışılıyor</item>
+        <item>Konum erişimi için deneniyor</item>
+        <item>Telefon görüşmesi yapmak için çalışıyor</item>
+        <item>SMS okumaya çalışıyor</item>
+        <item>SMS yazmaya çalışıyor</item>
+        <item>SMS almak için çalışıyor</item>
+        <item>Acil SMS almak için çalışıyor</item>
+        <item>MMS almaya çalışıyor</item>
+        <item>WAP push almaya çalışıyorum</item>
+        <item>SMS göndermeye çalışıyor</item>
+        <item>ICC SMS okumaya çalışıyor</item>
+        <item>ICC SMS yazmaya çalışıyor</item>
+        <item>Ayarlarını değiştirmek için çalışılıyor</item>
+        <item>Üstüne çizmek için çalışıyor</item>
+        <item>Bildirimleri erişmeye çalışıyor</item>
+        <item>Kamera erişmeye çalışıyor</item>
+        <item>Ses kaydetmeye çalışıyor</item>
+        <item>Ses oynamaya çalışıyor</item>
+        <item>Panoyu okumaya çalışıyor</item>
+        <item>Pano değiştirilmeye çalışılıyor</item>
+        <item>Medya düğmelerini kullanmaya çalışıyor</item>
+        <item>Sese odaklamayı kullanmaya çalışıyor</item>
+        <item>Ana ses kullanmaya çalışıyor</item>
+        <item>Ses seviyesini kullanmaya çalışıyor</item>
+        <item>Zil sesi seviyesini kullanmaya çalışıyor</item>
+        <item>Medya ses düzeyini kullanmaya çalışıyor</item>
+        <item>Alarm Sesi kullanmaya çalışıyor</item>
+        <item>Uyarı sesini kullanmaya çalışıyor</item>
+        <item>Bluetooth sesini kullanmaya çalışıyor</item>
+        <item>Cihazı uyanık tutmak için çalışıyor</item>
+        <item>Konum erişimi için deneniyor</item>
+        <item>Konum erişimi için deneniyor</item>
+        <item>Kullanım istatistiklerini almak için çalışılıyor</item>
+        <item>Mikrofonun sesini kapatmak için çalışılıyor</item>
+        <item>Pencereyi ısındırmaya çalışıyor?!</item>
+        <item>Medya projesi için çalışıyor</item>
+        <item>VPN\'i etkinleştirmek için çalışılıyor</item>
+        <item>WLAN\'i açıp-kapatmak için çalışıyor</item>
+        <item>Bluetooth\'u açıp-kapatmak için çalışıyor</item>
+        <item>MMS göndermeye çalışıyor</item>
+        <item>MMS okumaya çalışıyor</item>
+        <item>MMS yazmaya çalışıyor</item>
+        <item>Önyükleme sırasında başlatmak için çalışıyor</item>
+        <item>NFC\'yi açıp-kapatmaya çalışıyor</item>
+        <item>SMS silmeye çalışıyor</item>
+        <item>MMS silmeye çalışıyor</item>
+        <item>Kişileri silmek için çalışıyor</item>
+        <item>Arama günlüğü silmek için çalışıyor</item>
+        <item>Mobil veri açmak için çalışılıyor</item>
+    </string-array>
+	<string-array name="imAddressTypes">
         <item>Ev</item>
         <item>İş</item>
         <item>Diğer</item>
