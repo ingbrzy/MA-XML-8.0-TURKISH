@@ -19,6 +19,9 @@
   <string name="accessibility_time_picker_second">Saniye</string>
   <string name="account_prifix">Hesap:</string>
   <string name="action">Oturum Aç</string>
+  <string name="action_menu_account_not_login">Oturum açılmadı</string>
+  <string name="action_menu_account_not_login_hint">Oturum açıldığında bulut ayarlarını kullan</string>
+  <string name="action_menu_bookshelf">Kitaplık</string>
   <string name="action_menu_current_version">Güncel Sürüm</string>
   <string name="action_menu_text_add_bookmark">Yerimine ekle</string>
   <string name="action_menu_text_bandwidth">Veri Tasarrufu</string>
@@ -40,6 +43,9 @@
   <string name="action_menu_text_share">Paylaş</string>
   <string name="action_menu_text_snapshot">Sayfayı Kaydet</string>
   <string name="action_menu_text_video">Video</string>
+  <string name="action_menu_toolbox">Araç Kutusu</string>
+  <string name="action_menu_useful_page">Faydalı Şeyler Ekle</string>
+  <string name="action_menu_useful_page_added">Faydalı Şeyler eklendi</string>
   <string name="actionbar_share">Paylaş</string>
   <string name="actionbar_web_search">Ara</string>
   <string name="adblock_notification">%d reklam engellendi</string>
@@ -53,7 +59,7 @@
   <string name="add_quicklink_to_popular">Başlangıç Sayfasına Ekle</string>
   <string name="add_quicklinks">Başlangıç Sayfasına Ekle</string>
   <string name="add_to_bookmark">Yerimleri</string>
-  <string name="add_to_desk">Ana ekrana ekle</string>
+  <string name="add_to_desk">Ana Ekrana ekle</string>
   <string name="add_to_desk_success">Ana ekrana yerleştirildi</string>
   <string name="add_to_quicklink">Başlangıç Sayfası</string>
   <string name="added_to_bookmarks">Yerimlerine eklendi</string>
@@ -145,6 +151,8 @@
   <string name="color_picker_hue">Ton</string>
   <string name="color_picker_saturation">Doygunluk</string>
   <string name="color_picker_value">Değer</string>
+  <string name="comment_app_menu">Yorum</string>
+  <string name="comment_menu">Yorum</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -180,7 +188,9 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">Masaüstü</string>
   <string name="current_version_phone">Telefon</string>
-  <string name="data_traffic_prompt_change">Mobil veri bağlantısı kullanmak videolarda veri kullanımını artıracaktır. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
+  <string name="custom_head_card_text">"Daima harika birşeyin gerçekleşmek üzere olduğuna inanıyoruz"</string>
+  <string name="custom_head_card_text_incognito">"Gizlediklerini bir Allah birde sen biliyorsun​"</string>
+   <string name="data_traffic_prompt_change">Mobil veri bağlantısı kullanmak videolarda veri kullanımını artıracaktır. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
   <string name="data_traffic_prompt_message">Mobil veri bağlantısı kullanmak videolara bakarken veri kullanımını artıracaktır. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
   <string name="data_traffic_prompt_title">Veri Kullanımı Uyarısı</string>
   <string name="date_picker_dialog_clear">Temizle</string>
@@ -320,6 +330,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="license_activity_title">Sistem WebView lisansları</string>
   <string name="loading_tips">Yenilemek için aşağı doğru çekin ▼</string>
   <string name="local_bookmarks">Mi</string>
+  <string name="login_failed_toast">Oturum açılamadı, lütfen yenileyin.</string>
+  <string name="reply_comment_title">Tekrar Dene: %s</string>
   <string name="low_memory_error">Düşük bellek nedeniyle önceki işlemi tamamlanamıyor</string>
   <string name="max_tabs_warning">"Daha fazla sekme açılamıyor"</string>
   <string name="maximum_input_alert">"2048 karakterden daha fazla giremezsiniz"</string>
@@ -632,6 +644,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="security_warnings_confirm_message">Bu özelliği kapamak güvenlik riski yaratabilir.</string>
   <string name="select_dot">Metni seç</string>
   <string name="select_download_device">Cihazı seç</string>
+  <string name="send_comment_button">Gönder</string>
+  <string name="send_comment_title">Yorum</string>
   <string name="share_page_text">"【%1$s】 zevk alıyorum | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Bu web sitesinin URL\'si güvenli olduğundan emin olmak için Xiaomi sunucularına gönderilir. Ayarlar bölümünden istediğiniz zaman bu özelliği kapatabilirsiniz.</string>
   <string name="show_security_tip_dialog_title">Kullanım Koşulları</string>
