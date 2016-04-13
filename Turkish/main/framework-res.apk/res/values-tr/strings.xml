@@ -191,7 +191,6 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="common_name_prefixes"/>
   <string name="common_name_suffixes"/>
   <string name="condition_provider_service_binding_label">Durum Sağlayıcı</string>
-  <string name="config_activityRecognitionHardwarePackageName">@null</string>
   <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
   <string name="config_chooseAccountActivity">android/android.accounts.ChooseAccountActivity</string>
   <string name="config_chooseTypeAndAccountActivity">android/android.accounts.ChooseTypeAndAccountActivity</string>
@@ -207,8 +206,6 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="config_ethernet_iface_regex">(eth\\d)|(usbnet0)</string>
   <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
   <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
-  <string name="config_geocoderProviderPackageName">@null</string>
-  <string name="config_geofenceProviderPackageName">@null</string>
   <string name="config_geofenceServicesProvider">com.qualcomm.location</string>
   <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
   <string name="config_isoImagePath"/>
@@ -276,9 +273,6 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="day_of_week_label_typeface">sans-serif</string>
   <string name="day_picker_description">Günlerin aylık tablosu</string>
   <string name="days">gün</string>
-  <string name="db_default_journal_mode">PERSIST</string>
-  <string name="db_default_sync_mode">FULL</string>
-  <string name="db_wal_sync_mode">FULL</string>
   <string name="decline">Reddet</string>
   <string name="def_custom_sys_alarm"/>
   <string name="def_custom_sys_mms"/>
@@ -300,7 +294,6 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="default_sms_application">com.android.mms</string>
   <string name="default_text_encoding">Latin-1</string>
-  <string name="default_wallpaper_component">@null</string>
   <string name="delete">Sil</string>
   <string name="deleteText">Sil</string>
   <string name="deleted_key">%1$s silindi</string>
@@ -1683,7 +1676,6 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="sync_undo_deletes">Silme işlemlerini geri al</string>
   <string name="system_error_manufacturer">"Aygıtınızla birlikte bir iç sorun var. Ayrıntılı bilgi için üreticisine başvurun."</string>
   <string name="system_error_wipe_data">"Aygıtınızla birlikte bir iç sorun var ve fabrika verilerine sıfırlama yapmak dengesiz hale gelmesine neden olabilir."</string>
-  <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Kurulum için dokunun.</string>
   <string name="tethered_notification_multi_device_message">%1$s cihazlara bağlandı</string>
