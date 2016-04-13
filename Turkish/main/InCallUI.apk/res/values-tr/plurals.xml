@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">%s dakikadır veri bağlantısı yok</item>
-        <item quantity="one">%s dakikadır veri bağlantısı yok</item>
-    </plurals>
-    <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Telefon %s dakika Acil Durum arama modunda olacak. Bu moddayken, Veri bağlantısı kullanan hiçbir uygulama kullanılamayacaktır. Şimdi çıkmak istiyormusunuz?</item>
-        <item quantity="one">Telefon %s dakika Acil Durum arama modunda olacak. Bu moddayken, Veri bağlantısı kullanan hiçbir uygulama kullanılamayacaktır. Şimdi çıkmak istiyormusunuz?</item>
-    </plurals>
-    <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Seçtiğiniz işlem Acil Arama modundayken gerçekleştirilmesi mümkün değil. Telefonunuz %s dakika bu modda olacak. Şimdi çıkmak istiyor musunuz?</item>
-        <item quantity="one">Seçtiğiniz işlem Acil Arama modundayken gerçekleştirilmesi mümkün değil. Telefonunuz %s dakika bu modda olacak. Şimdi çıkmak istiyor musunuz?</item>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">%d çağrı kaydedildi.</item>
+        <item quantity="one">1 çağrı kaydedildi.</item>
     </plurals>
 </resources>
