@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Ana ekrana git</string>
+  <string name="abc_action_bar_home_description">Ana Ekrana git</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_action_bar_up_description">Yukarı git</string>
-  <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+  <string name="abc_action_bar_up_description">Yukarı git ▲</string>
+  <string name="abc_action_menu_overflow_description">Diğer Seçenekler</string>
   <string name="abc_action_mode_done">Tamamlandı</string>
   <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
   <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
@@ -15,21 +15,21 @@
   <string name="abc_searchview_description_query">Arama sorgusu</string>
   <string name="abc_searchview_description_search">Ara</string>
   <string name="abc_searchview_description_submit">Sorguyu gönder</string>
-  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_searchview_description_voice">Sesli Çağrı</string>
   <string name="abc_shareactionprovider_share_with">Paylaş</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
-  <string name="app_name">Mobil temizlik ustası</string>
-  <string name="browser_scan_history_desc">Tarayıcı geçmişi</string>
+  <string name="app_name">Mobil Temizlikçi</string>
+  <string name="browser_scan_history_desc">Tarayıcı Geçmişi</string>
   <string name="browser_search_history_desc">Aranan ögeler</string>
   <string name="call_log">Arama kaydı</string>
   <string name="clip_board_history_desc">Kopyalanan veya kesilen içerikler</string>
   <string name="clipboard">Pano</string>
   <string name="junk_tag_RF_EmptyFolders">Boş klasörler</string>
-  <string name="junk_tag_RF_ImageThumbnails">Galeri küçük resimleri</string>
-  <string name="phone_search">Google arama</string>
+  <string name="junk_tag_RF_ImageThumbnails">Galeri Resimleri</string>
+  <string name="phone_search">Google Arama</string>
   <string name="privacy_appdata_chrome_history_des">Ziyaret ettiğiniz internet siteleri</string>
-  <string name="search_history">Arama geçmişi</string>
-  <string name="sms">Mesaj veya multimedya</string>
+  <string name="search_history">Arama Geçmişi</string>
+  <string name="sms">Mesaj veya Multimedya</string>
   <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
