@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="lockscreen_missing_sim_instructions">Lütfen bir USIM kart takın.</string>
-  <string name="lockscreen_missing_sim_instructions_long">USIM kart yok veya okunabilir durumda değil. Lütfen bir USIM kart takın.</string>
+  <string name="lockscreen_missing_sim_instructions">Lütfen bir USIM kartı takın.</string>
+  <string name="lockscreen_missing_sim_instructions_long">USIM kart yok veya okunabilir durumda değil. Lütfen bir USIM kartı takın.</string>
   <string name="lockscreen_missing_sim_message">Telefonda USIM kart yok.</string>
   <string name="lockscreen_missing_sim_message_short">USIM kart yok.</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"USIM kartınız kalıcı olarak devre dışı bırakıldı.
  Yeni bir kart almak için servis sağlayıcınızla görüşün."</string>
-  <string name="lockscreen_sim_locked_message">USIM kart kilitli.</string>
+  <string name="lockscreen_sim_locked_message">USIM kartı kilitli.</string>
   <string name="lockscreen_sim_puk_locked_message">USIM kart PUK kodu ile kilitlendi.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">USIM kart kilidi açılıyor…</string>
   <string name="needPuk">USIM kartınız PUK kodu ile kilitlendi. Kilidi açmak için PUK kodunu yazın.</string>
