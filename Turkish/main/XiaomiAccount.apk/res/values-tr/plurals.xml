@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="dirty_contacts_count">
-        <item quantity="other">%d kişi</item>
-        <item quantity="one">%d kişi</item>
+        <item quantity="other">%s kişi</item>
+        <item quantity="one">%s kişi</item>
     </plurals>
     <plurals name="dirty_mms_count">
         <item quantity="other">%d mesaj</item>
