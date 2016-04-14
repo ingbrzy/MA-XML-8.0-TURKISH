@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="hot_city">
-        <item>Pekin</item>
-        <item>Şangay</item>
+        <item>Beijing</item>
+        <item>Shanghai</item>
         <item>Hong Kong</item>
-        <item>Taipei</item>
+        <item>Taipei City</item>
         <item>Jakarta</item>
         <item>Delhi</item>
         <item>Mumbai</item>
-        <item>Moskova</item>
-        <item>Haydarabad</item>
+        <item>Moscow</item>
+        <item>Hyderabad</item>
         <item>Chennai</item>
         <item>İstanbul</item>
         <item>Rio de Janeiro</item>
-        <item>Singapur</item>
+        <item>Singapore</item>
         <item>Berlin</item>
-        <item>Roma</item>
+        <item>Rome</item>
         <item>New York</item>
         <item>Los Angeles</item>
-        <item>Şikago</item>
+        <item>Chicago</item>
         <item>Tokyo</item>
         <item>Paris</item>
         <item>Bangkok</item>
-        <item>Seul</item>
+        <item>Seoul</item>
         <item>Kuala Lumpur</item>
     </string-array>
     <string-array name="aqi_title_prefix">
-        <item>HKİ %1$s</item>
-        <item>HKİ %1$s</item>
-        <item>HKİ %1$s</item>
-        <item>HKİ %1$s</item>
-        <item>HKİ %1$s</item>
-        <item>HKİ %1$s</item>
-        <item>HKİ %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
     </string-array>
     <string-array name="aqi_title_append">
         <item>%1$s</item>
@@ -51,48 +51,47 @@
         <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>
-    </string-array>
-    <string-array name="weather_type">
+    </string-array><string-array name="weather_type">
         <item>Güneşli</item>
         <item>Bulutlu</item>
         <item>Kapalı</item>
         <item>Sisli</item>
-        <item>Yoğun yağmur fırtınası</item>
-        <item>Sağanaklı</item>
-        <item>Yağmur fırtınası</item>
-        <item>Fırtınalı</item>
-        <item>Hafif yağmurlu</item>
-        <item>Yoğun yağmurlu</item>
-        <item>Orta yağmurlu</item>
-        <item>Hafif yağmurlu</item>
-        <item>Karla karışık yağmur</item>
-        <item>Kar fırtınası</item>
-        <item>Karlı</item>
-        <item>Yoğun karlı</item>
-        <item>Orta karlı</item>
-        <item>Hafif karlı</item>
-        <item>Güçlü kum fırtınası</item>
-        <item>Kum fırtınası</item>
+        <item>Ağır Yağmur Fırtınası</item>
+        <item>Sağanak</item>
+        <item>Yağmur Fırtınası</item>
+        <item>Gök Gürültülü Sağanak</item>
+        <item>Kısa Süreli Yağmur</item>
+        <item>Sağanak Yağış</item>
+        <item>Orta Dereceli Yağmur</item>
+        <item>Hafif Yağmur</item>
+        <item>Karla Karışık Yağmur</item>
+        <item>Kar Fırtınası/Tipi</item>
+        <item>Kar</item>
+        <item>Ağır Kar Yağışı</item>
+        <item>Orta Dereceli Kar Yağışı</item>
+        <item>Hafif Kar</item>
+        <item>Güçlü Kum Fırtınası</item>
+        <item>Kum Fırtınası</item>
         <item>Kumlu</item>
         <item>Rüzgarlı</item>
         <item>Dolu</item>
-        <item>Tozlu</item>
+        <item>Toz</item>
         <item>Sisli</item>
-        <item>Dondurucu yağmur</item>
+        <item>Dondurucu Yağmur</item>
         <item></item>
     </string-array>
     <string-array name="indices_uv_level">
         <item>Zayıf</item>
-        <item>Orta</item>
+        <item>Orta Menzilli</item>
         <item>Güçlü</item>
     </string-array>
     <string-array name="indices_sport">
-        <item>Uygun</item>
-        <item>Uygun değil</item>
+        <item>Elverişli</item>
+        <item>Elverişsiz</item>
     </string-array>
     <string-array name="indices_car_wash">
-        <item>Uygun</item>
-        <item>Uygun değil</item>
+        <item>Elverişli</item>
+        <item>Elverişsiz</item>
     </string-array>
     <string-array name="wind_direction">
         <item>K</item>
