@@ -5,7 +5,7 @@
         <item quantity="one">%1$s yazıcı bulundu</item>
     </plurals>
     <plurals name="composite_notification_title_template">
-        <item quantity="other">%1$d yazdırma işleri</item>
+        <item quantity="other">%1$d yazdırma işi</item>
         <item quantity="one">%1$d yazdırma işi</item>
     </plurals>
 </resources>
