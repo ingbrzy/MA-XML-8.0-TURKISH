@@ -5,19 +5,19 @@
         <item quantity="one">1 not</item>
     </plurals>
     <plurals name="search_results_title">
-        <item quantity="other">%2$s araması için %1$s sonuç</item>
-        <item quantity="one">%2$s araması için %1$s sonuç</item>
+        <item quantity="other">\"%2$s\" için %1$s sonuç </item>
+        <item quantity="one">\"%2$s\"için %1$s sonuç</item>
     </plurals>
     <plurals name="note_terms">
         <item quantity="other">%1$s not</item>
         <item quantity="one">%1$s not</item>
     </plurals>
     <plurals name="folder_terms">
-        <item quantity="other">%1$s klasör</item>
-        <item quantity="one">%1$s klasör</item>
+        <item quantity="other">%1$s dizin</item>
+        <item quantity="one">%1$s dizin</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$s not senkronize edilmedi</item>
-        <item quantity="one">%1$s not senkronize edilmedi</item>
+        <item quantity="other">"%1$s eşitlenemedi"</item>
+        <item quantity="one">"%1$s eşitlenemedi"</item>
     </plurals>
 </resources>
