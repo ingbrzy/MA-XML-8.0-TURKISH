@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="China_Mobile">China Mobile</string>
+  <string name="China_Telecom">China Telecom</string>
+  <string name="China_Unicom">China Unicom</string>
+  <string name="available_networks">Mevcut ağlar</string>
+  <string name="connect_later">"Şu anda bu ağa bağlanamıyor. Daha sonra tekrar deneyin."</string>
+  <string name="dialog_message">Çıkınca duracak, çıkmak istediğinizden emin misiniz?</string>
+  <string name="disconnect_data_confirm">Veri hizmeti geçici olarak kesilmiş olacak. Emin misiniz?</string>
+  <string name="network_forbidden">(Yasaklı)</string>
+  <string name="network_query_error">Ağları ararken hata oluştu.</string>
+  <string name="no_network">Ağ yok.</string>
+  <string name="not_allowed">"SIM kartınız bu ağa bağlanmaya izin vermiyor."</string>
+  <string name="progress_scanning">Aranıyor…</string>
+  <string name="quit_mention">Uyarı!</string>
+  <string name="register_automatically">Otomatik kayıt ...</string>
+  <string name="register_on_network">%1$s kaydediliyor…</string>
+  <string name="registration_done">Ağa kaydedildi.</string>
+  <string name="roamingTextSearching">Şebeke aranıyor...</string>
+  <string name="search_networks">Ağları ara</string>
+  <string name="select_automatically">Otomatik seç</string>
+  <string name="sum_select_automatically">Tercih edilen ağı otomatik seç</string>
+  <string name="timeout_message">Mevcut ağ bulunamadı.</string>
+</resources>
