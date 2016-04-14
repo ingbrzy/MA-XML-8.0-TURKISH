@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hints_traffic_enable_title">
-        <item quantity="other">%d uygulama için veri izleme kullanılmıyor</item>
-        <item quantity="one">%d uygulama için veri izleme kullanılmıyor</item>
+        <item quantity="other">%d uygulamaya ilişkin veri kullanımı izlenmiyor</item>
+        <item quantity="one">%d uygulamaya ilişkin veri kullanımı izlenmiyor</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
-        <item quantity="other">%d uygulama için veri izleme kullanılıyor</item>
-        <item quantity="one">%d uygulama için veri izleme kullanılıyor</item>
+        <item quantity="other">%d uygulamaya ilişkin veri kullanımı izleniyor</item>
+        <item quantity="one">%d uygulamaya ilişkin veri kullanımı izleniyor</item>
     </plurals>
     <plurals name="hints_traffic_saving_optimized">
-        <item quantity="other">%d uygulama optimize edildi</item>
-        <item quantity="one">%d uygulama optimize edildi</item>
+        <item quantity="other">%d uygulama en iyi hale getirildi</item>
+        <item quantity="one">%d uygulama en iyi hale getirildi</item>
     </plurals>
     <plurals name="hints_traffic_saving_need_optimize">
-        <item quantity="other">%d uygulama optimize edilebilir</item>
-        <item quantity="one">%d uygulama optimize edilebilir</item>
+        <item quantity="other">%d uygulama en iyi hale getirilebilir</item>
+        <item quantity="one">%d uygulama en iyi hale getirilebilir</item>
     </plurals>
     <plurals name="hints_traffic_saving_enable_title">
-        <item quantity="other">%d uygulama veri tasarrufu kullanıyor</item>
-        <item quantity="one">%d uygulama veri tasarrufu kullanıyor</item>
+        <item quantity="other">%d uygulama Veri Tasarrufu kullanıyor</item>
+        <item quantity="one">%d uygulama Veri Tasarrufu kullanıyor</item>
     </plurals>
     <plurals name="hints_traffic_saving_disable_title">
-        <item quantity="other">%d uygulama veri tasarrufu kullanmıyor</item>
-        <item quantity="one">%d uygulama veri tasarrufu kullanmıyor</item>
+        <item quantity="other">%d uygulama Veri Tasarrufu kullanmıyor</item>
+        <item quantity="one">%d uygulama Veri Tasarrufu kullanmıyor</item>
     </plurals>
     <plurals name="hints_install_apps_interval">
         <item quantity="other">%d gün önce kullanıldı</item>
         <item quantity="one">Dün kullanıldı</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
-        <item quantity="other">%d uygulama ara</item>
-        <item quantity="one">%d uygulama ara</item>
+        <item quantity="other">%d uygulamayı ara</item>
+        <item quantity="one">%d uygulamayı ara</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d uygulama veri dolaşımını kullanabilir</item>
-        <item quantity="one">%d uygulama veri dolaşımını kullanabilir</item>
+        <item quantity="other">%d uygulama veri dolaşımında kullanılabilir</item>
+        <item quantity="one">%d uygulama veri dolaşımında kullanılabilir</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">%d uygulama veri dolaşımını kullanamaz</item>
-        <item quantity="one">%d uygulama veri dolaşımını kullanamaz</item>
+        <item quantity="other">"%d uygulama veri dolaşımında kullanılamaz"</item>
+        <item quantity="one">"%d uygulama veri dolaşımında kullanılamaz"</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d uygulama bulundu</item>
@@ -57,56 +57,56 @@
         <item quantity="one">"%d dakika "</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">%d uygulamanın otomatik başlama izni var</item>
-        <item quantity="one">%d uygulamanın otomatik başlama izni var</item>
+        <item quantity="other">%d uygulama otomatik başlar</item>
+        <item quantity="one">%d uygulama otomatik başlar</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">%d uygulamanın otomatik başlama izni yok</item>
-        <item quantity="one">%d uygulamanın otomatik başlama izni yok</item>
+        <item quantity="other">"%d otomatik başlama izni yok"</item>
+        <item quantity="one">"%d otomatik başlama izni yok"</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
-        <item quantity="other">%d izin</item>
-        <item quantity="one">%d izin</item>
+        <item quantity="other">%d izni</item>
+        <item quantity="one">%d izni</item>
     </plurals>
     <plurals name="hints_permission_apps_count">
         <item quantity="other">%d uygulama</item>
         <item quantity="one">%d uygulama</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">%d uygulamanın kök erişim izni var</item>
-        <item quantity="one">%d uygulamanın kök erişim izni var</item>
+        <item quantity="other">%d uygulamanın root erişim izni var</item>
+        <item quantity="one">%d uygulamanın root erişim izni var</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">%d uygulamanın kök erişim izni yok</item>
-        <item quantity="one">%d uygulamanın kök erişim izni yok</item>
+        <item quantity="other">"%d uygulamanın root erişim izni yok"</item>
+        <item quantity="one">"%d uygulamanın root erişim izni yok"</item>
     </plurals>
     <plurals name="summary_app_update">
-        <item quantity="other">%d uygulama için güncelleme mevcut</item>
-        <item quantity="one">%d uygulama için güncelleme mevcut</item>
+        <item quantity="other">%d uygulama için güncelleme var.</item>
+        <item quantity="one">%d uygulama için güncelleme var.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Şifre en az %d harf içermelidir</item>
-        <item quantity="one">Şifre en az 1 harf içermelidir</item>
+        <item quantity="other">Parola en az %d harf içermeli.</item>
+        <item quantity="one">"Parola en az 1 harf içermeli. "</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Şifre en az %d küçük harf içermelidir</item>
-        <item quantity="one">Şifre en az 1 küçük harf içermelidir</item>
+        <item quantity="other">Şifre en az %d küçük harf içermelidir.</item>
+        <item quantity="one">Şifre en az 1 küçük harf içermelidir…</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Şifre en az %d büyük harf içermelidir</item>
-        <item quantity="one">Şifre en az 1 büyük harf içermelidir</item>
+        <item quantity="other">Şifre en az %d büyük harf içermelidir.</item>
+        <item quantity="one">Şifre en az 1 büyük harf içermelidir……</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Şifre en az %d numara içermelidir</item>
-        <item quantity="one">Şifre en az 1 numara içermelidir</item>
+        <item quantity="other">Şifre en az %d rakam içermeli.</item>
+        <item quantity="one">Şifre en az bir rakam içermeli.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Şifre en az %d özel sembol içermelidir</item>
-        <item quantity="one">Şifre en az 1 özel sembol içermelidir</item>
+        <item quantity="other">Şifre en az %d özel sembol içermeli.</item>
+        <item quantity="one">Şifre en az 1 özel sembol içermeli…</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Şifre en az %d diğer karakter içermelidir</item>
-        <item quantity="one">Şifre en az 1 diğer karakter içermelidir</item>
+        <item quantity="other">Şifre an az %d karakter ve harf içermeli.</item>
+        <item quantity="one">Şifre en az 1 karakter ve harf içermeli…</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d uygulama kilitlendi</item>
@@ -117,12 +117,12 @@
         <item quantity="one">%d uygulama kilitlenmedi</item>
     </plurals>
     <plurals name="find_applications">
-        <item quantity="other">%d uygulama arasında ara</item>
-        <item quantity="one">%d uygulama arasında ara</item>
+        <item quantity="other">%d uygulamalarda ara</item>
+        <item quantity="one">%d uygulamada ara</item>
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">%d uygulama bulundu</item>
         <item quantity="zero">0 uygulama bulundu</item>
         <item quantity="one">%d uygulama bulundu</item>
     </plurals>
-</resources>
+ </resources>
