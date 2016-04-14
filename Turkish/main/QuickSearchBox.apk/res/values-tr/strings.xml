@@ -2,12 +2,11 @@
 <resources>
   <string name="app_name">Ara</string>
   <string name="apps_search_activity"/>
-  <string name="baidu_search_url_from_default">https://www.google.com.tr/</string>
-  <string name="baidu_search_url_from_input">https://www.google.com.tr/</string>
-  <string name="baidu_search_url_from_launcher">https://www.google.com.tr/</string>
-  <string name="baidu_search_url_from_systemui">https://www.google.com.tr/</string>
-  <string name="baidu_suggest_base">https://www.google.com.tr/</string>
-  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+  <string name="baidu_search_url">http://www.google.com/search?q=%s</string>
+  <string name="baidu_search_url_from_default">https://www.google.tr/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_input">https://www.google.tr/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_launcher">https://www.google.tr/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_systemui">https://www.google.tr/search?q=%s&amp;tn=ins</string>
   <string name="clear_history">Geçmişi temizle</string>
   <string name="clear_shortcuts">Kısayolları temizle</string>
   <string name="clear_shortcuts_agree">Kısayolları temizle</string>
@@ -42,7 +41,6 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="google_settings_category_title">Google Araması</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popüler</string>
-  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
   <string name="loading">Biraz bekleyin...</string>
   <string name="menu_help">Yardım</string>
   <string name="menu_settings">Arama Ayarları</string>
@@ -62,8 +60,5 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">"Neyi aramak istiyorsun? "</string>
-  <string name="xiaomi_hint">https://www.google.com.tr/search?q=orhan+%C3%A7akmak&oq</string>
-  <string name="xiaomi_hot_query">https://www.google.com.tr/search?q=orhan+%C3%A7akmak&oq</string>
   <string name="xiaomi_search_label">Sonuçlar</string>
-  <string name="xiaomi_suggest_base">https://www.google.com.tr/search?q=orhan+%C3%A7akmak&oq</string>
 </resources>
