@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="confirm_delete_SIM_message">Uim kartından bu mesaj silinecektir</string>
-  <string name="confirm_delete_all_SIM_messages">Uim kartında tüm mesajlar silinecektir</string>
-  <string name="pref_summary_manage_sim_messages">Uim kartınızda saklanan mesajları yönetme</string>
-  <string name="pref_title_manage_sim_messages">Uim kart mesajlarını yönet</string>
-  <string name="save_to_sim">Uim kartına kaydetme</string>
-  <string name="sim_empty">Uim kartında mesaj yok</string>
-  <string name="sim_full_title">Uim kartı dolu</string>
-  <string name="sim_manage_messages_title">Uim kart üzerindeki kısa mesajlar</string>
+  <string name="confirm_delete_SIM_message">UIM kartındaki bu mesaj silinecek</string>
+  <string name="confirm_delete_all_SIM_messages">UIM kartındaki tüm mesajlar silinecek</string>
+  <string name="pref_summary_manage_sim_messages">UIM kartınızda saklanan mesajları yönet</string>
+  <string name="pref_title_manage_sim_messages">UIM kart mesajlarını yönet</string>
+  <string name="save_to_sim">UIM kartına kaydet</string>
+  <string name="sim_empty">UIM kartında mesaj yok</string>
+  <string name="sim_full_title">UIM kartı dolu</string>
+  <string name="sim_manage_messages_title">UIM kart üzerindeki kısa mesajlar</string>
 </resources>
