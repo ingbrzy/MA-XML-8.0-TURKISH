@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">Bu yüz gizlensin mi?</item>
-        <item quantity="one">Bu yüz gizlensin mi?</item>
+        <item quantity="other">"Bu yüzler gösterilmesin mi?"</item>
+        <item quantity="one">"Bu yüz gösterilmesin mi?"</item>
     </plurals>
     <plurals name="more_face">
-        <item quantity="other">%2$s fotoğraftan %1$s tanesi >></item>
-        <item quantity="one">%2$s fotoğraftan %1$s tanesi >></item>
+        <item quantity="other">%2$s\'daki %1$s fotoğraf >></item>
+        <item quantity="one">%2$s\'daki %1$s fotoğraf >></item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d yıl</item>
@@ -21,63 +21,63 @@
         <item quantity="one">%d gün</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">Bebeğinizin (%2$s) %1$d fotoğrafı eklenecek</item>
-        <item quantity="one">Bebeğinizin (%2$s) %1$d fotoğrafı eklenecek</item>
+        <item quantity="other">%2$s %1$d fotoğraf eklendi</item>
+        <item quantity="one">%2$s %1$d fotoğraf eklendi</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">Bebeğinizin (%2$s) %1$d fotoğrafı eklenecek</item>
-        <item quantity="one">Bebeğinizin (%2$s) %1$d fotoğrafı eklenecek</item>
+        <item quantity="other">%2$s %1$d fotoğraf eklendi</item>
+        <item quantity="one">%2$s %1$d fotoğraf eklendi</item>
     </plurals>
     <plurals name="album_already_share_user_count">
-        <item quantity="other">%d kişiyle zaten paylaşıldı</item>
+        <item quantity="other">Zaten %d kişiyle paylaşıldı</item>
         <item quantity="one">%d kişiyle zaten paylaşıldı</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">%2$s %1$d fotoğraf silinsin mi?</item>
-        <item quantity="one">%2$s fotoğraf silinsin mi?</item>
+        <item quantity="one">%2$s %1$d fotoğraf silinsin mi?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
         <item quantity="other">%2$s %1$d video silinsin mi?</item>
         <item quantity="one">%2$s video silinsin mi?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
-        <item quantity="other">%2$s %1$d öge silinsin mi?</item>
-        <item quantity="one">%2$s %1$d öge silinsin mi?</item>
+        <item quantity="other">%2$s  %1$d öğe silinsin mi?</item>
+        <item quantity="one">%2$s  %1$d öğe silinsin mi?</item>
     </plurals>
     <plurals name="album_item_msg_format">
-        <item quantity="other">(Toplam %d öge)</item>
-        <item quantity="one">(Toplam %d öge)</item>
+        <item quantity="other">(Toplam %d öğe)</item>
+        <item quantity="one">(Toplam %d öğe)</item>
     </plurals>
     <plurals name="album_count">
         <item quantity="other">%d fotoğraf</item>
         <item quantity="one">%d fotoğraf</item>
     </plurals>
     <plurals name="album_count_and_size">
-        <item quantity="other">%1$d öge | %2$s</item>
-        <item quantity="one">%1$d öge | %2$s</item>
+        <item quantity="other">%1$d öğe | %2$s</item>
+        <item quantity="one">%1$d öğe | %2$s</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d fotoğraf yedekleme için bekliyor</item>
-        <item quantity="one">%1$d fotoğraf yedekleme için bekliyor</item>
+        <item quantity="other">%1$d fotoğraf yedeklenmeyi bekliyor</item>
+        <item quantity="one">1 fotoğraf yedeklenmeyi bekliyor</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d video yedekleme için bekliyor</item>
-        <item quantity="one">1 video yedekleme için bekliyor</item>
+        <item quantity="other">%1$d video yedeklenmeyi bekliyor</item>
+        <item quantity="one">1 video yedeklenmeyi bekliyor</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d öge yedekleme için bekliyor</item>
-        <item quantity="one">1 öge yedekleme için bekliyor</item>
+        <item quantity="other">%1$d öğe yedeklenmeyi bekliyor</item>
+        <item quantity="one">1 iöğe yedeklenmeyi bekliyor</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">%1$d fotoğraf yedekleniyor</item>
-        <item quantity="one">Fotoğraf yedekleniyor</item>
+        <item quantity="other">%1$d fotoğraf yedekleniyor…</item>
+        <item quantity="one">Fotoğraf yedekleniyor…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">%1$d video yedekleniyor</item>
-        <item quantity="one">Video yedekleniyor</item>
+        <item quantity="other">%1$d video yedekleniyor…</item>
+        <item quantity="one">Video yedekleniyor…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">%1$d öge yedekleniyor</item>
-        <item quantity="one">1 öge yedekleniyor</item>
+        <item quantity="other">%1$d öğe yedekleniyor…</item>
+        <item quantity="one">Öğe yedekleniyor…</item>
     </plurals>
 </resources>
