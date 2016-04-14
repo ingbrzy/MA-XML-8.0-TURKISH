@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">%1$s mesaj silinsin mi?</item>
-        <item quantity="one">Bu mesaj silinsin mi?</item>
+        <item quantity="other">Seçilmiş %1$s görüşmeler silinsin mi?</item>
+        <item quantity="one">Bu görüşme silinsin mi?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s saniye</item>
@@ -15,8 +15,8 @@
         <item quantity="few">%s saniye</item>
     </plurals>
     <plurals name="search_results_title">
-        <item quantity="other">%2$s araması için %1$s adet sonuç</item>
-        <item quantity="one">%2$s araması için %1$s adet sonuç</item>
+        <item quantity="other">\"%2$s\ için %1$s sonuç"</item>
+        <item quantity="one">\"%2$s\ için %1$s sonuç"</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s kişi</item>
@@ -28,8 +28,8 @@
         <item quantity="one">1 mesaj</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%d mesaj senkronize edilmemiş</item>
-        <item quantity="one">1 mesaj senkronize edilmemiş</item>
+        <item quantity="other">"%d mesaj eşitlenemedi"</item>
+        <item quantity="one">"1 mesaj eşitlenemedi"</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s mesaj</item>
