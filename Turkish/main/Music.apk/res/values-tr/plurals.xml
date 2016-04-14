@@ -5,10 +5,10 @@
         <item quantity="one">%d şarkı bulundu</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">Bu ay %d adet premium şarkı indirebilirsiniz. Daha fazla şarkı indirmek için premium hesabınızı yükseltin</item>
+        <item quantity="other">"Sadece bu ay %d Ayrıcalıklı Şarkı indirebilirsiniz. Daha fazla indirmek için Ayrıcalıklı Şarkı Paketi yükseltin."</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">Bu ay %d adet premium şarkı indirebilirsiniz. Seçili şarkıları indirmek istiyor musunuz?</item>
+        <item quantity="other">" Sadece bu ay %d Ayrıcalıklı Şarkı indirebilirsiniz. Yine de seçilmiş şarkılar indirilsin mi?"</item>
     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">%d gün kaldı</item>
@@ -20,19 +20,19 @@
     </plurals>
     <plurals name="NPlaylist_delete_confirm">
         <item quantity="other">%d çalma listesi silinsin mi?</item>
-        <item quantity="one"> %d çalma listesi silinsin mi?</item>
+        <item quantity="one">%d çalma listesi silinsin mi?</item>
     </plurals>
     <plurals name="Nnew_tracks_count">
-        <item quantity="other">%d yeni</item>
-        <item quantity="one">1 yeni</item>
+        <item quantity="other">%d şarkı listeye eklendi</item>
+        <item quantity="one">1 şarkı listeye eklendi</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">%d şarkı</item>
-        <item quantity="one">%d şarkı</item>
+        <item quantity="other">%d şarkı listeden kaldırıldı</item>
+        <item quantity="one">1 şarkı listeden kaldırıldı</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d adet benzer şarkı</item>
-        <item quantity="one">%d adet benzer şarkı</item>
+        <item quantity="other">%d benzer şarkı</item>
+        <item quantity="one">%d benzer şarkı</item>
     </plurals>
     <plurals name="Nartists_count">
         <item quantity="other">%d sanatçı</item>
@@ -51,20 +51,20 @@
         <item quantity="one">%d şarkı kaldırılsın mı?</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d şarkı çalma listesine eklendi</item>
-        <item quantity="one">Şarkı çalma listesine eklendi</item>
+        <item quantity="other">%d şarkı listesine eklendi</item>
+        <item quantity="one">Şarkı listesine eklendi</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d şarkı çalma listesinden kaldırıldı</item>
-        <item quantity="one">Şarkı çalma listesinden kaldırıldı</item>
+        <item quantity="other">%d şarkı çalma listesinden kaldırılır</item>
+        <item quantity="one">Şarkı çalma listesinden kaldırılır</item>
     </plurals>
     <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d şarkı</item>
         <item quantity="one">1 şarkı</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">Oyunatma %d dakika içinde durdurulacak</item>
-        <item quantity="one">Oyunatma %d dakika içinde durdurulacak</item>
+        <item quantity="other">Oynatıcı %d dakika içinde durur</item>
+        <item quantity="one">Oynatıcı %d dakika içinde durur</item>
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d şarkı gönderilecek</item>
@@ -75,15 +75,15 @@
         <item quantity="one">1 şarkı</item>
     </plurals>
     <plurals name="Nnew_local_audios">
-        <item quantity="other">%d adet şarkı eklendi</item>
+        <item quantity="other">%d şarkı eklendi</item>
         <item quantity="one">%d şarkı eklendi</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">%d öge seçildi</item>
-        <item quantity="one">%d öge seçildi</item>
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">Şarkı favorilendi</item>
-        <item quantity="one">Şarkı favorilendi</item>
+        <item quantity="other">Şarkı Favori olarak oylandı.</item>
+        <item quantity="one">Şarkı Favori olarak oylandı.</item>
     </plurals>
 </resources>
