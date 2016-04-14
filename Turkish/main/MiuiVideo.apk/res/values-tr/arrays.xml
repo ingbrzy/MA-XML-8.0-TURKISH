@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="server_list_entries">
-        <item>Test sunucu</item>
-        <item>Çevrimiçi sunucu</item>
+        <item>Test Sunucusu</item>
+        <item>Çevrimiçi Sunucu</item>
     </string-array>
     <string-array name="server_list_entries_value">
         <item>mv.mitvos.com</item>
         <item>mvideo.duokanbox.com</item>
     </string-array>
     <string-array name="version_list_entries">
-        <item>Kararlı sürüm</item>
-        <item>Geliştirici sürüm</item>
+        <item>Stabil Sürüm</item>
+        <item>Geliştirici Sürüm</item>
     </string-array>
     <string-array name="version_list_entries_value">
         <item>90</item>
