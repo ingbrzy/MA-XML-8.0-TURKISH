@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="tags_description">
+        <item quantity="other">uygulama</item>
+        <item quantity="one">uygulama</item>
+    </plurals>
+    <plurals name="play_description">
+        <item quantity="other">görev</item>
+        <item quantity="one">görev</item>
+    </plurals>
+    <plurals name="history_description">
+        <item quantity="other">records</item>
+        <item quantity="one">record</item>
+    </plurals>
+    <plurals name="select_n_item">
+        <item quantity="other">%d seçildi</item>
+        <item quantity="zero">Öğeleri seç</item>
+        <item quantity="one">%d seçildi</item>
+    </plurals>
+</resources>
