@@ -32,8 +32,8 @@
         <item>LowBattery.ogg</item>
     </string-array>
     <string-array name="audio_effect_file_showing_names">
-        <item>Lock</item>
-        <item>Unlock</item>
+        <item>Kilitli</item>
+        <item>Kilitsiz</item>
         <item>EffectTick</item>
         <item>KeypressDelete</item>
         <item>KeypressReturn</item>
@@ -55,6 +55,6 @@
         <item>LowBattery</item>
     </string-array>
     <string-array name="disable_package_replacement">
-        <item>paket adı devre dışı</item>
+        <item>kapalı paket adı</item>
     </string-array>
 </resources>
