@@ -12,31 +12,31 @@
   <string name="declaration_title">Hükümler ve Koşullar</string>
   <string name="hour_1">Her saatte</string>
   <string name="hour_3">Her 3 saatte bir</string>
-  <string name="lockscreen_magazine_summary">Her gün kilit ekranına sabit olarak verilen duvar kağıtlarını al.</string>
-  <string name="lockscreen_magazine_system_title">Varsayılan</string>
+  <string name="lockscreen_magazine_summary">Kategoriler</string>
+  <string name="lockscreen_magazine_system_title">Çevrimdışı</string>
   <string name="lockscreen_magazine_title">Günlük Kilit Ekranı</string>
   <string name="minutes_15">15 dakikada</string>
   <string name="no_long_show">"Tekrar gösterme"</string>
-  <string name="ok_international">Tamam</string>
+  <string name="ok_international">Kabul</string>
   <string name="ok_lockscreen">Tamam</string>
-  <string name="ok_network">Kabul et ve aç</string>
+  <string name="ok_network">Kabul</string>
   <string name="resource_apply">Uygula</string>
   <string name="resource_no_network_text">"Ağa bağlanamıyor."</string>
   <string name="setting_head">Ayarlar</string>
-  <string name="sst_favor_desc">Favori duvar kağıtlarını kontrol et</string>
+  <string name="sst_favor_desc">Favori duvar kağıtlarını görüntüle</string>
   <string name="sst_favor_title">Favoriler</string>
   <string name="sst_grid_view_select_all">Hepsi</string>
   <string name="sst_grid_view_unselect_all">Vazgeç</string>
-  <string name="sst_no_favor_wallpaper_hint">Favori duvar kağıtları yok</string>
-  <string name="sst_prov_enable_desc">Kilit ekranında daha güzel duvar kağıtlarının tadını çıkarın</string>
+  <string name="sst_no_favor_wallpaper_hint">Favorilerde duvar kağıdı yok</string>
+  <string name="sst_prov_enable_desc">Kilit ekranında sürekli değişen duvar kağıtları olsun</string>
   <string name="sst_prov_enable_title">Duvar kağıdı döngüsünü etkinleştir</string>
-  <string name="sst_require_one_category_hint">En az bir öğeye abone olun</string>
-  <string name="sst_sti_desc">Kilit ekranı duvar kağıdı geçişi için belirli bir süre ayarlayın</string>
-  <string name="sst_sti_title">Zaman Aralığı Değiştir</string>
-  <string name="sst_subscribe_title">Abone Ol</string>
-  <string name="sst_wifi_only_desc">Mobil veri tasarrufu için devre dışı bırakın</string>
-  <string name="sst_wifi_only_title">Ölçülü Mobil Bağlantı ile Resmi İndirmeyi etkinleştir</string>
-  <string name="summary">"&lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Kullanım Koşulları &lt;/a&gt; ve &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt; Gizlilik Politikasını &lt;/a&gt; kabul edip başlayabilmeniz için internet bağlantısına ihtiyacınız var.​"</string>
+  <string name="sst_require_one_category_hint">En az bir öğeye kategori seçin</string>
+  <string name="sst_sti_desc">Kilit ekranı duvar kağıdı geçiş süresini ayarlayın</string>
+  <string name="sst_sti_title">Güncelleme Sıklığı</string>
+  <string name="sst_subscribe_title">Kategorilerim</string>
+  <string name="sst_wifi_only_desc">Bu özelliği kapatırsanız, mobil veri tasarrufu sağlarsınız</string>
+  <string name="sst_wifi_only_title">Mobil veri kullanarak duvar kağıtlarını güncelle</string>
+    <string name="summary_international">"Bu ürünü kullanmakla, şunu kabul etmiş olursunuz: &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Kullanıcı Sözleşmesi&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Gizlilik Politikası&lt;/a&gt;. Bu uygulamanın normal bir şekilde çalışması için internete bağlanması gerekiyor."</string>
   <string name="summary_international">"Bu ürünü kullanmakla, şunu kabul etmiş olursunuz: &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Kullanıcı Sözleşmesi&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Gizlilik Politikası&lt;/a&gt;. Bu uygulamanın normal bir şekilde çalışması için internete bağlanması gerekiyor."</string>
   <string name="theme_apply_failured">"Kilit ekranı duvar kağıdı uygulanamıyor"</string>
   <string name="theme_apply_success">Kilit ekranına uygulandı</string>
