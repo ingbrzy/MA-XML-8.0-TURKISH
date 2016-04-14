@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="power_config_ultimate_on_count">
-        <item quantity="other">En yüksek seçeneği açmaya %1$d adım uzaklıktasın</item>
-        <item quantity="one">En yüksek seçeneği açmaya %1$d adım uzaklıktasın</item>
+        <item quantity="other">Ultimate Moduna geçmek için %1$d adım uzaktasınız</item>
+        <item quantity="one">Ultimate Moduna geçmek için %1$d adım uzaktasınız</item>
     </plurals>
     <plurals name="power_config_ultimate_off_count">
-        <item quantity="other">En yüksek seçeneği kapatmaya %1$d adım uzaklıktasın</item>
-        <item quantity="one">En yüksek seçeneği kapatmaya %1$d adım uzaklıktasın</item>
+        <item quantity="other">Ultimate Modunu kapatmak için %1$d adım uzaktasınız</item>
+        <item quantity="one">Ultimate Modunu kapatmak için %1$d adım uzaktasınız</item>
     </plurals>
     <plurals name="power_config_ultimate_unlock_count">
-        <item quantity="other">Tüm ögelerin kilidi açmaya %1$d adım uzaklıktasın</item>
-        <item quantity="one">Tüm ögelerin kilidi açmaya %1$d adım uzaklıktasın</item>
+        <item quantity="other">Tüm öğelerin kilidini açmak için %1$d adımı tamamlayın</item>
+        <item quantity="one">Tüm öğelerin kilidini açmak için %1$d adımı tamamlayın</item>
     </plurals>
 </resources>
