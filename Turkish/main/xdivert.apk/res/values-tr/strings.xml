@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="close_dialog">Tamam</string>
+  <string name="error_updating_title">Çağrı ayarları hatası</string>
+  <string name="exception_error">Ağ veya SIM kart hatası.</string>
+  <string name="fdn_check_failure">"Telefon uygulamasının Sabit Arama Numaraları ayarı açık. Sonuç olarak, bazı aramayla ilgili özellikler çalışmıyor."</string>
+  <string name="phone_numbers">Telefon Numarasını Girin</string>
+  <string name="proceed">İlerledi</string>
+  <string name="radio_off_error">Bu ayarları görüntülemeden önce radyoyu açın.</string>
+  <string name="reading_settings">Ayarlar okunuyor…</string>
+  <string name="response_error">Ağdan beklenmeyen yanıt.</string>
+  <string name="reverting_settings">Ayarlara dönülüyor...</string>
+  <string name="set_subscription_error_atleast_one">En az bir abonelik seçin</string>
+  <string name="sub1LineNumber">Sub1 Numarası:</string>
+  <string name="sub2LineNumber">Sub2 Numarası:</string>
+  <string name="sub_1">SUB 1</string>
+  <string name="sub_2">SUB 2</string>
+  <string name="sub_3">SUB 3</string>
+  <string name="sum_xdivert_disabled">X-Yönlendirme devre dışı</string>
+  <string name="sum_xdivert_enabled">X-Yönlendirme etkin</string>
+  <string name="updating_settings">Ayarlar güncelleniyor…</string>
+  <string name="updating_title">Çağrı Ayarları</string>
+  <string name="xdivert_active">Aktif</string>
+  <string name="xdivert_button">X-Yönlendirme Ayarları</string>
+  <string name="xdivert_enternumber_error">Her iki abonelik için telefon numarasını girin</string>
+  <string name="xdivert_imsi_not_read">SIM başlatılamadı. Daha sonra tekrar deneyin.</string>
+  <string name="xdivert_not_active">Aktif değil</string>
+  <string name="xdivert_not_supported">X-Yönlendirme CDMA için desteklenmiyor</string>
+  <string name="xdivert_partial_set">X-Yönlendirme sadece 1 abonelik için ayarlandı</string>
+  <string name="xdivert_setting">X-Yönlendirme Ayarı</string>
+  <string name="xdivert_status">X-Yönlendirme Durumu</string>
+  <string name="xdivert_sub_absent">Her iki aboneliği işlemek için X-Yönlendirme etkin olmalıdır.</string>
+  <string name="xdivert_summary">Ulaşılmadığında çağrıyı yönlendir</string>
+  <string name="xdivert_title">X-Yönlendirme</string>
+</resources>
