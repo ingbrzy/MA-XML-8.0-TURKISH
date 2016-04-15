@@ -112,7 +112,7 @@
   <string name="dlg_remove_whitelist_content">Bu numara istisnalar listesinden kaldırılsın mı?</string>
   <string name="dlg_remove_whitelist_ing">Kaldırılıyor...</string>
   <string name="dlg_remove_whitelist_title">Kaldır</string>
-  <string name="dlg_retore">Mesaj Gelen Kutusu\'na geri yüklensin mi?</string>
+  <string name="dlg_retore">Mesaj, Gelen Kutusu\'na geri yüklensin mi?</string>
   <string name="dlg_retore_ok">Geri Yükle</string>
   <string name="dlg_title_not_open_stranger_identify">Bilinmeyenleri Tanımla</string>
   <string name="dlg_white_address_antispam_message">Bu konum istisnalar listesine eklensin mi?</string>
@@ -282,7 +282,7 @@
   <string name="st_message_phonepass">Çağrılara izin ver</string>
   <string name="st_mute_all">Çağrıları ve mesajları sessize al</string>
   <string name="st_mute_block">Çağrıları sessize al ve mesajları engelle</string>
-  <string name="st_mute_title">Zil Sesi Çal veya Titret</string>
+  <string name="st_mute_title">Zili Çal veya Titret</string>
   <string name="st_other_setting_group">Diğer Ayarlar</string>
   <string name="st_settings_name">Kara Liste Ayarları</string>
   <string name="st_show_block_notification">Engelleme bildirimi göster</string>
@@ -303,7 +303,7 @@
   <string name="st_title_back_sound_busy">Meşgul</string>
   <string name="st_title_back_sound_choose">Dışarda Mesajı</string>
   <string name="st_title_back_sound_closed">Telefon Kapalı</string>
-  <string name="st_title_back_sound_none">Numara Kullanımda Değil</string>
+  <string name="st_title_back_sound_none">"Numara kullanımda değil"</string>
   <string name="st_title_back_sound_stop">Numara Servis Dışı</string>
   <string name="st_title_backsound_group">Dışarda Mesajı</string>
   <string name="st_title_blacklist_numbers">Engellenen numaralar</string>
