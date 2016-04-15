@@ -21,7 +21,7 @@
   <string name="allow">İzin Ver</string>
   <string name="app_label">Sarı Sayfalar</string>
   <string name="app_recommendation_install">Yükle</string>
-  <string name="average_price">Yaklaşık %d RMB</string>
+  <string name="average_price">Yaklaşık %d Yuan</string>
   <string name="back">Geri</string>
   <string name="balance_inquiry_send_sms_fail_hint">"Bakiye alınamadı"</string>
   <string name="balance_inquiry_send_sms_hint">Bir SMS gönderilerek operatörden bakiye durumunuz alınır.</string>
@@ -30,7 +30,7 @@
   <string name="call">Çağrı</string>
   <string name="callNoAnswerTimeFormat">%s kez çaldı</string>
   <string name="callrecordview_item_newcontact">Yeni Kişi</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">%1$d dak %2$d san</string>
+  <string name="callrecordview_item_op_time_minutes_seconds">%1$d dk %2$d sn</string>
   <string name="callrecordview_item_op_time_missed">Bağlanmadı</string>
   <string name="callrecordview_item_op_time_only_minutes">%d dk</string>
   <string name="callrecordview_item_op_time_only_seconds">%d sn</string>
@@ -49,7 +49,7 @@
   <string name="contact_detail_calllog_call_record_tips">Kaydedilen Çağrılar</string>
   <string name="content_desc_send_sms">SMS Gönder</string>
   <string name="coupon_bought_count">%d satın al</string>
-  <string name="currency_character">RMB</string>
+  <string name="currency_character">Yuan</string>
   <string name="custom_mark_category">Özel</string>
   <string name="data_error">Bir hata oluştu</string>
   <string name="data_error_show">Bir hata oluştu</string>
@@ -72,7 +72,7 @@
   <string name="express_add_new_address">Adres ekle</string>
   <string name="express_address_delete_warning">Bu adres silinsin mi?</string>
   <string name="express_address_deleted">Adres silindi</string>
-  <string name="express_address_info">Adres bilgisi</string>
+  <string name="express_address_info">Adres Bilgisi</string>
   <string name="express_address_name">Adı</string>
   <string name="express_address_region">Bölge</string>
   <string name="express_address_warning_no_area">Bölge gerekli</string>
@@ -82,7 +82,7 @@
   <string name="express_addressee_info">Adres bilgisi</string>
   <string name="express_addressee_name">Adres adı</string>
   <string name="express_addressee_region">Adres yeri</string>
-  <string name="express_banner_header">%1$s / Takip numarası</string>
+  <string name="express_banner_header">%1$s / Takip Numarası</string>
   <string name="express_cancel_order">İptal</string>
   <string name="express_company_list_empty">Şirket yok</string>
   <string name="express_company_phone_prefix">"Kişi: "</string>
@@ -101,8 +101,8 @@
   <string name="express_field_empty">Boş</string>
   <string name="express_go_back">Geri</string>
   <string name="express_info_divider">" / "</string>
-  <string name="express_inqiury_select_logistics">Kurye servisi</string>
-  <string name="express_inquiry">Takip</string>
+  <string name="express_inqiury_select_logistics">Kurye Servisi</string>
+  <string name="express_inquiry">İzleniyor</string>
   <string name="express_inquiry_button_text">Takip et</string>
   <string name="express_inquiry_clipboard_number_message">Takip kopyası izlensin mi?</string>
   <string name="express_inquiry_data_owner_prefix">"Takip bilgisini sağlayan: "</string>
@@ -117,7 +117,7 @@
   <string name="express_inquiry_internal_failure">"Bir hata oluştu.
 Takip numarasını kontrol edin."</string>
   <string name="express_inquiry_logistics">Bir kurye hizmeti seçin</string>
-  <string name="express_inquiry_logistics_prefix">Kurye servisi: %s</string>
+  <string name="express_inquiry_logistics_prefix">Kurye Servisi: %s</string>
   <string name="express_inquiry_logistics_select_others_indication">Diğer</string>
   <string name="express_inquiry_no_history">Geçmiş yok</string>
   <string name="express_inquiry_no_result">Sonuç yok</string>
@@ -125,7 +125,7 @@ Takip numarasını kontrol edin."</string>
   <string name="express_inquiry_number_invalid">"Geçersiz araştırma numarası.
 Takip numarasını kontrol edin."</string>
   <string name="express_inquiry_provider_info">"Destekleyen: "</string>
-  <string name="express_inquiry_serial_number_indication">Takip numarası</string>
+  <string name="express_inquiry_serial_number_indication">Takip Numarası</string>
   <string name="express_inquiry_serial_number_prefix">Numara: %s</string>
   <string name="express_inquiry_trace">Takip et</string>
   <string name="express_inquiry_trace_device_login_notice">"Başka bir cihazda bu hizmeti kullanıyoruz. Bu cihazdan sipariş durumunu almak istiyorsanız, Mi Hesabınızı doğrulamanız gerekir."</string>
@@ -137,7 +137,7 @@ Takip numarasını kontrol edin."</string>
   <string name="express_no_address">Boş</string>
   <string name="express_no_order">Sipariş yok</string>
   <string name="express_no_order_info">Sipraiş bilgisi yok</string>
-  <string name="express_order_confirmation">Sipariş onayı</string>
+  <string name="express_order_confirmation">Sipariş Onayı</string>
   <string name="express_order_failed">Başarısız</string>
   <string name="express_order_ongoing">Sipariş veriliyor...</string>
   <string name="express_order_result">Sonuç</string>
@@ -160,21 +160,21 @@ Takip numarasını kontrol edin."</string>
   <string name="express_order_success_hint">%s sipariş teslim olacak</string>
   <string name="express_phone">Telefon</string>
   <string name="express_preview_order">Önizle</string>
-  <string name="express_region_pick_title">Bölgeyi seç</string>
+  <string name="express_region_pick_title">Bölgeyi Seç</string>
   <string name="express_select_address">Adres</string>
   <string name="express_select_addressee">Şuna:</string>
   <string name="express_select_city">Şehri Seç</string>
   <string name="express_select_sender">Şundan:</string>
   <string name="express_send">Nakil</string>
   <string name="express_send_mms">Gönder</string>
-  <string name="express_send_mms_format">Paket teslimi: %1$s | Takip numarası: %2$s</string>
+  <string name="express_send_mms_format">Paket Teslimi: %1$s | Takip Numarası: %2$s</string>
   <string name="express_send_notice">Yasaklanmış ürün</string>
   <string name="express_sender_info">Gönderen bilgisi</string>
-  <string name="express_sender_name">Gönderen adı</string>
-  <string name="express_sender_region">Gönderici yeri</string>
+  <string name="express_sender_name">Gönderen:</string>
+  <string name="express_sender_region">Gönderenin Yeri:</string>
   <string name="express_submit_order">Gönder</string>
   <string name="express_track_order">Takip et</string>
-  <string name="express_tracking_number">Takip numarası</string>
+  <string name="express_tracking_number">Takip Numarası</string>
   <string name="express_urge_order">Ping</string>
   <string name="express_view_order">Siparişleri görüntüle</string>
   <string name="express_view_status">Takip et</string>
@@ -214,7 +214,7 @@ Takip numarasını kontrol edin."</string>
   <string name="group_name_title"/>
   <string name="hms_no_subject_view">(konusuz)</string>
   <string name="hms_notification">Mesajlar</string>
-  <string name="homepage_barcode_prompt">Ana Sayfa açmak için tara.</string>
+  <string name="homepage_barcode_prompt">Ana Sayfaya açmak için tara.</string>
   <string name="info_divider">|</string>
   <string name="locating_fail">"Konumunuz bulunamadı"</string>
   <string name="login_before_use">Önce oturum açmalısınız</string>
@@ -232,7 +232,7 @@ Takip numarasını kontrol edin."</string>
   <string name="mark_title_null_hint">Etiketi girin</string>
   <string name="menu_add_black_list">Kara Listeye ekle</string>
   <string name="menu_add_to_favorite">Favoriler</string>
-  <string name="menu_call_ip_number">IP aramasını çevirin</string>
+  <string name="menu_call_ip_number">IP aramasını çevir</string>
   <string name="menu_copy_text">Panoya kopyala</string>
   <string name="menu_correct_yellow_page">Bir sorun bildir</string>
   <string name="menu_delete_call_log">Çağrı geçmişini sil</string>
@@ -243,7 +243,7 @@ Takip numarasını kontrol edin."</string>
   <string name="menu_remove_from_favorite">Favorilerden çıkar</string>
   <string name="menu_save_contact">Numarayı kişilere kaydet</string>
   <string name="menu_unfollow_yellow_page">Takip etme</string>
-  <string name="minimum_price">%d RMB azami</string>
+  <string name="minimum_price">Asgari %d Yuan</string>
   <string name="mishop_web_payment_title">Mi Mağaza ödemesi</string>
   <string name="miuishare_account_activate_confirmation">Etkinleştirme gerekiyor</string>
   <string name="miuishare_account_activate_ok">Etkinleştir</string>
@@ -252,14 +252,14 @@ Takip numarasını kontrol edin."</string>
   <string name="miuishare_account_login_ok">Oturum Aç</string>
   <string name="miuishare_account_need_activate">Weibo Paylaşımlı Weibo hesabı şu anda etkinleştirilmedi, Xiaomi hesabına bağlanması gerektiriyor. Hesabınızı etkinleştirilsin mi?</string>
   <string name="miuishare_account_need_login">Weibo Paylaşımlı Weibo hesabı şu anda etkinleştirilmedi, Xiaomi hesabına oturum açılması gerekiyor. Şimdi paylaşım için oturum açılsın mı?</string>
-  <string name="miuishare_app_name">Miui Paylaş</string>
-  <string name="miuishare_no_network">Paylaşım ağı yok</string>
+  <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_no_network">Paylaşılacak ağ yok</string>
   <string name="miuishare_publish">Gönder</string>
   <string name="miuishare_share_done">Paylaşım içeriğini gönder.</string>
   <string name="miuishare_share_editor_title">Paylaş</string>
   <string name="miuishare_title_more">Fazlası</string>
   <string name="miuishare_title_share">Paylaş</string>
-  <string name="miuishare_wechat_timeline_title">Wechat Zaman Çizelgesi</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Zaman Planlaması</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="more_coupons">Tüm kuponlar</string>
   <string name="navigation_search_all_cities">Tüm şehirler</string>
@@ -269,13 +269,13 @@ Takip numarasını kontrol edin."</string>
   <string name="navigation_search_no_city_list">"Bir şey bulamadık"</string>
   <string name="navigation_search_positioning">Yer saptanıyor…</string>
   <string name="navigation_search_positioning_failed">Şehri seç</string>
-  <string name="nearby_average_price">Yaklaşık %d RMB</string>
+  <string name="nearby_average_price">Yaklaşık %d Yuan</string>
   <string name="nearby_no_yellow_page">Yakınlarda sonuç yok</string>
   <string name="nearby_yellow_page_title">Yakınlarda</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_access_denied">Ağ erişimi engellendi</string>
   <string name="network_unavaliable">"Ağa bağlanamıyor"</string>
-  <string name="no_brief">Sonuçsuz</string>
+  <string name="no_brief">Sonuç yok</string>
   <string name="no_evaluation">Değerlendirme yok</string>
   <string name="no_more_result">Sonuçsuz</string>
   <string name="no_price">Fiyat bilgisi yok</string>
@@ -291,7 +291,7 @@ Takip numarasını kontrol edin."</string>
   <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">Sipariş yok</string>
   <string name="order_price_label">Sipariş fiyatı: %1$s</string>
-  <string name="order_product_name_label">Ürün adı: %1$s</string>
+  <string name="order_product_name_label">Ürün Adı: %1$s</string>
   <string name="order_status_label">Sipariş durumu: %1$s</string>
   <string name="order_type_recharge">Kontör</string>
   <string name="packages_no_package">Önerilen paket yok</string>
@@ -310,23 +310,23 @@ Takip numarasını kontrol edin."</string>
   <string name="payment_unknown_status_title">"Ödeme durumu teyit edilemedi"</string>
   <string name="phone_event_setting_notice_text">"Bu özelliği kullanarak %1$s ve %2$s kabul etmiş olursunuz."</string>
   <string name="phone_info_divider">" ｜ "</string>
-  <string name="photo_count">%d toplam</string>
+  <string name="photo_count">Toplam: %d</string>
   <string name="pull_to_refresh_pull_label">Yenilemek için çekin...</string>
   <string name="pull_to_refresh_refreshing_label">Biraz bekleyin...</string>
   <string name="pull_to_refresh_release_label">Bırakıp yenileyin...</string>
   <string name="quick_yellow_page_tab_call_log">Çağrı geçmişi</string>
   <string name="quick_yellow_page_tab_phones">Telefon</string>
   <string name="recharge_actual_price">Ücret:</string>
-  <string name="recharge_charge_range">Ücret: RMB %1$s-%2$s</string>
-  <string name="recharge_charge_value">Ücret: RMB %s</string>
+  <string name="recharge_charge_range">Ücret: %1$s-%2$s Yuan</string>
+  <string name="recharge_charge_value">Ücret: %s Yuan</string>
   <string name="recharge_follow_name">Kontör</string>
   <string name="recharge_history">Kontör geçmişi</string>
   <string name="recharge_history_empty">Boş</string>
   <string name="recharge_input_phone_title">Telefon numarasını girin (China Mobile, China Unicom veya China Telecom)</string>
   <string name="recharge_my_phone_number">Numaram</string>
-  <string name="recharge_order_actual_price">¥%s</string>
+  <string name="recharge_order_actual_price">%s ¥</string>
   <string name="recharge_order_id">Sipariş #:</string>
-  <string name="recharge_order_original_price">RMB %s</string>
+  <string name="recharge_order_original_price">%s Yuan</string>
   <string name="recharge_order_pay">Öde</string>
   <string name="recharge_pay">Şimdi Kontör al</string>
   <string name="recharge_pay_hint_license">Kontör uyarısı</string>
@@ -334,7 +334,7 @@ Takip numarasını kontrol edin."</string>
   <string name="recharge_payment_result_failed_summary">Tekrar Dene</string>
   <string name="recharge_payment_result_failed_title">"Kontör alınamadı"</string>
   <string name="recharge_payment_result_ok_summary">Bu tutarın bakiyeye yansıtıldığından emin olun.</string>
-  <string name="recharge_payment_result_ok_title">RMB %s eklendi</string>
+  <string name="recharge_payment_result_ok_title">%s Yuan eklendi</string>
   <string name="recharge_payment_result_progress_summary">Ödeme sonucu denetleniyor....</string>
   <string name="recharge_phone">Kontör numarası:</string>
   <string name="recharge_phone_format">%1$s / %2$s</string>
@@ -344,17 +344,17 @@ Takip numarasını kontrol edin."</string>
   <string name="recharge_status_description">Durum:</string>
   <string name="recharge_title">Kontör</string>
   <string name="recharge_unknown_number">Bilinmiyor</string>
-  <string name="recharge_user_confirm_summary">"RMB %2$s ile %1$s arasında ödeme yapılabilir.
+  <string name="recharge_user_confirm_summary">"Yuan %2$s ile %1$s arasında ödeme yapılabilir.
 
-Toplam: RMB %3$s"</string>
-  <string name="recharge_user_confirm_title">Kontör bilgisi</string>
+Toplam: %3$s Yuan"</string>
+  <string name="recharge_user_confirm_title">Kontör Bilgisi</string>
   <string name="refresh">Yenile</string>
   <string name="remember_preference">Seçenekleri hatırla</string>
   <string name="remind_another_time">"Tekrar gösterme"</string>
   <string name="remind_user_confirm">Tamam</string>
   <string name="remind_user_suspect_number_message">Dikkatli olun: Her zaman kişisel bilgilerinizi paylaşmadan önce telefonla veya video ile arayanın kimliğini doğrulayın.</string>
-  <string name="remind_user_suspect_number_title">Şüpheli sayısı</string>
-  <string name="rmb">RMB</string>
+  <string name="remind_user_suspect_number_title">Şüpheli Sayısı</string>
+  <string name="rmb">Yuan</string>
   <string name="scan">Tara</string>
   <string name="select_package_before_buy">Paketi Seç</string>
   <string name="send_shortcut_failed">"Gönderilemedi"</string>
@@ -363,8 +363,8 @@ Toplam: RMB %3$s"</string>
   <string name="service_unavailiable">Hizmet mevcut değil</string>
   <string name="share">Paylaş</string>
   <string name="shop_recommendation_format">%1$s: %2$s</string>
-  <string name="sim1">Sim 1</string>
-  <string name="sim2">Sim 2</string>
+  <string name="sim1">SIM 1</string>
+  <string name="sim2">SIM 2</string>
   <string name="sina_share_fail">Gönderilemedi</string>
   <string name="sina_share_fail_content_repeat">"Paylaşılamadı, içerik zaten var..."</string>
   <string name="sina_share_pendding">Gönderiliyor…</string>
@@ -407,5 +407,5 @@ Toplam: RMB %3$s"</string>
   <string name="yellowpage_navigation_network_location_enable_later">Şimdi değil</string>
   <string name="yellowpage_navigation_network_location_enabled">Konum erişimi açıktır. Ayarlar bölümünden istediğiniz zaman kapatabilirsiniz.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Sarı Sayfaların konum bilgilerine erişmesine izin vererek arama sonuçlarını iyileştir</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_title">Konum erişimi</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Konum Erişimi</string>
 </resources>
