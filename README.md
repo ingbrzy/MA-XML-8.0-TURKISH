@@ -1,5 +1,5 @@
 MIUI V7.X TR XML
-(Translating 6.4.7 Developer)
+(Translating 6.4.14 Developer)
 ==============================
 
 MIUI Turkish Translation: (MIUI Turkish Team)
