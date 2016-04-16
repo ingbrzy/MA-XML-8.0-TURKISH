@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Güvenlik hizmeti eklentisi</string>
+  <string name="app_name">Güvenlik Hizmeti Eklentisi</string>
   <string name="app_not_installed_toast">"Uygulama cihazınızda yüklü değil."</string>
   <string name="cancel_button">İptal</string>
   <string name="empty">" "</string>
@@ -15,7 +15,7 @@
   <string name="month_report_follow_service_negative">Hayır, Teşekkürler</string>
   <string name="month_report_follow_service_positive">Takip Et</string>
   <string name="month_report_follow_service_summary">"MIUI Güvenlik uygulaması resmi hesabını takip ederek güvenlik haberlerini ve bilgilerini alıp güncel kalın."</string>
-  <string name="month_report_follow_service_title">Güvenlik güncelleştirmeleri</string>
+  <string name="month_report_follow_service_title">Güvenlik Güncelleştirmeleri</string>
   <string name="month_report_history_activity_label">Rapor geçmişi</string>
   <string name="month_report_network_dialog_description">Bu uygulamaya bilgilerin raporunu almak için internete bağlanma izni verilsin mi?</string>
   <string name="month_report_network_dialog_positive">İzin Ver</string>
@@ -25,12 +25,12 @@
   <string name="month_report_share_loading">Biraz bekleyin...</string>
   <string name="month_report_warning_dialog_description">"Aylık raporunu görüntülemek için, Güvenlik uygulamasının Ayarlar bölümünde bu özelliği aç."</string>
   <string name="month_report_warning_dialog_positive">Açık</string>
-  <string name="month_report_warning_dialog_title">Aylık güvenlik raporu</string>
+  <string name="month_report_warning_dialog_title">Aylık Güvenlik Raporu</string>
   <string name="network_not_available">"Ağa bağlanamıyor"</string>
   <string name="no_network_btn">Tekrar deneyin</string>
   <string name="ok_button">Tamam</string>
   <string name="open_browser">Tarayıcıda aç</string>
-  <string name="pm_lable_name">Root erişimi hakkında</string>
+  <string name="pm_lable_name">Root Erişimi hakkında</string>
   <string name="privacy_declare_dialog_title">Hizmet Şartları</string>
   <string name="privacy_prompt_traffic_purchase_message">"Sizin telefon numarası ve taşıyıcı ayrıntıları şifrelenir ve veri alım seçenekleri hakkında daha fazla bilgi almak için Mi sunucularına yüklenir."</string>
   <string name="share">Paylaş</string>
