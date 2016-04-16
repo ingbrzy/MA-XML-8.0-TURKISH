@@ -47,6 +47,17 @@
         <item>XXL</item>
         <item>XXXL</item>
     </string-array>
+     <string-array name="tts_rate_entries">
+        <item>Çok Yavaş</item>
+        <item>Yavaş</item>
+        <item>Normal</item>
+        <item>Hızlı</item>
+        <item>Daha Hızlı</item>
+        <item>Çok Hızlı</item>
+        <item>Çabuk</item>
+        <item>Çarçabuk</item>
+        <item>Anı</item>
+    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Taranıyor...</item>
@@ -56,7 +67,7 @@
         <item>Bağlandı</item>
         <item>Askıya alındı</item>
         <item>Bağlantı kesiliyor...</item>
-        <item>Bağlantı Kesildi</item>
+        <item>Bağlantı kesildi</item>
         <item>Başarısız</item>
         <item>Engellendi</item>
         <item>Geçici zayıf bağlantıdan kaçının</item>
@@ -152,7 +163,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Yok</item>
         <item>Elle</item>
-        <item>Proxy Otomatik Yapılandırma</item>
+        <item>Proxy Otomatik Yapılandırması</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Yok</item>
@@ -308,11 +319,11 @@
         <item>Ses Odağı</item>
         <item>Esas Ses</item>
         <item>Ses Seviyesi</item>
-        <item>Zil Seviyesi</item>
-        <item>Ortam Seviyesi</item>
-        <item>Alarm Seviyesi</item>
-        <item>Bildirim Seviyesi</item>
-        <item>Bluetooth Seviyesi</item>
+        <item>Zil Sesi</item>
+        <item>Ortam Sesi</item>
+        <item>Alarm Sesi</item>
+        <item>Bildirim Sesi</item>
+        <item>Bluetooth Sesi</item>
         <item>Uyanık Kal</item>
         <item>Konum</item>
         <item>Konum</item>
@@ -850,6 +861,9 @@
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
     </string-array>
+    <string-array name="mi2_wifi_security"><item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+    </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
         <item>WAPI hexadecimal</item>
@@ -1102,6 +1116,24 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>WARM</item>
         <item>COLD</item>
     </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 inç</item>
+        <item>4.0 inç</item>
+        <item>3.5 inç</item>
+    </string-array>
+    <string-array name="handy_mode_size_value_entries">
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>3.5</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_values">
+        <item>0</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>900000</item>
+        <item>1800000</item>
+    </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Hemen</item>
         <item>1 dakika</item>
@@ -1130,6 +1162,14 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>1440</item>
         <item>720</item>
     </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+    </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>
@@ -1151,6 +1191,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>cr</item>
         <item>ci</item>
         <item>cu</item>
+        <item>cz</item>
         <item>dm</item>
         <item>do</item>
         <item>ec</item>
@@ -1202,6 +1243,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>py</item>
         <item>pe</item>
         <item>ph</item>
+        <item>pl</item>
         <item>qa</item>
         <item>ro</item>
         <item>ru</item>
@@ -1209,6 +1251,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>sa</item>
         <item>sn</item>
         <item>sg</item>
+        <item>sk</item>
         <item>so</item>
         <item>za</item>
         <item>gs</item>
@@ -1232,6 +1275,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>ug</item>
         <item>ua</item>
         <item>ae</item>
+        <item>us</item>
         <item>uy</item>
         <item>uz</item>
         <item>ve</item>
@@ -1267,11 +1311,20 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>UY</item>
         <item>VE</item>
     </string-array>
+    <string-array name="ncc_locales">
+        <item>TW</item>
+    </string-array>
     <string-array name="common_password_business_keys">
-        <item>keyguard</item>
+        <item>miui_keyguard</item>
         <item>childrenmode</item>
         <item>file_explorer</item>
         <item>com_miui_applicatinlock_use_fingerprint_state</item>
+    </string-array>
+    <string-array name="common_password_business_clickable_default">
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Kilit Ekranı</item>
@@ -1279,13 +1332,23 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>Dosya Gezgini</item>
         <item>Uygulama Kilidi</item>
     </string-array>
+    <integer-array name="alarm_repeat_type_values">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
     <string-array name="alarm_repeat_type">
-        <item>Her Gün</item>
+        <item>Hergün</item>
         <item>Haftanın Günleri</item>
         <item>Özel</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Her Gün</item>
+        <item>Hergün</item>
         <item>Haftanın Günleri</item>
         <item>Özel</item>
     </string-array>
