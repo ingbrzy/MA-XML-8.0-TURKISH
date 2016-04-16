@@ -81,7 +81,12 @@
         <item>Orta</item>
         <item>Yüksek</item>
     </string-array>
-     <string-array name="power_dialog_auto_clean_memory_items">
+     <string-array name="roaming_network_type">
+        <item>Daima</item>
+        <item>Sadece istisnalar</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
         <item>1 dakika sonra</item>
         <item>5 dakika sonra</item>
         <item>10 dakika sonra</item>
@@ -101,8 +106,8 @@
         <item>Dengeli</item>
     </string-array>
     <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Kapalı</item>
-        <item>Açık</item>
+        <item>Kapat</item>
+        <item>Aç</item>
         <item>Varsayılan</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
@@ -118,12 +123,12 @@
     <string-array name="alarm_repeat_type">
         <item>Bir Kez</item>
         <item>Her Gün</item>
-        <item>Yasal iş günleri</item>
+        <item>Yasal işgünleri</item>
         <item>Haftaiçi</item>
         <item>Özel</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Bir Kez</item>
+        <item>Birkez</item>
         <item>Her Gün</item>
         <item>Haftaiçi</item>
         <item>Özel</item>
