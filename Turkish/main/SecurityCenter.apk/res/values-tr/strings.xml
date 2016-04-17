@@ -9,7 +9,7 @@
   <string name="Settings_title_power_center">Pil Ayarları</string>
   <string name="access_control_need_password">"%s başarıyla eklendi
 "</string>
-  <string name="access_control_need_to_unlock">"Parmakizi tarayın veya
+  <string name="access_control_need_to_unlock">"Parmakizini tarayın veya
 Uygulama Kilidinin şifresini girin"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Uygulama Kilidinin şifresini girin</string>
   <string name="access_control_recording_intro_header">Uygulama Kilidi eklemek için deseni çizin</string>
@@ -19,7 +19,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="activity_title_apps_manager">Uygulamalar</string>
   <string name="activity_title_auto_start_manager">Otomatik Başlat</string>
   <string name="activity_title_create_shortcut">Kısayolları yönet</string>
-  <string name="activity_title_default_apps_manager">Varsayılan uygulamalar</string>
+  <string name="activity_title_default_apps_manager">Varsayılan Uygulamalar</string>
   <string name="activity_title_garbage_cleanup">Temizleyici</string>
   <string name="activity_title_license_manager">İzinler</string>
   <string name="activity_title_memory">Hafıza</string>
@@ -32,7 +32,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="activity_title_power_manager">Pil Kullanımı</string>
   <string name="activity_title_risk">Riskler</string>
   <string name="activity_title_risk_detail">Risk Detayları</string>
-  <string name="activity_title_root_acquired">Root erişimine izin ver</string>
+  <string name="activity_title_root_acquired">Root Erişimine izin ver</string>
   <string name="activity_title_root_manager">Root Erişimi</string>
   <string name="activity_title_root_note">Root Erişimi Hakkında</string>
   <string name="activity_title_settings">Ayarlar</string>
@@ -84,7 +84,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="back">Geri</string>
   <string name="background_traffic">Arkaplan: %s</string>
   <string name="battery_desc_apps">Uygulamaların tükettiği pil</string>
-  <string name="battery_desc_bluetooth">Bluetooth tükettiği pil</string>
+  <string name="battery_desc_bluetooth">"Bluetooth'un tükettiği pil"</string>
   <string name="battery_desc_display">Aydınlatma ve arka ışığın tükettiği pil</string>
   <string name="battery_desc_other_apps">Diğer uygulamaların tükettiği pil</string>
   <string name="battery_desc_radio">Radyonun tükettiği pil</string>
@@ -335,7 +335,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="handle_text_cache">Önbellek</string>
   <string name="handle_text_memory">Hafıza</string>
   <string name="handle_text_system">System</string>
-  <string name="help_label">Yardım</string>
+  <string name="help_label">Yardım ve Geribildirim</string>
   <string name="hints_auto_start_warning_info">"Otomatik başlatmayı kısıtlarsanız, bazı uygulama ve hizmetlerin bildirimlerini almanız mümkün olmaz!"</string>
   <string name="hints_cleanning_text">Temizleniyor...</string>
   <string name="hints_handle_item_text_risk">Riskler: %d</string>
@@ -434,7 +434,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="lockpattern_recording_inprogress">İşiniz bittiğinde parmağınızı kaldırın</string>
   <string name="lockpattern_recording_intro_header">Bir desen oluşturmak için en az 4 noktayı bağlayın</string>
   <string name="lockpattern_retry_button_text">Tekrar çizin</string>
-  <string name="lockpattern_settings_help_how_to_record">Bir desen çizin</string>
+  <string name="lockpattern_settings_help_how_to_record">Desen nasıl çizilir?</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d saniye bekleyin ve tekrar deneyin.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Çok fazla sayıda başarısız deneme!</string>
   <string name="lockpattern_tutorial_cancel_label">İptal</string>
@@ -858,7 +858,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_month_begin_date">Kullanımı sıfırlama tarihi</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Ek Ayarlar</string>
-  <string name="pref_new_installed_preconfig_title">"Yeni uygulamaların varsayılan ayarları"</string>
+  <string name="pref_new_installed_preconfig_title">"Yeni uygulamaların varsayılan ayarları"</string>
   <string name="pref_open_adjust_traffic">Operatörünüz istatistiklerini kullanarak her gün veri kullanımını güncelleyin</string>
   <string name="pref_package_traffic_leisure">%1$s | En-Üst: %2$s</string>
   <string name="pref_package_traffic_normal">Üst: %s</string>
@@ -1154,7 +1154,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="text_button">Anladım</string>
   <string name="text_day"/>
   <string name="text_lock_info">Kilit açma desenini çizin</string>
-  <string name="third_application">Yüklü Uygulamalar</string>
+  <string name="third_application">Üçüncü taraf uygulamalar</string>
   <string name="three_percent_total_pkg">%s (%%3 aylık veri)</string>
   <string name="timeshow_h">%.1fs</string>
   <string name="timeshow_h_int">%ds</string>
@@ -1164,7 +1164,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="timeshow_s">%dsn</string>
   <string name="tips_dialog_title">"Limitinizi bilmiyorsanız"</string>
   <string name="tips_message">"Veri planı ayrıntılarını görüntülemek için, %2$s (%1$s) arayın."</string>
-  <string name="title_app_lock_disable">Kilitli Uygulamalar</string>
+  <string name="title_app_lock_disable">Uygulamaları Kilitle</string>
   <string name="title_app_update">Güncelleme mevcut</string>
   <string name="title_cleaner_cloudscan">Klasör adlarını yükle</string>
   <string name="title_cloud_account">Mi Hesabı</string>
@@ -1307,7 +1307,7 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="traffic_saving_whitelist_btn_added">Eklendi</string>
   <string name="traffic_saving_whitelist_btn_remove">Kaldır</string>
   <string name="traffic_saving_whitelist_btn_removed">Uygulama listeden kaldırıldı</string>
-  <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; uygulamaların  veri kullanımı sınırlı değil"</string>
+  <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; uygulamaların  veri kullanımı sınırlı değil"</string>
   <string name="traffic_saving_whitelist_no_app">Uygulama Yok</string>
   <string name="traffic_saving_wifi_usage">Wi-Fi Koruyucu</string>
   <string name="traffic_setting_app_count">%d uygulama</string>
