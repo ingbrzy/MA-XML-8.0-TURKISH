@@ -86,6 +86,7 @@
   <string name="check_upgrade">Güncellemeleri denetle</string>
   <string name="choose_ac">Uzaktan Kumandayı Seç</string>
   <string name="choose_address_title">Konumu Seç</string>
+  <string name="choose_key_to_fix">Onarmak istediğiniz anahtarı seçiniz</string>
   <string name="circlepad_slide_tips">Ses düzeyini ayarlamak için dokunmatik tekerleği kullanın</string>
   <string name="click_to_expend">Genişlet</string>
   <string name="click_to_login">Oturum Aç</string>
@@ -132,7 +133,7 @@
   <string name="diagnosis_intro">Bağlantı sorunları için ağı test et</string>
   <string name="dialog_install_assistant_content">Mi TV veya Mi Kutunun en iyi şekilde Mi Screencast yükle</string>
   <string name="dining_room">Yemek Odası</string>
-  <string name="download_assistant">İndirme Yardımcısı</string>
+  <string name="download_assistant">Yansıtma Yardımcısı</string>
   <string name="download_path_fail">"İndirilemedi. Cihazınızın SD kart veya USB sürücüsünü kontrol edin."</string>
   <string name="download_times">İndirmeler: %1$d</string>
   <string name="downloading">İndiriliyor...</string>
@@ -148,6 +149,8 @@
   <string name="eject">﻿Çıkart</string>
   <string name="empty_name_tip">Bu uzaktan kumanda için bir isim verin</string>
   <string name="epg_all_channels">Tüm Kanallar</string>
+  <string name="epg_book_all">Tüm rezervasyon</string>
+  <string name="epg_book_count">%1$s ayarla</string>
   <string name="epg_bookable">EPG</string>
   <string name="epg_booked">EPG</string>
   <string name="epg_booked_str">Çizelge</string>
@@ -158,6 +161,9 @@
   <string name="epg_channel_group_open">Tümünü göster</string>
   <string name="epg_detail_title_text">Tanımla</string>
   <string name="epg_details_episode">Böl. %1$s</string>
+  <string name="epg_edit_channel_name">Kanal Adı</string>
+  <string name="epg_edit_channel_number">Kanal Numarası</string>
+  <string name="epg_edit_channel_title">Kanalı Düzenle</string>
   <string name="epg_episode_open">Tümün göster</string>
   <string name="epg_fav_channels">Kanalı kaydet</string>
   <string name="epg_home_sliding_down">Aşağı Kaydır</string>
@@ -165,14 +171,17 @@
   <string name="epg_hot_channels">Kanallar</string>
   <string name="epg_hot_programs">Gösteriler</string>
   <string name="epg_loading_hint">Telefonu kullanarak uydu alıcı kanalını değiştir</string>
-  <string name="epg_name">TV Gösterileri</string>
+  <string name="epg_name">TV Şovları</string>
+  <string name="epg_no_booking_data">Program planlanmadı</string>
   <string name="epg_no_search_result">Sonuç bulunamadı</string>
+  <string name="epg_program_detail_more_time_events">Daha Fazla Yayın Zamanı</string>
   <string name="epg_program_updated_to">%1$d bölümü oynat</string>
   <string name="epg_search_box_hint">Görmek istediğiniz TV programlarını arayın</string>
   <string name="epg_search_history">Geçmiş</string>
   <string name="epg_search_hot_keyword">Popüler aramalar</string>
   <string name="epg_status_playing_text">Oynatılıyor…</string>
   <string name="epg_status_playing_text_v5">Canlı</string>
+  <string name="epg_unbook_all">Vazgeç</string>
   <string name="epg_unbooked_str">Programsız</string>
   <string name="epg_user_my_booked_events">Rezervasyonum</string>
   <string name="epg_user_my_favorite_channel">Favorilerim</string>
@@ -182,6 +191,7 @@
   <string name="external_app">Uygulama yükle</string>
   <string name="external_photo">Fotoğrafları göster</string>
   <string name="external_video">Videoyu oynat</string>
+  <string name="extra_keys">Genişletilmiş Tuşlar</string>
   <string name="fail_add_controller_photo">Uzaktan fotoğraf ekle</string>
   <string name="fail_add_device_photo">Cihaz fotoğrafını ekle</string>
   <string name="fail_content">"    Bilgi eşleştirilmesi bulunamadı. Mühendislerimize için geribildirim gönderebilirsiniz."</string>
@@ -200,6 +210,9 @@
   <string name="feedback_error_tips">Bu uzaktan kumanda kullanmayla ilgili sorunları olan bir sorunu bildirmek için dokunun</string>
   <string name="find_adb_frame">%1$dADB cihazları algıladı</string>
   <string name="find_milink_frame">%1$d Mi cihazları algıladı</string>
+  <string name="fix_keys">Tamir Tuşu</string>
+  <string name="fix_keys_success">Başarıyla tamir edildi!</string>
+  <string name="fix_keys_tips">Bazı tuşları kullanarak, düzeltmeyi denetleyebilirsiniz</string>
   <string name="from_share">Başkaları tarafından paylaştı</string>
   <string name="gamepad">Gamepad</string>
   <string name="gamepad_rule">"Gamepad modunda yatay yönde kullanma olamaz"</string>
@@ -219,6 +232,7 @@
   <string name="guide">Rehber</string>
   <string name="has_installed">Yüklendi</string>
   <string name="hd_channel_preferred">HD video tercihi</string>
+  <string name="help">Yardım Kullanımı</string>
   <string name="history_none">"Herhangi bir video izlenilmedi"</string>
   <string name="history_title">Geçmiş</string>
   <string name="home">Ana Ekran</string>
@@ -313,6 +327,7 @@ Devam etmek için geri dönün"</string>
   <string name="match_dvd_name_stop">Durdur</string>
   <string name="match_fail_frame">"%1$d eşleşemedi"</string>
   <string name="match_fail_model_hint">Uzaktan kumanda model numarasını girin</string>
+  <string name="match_failed">Başka veri yok, lütfen yeniden deneyin veya geri dönün</string>
   <string name="match_fan_intro_open">Bıraktığında Fan açılsın</string>
   <string name="match_fan_name_open">Aç</string>
   <string name="match_guide_main_frame">%1$s cihazınıza doğrultun</string>
@@ -321,6 +336,8 @@ Devam etmek için geri dönün"</string>
   <string name="match_is_respond">Cihaz tepki veriyor mu?</string>
   <string name="match_main_tip_frame">"%1$s cihazınıza doğrultun ve tuşa basın
 Bıraktığında %1$s verdiği tepki"</string>
+  <string name="match_main_tip_frame_click">"%1$s kumandaya ve düğmesine dokunun
+Sonraki soruya cevap verin"</string>
   <string name="match_mibox_first">    Mi TV bulundu</string>
   <string name="match_mibox_sencond">    · Mi TV ile bu cihazı kontrol et.</string>
   <string name="match_mibox_third">    · Başka Mi cihazları otomatik olarka ekle</string>
@@ -437,8 +454,8 @@ eylem sonrası bir süre bekleyin."</string>
   <string name="passport_bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
   <string name="passport_btn_return">Geri</string>
   <string name="passport_button_cancel">İptal</string>
-  <string name="passport_captcha">Kodu girin</string>
-  <string name="passport_change_account">Hesabı değiştir</string>
+  <string name="passport_change_account">&lt;u&gt;Hesabı değiştir&lt;/u&gt;</string>
+  <string name="passport_change_phone_number">Numaraları değiştir</string>
   <string name="passport_checking_account">Şifre denetleniyor…</string>
   <string name="passport_checking_input">Giriş denetleniyor…</string>
   <string name="passport_choose_which_one_sim">Bir telefon numarası seçin</string>
@@ -588,6 +605,25 @@ Hesabınızı etkinleştirmek için,
   <string name="privacy_content">"Xiaomi'nin "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Gizlilik Politikası&lt;/a&gt; ve &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Kullanıcı Sözleşmesi-ni&lt;/a&gt; kullanmadan önce okuyun. Uygulamanın normal çalışması için internet ve konum hizmetlerine erişmesi gerekir.</string>
   <string name="privacy_nohit">"Tekrar gösterme"</string>
   <string name="privacy_title">Hükümler ve Koşullar</string>
+  <string name="program_booking_book_filter_book_status">Rezervasyon Durumu</string>
+  <string name="program_booking_book_filter_not_booked">Ayrılmamış</string>
+  <string name="program_booking_channel_filter_all_channels">Tüm Kanallar</string>
+  <string name="program_booking_date_filter_day_0">Bugün</string>
+  <string name="program_booking_date_filter_day_1">Yarın</string>
+  <string name="program_booking_date_filter_day_2">Ertesi Gün</string>
+  <string name="program_booking_date_filter_friday">Cuma</string>
+  <string name="program_booking_date_filter_monday">Pazartesi</string>
+  <string name="program_booking_date_filter_next">Sonraki</string>
+  <string name="program_booking_date_filter_saturday">Cumartesi</string>
+  <string name="program_booking_date_filter_sunday">Pazar</string>
+  <string name="program_booking_date_filter_thursday">Perşembe</string>
+  <string name="program_booking_date_filter_tuesday">Salı</string>
+  <string name="program_booking_date_filter_wednesday">Çarşamba</string>
+  <string name="program_booking_date_filter_whole_week">Bir haftalık</string>
+  <string name="program_booking_time_filter_dawn">Şafaktan önce</string>
+  <string name="program_booking_time_filter_day">Gündüz</string>
+  <string name="program_booking_time_filter_night">Gece</string>
+  <string name="program_booking_time_filter_whole_day">Gün</string>
   <string name="projection_failed_for_disconnect">Cihazlar bağlanmadı</string>
   <string name="province">Vilayet</string>
   <string name="pull_down_refresh">Yenilemek için aşağı çekin</string>
@@ -605,6 +641,7 @@ Hesabınızı etkinleştirmek için,
   <string name="refreshing_no_point">Yenileniyor…</string>
   <string name="refreshing_retry">"Yüklenmedi, tekrar deneyin"</string>
   <string name="release_to_refresh">Yenilemek için bırakın</string>
+  <string name="rematch">Yeniden eşle</string>
   <string name="remote_controller_name">Mi Kumanda</string>
   <string name="rename">Adlandır</string>
   <string name="rename_hint">"Cihazın adını girin"</string>
@@ -619,7 +656,7 @@ Hesabınızı etkinleştirmek için,
   <string name="scaning">Aranıyor…</string>
   <string name="scanning_milink">Cihazlar aranıyor…</string>
   <string name="scene_default">Varsayılan</string>
-  <string name="scene_name_frame">%1$s %2$s%3$s</string>
+  <string name="scene_name_frame">%1$s %2$s %3$s</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screenshot">Ekran Görüntüsü</string>
   <string name="screenshot_failed">"Ekran görüntüsü alınamadı"</string>
@@ -635,7 +672,7 @@ Hesabınızı etkinleştirmek için,
   <string name="search_no_result">Sonuçsuz</string>
   <string name="search_video_app_hint">Ara</string>
   <string name="select_area">Konumu Seç</string>
-  <string name="select_brand">Seç %s</string>
+  <string name="select_brand">%s seçin</string>
   <string name="select_dvb_carrier">Servis sağlayıcı seç</string>
   <string name="select_stb">Uydu alıcısını seç</string>
   <string name="service_info">Servis Bilgisi</string>
@@ -677,7 +714,7 @@ Hesabınızı etkinleştirmek için,
   <string name="share_level_public">Yakındaki tüm kişiler</string>
   <string name="share_level_public_error">"Konum ayarlarını kontrol edin ve tekrar deneyin, konum ayarlanamadı"</string>
   <string name="share_level_title">Kumandayı kimler görebilir?</string>
-  <string name="share_media_actor">"Projektör: "</string>
+  <string name="share_media_actor">"Yansıt: "</string>
   <string name="share_media_area">"Ülke: "</string>
   <string name="share_media_director">"Yönetmen: "</string>
   <string name="share_media_score">"Ön İnceleme: "</string>
@@ -761,7 +798,7 @@ Değiştirmek için, TV'nun Güç Düğmesine uzun süre basın"</string>
   <string name="vendor_peel">Peel</string>
   <string name="vendor_yaokan">Yaokan</string>
   <string name="video">Videolar</string>
-  <string name="video_actor_label">"Projektör: "</string>
+  <string name="video_actor_label">"Yansıt: "</string>
   <string name="video_area_label">"Ülke: "</string>
   <string name="video_director_label">"Yönetmen: "</string>
   <string name="video_history_before_yestory">2 gün önce</string>
