@@ -2,11 +2,11 @@
 <resources>
   <string name="accept">Tamam</string>
   <string name="activate">Etkinleştir</string>
-  <string name="activate_auto_sms_notification_desc_1_card">\"Cihazı Bul\" etkinleştirmek için SMS gönder</string>
-  <string name="activate_auto_sms_notification_desc_2_cards">\"Cihazı Bul\" etkinleştirmek için SIM karttan %s SMs gönderildi</string>
+  <string name="activate_auto_sms_notification_desc_1_card">\"Telefonu Bul\" etkinleştirmek için SMS gönder</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">\"Telefonu Bul\" etkinleştirmek için SIM karttan %s SMs gönderildi</string>
   <string name="activate_auto_sms_notification_title">SIM kartı etkinleştir</string>
   <string name="activate_feature_call_log_sync">Çağrı geçmişini eşitle</string>
-  <string name="activate_feature_find_device">Cihazı Bul</string>
+  <string name="activate_feature_find_device">Telefonu Bul</string>
   <string name="activate_feature_live_talk">Telefon Kontör Paketi</string>
   <string name="activate_feature_mms_sync">Mesajları eşitle</string>
   <string name="activate_feature_mx">Mi Mesaj</string>
@@ -39,7 +39,7 @@
 %s etkinleştirmek için yeni SIM kartıyla ilgili telefon numarasını girin."</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"Etkinleştirme mesajı gönderilemedi. SIM kartınızın etkinleştirildiğinden emin olun.
 %s etkinleştirmek için yeni SIM kartıyla ilgili telefon numarasını girin."</string>
-  <string name="activate_popup_desc_error_device_id">Tuş Takımından *#06# girerek IMEI kontrolu yapın</string>
+  <string name="activate_popup_desc_error_device_id">Tuş Takımından *#06# girerek IMEI kontrolü yapın</string>
   <string name="activate_popup_desc_failed_phone_error">Girdiğiniz telefon numarası geçersiz.</string>
   <string name="activate_popup_desc_failed_query_info">"Telefon numaranız bulamıyor. SIM kart etkinleşmiş olduğundan emin olun."</string>
   <string name="activate_popup_desc_failed_receive_sms">Girdiğinizden emin telefon numarasının doğru olduğundan ve SIM kartın etkinleşmiş olduğundan emin olun.</string>
@@ -56,7 +56,7 @@
   <string name="activate_popup_desc_new_sim_card_downlink">"SIM kartınız değişmiş gibi görünüyor. %s etkinleştirmek için geçerli telefon numarasını girin."</string>
   <string name="activate_popup_desc_register_account">Operatörünüz, Mi Hesabınızı oluşturmakta kullanılan bir SMS mesajı için ücret alabilir.</string>
   <string name="activate_popup_desc_register_account_downlink">Telefon numaranızı girin</string>
-  <string name="activate_popup_desc_register_account_intl">Your carrier may charge for an international SMS message used to create your Mi Account.</string>
+  <string name="activate_popup_desc_register_account_intl">Operatörünüz, Mi Hesabınızı oluşturmak için kullanılan uluslararası bir SMS mesajı için ücret alabilir.</string>
   <string name="activate_popup_desc_sim_card">%s etkinleştirmek için mesaj gönderilecek. Operatörünüz tarafından ücretlendirilebilir.</string>
   <string name="activate_popup_desc_sim_card_downlink">%s etkinleştirmek için geçerli telefon numarasını girin.</string>
   <string name="activate_popup_desc_voip_privacy">Gizlilik Politikası</string>
@@ -72,6 +72,7 @@
   <string name="activate_popup_title_manual">%s etkinleştir</string>
   <string name="activate_popup_title_new_sim_card">%s yeniden etkinleştir</string>
   <string name="activate_popup_title_register_account">Mi Hesabı Oluştur</string>
+  <string name="activate_sms_postfix">Mi Cihazını etkinleştirmek için bu SMS kullanılacak</string>
   <string name="activate_status_desc_acquire_phone_number">Telefon numarasını alınıyor...</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Telefon numarasını alınırken sunucu hatası oluştu</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Telefon numarası alınamıyor"</string>
@@ -107,5 +108,5 @@ Cihaz kimliği geçerli IMEI veya MAC adresi olması gerekir. Cihaz kimliği olm
   <string name="sim_unactivated_title">"SIM kartınız etkin değil"</string>
   <string name="sync_notification_title_format">Güncel eşitleme öğesi: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
-  <string name="xmsf_activate_info">XMSF etkinleştirme bilgisi</string>
+  <string name="xmsf_activate_info">XMSF Etkinleştirme Bilgisi</string>
 </resources>
