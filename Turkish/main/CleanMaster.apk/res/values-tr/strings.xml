@@ -148,7 +148,7 @@
   <string name="go_to">Devam</string>
   <string name="goto_set">Ayarla</string>
   <string name="grabage_rank_title">Bugün temizlendi</string>
-  <string name="harass_detail">Engelli %1$d SMS ve %2$d çağrı</string>
+  <string name="harass_detail">%1$d SMS ve %2$d çağrı engellendi</string>
   <string name="header_optimizer">Bu özelliği kulanarak %s\'nı kabul etmiş olursunuz.</string>
   <string name="hint_bar_select_image">%d seçildi</string>
   <string name="hint_clean_select_similar_image">Yenilenenler siliniyor…</string>
@@ -331,7 +331,7 @@
   <string name="recommend_the_following">Cihazınız en iyi şekilde aşağıdaki eylemleri alabilir</string>
   <string name="recommended">Seçilmiş</string>
   <string name="safety_check_detail">%1$d zaman,  %2$d puan kazanıldı</string>
-  <string name="safety_rank">Güvenlik açısından %d%% MIUI kullanıcısından önde</string>
+  <string name="safety_rank">Güvenlik açısından %%%d MIUI kullanıcıdan önde</string>
   <string name="sc_allow_network_dialog_button">İzinli</string>
   <string name="sc_allow_network_dialog_message">Bu uygulamanın güncellemeleri almak için İnternete bağlanmasına izin veriyor musunuz?</string>
   <string name="see_more">Fazlası</string>
