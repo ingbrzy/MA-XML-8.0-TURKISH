@@ -305,11 +305,11 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="battery_action_stop">Zorla Durdur</string>
   <string name="battery_action_wifi">WLAN Ayarları</string>
   <string name="battery_desc_apps">Uygulamanın tükettiği pil</string>
-  <string name="battery_desc_bluetooth">Bluetooth\'un tükettiği pil</string>
+  <string name="battery_desc_bluetooth">"Bluetooth'un tükettiği pil"</string>
   <string name="battery_desc_display">Ekran ve arka aydınlatma ışığının tükettiği pil</string>
   <string name="battery_desc_flashlight">El Fenerinin tükettiği pil</string>
   <string name="battery_desc_overcounted">Aşırı Güç Kullanan</string>
-  <string name="battery_desc_radio">Radynun tükettiği pil</string>
+  <string name="battery_desc_radio">Radyonun tükettiği pil</string>
   <string name="battery_desc_standby">Telefon boştayken tüketilen pil</string>
   <string name="battery_desc_unaccounted">Muhtelif pil kullanımı</string>
   <string name="battery_desc_users">Kullanıcı tarafından tüketilen pil</string>
