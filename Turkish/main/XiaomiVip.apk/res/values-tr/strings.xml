@@ -39,7 +39,7 @@
   <string name="downloading">İndiriliyor...</string>
   <string name="earn_x_points">%s puan kazanıldı</string>
   <string name="exp">Puanlar</string>
-  <string name="exp_buff">+%s%% puan</string>
+  <string name="exp_buff">+%%%s puan</string>
   <string name="experience">Puan</string>
   <string name="expired">Süresi Doldu</string>
   <string name="fail_reach_server">"Sunucuya bağlanamadı"</string>
@@ -56,7 +56,7 @@
 %s"</string>
   <string name="limit_task">Sınırlı zorluklar</string>
   <string name="limit_task_format" formatted="false">%d/%d</string>
-  <string name="millis">%dms</string>
+  <string name="millis">%dmsan</string>
   <string name="minutes">%dm</string>
   <string name="miuishare_account_activate_confirmation">Etkinleştirme gerekiyor</string>
   <string name="miuishare_account_activate_ok">Etkinleştir</string>
