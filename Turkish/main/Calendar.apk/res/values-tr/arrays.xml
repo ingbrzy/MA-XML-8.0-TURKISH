@@ -6,13 +6,7 @@
         <item>SMS</item>
         <item>Alarm</item>
     </string-array>
-	<integer-array name="reminder_methods_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <string-array name="reminder_minutes_labels">
+	<string-array name="reminder_minutes_labels">
         <item>Hatırlatıcısız</item>
         <item>0 dakika</item>
         <item>5 dakika</item>
@@ -66,13 +60,7 @@
         <item>Pazar</item>
         <item>Pazartesi</item>
     </string-array>
-	<string-array name="preferences_week_start_day_values">
-        <item>-1</item>
-        <item>7</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="timezone_labels">
+	<string-array name="timezone_labels">
         <item>Marshall Adaları</item>
         <item>Midway Adası</item>
         <item>Hawaii</item>
@@ -163,12 +151,7 @@
         <item>Uygun</item>
         <item>Belirsiz</item>
     </string-array>
-    <integer-array name="availability_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <string-array name="visibility">
+<string-array name="visibility">
         <item>Varsayılan</item>
         <item>Özel</item>
         <item>Genel</item>
@@ -191,12 +174,7 @@
         <item>Bu ve gelecek etkinlikler</item>
         <item>Tüm etkinlikler</item>
     </string-array>
-	<integer-array name="delete_repeating_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <string-array name="delete_repeating_labels_no_selected">
+	<string-array name="delete_repeating_labels_no_selected">
         <item>Bu ve gelecek etkinlikler</item>
         <item>Tüm etkinlikler</item>
     </string-array>
