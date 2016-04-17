@@ -1,69 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="cache_sort_type">
-        <item>Boyut</item>
-        <item>Ad</item>
-    </string-array>
-    <string-array name="large_file_sort_type">
-        <item>Boyut</item>
-        <item>Ad</item>
-    </string-array>
-    <string-array name="installed_app_sort_type">
-        <item>Sıkça kullanılan</item>
-        <item>Boyut</item>
-    </string-array>
-    <string-array name="auto_clean_time">
-        <item>Hergün</item>
-        <item>Her 3 günde</item>
-        <item>Her 7 günde</item>
-    </string-array>
-    <string-array name="auto_clean_size">
-        <item>100 MB</item>
-        <item>300 MB</item>
-        <item>500 MB</item>
-        <item>1 GB</item>
-    </string-array>
-    <string-array name="auto_process_mode">
-        <item>Göster</item>
-        <item>"Gösterme!"</item>
-        <item>Sonra göster</item>
-    </string-array>
-    <string-array name="cache_clean_menu">
-        <item>Bu dosyayı temizle</item>
-        <item>Dosya konumunu görüntüle</item>
-        <item>Dosyayı istisnalara ekle</item>
-        <item>Uygulamayı istisnalara ekle</item>
-    </string-array>
-    <string-array name="trash_clean_menu">
-        <item>Bu dosyayı temizle</item>
-        <item>Dosya konumunu görüntüle</item>
-        <item>Dosyayı istisnalara ekle</item>
-    </string-array>
-    <string-array name="video_clean_menu">
-        <item>Bu dosyayı temizle</item>
-        <item>Aç</item>
-        <item>Dosyayı istisnalara ekle</item>
-    </string-array>
-    <string-array name="empty_floder_clean_menu">
-        <item>Temizle</item>
-    </string-array>
-    <string-array name="apk_clean_menu">
-        <item>Temizle</item>
-        <item>Yükle</item>
-        <item>Klasörü görüntüle</item>
-        </string-array>
-    <string-array name="long_add_menu">
-        <item>İstisnalara ekle</item>
-    </string-array>
-    <string-array name="long_add_app_menu">
-        <item>Uygulamayı istisnalara ekle</item>
-    </string-array>
-    <string-array name="app_clean_menu">
-        <item>Kaldır</item>
-    </string-array>
-    <string-array name="auto_alert_apps_time">
-        <item>Her 7 günde</item>
-        <item>Her 15 günde</item>
-        <item>Her 30 günde</item>
-    </string-array>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d dakika önce</item>
+        <item quantity="zero">%1$d dakika önce</item>
+        <item quantity="one">%1$d dakika önce</item>
+        <item quantity="two">%1$d dakika önce</item>
+        <item quantity="few">%1$d dakika önce</item>
+        <item quantity="many">%1$d dakika önce</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d saat önce</item>
+        <item quantity="zero">%1$d saat önce</item>
+        <item quantity="one">%1$d saat önce</item>
+        <item quantity="two">%1$d saat önce</item>
+        <item quantity="few">%1$d saat önce</item>
+        <item quantity="many">%1$d saat önce</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d gün önce</item>
+        <item quantity="zero">%1$d gün önce</item>
+        <item quantity="one">%1$d gün önce</item>
+        <item quantity="two">%1$d gün önce</item>
+        <item quantity="few">%1$d gün önce</item>
+        <item quantity="many">%1$d gün önce</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">%1$d kişi tarafından indirildi</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">%1$d kişi tarafından indirildi</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">%1$d kişi tarafından indirildi</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d görüntüle</item>
+        <item quantity="zero">%1$d görüntüle</item>
+        <item quantity="one">%1$d görüntüle</item>
+        <item quantity="two">%1$d görüntüle</item>
+        <item quantity="few">%1$d görüntüle</item>
+        <item quantity="many">%1$d görüntüle</item>
+    </plurals>
+    <plurals name="hint_similar_image_header_left">
+        <item quantity="other">%d grup</item>
+        <item quantity="one">%d grup</item>
+    </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other"> %d uygulama için önemsiz verileri temizleyebilirsin</item>
+        <item quantity="one"> %d uygulama için önemsiz verileri temizleyebilirsin</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">%d uygulama yüklendi,nadiren kullanılan uygulamaları silebilirsin</item>
+        <item quantity="one">%d uygulama yüklendi,nadiren kullanılan uygulamalardan birini silebilirsin</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Büyük %d dosya bulundu, önemsizse silebilirsin</item>
+        <item quantity="one">%d büyük dosya bulundu, bunu silebilirsin</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">%d fotoğraf bulundu, yinelenen veya gereksiz görüntüleri silebilirsiniz</item>
+        <item quantity="one"> %d fotoğraf bulundu, yinelenen veya gereksiz görüntüleri silebilirsiniz</item>
+    </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">%d APK bulundu, gereksiz olanları silebilirsiniz.</item>
+        <item quantity="one">%d APK bulundu, gereksiz olanı silebilirsiniz.</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">%d video bulundu, gereksiz olanları silebilirsiniz.</item>
+        <item quantity="one">%d video bulundu, gereksiz olanı silebilirsiniz.</item>
+    </plurals>
 </resources>
