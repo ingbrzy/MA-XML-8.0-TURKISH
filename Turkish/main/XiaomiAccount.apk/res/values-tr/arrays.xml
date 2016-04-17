@@ -30,13 +30,13 @@
         <item>Z</item>
     </string-array>
     <string-array name="education">
-        <item>Orta okul</item>
-        <item>Hazırlık okulu</item>
-        <item>Yüksek okul</item>
-        <item>Meslek yüksek okulu</item>
+        <item>Ortaokul</item>
+        <item>Hazırlık Okulu</item>
+        <item>Yüksek Okul</item>
+        <item>Meslek Yüksek Okulu</item>
         <item>Kolej</item>
-        <item>Yüksek lisans</item>
-        <item>Doktor derecesi</item>
+        <item>Yüksek Lisans</item>
+        <item>Doktora Derecesi</item>
     </string-array>
     <string-array name="income">
         <item>&lt; 2000</item>
@@ -48,39 +48,39 @@
     </string-array>
     <string-array name="question_no1">
         <item>Aile</item>
-        <item>Annenin büyükannesinin adı</item>
-        <item>Annenin dedesinin adı</item>
-        <item>Babanın dedesinin adı</item>
-        <item>Babaannesinin adı</item>
-        <item>"Babalar doğum günü"</item>
-        <item>Anneler doğum günü</item>
-        <item>Ailenin yaş farkı nedir? (Yıl ve ay)</item>
+        <item>Annenin Kızlık Soyadı</item>
+        <item>Büyükbabanızın adı</item>
+        <item>Babanızın Mesleği</item>
+        <item>Anneannenizin Adı</item>
+        <item>"Babanın Doğum Günü"</item>
+        <item>Annenin Doğum Günü</item>
+        <item>Eşinizin Doğum Tarihi  (Yıl ve ay)</item>
     </string-array>
     <string-array name="question_no2">
-        <item>Gidilen okul</item>
-        <item>Orta okulda sınıf başkanının adı neydi?</item>
-        <item>ilk okula sınıf başkanının adı neydi?</item>
-        <item>Üniversitede öğrenci kimlik numarası</item>
-        <item>Üniversitede senin oda arkadaşı adı nedir?</item>
-        <item>Üniversitede amiriniz adı nedir?</item>
+        <item>Eğitim</item>
+        <item>En sevdiğiniz öğretmenin adı neydi?</item>
+        <item>İlkokulu nerede okudunuz?</item>
+        <item>Üniversitedeki öğrenci kimlik numaranız neydi?</item>
+        <item>Üniversitedeki oda arkadaşının adı nedir?</item>
+        <item>Üniversitenin rektörünün adı nedir?</item>
     </string-array>
     <string-array name="question_no3">
-        <item>Kişisel bilgi</item>
-        <item>Ailen seni nasıl çağırıyor?</item>
-        <item>Pasaport numarasının son 6 basamağı</item>
-        <item>Hangi hastanede doğdunuz?</item>
+        <item>Kişisel Bilgi</item>
+        <item>Aile arasında lakabınız nedir?</item>
+        <item>Pasaport numaranızın son 6 hanesi nedir?</item>
+        <item>Hangi ilçede doğdunuz?</item>
         <item>En iyi arkadaşının adı nedir?</item>
     </string-array>
     <string-array name="question_no4">
         <item>İlk kez</item>
         <item>İlk evcil hayvanınızın adı nedir?</item>
-        <item>İlk kız veya erkek arkadaşının adı nedir?</item>
-        <item>İlk işiniz veya şirketinizin adı</item>
+        <item>İlk arkadaşınızın adı nedir?</item>
+        <item>İlk çalıştığınız şirketin adı neydi?</item>
     </string-array>
     <string-array name="question_no5">
         <item>Evlilik</item>
-        <item>Ne zaman evlendin?</item>
-        <item>Eşinizin ismi</item>
-        <item>Eşinizin doğum günü</item>
+        <item>Hangi yıl evlendin?</item>
+        <item>Eşinizin adı nedir?</item>
+        <item>Eşinizin doğum günü hangi tarihtir?</item>
     </string-array>
 </resources>
