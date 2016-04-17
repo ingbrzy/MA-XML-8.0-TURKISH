@@ -23,7 +23,7 @@
   <string name="acct_not_synced">"Takvimleriniz güncel olmayabilir bu hesap eşitlenmemiş"</string>
   <string name="acessibility_cal_notification">Takvim bildirimi</string>
   <string name="acessibility_selected_marker_description">Seçili etkinlik</string>
-  <string name="acessibility_snooze_notification">Bildirimi Ertele</string>
+  <string name="acessibility_snooze_notification">Bildirimi ertele</string>
   <string name="action_label">Geri</string>
   <string name="action_text_new_event">Yeni etkinlik</string>
   <string name="action_text_online">Bul</string>
@@ -36,9 +36,9 @@
   <string name="adding_calendar">Aboneliklerim</string>
   <string name="agenda_today">BUGÜN, %1$s</string>
   <string name="agenda_tomorrow">YARIN, %1$s</string>
-  <string name="agenda_view">Ajanda</string>
+  <string name="agenda_view">Etkinlikler</string>
   <string name="agenda_yesterday">DÜN, %1$s</string>
-  <string name="alarm_label">Azlet</string>
+  <string name="alarm_label">Reddet</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Süresi Doldu</string>
   <string name="alert_title">Takvim bildirimleri</string>
@@ -63,14 +63,14 @@
   <string name="birthday_event_description_yesterday">Dün</string>
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
-  <string name="birthday_notification_text_three_days_later">%3$s doğum gününe 3 gün kaldı</string>
+  <string name="birthday_notification_text_days_later">%3$s doğum gününe 3 gün kaldı</string>
   <string name="birthday_notification_text_today">"Onlara esenlikler dilemeyi, unutmayın "</string>
   <string name="birthday_notification_title_three_days_later">%1$s adlı kişinin doğum günü yaklaşıyor</string>
   <string name="birthday_notification_title_today">"%1$s'nın %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">doğum günü</string>
   <string name="book_card_free">Ücretsiz</string>
-  <string name="book_card_rating_text">|   %1$s Yorumlar</string>
+  <string name="book_card_rating_text">|   %1$s yorumlar</string>
   <string name="button_day">G</string>
   <string name="button_month">A</string>
   <string name="button_online">Satın Al</string>
@@ -100,7 +100,7 @@
   <string name="copy_number">Telefon numarasını kopyala</string>
   <string name="create_an_account_desc">"Takvim en iyi şekilde Mi Hesabı ile çalışır.
 
-• Herhangi bir web tarayıcısına eriş
+• Herhangi bir Web tarayıcısına eriş
 • Etkinliklerinizi güvenle yedekleyin"</string>
   <string name="creating_event">Etkinlik oluşturuldu</string>
   <string name="creating_event_with_guest">Davetiyeler gönderilecek</string>
@@ -311,7 +311,7 @@
   <string name="privacy_label">Gizlilik</string>
   <string name="quick_response_custom_msg">Özel mesaj...</string>
   <string name="quick_response_dialog_title">Hızlı cevap seç</string>
-  <string name="quick_response_email_failed">E-posta programını bulmada hata</string>
+  <string name="quick_response_email_failed">E-Posta uygulaması bulunamadı</string>
   <string name="quick_response_settings">Hızlı cevaplar</string>
   <string name="quick_response_settings_edit_title">Hızlı Cevaplar</string>
   <string name="quick_response_settings_summary">Misafirlere gönderilecek E-Postalara verilecek varsayılan cevapları düzenle</string>
