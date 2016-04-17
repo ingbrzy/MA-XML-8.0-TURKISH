@@ -56,7 +56,7 @@ account.xiaomi.com adresine giriş yapın ve Yeniden Etkinleştir-e tıklayın."
   <string name="how_it_works_menu_item">Nasıl çalışır?</string>
   <string name="howitworks_page_enter_code_details">Bu uygulama işareti ile devam etmek gereken kodu oluşturacaktır.</string>
   <string name="howitworks_page_enter_code_title">"Eğer yeni bir bilgisayar üzerinde iseniz, telefonunuzdan bir kod girin."</string>
-  <string name="howitworks_page_enter_password_details">"Eğer yeni bir bilgisayar veya cihaz kullanıyorsanız, Xiaomi gerçekten sizin olduğunuzdan emin olmak için özel bir kod isteyecektir."</string>
+  <string name="howitworks_page_enter_password_details">"Eğer yeni bir bilgisayar veya cihaz kullanıyorsanız, Xiaomi gerçekten sizin olduğunuzdan emin olmak için özel bir kod isteyecek."</string>
   <string name="howitworks_page_enter_password_title">"Oturum açmak için, şifrenizi girin."</string>
   <string name="howitworks_page_verify_device_details">"Bilgisayarınızın hatırlamasını seçebilirsiniz ve Xiaomi sizden bir dahaki seferde kod istemez."</string>
   <string name="howitworks_page_verify_device_title">"Sonra oturum açtığınızda."</string>
@@ -172,5 +172,5 @@ Yapılabilecekler："</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Eğer Mi Güvenlik Simgesini silerseniz, hesabınıza oturum açmanız mümkün olmayacak."</string>
   <string name="welcome_page_details">"— Hesabınızı güvenli tutun.
 —  Hesabınıza oturum açmak için cihazınızı kullanabilecek yabancıları önleyin."</string>
-  <string name="welcome_page_title">Güvenli Girişi kullan</string>
+  <string name="welcome_page_title">Güvenli Girişi Kullan</string>
 </resources>
