@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Açık</item>
+        <item>Bulutlu</item>
+        <item>Kapalı Bulutlu</item>
+        <item>Sisli</item>
+        <item>Yoğun Sağanak Yağışlı</item>
+        <item>Şiddetli Yağmur</item>
+        <item>Sağnak Yağmurlu</item>
+        <item>Gök Gürültülü Yağmurlu</item>
+        <item>Yeryer Yağmurlu</item>
+        <item>Ağır Yağmurlu</item>
+        <item>Orta Dereceli Yağmurlu</item>
+        <item>Hafif Yağmurlu</item>
+        <item>Karla Karışık Yağmur</item>
+        <item>Tipili</item>
+        <item>Karlı</item>
+        <item>Ağır Karlı</item>
+        <item>Orta Derecede Karlı</item>
+        <item>Hafif Karlı</item>
+        <item>Kuvvetli Kum Fırtınası</item>
+        <item>Kum Fırtınalı</item>
+        <item>Kumlu</item>
+        <item>Rüzgarlı</item>
+        <item>Dolu</item>
+        <item>Tozlu</item>
+        <item>Puslu</item>
+        <item>Dondurucu Yağmur</item>
+        <item>Veri yok</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Zayıf</item>
+        <item>Hafif</item>
+        <item>Orta Menzilli</item>
+        <item>Güçlü</item>
+        <item>Kuvvetli</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Rüzgar K</item>
+        <item>Rüzgar KD</item>
+        <item>Rüzgar D</item>
+        <item>Rüzgar GD</item>
+        <item>Rüzgar G</item>
+        <item>Rüzgar GB</item>
+        <item>Rüzgar B</item>
+        <item>Rüzgar KB</item>
+    </string-array>
+</resources>
