@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_sim">Uim kartı</string>
-  <string name="account_sim2">Uim kartı %d</string>
-  <string name="delete_sim_entries_finish">Uim kart üzerindeki kişiler silindi</string>
-  <string name="deleting_sim_entry_miui">Uim karttaki kişiler siliniyor</string>
-  <string name="display_sim_contacts">Uim kişilerini göster</string>
-  <string name="export_sim_contact_finish">Uim karta aktarıldı</string>
-  <string name="export_to_sim">Uim karta aktar</string>
-  <string name="export_to_sim1">"Uim kart 1'e aktar"</string>
-  <string name="export_to_sim2">"Uim kart 2'e aktar"</string>
-  <string name="export_to_sim_title">Uim kartınız dışa aktarılıyor</string>
-  <string name="import_from_sim">Uim kartı içe aktar</string>
-  <string name="import_from_sim1">"Uim kart 1'den içe aktar"</string>
-  <string name="import_from_sim2">"Uim kart 2'den içe aktar"</string>
-  <string name="import_sim_entries_finish">Uim karttan kişiler alındı</string>
-  <string name="importing_sim_contacts_miui">Uim karttan kişiler aktarılıyor</string>
+  <string name="account_sim">UIM Kart</string>
+  <string name="account_sim2">%d UIM Kart </string>
+  <string name="delete_sim_entries_finish">UIM kart üzerindeki kişiler silindi</string>
+  <string name="deleting_sim_entry_miui">UIM karttaki kişiler siliniyor</string>
+  <string name="display_sim_contacts">UIM kişilerini göster</string>
+  <string name="export_sim_contact_finish">UIM karta aktarıldı</string>
+  <string name="export_to_sim">UIM karta aktar</string>
+  <string name="export_to_sim1">"UIM Kart 1'e aktar"</string>
+  <string name="export_to_sim2">"UIM Kart 2'e aktar"</string>
+  <string name="export_to_sim_title">UIM kartınız dışa aktarılıyor...</string>
+  <string name="import_from_sim">UIM Kart içe aktar</string>
+  <string name="import_from_sim1">"UIM Kart 1'den içe aktar"</string>
+  <string name="import_from_sim2">"UIM Kart 2'den içe aktar"</string>
+  <string name="import_sim_entries_finish">UIM karttan kişiler alındı</string>
+  <string name="importing_sim_contacts_miui">UIM karttan kişiler aktarılıyor...</string>
   <string name="noContactsHelpText">"\"Görüntülenecek kişi yok
 
 Kişi eklemek için öncelikle"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Men&amp;#252;ye&lt;/font&gt;&lt;/b&gt;" dokunun ve sonras&amp;#305;nda:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesaplar tu&amp;#351;u ile bir hesap yarat&amp;#305;p ya da ekleyerek hesab&amp;#305;n&amp;#305;zdaki ki&amp;#351;ilerinizi telefonunuzla senkronize edebilir
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesaplar tu&amp;#351;u ile bir hesap yarat&amp;#305;p ya da ekleyerek hesab&amp;#305;n&amp;#305;zdaki ki&amp;#351;ilerinizi telefonunuzla eşitlenebilir
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Yeni ki&amp;#351;i ile s&amp;#305;f&amp;#305;rdan yeni ki&amp;#351;ilerinizi olu&amp;#351;turabilir
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#304;&amp;#231;e aktar veya d&amp;#305;&amp;#351;a ile Uim yada Sd kart&amp;#305;n&amp;#305;zda bulunan ki&amp;#351;ileri i&amp;#231;e aktarabilirsiniz
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#304;&amp;#231;e aktar veya d&amp;#305;&amp;#351;a ile UIM veya SD kart&amp;#305;n&amp;#305;zda bulunan ki&amp;#351;ileri i&amp;#231;e aktarabilirsiniz
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
-  <string name="noContactsHelpTextWithSync">"Görüntülenecek kişiniz yok (Kısa bir süre önce hesap eklediyseniz kişileri senkronize etmek birkaç dakika sürebilir)
+  <string name="noContactsHelpTextWithSync">"Görüntülenecek kişiniz yok (Kısa bir süre önce hesap eklediyseniz kişileri eşitleme birkaç dakika sürebilir)
 
 Kişi eklemek için öncelikle"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Men&amp;#252;ye&lt;/font&gt;&lt;/b&gt;" dokunun ve sonras&amp;#305;nda:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesaplar tu&amp;#351;u ile bir hesap yarat&amp;#305;p ya da ekleyerek hesab&amp;#305;n&amp;#305;zdaki ki&amp;#351;ilerinizi tabletinizle senkronize edebilir
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesaplar tu&amp;#351;u ile bir hesap yarat&amp;#305;p veya ekleyerek hesab&amp;#305;n&amp;#305;zdaki ki&amp;#351;ilerinizi tabletinizle senkronize edebilir
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"G&amp;#246;r&amp;#252;n&amp;#252;m ayarlar&amp;#305; tu&amp;#351;u ile g&amp;#246;r&amp;#252;nt&amp;#252;lenecek ki&amp;#351;ileri se&amp;#231;ebilir
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Yeni Ki&amp;#351;i ile s&amp;#305;f&amp;#305;rdan yeni ki&amp;#351;ilerinizi olu&amp;#351;turabilir
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#304;&amp;#231;e aktar veya d&amp;#305;&amp;#351;a aktar ile Uim veya Sd kart&amp;#305;n&amp;#305;zda bulunan ki&amp;#351;ileri i&amp;#231;e aktarabilirsiniz
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#304;&amp;#231;e aktar veya d&amp;#305;&amp;#351;a aktar ile UIM veya SD kart&amp;#305;n&amp;#305;zda bulunan ki&amp;#351;ileri i&amp;#231;e aktarabilirsiniz
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
-  <string name="pref_key_sim_manage">Uim kart yönetimi</string>
-  <string name="pref_key_sim_manage1">Uim kart 1</string>
-  <string name="pref_key_sim_manage2">Uim kart 2</string>
-  <string name="readingSimContacts">Uim kart bilgisi okunuyor…</string>
-  <string name="simContacts_airplaneMode">Kişileri Uim karta aktarmak için uçak modunu kapatınız</string>
-  <string name="simContacts_empty">Uim kartta kişi yok</string>
-  <string name="simContacts_emptyLoading">Uim kartınızdan kişiler yükleniyor</string>
-  <string name="simContacts_title">Uim kart kişileri</string>
-  <string name="sim_account_name">Uim</string>
-  <string name="sim_capacity">Uim kart belleği</string>
-  <string name="sim_card_no_free_space_message">Uim kartınız dolu. Yeni kişiler içe aktarılamıyor. Uim kartınızı temizleyin ve yeniden deneyin</string>
-  <string name="sim_card_no_free_space_title">Uim kart dolu</string>
-  <string name="sim_contact_existing">Uim kişisi zaten mevcut</string>
-  <string name="sim_contact_invalid">Geçersiz Uim kişisi</string>
-  <string name="sim_contact_search_error">Uim kart kişileri aranırken hata oluştu</string>
-  <string name="sim_contacts">Uim kişileri</string>
-  <string name="sim_error_not_ready">Uim kişileri yükleniyor</string>
-  <string name="sim_export_loading">Uim kart okunuyor</string>
-  <string name="sim_indexed_contact_not_exist">Uim karttaki %1$d pozisyonu geçersiz. %2$d ile %3$d arasında olması gerekiyor</string>
-  <string name="sim_no_contact">Uim kartta kişi yok</string>
+  <string name="pref_key_sim_manage">UIM Kart Yönetimi</string>
+  <string name="pref_key_sim_manage1">UIM Kart 1</string>
+  <string name="pref_key_sim_manage2">UIM Kart 2</string>
+  <string name="readingSimContacts">UIM Kart bilgisi okunuyor…</string>
+  <string name="simContacts_airplaneMode">Kişileri UIM karta aktarmak için Uçak Modunu kapatınız</string>
+  <string name="simContacts_empty">UIM kartta kişi yok</string>
+  <string name="simContacts_emptyLoading">UIM kartınızdan kişiler yükleniyor</string>
+  <string name="simContacts_title">UIM kart kişileri</string>
+  <string name="sim_account_name">UIM</string>
+  <string name="sim_capacity">UIM kart belleği</string>
+  <string name="sim_card_no_free_space_message">UIM kartınız dolu. Yeni kişiler içe aktarılamıyor. UIM kartınızı temizleyin ve yeniden deneyin</string>
+  <string name="sim_card_no_free_space_title">UIM kart dolu</string>
+  <string name="sim_contact_existing">UIM kişisi zaten mevcut</string>
+  <string name="sim_contact_invalid">Geçersiz UIM kişisi</string>
+  <string name="sim_contact_search_error">UIM kart kişileri aranırken hata oluştu</string>
+  <string name="sim_contacts">UIM kişileri</string>
+  <string name="sim_error_not_ready">UIM kişileri yükleniyor</string>
+  <string name="sim_export_loading">UIM kart okunuyor</string>
+  <string name="sim_indexed_contact_not_exist">UIM karttaki %1$d pozisyonu geçersiz. %2$d ile %3$d arasında olması gerekiyor</string>
+  <string name="sim_no_contact">UIM kartta kişi yok</string>
 </resources>
