@@ -26,13 +26,13 @@
         <item>Kuala Lumpur</item>
     </string-array>
     <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
     </string-array>
     <string-array name="aqi_title_append">
         <item>%1$s</item>
@@ -54,30 +54,30 @@
     </string-array><string-array name="weather_type">
         <item>Güneşli</item>
         <item>Bulutlu</item>
-        <item>Kapalı</item>
+        <item>Kapalı Bulutlu</item>
         <item>Sisli</item>
-        <item>Ağır Yağmur Fırtınası</item>
-        <item>Sağanak</item>
-        <item>Yağmur Fırtınası</item>
-        <item>Gök Gürültülü Sağanak</item>
+        <item>Yoğun Sağanak Yağışlı</item>
+        <item>Şiddetli Yağmur</item>
+        <item>Sağnak Yağmurlu</item>
+        <item>Gök Gürültülü Yağmurlu</item>
         <item>Kısa Süreli Yağmur</item>
-        <item>Sağanak Yağış</item>
-        <item>Orta Dereceli Yağmur</item>
-        <item>Hafif Yağmur</item>
+        <item>Ağır Yağmurlu</item>
+        <item>Orta Dereceli Yağmurlu</item>
+        <item>Hafif Yağmurlu</item>
         <item>Karla Karışık Yağmur</item>
         <item>Kar Fırtınası/Tipi</item>
-        <item>Kar</item>
-        <item>Ağır Kar Yağışı</item>
-        <item>Orta Dereceli Kar Yağışı</item>
-        <item>Hafif Kar</item>
-        <item>Güçlü Kum Fırtınası</item>
-        <item>Kum Fırtınası</item>
+        <item>Karlı</item>
+        <item>Ağır Karlı</item>
+        <item>Orta Derecede Karlı</item>
+        <item>Hafif Karlı</item>
+        <item>Kuvvetli Kum Fırtınası</item>
+        <item>Kum Fırtınalı</item>
         <item>Kumlu</item>
         <item>Rüzgarlı</item>
         <item>Dolu</item>
-        <item>Toz</item>
-        <item>Sisli</item>
-        <item>Dondurucu Yağmur</item>
+        <item>Tozlu</item>
+        <item>Puslu</item>
+        <item>Dondurucu Yağmurlu</item>
         <item></item>
     </string-array>
     <string-array name="indices_uv_level">
