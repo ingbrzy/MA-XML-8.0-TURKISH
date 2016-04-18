@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_calllog_detail">Arama geçmişi detayları</string>
+  <string name="accessibility_calllog_detail">Arama geçmişinin detayları</string>
   <string name="account_container_title">Şuradan alındı:</string>
   <string name="account_default">Telefon</string>
   <string name="account_phone">Sadece telefon eşitlenmedi</string>
@@ -8,7 +8,7 @@
   <string name="account_sim2">SIM Kart %d</string>
   <string name="account_type_format">%1$s kişi</string>
   <string name="actionIncomingCall">Gelen çağrılar</string>
-  <string name="action_menu_overflow_description">Fazla Seçenek</string>
+  <string name="action_menu_overflow_description">Diğer Seçenekler</string>
   <string name="activity_title_confirm_add_detail">Kişiye Ekle</string>
   <string name="activity_title_contacts_filter">Görüntülenecek Kişiler</string>
   <string name="activity_title_settings">Ayarlar</string>
@@ -146,7 +146,7 @@
   <string name="clearCallLogConfirmation">Tüm çağrı geçmişiniz silinecek.</string>
   <string name="clearCallLogConfirmation_title">Tüm çağrı günlüğü temizlensin mi?</string>
   <string name="clearCallLogProgress_title">Çağrı günlüğü temizleniyor...</string>
-  <string name="clearFrequentsConfirmation">Telefondaki ve kişilerdeki sık kullanılanları temizle ve e-posta uygulamasının adresleme tercihlerini sıfırlamasını sağla.</string>
+  <string name="clearFrequentsConfirmation">Telefondaki ve kişilerdeki sık kullanılanları temizle ve E-Posta uygulamasının adresleme tercihlerini sıfırlamasını sağla.</string>
   <string name="clearFrequentsConfirmation_title">Sık görüşülenler temizlensin mi?</string>
   <string name="clearFrequentsProgress_title">Sık görüşülenler temizleniyor...</string>
   <string name="clear_default">Varsayılanları temizle</string>
@@ -272,9 +272,9 @@ Kartvizitler kapalı"</string>
   <string name="deleting_sim_entry_miui_prepare">Silmek için hazırlanıyor…</string>
   <string name="description_add_contact">Kişiyi Ekle</string>
   <string name="description_call">Ara :%1$s</string>
-  <string name="description_call_log_incoming_call">Gelen Arama</string>
+  <string name="description_call_log_incoming_call">Gelen Çağrı</string>
   <string name="description_call_log_missed_call">Cevapsız Çağrı</string>
-  <string name="description_call_log_outgoing_call">Giden Arama</string>
+  <string name="description_call_log_outgoing_call">Giden Çağrı</string>
   <string name="description_call_log_play_button">Sesli Mesajı Çal</string>
   <string name="description_call_log_unheard_voicemail">Dinlenmemiş Sesli Mesaj</string>
   <string name="description_call_log_voicemail">Sesli Mesaj</string>
@@ -460,7 +460,7 @@ Sebep: \"%s\""</string>
   <string name="ic_menu_done">Tamam</string>
   <string name="imLabelsGroup">Anlık Mesaj</string>
   <string name="imei">"IMEI : "</string>
-  <string name="imei_invalid">IMEI Geçersiz</string>
+  <string name="imei_invalid">Geçersiz IMEI </string>
   <string name="import_all_sim_entries_miui">Tüm kişileri içe aktar</string>
   <string name="import_all_vcard_string">Tüm vCard dosyalarını içe aktar</string>
   <string name="import_contact_card_button">İçe aktar</string>
