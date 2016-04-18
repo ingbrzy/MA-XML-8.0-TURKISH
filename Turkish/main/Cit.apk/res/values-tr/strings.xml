@@ -67,15 +67,15 @@
   <string name="GPS_provider_enabled">GPS aktif, taramaya başla......</string>
   <string name="GPS_scan_timeout">HATA: GPS tarama zaman aşımı</string>
   <string name="GPS_test_ok">GPS Test: tamam</string>
-  <string name="Gpstestcheck">Gps Test Kontrol</string>
-  <string name="HallSensor">Hall Sensörü</string>
+  <string name="Gpstestcheck">Gps Test Kontrolü</string>
+  <string name="HallSensor">Salon Sensörü</string>
   <string name="Light">Işık Sensörü</string>
   <string name="LightAProximity">Işık/Yakınlık</string>
   <string name="MHz">MHz</string>
   <string name="Midtest_GPS_Message">Midtest GPS Mesajı</string>
   <string name="OTG">OTG</string>
-  <string name="OTG_mounted">OTG cihazi mevcut</string>
-  <string name="OTG_unmounted">OTG cihazı kullanılamıyor</string>
+  <string name="OTG_mounted">OTG cihazı mevcut</string>
+  <string name="OTG_unmounted">OTG cihazı mevcut değil</string>
   <string name="PCBATest">PCBA Test</string>
   <string name="PCBAtest">PCBA Test</string>
   <string name="Proximity">Yakınlık</string>
@@ -84,8 +84,8 @@
   <string name="SD2_SDCard_mounted">SD_2_Card bulundu</string>
   <string name="SD2_SDCard_unmounted">SDCard 2 mevcut değil</string>
   <string name="SDCard">Harici SD Kart</string>
-  <string name="SD_INTERNAL_SDCard_mounted">检测到内部SD卡</string>
-  <string name="SD_INTERNAL_SDCard_unmounted">没有检测到内部SD卡</string>
+  <string name="SD_INTERNAL_SDCard_mounted">Dahili SD kart algılandı</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">Dahili SD kart algılamıyor</string>
   <string name="SD_SDCard_available_szie">Mevcut boyutu</string>
   <string name="SD_SDCard_mounted">SD Kart Algıla</string>
   <string name="SD_SDCard_total_size">Toplam boyut</string>
@@ -144,7 +144,7 @@
   <string name="adjust_again">Kalibrasyonu tekrarla</string>
   <string name="adjust_begin">Kalibrasyon</string>
   <string name="adjust_fail">Kalibrasyon başarısız</string>
-  <string name="adjust_getadc_ok">校准成功，请放上黑卡，进行黑卡测试！</string>
+  <string name="adjust_getadc_ok">Kalibrasyon başarılıdır, Siyah kart, siyah kart testi koyunuz!</string>
   <string name="adjust_ok">Kalibrasyon başarılı</string>
   <string name="aifsninfo">Aifsn:</string>
   <string name="aifsnlimit">[0-255]</string>
@@ -219,7 +219,7 @@ Sadece kare modunda"</string>
   <string name="battery_vol_test">Pil Kapasitesi</string>
   <string name="bearing">Kuzeyden Doğuya:</string>
   <string name="black">Siyah</string>
-  <string name="blackcardtest">黑卡测试</string>
+  <string name="blackcardtest">Siyah kart testi</string>
   <string name="blow_from_mic_to_rec">Mikrofona üfleyin, alıcıdan dinleyin. Ses olup olmadığını kontrol edin.</string>
   <string name="blow_to_earphone_mic">Kulaklık mikrofona üfleyin, alıcıdan dinleyin. Ses olup olmadığını kontrol edin.</string>
   <string name="blow_to_mic">Mikrofona üfleyin, hoparlörden dinleyin. Ses olup olmadığını kontrol edin.</string>
@@ -252,7 +252,7 @@ Sadece kare modunda"</string>
   <string name="camera_test">Kamera</string>
   <string name="camerainfo">Kamera Bilgileri</string>
   <string name="cancel">İptal</string>
-  <string name="cancelling">\u0009Cancelling...</string>
+  <string name="cancelling">\u0009İptal ediliyor...</string>
   <string name="cannot_find_file">müzik dosyası bulunamadı--speakertest.mp3</string>
   <string name="cannot_open">Açılamıyor</string>
   <string name="cannot_read">Okunamıyor</string>
@@ -365,7 +365,7 @@ Sadece kare modunda"</string>
   <string name="flashled2_on">打开闪光灯2</string>
   <string name="flashled_off">Flaş Kapalı</string>
   <string name="flashled_on">Flaş Açık</string>
-  <string name="flashledtest">Flaş LEDi parlak mı?</string>
+  <string name="flashledtest">"Flaş LED'i parlak mı?"</string>
   <string name="fm_recorder_name">FM Kaydedici</string>
   <string name="fm_stopped_text">FM Radyo durduruldu!</string>
   <string name="fm_test">FM</string>
@@ -382,8 +382,8 @@ Sadece kare modunda"</string>
   <string name="frequence2">Frekans:</string>
   <string name="frequence_range" formatted="false">" (Mesafe:%2.1f~%2.1fMHz)"</string>
   <string name="front_camera">Ön Kamera</string>
-  <string name="getadc_fail">黑卡测试失败</string>
-  <string name="getadc_pass">黑卡测试成功</string>
+  <string name="getadc_fail">Siyah Kart Testi başarısız</string>
+  <string name="getadc_pass">Siyah kart testi başarılı</string>
   <string name="golden">Altın</string>
   <string name="gotoairplane">Uçuş Modunu Aç</string>
   <string name="gotosleep">Uykuya Yat</string>
@@ -395,7 +395,7 @@ Sadece kare modunda"</string>
   <string name="greenledtest">Yeşil LED</string>
   <string name="gyroscope">Jiroskop</string>
   <string name="gyroscope_hint">Lütfen kübü döndür</string>
-  <string name="hallsensorinfo">Hall Sensör Testi...</string>
+  <string name="hallsensorinfo">Salon Sensör Testi...</string>
   <string name="hand_test">CIT Testi</string>
   <string name="hardver">Donanım Sürümü:</string>
   <string name="hardware_test">Donanım Testi</string>
@@ -408,7 +408,7 @@ Sadece kare modunda"</string>
   <string name="headset_out_test">Kulaklık çıkartıldı</string>
   <string name="headset_plug_in">Kulaklık bağlı</string>
   <string name="headset_plug_out">Kulaklık çıkartıldı</string>
-  <string name="headset_pluged_in">HKulaklık bağlandı</string>
+  <string name="headset_pluged_in">Kulaklık bağlandı</string>
   <string name="headset_unplug_err">FM Radyo durduruldu.</string>
   <string name="height">Yükseklik :</string>
   <string name="imei">[ IMEI]:</string>
@@ -554,9 +554,9 @@ off---Sürekli Tx devre dışı bırak"</string>
   <string name="pkgsizelimit">[32-1500]</string>
   <string name="pkgsizeout">paket boyutu 32 ile 1500 arasında olmalı!</string>
   <string name="play_music">SD Karttan Müzik Çal</string>
-  <string name="play_music_info">SD Karttan Müzik Çal. Lütfne .mp3 olan SD Kart takın</string>
+  <string name="play_music_info">SD Karttan Müzik Çal. Lütfen .mp3 olan SD Kart takın</string>
   <string name="play_music_no_sd">mp3 çal</string>
-  <string name="play_music_no_sd_hint">请听喇叭是否播放声音</string>
+  <string name="play_music_no_sd_hint">Çalan sesi hoparlörden dinleyin</string>
   <string name="play_music_on_sd">SK Karttan mp3 çal</string>
   <string name="play_over_and_judge">Oynatma bitti lütfen başarılı/başarısız oluğ olmadığını değerlendirin</string>
   <string name="pls_plug_charger_out">Lütfen şarji takın</string>
@@ -584,10 +584,10 @@ mod:0-15"</string>
   <string name="preset_edit">Düzenle</string>
   <string name="preset_replace">Yenile</string>
   <string name="preset_tune">Ayar</string>
-  <string name="press_hookkey_hint">Aşağıdaki görüntü yeşil olacak şekilde kancaya bsın</string>
+  <string name="press_hookkey_hint">Aşağıdaki görüntü yeşil olacak şekilde kancaya basın</string>
   <string name="press_record">Bas: 0-MIC 1-Rx 2-Tx+Rx 3-AMR 4-EVRC 5-QCELP 6-AAC_MP4 ve basarak kaydet</string>
   <string name="pretestresult">Önceki sonuç</string>
-  <string name="proximity_sensor_test">Yakınlık sensörü</string>
+  <string name="proximity_sensor_test">Yakınlık Sensörü</string>
   <string name="purple">Mor</string>
   <string name="qc_nv_flag">"QC NV İşareti: "</string>
   <string name="radioInfo_cid">CID</string>
@@ -635,7 +635,7 @@ mod:0-15"</string>
   <string name="remove_headset">Lütfen kulaklığı çıkart</string>
   <string name="remove_headset_and_starttest">Lütfen kulaklığı çıkart ve testte başla</string>
   <string name="research_and_development">Araştırma ve Geliştirme</string>
-  <string name="reset">Sufurla</string>
+  <string name="reset">Sıfırla</string>
   <string name="result">Sonuç</string>
   <string name="review_message">Mesaja bak</string>
   <string name="rom_size">ROM Boyutu :</string>
@@ -647,12 +647,12 @@ mod:0-15"</string>
   <string name="save_local_freq">Yerel frekansı sakla</string>
   <string name="sd_u_test">SD_U disk</string>
   <string name="sdcard_result">[SDCARD]:</string>
-  <string name="sdcarddetect">SD kart ara</string>
+  <string name="sdcarddetect">SD Kartı denetle</string>
   <string name="search">Ara</string>
   <string name="searching">Aranıyor... %d Kanallar</string>
   <string name="sec_available">%ds mevcut</string>
   <string name="secureboot_text">secureboot durumu</string>
-  <string name="seeking">\u0009Searching...</string>
+  <string name="seeking">\u0009Aranıyor...</string>
   <string name="selectall">Hepsi</string>
   <string name="send">Gönder</string>
   <string name="send_test">Gönder Testi</string>
@@ -669,7 +669,7 @@ mod:0-15"</string>
 "</string>
   <string name="softver">Yazılım Sürümü:</string>
   <string name="softversion">Yazılım Sürümü</string>
-  <string name="softversion_hint">进入功能测试？</string>
+  <string name="softversion_hint">Fonksiyon Testi</string>
   <string name="someinfo">Bazı Bilgiler</string>
   <string name="sound_mode">Ses Modu</string>
   <string name="speak_from_mic">Mikrofona konuş, hoparlörden duy, sese göre karar ver.</string>
@@ -737,7 +737,7 @@ mod:0-15"</string>
   <string name="unique_id_null">benzersiz ID boş olmalı</string>
   <string name="unique_id_text">Benzersiz id</string>
   <string name="unit">" MHz"</string>
-  <string name="unknown">未知</string>
+  <string name="unknown">Bilinmiyor</string>
   <string name="unlock">kilitsiz</string>
   <string name="unmodulated">Modülsüz</string>
   <string name="usrdata_version">Kullanıcı Veri Sürümü</string>
@@ -757,7 +757,7 @@ pESN:%s
   <string name="wifi_result">[WIFI]:</string>
   <string name="wifi_test">Wifi</string>
   <string name="wifi_transmit">WIFI RECEIVER</string>
-  <string name="wifi_transmit_init">WIFI iletimi açıl...</string>
+  <string name="wifi_transmit_init">WIFI iletimi açılıyor...</string>
   <string name="wifi_transmit_recv">WIFI RECV</string>
   <string name="wifi_transmit_send">WIFI SEND</string>
   <string name="wifistateunknown">Wifi durumu bilinmiyor</string>
