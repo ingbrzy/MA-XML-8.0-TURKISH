@@ -33,8 +33,9 @@
   <string name="aqi_detail_pm10">PM10  : %1$s μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
   <string name="aqi_detail_pm25">PM2.5 : %1$s μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
   <string name="aqi_detail_so2">SO&lt;small&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/small&gt; : %1$s μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
-  <string name="aqi_detail_subtitle">AQI : %1$s</string>
+  <string name="aqi_detail_subtitle">HKE : %1$s</string>
   <string name="aqi_detail_title">Hava Kalite İndeksi</string>
+  <string name="aqi_short_desc">HKE %1$s</string>
   <string name="button_abandon">Değişikliklerden vazgeç</string>
   <string name="button_allow">Tamam</string>
   <string name="button_confirm">İzin Ver</string>
@@ -47,6 +48,7 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s sonra.</string>
   <string name="daily_forcast_whirl_wind">Kasırga</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
+  <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title"/>
   <string name="edit_city">Düzenle</string>
@@ -57,10 +59,10 @@
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Şimdi</string>
   <string name="indices_desc_Precip1hr">%1$smm</string>
-  <string name="indices_desc_feel">%1$s°C gibi hissettiriyor</string>
+  <string name="indices_desc_feel">Hissedilen Sicaklık: %1$s°C</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
-  <string name="indices_desc_humidity">Nem %1$s%%</string>
-  <string name="indices_desc_humidity_without_pic">%1$s%%</string>
+  <string name="indices_desc_humidity">Nem: %1$s%%</string>
+  <string name="indices_desc_humidity_without_pic">%%%1$s</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
   <string name="indices_desc_visibility">%1$skm</string>
   <string name="indices_no_restriction">Yok</string>
@@ -100,6 +102,14 @@
   <string name="sunrise">Gündoğumu</string>
   <string name="sunset">Günbatımı</string>
   <string name="title_share_link">URL\'yi Paylaş</string>
+  <string name="tts_report_aqi"/>
+  <string name="tts_report_city_name"/>
+  <string name="tts_report_defautl_head"/>
+  <string name="tts_report_split"/>
+  <string name="tts_report_temperature_high"/>
+  <string name="tts_report_temperature_low"/>
+  <string name="tts_report_weather_desc"/>
+  <string name="tts_report_wind"/>
   <string name="twc_logo_title"/>
   <string name="view_forecast_item_yesterday">Dün</string>
   <string name="view_indexes_item_today">Bugün</string>
