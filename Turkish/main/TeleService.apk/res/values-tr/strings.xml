@@ -170,7 +170,6 @@
   <string name="calling_via_template">%s ile aranıyor</string>
   <string name="callwait_open_hint">\"Çağrı Bekletme\" özelliği operatörünüz tarafından sağlanmaktadır. Eğer herhangi bir hata bildirimi alıyorsanız, bu özelliğin desteklendiğinden emin olmak için operatörünüz ile görüşün.</string>
   <string name="can_not_use_for_not_data_sim">"(Kullanamazsınız: Varsayılan SIM verisi olarak ayarlanmalı)"</string>
-  <string name="cancel">İptal</string>
   <string name="cancel_call">İptal</string>
   <string name="card_title_MOcall_forwarding">Giden Yönlendirilmiş Çağrı</string>
   <string name="card_title_MTcall_forwarding">Gelen Çağrı Yönledirilmiş</string>
@@ -191,8 +190,6 @@
   <string name="card_title_multipartycall">Çoklu Çağrı</string>
   <string name="card_title_outgoing_barred">Giden Engelli Çağrı</string>
   <string name="card_title_unconditionalCF">Şartısız Çağrı Yönlendirme açık</string>
-  <string name="carrier_settings"/>
-  <string name="carrier_settings_menu"/>
   <string name="cb_sms_settings">Hücresel SMS Ayarları</string>
   <string name="cdma_activate_device">Cihazı Etkinleştir</string>
   <string name="cdma_alert_message">"Eğer mobil veri için varsayılan olarak başka bir kart seçerseniz, (Dolaşımda hariç) Çin Telecom SIM kartını kullanmak mümkün olmayacaktır."</string>
@@ -227,8 +224,6 @@
   <string name="cb_menu_delete">Sil</string>
   <string name="cb_menu_edit">Düzenle</string>
   <string name="cb_menu_language">Dil</string>
-  <string name="cb_sms_settings">Hücre SMS Ayarları</string>
-  <string name="cdma_activate_device">Cihazı etkinleştir</string>
   <string name="cdma_display_precise_call_state_message">"Şebeke operatörünüz bu fonksiyonu desteklemiyorsa, arama durumu yanlış olabilir."</string>
   <string name="cdma_display_precise_call_state_summary">Şebeke operatörünüz bu fonksiyonu desteklediğinden emin olun</string>
   <string name="cdma_display_precise_call_state_title">Çağrı Durumunu Görüntüle</string>
@@ -773,9 +768,7 @@ Kontör yükle ve konuşmaya başla"</string>
   <string name="network_2G">2G</string>
   <string name="network_3G">3G</string>
   <string name="network_4G">4G (tavsiye edilen)</string>
-  <string name="name">Adı</string>
-
-<string name="network_error_message_livetalk">Düzenli arama yapmak için deneyin. Bu operatör tarafından tahsil edilecektir.</string>
+  <string name="network_error_message_livetalk">Düzenli arama yapmak için deneyin. Bu operatör tarafından tahsil edilecektir.</string>
   <string name="network_error_title">Ağ Hatası</string>
   <string name="network_forbidden">%s yasaklandı</string>
   <string name="network_global">Genel</string>
@@ -999,79 +992,15 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="preference_telocation_summary_teloc_on">Kişi Konumunu Göster</string>
   <string name="preference_telocation_title">Konum</string>
   <string name="preferred_network_mode_dialogtitle">Tercih Edilen Ağ Tipi</string>
-  <string name="preferred_network_mode_summary">Ağ modunu değiştirin</string>
-  <string name="preferred_network_mode_title">Tercih Edilen Ağ Tipi</string>
-  <string name="preferred_network_restrict_network_changed_incall">"Çağrı esnasında ağ modu değiştirilemez"</string>
-  <string name="preferred_network_type_3g_only_warning">"SIM kartın ağa bağlanması için 3G'yi desteklemesi gerekir."</string>
-  <string name="preferred_network_type_cdma">CDMA</string>
-  <string name="preferred_network_type_pref_entries_3g_preferred">3G Tercihi</string>
-  <string name="preferred_network_type_pref_entries_3g_preferred_cdma">3G (CDMA) Tercihi</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred">LTE Tercihi</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G (CDMA) Tercihi</string>
-  <string name="preferred_network_type_pref_entries_auto">Otomatik</string>
-  <string name="preferred_network_type_pref_entries_global">Global</string>
-  <string name="preferred_network_type_pref_entries_only_2g">Sadece 2G (pil tasarrufu)</string>
-  <string name="preferred_network_type_pref_entries_only_3g">Sadece 3G</string>
-  <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Tercih Edilen Ağ Tipi</string>
   <string name="primary_account_summary_with">Birincil Hesap. %s</string>
-  <string name="private_num">Birincil Numara</string>
   <string name="proceed">İlerle</string>
-  <string name="progress_dialog_exiting_ecm">Acil Durum Çağrısı modundan çıkılıyor</string>
-  <string name="proxy_address">ProxyAddress</string>
-  <string name="proxy_address_title">Giden proxy adresi</string>
-  <string name="pstn_phone">Cep telefon çağrısı</string>
-  <string name="puk2_label">PUK2 kodunu girin</string>
-  <string name="puk_label">PUK kodunu girin</string>
   <string name="puk_lock_warning">"
 Your SIM card will be erased after another failed attempt."</string>
-  <string name="puk_requested">Password incorrect, PIN has been blocked. PUK requested.</string>
   <string name="puk_unlock_failed">PUK unlock unsuccessful.</string>
   <string name="puk_unlock_success">PUK unlock successful.</string>
-  <string name="puk_unlocked">Your SIM card has been unblocked. Your phone is unlocking…</string>
-  <string name="purchase">Purchase</string>
-  <string name="purchase_description_summary">"- Call any phone in the world, there are no carrier restrictions.
-- No conflicts with your current plan.
-- Top up and start calling.
-- There are no complicated settings."</string>
-  <string name="purchase_description_title">About</string>
-  <string name="purchase_limit">You reached the top up limit</string>
-  <string name="purchase_list">Purchase history</string>
-  <string name="purchase_notes">Note: It can be used for international calls. The amount paid for 1 min of the international call equals the amount for 6 min domestic.</string>
-  <string name="query">Query</string>
-  <string name="quickly_verify">Verify</string>
-  <string name="radio_off_error">Turn on the radio before viewing these settings.</string>
-  <string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
-  <string name="rc_unlock_success">RUIM Corporate unlock successful.</string>
-  <string name="reading_settings">Reading settings…</string>
-  <string name="regional_disable">Regional news is off</string>
-  <string name="regional_enable">Regional news is on</string>
-  <string name="register_automatically">Automatic registration…</string>
-  <string name="register_on_network">Registering on %s…</string>
-  <string name="registration_done">Registered on network.</string>
-  <string name="registration_status_checking_status">Checking…</string>
-  <string name="registration_status_done">Receiving calls.</string>
-  <string name="registration_status_failed_try_later">"Couldn't register account. %s)"</string>
-  <string name="registration_status_invalid_credentials">The username or password you entered is incorrect.</string>
-  <string name="registration_status_no_data">"You don't have a network connection."</string>
-  <string name="registration_status_no_wifi_data">"You're not connected to a WLAN network"</string>
-  <string name="registration_status_not_receiving">Not receiving calls.</string>
-  <string name="registration_status_not_running">"Couldn't register account"</string>
-  <string name="registration_status_registering">Registering…</string>
-  <string name="registration_status_server_unreachable">"Couldn't register account. Make sure the server name you entered is correct."</string>
-  <string name="registration_status_still_trying">Just a sec…</string>
-  <string name="reject_via_sms">Quick responses</string>
-  <string name="reject_via_sms_summary">Edit pre-written text messages</string>
-  <string name="reject_via_sms_title">Quick responses</string>
-  <string name="remain_mins_divider">or</string>
-  <string name="remain_mins_domestic">Remaining (domestic)</string>
-  <string name="remain_mins_international">Remaining (international)</string>
-  <string name="remain_mins_unit">min</string>
   <string name="remember_my_choice">Always use to place internet calls</string>
-  <string name="remove">Delete</string>
   <string name="remove_ims_account">Remove account</string>
-  <string name="remove_sip_account">Remove account</string>
-  <string name="removing_account">Removing…</string>
   <string name="requesting_corporate_unlock">Requesting SIM corporate unlock…</string>
   <string name="requesting_nw_subset_unlock">Requesting SIM network subset unlock…</string>
   <string name="requesting_puk_unlock">Requesting PUK unlock…</string>
@@ -1409,7 +1338,7 @@ Bu sorun devam ederse lütfen operatörünüze başvurun."</string>
   <string name="voip_setting">VoIP Ayarları</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="xdivert_button">X-Divert settings</string>
-  <string name="xdivert_setting">X-Divert settings</string>
+  <string name="xdivert_setting">X-Yönlendirme Ayarları</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
 </resources>
