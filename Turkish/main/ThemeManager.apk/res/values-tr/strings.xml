@@ -129,10 +129,10 @@
   <string name="resource_comment_expand_full_text">Tüm metni genişlet▼</string>
   <string name="resource_comment_footer">Boş yorumlar görüntülenmez.</string>
   <string name="resource_comment_good_comments">Müspet</string>
-  <string name="resource_comment_invalid">Yıldıza dokunarak temayi derecelendirin</string>
+  <string name="resource_comment_invalid">Yıldıza dokunarak temayı derecelendirin</string>
   <string name="resource_comment_loading_list">Biraz bekleyin...</string>
   <string name="resource_comment_name_default">Kullanıcı %1$s</string>
-  <string name="resource_comment_no_average_score">Değerlendirilmemiş</string>
+  <string name="resource_comment_no_average_score">Değerlendirilmedi</string>
   <string name="resource_comment_no_comment">Yorum yok</string>
   <string name="resource_comment_publish">Gönder</string>
   <string name="resource_comment_rate">Derecesi:</string>
@@ -163,9 +163,9 @@
   <string name="resource_detail_recommend_other_themes">Beğenildi</string>
   <string name="resource_detail_update_log_title">Güncellemeler</string>
   <string name="resource_detail_vertical_divider">|</string>
-  <string name="resource_detail_window_title">%1$sın Detayları</string>
+  <string name="resource_detail_window_title">"%1$sın Detayları</string>
   <string name="resource_download">İndir</string>
-  <string name="resource_download_notification_title_many">%1$s temalar indirildi</string>
+  <string name="resource_download_notification_title_many">%1$s tema indirildi</string>
   <string name="resource_download_notification_title_one">Tema indirildi</string>
   <string name="resource_download_trial">Ücretsiz deneyin</string>
   <string name="resource_downloaded_title">İndirilen Temalar</string>
@@ -188,7 +188,7 @@
   <string name="resource_exchange_window_title">Kurtar</string>
   <string name="resource_exchange_wrong_format_by_local">Girdiğiniz kod biçimi yanlış.</string>
   <string name="resource_exchange_wrong_format_by_server">"Kod doğrulanmadı. Doğru kodu girdiğinizden emin olun."</string>
-  <string name="resource_expand_full_text">Gelişlet</string>
+  <string name="resource_expand_full_text">Genişlet</string>
   <string name="resource_failed_to_load_list">"Temalar yüklenemedi."</string>
   <string name="resource_get_auth_checking">Doğrulanıyor…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Bu hesap zaten 10 cihazda yetkilendirildi</string>
@@ -206,7 +206,7 @@
   <string name="resource_menu_refresh">Yenile</string>
   <string name="resource_mute">Yok</string>
   <string name="resource_my">Çevrimiçi</string>
-  <string name="resource_network_diagnostics">&lt;u&gt;Ağ Tanımlama&lt;/u&gt;</string>
+  <string name="resource_network_diagnostics">&lt;u&gt;Ağ Teşhisi&lt;/u&gt;</string>
   <string name="resource_no_match_app">Bu eylemi gerçekleştirecek uygulama bulunamadı.</string>
   <string name="resource_no_network_text">"Ağ bağlantısı yok."</string>
   <string name="resource_no_result">"Sonuç bulunamadı"</string>
@@ -333,11 +333,11 @@
   <string name="theme_description_title_default">Varsayılan</string>
   <string name="theme_empty_redirect">Tema Mağazasına dön</string>
   <string name="theme_favorite_add_fail">"Tema favorilere eklenemedi"</string>
-  <string name="theme_favorite_add_success">Tema favorilerde</string>
+  <string name="theme_favorite_add_success">Favorilere eklendi</string>
   <string name="theme_favorite_delete">Favoriden çıkart</string>
-  <string name="theme_favorite_delete_fail">"Tema favariden çıkartılamadı"</string>
+  <string name="theme_favorite_delete_fail">"Tema favoriden çıkartılamadı"</string>
   <string name="theme_favorite_delete_success">Tema favoriden çıkartıldı</string>
-  <string name="theme_favorite_list_empty">"Herhangi tema favori de değil."</string>
+  <string name="theme_favorite_list_empty">"Favorilerde herhangi bir tema yok."</string>
   <string name="theme_favorite_waiting">Biraz bekleyin...</string>
   <string name="theme_fresh_man_notifaction">Yeni tema mevcut</string>
   <string name="theme_immediately_apply_tip">Şimdi tema güncellensin mi?</string>
@@ -379,7 +379,7 @@
   <string name="wallpaper_crop">Kırp</string>
   <string name="wallpaper_decoded_error">"Duvar Kağıdı yüklenemiyor"</string>
   <string name="wallpaper_loading_text">Biraz bekleyin...</string>
-  <string name="wallpaper_set_as_both">İkisine Ayarla</string>
+  <string name="wallpaper_set_as_both">İkiside Ayarla</string>
   <string name="wallpaper_set_as_destop">Ana Ekrana Ayarla</string>
   <string name="wallpaper_set_as_lockscreen">Kilit Ekranına Ayarla</string>
   <string name="wallpaper_settings">Duvar Kağıdı Ayarları</string>
