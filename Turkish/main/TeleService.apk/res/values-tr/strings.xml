@@ -19,7 +19,6 @@
   <string name="administrative_disable">Yönetici kapalı</string>
   <string name="administrative_enable">Yönetici etkin</string>
   <string name="advanced_settings">İsteğe Bağlı Ayarlar</string>
-  <string name="advanced_settings_container">Gelişmiş ayarlar kapsayıcısı</string>
   <string name="advanced_settings_hide">Tümünü gizlemek için dokunun ▼</string>
   <string name="advanced_settings_show">Tümünü göstermek için dokunun ▲</string>
   <string name="advertisements_disable">Reklamlar devre dışı</string>
@@ -53,7 +52,6 @@
   <string name="audio_mode_earpiece">Ahizeli Kulaklık</string>
   <string name="audio_mode_speaker">Hoparlör</string>
   <string name="audio_mode_wired_headset">Kablolu Kulaklık</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Kimlik doğrulama için kullanılan kullanıcı adı</string>
   <string name="auth_username_title">Kimlik doğrulamalı kullanıcı adı</string>
   <string name="auto_answer_delay_entries_delay_10s">10 saniye</string>
@@ -299,9 +297,7 @@
   <string name="default_areacode">Varsayılan alan kodu</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_notification_description">Varsayılan ses (%1$s)</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Ayarlanmadı&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Sil</string>
   <string name="deleteAllSimEntries">Tüm SIM kişilerini sil</string>
   <string name="deleteSimContacts">Siliniyor…</string>
@@ -370,11 +366,9 @@
   <string name="disable_fdn_ok">Sabit Arama Numarası açık</string>
   <string name="disable_pin_ok">SIM PIN kapalı</string>
   <string name="disable_sim_pin">SIM PIN kapalı</string>
-  <string name="display_name">GörünenAdı</string>
   <string name="display_name_summary">&lt;Kullanıcı adıyla aynı&gt;</string>
   <string name="display_name_title">Görünen Adı</string>
   <string name="do_not_ask">"Tekrar Sorma"</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Sunucu</string>
   <string name="domestic_calls">Sadece yerli</string>
   <string name="doneButton">Tamam</string>
@@ -927,7 +921,6 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="other_settings">Diğer çağrı ayarları</string>
   <string name="other_settings_category">Diğer</string>
   <string name="overseas_roaming_setting">Veri Dolaşımı</string>
-  <string name="password">Şifre</string>
   <string name="password_changed">Şifre değiştirildi</string>
   <string name="password_title">Şifre</string>
   <string name="pause_prompt_no">Hayır</string>
@@ -995,8 +988,6 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="preferred_network_type_title">Tercih Edilen Ağ Tipi</string>
   <string name="primary_account_summary_with">Birincil Hesap. %s</string>
   <string name="proceed">İlerle</string>
-  <string name="puk_lock_warning">"
-Your SIM card will be erased after another failed attempt."</string>
   <string name="puk_unlock_failed">PUK unlock unsuccessful.</string>
   <string name="puk_unlock_success">PUK unlock successful.</string>
   <string name="remember_my_choice">Always use to place internet calls</string>
@@ -1043,7 +1034,6 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="preferred_network_type_pref_entries_only_2g">Sadece 2G (Pil Tasarrufu)</string>
   <string name="preferred_network_type_pref_entries_only_3g">Sadece 3G</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
-  <string name="preferred_network_type_title">Tercih edilen ağ tipi</string>
   <string name="private_num">Özel Numara</string>
   <string name="progress_dialog_exiting_ecm">Acil Geri Arama Modundan çıkılıyor</string>
   <string name="proxy_address">Proxy Adresi</string>
@@ -1142,10 +1132,8 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="select_voice_call_sim">Choose SIM card</string>
   <string name="sendSms">Send SMS</string>
   <string name="send_button">Send</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Send keep-alive</string>
   <string name="send_order_failed">"Couldn't send order"</string>
-  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Used for outbound calls</string>
   <string name="set_primary_title">Set as primary account</string>
   <string name="set_smsc_address_error">"Can't set number"</string>
@@ -1162,7 +1150,7 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="simContacts_airplaneMode">To import contacts from the SIM card, turn off Airplane mode.</string>
   <string name="simContacts_emptyLoading">Reading…</string>
   <string name="simContacts_title">Manage SIM card contacts</string>
-  <string name="sim_activated">Verified</string>
+  <string name="sim_activated">Doğrulandı</string>
   <string name="sim_card_activate">Current SIM card</string>
   <string name="sim_contact_name">Name</string>
   <string name="sim_contact_number">Number</string>
@@ -1175,10 +1163,7 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="sip_accounts">Internet calling (SIP) accounts</string>
   <string name="sip_accounts_title">SIP accounts</string>
   <string name="sip_add_account_tip_text">To use internet calling, add an SIP account</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
-  <string name="sip_always_send_keepalive">Always send</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
+  <string name="sip_always_send_keepalive">Daima gönder</string>
   <string name="sip_call_options_entry_1">For all calls when mobile data is available</string>
   <string name="sip_call_options_entry_2">Only for internet calls</string>
   <string name="sip_call_options_entry_3">Her çağrı için sor</string>
@@ -1280,7 +1265,6 @@ Veri hızı %2$d Kb/s düşürüldü"</string>
   <string name="title_rates">Rates</string>
   <string name="title_user_config">Activate SIM card</string>
   <string name="top_up_first">Top-up first</string>
-  <string name="transport">Protocol</string>
   <string name="transport_title">Transport type</string>
   <string name="tty_mode_entries_full">TTY Full</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
@@ -1306,7 +1290,6 @@ Veri hızı %2$d Kb/s düşürüldü"</string>
   <string name="use_history">Etkinlik</string>
   <string name="use_history_duration_min">%1$s dak</string>
   <string name="use_range">Özellikler</string>
-  <string name="username">UserName</string>
   <string name="username_title">Kullanıcı Adı</string>
   <string name="ussdRunning">USSD kodu çalışıyor...</string>
   <string name="ussd_dialog_sep">----------</string>
