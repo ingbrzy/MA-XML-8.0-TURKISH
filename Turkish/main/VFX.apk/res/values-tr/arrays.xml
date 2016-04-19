@@ -222,21 +222,6 @@
         <item>90</item>
         <item>100</item>
     </string-array>
-    <string-array name="equalizer_preset_modes">
-        <item>@string/eq_preset_acoustic</item>
-        <item>@string/eq_preset_bass_booster</item>
-        <item>@string/eq_preset_bass_reducer</item>
-        <item>@string/eq_preset_classical</item>
-        <item>@string/eq_preset_deep</item>
-        <item>@string/eq_preset_flat</item>
-        <item>@string/eq_preset_r_and_b</item>
-        <item>@string/eq_preset_rock</item>
-        <item>@string/eq_preset_small_speakers</item>
-        <item>@string/eq_preset_treble_booster</item>
-        <item>@string/eq_preset_treble_reducer</item>
-        <item>@string/eq_preset_vocal_booster</item>
-        <item>@string/eq_preset_custom</item>
-    </string-array>
     <string-array name="equalizer_preset_values">
         <item>4.5;4.5;3.5;1.2;1.0;0.5;1.4;1.75;3.5;2.5;</item>
         <item>10.0;6.5;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;</item>
