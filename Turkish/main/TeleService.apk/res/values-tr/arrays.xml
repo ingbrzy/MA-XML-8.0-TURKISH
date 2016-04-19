@@ -6,10 +6,6 @@
         <item>3</item>
         <item>4</item>
     </string-array>
-    <string-array name="transport_types">
-        <item>UDP</item>
-        <item>TCP</item>
-    </string-array>
     <string-array name="plmn_prefer_network_type_choices">
         <item>2G</item>
         <item>3G</item>
