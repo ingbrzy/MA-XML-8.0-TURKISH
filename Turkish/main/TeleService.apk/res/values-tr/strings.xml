@@ -265,7 +265,6 @@
   <string name="cdma_alert_title">UIM kart varsayılan olmalı</string>
   <string name="can_not_call_self">"Kendi numaran aranmaz"</string>
   <string name="cancel">İptal</string>
-  <string name="card_title_call_ended">Arama sona erdi</string>
   <string name="card_title_conf_call">Konferans Çağrısı</string>
   <string name="card_title_dialing">Aranıyor</string>
   <string name="card_title_hanging_up">Kapatıyorum</string>
@@ -275,8 +274,6 @@
   <string name="card_title_my_phone_number">Numaram %s</string>
   <string name="card_title_on_hold">Beklemede</string>
   <string name="card_title_redialing">Yeniden Aranıyor</string>
-  <string name="carrier_settings"/>
-  <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">Operatör Ayarları</string>
   <string name="cb_all_languages">Tüm Diller</string>
   <string name="cb_channel_dialog_channel_name">Kanal adı (0-10 karakter)</string>
@@ -294,8 +291,6 @@
   <string name="cb_menu_delete">Sil</string>
   <string name="cb_menu_edit">Düzenle</string>
   <string name="cb_menu_language">Dil</string>
-  <string name="cb_sms_settings">Hücresel SMS Yayını Ayarları</string>
-  <string name="cdma_activate_device">Cihazı etkinleştir</string>
   <string name="cdma_cfu_dialog_sum">Daima bu numarayı kullan</string>
   <string name="cdma_cfu_title">China Telecom</string>
   <string name="cdma_display_precise_call_state_message">"Şebeke operatörünüz bu fonksiyonu desteklemiyorsa, arama durumu yanlış olabilir."</string>
@@ -378,7 +373,6 @@
   <string name="corporate_unlock_success">"Hesap oluşturulamadı, yeniden denensin mi?"</string>
   <string name="cursorError">İmleç hatası</string>
   <string name="creating_account">Hesap oluşturuluyor…</string>
-  <string name="cursorError">İmleç Hatası</string>
   <string name="data_enable_summary">Bu cihazın mobil veri kullanmasına izin ver</string>
   <string name="data_enabled">Mobil Veri</string>
   <string name="deactivate_all">Tümünü İptal Et</string>
@@ -453,7 +447,6 @@
   <string name="disable_cfb_forbidden">"Operatörünüz telefonunuz meşgul olduğunda çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor."</string>
   <string name="disable_cfnrc_forbidden">"Operatörünüz telefonunuz ulaşılamadığında çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor."</string>
   <string name="disable_cfnry_forbidden">"Operatörünüz cevapsız çağrıları yönlendirmeyi kapatmayı desteklemiyor."</string>
-  <string name="disable_cfnry_forbidden">"Operatörünüz telefonunuza cevap vermediğinde çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor."</string>
   <string name="disable_fdn">Sabit Arama Numarası kapalı</string>
   <string name="disable_fdn_ok">Sabit Arama Numarası açık</string>
   <string name="disable_pin_ok">SIM PIN kapalı</string>
@@ -625,7 +618,6 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="importingSimContacts">SIM kişileri içe aktarılıyor</string>
   <string name="ims_accounts_title">IMS Hesabı</string>
   <string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
-  <string name="ims_edit_title">IMS Hesap Detayları</string>
   <string name="ims_edit_title">IMS Hesap Detayları</string>
   <string name="ims_vt_call_quality">VtCallQuality</string>
   <string name="ims_vt_call_quality_high">Yüksek</string>
@@ -1089,7 +1081,6 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
  %d deneme hakkınız kaldı."</string>
   <string name="pin2_changed">PIN2 başarıyla değiştirildi.</string>
   <string name="pin2_invalid">"Yanlış bir PIN girdiğiniz için Sabit Arama Numarası güncellenmedi."</string>
-  <string name="phone_number_hint_text">Telefon Numarası</string>
   <string name="pin2_invalid_or_name_is_too_long">Geçersiz bir PIN girdiğiniz veya girdiğiniz ad çok uzun.</string>
   <string name="pin2_lock_warning">"
 PIN2 ile ilgili fonksiyonlar başka bir başarısız denemeden sonra kilitlenecektir."</string>
