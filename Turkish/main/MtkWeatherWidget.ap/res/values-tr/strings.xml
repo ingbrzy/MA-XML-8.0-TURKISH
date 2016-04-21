@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_setting">Buraya dokunup şehir ekleyin</string>
+  <string name="app_name">Hava Durumu</string>
+  <string name="c">°C</string>
+  <string name="f">°F</string>
+  <string name="failed_to_locate">Konum alınamadı</string>
+  <string name="na">N/A</string>
+  <string name="net_error">Ağ mevcut değil. Kontrol edin.</string>
+  <string name="no_weather">%s için hava durumu yok.</string>
+  <string name="updating">Güncelleniyor</string>
+  <string name="widget_12_hours_format">h:mm&lt;font size="15"&gt;aa&lt;/font&gt;</string>
+  <string name="widget_24_hours_format">kk:mm</string>
+  <string name="widget_weekday_format">E</string>
+  <string name="widget_year_month_day_format">dd-MM-yyyy</string>
+</resources>
