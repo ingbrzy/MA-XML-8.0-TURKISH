@@ -6,7 +6,7 @@
   <string name="back">Geri</string>
   <string name="button_queue_for_wifi">Bekle</string>
   <string name="button_start_now">İndir</string>
-  <string name="call_record">Kaydedilen aramalar (%d)</string>
+  <string name="call_record">Kaydedilen Çağrılar (%d)</string>
   <string name="cloud_record">%d eşitlendi</string>
   <string name="cloud_record_open">Kayıtları eşitle</string>
   <string name="cloud_record_tip">Mi Bulut ile kayıtları eşitle.</string>
@@ -23,7 +23,7 @@
   <string name="dialog_content_storage_full">"Cihazın depolama alanının az olmasından dolayı kayıt işlemi durduruldu."</string>
   <string name="dialog_title_storage_full">Yetersiz alan</string>
   <string name="duration_format_hour">%ss</string>
-  <string name="duration_format_minute">%sdk</string>
+  <string name="duration_format_minute">%sdak</string>
   <string name="duration_format_second">%ssn</string>
   <string name="error_app_internal">Başka bir uygulamanın şu anda kayıt özelliğini kullanıp-kullanmadığını kontrol edin.</string>
   <string name="error_app_internal_title">Ses kaydedici hatası</string>
@@ -32,9 +32,9 @@
   <string name="error_filename_too_long">Dosya adı çok uzun</string>
   <string name="error_sdcard_access">"Depolamaya erişilemiyor"</string>
   <string name="error_sdcard_unmounted">Şimdi SD kart takın</string>
-  <string name="fm_record">Radyo kayıtları (%d)</string>
-  <string name="low_battery_error">Kalan pil %5 olduğundan, kayıt işlemi durduruldu ve yapılan kayıt saklandı.</string>
-  <string name="message_file_size_error">Kayıt %s tarafından desteklenen maksimum uzunluğu ulaşmıştır.</string>
+  <string name="fm_record">Radyo Kayıtları (%d)</string>
+  <string name="low_battery_error">"Kalan pil %5'ten olduğundan, kayıt işlemini kaybedilmeden durduruldu ve yapılan kayıt saklandı."</string>
+  <string name="message_file_size_error">%s tarafından desteklenen kayıt azami uzunluğa ulaşmıştır.</string>
   <string name="no_file">Boş</string>
   <string name="notification_message_all_paused">WLAN bağlantısı bekleniyor.</string>
   <string name="notification_playback">Oynatılıyor...</string>
@@ -61,11 +61,11 @@
   <string name="record_downloading_notification_complete">İndirme tamamlandı</string>
   <string name="record_downloading_notification_count">%d indiriliyor</string>
   <string name="record_list">Kayıtlar</string>
-  <string name="record_list_call">Kaydedilen aramalar</string>
+  <string name="record_list_call">Kayıtlı Çağrılar</string>
   <string name="record_list_cloud">Eşitlenmiş kayıtlar</string>
-  <string name="record_list_cloud_call">Eşitlenmiş kaydedilen aramalar</string>
-  <string name="record_list_cloud_fm">Eşitlenmiş FM kayıtlar</string>
-  <string name="record_list_fm">FM kayıtlar</string>
+  <string name="record_list_cloud_call">Eşitlenmiş kayıtlı çağrılar</string>
+  <string name="record_list_cloud_fm">Eşitlenmiş FM kayıtları</string>
+  <string name="record_list_fm">FM Kayıtları</string>
   <string name="record_name_hour">.</string>
   <string name="record_name_minute"/>
   <string name="record_picker_title">Bir kayıt seçin</string>
