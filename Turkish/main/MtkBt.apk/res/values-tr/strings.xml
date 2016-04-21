@@ -29,7 +29,7 @@
   <string name="bluetooth_ftp_client_confirm_exit_title">FTP\'den Çık</string>
   <string name="bluetooth_ftp_client_connecting">Bağlanıyor</string>
   <string name="bluetooth_ftp_client_connection_failed">Bağlantı başarısız</string>
-  <string name="bluetooth_ftp_client_current_is_root">Current path is root</string>
+  <string name="bluetooth_ftp_client_current_is_root">"Geçerli yol Root'tur"</string>
   <string name="bluetooth_ftp_client_delete_failed_message"> %s silinemedi</string>
   <string name="bluetooth_ftp_client_delete_failed_title">Silinemedi</string>
   <string name="bluetooth_ftp_client_disconnected">FTP bağlantısı kesildi</string>
@@ -72,7 +72,7 @@
   <string name="bluetooth_ftp_server">Bluetooth FTP Sunucu</string>
   <string name="bluetooth_ftp_server_authorize_allow">İzin Ver</string>
   <string name="bluetooth_ftp_server_authorize_decline">Reddet</string>
-  <string name="bluetooth_ftp_server_authorize_message">Allow the FTP connection request from %s</string>
+  <string name="bluetooth_ftp_server_authorize_message">%s FTP bağlantısı isteğine izin ver</string>
   <string name="bluetooth_ftp_server_authorize_notify_message">FTP bağlantısına izin vermek için seçin</string>
   <string name="bluetooth_ftp_server_authorize_notify_ticker">Bluetooth FTP yetki isteği</string>
   <string name="bluetooth_ftp_server_authorize_notify_title">Bluetooth FTP yetki isteği</string>
@@ -92,7 +92,7 @@
   <string name="bluetooth_ftp_server_sd_dialog_ok">Tamam</string>
   <string name="bluetooth_ftp_server_sd_dialog_title">SD Kart hazır değil</string>
   <string name="bluetooth_ftp_server_settings">FTP sunucu ayarları</string>
-  <string name="bluetooth_ftp_service_busy">FTP servis meşgul</string>
+  <string name="bluetooth_ftp_service_busy">FTP servisi meşgul</string>
   <string name="bluetooth_ftp_several_marker">Bluetooth FTP Çeşit İşaretleyici</string>
   <string name="bluetooth_ftp_size">boyut</string>
   <string name="bluetooth_ftp_yes">Evet</string>
