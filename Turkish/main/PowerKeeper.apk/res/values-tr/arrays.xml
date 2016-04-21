@@ -23,18 +23,18 @@
         <item>Azami CPU Frekansı</item>
         <item>Ekran Modu</item>
         <item>CPU Kullanımı</item>
-        <item>Veri Kullanımı</item>
+        <item>Veri Bağlantısı</item>
         <item>Konum</item>
         <item>İlk Bildirim</item>
         <item>Kilit ekranı bildirimleri</item>
-        <item>Arkaplan veri bağlantıları kısıtlı</item>
+        <item>Arkaplan veri bağlantılarını kısıtla</item>
     </string-array>
     <string-array name="action_param_translate">
         <item>Yok</item>
         <item>Varsayılan</item>
         <item>Resim</item>
         <item>Film</item>
-        <item>Pil tasarrufu</item>
+        <item>Pil Tasarrufu</item>
         <item>Dengeli</item>
         <item>Performans</item>
         <item>Aç</item>
@@ -42,7 +42,7 @@
         <item>Hemen</item>
         <item>10 dakika sonra</item>
         <item>30 dakika sonra</item>
-        <item>Ne zaman ekran kapalı</item>
+        <item>Ekran kapalı olduğunda</item>
     </string-array>
     <string-array name="app_groups">
         <item>seçildi</item>
@@ -79,4 +79,12 @@
         <item>şu anda çok fazla</item>
         <item>bu gün çok</item>
     </string-array>
-    </resources>
+    <string-array name="invisible_app_groups">
+        <item>seçildi</item>
+        <item>seçilmedi</item>
+    </string-array>
+    <array name="read_enable" />
+    <string-array name="read_disable">
+        <item>com.chaozh.iReaderFree</item>
+    </string-array>
+</resources>
