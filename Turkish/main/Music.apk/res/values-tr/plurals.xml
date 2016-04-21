@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d şarkı&lt;/font> indirildi</item>
+        <item quantity="one">&lt;font color==\"red\">%d şarkı&lt;/font> indirildi</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\">%d şarkı&lt;/font> indiriliyor</item>
+        <item quantity="one">&lt;font color==\"red\">%d şarkı&lt;/font> indiriliyor</item>
+    </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d şarkı bulundu</item>
         <item quantity="one">%d şarkı bulundu</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">"Sadece bu ay %d Ayrıcalıklı Şarkı indirebilirsiniz. Daha fazla indirmek için Ayrıcalıklı Şarkı Paketi yükseltin."</item>
+        <item quantity="other">"Sadece bu ay %d Ayrıcalıklı Şarkı indirebilirsiniz. Daha fazla indirmek için Ayrıcalıklı Şarkı Paketini yükseltin."</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_limited">
         <item quantity="other">" Sadece bu ay %d Ayrıcalıklı Şarkı indirebilirsiniz. Yine de seçilmiş şarkılar indirilsin mi?"</item>
@@ -23,12 +31,12 @@
         <item quantity="one">%d çalma listesi silinsin mi?</item>
     </plurals>
     <plurals name="Nnew_tracks_count">
-        <item quantity="other">%d şarkı listeye eklendi</item>
-        <item quantity="one">1 şarkı listeye eklendi</item>
+        <item quantity="other">%d yeni</item>
+        <item quantity="one">1 yeni</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">%d şarkı listeden kaldırıldı</item>
-        <item quantity="one">1 şarkı listeden kaldırıldı</item>
+        <item quantity="other">%d şarkı</item>
+        <item quantity="one">%d şarkı</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
         <item quantity="other">%d benzer şarkı</item>
@@ -51,20 +59,20 @@
         <item quantity="one">%d şarkı kaldırılsın mı?</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d şarkı listesine eklendi</item>
-        <item quantity="one">Şarkı listesine eklendi</item>
+        <item quantity="other">%d şarkı listeye eklendi</item>
+        <item quantity="one">Şarkı listeye eklendi</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d şarkı çalma listesinden kaldırılır</item>
-        <item quantity="one">Şarkı çalma listesinden kaldırılır</item>
+        <item quantity="other">%d şarkı çalma listesinden kaldırıldı</item>
+        <item quantity="one">Şarkı çalma listesinden kaldırıldı</item>
     </plurals>
     <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d şarkı</item>
         <item quantity="one">1 şarkı</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">Oynatıcı %d dakika içinde durur</item>
-        <item quantity="one">Oynatıcı %d dakika içinde durur</item>
+        <item quantity="other">Oynatıcı %d dakika içinde durdurulacak</item>
+        <item quantity="one">Oynatıcı %d dakika içinde durdurulacak</item>
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d şarkı gönderilecek</item>
@@ -83,7 +91,7 @@
         <item quantity="one">%d öğe seçildi</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">Şarkı Favori olarak oylandı.</item>
-        <item quantity="one">Şarkı Favori olarak oylandı.</item>
+        <item quantity="other">Şarkı favorilere eklendi.</item>
+        <item quantity="one">Şarkı favorilere eklendi.</item>
     </plurals>
 </resources>
