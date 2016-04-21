@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_city">Simgeye basıp yeni şehir ekleyin</string>
+  <string name="app_name">Hava Durumu Hizmeti</string>
+  <string name="cancel">İptal</string>
+  <string name="choose_city">Şehir seç</string>
+  <string name="cities_title">Şehirler</string>
+  <string name="confirm_dialog_title">Sil</string>
+  <string name="delete">Sil</string>
+  <string name="deselect_all">Vazgeç</string>
+  <string name="every12">Her 12 saatte</string>
+  <string name="has_chosen">seçildi.</string>
+  <string name="menu_about">Hakkında</string>
+  <string name="menu_add_city">Şehir ekle</string>
+  <string name="net_error">Ağ mevcut değil. Lütfen kontrol edin.</string>
+  <string name="no">İptal</string>
+  <string name="no_city">Şehir yok</string>
+  <string name="no_city_error">"Şehir bilgisi alınamıyor, doğru sistem saatini ve zaman dilimini ayarlayın."</string>
+  <string name="no_found">%s eşleşme yapılamadı. Girdiğiniz kelimeyi kontrol edin.</string>
+  <string name="no_weather">%s için hava durumu yok..</string>
+  <string name="no_weather_error">"Hava durumu alınamıyor, doğru sistem saatini ve zaman dilimini ayarlayın."</string>
+  <string name="powered_by">Güçlendiren:</string>
+  <string name="remove">Kaldır</string>
+  <string name="searching">Aranıyor, lütfen bekleyin...</string>
+  <string name="searching_fail">Arama başarısız oldu</string>
+  <string name="select_all">Hepsi</string>
+  <string name="server_moblileyahoo">Mobil Yahoo</string>
+  <string name="setting_title">Yükle</string>
+  <string name="tem_celsius">Santigrat</string>
+  <string name="temperature">Sicaklık Birimi</string>
+  <string name="update_fre">Frekansı Güncelle</string>
+  <string name="url_yahoo">http://m.yahoo.com</string>
+  <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+  <string name="warn">En fazla 8 şehirler eklenebilir.</string>
+  <string name="weatherserver">Hava Durumu Hizmeti</string>
+  <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
+  <string name="web_user_agent_target_content">"Mobil "</string>
+</resources>
