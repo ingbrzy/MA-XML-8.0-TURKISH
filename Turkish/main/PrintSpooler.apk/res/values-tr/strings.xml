@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_print_service_label">Hizmet Ekle</string>
+  <string name="advanced_settings_button">Yazıcı Ayarları</string>
   <string name="all_printers">Tüm Yazıcılar…</string>
   <string name="all_printers_label">Tüm Yazıcılar</string>
   <string name="app_label">Yazdırma Biriktiricisi</string>
@@ -28,6 +29,7 @@
   <string name="mediasize_standard_japan">2</string>
   <string name="mediasize_standard_north_america">1</string>
   <string name="more_options_button">Fazla Seçenek</string>
+  <string name="page_count_unknown">Sayfalar</string>
   <string name="no_connection_to_printer">Yazıcı bağlantısı yok</string>
   <string name="page_description_template">%2$d sayfadan %1$d sayfa </string>
   <string name="pages_range_example">Mesela: 1—5,8,11—13</string>
@@ -52,15 +54,16 @@
   <string name="print_searching_for_printers">Yazıcılar için aranıyor</string>
   <string name="print_select_printer">Yazıcıyı seç</string>
   <string name="print_write_error_message">"Dosyaya yazılamadı"</string>
-  <string name="printer_unavailable">%1$s – yok</string>
+  <string name="printer_unavailable">%1$s – mevcut değil</string>
   <string name="printing_app_crashed">Baskı uygulaması çöktü</string>
   <string name="printing_notification_title_template">%1$s yazdırılıyor</string>
   <string name="reason_unknown">bilinmiyor</string>
   <string name="restart">Y. Başlat</string>
   <string name="save_as_pdf">PDF olarak sakla</string>
+  <string name="save_button">Kaydet</string>
   <string name="savetopdf_button">PDF olarak sakla</string>
   <string name="search">Ara</string>
   <string name="summary_template">Özet, %1$s kopyalama, %2$s sayfa boyutu</string>
-  <string name="template_all_pages">Tüm %1$s</string>
+  <string name="template_all_pages">Tüm %1$s </string>
   <string name="template_page_range">%1$s Aralığı</string>
 </resources>
