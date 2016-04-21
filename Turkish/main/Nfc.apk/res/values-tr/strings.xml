@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">NFC etkin.</string>
+  <string name="app_name">NFC Hizmeti</string>
+  <string name="beam_canceled">Gönderim iptal edildi</string>
+  <string name="beam_complete">Gönderim tamamlandı</string>
+  <string name="beam_failed">Gönderim tamamlanamadı</string>
+  <string name="beam_handover_not_supported">"Alıcının cihazı gönderim esnası üzerinden büyük dosya aktarımını desteklemez."</string>
+  <string name="beam_outgoing">Gönderiliyor...</string>
+  <string name="beam_progress">Transfer geliyor...</string>
+  <string name="beam_touch_to_view">Görüntülemek için dokunun</string>
+  <string name="beam_try_again">Cihazları bir araya getirin</string>
+  <string name="cancel">İptal</string>
+  <string name="complete_with">Tamamla:</string>
+  <string name="confirm_pairing">Bluetooth cihazı %1$s eşlemek istiyor musunuz?</string>
+  <string name="connect_headset_failed">Bağlanamadı</string>
+  <string name="connected_headset">Bağlandı</string>
+  <string name="connecting_headset">Bağlanıyor</string>
+  <string name="could_not_use_app">"%1$s kullanılamaz."</string>
+  <string name="default_pay_app_removed">Tercih edilen ödemeyi kaldırmak için dokunun ve ödemeyi kaldırın. Başka bir tane seçilsin mi?</string>
+  <string name="disconnected_headset">Bağlantı kesildi</string>
+  <string name="disconnecting_headset">Bağlantı kesiliyor</string>
+  <string name="failed_to_enable_bt">Bluetooth etkin hale getirilemedi</string>
+  <string name="inbound_me_profile_text">Bir kişi olarak bu şahsı eklemek için dokunun.</string>
+  <string name="inbound_me_profile_title">NFC üzerinden kişi alındı</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="outbound_me_profile_text">Bu şahsın irtibat bilgisini almak için dokunun.</string>
+  <string name="outbound_me_profile_title">NFC etkileşimi tamamlandı</string>
+  <string name="pair_no">Hayır</string>
+  <string name="pair_yes">Evet</string>
+  <string name="pairing_headset">Eşleniyor</string>
+  <string name="pairing_headset_failed">Eşlenmedi</string>
+  <string name="pay_with">Öde:</string>
+  <string name="tap_again_to_complete">%1$s ile tamlamak için dokunun</string>
+  <string name="tap_again_to_pay">%1$s ile ödeme için dokunu</string>
+  <string name="touch">Gönderim için dokunun</string>
+  <string name="transaction_failure">"%1$s ile etkileşim tamamlanamadı."</string>
+</resources>
