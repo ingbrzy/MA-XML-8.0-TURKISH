@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_files_confirm">
-        <item quantity="other">%1$d dosyaları sil</item>
-        <item quantity="zero"> %1$d dosyaları sil</item>
+        <item quantity="other">%1$d dosyayı sil</item>
+        <item quantity="zero"> %1$d dosyayı sil</item>
         <item quantity="one">%1$d dosyayı sil</item>
-        <item quantity="two">%1$d dosyaları sil</item>
-        <item quantity="few">%1$d dosyaları sil</item>
-        <item quantity="many">%1$d dosyaları sil</item>
+        <item quantity="two">%1$d dosyayı sil</item>
+        <item quantity="few">%1$d dosyayı sil</item>
+        <item quantity="many">%1$d dosyayı sil</item>
     </plurals>
     <plurals name="delete_folders_confirm">
         <item quantity="other">" ve %1$d klasör silinsin mi?"</item>
