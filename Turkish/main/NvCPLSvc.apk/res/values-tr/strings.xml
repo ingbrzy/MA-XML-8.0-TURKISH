@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">NVIDIA Tegra Hizmetleri</string>
+  <string name="nvcplsvc_bind">nvcplsvc client</string>
+  <string name="nvcplsvc_desc_bind">NvCPLSvc bağlanması için izin verir</string>
+  <string name="permdesc_sysfsWrite">Uygulamanya güç tasarruf ayarlarını değiştirebilmesi için izin verir</string>
+  <string name="permlab_sysfsWrite">Güç tasarrufunu ayarla</string>
+</resources>
