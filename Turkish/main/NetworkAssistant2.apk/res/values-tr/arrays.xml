@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Bu hafta "</item>
+        <item>"Bugün "</item>
+        <item>"Bu ay "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Dün "</item>
+        <item>"Bugün "</item>
+        <item>"Bu ay "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Bu hafta: "</item>
+        <item>"Bugün: "</item>
+        <item>"Bu ay: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Dün: "</item>
+        <item>"Bugün: "</item>
+        <item>"Bu ay: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Dünkü (veri)</item>
+        <item>Bugünkü (veri)</item>
+        <item>Bu ayki (veri)</item>
+        <item>Dünkü WLAN</item>
+        <item>Bugünkü WLAN</item>
+        <item>Bu ayki WLAN</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Dünkü (veri)</item>
+        <item>Bugünkü (veri)</item>
+        <item>Bu ayki (veri)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sn</item>
+        <item>4 sn</item>
+        <item>5 sn</item>
+        <item>6 sn</item>
+        <item>7 sn</item>
+        <item>8 sn</item>
+        <item>9 sn</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobil Kullanımı "</item>
+        <item>"WLAN Kullanımı "</item>
+        <item>"Veri Tasarrufu "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobil Kullanım "</item>
+        <item>"WLAN Kullanımı "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Mobil Veri Kullanımı "</item>
+        <item>"WLAN Kullanımı "</item>
+        <item>Veri Tasarrufu "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Otomatik olarak al</item>
+        <item>Elle ayarla</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Uyarıyı göster</item>
+        <item>Uyar ve Mobil veriyi kapat</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Sıklıkla Kullanılan</item>
+        <item>Adı</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Yok</item>
+        <item>Düşük</item>
+        <item>Orta</item>
+        <item>Yüksek</item>
+    </string-array>
+</resources>
