@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="click_to_enter_text">Gözatmak için dokunun</string>
-  <string name="confirm_pin_msg">PIN kodunu tekrar gir</string>
+  <string name="confirm_pin_msg">PIN kodunu tekrar girin</string>
   <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı kaydırın ▲</string>
   <string name="delete">Sil</string>
   <string name="emergency_call_string">Acil Çağrı</string>
@@ -15,7 +15,7 @@
   <string name="experimental_validate_warning">MIUI\'yi daha iyi hale getirdiğiniz için teşekkürler!</string>
   <string name="find_device_turn_off_flight_mode">Uçak Modunu kapat</string>
   <string name="fingerprint_lockout_msg">Bir dakika sonra parmakizi ile kilidi açmayı deneyin!</string>
-  <string name="fingerprint_not_identified_msg">Cihazın kilidini açmak için parolanızı girin.</string>
+  <string name="fingerprint_not_identified_msg">Cihazın kilidini açmak için şifrenizi girin.</string>
   <string name="fingerprint_not_identified_title">Şifrenizi girin</string>
   <string name="fingerprint_try_again_text">Tekrar deneyin</string>
   <string name="forget_password_string">Şifremi unuttum</string>
@@ -38,12 +38,12 @@
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
   <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
   <string name="lockscreen_charging_msg">Şarj ediliyor...</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">  Telefonunuzu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuz fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri kaybolacaktır.
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">  Telefonunuzu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuz fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri silinecek.
   </string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuzu Mi Hesabı kullanarak açmanız istenecektir.
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuzu Mi Hesabı kullanarak açmanız istenecek.
 
   %d saniye sonra tekrar deneyin."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Telefonu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. Telefonunuz şimdi fabrika ayarlarına geri döndürülecektir.</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Telefonu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. Telefonunuz şimdi fabrika ayarlarına geri döndürülecek.</string>
   <string name="lockscreen_glogin_checking_password">Denetleniyor...</string>
   <string name="lockscreen_glogin_invalid_input">Kullanıcı adı veya şifre geçersiz!</string>
   <string name="lockscreen_glogin_password_hint">Şifre</string>
@@ -51,15 +51,15 @@
   <string name="login_website_in_case_forget_password">Şifrenizi sıfırlamak için \"www.mi.com/micloud\" adresine gidin</string>
   <string name="missed_call_text">%d cevapsız çağrı</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ile kilit açıldı</string>
-  <string name="open_camera_hint_text">Kamerayı için sola kaydırın ◄</string>
-  <string name="open_remote_center_hint_text">Mi Remo ile açmak için sağa kaydırın ►</string>
+  <string name="open_camera_hint_text">Kamerayı açmak için sola kaydırın ◄</string>
+  <string name="open_remote_center_hint_text">Çağrıyı açmak için sağa kaydırın ►</string>
   <string name="open_wifi_settings">Ağ bağlantısını aç</string>
   <string name="phone_locked_string">Telefon kilitlendi</string>
   <string name="phone_locked_timeout_minutes_string">%s dakika sonra tekrar deneyin</string>
   <string name="phone_locked_timeout_seconds_string">%s saniye içinde tekrar deneyin</string>
   <string name="unlock_sim_string">Tamam</string>
   <string name="unlock_string">Kilidi aç</string>
-  <string name="unlocking_sim_card">SIM kartın kilidi açılıyor</string>
+  <string name="unlocking_sim_card">SIM kartın kilidi açılıyor...</string>
   <string name="unlockscreen_low_battery">Lütfen şarj cihazını bağlayın.</string>
   <string name="unlockscreen_recharge_completed">Pil %100 doldu</string>
   <string name="unlockscreen_recharging_message">Şarj ediliyor: %%%d</string>
