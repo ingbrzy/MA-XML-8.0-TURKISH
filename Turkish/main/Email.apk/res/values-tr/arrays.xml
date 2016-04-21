@@ -5,6 +5,14 @@
         <item>Tümünü Cevapla</item>
         <item>Yönlendir</item>
     </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Bu gece</item>
+        <item>Yarın</item>
+        <item>Haftasonu</item>
+        <item>Gelecek hafta</item>
+        <item>Gelecek ayh</item>
+        <item>Tarih seç</item>
+    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Küçücük</item>
         <item>Küçük</item>
