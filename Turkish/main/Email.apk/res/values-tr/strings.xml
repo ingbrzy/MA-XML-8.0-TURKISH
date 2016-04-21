@@ -3,6 +3,7 @@
   <string name="SMTP_independent_verification_text">SMTP Bağımsız Doğrulama</string>
   <string name="SMTP_password_text">Şifre</string>
   <string name="SMTP_username_text">Kullanıcı Adı</string>
+  <string name="account_cache_provider">Hesap Önbellek Sağlayıcısı</string>
   <string name="account_duplicate_dlg_message_fmt">"\"%s\" hesabı için zaten bu kullanıcı adını kullanıyorsunuz."</string>
   <string name="account_duplicate_dlg_title">Tekrarlanan Hesap</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -151,7 +152,7 @@
   <string name="add_pre_message_attachments_yes">Ekle</string>
   <string name="add_star">Favori</string>
   <string name="allread">Tümünü Oku</string>
-  <string name="always_bcc_myself">Banada gönder</string>
+  <string name="always_bcc_myself">Daima banada gönder</string>
   <string name="always_show_images">Her zaman bu göndericinin resimlerini göster</string>
   <string name="app_name">Posta</string>
   <string name="application_mime_type">application/email-ls</string>
@@ -260,8 +261,8 @@
   <string name="contact_list_search_hint">Kişileri ara</string>
   <string name="contact_list_title">Kişiler</string>
   <string name="contact_select">Kişileri Seç</string>
-  <string name="content_description">%1$s hakkında %2$s, %4$s da %3$s , %5$s</string>
-  <string name="content_description_today">%1$s hakkında %2$s,  %4$s da %3$s, %5$s</string>
+  <string name="content_description">"%1$s hakkında %2$s, %4$s'da %3$s , %5$s"</string>
+  <string name="content_description_today">"%1$s hakkında %2$s,  %4$s 'da %3$s, %5$s"</string>
   <string name="contextmenu_add">Kişilere ekle</string>
   <string name="contextmenu_add_contact">Kişi ekle</string>
   <string name="contextmenu_call">Çağrı</string>
@@ -278,6 +279,7 @@
   <string name="contextmenu_send_mail">E-Posta gönder</string>
   <string name="contextmenu_sharelink">Bağlantıyı paylaş</string>
   <string name="contextmenu_sms_dot">SMS…</string>
+  <string name="conversation_content_provider">Sohbet İçerik Sağlayıcısı</string>
   <string name="conversation_folder_moved">%1$s\a taşındı</string>
   <string name="conversation_item_mark_read">Okundu</string>
   <string name="conversation_item_mark_unread">Okunmadı</string>
@@ -335,7 +337,7 @@
   <string name="download_confirm_message">%1$s ek indirilsin mi?</string>
   <string name="download_confirm_title">Eki indir</string>
   <string name="download_message_failed_for_too_large">Mesaj indirmek için çok büyük.</string>
-  <string name="download_whole_email">İçerik geri kalanını indir</string>
+  <string name="download_whole_email">İçeriğin geri kalanını indir</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Gezinme menüsünü kapat</string>
   <string name="drawer_open">Gezinme menüsünü aç</string>
@@ -365,7 +367,7 @@
   <string name="failed">"Resim yüklenemedi"</string>
   <string name="feedback">Geribildirim gönder</string>
   <string name="feedback_body">Geribildirim bilgisi</string>
-  <string name="feedback_sent">Görüşleriniz için teşekkür ederiz</string>
+  <string name="feedback_sent">Görüşleriniz için teşekkür ederiz.</string>
   <string name="feedback_user_edit_hint">Burada konuyu açıklayın. İçeriğini inceledikten sonra sizi posta ile bilgilendireceğiz.</string>
   <string name="feedback_user_edit_tag">"MIUI "</string>
   <string name="fetching_attachment">Ek alınıyor</string>
@@ -418,6 +420,7 @@
   <string name="forward_attribution_no_headers">---------- Yönlendirilmiş Posta ----------</string>
   <string name="forward_download_failed_ticker">"Bir veya daha fazla ek yönlendirilemedi."</string>
   <string name="forward_download_failed_title">Ekler yönlendirilemedi</string>
+  <string name="forward_subject_label">Ynlndr:</string>
   <string name="from_heading">"Kimden: "</string>
   <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
   <string name="general_preference_confirm_send_label">Göndermeden önce onayla</string>
@@ -492,6 +495,15 @@
   <string name="mailbox_name_display_sent">Giden</string>
   <string name="mailbox_name_display_starred">Favoriler</string>
   <string name="mailbox_name_display_trash">Çöp Kutusu</string>
+  <string name="mailbox_name_display_unread">Okunmamış</string>
+  <string name="mailbox_name_server_all_unread">Okunmamış</string>
+  <string name="mailbox_name_server_drafts">Taslaklar</string>
+  <string name="mailbox_name_server_inbox">Gelen Kutusu</string>
+  <string name="mailbox_name_server_junk">İstenmeyen</string>
+  <string name="mailbox_name_server_outbox">Giden Kutusu</string>
+  <string name="mailbox_name_server_sent">Gönderilen</string>
+  <string name="mailbox_name_server_starred">Favori</string>
+  <string name="mailbox_name_server_trash">Çöp Kutusu</string>
   <string name="mailbox_settings_activity_title">Eşitleme Ayarları</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Eşitleme Ayarları (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Postayı eşitle</string>
@@ -670,6 +682,7 @@
   <string name="policy_screen_timeout">Ekranı kilitlemesi için cihazın boşta olması  gerekir</string>
   <string name="policy_text_truncation">Posta yazı boyutunu kısıtla</string>
   <string name="pop3_name">POP3</string>
+  <string name="prefDefault_autoAdvance">Liste</string>
   <string name="preference_eas_tips">Posta sunucusu ayarındaki Etkinleştir\'e dokun.</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">POP3\'te, ekler otomatik olarak E-Posta ile indirilebilir olacak. Bu mobil veri kullanımını artırabilir.</string>
@@ -757,8 +770,13 @@
   <string name="reply_add_bodycontent">Hızlı cevap metni posta içeriğine eklensin mi?</string>
   <string name="reply_all">Tümünü Cevapla</string>
   <string name="reply_attribution" formatted="false">%s, %s yaz:</string>
+  <string name="reply_subject_label">Cvp:</string>
   <string name="report_phishing">Kimlik Avı Raporu</string>
-  <string name="report_spam">İstenmeyen Raporu</string>
+  <string name="report_rendering_improvement">Güzel görünüyor</string>
+  <string name="report_rendering_improvement_desc">Bu mesaj iyi görünüyor.</string>
+  <string name="report_rendering_problem">Kötü görünüyor</string>
+  <string name="report_rendering_problem_desc">Bu mesaj kötü görünüyor.</string>
+  <string name="report_spam">Spam Raporu</string>
   <string name="request_entity_large">Bu dosya çok büyük</string>
   <string name="respond_inline">Satıriçi Cevap</string>
   <string name="save_action">Kaydet</string>
@@ -892,6 +910,7 @@
   <string name="wait_for_manual_sync_body">"Bu hesap otomatik eşitlemeye ayarlanmadı
 Posta eşitlenmeden önce "&lt;b&gt;Şimdi Eşitleye&lt;/b&gt; dokunun veya bu hesabın postaları otomatik eşitlemesi için &lt;b&gt;Eşitleme Ayarlarını Değiştir&lt;/b&gt; seçeneğini kullanın</string>
   <string name="wait_for_sync_title">Eşitlemek için bekleniyor</string>
+  <string name="wait_help_context">Bekle</string>
   <string name="widget_all_mail">Tüm Posta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Diğer</string>
