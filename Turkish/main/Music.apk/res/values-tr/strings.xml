@@ -20,6 +20,7 @@
   <string name="action_item_remove_from_favorite">Favoriden Kaldır</string>
   <string name="action_item_send">Gönder</string>
   <string name="action_item_share">Paylaş</string>
+  <string name="action_settings">Ayarlar</string>
   <string name="add_music">Şarkı ekle</string>
   <string name="alaka_required">"Bu şarkı mevcut değildir."</string>
   <string name="add_to_last_of_playlist">Çalma listesinin sonuna ekle.</string>
@@ -31,7 +32,7 @@
   <string name="alert_msg_vip_songs_for_download">Ayrıcalıklı Şarkı Paketine tüm şarkıları indirin.</string>
   <string name="alert_msg_vip_songs_for_download_upgrade">Bu ay için indirme kotanız kadar kullanmış. Daha fazla indirmek için Ayrıcalıklı Şarkı Paketine yükseltin.</string>
   <string name="alert_msg_vip_songs_for_stream">Bazı şarkılar sadece Ayrıcalıklı Şarkı Paketine ile indirebilirsiniz.</string>
-  <string name="alert_title_vip_song">Ayrıcalıklı şarkılar</string>
+  <string name="alert_title_vip_song">Ayrıcalıklı Şarkılar</string>
   <string name="alert_title_vip_songs">Ayrıcalıklı Şarkı Paketi</string>
   <string name="alert_title_vip_songs_upgrade">Ayrıcalıklı Şarkı Paketine Yükselt</string>
   <string name="all_artist">Tüm sanatçılar</string>
@@ -63,7 +64,7 @@
   <string name="avoid_to_use_traffic_summary">"Müzik yayınında mobil ağı kullanmayın"</string>
   <string name="avoid_to_use_traffic_title">Sadece müzik yayını için WLAN kullan</string>
   <string name="back_confirm">Uygulamayı arka plana itmek için dokunun</string>
-  <string name="baidu_music">Baidu müzik</string>
+  <string name="baidu_music">Baidu Müzik</string>
   <string name="being_disable_auto_payment">Kapatılıyor...</string>
   <string name="being_enable_auto_payment">Açılıyor...</string>
   <string name="bill_list_fragment_title">Popüler</string>
@@ -147,7 +148,7 @@
   <string name="dialog_media_not_found">İndirilemiyor. Dış ortam mevcut değildir.</string>
   <string name="dialog_not_show_again">"Tekrar gösterme"</string>
   <string name="dialog_queued_body">Bu dosya, gelecekte indirilmek için kuyruğa eklendi.</string>
-  <string name="dialog_title_add_playlist">Çalma listesi ekle</string>
+  <string name="dialog_title_add_playlist">Çalma listesine ekle</string>
   <string name="dialog_title_delete_tracks">Sil</string>
   <string name="dialog_title_name_playlist">Çalma Listesi adı</string>
   <string name="dialog_title_not_available">Yükleme başarısız</string>
@@ -213,7 +214,7 @@
   <string name="download_share_dialog">Paylaş</string>
   <string name="download_speed_null"/>
   <string name="download_start">İndirme işlemi başlatılıyor...</string>
-  <string name="download_success">Tamamlanan</string>
+  <string name="download_success">Tamamlandı</string>
   <string name="download_title">İndirilenler</string>
   <string name="download_title_sorted_by_date">İndirilenler - Tarihe Göre</string>
   <string name="download_title_sorted_by_size">İndirilenler - Boyuta Göre</string>
@@ -258,7 +259,7 @@
   <string name="eq_electronic">Elektronik</string>
   <string name="eq_flat">Düz</string>
   <string name="eq_hiphop">Hip Hop</string>
-  <string name="eq_jazz">Jazz</string>
+  <string name="eq_jazz">Caz</string>
   <string name="eq_metal">Metal</string>
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Oluştur</string>
@@ -270,10 +271,10 @@
   <string name="equalizer">Ekolayzer</string>
   <string name="error_forbidden">Hesabınızla ilgili bazı problemler var : Eşitleme devre dışı.</string>
   <string name="error_not_acceptable">Eşitleme devre dışı bırakıldı.</string>
-  <string name="error_title">"Mi Hesap ile Eşitlenemiyor"</string>
+  <string name="error_title">"Mi Hesap ile eşitlenemiyor"</string>
   <string name="error_unauthorized">Eşitleme nedeniyle çok sayıda oturum açma girişimleri için devre dışı bırakıldı.</string>
   <string name="expired">Süresi bitti</string>
-  <string name="expires">Expires this month:</string>
+  <string name="expires">Bu ay sona eriyor:</string>
   <string name="fail_to_play">"Şarkı oyatılamıyor!"</string>
   <string name="favorite_canceled">Favorilerden kaldırıldı</string>
   <string name="favorite_playlist">Favoriler</string>
@@ -285,7 +286,7 @@
   <string name="female_artist">Kadın Şarkıcılar</string>
   <string name="file_not_found">"Dosya yok"</string>
   <string name="filter_by_duration">Süreye göre</string>
-  <string name="filter_by_duration_format">%2$dm %5$2ds</string>
+  <string name="filter_by_duration_format">%2$ddk %5$2dsn</string>
   <string name="filter_by_duration_max">5 dak</string>
   <string name="filter_by_duration_min">0 sn</string>
   <string name="filter_by_duration_prefix">"Daha kısa dosyaları gizle "</string>
@@ -390,7 +391,7 @@
   <string name="miuishare_share_editor_title">Paylaş</string>
   <string name="miuishare_title_more">Fazlası</string>
   <string name="miuishare_title_share">Paylaş</string>
-  <string name="miuishare_wechat_timeline_title">Wechat anlar</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Anları</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="mobile_recommended_title">Mobil Veri Kullanımı</string>
   <string name="modify_lyric">Şarkı sözünü düzenle</string>
