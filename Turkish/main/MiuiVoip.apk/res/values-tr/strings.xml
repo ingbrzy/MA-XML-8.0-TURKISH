@@ -12,6 +12,7 @@
   <string name="app_name_which_call">Uygulama:%s</string>
   <string name="app_version_which_call">Uygulama Sürümü:%s</string>
   <string name="confirm_activation">Etkinleştir</string>
+  <string name="create_voip_shortcut_success">Kısayol oluşturuldu</string>
   <string name="cur_activated_number_tag">%s (geçerli numara)</string>
   <string name="engine_activate_successfully">Mi Voice etkinleştirildi</string>
   <string name="engine_activate_unsuccessfully">"Mi Voice etkinleştirilmedi"</string>
@@ -19,6 +20,8 @@
   <string name="license_host_unreachable">"Ağa bağlanamıyor. Bu bilgiyi görüntülemek için
  %s gidin"</string>
   <string name="loading">Biraz bekleyin...</string>
+  <string name="menu_create_contact_shortcut">Ana Ekrana yerleştir</string>
+  <string name="missing_name">(İsimsiz)</string>
   <string name="msim_sim1">"SIM 1 "</string>
   <string name="msim_sim2">"SIM 2 "</string>
   <string name="mx_activate_dlg_title">Mi Voice Etkinleştir</string>
@@ -29,10 +32,12 @@
   <string name="net_connect_fails">"Bir internet bağlantınız yok."</string>
   <string name="network_unavailable">"Ağa bağlı değilsiniz."</string>
   <string name="no_sim_found">SIM Kart bulunamadı</string>
+  <string name="no_voip_contacts">VOIP kişisi yok</string>
   <string name="notification_activate_failed">"Mi Voice etkinleştirilemedi"</string>
   <string name="notification_missedCallTicker">%s\'dan cevapsız çağrı</string>
   <string name="notification_missedCallsMsg">%s cevapsız çağrı</string>
   <string name="notification_missedCallsTitle">Cevapsız Çağrılar</string>
+  <string name="other_contacts">Diğer kişiler</string>
   <string name="phone_switch_tip">GSM\'den Geçiş</string>
   <string name="policy_name">Kural: %s</string>
   <string name="pref_alpha_tools_title">Alfa Araçlar</string>
@@ -52,9 +57,13 @@
   <string name="pref_users_list_title">Kullanıcılar</string>
   <string name="process_leakcanary">:leakcanary</string>
   <string name="process_ui">:ui</string>
+  <string name="pull_to_refresh_pull_label">Yenilemek için çekin... ▼</string>
+  <string name="pull_to_refresh_refreshing_label">Yükleniyor…</string>
+  <string name="pull_to_refresh_release_label">Yenilemek için bırakın… ▲</string>
   <string name="show_dev_on">"Şimdi bir Mi Voice geliştiricisisiniz!"</string>
   <string name="show_nondev_on">"Mi Voice geliştiricisi değilsiniz!"</string>
   <string name="st_show_num_number">" numara"</string>
+  <string name="starred_contacts">Favoriler</string>
   <string name="statusbar_notification_action_end_call">Telefonu kapat</string>
   <string name="statusbar_notification_dialing">Aranıyor...</string>
   <string name="statusbar_notification_incoming_call">Gelen arama</string>
@@ -78,16 +87,19 @@
   <string name="voip_call_outgoing">Aranıyor…</string>
   <string name="voip_call_saved">" %d dakika kaydedildi"</string>
   <string name="voip_call_setting_summary">Ücretsiz yüksek kaliteli çağrılar</string>
-  <string name="voip_call_switch_call_message">Bir telefon numarsı seçin</string>
+  <string name="voip_call_switch_call_message">Bir telefon numarası seçin</string>
   <string name="voip_call_switch_call_title">GSM\'e Geç</string>
   <string name="voip_callee_offline">Aradığınız kişi çevrimdışı.</string>
   <string name="voip_callee_offline_and_dial_phone">"Aradığınız kişi çevrimdışı.
  %1$d saniye içinde GSM\'e geçilecek…"</string>
+  <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_droped_call">%1$s bağlantı kesildi</string>
   <string name="voip_ending_call">Kapatılıyor...</string>
   <string name="voip_free_video_tip">Mi Voice görüntülü çağrı</string>
   <string name="voip_gsm_online">"GSM kullanımda iken Mi Voice ayarlanamaz"</string>
-  <string name="voip_incall">"Mi Voice çağrıda esnasında ayarlanamaz"</string>
+  <string name="voip_incall">"Mi Voice çağrı esnasında ayarlanamaz"</string>
+  <string name="voip_loading_contact">Biraz bekleyin…</string>
+  <string name="voip_shortcut_name">Mi Voice</string>
   <string name="voip_support_net_tips">Bir WLAN, 3G veya daha üstü mobil veri bağlantısı kullanın</string>
   <string name="voip_the_other_is_on_the_phone">Meşgul</string>
 </resources>
