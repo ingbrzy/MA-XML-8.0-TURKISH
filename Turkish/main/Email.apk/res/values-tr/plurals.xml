@@ -4,28 +4,28 @@
         <item quantity="other">%1$d okunmamış</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
-        <item quantity="other">%1$d postalar arşivlensin mi?</item>
-        <item quantity="zero">%1$d postalar arşivlensin mi?</item>
+        <item quantity="other">%1$d posta arşivlensin mi?</item>
+        <item quantity="zero">%1$d posta arşivlensin mi?</item>
         <item quantity="one">Bu posta arşivlensin mi?</item>
-        <item quantity="two">%1$d postalar arşivlensin mi?</item>
-        <item quantity="few">%1$d postalar arşivlensin mi?</item>
-        <item quantity="many">%1$d postalar arşivlensin mi?</item>
+        <item quantity="two">%1$d posta arşivlensin mi?</item>
+        <item quantity="few">%1$d posta arşivlensin mi?</item>
+        <item quantity="many">%1$d posta arşivlensin mi?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">%1$d postalar silinsin mi?</item>
-        <item quantity="zero">%1$d postalar silinsin mi?</item>
+        <item quantity="other">%1$d posta silinsin mi?</item>
+        <item quantity="zero">%1$d posta silinsin mi?</item>
         <item quantity="one">Bu posta silinsin mi?</item>
-        <item quantity="two">%1$d postalar silinsin mi?</item>
-        <item quantity="few">%1$d postalar silinsin mi?</item>
-        <item quantity="many">%1$d postalar silinsin mi?</item>
+        <item quantity="two">%1$d posta silinsin mi?</item>
+        <item quantity="few">%1$d posta silinsin mi?</item>
+        <item quantity="many">%1$d posta silinsin mi?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Bu postalar birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
-        <item quantity="zero">Bu postalar birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
+        <item quantity="other">Bu posta birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
+        <item quantity="zero">Bu posta birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
         <item quantity="one">Bu posta birleştirilmiş öğe içerir. Yine de bu silinsin mi?</item>
-        <item quantity="two">Bu postalar birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
-        <item quantity="few">Bu postalar birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
-        <item quantity="many">Bu postalar birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
+        <item quantity="two">Bu posta birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
+        <item quantity="few">Bu posta birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
+        <item quantity="many">Bu posta birleştirilmiş öğeler içerir. Yine de bunlar silinsin mi?</item>
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d seçildi</item>
@@ -80,12 +80,12 @@
         <item quantity="many">%1$d mesajlar kalıcı olarak silinecek.</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">%1$d postaları taşı</item>
-        <item quantity="zero">%1$d postaları taşı</item>
+        <item quantity="other">%1$d postayı taşı</item>
+        <item quantity="zero">%1$d postayı taşı</item>
         <item quantity="one">Postayı Taşı</item>
-        <item quantity="two">%1$d postaları taşı</item>
-        <item quantity="few">%1$d postaları taşı</item>
-        <item quantity="many">%1$d postaları taşı</item>
+        <item quantity="two">%1$d postayı taşı</item>
+        <item quantity="few">%1$d postayı taşı</item>
+        <item quantity="many">%1$d postayı taşı</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">%1$d yeni mesajları göster.</item>
