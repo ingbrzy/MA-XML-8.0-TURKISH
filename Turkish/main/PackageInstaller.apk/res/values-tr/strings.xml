@@ -2,23 +2,23 @@
 <resources>
   <string name="Parse_error_dlg_text">Paket ayrıştırılırken bir hata oluştu!</string>
   <string name="Parse_error_dlg_title">Ayrıştırma hatası!</string>
-  <string name="activity_package_delete_confirm_title">Önemli Uyarı!</string>
+  <string name="activity_package_delete_confirm_title">Önemli Uyarı</string>
   <string name="allow_source_dlg_text">"%1$s diğer uygulamaları yüklemek istiyor.
 
 Şimdi ve gelecekte buna izin verilsin mi?"</string>
-  <string name="allow_source_dlg_title">Bilinmeyen kaynaklardan uygulama yüklensin mi?</string>
+  <string name="allow_source_dlg_title">Bilinmeyen kaynakların uygulaması yüklensin mi?</string>
   <string name="app_name">Paket Yükleyici</string>
-  <string name="app_not_found_dlg_text">Yüklü uygulamalar uygulamalar listesinde bulunamadı.</string>
+  <string name="app_not_found_dlg_text">Yüklü uygulamalar, uygulamalar listesinde bulunamadı.</string>
   <string name="app_not_found_dlg_title">Uygulama bulunamadı</string>
   <string name="app_store_install_hint">Şimdi yükle</string>
   <string name="app_store_installing_message">Kuruluyor...</string>
-  <string name="app_store_missing_message">"Rsmi App Store\'dan yüklenmemiş gibi görünüyor. Şimdi yüklensin mi?"</string>
-  <string name="app_store_missing_title">"App Store yüklü değil"</string>
+  <string name="app_store_missing_message">"Resmi Uygulama Mağazasın yüklenmemiş gibi görünüyor. Şimdi yüklensin mi?"</string>
+  <string name="app_store_missing_title">"Uygulama Mağazası yüklü değil"</string>
   <string name="auto_startup_dialog_msg">Bu uygulama sizin izniniz olmadan başlayabilir.</string>
   <string name="btn_text_full_scan">Tam Tara</string>
   <string name="btn_text_install_new_version">En Son Sürüm</string>
   <string name="btn_text_install_origin">Orjinal Sürüm</string>
-  <string name="btn_text_install_security_version_in_appstore">Güvenli sürümü ile değiştirin</string>
+  <string name="btn_text_install_security_version_in_appstore">Güvenli sürüm ile değiştirin</string>
   <string name="btn_text_scaning">Taranıyor...</string>
   <string name="btn_text_security_install">Güvenli sürümü ile değiştirin</string>
   <string name="button_text_cancel">İptal</string>
@@ -33,9 +33,9 @@
   Eski kullanıcı verileri kaydedilecektir."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) güncel sürümü, (%3$s) sürümünün yerine geçecek ve eski verilerinizi kaydedilecektir. Devam etmek istiyor musunuz?"</string>
   <string name="dlg_app_replacement_title">Mevcut uygulamayı değiştirilsin mi?</string>
-  <string name="dlg_appstore_notice">&lt;u&gt;&lt;font color=#91c727&gt;Resmi App Store\'dan&lt;/font&gt;&lt;/u&gt;  bu uygulamayı alın</string>
+  <string name="dlg_appstore_notice">&lt;u&gt;&lt;font color=#91c727&gt;Resmi Uygulama Mağazasından&lt;/font&gt;&lt;/u&gt;  bu uygulamayı alın</string>
   <string name="dlg_ok">Tamam</string>
-  <string name="dlg_sys_app_replacement_statement">"Bu bir Sistem uygulamasıdır. Yine de değiştirmek istiyor musunuz?
+  <string name="dlg_sys_app_replacement_statement">"Bu bir sistem uygulamasıdır. Yine de değiştirmek istiyor musunuz?
   
   Eski kullanıcı verileri kaydedilecektir."</string>
   <string name="done">Tamam</string>
@@ -53,7 +53,7 @@
   <string name="install_failed_system_incompatible">"Bu uygulama MIUI ile uyumlu değil"</string>
   <string name="install_failed_verify_failed">Paket doğrulamayı geçemedi ve yüklenemez.</string>
   <string name="install_failed_verify_timeout">Bu paket doğrulanırken zaman aşımına uğradı. Daha sonra tekrar yüklemeyi deneyin.</string>
-  <string name="install_from_appstore_hint">&lt;u&gt;&lt;font color=#91c727&gt;App Store\'dan&lt;/font&gt;&lt;/u&gt; uygulamayı yüklemenizi tavsiye ediyoruz.</string>
+  <string name="install_from_appstore_hint">&lt;u&gt;&lt;font color=#91c727&gt;Uygulama Mağazasından&lt;/font&gt;&lt;/u&gt; uygulamayı yüklemenizi tavsiye ediyoruz.</string>
   <string name="installing">Kuruluyor...</string>
   <string name="launch">Aç</string>
   <string name="lift_ban">İzin Ver</string>
@@ -61,11 +61,11 @@
   <string name="low_risk_perms">Düşük riskli izinler</string>
   <string name="manage_applications">Uygulamaları Yönet</string>
   <string name="manage_device_administrators">Cihaz yöneticilerini yönet</string>
-  <string name="message_appstore_verify_has_new_version">Bu uygulamanın daha yeni bir sürümü App Store\'da bulunmaktadır. Bunu yüklemek istiyor musunuz?</string>
-  <string name="message_appstore_verify_inconsistent">"Bu uygulamanın imzası App Store\'dan farklı, oradan uygulamayı yüklemek daha güvenli olacaktır."</string>
-  <string name="message_appstore_verify_ok">App Store\'daki bu uygulamanın sürümü güvenlik testlerini geçti, biz oradan uygulamayı yüklemenizi tavsiye ederiz.</string>
+  <string name="message_appstore_verify_has_new_version">Bu uygulamanın daha yeni bir sürümü Uygulama Mağazasında bulunmaktadır. Bunu yüklemek istiyor musunuz?</string>
+  <string name="message_appstore_verify_inconsistent">"Bu uygulamanın imzası Uygulama Mağazasından farklı, oradan uygulamayı yüklemek daha güvenli olacaktır."</string>
+  <string name="message_appstore_verify_ok">Uygulama Mağazasındaki bu uygulamanın sürümü güvenlik testlerini geçti, biz oradan uygulamayı yüklemenizi tavsiye ederiz.</string>
   <string name="message_full_scanning">Tam taranıyor…</string>
-  <string name="message_install_in_market">App Store\'dan uygulamayı yüklemenizi tavsiye ederiz</string>
+  <string name="message_install_in_market">Uygulama Mağazasından uygulamayı yüklemenizi tavsiye ederiz</string>
   <string name="message_quick_scanning">Hızlı taranıyor…</string>
   <string name="ok">Tamam</string>
   <string name="other_relative">Diğer</string>
@@ -79,7 +79,7 @@
   <string name="perm_action_reject">Reddet</string>
   <string name="perm_notice">Uyarı</string>
   <string name="perm_privacy_app_finish">Tamam</string>
-  <string name="perm_privacy_app_installed">uygulaması yüklendi</string>
+  <string name="perm_privacy_app_installed">Uygulama yüklendi</string>
   <string name="perm_privacy_app_launch">Başlat</string>
   <string name="perm_privacy_app_trust">İzin için sor</string>
   <string name="perm_privacy_app_trust_summary">Bu uygulama sisteminin diğer parçalarına erişmeye çalışırken zaman bana sor</string>
