@@ -88,8 +88,8 @@
         <item quantity="one">WLAN ağı mevcut</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Mevcut WLAN ağı aç</item>
-        <item quantity="one">Mevcut WLAN ağı aç</item>
+        <item quantity="other">Mevcut WLAN ağını aç</item>
+        <item quantity="one">Mevcut WLAN ağını aç</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%2$d\'da %1$d </item>
