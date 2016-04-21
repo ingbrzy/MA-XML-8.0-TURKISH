@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">%d uygulaması için veri kullanımı izlenmiyor</item>
+        <item quantity="one">%d uygulaması için veri kullanımı izlenmiyor</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">%d uygulaması için veri kullanımı izleniyor</item>
+        <item quantity="one">%d uygulaması için veri kullanımı izleniyor</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d uygulama iyi hale getirildi</item>
+        <item quantity="one">%d uygulama iyi hale getirildi</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d uygulama iyi hale getirilebilir</item>
+        <item quantity="one">%d uygulama iyi hale getirilebilir</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d uygulama Veri Tasarrufunu kullanıyor</item>
+        <item quantity="one">%d uygulama Veri Tasarrufunu kullanıyor</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d uygulama Veri Tasarrufunu kullanılmıyor</item>
+        <item quantity="one">%d uygulama Veri Tasarrufunu kullanılmıyor</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">%d gün önce kullanılan</item>
+        <item quantity="one">Dün kullanılan</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other"> %d uygulamayı ara</item>
+        <item quantity="one">%d uygulamayı ara</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d uygulama veri dolaşımında kullanılabilir</item>
+        <item quantity="one">%d uygulama veri dolaşımında kullanılabilir</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"%d uygulama veri dolaşımında kullanılamaz"</item>
+        <item quantity="one">"%d uygulama veri dolaşımında kullanılamaz"</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d uygulama bulundu</item>
+        <item quantity="one">%d uygulama bulundu</item>
+    </plurals>
+</resources>
