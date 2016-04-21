@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d seçildi</item>
+        <item quantity="zero">%1$d seçildi</item>
+        <item quantity="one">%1$d seçildi</item>
+    </plurals>
+    <plurals name="confirm_delete_city">
+        <item quantity="other">%1$s şehri silinecek</item>
+        <item quantity="one">Bir şehir silinecek</item>
+    </plurals>
+</resources>
