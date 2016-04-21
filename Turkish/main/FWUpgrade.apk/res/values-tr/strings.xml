@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="apk_not_exist">Güncelleme dosyası mevcut değil</string>
-  <string name="app_name">FWUpgrade</string>
+  <string name="app_name">ROM Güncellemesi</string>
   <string name="battery_low">Pil en az %30 civarında olmalı, pil dolu olduğunda tekrar deneyin!</string>
   <string name="battery_remove">Lütfen şarj cihazını çıkardıktan sonra tekrar deneyin!</string>
   <string name="battery_remove_title">Uyarı</string>
@@ -77,7 +77,7 @@
   <string name="setting_help_guide">Yardım</string>
   <string name="setting_network_tip">Şuan 2G/3G kullanıyorsunuz, lütfen [Sadece Wi-Fi ile Güncelle] seçeneğini değiştirin ve tekrar deneyin.</string>
   <string name="setting_only_wifi">Sadece Wi-Fi ile Güncelle</string>
-  <string name="setting_only_wifi_hint">Güncelleme paketlerini sadece Wi-Fi bağlandığında indir</string>
+  <string name="setting_only_wifi_hint">Güncellemeleri sadece Wi-Fi bağlantısıyla indir</string>
   <string name="start_full_size_update">Tam güncellemeyi başlat</string>
   <string name="tips">İpuçları</string>
   <string name="tips_content">&lt;Data&gt; &amp;lt;div style=font-size:15px;color:#4c4c4c&amp;gt;&amp;lt;p&amp;gt;1. FOTA daha akıcı ve daha verimli çalışması için cihazınıza yardımcı olabilir.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;2. Wi-Fi üzerinden güncelleştirme paketini yüklemeniz tavsiye edilir.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;3. Cihazınızın pilinin en az %30 veya daha fazla olduğundan emin olun ve yükseltmeden önce şarj cihazını fişten çekin.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;4. Kurulum sırasında birkaç kez yeniden başlatılabilir. Cihazınız pili çıkarmayın ve güncelleme tamamlanana kadar cihaz üzerinde hiçbir şey yapmayın.&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt; &lt;/Data&gt;" "</string>
@@ -90,6 +90,8 @@
   <string name="update_now">Şimdi güncelle</string>
   <string name="update_prompt">İpuçları: Güncelleme esnasında, herhangi bir eylem geçersizdir. Tüm işlemler biraz zaman alabilir. Bundan dolayı bataryanızın gücünün yeterli olduğundan emin olun.</string>
   <string name="upgrade_hint">Güncelleme ipucu</string>
+  <string name="upgrade_later">İptal</string>
   <string name="upgrade_newversion">Yeni bir sürüm mevcut:</string>
+  <string name="upgrade_now">Güncelle</string>
   <string name="ver_notes_title">Sürüm Notları</string>
 </resources>
