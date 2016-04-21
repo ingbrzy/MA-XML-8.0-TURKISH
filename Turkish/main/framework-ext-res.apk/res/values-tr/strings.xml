@@ -29,7 +29,7 @@
   <string name="fc_dialog_jump_to_preview">Sonuca gözat</string>
   <string name="first_back_long_press_message">"Basın &amp; geçerli işlemi ve arka plan hizmetlerini sonlandırmak için Geri düğmesine basılı tutun.
 
-Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Tuşlar bölümüne gidin"</string>
+Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölümüne gidin"</string>
   <string name="fm_record_smaple_prefix_miui">FM Kaydı</string>
   <string name="force_exit_message">%1$s zorla kapatıldı!</string>
   <string name="force_exit_skip_message">"%1$s sistem uygulaması olduğu için kapatılamaz!"</string>
@@ -63,7 +63,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Tuşlar bölümüne
   <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
   <string name="maml_component_customization_title">Ayarlar</string>
   <string name="memory_clear_nothing_result">Önbellekte temizlemek için bir şey yok</string>
-  <string name="memory_clear_result">%1$s temizlendi | %2$s mevcut</string>
+  <string name="memory_clear_result">%1$s B temizlendi | %2$s B mevcut</string>
   <string name="miui">miui</string>
   <string name="paste">Yapıştır</string>
   <string name="perm_send_push_dspt">Mi Push mesajlarına izin ver</string>
