@@ -2,7 +2,7 @@
 <resources>
   <string name="agps_app_name">A-GPS</string>
   <string name="apn_apn_label">"APN: "</string>
-  <string name="apn_app_name">Erişim Noktası Adı</string>
+  <string name="apn_app_name">Erişim Noktasının Adı</string>
   <string name="apn_auth_type_label">"Kimlik Doğrulama Türü: "</string>
   <string name="apn_mms_port_label">"MMS Port: "</string>
   <string name="apn_mms_proxy_label">"MMS Proxy: "</string>
@@ -16,7 +16,7 @@
   <string name="bookmark_label">"URL: "</string>
   <string name="bookmark_name_label">"Favori Adı: "</string>
   <string name="browser_app_name">Tarayıcı</string>
-  <string name="configuration_message">Yapılandırma Mesaji</string>
+  <string name="configuration_message">Yapılandırma Mesajı</string>
   <string name="confirm_delete_all_messages">Tüm mesajlar silinecek.</string>
   <string name="confirm_delete_message">Mesaj silinecektir.</string>
   <string name="content_type_label">"İçerik Türü: "</string>
