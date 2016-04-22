@@ -66,4 +66,8 @@
         <item>Her 15 günde</item>
         <item>Her 30 günde</item>
     </string-array>
+	<string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
+    </string-array>
 </resources>
