@@ -97,7 +97,7 @@
   <string name="pref_camera_audio_capture_title">Ses</string>
   <string name="pref_camera_auto_capture_when_stable_summary">Bir nesneyi seçmek için, kendi kenar etrafında ki iki köşegen noktalarına dokunun. Nesne sabit olduğunda, kamera otomatik olarak bir çekim yapacaktır.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Hareketsizken seçilen objeleri yakalayın</string>
-  <string name="pref_camera_auto_chroma_flash_title">Rengi Parlak Flaş</string>
+  <string name="pref_camera_auto_chroma_flash_title">Parlak Renkli Flaş</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Merkez Ağırlıklı</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Çerçeveye Ortala</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Nokta Metrajı</string>
@@ -116,7 +116,7 @@
   <string name="pref_camera_coloreffect_entry_none">Normal</string>
   <string name="pref_camera_coloreffect_entry_posterize"/>
   <string name="pref_camera_coloreffect_entry_sepia"/>
-  <string name="pref_camera_coloreffect_entry_seventy">1970ler</string>
+  <string name="pref_camera_coloreffect_entry_seventy">"1970'ler"</string>
   <string name="pref_camera_coloreffect_entry_sketch">Eskiz</string>
   <string name="pref_camera_coloreffect_entry_vivid">Canlı</string>
   <string name="pref_camera_coloreffect_entry_xproii">X Pro II</string>
@@ -253,7 +253,7 @@
   <string name="pref_camera_volumekey_function_entry_volume">Ses</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Büyült</string>
   <string name="pref_camera_volumekey_function_title">Ses Düğmelerinin Faaliyetleri</string>
-  <string name="pref_camera_watermark_title">Zaman Damgası</string>
+  <string name="pref_camera_watermark_title">Fotoğrafa Zaman Damgası Ekle</string>
   <string name="pref_camera_whitebalance_entry_auto">Otomatik</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Bulutlu</string>
   <string name="pref_camera_whitebalance_entry_daylight">Gün Işığı</string>
@@ -280,7 +280,7 @@
   <string name="pref_video_captrue_ability_title">Kaydedilirken Resim Yakala</string>
   <string name="pref_video_focusmode_entry_auto">Dokun</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
-  <string name="pref_video_focusmode_title">Odak Modu</string>
+  <string name="pref_video_focusmode_title">Odaklanma Modu</string>
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_quality_entry_4kuhd">4K</string>
@@ -293,7 +293,7 @@
   <string name="pref_video_speed_entry_fast">Hızlı</string>
   <string name="pref_video_speed_entry_normal">Standart</string>
   <string name="pref_video_speed_entry_slow">Yavaş</string>
-  <string name="pref_video_speed_fast_title">Zaman Aralığı</string>
+  <string name="pref_video_speed_fast_title">Hızlı Çekim</string>
   <string name="pref_video_speed_slow_title">Yavaş Çekim</string>
   <string name="pref_video_speed_title">Video Yakalama Hızı</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">0.3 saniye aralığında (10 kez)</string>
