@@ -32,15 +32,15 @@
   <string name="error_camera_unavailable_title">Kamera kullanılamıyor</string>
   <string name="first_using_dialog_message">"Pusula uygulamasının doğru çalışması için cihazınızın ağ bağlantısını, kamera ve konum servislerini kullanması gerekiyor."</string>
   <string name="first_using_dialog_title">Erişim izni</string>
-  <string name="guide_toast">Kalibre etmek için, aşağıdaki harekete göre telefonunuzu hareket ettirin.</string>
+  <string name="guide_toast">Pusulayı kalibre etmek için, aşağıdaki şekle (∞) göre telefonunuzu bir kaç kez hareket ettirin.</string>
   <string name="latitude">ENLEM</string>
   <string name="location_east">D</string>
   <string name="location_enable">İzin Ver</string>
   <string name="location_enable_later">Sonra</string>
-  <string name="location_enabled">Konum servisini istediğiniz zaman Ayarlardan kapatabilirsiniz.</string>
+  <string name="location_enabled">"Konum servisini istediğiniz zaman Ayarlar'dan kapatabilirsiniz."</string>
   <string name="location_north">K</string>
   <string name="location_not_enabled_summary">Düzgün çalışması için konumunuzun bulunması gerekir.</string>
-  <string name="location_not_enabled_title">Konum servisleri</string>
+  <string name="location_not_enabled_title">Konum Hizmetleri</string>
   <string name="location_south">G</string>
   <string name="location_west">B</string>
   <string name="longitude">BOYLAM</string>
@@ -49,7 +49,7 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Basınç</string>
   <string name="pressure_unit">hPa</string>
-  <string name="shake_enter_tip">Kalibrasyon için sallayın</string>
+  <string name="shake_enter_tip">Kalibrasyon için telefonu ∞ şeklinde birkaç kez sallayın</string>
   <string name="using_camera_confirm_cancel">Çık</string>
   <string name="using_camera_confirm_ok">Katılıyorum</string>
 </resources>
