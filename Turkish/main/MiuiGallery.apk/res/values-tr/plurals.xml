@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Bu yüzler gösterilmesin mi?"</item>
-        <item quantity="one">"Bu yüz gösterilmesin mi?"</item>
+        <item quantity="other">"Bu kişi gösterilmesin mi?"</item>
+        <item quantity="one">"Bu kişi gösterilmesin mi?"</item>
     </plurals>
     <plurals name="more_face">
         <item quantity="other">%2$s\'daki %1$s fotoğraf >></item>
