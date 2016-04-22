@@ -55,7 +55,7 @@
   <string name="audio_effect_info">Sesi İyi Duruma Getir</string>
   <string name="audio_effect_settings">Kulaklık Tipini Seçin</string>
   <string name="battery_low_percent_format">%%%d pil seviyesi kaldı</string>
-  <string name="battery_low_title">Şarj Cihazına Bağlayın</string>
+  <string name="battery_low_title">Şarj cihazına bağlayın</string>
   <string name="battery_profiles">Pil profillerini kullan</string>
   <string name="block_record_notification_more_text">%1$s &amp; %2$d uygulamanın bildirimleri gizleniyor.</string>
   <string name="block_record_notification_text">%1$s ait bildirimler gizleniyor.</string>
@@ -66,7 +66,7 @@
   <string name="camera_key_action_app_title">Uygulamayı aç</string>
   <string name="camera_key_action_category_title">Kamera açılmazsa kullan</string>
   <string name="camera_key_action_none_title">Eylem yok</string>
-  <string name="camera_key_action_setting_title">Mi Key</string>
+  <string name="camera_key_action_setting_title">Mi Button</string>
   <string name="camera_key_action_shortcut_call">Ara</string>
   <string name="camera_key_action_shortcut_home">Ana Ekrana Dön</string>
   <string name="camera_key_action_shortcut_screenshot">Ekran Görüntüsü</string>
@@ -131,6 +131,7 @@ Her zaman orjinal aksesuar kullanın."</string>
   <string name="media_projection_dialog_text">"%s ekranda görüntülenen her şeyi yakalamaya başlayacak."</string>
   <string name="media_projection_remember_text">"Tekrar gösterme"</string>
   <string name="megabyte_per_second">M/s</string>
+  <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">Evet</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Bildirim yok.</string>
@@ -154,7 +155,7 @@ Her zaman orjinal aksesuar kullanın."</string>
   <string name="notification_otg_unknow_out">OTG Cihaz bağlantısı kesildi</string>
   <string name="notification_template_text">Yeni bildirimi görüntülemek için dokunun</string>
   <string name="oldman_airplane_mode_text">Uçak Modu</string>
-  <string name="oldman_incall_text">çağrıda</string>
+  <string name="oldman_incall_text">Çağrıda</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="reject_call">Çağrıyı reddet</string>
@@ -239,13 +240,13 @@ Kilitlemek için aşağı kaydırın ▼"</string>
   <string name="usb_storage_stop_message">"USB depolamayı kapatmadan önce telefonunuzun bilgisayarla bağlantısının güvenli bir şekilde çıkarttığınızdan emin olun."</string>
   <string name="usb_storage_stop_notification_message">USB depolamayı kapatmak için seçin.</string>
   <string name="usb_storage_stop_notification_title">USB depolamayı kapat</string>
-  <string name="usb_storage_stop_title">USB depolama kullanımda</string>
+  <string name="usb_storage_stop_title">USB depolama kullanılıyor</string>
   <string name="usb_storage_title">USB bağlandı</string>
-  <string name="user_guide_for_notification">Bildirimler çubuğunu indirmek için bir parmağınızla dokunup aşağı kaydırın</string>
-  <string name="user_guide_for_toggle">Geçiş listesi yatay kaydırılabilir</string>
+  <string name="user_guide_for_notification">Bildirimler çubuğunu indirmek için bir parmağınızla dokunup aşağı kaydırın ▼</string>
+  <string name="user_guide_for_toggle">Geçiş listesi yatay kaydırılabilir ◄ ►</string>
   <string name="user_guide_for_toggle_list">Geçişleri yönet</string>
   <string name="vpn_text">Ayarları görüntülemek için dokunun.</string>
   <string name="vpn_text_long">%s için bağlandı. Ayrıntılarını görüntülemek için dokunun.</string>
   <string name="vpn_title">VPN etkinleştirildi</string>
-  <string name="vpn_title_long">VPN  %s kullanılarak bağlandı</string>
+  <string name="vpn_title_long">%s VPN kullanılarak bağlandı</string>
 </resources>
