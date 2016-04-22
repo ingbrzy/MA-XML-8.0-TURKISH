@@ -2,7 +2,7 @@
 <resources>
   <string name="access_history">Geçmiş</string>
   <string name="action_item_delete">Sil</string>
-  <string name="add_favorite">Seçilmiş</string>
+  <string name="add_favorite">Öne Çıkanlar</string>
   <string name="all">Tümü</string>
   <string name="app_name">Radyo</string>
   <string name="app_to_share">İşlemi şunu kullanarak tamamla</string>
@@ -32,7 +32,7 @@
   <string name="download_completed">İndirildi</string>
   <string name="download_invalid">Kaynak yok</string>
   <string name="download_network_is_not_available">"Ağa bağlanamıyor"</string>
-  <string name="download_progress_toast">%1$d%%</string>
+  <string name="download_progress_toast">%%%1$d</string>
   <string name="download_start_toast">%1$s indiriliyor (%2$dbps)</string>
   <string name="download_successful">İndirildi</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
