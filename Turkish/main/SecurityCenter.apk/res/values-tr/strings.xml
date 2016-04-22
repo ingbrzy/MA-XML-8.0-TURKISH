@@ -589,6 +589,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="never">1 Kez</string>
   <string name="none_mi_service_app_detail">Boş</string>
   <string name="notification_button_text_of_low_memory">Temizle</string>
+  <string name="notification_item">Uygulama kilidini aç</string>
   <string name="notification_summary_cmcc_app_check">Detayları görüntülemek için dokunun</string>
   <string name="notification_title_cmcc_app_check">Son kontrolden bu yana %d gün geçti.</string>
   <string name="notification_title_firewall_blocked">Engelli</string>
@@ -661,7 +662,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="power_center_auto_shutdown">Açılıp/Kapanmayı Ayarla</string>
   <string name="power_center_auto_shutdown_summary_default">Bir planlanan zamanda cihazı aç veya kapat</string>
   <string name="power_center_battery_full">Pil tamamen doldu</string>
-  <string name="power_center_charge_time">%1$s zaman sonra pil dolacak</string>
+  <string name="power_center_charge_time">%1$s sonra pil dolacak</string>
   <string name="power_center_consume_rank">Pil Kullanımı</string>
   <string name="power_center_consume_time">%1$s kaldı.</string>
   <string name="power_center_custom_summary_default">Özel profiller ile pil ömrünü arttırın</string>
