@@ -84,6 +84,10 @@
         <item quantity="other">%d uygulama için güncelleme var.</item>
         <item quantity="one">%d uygulama için güncelleme var.</item>
     </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d uygulama gizlilik riskleri içeriyor</item>
+        <item quantity="one">%d uygulama gizlilik riskleri içeriyor</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Parola en az %d harf içermeli.</item>
         <item quantity="one">"Parola en az 1 harf içermeli. "</item>
