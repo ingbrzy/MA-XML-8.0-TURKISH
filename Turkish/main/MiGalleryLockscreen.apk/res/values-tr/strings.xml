@@ -11,7 +11,7 @@
   <string name="declaration_lockscreen_title">Duvar Kağıdı Döngüsü</string>
   <string name="declaration_title">Hükümler ve Koşullar</string>
   <string name="hour_1">Her saatte</string>
-  <string name="hour_3">Her 3 saatte bir</string>
+  <string name="hour_3">Her 3 saatte</string>
   <string name="lockscreen_magazine_summary">Kategoriler</string>
   <string name="lockscreen_magazine_system_title">Çevrimdışı</string>
   <string name="lockscreen_magazine_title">Günlük Kilit Ekranı</string>
@@ -35,11 +35,12 @@
   <string name="sst_sti_title">Güncelleme Sıklığı</string>
   <string name="sst_subscribe_title">Kategorilerim</string>
   <string name="sst_wifi_only_desc">Bu özelliği kapatırsanız, mobil veri tasarrufu sağlarsınız</string>
-  <string name="sst_wifi_only_title">Mobil veri kullanarak duvar kağıtlarını güncelle</string>
-    <string name="summary_international">"Bu ürünü kullanmakla, şunu kabul etmiş olursunuz: &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Kullanıcı Sözleşmesi&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Gizlilik Politikası&lt;/a&gt;. Bu uygulamanın normal bir şekilde çalışması için internete bağlanması gerekiyor."</string>
+  <string name="sst_wifi_only_title">Mobil veriyle duvar kağıtlarını güncelle</string>
+  <string name="summary">"Bu ürünü kullanmakla, şunu kabul etmiş olursunuz: &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;User Agreement&lt;/a&gt; ve &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Gizlilik Politikası&lt;/a&gt;. Bu özelliğin normal bir şekilde çalışması için internete bağlanması gerekiyor."</string>
+  <string name="summary_international">"Bu ürünü kullanmakla, şunu kabul etmiş olursunuz: &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Kullanıcı Sözleşmesi&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Gizlilik Politikası&lt;/a&gt;. Bu özelliğin normal bir şekilde çalışması için internete bağlanması gerekiyor."</string>
   <string name="theme_apply_failured">"Kilit ekranı duvar kağıdı uygulanamıyor"</string>
   <string name="theme_apply_success">Kilit ekranına uygulandı</string>
   <string name="theme_applying">Uygulanıyor...</string>
   <string name="wlan_download">Wi-Fi ağına bağlandığında güncelle</string>
-  <string name="wlan_download_cn">WLAN ağına bağlandığında güncelle</string>
+  <string name="wlan_download_cn">WLAN üzerinden güncelle</string>
 </resources>
