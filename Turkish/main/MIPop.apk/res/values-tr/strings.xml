@@ -2,26 +2,26 @@
 <resources>
   <string name="Discard">Yoksay</string>
   <string name="Save">Kaydet</string>
-  <string name="SaveFail">Kaydetme hatası</string>
+  <string name="SaveFail">Kayıt hatası</string>
   <string name="SaveTO">Kaydet</string>
   <string name="Share">Paylaş</string>
   <string name="app_name">Mi Pop</string>
   <string name="fullScreem">Tam Ekran</string>
   <string name="full_screen">Gezinti Simgesi</string>
   <string name="fullscreenmode">Tam Ekran Modu</string>
-  <string name="fullscreenmodeoff">Mi Pop ve gezinme çubuğunu yeniden görüntüle</string>
-  <string name="fullscreenmodeon">Mi Pop ve gezinme çubuğunu gizle</string>
+  <string name="fullscreenmodeoff">Mi Pop ve Gezinti Çubuğunu yeniden göster</string>
+  <string name="fullscreenmodeon">Mi Pop ve Gezinti Çubuğunu gizle</string>
   <string name="help">Yardım</string>
-  <string name="help1">"1. Mi Pop'u germek için üzerine kaydırın ve hareketsizlikten 2 dakika sonra geri çekin"</string>
-  <string name="help2">2. Dikey olarak kaydırarak ekranı taşıyın veya kaydırarak tutun</string>
-  <string name="help3">3. Seçenekleri açmak için dokunun &amp; basılı tutun</string>
-  <string name="help4">4. Mi yardımı başlatmak için geri tuşuna basın &amp; tutun</string>
-  <string name="lock_screen">Kilit ekranı</string>
-  <string name="mipop_first_key_title">Varsayılan tuş</string>
+  <string name="help1">"1. Mi Pop'u faal hale getirmek için üzerinde kaydırın ve hareketsiz hale geldikten 2 dakika sonra geri çekin"</string>
+  <string name="help2">2. Dikey olarak kaydırarak ekranı taşıyın veya kaydırıp tutun</string>
+  <string name="help3">3. Seçenekleri açmak için dakunup &amp; basılı tutun</string>
+  <string name="help4">4.Yardımı başlatmak için geri tuşuna basılı tutun</string>
+  <string name="lock_screen">Kilit Ekranı</string>
+  <string name="mipop_first_key_title">Varsayılan</string>
   <string name="mipop_fullscreen_summary">Mevcut büyük ekran alanı</string>
-  <string name="mipop_fullscreen_title">Gezinti çubuğunu gizle</string>
+  <string name="mipop_fullscreen_title">Gezinti Çubuğunu gizle</string>
   <string name="mipop_help_title">Yardım</string>
-  <string name="mipop_switch_summary">Her yerde gezinti simgesini göster</string>
+  <string name="mipop_switch_summary">Her zaman gezinti simgesini göster</string>
   <string name="mipop_switch_title">Mi Pop</string>
   <string name="mipop_title">Mi Pop</string>
   <string name="mute">Sessiz</string>
@@ -32,7 +32,7 @@
   <string name="reboot">Yeniden Başlat</string>
   <string name="runningFaceDetection">Lütfen bekleyin...</string>
   <string name="screenshots">Ekran Görüntüsü</string>
-  <string name="volume">Birim</string>
+  <string name="volume">Ses</string>
   <string name="widgetName">Mi Pop</string>
   <string name="widgetText">Mi Pop</string>
 </resources>
