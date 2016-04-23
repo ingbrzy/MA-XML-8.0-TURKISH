@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_license">Riski sizin sorumluluğunuzdadır!</string>
+  <string name="about_name">MIUIv6 Düzenlemesi 1.1</string>
+  <string name="about_text1">Yazar:</string>
+  <string name="about_text2">don11995</string>
+  <string name="about_text3">Kavram:</string>
+  <string name="about_text4">stas2z</string>
+  <string name="about_text5">Icon:</string>
+  <string name="about_text6">DriffeX</string>
+  <string name="app_name">MIUIv6 Düzenleme Alanı</string>
+  <string name="data_access">Erişim</string>
+  <string name="data_airplane">Uçak Modu</string>
+  <string name="data_autolight">Otomatik Parlaklık</string>
+  <string name="data_block">Kilitle</string>
+  <string name="data_bluetooth">Bluetooth</string>
+  <string name="data_buttons">Tuşlar devre dışı</string>
+  <string name="data_gps">GPS</string>
+  <string name="data_guest">Misafir</string>
+  <string name="data_light">Flaş Işığı</string>
+  <string name="data_mobile">Veri</string>
+  <string name="data_rotate">Döndür</string>
+  <string name="data_screenshot">Ekran Görüntüsü</string>
+  <string name="data_silent">Beni Rahatsız Etme</string>
+  <string name="data_sound">Sessiz</string>
+  <string name="data_speed">Performans</string>
+  <string name="data_sync">Eşitle</string>
+  <string name="data_vibration">Titret</string>
+  <string name="data_wifi">Wi-Fi</string>
+  <string name="data_wifispot">Wi-Fi EN</string>
+  <string name="err_get_data">Veritabanı okuma hatası</string>
+  <string name="err_init_settings">Geçerli ayarları alırken hata oluştu</string>
+  <string name="err_reset">Sıfırlama ayarlarını alırken hata oluştu</string>
+  <string name="err_saving">Ayarları kaydederken hata oluştu</string>
+  <string name="howtouse_text">"1. Tercihler arasında geçiş yaparken, düzenlemek için Sürükle ve Bırak özelliğini kullanın.
+2. \"Kaydet\" tuşuna basın.
+3. Tamam!"</string>
+  <string name="howtouse_text1">\"Sıfırla\" tuşuna basarak varsayılan değerlere dönersiniz.</string>
+  <string name="main_header">"Sürüekle ve Bırak özelliğiyle istediğinize geçiş yapabilirsiniz."</string>
+  <string name="main_menu_about">Hakkında</string>
+  <string name="main_menu_howtouse">Hızlı Tanıtım</string>
+  <string name="main_reset_button">Sıfırla</string>
+  <string name="main_save_button">Kaydet</string>
+  <string name="main_settings_question">Gerçekten ayarlarını sıfırlamak istiyor musunuz?</string>
+  <string name="main_settings_question_no">Hayır</string>
+  <string name="main_settings_question_yes">Evet</string>
+  <string name="main_settings_saved">Ayarlar kaydedildi</string>
+</resources>
