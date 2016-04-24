@@ -145,11 +145,6 @@
         <item>Numarayı Gizle</item>
         <item>Numarayı Göster</item>
     </string-array>
-    <string-array name="clir_values">
-        <item>DEFAULT</item>
-        <item>HIDE</item>
-        <item>SHOW</item>
-    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE / WCDMA</item>
         <item>LTE</item>
@@ -315,11 +310,6 @@
     <string-array name="dtmf_tone_values">
         <item>0</item>
         <item>1</item>
-    </string-array>
-    <string-array name="voicemail_notification_vibrate_when_values">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
     </string-array>
     <string-array name="t9_indexing_method_entry_values">
         <item>0</item>
