@@ -40,12 +40,12 @@
   <string name="always_enable_mms_summary">Mobil veri kapalıyken bile MMS al</string>
   <string name="allContactdeleteFailed">"SIM kişilerini silemezsiniz"</string>
   <string name="allContactdeleteSuccess">SIM karttaki tüm kişiler silindi</string>
-  <string name="anc_off">ANC kapalı</string>
-  <string name="anc_on">ANC açık</string>
+  <string name="anc_off">Aktif Gürültü Azaltma kapalı</string>
+  <string name="anc_on">Aktif Gürültü Azaltma açık</string>
   <string name="anc_title">Aktif Gürültü Azaltma</string>
   <string name="answer_features_setting_category">Cevaplama Ayarları</string>
-  <string name="answer_state_setting_summary">Ek Gelen Arama Seçenekleri</string>
-  <string name="answer_state_setting_title">Gelen Arama Ayarları</string>
+  <string name="answer_state_setting_summary">Ek Gelen Çağrı Seçenekleri</string>
+  <string name="answer_state_setting_title">Gelen Çağrı Ayarları</string>
   <string name="antispam_notification_title">Bilinmeyen Numara</string>
   <string name="apn_settings">Erişim Noktası Adları</string>
   <string name="area_code_preference_be_set_summary">Geçerli Konum: %s</string>
@@ -94,7 +94,7 @@
   <string name="autoip_prefix">IP öneki</string>
   <string name="autoip_prefix_summary">"Operatörünüzün IP öneki: %s"</string>
   <string name="autoip_setting">Otomatik IP Ayarları</string>
-  <string name="autoip_summary">Uluslararası numaraları için bir IP öneki ekle</string>
+  <string name="autoip_summary">Uluslararası numaraları için IP öneki ekle</string>
   <string name="autoip_support_local_numbers">Herzaman IP öneki kullan</string>
   <string name="back">Geri</string>
   <string name="badPin">"Yazdığınız eski PIN doğru değil. Yeniden deneyin."</string>
@@ -274,6 +274,8 @@
   <string name="card_title_my_phone_number">Numaram %s</string>
   <string name="card_title_on_hold">Beklemede</string>
   <string name="card_title_redialing">Yeniden Aranıyor</string>
+  <string name="carrier_settings"/>
+  <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">Operatör Ayarları</string>
   <string name="cb_all_languages">Tüm Diller</string>
   <string name="cb_channel_dialog_channel_name">Kanal adı (0-10 karakter)</string>
@@ -363,7 +365,7 @@
   <string name="contactAddFailed">"SIM karta kişi eklenemedi"</string>
   <string name="contactAddSuccess">SIM karta kişi eklendi</string>
   <string name="contactScreen">SIM kişisi ekle/düzenle</string>
-  <string name="contactPhoto">Kişi fotoğrafı</string>
+  <string name="contactPhoto">Kişi Resmi</string>
   <string name="contactUpdateFailed">"SIM karttaki kişi güncellenemedi."</string>
   <string name="contactUpdateSuccess">SIM karttaki kişi güncellendi.</string>
   <string name="contactdeleteFailed">"SIM karttaki kişi silinemedi."</string>
@@ -380,7 +382,7 @@
   <string name="default_areacode">Varsayılan alan kodu</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_notification_description">Varsayılan ses (%1$s)</string>
-  <string name="default_preference_summary">&lt;Ayarlanmadı&gt;</string>
+  <string name="default_preference_summary">Ayarlanmadı</string>
   <string name="delete">Sil</string>
   <string name="deleteAllSimEntries">Tüm SIM kişilerini sil</string>
   <string name="deleteSimContacts">Siliniyor…</string>
@@ -388,7 +390,7 @@
   <string name="deleting_fdn_contact">Sabit arama numarası siliniyor…</string>
   <string name="description_delete_button">Geri Tuşu</string>
   <string name="description_dial_button">Ara</string>
-  <string name="description_dialpad_overflow">Fazla Seçenek</string>
+  <string name="description_dialpad_overflow">Diğer Seçenekler</string>
   <string name="description_image_button_eight">Sekiz</string>
   <string name="description_image_button_five">Beş</string>
   <string name="description_image_button_four">Dört</string>
@@ -623,7 +625,7 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="ims_vt_call_quality_high">Yüksek</string>
   <string name="ims_vt_call_quality_low">Düşük</string>
   <string name="ims_vt_call_quality_set_failed">Video kalitesi ayarlanamadı</string>
-  <string name="ims_vt_call_quality_title">VT Çağrı Kalitesi</string>
+  <string name="ims_vt_call_quality_title">Görüntülü Çağrı Kalitesi</string>
   <string name="ims_vt_call_quality_unknown">Bilinmiyor</string>
   <string name="ims_menu_discard">Reddet</string>
   <string name="ims_menu_save">Kaydet</string>
@@ -737,7 +739,7 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="livetalk_activate">Kontör paketini etkinleştir</string>
   <string name="livetalk_activate_number">SIM kartı doğrula</string>
   <string name="livetalk_activate_number_1">SIM 1 doğrula</string>
-  <string name="livetalk_activate_number_2">SIM 2 doğrula</string>
+  <string name="livetalk_activate_number_2">SIM 2 kartını doğrula</string>
   <string name="livetalk_activate_sim_card">Etkinleştir</string>
   <string name="livetalk_activate_summary">Bir SMS, bu hizmeti doğrulamak için gönderilecektir.</string>
   <string name="livetalk_add_white_list_info">Doğrudan aramak için telefon numarası ekleyin.</string>
@@ -887,7 +889,7 @@ Kontör yükle ve konuşmaya başla"</string>
   <string name="network_1x">1x</string>
   <string name="network_2G">2G</string>
   <string name="network_3G">3G</string>
-  <string name="network_4G">4G (tavsiye edilen)</string>
+  <string name="network_4G">4G (tavsiyeli)</string>
   <string name="network_error_message">"Ağa bağlanamadı"</string>
   <string name="network_error_message_livetalk">Düzenli arama yapmak için deneyin. Bu operatör tarafından tahsil edilecektir.</string>
   <string name="network_error_title">Ağ Hatası</string>
@@ -895,7 +897,7 @@ Kontör yükle ve konuşmaya başla"</string>
   <string name="network_global">Genel</string>
   <string name="network_id">Ağ Kimliği</string>
   <string name="network_info_message">Ağ Mesajı</string>
-  <string name="network_lte">LTE (tavsiye edilen)</string>
+  <string name="network_lte">LTE (tavsiyeli)</string>
   <string name="network_message">Ağ mesajı</string>
   <string name="network_query_error">Ağlar için arama sırasında hata oluştu.</string>
   <string name="network_setting_all_forbidden_dialog">Kullanılabilir ağ yok.</string>
@@ -903,7 +905,7 @@ Kontör yükle ve konuşmaya başla"</string>
   <string name="network_settings_automatically_option">Tercih edilen ağı otomatik seçin (%s)</string>
   <string name="network_settings_confirm_message">Aygıtınız için kullanılabilir ağları ararken ağ bağlantısını keser.</string>
   <string name="network_settings_data_connected_change">Cihazınız kullanılabilir ağları ararken Mobil veri otomatik olarak kapanacaktır.</string>
-  <string name="network_settings_duringcall">"Operasyon görüşme sırasında izin verilmez"</string>
+  <string name="network_settings_duringcall">"Operasyona görüşme esnasında izin verilmez"</string>
   <string name="network_settings_forbidden">%s (yasaklı)</string>
   <string name="network_settings_information">Mobil veri kapatılsın mı?</string>
   <string name="network_settings_next">Sonraki</string>
@@ -980,7 +982,7 @@ Tercih edilen ağ bunun yerine kullanılıyor."</string>
   <string name="notification_voicemail_title_count">Yeni Sesli Mesaj (%d)</string>
   <string name="number">Numara</string>
   <string name="nw_subset_unlock_failed">SIM Şebeke Alt Kümesi kilidi açamadı</string>
-  <string name="nw_subset_unlock_success">SIM Şebeke Alt Kümesi kilidi başarıyla açtı</string>
+  <string name="nw_subset_unlock_success">SIM Şebeke Alt Kümesinin kilidi başarıyla açtı</string>
   <string name="ok">Tamam</string>
   <string name="oldPin2Label">Eski PIN2</string>
   <string name="oldPinLabel">Eski PIN</string>
@@ -1015,7 +1017,7 @@ Tercih edilen ağ bunun yerine kullanılıyor."</string>
   <string name="operator_mins_first_close">Kapat</string>
   <string name="operator_remain_mins">Operatör Paketinin Dakikaları</string>
   <string name="operator_remain_mins_value">%1$s dakika</string>
-  <string name="optional_summary">&lt;İsteğe Bağlı&gt;</string>
+  <string name="optional_summary">İsteğe Bağlı</string>
   <string name="order_by_recent">Frekans</string>
   <string name="order_id">Sipariş ID: %1$s</string>
   <string name="order_price">¥ %1$s</string>
@@ -1051,6 +1053,7 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="other_settings">Diğer çağrı ayarları</string>
   <string name="other_settings_category">Diğer</string>
   <string name="overseas_roaming_setting">Veri Dolaşımı</string>
+  <string name="password">Şifre</string>
   <string name="password_changed">Şifre değiştirildi</string>
   <string name="password_title">Şifre</string>
   <string name="pause_prompt_no">Hayır</string>
@@ -1180,7 +1183,7 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="preferred_network_type_cdma">CDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">3G Öncelikli Şebeke</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">3G Öncelikli Şebeke (CDMA)</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred">4G Öncelikli Şebeke</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred">LTE Öncelikli Şebeke</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G Öncelikli Şebeke (CDMA)</string>
   <string name="preferred_network_type_pref_entries_auto">Otomatik</string>
   <string name="preferred_network_type_pref_entries_global">Genel</string>
@@ -1253,6 +1256,7 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="remove">Kaldır</string>
   <string name="remove_sip_account">Hesabı kaldır</string>
   <string name="removing_account">Hesap kaldırılıyor…</string>
+  <string name="requesting_unlock">Ağ kilidini açma isteği…</string>
   <string name="respond_via_sms_canned_response_1">"Şimdi konuşamam, lütfen daha sonra arar mısın?"</string>
   <string name="respond_via_sms_canned_response_2">"En kısa sürede seni arayacağım."</string>
   <string name="respond_via_sms_canned_response_3">"Sonra arayacağım."</string>
@@ -1442,7 +1446,7 @@ Veri hızı %2$d Kb/s düşürüldü"</string>
   <string name="throttle_rate_subtext">Eğer planlanan limiti aşarsanız %1$d Kb/s hıza düşürülür</string>
   <string name="throttle_status_subtext">"%3$s %1$s (%2$d٪) azami hız
 Sonraki Döneme:n %4$d gün (%5$s)"</string>
-<string name="throttle_time_frame">Veri Kullanım Zamanı</string>
+  <string name="throttle_time_frame">Veri Kullanım Zamanı</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ kaldı.
 Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="time_end">Şuraya:</string>
@@ -1461,6 +1465,8 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="title_user_config">SIM Kartı Etkinleştir</string>
   <string name="top_up_first">Önce Kontör</string>
   <string name="transport_title">Taşıma Tipi</string>
+  <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
+  <string name="set_smsc_address_title">Short Message service center (SMSC)</string>
   <string name="tty_mode_entries_full">TTY Tam</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
   <string name="tty_mode_entries_off">TTY Kapalı</string>
