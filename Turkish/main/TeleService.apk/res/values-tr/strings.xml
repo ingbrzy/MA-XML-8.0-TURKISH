@@ -274,8 +274,6 @@
   <string name="card_title_my_phone_number">Numaram %s</string>
   <string name="card_title_on_hold">Beklemede</string>
   <string name="card_title_redialing">Yeniden Aranıyor</string>
-  <string name="carrier_settings"/>
-  <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">Operatör Ayarları</string>
   <string name="cb_all_languages">Tüm Diller</string>
   <string name="cb_channel_dialog_channel_name">Kanal adı (0-10 karakter)</string>
@@ -1256,7 +1254,6 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="remove">Kaldır</string>
   <string name="remove_sip_account">Hesabı kaldır</string>
   <string name="removing_account">Hesap kaldırılıyor…</string>
-  <string name="requesting_unlock">Ağ kilidini açma isteği…</string>
   <string name="respond_via_sms_canned_response_1">"Şimdi konuşamam, lütfen daha sonra arar mısın?"</string>
   <string name="respond_via_sms_canned_response_2">"En kısa sürede seni arayacağım."</string>
   <string name="respond_via_sms_canned_response_3">"Sonra arayacağım."</string>
@@ -1466,7 +1463,6 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="top_up_first">Önce Kontör</string>
   <string name="transport_title">Taşıma Tipi</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
-  <string name="set_smsc_address_title">Short Message service center (SMSC)</string>
   <string name="tty_mode_entries_full">TTY Tam</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
   <string name="tty_mode_entries_off">TTY Kapalı</string>
