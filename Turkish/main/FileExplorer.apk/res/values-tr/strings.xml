@@ -79,7 +79,7 @@
   <string name="click_to_switch_volume">Dahili depolama ve SD kart arasında geçiş yapmak için buraya dokun</string>
   <string name="close">Kapat</string>
   <string name="compress_fail">"Sıkıştırılamıyor. Aynı isimde bir dosya zaten var."</string>
-  <string name="compress_fail_unknown">"Sıkıştırılamıyor. Depolama dolu ya da bilinmeyen bir hata oluştu."</string>
+  <string name="compress_fail_unknown">"Sıkıştırılamıyor. Depolama dolu veya bilinmeyen bir hata oluştu."</string>
   <string name="compress_message">Şuraya Sıkıştır:</string>
   <string name="compress_title">Sıkıştır</string>
   <string name="confirm">Tamam</string>
@@ -189,7 +189,7 @@
   <string name="ftp_account_req_notice"> 4-16 karakter, harf ve rakamlar, büyük-küçük harfe duyarlı</string>
   <string name="ftp_anonymous_login">Anonim oturum aç</string>
   <string name="ftp_invalid_username_or_password">Girdiğiniz kullanıcı adı veya şifre geçersiz.</string>
-  <string name="ftp_open_port_error">"Port açılamadı. Ağ bağlantınızı kontrol edin ya da port numarasını sıfırlayın."</string>
+  <string name="ftp_open_port_error">"Port açılamadı. Ağ bağlantınızı kontrol edin veya port numarasını sıfırlayın."</string>
   <string name="ftp_password_hint">Şifre</string>
   <string name="ftp_port_number">Port Numarası</string>
   <string name="ftp_transfer_secure">Güvenlik</string>
