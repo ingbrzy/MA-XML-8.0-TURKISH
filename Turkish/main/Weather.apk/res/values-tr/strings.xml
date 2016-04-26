@@ -60,7 +60,7 @@
   <string name="indices_desc_Precip1hr">%1$smm</string>
   <string name="indices_desc_feel">Hissedilen Sicaklık: %1$s°C</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
-  <string name="indices_desc_humidity">Nem: %1$s%%</string>
+  <string name="indices_desc_humidity">Nem: %%%1$s</string>
   <string name="indices_desc_humidity_without_pic">%%%1$s</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
   <string name="indices_desc_visibility">%1$skm</string>
