@@ -785,9 +785,9 @@
         <item>0</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
-        <item>Grafiksel</item>
-        <item>Yüzdeli</item>
-        <item>Üst Çubuk</item>
+        <item>Grafiksel ▬</item>
+        <item>Yüzdeli %</item>
+        <item>Üst Çubuk ¯</item>
     </string-array>
     <string-array name="battery_indicator_style_values">
         <item>0</item>
@@ -935,7 +935,7 @@
         <item>Cihaz bağlanıldı</item>
     </string-array>
     <string-array name="power_mode_entries">
-        <item>Performans</item>
+        <item>Performanslı</item>
         <item>Dengeli</item>
     </string-array>
     <string-array name="msd_pc_system">
@@ -985,7 +985,7 @@ Not: Sadece Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_optimize_summary">
         <item>Mevcut ışık için karşıtlığı en iyi hale getir</item>
-        <item>"Ekran kontrastını artır"</item>
+        <item>"Ekran karşıtlığını artır"</item>
         <item>Karşıtlık sabit kalacak</item>
     </string-array>
     <string-array name="perms_hips_values">
