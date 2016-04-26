@@ -79,9 +79,9 @@
   <string name="retry">Tekrarla</string>
   <string name="sound_recorder_settings">Ayarlar</string>
   <string name="start">Devam et</string>
-  <string name="status_bar_back">Kaydediciye dönmek için dokunun</string>
+  <string name="status_bar_back">Dönmek için dokunun...</string>
   <string name="status_bar_recording">Kaydediliyor...</string>
-  <string name="status_bar_recording_pause">Kaydedici duraklatıldı</string>
+  <string name="status_bar_recording_pause">Kaydedici duraklatıldı, </string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">%1$s yaklaşık %2$s kayıt yapabilirsin</string>
   <string name="toast_uninstall_fileexplorer">"Gezgin uygulaması yüklü değil"</string>
