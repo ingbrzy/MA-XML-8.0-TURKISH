@@ -769,7 +769,7 @@ Müşteri Hizmetleri'ne başvurun."</string>
   <string name="mediasize_japanese_oufuku">Oufuku</string>
   <string name="mediasize_japanese_you4">You4</string>
   <string name="mediasize_na_foolscap">Foolscap</string>
-  <string name="mediasize_na_gvrnmt_letter">Government Letter</string>
+  <string name="mediasize_na_gvrnmt_letter">Resmi Mektup</string>
   <string name="mediasize_na_index_3x5">Dizin Kartı 3x5</string>
   <string name="mediasize_na_index_4x6">Dizin Kartı 4x6</string>
   <string name="mediasize_na_index_5x8">Dizin Kartı 5x8</string>
@@ -813,13 +813,13 @@ Müşteri Hizmetleri'ne başvurun."</string>
   <string name="no_file_chosen">Seçili dosya yok</string>
   <string name="no_matches">Eşleşme yok</string>
   <string name="no_permissions">İzin gerektirmez</string>
-  <string name="no_recent_tasks">Son uygulama yok</string>
+  <string name="no_recent_tasks">Açık uygulama yok</string>
   <string name="noon">öğle</string>
   <string name="notification_listener_binding_label">Bildirim dinleyici</string>
   <string name="notification_title">%1$s hesabında oturum açılamadı</string>
-  <string name="number_picker_decrement_button">Azalt</string>
-  <string name="number_picker_increment_button">Artır</string>
-  <string name="number_picker_increment_scroll_action">Artırmak için yukarı, azaltmak için aşağı kaydırın.</string>
+  <string name="number_picker_decrement_button">Azalt ▼</string>
+  <string name="number_picker_increment_button">Artır ▲</string>
+  <string name="number_picker_increment_scroll_action">Artırmak için yukarı ▲, azaltmak için aşağı kaydırın.▼ </string>
   <string name="number_picker_increment_scroll_mode">%s dokunun ve basılı tutun.</string>
   <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
   <string name="ok">Tamam</string>
@@ -958,7 +958,7 @@ Müşteri Hizmetleri'ne başvurun."</string>
   <string name="permdesc_getPackageSize">Uygulamaya kodunu, verilerini ve önbellek boyutlarını alma izni verir</string>
   <string name="permdesc_getTasks">Uygulamaya o anda ve son çalışan görevler hakkında bilgi alma izni verir. Bu izin, uygulamanın cihaz tarafından kullanılan uygulamalar hakkında bilgi elde etmesine olanak sağlayabilir.</string>
   <string name="permdesc_getTopActivityInfo">İzin sahibine, ekranın ön planındaki geçerli uygulama hakkında gizli bilgileri alma olanağı verir.</string>
-  <string name="permdesc_grantRevokePermissions">Uygulamaya, kendisi veya başka uygulamalar için belirli izinleri verme ya da kaldırma izni verir. Zararlı uygulamalar bunu, kendilerine izin vermediğiniz özelliklere erişmek için kullanabilir.</string>
+  <string name="permdesc_grantRevokePermissions">Uygulamaya, kendisi veya başka uygulamalar için belirli izinleri verme veya kaldırma izni verir. Zararlı uygulamalar bunu, kendilerine izin vermediğiniz özelliklere erişmek için kullanabilir.</string>
   <string name="permdesc_handoverStatus">Bu uygulama mevcut Android Beam transferi hakkında bilgi almak için izin verir</string>
   <string name="permdesc_hardware_test">Uygulamaya, donanım testi için çeşitli çevre birimlerini denetleme izni verir.</string>
   <string name="permdesc_injectEvents">Uygulamaya, kendi giriş etkinliklerini (tuşa basma vb.) diğer uygulamalara gönderme izni verir. Kötü amaçlı uygulamalar telefonu ele geçirmek için bunu kullanabilir.</string>
@@ -999,11 +999,11 @@ Müşteri Hizmetleri'ne başvurun."</string>
   <string name="permdesc_performCdmaProvisioning">Uygulamaya, CDMA provizyon uygulaması başlatma izni verir. Kötü amaçlı uygulamalar gereksiz yere CDMA provizyon uygulaması başlatabilir.</string>
   <string name="permdesc_persistentActivity">Uygulamaya kendisinin bir bölümünü bellekte kalıcı yapma izni verir. Bu izin, diğer uygulamaların kullanabileceği belleği sınırlandırarak telefonun yavaş çalışmasına neden olabilir.</string>
   <string name="permdesc_pkgUsageStats">Uygulamaya, toplanan bileşen kullanım istatistiklerini değiştirme izni verir. Normal uygulamaların kullanımına yönelik değildir.</string>
-  <string name="permdesc_processOutgoingCalls">Uygulamaya, giden bir çağrının numarası çevrilirken çağrıyı farklı bir numaraya yönlendirme ya da tamamen kapatma seçeneğiyle birlikte numarayı görme izni verir.</string>
+  <string name="permdesc_processOutgoingCalls">Uygulamaya, giden bir çağrının numarası çevrilirken çağrıyı farklı bir numaraya yönlendirme veya tamamen kapatma seçeneğiyle birlikte numarayı görme izni verir.</string>
   <string name="permdesc_provide_trust_agent">Bir güven ajanı sağlanması izni verir.</string>
   <string name="permdesc_readCalendar">Uygulamaya, arkadaşlarınızın ve iş arkadaşlarınızın etkinlikleri de dahil olmak üzere telefonunuzda depolanan tüm takvim etkinliklerini okuma izni verir. Bu izin, uygulamanın takvim verilerinizi gizliliğine ve hassaslığına bakmaksızın paylaşmasına ve kaydetmesine olanak sağlayabilir.</string>
   <string name="permdesc_readCallLog">Uygulamaya, gelen ve giden çağrılarla ilgili veriler de dahil olmak üzere telefonunuzun çağrı günlüğünü okuma izni verir. Bu izin, uygulamanın çağrı günlüğünüzü kaydetmesine olanak sağlar ve kötü amaçlı uygulamalar çağrı günlüğü verilerini sizden habersiz paylaşabilir.</string>
-  <string name="permdesc_readCellBroadcasts">Uygulamaya, cihazınız tarafından alınan hücre yayını mesajlarını okuma izni verir. Hücre yayını uyarıları bazı yerlerde acil durumlar konusunda sizi uyarmak için gönderilir. Kötü amaçlı uygulamalar acil hücre yayını alındığında cihazınızın performansına ya da çalışmasına engel olabilir.</string>
+  <string name="permdesc_readCellBroadcasts">Uygulamaya, cihazınız tarafından alınan hücre yayını mesajlarını okuma izni verir. Hücre yayını uyarıları bazı yerlerde acil durumlar konusunda sizi uyarmak için gönderilir. Kötü amaçlı uygulamalar acil hücre yayını alındığında cihazınızın performansına veya çalışmasına engel olabilir.</string>
   <string name="permdesc_readContacts">Uygulamaya telefonunuzda depolanan kişilerinizle ilgili verileri okuma izni verir. Bu verilere belirli kişilerle ne sıklıkta çağrı, E-Posta veya diğer yöntemlerle iletişim kurduğunuz bilgisi dahildir. Bu izin, uygulamanın kişi verilerinizi kaydetmesine olanak sağlar ve kötü amaçlı uygulamalar kişi verilerini sizden habersiz paylaşabilir.</string>
   <string name="permdesc_readDictionary">Uygulamaya, kullanıcının kullanıcı sözlüğünde depolamış olabileceği kelimeleri, adları ve kelime öbeklerini okuma izni verir.</string>
   <string name="permdesc_readFrameBuffer">Uygulamaya, çerçeve arabelleğinin içeriğini okuma izni verir.</string>
@@ -1213,7 +1213,7 @@ izin isteğinde bulunuldu."</string>
   <string name="permlab_bindTvInput">TV girişine bağlan</string>
   <string name="permlab_bindVoiceInteraction">ses etkileşimine bağlan</string>
   <string name="permlab_bindVpnService">VPN hizmetine bağlan</string>
-  <string name="permlab_bindWallpaper">bir duvar kağıdına tabi kıl</string>
+  <string name="permlab_bindWallpaper">Bir duvar kağıdına tabi kıl</string>
   <string name="permlab_bind_connection_service">telefon hizmetleri ile etkileşim</string>
   <string name="permlab_bind_incall_service">etkileşim içinde çağrı ekranı</string>
   <string name="permlab_bind_trust_agent_service">Çağrı ekranıyla etkileşimde bulun</string>
@@ -1237,7 +1237,7 @@ izin isteğinde bulunuldu."</string>
   <string name="permlab_captureAudioOutput">ses çıkışını yakala</string>
   <string name="permlab_captureSecureVideoOutput">güvenli video çıkışını yakala</string>
   <string name="permlab_captureVideoOutput">video çıkışını yakala</string>
-  <string name="permlab_changeBackgroundDataSetting">arkaplan veri kullanımı ayarını değiştir</string>
+  <string name="permlab_changeBackgroundDataSetting">Arkaplan veri kullanımı ayarını değiştir</string>
   <string name="permlab_changeComponentState">uygulama bileşenlerini etkinleştir veya devre dışı bırak</string>
   <string name="permlab_changeConfiguration">sistem görüntüleme ayarlarını değiştir</string>
   <string name="permlab_changeNetworkState">ağ bağlantısını değiştir</string>
@@ -1451,7 +1451,7 @@ Kalan Denemeler :"</string>
   <string name="policydesc_disableKeyguardFeatures">Ekran kilidinin bazı özelliklerinin kullanılmasını önleyin.</string>
   <string name="policydesc_encryptedStorage">Depolanan uygulama verilerinin şifrelenmiş olmasını zorunlu kılma.</string>
   <string name="policydesc_expirePassword">"Ekran kilitleme şifresinin, PIN'in veya desenin hangi sıklıkla değiştirileceğini ayarlayın."</string>
-  <string name="policydesc_forceLock">Ekranın nasıl ve ne zaman kilitlendiğini denetleme.</string>
+  <string name="policydesc_forceLock">Ekranın nasıl ve ne zaman kilitlendiğini denetler.</string>
   <string name="policydesc_limitPassword">"Ekran kilidini açma şifrelerinde ve PIN'lerde izin verilen uzunluğu ve karakterleri denetleyin."</string>
   <string name="policydesc_resetPassword">Ekran kilidini değiştirme.</string>
   <string name="policydesc_setGlobalProxy">"Politika etkin olduğunda kullanılacak cihaz genelinde geçerli proxy'yi ayarlayın. Genel proxy'yi yalnızca cihaz sahibi ayarlayabilir."</string>
@@ -1463,7 +1463,7 @@ Kalan Denemeler :"</string>
   <string name="policylab_disableKeyguardFeatures">Ekran kilidinin bazı özelliklerini devre dışı bırak</string>
   <string name="policylab_encryptedStorage">Deplm şifrelemesini ayarla</string>
   <string name="policylab_expirePassword">Ekran kilidi şifresinin kullanma süresini ayarla</string>
-  <string name="policylab_forceLock">Ekranı kilitleme</string>
+  <string name="policylab_forceLock">Ekranın Kilitlenmesi</string>
   <string name="policylab_limitPassword">Şifre kuralları ayarla</string>
   <string name="policylab_resetPassword">Ekran kilidini değiştirme</string>
   <string name="policylab_setGlobalProxy">"Cihaz genelinde geçerli proxy'i ayarla"</string>
