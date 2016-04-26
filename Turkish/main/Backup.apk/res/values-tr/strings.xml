@@ -203,9 +203,9 @@
   <string name="service_stoped">Hizmet durduruldu</string>
   <string name="settings_summary">Telefon ve Mesaj Ayarları</string>
   <string name="size_byte">B</string>
-  <string name="size_giga_byte">GB</string>
-  <string name="size_kilo_byte">KB</string>
-  <string name="size_mega_byte">MB</string>
+  <string name="size_giga_byte"> GB</string>
+  <string name="size_kilo_byte"> KB</string>
+  <string name="size_mega_byte"> MB</string>
   <string name="sms_title">Mesajlaşma</string>
   <string name="software_backup_info">Uygulama Verisi</string>
   <string name="start_backup">Yedekle</string>
@@ -336,11 +336,11 @@ eski aygıtın açık olduğundan emin olun"</string>
   <string name="user_notice_title">Dikkat</string>
   <string name="wifi_title">WLAN Ayarları</string>
   <string name="xiaomi_account_type">com.xiaomi </string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_bytes_unit">%1$s B</string>
   <string name="xiaomi_connect_download_manager_fail">İndirme Yöneticisine bağlanamadı, lütfen Uygulama Yönetiminden İndirme Yöneticisinin durumunu kontrol edin.</string>
   <string name="xiaomi_external_storage_unavailable">Depolama mevcut değil, lütfen SD kartı kontrol edin.</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+  <string name="xiaomi_megabytes_unit">%1$s MB</string>
   <string name="xiaomi_router">Mi Yönlendirici</string>
   <string name="xiaomi_router_location">Mi Yönlendirici: %s</string>
   <string name="xiaomi_update_dialog_message">"Tanıtım Sürümü: %1$s
