@@ -24,7 +24,7 @@
         <item>bing</item>
     </string-array>
     <string-array name="search_engines_cmcc">
-        <item>s139</item>
+        <item>miui</item>
         <item>baidu</item>
         <item>sogou</item>
         <item>google</item>
@@ -80,8 +80,8 @@
         <item>http://www.amazon.com/</item>
         <item>Weather Channel</item>
         <item>http://www.weather.com/</item>
-        <item>BBC</item>
-        <item>http://www.bbc.co.uk/</item>
+        <item>MIUI Türkiye</item>
+        <item>http://www.miuiturkiye.net/</item>
     </string-array>
     <string-array name="bookmarks_tr">
         <item>Mi Forumu</item>
@@ -174,13 +174,13 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
-    <string-array name="s139">
+    <string-array name="miui">
         <item>MIUI Türkiye</item>
         <item>miuiturkiye.net</item>
         <item>http://www.miuiturkiye.net/favicon.ico</item>
         <item>http://www.miuiturkiye.net/</item>
         <item>UTF-8</item>
-        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+        <item>http://market.miuiturkiye.net/index.php?route=product/search</item>
     </string-array>
     <string-array name="yicha">
         <item>Yicha</item>
