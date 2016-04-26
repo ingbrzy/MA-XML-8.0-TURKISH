@@ -3,13 +3,13 @@
   <string name="action_launch_browser">Tarayıcıyı Başlat</string>
   <string name="action_setup_call">Çevir</string>
   <string name="alphabet">Alfabeler</string>
-  <string name="appIII_name">SIM3 Araç Kiti</string>
-  <string name="appII_name">SIM2 Araç Kiti</string>
-  <string name="appIV_name">SIMI4 Araç Kiti</string>
-  <string name="appI_name">SIM1 Araç Kiti</string>
-  <string name="app_name">SIM Araç Kiti</string>
-  <string name="app_name1">SIM Araç Kiti 1</string>
-  <string name="app_name2">SIM Araç Kiti 2</string>
+  <string name="appIII_name">SIM3 Araçları</string>
+  <string name="appII_name">SIM2 Araçları</string>
+  <string name="appIV_name">SIMI4 Araçları</string>
+  <string name="appI_name">SIM1 Araçları</string>
+  <string name="app_name">SIM Araçları</string>
+  <string name="app_name1">SIM Araçları 1</string>
+  <string name="app_name2">SIM Araçları 2</string>
   <string name="button_cancel">İptal</string>
   <string name="button_no">Hayır</string>
   <string name="button_ok">Tamam</string>
@@ -42,7 +42,7 @@
   <string name="lable_launch_browser">Tarayıcıyı başlat</string>
   <string name="lable_more_time">Daha fazla zaman</string>
   <string name="lable_not_available">"Uygulama yüklenmedi"</string>
-  <string name="lable_on_flight_mode">Uçak Modundan olduğundan SIM Araç Kiti başlatılamadı</string>
+  <string name="lable_on_flight_mode">Uçak Modundan olduğundan SIM Araçları başlatılamadı</string>
   <string name="lable_open_channel">Açık Kanal</string>
   <string name="lable_perform_card_apdu">Kart APDU gerçekleştirebilir</string>
   <string name="lable_play_tone">Tonu oynat</string>
@@ -73,12 +73,12 @@
   <string name="main_menu_not_initialized">Ana menü başlatılmadı</string>
   <string name="menu_back">Geri</string>
   <string name="menu_end_session">Oturum bitişi</string>
-  <string name="no_sim_card_inserted">SIM Araç Kitini başlatmak için SIM takın.</string>
+  <string name="no_sim_card_inserted">SIM Araçlarını başlatmak için SIM takın.</string>
   <string name="service_name">Servis Adı</string>
   <string name="stk_app_state">Uygulama Durumu</string>
   <string name="stk_dialog_accept">EVET</string>
   <string name="stk_dialog_reject">HAYIR</string>
-  <string name="stk_dialog_title">SIM Araç Kiti</string>
-  <string name="stk_intent_permission">SIM Araç Kiti içeriğine izin ver</string>
+  <string name="stk_dialog_title">SIM Araçları</string>
+  <string name="stk_intent_permission">SIM Araçları içeriğine izin ver</string>
   <string name="stk_no_service">Hizmet mevcut değil</string>
 </resources>
