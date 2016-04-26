@@ -132,7 +132,7 @@
   <string name="download_geturl_fail">"URL alınamadı"</string>
   <string name="download_is_in_tasklist">Sıraya Alındı</string>
   <string name="download_paused">Durdu</string>
-  <string name="download_percent_hint">%d%% indiriliyor</string>
+  <string name="download_percent_hint">%%%d indiriliyor</string>
   <string name="download_progress_0p">0%</string>
   <string name="download_queue">Bilgi alınıyor...</string>
   <string name="download_running">Çalışıyor...</string>
@@ -269,7 +269,7 @@
   <string name="other_setting">Ek Ayarlar</string>
   <string name="pause">Durdur</string>
   <string name="pay_record">ödeme kaydı</string>
-  <string name="percent_status">%.0f%%</string>
+  <string name="percent_status">%%%.0f</string>
   <string name="performance_mode">Oynatıcı performansını iyileştir</string>
   <string name="performance_mode_desc">"Video oynatıcının performansını azamileştir"</string>
   <string name="personal_center">Hesap</string>
