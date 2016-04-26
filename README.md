@@ -36,5 +36,5 @@ Check [Contributing to a project](https://guides.github.com/activities/forking) 
 Administrator : ingbrzy (ingbrzy@miuios.cz)
 TR Translator : raoc999 (raocakmak@gmail.com)
 
-I want to thank everyone for their help, dont forget: "If you do not fly, run; If you do not run no, walk; if you can not walk, crawl, but do not give up."
+I want to thank everyone for their help, dont forget: "If you do not fly, run; If you do not run, walk; if you can not walk, crawl, but do not give up."
 
