@@ -21,7 +21,7 @@
   <string name="advanced_settings_show">▲ Tümünü göstermek için dokunun</string>
   <string name="advertisements_disable">Reklamlar devre dışı</string>
   <string name="advertisements_enable">Reklamlar etkinleştirildi</string>
-  <string name="airplane_mode_on">Uçak Modunda olduğundan SIM Araç Kiti başlatılamadı.</string>
+  <string name="airplane_mode_on">Uçak Modunda olduğundan SIM Araçları başlatılamadı.</string>
   <string name="alert_device_error">Ses cihazında hata oluştu</string>
   <string name="alert_dialog_close">Profili kapat</string>
   <string name="alert_dialog_dismiss">Reddet</string>
@@ -113,7 +113,7 @@ name="apn_settings">Erişim Noktasının Adları</string>
   <string name="cancel">İptal</string>
   <string name="cannot_answered_Video_Call">Zaten faal bir sesli arama olduğundan görüntülü çağrıya cevap verilemiyor.</string>
   <string name="cannot_answered_Voice_Call">Zaten bir görüntülü arama olduğundan sesli aramaya cevap verilemiyor</string>
-  <string name="card_title_call_ended">Çağrı bitti</string>
+  <string name="card_title_call_ended">Çağrı bitti </string>
   <string name="card_title_conf_call">Konferans çağrısı</string>
   <string name="card_title_dialing">Aranıyor</string>
   <string name="card_title_hanging_up">Kapat </string>
@@ -434,8 +434,8 @@ Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
   <string name="lable_call_barring">Çağrıyı engelle</string>
   <string name="lable_disable">Devre dışı</string>
   <string name="lable_enable">Etkin</string>
-  <string name="lable_incoming_calls_except">Dolaşım sırasında gelen aramalar</string>
-  <string name="lable_sim_not_ready">SIM Araç kiti hazır değil veya desteklenmiyor</string>
+  <string name="lable_incoming_calls_except">Dolaşım esnasında gelen aramalar</string>
+  <string name="lable_sim_not_ready">SIM Araçları hazır değil veya desteklenmiyor</string>
   <string name="lafs_disable">Yerel Havaalanı Uçuş Tarifeleri devre dışı</string>
   <string name="lafs_enable">Yerel Havaalanı Uçuş Tarifeleri etkin</string>
   <string name="list_language_dtitle">Diller</string>
@@ -541,7 +541,7 @@ Tavsiyemiz \"Otomatik Olarak Seç\", seçeneğini kullanmanız veya elle başka 
 Tavsiyemiz \"Otomatik Olarak Seç\", seçeneğini kullanmanız veya elle başka bir operatörü seçmeniz yönünde..."</string>
   <string name="no_service_msg_title">şebeke yok</string>
   <string name="no_service_msg_title_gemini">\"%s\" için şebeke yok</string>
-  <string name="no_sim_card_inserted">SIM Araç Kiti başlatmak için SIM kartı ekleyin.</string>
+  <string name="no_sim_card_inserted">SIM Araçlarını başlatmak için SIM kartı ekleyin.</string>
   <string name="no_vm_number">Sesli mesaj numarası yok</string>
   <string name="no_vm_number_msg">SIM kartta kayıtlı Sesli Mesaj numarası yok.</string>
   <string name="no_voip">İnternet araması desteklenmiyor</string>
@@ -759,8 +759,8 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="ring_only_once_title">Sadece bir kez çal</string>
   <string name="ringtone_title">Telefon Zili</string>
   <string name="roaming">Veri Dolaşımı</string>
-  <string name="roaming_disable">Dolaşım sırasında veri hizmetlerine bağlan</string>
-  <string name="roaming_enable">Dolaşım sırasında veri hizmetlerine bağlan</string>
+  <string name="roaming_disable">Dolaşım esnasında veri hizmetlerine bağlan</string>
+  <string name="roaming_enable">Dolaşım esnasında veri hizmetlerine bağlan</string>
   <string name="roaming_reenable_message">"Ev ağı ile veri dolaşımı kapalı olduğundan veri bağlantısını kaybettiniz."</string>
   <string name="roaming_warning">Veri dolaşımına izin verilsin mi? Önemli miktarda dolaşım ücretleri ödeyebilirsin!</string>
   <string name="save">Kaydet</string>
@@ -790,7 +790,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="sim_ndp_dismiss_text">Reddet</string>
   <string name="sim_ndp_unlock_text">Kilidi aç</string>
   <string name="sim_permanently_locked">PUK2 kodu 10 kez yanlış girildiğinden, SIM kartınız kalıcı olarak bloke edilmiştir.</string>
-  <string name="sim_toolkit">SIM Araç Kiti</string>
+  <string name="sim_toolkit">SIM Araçları</string>
   <string name="sip_account_list">SIP Hesapları</string>
   <string name="sip_accounts">İnternetten Çağrı Hesapları (SIP)</string>
   <string name="sip_accounts_title">Hesaplar</string>
@@ -943,7 +943,7 @@ Bu sorun devam ederse operatörünüze danışın."</string>
   <string name="vt_iot_error_03">Cevap yok</string>
   <string name="vt_iot_error_04">Ağ meşgul</string>
   <string name="vt_local_video_brightness">Yerel video parlaklığı</string>
-  <string name="vt_local_video_contrast">Yerel video kontrastı</string>
+  <string name="vt_local_video_contrast">Yerel video karşıtlığı</string>
   <string name="vt_local_video_display">Yerel video ekranı</string>
   <string name="vt_local_video_effect">Yerel video efekti</string>
   <string name="vt_local_video_nightmode">Yerel video gece modu</string>
