@@ -163,7 +163,7 @@
   <string name="resource_detail_recommend_other_themes">Beğenildi</string>
   <string name="resource_detail_update_log_title">Güncellemeler</string>
   <string name="resource_detail_vertical_divider">|</string>
-  <string name="resource_detail_window_title">"%1$sın Detayları</string>
+  <string name="resource_detail_window_title">"%1$s Detayları</string>
   <string name="resource_download">İndir</string>
   <string name="resource_download_notification_title_many">%1$s tema indirildi</string>
   <string name="resource_download_notification_title_one">Tema indirildi</string>
@@ -267,7 +267,7 @@
   <string name="resource_title_category">Kategoriler</string>
   <string name="resource_title_hot_subject">Popüler</string>
   <string name="resource_title_local">Çevrimdışı</string>
-  <string name="resource_title_rank">Zirvedekiler</string>
+  <string name="resource_title_rank">Popüler</string>
   <string name="resource_title_select_ringtone">Tonu Seçin</string>
   <string name="resource_title_subject">Özellikli</string>
   <string name="resource_trial_days">(deneme: %1$dd)</string>
@@ -368,7 +368,7 @@
   <string name="theme_user_agreement_exit">Çık</string>
   <string name="theme_user_agreement_remind_again">Kullanım Koşullarını göster</string>
   <string name="theme_user_agreement_remind_never">"Tekrar gösterme"</string>
-  <string name="theme_user_agreement_remind_summary">Temalar her açıldığında Kullanım Koşullarını göster. Bu ayar cihaz yeniden başlatılınca etkin olur.</string>
+  <string name="theme_user_agreement_remind_summary">Temalar her açıldığında Kullanım Koşullarını göster. Bu ayar; cihaz yeniden başlatılınca etkin olur.</string>
   <string name="theme_user_agreement_title">Kullanım Koşulları</string>
   <string name="theme_yes">Evet</string>
   <string name="third_party_pickers_activity_title">%1$s Ayarı</string>
