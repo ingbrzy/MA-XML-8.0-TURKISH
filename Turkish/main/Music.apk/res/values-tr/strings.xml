@@ -266,7 +266,7 @@
   <string name="eq_preset_format">Kullanıcı tanımlı %d</string>
   <string name="eq_preset_hint">Ön ayar adı</string>
   <string name="eq_preset_rename">Adlandır</string>
-  <string name="eq_preset_select">Hzır ayar seçin</string>
+  <string name="eq_preset_select">Hazır Ayarlardan Seçin</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Ekolayzer</string>
   <string name="error_forbidden">Hesabınızla ilgili bazı problemler var : Eşitleme devre dışı.</string>
@@ -286,15 +286,15 @@
   <string name="female_artist">Kadın Şarkıcılar</string>
   <string name="file_not_found">"Dosya yok"</string>
   <string name="filter_by_duration">Süreye göre</string>
-  <string name="filter_by_duration_format">%2$ddk %5$2dsn</string>
+  <string name="filter_by_duration_format">%2$ddak %5$2dsan</string>
   <string name="filter_by_duration_max">5 dak</string>
-  <string name="filter_by_duration_min">0 sn</string>
+  <string name="filter_by_duration_min">0 san</string>
   <string name="filter_by_duration_prefix">"Daha kısa dosyaları gizle "</string>
   <string name="filter_by_duration_summary">"Kısa ses dosyaları gösterilmez"</string>
   <string name="filter_by_folder">Klasöre göre</string>
   <string name="filter_by_folder_summary">Gösterilecek klasörü seçin</string>
   <string name="filter_by_size">Boyuta göre</string>
-  <string name="filter_by_size_max">2MB</string>
+  <string name="filter_by_size_max">2 MB</string>
   <string name="filter_by_size_min">0KB</string>
   <string name="filter_by_size_prefix">"Kısa dosyaları gizle "</string>
   <string name="filter_by_size_summary">Kısa ses dosyaları gizle</string>
