@@ -111,7 +111,7 @@
   <string name="begin_share_toast">Paylaşmadan önce çocuk için ayrı bir albüm oluşturulsun mu?</string>
   <string name="black_white">Düz S&amp;B</string>
   <string name="blank_app_name"/>
-  <string name="brannan">Brannan</string>
+  <string name="brannan">Fevkalade</string>
   <string name="browse_category_title">Gözat</string>
   <string name="buy_member_tip">Üye ol.</string>
   <string name="by_email">E-Posta</string>
@@ -581,7 +581,7 @@
   <string name="detail_ms">%1$02d:%2$02d</string>
   <string name="detail_title">Detaylar</string>
   <string name="do_not_remind_me">"Tekrar gösterme"</string>
-  <string name="do_not_save">"Kaydedilemedi"</string>
+  <string name="do_not_save">"Vazgeç"</string>
   <string name="documentary">Belgesel</string>
   <string name="doodle">Karalama</string>
   <string name="doodle_polymorphism">photoeditor_effect_doodle</string>
@@ -598,7 +598,6 @@
   <string name="enable_cloud_for_sharing">Paylaşılan fotoğrafları görüntülemek için Bulut albümlerini açmanız gerekir.</string>
   <string name="enable_face_album_summary">Kişilere göre fotoğrafları otomatik sırala</string>
   <string name="enable_face_album_title">Kişiye Göre Sırala</string>
-  <string name="enable_slim_title">Albüm Alanını Azaltma etkin</string>
   <string name="enabling_face_feature">Biraz bekleyin...</string>
   <string name="enter_email_hint">E-Posta adresini girin</string>
   <string name="error_album_not_exist">"Albüm yok"</string>
@@ -674,8 +673,8 @@
   <string name="has_invalid_recipient">Geçersiz alıcılar: %1$s</string>
   <string name="have_known">Bilinen</string>
   <string name="hidden_album_display_name">Gizli Albüm</string>
-  <string name="highlight">Özeti</string>
-  <string name="highlight_abbr">Ö</string>
+  <string name="highlight">Işık</string>
+  <string name="highlight_abbr">I</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_page_empty">Boş</string>
   <string name="home_page_label">Fotoğraflar</string>
@@ -736,7 +735,7 @@
   <string name="loading_video_thumbnail">Video kapağı indiriliyor...</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Odaklanması için &amp; basılı tutun</string>
-  <string name="megabyteShort">MB</string>
+  <string name="megabyteShort"> MB</string>
   <string name="menu_album_new_album">Yeni Albüm</string>
   <string name="menu_item_sort_date">Tarih</string>
   <string name="menu_item_sort_name">Adı</string>
@@ -807,7 +806,7 @@
   <string name="paint_crop_cancel_title">Değişiklikleri İptal Et</string>
   <string name="paint_crop_tips">Hedef resmi kılavuz merkezinin yanına yerleştirin.</string>
   <string name="paint_highlight">Karalama</string>
-  <string name="paint_highlight_cancel_context">Karalanan resim kaydedilsin mi?</string>
+  <string name="paint_highlight_cancel_context">Yaptığınız değişiklikler kaydedilsin mi?</string>
   <string name="paint_highlight_cancel_title">Değişiklikleri İptal Et</string>
   <string name="people_page_label">Kişi</string>
   <string name="people_page_unname">İsimsiz</string>
@@ -829,7 +828,7 @@
   <string name="preparing_data">Biraz bekleyin...</string>
   <string name="projection_checkbox_text">Bu ekranı hatırla</string>
   <string name="projection_local_mobile">Mobil</string>
-  <string name="projection_multi_title">Cihaz listesi</string>
+  <string name="projection_multi_title">Cihaz Listesi</string>
   <string name="projection_single_title">%s için göster</string>
   <string name="projection_slide_exit">Slayttan çık</string>
   <string name="projection_slide_fail_cause_loading">Resim yüklendikten sonra slayt gösterisini başlat</string>
@@ -875,8 +874,8 @@
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Döndürmek için fotoğrafı sürükleyin</string>
   <string name="same_name_album_exist_and_toast">"Aynı isimde bir albüm zaten var. Onun yerine '%s' oluşturuldu."</string>
-  <string name="saturation">Doygunluk</string>
-  <string name="saturation_abbr">D</string>
+  <string name="saturation">Canlılık</string>
+  <string name="saturation_abbr">C</string>
   <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
   <string name="save">Kaydet</string>
   <string name="save_photo">Düzenlenen fotoğraf kaydedilsin mi?</string>
@@ -945,10 +944,10 @@
   <string name="terabyteShort">TB</string>
   <string name="tint">Ton</string>
   <string name="tip_capture_location">Konum:</string>
-  <string name="tip_capture_params">Alınan Parametreler:</string>
-  <string name="tip_capture_time">Alınan:</string>
+  <string name="tip_capture_params">Kullanılan Parametreler:</string>
+  <string name="tip_capture_time">Tarihi:</string>
   <string name="tip_file_info">Dosya Bilgisi:</string>
-  <string name="tip_file_path">Yerel Yol:</string>
+  <string name="tip_file_path">Kayıt Yeri:</string>
   <string name="tip_not_download">İndirme yok. Çalarken otomatik olarak indirilir.</string>
   <string name="title_set_name">Adı Girin</string>
   <string name="title_warn">Uyarı</string>
@@ -980,7 +979,6 @@
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
   <string name="welcome_to_auto_backup">"Mi Bulut'a Hoşgeldiniz"</string>
   <string name="welcome_to_micloud">"Mi Bulut'a Hoşgeldiniz"</string>
-  <string name="welcome_to_slim">Fotoğraflarınız koruyun, alandan tasarruf edin.</string>
   <string name="where_is_barcode">"QR kodu nerede?"</string>
   <string name="who_is_this">Kim?</string>
   <string name="xiaomi_account_not_exists_toast">"Xiaomi hesabı yok"</string>
