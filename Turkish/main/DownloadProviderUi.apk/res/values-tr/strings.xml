@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="DOWNLOAD_UNIT_BIT">B</string>
-  <string name="DOWNLOAD_UNIT_GB">GB</string>
-  <string name="DOWNLOAD_UNIT_KB">KB</string>
-  <string name="DOWNLOAD_UNIT_MB">MB</string>
-  <string name="DOWNLOAD_UNIT_TB">TB</string>
+  <string name="DOWNLOAD_UNIT_BIT"> B</string>
+  <string name="DOWNLOAD_UNIT_GB"> GB</string>
+  <string name="DOWNLOAD_UNIT_KB"> KB</string>
+  <string name="DOWNLOAD_UNIT_MB"> MB</string>
+  <string name="DOWNLOAD_UNIT_TB"> TB</string>
   <string name="Only_the_wifi">Sadece Wi-Fi Kullan</string>
   <string name="about">Hakkında</string>
   <string name="action_settings">Ayarlar</string>
@@ -245,7 +245,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="retry_download">Tekrarla</string>
   <string name="revert_default">Sıfırla</string>
   <string name="revert_download_path">Varsayılan indirme konumu kullanılsın mı?</string>
-  <string name="save_path">"Şuraya Kaydet: "</string>
+  <string name="save_path">"Kaydetme Yeri: "</string>
   <string name="search_clear_history_btn">Arama geçmişini temizle</string>
   <string name="search_clear_history_toast">Geçmiş temizlendi</string>
   <string name="search_favorite_empty">Sık kullanılanlara bazı kaynakları ekle</string>
