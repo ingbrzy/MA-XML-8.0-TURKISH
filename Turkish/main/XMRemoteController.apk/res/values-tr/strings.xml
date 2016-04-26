@@ -44,7 +44,7 @@
   <string name="app_installing">Yükleniyor…</string>
   <string name="app_manager_get_data_failed">"Uygulamanın bilgisi alınamadı"</string>
   <string name="app_manager_no_data">Uygulama bulunamadı</string>
-  <string name="app_name">Mi Uzaktan Kumanda</string>
+  <string name="app_name">Mi Kumanda</string>
   <string name="app_open">Aç</string>
   <string name="app_open_inbox">Mi Kutusu\'nu kullanarak açın</string>
   <string name="app_open_intv">Mi TV üzerinde aç</string>
@@ -121,7 +121,7 @@
   <string name="day_string">Gün</string>
   <string name="delete">Sil</string>
   <string name="delete_confirm">Cihaz silinsin mi?</string>
-  <string name="delete_desc">"Mi Uzaktan Kumanda kullanarak “%s” kontrol etmek mümkün olmayacaktır."</string>
+  <string name="delete_desc">"Mi Uzaktan Kumanda kullanarak “%s” kontrol etmek mümkün olmayacak."</string>
   <string name="delete_device_frame">%1$s silinsin mi?</string>
   <string name="delete_frame">\"%1$s\" silinsin mi?</string>
   <string name="device_bluetoothi">Bluetooth uzaktan kumanda</string>
@@ -242,7 +242,7 @@
   <string name="hot_videos">Popüler</string>
   <string name="hour">saat</string>
   <string name="humidity">Nem:</string>
-  <string name="humidity_frame">%1$d%%</string>
+  <string name="humidity_frame">%%%1$d</string>
   <string name="input_complete">Tamam</string>
   <string name="input_source">Giriş kaynağı</string>
   <string name="input_speech_button">Basılı tutun ve komutu söyleyin</string>
@@ -261,7 +261,7 @@
   <string name="ir_device_dvd">DVD Oynatıcı</string>
   <string name="ir_device_fan">Fan</string>
   <string name="ir_device_iptv">IPTV</string>
-  <string name="ir_device_ir">IR Kumanda</string>
+  <string name="ir_device_ir">Kızılötesi Kumanda</string>
   <string name="ir_device_lamp">Ampul</string>
   <string name="ir_device_mibox">Mi Box</string>
   <string name="ir_device_milink">Wi-Fi Cihazı</string>
