@@ -190,13 +190,13 @@ EEEE"</string>
   <string name="status_bar_network_flow_purchase">"   Satın Al &gt;"</string>
   <string name="status_bar_network_flow_today">Bugün: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
-  <string name="status_bar_no_recent_apps">Son uygulama yok!</string>
+  <string name="status_bar_no_recent_apps">Açık uygulama yok!</string>
   <string name="status_bar_notification_inspect_item_title">Uygulama Bilgisi</string>
   <string name="status_bar_recent_guide_all">"Kapatmak için yukarı kaydırın ▲
 Kilitlemek için aşağı kaydırın ▼"</string>
   <string name="status_bar_recent_guide_bottom">Kilitlemek için aşağı kaydırın ▼</string>
   <string name="status_bar_recent_guide_top">Kapatmak için yukarı kaydırın ▲</string>
-  <string name="status_bar_recent_memory_info1">%2$sB | %1$sB kullanılabilir</string>
+  <string name="status_bar_recent_memory_info1">%2$s B | %1$s B kullanılabilir</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Kaydediciye dön</string>
   <string name="status_bar_recording_pause">Kayıt duraklatıldı</string>
@@ -221,7 +221,7 @@ Kilitlemek için aşağı kaydırın ▼"</string>
   <string name="usb_device_confirm_prompt">USB cihaz bağlanınca %1$s açılsın mı ?</string>
   <string name="usb_device_permission_prompt">%1$s uygulamasının USB cihaza bağlanmasına izin verilsin mi?</string>
   <string name="usb_function_charging_text">Şarj modunda bağlandı</string>
-  <string name="usb_mode_dont_ask">Bu tercihimi hatırla</string>
+  <string name="usb_mode_dont_ask">Tercihimi hatırla</string>
   <string name="usb_mode_mount_storage_title">USB Depolama açılsın mı?</string>
   <string name="usb_mode_notification">USB Depolama</string>
   <string name="usb_mtp_text">Dosyalar</string>
