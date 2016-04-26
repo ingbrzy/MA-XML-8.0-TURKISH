@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Ana Ekrana git</string>
-  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_bar_home_description">"Ana Ekran'a git"</string>
+  <string name="abc_action_bar_up_description">Yukarı git ▲</string>
   <string name="action_mode_deselect_all">Vazgeç</string>
   <string name="action_mode_select_all">Hepsi</string>
   <string name="action_mode_title_empty">Öğeleri seç</string>
@@ -398,7 +398,7 @@
   <string name="fmt_weekday_time_timezone">W T z</string>
   <string name="fmt_weekday_timezone">W z</string>
   <string name="friday">Cuma</string>
-  <string name="friday_short">Cum</string>
+  <string name="friday_short">Cuma</string>
   <string name="friday_shortest">C</string>
   <string name="heavenly_stems_bing">丙</string>
   <string name="heavenly_stems_ding">丁</string>
@@ -486,12 +486,12 @@
   <string name="sim_unavailable">SIM kart kullanılamıyor.</string>
   <string name="sip_phone">SIP Telefon</string>
   <string name="size_byte">B</string>
-  <string name="size_giga_byte">GB</string>
-  <string name="size_kilo_byte">KB</string>
-  <string name="size_mega_byte">MB</string>
-  <string name="size_peta_byte">PB</string>
+  <string name="size_giga_byte"> GB</string>
+  <string name="size_kilo_byte"> KB</string>
+  <string name="size_mega_byte"> MB</string>
+  <string name="size_peta_byte"> PB</string>
   <string name="size_suffix">%1$s %2$s</string>
-  <string name="size_tera_byte">TB</string>
+  <string name="size_tera_byte"> TB</string>
   <string name="solar_term_autumn_begins">Sonbahar Başlıyor</string>
   <string name="solar_term_autumn_equinox">Sonbahar Gündönümü</string>
   <string name="solar_term_clear_and_bright">Açık ve Parlak</string>
@@ -524,7 +524,7 @@
   <string name="the_anti_aggression_day">Anti-Saldırganlık Günü</string>
   <string name="the_arbor_day">Ağaç Dikim Günü</string>
   <string name="the_armed_forces_day">Silahlı Kuvvetler Günü</string>
-  <string name="the_armys_day">Ordu\'nun Günü</string>
+  <string name="the_armys_day">Ordunun Günü</string>
   <string name="the_childrens_day">Çocuk Bayramı</string>
   <string name="the_chinese_youth_day">Gençlik günü</string>
   <string name="the_christmas_day">Yılbaşı</string>
