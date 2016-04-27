@@ -826,7 +826,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_adjust_traffic_data">Veri kullanımını ayarla</string>
   <string name="pref_allow_connect_network_title">Uluslararası Veri Dolaşımı</string>
   <string name="pref_allow_connect_network_whitelist_title">Dolaşımdayken mobil veri kullanımına izin ver</string>
-  <string name="pref_app_traffic_managent">RUygulamaya göre veri kullanımını kısıtlayın</string>
+  <string name="pref_app_traffic_managent">Uygulamaya göre veri kullanımını kısıtlayın</string>
   <string name="pref_auto_adjust_settings">Veri kullanım istatistik ayarlarını otomatik eşitle</string>
   <string name="pref_auto_adjust_traffic">Veri kullanım istatistiklerini otomatik eşitle</string>
   <string name="pref_automatic_adjust">Operatör veri kullanımını eşitle</string>
@@ -837,13 +837,13 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_category_title_reference_settings">Ek Ayarlar</string>
   <string name="pref_category_title_securitycenter_settings">Genel</string>
   <string name="pref_category_title_virus_lib_auto_update">Otomatik olarak tanımları güncelle</string>
-  <string name="pref_check_network_diagnostics">"Cihazın internet bağlantı testi"</string>
+  <string name="pref_check_network_diagnostics">"Cihazın internet bağlantısının testi"</string>
   <string name="pref_connect_settings_enable_background">Arkaplan verilerine izin verin</string>
   <string name="pref_connect_settings_enable_background_hint">"Arkaplanda çalışan uygulamaların veri kullanımına izin verir"</string>
-  <string name="pref_connect_settings_exceed_limit">En yüksek veri kullanımını kısıtlayın</string>
-  <string name="pref_connect_settings_exceed_limit_hint">En yüksek veri kullanım sınırına ulaştığında veri bağlantısını kapat</string>
-  <string name="pref_daily_adjust">En yüksek veri sınırı ayarı</string>
-  <string name="pref_daily_traffic">En üst veri sınırı</string>
+  <string name="pref_connect_settings_exceed_limit"Yüksek veri kullanımını kısıtlayın</string>
+  <string name="pref_connect_settings_exceed_limit_hint">Yüksek veri kullanım sınırına ulaştığında veri bağlantısını kapat</string>
+  <string name="pref_daily_adjust">Yüksek veri sınırının ayarı</string>
+  <string name="pref_daily_traffic">Üst veri sınırı</string>
   <string name="pref_data_usage_ignore_settings">Veri kullanımını görmezden gel</string>
   <string name="pref_data_usage_ignore_settings_summary">"Seçilen uygulama grubunun veri kullanımını takip etme"</string>
   <string name="pref_data_usage_not_set">Veri kullanımının üst limiti</string>
