@@ -28,6 +28,15 @@
   <string name="action_text_new_event">Yeni etkinlik</string>
   <string name="action_text_online">Bul</string>
   <string name="action_text_today">Bugün</string>
+  <string name="ad_card_connecting">Bağlantı</string>
+  <string name="ad_card_download_count">%1$s İndir</string>
+  <string name="ad_card_download_count_million">%1$s万人下载</string>
+  <string name="ad_card_downloading">İndiriliyor</string>
+  <string name="ad_card_install">Şimdi Yükle</string>
+  <string name="ad_card_installed">Yüklü</string>
+  <string name="ad_card_installing">Yükleniyor</string>
+  <string name="ad_card_network_error">Ağ bağlantısı yok, lütfen daha sonra yeniden deneyin.</string>
+  <string name="ad_card_spread">Promosyon</string>
   <string name="add_account">Hesap ekle</string>
   <string name="add_calendar">Abone Ol</string>
   <string name="add_card">Kart Ekle</string>
@@ -227,7 +236,9 @@
   <string name="loading">Biraz bekleyin...</string>
   <string name="local_calendar_display_name">Yerel takvim</string>
   <string name="local_owner_account_name">Bu cihazda sakla</string>
-  <string name="lunar_date">Ay tarihi</string>
+  <string name="lunar_date">Kamerî Takvim</string>
+  <string name="match_ed">Sona erdi</string>
+  <string name="match_ing">Devam ediyor</string>
   <string name="menu_about_preferences">Takvim Hakkında</string>
   <string name="menu_general_preferences">Genel Ayarlar</string>
   <string name="menu_preferences">Ayarlar</string>
