@@ -101,7 +101,7 @@
   <string name="declaration">Hizmet Şartları</string>
   <string name="declaration_allow">Kabul</string>
   <string name="declaration_content">"1. Bu uygulamayı kullanarak Sohu Video, iQiyi ve diğer sağlayıcıların "&lt;a href="file:///android_asset/terms.html"&gt;Hizmet Şartlarını&lt;/a&gt; kabul etmiş olursunuz."
-2. Xiaomi\'ye otomatik olarak teşhis ve kullanım verilerini göndererek ürünün gelişmesinde yardımcı olabilirsiniz.
+2. Kullanıcı deneyimini iyileştirmek için cihazınız hakkında veri toplanacak ve izleneceksiniz. Cihazın IMEI bilgisi kullanılacak. &amp;#8203;
 3. HD Video eklentisi otomatik olarak kurulacaktır.
 4. Bu uygulama normal bir şekilde çalışması için internete bağlanmak ister."</string>
   <string name="declaration_content_td_custom">Bu uygulama normal bir şekilde çalışması için internete bağlanmak ister.</string>
@@ -314,7 +314,7 @@
   <string name="search_hint">Çevrimiçi Video Ara</string>
   <string name="search_result_empty_text">"Bir şey bulamadı"</string>
   <string name="search_snack_more">Daha Fazla Bilgi</string>
-  <string name="search_snack_sniff">Aperatif İndir</string>
+  <string name="search_snack_sniff">Tam Net Kaynak</string>
   <string name="second"> Saniye</string>
   <string name="see_all_count_comment">%d yorumlar</string>
   <string name="select_all">Hepsi</string>
@@ -331,7 +331,7 @@
   <string name="share_device">Paylaşılan cihaz</string>
   <string name="similar">Benzer</string>
   <string name="sina">Sina</string>
-  <string name="sniff">Aparatif</string>
+  <string name="sniff">Kaynak</string>
   <string name="souhu">Souhu</string>
   <string name="source_error">Kaynak alım hatası</string>
   <string name="star1">1 Yıldız</string>
