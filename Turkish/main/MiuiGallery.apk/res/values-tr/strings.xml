@@ -29,6 +29,7 @@
   <string name="add_to_secret_failed_with_reason">"Gizli albüme eklenemez. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s öğe gizli albüme eklenemedi. %1$s."</string>
   <string name="add_to_secret_successful">Gizli albüme eklendi</string>
+  <string name="adding">Ekleniyor...</string>
   <string name="adding_recipients">Alıcılar ekleniyor...</string>
   <string name="adding_to_album">Fotoğraflar ekleniyor ...</string>
   <string name="adjust">Ayarla</string>
@@ -565,7 +566,7 @@
   <string name="delete_from_album_no_account">\"%s\" albüm</string>
   <string name="delete_from_all_devices">Cihazlar</string>
   <string name="delete_from_devices">Tüm cihazları otomatik olarak eşitle</string>
-  <string name="delete_from_devices_album">Bu albümü tüm cihazlarla eşitle</string>
+  <string name="delete_from_devices_album">Bu albüm tüm cihazlarda otomatik olarak eşitlendi</string>
   <string name="delete_from_homepage_album">Albümü ana sayfada göster</string>
   <string name="delete_from_web">Net Albümleri</string>
   <string name="delete_in_album">Albümde fotoğrafı veya videoyu sildiğinizde, şurdan da silinir:</string>
@@ -576,6 +577,7 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d silindi，%2$d korunuyor</string>
   <string name="delete_third_party_photo">Bu fotoğraf silinsin mi?</string>
   <string name="delete_third_party_video">Bu video silinsin mi?</string>
+  <string name="delete_to_trash_tips">Ayarların içindeki Çöp Kutusunda en son eştilenip silinmiş fotoğrafları görebilirsiniz</string>
   <string name="deny">Reddet</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
@@ -970,6 +972,7 @@
   <string name="user_alias_self">Kendi</string>
   <string name="user_notice_identify_summary_format">"Bu servisi kullanarak, Xiaomi'nin %1$s ve %2$s kabul etmiş olursunuz."</string>
   <string name="user_notice_title">Dikkat</string>
+  <string name="video_edit_file_not_exits_tip">Önce videoyu indirmeniz lazım</string>
   <string name="video_err">"Video oynatılamıyor"</string>
   <string name="video_not_exist">"Video mevcut değil"</string>
   <string name="view_baby_album">Bebek albümünü görüntüle</string>
