@@ -7,6 +7,7 @@
   <string name="Settings_title_garbage_cleanup">Temizleyici Ayarları</string>
   <string name="Settings_title_network_assistants">Veri Kullanım Ayarları</string>
   <string name="Settings_title_power_center">Pil Ayarları</string>
+  <string name="ac_enable_title">Uygulama Kilidini Aç</string>
   <string name="access_control_need_password">"%s başarıyla eklendi
 "</string>
   <string name="access_control_need_to_unlock">"Parmakizini tarayın veya
@@ -52,6 +53,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">2 gün önce güncellendi</string>
   <string name="adjust_traffic_carrier_summary_yesterday">%s dün güncellendi</string>
   <string name="adjust_traffic_data">Veri Kullanım Ayarı</string>
+  <string name="after_the_lock_screen">"Uygulama ekran ile birlikte kilitlendi, değiştirmek için Uygulama Kilit Ayarlarını kulanın."</string>
   <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Tanımları seçin</string>
   <string name="antivirus_choose_engine_disable_toast">"Tarama işlemi devam ederken tanımlar arasında geçiş yapamazsınız"</string>
@@ -411,6 +413,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="list_empty_text">Boş</string>
   <string name="load_fail">"Yüklenmedi"</string>
   <string name="local_ip_exception_summary">"Yerel IP adresi alınamadı. MIUI Hata Bildirimi uygulaması ile bu sorunu ve cihaz günlüğünü bize iletebilirsiniz."</string>
+  <string name="lock_mode_title">Kilit Ayarları</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s kilit ekranında kullanıldı</string>
   <string name="lock_screen_traffic_guide_notification_title">Veri kullanımını yönetmek için dokunun.</string>
   <string name="lock_screen_traffic_notify_body">%1$s, %2$s için kilitlendi, %3$s veri kullanıldı</string>
