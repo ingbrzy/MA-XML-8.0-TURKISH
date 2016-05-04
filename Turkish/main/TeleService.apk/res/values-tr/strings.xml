@@ -265,6 +265,7 @@
   <string name="cdma_alert_message">"Eğer mobil veri için varsayılan olarak başka bir kart seçerseniz, (Dolaşımda hariç) Çin Telecom SIM kartını kullanmak mümkün olmayacaktır."</string>
   <string name="cdma_alert_title">UIM kart varsayılan olmalı</string>
   <string name="can_not_call_self">"Kendi numaran aranmaz"</string>
+  <string name="can_not_use_for_not_data_sim">"(Kullanılamaz: Varsayılan Veri SIM kartı ayarlanmalı)"</string>
   <string name="cancel">İptal</string>
   <string name="card_title_conf_call">Konferans Çağrısı</string>
   <string name="card_title_dialing">Aranıyor</string>
@@ -602,6 +603,7 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="got_it">Tamam</string>
   <string name="goPrivate">Özele git</string>
   <string name="go_to_virtual_sim_title">Sanal SIM</string>
+  <string name="got_it">Tamam</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Ağ Modu</string>
   <string name="gsm_umts_network_preferences_title">Şebeke Özellikleri</string>
   <string name="gsm_umts_network_preferneces_summary">Henüz uygulanmadı!</string>
