@@ -192,6 +192,7 @@
   <string name="custom_head_card_text_incognito">"Gizlediklerini bir Allah birde sen biliyorsun​"</string>
    <string name="data_traffic_prompt_change">Mobil veri bağlantısı kullanmak videolarda veri kullanımını artıracaktır. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
   <string name="data_traffic_prompt_message">Mobil veri bağlantısı kullanmak videolara bakarken veri kullanımını artıracaktır. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
+  <string name="data_traffic_prompt_message_short">Mobil veri kullanarak video akışı sağlamak; planlanan veri limitinin üstüne çıkmanıza neden olur.</string>
   <string name="data_traffic_prompt_title">Veri Kullanımı Uyarısı</string>
   <string name="date_picker_dialog_clear">Temizle</string>
   <string name="date_picker_dialog_other_button_label">Diğer</string>
@@ -755,6 +756,9 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="video_downloaded_group">İndirildi</string>
   <string name="video_downloading_group">İndiriliyor</string>
   <string name="video_edit">Düzenle</string>
+  <string name="video_float_window">Pencere</string>
+  <string name="video_float_window_playing">Video oynatılıyor</string>
+  <string name="video_float_window_text">Pencere</string>
   <string name="video_fragment_name_collections">Favoriler</string>
   <string name="video_fragment_name_download">Çevrimdışı Video</string>
   <string name="video_fragment_name_historys">Geçmişi İzle</string>
