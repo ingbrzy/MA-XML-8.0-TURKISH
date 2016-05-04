@@ -267,6 +267,8 @@
   <string name="original_price">orijinal fiyat</string>
   <string name="other_info">Diğer</string>
   <string name="other_setting">Ek Ayarlar</string>
+  <string name="path_develop_settings">Video/Ayarlar/Geliştirici Ayarları</string>
+  <string name="path_settings">Video/Ayarlar</string>
   <string name="pause">Durdur</string>
   <string name="pay_record">ödeme kaydı</string>
   <string name="percent_status">%%%.0f</string>
@@ -300,7 +302,7 @@
   <string name="refreshing">Biraz bekleyin...</string>
   <string name="releasetorefresh">Yenilemek için bırak</string>
   <string name="reload_sub_title">Tekrar deneyin</string>
-  <string name="reload_title">"Bağa bağlanamadı"</string>
+  <string name="reload_title">"Ağa bağlanamadı"</string>
   <string name="reload_title_ep">"Tüm seri alınamadı"</string>
   <string name="retry">Tekrar Deneyin</string>
   <string name="router">Çevrimdışı</string>
@@ -311,8 +313,10 @@
   <string name="score_douban">Douban Puanı%1$s</string>
   <string name="sdcard_storage">Dahili hafıza</string>
   <string name="search">Ara</string>
+  <string name="search_develop_settings">Geliştirici Ayarları;Sürümü Seç;Sürümü Seç;Video Güncelle;Sürüm;Forum;Performans Modu;Resim Kalitesi;Oynatıcı Ekleri</string>
   <string name="search_hint">Çevrimiçi Video Ara</string>
   <string name="search_result_empty_text">"Bir şey bulamadı"</string>
+  <string name="search_settings">Video Ayarları;Mobil Ağ;Wifi;Video Oynat;Push;Bildirim;Önbellek;Geliştirici Ayarları</string>
   <string name="search_snack_more">Daha Fazla Bilgi</string>
   <string name="search_snack_sniff">Tam Net Kaynak</string>
   <string name="second"> Saniye</string>
