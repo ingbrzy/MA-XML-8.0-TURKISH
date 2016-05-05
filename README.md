@@ -28,7 +28,7 @@ Use the [Github Issue tracker](https://github.com/ingbrzy/MA-XML-7.0-TURKISH/iss
 
 ## Changes will be added
 
-* Engineer, MiBand, VFX etc...
+* Engineer, VFX etc...
 
 Check [Contributing to a project](https://guides.github.com/activities/forking) for further informations.
 
