@@ -1,5 +1,5 @@
 
-# ![logo](http://en.miui.com/static/index7/images/miui7/overview_0.png) MIUI V7.XX Turkish Turkish Translation
+# ![logo](http://en.miui.com/static/index7/images/miui7/overview_0.png) MIUI V7.XX Turkish Translation
 
 [![Issue Stats](https://github.com/ingbrzy/MA-XML-7.0-TURKISH/issues)](https://github.com/ingbrzy/MA-XML-7.0-TURKISH/issues) [![Turkish Support]((http://www.miuiturkiye.net))]((http://www.miuiturkiye.net))
 
