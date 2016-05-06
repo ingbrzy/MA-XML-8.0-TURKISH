@@ -44,7 +44,7 @@
   <string name="album_others_share_info_format">%s</string>
   <string name="album_owner_share">Paylaş</string>
   <string name="album_page_empty">Boş</string>
-  <string name="album_page_label">Albümler</string>
+  <string name="album_page_label">Albüm</string>
   <string name="album_quota_fulfiled">Çok fazla albüm. Bazı albümleri silin ve tekrar deneyin.</string>
   <string name="album_screenshot_name">Ekran Görüntüleri</string>
   <string name="album_setting_show_in_photo_tab_success">Bu albüm zaten Ana Sayfa\'da</string>
@@ -81,6 +81,9 @@
   <string name="auto_upload_before_share_title">İpucu</string>
   <string name="auto_upload_disable_toast">"Bu albümdeki fotoğraflar ve videolar otomatik olarak yedeklenmeyecek"</string>
   <string name="auto_upload_enable_toast">Bu albümdeki fotoğraflar ve videolar otomatik olarak yedeklenecek</string>
+  <string name="auto_upload_disable_tip">Otomatik Yedekleme devre dışı</string>
+  <string name="auto_upload_disable_toast_long_press_menu">Otomatik Yedekleme devre dışı ve diğer albüm için eklendi</string>
+  <string name="auto_upload_enable_toast_long_press_menu">Otomatik Yedekleme etkin, görüntülemek için albüm sayfasına dön</string>
   <string name="autofix">Otomatik Düzelt</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="baby_album">Bebek Albümü</string>
@@ -552,7 +555,7 @@
   <string name="create_quick_icon_on_desk">Kısayol yarat</string>
   <string name="creating_baby_album">Albüm oluşturuluyor...</string>
   <string name="crop">Kırp</string>
-  <string name="crop_label">Fotoğraflar kırpıldı</string>
+  <string name="crop_label">Kırp</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
   <string name="crop_save_text">Kaydet</string>
   <string name="crop_tooltip">Kırpmak için işaretçileri sürükleyin</string>
@@ -600,7 +603,7 @@
   <string name="enable_cloud_for_sharing">Paylaşılan fotoğrafları görüntülemek için Bulut albümlerini açmanız gerekir.</string>
   <string name="enable_face_album_summary">Kişilere göre fotoğrafları otomatik sırala</string>
   <string name="enable_face_album_title">Kişiye Göre Sırala</string>
-  <string name="enable_slim_title">Albüm Alanını Azaltma etkin</string>
+  <string name="enable_slim_title">Albüm Alanını Azalt etkin</string>
   <string name="enabling_face_feature">Biraz bekleyin...</string>
   <string name="enter_email_hint">E-Posta adresini girin</string>
   <string name="error_album_not_exist">"Albüm yok"</string>
@@ -645,7 +648,7 @@
   <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filllight">Işık Dolgusu</string>
   <string name="filllight_polymorphism">photoeditor_effect_filllight</string>
-  <string name="finish_create_baby_album_toast">Mi Buluttaki \"%s\" albüm oluşturuldu</string>
+  <string name="finish_create_baby_album_toast">"Mi Bulut'taki \"%s\" albüm oluşturuldu"</string>
   <string name="finish_fill_baby">Oluştur</string>
   <string name="fisheye">Balık Gözü</string>
   <string name="fisheye_polymorphism">photoeditor_effect_fisheye</string>
@@ -680,7 +683,7 @@
   <string name="highlight_abbr">I</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_page_empty">Boş</string>
-  <string name="home_page_label">Fotoğraflar</string>
+  <string name="home_page_label">Fotoğraf</string>
   <string name="how_to_set_relation">Grup oluşturmak için bir albüme uzunca basın</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="hybrid_check_network">Ağ Ayarları</string>
@@ -789,7 +792,7 @@
   <string name="operation_set_contact_photo">Kişi fotoğrafı olarak ayarla</string>
   <string name="operation_set_wallpaper">Duvar kağıdı olarak ayarla</string>
   <string name="operation_share">Paylaş</string>
-  <string name="operation_show_in_photos_tab">Ana sayfada göster</string>
+  <string name="operation_show_in_photos_tab">Fotoğraf sekmesinde göster</string>
   <string name="operation_show_on_map">Harita üzerinde göster</string>
   <string name="operation_slide_show">Slayt gösterisini başlat</string>
   <string name="operation_successful">Tamam</string>
@@ -800,6 +803,7 @@
   <string name="orientation_unlock_tip">Otomatik Döndürme açık</string>
   <string name="original">Orjinal</string>
   <string name="original_scale">Orjinal</string>
+  <string name="other_album">Diğer Albümler</string>
   <string name="other_settings">Ek Ayarlar</string>
   <string name="owner_album_subtitle">%1$s kişiyle paylaşıldı</string>
   <string name="paint_brush">Boya Fırçası</string>
@@ -807,7 +811,7 @@
   <string name="paint_cancel_title">Değişiklikleri İptal Et</string>
   <string name="paint_crop_cancel_context">Kırpılan görüntü kaydedilsin mi?</string>
   <string name="paint_crop_cancel_title">Değişiklikleri İptal Et</string>
-  <string name="paint_crop_tips">Hedef resmi kılavuz merkezinin yanına yerleştirin.</string>
+  <string name="paint_crop_tips">Hedef resmi, kılavuz merkezinin yanına yerleştirin.</string>
   <string name="paint_highlight">Karalama</string>
   <string name="paint_highlight_cancel_context">Yaptığınız değişiklikler kaydedilsin mi?</string>
   <string name="paint_highlight_cancel_title">Değişiklikleri İptal Et</string>
