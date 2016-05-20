@@ -191,5 +191,28 @@
         <item quantity="two"> İndirilenler</item>
         <item quantity="few"> İndirilenler</item>
         <item quantity="many"> İndirilenler</item>
+    </plurals><plurals name="video_play_num">
+        <item quantity="other">%1$s oynat</item>
+        <item quantity="zero">%1$s oynat</item>
+        <item quantity="one">%1$s oynat</item>
+        <item quantity="two">%1$s oynat</item>
+        <item quantity="few">%1$s oynat</item>
+        <item quantity="many">%1$s oynat</item>
+    </plurals>
+    <plurals name="video_num">
+        <item quantity="other">%1$s video</item>
+        <item quantity="zero">%1$s video</item>
+        <item quantity="one">%1$s video</item>
+        <item quantity="two">%1$s video</item>
+        <item quantity="few">%1$s video</item>
+        <item quantity="many">%1$s video</item>
+    </plurals>
+    <plurals name="user_upload_items">
+        <item quantity="other">video</item>
+        <item quantity="zero">video</item>
+        <item quantity="one">video</item>
+        <item quantity="two">video</item>
+        <item quantity="few">video</item>
+        <item quantity="many">video</item>
     </plurals>
 </resources>
