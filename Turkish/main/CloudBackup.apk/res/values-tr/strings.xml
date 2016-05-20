@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Biraz bekleyin...</string>
+  <string name="account_error">Hesap hatası</string>
   <string name="app_name">Mi Bulut Yedeklemesi</string>
   <string name="as_new_device">Bir önceki Ana Ekran ve Ayarları değiştirin</string>
   <string name="as_new_device_summary">Önceki Mi Bulut yedeklerini silin</string>
@@ -49,12 +50,12 @@ Not: Yüklediğiniz uygulamalar için verileri Mi Bulut'ta yedeklenmiyecek"</str
   <string name="cloud_back_up_share_activity_title">Mi Hesabını Güncelle</string>
   <string name="cloud_back_up_task">Yedekleniyor…</string>
   <string name="cloud_backup_detail_frequence">Yedekleme Planı</string>
-  <string name="cloud_backup_detail_frequence_day">Önce %1$s yedekle</string>
+  <string name="cloud_backup_detail_frequence_day">Her %1$s yedekle</string>
   <string name="cloud_backup_detail_manage">Yedekleri Yönet</string>
   <string name="cloud_backup_detail_manage_summary">%1$s yedek, boyut:%2$s</string>
   <string name="cloud_backup_detail_state">Mi Bulut Yedeği</string>
   <string name="cloud_backup_detail_state_summary">Uygulamalar, Ana Ekran ve Sistem Ayarları</string>
-  <string name="cloud_backup_detail_time">, Yedekleme Zamanı:%1$s</string>
+  <string name="cloud_backup_detail_time">, Son Yedekleme: %1$s</string>
   <string name="cloud_backup_have_data">"Mi Bulut'ta yedek bulundu"</string>
   <string name="cloud_backup_select_recover">"Mi Bulut'tan yedeği seçin"</string>
   <string name="cloud_restore_from_other_device">"%s geri yüklemek ve yedeği silmek istiyor musunuz? Bu eylem geri döndürülemez."</string>
