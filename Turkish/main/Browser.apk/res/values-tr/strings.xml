@@ -20,7 +20,7 @@
   <string name="account_prifix">Hesap:</string>
   <string name="action">Oturum Aç</string>
   <string name="action_menu_account_not_login">Oturum açılmadı</string>
-  <string name="action_menu_account_not_login_hint">Oturum açıldığında bulut ayarlarını kullan</string>
+  <string name="action_menu_account_not_login_hint">Mi Bulut ile eşitlemek için oturum açın</string>
   <string name="action_menu_bookshelf">Kitaplık</string>
   <string name="action_menu_current_version">Güncel Sürüm</string>
   <string name="action_menu_text_add_bookmark">Favoriye ekle</string>
@@ -43,9 +43,9 @@
   <string name="action_menu_text_share">Paylaş</string>
   <string name="action_menu_text_snapshot">Sayfayı Kaydet</string>
   <string name="action_menu_text_video">Video</string>
-  <string name="action_menu_toolbox">Araç Kutusu</string>
-  <string name="action_menu_useful_page">Sık Kullanılanlara Ekle</string>
-  <string name="action_menu_useful_page_added">Sık Kullanılanlara eklendi</string>
+  <string name="action_menu_toolbox">Araçlar</string>
+  <string name="action_menu_useful_page">Kısayol Ekle</string>
+  <string name="action_menu_useful_page_added">Başlangıç Sayfasına eklendi</string>
   <string name="actionbar_share">Paylaş</string>
   <string name="actionbar_web_search">Ara</string>
   <string name="adblock_notification">%d reklam engellendi</string>
@@ -89,6 +89,8 @@
   <string name="block_ads_message">Bu sitenin mesajları engellensin mi?</string>
   <string name="block_ads_title">İçerik reklam barındırabilir</string>
   <string name="bookmark_add_to">Ekle</string>
+  <string name="bookmark_btn_select_all">Hepsi</string>
+  <string name="bookmark_btn_select_none">Vazgeç</string>
   <string name="bookmark_cannot_save_url">"Bu adres yerimlerine eklenemiyor."</string>
   <string name="bookmark_folder_needs_title">Bir grup ismi girin</string>
   <string name="bookmark_group_lable">Grup</string>
@@ -189,7 +191,7 @@
   <string name="current_version_pc">Masaüstü</string>
   <string name="current_version_phone">Telefon</string>
   <string name="custom_head_card_text">"Daima harika birşeyin gerçekleşmek üzere olduğuna inanıyoruz"</string>
-  <string name="custom_head_card_text_incognito">"Gizlediklerini bir Allah birde sen biliyorsun​"</string>
+  <string name="custom_head_card_text_incognito">"Artık tamamen gizlendiniz. Geçmişte gezindiğiniz sayfalar artık görüntülenemez.​"</string>
    <string name="data_traffic_prompt_change">Mobil veri bağlantısı kullanmak videolarda veri kullanımını artıracaktır. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
   <string name="data_traffic_prompt_message">Mobil veri bağlantısı kullanmak videolara bakarken veri kullanımını artıracaktır. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
   <string name="data_traffic_prompt_message_short">Mobil veri kullanarak video akışı sağlamak; planlanan veri limitinin üstüne çıkmanıza neden olur.</string>
@@ -200,6 +202,7 @@
   <string name="date_picker_dialog_title">Tarihi Ayarla</string>
   <string name="date_time_picker_dialog_title">Tarih ve Zaman Ayarı</string>
   <string name="delete">Sil</string>
+  <string name="delete_bookmark">Sil</string>
   <string name="delete_bookmark_group_warning">\"%s\" silinsin mi? Bu grupta yer alan tüm yerimleri silinecek.</string>
   <string name="delete_bookmark_warning">\"%s\" favori silinsin mi?</string>
   <string name="delete_download">Sil</string>
@@ -331,7 +334,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="license_activity_title">Sistem WebView Lisansları</string>
   <string name="loading_tips">Yenilemek için aşağı doğru çekin ▼</string>
   <string name="local_bookmarks">Mi</string>
-  <string name="login_failed_toast">Oturum açılamadı, lütfen yenileyin.</string>
+  <string name="login_failed_toast">Oturum açılamadı, yenileyin ve tekrar deneyin.</string>
   <string name="low_memory_error">Düşük bellek nedeniyle önceki işlemi tamamlanamıyor</string>
   <string name="max_tabs_warning">"Daha fazla sekme açılamıyor"</string>
   <string name="maximum_input_alert">"2048 karakterden daha fazla giremezsiniz"</string>
@@ -590,7 +593,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="remove_history_item">Geçmişten kaldır</string>
   <string name="remove_snapshot">Kayıtlı sayfayı sil</string>
   <string name="removed_from_bookmarks">Favorilerden kaldırıldı</string>
-  <string name="reply_comment_title">Tekrar deneme: %s</string>
+  <string name="reply_comment_title">Yeniden: %s</string>
   <string name="resume_download">Başlat</string>
   <string name="retry_after_network_available">"Ağa bağlanamıyor"</string>
   <string name="retry_download">Tekrar Dene</string>
