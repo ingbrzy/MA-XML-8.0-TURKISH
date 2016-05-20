@@ -11,7 +11,7 @@
   <string name="activity_title_ignored_image">Yoksayıldı</string>
   <string name="activity_title_image_gallery">Yenilenenleri Sil</string>
   <string name="activity_title_large_file">Büyük Dosyalar</string>
-  <string name="activity_title_main">Clean Master</string>
+  <string name="activity_title_main">Temizleyici</string>
   <string name="activity_title_news">Yenilikler</string>
   <string name="activity_title_privacy_cache">Önbellek Mahremiyeti</string>
   <string name="activity_title_residual">Artıklar</string>
@@ -117,7 +117,7 @@
   <string name="dialog_content_checkbox_delete_cloud_image">Ayrıca Mi Bulut fotoğrafları sil</string>
   <string name="dialog_content_delete_image_confirm"> %d fotoğrafları silinsin mi?</string>
   <string name="dialog_content_select_all_confirm">Bu fotoğrafın bir kopyası saklansın mı?</string>
-  <string name="dialog_msg_add_white_list_error">"Dosya istisnalara eklenmeyi desteklemiyor"</string>
+  <string name="dialog_msg_add_white_list_error">"Dosya istisnalara eklenemedi"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Seçilen uygulamalar yedeklenip silinsin mi?</string>
   <string name="dialog_msg_check_all">%2$d öğeyi içeren %1$s\'i seçmek için onaylayın</string>
   <string name="dialog_msg_esc_cleanmaster">Devam eden temizleme taraması durdurulsun mu?</string>
@@ -243,7 +243,7 @@
   <string name="msg_update_error_code_success">Tamamlandı</string>
   <string name="msg_update_error_code_unknown_error">Bilinmeyen hata</string>
   <string name="name_debuglog_dir">BSP Hata Ayıklama Günlüğü</string>
-  <string name="name_optimizer">"CleanMaster'in Gizlilik Politikası"</string>
+  <string name="name_optimizer">"Gizlilik Politikası"</string>
   <string name="nb_clear_set">ROM, pil durumu ve engelliler listesi bildirimlerini temizle</string>
   <string name="net_assistant_detail">%1$s kullanıldı, %2$s saklandı</string>
   <string name="net_assistant_title">Bu ay %s mobil veri kullanıldı</string>
