@@ -63,7 +63,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
   <string name="maml_component_customization_title">Ayarlar</string>
   <string name="memory_clear_nothing_result">Önbellekte temizlemek için bir şey yok</string>
-  <string name="memory_clear_result">%1$s B temizlendi | %2$s B mevcut</string>
+  <string name="memory_clear_result">%1$sB temizlendi | %2$sB mevcut</string>
   <string name="miui">miui</string>
   <string name="paste">Yapıştır</string>
   <string name="perm_send_push_dspt">Mi Push mesajlarına izin ver</string>
@@ -71,7 +71,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="permdesc_manageLocationPolicy">Konum politikalarını yönetme ve uygulamaya özgü kuralları tanımlamak için izin verir.</string>
   <string name="permlab_manageLocationPolicy">Konum politikasını yönet</string>
   <string name="reboot_confirm_title">Telefonunuz Tekrar Başlatılacak!</string>
-  <string name="reboot_info_auto_boot">Telefonunuz planlanan yeniden başlatma nedeniyle %s\'de tekrar açılacaktır</string>
+  <string name="reboot_info_auto_boot">Telefonunuz planlanmış yeniden başlatma isteğinden dolayı %s\'de tekrar açılacaktır</string>
   <string name="reboot_info_shutdown_alarm">%s\'de telefon yeniden açılacak ve alarm çalacak</string>
   <string name="reboot_progress">Tekrar Başlatılıyor…</string>
   <string name="replace">Yerleştir</string>
