@@ -123,7 +123,8 @@
   <string name="desktop_lyric_color">Renk</string>
   <string name="desktop_lyric_dialog_msg">Müziklerim > Ayarlar > Fazla Gelişmiş Ayarlar altından açabilirsin</string>
   <string name="desktop_lyric_dialog_positive_button">Şimdi dene</string>
-  <string name="desktop_lyric_dialog_title">Şarkı Sözlerini Dene</string>
+  <string name="desktop_lyric_dialog_title">Şimdi Dene</string>
+  <string name="desktop_lyric_lock_toast">Kilitlendi. Bildirim alanından Müziğin kilidini açabilirsiniz.</string>
   <string name="desktop_lyric_setting_summary">Ekranda kayan şarkı sözlerini göster</string>
   <string name="desktop_lyric_setting_title">Ekrandaki şarkı sözleri</string>
   <string name="desktop_lyric_textsize">Metin</string>
@@ -185,7 +186,7 @@
   <string name="download_complete_start_install">Yükleniyor...</string>
   <string name="download_completed">İndirildi</string>
   <string name="download_confirm_button_text">Yükle</string>
-  <string name="download_confirm_text">Mi Music indirilecek ve %s kurulacak</string>
+  <string name="download_confirm_text">Mi Müzik indirilecek ve %s kurulacak</string>
   <string name="download_error">Başarısız</string>
   <string name="download_error_insufficient_space">Yetersiz alan</string>
   <string name="download_filesize_unknown">Bilinmiyor</string>
@@ -264,7 +265,7 @@
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Oluştur</string>
   <string name="eq_preset_format">Kullanıcı tanımlı %d</string>
-  <string name="eq_preset_hint">Ön ayar adı</string>
+  <string name="eq_preset_hint">Önayar adı</string>
   <string name="eq_preset_rename">Adlandır</string>
   <string name="eq_preset_select">Hazır Ayarlardan Seçin</string>
   <string name="eq_rock">Rock</string>
@@ -275,7 +276,7 @@
   <string name="error_unauthorized">Eşitleme nedeniyle çok sayıda oturum açma girişimleri için devre dışı bırakıldı.</string>
   <string name="expired">Süresi bitti</string>
   <string name="expires">Bu ay sona eriyor:</string>
-  <string name="fail_to_play">"Şarkı oyatılamıyor!"</string>
+  <string name="fail_to_play">"Şarkı oynatılamıyor!"</string>
   <string name="favorite_canceled">Favorilerden kaldırıldı</string>
   <string name="favorite_playlist">Favoriler</string>
   <string name="favorite_singer">Favori Şarkıcılar</string>
@@ -408,7 +409,7 @@
   <string name="more_online_release">Fazlası</string>
   <string name="more_online_song">Fazlası</string>
   <string name="more_online_suggest">Fazlası</string>
-  <string name="more_settings">Gelişmiş Ayarlar +</string>
+  <string name="more_settings">Gelişmiş Ayarlar</string>
   <string name="more_settings_summary">İndirme ayarları, Uyku Modu, Mobil Veri, Dosya Filtreleri, vb...</string>
   <string name="multichoice">Seç</string>
   <string name="music_browser_label">Müzik</string>
@@ -494,7 +495,11 @@
   <string name="pay">Ödeme:</string>
   <string name="pay_now">Şimdi öde</string>
   <string name="payment_fail">Ödeme başarısız</string>
-  <string name="payment_success">Ödeme başarılı</string>
+  <string name="payment_success">Ödeme tamamlandı</string>
+  <string name="permission_declaration_message">Güvenlik > İzinler > Depolama İzni  altından Müzik uygulamasının düzgün çalışması için gerekli izinleri verin.</string>
+  <string name="permission_declaration_negative_text">Sonra</string>
+  <string name="permission_declaration_positive_text">Güvenlik bölümüne git</string>
+  <string name="permission_declaration_title">Erişim izinli</string>
   <string name="play_all_song">Tümünü Oynat</string>
   <string name="play_next">Sonrakini oynat.</string>
   <string name="playback_failed_no_title_by_bad_file">"Şarkı oynatılamıyor. Format desteklenmiyor veya dosya yok."</string>
