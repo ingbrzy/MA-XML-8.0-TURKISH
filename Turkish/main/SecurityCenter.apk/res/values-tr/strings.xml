@@ -8,6 +8,11 @@
   <string name="Settings_title_network_assistants">Veri Kullanım Ayarları</string>
   <string name="Settings_title_power_center">Pil Ayarları</string>
   <string name="ac_enable_title">Uygulama Kilidini Aç</string>
+  <string name="ac_enter_applock">Uygulama Kilidini girin</string>
+  <string name="ac_firstUseApplock_subTitle">Uygulama kilidi gizli bilgilerinizi korrumakta kullanılır</string>
+  <string name="ac_firstUseApplock_title">Seçili uygulamaları açmak için şifre gereklidir</string>
+  <string name="ac_summaryOff">Kapatıldı, uygulamaları açmak için şifre gerekmez</string>
+  <string name="ac_summaryOn">Açık, uygulamaları açmak için şifre gereklidir</string>
   <string name="access_control_need_password">"%s başarıyla eklendi
 "</string>
   <string name="access_control_need_to_unlock">"Parmakizini tarayın veya
@@ -27,6 +32,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="activity_title_network_speed_detail">Bağlantı</string>
   <string name="activity_title_networkassistants">Veri Kullanımı</string>
   <string name="activity_title_notification_bar_manager">Bildirimler</string>
+  <string name="activity_title_other_permission_manager">Diğer İzinler</string>
   <string name="activity_title_perm_manager">İzinler</string>
   <string name="activity_title_permission_manager">İzinler</string>
   <string name="activity_title_permissions_manager">İzinler</string>
@@ -535,7 +541,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="mi_service_app_detail">Veri kullanım ayrıntıları</string>
   <string name="mi_service_framework">Mi Hizmet Çerçevesi</string>
   <string name="mi_service_traffic_detail">Çerçeve ayrıntıları</string>
-  <string name="mian_page_primary_txt">Uluslararası dolaşım</string>
+  <string name="mian_page_primary_txt">Uluslararası Dolaşım</string>
   <string name="modify_password_info">Desen kilidini aç</string>
   <string name="modifypassword">Şifreyi değiştir</string>
   <string name="monitor_requests_from_pc">USB üzerinden uygulamaların yüklenmesini yönet</string>
@@ -592,7 +598,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="never">1 Kez</string>
   <string name="none_mi_service_app_detail">Boş</string>
   <string name="notification_button_text_of_low_memory">Temizle</string>
-  <string name="notification_item">Uygulama kilidini aç</string>
+  <string name="notification_item">Uygulama kilidiyle seçili uygulamaları koruyun</string>
+  <string name="notification_subtitle">Dokunup açın</string>
   <string name="notification_summary_cmcc_app_check">Detayları görüntülemek için dokunun</string>
   <string name="notification_title_cmcc_app_check">Son kontrolden bu yana %d gün geçti.</string>
   <string name="notification_title_firewall_blocked">Engelli</string>
@@ -613,6 +620,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="online_songs">Müzik</string>
   <string name="open_now">Uygulamanın mobil veri kullanmasına izin ver</string>
   <string name="operator_diagnostic">Operatör Testi</string>
+  <string name="operator_mi_sim">Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -859,6 +867,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_leisure_no_overlay">Aç</string>
   <string name="pref_leisure_not_opened">Kapat</string>
   <string name="pref_manual_adjust">Kullanım istatistiklerini elle ayarla</string>
+  <string name="pref_mi_sim_settings">Mi SIM Ayarları</string>
   <string name="pref_month_begin_date">Kullanımı sıfırlama tarihi</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Ek Ayarlar</string>
@@ -1364,6 +1373,7 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="usbsharenet_exception_title">USB üzerinden internet paylaşım testi</string>
   <string name="usbsharenet_pc_exception_summary">"Paylaşılan USB bağlantısını kullanarak internete bağlanamıyor. Bilgisayarınızın internet bağlantısını kontrol edin."</string>
   <string name="virus_list_header_title">%d virüs tespit edildi</string>
+  <string name="warning_open_mi_sim">Mi SIM aç</string>
   <string name="wifi_exception_summary">Kullanılabilir WLAN ağlarının testi</string>
   <string name="wifi_exception_title">WLAN Ağ Testi</string>
   <string name="wifi_network_blocked_notification_title">İnternet bağlantısı yok</string>
