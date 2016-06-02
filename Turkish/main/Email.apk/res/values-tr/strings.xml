@@ -3,6 +3,7 @@
   <string name="SMTP_independent_verification_text">SMTP Bağımsız Doğrulama</string>
   <string name="SMTP_password_text">Şifre</string>
   <string name="SMTP_username_text">Kullanıcı Adı</string>
+  <string name="account_cache_provider">Hesap Önbellek Sağlayıcısı</string>
   <string name="account_duplicate_dlg_message_fmt">"\"%s\" hesabı için zaten bu kullanıcı adını kullanıyorsunuz."</string>
   <string name="account_duplicate_dlg_title">Tekrarlanan Hesap</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -17,6 +18,8 @@
   <string name="account_security_policy_explanation_fmt">Sunucu %s uzaktan Android cihazının bazı güvenlik özelliklerini kontrol etmesi için izninize ihtiyacı var.</string>
   <string name="account_security_title">Cihaz Güvenliği</string>
   <string name="account_set_up_change_type_note">Eğer POP3 ve IMAP ayarları arasında geçiş yapmanız gerekirse, hesabınızı silin ve istenilen ayarlar ile yeni bir tane oluşturun.</string>
+  <string name="account_setting">Hesap Ayarları</string>
+  <string name="account_setting_keywords">Hesap;Ayarlar;Hesap Ayarları;Posta Hesapları;Mail Hesapları</string>
   <string name="account_settings_action">Hesap Ayarları</string>
   <string name="account_settings_background_attachments_label">Ekleri indir</string>
   <string name="account_settings_background_attachments_summary">Wi-Fi kullanarak ekleri indir</string>
@@ -62,12 +65,12 @@
   <string name="account_setup_basics_manual_setup_action">Elle Kurulum</string>
   <string name="account_setup_basics_password_label">Şifre</string>
   <string name="account_setup_basics_title">Hesap ekle</string>
-  <string name="account_setup_check_settings_check_incoming_msg">Sunucu ayarları doğrulanıyor...</string>
-  <string name="account_setup_check_settings_check_outgoing_msg">SMTP ayarları doğrulanıyor…</string>
-  <string name="account_setup_check_settings_retr_info_msg">Hesap bilgileri alınıyor...</string>
+  <string name="account_setup_check_settings_check_incoming_msg">"   Sunucu ayarları doğrulanıyor..."</string>
+  <string name="account_setup_check_settings_check_outgoing_msg">"   SMTP ayarları doğrulanıyor…"</string>
+  <string name="account_setup_check_settings_retr_info_msg">"   Hesap bilgileri alınıyor..."</string>
   <string name="account_setup_correct_address_tips">E-Posta adresinizi girin</string>
-  <string name="account_setup_creating_account_msg">Hesabınız oluşturuluyor...</string>
-  <string name="account_setup_deleting_account_msg">Hesabınız kaldırılıyor...</string>
+  <string name="account_setup_creating_account_msg">"   Hesabınız oluşturuluyor..."</string>
+  <string name="account_setup_deleting_account_msg">"   Hesabınız kaldırılıyor..."</string>
   <string name="account_setup_exchange_certificate_title">İstemci Sertifikası</string>
   <string name="account_setup_exchange_device_id_label">Mobil Cihaz ID</string>
   <string name="account_setup_exchange_no_certificate">Yok</string>
@@ -105,9 +108,9 @@
   <string name="account_setup_incoming_security_label">Güvenlik Türü</string>
   <string name="account_setup_incoming_security_none_label">Yok</string>
   <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-  <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Tüm sertifikaları kabul et)</string>
+  <string name="account_setup_incoming_security_ssl_trust_certificates_label">"     SSL/TLS (Tüm sertifikaları kabul et)"</string>
   <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
-  <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Tüm sertifikaları kabul et)</string>
+  <string name="account_setup_incoming_security_tls_trust_certificates_label">"     STARTTLS (Tüm sertifikaları kabul et)"</string>
   <string name="account_setup_incoming_server_label">Sunucu</string>
   <string name="account_setup_incoming_username_label">Kullanıcı Adı</string>
   <string name="account_setup_incoming_username_label_default_hint">Etki alanını içerebilir</string>
@@ -133,7 +136,7 @@
   <string name="account_setup_outgoing_port_label">Port</string>
   <string name="account_setup_outgoing_require_login_label">Oturum gerekiyor</string>
   <string name="account_setup_outgoing_smtp_server_label">SMTP Sunucusu</string>
-  <string name="account_setup_security_policies_required_fmt">%s sunucusu,  Android cihazınızın bazı güvenlik özelliklerini uzaktan kontrol edebilmek için sizden izin istiyor. Bu hesabı ayarlamayı tamamlamak istiyor musunuz?</string>
+  <string name="account_setup_security_policies_required_fmt">"   %s sunucusu,  Android cihazınızın bazı güvenlik özelliklerini uzaktan kontrol edebilmek için sizden izin istiyor. Bu hesabı ayarlamayı tamamlamak istiyor musunuz?"</string>
   <string name="account_setup_security_required_title">Uzaktan Güvenlik Yönetimi</string>
   <string name="account_setup_server_acc_manager_title">Hesaplar</string>
   <string name="account_setup_username_password_toast">Geçerli bir E-Posta adresi ve şifre yazın.</string>
@@ -143,6 +146,7 @@
   <string name="activity_folder_selection">Dizini Seç</string>
   <string name="activity_mailbox_selection">Hesabı Seç</string>
   <string name="add_account">Hesap Ekle</string>
+  <string name="add_account_keywords">Posta Hesabı Ekle;Mail Hesabı Ekle;Yeni Hesap Ekle</string>
   <string name="add_attachment">Ek Ekle</string>
   <string name="add_calendar">Hatırlat</string>
   <string name="add_label">Dizin Ekle</string>
@@ -194,6 +198,8 @@
   <string name="auto_advance_label">Sildikten sonra devam et</string>
   <string name="auto_advance_summary">Posta silindikten sonra ilerlemek için bir posta seçin</string>
   <string name="auto_sync_off">Otomatik eşitleme kapalı.</string>
+  <string name="battery_saver">Pil Tasarrufu</string>
+  <string name="battery_saver_keywords">pil tasarrufu;batarya;pil koruyucu;posta tasarrufu</string>
   <string name="bcc">Bana</string>
   <string name="bcc_heading">"Bana: "</string>
   <string name="blank_feedback_toast">Geribildirim yazman gerekir</string>
@@ -217,10 +223,10 @@
   <string name="change_sync_settings">Eşitleme Ayarlarını Değiştir</string>
   <string name="changepw_dialog_tips">\"%s\" şifresini tekrar girin</string>
   <string name="chat_item_msg_people_unit">kişi</string>
-  <string name="chat_item_msg_user_etc"/>
+  <string name="chat_item_msg_user_etc">vb.</string>
   <string name="chat_view_description">E-Posta mesajlarını konuşma kabarcıkları gibi görüntüle</string>
   <string name="chat_view_title">Sohbeti Görüntüle</string>
-  <string name="check_setup_data">Sunucu ayarları doğrulanıyor...</string>
+  <string name="check_setup_data">"   Sunucu ayarları doğrulanıyor..."</string>
   <string name="choosertitle_sharevia">Kullanarak Paylaş</string>
   <string name="clear">Temizle</string>
   <string name="clear_display_images_whitelist_dialog_message">Önceden izinli göndericiden gelen satıriçi resimlerin görüntülenmesini durdur.</string>
@@ -236,6 +242,10 @@
   <string name="compose_send">Gönder</string>
   <string name="compose_sent">Posta gönderildi</string>
   <string name="confirm">Tamam</string>
+  <string name="confirm_before_delete">Silmeden önce onayla</string>
+  <string name="confirm_before_delete_keywords">onayla;silmeden önce onayla;silmeyi onayla</string>
+  <string name="confirm_before_send">Göndermeden önce onayla</string>
+  <string name="confirm_before_send_keywords">onayla;gönderirken onayla;göndermeden önce onayla;gönderirken onayla</string>
   <string name="confirm_delete_conversation_title">Sil</string>
   <string name="confirm_discard_text">Bu mesajı silinsin mi?</string>
   <string name="confirm_response">Gönderiliyor...</string>
@@ -245,7 +255,7 @@
   <string name="confirm_send_message_with_no_body">"Mesajda herhangi bir metin yok."</string>
   <string name="confirm_send_message_with_no_subject">"Bu mesajda bir konu yok."</string>
   <string name="confirm_send_title">Mesaj gönderilsin mi?</string>
-  <string name="contact_edit_set_black_list">Filtreleniyor…</string>
+  <string name="contact_edit_set_black_list_filtering">Filtreleniyor…</string>
   <string name="contact_edit_set_black_list_from">Bu göndericinin tüm postalarını Çöp Kutusuna taşınsın</string>
   <string name="contact_edit_set_black_list_receive">Bu alıcının tüm postalarını Çöp Kutusuna taşınsın (sadece yeni postalar)</string>
   <string name="contact_edit_set_black_list_receive_summary">Kime veya bilgi alanında bu alıcıyı içeren postayı sil</string>
@@ -259,8 +269,9 @@
   <string name="contact_list_add_btn">Ekle</string>
   <string name="contact_list_search_hint">Kişileri ara</string>
   <string name="contact_list_title">Kişiler</string>
+  <string name="contact_permission_error">"Telefonun kişilerine erişim engellendi"</string>
   <string name="contact_select">Kişileri Seç</string>
-  <string name="content_description">"%1$s hakkında %2$s, %4$s'da %3$s , %5$s"</string>
+  <string name="content_description">"%1$s hakkında %2$s, %4$s'da %3$s, %5$s"</string>
   <string name="content_description_today">"%1$s hakkında %2$s,  %4$s 'da %3$s, %5$s"</string>
   <string name="contextmenu_add">Kişilere ekle</string>
   <string name="contextmenu_add_contact">Kişi ekle</string>
@@ -278,10 +289,13 @@
   <string name="contextmenu_send_mail">E-Posta gönder</string>
   <string name="contextmenu_sharelink">Bağlantıyı paylaş</string>
   <string name="contextmenu_sms_dot">SMS…</string>
+  <string name="conversation_content_provider">Görüşme İçerik Sağlayıcısı</string>
   <string name="conversation_folder_moved">%1$s\a taşındı</string>
   <string name="conversation_item_mark_read">Okundu</string>
   <string name="conversation_item_mark_unread">Okunmadı</string>
   <string name="conversation_photo_welcome_text">Bu postayı seçmek için gönderenin resmine dokunun.</string>
+  <string name="conversation_view">Görüşmeyi Görüntüle</string>
+  <string name="conversation_view_keywords">görüntüle;içeriği görüntüle;postaya bak;posta görüşmesi</string>
   <string name="copied">Kopyalandı</string>
   <string name="copy_email">E-Posta adresini kopyala</string>
   <string name="copy_number">Telefon numarasını kopyala</string>
@@ -298,6 +312,8 @@
   <string name="default_signature">Mi telefonumla gönderildi</string>
   <string name="del_account_questionnair_hint">"Bu hesabı neden kaldırdığınızdan bahseder misiniz?"</string>
   <string name="delete">Sil</string>
+  <string name="delete_message_flow">Takip Eden Mesaji Sil</string>
+  <string name="delete_message_flow_keywords">postayı direkt sil;postaları sil;mesaji sil;hemen sil</string>
   <string name="deleted">Silindi</string>
   <string name="device_activity_btn_str">Etkinleştir</string>
   <string name="device_activity_lint_str">Postayı tam güncelleme servisini ve güvenlik ayarlarını etkinleştirmeyi aç</string>
@@ -348,6 +364,7 @@
   <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Posta</string>
   <string name="email_sina">Sina Posta</string>
+  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Hesap bulunamadı"</string>
   <string name="empty_email_tip">"Boş E-Posta gönderilemez"</string>
   <string name="empty_spam">İstenmeyenleri temizle</string>
@@ -356,13 +373,20 @@
   <string name="empty_trash_dialog_title">Çöp Kutusu temizlensin mi?</string>
   <string name="enable_sync_in_account_settings">%1$s içinde aç.</string>
   <string name="enumeration_delimiter">" | "</string>
-  <string name="exception_cancel">Bu olay için iptal edildi: %s</string>
-  <string name="exception_updated">Bu etkinliği değiştirenin detayları: %s</string>
+  <string name="exception_cancel">"
+        Bu olay için iptal edildi:
+%s "</string>
+  <string name="exception_updated">"
+        Bu etkinliği değiştirenin detayları:
+%s "</string>
   <string name="exchange_name">Kurumsal</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Alıcı ayrıntılarını genişlet</string>
   <string name="fail_get_email_message">Posta alımı başarısız</string>
   <string name="failed">"Resim yüklenemedi"</string>
+  <string name="failed_read_phone_state_permission">"Telefon durumuna erişim izni yok"</string>
+  <string name="failed_read_write_calendar_permission">"Takvim erişim izni yok"</string>
+  <string name="failed_read_write_contacts_permission">"Kişilere erişim hakkı yok"</string>
   <string name="feedback">Geribildirim gönder</string>
   <string name="feedback_body">Geribildirim bilgisi</string>
   <string name="feedback_sent">Görüşleriniz için teşekkür ederiz.</string>
@@ -418,6 +442,7 @@
   <string name="forward_attribution_no_headers">---------- Yönlendirilmiş Posta ----------</string>
   <string name="forward_download_failed_ticker">"Bir veya daha fazla ek yönlendirilemedi."</string>
   <string name="forward_download_failed_title">Ekler yönlendirilemedi</string>
+  <string name="forward_subject_label">İlet:</string>
   <string name="from_heading">"Kimden: "</string>
   <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
   <string name="general_preference_confirm_send_label">Göndermeden önce onayla</string>
@@ -514,8 +539,8 @@
   <string name="me_object_pronun">ben</string>
   <string name="me_subject_pronun">ben</string>
   <string name="meeting_accepted">Kabul Edildi: %s</string>
-  <string name="meeting_allday">Ne Zaman: %s (her gün)</string>
-  <string name="meeting_allday_recurring">Ne Zaman: %s (her gün, devirli)</string>
+  <string name="meeting_allday">Ne Zaman: %s (hergün)</string>
+  <string name="meeting_allday_recurring">Ne Zaman: %s (hergün, devirli)</string>
   <string name="meeting_canceled">İptal Edildi: %s</string>
   <string name="meeting_declined">Kabul Edilmedi: %s</string>
   <string name="meeting_recurring">Ne Zaman: %s (devirli)</string>
@@ -629,6 +654,7 @@
   <string name="password_expired_dialog_content_fmt">%s için veri cihazınızdan silinecek. Kilit ekranı PIN veya şifrenizi değiştirerek geri yükleyebilirsiniz. Şimdi değiştirilsin mi?</string>
   <string name="password_expired_dialog_title">Kilit ekranı şifre süresi doldu</string>
   <string name="password_expired_ticker">Ekran kilidi PIN veya şifre süresi doldu.</string>
+  <string name="path_about_account_setting">Yolun Hesap Ayarları</string>
   <string name="perference_change_pw_notnull_tips">Şifreni gir</string>
   <string name="perference_change_pw_ok_tips">Şifre değiştirildi</string>
   <string name="perference_setup_pop_del">Sunucudan postayı kaldır</string>
@@ -758,15 +784,21 @@
   <string name="reply_add_bodycontent">Hızlı cevap metni posta içeriğine eklensin mi?</string>
   <string name="reply_all">Tümünü Cevapla</string>
   <string name="reply_attribution" formatted="false">%s, %s yaz:</string>
+  <string name="reply_subject_label">Cvp:</string>
   <string name="report_phishing">Kimlik Avı Raporu</string>
+  <string name="report_rendering_improvement">Güzel gözüküyor</string>
+  <string name="report_rendering_improvement_desc">Bu mesaj gayet güzel.</string>
+  <string name="report_rendering_problem">Kötü gözüküyor</string>
+  <string name="report_rendering_problem_desc">Bu mesaj kötü gözüküyor</string>
   <string name="report_spam">Spam Raporu</string>
   <string name="request_entity_large">Bu dosya çok büyük</string>
+  <string name="request_permission_activity">Yetki İsteği</string>
   <string name="respond_inline">Satıriçi Cevap</string>
   <string name="save_action">Kaydet</string>
   <string name="save_attachment">Kaydet</string>
   <string name="save_draft_failed">Taslak kaydedilemedi!</string>
   <string name="save_power_summary">Güç tasarruf zamanını ayarla</string>
-  <string name="save_power_title">Pil tasarrufu</string>
+  <string name="save_power_title">Pil Tasarrufu</string>
   <string name="saved">%s kaydedildi.</string>
   <string name="saving">Saklanıyor...</string>
   <string name="sdcard_cannot_use">"SD kart kullanılamıyor"</string>
@@ -789,6 +821,8 @@
   <string name="selected_lable">Seçildi</string>
   <string name="send">Gönder</string>
   <string name="send_failed">"Mesaj gönderilemedi!"</string>
+  <string name="send_feed_back">Geribildirim gönder</string>
+  <string name="send_feed_back_keywords">şikayetler;görüşler;geribildirim;geribildirim gönder</string>
   <string name="sender_whitelist_cleared">"Resimler otomatik olarak gösterilmeyecektir."</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
@@ -882,6 +916,8 @@
   <string name="upload_log_success">Başarıyla gönderildi, yakında geri dönüş yapılacak </string>
   <string name="upload_log_title">WPS Postayı geliştirmemize yardımcı olmak için günlükleri gönderin</string>
   <string name="upload_log_yes">Gönder</string>
+  <string name="upload_logs">Günlükleri Gönder</string>
+  <string name="upload_logs_keywords">Günlükler;günlükleri geri yükle</string>
   <string name="uploading_logs">Biraz bekleyin...</string>
   <string name="validation_failed_prompt">Doğrulama hatası, %s için sunucu ayarlarını kontrol edin!</string>
   <string name="veiled_address"/>
@@ -896,6 +932,9 @@ Posta eşitlenmeden önce "&lt;b&gt;Şimdi Eşitleye&lt;/b&gt; dokunun veya bu h
   <string name="widget_all_mail">Tüm Posta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Diğer</string>
+  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
+  <string name="wipe_account_fail_description">Buraya tıklayıp yetkileri alın</string>
+  <string name="wipe_account_fail_title">Kişisel bilgi silimi başarısız oldu</string>
   <string name="wrong_password">Girdiğiniz şifre doğru değildir</string>
   <string name="yes">Evet</string>
   <string name="yidianzixun">Yi Dian Zixun</string>
