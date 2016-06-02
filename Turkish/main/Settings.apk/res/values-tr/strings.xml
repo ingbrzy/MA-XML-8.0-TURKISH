@@ -26,6 +26,8 @@ Kişiselleştirilmiş reklamları kullanmamayı seçerseniz, reklam miktarını 
   <string name="access_control_reset_by_account">Şifrenizi sıfırlamak için Mi Hesabınızda oturum açın</string>
   <string name="access_point_names">Erişim noktası adları</string>
   <string name="accessibility_captioning_title">Altyazılar</string>
+  <string name="accessibility_category_personal">Kişisel Profil Hesapları</string>
+  <string name="accessibility_category_work">İş Profil Hesapları - %s</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Bu özellik deneyseldir ve performansı etkileyebilir.</string>
   <string name="accessibility_display_daltonizer_preference_title">Rengi Düzelt</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Deneysel)Performansı etkileyebilir.</string>
@@ -45,6 +47,7 @@ Cihazda birden fazla kullanıcı varsa, geçici olarak kilit ekranına erişileb
   <string name="accessibility_global_gesture_preference_summary_off">Kapalı</string>
   <string name="accessibility_global_gesture_preference_summary_on">Açık</string>
   <string name="accessibility_global_gesture_preference_title">Erişilebilirlik Kısayolu</string>
+  <string name="accessibility_lock_screen_progress">%2$d %1$d karakter kullanıldı</string>
   <string name="accessibility_long_press_timeout_preference_title">Dokunma &amp;  Uzun Basma Süresi</string>
   <string name="accessibility_menu_item_settings">Ayarlar</string>
   <string name="accessibility_no_services_installed">Hiçbir hizmeti yüklü değil</string>
@@ -77,6 +80,12 @@ Not: Büyütme için üç kez vurma klavye ve gezinme çubuğunda dışında her
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Ekran büyültmeyi otomatik güncelle</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Ekran Büyültmesi</string>
   <string name="accessibility_toggle_speak_password_preference_title">Şifreleri Seslendir</string>
+  <string name="accessibility_wifi_off">Wi-Fi Kapalı</string>
+  <string name="accessibility_wifi_one_bar">Wi-Fi bir çubuk.</string>
+  <string name="accessibility_wifi_signal_full">Wi-Fi sinyalı tam</string>
+  <string name="accessibility_wifi_three_bars">Wi-Fi üç çubuk.</string>
+  <string name="accessibility_wifi_two_bars">Wi-Fi iki çubuk.</string>
+  <string name="accessibility_work_account_title">İş Hesabı - %s</string>
   <string name="account_add">Ekle</string>
   <string name="account_autostar_label">Otomatik Başlat</string>
   <string name="account_list">Diğer Hesaplar</string>
@@ -116,6 +125,8 @@ Parmağınızın sensörün iç kenarını kapsadığından emin olun"</string>
   <string name="adding_profile_owner_warning">"Devam ettiğinizde, kullanıcınız sizin yöneticiniz tarafından idare edilecek. Kişisel verilere ek olarak, ilişkili verileri depolamak mümkün olabilir.
 
 Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarları izleme ve yönetme yetkisine sahiptir."</string>
+  <string name="additional_permissions">Ek İzinler</string>
+  <string name="additional_permissions_more">%1$d fazlası</string>
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Ek Sistem Güncellemeleri</string>
@@ -179,6 +190,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="apn_new">Yeni Erişim Noktası</string>
   <string name="apn_not_set">Ayar yok</string>
   <string name="apn_password">Şifre</string>
+  <string name="apn_ppp_number">APN PPP Telefon Numarası</string>
   <string name="apn_protocol">APN protokolü</string>
   <string name="apn_roaming_protocol">APN dolaşım protokoü</string>
   <string name="apn_save">Değişiklikler kaydedilsin mi?</string>
@@ -189,6 +201,8 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="apn_type">APN türü</string>
   <string name="apn_user">Kullanıcı Adı</string>
   <string name="app_backup">Yedekle</string>
+  <string name="app_data_usage">Uygulama Veri Kullanımı</string>
+  <string name="app_disable_dlg_positive">Uygulama Devre dışı</string>
   <string name="app_disable_dlg_text">Eğer yerleşik bir uygulamayı devre dışı bırakırsanız, diğer uygulamaların işleyişinde sorun olabilir.</string>
   <string name="app_disable_dlg_title">Yerleşik uygulama devre dışı bırakılsın mı?</string>
   <string name="app_disable_notifications_dlg_text">Bu uygulama için bildirimleri kapatırsanız, önemli uyarıları ve güncellemeleri kaçırabilirsiniz.</string>
@@ -201,6 +215,16 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="app_forward_locked">Uygulama, kopyalamaya karşı korumalı</string>
   <string name="app_install_location_summary">Yeni uygulamalar için tercih edilen yükleme yerini değiştir</string>
   <string name="app_install_location_title">Tercih edilen yükleme yeri</string>
+  <string name="app_launch_domain_links_title">Uygulama bağlantıları</string>
+  <string name="app_launch_open_domain_urls_summary">Sormadan aç</string>
+  <string name="app_launch_open_domain_urls_title">Destekleyen bağlantıları aç</string>
+  <string name="app_launch_other_defaults_title">Diğer varsayılanlar</string>
+  <string name="app_launch_supported_domain_urls_title">Desteklenen bağlantılar</string>
+  <string name="app_link_open_always">Bu uygulamayla aç</string>
+  <string name="app_link_open_ask">Her sefer sor</string>
+  <string name="app_link_open_never">Bu uygulamayla açma!</string>
+  <string name="app_list_memory_use">Uygulama kullanımı</string>
+  <string name="app_list_preference_none">Yok</string>
   <string name="app_memory_use">Hafıza Kullanımı</string>
   <string name="app_name_label">Uygulama</string>
   <string name="app_not_found_dlg_text">"Uygulama, yüklü uygulamalar listesinde bulunamadı."</string>
@@ -225,9 +249,11 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="app_process_limit_title">Arkaplan işlem sınırı</string>
   <string name="app_restrictions_custom_label">Uygulama kısıtlamalarını ayarla</string>
   <string name="app_sees_restricted_accounts">Bu uygulama hesaplarınıza erişebilir</string>
+  <string name="app_sees_restricted_accounts_and_controlled_by">Bu uygulama hesabınıza erişebilir. %1$s tarafından kontrol edildi</string>
   <string name="app_special_disable_dlg_text">Eğer yerleşik bir uygulamayı devre dışı bırakırsanız , diğer uygulamalara zararı olabilir. Sizin verileriniz de silinecek.</string>
   <string name="app_special_disable_dlg_title">Verileri silinsin ve uygulama devre dışı bırakılsın mı?</string>
   <string name="app_switch_key">Son Kullanılanlar</string>
+  <string name="app_usage_preference">Uygulama Kullanım Seçenekleri</string>
   <string name="application_forbid_auto_startup">Arkaplanda çalışması için %s durdur</string>
   <string name="application_info_label">Uygulama Bilgisi</string>
   <string name="application_item_already_permission">İzinli</string>
@@ -242,6 +268,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="apply_now_button_text">Güncelle</string>
   <string name="apply_password_to_category_title">Kilitinin açılması gerekiyor</string>
   <string name="apply_update_fail">"Güncellenemedi"</string>
+  <string name="apps_storage">Uygulama Depolaması</string>
   <string name="apps_with_restrictions_header">Kısıtlamalarla Uygulamaları</string>
   <string name="apps_with_restrictions_settings_button">Uygulama için ayarları genişlet</string>
   <string name="ask_compatibility">Başlattığında sor</string>
