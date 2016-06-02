@@ -328,7 +328,7 @@ Kartvizitler kapalı"</string>
   <string name="device_import_title">İçe aktar</string>
   <string name="device_list_title">Telefon Seç</string>
   <string name="device_other_guide">Telefonunuz listede yok, aşağıdaki adımları deneyin</string>
-  <string name="device_other_title">Diğer telefon</string>
+  <string name="device_other_title">Diğer Telefon</string>
   <string name="device_paired_dialog_message">Kişiler alınıyor...</string>
   <string name="device_paired_dialog_title">Kişiler alınıyor...</string>
   <string name="device_pairing_dialog_message">Eşleştiriliyor...</string>
@@ -395,6 +395,7 @@ Kartvizitler kapalı"</string>
   <string name="export_to_sim1">SIM Kart 1\'e Aktar</string>
   <string name="export_to_sim2">SIM Kart 2\'ye Aktar</string>
   <string name="export_to_sim_title">Aktarılıyor…</string>
+  <string name="export_to_storage">Depolamaya Aktar</string>
   <string name="export_vcard_description">vCard dosyasından SD Karta aktar</string>
   <string name="exporting_contact_failed_message">"Kişi bilgisi dışa aktarılamadı.
 Sebep: \"%s\""</string>
@@ -456,6 +457,12 @@ Sebep: \"%s\""</string>
   <string name="hint_distance"/>
   <string name="hint_findContacts">Kişileri Bul</string>
   <string name="hint_more_contact">Yinelenen kişileri birleştir</string>
+  <string name="hybrid_check_network">Ağ Ayarları</string>
+  <string name="hybrid_data_error">Bir hata oluştu</string>
+  <string name="hybrid_locating_fail">"Konumunuz tespit edilemedi"</string>
+  <string name="hybrid_network_unavaliable">"Ağa bağlanamadı"</string>
+  <string name="hybrid_service_unavailiable">Servis geçersiz</string>
+  <string name="hybrid_try_again">Yeniden deneyin</string>
   <string name="ic_menu_back">Geri</string>
   <string name="ic_menu_done">Tamam</string>
   <string name="imLabelsGroup">Anlık Mesaj</string>
@@ -886,6 +893,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="preference_import">İçe Aktar</string>
   <string name="preference_import_export">İçe/Dışa Aktar</string>
   <string name="preference_import_export_title">Kişileri İçe/Dışa Aktar</string>
+  <string name="preference_key_trash_bin_title">Daha önceden silinen kişilerin yedeklerine gözat</string>
   <string name="preference_others">Diğer</string>
   <string name="preference_phone">Telefon</string>
   <string name="preference_phone_more_title">Çağrı Ayarları</string>
@@ -1065,6 +1073,10 @@ Favorilerinize bir kişi eklemek için:
   <string name="status_available">Uygun</string>
   <string name="status_away">Dışarıda</string>
   <string name="status_busy">Meşgul</string>
+  <string name="storage_internal_description">Dahili Depolama</string>
+  <string name="storage_sd_card">SD Kart</string>
+  <string name="storage_sd_card_description">SD Kart</string>
+  <string name="storage_usb_description">USB Depolama</string>
   <string name="strequentList">Favoriler</string>
   <string name="success_message_import_from_account">Aktarım bitti</string>
   <string name="summary_kind_title">Sonuç</string>
