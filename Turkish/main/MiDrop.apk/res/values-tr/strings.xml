@@ -67,6 +67,7 @@
   <string name="receiver_transfer_interrupt">"Aktarım kesildi, transfer sırasında WLAN Hotspot\'u kapatmayın"</string>
   <string name="receiver_video_file_current">%1$s\'dan %2$d video alınıyor</string>
   <string name="receiver_video_file_num">%1$s\'dan %2$d video</string>
+  <string name="runtime_permission_ungranted">Mi Drop kullanılamıyor çünkü izinler garanti edilemiyor</string>
   <string name="send_file_time_format_m">dk:s</string>
   <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"Gönderme!"</string>
