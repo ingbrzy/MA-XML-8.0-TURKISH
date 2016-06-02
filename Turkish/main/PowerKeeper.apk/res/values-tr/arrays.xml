@@ -45,26 +45,26 @@
         <item>Ekran kapalı olduğunda</item>
     </string-array>
     <string-array name="app_groups">
-        <item>seçildi</item>
-        <item>seçilmedi</item>
-        <item>diğeri seçildi</item>
+        <item>Bu modda</item>
+        <item>Seçilmedi</item>
+        <item>Diğer modlar seçildi</item>
     </string-array>
     <string-array name="hmode_app_groups">
-        <item>özelleştirildi</item>
-        <item>tavsiye edildi</item>
+        <item>Özel</item>
+        <item>Pil Tasarrufu</item>
     </string-array>
     <string-array name="power_checker_group_prefix">
-        <item>kullanılıyor</item>
-        <item></item>
-        <item></item>
+        <item>Şimdi</item>
+        <item>Arkaplan</item>
+        <item>En Son</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>Uyandırma Kilidi</item>
-        <item>WIFI tara</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Uyan</item>
+        <item>Derin Uyku Modu Kilitlemesi</item>
+        <item>Uyku Modu Kilitlemesi</item>
+        <item>WLAN tara</item>
+        <item>GPS Kullanımı</item>
+        <item>CPU Yoğunluğu</item>
+        <item>Sıklıkla Uyanma</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
         <item>Kernel WakeLock</item>
@@ -82,6 +82,9 @@
     <string-array name="invisible_app_groups">
         <item>seçildi</item>
         <item>seçilmedi</item>
+        </string-array>
+    <array name="read_enable" />
+    <string-array name="read_disable">
+        <item>seçilmedi</item>
     </string-array>
-
 </resources>
