@@ -192,7 +192,7 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_detail_wlan_mms">%d MMS eşitleme için bekliyor</string>
   <string name="micloud_dspt">Mi Bulut kullanarak verilerinizi eşitleyin, cihazın konumunu bulun, </string>
   <string name="micloud_dspt_provision">Mi Bulut kullanarak verilerinizi eşitleyin, cihazınızın konumunu bulun ve arkadaşlarınızla paylaşın.</string>
-  <string name="micloud_find_device_finish">Tamamla</string>
+  <string name="micloud_find_device_finish">Tamam</string>
   <string name="micloud_find_device_guide_button">Telefonu Bul özelliğini aç</string>
   <string name="micloud_find_device_guide_content">"SIM kartınızı değiştirdiğinizde; bu özelliğin kullanılabilmesi için otomatik olarak bir mesaj gönderilir."</string>
   <string name="micloud_find_device_guide_fail_reopen">Mi Bulut\'ta Telefonu Bul özelliğini aç</string>
@@ -297,6 +297,9 @@ Daha fazla özelliğe erişmek için Eşitleme Ayarları düğmesine dokunun."</
   <string name="micloud_notif_title_sync_with_off">Mi Bulut ile eşitle</string>
   <string name="micloud_other_product_price">Fiyatları karşılaştır</string>
   <string name="micloud_proceed">Devam</string>
+  <string name="micloud_request_permission_confirm">Anladım</string>
+  <string name="micloud_request_permission_content">Mi Bulut veriyi eşitlemek için izne ihtiyaç duyar. Mi Bulut Takvim, Kişiler, Mi Hesabı, SIM Kart durumu, çağrı geçmişi ve mesajlara erişebilir.</string>
+  <string name="micloud_request_permission_title">"Mi Bulut'un yetkiye ihtiyacı var"</string>
   <string name="micloud_sec_dspt">ve arkadaşlarınızla paylaşın.</string>
   <string name="micloud_setting_antispam_summary">İstisnalar ve engellenen telefon numaraları</string>
   <string name="micloud_setting_browser_summary">Favoriler, geçmiş ve sekmeler</string>
