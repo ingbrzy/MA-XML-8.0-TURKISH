@@ -74,12 +74,12 @@
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_days_later">%3$s doğum gününe 3 gün kaldı</string>
   <string name="birthday_notification_text_today">"Onlara esenlikler dilemeyi, unutmayın "</string>
-  <string name="birthday_notification_title_three_days_later">%1$s adlı kişinin doğum günü yaklaşıyor</string>
+  <string name="birthday_notification_title_days_later">"%1$s'nın %2$s yaklaşıyor."</string>
   <string name="birthday_notification_title_today">"%1$s'nın %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">doğum günü</string>
   <string name="book_card_free">Ücretsiz</string>
-  <string name="book_card_rating_text">|   %1$s yorumlar</string>
+  <string name="book_card_rating_text">|   %1$s yorum</string>
   <string name="button_day">G</string>
   <string name="button_month">A</string>
   <string name="button_online">Satın Al</string>
