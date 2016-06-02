@@ -56,6 +56,30 @@
         <item quantity="other">%1$d öğe | %2$s</item>
         <item quantity="one">%1$d öğe | %2$s</item>
     </plurals>
+    <plurals name="backuped">
+        <item quantity="other">%1$d öğe yedeklendi</item>
+        <item quantity="one">%1$d öğe yedeklendi</item>
+    </plurals>
+    <plurals name="backup_waiting">
+        <item quantity="other">%1$d öğe yedeklenmeyi bekliyor</item>
+        <item quantity="one">%1$d öğe yedeklenmeyi bekliyor</item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+        <item quantity="other">Ağ Hatası. %1$d öğe yedeklenmeyi bekliyor</item>
+        <item quantity="one">Ağ Hatası. %1$d öğe yedeklenmeyi bekliyor</item>
+    </plurals>
+    <plurals name="sync_off">
+        <item quantity="other">Eşitlenme kapalı. %1$d öğe yedeklenmeyi bekliyor</item>
+        <item quantity="one">Eşitlenme kapalı. %1$d öğe yedeklenmeyi bekliyor</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+        <item quantity="other">Mi Bulut doldu. %1$d öğe yedeklenmeyi bekliyor</item>
+        <item quantity="one">Mi Bulut doldu. %1$d öğe yedeklenmeyi bekliyor</item>
+    </plurals>
+    <plurals name="local_space_full">
+        <item quantity="other">Yerel depolamada yer yok. %1$d öğe yedeklenmeyi bekliyor</item>
+        <item quantity="one">Yerel depolamada yer yok. %1$d öğe yedeklenmeyi bekliyor</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d fotoğraf yedeklenmeyi bekliyor</item>
         <item quantity="one">1 fotoğraf yedeklenmeyi bekliyor</item>
@@ -78,6 +102,14 @@
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">%1$d öğe yedekleniyor…</item>
-        <item quantity="one">Öğe yedekleniyor…</item>
+        <item quantity="one">1 öğe yedekleniyor...</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">"%1$d dosya indirilemedi"</item>
+        <item quantity="one">"%1$d dosya indirilemedi"</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
     </plurals>
 </resources>
