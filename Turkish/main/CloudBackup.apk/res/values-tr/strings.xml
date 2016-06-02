@@ -10,8 +10,10 @@
   <string name="backing_up_to_micloud">Yedekleniyor…</string>
   <string name="backup_fail">"Yedeklenemedi​"</string>
   <string name="backup_finished_notification_content">Ana Ekran Uygulamaları, Sistem Ayarları, vb yedekleyin.</string>
+  <string name="backup_now">Şimdi Yedekle</string>
   <string name="backup_size">Boyut: %s</string>
   <string name="backup_success">Başarıyla yedeklendi</string>
+  <string name="backup_successfully">Başarıyla yedeklendi</string>
   <string name="backup_to_cloud">Uygulamayı Yedekle</string>
   <string name="button_cancel">İptal</string>
   <string name="button_delete">Sil</string>
@@ -105,6 +107,7 @@ Not: Yüklediğiniz uygulamalar için verileri Mi Bulut'ta yedeklenmiyecek"</str
   <string name="restore_from_cloud">Mi Bulut yedeğinden geri yükle</string>
   <string name="restore_from_this_device">Bu yedeği kullanarak geri yükle</string>
   <string name="restore_home_screen_apps">Mi Bulut yedeğinden geri yükle</string>
+  <string name="restore_task_unfinished">Uygulamalar geri yükleniyor, sonra tekrar deneyin</string>
   <string name="restoreing_file_tile">%d dosyalar geri yükleniyor</string>
   <string name="retry">Yeniden Dene</string>
   <string name="self_phone">Bu Telefon</string>
