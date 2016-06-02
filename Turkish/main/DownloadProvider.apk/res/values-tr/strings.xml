@@ -60,7 +60,7 @@
   <string name="privacy_tip_ok">Tamam</string>
   <string name="privacy_tip_title">Xunlei Hızlandırıcı kullanılsın mı?</string>
   <string name="recommended_file_size_download_in_mobile">%s dosyasını indirmek için mobil veri kullanılsın mı?</string>
-  <string name="recommended_no_file_size_download_in_mobile" formatted="false">Dosya boyut bilgisi alınamıyor. Dosyayı mobil veri bağlantınızı kullanarak indirmek için %s dokunun. Dosya indirme işlemini bir WLAN ağına bağlanana kadar beklemeye almak için %s dokunun.</string>
+  <string name="recommended_no_file_size_download_in_mobile">Bu dosyayı indirmek için mobil veri kulanılsın mı?</string>
   <string name="root_downloads">İndirilenler</string>
   <string name="task_already_exist">Görev zaten mevcut</string>
   <string name="warning_tip_cancel">İndir</string>
