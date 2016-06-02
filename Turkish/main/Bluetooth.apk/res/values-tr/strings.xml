@@ -32,6 +32,12 @@
   <string name="bluetooth_preference_connected_devices">Eşleşmiş Cihazlar</string>
   <string name="bluetooth_preference_found_devices">Kullanılabilir Cihazlar</string>
   <string name="bluetooth_preference_scan_title">Cihazları Tara</string>
+  <string name="bluetooth_sap_notif_disconnect_button">Bağlantıyı Kes</string>
+  <string name="bluetooth_sap_notif_disconnecting">İstemcinin bağlantısının kesilmesi için bekleniyor</string>
+  <string name="bluetooth_sap_notif_force_disconnect_button">Zorla bağlantıyı kes</string>
+  <string name="bluetooth_sap_notif_message">İstemciye bağlanılsın mı?</string>
+  <string name="bluetooth_sap_notif_ticker">Bluetooth SIM Erişimi</string>
+  <string name="bluetooth_sap_notif_title">Bluetooth SIM Erişimi</string>
   <string name="bluetooth_search_for_devices">Cihazları tara</string>
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bt_enable_cancel">İptal</string>
