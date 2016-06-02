@@ -115,7 +115,7 @@
   <string name="files_backup_info">SD karttaki tüm dosyalar (fotoğraflar, müzikler, videolar, uygulama verileri vb.)</string>
   <string name="findlost_contact">Kişileri Geri Yükle</string>
   <string name="findlost_contact_online">Mi Bulut kişilerini geri yükle</string>
-  <string name="guarded_mode_dialog_message">"Yedeklemeye Misafir Modunda izin verilmez."</string>
+  <string name="guarded_mode_dialog_backup_message">"Yedeklemeye Misafir Modunda izin verilmez."</string>
   <string name="guarded_mode_dialog_title">"Misafir Modundasınız"</string>
   <string name="guarded_mode_dialog_transfer_message">"Misafir Modunda Mi Tranfer kullanılamaz."</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009 Mi Talk uygulamasını indirin ve oturum açın.
@@ -269,7 +269,7 @@
   <string name="trans_my_device">Cihazım</string>
   <string name="trans_native_no_space">"Bu cihazda yeterli depolama alanı yok
 Lütfen en az %s kadar boş alan temizleyin"</string>
-  <string name="trans_one_key_migrate">Transfer</string>
+  <string name="trans_one_key_migrate">Mi Transfer</string>
   <string name="trans_operate_func_one">Usul A</string>
   <string name="trans_operate_func_two">Usul B</string>
   <string name="trans_operate_new_phone_tips">"Yeni cihazı kullanarak QR kodunu tarayın. Ayarlar &gt; Ek Ayarlar &gt; Transfer\'e gidin.
@@ -292,7 +292,7 @@ Lütfen en az %s kadar boş alan temizleyin"</string>
   <string name="trans_progress_subdescript_waiting">%s alınması için bekliyor</string>
   <string name="trans_receiver">"Alıcıyım"</string>
   <string name="trans_receiver_time_remained">"%s kaldı.
-HOTSPOT\'u kapatmayın.
+WLAN HOTSPOT\'u kapatmayın.
 İki aygıtı birbirine yakın tutun"</string>
   <string name="trans_receiving_completed">Veri alındı</string>
   <string name="trans_restoring">Geri yükleniyor...</string>
@@ -335,12 +335,12 @@ eski aygıtın açık olduğundan emin olun"</string>
   <string name="user_notice_message">Bazı özelliklerin normal çalışması için internet bağlantısına erişmesi gerekiyor</string>
   <string name="user_notice_title">Dikkat</string>
   <string name="wifi_title">WLAN Ayarları</string>
-  <string name="xiaomi_account_type">com.xiaomi </string>
-  <string name="xiaomi_bytes_unit">%1$s B</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">İndirme Yöneticisine bağlanamadı, lütfen Uygulama Yönetiminden İndirme Yöneticisinin durumunu kontrol edin.</string>
   <string name="xiaomi_external_storage_unavailable">Depolama mevcut değil, lütfen SD kartı kontrol edin.</string>
-  <string name="xiaomi_kilobytes_unit">%1$s KB</string>
-  <string name="xiaomi_megabytes_unit">%1$s MB</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Yönlendirici</string>
   <string name="xiaomi_router_location">Mi Yönlendirici: %s</string>
   <string name="xiaomi_update_dialog_message">"Tanıtım Sürümü: %1$s
