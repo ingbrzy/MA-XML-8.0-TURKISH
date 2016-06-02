@@ -36,6 +36,7 @@
   <string name="album_already_exists">Aynı isimde bir albüm zaten var</string>
   <string name="album_already_forced_top">Daima Üstte</string>
   <string name="album_camera_name">Kamera</string>
+  <string name="album_detail_clear_local_page_empty">Silmek için videolar ve fotoğraflar yedeklenmedi</string>
   <string name="album_detail_page_empty">Öğe yok</string>
   <string name="album_faces_name">Kişi</string>
   <string name="album_member">%s albüm üyesi</string>
@@ -109,8 +110,11 @@
   <string name="baby_suffix">Bebek</string>
   <string name="backup_automatically_summary">Mi Bulut tüm cihazların fotoğraf ve videolarını yedekler. Rahatlıkla tüm cihazlardaki fotoğraf ve videoları düzenleyebilir, sıralayabilir ve paylaşabilirsiniz. </string>
   <string name="backup_automatically_title">Otomatik olarak yedekle ve eşitle</string>
+  <string name="backup_detail_page_title">Mi Bulut Yedekleri</string>
   <string name="backup_only_in_wifi">Fotoğraf ve videoları yedeklerken sadece WLAN kullan</string>
   <string name="backup_only_in_wifi_summary">Fotoğraf ve videoları yedeklerken asla mobil veri kullanma</string>
+  <string name="backup_waiting_button_text">Şimdi Yedekle</string>
+  <string name="backuping">%1$d/%2$d yedekleniyor</string>
   <string name="begin_share">Bebek Albümü \"%s\" oluşturması bitti ve şimdi paylaşabilirsiniz</string>
   <string name="begin_share_toast">Paylaşmadan önce çocuk için ayrı bir albüm oluşturulsun mu?</string>
   <string name="black_white">Düz S&amp;B</string>
@@ -470,7 +474,7 @@
   <string name="cityname_6">Ali Area</string>
   <string name="cityname_60">Dandong</string>
   <string name="cityname_61">Danzhou</string>
-  <string name="cityname_62">Dehong Dai Jingpo Autonomous Prefecture</string>
+  <string name="cityname_62">Dehong Dai Jingpo Özerk Bölgesi</string>
   <string name="cityname_63">Deyang</string>
   <string name="cityname_64">Dezhou</string>
   <string name="cityname_65">Diqing Tibet Özerk Bölgesi</string>
@@ -511,6 +515,7 @@
   <string name="cityname_97">HHaidong Bölgesi</string>
   <string name="cityname_98">Haikou</string>
   <string name="cityname_99">Hainan Tibet Özerk Bölgesi</string>
+  <string name="clear_local_photo_direction">"Eğer fotoğraflar ve videoları cihazdan silseniz bile Mi Bulut'ta muhafaza edilirler."</string>
   <string name="click_download_gif">gif indirmek için tıklayın</string>
   <string name="click_top_right">Bu simgeye dokunun</string>
   <string name="cloud_camera_display_name">Kamera Fotoğrafları</string>
@@ -521,6 +526,7 @@
   <string name="cloud_guide_welcome_title">Mi Bulut</string>
   <string name="cloud_screenshots_display_name">Ekran Görüntüleri</string>
   <string name="cloud_settings">Mi Bulut</string>
+  <string name="cloud_space_full_button_text">Daha fazla Mi Bulut alanı al</string>
   <string name="cloudfolder_cannot_start_with">"Albüm adı '%s' ile başlamıyor"</string>
   <string name="cloudfolder_contain_invalidate_char">"Albüm adı '%s' içeremez"</string>
   <string name="cloudfolder_name_cannot_empty">Bir albüm adı girin</string>
@@ -560,6 +566,10 @@
   <string name="crop_save_text">Kaydet</string>
   <string name="crop_tooltip">Kırpmak için işaretçileri sürükleyin</string>
   <string name="crossprocess">Çapraz-Süreç</string>
+  <string name="custom_select_title_deselect_all">Hiçbiri</string>
+  <string name="custom_select_title_select_all">Hepsi</string>
+  <string name="custom_select_title_select_item">Öğeleri Seç</string>
+  <string name="debugging_tip">Ayıklama Verisi Oluştur</string>
   <string name="delete">Sil</string>
   <string name="delete_album_failed">Albümü silinemedi</string>
   <string name="delete_album_msg_format">\"%2$s\" albüm %1$s%3$s silinsin mi?</string>
@@ -591,7 +601,11 @@
   <string name="doodle">Karalama</string>
   <string name="doodle_polymorphism">photoeditor_effect_doodle</string>
   <string name="doodle_tooltip">Karalamak için dokunun</string>
+  <string name="download_retry_message">"Dosyalar indirilemesi, ağ bağlantısını kontrol edip, yeniden deneyin"</string>
+  <string name="download_retry_text">Yeniden dene</string>
+  <string name="download_retry_title">"Dosyalar indirilemedi"</string>
   <string name="download_tip">İndir</string>
+  <string name="download_title">Dosyalar hazırlanıyor…</string>
   <string name="download_without_wifi_msg">"Fotoğraf indirmek için mobil veri kullanmak veri artışına neden olacak. Eğer planlanan veri kullanımını aşarsanız operatörünüz sizden ek ücret talep edebilir."</string>
   <string name="download_without_wifi_title">Veri Kullanım Uyarısı</string>
   <string name="duotone">Gri Tone</string>
@@ -627,7 +641,8 @@
   <string name="exit_video_play">Çıkış</string>
   <string name="expand_people">Fazla kişiyi genişlet</string>
   <string name="face_album_detecting_tip">Biraz bekleyin...</string>
-  <string name="face_album_empty">Boş.</string>
+  <string name="face_album_empty">"NTanımlı kişiler için yeterli fotoğraf yok.
+Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="face_album_empty_syncing">Veri eşitleniyor.</string>
   <string name="face_album_empty_syncing_when_connect_wifi">Cihaz WLAN ağına bağlı olduğunda yüz verilerini eşitle.</string>
   <string name="face_album_long_tap_tip">Birden fazla kişiyi veya gurp ayarları değiştirmek için &amp; profil fotoğrafına basılı tutun</string>
@@ -736,9 +751,10 @@
   <string name="loading_image_thumbnail">Küçük resim indiriliyor…</string>
   <string name="loading_members">Üyeler yükleniyor</string>
   <string name="loading_suspend">İndirme durdu. WLAN kullanılabilir olduğunda devam edecek.</string>
-  <string name="login_and_enable_service">Mi Bulut\'a giriş yapın ve kullanmaya başlayın</string>
-   <string name="loading_video">Video indiriliyor...</string>
-  <string name="loading_video_thumbnail">Video kapağı indiriliyor...</string>
+  <string name="loading_video">Video indiriliyor...</string>
+   <string name="loading_video_thumbnail">Video kapağı indiriliyor…</string>
+  <string name="local_space_full_button_text">Alanı temizle</string>
+  <string name="login_and_enable_service">Mi Hesabıyla oturum aç</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Odaklanması için &amp; basılı tutun</string>
   <string name="megabyteShort"> MB</string>
@@ -750,14 +766,17 @@
   <string name="merge_album">Birleştir</string>
   <string name="merge_album_title">Albümleri Birleştir</string>
   <string name="messagelist_sender_self">Ben</string>
-  <string name="micloud_introduce">Fotoğraf ve Videoları otomatik yedekle (Xiaomi hesabı gerekli)</string>
+  <string name="micloud_introduce">Fotoğraf ve Videoları otomatik yedekle (Mi Hesabı gerekli)</string>
+  <string name="more_album_hint">, vb.</string>
   <string name="more_face_album_name">Daha Fazla Kişi</string>
   <string name="must_pick_file">Bir fotoğraf seçin</string>
+  <string name="name_split">,</string>
   <string name="need_to_turn_on_network">"İnternet bağlantınız yok."</string>
   <string name="need_to_turn_on_sync">Önce Mi Bulut\'a yedeklemeyi açın</string>
   <string name="need_to_turn_on_wlan">Önce WLAN\'a bağlan</string>
   <string name="negative">Negatif</string>
   <string name="network_connected_rescan">"Ağa bağlanamıyor"</string>
+  <string name="network_unsatisfied_button_text">Ağa bağlan</string>
   <string name="next">Sonraki</string>
   <string name="no">Hayır</string>
   <string name="no_map_app">Hiçbir uygulama bu işlemi gerçekleştiremiyor</string>
@@ -775,10 +794,12 @@
   <string name="operation_add_secret">Gizle</string>
   <string name="operation_delete">Sil</string>
   <string name="operation_detail">Detaylar</string>
-  <string name="operation_disable_auto_upload">Otomatik Yedekleme Devre Dışı</string>
+  <string name="operation_disable_auto_upload">Mi Bulut ile eşitleme kapalı</string>
+  <string name="operation_do_delete_local_thumnail">Cihazdan sil</string>
   <string name="operation_download">Fotoğraf İndir (%s)</string>
   <string name="operation_edit">Düzenle</string>
-  <string name="operation_enable_auto_upload">Otomatik Yedekleme Etkin</string>
+  <string name="operation_enable_auto_upload">Mi Bulut ile eşitleme açık</string>
+  <string name="operation_enter_delte_thumbnail">Cihazdan yedekli fotoğraf ve videoları sil</string>
   <string name="operation_failed">Operasyon başarısız</string>
   <string name="operation_force_top">Yapıştır</string>
   <string name="operation_hide">Gizle</string>
@@ -861,8 +882,7 @@
   <string name="relation_text_maternal_grandmother">Büyükanne</string>
   <string name="relation_text_mother">Anne</string>
   <string name="relation_with_you">Sizinle bir ilişkisini seçin</string>
-  <string name="remind_shows_in_photo_tab_summary">Bu albüm ana sayfada gösterilsin mi?</string>
-  <string name="remind_shows_in_photo_tab_title">Albüm Ayarları</string>
+  <string name="release_space_finish_format">Yerel depolamadaki %s</string>
   <string name="remove_from_secret_fail">Gizli Albümden kaldırırken başarısız oldu</string>
   <string name="remove_from_secret_failed_with_reason">"Gizli albümden kaldırılamaz. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s öğeleri gizli albümden kaldırılamaz. %1$s."</string>
@@ -880,6 +900,7 @@
   <string name="rotate">Döndür</string>
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Döndürmek için fotoğrafı sürükleyin</string>
+  <string name="runtime_permission_ungranted">Galeri kapatıldı, izne ihtiyaç yok</string>
   <string name="same_name_album_exist_and_toast">"Aynı isimde bir albüm zaten var. Onun yerine '%s' oluşturuldu."</string>
   <string name="saturation">Canlılık</string>
   <string name="saturation_abbr">C</string>
@@ -936,6 +957,7 @@
   <string name="slim_tip_title">İyileştirme Tipi</string>
   <string name="slimming">İyileştiriliyor...</string>
   <string name="square">Kare</string>
+  <string name="start_debug">Ayıklama Gelerisi</string>
   <string name="start_to_use_face_albumset">Kişiye Göre Sırala</string>
   <string name="storage_no_space">Yeterli alan yok</string>
   <string name="straighten">Ayarla</string>
@@ -945,7 +967,8 @@
   <string name="sync_album_in_proecess">Albüm eşitleniyor...</string>
   <string name="sync_battery_low">Düşük Pil</string>
   <string name="sync_cloud_space_full">Bulut\'ta yeterli alan yok</string>
-  <string name="sync_diabled_toast">Eşitleme özelliği etkin değil</string>
+  <string name="sync_diabled_toast">Eşitleme kapalı</string>
+  <string name="sync_off_button_text">Eşitleme açık</string>
   <string name="system_album">Sistem Albümü</string>
   <string name="temperature">Ton</string>
   <string name="terabyteShort">TB</string>
@@ -992,5 +1015,5 @@
   <string name="who_is_this">Kim?</string>
   <string name="xiaomi_account_not_exists_toast">"Xiaomi hesabı yok"</string>
   <string name="yes">Evet</string>
-  <string name="you_are"/>
+  <string name="you_are">"Bebeğinizin "</string>
 </resources>
