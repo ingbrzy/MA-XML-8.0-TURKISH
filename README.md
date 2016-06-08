@@ -1,7 +1,7 @@
 
-# ![logo](http://en.miui.com/static/index7/images/miui7/overview_0.png) MIUI V7.XX Turkish Translation
+# ![logo](https://camo.githubusercontent.com/3ab748b1e78c6af721aaf4ecbe6443990add4f42/687474703a2f2f692e696d6775722e636f6d2f386d4876514e772e706e67) MIUI V8.XX Turkish Translation
 
-[![Issue Stats](https://github.com/ingbrzy/MA-XML-7.0-TURKISH/issues)](https://github.com/ingbrzy/MA-XML-7.0-TURKISH/issues) [![Turkish Support]((http://www.miuiturkiye.net))]((http://www.miuiturkiye.net))
+[![Issue Stats](https://github.com/ingbrzy/MA-XML-7.0-TURKISH/issues)](https://github.com/ingbrzy/MA-XML-7.0-TURKISH/issues)
 
 ## Introduction
 
@@ -10,7 +10,7 @@ This repository contains the Turkish Translation of the MIUI Weekly ROM Releases
 Main Translator:
 Orhan ÇAKMAK (raoc999) :: raocakmak@gmail.com
 Found Other Contributors:
-MIUI Turkey, Sedat Babaoğlu, Aykut Yenihan, Cenkay Keser, Hasan Özkan and other TEST TEAM
+Sedat Babaoğlu, Aykut Yenihan, Cenkay Keser and other TEST TEAM
 
 
 ## Reporting issues
@@ -28,7 +28,7 @@ Use the [Github Issue tracker](https://github.com/ingbrzy/MA-XML-7.0-TURKISH/iss
 
 ## Changes will be added
 
-* Engineer, VFX etc...
+* This is MIUI 8 Turkish Language Project but not supported all of models, maybe next time will...
 
 Check [Contributing to a project](https://guides.github.com/activities/forking) for further informations.
 
