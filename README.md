@@ -1,5 +1,6 @@
 
-# ![logo](https://camo.githubusercontent.com/3ab748b1e78c6af721aaf4ecbe6443990add4f42/687474703a2f2f692e696d6775722e636f6d2f386d4876514e772e706e67) MIUI V8.XX Turkish Translation
+# ![logo](https://camo.githubusercontent.com/3ab748b1e78c6af721aaf4ecbe6443990add4f42/687474703a2f2f692e696d6775722e636f6d2f386d4876514e772e706e67) 
+MIUI V8.XX Turkish Translation
 
 [![Issue Stats](https://github.com/ingbrzy/MA-XML-7.0-TURKISH/issues)](https://github.com/ingbrzy/MA-XML-7.0-TURKISH/issues)
 
