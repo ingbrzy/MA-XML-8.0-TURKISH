@@ -20,9 +20,9 @@
   <string name="Dashboard_Perm_Header_Disabled">İzinlerin gözetimi devre dışı</string>
   <string name="Dashboard_Perm_SU">Root Erişimini yönet</string>
   <string name="Dashboard_Perm_SU_Desc">%1$d uygulama için Root Erişimi görüntüleniyor</string>
-  <string name="Dashboard_Perm_SU_Disabled">Root Erişimi devre dışı</string>
+  <string name="Dashboard_Perm_SU_Disabled">Root Erişimi kapalı</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">MIUI\'ın kararlı sürümlerinde Root Erişimi kullanılamamaktadır</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">    "3. parti uygulamalara ROOT Erişim izni verilmesi sistem kararsızlığına, veri kayıplarına ve hatta donanımın zarar görmesine sebep olabilir. 
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">    "3. parti uygulamalara Root Erişim izni verilmesi sistem kararsızlığına, veri kayıplarına ve hatta donanımın zarar görmesine sebep olabilir. 
 
 Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemelisiniz."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI ROM İndir</string>
@@ -56,7 +56,7 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="Generic_Version">Sürüm: %1$s</string>
   <string name="HIPS_Action_Accept">İzinli</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;İzinli&lt;/font&gt;</string>
-  <string name="HIPS_Action_Accept_Once">Bir kez izin ver</string>
+  <string name="HIPS_Action_Accept_Once">Birkez izin ver</string>
   <string name="HIPS_Action_Prompt">Sor</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Sor&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Reddet</string>
@@ -76,12 +76,12 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="HIPS_Perm_AudioRecorder">Ses Kayıdı</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">Ses ve telefon çağrısının kaydını yapar</string>
   <string name="HIPS_Perm_AudioRecorder_Hint">%1$s uygulama ses ve telefon çağrı kaydı yapabilir</string>
-  <string name="HIPS_Perm_AutoStart">Başlangıçta çalıştırabilir</string>
-  <string name="HIPS_Perm_AutoStart_Desc">Başlangıçta çalıştırabilir</string>
+  <string name="HIPS_Perm_AutoStart">Başlangıçta çalışabilir</string>
+  <string name="HIPS_Perm_AutoStart_Desc">Başlangıçta çalışabilir</string>
   <string name="HIPS_Perm_AutoStart_Hint">%1$s uygulama başlangıçta çalışır</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth bağlantısını değiştirebilir</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Bluetooth cihazını açar/kapatabilir</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s uygulama Buluetooth bağlantısını açabilir/kapatabilir</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Bluetooth cihazını açıp/kapatabilir</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s uygulama Buluetooth bağlantısını açıp/kapatabilir</string>
   <string name="HIPS_Perm_Body_Sensors">Vücut Sensörleri</string>
   <string name="HIPS_Perm_Body_Sensors_Desc">Vücut Sensörleri (Mesela: Kalp Atışı Sensörü)</string>
   <string name="HIPS_Perm_Calendar">Takvim etkinliklerini okuyabilir</string>
@@ -132,11 +132,11 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="HIPS_Perm_MobileNetwork_Desc">Mobil veri erişiminizi kullanabilir</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s uygulama mobil veri erişiminizi kullanabilir</string>
   <string name="HIPS_Perm_Mobile_Connectivity">Mobil veri bağlantısını değiştirebilir</string>
-  <string name="HIPS_Perm_Mobile_Connectivity_Desc">Mobil veriyi açar/kapatabilir</string>
-  <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s uygulama mobil veriyi açar/kapatabilir</string>
+  <string name="HIPS_Perm_Mobile_Connectivity_Desc">Mobil veriyi açıp/kapatabilir</string>
+  <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s uygulama mobil veriyi açıp/kapatabilir</string>
   <string name="HIPS_Perm_Network_Accept">%1$s\'den gelen bağlantı kabul edilsin mi?</string>
   <string name="HIPS_Perm_Network_Connect">Bağlantı Konumu: %1$s</string>
-  <string name="HIPS_Perm_Network_Listen">%1$s bağlantı noktası bekleyebilir</string>
+  <string name="HIPS_Perm_Network_Listen">%1$s bağlantı noktasını bekleyebilir</string>
   <string name="HIPS_Perm_Network_MobileEvent">Mobil Veri Kullanımı</string>
   <string name="HIPS_Perm_Network_Recv">Veri alabilir</string>
   <string name="HIPS_Perm_Network_Send">Veri gönderebilir</string>
@@ -150,11 +150,11 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="HIPS_Perm_PhoneID_Hint">"%1$s uygulama Telefon Numarası, IMEI ve IMSI\'a erişebilir"</string>
   <string name="HIPS_Perm_PhoneID_ICCID">"Cihaz ICCID Bilgisini okuyabilir"</string>
   <string name="HIPS_Perm_PhoneID_IMEI">"Cihazın IMEI numarasını okuyabilir"</string>
-  <string name="HIPS_Perm_PhoneID_IMEISN">"Cihazın IMEI SN numarasını okuyabilir"</string>
+  <string name="HIPS_Perm_PhoneID_IMEISN">"Cihazın IMEI Seri Numarasını okuyabilir"</string>
   <string name="HIPS_Perm_PhoneID_IMSI">"Cihazın IMSI numarasını okuyabilir"</string>
   <string name="HIPS_Perm_PhoneID_Number">"Cihazın kimliğini okuyabilir"</string>
   <string name="HIPS_Perm_PromptAll">Tümünü Sor</string>
-  <string name="HIPS_Perm_ROOT">ROOT Erişimi Alır</string>
+  <string name="HIPS_Perm_ROOT">Root Erişimi Alır</string>
   <string name="HIPS_Perm_ROOT_Desc">Root Erişimi alabilir</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s uygulama Root Erişimi alabilir</string>
   <string name="HIPS_Perm_ROOT_Title">Uygulama Root Erişimi alabilir</string>
@@ -210,7 +210,7 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="HIPS_Perm_WIFI_Connectivity">WLAN bağlantısını değiştir</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">WLAN bağlantısı açar/kapar</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s uygulama WLAN bağlantısı açar/kapar</string>
-  <string name="HIPS_Perm_Wakelock">Cihazın uyku moduna geçmesini önle</string>
+  <string name="HIPS_Perm_Wakelock">Cihazın uyku moduna geçmesini önler</string>
   <string name="HIPS_Perm_Wakelock_Desc">Cihazın uyku moduna geçmesini önler</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s uygulama cihazın uyku moduna geçmesini önler</string>
   <string name="HIPS_Perm_Xiaomi_Account">Mi Hesabı</string>
@@ -226,6 +226,8 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="HIPS_Perm_process_nfc_Desc">Yakın alandaki (NFC) donanıma erişebilir</string>
   <string name="HIPS_Perm_process_outgoing_calls">Telefon uygulamalarına erişebilir</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">İzler ve çağrıları sonlandırır</string>
+  <string name="HIPS_Perm_read_notification_sms">SMS Hizmeti</string>
+  <string name="HIPS_Perm_read_notification_sms_Desc">SMS Hizmetini okur</string>
   <string name="HIPS_Perm_use_sip">Video Servisleri</string>
   <string name="HIPS_Perm_use_sip_Desc">Video akışı için Oturum Başlatma Protokolü kullan</string>
   <string name="HIPS_SecurityPrompt_Accept">İzinli (%d)</string>
@@ -237,9 +239,9 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="HIPS_SecurityPrompt_ROOT_Step1">%1$s Root erişimi verilsin mi?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">Uygulamalara Root erişim izni vermeniz, cihazınızın düzgün çalışmamasına neden olabilir.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Root erişimi olan uygulamalar verilerinizi saldırlara karşı savunmasız hale getirir.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step4">"Root erişimi olan uygulamalar cihazınızın donanıma zarar verebilir."</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step4">"Root Erişimi olan uygulamalar cihazınızın donanıma zarar verebilir."</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Uygulamalara Root erişim izni vermeniz kendi sorumluluğunuzdadır.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step6">%1$s uygulamasına Root erişim izni verilsin mi?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step6">%1$s uygulamasına Root Erişim izni verilsin mi?</string>
   <string name="HIPS_SecurityPrompt_Reject">Reddet (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Birkez Reddet (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Tercihimi Hatırla</string>
@@ -285,4 +287,5 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="screen_overlay_button">Ayarları Aç</string>
   <string name="screen_overlay_message">İzin ayarını değiştirmek için önce Uygulama &gt; Ayarlar\'dan Ekran Bindirimini kapatmalısınız.</string>
   <string name="screen_overlay_title">Ekran Bindirme algılandı</string>
+  <string name="wakepath_confirm_start_activity">%2$s açmak için %1$s izin verilsin mi?</string>
 </resources>
