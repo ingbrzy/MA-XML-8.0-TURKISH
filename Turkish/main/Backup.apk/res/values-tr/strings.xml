@@ -7,17 +7,17 @@
   <string name="already_enable_encrypt">Şifreleme Etkin</string>
   <string name="app_name">Yedekle</string>
   <string name="apps_and_data_item_desc">Uygulama ve Veriler</string>
-  <string name="auto_backup">Düzenli yedeklemeyi planlayın</string>
+  <string name="auto_backup">Düzenli Yedeklemeyi Planla</string>
   <string name="auto_backup_all_user_apps">Tüm Uygulamalar</string>
   <string name="auto_backup_choose">Öğeleri Yedekle</string>
   <string name="auto_backup_choose_empty">Yedek bulunamadı.</string>
   <string name="auto_backup_choose_title">Yedeklenecek öğeleri seçin</string>
   <string name="auto_backup_date">Yedekleme Zamanı</string>
-  <string name="auto_backup_only_wifi">Sadece WLAN etkin olduğunda</string>
+  <string name="auto_backup_only_wifi">Sadece WLAN bağlandığında</string>
   <string name="auto_backup_open">Otomatik Yedekle</string>
   <string name="auto_backup_progress">Yedekleniyor...</string>
   <string name="auto_backup_select_user_apps">Uygulamaları Seç</string>
-  <string name="auto_backup_selected_user_apps">Seçilen Uygulamalar</string>
+  <string name="auto_backup_selected_user_apps">Seçili Uygulamalar</string>
   <string name="auto_backup_setting">Otomatik Yedekleme Ayarı</string>
   <string name="auto_backup_system_data">Sistem</string>
   <string name="auto_backup_time">Yedekleme Zamanı</string>
@@ -39,7 +39,7 @@
   <string name="backup_items_sysdata_tailer">" sistem veri dosyaları, "</string>
   <string name="backup_new">Yeni:</string>
   <string name="backup_progress">Yedekleniyor…</string>
-  <string name="backup_report">Detayları Gör</string>
+  <string name="backup_report">Detayları gör</string>
   <string name="backup_update">Güncelle</string>
   <string name="batch_delete_backup_confirm">Seçili yedekler silinsin mi?</string>
   <string name="button_backup">Yedekle</string>
@@ -104,7 +104,7 @@
   <string name="err_unknown">Bilinmeyen hata</string>
   <string name="err_version_too_old">Yedek dosyası çok eski.</string>
   <string name="err_version_unsupported">"Yedekleme sürümü desteklenmiyor"</string>
-  <string name="every_day">Her Gün</string>
+  <string name="every_day">Hergün</string>
   <string name="exchange_account">Hesabı değiştir</string>
   <string name="fail">Başarısız</string>
   <string name="feature_title_account">Mi Hesabı</string>
@@ -215,7 +215,7 @@
   <string name="succeed">Tamamlandı</string>
   <string name="summary_err_backup_encrypting">Mi Hesabınızda oturum açın.</string>
   <string name="summary_err_backup_no_network">"Ağa bağlanılamadı"</string>
-  <string name="summary_err_restore_encrypting">"Geri alınamadı. Bu yedekleme Mi Hesabınızı kullanarak yapılmış olduğundan emin olun."</string>
+  <string name="summary_err_restore_encrypting">"Geri yüklenemedi. Bu yedekleme Mi Hesabınızı kullanarak yapılmış olduğundan emin olun."</string>
   <string name="summary_err_restore_no_network">"Ağa bağlanılamadı"</string>
   <string name="system_backup">Yedekle</string>
   <string name="system_backup_info">Sistem Ayarları ve Ana Ekran düzeni</string>
