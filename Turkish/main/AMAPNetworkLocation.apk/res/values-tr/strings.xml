@@ -3,6 +3,20 @@
   <string name="agree">Kabul ediyorum</string>
   <string name="app_label">Ağ Konumu</string>
   <string name="disagree">Kabul etmiyorum</string>
-  <string name="location_warning_message">"Anonim konum verilerini toplamak için otomatik navigasyon konum hizmetine izin verin. Bazı veriler cihazınızda depolanabilir ve verilerin toplanması hiçbir uygulama çalışmadığı zaman bile oluşturulabilir. Faal veri kullanım ücreti bu süreçte geçerli olabilir."</string>
+  <string name="location_warning_do_not_show_again">"Yeniden gösterme"</string>
+  <string name="location_warning_message">"AutoNavi konum hizmeti, anonim konum verileri toplamasına izin verir. Bazı veriler cihazınızda depolanabilir ve hiçbir uygulama çalışmadığında veri toplayabilir."</string>
   <string name="location_warning_title">Konum Onayı</string>
+  <string name="persmission_close">Kapat</string>
+  <string name="persmission_message">Düzgün çalışması için; bu hizmetin ek izinlere ihtiyacı var. Lütfen sorulduğunda izni verin.</string>
+  <string name="persmission_message2">Düzgün çalışması için; bu hizmetin depolamanıza erişmesi gerekir. Lütfen sorulduğunda izni verin.</string>
+  <string name="persmission_message3">Düzgün çalışması için; bu hizmetin konumunuza erişmesi gerekir. Lütfen sorulduğunda izni verin.</string>
+  <string name="persmission_message4">Düzgün çalışması için; bu hizmetin telefonunuza erişmesi gerekir. Lütfen sorulduğunda izni verin.</string>
+  <string name="persmission_message5">"Düzgün çalışması için; bu hizmetin ek izinlere ihtiyacı var. Yönetmek için Ayarlar altındaki Ağ Konumu seçeneğini kullanabilirsiniz."</string>
+  <string name="persmission_message6">"Düzgün çalışması için; bu hizmetin konumunuza erişmesi gerekir. Yönetmek için Ayarlar altındaki Ağ Konumu seçeneğini kullanabilirsiniz.."</string>
+  <string name="persmission_message7">"Düzgün çalışması için; bu hizmetin telefonunuza erişmesi gerekir. Yönetmek için Ayarlar altındaki Ağ Konumu seçeneğini kullanabilirsiniz.."</string>
+  <string name="persmission_message8">"Düzgün çalışması için; bu hizmetin depolamanıza erişmesi gerekir. Yönetmek için Ayarlar altındaki Ağ Konumu seçeneğini kullanabilirsiniz.."</string>
+  <string name="persmission_notification_text">İzin vermek için dokunun</string>
+  <string name="persmission_notification_title">Ağ Konumunun izne ihtiyacı var</string>
+  <string name="persmission_ok">Tamam</string>
+  <string name="persmission_settings">Ayarlar</string>
 </resources>
