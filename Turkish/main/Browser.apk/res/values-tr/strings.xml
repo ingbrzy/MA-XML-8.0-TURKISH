@@ -5,7 +5,7 @@
   <string name="abc_action_menu_overflow_description">Fazlası</string>
   <string name="abc_action_mode_done">Tamam</string>
   <string name="abc_action_mode_select_all">Hepsi</string>
-  <string name="accept_cookies_confirm_message">Bu özelliği kapamak bazı web sitelerinin hatalı davranmasına neden olabilir.</string>
+  <string name="accept_cookies_confirm_message">Bu özelliği kapamak, bazı web sitelerinin hatalı davranmasına neden olabilir.</string>
   <string name="accessibility_button_clear">Girişi temizle</string>
   <string name="accessibility_date_picker_month">Ay</string>
   <string name="accessibility_date_picker_week">Hafta</string>
@@ -48,23 +48,186 @@
   <string name="action_menu_useful_page_added">Başlangıç Sayfasına eklendi</string>
   <string name="actionbar_share">Paylaş</string>
   <string name="actionbar_web_search">Ara</string>
+  <string name="adblock_force_updating_rules_toast">Reklem Engelleyici güncelleniyor</string>
   <string name="adblock_notification">%d reklam engellendi</string>
+  <string name="adblock_rules_not_updated_toast">Başarısız</string>
   <string name="adblock_rules_restore">Engeli Kaldır</string>
+  <string name="adblock_rules_updated_toast">Tamamlandı</string>
   <string name="adblock_websites_settings_empyt_hint">"Herhangi engelli siteniz yok."</string>
   <string name="adblock_websites_settings_title">Engelli Siteler</string>
   <string name="add_bookmark_group">Grup Ekle</string>
+  <string name="add_bookshelf_popup_text">Bu kitap zaten kitaplığa eklendi</string>
   <string name="add_new_bookmark">Favorilere Ekle</string>
   <string name="add_new_quicklink">Başlangıç Sayfasına Ekle</string>
   <string name="add_ql_bm_title">Kaydet</string>
   <string name="add_quicklink_to_popular">Başlangıç Sayfasına Ekle</string>
   <string name="add_quicklinks">Başlangıç Sayfasına Ekle</string>
+  <string name="add_shortcut">Kısayol ekle</string>
+  <string name="add_shortcut_success">Kısayol başarıyla eklendi</string>
   <string name="add_to_bookmark">Favoriler</string>
   <string name="add_to_desk">Ana Ekrana ekle</string>
-  <string name="add_to_desk_success">Ana ekrana yerleştirildi</string>
+  <string name="add_to_desk_success">Ana Ekrana yerleştirildi</string>
   <string name="add_to_quicklink">Başlangıç Sayfası</string>
   <string name="added_to_bookmarks">Favorilere eklendi</string>
   <string name="adjust_text_zoom_toast">Metin yakınlaştırmayı değiştirmek bazı web sitelerinin hatalı görüntülenmesine neden olabilir</string>
   <string name="alert_tips">Bu sitede bir güvenlik riski olabilir</string>
+  <string name="alisdk_message_10000_action">请检查对应名称模块的库文件是否包含在当前开发应用的依赖库里面</string>
+  <string name="alisdk_message_10000_message">JS Bridge 载入器未找到名称为 {0} 的模块</string>
+  <string name="alisdk_message_10000_name">JS_BRIDGE_MODULE_NOT_FOUND</string>
+  <string name="alisdk_message_10000_type">E</string>
+  <string name="alisdk_message_10002_action">请使用默认的 androiddebugkey 对当前开发应用签名或在应用初始化之前调用 AlibabaSDK.turnOnDebug(), 运行程序查看 logcat 输出以获取更多错误细节，并采取对应操作</string>
+  <string name="alisdk_message_10002_message">SDK 初始化出错，错误信息为 {0}</string>
+  <string name="alisdk_message_10002_name">INIT_EXCEPTION</string>
+  <string name="alisdk_message_10002_type">E</string>
+  <string name="alisdk_message_10003_action"/>
+  <string name="alisdk_message_10003_message">当前操作已经取消</string>
+  <string name="alisdk_message_10003_name">USER_CANCEL</string>
+  <string name="alisdk_message_10003_type">I</string>
+  <string name="alisdk_message_10004_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
+  <string name="alisdk_message_10004_message">请求 INIT 服务器发生错误，错误消息为 {0}</string>
+  <string name="alisdk_message_10004_name">REQUEST_INIT_SERVER_EXCEPTION</string>
+  <string name="alisdk_message_10004_type">E</string>
+  <string name="alisdk_message_10005_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
+  <string name="alisdk_message_10005_message">消息解密发生错误，错误消息为 {0}</string>
+  <string name="alisdk_message_10005_name">RSA_DECRYPT_EXCEPTION</string>
+  <string name="alisdk_message_10005_type">E</string>
+  <string name="alisdk_message_10008_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
+  <string name="alisdk_message_10008_message">生成订单地址出错, 错误信息为 {0}</string>
+  <string name="alisdk_message_10008_name">GET_ORDER_URL_EXCEPTION</string>
+  <string name="alisdk_message_10008_type">E</string>
+  <string name="alisdk_message_10009_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
+  <string name="alisdk_message_10009_message">查询订单出错, 错误信息为 {0}</string>
+  <string name="alisdk_message_10009_name">QUERY_ORDER_RESULT_EXCEPTION</string>
+  <string name="alisdk_message_10009_type">E</string>
+  <string name="alisdk_message_10010_action">请使用默认的 androiddebugkey 对当前开发应用签名或在应用初始化之前调用 AlibabaSDK.turnOnDebug(), 运行程序查看 logcat 输出以获取更多错误细节，并采取对应操作</string>
+  <string name="alisdk_message_10010_message">发生错误，消息为 {0}, 请使用 LogCat 查看更多细节</string>
+  <string name="alisdk_message_10010_name">GENERIC_SYSTEM_ERROR</string>
+  <string name="alisdk_message_10010_type">E</string>
+  <string name="alisdk_message_10011_action"/>
+  <string name="alisdk_message_10011_message">当前用户未登录</string>
+  <string name="alisdk_message_10011_name">USER_ALREADY_LOGOUT</string>
+  <string name="alisdk_message_10011_type">W</string>
+  <string name="alisdk_message_10012_action">请在使用 SDK 业务功能之前确保已经调用 AlibabaSDK.asyncInit 方法并接收到初始化成功的回调</string>
+  <string name="alisdk_message_10012_message">SDK 尚未被初始化</string>
+  <string name="alisdk_message_10012_name">SDK_NOT_INIT</string>
+  <string name="alisdk_message_10012_type">E</string>
+  <string name="alisdk_message_10014_action">请检查网络设置后，并重试当前操作</string>
+  <string name="alisdk_message_10014_message">当前网络不可用</string>
+  <string name="alisdk_message_10014_name">NETWORK_NOT_AVAILABLE</string>
+  <string name="alisdk_message_10014_type">E</string>
+  <string name="alisdk_message_10015_action"/>
+  <string name="alisdk_message_10015_message">退出登录</string>
+  <string name="alisdk_message_10015_name">USER_LOGOUT</string>
+  <string name="alisdk_message_10015_type">I</string>
+  <string name="alisdk_message_10016_action">请初始化之前调用 AlibabaSDK.turnOnDebug()，并运行应用和检查 logcat 输出的异常信息</string>
+  <string name="alisdk_message_10016_message">安全模块初始化失败，错误消息为 {0}</string>
+  <string name="alisdk_message_10016_type">E</string>
+  <string name="alisdk_message_10022_action">请使用默认的 androiddebugkey 对当前开发应用签名或在应用初始化之前调用 AlibabaSDK.turnOnDebug(), 运行程序查看 logcat 输出以获取更多错误细节，并采取对应操作</string>
+  <string name="alisdk_message_10022_message">SDK 组件 {0} 启动出错，错误消息为 {1}</string>
+  <string name="alisdk_message_10022_name">PLUGIN_INIT_FAILED</string>
+  <string name="alisdk_message_10022_type">E</string>
+  <string name="alisdk_message_100_action"/>
+  <string name="alisdk_message_100_message">操作成功</string>
+  <string name="alisdk_message_100_name">ACTION_SUCCESS</string>
+  <string name="alisdk_message_100_type">I</string>
+  <string name="alisdk_message_101_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
+  <string name="alisdk_message_101_message">会话刷新出错，错误消息为 {0}</string>
+  <string name="alisdk_message_101_name">REFRESH_SID_EXCEPTION</string>
+  <string name="alisdk_message_101_type">W</string>
+  <string name="alisdk_message_12_action">请检查所依赖的 SDK 项目，或若是手动拷贝 SDK 至当前开发应用所在项目，请检查是否漏拷文件</string>
+  <string name="alisdk_message_12_message">在目录 {0} 未找到文件 {1}</string>
+  <string name="alisdk_message_12_name">RESOURCE_NOT_FOUND</string>
+  <string name="alisdk_message_12_type">E</string>
+  <string name="alisdk_message_13_action">请检查所依赖的 SDK 项目，或若是手动拷贝 SDK 至当前开发应用所在项目，请检查是否漏拷文件，或重新至官方网站下载 SDK</string>
+  <string name="alisdk_message_13_message">未能在下载 SDK 中找到指定插件 {0}</string>
+  <string name="alisdk_message_13_name">PLUGIN_NOT_FOUND</string>
+  <string name="alisdk_message_13_type">E</string>
+  <string name="alisdk_message_14_action">当前输入参数不应为 null 或者空，请调整输入参数</string>
+  <string name="alisdk_message_14_message">输入参数 {0} 为 null 或者为空</string>
+  <string name="alisdk_message_14_name">NULL_OR_EMPTY_PARAMETER</string>
+  <string name="alisdk_message_14_type">E</string>
+  <string name="alisdk_message_15_action"/>
+  <string name="alisdk_message_15_message">{0} 模块 请求服务端出错，错误消息为 {1}</string>
+  <string name="alisdk_message_15_name">SERVER_REQUEST_FAILED</string>
+  <string name="alisdk_message_15_type">E</string>
+  <string name="alisdk_message_16_action">请在 IDE 中检查类是否存在，或者是否因为代码混淆没有配置 SDK 对应的 -keep 选项，具体配置请参照在线网站</string>
+  <string name="alisdk_message_16_message">运行时不能载入类 {0}</string>
+  <string name="alisdk_message_16_name">CLASS_NOT_FOUND_ERROR</string>
+  <string name="alisdk_message_16_type">E</string>
+  <string name="alisdk_message_17_action">1.请检查 SDK 是否初始化成功，或者如果 APK 采取特定的打包方式 (e.g. multi-dex), 确保百川 SDK 的包含的 jar 文件中的 assets/ 文件包含在最终的 APK 中 2. OneSDK 使用异步初始化, 即调用完 AlibabaSDK.asyncInit() 后立即返回, 所以如果立即调用 AlibabaSDK.getService() 并调用其中相关方法, 会导致该错误. 3. 请确保在 OneSDK 初始化是在 Application.onCreate 中调用, 否则在如下场景会导致该错误. a) 在非应用主进程获取服务 b) 应用从后台被唤起到前台.</string>
+  <string name="alisdk_message_17_message">不能获取类名为 {0}，过滤条件为 {1} 的服务</string>
+  <string name="alisdk_message_17_name">SERVICE_NOT_AVAILABLE_ERROR</string>
+  <string name="alisdk_message_17_type">E</string>
+  <string name="alisdk_message_18_action"/>
+  <string name="alisdk_message_18_message">系统繁忙，请稍后再试</string>
+  <string name="alisdk_message_18_name">SERVER_BUSY_ERROR</string>
+  <string name="alisdk_message_18_type">E</string>
+  <string name="alisdk_message_1_action">请检查所依赖的 SDK 项目，或若是手动拷贝 SDK 至当前开发应用所在项目，请检查是否漏拷文件 res/values 下文件</string>
+  <string name="alisdk_message_1_message">未在消息文件中找到 id 为 {0} 的消息</string>
+  <string name="alisdk_message_1_name">MESSAGE_NOT_FOUND_ERROR</string>
+  <string name="alisdk_message_1_type">E</string>
+  <string name="alisdk_message_2_action">请检查所依赖的 SDK 项目，或若是手动拷贝 SDK 至当前开发应用所在项目，请检查是否漏拷文件 res/values 下文件</string>
+  <string name="alisdk_message_2_message">检索消息时发生如下错误 {0}</string>
+  <string name="alisdk_message_2_name">MESSAGE_UNKNOWN_ERROR</string>
+  <string name="alisdk_message_2_type">E</string>
+  <string name="alisdk_message_651_action">请使用相关工具 (e.g.taobao.openiid.get API) 对原始参数进行加密</string>
+  <string name="alisdk_message_651_message">未能使用当前应用的信息对参数进行解密</string>
+  <string name="alisdk_message_651_name">INVALID_OPEN_ITEM_ID</string>
+  <string name="alisdk_message_651_type">E</string>
+  <string name="alisdk_message_701_action">"1. 使用同一个 Keystore 签名的 Apk 在 SDK 下载页面重新下载 SDK 
+ Eclipse 环境下, 使用 Run/Debug As Android Application 在模拟器或者手机中运行时, 默认使用的是 Debug Keystore (默认位置当前用户目录的 ~\\.android\\debug.keystore), IDE 中可以到 Preferences-Android-Build 界面查看. 所以如果上传的 apk 是使用 Export Android Application 指定 keystore 生成, 会导致签名校验出错, 参考解决方案是: 
+ 在开发阶段使用 Android 项目 bin 目录的 apk 文件生成 SDK, 已便于开发阶段调试, 开发完毕后使用发布所用 keystore 签名的 apk 到网站重新生成 SDK 并替换 res\\drawable\\yw_1222.jpg 文件
+ 2. 调用 AlibabaSDK.setEnvirnoment 指定当前运行环境会导致 SDK 检索特定的图片，例如设置了 AlibabaSDK.setEnvirnoment(Environment.TEST), SDK 会检索 yw_1222_test.jpg，若您是应用开发者，请去除相关代码，此环境设置主要是针对 SDK 组件提供方开发调试使用。
+ 3. 调用 AlibabaSDK.setSecGuardImagePostfix 会导致 SDK 检索指定后缀的图片，例如设置了 AlibabaSDK.setSecGuardImagePostfix(abc), SDK 会检索 yw_1222_abc.jpg, 请检查代码中是否有相关调用，若有请做调整，确保当前使用图片与 APK 签名一致。"</string>
+  <string name="alisdk_message_701_message">当前使用的图片文件 res\\drawable\\yw_1222{0}.jpg 和当前程序的 APK 签名不一致</string>
+  <string name="alisdk_message_701_type">E</string>
+  <string name="alisdk_message_702_action">"1. 如果使用项目依赖方式使用 SDK，请检查所依赖的 SDK 项目中 res\\drawable 是否存在图片文件，如果是将 SDK 拷贝至当前开发应用中，请检查是否漏拷贝。
+ 2. 调用 AlibabaSDK.setEnvirnoment 指定当前运行环境会导致 SDK 检索特定的图片，例如设置了 AlibabaSDK.setEnvirnoment(Environment.TEST), SDK 会检索 yw_1222_test.jpg，若您是应用开发者，请去除相关代码，此环境设置主要是针对 SDK 组件提供方开发调试使用。
+ 3. 调用 AlibabaSDK.setSecGuardImagePostfix 会导致 SDK 检索指定后缀的图片，例如设置了 AlibabaSDK.setSecGuardImagePostfix(abc), SDK 会检索 yw_1222_abc.jpg, 请检查代码中是否有相关调用，若有请做调整，确保与实际存在的图片保持一致。"</string>
+  <string name="alisdk_message_702_message">没有找到图片文件，请确保图片文件 yw_1222{0}.jpg 在 res\\drawable 目录下</string>
+  <string name="alisdk_message_702_type">E</string>
+  <string name="alisdk_message_703_action">使用同一 Keystore 签名的 Apk 在 SDK 下载页面重新下载 SDK</string>
+  <string name="alisdk_message_703_message">SDK 中图片文件 (res\\drawable\\yw_1222.jpg) 的内容不正确</string>
+  <string name="alisdk_message_703_type">E</string>
+  <string name="alisdk_message_704_action">"1. 如果使用项目依赖方式使用 SDK，请检查所依赖的 SDK 项目中 libs 目录下 securityguard***.jar 和 armeabi/armeabi-v7a/x86 下 securityguard***.so 是否存在，大小正常并版本是否一致，如果是将 SDK 拷贝至当前开发应用中，请在当前应用中检查。如文件存在而生成的 apk 中不存在，请检查 IDE 设置，例如 Android Studio 项目的 build.gradle 中 jniLibs.srcDirs。
+ 2. 因为 Android 部分版本系统中载入不同架构原生库 (so 文件) 的限制，请确保项目运行所需的原生库文件在当前手机 CPU 对应架构目录下都存在。例如，安全模块暂时未提供 arm64 架构的原生库，若当前 apk 依赖的其他组件包含 arm64 原生库，会导致载入错误，解决方法是移除依赖组件中相关原生库，确保最终 apk 中不存在 arm64-v8a。 
+ 从 Android 架构兼容性角度, 去除 arm64 架构的原生库不会影响应用在对应手机上运行, 具体介绍可使用关键字 [Android so 兼容] 至搜索网站检索
+ Android Studio 参考配置, 目的是确保最终的 apk 中只包含指定 CPU 架构的文件 :
+ productFlavors {
+ afterABI {
+ ndk {
+ abiFilters “armeabi”, “armeabi-v7a”, “x86
+
+              }
+
+            }
+
+          }"</string>
+  <string name="alisdk_message_704_message">在 APK 中找不到对应的 securityguard***.so 文件或者 so 文件载入出错</string>
+  <string name="alisdk_message_704_type">E</string>
+  <string name="alisdk_message_705_action">请到百川官方网站重新下载 SDK 并使用其包含最新的图片文件</string>
+  <string name="alisdk_message_705_message">当前使用的 res\\drawable\\yw_1222{0}.jpg 与 SDK 中 securityguard***.jar 版本不匹配</string>
+  <string name="alisdk_message_705_type">E</string>
+  <string name="alisdk_message_801_action">请调整参数后重试当前操作</string>
+  <string name="alisdk_message_801_message">商品数量必须为整数并大于 0</string>
+  <string name="alisdk_message_801_name">QUANTITY_FORMAT_ERROR</string>
+  <string name="alisdk_message_801_type">E</string>
+  <string name="alisdk_message_802_action">请修改传入的淘客 pid，如不确认，请联系淘客相关人员</string>
+  <string name="alisdk_message_802_message">当前传入的淘客 pid {0} 非法，正确格式应以 mm_ 为前缀</string>
+  <string name="alisdk_message_802_name">INVALID_TAOKE_PID_ERROR</string>
+  <string name="alisdk_message_802_type">E</string>
+  <string name="alisdk_message_803_action">请在初始化之前调用 TradeConfigs.defaultTaokePid=mm_**** 设置默认的淘客 pid 值, 此值会在相关方法调用时未指定 pid 时使用</string>
+  <string name="alisdk_message_803_message">未设置默认的淘客 pid</string>
+  <string name="alisdk_message_803_name">INVALID_DEFAULT_TAOKE_PID</string>
+  <string name="alisdk_message_803_type">W</string>
+  <string name="alisdk_message_951_action">如当前应用使用 ProGuard 混淆代码，请检查 SDK 中相关类在 -keep 列表中</string>
+  <string name="alisdk_message_951_message">JS Bridge 载入器在类 {0} 未找到方法 {1}</string>
+  <string name="alisdk_message_951_name">JS_BRIDGE_METHOD_NOT_FOUND</string>
+  <string name="alisdk_message_951_type">E</string>
+  <string name="alisdk_message_952_action">如当前应用使用 ProGuard 混淆代码，请检查是否添加 -keepattributes *Annotation* 配置项</string>
+  <string name="alisdk_message_952_message">JS Bridge 载入器在类 {0} 中的方法 {1} 上未找到含有 BridgeMethod 标识</string>
+  <string name="alisdk_message_952_name">JS_BRIDGE_ANNOTATION_NOT_PRESENT</string>
+  <string name="alisdk_message_952_type">E</string>
   <string name="allow">İzin Ver</string>
   <string name="app_new_version">Bu uygulamanın son sürümü zaten yüklü</string>
   <string name="app_update_install">Güncelleştirmeyi yüklemek için hazır.</string>
@@ -105,7 +268,7 @@
   <string name="bookmark_url_already_exisit">Bu URL zaten yerimlerinde var</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"Bu URL geçerli değil."</string>
-  <string name="bookmarks_content_is_null">Favoriler yok</string>
+  <string name="bookmarks_content_is_null">Favori yok</string>
   <string name="bookmarks_management">Favoriler</string>
   <string name="bookmarks_root_folder">Root Dizini</string>
   <string name="bookmarks_search">Tarayıcı</string>
@@ -152,10 +315,35 @@
   <string name="color_picker_dialog_title">Rengi Seç</string>
   <string name="color_picker_hue">Ton</string>
   <string name="color_picker_saturation">Doygunluk</string>
-  <string name="color_picker_value">Değer</string>
+  <string name="color_picker_value">Değeri</string>
+  <string name="com_taobao_tae_sdk_alert_message">您离开太久了，请重新操作</string>
+  <string name="com_taobao_tae_sdk_authorize_title">登录授权</string>
+  <string name="com_taobao_tae_sdk_back_message">返回</string>
+  <string name="com_taobao_tae_sdk_cart_title">购物车</string>
+  <string name="com_taobao_tae_sdk_close_message">关闭</string>
+  <string name="com_taobao_tae_sdk_loading_progress_message">加载中</string>
+  <string name="com_taobao_tae_sdk_login_progress_message">登录中</string>
+  <string name="com_taobao_tae_sdk_logout_fail_message">登出失败</string>
+  <string name="com_taobao_tae_sdk_more_message">更多</string>
+  <string name="com_taobao_tae_sdk_network_not_available_message">网络无法连接</string>
+  <string name="com_taobao_tae_sdk_qr_login_title_bar_text">淘宝账号登录</string>
+  <string name="com_taobao_tae_sdk_system_exception">系统异常</string>
+  <string name="com_taobao_tae_sdk_trade_confirm_progress_message">交易确认中</string>
+  <string name="com_taobao_tae_sdk_trade_title">确认下单</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_basewebviewactivity_strings_menulist_copy">已复制到剪贴板</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_feedback_strings_titlebar_title">报告问题</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_email_edit">请输入您的邮件地址或者手机号......</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_edit">在这里输入您的反馈......</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_feedbackcomplete">感谢您的反馈，我们会尽快处理</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_invalidcontact">您输入的邮箱或手机格式不对</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_invalidcontent">反馈内容长度应大于3</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_maximages">最多上传5张图片</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nocontact">请输入您的邮件地址或者手机号</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nocontent">请输入您的反馈内容</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nowifi">为了您的流量考虑，请连接Wifi网络后再进行反馈</string>
   <string name="comment_app_menu">Yorum</string>
   <string name="comment_menu">Yorum</string>
-  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">.tr</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
   <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
@@ -177,7 +365,7 @@
   <string name="contextmenu_openlink_newwindow">Yeni sekmede aç</string>
   <string name="contextmenu_openlink_newwindow_background">Arkaplan sekmesinde aç</string>
   <string name="contextmenu_savelink">Bağlantıyı kaydet</string>
-  <string name="contextmenu_send_mail">E-posta gönder</string>
+  <string name="contextmenu_send_mail">E-Posta gönder</string>
   <string name="contextmenu_set_wallpaper">Duvar Kağıdı olarak ayarla</string>
   <string name="contextmenu_sharelink">Bağlantıyı paylaş</string>
   <string name="contextmenu_view_image">Resmi görüntüle</string>
@@ -192,7 +380,7 @@
   <string name="current_version_phone">Telefon</string>
   <string name="custom_head_card_text">"Daima harika birşeyin gerçekleşmek üzere olduğuna inanıyoruz"</string>
   <string name="custom_head_card_text_incognito">"Artık tamamen gizlendiniz. Geçmişte gezindiğiniz sayfalar artık görüntülenemez.​"</string>
-   <string name="data_traffic_prompt_change">Mobil veri bağlantısı kullanmak videolarda veri kullanımını artıracaktır. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
+  <string name="data_traffic_prompt_change">Mobil veri bağlantısı kullanmak videolarda veri kullanımını artıracaktır. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
   <string name="data_traffic_prompt_message">Mobil veri bağlantısı kullanmak videolara bakarken veri kullanımını artıracaktır. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
   <string name="data_traffic_prompt_message_short">Mobil veri kullanarak video akışı sağlamak; planlanan veri limitinin üstüne çıkmanıza neden olur.</string>
   <string name="data_traffic_prompt_title">Veri Kullanımı Uyarısı</string>
@@ -288,7 +476,7 @@
   <string name="find_previous">Öncekini bul</string>
   <string name="geolocation_permissions_prompt_dont_share">Reddet</string>
   <string name="geolocation_permissions_prompt_message">%s konumunuzu öğrenmek istiyor</string>
-  <string name="geolocation_permissions_prompt_remember">Tercihi hatırla</string>
+  <string name="geolocation_permissions_prompt_remember">Tercihimi hatırla</string>
   <string name="geolocation_permissions_prompt_share">Konumu paylaş</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Bu site konum bilginize erişebilir. Değiştirmek için Ayarlar &gt; Gelişmiş &gt; Web Site Verisi\'ne gidin.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Bu site konum bilginize erişemiyor.</string>
@@ -301,7 +489,7 @@
   <string name="go_supermarket_button">Git</string>
   <string name="go_supermarket_title">Uygulama Mağazası daha hızlı, pekçok uygulama ve daha az veri kullanımı içerir.</string>
   <string name="google_bookmarks">Google</string>
-  <string name="have_sent_bookmark_to_home_screen">Ana ekrana yerleştirildi</string>
+  <string name="have_sent_bookmark_to_home_screen">Ana Ekrana yerleştirildi</string>
   <string name="history_saved_webpage">Sayfayı kaydet</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Sil</string>
@@ -312,13 +500,14 @@
   <string name="homepage_search_hint">Ara</string>
   <string name="homepage_top_card_menu">Üstte</string>
   <string name="in_incognito">"Şu anda gizlisiniz. Görüntülediğiniz web sayfaları tarayıcı geçmişinde görüntülenmeyecek."</string>
-  <string name="in_secureaccess">Tarayıcı güvenli moda geçti.</string>
+  <string name="in_secureaccess">Tarayıcı Güvenli Moda geçti.</string>
   <string name="is_first_history_item">Bu tarayıcı geçmişinin ilk sayfası</string>
   <string name="is_first_tab">Bu ilk sekme</string>
   <string name="is_last_history_item">Bu tarayıcı geçmişinin son sayfası</string>
   <string name="is_last_tab">Bu Son Sekme</string>
   <string name="is_page_bottom">"Sayfanın en altındasınız"</string>
   <string name="is_page_top">"Sayfanın en üstündesiniz"</string>
+  <string name="isreplace">Bu dosya zaten var, yeniden üstüne yazılsın mı?</string>
   <string name="js_dialog_before_unload">"%s
 
 Bu sayfadan ayrılmak istiyor musunuz?"</string>
@@ -327,7 +516,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="js_dialog_before_unload_title">Gezinmeyi Onayla</string>
   <string name="js_dialog_title">Sayfa \"%s\" diyor:</string>
   <string name="js_dialog_title_default">JavaScript</string>
-  <string name="js_disable_confirm_message">JavaScript\'i devre dışı bırakmak bazı sitelerin hatalı gösterilmesine neden olabilir</string>
+  <string name="js_disable_confirm_message">JavaScript\'i devre dışı bırakmak bazı sitelerin hatalı gösterilmesine neden olabilir.</string>
   <string name="js_disable_confirm_title">JavaScript devredışı bırakılsın mı?</string>
   <string name="keep_queued_download">Koru</string>
   <string name="last_month">Geçen ay</string>
@@ -342,6 +531,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="media_error_action_replace_video_source">"Kaynak değiştirilemedi"</string>
   <string name="media_error_failure">"Video oynatılamıyor"</string>
   <string name="media_error_format">"Video biçimi desteklenmiyor"</string>
+  <string name="media_error_network_unreachable">Ağa ulaşamıyor</string>
   <string name="media_error_nomemory">Yeterli hafıza yok</string>
   <string name="media_error_source">"Kaynak bulamadık"</string>
   <string name="media_error_timeout">Ağ bağlantısı zaman aşımına uğradı</string>
@@ -351,7 +541,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="media_player_error_text_unknown">Üzgünüz, Bu video oynatılamaz.</string>
   <string name="media_player_error_title">Oynatılamıyor</string>
   <string name="media_player_loading_video">Video yükleniyor...</string>
-  <string name="menu_addtodesk"> Ana ekrana yerleştir </string>
+  <string name="menu_addtodesk"> Ana Ekrana yerleştir </string>
   <string name="menu_exit_nightmode">Çık</string>
   <string name="menu_hv_swap">Y/D Ekran</string>
   <string name="menu_nightmode">Gece Modu</string>
@@ -367,7 +557,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miui_bookmark_action_bar_new_group_title">Yeni grup</string>
   <string name="miui_content_copy">Kopyala</string>
   <string name="miui_content_cut">Kes</string>
-  <string name="miui_content_extent_select">Daha fazla seç</string>
+  <string name="miui_content_extent_select">Fazlasını seç</string>
   <string name="miui_content_open_url">URL Aç</string>
   <string name="miui_content_paste">Yapıştır</string>
   <string name="miui_content_select">Seç</string>
@@ -384,11 +574,12 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miuichromium_error_page_btn_close">Kapat</string>
   <string name="miuichromium_error_page_btn_refresh">Yenile</string>
   <string name="miuichromium_error_page_diagnose">Ağı Tanımla</string>
-  <string name="miuichromium_error_page_diagnose_banner">Ağ tanılama</string>
+  <string name="miuichromium_error_page_diagnose_banner">Ağ Tanılama</string>
   <string name="miuichromium_error_page_diagnose_certificate">"Ağ protokolü doğrulanamadı"</string>
   <string name="miuichromium_error_page_diagnose_connection">"Ağa bağlanamıyor"</string>
   <string name="miuichromium_error_page_diagnose_dns">URL yanlış gibi görünüyor</string>
   <string name="miuichromium_error_page_diagnose_protocol">Ağ protokolü hatası</string>
+  <string name="miuichromium_error_page_diagnose_proxy_server">Proxy Sunucu Hatası</string>
   <string name="miuichromium_error_page_diagnose_success">Zayıf şebeke sinyali</string>
   <string name="miuichromium_error_page_diagnose_timeout">Bağlantı zaman aşımına uğradı</string>
   <string name="miuichromium_error_page_diagnose_website">Web sitesi çalışmıyor</string>
@@ -428,11 +619,14 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="nav_bottom_bar_new_tab">Yeni sekme</string>
   <string name="nav_screen_container_tab_incognito">Gizli sekme</string>
   <string name="nav_screen_container_tab_normal">Normal sekme</string>
+  <string name="navigationbar_rightbutton_actiontext_cancle">İptal</string>
+  <string name="navigationbar_rightbutton_actiontext_go">Git</string>
+  <string name="navigationbar_rightbutton_actiontext_search">Ara</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Bu ağa bağlan</string>
-  <string name="network_show_wifi_setting_tip_dialog_title">Açık Wi-Fi ağı kullanılabilir</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Kullanılabilir Açık Wi-Fi Ağı</string>
   <string name="new_folder_name_lable">Grup Adı</string>
   <string name="next_button_label">Sonraki</string>
-  <string name="no_matches">Sonuçsuz</string>
+  <string name="no_matches">Eşleşme yok</string>
   <string name="no_space_alert_cancel">Sonra</string>
   <string name="no_space_alert_clean">Boş alan</string>
   <string name="no_space_alert_text">Yeterli depolama alanı yok</string>
@@ -454,13 +648,15 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="paused_unknown">Durduruldu</string>
   <string name="paused_waiting_for_network">Bağlantı bekleniyor...</string>
   <string name="paused_waiting_to_retry">Tekrar denemek için bekleniyor...</string>
+  <string name="pay_failed_toast">Ödeme başarısız</string>
+  <string name="pay_success_toast">Ödeme başarılı</string>
   <string name="popup_window_attempt">Bu sitenin açılır pencere açmasına izin verilsin mi?</string>
   <string name="positive_confirm_message">Kapat</string>
   <string name="pref_accessibility">Erişebilirlik</string>
   <string name="pref_accessibility_title">Erişebilirlik</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Ortak harf kombinasyonları adres çubuğunda tek dokunuşla girilebilir</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Hızlı URL girişi</string>
-  <string name="pref_adblock_counts">%d engellendi</string>
+  <string name="pref_adblock_counts">%d reklam engellendi</string>
   <string name="pref_adblock_title">Reklam Engelleyici</string>
   <string name="pref_auto_update_under_wifi">Wi-Fi kullanarak güncelle</string>
   <string name="pref_category_hint">Kategori</string>
@@ -471,7 +667,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_clear_all_data_dlg">Yukarıdaki tüm kaydedilen veriler silinsin mi?</string>
   <string name="pref_clear_all_data_title">Tümünü temizle</string>
   <string name="pref_clear_data_title">Verileri temizle</string>
-  <string name="pref_confirm_for_exit">Çıkmadan önce sor</string>
+  <string name="pref_confirm_for_exit">Tarayıcıdan çıkmadan önce sor</string>
   <string name="pref_content_auto_light_mode">Otomatik Parlaklık</string>
   <string name="pref_content_block_popups">Açılır pencereleri engelle</string>
   <string name="pref_content_cloud_speedup">Proxy sunucusu kullanarak içeriği daha hızlı yükle</string>
@@ -480,7 +676,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_content_javascript">JavaScript\'i Etkinleştir</string>
   <string name="pref_content_night_read_mode">Gece Modu</string>
   <string name="pref_content_search_engine">Adres çubuğundaki arama motoru</string>
-  <string name="pref_content_search_engine_summary">Bir arama motoru seçin</string>
+  <string name="pref_content_search_engine_summary">Bir arama motorunu seçin</string>
   <string name="pref_enable_adblock_notification">Reklam engelleyici bildirimlerini göster</string>
   <string name="pref_enable_news">Haberler</string>
   <string name="pref_enable_novels">Kitaplar</string>
@@ -489,6 +685,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_extras_reset_default_dlg">Varsayılan değerlere ayarlar geri döndürülsün mü?</string>
   <string name="pref_extras_reset_default_summary">Varsayılan ayarları geri yükle</string>
   <string name="pref_extras_reset_default_title">Diğer</string>
+  <string name="pref_extras_send_feedback">Geribildirim gönder</string>
   <string name="pref_extras_title">Gelişmiş</string>
   <string name="pref_extras_title_version">Sürüm bilgisi</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">"Dosyaları tarayıcının varsayılan konumuna kaydet"</string>
@@ -524,8 +721,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_privacy_clear_geolocation_access_summary">Tüm web siteleri için konum erişimini temizle</string>
   <string name="pref_privacy_clear_history">Geçmişi temizle</string>
   <string name="pref_privacy_clear_history_by_group_dlg">Tarama geçmişinizi silmek istiyor musunuz?</string>
-  <string name="pref_privacy_clear_history_dlg">Tarayıcı gezinme geçmişi silinsin mi?</string>
-  <string name="pref_privacy_clear_history_summary">Tarayıcı gezinme geçmişini temizle</string>
+  <string name="pref_privacy_clear_history_dlg">Tarayıcı geçmişi silinsin mi?</string>
+  <string name="pref_privacy_clear_history_summary">Tarayıcı geçmişini temizle</string>
   <string name="pref_privacy_clear_passwords">Kayıtlı şifreleri temizle</string>
   <string name="pref_privacy_clear_passwords_dlg">Tüm kayıtlı şifreler silinsin mi?</string>
   <string name="pref_privacy_clear_passwords_summary">Kayıtlı tüm şifreleri temizle</string>
@@ -551,7 +748,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_version_info">Sürüm Bilgisi</string>
   <string name="pref_volume_key_action">Ses düğmeleri kullanarak ilerle</string>
   <string name="pref_weather_location_summary">"Tarayıcının hava durumu eklentisini kullan"</string>
-  <string name="pref_weather_location_title">Hava Durumu Yeri</string>
+  <string name="pref_weather_location_title">Hava Durumu Konumu</string>
   <string name="private_browsing_warning">Bu işlev, Android\'in bu sürümünde desteklenmiyor.</string>
   <string name="profiler_error_toast">Profiler başlatılamadı</string>
   <string name="profiler_no_storage_toast">"Harici depolama hazır değil, çünkü profiler başlatılamıyor"</string>
@@ -559,11 +756,10 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="profiler_stopped_toast">Profiler tamamlandı. Sonuç %1$s kadar.</string>
   <string name="progress_dialog_setting_wallpaper">Duvar kağıdı ayarlanıyor...</string>
   <string name="pull_to_refresh_pull_label">Yenilemek için çekin...</string>
-  <string name="pull_to_refresh_refreshing_label">Yükleniyor…</string>
   <string name="pull_to_refresh_release_label">Yenilemek için serbest bırakın</string>
   <string name="qr_code_title">QR Kodu</string>
   <string name="quicklink_bookmark_save">Favori Yeri</string>
-  <string name="quicklink_not_saved">"Başlangıç Sayfasına Eklenemedi"</string>
+  <string name="quicklink_not_saved">"Başlangıç Sayfasına eklenemedi"</string>
   <string name="quicklink_saved">Başlangıç Sayfasına kaydedildi</string>
   <string name="quicklink_saved_before">Bu site zaten eklenmiş</string>
   <string name="quicklink_user_define_webpage_title">Adı</string>
@@ -593,7 +789,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="remove_history_item">Geçmişten kaldır</string>
   <string name="remove_snapshot">Kayıtlı sayfayı sil</string>
   <string name="removed_from_bookmarks">Favorilerden kaldırıldı</string>
-  <string name="reply_comment_title">Yeniden: %s</string>
+  <string name="replace">Yenile</string>
+  <string name="reply_comment_title">Cevapla: %s</string>
   <string name="resume_download">Başlat</string>
   <string name="retry_after_network_available">"Ağa bağlanamıyor"</string>
   <string name="retry_download">Tekrar Dene</string>
@@ -618,6 +815,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="save_password_never">Asla</string>
   <string name="save_password_notnow">Şimdi değil</string>
   <string name="save_password_remember">Hatırla</string>
+  <string name="save_to">Kaydet:</string>
   <string name="save_to_camera">Kameraya kaydet</string>
   <string name="save_to_camera_failed">"Resim kaydedilemiyor"</string>
   <string name="save_to_camera_success">Kameraya kaydedildi</string>
@@ -630,13 +828,16 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Ara</string>
+  <string name="search_keyword_browser">Tarayıcı</string>
   <string name="search_label">Tarayıcı</string>
+  <string name="search_path_browser">Ayarlar/Sistem Uygulamaları/Tarayıcı</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Favori ve web geçmişi</string>
   <string name="search_shipin">Video</string>
   <string name="search_sm">SM</string>
   <string name="search_sogou">Sogou</string>
   <string name="search_taobao">Taobao</string>
+  <string name="search_title_browser">Tarayıcı</string>
   <string name="search_tupian">Resim</string>
   <string name="search_yahoo">Yahoo!</string>
   <string name="search_yicha">Yicha</string>
@@ -650,6 +851,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="select_download_device">Cihazı seç</string>
   <string name="send_comment_button">Gönder</string>
   <string name="send_comment_title">Yorum</string>
+  <string name="senddesktop">Masaüstü</string>
+  <string name="sendstartpage">Başlangıç Sayfası</string>
   <string name="share_page_text">"【%1$s】 zevk alıyorum | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Bu web sitesinin URL\'si güvenli olduğundan emin olmak için Xiaomi sunucularına gönderilir. Ayarlar bölümünden istediğiniz zaman bu özelliği kapatabilirsiniz.</string>
   <string name="show_security_tip_dialog_title">Kullanım Koşulları</string>
@@ -657,14 +860,14 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="sign_in_to" formatted="false"> %s1 için oturum aç \"%s2\"</string>
   <string name="skip_button_label">Atla</string>
   <string name="skip_current_version">Bu sürümü atla</string>
-  <string name="snapshot_failed">"Çevrimdışı okuma için kaydedilemedi"</string>
-  <string name="snapshot_successed">Çevrimdışı okuma için kaydedildi</string>
+  <string name="snapshot_failed">"Çevrimdışı okumak için kaydedilemedi"</string>
+  <string name="snapshot_successed">Çevrimdışı okumak için kaydedildi</string>
   <string name="ssl_certificate">Güvenlik sertifikası</string>
   <string name="ssl_certificate_is_valid">Bu sertifika geçerli.</string>
   <string name="ssl_continue">Devam</string>
   <string name="ssl_date_invalid">Bu sertifikanın tarihi geçersiz.</string>
   <string name="ssl_expired">Bu sertifikanın süresi doldu.</string>
-  <string name="ssl_go_back">Geri</string>
+  <string name="ssl_go_back">Geri dön</string>
   <string name="ssl_invalid">Bu sertifika geçersiz</string>
   <string name="ssl_mismatch">"Sitenin adı sertifika üzerindeki adla eşleşmiyor."</string>
   <string name="ssl_not_yet_valid">"Bu sertifika henüz geçerli değil."</string>
@@ -684,7 +887,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="suggest_access_item_app_size">%.2f MB</string>
   <string name="suggest_access_item_app_update">Güncelleme: %s</string>
   <string name="suggest_access_item_singer_albums">%d albüm</string>
-  <string name="suggest_access_item_singer_pop">%d popüler şarkılar</string>
+  <string name="suggest_access_item_singer_pop">%d popüler şarkı</string>
   <string name="suggest_access_music">Mi Müzik</string>
   <string name="suggest_open_app_failed">"Bu uygulama açılamadı"</string>
   <string name="switch_proxy_dialog_msg">"Ağı ele geçirme algılandı. MIUI\'nin yerleşik Güvenlik uygulamasının kullanın veya bunu operatörünüze raporlayın. "</string>
@@ -692,6 +895,10 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="tab_hotpage">Haber Kaynağı</string>
   <string name="tab_quicklinks">Başlangıç Sayfası</string>
   <string name="tab_yellowpage">Bağlantılar</string>
+  <string name="tae_sdk_login_qr_icon_close"></string>
+  <string name="tae_sdk_login_qr_icon_taobao"></string>
+  <string name="tae_sdk_qr_login_icon_password"></string>
+  <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="time_picker_dialog_am">ÖÖ</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
