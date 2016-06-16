@@ -12,11 +12,11 @@
         <item quantity="one">%1$d seçildi</item>
     </plurals>
     <plurals name="video_download_clear_prompt">
-        <item quantity="other">%1$d videolar temizlensin mi?</item>
+        <item quantity="other">%1$d video temizlensin mi?</item>
         <item quantity="one">%1$d video temizlensin mi?</item>
     </plurals>
     <plurals name="video_download_clear_info">
-        <item quantity="other"> %1$d videolar başarıyla kaldırıldı.</item>
+        <item quantity="other"> %1$d video başarıyla kaldırıldı.</item>
         <item quantity="one">%1$d video başarıyla kaldırıldı.</item>
     </plurals>
     <plurals name="video_history_clear_prompt">
@@ -28,8 +28,8 @@
         <item quantity="one">%1$d öğe geçmişten kaldırıldı.</item>
     </plurals>
     <plurals name="find_on_page_matches">
-        <item quantity="other">%d sonuç</item>
-        <item quantity="one">%d sonuç</item>
+        <item quantity="other">%d sonuç bulundu</item>
+        <item quantity="one">%d sonuç bulundu</item>
     </plurals>
     <plurals name="adblock_rules_number_text">
         <item quantity="other">%d öğe engellendi</item>
