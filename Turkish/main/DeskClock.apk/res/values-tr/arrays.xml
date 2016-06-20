@@ -71,7 +71,6 @@
         <item>Louisville</item>
         <item>Managua</item>
         <item>Martinique</item>
-        <item>Mendoza</item>
         <item>Metlakatla</item>
         <item>Mexico City</item>
         <item>Monterrey</item>
@@ -284,7 +283,6 @@
         <item>Monrovia</item>
         <item>Colombo</item>
         <item>Chihuahua</item>
-        <item>Salvador</item>
         <item>Gurgaon</item>
         <item>Manchester</item>
         <item>Kyiv</item>
@@ -422,9 +420,8 @@
         <item>Amerika/St_Thomas</item>
         <item>Amerika/Tijuana</item>
         <item>Amerika/Toronto</item>
-        <item>Amerika/Vancouver</item>
         <item>Amerika/Winnipeg</item>
-        <item>Antarctica/South_Pole</item>
+        <item>Antartika/South_Pole</item>
         <item>Arctic/Longyearbyen</item>
         <item>Asya/Almaty</item>
         <item>Asya/Amman</item>
@@ -434,19 +431,19 @@
         <item>Asya/Bahrain</item>
         <item>Asya/Baku</item>
         <item>Asya/Bangkok</item>
-        <item>Asya/Beirut</item>
+        <item>Asya/Beyrut</item>
         <item>Asya/Calcutta</item>
-        <item>Asya/Damascus</item>
+        <item>Asya/Şam</item>
         <item>Asya/Dhaka</item>
         <item>Asya/Dubai</item>
-        <item>Asya/Gaza</item>
+        <item>Asya/Gazze</item>
         <item>Asya/Hebron</item>
         <item>Asya/Ho_Chi_Minh</item>
         <item>Asya/Hong_Kong</item>
         <item>Asya/Jakarta</item>
-        <item>Asya/Jerusalem</item>
-        <item>Asya/Kabul</item>
-        <item>Asya/Karachi</item>
+        <item>Asya/Kudüs</item>
+        <item>Asya/Kabil</item>
+        <item>Asya/Karaçi</item>
         <item>Asya/Kathmandu</item>
         <item>Asya/Kuala_Lumpur</item>
         <item>Asya/Kuwait</item>
@@ -467,23 +464,23 @@
         <item>Asya/Tel_Aviv</item>
         <item>Asya/Tokyo</item>
         <item>Asya/Ulaanbaatar</item>
-        <item>Atlantic/Bermuda</item>
-        <item>Atlantic/Canary</item>
-        <item>Atlantic/Cape_Verde</item>
-        <item>Atlantic/Reykjavik</item>
-        <item>Atlantic/Stanley</item>
-        <item>Australia/Adelaide</item>
-        <item>Australia/Brisbane</item>
-        <item>Australia/Canberra</item>
-        <item>Australia/Darwin</item>
-        <item>Australia/Melbourne</item>
-        <item>Australia/NSW</item>
-        <item>Australia/Perth</item>
-        <item>Australia/Queensland</item>
-        <item>Australia/Sydney</item>
-        <item>Australia/Victoria</item>
-        <item>Canada/Newfoundland</item>
-        <item>Canada/Saskatchewan</item>
+        <item>Atlantik/Bermuda</item>
+        <item>Atlantik/Canary</item>
+        <item>Atlantik/Cape_Verde</item>
+        <item>Atlantik/Reykjavik</item>
+        <item>Atlantik/Stanley</item>
+        <item>Avusturalya/Adelaide</item>
+        <item>Avusturalya/Brisbane</item>
+        <item>Avusturalya/Canberra</item>
+        <item>Avusturalya/Darwin</item>
+        <item>Avusturalya/Melbourne</item>
+        <item>Avusturalya/NSW</item>
+        <item>Avusturalya/Perth</item>
+        <item>Avusturalya/Queensland</item>
+        <item>Avusturalya/Sydney</item>
+        <item>Avusturalya/Victoria</item>
+        <item>Kanada/Newfoundland</item>
+        <item>Kanada/Saskatchewan</item>
         <item>Chile/EasterIsland</item>
         <item>Avrupa/Amsterdam</item>
         <item>Avrupa/Andorra</item>
@@ -501,7 +498,7 @@
         <item>Avrupa/Gibraltar</item>
         <item>Avrupa/Helsinki</item>
         <item>Avrupa/Isle_of_Man</item>
-        <item>Avrupa/Istanbul</item>
+        <item>Avrupa/İstanbul</item>
         <item>Avrupa/Lisbon</item>
         <item>Avrupa/London</item>
         <item>Avrupa/Luxembourg</item>
@@ -514,16 +511,16 @@
         <item>Avrupa/Paris</item>
         <item>Avrupa/Prague</item>
         <item>Avrupa/Riga</item>
-        <item>Avrupa/Rome</item>
+        <item>Avrupa/Roma</item>
         <item>Avrupa/San_Marino</item>
-        <item>Avrupa/Sarajevo</item>
+        <item>Avrupa/Saraybosna</item>
         <item>Avrupa/Simferopol</item>
         <item>Avrupa/Skopje</item>
-        <item>Avrupa/Sofia</item>
+        <item>Avrupa/Sofya</item>
         <item>Avrupa/Stockholm</item>
         <item>Avrupa/Tallinn</item>
         <item>Avrupa/Vatican</item>
-        <item>Avrupa/Vienna</item>
+        <item>Avrupa/Viyana</item>
         <item>Avrupa/Vilnius</item>
         <item>Avrupa/Warsaw</item>
         <item>Avrupa/Zagreb</item>
@@ -623,8 +620,7 @@
         <item>Asya/Jerusalem</item>
         <item>Amerika/Puerto Rico</item>
         <item>Amerika/Tegucigalpa</item>
-        <item>Amerika/Paramaribo</item>
-        <item>Amerika/Panama</item>
+        <item>America/Panama</item>
     </string-array>
     <string-array name="cities_id_miui">
         <item>C1</item>
@@ -697,7 +693,6 @@
         <item>C68</item>
         <item>C69</item>
         <item>C70</item>
-        <item>C71</item>
         <item>C72</item>
         <item>C73</item>
         <item>C74</item>
@@ -910,7 +905,6 @@
         <item>C283</item>
         <item>C284</item>
         <item>C285</item>
-        <item>C286</item>
         <item>C287</item>
         <item>C288</item>
         <item>C289</item>
