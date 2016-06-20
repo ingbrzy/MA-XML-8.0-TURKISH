@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d seçildi</item>
+        <item quantity="one">%d seçildi</item>
+    </plurals>
+    <plurals name="confirm_delete_broadcast">
+        <item quantity="other">%1$s seçildi, alarm mesajları silinecek</item>
+        <item quantity="one">1 seçildi,  alarm mesajları silinecek</item>
+    </plurals>
+</resources>
