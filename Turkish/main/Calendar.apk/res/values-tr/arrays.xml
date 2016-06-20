@@ -6,7 +6,13 @@
         <item>SMS</item>
         <item>Alarm</item>
     </string-array>
-	<string-array name="reminder_minutes_labels">
+	<integer-array name="reminder_methods_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <string-array name="reminder_minutes_labels">
         <item>Hatırlatıcısız</item>
         <item>0 dakika</item>
         <item>5 dakika</item>
@@ -60,7 +66,13 @@
         <item>Pazar</item>
         <item>Pazartesi</item>
     </string-array>
-	<string-array name="timezone_labels">
+	<string-array name="preferences_week_start_day_values">
+        <item>-1</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="timezone_labels">
         <item>Marshall Adaları</item>
         <item>Midway Adası</item>
         <item>Hawaii</item>
@@ -145,13 +157,104 @@
         <item>Auckland</item>
         <item>Fiji</item>
         <item>Tonga</item>
-</string-array>
+    </string-array>
+    <string-array name="timezone_values">
+        <item>Pasifik/Majuro</item>
+        <item>Pasifik/Midway</item>
+        <item>Pasifik/Honolulu</item>
+        <item>Amerika/Anchorage</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Tijuana</item>
+        <item>Amerika/Phoenix</item>
+        <item>Amerika/Chihuahua</item>
+        <item>Amerika/Denver</item>
+        <item>Amerika/Costa_Rica</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/Mexico_City</item>
+        <item>Amerika/Regina</item>
+        <item>Amerika/Bogota</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Caracas</item>
+        <item>Amerika/Barbados</item>
+        <item>Amerika/Halifax</item>
+        <item>Amerika/Manaus</item>
+        <item>Amerika/Santiago</item>
+        <item>Amerika/St_Johns</item>
+        <item>Amerika/Sao_Paulo</item>
+        <item>Amerika/Argentina/Buenos_Aires</item>
+        <item>Amerika/Godthab</item>
+        <item>Amerika/Montevideo</item>
+        <item>Atlantik/South_Georgia</item>
+        <item>Atlantik/Azores</item>
+        <item>Atlantik/Cape_Verde</item>
+        <item>Afrika/Casablanca</item>
+        <item>Avrupa/London</item>
+        <item>Avrupa/Amsterdam</item>
+        <item>Avrupa/Belgrade</item>
+        <item>Avrupa/Brussels</item>
+        <item>Avrupa/Sarajevo</item>
+        <item>Afrika/Windhoek</item>
+        <item>Afrika/Brazzaville</item>
+        <item>Asya/Ümman</item>
+        <item>Avrupa/Atina</item>
+        <item>Asya/Beyrut</item>
+        <item>Afrika/Kahire</item>
+        <item>Avrupa/Helsinki</item>
+        <item>Asya/Jerusalem</item>
+        <item>Avrupa/Minsk</item>
+        <item>Afrika/Harare</item>
+        <item>Asya/Bağdat</item>
+        <item>Avrupa/Moscow</item>
+        <item>Asya/Kuwait</item>
+        <item>Afrika/Nairobi</item>
+        <item>Asya/Tehran</item>
+        <item>Asya/Baku</item>
+        <item>Asya/Tiflis</item>
+        <item>Asya/Yerevan</item>
+        <item>Asya/Dubai</item>
+        <item>Asya/Kabul</item>
+        <item>Asya/Karachi</item>
+        <item>Asya/Oral</item>
+        <item>Asya/Yekaterinburg</item>
+        <item>Asya/Calcutta</item>
+        <item>Asya/Colombo</item>
+        <item>Asya/Katmandu</item>
+        <item>Asya/Almati</item>
+        <item>Asya/Rangoon</item>
+        <item>Asya/Krasnoyarsk</item>
+        <item>Asya/Bangkok</item>
+        <item>Asya/Shanghai</item>
+        <item>Asya/Hong_Kong</item>
+        <item>Asya/Irkutsk</item>
+        <item>Asya/Kuala_Lumpur</item>
+        <item>Avusturalya/Perth</item>
+        <item>Asya/Taipei</item>
+        <item>Asya/Seoul</item>
+        <item>Asya/Tokyo</item>
+        <item>Asya/Yakutsk</item>
+        <item>Avusturalya/Adelaide</item>
+        <item>Avusturalya/Darwin</item>
+        <item>Avusturalya/Brisbane</item>
+        <item>Avusturalya/Hobart</item>
+        <item>Avusturalya/Sydney</item>
+        <item>Asya/Vladivostok</item>
+        <item>Pasifik/Guam</item>
+        <item>Asya/Magadan</item>
+        <item>Pasifik/Auckland</item>
+        <item>Pasifik/Fiji</item>
+        <item>Pasifik/Tongatapu</item>
+    </string-array>
     <string-array name="availability">
         <item>Meşgul</item>
         <item>Uygun</item>
         <item>Belirsiz</item>
     </string-array>
-<string-array name="visibility">
+    <integer-array name="availability_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="visibility">
         <item>Varsayılan</item>
         <item>Özel</item>
         <item>Genel</item>
@@ -174,7 +277,12 @@
         <item>Bu ve gelecek etkinlikler</item>
         <item>Tüm etkinlikler</item>
     </string-array>
-	<string-array name="delete_repeating_labels_no_selected">
+	<integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="delete_repeating_labels_no_selected">
         <item>Bu ve gelecek etkinlikler</item>
         <item>Tüm etkinlikler</item>
     </string-array>
@@ -380,4 +488,40 @@
         <item>#fff1faf1</item>
         <item>#ff91c58e</item>
     </array>
+    <array name="action_bar_colors">
+        <item>#ff7d97e1</item>
+        <item>#ff27bbd0</item>
+        <item>#ff8cc061</item>
+        <item>#ff3fbc7d</item>
+        <item>#ff11b599</item>
+        <item>#fff38f3a</item>
+        <item>#ffeb6e4a</item>
+        <item>#ffdd5a62</item>
+        <item>#ffe8774d</item>
+        <item>#ffe29255</item>
+        <item>#ff579ee0</item>
+        <item>#ff9b88d0</item>
+    </array>
+    <array name="month_today_colors">
+        <item>#ff809be8</item>
+        <item>#ff2ec2d7</item>
+        <item>#ff99ce6d</item>
+        <item>#ff46c987</item>
+        <item>#ff15bb9e</item>
+        <item>#fff49d52</item>
+        <item>#fff4734d</item>
+        <item>#ffea646b</item>
+        <item>#ffed7d54</item>
+        <item>#ffe8995d</item>
+        <item>#ff5ea4e6</item>
+        <item>#ffab99de</item>
+    </array>
+    <string-array name="fortune_gender">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <integer-array name="fortune_gender_values">
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
 </resources>
