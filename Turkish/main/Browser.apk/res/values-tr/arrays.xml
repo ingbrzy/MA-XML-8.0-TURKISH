@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="config_keySystemUuidMapping" />
+    <string-array name="pref_ua_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_homepage_values">
+        <item>miui_home</item>
+        <item>other</item>
+    </string-array>
     <string-array name="pref_text_zoom_values">
         <item>50</item>
         <item>75</item>
@@ -320,6 +330,20 @@
         <item>@string/pref_link_prefetch_value_wifi_only</item>
         <item>@string/pref_link_prefetch_value_always</item>
     </string-array>
+    <integer-array name="readmode_content_font_size">
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+    </integer-array>
+    <integer-array name="readmode_title_font_size">
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>32</item>
+        <item>36</item>
+    </integer-array>
     <integer-array name="readmode_theme_bgcolors">
         <item>0xfff7f7f7</item>
         <item>0xffe6ddd1</item>
@@ -330,7 +354,7 @@
     </integer-array>
     <integer-array name="readmode_theme_fontcolors">
         <item>0xff000000</item>
-        <item>0xff737770</item>
+        <item>0xff000000</item>
         <item>0xff3e4042</item>
         <item>0xff543b20</item>
         <item>0xff2e3833</item>
