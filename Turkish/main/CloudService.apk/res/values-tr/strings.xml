@@ -77,8 +77,7 @@ Son yedekleme: %2$s"</string>
   <string name="find_device_disabled_title">Telefonu Bul devre dışı</string>
   <string name="find_device_disabling">Kapatılıyor…</string>
   <string name="find_device_dspt">Uzaktan cihazın; Konumu, Kilitlenmesi veya Sıfırlanması sağlayın</string>
-  <string name="find_device_dspt_provision">"Eğer cihazını kaybedecek olursanız; %s konumu, kilitlenmesini veya sıfırlanmasını yapabilirsiniz. Bu özelliği istediğiniz zaman Ayarlar\'dan açıp/kapatabilirsiniz.
-"</string>
+  <string name="find_device_dspt_provision">"Eğer cihazını kaybedecek olursanız; %s konumu, kilitlenmesini veya sıfırlanmasını yapabilirsiniz. Bu özelliği istediğiniz zaman Ayarlar\'dan açıp/kapatabilirsiniz."</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">"www.mi.com/micloud"</string>
   <string name="find_device_dspt_provision_3">. Bu özelliği istediğiniz zaman Ayarlar\'dan açıp/kapatabilirsiniz.</string>
@@ -230,6 +229,11 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_main_memory_low_message">"Eşitleme için, bulutta depolanmış bazı öğeleri silin."</string>
   <string name="micloud_main_memory_low_title">Telefonun dahili hafızası nedeyse dolmak üzere</string>
   <string name="micloud_main_message_not_synced">%s veri eşitlenemedi</string>
+  <string name="micloud_main_multi_user_error_message">"Benzer bir hesapla oturum açıp ilk alanı ve ve Mi Bulut durmasını çözebilirsiniz. Eğer veriyi yedeklemek isterseniz:
+
+1.Diğer hesabı kullan
+2.İlk boşluğa veriyi transfer et"</string>
+  <string name="micloud_main_multi_user_error_title">Mi Bulut durduruldu</string>
   <string name="micloud_main_network_abnormal">"Ağa bağlanamıyor"</string>
   <string name="micloud_main_network_error">"Ağa bağlanamıyor"</string>
   <string name="micloud_main_not_sync">%d öğe eşitlenmek için bekliyor</string>
@@ -248,7 +252,7 @@ Daha fazla özelliğe erişmek için Eşitleme Ayarları düğmesine dokunun."</
   <string name="micloud_main_sync_init">Bilgi alınıyor</string>
   <string name="micloud_main_sync_now">Şimdi eşitle</string>
   <string name="micloud_main_sync_on">Eşitleme açık</string>
-  <string name="micloud_main_sync_on_wifi">Wi-Fi bağlantısı için bekleniyor</string>
+  <string name="micloud_main_sync_on_wifi">WLAN bağlantısı için bekleniyor</string>
   <string name="micloud_main_sync_pause">Eşitleme durdu</string>
   <string name="micloud_main_sync_pending">Eşitleme için bekleniyor</string>
   <string name="micloud_main_sync_setting">Eşitleme Ayarları</string>
@@ -259,7 +263,7 @@ Daha fazla özelliğe erişmek için Eşitleme Ayarları düğmesine dokunun."</
   <string name="micloud_main_title_not_synced">Eşitlenmedi</string>
   <string name="micloud_main_title_sync_fail">"Eşitleyemiyor"</string>
   <string name="micloud_main_title_sync_off">Eşitleme kapalı</string>
-  <string name="micloud_main_title_sync_on_wifi">Wi-Fi kullan</string>
+  <string name="micloud_main_title_sync_on_wifi">WLAN kullan</string>
   <string name="micloud_main_update_space">Daha fazla alan al.</string>
   <string name="micloud_main_wlan_sync_data_count">%d öğeler eşitlemeyi bekliyor</string>
   <string name="micloud_member">Mi Bulut üyeliği</string>
@@ -279,10 +283,11 @@ Daha fazla özelliğe erişmek için Eşitleme Ayarları düğmesine dokunun."</
   <string name="micloud_member_webload_fail_toast_5xx">Sunucu hatası</string>
   <string name="micloud_more">Fazlasını öğren</string>
   <string name="micloud_notif_content_battery_low">Pil seviyesi çok düşük.</string>
-  <string name="micloud_notif_content_clipboard_push">Her an heryerden yapıştırabilirsiniz.</string>
+  <string name="micloud_notif_content_clipboard_push">Heran heryerden yapıştırabilirsiniz.</string>
   <string name="micloud_notif_content_depend_wifi">Eşitleme için WLAN ile bağlan.</string>
   <string name="micloud_notif_content_master_depend_wifi">Önce WLAN ağına bağlan.</string>
   <string name="micloud_notif_content_memory_low">Yetersiz depolama alanı.</string>
+  <string name="micloud_notif_content_multi_user_error">Orjinal alana benzer hesapla oturum açın.</string>
   <string name="micloud_notif_content_sync_finish">Hesap</string>
   <string name="micloud_notif_content_sync_not_finish">Detay</string>
   <string name="micloud_notif_content_sync_with_off">Cihazı şimdi eşitlemek için dokunun.</string>
@@ -291,6 +296,7 @@ Daha fazla özelliğe erişmek için Eşitleme Ayarları düğmesine dokunun."</
   <string name="micloud_notif_title_depend_wifi">%d eşitlemek için bekliyor</string>
   <string name="micloud_notif_title_master_depend_wifi">"Mi Bulut ile eşitlenemedi"</string>
   <string name="micloud_notif_title_memory_low">"Mi Bulut ile eşitlenemedi"</string>
+  <string name="micloud_notif_title_multi_user_error">"Mi Bulut ile eşitlenemedi"</string>
   <string name="micloud_notif_title_sync_finish">Eşitlendi</string>
   <string name="micloud_notif_title_sync_not_finish">Eşitlenmedi</string>
   <string name="micloud_notif_title_sync_progress">Eşitleniyor</string>
@@ -383,6 +389,8 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="pref_title_sync_display_photo_on_wifi_only">Fotoğrafları sadece WLAN kullanarak eşitle</string>
   <string name="pref_title_sync_video_on_wifi_only">Videoları sadece WLAN kullanarak eşitle</string>
   <string name="privacy_policy">Gizlilik Politikası </string>
+  <string name="provision_arrow_back">&lt;</string>
+  <string name="provision_arrow_next">&gt;</string>
   <string name="remind_later">Şimdi değil</string>
   <string name="restoreSync">Şimdi eşitle</string>
   <string name="setting">Ayarlar</string>
@@ -444,12 +452,13 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="sync_sub_int_dspt">Etkinleştirme işleminden dolayı öperatörünüz bir uluslararası SMS gönderim bedeli talep edebilir.</string>
   <string name="title_reg">Mi Hesabı oluştur</string>
   <string name="total_space_upgraded_to">Toplam Alan:%s</string>
+  <string name="trying_to_connect_to_network">Ağa bağlanıyor…</string>
   <string name="unactivated_user">Oturum kapatıldı</string>
   <string name="upgrade_space">Alan ekle</string>
   <string name="upgrade_space_gb">GB</string>
   <string name="upgrade_space_mibipreyear">Yıllık %s Mi Kredisi</string>
-  <string name="upgrade_space_successful">%s GB eklendi</string>
-  <string name="upgrade_space_successful_total">%s GB geçerli</string>
+  <string name="upgrade_space_successful">%sGB eklendi</string>
+  <string name="upgrade_space_successful_total">%sGB geçerli</string>
   <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi </string>
   <string name="user_agreement_p5">"
