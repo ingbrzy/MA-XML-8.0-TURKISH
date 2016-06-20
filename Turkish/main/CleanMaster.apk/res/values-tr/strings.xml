@@ -70,6 +70,7 @@
   <string name="button_text_view_file">Dosya</string>
   <string name="buy_immediately">Satınal</string>
   <string name="buy_traffic_pack">Fazla Veri Satınal</string>
+  <string name="byteShort">B</string>
   <string name="cache_title_empty_folder">Boş Klasör (%d)</string>
   <string name="cache_title_empty_folder2">Boş Klasör</string>
   <string name="cache_title_system_cache">Sistem Önbelleği</string>
@@ -152,6 +153,7 @@
   <string name="garbage_clean_detail">Detaylar</string>
   <string name="garbage_cleanup_detail">%1$d kez,  %2$s temizlendi</string>
   <string name="garbage_month">Bu ay %s temizlendi</string>
+  <string name="gigabyteShort">GB</string>
   <string name="go_to">Devam</string>
   <string name="goto_set">Ayarla</string>
   <string name="grabage_rank_title">Bugün temizlendi</string>
@@ -204,7 +206,7 @@
   <string name="hints_quick_cleanning">Temizleniyor…</string>
   <string name="hints_quick_cleanuping">En iyi hale getiriliyor……</string>
   <string name="hints_quick_deep_clean">Temizle</string>
-  <string name="hints_quick_deep_scanning">Taranıyor</string>
+  <string name="hints_quick_deep_scanning">Taranıyor...</string>
   <string name="hints_quick_deep_uninstall">Sil</string>
   <string name="hints_quick_prepare">Hazırlanıyor…</string>
   <string name="hints_quick_scanning">Taranıyor…</string>
@@ -224,6 +226,7 @@
   <string name="installing">Yükleniyor</string>
   <string name="item_title_process_mode">Bir faaliyet seç</string>
   <string name="just_now">Şimdi</string>
+  <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Yok</string>
   <string name="label_preserve_the_best_image">Net fotoğraf kaydedin</string>
   <string name="last_check_canceled">Önceki tarama iptal edildi</string>
@@ -233,6 +236,7 @@
   <string name="long_click_dialog_title">İhbar</string>
   <string name="mainbtn_text_quick_cleanup"> %s temizle</string>
   <string name="mainbtn_text_quick_cleanup_default">Temizle</string>
+  <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d uygulama,  %2$s hafıza</string>
   <string name="month_day_format">dd MMM</string>
   <string name="msg_cleanup_db_update_checking">Güncellemeler kontrol ediliyor…</string>
@@ -262,6 +266,7 @@
   <string name="open_browser">Tarayıcıda Aç</string>
   <string name="optimizecenter_data_support_cm">Clean Master tarafından güçlendirilmiştir</string>
   <string name="optimizecenter_data_support_tc">Tencent tarafından güçlendirilmiştir</string>
+  <string name="petabyteShort">PB</string>
   <string name="positive_confirm">Tamam</string>
   <string name="pref_category_title_auto_clean_settings">Otomatik olarak temizle</string>
   <string name="pref_category_title_auto_update_cleanup_db">Ek Ayarlar</string>
@@ -361,6 +366,7 @@
   <string name="summary_delete_large_file">Seçili uygulamaların nadiren kullanılanları silinsin mi?</string>
   <string name="summary_delete_video">Seçili videoların nadiren kullanılanları silinsin mi?</string>
   <string name="summary_optimizer">"Bu özellik, Cheetah Mobile çevrimiçi veritabanını güncellemek için klasör isimlerini yükler ve cihazınızın kimliğine ihtiyaç duyar"</string>
+  <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Dosya isimlerini yükle</string>
   <string name="there_is_no">Herşey güzel gözüküyor, sonra tekrar deneyin</string>
   <string name="tips_of_app_manage">Nadiren kullanılan uygulamaları silip depolamada daha fazla alan kazanın</string>
@@ -414,6 +420,7 @@
   <string name="total_clean_text">Temizle</string>
   <string name="traffic_top">En fazla veri tüketen 5 uygulama</string>
   <string name="unlike">Hayır, teşekkürler</string>
+  <string name="update_date_format">dd-MM-yyyy</string>
   <string name="virus_scan">Virüs Tara</string>
   <string name="white_list_ad_header">Reklam Dosyaları: %d</string>
   <string name="white_list_apk_header">Yükleme Paketleri: %d</string>
