@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="group_move_success_toast">
+        <item quantity="other">成功移动%1$d位联系人</item>
+    </plurals>
+    <plurals name="group_copy_success_toast">
+        <item quantity="other">成功复制%1$d位联系人</item>
+    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d kişi telefon numarası ile görüntüleniyor</item>
         <item quantity="one">1 kişi telefon numarası ile görüntüleniyor</item>
@@ -111,11 +117,11 @@
     </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other"> %1$d numara engellensin mi?</item>
-        <item quantity="one">Bu numara engellensin mi?</item>
+        <item quantity="one">Numara engellensin mi?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
         <item quantity="other">%1$d numara Kara Listeden kaldırılsın mı?</item>
-        <item quantity="one">Bu numara Kara Listeden kaldırılsın mı?</item>
+        <item quantity="one">Numara Kara Listeden kaldırılsın mı?</item>
     </plurals>
     <plurals name="voip_contacts_count">
         <item quantity="other">%1$d kişi</item>
@@ -130,7 +136,7 @@
         <item quantity="one">Kişi: %1$d</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">Eşitlenmemiş Kişi: %d</item>
-        <item quantity="one">Eşitlenmemiş Kişi: 1</item>
+        <item quantity="other">"%d kişi veya fotoğraf eşitlenmedi"</item>
+        <item quantity="one">1 kişi veya fotoğraf eşitlenmedi</item>
     </plurals>
 </resources>
