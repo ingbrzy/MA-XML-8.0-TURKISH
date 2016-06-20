@@ -29,8 +29,8 @@
         <item quantity="one">%d dakika erteleniyor.</item>
     </plurals>
     <plurals name="auto_silence_summary">
-        <item quantity="other">Alarm %d dakika sonra susturulur</item>
-        <item quantity="one">Alarm %d dakika sonra susturulur</item>
+        <item quantity="other">Alarm %d dakika sonra susturulacak</item>
+        <item quantity="one">Alarm %d dakika sonra susturulacak</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Seçili alarmlar silinsin mi?</item>
