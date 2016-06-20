@@ -140,6 +140,8 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="agps_roaming_dia_title">Dolaşımdayken A-GPS kullan</string>
   <string name="agps_roaming_summary">Dolaşım sırasında A-GPS için mobil veri kullan</string>
   <string name="airplane_mode">Uçak Modu</string>
+  <string name="alarm_sound_dialog_title">Alarm seçiniz</string>
+  <string name="alarm_sound_title">Alarm sesi</string>
   <string name="alarm_volume_option_title">Alarm Seviyesi</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="all_volume_title">Sesler</string>
@@ -302,6 +304,9 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="auto_startup_count">%d uygulamaya otomatik başlama izni verildi</string>
   <string name="automatic_brightness">Otomatik Parlaklık</string>
   <string name="available_size">%s mevcut</string>
+  <string name="available_via_passpoint"> %1$s kullanılabilir</string>
+  <string name="average_memory_use">Ortalama bellek kullanımı</string>
+  <string name="average_used">Average used (%)</string>
   <string name="awake">Aygıtın uyanık kalma süresi</string>
   <string name="back_key">Geri</string>
   <string name="background_data">Arkaplan Verisi</string>
@@ -1261,6 +1266,8 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="erase_optional">İçerik</string>
   <string name="erase_personal_data">Şahsi Verilerin Silinmesi</string>
   <string name="erase_personal_data_description">Mi Hesap bilgisi, uygulama verilerini ve sistem ayarlarını sil</string>
+   <string name="erase_sd_data">SD kartı biçimlendir</string>
+  <string name="erase_sd_data_description">Biçimlendirme SD karttaki tüm dosya ve verileri silecektir.</string>
   <string name="erase_sure">Şahsi Veriler</string>
   <string name="error_apn_empty">"APN boş olamaz."</string>
   <string name="error_mcc_not3">MCC alanında 3 rakam olmalıdır.</string>
@@ -1370,6 +1377,11 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="frequently_fragment_delete">Kaldır</string>
   <string name="frequently_fragment_tempty">Sık kullanılan öğeler burada listelenecektir</string>
   <string name="gadget_bluetooth">Bluetooth</string>
+   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
+  <string name="fullbackup_data_summary">"Automatically back up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps) remotely.
+
+When you turn on automatic backup, device and app data is periodically saved remotely. App data can be any data that an app has saved (based on developer settings), including potentially sensitive data such as contacts, messages, and photos."</string>
+  <string name="fullbackup_erase_dialog_message">Stop backing up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps), plus erase all copies on Google Drive?</string>
   <string name="gadget_brightness_state_auto">Otomatik</string>
   <string name="gadget_brightness_state_full">Tam</string>
   <string name="gadget_brightness_state_half">Yarım</string>
@@ -3762,6 +3774,7 @@ Farklı bir WLAN ağına başlanmak için "&lt;b&gt;Geri&lt;/b&gt; tuşuna dokun
   <string name="wifi_tether_enabled_subtext">Taşınabilir Hotspot %1$s etkin</string>
   <string name="wifi_tether_failed_subtext">Taşınabilir Hotspot hatası</string>
   <string name="wifi_tether_setting_title">Ayarlar</string>
+  <string name="wifi_tether_settings_title">Taşınabilir Hotspot </string>
   <string name="wifi_tether_starting">Hotspot açılıyor…</string>
   <string name="wifi_tether_stopping">Hotspot kapatılıyor…</string>
   <string name="wifi_type_approval"/>
