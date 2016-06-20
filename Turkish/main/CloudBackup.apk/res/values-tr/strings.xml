@@ -15,6 +15,9 @@
   <string name="backup_success">Başarıyla yedeklendi</string>
   <string name="backup_successfully">Başarıyla yedeklendi</string>
   <string name="backup_to_cloud">Uygulamayı Yedekle</string>
+  <string name="btn_back">Geri</string>
+  <string name="btn_continue">Devam</string>
+  <string name="btn_skip">Bu adımı atla</string>
   <string name="button_cancel">İptal</string>
   <string name="button_delete">Sil</string>
   <string name="button_next">Sonraki</string>
@@ -93,6 +96,8 @@ Not: Yüklediğiniz uygulamalar için verileri Mi Bulut'ta yedeklenmiyecek"</str
   <string name="open_wifi_description">Uygulamayı WLAN bağlandığında geri yükle</string>
   <string name="open_wifi_setting">WLAN Ayarları</string>
   <string name="process_whole_recovery">\"%s\" geri yükleniyor</string>
+  <string name="provision_arrow_back">&lt;</string>
+  <string name="provision_arrow_next">&gt;</string>
   <string name="query_restore_back_view">Mi Bulut Yedeği</string>
   <string name="query_restore_description">Bu yedeği kullanarak Ana Ekran uygulamalarını ve ayarları geri yükleyin. Cihazda yüklü uygulamaların üstüne aynı uygulamanın verileri yazılır. En son yüklenen uygulamalar bu işleme tabi değildir.</string>
   <string name="query_restore_summary">Bu cihaz için Mi Bulut yedeklemesi bulundu. Ana ekran uygulamaları ve ayarları geri yüklemek veya yeni bir cihaz olarak kullanmak için önce önceki Mi Bulut yedeklerini silmek ister misiniz?</string>
