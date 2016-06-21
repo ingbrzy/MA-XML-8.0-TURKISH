@@ -54,19 +54,13 @@
   <string name="daily_forcast_drawer_on_bottom">Gizle</string>
   <string name="daily_forcast_drawer_on_top">%1$s günlük tahmin</string>
   <string name="daily_forcast_no_stable_direction">Rüzgarsız</string>
-  <string name="daily_forcast_temperature_connect"/>
-  <string name="daily_forcast_drawer_on_bottom">Gizli</string>
-  <string name="daily_forcast_drawer_on_top">Diğer Zamanları Görüntüle</string>
   <string name="daily_forcast_no_wind">Rüzgarsız</string>
-  <string name="daily_forcast_temperature_connect"/>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s sonra.</string>
   <string name="daily_forcast_whirl_wind">Kasırga</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
-  <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
-  <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title"/>
   <string name="edit_city">Düzenle</string>
   <string name="empty">" "</string>
@@ -129,7 +123,6 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="share_weather_save_pic_fail">"Ekran görüntüsü alınamadı"</string>
   <string name="sunrise">Gündoğumu</string>
   <string name="sunset">Günbatımı</string>
-  <string name="temperature_unit">%1$sм/string>
   <string name="title_share_link">URL\'yi Paylaş</string>
   <string name="top_pollution_co">CO</string>
   <string name="top_pollution_no2">NO2</string>
