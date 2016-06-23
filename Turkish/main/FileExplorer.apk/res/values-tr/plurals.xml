@@ -33,6 +33,14 @@
         <item quantity="many">Kalan indirme dosyası: %1$d</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Kalan indirme dosyası: %1$d</item>
+        <item quantity="zero">Kalan indirme dosyası: %1$d</item>
+        <item quantity="one">Kalan indirme dosyası: %1$d</item>
+        <item quantity="two">Kalan indirme dosyası: %1$d</item>
+        <item quantity="few">Kalan indirme dosyası: %1$d</item>
+        <item quantity="many">Kalan yükleme dosyası: %1$d</item>
+        </plurals>
+    <plurals name="ui_bar_txt_transport_progress">
         <item quantity="other">Kalan yükleme dosyası: %1$d</item>
         <item quantity="zero">Kalan yükleme dosyası: %1$d</item>
         <item quantity="one">Kalan yükleme dosyası: %1$d</item>
@@ -119,6 +127,38 @@
         <item quantity="two">%1$d gün önce</item>
         <item quantity="few">%1$d gün önce</item>
         <item quantity="many">%1$d gün önce</item>
+        </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%1$d saniye</item>
+        <item quantity="zero">%1$d saniye</item>
+        <item quantity="one">%1$d saniye</item>
+        <item quantity="two">%1$d saniye</item>
+        <item quantity="few">%1$d saniye</item>
+        <item quantity="many">%1$d saniye</item>
+    </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$d dakika</item>
+        <item quantity="zero">%1$d dakika</item>
+        <item quantity="one">%1$d dakika</item>
+        <item quantity="two">%1$d dakika</item>
+        <item quantity="few">%1$d dakika</item>
+        <item quantity="many">%1$d dakika</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d saat</item>
+        <item quantity="zero">%1$d saat</item>
+        <item quantity="one">%1$d saat</item>
+        <item quantity="two">%1$d saat</item>
+        <item quantity="few">%1$d saat</item>
+        <item quantity="many">%1$d saat</item>
+        </plurals>
+    <plurals name="days">
+        <item quantity="other">%1$d gün</item>
+        <item quantity="zero">%1$d gün</item>
+        <item quantity="one">%1$d gün</item>
+        <item quantity="two">%1$d gün</item>
+        <item quantity="few">%1$d gün</item>
+        <item quantity="many">%1$d gün</item>
     </plurals>
     <plurals name="found_new_files">
         <item quantity="other">%1$d yeni dosya bulundu</item>
@@ -191,7 +231,8 @@
         <item quantity="two"> İndirilenler</item>
         <item quantity="few"> İndirilenler</item>
         <item quantity="many"> İndirilenler</item>
-    </plurals><plurals name="video_play_num">
+    </plurals>
+    <plurals name="video_play_num">
         <item quantity="other">%1$s görüntüle</item>
         <item quantity="zero">%1$s görüntüle</item>
         <item quantity="one">%1$s görüntüle</item>
@@ -207,6 +248,14 @@
         <item quantity="few">%1$s video</item>
         <item quantity="many">%1$s video</item>
     </plurals>
+    <plurals name="follower_num">
+        <item quantity="other">takipçi</item>
+        <item quantity="zero">takipçi</item>
+        <item quantity="one">takipçi</item>
+        <item quantity="two">takipçi</item>
+        <item quantity="few">takipçi</item>
+        <item quantity="many">takipçi</item>
+    </plurals>
     <plurals name="user_upload_items">
         <item quantity="other">video</item>
         <item quantity="zero">video</item>
@@ -214,5 +263,21 @@
         <item quantity="two">video</item>
         <item quantity="few">video</item>
         <item quantity="many">video</item>
+    </plurals>
+    <plurals name="number_of_comment">
+        <item quantity="other">%1$s yorum</item>
+        <item quantity="zero">%1$s yorum</item>
+        <item quantity="one">%1$s yorum</item>
+        <item quantity="two">%1$s yorum</item>
+        <item quantity="few">%1$s yorum</item>
+        <item quantity="many">%1$s yorum</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$s video</item>
+        <item quantity="zero">%1$s video</item>
+        <item quantity="one">%1$s video</item>
+        <item quantity="two">%1$s video</item>
+        <item quantity="few">%1$s video</item>
+        <item quantity="many">%1$s video</item>
     </plurals>
 </resources>
