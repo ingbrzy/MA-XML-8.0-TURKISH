@@ -18,8 +18,8 @@
   <string name="account_security_policy_explanation_fmt">Sunucu %s uzaktan Android cihazının bazı güvenlik özelliklerini kontrol etmesi için izninize ihtiyacı var.</string>
   <string name="account_security_title">Cihaz Güvenliği</string>
   <string name="account_set_up_change_type_note">Eğer POP3 ve IMAP ayarları arasında geçiş yapmanız gerekirse, hesabınızı silin ve istenilen ayarlar ile yeni bir tane oluşturun.</string>
-  <string name="account_setting">Hesap Ayarları</string>
-  <string name="account_setting_keywords">Hesap;Ayarlar;Hesap Ayarları;Posta Hesapları;Mail Hesapları</string>
+  <string name="account_setting">Hesaplar</string>
+  <string name="account_setting_keywords">Hesaplar;posta hesapları</string>
   <string name="account_settings_action">Hesap Ayarları</string>
   <string name="account_settings_background_attachments_label">Ekleri indir</string>
   <string name="account_settings_background_attachments_summary">Wi-Fi kullanarak ekleri indir</string>
@@ -99,7 +99,7 @@
   <string name="account_setup_failed_security_policies_unsupported">"Bu sunucu, Android cihazınızın desteklemediği şu özellikleri gerektiriyor:  %s"</string>
   <string name="account_setup_failed_tls_required">TLS gerekli ancak sunucu tarafından desteklenmiyor.</string>
   <string name="account_setup_failed_too_many_partnerships">Giriş başarısız, izin verilen sunucunun azami bağlantı sayısına ulaşıldı.</string>
-  <string name="account_setup_incoming_delete_policy_delete_label">Çöp Kutusundan silindiğinde</string>
+  <string name="account_setup_incoming_delete_policy_delete_label">Çöp Kutusundan sildiğimde</string>
   <string name="account_setup_incoming_delete_policy_never_label">Asla</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">İhtiyari</string>
   <string name="account_setup_incoming_imap_path_prefix_label">IMAP yolu öneki</string>
@@ -363,6 +363,8 @@
   <string name="email_netease">NetEase Posta</string>
   <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Posta</string>
+  <string name="email_setting">E-Posta Ayarları</string>
+  <string name="email_setting_keywords">Hesaplar;Hesap Ekle; Posta hesabı ekle; silmeyi onayla;göndermeyi onayla;direkt sil; postayı görüntüle;pil tasarrufu; geribildirim gönder; günlüğü gönder</string>
   <string name="email_sina">Sina Posta</string>
   <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Hesap bulunamadı"</string>
@@ -654,7 +656,16 @@
   <string name="password_expired_dialog_content_fmt">%s için veri cihazınızdan silinecek. Kilit ekranı PIN veya şifrenizi değiştirerek geri yükleyebilirsiniz. Şimdi değiştirilsin mi?</string>
   <string name="password_expired_dialog_title">Kilit ekranı şifre süresi doldu</string>
   <string name="password_expired_ticker">Ekran kilidi PIN veya şifre süresi doldu.</string>
-  <string name="path_about_account_setting">Yolun Hesap Ayarları</string>
+  <string name="path_about_account_setting">E-Posta/Ayarlar/Hesaplar</string>
+  <string name="path_about_add_account">E-Posta/Ayarlar/Hesap Ekle</string>
+  <string name="path_about_battery_saver">E-Posta/Ayarlar/Pil Tasarrufu</string>
+  <string name="path_about_confirm_before_delete">E-Posta/Ayarlar/Silmeden önce onayla</string>
+  <string name="path_about_confirm_before_send">E-Posta/Ayarlar/Göndermeden önce onayla</string>
+  <string name="path_about_conversation_view">E-Posta/Ayarlar/Yazışmayı görüntüle</string>
+  <string name="path_about_delete_message_flow">E-Posta/Ayarlar/Posta eklerini sil</string>
+  <string name="path_about_email_setting">E-Posta/Ayarlar</string>
+  <string name="path_about_send_feed_back">E-Posta/Ayarlar/Geribildirim Gönder</string>
+  <string name="path_about_upload_logs">E-Posta/Ayarlar/Günlükleri gönder</string>
   <string name="perference_change_pw_notnull_tips">Şifreni gir</string>
   <string name="perference_change_pw_ok_tips">Şifre değiştirildi</string>
   <string name="perference_setup_pop_del">Sunucudan postayı kaldır</string>
@@ -664,7 +675,7 @@
   <string name="permission_access_provider_label">Kullanıcı verilerine eriş</string>
   <string name="permission_read_attachment_desc">Uygulamaya E-Posta eklerini okuma izni verir.</string>
   <string name="permission_read_attachment_label">Ekleri oku</string>
-  <string name="phone">telefon</string>
+  <string name="phone">Telefon</string>
   <string name="photo_load_failed">"Resim yüklenemedi"</string>
   <string name="photo_view_count" formatted="false">%d / %d</string>
   <string name="please_fill_in_your_mailbox_information2">Posta kutusu bilgi girin</string>
@@ -763,7 +774,7 @@
   <string name="quote_divider_ks_web">________________________________________</string>
   <string name="quote_divider_qq_en">------------------Orjinal------------------</string>
   <string name="quote_divider_qq_zh">------------------Orjinal Posta------------------</string>
-  <string name="quoted_text">Alıntı yapılan metni ekleyin</string>
+  <string name="quoted_text">Alıntı yapılan metni ekle</string>
   <string name="quoted_text_label">Alıntı Metni</string>
   <string name="re_download_message_button">Tekrar indirmek için dokunun</string>
   <string name="re_download_message_info">"Posta indirilemedi"</string>
@@ -904,7 +915,7 @@
   <string name="turn_auto_sync_on_dialog_confirm_btn">Açık</string>
   <string name="turn_auto_sync_on_dialog_title">Otomatik eşitleme açılsın mı?</string>
   <string name="undo">Geri Al</string>
-  <string name="unread_string">okunmamış posta</string>
+  <string name="unread_string">Okunmamış Posta</string>
   <string name="unselected_lable">Fazlası</string>
   <string name="unsent_messages_in_outbox">%2$s içinde gönderilmemiş %1$s</string>
   <string name="unzip_file_failed">"Dosya açılamadı"</string>
@@ -934,7 +945,7 @@ Posta eşitlenmeden önce "&lt;b&gt;Şimdi Eşitleye&lt;/b&gt; dokunun veya bu h
   <string name="widget_other_views">Diğer</string>
   <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wipe_account_fail_description">Buraya tıklayıp yetkileri alın</string>
-  <string name="wipe_account_fail_title">Kişisel bilgi silimi başarısız oldu</string>
+  <string name="wipe_account_fail_title">Kişisel bilginin silinmesi başarısız oldu</string>
   <string name="wrong_password">Girdiğiniz şifre doğru değildir</string>
   <string name="yes">Evet</string>
   <string name="yidianzixun">Yi Dian Zixun</string>
