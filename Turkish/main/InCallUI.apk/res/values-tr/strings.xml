@@ -37,15 +37,9 @@
   <string name="call_description_recording">Kaydediliyor...</string>
   <string name="associate_sim_missing_message"> %1$s SIM mevcut değil. %2$s aracılığıyla aranmayı ister misiniz?</string>
   <string name="associate_sim_missing_other">Diğer</string>
-  <string name="antispam_notification_title"
->Bilinmeyen numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
-  <string name="areacode_set_default"
->
-Varsayılan olarak ayarla
-</string>
-<string 
-name="apn_settings">Erişim Noktasının Adları</string>
+  <string name="areacode_set_default">Varsayılan olarak ayarla</string>
+  <string name="apn_settings">Erişim Noktasının Adları</string>
   <string name="atr_disable">Bölge Trafik Raporları devre dışı</string>
   <string name="atr_enable">Bölge Trafik Raporları etkinleştirildi</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
