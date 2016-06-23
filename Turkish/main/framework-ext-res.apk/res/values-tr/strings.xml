@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_frequent_phrases">Sık kullanma aşaması ekle</string>
   <string name="all_call_livetalk_enable">Yurtiçi ve uluslararası aramalar için kontör paketininin kullan</string>
   <string name="all_call_livetalk_remain_mins">Kalan Dakika: %1$s yurtiçi veya %2$s uluslararası</string>
   <string name="alwaysUsePrompt">Tercihimi hatırla</string>
@@ -36,7 +37,8 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="fp_nav_center_action_choose_dlg_msg">Ana Sayfa düğmesine basarak Ana Ekrana geri gidebilirsiniz. Ama hafifçe dokunarak bunu seçebilirsiniz. Ana düğmeyi özelleştirmek için Ayarlar &gt; Ek Ayarlar &gt; Tuşlar bölümünden bunu yapabilirsiniz.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Hayır teşekkürler</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Kişiselleştir</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Kişisel Ana Sayfa</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Ana Ekran için hızlı dokunun</string>
+  <string name="frequent_phrases">Sık Kullanma Aşaması</string>
   <string name="global_actions_airplane_mode">Uçak Modu</string>
   <string name="global_actions_reboot">Tekrar Başlat</string>
   <string name="global_actions_shutdown">Kapat</string>
@@ -49,7 +51,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="handy_mode_enter_dlg_title">Tek elle kullanım moduna geç</string>
   <string name="handy_mode_summary">Kapatmak için ekrandaki karanlık bir alana dokunun</string>
   <string name="handy_mode_title">Tek Elle Kullanım Modu</string>
-  <string name="ignore_home_when_fingerprint_enrolling_msg">Anasayfa düğmesine parmağınızı koyun</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Ana Ssayfa düğmesine parmağınızı koyun</string>
   <string name="internal_livetalk_enable">Yurtiçi aramalar için kontör paketininin kullanılması</string>
   <string name="international_livetalk_enable">Uluslararası aramalar için kontör paketininin kullanılması</string>
   <string name="key_btn_ok">Tamam</string>
@@ -76,15 +78,28 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="reboot_progress">Tekrar Başlatılıyor…</string>
   <string name="replace">Yerleştir</string>
   <string name="resource_select">Seç</string>
-  <string name="screen_button_disabled_message">Gezinme düğmeleri devre dışı. Bunları yeniden etkinleştirmek için, aynı anda Anasayfa ve Güç düğmesine dokunun.</string>
-  <string name="screen_button_enabled_message">Gezinme düğmeleri etkinleştirildi.</string>
-  <string name="screen_button_notification_text">Onları açmak için, aynı anda Anasayfa ve Güç düğmelerine basın.</string>
-  <string name="screen_button_notification_title">Gezinme düğmeleri kapalı</string>
-  <string name="screen_on_proximity_sensor_hint">Bu özelliği kapatmak için, aynı anda Geri ve Ses Açma düğmelerine basın.</string>
+  <string name="screen_button_notification_text">Açmak için, Ana Ekran ve Güç tuşlarına aynı anda basın.</string>
+  <string name="screen_button_notification_title">Gezinme tuşları kapatıldı</string>
+  <string name="screen_on_proximity_sensor_hint">Bu özelliği kapatırsınız, Geri ve Sesi Aç tuşlarına aynı anda basın.</string>
   <string name="screen_on_proximity_sensor_summary">"Ekranın turuncu alanını örtmeyin"</string>
   <string name="screen_on_proximity_sensor_title">Cepte Aramaları Önle</string>
-  <string name="screen_paper_mode_enter_toast">Oku modu açık. Bu özelliği her zaman açıp kapamak için Ekran Ayarları &gt; Okuma Modu ile yapabilirsin.</string>
-  <string name="screen_rotation_freeze_message">Otomatik döndür devre dışı.</string>
+  <string name="screen_paper_mode_enter_toast">Okuma Modu açık. Bu özelliği kapalıysa; Ayarlar &gt; Ekran &gt; Okuma Moduna gidin.</string>
+  <string name="screen_rotation_freeze_message">Otomatik Döndürme devre dışı.</string>
+  <string name="securespaces_extension_accelerometer_name">ACCELEROMETER_EXTENSION</string>
+  <string name="securespaces_extension_accelerometer_serviceName"/>
+  <string name="securespaces_extension_delete_userdata_name">DELETE_USERDATA_EXTENSION</string>
+  <string name="securespaces_extension_delete_userdata_serviceName"/>
+  <string name="securespaces_extension_encryption_name">ENCRYPTION_EXTENSION</string>
+  <string name="securespaces_extension_encryption_serviceName">spaceencryption</string>
+  <string name="securespaces_extension_hidden_name">HIDDEN_EXTENSION</string>
+  <string name="securespaces_extension_hidden_serviceName"/>
+  <string name="securespaces_extension_read_cross_space_contacts_name">READ_CROSS_SPACE_CONTACTS_EXTENSION</string>
+  <string name="securespaces_extension_read_cross_space_contacts_serviceName"/>
+  <string name="security_permission_denied_text">Erişim engellendi</string>
+  <string name="security_permission_failed_text">Dahili hata, sonra deneyin</string>
+  <string name="security_permission_validate_warning">"MIUI'yi daha iyi hale getirdiğinizi için teşekkürler!"</string>
+  <string name="security_permission_wifi_and_data_opened_text">WLAN ve mobil veri açık</string>
+  <string name="security_permission_xiaomi_account_missed_text">Mi Hesap Kimliğinizi girin</string>
   <string name="select">Seç</string>
   <string name="select_all">Hepsi</string>
   <string name="set_password_action">Şifreyi belirle</string>
@@ -95,11 +110,13 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="sim_added_reboot_confirm">Tekrar Başlat</string>
   <string name="sim_added_reboot_title">Cihazınızı yeniden başlattıktan sonra SIM kart aktif hale getirecektir.</string>
   <string name="softap_notifif_summary">%d bağlandı</string>
-  <string name="softap_notifif_title">Hotspot \"%s\" açık</string>
+  <string name="softap_notifif_title">İnternet Paylaşımı \"%s\" açık</string>
+  <string name="start_security_permission_verify_text">Mi Hesabıyla izinleri doğrula</string>
   <string name="status_bar_toggle_auto_brightness">Parlaklık</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
   <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
+  <string name="status_bar_toggle_cast">Yayınla</string>
   <string name="status_bar_toggle_data">Mobil Veri</string>
   <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
   <string name="status_bar_toggle_flight_mode">Uçak Modu</string>
@@ -133,6 +150,10 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="translation_query_error">"Sonuç bulunamadı"</string>
+  <string name="translation_query_error_network">"Ağa bağlanamadı. Ayarları kontrol edin ve tekrar edin"</string>
   <string name="turn_off">Kapat</string>
   <string name="unknown_caller">Bilinmeyen Numara</string>
+  <string name="user_switching_dialog_text">Geçiliyor…</string>
+  <string name="xspace_resolver_activity_title">Uygulamayı seç</string>
 </resources>
