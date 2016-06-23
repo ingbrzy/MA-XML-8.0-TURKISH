@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Mi Oynatıcısı</string>
+  <string name="cancel">İptal</string>
+  <string name="media_feature_projection">Ters Görüntü</string>
+  <string name="media_status_error">Hata</string>
+  <string name="media_status_started">Bağlandı</string>
+  <string name="media_status_starting">Bağlanıyor…</string>
+  <string name="media_status_stopped">Durduruldu</string>
+  <string name="media_status_stopping">Durduruluyor…</string>
+  <string name="prjection_title">Kablosuz Ekran</string>
+  <string name="search_for_devices">Yenile</string>
+  <string name="wifi_display_autonomous_go">Otomatik Git Etkin</string>
+  <string name="wifi_display_certification_heading">Sertifika</string>
+  <string name="wifi_display_details">Ekran Ayarları</string>
+  <string name="wifi_display_enable_menu_item">Kablosuz Ekran etkin</string>
+  <string name="wifi_display_listen_channel">Kanalı dinle</string>
+  <string name="wifi_display_listen_mode">Dinleme modu etkin</string>
+  <string name="wifi_display_no_devices_found">Yakınlarda cihaz yok.</string>
+  <string name="wifi_display_operating_channel">Operasyon kanalı</string>
+  <string name="wifi_display_options_done">Tamam</string>
+  <string name="wifi_display_options_forget">Unut</string>
+  <string name="wifi_display_options_name">Adı</string>
+  <string name="wifi_display_options_title">Kablosuz Ekran Seçenekleri</string>
+  <string name="wifi_display_pause">Dur</string>
+  <string name="wifi_display_resume">Devam Et</string>
+  <string name="wifi_display_session_info">Oturum Bilgisi</string>
+  <string name="wifi_display_settings_title">Yansıt</string>
+  <string name="wifi_display_status_connected">Bağlandı</string>
+  <string name="wifi_display_status_connecting">Bağlanıyor</string>
+  <string name="wifi_display_status_in_use">Kullanımda</string>
+  <string name="wifi_display_status_not_available">Mevcut değil</string>
+  <string name="wifi_display_wps_config">WPS Yapılandırması</string>
+</resources>
