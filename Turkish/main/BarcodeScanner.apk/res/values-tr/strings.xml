@@ -6,6 +6,7 @@
   <string name="action_search">Arama</string>
   <string name="add_to_contacts">Kişilere ekle</string>
   <string name="address">Adres:</string>
+ <string  name="allow_check_website_security">Göster>web sitesi güvenliği kontrol bildirimleri</string>
   <string name="allow_check_website_security">Site güvenliğini doğrula</string>
   <string name="app_details">Uygulama Detayları:</string>
   <string name="app_name">Tarayıcı</string>
@@ -31,7 +32,6 @@
   <string name="crop_done_description">Bitti</string>
   <string name="crop_title_study">Kırp</string>
   <string name="crop_title_translation">Seçilen metni çevir</string>
-  <string name="default_language">@string/language_value_chinese_cn</string>
   <string name="dialog_dismiss">Reddetmek</string>
   <string name="dialog_report">Rapor</string>
   <string name="document_color_picture">Renk</string>
@@ -60,7 +60,6 @@
   <string name="fail_generate_barcode">"Kod oluşturulamadı"</string>
   <string name="find_cloud_album">Albüm QR kodunu tara</string>
   <string name="flash_lable">El Feneri</string>
-  <string name="global_default_language">@string/language_value_english</string>
   <string name="image_file_name_format">"'tarama'_ddMMyyyy_HHmmss"</string>
   <string name="import_contact">Kişiyi içeri aktar</string>
   <string name="impunity_declaration_content">Bu uygulamanın düzgün çalışabilmesi için internet bağlantısı gerekmektedir.</string>
