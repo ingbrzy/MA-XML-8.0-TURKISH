@@ -56,6 +56,26 @@
         <item quantity="other">"%d dakika "</item>
         <item quantity="one">"%d dakika "</item>
     </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">%1$d dakika içinde</item>
+        <item quantity="one">%1$d dakika içinde</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">%d pil sorunu çözüldü</item>
+        <item quantity="one">%d pil sorunu çözüldü</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">%d pil sorunu bulundu</item>
+        <item quantity="one">%d pil sorunu bulundu</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d pil sorunu</item>
+        <item quantity="one">%d pil sorunu</item>
+    </plurals>
+    <plurals name="app_check_title_text">
+        <item quantity="other">%d öğe iyi hale getirilebilir</item>
+        <item quantity="one">%d öğe iyi hale getirilebilir</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d uygulama otomatik başlar</item>
         <item quantity="one">%d uygulama otomatik başlar</item>
@@ -128,5 +148,21 @@
         <item quantity="other">%d uygulama bulundu</item>
         <item quantity="zero">0 uygulama bulundu</item>
         <item quantity="one">%d uygulama bulundu</item>
+    </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">%s ödeme riski</item>
+        <item quantity="one">%s ödeme riski</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s ödeme uygulaması korumalı</item>
+        <item quantity="one">%s ödeme uygulaması korumalı</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s uygulama korumalı</item>
+        <item quantity="one">%s uygulama korumalı</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s uygulama koruma içermiyor</item>
+        <item quantity="one">%s uygulama koruma içermiyor</item>
     </plurals>
 </resources>
