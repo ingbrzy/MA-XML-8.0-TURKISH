@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="folder_operations">
+        <item>Adlandır</item>
+        <item>Sil</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Kamera</item>
+        <item>Galeri</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Adı</item>
         <item>Rumuz</item>
@@ -33,20 +41,34 @@
         <item>Kocaman</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"Bir not oluşturmak için dokunun
+        <item>"Notlara Hoşgeldiniz
 "</item>
-        <item>"Bir resim eklemek veya onay kutularını göstermek için, aşağıdaki düğmeye dokunun
+        <item>"Dokunup bir not oluşturun
 "</item>
-        <item>"Basın ve basılı tutup notu iğneleyin, taşıyın ve silin
+        <item>"Güzel tema seçin
 "</item>
-        <item>"Ve daha büyük özellikleri!
-  - Mi Bulutu ile eşitleyin
-  - Hatırlatıcılar ayarlayın"</item>
+        <item>"Not dizini oluştur
+"</item>
+        <item>"Öncelikli notları oluştur
+"</item>
+        <item>"Ve daha güzel özellikler!
+  - Mi Bulut ile eşitle
+  - Hatırlatıcı ayarla"</item>
     </string-array>
     <integer-array name="welcome_notes_color">
         <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
         <item>1</item>
-        <item>3</item>
-        <item>4</item>
     </integer-array>
+    <string-array name="welcome_notes_image">
+        <item>guide_1</item>
+        <item></item>
+        <item>guide_3_1</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
 </resources>
