@@ -39,7 +39,7 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="fragment_tab_title_sys">Sistem uygulamaları</string>
   <string name="full_screen_enter">Tam Ekran girin</string>
   <string name="full_screen_exit">Tam Ekrandan çık</string>
-  <string name="hide_mode_desc">"Bir uygulama arka planda çalışırken, pil kullanımını azaltmak için faaliyetleri takip edecek. Bu özelliği ağ bağlantısı, yer hizmetleri, Radyo, Zamanlayıcı, vb etkileyebilir. Bu yapılandırma çoğu uygulamalar için uygundur, ancak arkaplanda çalışırken belirli bir uygulama anormal davranır ise, uygulamanın ayarlarını özelleştirebilirsiniz."</string>
+  <string name="hide_mode_desc">Uygulama arkaplanda çalıştığında, aktiviteler pil kullanım ne şekilde etkileyecek diye izlenecek.</string>
   <string name="hide_mode_ultimate_desc">Ultimate Modu açık. Arkaplanda uygulamalar donmuş olacak. Ultimate Modundan çıkmak için Pil Tasarrufunu kapatın.</string>
   <string name="high">Performans</string>
   <string name="hints_loading_text">Biraz bekleyin...</string>
