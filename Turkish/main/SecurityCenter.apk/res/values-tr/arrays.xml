@@ -61,7 +61,8 @@
     <string-array name="traffic_sort_type">
         <item>"Mobil veri kullanımı "</item>
         <item>"WLAN kullanımı "</item>
-        <item>"Veri kullanımı "</item>
+        <item>"Korunan Veri: "</item>
+        <item>Mi Veri Planı: </item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Otomataik Olarak Al</item>
@@ -87,69 +88,54 @@
         <item>Asla</item>
     </string-array>
     <string-array name="lock_mode">
-        <item>Cihaz kilitlendiğinde kilitle</item>
-        <item>Uygulamadan çıklıdığında kilitle</item>
-        <item>Uygulamadan çıktıktan 1 dakika sonra kilitle</item>
+        <item>Cihaz kilitlendiğinde</item>
+        <item>Cihaz kilitlendiğinde veya uygulamadan çıkıldığında</item>
+        <item>Cihaz kilitlendiğinden veya uygulamadan çıkıldıktan 1 dakika sonra</item>
     </string-array>
     <string-array name="lock_mode_value">
         <item>1</item>
         <item>0</item>
         <item>2</item>
     </string-array>
+    <integer-array name="pc_time_choice_items">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>0</item>
+    </integer-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>1 dakika sonra</item>
         <item>5 dakika sonra</item>
-        <item>10 dakika sonra</item>
+    <item>10 dakika sonra</item>
+        <item>30 dakika sonra</item>
         <item>Asla</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 saniye</item>
-        <item>30 saniye</item>
-        <item>1 dakika</item>
-        <item>2 dakika</item>
-        <item>5 dakika</item>
-        <item>10 dakika</item>
-        <item>Asla</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Yüksek Performans</item>
-        <item>Dengeli</item>
-    </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Kapat</item>
-        <item>Aç</item>
-        <item>Varsayılan</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>Titreşimsiz</item>
-        <item>Sessizse Titreşimli</item>
-        <item>Daima Titreşimli</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Bir Kez</item>
-        <item>Her Gün</item>
-        <item>Yasal işgünleri</item>
-        <item>Haftaiçi</item>
+        <item>Birkez</item>
+        <item>Hergün</item>
+    <item>Mesai Saatlerinde</item>
+        <item>Haftanın Günleri</item>
         <item>Özel</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Birkez</item>
-        <item>Her Gün</item>
+        <item>Hergün</item>
         <item>Haftaiçi</item>
         <item>Özel</item>
     </string-array>
-    <string-array name="lock_screen_secure_after_timeout_entries">
-         <item>Hemen</item>
-        <item>30 saniye</item>
-        <item>1 dakika</item>
-        <item>2 dakika</item>
-        <item>5 dakika</item>
-    </string-array>
+    <integer-array name="pc_choice_dialog_over_heat_values">
+        <item>40</item>
+        <item>42</item>
+        <item>45</item>
+        <item>48</item>
+    <item>0</item>
+        </integer-array>
+    <integer-array name="pc_choice_dialog_battery_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
     <integer-array name="alarm_repeat_type_values">
         <item>0</item>
         <item>1</item>
