@@ -16,6 +16,7 @@
 
 Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</string>
   <string name="clear_shortcuts_summary">Son zamanlarda seçilen arama önerilerinin kısayollarını temizle</string>
+  <string name="common_setting">Genel Ayarlar</string>
   <string name="connect_and_retry">İnternete bağlanın ve yeniden deneyin</string>
   <string name="corpus_description_apps">Yüklü Uygulamalar</string>
   <string name="corpus_description_web">Favoriler</string>
@@ -48,9 +49,12 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="menu_help">Yardım</string>
   <string name="menu_settings">Arama Ayarları</string>
   <string name="network_unavailable">"Ağa bağlanamadı"</string>
+  <string name="recent_apps">Tavsiyeli Uygulamalar</string>
   <string name="recently_shortcut_label">En son kısayollar</string>
   <string name="remove_from_history">Arama geçmişinden bu öğeyi kaldırmak istiyor musunuz?</string>
   <string name="remove_from_history_failed">"Bu öğe arama geçmişinden kaldırılamadı!"</string>
+  <string name="search_group_fold">Gizle</string>
+  <string name="search_group_unfold">Fazlası</string>
   <string name="search_history">Geçmiş</string>
   <string name="search_in_app_store">"Mi Uygulama Mağazası'nda Ara"</string>
   <string name="search_in_web">Çevrimiçi Ara</string>
@@ -68,13 +72,16 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="searchable_sources">Çevrimiçi</string>
   <string name="send_secret_code">Kodu gönder</string>
   <string name="show_more">Daha Fazla Göster</string>
+  <string name="suggest_open_app_failed">"Bu uygulama açılamadı"</string>
   <string name="system_search_category_title">Telefon</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">"Neyi aramak istiyorsun? "</string>
   <string name="web_search_results">Web aramasının sonuçları</string>
-  <string name="xiaomi_hint"/>
-  <string name="xiaomi_hot_query"/>
+  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+  <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v4/hints</string>
+  <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v4/home</string>
   <string name="xiaomi_search_label">Sonuçlar</string>
+  <string name="xiaomi_source_url">https://search.browser.miui.com</string>
   <string name="xiaomi_suggest_base"/>
 </resources>
