@@ -4,6 +4,7 @@
   <string name="about_title">Hakkında</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">"Sürüm "</string>
+  <string name="account_auth_fail">account authenticate fail</string>
   <string name="actor">Aktör</string>
   <string name="actor_intro">Hakkında</string>
   <string name="ad_countdown">%ss kaldı</string>
@@ -147,8 +148,10 @@
   <string name="empty_data">Bir hata oluştu</string>
   <string name="empty_keyword_hint">Yukarıdaki kutuya aranacağı girin</string>
   <string name="empty_tv_exiting">Çıkılıyor…</string>
+  <string name="enter_detail">Fazla Bilgi</string>
   <string name="episode_name_format">Bl. %1$s</string>
   <string name="episode_suffix">"Bl. %d "</string>
+  <string name="error_empty_epg">EPG Bilgisi yok</string>
   <string name="error_empty_filter_title">Sonuç yok</string>
   <string name="error_empty_title">Bir şeyler yanlış gitti.</string>
   <string name="expire_time">Zaman aşım süresi</string>
@@ -187,6 +190,7 @@
   <string name="lastrefresh">Son güncelleme:</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
+  <string name="live">Canlı</string>
   <string name="loading">&lt;CDATA&gt;Yükleniyor &lt;/CDATA&gt;</string>
   <string name="loading_video_netplay_label">Yükleniyor...</string>
   <string name="loading_video_netplay_label_v5">Yükleniyor...</string>
@@ -205,7 +209,7 @@
   <string name="mine_info_account_title">Hesap bilgileri</string>
   <string name="minute"> Dakika</string>
   <string name="mipush_setting">Bildirimler</string>
-  <string name="miwifi_app_download_content">indiriliyor...</string>
+  <string name="miwifi_app_download_content">İndiriliyor...</string>
   <string name="miwifi_app_download_title">Mi Yönlendirici</string>
   <string name="miwifi_app_update_button">Güncelle</string>
   <string name="miwifi_app_update_content">Bu özelliği kullanabilmek için Mi Yönlendirici uygulamasını güncelleştir.</string>
@@ -246,7 +250,7 @@
   <string name="offline_loaded">Çevrimdışı video</string>
   <string name="offline_loading">Çevrimdışı</string>
   <string name="offline_max_promote">Önbelleğe almak için bekliyor, aynı anda en fazla 2 adet önbelleğe alma işlemi gerçekleştirilebilir.</string>
-  <string name="offline_media_empty_title">Empty</string>
+  <string name="offline_media_empty_title">Boş</string>
   <string name="offline_no_avail_item_hint">İndirmek için mevcut bölüm yok</string>
   <string name="offline_no_selected_item_hint">Bir video seç</string>
   <string name="offline_no_source">"Çevrimdışı modda görüntüleyemezsiniz"</string>
@@ -262,7 +266,7 @@
   <string name="online_video_oneweek">Bir haftadan daha az</string>
   <string name="online_video_oneweek_ago">1 hafta önce</string>
   <string name="open_in_browser">Tarayıcıda aç</string>
-  <string name="operator_test">Operatör testi</string>
+  <string name="operator_test">Operatör Testi</string>
   <string name="operator_test_summary">Uygulamayı operatör test modunda çalıştır</string>
   <string name="original_price">orijinal fiyat</string>
   <string name="other_info">Diğer</string>
@@ -275,7 +279,7 @@
   <string name="performance_mode">Oynatıcı performansını iyileştir</string>
   <string name="performance_mode_desc">"Video oynatıcının performansını azamileştir"</string>
   <string name="personal_center">Hesap</string>
-  <string name="pick_addon_to_delete">öğeleri seçin</string>
+  <string name="pick_addon_to_delete">Öğeleri seçin</string>
   <string name="place_at">No.%d</string>
   <string name="play">Oynat</string>
   <string name="play_fail">"Oynatılamadı"</string>
@@ -304,14 +308,15 @@
   <string name="reload_sub_title">Tekrar deneyin</string>
   <string name="reload_title">"Ağa bağlanamadı"</string>
   <string name="reload_title_ep">"Tüm seri alınamadı"</string>
+  <string name="replay">Yeniden Oynat</string>
   <string name="retry">Tekrar Deneyin</string>
   <string name="router">Çevrimdışı</string>
   <string name="router_download_task_with">%d görevler</string>
   <string name="router_update">Mi Yönlendiriciyi şimdi güncelle.</string>
   <string name="score">Reyting </string>
   <string name="score_by">Puan: %s</string>
-  <string name="score_douban">Douban Puanı%1$s</string>
-  <string name="sdcard_storage">Dahili hafıza</string>
+  <string name="score_douban">Douban Puanı %1$s</string>
+  <string name="sdcard_storage">Dahili Hafıza</string>
   <string name="search">Ara</string>
   <string name="search_develop_settings">Geliştirici Ayarları;Sürümü Seç;Sürümü Seç;Video Güncelle;Sürüm;Forum;Performans Modu;Resim Kalitesi;Oynatıcı Ekleri</string>
   <string name="search_hint">Çevrimiçi Video Ara</string>
@@ -343,8 +348,8 @@
   <string name="star3">3 Yıldız</string>
   <string name="star4">4 Yıldız</string>
   <string name="star5">5 Yıldız</string>
-  <string name="start_addon"> eklentiyi başlat</string>
-  <string name="storage_remain">"Kullanılabilir: "</string>
+  <string name="start_addon"> Eklentiyi başlat</string>
+  <string name="storage_remain">"Mevcut: "</string>
   <string name="storage_total">"Toplam Alan: "</string>
   <string name="subscribe">Abone ol</string>
   <string name="suffix_countdown">s</string>
@@ -399,7 +404,7 @@
   <string name="video_plugin">Video eklentisi</string>
   <string name="video_plugin_downloading">(%1$s) indiriliyor...</string>
   <string name="video_plugin_prepare">Biraz bekleyin...</string>
-  <string name="vip_package">yetkili paket</string>
+  <string name="vip_package">Yetkili paket</string>
   <string name="vp_VideoView_error_button">Tamam</string>
   <string name="vp_VideoView_error_network_not_available">"Ağa bağlanamıyor"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"Bu dosya türü desteklenmiyor."</string>
@@ -470,7 +475,7 @@
   <string name="vp_offline_status_fail">Başarısız</string>
   <string name="vp_offline_status_none">Hazır</string>
   <string name="vp_offline_status_pause">Durdu</string>
-  <string name="vp_offline_status_wait">Bekliyor</string>
+  <string name="vp_offline_status_wait">Bekle</string>
   <string name="vp_offline_title">Çevrimdışı</string>
   <string name="vp_offline_title_name">Bölüm %d</string>
   <string name="vp_play_youku_failed_get_video_info">"Video bilgisi alınamıyor"</string>
@@ -486,6 +491,7 @@
   <string name="vp_select_ep">Bölüm Seç</string>
   <string name="vp_select_function">Ayarlar</string>
   <string name="vp_select_source">Kaynağı Seç</string>
+  <string name="vp_select_tv">Kanallar</string>
   <string name="vp_select_video_definition">Çözünürlüğü Seç</string>
   <string name="vp_select_video_source">Kaynağı Seç</string>
   <string name="vp_skip">Girişi ve Yapımcıları Atla</string>
