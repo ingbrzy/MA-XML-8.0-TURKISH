@@ -8,4 +8,8 @@
         <item quantity="other">"%d uygulamanın bildirimleri gizlensin mi?"</item>
         <item quantity="one">"Bu uygulamanın bildirimleri gizlensin mi?"</item>
     </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Açık</item>
+        <item quantity="one">Güneşli</item>
+    </plurals>
 </resources>
