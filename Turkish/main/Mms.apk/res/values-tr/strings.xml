@@ -155,7 +155,7 @@
   <string name="error_state">Tutarsız durum</string>
   <string name="error_state_text">Mesaj gönderimi ve alıcıların durumu tutarsız. Lütfen bir hata raporu alın ve http://go/droidanizer üzerinden bildirin </string>
   <string name="error_timed_msg">Geçersiz zaman.</string>
-  <string name="ex_type_mx">Mi Mesaj</string>
+  <string name="ex_type_mx">Mi Mesajı</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Mesaj boyutu sınırına ulaşıldı.</string>
   <string name="exceed_message_size_limitation_add_slide">Mesaj boyutu bir slayt eklemek için yeterli değil</string>
@@ -164,6 +164,10 @@
   <string name="exporting_progress_private_message">Aktarılıyor…</string>
   <string name="failed_to_add_media">"%1$s mesajınıza ekleyemezsiniz."</string>
   <string name="failed_to_resize_image">Resim boyutlandırılamadı.</string>
+  <string name="fake_cell_alert_hint">Bu mesajı telefon numarasına gönderirken, diğer taraftan görüntüleyebilirsiniz. SMS içeriğinde finansal istekleri gönderirken dikkat edin.</string>
+  <string name="fake_cell_checking_hint">Güvenlik denetleniyor…</string>
+  <string name="fake_cell_safe_hint">Bu mesaj güvenli</string>
+  <string name="fake_cell_timeout_hint">Güvenlik denetimi başarısız</string>
   <string name="fdn_check_failure">Sadece sabit arama numaralarınıza mesaj gönderebilirsiniz.</string>
   <string name="festival">Hitaplar</string>
   <string name="festival_continue">Tamam</string>
@@ -200,6 +204,7 @@
   <string name="hms_add_image_progress_message">Çalışıyor...</string>
   <string name="hms_first_use_tips">Servis mesajlarının alınması için, Wi-Fi ağına bağlı olmanız gerekiyor</string>
   <string name="hms_uri_param_err">"URL adresi boş olamaz"</string>
+  <string name="i_know">Tamam</string>
   <string name="importing_progress_private_message">Aktarılıyor…</string>
   <string name="in_sms">Mesaj</string>
   <string name="insufficient_drm_rights">Yetersiz DRM hakları tespit edildi.</string>
@@ -231,7 +236,7 @@
   <string name="menu_pick_from_contact">Kişilerden seç</string>
   <string name="menu_preferences">Ayarlar</string>
   <string name="menu_send_as_common">SMS olarak göder</string>
-  <string name="menu_unlock">Kiliti aç</string>
+  <string name="menu_unlock">Kilidi aç</string>
   <string name="menu_view_contact">Kişiyi görüntüle</string>
   <string name="menu_yellowpage">%s görüntüle</string>
   <string name="message_class_label">"Mesaj sınıfı: "</string>
@@ -265,7 +270,7 @@
   <string name="msg_type_hint_mx">Mi Mesajı</string>
   <string name="msg_type_hint_mx_b2c">Ağ bildirimi</string>
   <string name="msg_type_hint_mx_b2c_omit">Ağ bildirimi</string>
-  <string name="msg_type_hint_mx_omit">Mi Mesaj</string>
+  <string name="msg_type_hint_mx_omit">Mi Mesajı</string>
   <string name="msg_type_hint_sms">Metin Mesajı</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msglist_continue_to_pull_for_more">Daha fazlasını görüntülemek için aşağı çekin</string>
@@ -315,14 +320,14 @@
   <string name="mx_dspt_provision">Mi Mesajı masraf ödemeden diğer MIUI kullanıcılara mesajları göndermenizi sağlar.Operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı için ücret alabilir.</string>
   <string name="mx_dspt_provision_ex">"Mi Mesajı masraf ödemeden diğer MIUI kullanıcılara mesajları göndermenizi sağlar. VoIP Weihui tarafından desteklenmektedir. Weihui Gizlilik Politikasını görüntüleyin."</string>
   <string name="mx_dspt_provision_ex2">Gizlilik Politikası</string>
-  <string name="mx_enable">Mi Mesaj</string>
-  <string name="mx_enable_ex">Mi Mesaj &amp; Ses</string>
+  <string name="mx_enable">Mi Mesajı</string>
+  <string name="mx_enable_ex">Mi Mesajı &amp; Ses</string>
   <string name="mx_enable_popup_msg">Mi Mesaj masraf ödemeden diğer MIUI kullanıcılara mesajları göndermenizi sağlar.</string>
   <string name="mx_filter_message_from_stranger">Bilinmeyen numaralardan gelen Mi Mesajlarını engelle</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">"Hala bilinmeyen numaralardan normal SMS alabileceksiniz. Bu özelliği her zaman açıp-kapatmak için Mesaj &gt; Ayarları kullanabilirsiniz."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Bilinmeyen numaralardan gelen Mi Mesajlarını engelle</string>
   <string name="mx_filter_message_from_stranger_summary">"Hala bilinmeyen numaralardan gelen düzenli SMSleri almak mümkün olacak"</string>
-  <string name="mx_msg">Mi Mesaj</string>
+  <string name="mx_msg">Mi Mesajı</string>
   <string name="mx_msg_pageview_setting_title">Mi Mesaj Ayarları</string>
   <string name="mx_offline">Çevrimdışı</string>
   <string name="mx_on_sim_1">SIM 1 Mi Mesaj </string>
@@ -371,7 +376,7 @@
   <string name="pref_forward_title">Yönlendir</string>
   <string name="pref_message_recovery_introduction_title">Mesajları Kurtar</string>
   <string name="pref_messages_to_save">Kaydetmek için mesajların sayısını ayarla</string>
-  <string name="pref_mms_settings_title">Multimedia (MMS) Mesajları</string>
+  <string name="pref_mms_settings_title">Multimedya (MMS) Mesajları</string>
   <string name="pref_notification_settings_title">Bildirimler</string>
   <string name="pref_other_title">Ek Ayarlar</string>
   <string name="pref_show_blocked_messages_summary">Engellenen SMS konuşmalar listesinde göster</string>
@@ -479,9 +484,16 @@
   <string name="search">Mesajlaşma</string>
   <string name="search_empty">Eşleşme yok</string>
   <string name="search_hint">Mesajları Ara</string>
-  <string name="search_label">Mesajlaşma</string>
+  <string name="search_keyword_mms">Mesajlaşılıyor</string>
+  <string name="search_label">Mesajlaşılıyor</string>
+  <string name="search_path_mms">Ayarlar/Sistem Uygulamaları/Mesajlaşma</string>
   <string name="search_setting_description">Mesajlarınızdaki metin</string>
   <string name="search_show_more_results">Fazlasını Göster</string>
+  <string name="search_title_mms">Mesajlaşma</string>
+  <string name="second_mms">İkinci Mesaj</string>
+  <string name="second_mms_introduction">Lütfen İkinci Alana gidin</string>
+  <string name="second_mms_notice">Sadece ikinci mesajı göster</string>
+  <string name="second_mms_switch">Kullanıcıya Geç</string>
   <string name="secs">saniye</string>
   <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"Gönderilen kişileriniz arasında değil.
  "&lt;/font&gt;</string>
@@ -533,6 +545,8 @@
   <string name="slide_number">Slayt %s</string>
   <string name="slide_show_part">Bölüm %1$s/%2$s</string>
   <string name="slideshow_activity">Slayt Gösterisi</string>
+  <string name="sms_card_partner_label">"SMS Kart Ortağı: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">İçerik:</string>
   <string name="sms_full_body">"Gelen mesaj reddedildi: Bu cihazda yeterli alan yok."</string>
   <string name="sms_full_title">Metin mesaj hafızası dolu</string>
@@ -548,6 +562,7 @@
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Bildirimler</string>
   <string name="sp_mark_as_read">Tümü okundu olarak işaretlensin mi?</string>
+  <string name="sp_mark_as_read_menu_title">Okundu diye işaretle</string>
   <string name="sp_mark_as_read_progress">Çalışıyor...</string>
   <string name="sp_mark_as_read_title">Hepsi okundu olarak işaretlensin mi?</string>
   <string name="status_failed">Başarısız</string>
@@ -602,7 +617,7 @@
   <string name="type_to_compose_text_enter_to_send">Mesaj tipi</string>
   <string name="type_to_compose_text_or_leave_blank">Mesajı yazın veya boş bırakın</string>
   <string name="type_vcard">vCard</string>
-  <string name="type_video">video</string>
+  <string name="type_video">Video</string>
   <string name="undelivered_msg_dialog_body">"Bu mesaj gönderilemedi.
 Yapılan girişim: %s."</string>
   <string name="undelivered_msg_dialog_title">Teslim edilmemiş mesaj</string>
@@ -613,6 +628,15 @@ Yapılan girişim: %s."</string>
   <string name="unstick_conversation">Geçerli sohbetin iğnesini kaldır</string>
   <string name="unsticked_conversation">İğne zaten kaldırılmış</string>
   <string name="unsupported_media_format">Desteklenmeyen %1$s biçimi.</string>
+  <string name="url_fraud_dangerous_alert">"Websitesi tehlikeli bağlantıya gitmek istiyor, bu cihazınıza zarar verebilir, devam etsin mi? 
+%s"</string>
+  <string name="url_fraud_insurance">Dolandırıcılık Girişimi</string>
+  <string name="url_fraud_risky_alert">"Websitesi tehlikeli bağlantıya gitmek istiyor, devam etsin mi?
+%s"</string>
+  <string name="url_fraud_title">Dolandırıcılık Şüphesi</string>
+  <string name="url_fraud_visit">&lt;u&gt;Herhalükarda Git&lt;/u&gt;</string>
+  <string name="url_result_safe">Bu bağlantı güvenli</string>
+  <string name="url_scanning">URL taranıyor…</string>
   <string name="user_agreement1">Ek bir yazılım yüklemeden veya bu ürünü kullanmadan önce koşulları dikkatlice okuyunuz.</string>
   <string name="user_agreement2">Hizmet Şartları</string>
   <string name="user_agreement3">" ve "</string>
