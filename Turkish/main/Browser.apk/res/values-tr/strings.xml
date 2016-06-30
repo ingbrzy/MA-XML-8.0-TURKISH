@@ -50,13 +50,13 @@
   <string name="actionbar_web_search">Ara</string>
   <string name="adblock_force_updating_rules_toast">Reklem Engelleyici güncelleniyor</string>
   <string name="adblock_notification">%d reklam engellendi</string>
-  <string name="adblock_rules_not_updated_toast">Başarısız</string>
+  <string name="adblock_rules_not_updated_toast">Güncellenemedi</string>
   <string name="adblock_rules_restore">Engeli Kaldır</string>
-  <string name="adblock_rules_updated_toast">Tamamlandı</string>
+  <string name="adblock_rules_updated_toast">Başarıyla güncellendi</string>
   <string name="adblock_websites_settings_empyt_hint">"Herhangi engelli siteniz yok."</string>
   <string name="adblock_websites_settings_title">Engelli Siteler</string>
   <string name="add_bookmark_group">Grup Ekle</string>
-  <string name="add_bookshelf_popup_text">Bu kitap zaten kitaplığa eklendi</string>
+  <string name="add_bookshelf_popup_text">Kitaplığa eklendi</string>
   <string name="add_new_bookmark">Favorilere Ekle</string>
   <string name="add_new_quicklink">Başlangıç Sayfasına Ekle</string>
   <string name="add_ql_bm_title">Kaydet</string>
@@ -648,8 +648,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="paused_unknown">Durduruldu</string>
   <string name="paused_waiting_for_network">Bağlantı bekleniyor...</string>
   <string name="paused_waiting_to_retry">Tekrar denemek için bekleniyor...</string>
-  <string name="pay_failed_toast">Ödeme başarısız</string>
-  <string name="pay_success_toast">Ödeme başarılı</string>
+  <string name="pay_failed_toast">Ödeme tamamlanamadı</string>
+  <string name="pay_success_toast">Ödeme başarıyla tamamlandı</string>
   <string name="popup_window_attempt">Bu sitenin açılır pencere açmasına izin verilsin mi?</string>
   <string name="positive_confirm_message">Kapat</string>
   <string name="pref_accessibility">Erişebilirlik</string>
