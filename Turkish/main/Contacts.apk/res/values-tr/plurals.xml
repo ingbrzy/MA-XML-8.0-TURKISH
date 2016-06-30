@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="group_move_success_toast">
-        <item quantity="other">成功移动%1$d位联系人</item>
+        <item quantity="other">%1$d kişileri başarıyla taşındı</item>
     </plurals>
     <plurals name="group_copy_success_toast">
-        <item quantity="other">成功复制%1$d位联系人</item>
+        <item quantity="other">%1$d kişisi başarıyla taşındı</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d kişi telefon numarası ile görüntüleniyor</item>
@@ -81,6 +81,10 @@
     <plurals name="hint_search_emails">
         <item quantity="other">%1$d kişi maili</item>
         <item quantity="one">1 kişi maili</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d kişi bulundu</item>
+        <item quantity="one">1 kişi bulundu</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d favori</item>
