@@ -21,20 +21,44 @@
         <item quantity="one">%d gün</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%2$s %1$d fotoğraf eklendi</item>
-        <item quantity="one">%2$s %1$d fotoğraf eklendi</item>
+        <item quantity="other">%2$s %1$d tane fotoğraf eklendi</item>
+        <item quantity="one">%2$s %1$d tane fotoğraf eklendi</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%2$s %1$d fotoğraf eklendi</item>
-        <item quantity="one">%2$s %1$d fotoğraf eklendi</item>
+        <item quantity="other">%2$s %1$d tane fotoğraf eklendi</item>
+        <item quantity="one">%2$s %1$d tane fotoğraf eklendi</item>
     </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">Zaten %d kişiyle paylaşıldı</item>
         <item quantity="one">%d kişiyle zaten paylaşıldı</item>
     </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">Seçilen fotoğraf cihazda değil, mobil veri kullanılarak indirilsin mi?</item>
+        <item quantity="one">Seçilen fotoğraf cihazda değil, mobil veri kullanılarak indirilsin mi?</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Seçilen fotoğraf cihazda değil (%dMB), mobil veri kullanılarak indirilsin mi?</item>
+        <item quantity="one">Seçilen fotoğraf cihazda değil (%dMB), mobil veri kullanılarak indirilsin mi?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">Seçilen fotoğraf cihazda değil, indiriliyor</item>
+        <item quantity="one">Seçilen fotoğraf cihazda değil, indiriliyor</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">%1$d fotoğraf indirilemedi, yeniden denensin mi?</item>
+        <item quantity="one">Fotoğraf indirilemedi, yeniden denensin mi?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">%1$d fotoğraf (%2$dMB) indirilemedi, yeniden denensin mi?</item>
+        <item quantity="one">Fotoğraf (%2$dMB) indirilemedi, yeniden denensin mi?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Kalan %d fotoğraf indirmesi iptal edilsin mi?</item>
+        <item quantity="one">Fotoğraf indirmesi iptal edilsin mi</item>
+    </plurals>
     <plurals name="delete_photo_msg_format">
-        <item quantity="other">%2$s %1$d fotoğraf silinsin mi?</item>
-        <item quantity="one">%2$s %1$d fotoğraf silinsin mi?</item>
+        <item quantity="other">%2$s %1$d tane fotoğraf silinsin mi?</item>
+        <item quantity="one">%2$s %1$d tane fotoğraf silinsin mi?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
         <item quantity="other">%2$s %1$d video silinsin mi?</item>
