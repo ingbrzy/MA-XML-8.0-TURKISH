@@ -106,7 +106,7 @@
   <string name="michat_attach_smiley">Simge</string>
   <string name="michat_attach_take_photo">Kamera</string>
   <string name="michat_back_to_detail">Sohbete geri dön</string>
-  <string name="michat_cant_join_artifical">网络出现异常，无法连接人工客服</string>
+  <string name="michat_cant_join_artifical">Ağ bağlantısı sağlanamadı</string>
   <string name="michat_check_network">Ağ Ayarlarını Denetle</string>
   <string name="michat_close_text">Sohbet bitti</string>
   <string name="michat_comment_net_error">"Ağa bağlanamadı, sonra yeniden deneyin"</string>
@@ -119,7 +119,7 @@
   <string name="michat_error_need_login_btn">Oturum aç</string>
   <string name="michat_error_need_login_text">Çevrimiçi destek etkin olunca oturum aç</string>
   <string name="michat_failed_to_add_media">"Üzgünüz, %1$s gönderilemedi"</string>
-  <string name="michat_failed_to_fetch_fql">Sohbet başarısız oldu</string>
+  <string name="michat_failed_to_fetch_fql">SSS bilgisi alınamadı, ağ bağlantısını kontrol edin</string>
   <string name="michat_feedback_title_name">Geribildirim Formu</string>
   <string name="michat_finish_text">Bitti</string>
   <string name="michat_in_artifical_customer_state">"Birisine yardım edildiğinde gerçekleştirilemez"</string>
@@ -127,12 +127,12 @@
   <string name="michat_invation_invite_fail">Üzgünüz, destek çalışanlarımız meşgul. Sonra tekrar deneyin.</string>
   <string name="michat_invation_invite_full">Üzgünüz, estek çalışanlarımız meşgul. Sonra tekrar deneyin.</string>
   <string name="michat_kefu_welcome">Xiaomi Çevrimiçi Destek Hizmetine Hoşgeldiniz!</string>
-  <string name="michat_lose_artifical">网络出现异常，您将离开人工客服会话</string>
+  <string name="michat_lose_artifical">Ağ bağlantısından düşüldüğünden, sohbet sona erdi</string>
   <string name="michat_menu_copy_text">Kopyala</string>
   <string name="michat_mesage_resend_error_network">"Ağa bağlanamadı"</string>
   <string name="michat_mesage_send_error_network">"Gönderilemedi, Ağ bağlantısını denetleyin"</string>
   <string name="michat_message_copy_info">Panoya kopyalandı</string>
-  <string name="michat_message_join_again">很高兴继续为您服务</string>
+  <string name="michat_message_join_again">Geri geldiğiniz için teşekkürler</string>
   <string name="michat_message_robot_welcome">"Adım Mi Bunny. Ben çevrimiçi destek robotuyum."</string>
   <string name="michat_msg_image_upload_error">"Resim gönderilemedi, sonra tekrar deneyin"</string>
   <string name="michat_msg_input_info">Problemi tanımlayın</string>
@@ -147,7 +147,7 @@
   <string name="michat_pull_to_refresh_pull_label">Aşağı çekip geçmişe bakın</string>
   <string name="michat_pull_to_refresh_refreshing_label">Geçmiş yükleniyor…</string>
   <string name="michat_pull_to_refresh_release_label">Geçmişi görüntülemek için bırakın</string>
-  <string name="michat_queue_pos_update">您前面还有%1$d个人在排队，请稍等…</string>
+  <string name="michat_queue_pos_update">%1$d kişi sırada, biraz bekleyin…</string>
   <string name="michat_return_to_outside">Çıkış</string>
   <string name="michat_service_unavailiable">"Bilgi alınamadı, sonra tekrar deneyin"</string>
   <string name="michat_skillset_business_type_title">Hizmeti seçin</string>
@@ -156,7 +156,7 @@
   <string name="michat_try_again">Yeniden deneyin</string>
   <string name="michat_type_list_null">"Bilgi alınamadı, sonra tekrar deneyin"</string>
   <string name="michat_type_picture">Resim</string>
-  <string name="michat_user_quit">您已离开会话</string>
+  <string name="michat_user_quit">Sohbetten ayrıldınız</string>
   <string name="michat_wait_for_a_moment">Biraz bekleyin, yardım geliyor!</string>
   <string name="michat_webview_title">Detayları görüntüle</string>
   <string name="min_error">%1$s daha uzun olmalı.</string>
@@ -197,6 +197,7 @@
   <string name="pull_to_refresh_release_label">Yenilemek için bırakın</string>
   <string name="refresh">Yenile</string>
   <string name="reply">Cevapla</string>
+  <string name="reply_failed">Cevaplama başarısız</string>    
   <string name="report_miui">Hata Bildirimi</string>
   <string name="request_empty_data">veri yok</string>
   <string name="save_pic">Kaydet</string>
