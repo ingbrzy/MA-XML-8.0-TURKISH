@@ -4,6 +4,7 @@
   <string name="accessibility_audio_shutter_bg">Arkaplan Deklanşör Sesi</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Ön ve Arka Kamera Geçişi</string>
+  <string name="accessibility_effect_mode_button">Efekt Düğmesi</string>
   <string name="accessibility_countdown">Geri Sayım Düğmesi</string>
   <string name="accessibility_flash_mode_button">FlashButton</string>
   <string name="accessibility_hdr">HDR Geçiş Düğmesi</string>
@@ -25,7 +26,7 @@
   <string name="camera_error_title">Kamera Hatası</string>
   <string name="camera_label">Kamera</string>
   <string name="camera_mode_options">Modlar</string>
-  <string name="camera_setting">Kamera Ayarları</string>
+  <string name="camera_setting">Kamera</string>
   <string name="camera_settings_label">Kamera</string>
   <string name="camera_snap_mode_title">Hızlı Geçiş Modu</string>
   <string name="camera_snap_mode_title_detail">Detaylara bakmak için dokunun</string>
@@ -88,7 +89,7 @@
   <string name="pano_how_to_use_prompt_to_move">Yavaş yavaş kaydırmaya başlayın</string>
   <string name="pano_review_saving_indication_str">Saklanıyor...</string>
   <string name="pano_too_fast_prompt">Çok hızlı</string>
-  <string name="path_settings">Sistem Uygulaması/Kamera/Ayarlar</string>
+  <string name="path_settings">Sistem Uygulamaları/Kamera/Ayarlar</string>
   <string name="pref_advance_settings">Ek Ayarlar</string>
   <string name="pref_audio_focus_entry_front">Ön</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
