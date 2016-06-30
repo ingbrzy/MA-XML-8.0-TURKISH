@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Kabul</string>
-  <string name="congratulation_label"/>
+  <string name="agree_terms">"Hizmet Koşulları ve Gizlilik politikasını okudum ve kabul ettim."</string>
+  <string name="back">Geri</string>
+  <string name="congratulation_label">"Artık hazırsınız!​"</string>
+  <string name="congratulation_title">Kurulum tamamlandı</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Cihaz kilidini açmak için parmakizini kullanın, Mi Ödeme işlemlerinde veya uygulama ve hizmetlere oturum açıp onaylayın.</string>
