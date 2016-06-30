@@ -58,11 +58,11 @@
   <string name="birthday_calendar_display_name">Doğum günü hatırlatıcı</string>
   <string name="birthday_event_description">"Bugün %1$s'nın %4$s!"</string>
   <string name="birthday_event_description_a_week_ago">Bir hafta önce</string>
-  <string name="birthday_event_description_a_week_later">Bir hafta sonra</string>
+  <string name="birthday_event_description_a_week_later">Bir hafta kadar</string>
   <string name="birthday_event_description_day_after_tomorrow">Yarından sonraki gün</string>
   <string name="birthday_event_description_day_before_yesterday">Dünden önceki gün</string>
   <string name="birthday_event_description_days_ago">%1$s gün önce</string>
-  <string name="birthday_event_description_days_later">%1$s gün sonra</string>
+  <string name="birthday_event_description_days_later">%1$s gün kadar kaldı</string>
   <string name="birthday_event_description_default">"%1$s's %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
@@ -72,7 +72,7 @@
   <string name="birthday_event_description_yesterday">Dün</string>
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
-  <string name="birthday_notification_text_days_later">%3$s doğum gününe 3 gün kaldı</string>
+  <string name="birthday_notification_text_days_later"> %4$s kadar %1$s gün kaldı (%5$s)</string>
   <string name="birthday_notification_text_today">"Onlara esenlikler dilemeyi, unutmayın "</string>
   <string name="birthday_notification_title_days_later">"%1$s'nın %2$s yaklaşıyor."</string>
   <string name="birthday_notification_title_today">"%1$s'nın %3$s"</string>
@@ -237,6 +237,7 @@
   <string name="hint_description">Tarif</string>
   <string name="hint_what">Etkinlik adı</string>
   <string name="hint_where">Konum</string>
+  <string name="holiday_card_title">Tatil</string>
   <string name="homepage_today">今</string>
   <string name="horoscope_card_comprehensive">Geniş Kismet:</string>
   <string name="horoscope_card_financial">Kismet：</string>
@@ -292,6 +293,7 @@
   <string name="monthly">Aylık</string>
   <string name="monthly_on_day">Aylık (aynı tarih)</string>
   <string name="monthly_on_day_count">Aylık (%1$s %2$s)</string>
+  <string name="more_match">更多赛事</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Kısa Tanıtım</string>
   <string name="my_subscribe_events">Aboneliklerim</string>
@@ -312,7 +314,7 @@
   <string name="online_reminder_header_text">Hatırlat</string>
   <string name="online_reminder_minutes_text">Hatırlatma zamanı</string>
   <string name="online_reminder_slider_text">Hatırlatmayı etkinleştir</string>
-  <string name="path_calendar">System apps/Calendar/Settings</string>
+  <string name="path_calendar">Sistem Uygulamaları/Tekvim/Ayarlar</string>
   <string name="pengzu">Pang</string>
   <string name="prefDialogTitle_vibrateWhen">Titret</string>
   <string name="pref_error_no_ringtone_select">Hiçbiri seçilmedi</string>
@@ -325,6 +327,7 @@
   <string name="preferences_alerts_ringtone_title">Ses</string>
   <string name="preferences_alerts_title">Bildirimler</string>
   <string name="preferences_alerts_vibrateWhen_title">Titret</string>
+  <string name="preferences_alerts_vibrate_title">Titreşim ve Zil Sesi</string>
   <string name="preferences_build_version">Sürüm</string>
   <string name="preferences_category_account_title">Hesap</string>
   <string name="preferences_category_general_title">Genel Ayarlar</string>
@@ -340,6 +343,7 @@
   <string name="preferences_home_tz_default">Amerika/Los_Angeles</string>
   <string name="preferences_home_tz_title">Yerel Zaman Dilimi</string>
   <string name="preferences_import_credit_repayment">Kredi kartı ile ödeme</string>
+  <string name="preferences_notification_ringtone_title">Ses</string>
   <string name="preferences_reminder_title">Bildirim ve Hatırlatmalar</string>
   <string name="preferences_show_week_num_title">Hafta sayısını göster</string>
   <string name="preferences_solar_terms">Güneşli günleri göster</string>
