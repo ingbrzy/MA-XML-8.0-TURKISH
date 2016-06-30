@@ -57,6 +57,8 @@
   <string name="battery_low_percent_format">%%%d pil seviyesi kaldı</string>
   <string name="battery_low_title">Şarj cihazına bağlayın</string>
   <string name="battery_profiles">Pil profillerini kullan</string>
+  <string name="block_notification_content_text">"%1$s'nın bildirimlerini yeniden gösterme. Bunu Ayarlar içinden değiştirebilirsiniz."</string>
+  <string name="block_notification_text">Gizle</string>
   <string name="block_record_notification_more_text">%1$s &amp; %2$d uygulamanın bildirimleri gizleniyor.</string>
   <string name="block_record_notification_text">%1$s ait bildirimler gizleniyor.</string>
   <string name="block_record_notification_title">Bildirimler gizlendi</string>
@@ -66,7 +68,7 @@
   <string name="camera_key_action_app_title">Uygulamayı aç</string>
   <string name="camera_key_action_category_title">Kamera açılmazsa kullan</string>
   <string name="camera_key_action_none_title">Eylem yok</string>
-  <string name="camera_key_action_setting_title">Mi Button</string>
+  <string name="camera_key_action_setting_title">Mi Düğmesi</string>
   <string name="camera_key_action_shortcut_call">Ara</string>
   <string name="camera_key_action_shortcut_home">Ana Ekrana Dön</string>
   <string name="camera_key_action_shortcut_screenshot">Ekran Görüntüsü</string>
@@ -94,6 +96,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="dlg_error_title">USB işlemi başarısız</string>
   <string name="dlg_ok">Tamam</string>
   <string name="drive_mode_tip">"Araç Modu\'undasınız"</string>
+  <string name="enable_power_save_mode">Pil Tasarrufunu aç</string>
   <string name="expanded_confirm_disable_notification">Gizle</string>
   <string name="expanded_notification_manager">Bildirimleri yönet</string>
   <string name="ext_media_badremoval_notification_message">Veri kaybını önlemek için USB depolamayı çıkarmadan önce bağlantısını kesin.</string>
@@ -111,14 +114,22 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="ext_media_safe_unmount_notification_title">USB depolama cihazı güvenle çıkartılabilir</string>
   <string name="ext_media_unmountable_notification_message">USB depolama zarar görmüş. Yeniden format atmayı deneyebilirsiniz.</string>
   <string name="ext_media_unmountable_notification_title">USB Depolama zarar görmüş</string>
+  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
+  <string name="float_incall_ignore">Yoksay</string>
+  <string name="float_incall_message">Mesaj</string>
   <string name="gps_notification_found_text">GPS ile konumu belirle</string>
   <string name="gps_notification_searching_text">GPS uyduları aranıyor.</string>
+  <string name="hour_minute_time_format">HH:mm</string>
   <string name="invalid_charger">"USB şarj desteklenmiyor.
 Her zaman orjinal aksesuar kullanın."</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">Gözat</string>
-  <string name="lland">Arazi</string>
   <string name="lockscreen_carrier_default">Şebeke yok</string>
+  <string name="long_screenshot_not_support_msg">"Geçerli uygulama erken görüntüsü almayı desteklemiyor"</string>
+  <string name="long_screenshot_out_of_memory_error">Resim çok büyük</string>
+  <string name="long_screenshot_processing">İşleniyor…</string>
+  <string name="long_screenshot_stop">Tamam</string>
+  <string name="long_screenshot_top_msg">Ekran görüntüsü genişletiliyor…</string>
   <string name="managed_profile_foreground_toast">"İş profilini kullanıyorsunuz"</string>
   <string name="mdb_entering">Başlatılıyor...</string>
   <string name="mdb_restore_cancel">İptal</string>
@@ -135,8 +146,11 @@ Her zaman orjinal aksesuar kullanın."</string>
   <string name="mount_storage">Evet</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Bildirim yok.</string>
+  <string name="no_weather_description">Hava Durumu bilgisini al &gt;</string>
   <string name="notification_header_title">Bildirimler</string>
   <string name="notification_hidden_text">İçerik gizlendi</string>
+  <string name="notification_manager">Bildirimleri yönet</string>
+  <string name="notification_manager_des">Filtre ve Bildirimleri Yönet</string>
   <string name="notification_otg_gamestick_in">Oyun denetleyicisi bağlandı</string>
   <string name="notification_otg_gamestick_out">Oyun denetleyicisinin bağlantısı kesildi</string>
   <string name="notification_otg_keyboard_in">Klavye bağlandı</string>
@@ -158,8 +172,21 @@ Her zaman orjinal aksesuar kullanın."</string>
   <string name="oldman_incall_text">Çağrıda</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
+  <string name="quick_settings_bluetooth_detail_empty_text">Mevcut cihazlarla eşlenmedi</string>
+  <string name="quick_settings_bluetooth_label">Bluetooth</string>
+  <string name="quick_settings_connect_success">Bağlandı</string>
+  <string name="quick_settings_connecting">Bağlanıyor</string>
+  <string name="quick_settings_done">Tamam</string>
+  <string name="quick_settings_more_settings">Diğer Ayarlar</string>
+  <string name="quick_settings_wifi_detail_empty_text">WLAN ağı mevcut değil</string>
+  <string name="quick_settings_wifi_label">WLAN</string>
+  <string name="quick_settings_wifi_nearby">Yakındaki bir ağı seç</string>
+  <string name="recent_task_app_info_text">Bilgi</string>
+  <string name="recent_task_lock_text">Kilitle</string>
+  <string name="recent_task_unlock_text">Kilidi Aç</string>
   <string name="reject_call">Çağrıyı reddet</string>
   <string name="return_to_incall_screen">Çağrıya dön</string>
+  <string name="save_mode_btn_ok">Tamam</string>
   <string name="screen_button_notification_text">Gezinmeyi açmak için, aynı anda Ana Sayfa ve Güç düğmelerine basın.</string>
   <string name="screen_button_notification_title">Gezinme düğmeleri kapalı</string>
   <string name="screen_pinning_description">İğneleme kaldırılıncaya kadar bu görünümde kalır. İğneyi kaldırmak için Ana Sayfa ve Güç düğmesine basılı tutun.</string>
@@ -167,18 +194,22 @@ Her zaman orjinal aksesuar kullanın."</string>
   <string name="screen_pinning_negative">Hayır</string>
   <string name="screen_pinning_positive">Anladım</string>
   <string name="screen_pinning_title">Ekran iğnelendi</string>
+  <string name="screenshot_edit">Düzenle</string>
   <string name="screenshot_failed_text">"Kısıtlı olmasından dolayı depolama alanı ekran görüntüsü alamıyor buna uygulama veya kuruluş tarafından izin verilmiyor."</string>
+  <string name="screenshot_long_screenshot">Genişlet</string>
   <string name="screenshot_saved_text">Ekran görüntüsüne bakmak için dokunun.</string>
   <string name="screenshot_saved_title">Ekran görüntüsü alındı.</string>
   <string name="screenshot_saving_text">Ekran görüntüsü kaydedilecek</string>
   <string name="screenshot_saving_ticker">Ekran görüntüsü kaydediliyor...</string>
   <string name="screenshot_saving_title">Ekran görüntüsü kaydediliyor...</string>
+  <string name="screenshot_send">Gönder</string>
   <string name="settings_custom_notification">Bildirimleri yönet</string>
   <string name="settings_toggle_position">Geçişleri yönet</string>
   <string name="settings_toggle_position_divider_list">Bu çubuğunun üzerindeki geçişler etkin</string>
   <string name="settings_toggle_position_divider_page">Bar üzerine yerleştirilen %1$d geçiş etkin</string>
   <string name="settings_toggle_position_reset">Geçişleri sıfırla</string>
   <string name="share">Paylaş</string>
+  <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
   <string name="status_bar_date_format">"d MMMM
 EEEE"</string>
   <string name="status_bar_date_format_12">"d MMMM
@@ -199,7 +230,11 @@ Kilitlemek için aşağı kaydırın ▼"</string>
   <string name="status_bar_recent_memory_info1">%2$s B | %1$sB kullanılabilir</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Kaydediciye dön</string>
-  <string name="status_bar_recording_pause">Kayıt duraklatıldı</string>
+  <string name="status_bar_recording_pause">Kaydedici duraklatıldı</string>
+  <string name="status_bar_safepay_risk">Ödeme riski bulundu</string>
+  <string name="status_bar_safepay_safe">Ödeme riski bulunmadı</string>
+  <string name="status_bar_safepay_scanning">Ödeme ortamı denetleniyor…</string>
+  <string name="status_bar_safepay_unknown">"Ödeme ortamı denetlenemiyor"</string>
   <string name="status_bar_settings_airplane">Uçak Modu</string>
   <string name="status_bar_settings_battery_meter_format">%%%d</string>
   <string name="status_bar_settings_signal_meter_disconnected">İnternet bağlantısı yok!</string>
@@ -249,4 +284,7 @@ Kilitlemek için aşağı kaydırın ▼"</string>
   <string name="vpn_text_long">%s için bağlandı. Ayrıntılarını görüntülemek için dokunun.</string>
   <string name="vpn_title">VPN etkinleştirildi</string>
   <string name="vpn_title_long">%s VPN kullanılarak bağlandı</string>
+  <string name="weather_description">%1$s | %2$s &gt;</string>
+  <string name="weather_description_no_aqi">%1$s &gt;</string>
+  <string name="weather_publish_time">%1$s güncellendi</string>
 </resources>
