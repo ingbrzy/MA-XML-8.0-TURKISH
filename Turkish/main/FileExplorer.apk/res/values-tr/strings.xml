@@ -4,6 +4,7 @@
   <string name="account_login_title">Hesap</string>
   <string name="action_mode_deselect_all">Vazgeç</string>
   <string name="action_mode_select_all">Hepsi</string>
+  <string name="activity_parse_video_title">URL yapıştır</string>
   <string name="activity_rule">Kurallar</string>
   <string name="ad_download">İndir</string>
   <string name="ad_downloading">Biraz bekleyin...</string>
@@ -12,6 +13,8 @@
   <string name="add_private_files">Dosyaları ekle</string>
   <string name="add_task">Görev ekle</string>
   <string name="adding_upload_tasks">Görev ekleniyor#8230;</string>
+  <string name="album_creator">%s tarafından oluşturuldu</string>
+  <string name="album_name">Günlük Seçilen: %s</string>
   <string name="all_topic">Tüm başlıklar</string>
   <string name="already_liked">"Zaten bu öğeyi beğenildi"</string>
   <string name="already_signin_description">"Bugün zaten kontrol ettiniz."</string>
@@ -175,6 +178,7 @@
   <string name="downloading_in_3g">3G ile indiriliyor...</string>
   <string name="drive_closed">Oturum açılmadı</string>
   <string name="drive_opened">Oturum açıldı</string>
+  <string name="editor_commend">Düzenle</string>
   <string name="email_platform">E-Posta</string>
   <string name="empty_comment">"Yorumlar boş olamaz"</string>
   <string name="empty_file_download">"Boş dosyalar indirilemez"</string>
@@ -247,6 +251,7 @@
   <string name="hot_comments">Popüler Yorumlar</string>
   <string name="hot_sticker">Etiketli</string>
   <string name="hot_video">Videolar</string>
+  <string name="hot_video_load_more">Fazlası &gt;</string>
   <string name="hottest_sticker_str">Popüler</string>
   <string name="if_cancel">Bu işlemi iptal edilsin mi?</string>
   <string name="image_loading_error">"Resim yüklenemedi"</string>
@@ -254,6 +259,8 @@
   <string name="installing">Yükleniyor…</string>
   <string name="instruction">FTP istemcisini aşağıdaki adresi girin:</string>
   <string name="instruction_pre">FTP sunucusu başlatmak için dokunun</string>
+  <string name="interest_recommend">Tavsiye edilen video</string>
+  <string name="join_activity">Katılımcı</string>
   <string name="just_now">Şimdi</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Kategori</string>
@@ -265,7 +272,7 @@
   <string name="kuaipan_cloud_photo">KuaiPan fotoğrafları</string>
   <string name="kuaipan_create_shortcut_success">Kısayol oluşturuldu</string>
   <string name="kuaipan_data_formater_with_year">d/M/YYYY</string>
-  <string name="kuaipan_data_formater_without_year">d/M/</string>
+  <string name="kuaipan_data_formater_without_year">d/M</string>
   <string name="kuaipan_delete_guide_des">Rehber silinsin mi?</string>
   <string name="kuaipan_delete_success">Fotoğraf silindi</string>
   <string name="kuaipan_info">KuaiPan dosyalar</string>
@@ -338,7 +345,7 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="midrop_msg_1">Diğer cihazda Mi Drop açık olmalı</string>
   <string name="midrop_msg_2">Mi Drop açıldığında, yakındaki diğer cihazları arayabilir ve gönderebilirsiniz</string>
   <string name="midrop_send_files">Gönderilecek dosyaları seçin</string>
-  <string name="migrate_announcement_msg">Mevcut KuaiPan\'i, KuaiPan ayarlarında ki Mi Hesabınızla hesabıyla eşitleyin.</string>
+  <string name="migrate_announcement_msg">KuaiPan 30 Haziran 2016 yılında duracaktır. Sizlere Mi Drive kullanmanızı tavsiye ediyoruz. Bunun için veri transferine ihtiyaç yoktur, transferler sunucularımızdan sağlanır. Mi Bulut ile Mi Drive aynı depolamayı paylaşır.</string>
   <string name="migrate_announcement_title">KuaiPan ile Mi Drive birleştirildi</string>
   <string name="migrate_cancel">İptal</string>
   <string name="migrate_confirm">Transfer</string>
@@ -582,7 +589,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="repair_error">"Geri yüklenemedi"</string>
   <string name="repair_file">Şifrelenmiş dosyaları geri yükle</string>
   <string name="repeat_upload_video">Bu video zaten paylaşıldı, başka bir tane seç.</string>
-  <string name="reply_success">Yorum düzenlendikten sonra postalanacak.</string>
+  <string name="reply_success">Yorum eklendi</string>
   <string name="report_abuse">İstismar</string>
   <string name="report_advertisement">Reklam</string>
   <string name="report_other">Diğer</string>
@@ -674,7 +681,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="shared_sticker_use_tip">"Sohbet görüntüleri gönderirken kaydedilen etiketleri de gönderebilirsiniz.
 (WeChat etiketlerine şahsi GIFler ekleyebilirsin)."</string>
   <string name="shared_sticker_use_tip_title">Etiketler nasıl kullanılır?</string>
-  <string name="shared_str">%s paylaştı</string>
+  <string name="shared_str">%s tarafından paylaşıldı</string>
   <string name="show_message">Bunu açmadan önce bu dosyayı yüklemeniz gerekir.</string>
   <string name="sign_description">Oturum açılıyor...</string>
   <string name="signin_error">"Sunucuya bağlanamıyor. Ağ bağlantınızı kontrol edin."</string>
@@ -690,6 +697,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="stay_awake_summary">"FTP kullanırken ekran uyku moduna geçmesin"</string>
   <string name="stay_awake_title">Ekran Uyanık Kalsın</string>
   <string name="stop_server">Sunucuyu durdur</string>
+  <string name="storage_cloned_app">Klonlanmış uygulamalar için depolama</string>
   <string name="storage_info">%1$s mevcut</string>
   <string name="storage_info_detail">Kullanılabilir: %1$s Toplam: %2$s</string>
   <string name="storage_internal">Dahili hafıza</string>
@@ -722,6 +730,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="tab_storage">DEPOLAMA</string>
   <string name="tag_weixin_video">Video Klipler</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_album">Albümler</string>
   <string name="title_app_tags">Uygulamalar</string>
   <string name="title_enable_documentsui">"DocumentsUI'yi aç"</string>
   <string name="title_expire_video">Süresi dolmak üzere</string>
@@ -756,6 +765,10 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="ui_main_toast_operation_failed">"Favoriden %1$s çıkartılamadı"</string>
   <string name="unmount_inform_text">USB depolama birimi çıkartılsın mı?</string>
   <string name="unreviewed_video_cannot_share">Videolar paylaşmadan önce gözden geçirilmelidir</string>
+  <string name="upload_external_action_hint">URL yapıştır</string>
+  <string name="upload_external_notification_failed">"Yayınlanmadı"</string>
+  <string name="upload_external_notification_success">Başarıyla yayınlandı</string>
+  <string name="upload_external_notification_title">Yayınlanıyor, biraz bekleyin</string>
   <string name="upload_failed">"Yüklenemedi"</string>
   <string name="upload_file_toolarge_message">"%1$d çok uzun: 300MB\'tan büyük dosyalar yüklenemez."</string>
   <string name="upload_local_video">Video Klibi Paylaş</string>
@@ -771,6 +784,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="upload_video_dialog_message">"Videonuz doğrulandıktan sonra istenilen özelliğe kavuşur."</string>
   <string name="upload_video_dialog_title">Video başarıyla paylaşıldı</string>
   <string name="upload_video_failed">"Video paylaşılamadı, tekrar deneyin."</string>
+  <string name="upload_video_forbidden">"Benzer videolar yüklenemiyor"</string>
   <string name="upload_video_success">Video doğrulanıyor...</string>
   <string name="upload_video_tip">Bir seferde sadece bir videoya izin veriyoruz....</string>
   <string name="uploading">Yükleniyor</string>
@@ -820,6 +834,13 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="video_data_consumption_confirm">Tamam</string>
   <string name="video_data_consumption_dialog_message">Yüklemek için %1$s mobil veri gerekiyor</string>
   <string name="video_data_consumption_dialog_title">Mobil Veri Uyarısı</string>
+  <string name="video_parse_btn">Başlat</string>
+  <string name="video_parse_error_repeated">"Benzer videolar yüklenemiyor"</string>
+  <string name="video_parse_error_unknown">"Bu video hizmeti desteklenmiyor, farklı bir tane deneyin"</string>
+  <string name="video_parse_hint">Desteklenen Uygulamalar: WeChat, Weibo, Youku.</string>
+  <string name="video_parse_success">Başarılı</string>
+  <string name="video_parse_timeout">Bazı şeyler yanlış gitti, tekrar deneyin</string>
+  <string name="video_parsing_btn">Yükleniyor…</string>
   <string name="video_play_failed">Bilinmeyen hata</string>
   <string name="video_publish_hint">Videonuzu bulması için diğer kişilerin anlayacağı etkili içerikler, açıklamalar yazın</string>
   <string name="video_releasing">Yükleniyor…</string>
