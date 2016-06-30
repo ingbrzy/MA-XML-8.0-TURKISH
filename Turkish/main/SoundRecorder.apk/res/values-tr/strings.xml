@@ -59,7 +59,7 @@
   <string name="preference_scenes">Kayıt türü</string>
   <string name="preference_silent_mode">Kayıt esnasında zil sesini kapat</string>
   <string name="preference_tip_rename">Kayıt adını elle gir</string>
-   <string name="recognition_error_cancel">Canceled</string>
+  <string name="recognition_error_cancel">Canceled</string>
   <string name="recognition_error_download_cancel">Daha sonra</string>
   <string name="recognition_error_download_fail">İndirme başarısız.Lütfen internet bağlantınızı kontrol ediniz.</string>
   <string name="recognition_error_download_msg">Hizmeti kullanılabilir hale getirmek için tanıma motorunu indirmek gerekir.</string>
@@ -91,10 +91,10 @@
   <string name="record_name_minute"/>
   <string name="record_picker_title">Bir kayıt seçin</string>
   <string name="record_quliaty_preference_title">Kayıt kalitesi</string>
+  <string name="recording">Kaydediliyor</string>
   <string name="recording_quality_high">Yüksek kalite</string>
   <string name="recording_quality_low">Düşük kalite</string>
   <string name="recording_quality_standard">Normal kalite</string>
-  <string name="recording">Kaydediliyor</string>
   <string name="recording_stopped">Durduruldu</string>
   <string name="rename">Adlandır</string>
   <string name="rename_dialog_title">Kaydı adlandır</string>

@@ -4,8 +4,8 @@
   <string name="accessibility_audio_shutter_bg">Arkaplan Deklanşör Sesi</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Ön ve Arka Kamera Geçişi</string>
-  <string name="accessibility_effect_mode_button">Efekt Düğmesi</string>
   <string name="accessibility_countdown">Geri Sayım Düğmesi</string>
+  <string name="accessibility_effect_mode_button">Efekt Düğmesi</string>
   <string name="accessibility_flash_mode_button">FlashButton</string>
   <string name="accessibility_hdr">HDR Geçiş Düğmesi</string>
   <string name="accessibility_mode_dismiss_button">Kapalı Mod Seçim Düğmesi</string>
@@ -392,11 +392,11 @@
   <string name="simple_mode_button_text_stereo_mode">Stereo Modu kapat</string>
   <string name="simple_mode_button_text_tilt_shift">Eğim/Kaydırmayı Kapat</string>
   <string name="simple_mode_button_text_ubifocus">Yeniden Odaklanmayı Kapat</string>
-  <string name="spaceIsLow_content_external_storage_priority">SD kart yeterli alan yok</string>
-  <string name="spaceIsLow_content_primary_storage_priority">USB depolamada yeterli alan yok</string>
   <string name="snapshot_lower_than_video">Anlık video görüntüsü çözünürlüğü video boyutundan daha düşük. Video boyutunu kapatabilirsiniz. Yüksek bir çözünürlük seçin veya mevcut bir video boyutuna eşitleyin.</string>
   <string name="snapshotsize_low_powermode">"Resim çözünürlüğü mevcut güç yönetimi ayarları tarafından desteklenmiyor. Video boyutu anlık kullanılacaktır."</string>
   <string name="spaceIsLow_content">SD kartta yeterli boş alan yok</string>
+  <string name="spaceIsLow_content_external_storage_priority">SD kart yeterli alan yok</string>
+  <string name="spaceIsLow_content_primary_storage_priority">USB depolamada yeterli alan yok</string>
   <string name="start_capture">Tamam</string>
   <string name="tap_to_exposure">El ile pozlamayı ayarlamak için dokunun</string>
   <string name="tap_to_focus">Odaklanmak için dokunun</string>

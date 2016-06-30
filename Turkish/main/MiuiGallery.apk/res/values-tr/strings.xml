@@ -93,10 +93,10 @@
   <string name="auto_update_on">Açık</string>
   <string name="auto_upload_before_share_message">Bu albümü paylaşmadan önce Mi Bulut\'a yedeklenmesi gerekiyor</string>
   <string name="auto_upload_before_share_title">İpucu</string>
-  <string name="auto_upload_disable_toast">"Bu albümdeki fotoğraflar ve videolar otomatik olarak yedeklenmeyecek"</string>
-  <string name="auto_upload_enable_toast">Bu albümdeki fotoğraflar ve videolar otomatik olarak yedeklenecek</string>
   <string name="auto_upload_disable_tip">Otomatik Yedekleme devre dışı</string>
+  <string name="auto_upload_disable_toast">"Bu albümdeki fotoğraflar ve videolar otomatik olarak yedeklenmeyecek"</string>
   <string name="auto_upload_disable_toast_long_press_menu">Otomatik Yedekleme devre dışı ve diğer albüm için eklendi</string>
+  <string name="auto_upload_enable_toast">Bu albümdeki fotoğraflar ve videolar otomatik olarak yedeklenecek</string>
   <string name="auto_upload_enable_toast_long_press_menu">Otomatik Yedekleme etkin, görüntülemek için albüm sayfasına dön</string>
   <string name="autofix">Otomatik Düzelt</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
@@ -801,7 +801,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="loading_members">Üyeler yükleniyor</string>
   <string name="loading_suspend">İndirme durdu. WLAN kullanılabilir olduğunda devam edecek.</string>
   <string name="loading_video">Video indiriliyor...</string>
-   <string name="loading_video_thumbnail">Video kapağı indiriliyor…</string>
+  <string name="loading_video_thumbnail">Video kapağı indiriliyor…</string>
   <string name="local_space_full_button_text">Alanı temizle</string>
   <string name="login_and_enable_service">Mi Hesabıyla oturum aç</string>
   <string name="lomoish">Lomo</string>
@@ -993,7 +993,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="sepia">Sepya</string>
   <string name="set_as_baby_lock_wallpaper">Kilit ekranı duvar kağıdı olarak ayarla</string>
   <string name="set_face_group_toast_msg_new_user">Birleştirmek veya yoksaymak için kişiye basılı tutun</string>
-   <string name="set_face_group_toast_msg_old_user">Basılı tutulduğunda yüz kapağı, arkadaşlar, aileye dağıtılır</string>
+  <string name="set_face_group_toast_msg_old_user">Basılı tutulduğunda yüz kapağı, arkadaşlar, aileye dağıtılır</string>
   <string name="set_face_group_toast_title_new_user">Tavsiye</string>
   <string name="set_face_group_toast_title_old_user">Yüzleri gruplar halinde ayarlanabilir</string>
   <string name="set_face_image">Yeni bir kişi ayarla</string>

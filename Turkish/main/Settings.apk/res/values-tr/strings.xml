@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-   <string name="aaid_info">"
+  <string name="Accounts_settings_title">Hesaplar</string>
+  <string name="aaid_info">"
 Reklam tanımlayıcısı cihazınızın kalıcı kimliğidir. Satıcılar sizin için daha faydalı olabilecek reklam içeriğini seçmekte bunu kullanır.
 
 Kişiselleştirilmiş reklamları kullanmamayı seçerseniz, reklam miktarını azaltmayacak sadece sizin için yararlı reklamların miktarını önemli ölçüde azaltacaktır."</string>
-  <string name="Accounts_settings_title">Hesaplar</string>
   <string name="about_settings">Telefon Hakkında</string>
   <string name="about_settings_summary">Yasal bilgi, durum ve yazılım sürümünü görüntüle</string>
   <string name="ac_enable_summary">Şifre uygulayı açmak için gerekli olacaktır</string>
@@ -63,9 +63,9 @@ Ayrıca geçici olarak üçlü dokunarak ve basılı tutarak parmağınızın al
 
 Not: Büyütme için üç kez vurma klavye ve gezinme çubuğunda dışında her yerde çalışır."</string>
   <string name="accessibility_screen_magnification_title">Büyütme Hareketleri</string>
+  <string name="accessibility_service_default_description">Hiçbir açıklama sağlanmadı.</string>
   <string name="accessibility_service_no_apps_message">TalkBack kör veya görme zorluğu kullanıcılara yardımcı olmak üzere sözlü geribildirim sağlar. Ücretsiz olarak Android Marketten yüklemek ister misiniz?</string>
   <string name="accessibility_service_no_apps_title">Ekranın okunmasına ihtiyacınız var mı?</string>
-  <string name="accessibility_service_default_description">Hiçbir açıklama sağlanmadı.</string>
   <string name="accessibility_services_title">Hizmetler</string>
   <string name="accessibility_settings">Erişilebilirlik</string>
   <string name="accessibility_settings_title">Erişilebilirlik Ayarları</string>
@@ -652,9 +652,9 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="button_text_accept">Kabul</string>
   <string name="button_text_accept_timer">Kabul(%d)</string>
   <string name="button_text_login">Oturum Aç</string>
-  <string name="button_text_reboot_now">Y. Başlat</string>
   <string name="button_text_next_step">Sonraki</string>
   <string name="button_text_next_step_timer">Sonraki Adım(%d)</string>
+  <string name="button_text_reboot_now">Y. Başlat</string>
   <string name="button_text_reject">Reddet</string>
   <string name="cache_header_label">Önbellek</string>
   <string name="cache_size_label">Önbellek</string>
@@ -712,8 +712,8 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="category_work">İş</string>
   <string name="cdma_security_settings_summary">Konumum, ekran kilidi açma, kimlik saklama kilidini ayarlamak</string>
   <string name="cell_broadcast_settings">Acil yayınlar</string>
-  <string name="cellular_data_summary">Hücresel şebeke üzerinden veri kullanımına izin ver</string>
   <string name="cell_broadcast_settings_summary">Görüntülecek acil uyarı türlerini seçin</string>
+  <string name="cellular_data_summary">Hücresel şebeke üzerinden veri kullanımına izin ver</string>
   <string name="change_password">Ekran kilidini değiştir</string>
   <string name="change_security_lock">Kilidini açmak için başka yollar deneyin</string>
   <string name="check_find_device_status_failure_confirm">Tamam</string>
@@ -1266,7 +1266,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="erase_optional">İçerik</string>
   <string name="erase_personal_data">Şahsi Verilerin Silinmesi</string>
   <string name="erase_personal_data_description">Mi Hesap bilgisi, uygulama verilerini ve sistem ayarlarını sil</string>
-   <string name="erase_sd_data">SD kartı biçimlendir</string>
+  <string name="erase_sd_data">SD kartı biçimlendir</string>
   <string name="erase_sd_data_description">Biçimlendirme SD karttaki tüm dosya ve verileri silecektir.</string>
   <string name="erase_sure">Şahsi Veriler</string>
   <string name="error_apn_empty">"APN boş olamaz."</string>
@@ -1275,8 +1275,8 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="error_name_empty">"Ad alanı boş olamaz."</string>
   <string name="error_title"/>
   <string name="every_day">Hergün</string>
-  <string name="experimental_preference">(Deneysel)</string>
   <string name="experience_optimization_category">Kullanıcı Deneyim Programı</string>
+  <string name="experimental_preference">(Deneysel)</string>
   <string name="external_code_size_label">USB Depolama Uygulaması</string>
   <string name="external_data_size_label">SD Kart Boyutu</string>
   <string name="external_storage_turn_off">Harici depolama kapatıldı</string>
@@ -1376,11 +1376,11 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="free_xiaomi_wifi_connect_summary">%1$s bağlantısı için dokun.</string>
   <string name="frequently_fragment_delete">Kaldır</string>
   <string name="frequently_fragment_tempty">Sık kullanılan öğeler burada listelenecektir</string>
-  <string name="gadget_bluetooth">Bluetooth</string>
   <string name="fullbackup_data_summary">"Automatically back up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps) remotely.
 
 When you turn on automatic backup, device and app data is periodically saved remotely. App data can be any data that an app has saved (based on developer settings), including potentially sensitive data such as contacts, messages, and photos."</string>
   <string name="fullbackup_erase_dialog_message">Stop backing up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps), plus erase all copies on Google Drive?</string>
+  <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">Otomatik</string>
   <string name="gadget_brightness_state_full">Tam</string>
   <string name="gadget_brightness_state_half">Yarım</string>
@@ -2645,9 +2645,9 @@ Ekran iğnelemeyi kullanmak için:
   <string name="select_all">Hepsi</string>
   <string name="select_application">Uygulamayı seçin</string>
   <string name="select_device_admin_msg">Cihaz Yöneticileri</string>
-  <string name="select_runtime_dialog_title">Çalışma süresini seç</string>
   <string name="select_logd_size_dialog_title">Günlük tampon başına kaydedici boyutlarını seçin</string>
   <string name="select_logd_size_title">Kaydedici tampon boyutları</string>
+  <string name="select_runtime_dialog_title">Çalışma süresini seç</string>
   <string name="select_runtime_title">Günlük arabellek boyutu seçin</string>
   <string name="select_runtime_warning_message">Günlük arabellek boyutu</string>
   <string name="select_ssid_type_title">SSID Seç</string>

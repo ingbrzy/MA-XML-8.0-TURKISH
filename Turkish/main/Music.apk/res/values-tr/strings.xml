@@ -22,8 +22,8 @@
   <string name="action_item_share">Paylaş</string>
   <string name="action_settings">Ayarlar</string>
   <string name="add_music">Şarkı ekle</string>
-  <string name="alaka_required">"Bu şarkı mevcut değildir."</string>
   <string name="add_to_last_of_playlist">Çalma listesinin sonuna ekle.</string>
+  <string name="alaka_required">"Bu şarkı mevcut değildir."</string>
   <string name="album_name">Albüm</string>
   <string name="album_search_title">Albüm</string>
   <string name="alert_msg_vip_song_for_download">Bu şarkıyı indirmek için Ayrıcalıklı Şarkı Paketi al.</string>
@@ -121,7 +121,7 @@
   <string name="desktop_lyric_button_close">Kapat</string>
   <string name="desktop_lyric_button_lock">Kilitle</string>
   <string name="desktop_lyric_color">Renk</string>
-  <string name="desktop_lyric_dialog_msg">Müziklerim > Ayarlar > Fazla Gelişmiş Ayarlar altından açabilirsin</string>
+  <string name="desktop_lyric_dialog_msg">Müziklerim &gt; Ayarlar &gt; Fazla Gelişmiş Ayarlar altından açabilirsin</string>
   <string name="desktop_lyric_dialog_positive_button">Şimdi dene</string>
   <string name="desktop_lyric_dialog_title">Şimdi Dene</string>
   <string name="desktop_lyric_lock_toast">Kilitlendi. Bildirim alanından Müziğin kilidini açabilirsiniz.</string>
@@ -508,7 +508,7 @@
   <string name="pay_now">Şimdi öde</string>
   <string name="payment_fail">Ödeme başarısız</string>
   <string name="payment_success">Ödeme tamamlandı</string>
-  <string name="permission_declaration_message">Güvenlik > İzinler > Depolama İzni  altından Müzik uygulamasının düzgün çalışması için gerekli izinleri verin.</string>
+  <string name="permission_declaration_message">Güvenlik &gt; İzinler &gt; Depolama İzni  altından Müzik uygulamasının düzgün çalışması için gerekli izinleri verin.</string>
   <string name="permission_declaration_negative_text">Sonra</string>
   <string name="permission_declaration_positive_text">Güvenlik bölümüne git</string>
   <string name="permission_declaration_title">Erişim izinli</string>

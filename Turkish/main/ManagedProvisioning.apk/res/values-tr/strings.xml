@@ -35,9 +35,9 @@
   <string name="device_owner_exists">İş profili cihazdan yönetilemez</string>
   <string name="encrypt_device_cancel">İptal</string>
   <string name="encrypt_device_launch_settings">Şifrele</string>
+  <string name="encrypt_device_text">"İş profilinizi kurmaya devam etmeniz için, cihazınızın şifrelenmesi gerekir. Bu biraz zaman alabilir."</string>
   <string name="encrypt_device_text_for_device_owner_setup">"Cihaz ayarlarına devam etmek için, şifrelemeniz gerekir."</string>
   <string name="encrypt_device_text_for_profile_owner_setup">"İş profilini ayarlamaya devam etmek için, cihazı şifrelemek gerekir. Bu biraz zaman alabilir."</string>
-  <string name="encrypt_device_text">"İş profilinizi kurmaya devam etmeniz için, cihazınızın şifrelenmesi gerekir. Bu biraz zaman alabilir."</string>
   <string name="frp_clear_progress_text">Lütfen bekleyin...</string>
   <string name="frp_clear_progress_title">Siliniyor</string>
   <string name="learn_more_label">Fazlasını öğren</string>
@@ -67,16 +67,16 @@
   <string name="read_more_delete_profile">İşlemden önce, &lt;a href="#read_this_link"&gt; adresi okuyuns&lt;/a&gt;.</string>
   <string name="set_up">Ayarla</string>
   <string name="setting_up_workspace">İş profiliniz ayarlanıyor...</string>
+  <string name="setup_device">Cihazınızı ayarlayın</string>
   <string name="setup_device_encryption">Cihazınızı ayarlayın. Encryption</string>
   <string name="setup_device_progress">Cihazınızı ayarlayın. İşlem gösteriliyor</string>
   <string name="setup_device_start_setup">Cihazınızı ayarlayın. Kurulumu başlat</string>
   <string name="setup_profile_encryption">Profili ayarla. Şifrele</string>
   <string name="setup_profile_progress">Profili ayarla. İşlem gösteriliyor</string>
   <string name="setup_profile_start_setup">Profili ayarla. Kurulumu başlat</string>
-  <string name="setup_device">Cihazınızı ayarlayın</string>
-  <string name="setup_work_space">Profilinizi ayarlayın</string>
   <string name="setup_work_device">Cihazınızı ayarlayın</string>
   <string name="setup_work_profile">Profilinizi ayarlayın</string>
+  <string name="setup_work_space">Profilinizi ayarlayın</string>
   <string name="sure_you_want_to_delete_profile">Bu profili ve verilerini silmek istiyor musunuz? Tüm veriler silinecek.</string>
   <string name="suw_back_button_label">Geri</string>
   <string name="suw_more_button_label">Fazlası</string>
