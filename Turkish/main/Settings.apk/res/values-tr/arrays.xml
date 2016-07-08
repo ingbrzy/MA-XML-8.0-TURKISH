@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="status_bar_style_entries">
+        <item>Birleştirilmiş</item>
+        <item>Ayrı Ayrı</item>
+    </string-array>
+    <string-array name="status_bar_style_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
         <item>Avrupa</item>
@@ -9,6 +17,12 @@
         <item>Pasifik</item>
         <item>Tümü</item>
     </string-array>
+    <string-array name="date_format_values">
+        <item></item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 saniye</item>
         <item>30 saniye</item>
@@ -17,6 +31,15 @@
         <item>5 dakika</item>
         <item>10 dakika</item>
         <item>Asla</item>
+    </string-array>
+    <string-array name="screen_timeout_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>2147483647</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Asla</item>
@@ -28,6 +51,16 @@
         <item>10 dakika</item>
         <item>30 dakika</item>
     </string-array>
+    <string-array name="dream_timeout_values">
+        <item>0</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+    </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Hemen</item>
         <item>5 saniye</item>
@@ -38,6 +71,17 @@
         <item>5 dakika</item>
         <item>10 dakika</item>
         <item>30 dakika</item>
+    </string-array>
+    <string-array name="lock_after_timeout_values">
+        <item>0</item>
+        <item>5000</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>S</item>
@@ -56,7 +100,30 @@
         <item>Çok Hızlı</item>
         <item>Çabuk</item>
         <item>Çarçabuk</item>
-        <item>Anı</item>
+        <item>An</item>
+    </string-array>
+    <string-array name="tts_pitch_values">
+        <item>50</item>
+        <item>80</item>
+        <item>100</item>
+        <item>120</item>
+        <item>150</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
@@ -120,6 +187,11 @@
         <item>Sadece takılı olduğunda</item>
         <item>Asla</item>
     </string-array>
+    <string-array name="wifi_sleep_policy_values">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
     <string-array name="data_usage_data_range">
         <item>Son 30 gün</item>
         <item>Kullanım döngüsünü ayarla...</item>
@@ -130,8 +202,12 @@
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Otomatik</item>
-        <item>Sadece 5 GHz </item>
-        <item>Sadece 2.4 GHz </item>
+        <item>Sadece 2.4 GHz</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Kullanım süresi</item>
@@ -605,11 +681,11 @@
     <string-array name="overlay_display_devices_values">
         <item></item>
         <item>720x480/160</item>
-        <item>720x480/160,güvenli</item>
+        <item>720x480/160, güvenli</item>
         <item>1280x720/213</item>
-        <item>1280x720/213,güvenli</item>
+        <item>1280x720/213, güvenli</item>
         <item>1920x1080/320</item>
-        <item>1920x1080/320,güvenli</item>
+        <item>1920x1080/320, güvenli</item>
         <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
@@ -770,9 +846,10 @@
         <item>Hafif</item>
     </string-array>
     <string-array name="haptic_feedback_level_values">
-        <item>2</item>
-        <item>1</item>
+        <item>-1</item>
         <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Güçlü</item>
@@ -1111,6 +1188,11 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>CMWAP</item>
         <item>CMNET</item>
     </string-array>
+    <string-array name="agps_reset_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="agps_reset_type_entries">
         <item>HOT</item>
         <item>WARM</item>
@@ -1128,19 +1210,17 @@ Not: Sadece Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_values">
         <item>0</item>
+        <item>30000</item>
         <item>60000</item>
         <item>120000</item>
         <item>300000</item>
-        <item>900000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Hemen</item>
+        <item>30 saniye</item>
         <item>1 dakika</item>
         <item>2 dakika</item>
         <item>5 dakika</item>
-        <item>15 dakika</item>
-        <item>30 dakika</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Sistem Animasyonlarını Sakla</item>
@@ -1202,6 +1282,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>fk</item>
         <item>fr</item>
         <item>gf</item>
+        <item>de</item>
         <item>gh</item>
         <item>gd</item>
         <item>gt</item>
@@ -1209,6 +1290,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>ht</item>
         <item>hn</item>
         <item>hk</item>
+        <item>hu</item>
         <item>in</item>
         <item>id</item>
         <item>ir</item>
@@ -1286,8 +1368,10 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>zw</item>
     </string-array>
     <string-array name="broadcast_locales">
+        <item>AE</item>
         <item>AG</item>
         <item>AR</item>
+        <item>BH</item>
         <item>BO</item>
         <item>BS</item>
         <item>BB</item>
@@ -1296,13 +1380,20 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>CL</item>
         <item>CO</item>
         <item>EC</item>
+        <item>EG</item>
         <item>GF</item>
         <item>GD</item>
         <item>GY</item>
         <item>IN</item>
         <item>IL</item>
+        <item>IR</item>
+        <item>JO</item>
+        <item>KW</item>
+        <item>OM</item>
         <item>PY</item>
         <item>PE</item>
+        <item>QA</item>
+        <item>SA</item>
         <item>SR</item>
         <item>KN</item>
         <item>LC</item>
@@ -1345,12 +1436,12 @@ Not: Sadece Ubuntu 8.04!"</item>
     </integer-array>
     <string-array name="alarm_repeat_type">
         <item>Hergün</item>
-        <item>Haftanın Günleri</item>
+        <item>Mesai Günleri</item>
         <item>Özel</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Hergün</item>
-        <item>Haftanın Günleri</item>
+        <item>Mesai Günleri</item>
         <item>Özel</item>
     </string-array>
 </resources>
