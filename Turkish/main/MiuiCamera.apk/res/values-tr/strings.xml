@@ -121,7 +121,6 @@
   <string name="pref_camera_beautify_entryvalue_high">3</string>
   <string name="pref_camera_beautify_entryvalue_low">1</string>
   <string name="pref_camera_beautify_entryvalue_normal">2</string>
-  <string name="pref_camera_coloreffect_default">none</string>
   <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_big_face">Holizon</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">S&amp;B</string>
@@ -153,14 +152,12 @@
   <string name="pref_camera_coloreffect_entry_yesteryear">Geçen Yıl</string>
   <string name="pref_camera_coloreffect_title">Filterler</string>
   <string name="pref_camera_contrast_title">Karşıtlık</string>
-  <string name="pref_camera_delay_capture_default">5</string>
   <string name="pref_camera_delay_capture_entry_10s">10 sn</string>
   <string name="pref_camera_delay_capture_entry_3s">3 sn</string>
   <string name="pref_camera_delay_capture_entry_5s">5 sn</string>
   <string name="pref_camera_delay_capture_entry_audio">Ses</string>
   <string name="pref_camera_delay_capture_entry_off">Kapalı</string>
   <string name="pref_camera_delay_capture_title">Zamanlayıcı</string>
-  <string name="pref_camera_exposuretime_default">0</string>
   <string name="pref_camera_exposuretime_entry_0.5">2 sn</string>
   <string name="pref_camera_exposuretime_entry_1">1 sn</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000 sn</string>
@@ -243,8 +240,6 @@
   <string name="pref_camera_recordlocation_entry_on">Açık</string>
   <string name="pref_camera_recordlocation_title">Konum Bilgisini Sakla</string>
   <string name="pref_camera_referenceline_title">Kılavuz Çizgilerini Göster</string>
-  <string name="pref_camera_saturation_cm_test_default">4</string>
-  <string name="pref_camera_saturation_default">5</string>
   <string name="pref_camera_saturation_title">Doygunluk</string>
   <string name="pref_camera_scenemode_entry_auto">Otomatik</string>
   <string name="pref_camera_scenemode_entry_backlight">Arkaplan Işığı</string>
@@ -263,8 +258,6 @@
   <string name="pref_camera_settings">Cihaz</string>
   <string name="pref_camera_settings_category">Kamera Ayarları</string>
   <string name="pref_camera_settings_title">Ayarlar</string>
-  <string name="pref_camera_shader_coloreffect_default">10</string>
-  <string name="pref_camera_sharpness_default">12</string>
   <string name="pref_camera_sharpness_title">Keskinlik</string>
   <string name="pref_camera_show_gender_age_entry_alias">Güzellik Açıkken Yaşı Göster</string>
   <string name="pref_camera_show_gender_age_entry_off">Kapalı</string>
@@ -318,8 +311,6 @@
   <string name="pref_front_mirror_entry_on">Açık</string>
   <string name="pref_front_mirror_title">Ön Kamera Aynası</string>
   <string name="pref_manual_exposure_title">Pozlama Zamanı</string>
-  <string name="pref_mi_front_video_quality_default">6</string>
-  <string name="pref_mtk_video_quality_default">10</string>
   <string name="pref_priority_storage_title">SD Karta Sakla</string>
   <string name="pref_qc_focus_position_title">Odakla</string>
   <string name="pref_scan_qrcode_title">QR Kodlarını Tara</string>
@@ -335,14 +326,11 @@
   <string name="pref_video_focusmode_entry_auto">Dokun</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Odaklanma Modu</string>
-  <string name="pref_video_quality_default">5</string>
-  <string name="pref_video_quality_default_cmcc_test">4</string>
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_quality_entry_4kuhd">4K</string>
   <string name="pref_video_quality_entry_720p">HD</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
-  <string name="pref_video_quality_entry_value_4kuhd">8</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
