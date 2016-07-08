@@ -2,7 +2,7 @@
 <resources>
   <string name="accept">Tamam</string>
   <string name="access_sd_fail">"SD Karta erişemedi</string>
-  <string name="accessibility_shutter_button">Shutter</string>
+  <string name="accessibility_shutter_button">Deklanşör Sayısı</string>
   <string name="action_search">Ara</string>
   <string name="address">Adres:</string>
   <string name="allow_check_website_security">Websitesi güvenlik bildirimlerini göster</string>
@@ -65,7 +65,6 @@
   <string name="feedback_description_camera_access">"Tarayıcı Kameraya bağlanamadı"</string>
   <string name="feedback_description_save_photo">"Fotoğraf veya video kaydedilemedi"</string>
   <string name="flash_lable">Flaş</string>
-  <string name="global_default_language">@string/language_value_english</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Kişiyi aktar</string>
   <string name="impunity_declaration_content">Normal çalışması için internete bağlanmaya ihtiyaç var.</string>
