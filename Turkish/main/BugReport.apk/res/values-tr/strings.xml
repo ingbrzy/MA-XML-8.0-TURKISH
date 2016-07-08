@@ -51,7 +51,7 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s problemi \"%2$s\"</string>
   <string name="feedback_collect_log_failed">"Günlük alınamadı"</string>
   <string name="feedback_description">Açıklama</string>
-  <string name="feedback_description_bugreport_hint">Bazı işaretler () telefonumun bozulmasına neden oldu ().</string>
+  <string name="feedback_description_bugreport_hint">Bazı işaretler (...) telefonumun bozulmasına neden oldu (...).</string>
   <string name="feedback_description_label">Açıklama</string>
   <string name="feedback_description_suggest_hint">"Yeni bir özellik eklemenizi istiyorum () çünkü şuna ihtiyacımız var ()."</string>
   <string name="feedback_detail_tile">İşlem</string>
@@ -62,7 +62,8 @@
   <string name="feedback_phone_model_label">Telefon Model</string>
   <string name="feedback_probability_label">Olasılık</string>
   <string name="feedback_remind_login_btn">Oturum Aç</string>
-  <string name="feedback_report_remind_login_desc">"Mi Hesabınızla oturum açıp, mühendislerimizle iletişe geçebilirsiniz. Raporunuz durumunu \"Raporlarım\" altından takip edebilirsiniz."</string>
+  <string name="feedback_report_remind_login_desc">Mi Hesabıyla oturum açıp, mühendislerimizle iletişime geçebilirsiniz.</string>
+  <string name="feedback_report_remind_login_desc2">"Raporunuz durumunu \"Raporlarım\" altından takip edebilirsiniz."</string>
   <string name="feedback_retest_label">İşlemin Adımları</string>
   <string name="feedback_select_images">Resim Ekle</string>
   <string name="feedback_select_upload_log">Günlük Ekle</string>
@@ -101,6 +102,7 @@
   <string name="message_label">Mesaj</string>
   <string name="michat_app_name">Çevrimiçi Destek</string>
   <string name="michat_artifical_customer_phone">4001005678</string>
+  <string name="michat_artifical_customer_phone_dial_error">"Eğer 400 numaralı hattı arayabilir, %1$s kulanarak farklı bir telefon kullanabilirsiniz"</string>
   <string name="michat_artifical_customer_text">Kişisel Destek</string>
   <string name="michat_attach_image">Resim</string>
   <string name="michat_attach_smiley">Simge</string>
