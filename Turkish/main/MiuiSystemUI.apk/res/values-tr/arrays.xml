@@ -42,20 +42,6 @@
         <item>-</item>
         <item>d</item>
     </string-array>
-    <array name="duration_entryValues">
-        <item>@drawable/temp_0</item>
-        <item>@drawable/temp_1</item>
-        <item>@drawable/temp_2</item>
-        <item>@drawable/temp_3</item>
-        <item>@drawable/temp_4</item>
-        <item>@drawable/temp_5</item>
-        <item>@drawable/temp_6</item>
-        <item>@drawable/temp_7</item>
-        <item>@drawable/temp_8</item>
-        <item>@drawable/temp_9</item>
-        <item>@drawable/temp_minus</item>
-        <item>@drawable/temp_degree</item>
-    </array>
     <string-array name="system_foreground_notification_whitelist">
         <item>com.miui.home</item>
         <item>com.android.providers.contacts</item>
