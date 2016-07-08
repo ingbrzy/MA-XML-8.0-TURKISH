@@ -240,106 +240,11 @@
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
-    <string-array name="google_in_list">
-        <item>search_google</item>
-        <item>ic_search_engine_google</item>
-        <item>google</item>
-    </string-array>
-    <string-array name="yahoo_in_list">
-        <item>search_yahoo</item>
-        <item>ic_search_engine_yahoo</item>
-        <item>yahoo</item>
-    </string-array>
-    <string-array name="bing_in_list">
-        <item>search_bing</item>
-        <item>ic_search_engine_bing</item>
-        <item>bing</item>
-    </string-array>
-    <string-array name="baidu_in_list">
-        <item>search_baidu</item>
-        <item>ic_search_engine_baidu</item>
-        <item>baidu</item>
-    </string-array>
-    <string-array name="sm_in_list">
-        <item>search_sm</item>
-        <item>ic_search_engine_sm</item>
-        <item>sm</item>
-    </string-array>
-    <string-array name="sogou_in_list">
-        <item>search_sogou</item>
-        <item>ic_search_engine_sogou</item>
-        <item>sogou</item>
-    </string-array>
     <string-array name="bing_tr_TR_in_list">
         <item>search_bing</item>
         <item>ic_search_engine_bing</item>
         <item>bing_tr_TR</item>
     </string-array>
-    <string-array name="s139_in_list">
-        <item>search_s139</item>
-        <item>ic_search_engine_s139</item>
-        <item>s139</item>
-    </string-array>
-    <string-array name="taobao_in_list">
-        <item>search_taobao</item>
-        <item>ic_search_engine_taobao</item>
-        <item>taobao</item>
-    </string-array>
-    <string-array name="yicha_in_list">
-        <item>search_yicha</item>
-        <item>ic_search_engine_yicha</item>
-        <item>yicha</item>
-    </string-array>
-    <string-array name="easou_in_list">
-        <item>search_easou</item>
-        <item>ic_search_engine_easou</item>
-        <item>easou</item>
-    </string-array>
-    <string-array name="dianping_in_list">
-        <item>search_dianping</item>
-        <item>ic_search_engine_dianping</item>
-        <item>dianping</item>
-    </string-array>
-    <string-array name="shipin_in_list">
-        <item>search_shipin</item>
-        <item>ic_search_engine_shipin</item>
-        <item>shipin</item>
-    </string-array>
-    <string-array name="tupian_in_list">
-        <item>search_tupian</item>
-        <item>ic_search_engine_tupian</item>
-        <item>tupian</item>
-    </string-array>
-   <integer-array name="readmode_content_font_size">
-        <item>16</item>
-        <item>18</item>
-        <item>20</item>
-        <item>24</item>
-        <item>28</item>
-    </integer-array>
-    <integer-array name="readmode_title_font_size">
-        <item>24</item>
-        <item>26</item>
-        <item>28</item>
-        <item>32</item>
-        <item>36</item>
-    </integer-array>
-    <integer-array name="readmode_theme_bgcolors">
-        <item>0xfff7f7f7</item>
-        <item>0xffe6ddd1</item>
-        <item>0xffd8d8d8</item>
-        <item>0xffcdc3b5</item>
-        <item>0xffb0c0b6</item>
-        <item>0xff111214</item>
-    </integer-array>
-    <integer-array name="readmode_theme_fontcolors">
-        <item>0xff000000</item>
-        <item>0xff000000</item>
-        <item>0xff3e4042</item>
-        <item>0xff543b20</item>
-        <item>0xff2e3833</item>
-        <item>0xff646974</item>
-    </integer-array>
     <integer-array name="hot_words_item_text_bg_color">
         <item>0xfff2f6e8</item>
         <item>0xffe8f6f6</item>
