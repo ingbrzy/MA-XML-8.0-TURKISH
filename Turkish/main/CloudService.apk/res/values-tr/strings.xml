@@ -229,11 +229,11 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_main_memory_low_message">"Eşitleme için, bulutta depolanmış bazı öğeleri silin."</string>
   <string name="micloud_main_memory_low_title">Telefonun dahili hafızası nedeyse dolmak üzere</string>
   <string name="micloud_main_message_not_synced">%s veri eşitlenemedi</string>
-  <string name="micloud_main_multi_user_error_message">"Benzer bir hesapla oturum açıp ilk alanı ve ve Mi Bulut durmasını çözebilirsiniz. Eğer veriyi yedeklemek isterseniz:
+  <string name="micloud_main_multi_user_error_message">"Benzer bir hesapla oturum açıp İlk Alanı veMi Bulut hatasını çözebilirsiniz. Eğer veriyi yedeklemek isterseniz:
 
-1.Diğer hesabı kullan
-2.İlk boşluğa veriyi transfer et"</string>
-  <string name="micloud_main_multi_user_error_title">Mi Bulut durduruldu</string>
+1.Farklı bir hesap kullan
+2. İlk Alana öğeleri transfer et"</string>
+  <string name="micloud_main_multi_user_error_title">Mi Bulut Hatası</string>
   <string name="micloud_main_network_abnormal">"Ağa bağlanamıyor"</string>
   <string name="micloud_main_network_error">"Ağa bağlanamıyor"</string>
   <string name="micloud_main_not_sync">%d öğe eşitlenmek için bekliyor</string>
@@ -287,7 +287,7 @@ Daha fazla özelliğe erişmek için Eşitleme Ayarları düğmesine dokunun."</
   <string name="micloud_notif_content_depend_wifi">Eşitleme için WLAN ile bağlan.</string>
   <string name="micloud_notif_content_master_depend_wifi">Önce WLAN ağına bağlan.</string>
   <string name="micloud_notif_content_memory_low">Yetersiz depolama alanı.</string>
-  <string name="micloud_notif_content_multi_user_error">Orjinal alana benzer hesapla oturum açın.</string>
+  <string name="micloud_notif_content_multi_user_error">İlk Alanda benzer hesapla oturum açtınız.</string>
   <string name="micloud_notif_content_sync_finish">Hesap</string>
   <string name="micloud_notif_content_sync_not_finish">Detay</string>
   <string name="micloud_notif_content_sync_with_off">Cihazı şimdi eşitlemek için dokunun.</string>
