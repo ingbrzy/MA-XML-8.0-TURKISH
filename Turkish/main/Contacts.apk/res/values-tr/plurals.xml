@@ -83,8 +83,8 @@
         <item quantity="one">1 kişi maili</item>
     </plurals>
     <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d kişi bulundu</item>
-        <item quantity="one">1 kişi bulundu</item>
+        <item quantity="other">%1$d öğe bulundu</item>
+        <item quantity="one">1 öğe bulundu</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d favori</item>
