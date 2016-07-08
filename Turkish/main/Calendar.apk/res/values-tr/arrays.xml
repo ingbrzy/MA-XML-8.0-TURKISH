@@ -6,12 +6,6 @@
         <item>SMS</item>
         <item>Alarm</item>
     </string-array>
-    <integer-array name="reminder_methods_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
     <string-array name="reminder_minutes_labels">
         <item>Hatırlatıcısız</item>
         <item>0 dakika</item>
@@ -65,12 +59,6 @@
         <item>Cumartesi</item>
         <item>Pazar</item>
         <item>Pazartesi</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_values">
-        <item>-1</item>
-        <item>7</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Marshall Adaları</item>
@@ -158,102 +146,11 @@
         <item>Fiji</item>
         <item>Tonga</item>
     </string-array>
-    <string-array name="timezone_values">
-        <item>Pasifik/Majuro</item>
-        <item>Pasifik/Midway</item>
-        <item>Pasifik/Honolulu</item>
-        <item>Amerika/Anchorage</item>
-        <item>Amerika/Los_Angeles</item>
-        <item>America/Tijuana</item>
-        <item>America/Phoenix</item>
-        <item>America/Chihuahua</item>
-        <item>America/Denver</item>
-        <item>America/Costa_Rica</item>
-        <item>America/Chicago</item>
-        <item>America/Mexico_City</item>
-        <item>America/Regina</item>
-        <item>America/Bogota</item>
-        <item>America/New_York</item>
-        <item>America/Caracas</item>
-        <item>America/Barbados</item>
-        <item>America/Halifax</item>
-        <item>America/Manaus</item>
-        <item>America/Santiago</item>
-        <item>America/St_Johns</item>
-        <item>America/Sao_Paulo</item>
-        <item>America/Argentina/Buenos_Aires</item>
-        <item>America/Godthab</item>
-        <item>America/Montevideo</item>
-        <item>Atlantic/South_Georgia</item>
-        <item>Atlantic/Azores</item>
-        <item>Atlantic/Cape_Verde</item>
-        <item>Africa/Casablanca</item>
-        <item>Europe/London</item>
-        <item>Europe/Amsterdam</item>
-        <item>Europe/Belgrade</item>
-        <item>Europe/Brussels</item>
-        <item>Europe/Sarajevo</item>
-        <item>Africa/Windhoek</item>
-        <item>Africa/Brazzaville</item>
-        <item>Asia/Amman</item>
-        <item>Europe/Athens</item>
-        <item>Asia/Beirut</item>
-        <item>Africa/Cairo</item>
-        <item>Avrupa/Helsinki</item>
-        <item>Asya/Jerusalem</item>
-        <item>Avrupa/Minsk</item>
-        <item>Afrika/Harare</item>
-        <item>Asya/Bağdat</item>
-        <item>Avrupa/Moscow</item>
-        <item>Asya/Kuwait</item>
-        <item>Afrika/Nairobi</item>
-        <item>Asia/Tehran</item>
-        <item>Asia/Baku</item>
-        <item>Asya/Tiflis</item>
-        <item>Asya/Yerevan</item>
-        <item>Asia/Dubai</item>
-        <item>Asia/Kabul</item>
-        <item>Asia/Karachi</item>
-        <item>Asia/Oral</item>
-        <item>Asia/Yekaterinburg</item>
-        <item>Asia/Calcutta</item>
-        <item>Asia/Colombo</item>
-        <item>Asia/Katmandu</item>
-        <item>Asia/Almaty</item>
-        <item>Asia/Rangoon</item>
-        <item>Asia/Krasnoyarsk</item>
-        <item>Asia/Bangkok</item>
-        <item>Asia/Shanghai</item>
-        <item>Asia/Hong_Kong</item>
-        <item>Asia/Irkutsk</item>
-        <item>Asia/Kuala_Lumpur</item>
-        <item>Australia/Perth</item>
-        <item>Asia/Taipei</item>
-        <item>Asia/Seoul</item>
-        <item>Asia/Tokyo</item>
-        <item>Asia/Yakutsk</item>
-        <item>Australia/Adelaide</item>
-        <item>Australia/Darwin</item>
-        <item>Australia/Brisbane</item>
-        <item>Australia/Hobart</item>
-        <item>Australia/Sydney</item>
-        <item>Asia/Vladivostok</item>
-        <item>Pacific/Guam</item>
-        <item>Asia/Magadan</item>
-        <item>Pacific/Auckland</item>
-        <item>Pacific/Fiji</item>
-        <item>Pacific/Tongatapu</item>
-    </string-array>
     <string-array name="availability">
         <item>Meşgul</item>
         <item>Uygun</item>
         <item>Belirsiz</item>
     </string-array>
-    <integer-array name="availability_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="visibility">
         <item>Varsayılan</item>
         <item>Özel</item>
@@ -277,11 +174,6 @@
         <item>Bu ve gelecek etkinlikler</item>
         <item>Tüm etkinlikler</item>
     </string-array>
-    <integer-array name="delete_repeating_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="delete_repeating_labels_no_selected">
         <item>Bu &amp; gelecek etkinliklerde</item>
         <item>Tüm etkinliklerde</item>
@@ -378,11 +270,6 @@
         <item>Daima</item>
         <item>Sadece zil sessizde iken</item>
         <item>Asla</item>
-    </string-array>
-    <string-array name="prefValues_alerts_vibrateWhen">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Şeffaf</item>
