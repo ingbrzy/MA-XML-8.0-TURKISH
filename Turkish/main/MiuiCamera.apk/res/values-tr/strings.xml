@@ -117,11 +117,6 @@
   <string name="pref_camera_beautify_entry_high">Yüksek</string>
   <string name="pref_camera_beautify_entry_low">Düşük</string>
   <string name="pref_camera_beautify_entry_normal">Orta</string>
-  <string name="pref_camera_beautify_entryvalue_auto">0</string>
-  <string name="pref_camera_beautify_entryvalue_high">3</string>
-  <string name="pref_camera_beautify_entryvalue_low">1</string>
-  <string name="pref_camera_beautify_entryvalue_normal">2</string>
-  <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_big_face">Holizon</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">S&amp;B</string>
   <string name="pref_camera_coloreffect_entry_brannan">Şafak</string>
@@ -271,12 +266,8 @@
   <string name="pref_camera_snap_entry_take_movie">Ekran kapalı olduğunda &amp; basın. Video kaydını başlatmak için Ses Seviyesini Azalt düğmesini basılı tutun. Durdurmak için bırakın.</string>
   <string name="pref_camera_snap_entry_take_picture">Ekran kapalı olduğunda &amp; basın.  Seri Fotoğraf Çekimini başlatmak için Ses Seviyesini Azalt düğmesine basılı tutun.Durdurmak için bırakın.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"\"Ses Düğmeleriyle Uyan\" açıkken Seri Çekim Moduna geçilemiyor."</string>
-  <string name="pref_camera_snap_value_off">Kapalı</string>
-  <string name="pref_camera_snap_value_take_movie">Film</string>
-  <string name="pref_camera_snap_value_take_picture">Resim</string>
   <string name="pref_camera_sound_title">Kamera Sesleri</string>
   <string name="pref_camera_square_mode_title">Kare</string>
-  <string name="pref_camera_stereo_default">7</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
   <string name="pref_camera_tilt_shift_entry_circle">Çember</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Paralel</string>
@@ -395,7 +386,6 @@
   <string name="toast_start_audio_capture">Fotoğrafa bir ses ekle</string>
   <string name="ubi_focus_capture_fail">"Fotoğraf alınamıyor"</string>
   <string name="ubifocus_capture_warning_message">En iyi sonuç için, resim hem yakın hem de uzak nesneler içermelidir (mercekten 1 metreden az)</string>
-  <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Boyut sınırına ulaşıldı.</string>
   <string name="wait">Biraz bekleyin…</string>
 </resources>
