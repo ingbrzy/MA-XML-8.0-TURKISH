@@ -122,7 +122,7 @@
   <string name="mul">×</string>
   <string name="mulDesc">Çarpı</string>
   <string name="network_confirm_content">"Döviz dönüştürücüsü, vergi ve ipotek hesaplayıcıları normal olarak çalışmak için ağ bağlantısı gerektirir."</string>
-  <string name="network_confirm_title">Ağ bağlantısı gerekiyor</string>
+  <string name="network_confirm_title">Yetki gerekmektedir</string>
   <string name="percentage">%</string>
   <string name="pi">π</string>
   <string name="piDesc">Pi</string>
@@ -366,9 +366,11 @@
   <string name="unit_year_format">%s Yıl</string>
   <string name="unit_yuan">CNY</string>
   <string name="wf_word_figure">Finansal Karakterler</string>
+  <string name="word_figure_big_unit_fen">分</string>
+  <string name="word_figure_big_unit_jiao">角</string>
   <string name="word_figure_big_unit_wan">万</string>
   <string name="word_figure_big_unit_yi">亿</string>
-  <string name="word_figure_dot">点</string>
+  <string name="word_figure_big_unit_zhao">点</string>
   <string name="word_figure_number_0">零</string>
   <string name="word_figure_number_1">壹</string>
   <string name="word_figure_number_2">贰</string>
@@ -382,4 +384,6 @@
   <string name="word_figure_unit_bai">佰</string>
   <string name="word_figure_unit_qian">仟</string>
   <string name="word_figure_unit_shi">拾</string>
+  <string name="word_figure_yuan">元</string>
+  <string name="word_figure_zheng">整</string>
 </resources>
