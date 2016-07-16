@@ -41,19 +41,40 @@
         <item>Kocaman</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"Notlara Hoşgeldiniz
+        <item>"Notlara Hoşgeldiniz!
 "</item>
-        <item>"Dokunup bir not oluşturun
+        <item>"Bir not oluşturun
++ işaretine dokunup bir not oluşturun."</item>
+        <item>"Şablon seçin
+Notun arkaplan ve stilini şablon kullanarak değiştirebilirsiniz.
+Not için şablonu aşağıdan dokunup seçebilirsiniz."</item>
+        <item>"Dizin oluşturmak için;
+Dizinde notları organize edin.
+Dizin oluşturmanın iki yolu var:
+1. Üst sağ köşedeki dizin simgesine dokunun ve + işaretine seçin.
+2. Bir nota dokunup açılır penceresinden \"Taşı\" - \"Yeni Dizin\" seçeneğini seçin."</item>
+        <item>"Notları gizlemek için;
+Notlarınızı şifre ile koruyabilirsiniz.
+Bunu iki yolla yapabilirsiniz:
+1. Notun üst sağ köşedeki \"Fazlası\" seçeneğine dokunup, \"Gizle\" menüsünü seçin.
+2. Notun açılır penceresine basılı tutup \"Gizle\" seçeneğini seçin."</item>
+        <item>"Ve nice güzel özellikler!
+  - Resimler, Kontrol Listeleri, Hatırlatıcılar.
+
+Resim Eklemek;
+Bir nota resim eklemek için altındaki Resim Simgesine dokunun.
+Bir fotoğraf çekebilir veya Galeriden bir fotoğraf seçebilirsiniz.
+Not bir resim içerdiğinde, bu resim minyatür görünümde kullanılır.
+
+Kontrol Listesi;
+Yapılacaklar listesinde maddeleri belirtebilirsiniz.
+Bir notun altındaki denetleme kutusuna dokunup metnin paragrafına ekleyebilirsiniz.
+Adımların herbirini tamamladığınızda denetleme kusunu işaretleyebilirsiniz.
+
+Hatırlatıcı Ayarları;
+Notları direkt hatırlatıcı olarak ayarlayabilirsiniz.
+Notun üst sağ köşedeki \"Fazlası\" düğmesine dokunup ve buradaki \"Hatırlatıcılar\", bölümünden ayarlayabilirsiniz.
 "</item>
-        <item>"Güzel tema seçin
-"</item>
-        <item>"Not dizini oluştur
-"</item>
-        <item>"Öncelikli notları oluştur
-"</item>
-        <item>"Ve daha güzel özellikler!
-  - Mi Bulut ile eşitle
-  - Hatırlatıcı ayarla"</item>
     </string-array>
     <integer-array name="welcome_notes_color">
         <item>0</item>
