@@ -254,6 +254,7 @@ Kartvizitler kapalı"</string>
   <string name="contacts_unavailable_create_contact">Yeni kişi oluştur</string>
   <string name="contacts_unavailable_import_contacts">Dosyadaki kişileri içe aktar</string>
   <string name="convenient_service">Hizmetler</string>
+  <string name="copy_number">Kopyala</string>
   <string name="copy_text">Panoya kopyala</string>
   <string name="createContactShortcutSuccessful">Kişi Widgeti ana ekrana eklendi</string>
   <string name="create_group_dialog_title">Yeni grup oluştur</string>
@@ -694,8 +695,8 @@ Sebep: \"%s\""</string>
   <string name="miprofile_error_not_opened">Kartvizitleri kapat</string>
   <string name="miprofile_error_not_set">"Kartvizitiniz sunucuyla eşitlenmedi"</string>
   <string name="miprofile_error_unknown">Bilinmeyen hata</string>
-  <string name="miprofile_find_miprofile_title">Profil Ekle</string>
-  <string name="miprofile_find_profile_batch_add">Tüm Profili Ekle</string>
+  <string name="miprofile_find_miprofile_title">Görüntülenen tüm bilgiyi ekle</string>
+  <string name="miprofile_find_profile_batch_add">Tümünü Ekle</string>
   <string name="miprofile_find_profile_batch_finish">Bitir</string>
   <string name="miprofile_find_profile_batch_request_failed">"Profil eklenemedi"</string>
   <string name="miprofile_find_profile_loading">Yükleniyor…</string>
@@ -1192,8 +1193,10 @@ Favorilerinize bir kişi eklemek için:
   <string name="strequentList">Favoriler</string>
   <string name="success_message_import_from_account">Aktarım bitti</string>
   <string name="summary_kind_title">Sonuç</string>
-  <string name="t9_search_guide_pinyin">Orhan\'i aramak için 2 ve 6\'a basın</string>
-  <string name="t9_search_guide_zhuyin">Orhan\'i aramak için 2 ve 6\'a basın</string>
+  <string name="t9_search_guide_pinyin_title1">Rakamları girip hızlıca kişileri arayın</string>
+  <string name="t9_search_guide_pinyin_title2">Orhan'ı aramak için 6 ve 7 rakamlarına tıklayın.</string>
+  <string name="t9_search_guide_zhuyin_title1">Harfleri girip hızlıca kişileri arayın</string>
+  <string name="t9_search_guide_zhuyin_title2">Orhan'ı aramak için 6 ve 7 harflerine tıklayın.</string>
   <string name="take_new_photo">Yeni fotoğraf çek</string>
   <string name="take_photo">Fotoğraf çek</string>
   <string name="titleJoinContactDataWith">Kişileri birleştir</string>
