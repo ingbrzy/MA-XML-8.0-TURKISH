@@ -75,6 +75,7 @@
   <string name="menu_item_sort_by_name">Ada Göre Sırala</string>
   <string name="minute">1 dakika</string>
   <string name="minutes">%s dakika</string>
+  <string name="more_settings">Diğer Ayarlar</string>
   <string name="never">Birkez</string>
   <string name="oneshot_alarm">Kapatıldıktan sonra sil</string>
   <string name="pause">Durdur</string>
@@ -83,8 +84,8 @@
   <string name="revert">Geri Al</string>
   <string name="set_alarm">Alarmı Ayarla</string>
   <string name="settings">Ayarlar</string>
-  <string name="shutdown_alarm_disable_summary">Telefon kapalı iken alarmı kapat</string>
-  <string name="shutdown_alarm_enable_summary">Telefon kapalı iken alarmı aç</string>
+  <string name="shutdown_alarm_disable_summary">Telefon kapatıldığında alarm çalmaz</string>
+  <string name="shutdown_alarm_enable_summary">Telefon kapatıldığında alarm çalar</string>
   <string name="shutdown_alarm_title">Kapalıyken Alarm Durumu</string>
   <string name="silent_alarm_summary">Sessiz</string>
   <string name="skip_alarm_date_format">%1$s(%2$s)</string>
