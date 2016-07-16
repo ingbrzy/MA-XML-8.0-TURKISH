@@ -68,7 +68,7 @@
     </plurals>
     <plurals name="pick_recent_list_title">
         <item quantity="other">En son %1$d kişi</item>
-        <item quantity="one">En son 1 kişi</item>
+        <item quantity="one">En son %1$d kişi</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d kişi</item>
@@ -80,11 +80,11 @@
     </plurals>
     <plurals name="hint_search_emails">
         <item quantity="other">%1$d kişi maili</item>
-        <item quantity="one">1 kişi maili</item>
+        <item quantity="one">%1$d kişi maili</item>
     </plurals>
     <plurals name="hint_account_contacts">
         <item quantity="other">%1$d öğe bulundu</item>
-        <item quantity="one">1 öğe bulundu</item>
+        <item quantity="one">%1$d öğe bulundu</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d favori</item>
@@ -100,19 +100,19 @@
     </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">%d kişiyi sil</item>
-        <item quantity="one">Kişiyi sil</item>
+        <item quantity="one">%d kişiyi sil</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d kişi</item>
-        <item quantity="one">1 kişi</item>
+        <item quantity="one">%d kişi</item>
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d kişi içe aktarıldı</item>
         <item quantity="one">%1$d kişi içe aktarıldı</item>
     </plurals>
     <plurals name="batch_delete_msg">
-        <item quantity="other">%d kişi SIM karttan silinsin mi?</item>
-        <item quantity="one">%d kişi SIM karttan silinsin mi?</item>
+        <item quantity="other">%d kişi silinsin mi?</item>
+        <item quantity="one">%d kişi silinsin mi?</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d kişi seçildi</item>
@@ -124,8 +124,8 @@
         <item quantity="one">Numara engellensin mi?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
-        <item quantity="other">%1$d numara Kara Listeden kaldırılsın mı?</item>
-        <item quantity="one">Numara Kara Listeden kaldırılsın mı?</item>
+        <item quantity="other">%1$d, Kara Listeden kaldırılsın mı?</item>
+        <item quantity="one">%1$d, Kara Listeden kaldırılsın mı?</item>
     </plurals>
     <plurals name="voip_contacts_count">
         <item quantity="other">%1$d kişi</item>
@@ -141,6 +141,6 @@
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%d kişi veya fotoğraf eşitlenmedi"</item>
-        <item quantity="one">1 kişi veya fotoğraf eşitlenmedi</item>
+        <item quantity="one">"%d kişi veya fotoğraf eşitlenmedi"</item>
     </plurals>
 </resources>
