@@ -180,7 +180,7 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_detail_pending">Bekleniyor</string>
   <string name="micloud_detail_preference_sync_items">Öğeler</string>
   <string name="micloud_detail_query_error">"Eşitlenme durumu alınamıyor"</string>
-  <string name="micloud_detail_query_error_detail">"Eşitleme durumu denetlenemedi. Lütfen geliştiricilerle temasa geçin."</string>
+  <string name="micloud_detail_query_error_detail">"Bazı hizmetlerin eşitleme durumu denetlenemedi. Lütfen Geribildirimi kullanarak geliştiricilerle temasa geçin."</string>
   <string name="micloud_detail_query_error_title">"Eşitlenme durumu alınamıyor"</string>
   <string name="micloud_detail_success">Eşitlendi</string>
   <string name="micloud_detail_sync_now">Şimdi eşitle</string>
@@ -199,12 +199,17 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_find_device_guide_fail_sub_timeout">Bağlantı zaman aşımı. Daha sonra tekrar deneyin.</string>
   <string name="micloud_find_device_guide_micloud">Mi Bulut ile eşitlemeyi aç</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Kişileri, fotoğrafları, notları ve daha fazlasını Mi Bulut ile eşitle</string>
-  <string name="micloud_find_device_guide_noti_content">Aç</string>
-  <string name="micloud_find_device_guide_noti_title">Cihazınız kaybolduğunda bile verilerinizi korumak için Telefonu Bul\'u açın</string>
+  <string name="micloud_find_device_guide_noti_content">Cihaz bağlantısı kaybedildiğinde veriyi koru</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Eğer cihaz bağlantısı kaybedilirse QQ verisi güvende olur</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Eğer cihaz bağlantısı kaybedilirse WeChat verisi güvende olur</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Eğer cihaz bağlantısı kaybedilirse Alipay verisi güvende olur</string>
+  <string name="micloud_find_device_guide_noti_title">"Telefonu Bul'u aç"</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ, Telefonu Bul özelliğini açmanızı tavsiye eder</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat veri güvenliğini sağlamak için Telefonu Bul\'u açın</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay veri güvenliğini sağlamak için Telefonu Bul\'u açın</string>
   <string name="micloud_find_device_guide_progress">Telefonu Bul açılıyor…</string>
-  <string name="micloud_find_device_guide_title">"%s ile konum, kilitleme veya silmeyi cihazda yapabilirsiniz."</string>
+  <string name="micloud_find_device_guide_title">"%s ile konum, kilitleme veya
+silmeyi cihazda yapabilirsiniz."</string>
   <string name="micloud_find_device_open_fail">"Telefonu Bul açılamadı"</string>
   <string name="micloud_find_device_opened">Telefonu Bul açık</string>
   <string name="micloud_find_device_opened_content"> %s telefonunuzu bulun</string>
