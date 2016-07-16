@@ -261,7 +261,7 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="Privacy_App_Uninstall">Kaldır</string>
   <string name="Privacy_Perm_Count">%1$d izinli | %2$d engelli</string>
   <string name="Su_Enable_Dialog">%1$s uygulaması Root Erişimi istiyor.</string>
-  <string name="Su_Package_Forbidden">"%1$s Root Erişimi yok."</string>
+  <string name="Su_Package_Forbidden2">"Root Erişimi yok"</string>
   <string name="Su_Unavailable">MIUI\'nin bu sürümü Root Erişimine kapalıdır. Root Erişimi için MIUI Geliştirici Sürümünü yüklemeniz gerekir.</string>
   <string name="SysOpt_Boost_AutoStart">Otomatik Başlatma İzni</string>
   <string name="SysOpt_Boost_AutoStart_Group">Otomatik Başlat</string>
@@ -283,7 +283,7 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="permission_group_title_settings_related">Ayarlar</string>
   <string name="permission_request_title">İzin Talebi</string>
   <string name="permission_warning_template">%2$s %1$s izin versin mi?</string>
-  <string name="permisson_reject_notice_toast_text">"\"%1$s\" uygulamasının %2$s yetkisi yok. Uygulamanın izinlerini istediğiniz zaman Güvenlik &gt; İzinler\'den değiştirebilirsiniz."</string>
+  <string name="permisson_reject_notice_toast_text2">"%1$s için yetki yok."</string>
   <string name="screen_overlay_button">Ayarları Aç</string>
   <string name="screen_overlay_message">İzin ayarını değiştirmek için önce Uygulama &gt; Ayarlar\'dan Ekran Bindirimini kapatmalısınız.</string>
   <string name="screen_overlay_title">Ekran Bindirme algılandı</string>
