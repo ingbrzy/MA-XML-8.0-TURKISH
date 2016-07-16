@@ -240,7 +240,7 @@
   <string name="aqi_quality_index_moderate">HKE %1$s</string>
   <string name="aqi_quality_index_pure">HKE %1$s</string>
   <string name="aqi_quality_index_unhealthy">HKE %1$s</string>
-  <string name="autofill_popup_content_description">Otomatik doldurma açılır penceresini göster </string>
+  <string name="autofill_popup_content_description">Otomatik doldurma penceresini göster </string>
   <string name="autologin_bar_error">"Oturum açılamadı"</string>
   <string name="autologin_bar_hide_text">Gizle</string>
   <string name="autologin_bar_login_text">Oturum Aç</string>
@@ -830,7 +830,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="search_hint">Ara</string>
   <string name="search_keyword_browser">Tarayıcı</string>
   <string name="search_label">Tarayıcı</string>
-  <string name="search_path_browser">Ayarlar/Sistem Uygulamaları/Tarayıcı</string>
+  <string name="search_path_browser">Ayarlar/Yüklü Uygulamalar/Tarayıcı</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Favori ve web geçmişi</string>
   <string name="search_shipin">Video</string>
@@ -851,7 +851,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="select_download_device">Cihazı seç</string>
   <string name="send_comment_button">Gönder</string>
   <string name="send_comment_title">Yorum</string>
-  <string name="senddesktop">Masaüstü</string>
+  <string name="senddesktop">Ana Ekran</string>
   <string name="sendstartpage">Başlangıç Sayfası</string>
   <string name="share_page_text">"【%1$s】 zevk alıyorum | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Bu web sitesinin URL\'si güvenli olduğundan emin olmak için Xiaomi sunucularına gönderilir. Ayarlar bölümünden istediğiniz zaman bu özelliği kapatabilirsiniz.</string>
