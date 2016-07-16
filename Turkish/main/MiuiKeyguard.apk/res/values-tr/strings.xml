@@ -31,6 +31,7 @@
   <string name="invalid_sim_pin_hint">PIN Kodu 4-8 karakter arasında olmalı</string>
   <string name="invalid_sim_puk_hint">PUK Kodu en az 8 karakter uzunluğunda olmalı</string>
   <string name="keyguard_torch_cover_text">El Fenerini açık tutmak için, Güç düğmesini basılı tutun</string>
+  <string name="left_action_default_hint_text">Mi Kumanda</string>
   <string name="lock_screen_date">dd MMMM EEEE</string>
   <string name="lock_screen_date_12">dd MMMM EEEE</string>
   <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
@@ -51,8 +52,8 @@
   <string name="login_website_in_case_forget_password">Şifrenizi sıfırlamak için \"www.mi.com/micloud\" adresine gidin</string>
   <string name="missed_call_text">%d cevapsız çağrı</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ile kilit açıldı</string>
-  <string name="open_camera_hint_text">Kamerayı açmak için sola kaydırın ◄</string>
-  <string name="open_remote_center_hint_text">Çağrıyı açmak için sağa kaydırın ►</string>
+  <string name="open_camera_hint_text">%s açmak için sola kaydırın ◄</string>
+  <string name="open_remote_center_hint_text">%s açmak için sağa kaydırın ►</string>
   <string name="open_wifi_settings">Ağ bağlantısını aç</string>
   <string name="phone_locked_string">Telefon kilitlendi</string>
   <string name="phone_locked_timeout_minutes_string">%s dakika sonra tekrar deneyin</string>
