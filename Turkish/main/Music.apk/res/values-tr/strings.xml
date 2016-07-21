@@ -41,7 +41,8 @@
   <string name="all_music">Tüm şarkılar</string>
   <string name="all_tracks">Tüm şarkılar</string>
   <string name="all_tracks_short">Tüm şarkılar</string>
-  <string name="already_download">İndiriliyor...</string>
+  <string name="already_download">İndiriliyor…</string>
+  <string name="already_download_btn">İndiriliyor…</string>
   <string name="already_favorited">Zaten favoride</string>
   <string name="android_sdk_too_low">"Android sürümü çok düşük, müzik güncellenemiyor. Lütfen önce Android sürümünü güncelleyin."</string>
   <string name="apk_filter">APK</string>
@@ -183,10 +184,12 @@
   <string name="download_cloud_error_retryable">Mi Bulut sunucu hatası, daha sonra tekrar deneyin.</string>
   <string name="download_cloud_error_unknow">"Mi Bulut bağlantısı kurulamadı"</string>
   <string name="download_complete">İndirme tamamlandı</string>
+  <string name="download_complete_btn">Yüklendi…</string>
   <string name="download_complete_start_install">Yükleniyor...</string>
   <string name="download_completed">İndirildi</string>
   <string name="download_confirm_button_text">Yükle</string>
   <string name="download_confirm_text">Mi Müzik indirilecek ve %s kurulacak</string>
+  <string name="download_done_btn">İndirildi</string>
   <string name="download_error">Başarısız</string>
   <string name="download_error_insufficient_space">Yetersiz alan</string>
   <string name="download_filesize_unknown">Bilinmiyor</string>
@@ -215,8 +218,8 @@
   <string name="download_share_dialog">Paylaş</string>
   <string name="download_speed_null"/>
   <string name="download_start">İndirme işlemi başlatılıyor...</string>
-  <string name="download_success">Tamamlandı</string>
-  <string name="download_title">İndirilenler</string>
+  <string name="download_start_btn">Ücretsiz İndir…</string>
+  <string name="download_success">Tamam</string>
   <string name="download_title_sorted_by_date">İndirilenler - Tarihe Göre</string>
   <string name="download_title_sorted_by_size">İndirilenler - Boyuta Göre</string>
   <string name="download_traffic_dialog_buy_package">Müzik veri planı satın al</string>
