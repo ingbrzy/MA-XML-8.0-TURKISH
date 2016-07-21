@@ -220,6 +220,8 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="HIPS_Perm_add_voicemail_Desc">Sisteme sesli mesajlar ekler</string>
   <string name="HIPS_Perm_get_accounts">Aygıttaki hesaplara erişebilir</string>
   <string name="HIPS_Perm_get_accounts_Desc">Aygıtta depolanan tüm hesaplara erişebilir</string>
+  <string name="HIPS_Perm_get_tasks">Görevleri alır</string>
+  <string name="HIPS_Perm_get_tasks_Desc">Görevleri alır</string>
   <string name="HIPS_Perm_install_shortcut">Ana Ekran kısayolları</string>
   <string name="HIPS_Perm_install_shortcut_Desc">Ana ekrana kısayollar ekler</string>
   <string name="HIPS_Perm_process_nfc">NFC -Kablosuz Dosya Transferi</string>
