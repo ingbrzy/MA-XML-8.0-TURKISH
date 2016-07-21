@@ -20,6 +20,7 @@
   <string name="accessibility_data_three_bars">Veri sinyali üç çubuk.</string>
   <string name="accessibility_data_two_bars">Veri sinyali iki çubuk.</string>
   <string name="accessibility_home">Ana Sayfa</string>
+  <string name="accessibility_ime_switch_button">Giriş usulunun düğmesini değiştir.</string>
   <string name="accessibility_managed_profile">İş Profili</string>
   <string name="accessibility_menu">Menü</string>
   <string name="accessibility_no_data">Veri yok.</string>
@@ -37,6 +38,7 @@
   <string name="accessibility_ringer_vibrate">Telefon Titreşimde.</string>
   <string name="accessibility_search_light">Ara</string>
   <string name="accessibility_tty_enabled">Teleks etkin.</string>
+  <string name="accessibility_wifi_off">Wi-Fi kapalı.</string>
   <string name="accessibility_wifi_one_bar">WLAN sinyali tek çubuk.</string>
   <string name="accessibility_wifi_signal_full">WLAN sinyali tam.</string>
   <string name="accessibility_wifi_three_bars">WLAN üç çubuk.</string>
@@ -54,6 +56,7 @@
   <string name="audio_effect_custom">Yapılandır</string>
   <string name="audio_effect_info">Sesi İyi Duruma Getir</string>
   <string name="audio_effect_settings">Kulaklık Tipini Seçin</string>
+  <string name="available_via_passpoint">%1$s yoluyla mevcut</string>
   <string name="battery_low_percent_format">%%%d pil seviyesi kaldı</string>
   <string name="battery_low_title">Şarj cihazına bağlayın</string>
   <string name="battery_profiles">Pil profillerini kullan</string>
@@ -62,6 +65,52 @@
   <string name="block_record_notification_more_text">%1$s &amp; %2$d uygulamanın bildirimleri gizleniyor.</string>
   <string name="block_record_notification_text">%1$s ait bildirimler gizleniyor.</string>
   <string name="block_record_notification_title">Bildirimler gizlendi</string>
+  <string name="bluetooth_a2dp_profile_summary_connected">Medya sesine bağlandı</string>
+  <string name="bluetooth_a2dp_profile_summary_use_for">Medya sesini kullan</string>
+  <string name="bluetooth_connected">Bağlandı</string>
+  <string name="bluetooth_connected_no_a2dp">Bağlandı (medya yok)</string>
+  <string name="bluetooth_connected_no_headset">Bağlandı (telefon yok)</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Bağlandı (telefon/medya yok)</string>
+  <string name="bluetooth_connected_no_map">Bağlandı (mesaj erişimi yok)</string>
+  <string name="bluetooth_connecting">Bağlanıyor…</string>
+  <string name="bluetooth_disconnected">Bağlantı kesildi</string>
+  <string name="bluetooth_disconnecting">Bağlantı kesiliyor…</string>
+  <string name="bluetooth_dun_profile_summary_connected">Dun Sunucusuna bağlandı</string>
+  <string name="bluetooth_dun_profile_summary_use_for">Çevirmeli Ağ Erişimini kullan</string>
+  <string name="bluetooth_headset_profile_summary_connected">Telefon sesi için bağlandı</string>
+  <string name="bluetooth_headset_profile_summary_use_for">Telefon sesini kullan</string>
+  <string name="bluetooth_hid_profile_summary_connected">Giriş cihazı için bağlandı</string>
+  <string name="bluetooth_hid_profile_summary_use_for">Girişi kullan</string>
+  <string name="bluetooth_map_profile_summary_connected">Haritaya bağlandı</string>
+  <string name="bluetooth_map_profile_summary_use_for">Haritayı kullan</string>
+  <string name="bluetooth_opp_profile_summary_connected">Dosya transfer sunucusuna bağlandı</string>
+  <string name="bluetooth_opp_profile_summary_not_connected">Dosya transfer sunucusuna bağlanamadı</string>
+  <string name="bluetooth_opp_profile_summary_use_for">Dosya transferini kullan</string>
+  <string name="bluetooth_pairing">Eşleniyor…</string>
+  <string name="bluetooth_pairing_accept">Eşle</string>
+  <string name="bluetooth_pairing_accept_all_caps">Eşle</string>
+  <string name="bluetooth_pairing_decline">İptal</string>
+  <string name="bluetooth_pairing_device_down_error_message">"%1$s ile iletişime geçemedi."</string>
+  <string name="bluetooth_pairing_error_message">"%1$s ile eşlenemedi."</string>
+  <string name="bluetooth_pairing_pin_error_message">"%1$s ile eşlenemedi çünkü PIN kodu veya şifre anahtarı yanlış."</string>
+  <string name="bluetooth_pairing_rejected_error_message">%1$s ile eşlenmeden çıkıldı.</string>
+  <string name="bluetooth_pairing_will_share_phonebook">Bağlandığında kişiler ve çağrı geçmişini eşlendir.</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">Cihazla yerel internet bağlantısı paylaştırılıyor</string>
+  <string name="bluetooth_pan_profile_summary_use_for">İnternet erişimini kullan</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">Cihazdaki internet erişimine bağlandı</string>
+  <string name="bluetooth_profile_a2dp">Ortam Sesi</string>
+  <string name="bluetooth_profile_dun">Çevirmeli Bağlantı Erişimi</string>
+  <string name="bluetooth_profile_headset">Telefon Sesi</string>
+  <string name="bluetooth_profile_hid">Giriş Cihazı</string>
+  <string name="bluetooth_profile_map">Mesaj Erişimi</string>
+  <string name="bluetooth_profile_opp">Dosya Transferi</string>
+  <string name="bluetooth_profile_pan">İnternet Erişimi</string>
+  <string name="bluetooth_profile_pan_nap">İnternet Bağlantı Paylaşımı</string>
+  <string name="bluetooth_profile_pbap">Kişi Paylaşımı</string>
+  <string name="bluetooth_profile_pbap_summary">Kişi Paylaşımını kullan</string>
+  <string name="bluetooth_profile_sap">SIM Erişimi</string>
+  <string name="bluetooth_sap_profile_summary_connected">SAP için bağlandı</string>
+  <string name="bluetooth_sap_profile_summary_use_for">SIM kart erişimini kullan</string>
   <string name="bluetooth_tethered">Bluetooth Paylaşımı</string>
   <string name="call_status_dialing">Aranıyor</string>
   <string name="call_status_ringing">Çalıyor</string>
@@ -76,7 +125,10 @@
   <string name="camera_key_action_shortcut_title">Kısayol</string>
   <string name="camera_key_action_shortcut_wake">Cihazı Kilitle/Uyandır</string>
   <string name="camera_key_action_toggle_title">Geçiş Tetikleyicisi</string>
+  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="chooseUsbActivity">USB cihazı için uygulama seçin</string>
+  <string name="connected_via_passpoint">%1$s ile bağlandı</string>
+  <string name="connected_via_wfa">Wi-Fi Yardımcısı yoluyla bağlandı</string>
   <string name="data_usage_disabled_dialog">"Belirtilen Mobil Veri limitine ulaştınız!
 
 Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edilebilir."</string>
@@ -88,7 +140,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="description_direction_left">%s için sola kaydırın. ◄</string>
   <string name="description_direction_up">%s kilidini açmak yukarı kaydırın. ▲</string>
   <string name="description_target_search">Ara</string>
-  <string name="disable_notification_summary">Seçili uygulamaların bildirimlerini asla gösterme</string>
+  <string name="disable_notification_summary">Seçilenlerin bildirimlerini asla gösterme</string>
   <string name="disable_notification_title">Bildirimleri engelle</string>
   <string name="dismount_storage">Hayır</string>
   <string name="dlg_confirm_kill_storage_users_text">USB depolamayı açarsanız, kullandığınız bazı uygulamalar durabilir veya USB depolama kapatılana kadar kullanılamayabilir.</string>
@@ -102,7 +154,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="ext_media_badremoval_notification_message">Veri kaybını önlemek için USB depolamayı çıkarmadan önce bağlantısını kesin.</string>
   <string name="ext_media_badremoval_notification_title">USB depolama beklenmedik bir şekilde çıkartıldı</string>
   <string name="ext_media_checking_notification_message">Hatalar kontrol ediliyor.</string>
-  <string name="ext_media_checking_notification_title">USB depolama hazırlanıyor</string>
+  <string name="ext_media_checking_notification_title">USB depolama hazırlanıyor...</string>
   <string name="ext_media_mountable_notification_message">Gezgin\'de açmak için dokunun.</string>
   <string name="ext_media_mountable_notification_title">USB depolama cihazı bağlandı</string>
   <string name="ext_media_nofs_notification_message">USB depolama boş veya dosya sistemi desteklenmiyor</string>
@@ -114,6 +166,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="ext_media_safe_unmount_notification_title">USB depolama cihazı güvenle çıkartılabilir</string>
   <string name="ext_media_unmountable_notification_message">USB depolama zarar görmüş. Yeniden format atmayı deneyebilirsiniz.</string>
   <string name="ext_media_unmountable_notification_title">USB Depolama zarar görmüş</string>
+  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="float_incall_ignore">Yoksay</string>
   <string name="float_incall_message">Mesaj</string>
   <string name="gps_notification_found_text">GPS ile konumu belirle</string>
@@ -121,8 +174,9 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="invalid_charger">"USB şarj desteklenmiyor.
 Her zaman orjinal aksesuar kullanın."</string>
-  <string name="kilobyte_per_second">K/s</string>
+  <string name="kilobyte_per_second">K/sn</string>
   <string name="label_view">Gözat</string>
+  <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Şebeke yok</string>
   <string name="long_screenshot_not_support_msg">"Geçerli uygulama erken görüntüsü almayı desteklemiyor"</string>
   <string name="long_screenshot_out_of_memory_error">Resim çok büyük</string>
@@ -140,7 +194,7 @@ Her zaman orjinal aksesuar kullanın."</string>
   <string name="media_projection_action_text">Başlat</string>
   <string name="media_projection_dialog_text">"%s ekranda görüntülenen her şeyi yakalamaya başlayacak."</string>
   <string name="media_projection_remember_text">"Tekrar gösterme"</string>
-  <string name="megabyte_per_second">M/s</string>
+  <string name="megabyte_per_second">M/sn</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">Evet</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
@@ -186,6 +240,7 @@ Her zaman orjinal aksesuar kullanın."</string>
   <string name="reject_call">Çağrıyı reddet</string>
   <string name="return_to_incall_screen">Çağrıya dön</string>
   <string name="save_mode_btn_ok">Tamam</string>
+  <string name="saved_network">%1$s tarafından saklandı</string>
   <string name="screen_button_notification_text">Gezinmeyi açmak için, aynı anda Ana Sayfa ve Güç düğmelerine basın.</string>
   <string name="screen_button_notification_title">Gezinme düğmeleri kapalı</string>
   <string name="screen_pinning_description">İğneleme kaldırılıncaya kadar bu görünümde kalır. İğneyi kaldırmak için Ana Sayfa ve Güç düğmesine basılı tutun.</string>
@@ -193,6 +248,11 @@ Her zaman orjinal aksesuar kullanın."</string>
   <string name="screen_pinning_negative">Hayır</string>
   <string name="screen_pinning_positive">Anladım</string>
   <string name="screen_pinning_title">Ekran iğnelendi</string>
+  <string name="screenshot_delete">Sil</string>
+  <string name="screenshot_delete_dlg_msg">Bu ekran alıntısını silmek istedğinizden emin misiniz?</string>
+  <string name="screenshot_delete_dlg_title">Sil</string>
+  <string name="screenshot_dlg_cancel">İptal</string>
+  <string name="screenshot_dlg_delete_button">Sil</string>
   <string name="screenshot_edit">Düzenle</string>
   <string name="screenshot_failed_text">"Kısıtlı olmasından dolayı depolama alanı ekran görüntüsü alamıyor buna uygulama veya kuruluş tarafından izin verilmiyor."</string>
   <string name="screenshot_long_screenshot">Genişlet</string>
@@ -203,6 +263,7 @@ Her zaman orjinal aksesuar kullanın."</string>
   <string name="screenshot_saving_title">Ekran görüntüsü kaydediliyor...</string>
   <string name="screenshot_send">Gönder</string>
   <string name="settings_custom_notification">Bildirimleri yönet</string>
+  <string name="settings_package">com.android.settings</string>
   <string name="settings_toggle_position">Geçişleri yönet</string>
   <string name="settings_toggle_position_divider_list">Bu çubuğunun üzerindeki geçişler etkin</string>
   <string name="settings_toggle_position_divider_page">Bar üzerine yerleştirilen %1$d geçiş etkin</string>
@@ -226,7 +287,7 @@ EEEE"</string>
 Kilitlemek için aşağı kaydırın ▼"</string>
   <string name="status_bar_recent_guide_bottom">Kilitlemek için aşağı kaydırın ▼</string>
   <string name="status_bar_recent_guide_top">Kapatmak için yukarı kaydırın ▲</string>
-  <string name="status_bar_recent_memory_info1">%2$s B | %1$sB kullanılabilir</string>
+  <string name="status_bar_recent_memory_info1">%2$sB | %1$sB kullanılabilir</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Kaydediciye dön</string>
   <string name="status_bar_recording_pause">Kaydedici duraklatıldı</string>
@@ -239,15 +300,15 @@ Kilitlemek için aşağı kaydırın ▼"</string>
   <string name="status_bar_settings_signal_meter_disconnected">İnternet bağlantısı yok!</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN bağlandı</string>
   <string name="status_bar_style_settings">Bildirimler</string>
-  <string name="task_access_locked_app_msg">"Uygulamanın içeriği gizli."</string>
-  <string name="title_usb_accessory">USB Aksesuar</string>
+  <string name="task_access_locked_app_msg">Uygulama Kilidi açıldı</string>
+  <string name="title_usb_accessory">USB Aksesuarı</string>
   <string name="torch_activity_hint">Kilit ekranında el fenerini açmak için [icon] simgesine basılı tutun.</string>
   <string name="torch_activity_name">El Feneri</string>
   <string name="torch_closed">El Feneri kapalı</string>
   <string name="torch_opened">El Feneri açık</string>
-  <string name="usb_accessory_confirm_prompt">Bu USB aksesuar bağlandığında %1$s açılsın mı ?</string>
+  <string name="usb_accessory_confirm_prompt">Bu USB aksesuar bağlandığında %1$s açılsın mı?</string>
   <string name="usb_accessory_permission_prompt">USB aksesuar erişimi için %1$s izin verilsin mi?</string>
-  <string name="usb_accessory_uri_prompt">Bu USB aksesuar ile hiçbir yüklü uygulama çalışmıyor. %1$s yerde bu aksesuarla ilgili daha fazla bilgi bulabilirsiniz.</string>
+  <string name="usb_accessory_uri_prompt">Bu USB aksesuar ile hiçbir yüklü uygulama çalışmıyor. %1$s yerinde aksesuarla ilgili daha fazla bilgi bulabilirsiniz.</string>
   <string name="usb_debugging_always">Bu bilgisayara herzaman izin ver.</string>
   <string name="usb_debugging_message">"Bilgisayarın RSA anahtarlı parmakizi:
 %1$s"</string>
@@ -286,4 +347,31 @@ Kilitlemek için aşağı kaydırın ▼"</string>
   <string name="weather_description">%1$s | %2$s &gt;</string>
   <string name="weather_description_no_aqi">%1$s &gt;</string>
   <string name="weather_publish_time">%1$s güncellendi</string>
+  <string name="wifi_connected_no_internet">Bağlandı, İnternet yok</string>
+  <string name="wifi_disabled_generic">Devre dışı</string>
+  <string name="wifi_disabled_network_failure">IP Yapılandırması başarısız oldu</string>
+  <string name="wifi_disabled_password_failure">Yetkilendirme problemi</string>
+  <string name="wifi_disabled_wifi_failure">WLAN Bağlantısı Başarısız</string>
+  <string name="wifi_fail_to_scan">"Ağ taraması yapılamadı"</string>
+  <string name="wifi_no_internet">"İnternet Erişimi tespit edilemedi, otomatik olarak yeniden bağlanmaz."</string>
+  <string name="wifi_not_in_range">Menzilde değil</string>
+  <string name="wifi_remembered">Kaydedildi</string>
+  <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
+  <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
+  <string name="wifi_security_eap">802.1x EAP</string>
+  <string name="wifi_security_none">Yok</string>
+  <string name="wifi_security_passpoint">Şifre Noktası</string>
+  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+  <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
+  <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
+  <string name="wifi_security_short_eap">802.1x</string>
+  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+  <string name="wifi_security_short_wep">WEP</string>
+  <string name="wifi_security_short_wpa">WPA</string>
+  <string name="wifi_security_short_wpa2">WPA2</string>
+  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+  <string name="wifi_security_wep">WEP</string>
+  <string name="wifi_security_wpa">WPA PSK</string>
+  <string name="wifi_security_wpa2">WPA2 PSK</string>
+  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
 </resources>
