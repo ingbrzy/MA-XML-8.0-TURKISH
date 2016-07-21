@@ -46,7 +46,7 @@
   <string name="converting_to_picture_message">MMS mesajına dönüştürülüyor...</string>
   <string name="converting_to_text_message">Metin mesajına dönüştürülüyor…</string>
   <string name="copy_message_text">Metni kopyala</string>
-  <string name="copy_message_text_success">Metin kopyalandı</string>
+  <string name="copy_message_text_success">Metin başarıyla kopyalandı</string>
   <string name="copy_to_sdcard">Eki Sakla</string>
   <string name="copy_to_sdcard_fail">"Ek saklanamıyor"</string>
   <string name="copy_to_sdcard_success">%s eklenti olarak sakla</string>
@@ -70,7 +70,7 @@
   <string name="failed_to_resize_image">Resim boyutlandırılamadı.</string>
   <string name="feedback_description_hint">Buraya geribildirim yazabilirsiniz.</string>
   <string name="feedback_submit">Gönder</string>
-  <string name="festival_networking_desc">Bu özellik, normal çalışması için internete bağlanmak istiyor.</string>
+  <string name="festival_networking_desc">Bu özelliğin normal çalışması için internete bağlanması gerekiyor.</string>
   <string name="festival_never_remind">"Tekrar gösterme"</string>
   <string name="festival_sms_loading">Yükleniyor...</string>
   <string name="file_create_time">"Oluşturuldu: "</string>
@@ -228,7 +228,7 @@
   <string name="type_attachment">ek</string>
   <string name="type_audio">ses</string>
   <string name="type_picture">resim</string>
-  <string name="type_to_compose_text_enter_to_send">Mesaj tipi</string>
+  <string name="type_to_compose_text_enter_to_send">Mesajı Girin</string>
   <string name="type_to_compose_text_or_leave_blank">Mesaj tipi veya boş bırakın</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">video</string>
