@@ -167,6 +167,7 @@
   <string name="failed_to_resize_image">Resim boyutlandırılamadı.</string>
   <string name="fake_cell_alert_hint">Bu mesajı telefon numarasına gönderirken, diğer taraftan görüntüleyebilirsiniz. SMS içeriğinde finansal istekleri gönderirken dikkat edin.</string>
   <string name="fake_cell_checking_hint">Güvenlik denetleniyor…</string>
+  <string name="fake_cell_detection_entry">Sahte baz istasyonu tespit edildi</string>
   <string name="fake_cell_safe_hint">Bu mesaj güvenli</string>
   <string name="fake_cell_timeout_hint">Güvenlik denetimi başarısız</string>
   <string name="fdn_check_failure">Sadece sabit arama numaralarınıza mesaj gönderebilirsiniz.</string>
@@ -184,6 +185,7 @@
   <string name="file_title">Adı:</string>
   <string name="file_width_height">Boyut:</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="force_touch_new_message_title">Yeni Mesaj</string>
   <string name="forward_from">İleten:</string>
   <string name="forward_prefix">"İLT: "</string>
   <string name="found_old_messages">%1$s - %2$s arasındaki mesajlar yüklensin mi?</string>
@@ -242,7 +244,7 @@
   <string name="menu_yellowpage">%s görüntüle</string>
   <string name="message_class_label">"Mesaj sınıfı: "</string>
   <string name="message_contact">Kişi:</string>
-  <string name="message_details_title">Mesaj detayları</string>
+  <string name="message_details_title">Mesaj Detayları</string>
   <string name="message_download_failed_title">Mesaj indirilmedi</string>
   <string name="message_expired">Süresi Doldu</string>
   <string name="message_failed">Başarısız</string>
@@ -340,6 +342,7 @@
   <string name="need_download">Eşitleniyor...</string>
   <string name="networking_allow_continue">Tamam</string>
   <string name="networking_allow_desc">"Akıllı mesajlar ücretsiz metinleri, istenmeyenleri, sesli mesajların tanınmasını sağlar. Bu hizmeti kullanarak Xiaomi\'nin %1$s ve %2$s kabul etmiş olursunuz. Sarı sayfaları açmak ve bu hizmeti kullanmak için internete bağlamanız gerekmektedir."</string>
+  <string name="networking_allow_desc_without_mx">"Akıllı mesajlar bilinmeyen numaraları, istenmeyenleri vb.. tanımlayabilir. Bu hizmeti kullanarak Xiaomi\'nin %1$s ve %2$s kabul etmiş olursunuz. Sarı sayfaları açmak ve bu hizmeti kullanmak için internete bağlamanız gerekmektedir."</string>
   <string name="networking_allow_title">Dikkat</string>
   <string name="new_message">Yeni Mesaj</string>
   <string name="new_message_arrived">Yeni bir mesajınız var</string>
@@ -373,6 +376,7 @@
   <string name="pref_allow_network_access_summary">Teslimat ve diğer hizmetler hakkında en son bilgileri almak için açın.</string>
   <string name="pref_cell_broadcast">Hücresel Yayınlar</string>
   <string name="pref_collapse_sp_messages_summary">Operatörden gelen aynı mesajları birleştir</string>
+  <string name="pref_delivery_ringtone">Ses Bildirimi</string>
   <string name="pref_edit_smsc_address">SMS Merkezi Numarası</string>
   <string name="pref_forward_title">Yönlendir</string>
   <string name="pref_message_recovery_introduction_title">Mesajları Kurtar</string>
@@ -386,7 +390,8 @@
   <string name="pref_sms_theme_title">Görüntüle</string>
   <string name="pref_summary_allow_si_sl_push">Mesajların web sitelerinden içerik yüklemesine izin verir</string>
   <string name="pref_summary_delete_limit">%1$s görüşme başına mesaj</string>
-  <string name="pref_summary_delivery_reports">Gönderilen mesajların sevkiyat durumu</string>
+  <string name="pref_summary_delivery_reports">Gönderilen mesajların sevkiyat durumu göster</string>
+  <string name="pref_summary_delivery_ringtone">Mesaj gönderildiğinde sesli bildirim al.</string>
   <string name="pref_summary_hide_festival">Çince dili dışı kullanım için önerilenler özelliğini kaldır</string>
   <string name="pref_summary_manage_sim_messages">SIM kartınızda depolanan mesajları yönetin</string>
   <string name="pref_summary_mms_auto_retrieval">Otomatik olarak mesajlardaki fotoğrafları ve videoları indir</string>
