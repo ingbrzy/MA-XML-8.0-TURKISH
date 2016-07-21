@@ -1235,7 +1235,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>Bu ayarı uygulamak için cihazınız yeniden başlatılsın mı?</item>
     </string-array>
     <string-array name="screen_resolution_entries">
-        <item>Ultrahigh (2K)</item>
+        <item>Ultra Yüksek (2K)</item>
         <item>Normal (720p)</item>
     </string-array>
     <string-array name="screen_resolution_values">
@@ -1423,7 +1423,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>Çocuk Modu</item>
         <item>Dosya Gezgini</item>
         <item>Uygulama Kilidi</item>
-        <item>Second space</item>
+		<item>İkinci Alan</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>
