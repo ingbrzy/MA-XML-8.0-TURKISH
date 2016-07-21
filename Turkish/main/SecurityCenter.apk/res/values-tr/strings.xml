@@ -222,6 +222,10 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="cancel">İptal</string>
   <string name="cancel_button">İptal</string>
   <string name="celcius_symbol">℃</string>
+  <string name="charging_text_battery_full_time">Son Şarj:</string>
+  <string name="charging_text_battery_nearly_full">En Son Şarj:</string>
+  <string name="charging_text_battery_perfect">Tam Şarj:</string>
+  <string name="charging_text_time_calculating">Şarj zamanı hesaplanıyor…</string>
   <string name="chat_number">10 saat</string>
   <string name="chat_uint">" saat"</string>
   <string name="check_network_state">Ağı Test Et</string>
