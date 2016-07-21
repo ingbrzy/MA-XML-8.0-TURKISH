@@ -2224,6 +2224,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="path_edge_handgrip">Ayarlar/Kenar Kontrolleri</string>
   <string name="path_equalizer">Ayarlar/Ses &amp; Titreşim/Ses Ayarları/Ekolayzer</string>
   <string name="path_font_settings">Ayarlar/Ekran/Yazı Tipi</string>
+  <string name="path_gesture_wakeup_title">Ayarlar/Ekran/Ekrana çift dokununca uyandır</string>
   <string name="path_gps_settings">Ayarlar/Ek Ayarlar/Gizlilik/Konum</string>
   <string name="path_handy_mode_settings">Ayarlar/Ek Ayarlar/Tek Elle Kullanım Modu</string>
   <string name="path_home_key">Ayarlar/Ek Ayarlar/Tuş Ayarları/Ana Sayfa</string>
@@ -2571,6 +2572,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="radioInfo_unknown">Bilinmiyor</string>
   <string name="radio_controls_summary">WLAN, Bluetooth, Uçak Modu, Mobil Ağlar, &amp; VPN\'i Yönet</string>
   <string name="radio_controls_title">Diğer Ağlar</string>
+  <string name="radio_info_asdiv_switch_label">ASDiv Durumu:</string>
   <string name="radio_info_band_mode_label">Radyo bandını seç</string>
   <string name="radio_info_call_redirect_label">Çağrı yeniden yönlendir:</string>
   <string name="radio_info_call_status_label">Çağrı Durumu:</string>
@@ -2607,6 +2609,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="rebootiing_for_updates">Tekrar başlatılıyor…</string>
   <string name="recent_location_requests_summary">Aşağıdaki uygulamalar konum bilginizi görüntülemek istiyor</string>
   <string name="receiver_clean">Alan Boşalt</string>
+  <string name="recent_location_requests_summary">Konum bilgisine erişmek isteyen uygulamaları görüntüler</string>
   <string name="recent_location_requests_title">Konum Erişimi</string>
   <string name="recompute_size">Boyut yeniden hesaplanıyor...</string>
   <string name="regulatory_info_text"/>
@@ -2823,7 +2826,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_children_mode_title">Çocuk Modu</string>
   <string name="search_choose_timezone">Zaman Dilimini Seç</string>
   <string name="search_cloud_backup_settings_section_title">Yedekleme Ayarları</string>
-  <string name="search_cloud_restore_section_title">"Mi Bulut'tan Geri Yükle"</string>
+  <string name="search_cloud_restore_section_title">Mi Bulut'tan Geri Yükle</string>
   <string name="search_copyright">Telif Hakkı</string>
   <string name="search_credentials_install">Depolamadan Yükle</string>
   <string name="search_date_time">Tarih ve Saat</string>
@@ -2845,8 +2848,9 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_empty">Arama sonucu bulunamadı</string>
   <string name="search_equalizer">Ekolayzer</string>
   <string name="search_font">Yazı Tipi</string>
+  <string name="search_gesture_wakeup_title">Ekrana çift dokununca uyandır</string>
   <string name="search_gps">GPS;Konum Erişimi</string>
-  <string name="search_handy_mode">Tek Elle Kullanım Modu</string>
+  <string name="search_handy_mode">Tek El Kullanım Modu</string>
   <string name="search_hint">Arama Ayarları</string>
   <string name="search_home_key">Ana Ekran</string>
   <string name="search_key">Düğmeler;Tuşlar</string>
