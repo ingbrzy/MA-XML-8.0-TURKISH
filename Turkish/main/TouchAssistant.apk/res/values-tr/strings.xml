@@ -6,11 +6,15 @@
   <string name="applications">Uygulamalar</string>
   <string name="category_others">Diğer</string>
   <string name="category_setting">Ayarlar</string>
+  <string name="close_panel">Kısayol Menüsünü kapat</string>
   <string name="customize_entries">Kısayolu Seç</string>
   <string name="enable_touch_assistant">Kısayol Menüsünü Aç</string>
   <string name="function_settings">Kısayol Ayarları</string>
   <string name="hide_touch_assistant">Otomatik Gizle</string>
   <string name="hide_touch_assistant_intro">Seçili uygulamanın kısayol menüsünü gizle.</string>
+  <string name="hide_when_fullscreen">Tam ekranda bir kenara taşı</string>
+  <string name="hide_when_fullscreen_intro">Tam ekran moduna girdiğinde bir kenara taşı.</string>
+  <string name="motion_behavior">Tercihli İşaret</string>
   <string name="name_alipay_payment_code">Alipay Ödemesi</string>
   <string name="name_alipay_scan">Alipay Taraması</string>
   <string name="name_long_press_power_key">Uzun süreli güç tuşuna bas</string>
@@ -28,6 +32,7 @@
   <string name="name_screenshot">Ekran Alıntısı</string>
   <string name="name_wechat_payment_code">Wechat Ödemesi</string>
   <string name="name_wechat_scan">Wechat Taraması</string>
+  <string name="open_panel">Kısayol Menüsünü aç</string>
   <string name="pay_entry_dialog_title_select">Açmak için Uygulamayı Seçin</string>
   <string name="pay_entry_dialog_title_setting">Uygulama Ayarı</string>
   <string name="pref_category_others">Diğer</string>
@@ -36,6 +41,7 @@
   <string name="pref_category_system">Sistem Ayarları</string>
   <string name="restore_default">Varsayılanlar</string>
   <string name="restore_intro">"Varsayılan ayarları, kısayolları ve sipariş içeriklerini geri yükle. Cihazın uygulama verileri bundan etkilenmez."</string>
+  <string name="show_on_keyguard">Kilit Ekranda göster</string>
   <string name="vector_large_circle">m93,200c0,-59.11602 47.88398,-107 107,-107c59.11602,0 107,47.88398 107,107c0,59.11602 -47.88398,107 -107,107c-59.11602,0 -107,-47.88398 -107,-107z</string>
   <string name="vector_large_crossA">M160,160 L240,240</string>
   <string name="vector_large_crossB">M240,160 L160,240</string>
