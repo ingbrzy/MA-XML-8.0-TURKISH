@@ -215,7 +215,7 @@ Kartvizitler kapalı"</string>
   <string name="contact_detail_miprofile_request_success_toast">İstek gönderildi</string>
   <string name="contact_detail_miprofile_save">Kartviziti almak için dokunun</string>
   <string name="contact_detail_miprofile_save_fail_toast">"Kartvizit alınamadı"</string>
-  <string name="contact_detail_miprofile_save_success_toast">Kartvizit alındı</string>
+  <string name="contact_detail_miprofile_save_success_toast">Kartvizit alınıyor</string>
   <string name="contact_detail_miprofile_settings_header">Ek Ayarlar</string>
   <string name="contact_detail_miprofile_subtitle">Kartvizit zaten değişmiş</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"Ağ bağlanamıyor"</string>
@@ -1194,10 +1194,13 @@ Favorilerinize bir kişi eklemek için:
   <string name="success_message_import_from_account">Aktarım bitti</string>
   <string name="summary_kind_title">Sonuç</string>
   <string name="t9_search_guide_pinyin_title1">Rakamları girip hızlıca kişileri arayın</string>
+  <string name="t9_search_guide_pinyin_title2">Xenia aramasını yapmak için 9 ve 4 giriş yapın: &lt;font fgcolor=""&gt;X&lt;/font&gt;enia &lt;font fgcolor=""&gt;H&lt;/font&gt;oney</string>
   <string name="t9_search_guide_zhuyin_title1">Harfleri girip hızlıca kişileri arayın</string>
-  <string name="t9_search_guide_zhuyin_title2">Orhan\'ı aramak için 6 ve 7 harflerine tıklayın.</string>
+  <string name="t9_search_guide_zhuyin_title2">"Orhan'ı aramak için 6 ve 7 harflerine tıklayın."</string>
   <string name="take_new_photo">Yeni fotoğraf çek</string>
   <string name="take_photo">Fotoğraf çek</string>
+  <string name="telecom_fraud_insurance">Telecom Sahte Sigortası</string>
+  <string name="telecom_fraud_insurance_description">Garanti 10000 Yuan | Xiaomi Özel | Yıllık 9.9 Yuan</string>
   <string name="titleJoinContactDataWith">Kişileri birleştir</string>
   <string name="title_other_devices">Diğer mevcut cihazlar</string>
   <string name="title_paired_devices">Eşleşmiş cihazlar</string>
@@ -1272,7 +1275,7 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="voip_name">Mi Voice</string>
   <string name="voip_recommend_msg">Mi Voice kullanmak için dokunun</string>
   <string name="voip_shortcut_name">Mi Voice</string>
-  <string name="voip_video_description">Video mesajı göndermek için dokunun</string>
+  <string name="voip_video_description">VoIP Görüntülü Çağrı</string>
   <string name="websiteLabelsGroup">Web Sitesi</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Veriyi Temizle</string>
