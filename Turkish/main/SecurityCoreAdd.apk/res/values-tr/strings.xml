@@ -6,8 +6,10 @@
 MMesajlar sadece İkinci Alanda gözükür."</string>
   <string name="PrivacyContactDes2">"Eğer İlk Alanda özel mesajlar kullanırsanız,
 bu özellik İkinci Alana otomatik olarak eklenir."</string>
+  <string name="add_finger_print">Parmakizi ekle</string>
   <string name="appData">Yüklü Uygulamalar</string>
   <string name="app_name">Güvenlik Çekirdek Bileşeni</string>
+  <string name="back">Geri</string>
   <string name="cancelClosePassword">"Kapatma!"</string>
   <string name="cancel_button">İptal</string>
   <string name="changePassword">Şifreyi değiştir</string>
@@ -48,6 +50,9 @@ herzaman görüntüleyebilirsiniz"</string>
   <string name="deleteAll">Tümünü Sil</string>
   <string name="deleteDataConfirm">Tüm öğeler silinecek</string>
   <string name="deleteDataDes">"Taşımak için öğeler seçilemedi. Onlar silindiğinde geri kurtarılamaz."</string>
+  <string name="delete_fingerprint">Parmakizini sil</string>
+  <string name="delete_fingerprint_desc">İkinci Alan parmakizi şifre ile birlikte silinir</string>
+  <string name="delete_phone_fingerprint">İkinci Alan parmakizini sil</string>
   <string name="delete_src_file">Dosyaları sil</string>
   <string name="delete_src_photo">Fotoğrafları sil</string>
   <string name="dir_switch_out_all_photos">İkinci Alan Galerisi</string>
@@ -67,6 +72,9 @@ herzaman görüntüleyebilirsiniz"</string>
   <string name="err_unknown">Bilinmeyen hata</string>
   <string name="err_volume_not_enough">Depolama alanı yeterli değil</string>
   <string name="exit_private_space">Geçiş Yap</string>
+  <string name="finger_print_num">Parmakizi %d</string>
+  <string name="finger_print_of_use">Parmakizi kullan</string>
+  <string name="fingerprint_removal_failed">"Parmakizi silinemedi"</string>
   <string name="goToSecondSpacce">İkinci Alana git</string>
   <string name="go_on_import">Aktarmayı koru</string>
   <string name="guide_contact_sub_title_desc">"İkinci Alana kişiler özel olarak eklendi.
@@ -94,19 +102,24 @@ Ayrı ayrı indirme yapabilirsiniz."</string>
   <string name="loading_apps">Uygulamalar yükleniyor…</string>
   <string name="loading_space">Biraz bekleyin…</string>
   <string name="loading_success">Başarıyla yüklendi</string>
+  <string name="lock_screen_open_second_space">Kilit Ekranından İkinci Alana gir</string>
   <string name="messageData">Mesajlar</string>
   <string name="msg_switch_file">Dosyalar taşındıktan sonra İlk Alandan silinsin mi?</string>
   <string name="msg_switch_photo">Taşındıktan sonra İlk Alandaki fotoğraflar silinsin mi?</string>
   <string name="needSetKeyguardFirst">İlk Alan şifresini ayarla</string>
   <string name="needSetKeyguardFirstDes">İlk Alan şifresini İkinci Alan şifresinden önce ayarla</string>
+  <string name="need_set_second_space_desc">İkinci Alan parmakizini İkinci Alan şifresinden önce ekle</string>
+  <string name="need_set_second_space_pwd_first">Önce İkinci Alan şifresini ayarla</string>
   <string name="newSecondSpace">İkinci Alanı aç</string>
   <string name="next_setp">Sonraki</string>
+  <string name="no_match_repate_scanner">"Parmakizi eşleşemedi, yeniden tarayın"</string>
   <string name="normal_app">İlk Alan</string>
   <string name="not_support_multiple_users">"Çoklu alanlar desteklenmez"</string>
   <string name="notificationSetPassword">Şifreyi ayarla</string>
   <string name="notificationSetPasswordDes">İkinci Alan verisini koru</string>
   <string name="notificationSummary">İki alan geçişini bildirim alanında göster</string>
   <string name="notificationTitle">Bildirim alanı kısayolu</string>
+  <string name="notification_recommend_title">İkinci Alandaki en iyi 12 uygulama</string>
   <string name="notification_setting_second_space">İkinci Alanı ayarla</string>
   <string name="notification_setting_second_space_desc">İkinci Alan şifresi ve veri taşınmasını ekle</string>
   <string name="ok_button">Tamam</string>
@@ -116,6 +129,8 @@ Ayrı ayrı indirme yapabilirsiniz."</string>
   <string name="otherSettings">Diğer Ayarlar</string>
   <string name="passWordGuardSummary">Kilit erkanında şifre kullanarak İkinci Alana gir</string>
   <string name="passwordProtect">Şifre</string>
+  <string name="please_diff_finger_print">"Birinci Alan ile İkinci Alan arasında farklı parmakizlerini kullanın.
+Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="privacyContactsSummary">İkinci Alanda özel öğeleri göster</string>
   <string name="privacyContactsTitle">Özel mesajlar ve kişiler</string>
   <string name="private_sms_show_sub_title">Mesaj verisi iki alan arasında paylaştırılacak​</string>
@@ -125,12 +140,25 @@ Ayrı ayrı indirme yapabilirsiniz."</string>
   <string name="removeSuccess">Başarıyla silindi</string>
   <string name="remove_second_space_msg">İkinci Alan silindiğinde tüm İkinci Alan uygulama veriside silinir. İkinci Alan silinsin mi?</string>
   <string name="removingSpace">Siliniyor…</string>
+  <string name="repeat_scanner_fingerprint">Yeniden ekle</string>
   <string name="restore_normal_show">"Özel mesajları gösterme!"</string>
   <string name="restore_show_desc">"İkinci Alanda özel mesajları gösterme! Onlar İlk Alanda mevcut olurlar."</string>
   <string name="restore_show_toast">Özel mesajlar gösterilmez</string>
   <string name="retain_src_file">Dosyaları koru</string>
   <string name="retain_src_photo">Fotoğrafları koru</string>
+  <string name="scanner_fingerprint">Parmakizi taranıyor…</string>
+  <string name="scanner_fingerprint_enter_second">"Kilit Ekranında İkinci Alana
+ parmakizi kullanarak giriş yap"</string>
+  <string name="scanner_fingerprint_error_tips_desc">"Parmakizi eşlenemedi. İkinci Alana parmakizi eklensin mi?"</string>
+  <string name="scanner_fingerprint_error_tips_title">"Parmakizi eşlenemedi"</string>
+  <string name="scanner_fingerprint_tips_desc">Varolan parmakizini İkinci Alana eklemek için seçin. Bu işlem Birinci Alanada kullanılmaz.</string>
+  <string name="scanner_fingerprint_tips_title">Varolan parmakizini İkinci Alana eklemek için girin</string>
+  <string name="scanner_second_space_fingerprint">İkinci Alan parmakizini tara</string>
   <string name="secondSpace">İkinci Alan</string>
+  <string name="second_owner_finger_print">İkinci Alan parmakizi</string>
+  <string name="second_space_finger_printf_desc">İkinci Alana giriş yapmak için parmakizi ekle</string>
+  <string name="second_space_finger_printf_title">İkinci Alan Parmakizi</string>
+  <string name="select_existed_fingerprint">Parmakizini seçin</string>
   <string name="serNameSummary">İkinci Alan</string>
   <string name="setSecondSpacePassword">İkinci Alan şifresini ayarla</string>
   <string name="setSecondSpacePasswordGuide">İkinci Alan şifresini ayarla</string>
@@ -139,6 +167,9 @@ Ayrı ayrı indirme yapabilirsiniz."</string>
   <string name="setSuccess">Şifreler başarıyla ayarlandı</string>
   <string name="set_space_pwd_detail">Şifre kullanarak İkinci Alana girebilirsiniz.</string>
   <string name="set_space_pwd_suc">İkinci Alan şifresi eklendi</string>
+  <string name="setting_finger_print_sub_title">Birinci Alan parmakizi diğerinden farklı olmalı</string>
+  <string name="setting_finger_print_title">İkinci Alan parmakizini ekle</string>
+  <string name="setting_fingerprint_title">İkinci Alan şifresi ekle</string>
   <string name="setting_is_show_text_contacts">Özel Kişiler ve Mesajları ayarla</string>
   <string name="settings_cross_notification_summary">Diğer alan bildirimlerini al</string>
   <string name="settings_cross_notification_title">Bildirimler</string>
@@ -157,8 +188,13 @@ Ayrı ayrı indirme yapabilirsiniz."</string>
   <string name="spaceSetting">Ayarlar</string>
   <string name="startSet">Ayarla</string>
   <string name="startTransfer">Taşı</string>
+  <string name="start_input_finger_print">Parmakizi ekle</string>
+  <string name="start_new_fingerprint">Yeni bir parmakizi ekle</string>
+  <string name="start_new_fingerprint_tips">"Kilit Ekranından İkinci Alana
+ parmakizi kullanarak gir"</string>
   <string name="start_setting_guide_desc_title">Ayarlanacak bir kaç şey var</string>
   <string name="summary_switch_apps_settings">İkinci Alanda kullanılan uygulamaları seçin</string>
+  <string name="sure_to_use">Onayla</string>
   <string name="switchDataSummary">Alanlar arasında öğeleri taşı</string>
   <string name="switch_apps_settings">Uygulama Ayarları</string>
   <string name="switch_data_app">İkinci Alan öğelerini taşı</string>
@@ -197,11 +233,12 @@ Ayrı ayrı indirme yapabilirsiniz."</string>
   <string name="transferMessage">İkinci Alandaki mesajlar İlk Alana taşınacak</string>
   <string name="tryNow">Tekrar dene</string>
   <string name="wating">Biraz bekleyin…</string>
-  <string name="xspace_chocie">Diğer Uygulamalar</string>
-  <string name="xspace_creating">Uygulama klonlanıyor…</string>
+  <string name="xspace_chocie">Klonlu Uygulamalar Desteği</string>
+  <string name="xspace_creating">Klonlu Uygulama oluşturuluyor…</string>
   <string name="xspace_description">Klonlu uygulamalar ayrı yer kullanır. Klonlu uygulamalar Ana Ekran simgesi tanımlanacak.</string>
   <string name="xspace_header">Klonlu Uygulama</string>
   <string name="xspace_install_completed">Simge Ana Ekrana eklendi.</string>
+  <string name="xspace_install_failed">"Oluşturulamadı!"</string>
   <string name="xspace_installing">Yükleniyor…</string>
   <string name="xspace_introduce">Tavsiyeli</string>
   <string name="xspace_label">Klonlu Uygulama</string>
