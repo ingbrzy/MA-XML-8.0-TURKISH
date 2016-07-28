@@ -29,6 +29,9 @@
   <string name="apk_status_install">Yüklendi</string>
   <string name="apk_status_installed_old">Eski Sürüm</string>
   <string name="apk_status_uninstalled">Yüklenmedi</string>
+  <string name="app_install_tips_go_to">Çalıştır</string>
+  <string name="app_install_tips_install_success">%1$s başarıyla yüklendi</string>
+  <string name="app_name">Cheetah Mobil CleanMaster SDK</string>
   <string name="apps_sort_type_item_size">Boyut</string>
   <string name="apps_sort_type_item_time">Sık Kullanılan</string>
   <string name="apps_sort_type_title">Sırala</string>
@@ -37,6 +40,8 @@
   <string name="auto_clean_switch_on">Açık</string>
   <string name="auto_cleaner_open">Aç</string>
   <string name="back">Geri</string>
+  <string name="browser_scan_history_desc">Tarayıcı Geçmişi</string>
+  <string name="browser_search_history_desc">Aranmış Öğeler</string>
   <string name="btn_text_done">Tamam</string>
   <string name="btn_text_quick_cleanup">Temizle</string>
   <string name="btn_text_quick_scan">Tara</string>
@@ -75,6 +80,7 @@
   <string name="cache_title_empty_folder2">Boş Klasör</string>
   <string name="cache_title_system_cache">Sistem Önbelleği</string>
   <string name="cached_garbage">Önbellek</string>
+  <string name="call_log">Çağrı Günlüğü</string>
   <string name="cancel">İptal</string>
   <string name="clean_content_all">Tümü</string>
   <string name="clean_content_one">1 öğe</string>
@@ -84,6 +90,8 @@
   <string name="clear_bigfiles">Büyük dosyaları, yenilenen fotoğrafları ve diğer gereksiz öğeleri sil</string>
   <string name="clear_immediately">Temizle</string>
   <string name="clear_safe_notify">Güvenlik Bildirim Çubuğu</string>
+  <string name="clip_board_history_desc">Kopyalama/Kesme İçeriği</string>
+  <string name="clipboard">Pano</string>
   <string name="close">Kapat</string>
   <string name="confirm_auto_cleaner">Tamam</string>
   <string name="conn_of_function_safe">Güvenli Ağ Bağlantısı</string>
@@ -211,6 +219,7 @@
   <string name="hints_quick_prepare">Hazırlanıyor…</string>
   <string name="hints_quick_scanning">Taranıyor…</string>
   <string name="hints_residual_header_left">Artıklar</string>
+  <string name="hints_scan_has_finish">Bitmiş Temizlik</string>
   <string name="hints_scanfinish">Çöp yok</string>
   <string name="hints_storage_clean_size"> %s dahili depolamadan kurtarıldı</string>
   <string name="hints_storage_free">Boş</string>
@@ -226,6 +235,8 @@
   <string name="installed">Yüklendi</string>
   <string name="installing">Yükleniyor</string>
   <string name="item_title_process_mode">Bir faaliyet seç</string>
+  <string name="junk_tag_RF_EmptyFolders">Boş Dizinler</string>
+  <string name="junk_tag_RF_ImageThumbnails">Galeri Minyatürleri</string>
   <string name="just_now">Şimdi</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Yok</string>
@@ -269,6 +280,7 @@
   <string name="optimizecenter_data_support_cm">Clean Master tarafından güçlendirilmiştir</string>
   <string name="optimizecenter_data_support_tc">Tencent tarafından güçlendirilmiştir</string>
   <string name="petabyteShort">PB</string>
+  <string name="phone_search">Google Araması</string>
   <string name="positive_confirm">Tamam</string>
   <string name="pref_category_title_auto_clean_settings">Otomatik olarak temizle</string>
   <string name="pref_category_title_auto_update_cleanup_db">Ek Ayarlar</string>
@@ -335,6 +347,7 @@
   <string name="privacy_app_desc_message">Hesap, Şifre ve Mesajlar</string>
   <string name="privacy_app_desc_search">Hesap, Şifre ve Arama Geçmişi</string>
   <string name="privacy_app_desc_setting">Hesap, Şifre ve Ayarlar</string>
+  <string name="privacy_appdata_chrome_history_des">Ziyaret Edilen Siteler</string>
   <string name="privacy_browser_desc">Aranan öğeler</string>
   <string name="privacy_cache_desc">Hesap, Şifre, Geçmiş, Ayarlar ve Daha Fazlası</string>
   <string name="privacy_cache_empty">Şahsi veri yok</string>
@@ -352,6 +365,7 @@
   <string name="safety_rank">Güvenlik açısından %%%d MIUI kullanıcısından önde</string>
   <string name="sc_allow_network_dialog_button">İzinli</string>
   <string name="sc_allow_network_dialog_message">Bu uygulamanın güncellemeleri almak için İnternete bağlanmasına izin veriyor musunuz?</string>
+  <string name="search_history">Arama Geçmişi</string>
   <string name="see_more">Fazlası</string>
   <string name="set_immediately">Ayarla</string>
   <string name="seton_immediately">Aç</string>
@@ -360,7 +374,9 @@
   <string name="similar_image_empty">Yenilenen bulunamadı</string>
   <string name="similar_image_scaning">Kontrol ediliyor…</string>
   <string name="similar_image_title">Fotoğraflar</string>
+  <string name="sms">SMS/MMS</string>
   <string name="sponsored">Sponsorlu</string>
+  <string name="start_downloading_app">İndirmeyi Başlat：%1$s</string>
   <string name="start_install">Şimdi Yükle</string>
   <string name="summary_auto_cleaner">Her 3 günde bir otomatik temizlensin mi?</string>
   <string name="summary_delete_apk">Seçilen APKlar silinsin mi?</string>
