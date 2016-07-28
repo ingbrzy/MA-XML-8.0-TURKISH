@@ -136,4 +136,8 @@
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="one">%d öğe seçildi</item>
     </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">"%1$d fotoğraf işlenmeden, atlandı."</item>
+        <item quantity="one">"Bir fotoğraf işlenmeden atlandandı"</item>
+    </plurals>
 </resources>
