@@ -187,9 +187,10 @@
   <string name="conference_call_single_description" formatted="false">%s vb. toplam %s</string>
   <string name="conference_caller_info_name">"%1$s\'nin konferans çağrısı"</string>
   <string name="conference_caller_name_me">Ben</string>
+  <string name="conference_callers_exceeded">Arayanlar konferanstaki sınırı aştı</string>
   <string name="conference_member_add_fail">%s eklenemedi.</string>
   <string name="conference_member_adding">%s ekleniyor...</string>
-  <string name="conference_member_join">%s jkonferansa katıldı.</string>
+  <string name="conference_member_join">%s konferansa katıldı.</string>
   <string name="conference_member_leave">%s konferanstan ayrıldı.</string>
   <string name="confirmPin2Label">Yeni PIN2 kodunu onayla</string>
   <string name="confirmPinLabel">Yeni PIN kodunu onayla</string>
@@ -262,6 +263,7 @@
   <string name="dm_lock">DM Kilitli</string>
   <string name="dm_unlock">DM Kilitsiz</string>
   <string name="do_not_ask">Tekrar gösterme</string>
+  <string name="do_not_support_video_calls_by_remote">"Görüntülü Arama diğer telefonda desteklenmiyor"</string>
   <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Sunucu</string>
   <string name="done">Tamam</string>
@@ -666,7 +668,9 @@ Tavsiyemiz \"Otomatik Olarak Seç\", seçeneğini kullanmanız veya elle başka 
   <string name="onscreen_hold_text">Beklet</string>
   <string name="onscreen_manage_calls_text">Çağrıları Yönet</string>
   <string name="onscreen_merge_calls_text">Çağrıları birleştir</string>
+  <string name="onscreen_mi_support_calls_text">Mi Desteği</string>
   <string name="onscreen_mute_text">Sessiz</string>
+  <string name="onscreen_note_calls_text">Not</string>
   <string name="onscreen_note_text">Not</string>
   <string name="onscreen_rcs_text">Mesajlar</string>
   <string name="onscreen_send_flash_text">Flaş</string>
@@ -801,6 +805,8 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="respond_via_sms_canned_response_4">"Şu anda konuşamıyorum. Daha sonra arar mısın?"</string>
   <string name="respond_via_sms_confirmation_format">Mesaj, %s numaralı telefona gönderildi.</string>
   <string name="respond_via_sms_custom_message">Size yazılıyor...</string>
+  <string name="select_audio_dialog_title">Cevaplama modunu seçin</string>
+  <string name="select_one_sim_title">Sadece SIM %1$d kullanılabilir</string>
   <string name="respond_via_sms_edittext_dialog_title">Hızlı cevapla</string>
   <string name="respond_via_sms_menu_reset_default_activity">Varsayılan uygulamayı sıfırla</string>
   <string name="respond_via_sms_setting_summary"/>
