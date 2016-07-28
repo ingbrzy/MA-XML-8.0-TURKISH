@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_enter_lock_wallpaper">Kilit Ekran duvar kağıdı içine tıklayın</string>
   <string name="click_to_enter_text">Gözatmak için dokunun</string>
   <string name="confirm_pin_msg">PIN kodunu tekrar girin</string>
   <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı kaydırın ▲</string>
@@ -25,6 +26,7 @@
   <string name="incorrect_pukcode_remaining_attempts">PUK kodu hatalı, %d kez deneme hakkınız kaldı</string>
   <string name="input_password_after_boot_msg">"Cihaz yeniden başladıktan sonra şifreyi girmeniz gerekecek."</string>
   <string name="input_password_hint_text">Şifreyi girin</string>
+  <string name="input_pattern_hint_text">Deseni açma desenini çizin</string>
   <string name="input_pin_code">PIN kodunu girin</string>
   <string name="input_puk_code">PUK kodunu girin</string>
   <string name="invalid_confirm_pin_hint">"PIN kodları eşleşmiyor!"</string>
@@ -61,7 +63,7 @@
   <string name="unlock_sim_string">Tamam</string>
   <string name="unlock_string">Kilidi aç</string>
   <string name="unlocking_sim_card">SIM kartın kilidi açılıyor...</string>
-  <string name="unlockscreen_low_battery">Lütfen şarj cihazını bağlayın.</string>
+  <string name="unlockscreen_low_battery">Lütfen, şarj cihazını bağlayın.</string>
   <string name="unlockscreen_recharge_completed">Pil %100 doldu</string>
   <string name="unlockscreen_recharging_message">Şarj ediliyor: %%%d</string>
   <string name="wrong_password">Yanlış parola</string>
