@@ -97,7 +97,7 @@
   <string name="account_setup_failed_security">"Sunucuya güvenlik hatası nedeniyle bağlantısı açılamadı."</string>
   <string name="account_setup_failed_security_policies_unsupported">"Bu sunucu, Android cihazınızın desteklemediği şu özellikleri gerektiriyor:  %s"</string>
   <string name="account_setup_failed_tls_required">TLS gerekli ancak sunucu tarafından desteklenmiyor.</string>
-  <string name="account_setup_failed_too_many_partnerships">Giriş başarısız, izin verilen sunucunun azami bağlantı sayısına ulaşıldı.</string>
+  <string name="account_setup_failed_too_many_partnerships">"Oturum açılmadı, çok fazla bağlantı."</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Çöp Kutusundan sildiğimde</string>
   <string name="account_setup_incoming_delete_policy_never_label">Asla</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">İhtiyari</string>
