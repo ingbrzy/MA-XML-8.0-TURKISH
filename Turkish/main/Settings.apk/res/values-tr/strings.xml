@@ -51,6 +51,8 @@ Cihazda birden fazla kullanıcı varsa, geçici olarak kilit ekranına erişileb
   <string name="accessibility_long_press_timeout_preference_title">Dokunma &amp;  Uzun Basma Süresi</string>
   <string name="accessibility_menu_item_settings">Ayarlar</string>
   <string name="accessibility_no_services_installed">Hiçbir hizmeti yüklü değil</string>
+  <string name="accessibility_no_wifi">Wi-Fi bağlantısı kesildi.</string>
+  <string name="accessibility_personal_account_title">Kişisel Hesap - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Güç tuşu ile çağrıyı sonlandır</string>
   <string name="accessibility_screen_magnification_enable">Büyütme Hareketleri</string>
   <string name="accessibility_screen_magnification_summary">"Bu özellik açıldığında, ekrana üç kez dokunarak yakınlaştırma ve uzaklaştırma yapabilirsiniz.
@@ -131,9 +133,11 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Ek Sistem Güncellemeleri</string>
   <string name="adjust_3d_depth_title">"Oyunların 3D Derinliğini Ayarla"</string>
+  <string name="advanced_apps">Gelişmiş</string>
+  <string name="advanced_section_header">Gelişmiş</string>
   <string name="advanced_security_title">Gelişmiş</string>
   <string name="advanced_settings">Gelişmiş Ayarlar</string>
-  <string name="advanced_settings_summary">Diğer gelişmiş ayarlar etkin</string>
+  <string name="advanced_settings_summary">Diğer Ayarlar Seçenekleri etkin</string>
   <string name="advanced_text_layout">Gelişmiş metin şablonlarını etkinleştir</string>
   <string name="agps_roaming">A-GPS dolaşımdayken</string>
   <string name="agps_roaming_dia">"Dolaşımda iken A-GPS kullanmanız, mobil veri miktarını arttırabilir. Eğer planladığınız veri sınırı üzerine çıkarsanız, operatörünüz sizden ek ücret alabilir."</string>
@@ -152,10 +156,12 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="allow_data_usage_title">Dolaşımda veri kullanımına izin ver</string>
   <string name="allow_mock_location">Sahte konumlara izin ver</string>
   <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
+  <string name="allow_overlay_description">Bu izin uygulamanın diğer uygulamanın kullandıklarına müdahale etmeye ve değiştirmeye izin verir.</string>
   <string name="allow_usage_access_message">Eğer erişime izin verirseniz bu uygulama,  uygulamalar hakkında genel bilgileri ve bunların hangi sıklıkta kullanıldığını görebilir.</string>
   <string name="allow_usage_access_title">Erişime izin verilsin mi?</string>
   <string name="alpha_build">" | Alpha"</string>
-  <string name="always_allow_bind_appwidgets_text">"Bu ygulamanın verilerinin Widget oluşturma ve erişmesine izin vermek için seçtiniz."</string>
+  <string name="always_allow_bind_appwidgets_text">"Bu uygulamanın verilerinin Widget oluşturma ve erişmesine izin vermek için seçtiniz."</string>
+  <string name="always_running">Daima Çalışan: (%s)</string>
   <string name="amber_alerts_summary">Çocuk kaçırma konusunda bültenleri alın</string>
   <string name="amber_alerts_title">UYARILAR</string>
   <string name="android_beam_disabled_summary">Bu özelliği kullanmak için, NFC etkin olmalı</string>
@@ -217,10 +223,17 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="app_forward_locked">Uygulama, kopyalamaya karşı korumalı</string>
   <string name="app_install_location_summary">Yeni uygulamalar için tercih edilen yükleme yerini değiştir</string>
   <string name="app_install_location_title">Tercih edilen yükleme yeri</string>
+  <string name="app_invisible">Görünmez Uygulamalar</string>
   <string name="app_launch_domain_links_title">Uygulama bağlantıları</string>
   <string name="app_launch_open_domain_urls_summary">Sormadan aç</string>
   <string name="app_launch_open_domain_urls_title">Destekleyen bağlantıları aç</string>
-  <string name="app_invisible">Görünmeyen Uygulama</string>
+  <string name="app_launch_other_defaults_title">Diğer Varsayılanlar</string>
+  <string name="app_launch_supported_domain_urls_title">Desteklenen Bağlantılar</string>
+  <string name="app_link_open_always">Bu uygulamada aç</string>
+  <string name="app_link_open_ask">Herzaman sor</string>
+  <string name="app_link_open_never">Bu uygulamada açma!</string>
+  <string name="app_list_memory_use">Uygulama Kullanımı</string>
+  <string name="app_list_preference_none">Yok</string>
   <string name="app_memory_use">Hafıza Kullanımı</string>
   <string name="app_name_label">Uygulama</string>
   <string name="app_not_found_dlg_text">"Uygulama, yüklü uygulamalar listesinde bulunamadı."</string>
@@ -228,6 +241,9 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="app_not_supported_in_limited">Bu uygulama kısıtlı profilleri desteklenmez</string>
   <string name="app_notification_block_summary">Bu uygulama için bildirim gösterme</string>
   <string name="app_notification_block_title">Engelle</string>
+  <string name="app_notification_peekable_summary">Bu uygulama güvenilir bildirimleri hissedip geçerli ekranda kaydırarak kısa kısa gösterir</string>
+  <string name="app_notification_peekable_title">Özet gösterim izinli</string>
+  <string name="app_notification_preferences">Uygulama Ayarları</string>
   <string name="app_notification_priority_summary">Listenin en üstündeki bildirimleri göster ve onları cihaz sadece öncelikli kesintileri alsın diye ayarlandığında gelmesini sağlayacak şekilde koru</string>
   <string name="app_notification_priority_title">Öncelik</string>
   <string name="app_notification_row_banned">Engellendi</string>
@@ -241,7 +257,11 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="app_ops_never_used">(Hiç kullanılmadı)</string>
   <string name="app_ops_running">Çalışan</string>
   <string name="app_ops_settings">Uygulama Operasyonları</string>
-  <string name="app_ops_settings_summary">Uygulama izinlerinin görüntüle/değiştir</string>
+  <string name="app_ops_settings_summary">Görüntüle veya uygulamanın izinlerini değiştir</string>
+  <string name="app_overlay_permission_preference">Uygulamanın en üst izinlerini belirt</string>
+  <string name="app_permissions">Uygulama izinleri</string>
+  <string name="app_permissions_group_summary" formatted="false">%d / %d uygulama izinli</string>
+  <string name="app_permissions_summary" formatted="false">%d / %d uygulama ek erişime izinli</string>
   <string name="app_process_limit_title">Arkaplan işlem sınırı</string>
   <string name="app_restrictions_custom_label">Uygulama kısıtlamalarını ayarla</string>
   <string name="app_sees_restricted_accounts">Bu uygulama hesaplarınıza erişebilir</string>
@@ -271,9 +291,20 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="apps_with_restrictions_header">Kısıtlamalarla Uygulamaları</string>
   <string name="apps_with_restrictions_settings_button">Uygulama için ayarları genişlet</string>
   <string name="ask_compatibility">Başlattığında sor</string>
+  <string name="assist_access_context_summary">Yardımcı uygulama ekran içeriğindeki metinlere erişir</string>
+  <string name="assist_access_context_title">Ekrandaki metni kullan</string>
+  <string name="assist_access_screenshot_summary">Ekrandaki resme yardımcı uygulama erişsin</string>
+  <string name="assist_access_screenshot_title">Erkan Görüntüsünü kullan</string>
+  <string name="assist_and_voice_input_title">Yardımcı &amp; Ses Girişi</string>
+  <string name="assist_footer">Yardımcı uygulama ekranda görünen alanda size yardımcı olmaya çalışır. Bazı uygulamalar başlatılır ve sesli giriş servisini, yardımcının kullanımına sunar.</string>
+  <string name="assistant_security_warning">Yardımcı, sistemdeki uygulama hakkında bilgileri okur, buna ekranda görünen uygulama bilgileri de dahildir.</string>
+  <string name="assistant_security_warning_agree">Kabul ediyorum</string>
+  <string name="assistant_security_warning_disagree">Kabul etmiyorum</string>
+  <string name="assistant_security_warning_title">%s yardımcınız olsun mu?</string>
   <string name="assisted_gps">A-GPS\'i kullan</string>
   <string name="assisted_gps_disabled">A-GPS için sunucuyu kullan (GPS performansını iyileştirmek için işaretini kaldırın)</string>
   <string name="assisted_gps_enabled">A-GPS için sunucuyu kullan (Ağ kullanımını azaltmak için işaretini kaldırın)</string>
+  <string name="attempt_other_network">Ağa geçiş yap</string>
   <string name="audio_list_loading">Yükleniyor...</string>
   <string name="audio_profile_settings_title">Ses Profilleri</string>
   <string name="audio_record_proc_title">Gürültüyü Engelle</string>
@@ -317,6 +348,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="backup_data_title">Verilerimi Yedekle</string>
   <string name="backup_erase_dialog_message">WLAN şifreleriniz, favorileriniz, diğer ayarlarınız, uygulama verileri ve tüm silinmiş Google sunucu kopyalarının yedeklemesi durdurulsun mu?</string>
   <string name="backup_erase_dialog_title"/>
+  <string name="backup_inactive_title">Yedekleme hizmeti faal değil.</string>
   <string name="backup_lock_settings_picker_title">Yedekleme Kilidi Seç</string>
   <string name="backup_pw_cancel_button_text">İptal</string>
   <string name="backup_pw_set_button_text">Yedekleme Şifre Ayarı</string>
@@ -335,7 +367,8 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="battery_action_wifi">WLAN Ayarları</string>
   <string name="battery_desc_apps">Uygulamanın tükettiği pil</string>
   <string name="battery_desc_bluetooth">"Bluetooth'un tükettiği pil"</string>
-  <string name="battery_desc_display">Ekran ve arka aydınlatma ışığının tükettiği pil</string>
+  <string name="battery_desc_camera">Kameranın tükettiği pil</string>
+  <string name="battery_desc_display">Ekran ve arka aydınlatmanın tükettiği pil</string>
   <string name="battery_desc_flashlight">El Fenerinin tükettiği pil</string>
   <string name="battery_desc_overcounted">Aşırı Güç Kullanan</string>
   <string name="battery_desc_radio">Radyonun tükettiği pil</string>
@@ -344,9 +377,9 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="battery_desc_users">Kullanıcı tarafından tüketilen pil</string>
   <string name="battery_desc_voice">Sesli aramaların tükettiği pil</string>
   <string name="battery_desc_wifi">WLAN ağının tükettiği pil</string>
-  <string name="battery_history_days">%1$d gün %2$d saat %3$d dakika %4$d saniye</string>
+  <string name="battery_history_days">%1$d gün %2$d s %3$d dak %4$d san</string>
   <string name="battery_history_days_no_seconds">%1$dg %2$ds %3$dd</string>
-  <string name="battery_history_hours">%1$d saat %2$d dakika %3$d saniye</string>
+  <string name="battery_history_hours">%1$d s %2$d dak %3$d san</string>
   <string name="battery_history_hours_no_seconds">%1$ds %2$ddk</string>
   <string name="battery_history_minutes">%1$d dakika %2$d saniye</string>
   <string name="battery_history_minutes_no_seconds">%1$ddk</string>
@@ -373,8 +406,8 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="battery_info_power_wireless">Kablosuz</string>
   <string name="battery_info_scale_label">Pil ölçeği:</string>
   <string name="battery_info_screen_on">Açık kalma süresi:</string>
-  <string name="battery_info_status_charging">Şarj ediliyor</string>
-  <string name="battery_info_status_charging_ac">AC ile şarj ediliyor</string>
+  <string name="battery_info_status_charging">Şarj ediliyor...</string>
+  <string name="battery_info_status_charging_ac">AC ile şarj ediliyor...</string>
   <string name="battery_info_status_charging_usb">USB üzerinden şarj ediliyor</string>
   <string name="battery_info_status_charging_wireless">Kablosuz olarak şarj ediliyor</string>
   <string name="battery_info_status_discharging">Şarj olmuyor</string>
@@ -389,6 +422,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="battery_info_voltage_label">Pil Voltajı:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Pil Seviyesi</string>
+  <string name="battery_light_summary">Cihaz şarj ettiği esnada bildirim ışığını aç</string>
   <string name="battery_light_title">Şarj Olurken Aydınlat</string>
   <string name="battery_msg_unaccounted">Pil kullanımında yaklaşık güç durumu esas alınır ve değerler farklılıklar gösterebilir. Özellikle farklı hesaplar farklı sonuçlar çıkartabilir. Yani esas güç ile gözlemlenen güç arasında farklılıklar olabilir.</string>
   <string name="battery_saver">Pil Tasarrufu</string>
@@ -399,8 +433,10 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="battery_settings_title">Pil Ayarları</string>
   <string name="battery_since_reset">Sıfırlandığından beri pil kullanımı</string>
   <string name="battery_since_unplugged">Fişten çekildikten sonra pil kullanımı</string>
-  <string name="battery_stats_charging_label">Şarj Ediliyor</string>
-  <string name="battery_stats_duration">Fişten çekildikten itibaren %1$s</string>
+  <string name="battery_stats_camera_on_label">Kamera açık</string>
+  <string name="battery_stats_charging_label">Şarj ediliyor...</string>
+  <string name="battery_stats_duration">Fişten çekildikten sonra: %1$s</string>
+  <string name="battery_stats_flashlight_on_label">Flaş ışığı açık</string>
   <string name="battery_stats_gps_on_label">GPS açık</string>
   <string name="battery_stats_on_battery">%1$s pilde</string>
   <string name="battery_stats_phone_signal_label">Mobil ağ sinyali</string>
@@ -416,7 +452,9 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="battery_sugg_display">Ekran parlaklığını ve/veya ekranın zaman aşımını azaltın</string>
   <string name="battery_sugg_radio">Cep telefonunun kapsama alanı dışında olduğu yerlerde pilden tasarruf etmek için Uçak Moduna geçin</string>
   <string name="battery_sugg_wifi">"Kullanmadığınızda veya mevcut olmadığında WLAN özelliğini kapatın"</string>
+  <string name="battery_summary">Son tam şardan itibaren kullanım: %%%1$d</string>
   <string name="bearer">Taşıyıcı</string>
+  <string name="ble_scan_notify_text">Konum hassasiyetini arttırmak için; sistem uygulamaları ve hizmetlerini Bluetooth cihazlar tespit edebilir. Bunu değiştirmek için LINK_BEGINTarama AyarlarıLINK_END seçeneğini kullanabilirsiniz.</string>
   <string name="biometric_weak_improve_matching_title">Yüz eşleştirmeyi iyileştir</string>
   <string name="biometric_weak_liveliness_summary">Kilit açma sırasında göz kırpmak gerekir</string>
   <string name="biometric_weak_liveliness_title">Canlılık Denetimi</string>
@@ -538,7 +576,8 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_pairing_key_msg">Eşleşme kodu</string>
   <string name="bluetooth_pairing_pin_error_message">"PIN veya Passkey kodu yanlış olduğundan %1$s ile eşleştirilemedi."</string>
   <string name="bluetooth_pairing_rejected_error_message">Eşleştirme %1$s tarafından reddedildi.</string>
-  <string name="bluetooth_pairing_request">Bluetooth eşleşme isteği</string>
+  <string name="bluetooth_pairing_request">%1$s ile eşlensin mi?</string>
+  <string name="bluetooth_pairing_shares_phonebook">%1$s kişilerinize ve çağrı geçmişine erişebilir</string>
   <string name="bluetooth_pairing_will_share_phonebook">Bağlandığında kişilere erişmek ve çağrı geçmişi için eşleştir</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Cihazla yerel internet bağlantı paylaşımı</string>
   <string name="bluetooth_pan_profile_summary_use_for">İnternet erişimi için kullan</string>
@@ -548,6 +587,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_permission_request">Bluetooth izni isteği</string>
   <string name="bluetooth_phonebook_request">Telefon rehberi erişim isteği</string>
   <string name="bluetooth_pin_values_hint">Genellikle 0000 veya 1234</string>
+  <string name="bluetooth_pin_values_hint_16_digits">16 karakter olmalı</string>
   <string name="bluetooth_preference_connected_devices">Cihazlara bağlandı</string>
   <string name="bluetooth_preference_device_settings">Cihaz Ayarları</string>
   <string name="bluetooth_preference_found_devices">Kullanılabilir cihazlar</string>
@@ -576,8 +616,10 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_remember_choice">"Tekrar sorma"</string>
   <string name="bluetooth_rename_button">Adlandır</string>
   <string name="bluetooth_rename_device">Bu cihazı adlandır</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s SIM Karta erişmek istiyor. SIM kartın veri iletişimine kapalı olduğundna emin olun. %2$s erişim izni verilsin mi?</string>
   <string name="bluetooth_sap_profile_summary_connected">SIM Erişim Sunucusuna bağlandı</string>
-  <string name="bluetooth_sap_profile_summary_use_for">SIM Erişim için kullan</string>
+  <string name="bluetooth_sap_profile_summary_use_for">SIM Erişimi için kullan</string>
+  <string name="bluetooth_sap_request">SIM erişim isteği</string>
   <string name="bluetooth_scan_for_devices">Cihazları tara</string>
   <string name="bluetooth_search_for_devices">Yenile</string>
   <string name="bluetooth_searching_for_devices">Aranıyor...</string>
@@ -714,11 +756,16 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="cell_broadcast_settings">Acil yayınlar</string>
   <string name="cellular_data_summary">Hücresel şebeke üzerinden veri kullanımına izin ver</string>
   <string name="cellular_data_title">Hücresel Veri</string>
+  <string name="certinstaller_package">com.android.certinstaller</string>
+  <string name="change">Değiştir</string>
   <string name="change_password">Ekran kilidini değiştir</string>
   <string name="change_security_lock">Kilidini açmak için başka yollar deneyin</string>
+  <string name="change_storage">Depolamayı değiştir</string>
+  <string name="charging_sounds_title">Şarj Sesleri</string>
   <string name="check_find_device_status_failure_confirm">Tamam</string>
   <string name="check_update">Güncellemeleri denetle</string>
   <string name="checkbox_notification_same_as_incoming_call">Bildirimler için gelen çağrı ses seviyesini kullan</string>
+  <string name="checking_decryption">Denetleniyor…</string>
   <string name="checking_find_device_status">Cihazı Bul durumu denetleniyor...</string>
   <string name="checking_for_updates">Güncellemeler denetleniyor...</string>
   <string name="children_mode_enable_title">Çocuk Modu</string>
@@ -726,8 +773,11 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="children_mode_tips_off">Çocuk modunu açtıktan sonra, Ana ekrana dönmek için Ana Sayfa düğmesine dokunun.</string>
   <string name="children_mode_tips_on">Çocuk modunu kapattıktan sonra, Ana ekrana dönmek için Ana Sayfa düğmesine dokunun.</string>
   <string name="children_mode_title">Çocuk Modu</string>
+  <string name="choose_assist_title">Yardımcı Uygulamayı seç</string>
+  <string name="choose_profile">Profili seç</string>
   <string name="choose_smartcover_type">Kapak tipini seçin</string>
   <string name="choose_timezone">Zaman Dilimini Seç</string>
+  <string name="choose_voice_input_title">Ses Girişini Seç</string>
   <string name="cleaner">Temizleyici</string>
   <string name="clear_activities">Varsayılanları temizle</string>
   <string name="clear_activities_summary">Varsayılan olarak bazı işlemler için bu uygulamayı kullan</string>
@@ -741,7 +791,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="clear_user_data_text">Veriyi Temizle</string>
   <string name="close_dialog">Tamam</string>
   <string name="close_miui_optimization_title">MIUI iyileştirmesini kapat</string>
-  <string name="close_miui_optimization_warning_message">Cihazınız bu değişikliği uygulamak için yeniden başlatılacaktır. Not: Bu özellik kapalı olduğunda düzenlerde ve arayüzde oldukça fazla değişiklik oldukça fazla değişiklik olur.</string>
+  <string name="close_miui_optimization_warning_message">Cihazınız bu değişikliği uygulamak için yeniden başlatılacaktır.</string>
   <string name="cloud_backup_section_title">Mi Bulut Yedeği</string>
   <string name="cloud_backup_settings_section_title">Yedekleme Ayarları</string>
   <string name="cloud_restore_section_summary">Tamam</string>
@@ -760,6 +810,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="color_orange">Turuncu</string>
   <string name="color_purple">Pembe</string>
   <string name="color_red">Kırmızı</string>
+  <string name="color_title">Renkli</string>
   <string name="color_unspecified">Varsayılan</string>
   <string name="color_white">Beyaz</string>
   <string name="color_yellow">Sarı</string>
@@ -768,19 +819,27 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="computing_size">Hesaplanıyor…</string>
   <string name="condition_provider_security_warning_summary">%1$s için Beni Rahatsız Etme modundan çıkış koşullarını eklemek mümkün olacaktır.</string>
   <string name="condition_provider_security_warning_title">%1$s etkinleştirilsin mi?</string>
-  <string name="config_charging_function_name">Şarj ediliyor</string>
+  <string name="config_charging_function_name">Şarj ediliyor...</string>
   <string name="config_list_label">Yapılandırılmış ağlar</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
+  <string name="configure_apps">Uygulamaları Yapılandır</string>
   <string name="configure_input_method">Giriş usullerini ayarla</string>
   <string name="confirm_action">Tamam</string>
   <string name="confirm_download_cancelation_dialog_message">İndirme iptal edilsin mi?</string>
+  <string name="confirm_enable_multi_window_text">UYARI: Bu en üst deneysel özelliktir, Önceki uygulamaların arayüzünü bir ekranda birden fazla içerikte etkileşimde bulunabilmeyi sağlar. Bazı uygulamalr bu özelliği tam desteklemediğinden çökebilir.</string>
+  <string name="confirm_enable_multi_window_title">Çoklu Pencere modu açılsın mı?</string>
+  <string name="confirm_enable_oem_unlock_text">UYARI: Cihaz koruma özelliği bu ayar açıldığında çalışmaz.</string>
+  <string name="confirm_enable_oem_unlock_title">OEM kilidi açılsın mı?</string>
   <string name="confirm_erase">Sil</string>
+  <string name="confirm_fingerprint_icon_content_description">Parmakizi kullanarak devam et</string>
   <string name="confirm_fingerprint_msg">Parmakizi okuyucusuna parmağınızı yerleştirin</string>
   <string name="confirm_new_backup_pw_prompt">Buraya yeni tam yedekleme şifrenizi tekrar yazın</string>
   <string name="confirm_reset_aaid">Tamam</string>
   <string name="connect_to_internet">Ağa bağlan</string>
+  <string name="connected_via_passpoint">%1$s yoluyla bağlandı</string>
+  <string name="connected_via_wfa">Wi‑Fi Yardımcısı yoluyla bağlandı</string>
   <string name="connected_wifi">Bağlandı</string>
   <string name="connecting_to_vpn">VPN için bağlanıyor</string>
   <string name="continue_all_caps">DEVAM</string>
@@ -820,7 +879,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="crypt_keeper_confirm_encrypt">Cihazınızın şifrelemesini onaylamak için kilit açma desenini çizmeniz gerekir.</string>
   <string name="crypt_keeper_confirm_title">Şifrelensin mi?</string>
   <string name="crypt_keeper_content">Hesaplarınızı, ayarlarınızı, indirilen uygulamaları ve kendi verilerinizi, medya ve diğer dosyaları şifreleyebilirsiniz.</string>
-  <string name="crypt_keeper_content_title">Cihazi Şifrele</string>
+  <string name="crypt_keeper_content_title">Cihazı Şifrele</string>
   <string name="crypt_keeper_cooldown">^1 saniye sonra tekrar deneyin</string>
   <string name="crypt_keeper_data_corrupt_summary">"Girdiğiniz şifre doğru, ama ne yazık ki veri bozuk.
 
@@ -842,6 +901,7 @@ Telefonunuzu kullanmaya devam etmek için, fabrika ayarlarına sıfırlama işle
 Telefonunuzu kullanmaya devam etmek için, fabrika ayarlarına sıfırlama işlemi gerekir. Sıfırlama işleminden sonra telefonunuzun kurulumunu yaparken, Google Hesabınıza yedeklenen tüm verileri geri yüklemek için bir fırsatınız olacak."</string>
   <string name="crypt_keeper_failed_title">Şifreleme başarılı</string>
   <string name="crypt_keeper_final_desc">"Şifreleme işlemi geri döndürülemez ve bunu kesmeniz durumunda veri kaybedersiniz. Şifreleme telefonu birkaç kez yeniden başlatacak. Bu işlem bir saat veya daha fazla sürebilir."</string>
+  <string name="crypt_keeper_force_power_cycle">Telefon kilidini açmak için; kapatın ve açın.</string>
   <string name="crypt_keeper_low_charge_text">Pilinizi şarj edip tekrar deneyin.</string>
   <string name="crypt_keeper_settings_title">Şifrele</string>
   <string name="crypt_keeper_setup_description">Telefonunuz şifrelenirken bekleyin. ^1% tamamlandı.</string>
@@ -852,8 +912,12 @@ Telefonunuzu kullanmaya devam etmek için, fabrika ayarlarına sıfırlama işle
   <string name="crypt_keeper_warn_wipe">Uyarı: ^1 başarısız kilit açma işleminden sonra cihazınız silinecektir!</string>
   <string name="cryptkeeper_emergency_call">Acil çağrı</string>
   <string name="cryptkeeper_return_to_call">Çağrıya dön</string>
+  <string name="cryptkeeper_wrong_password">Yanlış şifre</string>
+  <string name="cryptkeeper_wrong_pattern">Yanlış desen</string>
+  <string name="cryptkeeper_wrong_pin">Yanlış PIN</string>
   <string name="current_backup_pw_prompt">Buraya mevcut tam yedekleme şifrenizi yazın</string>
   <string name="current_input_method">Geçerli Klavye</string>
+  <string name="current_screen_lock">Geçerli kilit ekranı</string>
   <string name="current_use_ese">Gömülü güvenli eleman kullan</string>
   <string name="current_use_uicc_se">SIM karttan güvenli bir öğe kullan</string>
   <string name="daltonizer_mode_deuteranomaly">Renk Körlüğü (kırmızı-yeşil)</string>
@@ -865,6 +929,8 @@ Telefonunuzu kullanmaya devam etmek için, fabrika ayarlarına sıfırlama işle
   <string name="daltonizer_type_overridden">%1$s tarafından geçersiz kıl</string>
   <string name="dashboard_title">Ayarlar</string>
   <string name="data_size_label">Veri</string>
+  <string name="data_summary_format">%2$s beri kullanılan %1$s</string>
+  <string name="data_switch_started">Veri SIM geçişi yap, bu birkaç dakika sürebilir...</string>
   <string name="data_usage_accounting">Operatörünüzün veri hesapları cihazınızdan farklı olabilir.</string>
   <string name="data_usage_app">Uygulama Kullanımı</string>
   <string name="data_usage_app_info_label">UYGULAMA BİLGİSİ</string>
@@ -887,6 +953,7 @@ Bazı hesaplar da otomatik olarak telefonda yaptığınız değişiklikleri Web\
   <string name="data_usage_auto_sync_on_dialog_title">Otomatik eşitleme açılsın mı?</string>
   <string name="data_usage_background_label">Arkaplan:</string>
   <string name="data_usage_cellular_data">Hücresel veri</string>
+  <string name="data_usage_cellular_data_summary">Limit durduruldu</string>
   <string name="data_usage_change_cycle">Değişim döngüsü...</string>
   <string name="data_usage_cycle">Veri kullanım döngüsü...</string>
   <string name="data_usage_cycle_editor_positive">Ayarla</string>
@@ -987,9 +1054,18 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="debug_layout_summary">Sınırları, kenar boşlukları vb. gösterir.</string>
   <string name="debug_log">Kullanıcı Deneyim Programı</string>
   <string name="debug_monitoring_category">Gözetim</string>
+  <string name="debug_networking_category">Ağ</string>
   <string name="debug_view_attributes">Görünüm özelliği incelemeyi etkinleştir</string>
+  <string name="default_app">(Varsayılan)</string>
+  <string name="default_apps_title">Varsayılan Uygulamalar</string>
   <string name="default_date_format">dd/MM/yyyy</string>
+  <string name="default_assist_none">Yok</string>
+  <string name="default_assist_title">Yardımcı Uygulama</string>
+  <string name="default_browser_title">Tarayıcı Uygulaması</string>
+  <string name="default_browser_title_none">Varsayılan Tarayıcı yok</string>
+  <string name="default_emergency_app">Acil Durum Uygulaması</string>
   <string name="default_input_method">Varsayılan klavyeyi seçin</string>
+  <string name="default_phone_title">Telefon Uygulaması</string>
   <string name="default_sound">Varsayılan ses</string>
   <string name="default_usb_mode">USB bağlantısı</string>
   <string name="delete">Sil</string>
@@ -1042,6 +1118,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="device_status">Durum</string>
   <string name="device_status_activity_title">Durum</string>
   <string name="device_status_summary">Pil Durumu, Pil Seviyesi vb.</string>
+  <string name="dial_application_title">Ara</string>
   <string name="dial_pad_tones_title">Tuş Takımı Sesleri</string>
   <string name="dialog_content_login">Güncellemek için Mi Hesabına girilsin mi?</string>
   <string name="dialog_no">Hayır</string>
@@ -1073,6 +1150,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="display_settings">Ekran</string>
   <string name="display_settings_title">Ekran</string>
   <string name="dlg_cancel">İptal</string>
+  <string name="dlg_close">Kapat</string>
   <string name="dlg_confirm_uicc_unmount_text">Eğer UICC depolama çıkartılırsa bazı uygulamalar durdurulur ve UICC depolama yeniden bağlanıncaya kadar kullanılmayabilir.</string>
   <string name="dlg_confirm_uicc_unmount_title">UICC depolama çıkartılsın mı?</string>
   <string name="dlg_confirm_unmount_text">Eğer SD depolama çıkartılırsa bazı uygulamalar durdurulur ve SD depolama yeniden bağlanıncaya kadar kullanılmayabilir.</string>
@@ -1084,6 +1162,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">"USB depolama çıkartılamadı. Sonra tekrar deneyin."</string>
   <string name="dlg_ok">Tamam</string>
+  <string name="dlg_switch">Geçiş Yap</string>
   <string name="dndm_alarm_content">Sesler</string>
   <string name="dndm_alarm_content_all">Tümü İzinli</string>
   <string name="dndm_alarm_content_call">Çağrılar</string>
@@ -1120,10 +1199,12 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="dndm_vip_call_summary_contact">Tümü</string>
   <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_none">Yapılandırmak için dokunun</string>
+  <string name="dndm_vip_list_all">Tümü</string>
   <string name="dndm_vip_list_contact">Tüm Kişiler</string>
   <string name="dndm_vip_list_custom">İstisnalar</string>
   <string name="dndm_vip_list_custom_group">İstisnalar</string>
   <string name="dndm_vip_list_group">İstisnalar Listesi</string>
+  <string name="dndm_vip_list_starred_contact">Favoriler</string>
   <string name="dndm_wristband">Mi Band ile Etkinleştir</string>
   <string name="dndm_wristband_detailed">"Mi Band önceden planlanmış bir saat içinde uyurken algılanırsa Rahatsız Etmeyin\'i aç"</string>
   <string name="dndm_wristband_detailed2">"Mi Band önceden planlanmış bir saat içinde uyurken algılanırsa Rahatsız Etmeyin\'i kapat"</string>
@@ -1146,6 +1227,10 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="dock_sounds_enable_title">Yuvaya Yerleştirirken Çıkacak Ses</string>
   <string name="docking_sounds_title">Yuva Sesleri</string>
   <string name="does_not_exist">"Uygulama yok."</string>
+  <string name="domain_urls_summary_none">Desteklenmeyen bağlantı açılmıyor</string>
+  <string name="domain_urls_summary_one">%s aç</string>
+  <string name="domain_urls_summary_some">%s aç ve bağlantıya git</string>
+  <string name="domain_urls_title">Uygulama bağlantıları</string>
   <string name="dolby_bassboost_high">Güçlü</string>
   <string name="dolby_bassboost_low">Hafif</string>
   <string name="dolby_bassboost_normal">Normal</string>
@@ -1168,6 +1253,8 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="downloading_description">İndiriliyor…</string>
   <string name="doze_summary">Cihaz ve bildirimler geldiğinde ekranı uyandır</string>
   <string name="doze_title">Ortam Görüntüsü</string>
+  <string name="draw_overlay">Diğer uygulamaları belirt</string>
+  <string name="draw_overlay_title">Uygulamalar diğer uygulamaları belirtir</string>
   <string name="drive_mode">Araç Modu</string>
   <string name="drive_mode_auto_reply">Hızlı Cevap</string>
   <string name="drive_mode_auto_sms_reply_content">"Şimdi araba kullanıyorum... Daha sonra seni arayacağım"</string>
@@ -1208,6 +1295,8 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="enable_data_string">Veri bağlantısı etkin</string>
   <string name="enable_drive_mode">Araç Modu</string>
   <string name="enable_mobile_data_when_opening_hotspot">Mobil veri de etkinleştirilsin mi?</string>
+  <string name="enable_multi_window">Çoklu-Pencere Modu</string>
+  <string name="enable_multi_window_summary">Bir ekranda birden fazla etkinlik yapmakta kullanılır.</string>
   <string name="enable_opengl_traces_title">OpenGL izlerini etkinleştir</string>
   <string name="enable_quick_setting">Hızlı Ayarlarda göster</string>
   <string name="enable_quickboot_summary">Cihaz normal kapatılınca Hızlı Önyükleme moduna geçer</string>
@@ -1239,10 +1328,19 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="encryption_interstitial_message_password">"Başlamadan önce şifre ile bu cihazı koruyabilirsiniz. Cihaz açılana kadar alarmlar dahil aramaları, mesajları veya bildirimleri alamazsınız.
 
 Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yardımcı olur."</string>
+  <string name="encryption_interstitial_message_password_for_fingerprint">"Cihazın kilidini açmak için parmakizini kullanılır, cihazı ek olarak şifre ile de koruyabilirsiniz. Cihaz başladığında parmakizi ve şifre girilmeden çağrı, mesaj, bildirim ve alarmlar çalışmaz.
+
+Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yardımcı olur."</string>
   <string name="encryption_interstitial_message_pattern">"Başlamadan önce desen ile bu cihazı koruyabilirsiniz. Cihaz açılana kadar alarmlar dahil aramaları, mesajları veya bildirimleri alamazsınız.
 
 Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yardımcı olur."</string>
+  <string name="encryption_interstitial_message_pattern_for_fingerprint">"Cihazın kilidini açmak için parmakizini kullanılır, cihazı ek olarak desen ile de koruyabilirsiniz. Cihaz başladığında parmakizi ve şifre girilmeden çağrı, mesaj, bildirim ve alarmlar çalışmaz.
+
+This helps protect data on lost or stolen devices."</string>
   <string name="encryption_interstitial_message_pin">"Başlamadan önce PIN kodu ile bu cihazı koruyabilirsiniz. Cihaz açılana kadar alarmlar dahil aramaları, mesajları veya bildirimleri alamazsınız. 
+
+Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yardımcı olur."</string>
+  <string name="encryption_interstitial_message_pin_for_fingerprint">"Cihazın kilidini açmak için parmakizini kullanılır, cihazı ek olarak PIN kodu ile de koruyabilirsiniz. Cihaz başladığında parmakizi ve şifre girilmeden çağrı, mesaj, bildirim ve alarmlar çalışmaz.
 
 Bu kayıp veya çalıntı durumunda cihazınızın verilerinin korunmasına yardımcı olur."</string>
   <string name="enforce_read_external_confirm_message">"SD kart korumalı olduğunda uygulamalar harici depolamadan veri okumak için izin istemesi gerekir.
@@ -1255,7 +1353,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="enhanced_4g_lte_mode_title">Gelişmiş 4G LTE Modu</string>
   <string name="enter_password">Android\'i başlatmak için şifrenizi girin</string>
   <string name="enter_pattern">Android\'i başlatmak için deseninizi çizin</string>
-  <string name="enter_pin">"Android'i başlatmak için, PIN kodunuzu girin"</string>
+  <string name="enter_pin">Yeniden başlattıktan sonra kilit ekranda şifreyi girin</string>
   <string name="equalizer">EQ</string>
   <string name="erase_application">Uygulamaları kaldır</string>
   <string name="erase_application_description">Cihaza indirilen uygulamalar silinir</string>
@@ -1279,7 +1377,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="experimental_preference">(Deneysel)</string>
   <string name="experience_optimization_category">Kullanıcı Deneyim Programı</string>
   <string name="external_code_size_label">USB Depolama Uygulaması</string>
-  <string name="external_data_size_label">SD Kart Boyutu</string>
+  <string name="external_data_size_label">USB depolama verisi</string>
   <string name="external_storage_turn_off">Harici depolama kapatıldı</string>
   <string name="external_storage_turn_on">Harici depolama açıldı</string>
   <string name="extreme_threats_summary">Can ve mala karşı aşırı tehditler için uyarıları al</string>
@@ -1306,6 +1404,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="field_info_tx_power_label">Tx Gücü:</string>
   <string name="field_test_info_label">Alan test bilgisi</string>
   <string name="filter">Filtre</string>
+  <string name="filter_all_apps">Tüm Uygulamalar</string>
   <string name="filter_apps_all">Tümü</string>
   <string name="filter_apps_cached">Önbellekte</string>
   <string name="filter_apps_disabled">Devre dışı</string>
@@ -1313,12 +1412,36 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="filter_apps_running">Çalışanlar</string>
   <string name="filter_apps_third_party">İndirilen</string>
   <string name="filter_dlg_title">Filtre seçeneklerini seçin</string>
+  <string name="filter_enabled_apps">Etkin</string>
+  <string name="filter_notif_blocked_apps">Engellendi</string>
+  <string name="filter_notif_no_peeking">Sıralama yok</string>
+  <string name="filter_notif_priority_apps">Öncelik</string>
+  <string name="filter_notif_sensitive_apps">Hassas içerik gizlendi</string>
+  <string name="filter_overlay_apps">Uygulama ile İzin</string>
+  <string name="filter_personal_apps">Kişisel</string>
+  <string name="filter_with_domain_urls_apps">Domain bağlantısıyla</string>
+  <string name="filter_work_apps">İş</string>
+  <string name="filter_write_settings_apps">Sistem Ayarlarını değiştir</string>
+  <string name="fingerprint_add_max">%d için parmakizi ekleyebilirsiniz</string>
+  <string name="fingerprint_add_title">Parmakizi ekle</string>
   <string name="fingerprint_and_password_entrance_title">Kilit Ekranı &amp; Parmakizi</string>
+  <string name="fingerprint_enable_keyguard_toggle_title">Kilit Ekranı</string>
+  <string name="fingerprint_enroll_button_add">Diğerini Ekle</string>
+  <string name="fingerprint_enroll_button_next">Sonraki</string>
   <string name="fingerprint_for_keyguard_disabled">Güvenlik ayarları tarafından Parmakizi devre dışı bırakıldı.</string>
   <string name="fingerprint_identify_input_password_msg">Parolanı Gir</string>
   <string name="fingerprint_identify_msg">Parmakizi taranıyor…</string>
   <string name="fingerprint_identify_try_again_msg">"Parmakizi okunamadı, tekrar deneyin"</string>
+  <string name="fingerprint_last_delete_confirm">Evet, kaldır</string>
+  <string name="fingerprint_last_delete_message">"Parmakizini kullanarak telefon kilidini, ödeme yetkilendirmesini veya uygulamayı satın almayı yapamazsınız."</string>
+  <string name="fingerprint_last_delete_title">Tüm parmakizleri kaldırılsın mı?</string>
   <string name="fingerprint_list_title">Parmakizi</string>
+  <string name="fingerprint_lock_first">Birinci Alan kilidini kaldır</string>
+  <string name="fingerprint_lock_second">İkinci Alan kilidini kaldır</string>
+  <string name="fingerprint_manage_category_title">Parmakizlerini yönet</string>
+  <string name="fingerprint_not_recognized">Tanımlanamadı</string>
+  <string name="fingerprint_removal_failed">"Parmakizi kaldırılamadadı, sonra tekrar deneyin"</string>
+  <string name="fingerprint_usage_category_title">Parmakizini Kullan:</string>
   <string name="finish_application">Zorla durdur</string>
   <string name="finish_button_label">Bitir</string>
   <string name="firmware_version">Android Sürümü</string>
@@ -1349,11 +1472,16 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="force_stop">Zorla Durdur</string>
   <string name="force_stop_dlg_text">Bir uygulamayı zorla durdurmak, bunun hatalı davranmasına neden olabilir.</string>
   <string name="force_stop_dlg_title">Zorla durdurmak istiyor musunuz?</string>
+  <string name="force_touch">3D Dokunma</string>
+  <string name="force_touch_demo">Demo Göster</string>
+  <string name="force_touch_enable">3D Dokunma etkin</string>
+  <string name="force_touch_enable_tips">"3D Dokunma etkin olduğunda uygulama simgesine açmak için uzunca süre basın."</string>
   <string name="forget">UNUT</string>
   <string name="forget_password_button_text">Şifreyi Unuttum</string>
   <string name="forget_wifi_message">Telefonunuz bu ağa otomatik bağlanmayı kesecek.</string>
   <string name="found_new_version">Güncelleme var</string>
-  <string name="fp_nav_center_back_to_home_title">Ana ekrana geri dönmek için Ana Sayfa düğmesine dokunun</string>
+  <string name="fp_nav_center_back_to_home_title">Ana Ekrana geri dönmek için Ana Sayfa düğmesine dokunun</string>
+  <string name="free_memory">Boş</string>
   <string name="free_wifi_agreement_remind_never">"Tekrar gösterme"</string>
   <string name="free_wifi_confirm">Tamam</string>
   <string name="free_wifi_connect">Bağlan</string>
@@ -1378,6 +1506,10 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="free_xiaomi_wifi_connect_summary">%1$s bağlantısı için dokun.</string>
   <string name="frequently_fragment_delete">Kaldır</string>
   <string name="frequently_fragment_tempty">Sık kullanılan öğeler burada listelenecektir</string>
+  <string name="fullbackup_data_summary">"Otomatik olarak cihazın verisi ve uygulama verisi uzakta yedeklenir (buna WLAN şifreleri, çağrı geçmişi, ayarlar ve satın alınan uygulamalar dahildir)
+
+Otomatik yedekleme açıldığında veriler periyotik zamanlarda saklanır. Bu işlemde kişiler, mesajlar, fotoğraflar dahil olmak üzere gerekirse uygulama verisi de saklanır."</string>
+  <string name="fullbackup_erase_dialog_message">Cihaz verisi ve uygulama verisinin yedeklemesi durdurulup, Google Drive üzerindeki kopyalar silinsin mi?</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">Otomatik</string>
   <string name="gadget_brightness_state_full">Tam</string>
@@ -1403,6 +1535,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="global_change_warning">Bu ayar bu telefondaki tüm kullanıcıları etkiler.</string>
   <string name="global_font_change_title">Yazı tipi boyutunu değiştir</string>
   <string name="global_locale_change_title">Dili değiştir</string>
+  <string name="google_backup_enable">Yedekleme açık</string>
   <string name="google_backup_section_title">Google Yedekleme &amp; Sıfırlama</string>
   <string name="google_wallet">Google Cüzdanı</string>
   <string name="gsm_to_wifi_connect_type_title">GSM\'den WLAN\'a</string>
@@ -1439,6 +1572,19 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="heads_up_enabled_title">Yüksek öncelikli açılır pencere</string>
   <string name="heavy_weight_stop_description">"Bu uygulama güvenli bir şekilde durdurulamıyor. Eğer durdurursanız mevcut bazı işleri kaybedebilirsiniz."</string>
   <string name="help_label">Yardım ve Geribildirim</string>
+  <string name="help_uri_about"/>
+  <string name="help_uri_accessibility"/>
+  <string name="help_uri_apps"/>
+  <string name="help_uri_beam"/>
+  <string name="help_uri_dashboard"/>
+  <string name="help_uri_default"/>
+  <string name="help_uri_display"/>
+  <string name="help_uri_interruptions"/>
+  <string name="help_uri_notifications"/>
+  <string name="help_uri_other_sounds"/>
+  <string name="help_uri_printing"/>
+  <string name="help_uri_storage"/>
+  <string name="help_uri_wallpaper"/>
   <string name="help_url_accounts"/>
   <string name="help_url_backup_reset"/>
   <string name="help_url_battery"/>
@@ -1446,6 +1592,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="help_url_choose_lockscreen"/>
   <string name="help_url_data_usage"/>
   <string name="help_url_dreams"/>
+  <string name="help_url_fingerprint"/>
   <string name="help_url_location_access"/>
   <string name="help_url_more_networks"/>
   <string name="help_url_nfc_payment"/>
@@ -1458,13 +1605,26 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Gizli SSID:</string>
   <string name="high_performance_notif_summary">Cihaz ağır kullanım sırasında ısınabilir.</string>
-  <string name="high_performance_notif_title">Performans modu açık</string>
+  <string name="high_performance_notif_title">Performans Modu açık</string>
   <string name="high_performance_title">"Bir kıyaslama testi çalıştırıyor olabilirsin. Eğer Güç Yönetiminden \"Performans\" moduna geçiş yaparsanız daha iyi sonuç alabilirsiniz."</string>
+  <string name="high_power_apps">Pili İyi Hale Getir</string>
+  <string name="high_power_desc">Pil iyi hale getirilemedi. Mühtelemelen pil hızla boşalacak.</string>
+  <string name="high_power_filter_on">İyi hale getirilemedi</string>
+  <string name="high_power_off">Pil kullanımı en iyi hale getiriliyor</string>
+  <string name="high_power_on">Pili iyi hale getirme yoksayılıyor</string>
+  <string name="high_power_prompt_body">%1$s uygulama halen arkaplanda bağlı? Bu fazla pil tüketebilir.</string>
+  <string name="high_power_prompt_title">Pili iyi halete getirme yoksayılsın mı?</string>
+  <string name="high_power_system">Pili iyi hale getirme mevcut değil</string>
   <string name="history_details_title">Geçmiş Detaylar</string>
   <string name="home_app_uninstall_button">Bu uygulamayı kaldır</string>
   <string name="home_key">Ana Sayfa</string>
   <string name="home_settings">Ana Sayfa</string>
   <string name="home_work_profile_not_supported">"İş profilleri desteklemiyor"</string>
+  <string name="ignore_optimizations_off">İyi Hale Getir</string>
+  <string name="ignore_optimizations_off_desc">Daha iyi pil ömrü için tavsiye edilir</string>
+  <string name="ignore_optimizations_on">İyi hale getirme!</string>
+  <string name="ignore_optimizations_on_desc">Pil ömrünü hızlıca boşaltabilir</string>
+  <string name="ignore_optimizations_title">%s için pili iyi hale getirme yoksayılsın mı?</string>
   <string name="ime_security_warning">%1$s bu klavye şifreleri, kredi kartı numaraları ve diğer kişisel veriler dahil olmak üzere yazdığınız her şeyi kaydedebilir.</string>
   <string name="imei_information_summary">IMEI İle İlgili Bilgi</string>
   <string name="imei_information_title">IMEI Bilgisi</string>
@@ -1472,6 +1632,9 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="immediately_destroy_activities_summary">Kullanıcı ayrılır ayrılmaz tüm faaliyetler kaldırılır</string>
   <string name="ims_reg_required_off"> IMS kayıt gerekliliğini kapat</string>
   <string name="ims_reg_required_on"> IMS kayıt gerekliliğini aç</string>
+  <string name="inactive_app_active_summary">Etkin. Geçiş için dokunun.</string>
+  <string name="inactive_app_inactive_summary">Etkin değil. Geçiş için dokunun.</string>
+  <string name="inactive_apps_title">Etkin olmayan uygulamalar</string>
   <string name="include_app_data_title">Uygulama verileri dahil</string>
   <string name="incoming_call_breathing_light_color_title">Gelen Arama Işık Rengi</string>
   <string name="incoming_call_breathing_light_freq_title">Çağrının Yanıp-Sönme Aralığı</string>
@@ -1517,6 +1680,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="internal_media_format_title">Dahili depolamayı sil</string>
   <string name="internal_memory">Dahili depolama</string>
   <string name="internal_storage">Dahili depolama</string>
+  <string name="internal_storage_sentence">Dahili depolama</string>
   <string name="invalid_location">"Yükleme konumu geçerli değil."</string>
   <string name="invalid_size_value">"Paket boyutu hesaplanamadı."</string>
   <string name="ipaddr_label">IPaddr:</string>
@@ -1528,6 +1692,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="keep_screen_on">Uyanık kal</string>
   <string name="keep_screen_on_summary">Şarj ederken ekranı asla uykuya geçirme</string>
   <string name="kernel_version">Kernel Sürümü</string>
+  <string name="key_position_cat">Tuş Pozisyonu</string>
   <string name="key_settings">Tuş Ayarları</string>
   <string name="key_settings_title">Tuş Ayarları</string>
   <string name="keyboard_layout_default_label">Varsayılan</string>
@@ -1546,39 +1711,54 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="keyguard_shortcut_summary">Kilit Ekranında 2 uygulamanın kısayolunu ayarla</string>
   <string name="keyguard_shortcut_title">Kilit Ekranın Kısayolları</string>
   <string name="keywords_accounts">Hesap</string>
+  <string name="keywords_all_apps">Sistem uygulamalarına uygulama indir</string>
   <string name="keywords_app">RAM</string>
+  <string name="keywords_app_permissions">Uygulama izninin güvenliği</string>
   <string name="keywords_battery">Pil</string>
   <string name="keywords_date_and_time">Saat</string>
+  <string name="keywords_default_apps">Uygulama varsayılanı</string>
+  <string name="keywords_default_phone_app">Telefon çevirme varsayılanı</string>
   <string name="keywords_display">Dokunmatik Ekran</string>
   <string name="keywords_display_auto_brightness">Dokunmatik Ekran Parlaklığı</string>
   <string name="keywords_display_brightness_level">Dokunmatik Ekran Parlaklık Seviyesi</string>
   <string name="keywords_display_cast_screen">Projeksiyon</string>
   <string name="keywords_display_font_size">Metin Boyutu</string>
-  <string name="keywords_display_wallpaper">Arkaplan</string>
+  <string name="keywords_display_night_mode">koyu tema gece modu ekranparkalığı arttır</string>
+  <string name="keywords_display_wallpaper">Arkaplan kişisel özel ekran</string>
+  <string name="keywords_emergency_app">acil durum varsayılan</string>
   <string name="keywords_factory_data_reset">Sil</string>
   <string name="keywords_home">Başlatıcı</string>
+  <string name="keywords_ignore_optimizations">yoksay iyi hale getir</string>
   <string name="keywords_keyboard_and_ime">metin düzeltme doğru ses titreşim oto dil hareket öneri tema kelime tür emoji tavsiyesi</string>
   <string name="keywords_location">Yakındaki konum geçmişini raporla</string>
   <string name="keywords_location_mode">Doğruluk</string>
   <string name="keywords_lockscreen">Şifre desenini kaydır</string>
   <string name="keywords_more_default_sms_app">Metin mesajı</string>
-  <string name="keywords_more_mobile_networks">Hücresel hücre taşıyıcı kablosuz</string>
+  <string name="keywords_more_mobile_networks">Hücresel hücre taşıyıcı kablosuz 4g 3g 2g lte</string>
+  <string name="keywords_network_reset">sıfırla fabrika ayarlarına dön</string>
   <string name="keywords_printing">Yazıcı</string>
+  <string name="keywords_reset_apps">sıfırla varsayılan seçenekler</string>
   <string name="keywords_sounds_and_notifications">Hoparlör sesi</string>
   <string name="keywords_sounds_and_notifications_interruptions">"kesme kesinti kopma rahatsız etmeyin"</string>
   <string name="keywords_spell_checker">yazım</string>
-  <string name="keywords_storage">alan disk sabit sürücü</string>
+  <string name="keywords_storage">alan disk sabit sürücü kullanımı</string>
+  <string name="keywords_system_alert_window">sistem alarm pencere diyalog diğer uygulama dokuma</string>
   <string name="keywords_text_to_speech_output">oran dil varsayılan konuşuyoruz konuşma</string>
   <string name="keywords_users">kısıtlama kısıtlı kısıtlamak</string>
   <string name="keywords_voice_input">eller serbest giriş konuşma konuşmak dili tanır el ücretsiz tanıma rahatsız edici kelime ses geçmiş bluetooth kulaklık</string>
   <string name="keywords_wifi">wifi wi-fi ağ bağlantısı</string>
+  <string name="keywords_wifi_calling">wifi wi-fi çağrı </string>
+  <string name="keywords_write_settings">sistem ayarlarını değiştir</string>
   <string name="language_keyboard_settings_title">Dil &amp; Giriş</string>
   <string name="language_picker_title">Dil</string>
   <string name="language_settings">Dil &amp; Giriş</string>
   <string name="language_settings_category">Dil Ayarları</string>
   <string name="large_font">Büyük</string>
   <string name="last_synced">Son Eşitleme: %1$s</string>
-  <string name="last_time_used_label">Son kez kullanıldı</string>
+  <string name="last_time_used_label">Son kez kullanıldı:</string>
+  <string name="launch_by_default">Varsayılanı aç</string>
+  <string name="launch_defaults_none">Varsayılan ayarı yok</string>
+  <string name="launch_defaults_some">Bazı varsayılanı ayarla</string>
   <string name="launching_cit">CIT Başlatılıyor</string>
   <string name="launching_pho">Telefon bilgisi başlatılıyor, lütfen bekleyin...</string>
   <string name="launching_rep">Raporlanıyor…</string>
@@ -1586,7 +1766,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="layout_size_exhuge_text">XXL</string>
   <string name="layout_size_huge">XL</string>
   <string name="layout_size_huge_text">Kocaman</string>
-  <string name="layout_size_large">X</string>
+  <string name="layout_size_large">L</string>
   <string name="layout_size_large_text">Büyük</string>
   <string name="layout_size_medium">M</string>
   <string name="layout_size_medium_text">Orta</string>
@@ -1597,7 +1777,9 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="led_colors_summary">Bildirimler</string>
   <string name="led_frequence_summary">Yanıp-Sönme Aralığını Ayarla</string>
   <string name="led_pulse_summary">Yeni bildirim alındığında bildirim ışığı yanıp-sönsün</string>
-  <string name="led_settings">LED Ayarları</string>
+  <string name="led_settings">Bildirim Işığı</string>
+  <string name="legacy_dhcp_client">DHCP istemcisini kullan</string>
+  <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
   <string name="legal_information">Yasal Bilgiler</string>
   <string name="legal_workday">Mesai Günleri</string>
   <string name="legal_workday_invalidate">Ptesi-Cuma (tatil bilgi süresi)</string>
@@ -1606,7 +1788,8 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="license_title">Lisans</string>
   <string name="lift_to_wake_title">Uyandırmak için kaldır</string>
   <string name="line_breaking_summary">Paragrafın satır kırılmasını iyileştir</string>
-  <string name="line_breaking_title">Metini en iyi hale getir</string>
+  <string name="line_breaking_title">Metini iyi hale getir</string>
+  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Bağlantı hızı:</string>
   <string name="loading_notification_apps">Uygulamalar yükleniyor...</string>
   <string name="local_auto_backup_off">Kapat</string>
@@ -1660,6 +1843,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="location_high_battery_use">Yüksek pil kullanımı</string>
   <string name="location_loading_injected_setting">Alınıyor…</string>
   <string name="location_low_battery_use">Düşük pil kullanımı</string>
+  <string name="location_menu_scanning">Taranıyor</string>
   <string name="location_mode_battery_saving_description">Konumunu belirlemek için WLAN ve mobil ağları kullan</string>
   <string name="location_mode_battery_saving_title">Pil Tasarrufu</string>
   <string name="location_mode_high_accuracy_description">Yerini belirlemek için GPS, WLAN ve mobil ağları kullan</string>
@@ -1673,6 +1857,11 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="location_neighborhood_level_wifi">WLAN tarafından belirlenen konum</string>
   <string name="location_network_based">WLAN &amp; Mobil Ağ</string>
   <string name="location_no_recent_apps">Konum isteği olan uygulama yok</string>
+  <string name="location_scanning_bluetooth_always_scanning_description">Sistem uygulamalarının ve hizmetlerinin Bluetooth cihazlarını her zaman tespit edebilmesini iyileştir.</string>
+  <string name="location_scanning_bluetooth_always_scanning_title">Bluetooth taranıyor</string>
+  <string name="location_scanning_screen_title">Taranıyor</string>
+  <string name="location_scanning_wifi_always_scanning_description">Sistem uygulamalarının ve hizmetlerinin Wi-Fi cihazlarını her zaman tespit edebilmesini iyileştir.</string>
+  <string name="location_scanning_wifi_always_scanning_title">Wi‑Fi taranıyor</string>
   <string name="location_settings_title">Konum</string>
   <string name="location_sources_heading">Konum Kaynakları</string>
   <string name="location_street_level">Uygulamaların konumunuzu saptamak için telefonunuzdaki GPS kullanmasına izin ver</string>
@@ -1680,8 +1869,10 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="lock_after_timeout">Otomatik kilitle</string>
   <string name="lock_after_timeout_summary">%1$s sonra uyku moduna geç</string>
   <string name="lock_after_timeout_summary_with_exception">%1$s uyuyunca, %2$s tarafından kilit açılır</string>
+  <string name="lock_immediately_summary_with_exception">Uyuduktan sonra hemen %1$s tarafından kilidin açılmasını engelle</string>
   <string name="lock_intro_message">Lock_intro_message</string>
   <string name="lock_screen_notifications_interstitial_message">Cihazınız kilitliyken, bildirimleri nasıl göstermek istiyorsunuz?</string>
+  <string name="lock_screen_notifications_interstitial_title">Bildirimler</string>
   <string name="lock_screen_notifications_summary_disable">"Tüm bildirimleri gösterme"</string>
   <string name="lock_screen_notifications_summary_hide">Hassas bildirim içeriğini gizle</string>
   <string name="lock_screen_notifications_summary_show">Tüm bildirim içeriğini göster</string>
@@ -1694,6 +1885,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="lock_secure_after_timeout_click_me_to_change_text">Değiştirmek için dokunun</string>
   <string name="lock_settings">Kilit Ekranı &amp; Şifre</string>
   <string name="lock_settings_common_title">Kilit Ayarları</string>
+  <string name="lock_settings_picker_fingerprint_message">Choose your backup screen lock method</string>
   <string name="lock_settings_picker_settings">Ekran Kilidi Ayarı</string>
   <string name="lock_settings_picker_title">Ekran kilidini seç</string>
   <string name="lock_settings_title">Cihaz Güvenliği</string>
@@ -1803,6 +1995,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="manage_trust_agents">Güvenli ajanlar</string>
   <string name="manage_trust_agents_summary">Görüntüle veya güven ajanları devre dışı bırak</string>
   <string name="manage_xiaomi_router">Mi Yönlendirici Ayarları</string>
+  <string name="manage_zen_access_title">Rahatsız Etme Erişimi</string>
   <string name="manageapplications_settings_summary">Yönet ve yüklü uygulamaları kaldır</string>
   <string name="manageapplications_settings_title">Uygulamaları Yönet</string>
   <string name="managed_device_admin_title">İş</string>
@@ -1812,6 +2005,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="managed_profile_location_switch_title">İş profili için konum</string>
   <string name="managed_profile_not_available_label">"İş profili henüz kullanılamaz"</string>
   <string name="managed_user_title">İş Profili</string>
+  <string name="managing_admin">%s tarafından yönetildi</string>
   <string name="manually_add_network">Ağ Ekle</string>
   <string name="master_clear_accounts">"
 
@@ -1845,7 +2039,7 @@ Müzik, resim, ve diğer kullanıcı verilerini temizlemek içine "&lt;b&gt;SD k
   <string name="master_clear_progress_title">Siliniyor</string>
   <string name="master_clear_summary">Telefondaki tüm veriler silinir</string>
   <string name="master_clear_title">Fabrika Ayarlarına Sıfırla</string>
-  <string name="max_cpu10_info">"Deca-core Max "</string>
+  <string name="max_cpu10_info">"Azami 10 Çekirdek "</string>
   <string name="max_cpu4_info">"Azami 4 Çekirdek "</string>
   <string name="max_cpu6_info">"Azami 6 Çekirdek "</string>
   <string name="max_cpu8_info">"Azami 8 Çekirdek "</string>
@@ -1887,14 +2081,21 @@ Müzik, resim, ve diğer kullanıcı verilerini temizlemek içine "&lt;b&gt;SD k
   <string name="memory_media_misc_usage">Çeşitli</string>
   <string name="memory_media_usage">Medya</string>
   <string name="memory_music_usage">Ses (müzik, zil sesleri, podcast, vb.)</string>
+  <string name="memory_performance">Performans</string>
+  <string name="memory_settings_title">Hafıza</string>
   <string name="memory_size">Toplam alan</string>
   <string name="memory_title">Kullanabilir: %1$s\u0009\u0009 Toplam: %2$s</string>
+  <string name="memory_usage">Hafıza kullanımı</string>
+  <string name="memory_usage_apps">Uygulamaların kullandığı hafıza</string>
+  <string name="memory_use_running_format">%1$s / %2$s</string>
+  <string name="memory_use_summary">Yaklaşık %1$s, son 3 saatte kullandığı hafıza</string>
   <string name="menu_cancel">Reddet</string>
   <string name="menu_delete">APN\'i Sil</string>
   <string name="menu_duration_12h">12 saat</string>
   <string name="menu_duration_1d">1 gün</string>
   <string name="menu_duration_3h">3 saat</string>
   <string name="menu_duration_6h">6 saat</string>
+  <string name="menu_hide_system">Sistemi Gizle</string>
   <string name="menu_item_show_more">Daha Fazla Göster</string>
   <string name="menu_key">Menü</string>
   <string name="menu_new">Yeni APN</string>
@@ -1905,6 +2106,7 @@ Müzik, resim, ve diğer kullanıcı verilerini temizlemek içine "&lt;b&gt;SD k
   <string name="menu_proc_stats_type_foreground">Önplan</string>
   <string name="menu_restore">Sıfırla</string>
   <string name="menu_save">Kaydet</string>
+  <string name="menu_show_percentage">Yüzdeleri göster</string>
   <string name="menu_show_system">Sistemi göster</string>
   <string name="menu_stats_last_unplugged">En son fişten çekildikten sonra %1$s</string>
   <string name="menu_stats_refresh">Yenile</string>
@@ -1928,6 +2130,9 @@ Müzik, resim, ve diğer kullanıcı verilerini temizlemek içine "&lt;b&gt;SD k
   <string name="mobile_insert_sim_card">Lütfen SIM kartı yerleştirin ve yeniden başlatın</string>
   <string name="mobile_no_provisioning_url">%1$s bilinen yetkilendirme sitesi değil.</string>
   <string name="mobile_unknown_sim_operator">SIM operatörü tanımamadı</string>
+  <string name="mock_location_app">Select mock location app</string>
+  <string name="mock_location_app_not_set">No mock location app set</string>
+  <string name="mock_location_app_set">Mock location app: %1$s</string>
   <string name="model_number">Model Numarası</string>
   <string name="move_app">Taşı</string>
   <string name="move_app_failed_dlg_text">"Uygulama taşınamadı. %1$s"</string>
@@ -2020,6 +2225,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="network_detail">%s ağ detayları</string>
   <string name="network_error">Ağ hatası</string>
   <string name="network_operators_settings">Ağ operatörleri</string>
+  <string name="network_reset_not_available">Network reset is not available for this user</string>
   <string name="network_scorer_change_active_dialog_text">Ağ bağlantılarını yönetmek için %1$s yerine %2$s kullanılsın mı?</string>
   <string name="network_scorer_change_active_dialog_title">Wi‑Fi Yardımcısı değiştirilsin mi?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Ağ bağlantılarını yönetmek için %s kullanılsın mı?</string>
@@ -2033,8 +2239,14 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="next_button_label">Sonraki</string>
   <string name="next_label">Sonraki</string>
   <string name="nfc_category_title">NFC (Kablosuz Transfer)</string>
+  <string name="nfc_how_it_works_content">Set up a payment app. Then just hold the back of your phone up to any terminal with the contactless symbol.</string>
+  <string name="nfc_how_it_works_got_it">Got it</string>
+  <string name="nfc_how_it_works_title">Paying at the terminal</string>
   <string name="nfc_more_title">Fazlası...</string>
-  <string name="nfc_payment_favor_foreground">Önplan Uygulaması</string>
+  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
+  <string name="nfc_payment_default">Ödeme Varsayılanı</string>
+  <string name="nfc_payment_default_not_set">Ayarlanmadı</string>
+  <string name="nfc_payment_favor_default">Daima</string>
   <string name="nfc_payment_learn_more">Fazlasını Öğren</string>
   <string name="nfc_payment_menu_item_add_service">Uygulama Bul</string>
   <string name="nfc_payment_no_apps">Sadece bir dokunuşla öde</string>
@@ -2042,6 +2254,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="nfc_payment_set_default_instead_of">Ödeme yaptığınızda %2$s yerine daima %1$s kullanılsın mı?</string>
   <string name="nfc_payment_set_default_label">Tercihinize olarak ayarlansın mı?</string>
   <string name="nfc_payment_settings_title">Dokun &amp; Öde</string>
+  <string name="nfc_payment_use_default">Varsayılanı kullan</string>
   <string name="nfc_quick_toggle_summary">Telefon başka cihaza dokunduğunda veri alışverişine izin ver</string>
   <string name="nfc_quick_toggle_title">NFC (Kablosuz Transferi)</string>
   <string name="nfc_se_route_title">Güvenli eleman pozisyonu</string>
@@ -2051,7 +2264,10 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="no_applications">Uygulama yok.</string>
   <string name="no_condition_providers">Hiçbir koşul sağlayıcıları yüklenmedi.</string>
   <string name="no_device_admins">Kullanılabilir aygıt yöneticisi yok</string>
+  <string name="no_internet_access_remember">Don’t ask again for this network</string>
+  <string name="no_internet_access_text">WLAN network %1$s has no access to the internet. Stay connected?</string>
   <string name="no_media_button_receiver">Hayır</string>
+  <string name="no_memory_use_summary">No memory used in last 3 hours</string>
   <string name="no_nearby_wifi">Ağ tespit edilemedi</string>
   <string name="no_notification_listeners">Bildirim dinleyici yüklenmedi.</string>
   <string name="no_running_services">Hiçbirşey çalışmıyor</string>
@@ -2080,6 +2296,14 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="notification_sound_title">Varsayılan Bildirim Sesi</string>
   <string name="notification_volume_option_title">Bildirim Ses Seviyesi</string>
   <string name="notification_volume_title">Bildirim</string>
+  <string name="notifications_disabled">Engelle</string>
+  <string name="notifications_enabled">Normal</string>
+  <string name="notifications_label">Bildirimler</string>
+  <string name="notifications_no_peeking">Sıralama yok</string>
+  <string name="notifications_priority">Priority</string>
+  <string name="notifications_sensitive">Sensitive content hidden</string>
+  <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
+  <string name="notifications_two_items">%1$s / %2$s</string>
   <string name="now">Şimdi Başlat</string>
   <string name="nsd_quick_toggle_summary">Bu cihazdaki uygulamaları diğer cihazlardaki uygulamaların bulmasına izin verin</string>
   <string name="nsd_quick_toggle_title">Ağ hizmeti bul</string>
@@ -2105,6 +2329,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="open_miui_optimization_warning_message">Cihazınız bu değişikliği uygulamak için yeniden başlayacak</string>
   <string name="open_wifi_connect_summary">Ayrıntılarını görüntülemek için dokunun.</string>
   <string name="open_wifi_connect_title">%1$s bağlan</string>
+  <string name="opening_paragraph_delete_profile_unknown_company">This work profile is managed by:</string>
   <string name="optimization_cancel">İptal</string>
   <string name="optimization_close">Kapat &amp; Yeniden Başlat</string>
   <string name="optimization_open">Açık</string>
@@ -2113,8 +2338,10 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="other_relative">Diğer</string>
   <string name="other_sound_settings">Diğer sesler</string>
   <string name="overlay_display_devices_title">İkincil ekranı simüle et</string>
+  <string name="overlay_settings">Draw over other apps</string>
   <string name="owner_info_settings_edit_text_hint">Kilit ekranında görüntülenecek metni yazın</string>
-  <string name="owner_info_settings_summary"/>
+  <string name="owner_info_settings_status">%1$d / %2$d</string>
+  <string name="owner_info_settings_summary">Yok</string>
   <string name="owner_info_settings_title">Sahip Bilgileri</string>
   <string name="packages_subtitle">Dahil Paketler</string>
   <string name="page_layout_1">1 Kasım 1928</string>
@@ -2167,6 +2394,8 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="page_layout_page2_small_title">Küpküçücük</string>
   <string name="page_layout_page2_title">Önizle</string>
   <string name="page_layout_small_title">Küçücük</string>
+  <string name="passpoint_content">%1$s credentials</string>
+  <string name="passpoint_label">Saved via</string>
   <string name="passwordIncorrect">Girdiğiniz şifre hatalı</string>
   <string name="password_entrance_title">Ekran Kilidi</string>
   <string name="password_guard">Şifre</string>
@@ -2348,11 +2577,17 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="permission_detail_info">Detaylar</string>
   <string name="permission_detail_info_summary">%1$d güvenli | %2$d gizli | %3$d diğer</string>
   <string name="permission_manage">İzin Yöneticisi</string>
+  <string name="permission_manage_global_build_title">Diğer İzinler</string>
   <string name="permission_manage_summary">Uygulamalar; rehberinizi okumak, sistem ayarlarını değiştirmek, kamera ve diğer kaynaklara erişmek istediğinde sizden onay alacak.</string>
   <string name="permission_manage_title">%s izinler</string>
   <string name="permission_manager">İzinler</string>
   <string name="permission_mgr">İzinler</string>
+  <string name="permission_settings_summary">Konum, Depolama, Telefon, Mesaj ve Kişilerin izinlerini yönet.</string>
+  <string name="permission_settings_title">Uygulama İzinleri</string>
   <string name="permissions_label">İzinler</string>
+  <string name="permit_draw_overlay">Diğer uygulamaların izinlerini belirt</string>
+  <string name="permit_usage_access">Müsaade kullanarak eriş</string>
+  <string name="permit_write_settings">Sistem ayarlarını değiştirmeye izinli</string>
   <string name="personal_data_section_title">Şahsi Veri</string>
   <string name="personal_device_admin_title">Kişisel</string>
   <string name="personal_section_title">Kişisel</string>
@@ -2376,6 +2611,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="power_autorun_apps_empty">Boş</string>
   <string name="power_autorun_empty">Boş</string>
   <string name="power_bluetooth">Bluetooth</string>
+  <string name="power_camera">Kamera</string>
   <string name="power_cell">Şebeke Beklemedeyken:</string>
   <string name="power_center">Güç</string>
   <string name="power_charge_remaining">%1$s şarjda</string>
@@ -2609,7 +2845,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="rebootiing_for_updates">Tekrar başlatılıyor…</string>
   <string name="recent_location_requests_summary">Aşağıdaki uygulamalar konum bilginizi görüntülemek istiyor</string>
   <string name="receiver_clean">Alan Boşalt</string>
-  <string name="recent_location_requests_title">Konum Erişimi</string>
+  <string name="recent_location_requests_summary">Konum bilgisine erişmek isteyen uygulamaları görüntüler</string>
   <string name="recompute_size">Boyut yeniden hesaplanıyor...</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Düzenleyici Bilgisi</string>
@@ -2634,6 +2870,17 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
  Herhangi uygulama verisi kaybetmezsiniz."</string>
   <string name="reset_app_preferences_title">Uygulama seçeneklerini sıfırlamak istiyor musunuz?</string>
   <string name="reset_legacy_password_settings_preface_text">Kilit ekranınızın şifresini sıfırlamalısınız.</string>
+  <string name="reset_network_button_text">Ayarları sıfırla</string>
+  <string name="reset_network_complete_toast">Network settings have been reset</string>
+  <string name="reset_network_confirm_title">Sıfırlansın mı?</string>
+  <string name="reset_network_desc">"This will reset all network settings, including:
+
+"&lt;li&gt;Wi&amp;#8209;Fi&lt;/li&gt;"
+"&lt;li&gt;Cellular data&lt;/li&gt;"
+"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
+  <string name="reset_network_final_button_text">Ayarları sıfırla</string>
+  <string name="reset_network_final_desc">Reset all network settings? You can’t undo this action!</string>
+  <string name="reset_network_title">Network settings reset</string>
   <string name="resolver_settings_label">Sırala</string>
   <string name="resource_ringtone_volume_mute">Zil sesiniz şu an sessizde</string>
   <string name="restore_default_apn">Varsayılan APN ayarları geri yükleniyor.</string>
@@ -2673,6 +2920,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
 
 Bu ayar bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="rssi_label">RSSI:</string>
+  <string name="running_frequency">Frekans</string>
   <string name="running_process_item_removed_user_label">Kaldırılan kullanıcı</string>
   <string name="running_process_item_user_label">Kullanıcı: %1$s</string>
   <string name="running_processes_header_apps_prefix">Uygulamalar</string>
@@ -2694,6 +2942,10 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="runningservicedetails_stop_dlg_title">Sistem hizmeti durdurulsun mu?</string>
   <string name="runningservices_settings_summary">Şu anda çalışan hizmetleri görüntüle ve denetle</string>
   <string name="runningservices_settings_title">Çalışan Hizmetler</string>
+  <string name="runtime_permissions_summary_no_permissions_granted">No permissions granted</string>
+  <string name="runtime_permissions_summary_no_permissions_requested">No permissions requested</string>
+  <string name="save">Kaydet</string>
+  <string name="saved_network">%1$s tarafından kaydedildi</string>
   <string name="scan_list_label">Tarama sonuçları:</string>
   <string name="screen">Ekran</string>
   <string name="screen_color_and_optimize">Renkler &amp; Karşıtlık</string>
@@ -2706,6 +2958,7 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="screen_key_long_press">Gezinti tuşlarına uzun bas</string>
   <string name="screen_key_long_press_action">Uzun Süreli Basma Fonksiyonu</string>
   <string name="screen_key_long_press_timeout">Uzun Basma Süresinin Ayarı</string>
+  <string name="screen_key_position">Gezinme Düğmeleri</string>
   <string name="screen_key_press">Gezgin tuşlarına bas</string>
   <string name="screen_key_press_action">Ana Sayfa Tuşuna Basma Fonksiyonu</string>
   <string name="screen_locking_sounds_title">Ekran Kilitleme Sesi</string>
@@ -2745,6 +2998,10 @@ Ekran iğnelemeyi kullanmak için:
 
 4. İğne simgesine dokunun."</string>
   <string name="screen_pinning_title">Ekranı İğnele</string>
+  <string name="screen_pinning_unlock_none">Lock device when unpinning</string>
+  <string name="screen_pinning_unlock_password">Ask for password before unpinning</string>
+  <string name="screen_pinning_unlock_pattern">Ask for unlock pattern before unpinning</string>
+  <string name="screen_pinning_unlock_pin">Ask for PIN before unpinning</string>
   <string name="screen_resolution_confirm">Y. Başlat</string>
   <string name="screen_resolution_summary">"Ekran çözünürlüğünü düşürmek pil kullanımını ve sistem hızını arttırır fakat resimlerin görüntü kalitesi düşer. Bu değişikliklerin geçerli olması için cihazınızı yeniden başlatmanız gerekiyor."</string>
   <string name="screen_resolution_switch">Çözünürlüğü değiştir</string>
@@ -2825,7 +3082,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_children_mode_title">Çocuk Modu</string>
   <string name="search_choose_timezone">Zaman Dilimini Seç</string>
   <string name="search_cloud_backup_settings_section_title">Yedekleme Ayarları</string>
-  <string name="search_cloud_restore_section_title">Mi Bulut\'tan Geri Yükle</string>
+  <string name="search_cloud_restore_section_title">"Mi Bulut'tan Geri Yükle"</string>
   <string name="search_copyright">Telif Hakkı</string>
   <string name="search_credentials_install">Depolamadan Yükle</string>
   <string name="search_date_time">Tarih ve Saat</string>
@@ -2880,7 +3137,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_notification_sound_title">Varsayılan Bildirim Sesi</string>
   <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
   <string name="search_oldman_mode">Hafif Mod;Yaşlılık Modu</string>
-  <string name="search_onekey_migrate">Transfer;Tek Tuşla Gönder</string>
+  <string name="search_onekey_migrate">Transfer;Mi Taşıyıcı</string>
   <string name="search_other_advanced_settings">Ek Ayarlar;Gizlilik Ayarları;Tarih &amp; Zaman;Dil &amp; Giriş;Tek Elle Kullanım Modu;Pil &amp; Performans;Depolama;Bildirim Işığı;Led;Kulaklık &amp; Ses Efekleri;Düğmeler;Tuşlar;Erişebilirlik;Beta Özellikleri;Test Özellikleri;Geliştirici Seçenekleri;Yedekle &amp; Sıfırla;Transfer;Tek Tuşla Gönder</string>
   <string name="search_owner_info_settings">Sahip Bilgisi</string>
   <string name="search_page_layout_settings">Metin Boyutu</string>
@@ -2979,6 +3236,19 @@ Ekran iğnelemeyi kullanmak için:
   <string name="secure_lock_encryption_warning">"Çünkü bir erişilebilirlik hizmeti açtınız, cihazınız gelişmiş veri şifreleme için ekran kilidi kullanamaz."</string>
   <string name="security_enable_widgets_disabled_summary">Yönetici tarafından devre dışı bırakıldı</string>
   <string name="security_enable_widgets_title">Widget\'leri etkinleştir</string>
+  <string name="security_encryption_alert_dialog_info_first">"Set lock screen password to turn this feature on. You'll have to enter lock screen password after every reboot to decrypt and use the device normally."</string>
+  <string name="security_encryption_alert_dialog_title_first">Set screen lock first</string>
+  <string name="security_encryption_attention_1">"You won't be able to use alarms while the device is off."</string>
+  <string name="security_encryption_attention_2">"You'll have to enter lock screen password after every reboot to decrypt the device. Reboots will take longer than usual."</string>
+  <string name="security_encryption_attention_3">"You'll have to set a new lock screen password."</string>
+  <string name="security_encryption_attention_4">"Make sure you remember your lock screen password, otherwise you'll have to complete a full reset and erase all data on the device."</string>
+  <string name="security_encryption_attention_info">You can encrypt accounts, settings, downloaded apps and their data, media, and other files.</string>
+  <string name="security_encryption_attention_symbol">•</string>
+  <string name="security_encryption_attention_title">Important</string>
+  <string name="security_encryption_close_dialog_info">Choosing not to encrypt device using lock screen password may make some Google services unavailable.</string>
+  <string name="security_encryption_close_dialog_title">Go back to default password protection</string>
+  <string name="security_encryption_diaglog_continue">Sonraki</string>
+  <string name="security_encryption_is_used">Açık</string>
   <string name="security_encryption_title">Kilit ekran şifresi kullanıldığında cihazı şifrele</string>
   <string name="security_keyguard_category_name">Ekran Kilidi</string>
   <string name="security_password_category_name">Ekran Kilidi</string>
@@ -4226,8 +4496,11 @@ Farklı bir WLAN ağına başlanmak için "&lt;b&gt;Geri&lt;/b&gt; tuşuna dokun
   <string name="zen_mode_entry_conditions_title">Otomatik Olarak Aç</string>
   <string name="zen_mode_events">Etkinlikler ve Hatırlatmalar</string>
   <string name="zen_mode_from">Gelen Çağrı/Mesajlar</string>
-  <string name="zen_mode_from_anyone">Hiçkimse</string>
+  <string name="zen_mode_from_anyone">Hiçkimseden</string>
+  <string name="zen_mode_from_call">"Calls from "</string>
   <string name="zen_mode_from_contacts">Sadece kişiler</string>
+  <string name="zen_mode_from_none">Yok</string>
+  <string name="zen_mode_from_sms">"Messages from "</string>
   <string name="zen_mode_from_starred">Sadece favori kişiler</string>
   <string name="zen_mode_important_category">Öncelikli kesintiler</string>
   <string name="zen_mode_messages">Mesajlar</string>
@@ -4243,10 +4516,16 @@ Farklı bir WLAN ağına başlanmak için "&lt;b&gt;Geri&lt;/b&gt; tuşuna dokun
   <string name="zen_mode_phone_calls">Çağrılar</string>
   <string name="zen_mode_settings_title">Kesintiler</string>
   <string name="zen_mode_start_time">Başlangıç Zamanı</string>
+  <string name="zen_mode_summary_alarms_only_by_time">Change to alarms only until %1$s</string>
+  <string name="zen_mode_summary_alarms_only_indefinite">Change to alarms only indefinitely</string>
+  <string name="zen_mode_summary_always">Change to always interrupt</string>
+  <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_mode_when">Otomatik Olarak Aç</string>
   <string name="zen_mode_when_every_night">Her gece</string>
   <string name="zen_mode_when_never">Asla</string>
   <string name="zen_mode_when_weeknights">Haftaiçi Geceleri</string>
+  <string name="zen_schedule_rule_enabled_toast">Automatic rule set to turn on Do Not Disturb during specified times</string>
+  <string name="zen_schedule_rule_type_name">Time rule</string>
   <string name="zone_auto">Otomatik Zaman Dilimi</string>
   <string name="zone_auto_summaryOff">Ağın sağladığı zaman dilimini kullan</string>
   <string name="zone_auto_summaryOn">Ağın sağladığı zaman dilimini kullan</string>
