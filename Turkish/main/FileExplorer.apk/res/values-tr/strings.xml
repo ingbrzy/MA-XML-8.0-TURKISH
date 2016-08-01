@@ -222,6 +222,8 @@
   <string name="folder_name_empty">Dosya adı boş olamaz</string>
   <string name="folder_name_illegal">Geçersiz klasör adı</string>
   <string name="folder_name_invalid">"Klasör adları şu karakterleri içeremez: /\\:*?&lt;&gt;"</string>
+  <string name="force_touch_clean">Çöpü temizle</string>    
+  <string name="force_touch_search">Dosyaları ara</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Dokun&lt;/a&gt;ve çöp kutusuna git</string>
   <string name="found_router">Yönlendirici bağlandı</string>
   <string name="found_usb">USB depolama bağlandı</string>
