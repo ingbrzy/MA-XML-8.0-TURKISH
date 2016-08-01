@@ -53,6 +53,7 @@
   <string name="face_analyze_info">Yaş: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Kadın</string>
   <string name="face_analyze_info_male">Erkek</string>
+  <string name="face_beauty_advanced">Pro</string
   <string name="face_beauty_age_alias_0_7">0-7</string>
   <string name="face_beauty_age_alias_18_30">18-30</string>
   <string name="face_beauty_age_alias_31_44">31-44</string>
@@ -71,10 +72,12 @@
   <string name="face_beauty_age_alias_male_45_60">Erkek 45-60</string>
   <string name="face_beauty_age_alias_male_60_m">Erkek 60+</string>
   <string name="face_beauty_age_alias_male_8_17">Delikanlı 8-17</string>
+  <string name="face_beauty_close">Kapalı</string>
   <string name="face_beauty_intelligent_level_0">Kapalı</string>
   <string name="face_beauty_intelligent_level_1">Düşük</string>
   <string name="face_beauty_intelligent_level_2">Orta</string>
   <string name="face_beauty_intelligent_level_3">Yüksek</string>
+  <string name="face_beauty_smart">Akıllı</string> 
   <string name="find_other_qrcode">QR Kodu bulundu</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="no_storage">Kamerayı kullanmadan önce lütfen bir SD kart takın</string>
