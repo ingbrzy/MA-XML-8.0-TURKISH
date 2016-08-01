@@ -256,11 +256,11 @@
   <string name="long_click_dialog_title">İhbar</string>
   <string name="low_memory_clean_dialog_msg">Önce en az %1$s dosya temizleyin</string>
   <string name="low_memory_clean_dialog_ok_button">Tamam</string>
-  <string name="low_memory_clean_dialog_title">Diskte alan yok</string>
-  <string name="low_memory_warning_dialog_cancel_button">İptal</string>
-  <string name="low_memory_warning_dialog_msg">Cihazda yeterli alan yok, önce alan açmak için temizleyin</string>
-  <string name="low_memory_warning_dialog_ok_button">Git ve Temizle</string>
-  <string name="low_memory_warning_dialog_title">Diskte alan yok</string>
+  <string name="low_memory_clean_dialog_title">Diskte alan yok</string>
+  <string name="low_memory_warning_dialog_cancel_button">İptal</string>
+  <string name="low_memory_warning_dialog_msg">Cihazda yeterli alan yok, önce alan açmak için temizleyin</string>
+  <string name="low_memory_warning_dialog_ok_button">Git ve Temizle</string>
+  <string name="low_memory_warning_dialog_title">Diskte alan yok</string>
   <string name="mainbtn_text_quick_cleanup"> %s temizle</string>
   <string name="mainbtn_text_quick_cleanup_default">Temizle</string>
   <string name="megabyteShort">MB</string>
