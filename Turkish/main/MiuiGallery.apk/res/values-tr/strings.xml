@@ -595,7 +595,7 @@
   <string name="default_album_name">Yeni Albüm</string>
   <string name="delete">Sil</string>
   <string name="delete_album_failed">Albümü silinemedi</string>
-  <string name="delete_album_msg_format">\"%2$s\" albüm %1$s%3$s silinsin mi?</string>
+  <string name="delete_album_msg_format">\"%2$s\" albüm %1$s %3$s silinsin mi?</string>
   <string name="delete_album_success">Albüm silindi.</string>
   <string name="delete_finish_format">%d silindi</string>
   <string name="delete_from_album">Cihazınızın \"%s\" albümündeki</string>
