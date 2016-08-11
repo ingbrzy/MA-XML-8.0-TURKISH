@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="carrier_name">(Operatör Adı)</string>
+  <string name="change">Ayarla</string>
+  <string name="close">Kapat</string>
+  <string name="default_sim_setting">Varsayılan SIM Ayarlarını Kullan:</string>
+  <string name="lte_checkbox_text">Set mobile data to the selected SIM card once default 4G/3G SIM card is changed</string>
+  <string name="lte_recognition_title">SIM Kart Tanımlaması</string>
+  <string name="lte_recognize_summary">İki tane 4G/3G SIM kartı tespit edildi, varsayılan 4G/3G SIM kartı ayarlayın:</string>
+  <string name="lte_select_summary">The selected subscription will be recognized as a 4G/3G card and the other one as a 2G card.</string>
+  <string name="lte_select_title">Varsayılan 4G/3G SIM Kart</string>
+  <string name="lte_set">Ayarla</string>
+  <string name="lte_setting">Varsayılan 4G/3G SIM kart ayarlanıyor</string>
+  <string name="lte_switch_unavailable">4G/3G SIM kart geçişi mevcut değil</string>
+  <string name="mobile_data">"Mobil Veri: "</string>
+  <string name="mobile_data_off">Kapalı</string>
+  <string name="mobile_data_on">Açık</string>
+  <string name="multi_sim_settings_title">Çift SIM Ayarları</string>
+  <string name="new_sim_detected">Yeni SIM kart bulundu:</string>
+  <string name="reg_failed">Kayıt etme başarısız oldu</string>
+  <string name="reg_failed_msg">Default 4G/3G SIM card registration failed, %1$s will be recognized as a 2G SIM card.</string>
+  <string name="reg_suc">Başarıyla kaydedildi</string>
+  <string name="select_cancel">İptal</string>
+  <string name="select_ok">Tamam</string>
+  <string name="sim_absent">Yok</string>
+  <string name="sim_card_number_title">SIM %1$d</string>
+  <string name="sim_info">SIM Kart Bilgisi</string>
+  <string name="sim_unknown">Bilinmiyor</string>
+  <string name="slot">Yuva</string>
+</resources>
