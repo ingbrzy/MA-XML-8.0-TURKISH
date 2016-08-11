@@ -286,7 +286,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="apply_fingerprint_to_category_title">Parmakizi uygulanıyor...</string>
   <string name="apply_now_button_text">Güncelle</string>
   <string name="apply_password_to_category_title">Kilitinin açılması gerekiyor</string>
-  <string name="apply_update_fail">"Güncellenemedi"</string>
+  <string name="apply_update_fail">"Güncellenemedi!"</string>
   <string name="apps_storage">Uygulama Depolaması</string>
   <string name="apps_with_restrictions_header">Kısıtlamalarla Uygulamaları</string>
   <string name="apps_with_restrictions_settings_button">Uygulama için ayarları genişlet</string>
@@ -750,10 +750,14 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="carrier_enabled">APN etkin/devre dışı</string>
   <string name="carrier_enabled_summaryOff">APN devre dışı</string>
   <string name="carrier_enabled_summaryOn">APN etkin</string>
+  <string name="category_key_device">com.android.settings.category.device</string>
+  <string name="category_key_personal">com.android.settings.category.personal</string>
+  <string name="category_key_system">com.android.settings.category.system</string>
+  <string name="category_key_wireless">com.android.settings.category.wireless</string>
   <string name="category_personal">Kişisel</string>
   <string name="category_work">İş</string>
   <string name="cdma_security_settings_summary">Konumum, ekran kilidi açma, kimlik saklama kilidini ayarlamak</string>
-  <string name="cell_broadcast_settings">Acil yayınlar</string>
+  <string name="cell_broadcast_settings">Hücresel Yayınlar</string>
   <string name="cellular_data_summary">Hücresel şebeke üzerinden veri kullanımına izin ver</string>
   <string name="cellular_data_title">Hücresel Veri</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
@@ -916,7 +920,7 @@ Telefonunuzu kullanmaya devam etmek için, fabrika ayarlarına sıfırlama işle
   <string name="cryptkeeper_wrong_pattern">Yanlış desen</string>
   <string name="cryptkeeper_wrong_pin">Yanlış PIN</string>
   <string name="current_backup_pw_prompt">Buraya mevcut tam yedekleme şifrenizi yazın</string>
-  <string name="current_input_method">Geçerli Klavye</string>
+  <string name="current_input_method">Varsayılan</string>
   <string name="current_screen_lock">Geçerli kilit ekranı</string>
   <string name="current_use_ese">Gömülü güvenli eleman kullan</string>
   <string name="current_use_uicc_se">SIM karttan güvenli bir öğe kullan</string>
@@ -949,7 +953,9 @@ Uygulamada içindeki ayarlarda daha uygun veri kullanım denetimlerini bulabilir
   <string name="data_usage_auto_sync_off_dialog_title">Otomatik eşitleme kapatılsın mı?</string>
   <string name="data_usage_auto_sync_on_dialog">"Web\'de ki hesaplarınızda yaptığınız tüm değişiklikler otomatik olarak telefonunuza kopyalanır.
 
-Bazı hesaplar da otomatik olarak telefonda yaptığınız değişiklikleri Web\'e kopyalayabilir. Google Hesabı bu şekilde çalışır."</string>
+Bazı hesaplar da otomatik olarak telefonda yaptığınız değişiklikleri Web\'e kopyalayabilir. Google Hesabı bu şekilde çalışır.
+
+Eşitleme ile ilgili hesaplara erişmek için Ayarlar &gt; Hesaplar bölümününe gidin."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Otomatik eşitleme açılsın mı?</string>
   <string name="data_usage_background_label">Arkaplan:</string>
   <string name="data_usage_cellular_data">Hücresel veri</string>
@@ -994,7 +1000,7 @@ Veri kullanımı telefonla ölçülür ve operatör kullanım hesaplaması farkl
   <string name="data_usage_menu_split_4g">Parçalı 4G kullanımı</string>
   <string name="data_usage_metered_body">Taşınabilir Hotspot olan WLAN ağları gösterir. Uygulamalar arkaplanda bu ağları kullanmanızı kısıtlayabilir. Uygulamalar da büyük yüklemeler için bu ağları kullanmadan önce sizi uyarır.</string>
   <string name="data_usage_metered_mobile">Mobil Ağlar</string>
-  <string name="data_usage_metered_title">Mobil İnternet Paylaşımları</string>
+  <string name="data_usage_metered_title">Mobil Net Paylaşımları</string>
   <string name="data_usage_metered_wifi">WLAN Ağlar</string>
   <string name="data_usage_metered_wifi_disabled">Hotspot\'ları seçmek için WLAN\'ı açın.</string>
   <string name="data_usage_pick_cycle_day">Ayın bir günü veri kullanımını sıfırla:</string>
@@ -1362,12 +1368,12 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="erase_external_storage_description">Müzik veya fotoğraf gibi SD karttaki tüm verileri sil</string>
   <string name="erase_internal_storage">Depolanan İçeriği Sil</string>
   <string name="erase_internal_storage_description">Müzik, fotoğraf, video ve diğer kullanıcı verilerini sil</string>
-  <string name="erase_optional">İçerik</string>
+  <string name="erase_optional">İsteğe Bağlı</string>
   <string name="erase_personal_data">Şahsi Verilerin Silinmesi</string>
   <string name="erase_personal_data_description">Mi Hesap bilgisi, uygulama verilerini ve sistem ayarlarını sil</string>
    <string name="erase_sd_data">SD kartı biçimlendir</string>
   <string name="erase_sd_data_description">Biçimlendirme SD karttaki tüm dosya ve verileri silecektir.</string>
-  <string name="erase_sure">Şahsi Veriler</string>
+  <string name="erase_sure">Zorunlu</string>
   <string name="error_apn_empty">"APN boş olamaz."</string>
   <string name="error_mcc_not3">MCC alanında 3 rakam olmalıdır.</string>
   <string name="error_mnc_not23">MNC alanı 2 veya 3 rakam olmalıdır.</string>
@@ -1377,7 +1383,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="experimental_preference">(Deneysel)</string>
   <string name="experience_optimization_category">Kullanıcı Deneyim Programı</string>
   <string name="external_code_size_label">USB Depolama Uygulaması</string>
-  <string name="external_data_size_label">USB depolama verisi</string>
+  <string name="external_data_size_label">USB Depolama Verisi</string>
   <string name="external_storage_turn_off">Harici depolama kapatıldı</string>
   <string name="external_storage_turn_on">Harici depolama açıldı</string>
   <string name="extreme_threats_summary">Can ve mala karşı aşırı tehditler için uyarıları al</string>
@@ -1612,8 +1618,8 @@ Otomatik yedekleme açıldığında veriler periyotik zamanlarda saklanır. Bu i
   <string name="high_power_filter_on">İyi hale getirilemedi</string>
   <string name="high_power_off">Pil kullanımı en iyi hale getiriliyor</string>
   <string name="high_power_on">Pili iyi hale getirme yoksayılıyor</string>
-  <string name="high_power_prompt_body">%1$s uygulama halen arkaplanda bağlı? Bu fazla pil tüketebilir.</string>
-  <string name="high_power_prompt_title">Pili iyi halete getirme yoksayılsın mı?</string>
+  <string name="high_power_prompt_body">%1$s uygulama halen arkaplanda bağlı. Bu fazla pil tüketebilir.</string>
+  <string name="high_power_prompt_title">Pili iyi hale getirme yoksayılsın mı?</string>
   <string name="high_power_system">Pili iyi hale getirme mevcut değil</string>
   <string name="history_details_title">Geçmiş Detaylar</string>
   <string name="home_app_uninstall_button">Bu uygulamayı kaldır</string>
@@ -2077,11 +2083,18 @@ Burada diğer kullanıcılar var.
   <string name="memory_apps_usage">Uygulamalar (Veriler ve İçerikler)</string>
   <string name="memory_available">Kullanılabilir</string>
   <string name="memory_available_read_only">Kullanılabilir (okunabilir)</string>
+  <string name="memory_avg_desc">Yaklaşık %1$s</string>
+  <string name="memory_avg_use">Yaklaşık</string>
   <string name="memory_calculating_size">Hesaplanıyor…</string>
   <string name="memory_clear_cache_message">Bu tüm uygulamalar için önbelleğe alınan verileri silinecek.</string>
   <string name="memory_clear_cache_title">Önbellek verileri temizlensin mi?</string>
   <string name="memory_dcim_usage">Resimler, Videolar</string>
+  <string name="memory_details">Detaylar</string>
+  <string name="memory_details_title">Hafıza Detayları</string>
   <string name="memory_downloads_usage">İndirilenler</string>
+  <string name="memory_max_desc">Azami: %1$s</string>
+  <string name="memory_max_use">Azami</string>
+  <string name="memory_maximum_usage">Azami Kullanım</string>
   <string name="memory_media_cache_usage">Önbellek Verisi</string>
   <string name="memory_media_misc_usage">Çeşitli</string>
   <string name="memory_media_usage">Medya</string>
@@ -2125,7 +2138,7 @@ Burada diğer kullanıcılar var.
   <string name="miui_allow_light">Bildirim Işığı</string>
   <string name="miui_allow_music">Medya</string>
   <string name="miui_allow_vibrate">Titreşim</string>
-  <string name="miui_data_usage_menu_metered">Mobil Hotspot</string>
+  <string name="miui_data_usage_menu_metered">Mobil Paylaşım</string>
   <string name="miui_disturb_title">Rahatsız Etme</string>
   <string name="miui_experience_optimization">MIUI\'yi en iyi hale getir</string>
   <string name="miui_silent_title">Sessiz Mod</string>
@@ -2257,6 +2270,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="nfc_payment_favor_default">Daima</string>
   <string name="nfc_payment_favor_open">Diğer ödeme uygulaması açıldığında hariç tut</string>
   <string name="nfc_payment_how_it_works">Nasıl çalışır?</string>
+  <string name="nfc_payment_no_apps">Mağaza ödemesini telefonla yap</string>
   <string name="nfc_payment_pay_with">Dokun &amp; terminalle öde, şunla öde:</string>
   <string name="nfc_payment_learn_more">Fazlasını Öğren</string>
   <string name="nfc_payment_menu_item_add_service">Uygulama Bul</string>
@@ -2269,6 +2283,11 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="nfc_quick_toggle_summary">Telefon başka cihaza dokunduğunda veri alışverişine izin ver</string>
   <string name="nfc_quick_toggle_title">NFC (Kablosuz Transferi)</string>
   <string name="nfc_se_route_title">Güvenli eleman pozisyonu</string>
+  <string name="night_mode_auto">Otomatik</string>
+  <string name="night_mode_no">Açık</string>
+  <string name="night_mode_summary">%s</string>
+  <string name="night_mode_title">Tema</string>
+  <string name="night_mode_yes">Koyu</string>
   <string name="no">Hayır</string>
   <string name="no_all_caps">HAYIR</string>
   <string name="no_application">Hiçbir şey</string>
@@ -2592,7 +2611,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="permission_detail_info_summary">%1$d güvenli | %2$d gizli | %3$d diğer</string>
   <string name="permission_manage">İzin Yöneticisi</string>
   <string name="permission_manage_global_build_title">Diğer İzinler</string>
-  <string name="permission_manage_summary">Uygulamalar; rehberinizi okumak, sistem ayarlarını değiştirmek, kamera ve diğer kaynaklara erişmek istediğinde sizden onay alacak.</string>
+  <string name="permission_manage_summary">Güvenlik ve İzinleri Yönet</string>
   <string name="permission_manage_title">%s izinler</string>
   <string name="permission_manager">İzinler</string>
   <string name="permission_mgr">İzinler</string>
@@ -2873,7 +2892,11 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="rebootiing_for_updates">Tekrar başlatılıyor…</string>
   <string name="recent_location_requests_summary">Aşağıdaki uygulamalar konum bilginizi görüntülemek istiyor</string>
   <string name="receiver_clean">Alan Boşalt</string>
+  <string name="recent_location_requests_summary">Konum bilginize uygulamanın erişim isteğini görüntüler</string>
   <string name="recent_location_requests_title">Konum Erişimi</string>
+  <string name="recognizer_settings_summary">"'%s' Ayarları"</string>
+  <string name="recognizer_settings_title">Sesli Arama</string>
+  <string name="recognizer_title">Ses Tanımlayıcısı</string>
   <string name="recompute_size">Boyut yeniden hesaplanıyor...</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Düzenleyici Bilgisi</string>
@@ -3184,7 +3207,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_results_title">Ayarlar</string>
   <string name="search_ring_volume">Ses;Zil Sesi &amp; Bildirim;Alarm;Müzik</string>
   <string name="search_ringtone">Zil Sesi</string>
-  <string name="search_safe_result_header_title_system">Gizlilik</string>
+  <string name="search_safe_result_header_title_system">Gizlilik,Uygulama İmzası,Şifreyi göster</string>
   <string name="search_screen_effect">Renkler &amp; Canlılık;Renkler &amp; Karşıtlık</string>
   <string name="search_screen_key_long_press_timeout">Uzun basma süresini ayarla</string>
   <string name="search_screen_on_proximity_sensor_title">Cepteyken aramayı önle</string>
@@ -3197,7 +3220,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_security_settings">Gizlilik Ayarları</string>
   <string name="search_settings">Ara</string>
   <string name="search_settings_summary">Arama ayarlarını ve geçmişi yönet</string>
-  <string name="search_slot_status_title">IMEI Bilgisi</string>
+  <string name="search_slot_status_title">IMEI Bilgisi,IMEI</string>
   <string name="search_sms_delivered_sound_title">Mesaj teslim edildi</string>
   <string name="search_sms_received">Mesaj alındı</string>
   <string name="search_sound_effects_enable_title">Dokunma Sesleri</string>
@@ -3251,8 +3274,8 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_wifi_scan_always_available">Daima mevcutu tara</string>
   <string name="search_wifi_setting_frequency_band_title">WLAN Frekans Bandı</string>
   <string name="search_wifi_setting_sleep_policy_title">Uykudayken WLAN bağlantısını koru</string>
-  <string name="search_wifi_tether_checkbox">Taşınabilir Hotspot</string>
-  <string name="search_wifi_tether_configure_ap_text">"Taşınabilir Hotspot'u ayarla"</string>
+  <string name="search_wifi_tether_checkbox">Taşınabilir Paylaşım</string>
+  <string name="search_wifi_tether_configure_ap_text">"Taşınabilir Paylaşımı ayarla"</string>
   <string name="search_wifi_wapi_cert_install">WAPI sertifikasını yükle</string>
   <string name="search_wifi_wapi_cert_uninstall">WAPI sertifikasını kaldır</string>
   <string name="search_wps_connect_title">WPS Push Düğmesi</string>
@@ -3290,32 +3313,32 @@ Ekran iğnelemeyi kullanmak için:
   <string name="security_settings_fingerprint_enroll_dialog_delete">Sil</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Ad</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">Tamam</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">In addition to unlocking your phone, you can also use your fingerprint to authorize purchases and app access. &lt;annotation id="url"&gt;Learn more&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Screen lock option disabled. You can still use your fingerprint to authorize purchases and app access. &lt;annotation id="url"&gt;Learn more&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Telefonun kilidi açıldığında, parmakizi ile ödemeye ve uygulamaya erişebilirsiniz. &lt;annotation id="url"&gt;Fazlasını Öğren&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Ekran Kilidi seçeneği devre dışı. Parmakizini uygulama ve ödemelerde kullanabilirsiniz. &lt;annotation id="url"&gt;Fazlasını Öğren&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Tamam</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Illustration with device and fingerprint sensor location</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_message">Locate the fingerprint sensor on the back of your phone.</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_title">Find the sensor</string>
-  <string name="security_settings_fingerprint_enroll_finish_message">Whenever you see this icon, you can use your fingerprint for identification or to authorize a purchase.</string>
-  <string name="security_settings_fingerprint_enroll_finish_title">Fingerprint added!</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Cihaz ve parmakizi sensör konumu ile göster</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Telefonun arkasındaki parmakizi sensörünün konumunu kullan.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_title">Sensörü bul</string>
+  <string name="security_settings_fingerprint_enroll_finish_message">Ne zaman bu simgeyi görürseniz; ödeme yetkisi veya kimlik tanımı için parmakizini kullanabilirsiniz.</string>
+  <string name="security_settings_fingerprint_enroll_finish_title">Parmakizi eklendi!</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">İptal</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Devam</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">Just touch the fingerprint sensor to unlock your phone, authorize purchases, or sign in to apps. Be careful whose fingerprints you add - any fingerprints added will be able to do these things.</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message_warning">Note: Your fingerprint may be less secure than a strong pattern or PIN.</string>
-  <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Learn more</string>
-  <string name="security_settings_fingerprint_enroll_introduction_title">Unlock with fingerprint</string>
-  <string name="security_settings_fingerprint_enroll_lift_touch_again">Lift finger, then touch sensor again</string>
-  <string name="security_settings_fingerprint_enroll_onboard_message">To use your fingerprint to unlock your screen or confirm purchases, you’ll need to:</string>
-  <string name="security_settings_fingerprint_enroll_onboard_message_1">Set up your backup screen lock method</string>
-  <string name="security_settings_fingerprint_enroll_onboard_message_2">Add your fingerprint</string>
-  <string name="security_settings_fingerprint_enroll_onboard_title">Fingerprint setup</string>
-  <string name="security_settings_fingerprint_enroll_repeat_message">Move your finger slightly to add all the different parts of your fingerprint</string>
-  <string name="security_settings_fingerprint_enroll_repeat_title">Great! Now repeat</string>
-  <string name="security_settings_fingerprint_enroll_setup_screen_lock">Set up screen lock</string>
-  <string name="security_settings_fingerprint_enroll_start_message">Put your finger on the sensor and lift after you feel a vibration</string>
-  <string name="security_settings_fingerprint_enroll_start_title">Let’s start!</string>
-  <string name="security_settings_fingerprint_enroll_touch_dialog_message">Use the fingerprint sensor on your device.</string>
-  <string name="security_settings_fingerprint_enroll_touch_dialog_title">Whoops, that’s not the sensor</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">Telefonun kilidini açmak için parmakizi sensörüne dokunun bunun ödeme veya uygulama imzaları içinde yapabilirsiniz. Parmakizi kullanırken hangi parmakizini okuttuysanız onu kullanmaya dikkat edin.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_warning">Not: Parmakizi güçlü bir desen ve PIN kodundan daha az güvenlidir.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Fazlasını öğren</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title">Parmakiziyle kilidi aç</string>
+  <string name="security_settings_fingerprint_enroll_lift_touch_again">Sensöre dokunduktan sonra parmağı kaldır</string>
+  <string name="security_settings_fingerprint_enroll_onboard_message">Ekran kilidini açmak veya ödemeyi yapmak için parmakizi kullanın, bunun için şuna ihtiyaç var:</string>
+  <string name="security_settings_fingerprint_enroll_onboard_message_1">Kilit ekran usulunun yedeklemeyi ayarlayın</string>
+  <string name="security_settings_fingerprint_enroll_onboard_message_2">Parmakizini ekleyin</string>
+  <string name="security_settings_fingerprint_enroll_onboard_title">Parmakizi Ayarı</string>
+  <string name="security_settings_fingerprint_enroll_repeat_message">Parmakizi için farklı parçalar ekleyin</string>
+  <string name="security_settings_fingerprint_enroll_repeat_title">Güzel! Şimdi tekrarlayın</string>
+  <string name="security_settings_fingerprint_enroll_setup_screen_lock">Ekran kilidini ayarlayın</string>
+  <string name="security_settings_fingerprint_enroll_start_message">Parmağınızı sensöre koyun ve titreşimi hissettikten sonra kaldırın</string>
+  <string name="security_settings_fingerprint_enroll_start_title">Başlayalım!</string>
+  <string name="security_settings_fingerprint_enroll_touch_dialog_message">Cihazdaki parmakizi sensörünü kullan.</string>
+  <string name="security_settings_fingerprint_enroll_touch_dialog_title">Sensör yok :(</string>
   <string name="security_settings_fingerprint_preference_title">Parmakizi</string>
   <string name="security_settings_premium_sms_desc">Özel SMS Gönder</string>
   <string name="security_settings_summary">Konumunuzu, ekran kilidini aç, SIM kartı kilitle, kimlik bilgilerinin depolanmasını ayarla</string>
@@ -3326,9 +3349,13 @@ Ekran iğnelemeyi kullanmak için:
   <string name="select_runtime_dialog_title">Çalışma süresini seç</string>
   <string name="select_logd_size_dialog_title">Günlük tampon başına kaydedici boyutlarını seçin</string>
   <string name="select_logd_size_title">Kaydedici tampon boyutları</string>
+  <string name="select_sim_for_calls">Çağrı: </string>
+  <string name="select_sim_for_data">Veri için bir SIM seç</string>
   <string name="select_runtime_title">Günlük arabellek boyutu seçin</string>
   <string name="select_runtime_warning_message">Günlük arabellek boyutu</string>
   <string name="select_ssid_type_title">SSID Seç</string>
+  <string name="select_usb_configuration_dialog_title">USB Yapılandırmasını Seç</string>
+  <string name="select_usb_configuration_title">USB Yapılandırmasını Seç</string>
   <string name="selinux_status">SELinux Durumu</string>
   <string name="selinux_status_disabled">Devre dışı</string>
   <string name="selinux_status_enforcing">Uygulanıyor</string>
@@ -3356,6 +3383,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="settings_license_activity_loading">Yükleniyor...</string>
   <string name="settings_license_activity_title">Açık Kaynak Lisans</string>
   <string name="settings_license_activity_unavailable">Lisansın yüklenmesinde bir problemle karşılaşıldı.</string>
+  <string name="settings_package">com.android.settings</string>
   <string name="settings_safetylegal_activity_loading">Yükleniyor...</string>
   <string name="settings_safetylegal_activity_title">Güvenlik Bilgisi</string>
   <string name="settings_safetylegal_activity_unreachable">"Bir veri bağlantısı yok. Şimdi bu bilgiyi görüntüle, internet için herhangi bilgisayardan %s gidin."</string>
@@ -3363,6 +3391,8 @@ Ekran iğnelemeyi kullanmak için:
   <string name="settings_shortcut">Ayarlar Kısayolu</string>
   <string name="settings_toggle_position_divider_list">Geçişler çubuğun üstünde etkin olsun</string>
   <string name="settings_toggle_position_divider_page">%1$d geçişleri çubuğun üstünde etkin olsun</string>
+  <string name="setup_fingerprint_enroll_finish_message">Sadece parmakizi sensörüne dokunup, cihazın kilidini açın.</string>
+  <string name="setup_fingerprint_enroll_finish_message_secondary">Bu simgeyi gördüğünüz zaman parmakizini kullanabilirsiniz.</string>
   <string name="setup_wifi_nfc_tag">WLAN NFC Etiketini Ayarla</string>
   <string name="setup_wizard_back_button_label">Geri</string>
   <string name="setup_wizard_next_button_label">Sonraki</string>
@@ -3409,6 +3439,8 @@ Ekran iğnelemeyi kullanmak için:
   <string name="sim_cards_changed_message_summary">Faaliyetleri ayarlamak için dokunun</string>
   <string name="sim_cellular_data_unavailable">Hücresel veri kullanılamaz</string>
   <string name="sim_cellular_data_unavailable_summary">Bir veri SIM kartı seçmek için dokunun</string>
+  <string name="sim_change_data_message">%1$s yerine %2$s hücresel verisi kullanılsın mı?</string>
+  <string name="sim_change_data_title">SIM verisi değiştirilsin mi?</string>
   <string name="sim_change_failed">"PIN kodu değiştirilemiyor.
 PIN kodu yanlış olabilir."</string>
   <string name="sim_change_failed_enable_sim_lock">Şimdi SIM kilidini aç.</string>
@@ -3453,6 +3485,7 @@ PIN kodu yanlış olabilir."</string>
   <string name="sim_multi_sims_summary">Hücresel veri için SIM kartı seçin</string>
   <string name="sim_multi_sims_title">Birden fazla SIM kart bulundu</string>
   <string name="sim_no_inserted_msg">Takılı SIM kart yok</string>
+  <string name="sim_name_hint">SIM Adını girin</string>
   <string name="sim_other_call_settings">Diğer çağrı ayarları</string>
   <string name="sim_outgoing_call_title">Giden çağrılar için SIM</string>
   <string name="sim_pin_attempts">"
@@ -3466,7 +3499,9 @@ Kalan Girişimler :"</string>
   <string name="sim_pin_enabled">PIN1 etkin!</string>
   <string name="sim_pin_toggle">SIM Kartı Kilitle</string>
   <string name="sim_pins_dont_match">"PIN kodları eşleşmiyor!"</string>
-  <string name="sim_pref_divider">Faaliyetler</string>
+  <string name="sim_pref_divider">Tercihli SIM:</string>
+  <string name="sim_preferred_message">Cihazınızdaki SIM sadece %1$s sahip. Bu SIM için Hücresel veri, çağrılar ve SMS mesajları kullanmak istiyor musunuz?</string>
+  <string name="sim_preferred_title">Tercihli SIM kart güncellensin mi?</string>
   <string name="sim_radio_off">Kapalı</string>
   <string name="sim_reenter_new">Yeni PIN kodunu tekrar girin</string>
   <string name="sim_select_card">SIM kartı seç</string>
@@ -3474,6 +3509,7 @@ Kalan Girişimler :"</string>
   <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">SIM Kartlar</string>
   <string name="sim_setup_wizard_title">SIM Kartlar</string>
+  <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
   <string name="sim_slot_empty">SIM boş</string>
   <string name="sim_status_summary">SIM Kartla İlgili Bilgiler</string>
   <string name="sim_status_title">SIM Durumu</string>
@@ -3498,6 +3534,9 @@ Kalan Girişimler :"</string>
   <string name="sms_over_ims_on">IMS üzerindeki SMS açık</string>
   <string name="sms_received_sound_dialog_title">Mesaj gelince çalacak sesi seç</string>
   <string name="sms_received_sound_title">Yeni mesaj gelince</string>
+  <string name="sometimes_running">Çalışanlar: (%s)</string>
+  <string name="sort_avg_use">Yaklaşık kullanıma göre</string>
+  <string name="sort_max_use">Azami kullanıma göre</string>
   <string name="sort_order_alpha">Ada Göre</string>
   <string name="sort_order_size">Boyutuna Göre</string>
   <string name="sound_category_call_ringtone_vibrate_title">Zil &amp; Titreşim</string>
@@ -3525,6 +3564,7 @@ Daha fazla bilgi için, yöneticinizle irtibat kurun."</string>
 
 Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</string>
   <string name="stable_build">" | Stable"</string>
+  <string name="starting_android">Android başlatılıyor</string>
   <string name="status_awaiting_tap">Bir etiket yazmak için dokunun...</string>
   <string name="status_awake_time">Açık K. Zamanı</string>
   <string name="status_bar_and_notification_bar">Bildirim Alanı ve Durum Çubuğu</string>
@@ -3603,18 +3643,138 @@ Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</st
   <string name="status_wifi_mac_address">WLAN MAC Adresi</string>
   <string name="status_wimax_mac_address">4G MAC Adresi</string>
   <string name="status_write_success">Başarılı!</string>
-  <string name="storage_format">Biçim</string>
+  <string name="storage_detail_apps">Uygulamalar</string>
+  <string name="storage_detail_audio">Ses</string>
+  <string name="storage_detail_cached">Önbelleklenmiş Veri</string>
+  <string name="storage_detail_dialog_other">"Uygulamalar tarafından diğer eklenen paylaşımlı dosyalar; İnternet veya Bluetooth tarafından indirilebilir. 
+
+İçerikleri görmek için; ^1, Gezgine dokunun."</string>
+  <string name="storage_detail_dialog_user">"^1 fotoğrafları, müzikleri, filmleri, uygulamaları ve diğer verileri ^2 depolamasına kaydedilebilir. 
+
+Detayları görmek için, ^1 geçiş yapın."</string>
+  <string name="storage_detail_explore">Gezgin ^1</string>
+  <string name="storage_detail_images">Resimler</string>
+  <string name="storage_detail_other">Diğer</string>
+  <string name="storage_detail_videos">Videolar</string>
+  <string name="storage_dialog_unmountable">"^1 bozuldu. 
+
+^1 kullanmak için, önce ayarlamak lazım."</string>
+  <string name="storage_dialog_unmounted">"^1 güvenli şekilde çıkartıldı fakat halen mevcut. 
+
+^1 kullanmak için, önce bağlamak lazım."</string>
+  <string name="storage_dialog_unsupported">"Bu cihaz ^1 desteklemez. 
+
+Bu cihazla ^1 kullanmak için, önce ayarlamak lazım."</string>
+  <string name="storage_external_title">Taşınabilir Depolama</string>
+  <string name="storage_format">Biçimle</string>
+  <string name="storage_format_failure">%1$s biçimlendirilemedi</string>
+  <string name="storage_format_success">%1$s biçimlendirildi</string>
+  <string name="storage_internal_forget_confirm">Tüm uygulamalar, fotoğraflar ve veri ^1 kaydedildikten sonra silinecek.</string>
+  <string name="storage_internal_forget_confirm_title">^1 unutulsun?</string>
+  <string name="storage_internal_forget_details">"Uygulamaları, fotoğrafları veya verinin ^1 kapsadıklarını kullanmak için; yeniden takın. 
+
+Alternatif olarak, bu depolama cihazda mevcut değilse unutmayı seçebilirsiniz. 
+
+Eğer unutmayı seçerseniz, tüm veri içeriğini daimi olarak kaybedersiniz. 
+
+Uygulamaları daha sonra yeniden yükleyebilirsiniz fakat saklanan veri bu cihazdan silinir."</string>
+  <string name="storage_internal_format_details">"Sonra biçimlendiriyor ki diğer cihazlarda ^1 kullanabileceksiniz. 
+
+^1 tüm veri silinecek. Önceden yedeklemeyi dikkate alın. 
+
+"&lt;b&gt;Fotoğrafları &amp;amp; diğer medyaya yedekle&lt;/b&gt;" 
+Bu cihazdaki medya dosyaları alternatif depolamaya taşı veya USB kablo kullanarak bir bilgisayara transfer et. 
+
+"&lt;b&gt;Uygulamaları yedekle&lt;/b&gt;" 
+Tüm depolanmış uygulamalardaki ^1 kaldırılacak ve veriside silinecek. Uygulamaları korumak için bu cihazdaki alternatif depolamaya taşıyın."</string>
+  <string name="storage_internal_title">Cihaz Depolaması</string>
+  <string name="storage_internal_unmount_details">&lt;b&gt;^1 çıkartıldığı zaman, depolanan uygulamaların çalışanı durur ve medya dosyaları yeniden takılana kadar çalışmaz.&lt;/b&gt;" 
+
+Bu cihazda sadece ^1 biçimlendirildiğinden çalışır. Bu aynı zamanda diğerlerinde de çalışması anlamına gelir."</string>
   <string name="storage_label">Depolama</string>
   <string name="storage_low_summary">Bazı sistem fonksiyonları, eşitleme gibi, düzgün çalışmayabilir. Kullanmadığınız dosya, uygulama veya medya gibi öğeleri silerek yer açabilirsiniz..</string>
   <string name="storage_low_title">Depolama alanı azalıyor</string>
-  <string name="storage_menu_usb">USB bilgisayar bağlantısı</string>
-  <string name="storage_other_users">Diğer kullanıcılar</string>
+  <string name="storage_menu_explore">Gezgin</string>
+  <string name="storage_menu_forget">Unut</string>
+  <string name="storage_menu_format">Biçimle</string>
+  <string name="storage_menu_format_private">Dahili olarak biçimlendir</string>
+  <string name="storage_menu_format_public">Taşınabilir olarak biçimlendir</string>
+  <string name="storage_menu_migrate">Veriyi taşı</string>
+  <string name="storage_menu_mount">Bağla</string>
+  <string name="storage_menu_rename">Adlandır</string>
+  <string name="storage_menu_set_up">Ayarla</string>
+  <string name="storage_menu_unmount">Çıkart</string>
+  <string name="storage_mount_failure">%1$s bağlanamadı</string>
+  <string name="storage_mount_success">%1$s bağlandı</string>
+  <string name="storage_other_users">Diğer Kullanıcılar</string>
+  <string name="storage_rename_title">Depolamayı Adlandır</string>
   <string name="storage_settings">Depolama</string>
   <string name="storage_settings_summary">USB depolama bağlantısını kes, mevcut depolamayı görüntüle</string>
   <string name="storage_settings_title">Depolama Ayarları</string>
-  <string name="storage_title_usb">USB bilgisayar bağlantısı</string>
-  <string name="storage_uicc">UICC depolama</string>
-  <string name="storage_usb">USB depolama</string>
+  <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
+  <string name="storage_summary_format">%2$s içindeki %1$s kullanıldı</string>
+  <string name="storage_title_usb">USB Bilgisayar Bağlantısı</string>
+  <string name="storage_type_external">Harici Depolama</string>
+  <string name="storage_type_internal">Dahili Depolama</string>
+  <string name="storage_unmount_failure">%1$s güvenli şekilde çıkartılmadı</string>
+  <string name="storage_unmount_success">%1$s güvenli şekilde çıkartıldı</string>
+  <string name="storage_usb">USB Depolama</string>
+  <string name="storage_usb_settings">Depolama &amp; USB</string>
+  <string name="storage_used">Depolama kullanıldı:</string>
+  <string name="storage_volume_summary">%2$s / %1$s kullanıldı</string>
+  <string name="storage_volume_used"> %1$s kullanıldı</string>
+  <string name="storage_volume_used_total">Toplam %1$s kullanıldı</string>
+  <string name="storage_wizard_format_confirm_body">"Güvenli bir şekilde biçimlendirmek için ^1 ihtiyaç var.
+
+Biçimlendirdikten sonra, ^1 bu cihazda çalışır. 
+
+"&lt;b&gt;Geçerli depolamadaki ^1 biçimlendirme esnasında tüm veriler silinecek.&lt;/b&gt;" Veriler kaybedileceği için, yedekleme yapmayı unutmayın. "</string>
+  <string name="storage_wizard_format_confirm_next">Sil &amp; Biçimlendir</string>
+  <string name="storage_wizard_format_confirm_public_body">"Biçimlendirmek için ^1 ihtiyaç var. 
+
+"&lt;b&gt;Geçerli depolamadaki ^1 biçimlendirme esnasında tüm veriler silinecek&lt;/b&gt;" Veriler kaybedileceği için, yedekleme yapmayı unutmayın. "</string>
+  <string name="storage_wizard_format_confirm_public_title">Taşınabilir depolama olarak biçimlendir</string>
+  <string name="storage_wizard_format_confirm_title">Dahili depolama olarak biçimlendir</string>
+  <string name="storage_wizard_format_progress_body">Biçimlendirildiğinde ^1 kaldırma.</string>
+  <string name="storage_wizard_format_progress_title">^1 biçimlendiriliyor…</string>
+  <string name="storage_wizard_init_external_summary">Fotoğraflar ve diğer medya arasında taşıyın.</string>
+  <string name="storage_wizard_init_external_title">Taşınabilir depolama olarak kullan</string>
+  <string name="storage_wizard_init_internal_summary">Bu cihazda sadece herşey depolanıyor, uygulama ve fotoğraflar ekleniyor. Diğer cihazlarla biçimlendirme isteğini engelle.</string>
+  <string name="storage_wizard_init_internal_title">Dahili depolama olarak kullan</string>
+  <string name="storage_wizard_init_title">^1 Ayarla</string>
+  <string name="storage_wizard_migrate_body">"Fotoğraflar, dosyalar ve bazı uygulamalar yeni ^1 taşınabilir.
+
+Dahili depolamada ^2 ve ^3 taşınacak. Bazı uygulamalar bunun sonucunda çalışmayabilir."</string>
+  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;^1 taşınacak. ^3  yerinde ^2 boş yer olacak.&lt;/b&gt;</string>
+  <string name="storage_wizard_migrate_confirm_next">Taşı</string>
+  <string name="storage_wizard_migrate_confirm_title">Veriyi şimdi taşı</string>
+  <string name="storage_wizard_migrate_details">"Taşınma esnasında: 
+• ^1 kaldırma. 
+• Bazı uygulamalar düzgün çalışmaz. 
+• Cihaz değişikliğini korur."</string>
+  <string name="storage_wizard_migrate_later">Sonra taşı</string>
+  <string name="storage_wizard_migrate_now">Şimdi taşı</string>
+  <string name="storage_wizard_migrate_progress_title">Veri taşınıyor…</string>
+  <string name="storage_wizard_migrate_title">Yeni depolamaya veriyi taşı</string>
+  <string name="storage_wizard_move_confirm_body">"^1 ve ^2 birkaç dakikada veri taşınacak. Taşınma işleminden sonra kullanılabilecek. 
+
+Taşınma işlemi esnasında ^2 kaldırmayın."</string>
+  <string name="storage_wizard_move_confirm_title">^1 taşı</string>
+  <string name="storage_wizard_move_progress_body">"Taşınma işlemi esnasında ^1 kaldırmayın. 
+
+Bu cihazdaki ^2 uygulaması taşınma esnasında kullanılamaz."</string>
+  <string name="storage_wizard_move_progress_cancel">Taşımayı iptal et</string>
+  <string name="storage_wizard_move_progress_title">^1 taşınıyor…</string>
+  <string name="storage_wizard_ready_external_body">^1 tüm ayarları fotoğraflar ve diğer medyada kullan.</string>
+  <string name="storage_wizard_ready_internal_body">"Yeni ^1 çalışıyor. 
+
+Fotoğraflar, dosyalar ve uygulama verisini bu cihaza taşı. Bunun için Ayarlar &gt; Depolama bölümüne gidin."</string>
+  <string name="storage_wizard_ready_title">^1 hazır</string>
+  <string name="storage_wizard_slow_body">"Bu ^1 oldukça yavaş. 
+
+Devam etmek için; fakat uygulamalar bu konumdan taşınırken ve veri transferi yapılırken uzun zaman alabilir. 
+
+^1 hızlı olması daha iyi performansa sebep olur."</string>
   <string name="storageuse_settings_summary">Uygulamalar tarafından kullanılan depolama alanını görüntüle</string>
   <string name="storageuse_settings_title">Depolama Kullanımı</string>
   <string name="strict_mode">Sıkı Mod etkin</string>
@@ -3629,8 +3789,13 @@ Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</st
   <string name="sum_carrier_select">Bir ağ operatörü seçin</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
+  <string name="summary_range_symbol_combination">%1$s - %2$s</string>
+  <string name="summary_range_verbal_combination"> %2$s -> %1$s</string>
   <string name="supl_not_set">&lt;Ayarlanmadı&gt;</string>
   <string name="supplicant_state_label">Rica Durumu:</string>
+  <string name="suw_back_button_label">Geri</string>
+  <string name="suw_more_button_label">Fazlası</string>
+  <string name="suw_next_button_label">Sonraki</string>
   <string name="switch_off_text">Kapat</string>
   <string name="switch_on_text">Açık</string>
   <string name="symbols_not_allowed_for_password">"Şifre semboller içeremez"</string>
@@ -3657,13 +3822,22 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Sadece WLAN</string>
   <string name="system">Sistem</string>
+  <string name="system_alert_window_access_title">Diğer uygulamaları belirt</string>
+  <string name="system_alert_window_apps_title">Uygulamalar</string>
+  <string name="system_alert_window_off">Hayır</string>
+  <string name="system_alert_window_on">Evet</string>
+  <string name="system_alert_window_settings">Diğer Uygulamaları Belirt</string>
+  <string name="system_alert_window_summary" formatted="false">%d / %d uygulamalarla diğer uygulamaları belirt</string>
   <string name="system_and_device_section_title">Sistem &amp; Cihaz</string>
   <string name="system_app_settings">Sistem Uygulamaları</string>
   <string name="system_backup_section_title">Yedekle</string>
   <string name="system_package">"Sistem güncellemeleri harici medya yüklenemez."</string>
-  <string name="system_storage">Sistem Depolama</string>
+  <string name="system_storage">Sistem Depolaması</string>
+  <string name="system_ui_settings">SystemUI Ayarlayıcıyı Göster</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Sistem Güncellemeleri</string>
+  <string name="tap_to_wake">Dokunup uyandır</string>
+  <string name="tap_to_wake_summary">Cihazın herhangi bir yerine iki kez dokununca uyandır</string>
   <string name="terms_title">Şartlar ve Hükümler</string>
   <string name="testing">Test</string>
   <string name="testing_battery_info">Pil Bilgisi</string>
@@ -3678,7 +3852,7 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="tether_settings_title_wifi">Taşınabilir Hotspot</string>
   <string name="tethering_help_button_text">Yardım</string>
   <string name="tethering_settings_not_available">İnternet paylaşım ayarları bu kullanıcı için geçerli değil</string>
-  <string name="theme_settings_title">Tema</string>
+  <string name="theme_settings_title">Temalar</string>
   <string name="time_picker_title">Zaman</string>
   <string name="time_zone_auto_stub">Zaman Dilimini Seç</string>
   <string name="timezone_settings">Zaman Dilimi</string>
@@ -3696,9 +3870,11 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="title_system_resource">Sistem Kaynakları</string>
   <string name="toast_lockscreen_glogin_empty_password">Şifreyi girin</string>
   <string name="toast_need_login">Mi Hesabınızda oturum açın</string>
+  <string name="total_memory">Toplam Hafıza</string>
   <string name="total_size">Toplam: %s</string>
   <string name="total_size_label">Toplam</string>
   <string name="touch_assistant">Kısayol Menüsü</string>
+  <string name="touch_filtered_warning">Ayarlar doğrulanamıyor çünkü bu uygulamanın izin isteğini engelle.</string>
   <string name="touch_sensitive_summary">Cihazınızı kontrol etmek için dokunma hassasiyetini ayarlayın</string>
   <string name="touch_sensitive_title">Eldiven Modu</string>
   <string name="touch_sensitive_turn_off_cancel">İptal</string>
@@ -3713,6 +3889,7 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="transition_animation_scale_title">Geçiş Animasyonu Ölçeği</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Katkıda Bulunanlar</string>
+  <string name="trust_agent_disabled_device_admin">Yönetici tarafından devre dışı bırakıldı</string>
   <string name="trusted_credentials">Güvenilir Kimlik Bilgileri</string>
   <string name="trusted_credentials_disable_confirmation">Sistem KB sertifikası kapatılsın mı?</string>
   <string name="trusted_credentials_disable_label">Kapalı</string>
@@ -3786,17 +3963,36 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="uicc_unmount_inform_text">UICC depolama çıkartılacak.</string>
   <string name="under_keyguard">Kilit Ekranı</string>
   <string name="uninstall_all_users_text">Tüm kullanıcılar için kaldır</string>
-  <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
-  <string name="uninstall_dlg_title">Uninstall now?</string>
+  <string name="uninstall_dlg_msg">Tüm uygulama verisi kaldırılacak.</string>
+  <string name="uninstall_dlg_title">Şimdi kaldırılsın mı?</string>
   <string name="uninstall_text">Kaldır</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">Corresponding dual apps will be removed together with app data.</string>
-  <string name="uninstall_xspace_app_dlg_msg">Uninstalling dual app will remove all app data.</string>
-  <string name="uninstall_xspace_app_dlg_title">Uninstall dual app?</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">Klonlu uygulamalar iki alandan da verisini kaldıracak.</string>
+  <string name="uninstall_xspace_app_dlg_msg">Klonlu tüm uygulama verisi kaldırılıyor.</string>
+  <string name="uninstall_xspace_app_dlg_title">Klonlu uygulama kaldırılsın mı?</string>
   <string name="unknown">Bilinmiyor</string>
+  <string name="unknown_app">Bilinmeyen uygulama</string>
   <string name="unlock_backup_info_summary">"Yüz Tanıma Kilidi sizi görmediğinde, kilidi nası açmak istersiniz?"</string>
   <string name="unlock_change_lock_password_title">Kilit açma şifresini değiştir</string>
   <string name="unlock_change_lock_pattern_title">Kilit açma desenini değiştir</string>
   <string name="unlock_change_lock_pin_title">PIN kodunu değiştir</string>
+  <string name="unlock_disable_frp_warning_content_password">Device protection features will not work without your password.</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Device protection features will not work without your password.
+
+Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
+  <string name="unlock_disable_frp_warning_content_pattern">Device protection features will not work without your pattern.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Device protection features will not work without your pattern.
+
+Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
+  <string name="unlock_disable_frp_warning_content_pin">Device protection features will not work without your PIN.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Device protection features will not work without your PIN.
+
+Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
+  <string name="unlock_disable_frp_warning_content_unknown">Device protection features will not work without your screen lock.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Device protection features will not work without your screen lock.
+
+Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
+  <string name="unlock_disable_frp_warning_ok">Yes, remove</string>
+  <string name="unlock_disable_frp_warning_title">Remove device protection?</string>
   <string name="unlock_disable_lock_password_summary">Kilit açma şifresini kaldır</string>
   <string name="unlock_disable_lock_pattern_summary">Kilit açma desenini kaldır</string>
   <string name="unlock_disable_lock_pin_summary">PIN kodunu kapat</string>
@@ -3827,6 +4023,7 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="unlock_set_unlock_pin_summary">Kilidi açmak için dört basamaklı numara belirleyin</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Ekran kilidini ayarla</string>
+  <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings &gt; Security.</string>
   <string name="unmount_inform_text">USB depolama bağlantısı kesilecek.</string>
   <string name="untitled_apn">İsimsiz</string>
   <string name="update_progress_for_updates">Güncelleniyor (%s)</string>
@@ -3839,6 +4036,7 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="usage_time_label">Kullanım süresi</string>
   <string name="usage_type_actual_power">Gözlemlenen güç kullanımı</string>
   <string name="usage_type_audio">Ses</string>
+  <string name="usage_type_camera">Kamera</string>
   <string name="usage_type_computed_power">Bilgisayar güç kullanımı</string>
   <string name="usage_type_cpu">CPU Toplamı</string>
   <string name="usage_type_cpu_foreground">CPU Önplan</string>
@@ -3846,6 +4044,7 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="usage_type_data_send">Gönderilen mobil paketler</string>
   <string name="usage_type_data_wifi_recv">Alınan WLAN verisi</string>
   <string name="usage_type_data_wifi_send">Gönderilen WLAN verisi</string>
+  <string name="usage_type_flashlight">Flaş Işığı</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Sinyalsiz zaman</string>
   <string name="usage_type_on_time">Zaman</string>
@@ -4008,7 +4207,7 @@ Ekle butonunu (+) kullanarak kelime ekleyin."</string>
   <string name="virtual_sim_description">Güvenilir uluslararası dolaşım hizmeti</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
   <string name="virtual_sim_global_description">Veri ağına bağlanmak için gerekli SIM kartı yok.</string>
-  <string name="virtual_sim_global_title">Veri Trafik Hizmeti</string>
+  <string name="virtual_sim_global_title">Mobil Veri Hizmeti</string>
   <string name="virtual_sim_search_title">Sanal SIM</string>
   <string name="virtual_sim_title">Veri Ağı Dolaşımı</string>
   <string name="virus_scan">Virüs Tara</string>
@@ -4054,6 +4253,8 @@ Ekle butonunu (+) kullanarak kelime ekleyin."</string>
   <string name="voice_recognizer_preference_summary">Metin için basit konuşma</string>
   <string name="voice_search_settings_title">Sesli Arama Özelliği</string>
   <string name="voice_service_preference_section_title">Sesli Giriş Servisleri</string>
+  <string name="volte_provisioned_flag_off">Turn off VoLTE provisioned flag</string>
+  <string name="volte_provisioned_flag_on">Turn on VoLTE provisioned flag</string>
   <string name="volume_alarm_description">Alarm</string>
   <string name="volume_alarm_mute">Alarmları sustur</string>
   <string name="volume_bluetooth_description">Bluetooth Sesi</string>
@@ -4074,10 +4275,14 @@ Ekle butonunu (+) kullanarak kelime ekleyin."</string>
   <string name="vpn_connect">Bağlan</string>
   <string name="vpn_connect_to">Bağlandı: %s</string>
   <string name="vpn_create">VPN Ekle</string>
+  <string name="vpn_disconnect">Bağlantıyı kes</string>
+  <string name="vpn_disconnect_confirm">Bu VPN bağlantısını kes.</string>
   <string name="vpn_dns_servers">DNS sunucuları</string>
   <string name="vpn_dns_servers_hint">örn. 8.8.8.8</string>
+  <string name="vpn_done">Reddet</string>
   <string name="vpn_edit">VPN profilini düzenle</string>
   <string name="vpn_enable">VPN</string>
+  <string name="vpn_forget">Unut</string>
   <string name="vpn_ipsec_ca_cert">IPSec KB Sertifikası</string>
   <string name="vpn_ipsec_identifier">IPSec tanımlayıcısı</string>
   <string name="vpn_ipsec_secret">IPSec Ön Paylaşımlı Anahtar</string>
@@ -4116,6 +4321,7 @@ Ekle butonunu (+) kullanarak kelime ekleyin."</string>
   <string name="vpn_title">VPN</string>
   <string name="vpn_type">Türü</string>
   <string name="vpn_username">Kullanıcı Adı</string>
+  <string name="vpn_version">Sürüm %s</string>
   <string name="wait_for_debugger">Hata ayıklayıcı için bekle</string>
   <string name="wait_for_debugger_summary">Ayıklanacak uygulamayı çalıştırmadan önce bağlamak için hata ayıklayıcısını bekle</string>
   <string name="wakeup_for_keyguard_notification_title">Bildirim gelince ekranı uyandır</string>
@@ -4127,6 +4333,7 @@ Ekle butonunu (+) kullanarak kelime ekleyin."</string>
   <string name="wallpaper_lockscreen">Kilit Ekranı</string>
   <string name="wallpaper_settings_fragment_title">Duvar kağıdını şurdan seç:</string>
   <string name="wallpaper_settings_title">Duvar Kağıdı</string>
+  <string name="webview_license_title">Sistem WebView Lisansı</string>
   <string name="welcome">Hoşgeldiniz</string>
   <string name="wfd_available_devices">Mevcut cihazlar</string>
   <string name="wfd_disconnect_diag_msg">%1$s bağlantısı kesilsin mi?</string>
@@ -4190,6 +4397,7 @@ Tanıtımı"</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Tekrar gösterme"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC bağlandı</string>
   <string name="wifi_connect_failed_message">Telefon bu Wi-Fi ağına bağlanamadı.</string>
+  <string name="wifi_connected_no_internet">Bağlandı, İnternet yok</string>
   <string name="wifi_context_menu_change_password">Şifreyi değiştir</string>
   <string name="wifi_context_menu_change_wapi_certificate">WAPI sertifikasını değiştir</string>
   <string name="wifi_context_menu_connect">Bağlan</string>
@@ -4200,6 +4408,7 @@ Tanıtımı"</string>
   <string name="wifi_disabled_help">Zayıf bağlantı nedeniyle WLAN bağlantısı kesildir</string>
   <string name="wifi_disabled_network_failure">Zayıf internet bağlantılarından kaçınıldı</string>
   <string name="wifi_disabled_password_failure">Kimlik doğrulama sorunu</string>
+  <string name="wifi_disabled_wifi_failure">WLAN Bağlantısı Başarısız</string>
   <string name="wifi_disconnected_notification_summary">"WLAN ağına bağlı değilsiniz."</string>
   <string name="wifi_disconnected_notification_title">WLAN bağlantısı kesildi</string>
   <string name="wifi_display_autonomous_go">Otonom GO etkin</string>
@@ -4241,6 +4450,8 @@ Tanıtımı"</string>
   <string name="wifi_empty_list_wifi_off">Kullanılabilir ağları görmek için, WLAN\'i açın</string>
   <string name="wifi_empty_list_wifi_on">WLAN ağları aranıyor...</string>
   <string name="wifi_enable">WLAN</string>
+  <string name="wifi_enable_data_and_wifi_roam">Switch between data and WLAN</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Keep data and WLAN on to switch to data when WLAN connectivity is poor.</string>
   <string name="wifi_enable_watchdog_service_summary">Zayıf bağlantılardan kaçın</string>
   <string name="wifi_error">Hata</string>
   <string name="wifi_fail_to_scan">"Ağlar taranamıyor"</string>
@@ -4276,6 +4487,7 @@ Tanıtımı"</string>
   <string name="wifi_menu_modify">Ağı değiştir</string>
   <string name="wifi_menu_more_options">Fazla Seçenek</string>
   <string name="wifi_menu_p2p">Doğrudan WLAN Bağlantısı</string>
+  <string name="wifi_menu_remember">Ağı Hatırla</string>
   <string name="wifi_menu_scan">Tara</string>
   <string name="wifi_menu_wfd">Kablosuz Ekran</string>
   <string name="wifi_menu_wps_pbc">WPS Push Tuşu</string>
@@ -4284,6 +4496,7 @@ Tanıtımı"</string>
   <string name="wifi_more">Fazlası</string>
   <string name="wifi_network_prefix_length">Önek uzunluğu</string>
   <string name="wifi_network_prefix_length_hint">24</string>
+  <string name="wifi_no_internet">"İnternet erişimi tespit edilemedi, otomatik olarak yeniden bağlanmayın."</string>
   <string name="wifi_not_in_range">Aralıkta değil</string>
   <string name="wifi_notify_cmcc_connected_summary">CMCC ağa bağlandığında bildirim göster</string>
   <string name="wifi_notify_cmcc_connected_title">CMCC ağ bildirimi</string>
@@ -4351,9 +4564,12 @@ Tarama yapmak istediğiniz tüm uygulamalar için bu izin verilsin mi?"</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Yok</string>
+  <string name="wifi_security_passpoint">Passpoint</string>
+  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
+  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
@@ -4362,6 +4578,7 @@ Tarama yapmak istediğiniz tüm uygulamalar için bu izin verilsin mi?"</string>
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+  <string name="wifi_select_assistant_dialog_title">Yardımcıyı seçin</string>
   <string name="wifi_select_network">Wi-Fi Seç</string>
   <string name="wifi_setting_category">Kullanılabilir Ağlar</string>
   <string name="wifi_setting_frequency_band_error">Frekans bandını ayarlarken sorun oluştu.</string>
@@ -4459,6 +4676,7 @@ Farklı bir WLAN ağına başlanmak için "&lt;b&gt;Geri&lt;/b&gt; tuşuna dokun
   <string name="wifi_suspend_efficiency_title">Verimliliği arttır</string>
   <string name="wifi_suspend_optimizations">WLAN ağını en iyi hale getir</string>
   <string name="wifi_suspend_optimizations_summary">WLAN açıkken pil kullanımını en aza indir</string>
+  <string name="wifi_switch_away_when_unvalidated">Switch to cellular data if Wi‑Fi loses Internet access.</string>
   <string name="wifi_switch_to_gsm_message">WLAN bağlantısını kaybetti. Yerine mobil veri bağlantısı kullanılsın mı?</string>
   <string name="wifi_switch_to_gsm_title">GSM kullanılsın mı?</string>
   <string name="wifi_tether_checkbox_text">Taşınabilir Hotspot</string>
@@ -4525,10 +4743,19 @@ Farklı bir WLAN ağına başlanmak için "&lt;b&gt;Geri&lt;/b&gt; tuşuna dokun
   <string name="wizard_next">Sonraki</string>
   <string name="work_profile_confirm_remove_message">Bu profildeki tüm uygulamalar ve veriler silinecek.</string>
   <string name="work_profile_confirm_remove_title">İş profili kaldırılsın mı?</string>
+  <string name="work_profile_usage_access_warning">Turning off usage access for this app doesn’t prevent your administrator tracking data usage for apps in your work profile.</string>
   <string name="work_sim_title">İş SIM Kartı</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Yönlendiricinin desteklediğinden ve WPS\'in etkin olduğundan emin olun</string>
-  <string name="wps_connect_title">WPS Bağlantı Düğmesi</string>
+  <string name="wps_connect_title">"WPS'e Bağlan"</string>
+  <string name="write_settings">Modify system settings</string>
+  <string name="write_settings_description">This permission allows an app to modify system settings.</string>
+  <string name="write_settings_off">Hayır</string>
+  <string name="write_settings_on">Evet</string>
+  <string name="write_settings_preference">App modify system settings permission</string>
+  <string name="write_settings_summary" formatted="false">%d of %d apps allowed to modify system settings</string>
+  <string name="write_settings_title">Can modify system settings</string>
+  <string name="write_system_settings">Modify system settings</string>
   <string name="write_tag">Yaz</string>
   <string name="wrong_pin_code_pukked">Yanlış SIM PIN kodu. Cihazınızın kilidini açmak için operatörünüzle irtibata geçin.</string>
   <string name="xiaomi_account">Mi Hesabı</string>
