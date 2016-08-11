@@ -2274,7 +2274,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="nfc_payment_pay_with">Dokun &amp; terminalle öde, şunla öde:</string>
   <string name="nfc_payment_learn_more">Fazlasını Öğren</string>
   <string name="nfc_payment_menu_item_add_service">Uygulama Bul</string>
-  <string name="nfc_payment_no_apps">Sadece bir dokunuşla öde</string>
   <string name="nfc_payment_set_default">Ödeme yaparken daima %1$s kullanılsın mı?</string>
   <string name="nfc_payment_set_default_instead_of">Ödeme yaptığınızda %2$s yerine daima %1$s kullanılsın mı?</string>
   <string name="nfc_payment_set_default_label">Tercihinize olarak ayarlansın mı?</string>
@@ -2892,7 +2891,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="rebootiing_for_updates">Tekrar başlatılıyor…</string>
   <string name="recent_location_requests_summary">Aşağıdaki uygulamalar konum bilginizi görüntülemek istiyor</string>
   <string name="receiver_clean">Alan Boşalt</string>
-  <string name="recent_location_requests_summary">Konum bilginize uygulamanın erişim isteğini görüntüler</string>
   <string name="recent_location_requests_title">Konum Erişimi</string>
   <string name="recognizer_settings_summary">"'%s' Ayarları"</string>
   <string name="recognizer_settings_title">Sesli Arama</string>
@@ -4565,11 +4563,9 @@ Tarama yapmak istediğiniz tüm uygulamalar için bu izin verilsin mi?"</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Yok</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
