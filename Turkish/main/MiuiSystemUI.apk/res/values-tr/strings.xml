@@ -167,7 +167,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="ext_media_safe_unmount_notification_title">USB depolama cihazı güvenle çıkartılabilir</string>
   <string name="ext_media_unmountable_notification_message">USB depolama zarar görmüş. Yeniden format atmayı deneyebilirsiniz.</string>
   <string name="ext_media_unmountable_notification_title">USB Depolama zarar görmüş</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="float_incall_ignore">Yoksay</string>
   <string name="float_incall_message">Mesaj</string>
   <string name="gps_notification_found_text">GPS ile konumu belirle</string>
@@ -362,11 +361,9 @@ Kilitlemek için aşağı kaydırın ▼"</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Yok</string>
   <string name="wifi_security_passpoint">Şifre Noktası</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
