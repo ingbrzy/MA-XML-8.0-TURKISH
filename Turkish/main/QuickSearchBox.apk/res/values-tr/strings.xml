@@ -44,6 +44,7 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="google_settings_category_title">Google Araması</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popüler</string>
+  <string name="hot_words">[{\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"小米\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"MIUI\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"视频\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"音乐\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"主题\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"小说\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"游戏\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"论坛\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"商城\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"阅读\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"新闻\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"搞笑\",\"type\":\"unknown\",\"url\":\"\"}]</string>
   <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
   <string name="loading">Biraz bekleyin...</string>
   <string name="menu_help">Yardım</string>
@@ -53,23 +54,23 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="recently_shortcut_label">En son kısayollar</string>
   <string name="remove_from_history">Arama geçmişinden bu öğeyi kaldırmak istiyor musunuz?</string>
   <string name="remove_from_history_failed">"Bu öğe arama geçmişinden kaldırılamadı!"</string>
+  <string name="search_apps">Uygulamaları Ara</string>
+  <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
   <string name="search_group_fold">Gizle</string>
   <string name="search_group_unfold">Fazlası</string>
   <string name="search_history">Geçmiş</string>
   <string name="search_in_app_store">"Mi Uygulama Mağazası'nda Ara"</string>
   <string name="search_in_web">Çevrimiçi Ara</string>
-  <string name="search_settings">Arama Ayarları</string>
+  <string name="search_keyword_quicksearchbox">Ara</string>
+  <string name="search_path_quicksearchbox">Ayarlar/Yüklü Uygulamalar/Ara</string>
+  <string name="search_settings">Arama Ayarlar</string>
   <string name="search_sources">Aranabilir öğeler</string>
-  <string name="search_sources_summary">Telefonda ne aramak istediğinizi seçin</string>
+  <string name="search_sources_summary">Telefonda aranacakları seçin</string>
   <string name="search_suggestion">İpuçları</string>
+  <string name="search_title_quicksearchbox">@string/app_name</string>
+  <string name="search_videos">Videoları Ara</string>
+  <string name="search_videos_url">https://video.browser.miui.com/v6/2/#page=search&amp;keyword=%s&amp;from=home&amp;entry=migs&amp;_miui_fullscreen=1</string>
   <string name="search_widget">Ara</string>
-  <string name="searchable_lable_app">Uygulama</string>
-  <string name="searchable_lable_browser">Tarayıcı</string>
-  <string name="searchable_lable_duokan">Duokan</string>
-  <string name="searchable_lable_music">Müzik</string>
-  <string name="searchable_lable_o2o">o2o</string>
-  <string name="searchable_lable_video">Video</string>
-  <string name="searchable_sources">Çevrimiçi</string>
   <string name="send_secret_code">Kodu gönder</string>
   <string name="show_more">Daha Fazla Göster</string>
   <string name="suggest_open_app_failed">"Bu uygulama açılamadı"</string>
@@ -78,10 +79,10 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">"Neyi aramak istiyorsun? "</string>
   <string name="web_search_results">Web aramasının sonuçları</string>
-  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
-  <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v4/hints</string>
-  <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v4/home</string>
+  <string name="xiaomi_hint">Websitesi, uygulama, müzik, video, içerikleri ara...</string>
+  <string name="xiaomi_homepage_hint">Websitesi, uygulama, müzik, video, içerikleri ara...</string>
+  <string name="xiaomi_homepage_suggest">Websitesi, uygulama, müzik, video, içerikleri ara...</string>
   <string name="xiaomi_search_label">Sonuçlar</string>
-  <string name="xiaomi_source_url">https://search.browser.miui.com</string>
+  <string name="xiaomi_source_url">http://www.google.com/m?hl=%1$s</string>
   <string name="xiaomi_suggest_base"/>
 </resources>
