@@ -22,6 +22,9 @@
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="audio_focus_exit_button_text">Sese Odaklanmayı Kapat</string>
   <string name="burst_shoot_exit_button_text">Seri Çekimi Kapat</string>
+  <string name="button_fisheye_camera_title">Balık Gözü</string>
+  <string name="button_front_camera_title">Selfi yap</string>
+  <string name="button_normal_video_title">Video kaydet</string>
   <string name="camera_disabled">Kamera devre dışı bırakıldı</string>
   <string name="camera_error_title">Kamera Hatası</string>
   <string name="camera_label">Kamera</string>
@@ -148,7 +151,7 @@
   <string name="pref_camera_coloreffect_entry_vsco_f2">Mat</string>
   <string name="pref_camera_coloreffect_entry_xproii">X Pro II</string>
   <string name="pref_camera_coloreffect_entry_yesteryear">Geçen Yıl</string>
-  <string name="pref_camera_coloreffect_title">Filterler</string>
+  <string name="pref_camera_coloreffect_title">Filtreler</string>
   <string name="pref_camera_contrast_title">Karşıtlık</string>
   <string name="pref_camera_delay_capture_entry_10s">10 sn</string>
   <string name="pref_camera_delay_capture_entry_3s">3 sn</string>
@@ -269,6 +272,9 @@
   <string name="pref_camera_snap_entry_take_movie">Ekran kapalı olduğunda &amp; basın. Video kaydını başlatmak için Ses Seviyesini Azalt düğmesini basılı tutun. Durdurmak için bırakın.</string>
   <string name="pref_camera_snap_entry_take_picture">Ekran kapalı olduğunda &amp; basın.  Seri Fotoğraf Çekimini başlatmak için Ses Seviyesini Azalt düğmesine basılı tutun.Durdurmak için bırakın.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"\"Ses Düğmeleriyle Uyan\" açıkken Seri Çekim Moduna geçilemiyor."</string>
+  <string name="pref_camera_snap_value_off">Kapalı</string>
+  <string name="pref_camera_snap_value_take_movie">Film</string>
+  <string name="pref_camera_snap_value_take_picture">Resim</string>
   <string name="pref_camera_sound_title">Kamera Sesleri</string>
   <string name="pref_camera_square_mode_title">Kare</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
@@ -389,6 +395,8 @@
   <string name="toast_start_audio_capture">Fotoğrafa bir ses ekle</string>
   <string name="ubi_focus_capture_fail">"Fotoğraf alınamıyor"</string>
   <string name="ubifocus_capture_warning_message">En iyi sonuç için, resim hem yakın hem de uzak nesneler içermelidir (mercekten 1 metreden az)</string>
+  <string name="video_camera_label">Video Kamera</string>
+  <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Boyut sınırına ulaşıldı.</string>
   <string name="wait">Biraz bekleyin…</string>
 </resources>
