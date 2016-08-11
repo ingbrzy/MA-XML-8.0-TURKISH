@@ -201,6 +201,7 @@
   <string name="contact_detail_action_item_nocalllog">Geçmiş yok</string>
   <string name="contact_detail_calllog_call_note_tips">Notlar</string>
   <string name="contact_detail_calllog_call_record_tips">Çağrıyı Kaydet</string>
+  <string name="contact_detail_calllog_empty">Çağrı günlüğü yok</string>
   <string name="contact_detail_menu_delete_miprofile">Kartı sil</string>
   <string name="contact_detail_miprofile_accept">Kartvizitleri değiştir</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Kartvizitler değiştirilemedi"</string>
@@ -457,6 +458,7 @@ Sebep: \"%s\""</string>
   <string name="frequentList">Çok Arananlar</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Adı</string>
+  <string name="gallery">Galeri</string>
   <string name="generic_no_account_prompt">Telefonunuzu kaybetseniz bile kişilerinizi güvende tutmak için çevrimiçi bir servis ile eşitleyin.</string>
   <string name="generic_no_account_prompt_title">Hesap Ekle</string>
   <string name="ghostData_company">Şirket</string>
@@ -906,8 +908,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="photo_fragment">Fotoğraf</string>
   <string name="photo_labels_group">Profil Fotoğrafı</string>
   <string name="photo_load_failed">"Fotoğraf yüklenemedi"</string>
-  <string name="pick_new_photo">Galeriden yeni fotoğraf seç</string>
-  <string name="pick_photo">Galeriden fotoğraf seç</string>
+  <string name="pick_new_photo">%s yerinden yeni fotoğraf seçin</string>
+  <string name="pick_photo">%s yerinden fotoğraf seç</string>
   <string name="pickerNewContactHeader">Yeni kişi oluştur</string>
   <string name="pickerNewContactText">Yeni kişi oluştur</string>
   <string name="picker_all_list_empty">Kişi yok</string>
