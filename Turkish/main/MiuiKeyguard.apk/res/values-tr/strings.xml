@@ -15,6 +15,8 @@
   <string name="experimental_validate_username">Kullanıcı Adı</string>
   <string name="experimental_validate_warning">MIUI\'yi daha iyi hale getirdiğiniz için teşekkürler!</string>
   <string name="find_device_turn_off_flight_mode">Uçak Modunu kapat</string>
+  <string name="fingerprint_enter_second_psw_msg">İkinci Alan şifresinin girdikten sonra parmakizi tanımlamasını kullanmak için cihaz yeniden başlatılacak</string>
+  <string name="fingerprint_enter_second_psw_title">İkinci Alan şifresini girin</string>
   <string name="fingerprint_lockout_msg">Bir dakika sonra parmakizi ile kilidi açmayı deneyin!</string>
   <string name="fingerprint_not_identified_msg">Cihazın kilidini açmak için şifrenizi girin.</string>
   <string name="fingerprint_not_identified_title">Şifrenizi girin</string>
@@ -36,6 +38,8 @@
   <string name="left_action_default_hint_text">Mi Kumanda</string>
   <string name="lock_screen_date">dd MMMM EEEE</string>
   <string name="lock_screen_date_12">dd MMMM EEEE</string>
+  <string name="lock_wallpaper_learn_more">Fazlasını Öğren &gt;</string>
+  <string name="lock_wallpaper_see_more">Fazlasını Gör &gt;</string>
   <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
