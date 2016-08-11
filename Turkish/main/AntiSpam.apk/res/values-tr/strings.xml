@@ -142,6 +142,10 @@
   <string name="mark_agent_block">Ajans olarak bildirildi</string>
   <string name="mark_agent_block_large">Ajanslar</string>
   <string name="mark_agent_time_setting">Tanımlanan sayı kadar ajans bildirim yaptı</string>
+  <string name="mark_courier">Raporlanan ajanları engelle</string>
+  <string name="mark_courier_block">Ajan olarak raporlandı</string>
+  <string name="mark_courier_block_large">Ajan</string>
+  <string name="mark_courier_time_setting">Tanımlanan sayı kadar ajan bildirimi raporlandı</string>
   <string name="mark_fraud">Raporlanan dolandırıcıları engelle</string>
   <string name="mark_fraud_block">Dolandırıcı olarak raporlandı</string>
   <string name="mark_fraud_block_large">Dolandırıcılar</string>
@@ -151,6 +155,7 @@
   <string name="mark_harass_block_large">Taciz Ediciler</string>
   <string name="mark_harass_time_setting">Engellenmiş sayı kadar taciz edici bildirimi yapıldı</string>
   <string name="mark_number_agent">Ajans</string>
+  <string name="mark_number_courier">Ajan</string>
   <string name="mark_number_fraud">Sahtekâr</string>
   <string name="mark_number_harass">İstismarcı</string>
   <string name="mark_number_info">"Not: Bazen bu çağrılar kullanışlı olabilir (Mesela: Kiralik dairenizi almak isteyen birinin araması) Bunun için; asla çağrı almak istemediğiniz numaraları engelleyin."</string>
@@ -248,7 +253,7 @@
   <string name="st_antispam_mode_only_contacts">Sadece kişilere izin ver</string>
   <string name="st_antispam_mode_only_contacts_sum">Sadece kişilerin çağrı ve mesajlarına izin ver</string>
   <string name="st_antispam_mode_only_whitelist">Sadece istisnalara izin ver</string>
-  <string name="st_antispam_mode_only_whitelist_sum">Only allow calls and messages from numbers on the exceptions list</string>
+  <string name="st_antispam_mode_only_whitelist_sum">Sadece istisnalar listesindeki çağrı ve mesajlara izin ver</string>
   <string name="st_antispam_mode_smart">Raporlanan Numaralar</string>
   <string name="st_antispam_mode_smart_sum">"Elle eklenmiş ve diğer kullanıcılar tarafından raporlanmış engelli numaralar"</string>
   <string name="st_antispam_notification_sum">Çağrı ve mesaj engellendiğinde bildirimle uyar</string>
