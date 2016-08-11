@@ -63,7 +63,7 @@
   <string name="birthday_event_description_day_before_yesterday">Dünden önceki gün</string>
   <string name="birthday_event_description_days_ago">%1$s gün önce</string>
   <string name="birthday_event_description_days_later">%1$s gün kadar kaldı</string>
-  <string name="birthday_event_description_default">"%1$s's %2$s %3$s %4$s"</string>
+  <string name="birthday_event_description_default">"%1$s'nın %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_event_description_special">"%1$s %2$s'nın %3$s %4$s %5$s"</string>
@@ -80,8 +80,8 @@
   <string name="birthday_term">doğum günü</string>
   <string name="book_card_free">Ücretsiz</string>
   <string name="book_card_rating_text">|   %1$s yorum</string>
-  <string name="button_day">G</string>
-  <string name="button_month">A</string>
+  <string name="button_day">Gün</string>
+  <string name="button_month">Ay</string>
   <string name="button_online">Satın Al</string>
   <string name="button_week">H</string>
   <string name="calendar_network_error">Ağ Hatası</string>
@@ -335,6 +335,7 @@
   <string name="preferences_clear_search_history_summary">"Tüm yaptığınız aramaları temizler."</string>
   <string name="preferences_clear_search_history_title">Arama geçmişini temizle</string>
   <string name="preferences_default_reminder_default">10</string>
+  <string name="preferences_default_reminder_default_value">10</string>
   <string name="preferences_default_reminder_dialog">Varsayılan hatırlatıcı süresi</string>
   <string name="preferences_default_reminder_title">Hatırlatıcı Zamanı</string>
   <string name="preferences_general_title">Takvim Görüntü Ayarları</string>
@@ -406,9 +407,18 @@
   <string name="select_synced_calendars_title">Eşitlenecek Takvimler</string>
   <string name="select_visible_calendars_title">Gösterilecek Takvimler</string>
   <string name="set_as_wallpaper">Duvar kağıdı olarak ayarla</string>
+  <string name="setting_about_calendar_version">Takvim Sürümü:</string>
+  <string name="setting_about_imei">IMEI:</string>
+  <string name="setting_about_miui_version">MIUI Sürümü:</string>
+  <string name="setting_about_summary">Sürüm:</string>
   <string name="setting_holiday">Tatiller</string>
+  <string name="setting_holiday_display_desc">Takvim anasayfasında tatil kartlarını yerleştir</string>
+  <string name="setting_holiday_display_title">Tatilleri göster</string>
+  <string name="setting_holiday_reminder">Tatil Hatırlatıcısı</string>
+  <string name="setting_homepage">Anasayfa Ekranı</string>
   <string name="setting_others">Diğerleri</string>
   <string name="setting_sms_import">SMS etkinliğini içe aktar</string>
+  <string name="setting_title_about">Hakkında</string>
   <string name="setting_wifi_mode">Büyük resimleri WLAN ile eşitle</string>
   <string name="settings_calendar">Takvim</string>
   <string name="show_controls">Kontrolleri göster</string>
