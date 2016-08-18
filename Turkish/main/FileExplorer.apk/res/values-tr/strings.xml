@@ -4,7 +4,7 @@
   <string name="account_login_title">Hesap</string>
   <string name="action_mode_deselect_all">Vazgeç</string>
   <string name="action_mode_select_all">Hepsi</string>
-  <string name="activity_parse_video_title">URL yapıştır</string>
+  <string name="activity_parse_video_title">Video bağlantısını yapıştır</string>
   <string name="activity_rule">Kurallar</string>
   <string name="ad_download">İndir</string>
   <string name="ad_downloading">Biraz bekleyin...</string>
@@ -169,6 +169,8 @@
   <string name="directory_no_item">Boş</string>
   <string name="disk_available">"Kullanılabilir: "</string>
   <string name="disk_total">"Toplam: "</string>
+  <string name="dislike_toast">"Böyle videolar tavsiye edilmiyor."</string>
+  <string name="dislike_video">"İlgilenmiyor"</string>
   <string name="dlg_error_unmount_text">"USB depolama bağlantısı kesilemedi."</string>
   <string name="download_current_progress">%%%1$d</string>
   <string name="download_failed">"İndirmedi"</string>
@@ -222,7 +224,7 @@
   <string name="folder_name_empty">Dosya adı boş olamaz</string>
   <string name="folder_name_illegal">Geçersiz klasör adı</string>
   <string name="folder_name_invalid">"Klasör adları şu karakterleri içeremez: /\\:*?&lt;&gt;"</string>
-  <string name="force_touch_clean">Çöpü temizle</string>
+  <string name="force_touch_clean">Temizle</string>
   <string name="force_touch_search">Dosyaları ara</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Dokun&lt;/a&gt;ve çöp kutusuna git</string>
   <string name="found_router">Yönlendirici bağlandı</string>
@@ -242,7 +244,7 @@
   <string name="get_verification_code_fail">"Doğrulama kodu alınamadı"</string>
   <string name="gigabyteShort">GB</string>
   <string name="good_tip">Aferin!</string>
-  <string name="group_title">%2$s / %1$s</string>
+  <string name="group_title">%1$s / %2$s</string>
   <string name="group_title_extra_backup">Yedekler</string>
   <string name="group_title_extra_expire">Kullanım süresi dolmak üzere</string>
   <string name="group_title_extra_new">Yeni</string>
@@ -261,7 +263,7 @@
   <string name="installing">Yükleniyor…</string>
   <string name="instruction">FTP istemcisini aşağıdaki adresi girin:</string>
   <string name="instruction_pre">FTP sunucusu başlatmak için dokunun</string>
-  <string name="interest_recommend">Tavsiye edilen video</string>
+  <string name="interest_recommend">Tavsiyeli Videolar</string>
   <string name="join_activity">Katılımcı</string>
   <string name="just_now">Şimdi</string>
   <string name="kilobyteShort">KB</string>
@@ -290,6 +292,9 @@
 Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</string>
   <string name="kuaipan_root_fooder">Ev</string>
   <string name="kuaipan_tech_support">kuaipan.cn adresine oturum açın</string>
+  <string name="like_toast_1">Böyle videolar sıklıkla tavsiye edilir.</string>
+  <string name="like_toast_2">Profilinizin hoşlandığı videoları görüntüle.</string>
+  <string name="like_toast_3">Oturum açılarak hoşlandığınız videoları görüntüle.</string>
   <string name="load_err">"Yüklenemiyor"</string>
   <string name="load_more">Fazlasına Görüntüle</string>
   <string name="load_sticker_fail">"Etiketi yüklenemiyor, tekrar deneyin"</string>
@@ -310,7 +315,7 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="login_reg_content">Birden fazla cihaz üzerindeki dosyaları eşitleyin ve saklayın.</string>
   <string name="login_reg_content0">Kuaipan\'a her yerden kullanın.</string>
   <string name="login_reg_content1">Mi Drive uygulamasını her yerden kullanın.</string>
-  <string name="login_success_tip">Signed in successfully</string>
+  <string name="login_success_tip">Başarıyla oturum açıldı</string>
   <string name="login_tip">Videoları popüler başlıklarla paylaşıp, ödüller kazanın</string>
   <string name="make_private">Gizle</string>
   <string name="make_private_msg_1">Bu dosya gizlensin mi?</string>
@@ -323,7 +328,7 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="menu_item_router">Yönlendirici</string>
   <string name="menu_item_search">Ara</string>
   <string name="menu_item_sort">Sırala</string>
-  <string name="menu_item_sort_add_time">"Oluşturma "</string>
+  <string name="menu_item_sort_add_time">"Oluşturan: "</string>
   <string name="menu_item_sort_by_added_time">Eklenme</string>
   <string name="menu_item_sort_date">Tarih</string>
   <string name="menu_item_sort_name">Ad</string>
@@ -523,7 +528,11 @@ ve yenilerini kaçırmayın!"</string>
   <string name="operation_unfavorite">Favoriden Çıkart</string>
   <string name="operation_unlike">Favoriden Çıkart</string>
   <string name="origin_name">%1$s: </string>
-  <string name="other_user_liked_topic_tip">"Herhangi bir başlığı takip etmiyorsunuzw"</string>
+  <string name="other_user_follow_title">Takip Edilen Kişi</string>
+  <string name="other_user_liked_topic_tip">Konu yok</string>
+  <string name="other_user_liked_video_title">Sevdiğim Videolar</string>
+  <string name="other_user_no_follow_tip">"Hiçkimseyi henüz takip etmiyorsunuz."</string>
+  <string name="other_user_no_liked_video_tip">Sevilen video yok.</string>
   <string name="other_user_topic_tab">Başlıklar</string>
   <string name="other_user_video_tab">Videolar</string>
   <string name="pan_settting">KuaiPan Ayarları</string>
@@ -580,6 +589,8 @@ ve yenilerini kaçırmayın!"</string>
   <string name="quota_info">Mi Drive: %1$s mevcut, Toplam: %2$s</string>
   <string name="qzone_platform">Qzone</string>
   <string name="recommend">Tavsiyeli</string>
+  <string name="recommend_topic">Tavsiyeli Konular</string>
+  <string name="recommend_user">Tavsiyeli Profiller</string>
   <string name="release_to_signin">Kontrol etmek bırakın ▲</string>
   <string name="remote_video_no_network">"Ağa bağlanamıyor."</string>
   <string name="remote_video_report_success">"Görüşleriniz için teşekkür ederiz! En kısa sürede takipçisi olacağız."</string>
@@ -667,6 +678,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="server_control_charset">Transfer kodlaması</string>
   <string name="server_control_settings">Ayarlar</string>
   <string name="server_error">Sunucu hatası. Daha sonra tekrar deneyin (Hata: %s)</string>
+  <string name="setting">Ayarlar</string>
   <string name="share_box">Paylaşıldı</string>
   <string name="share_box_receive">Alınan</string>
   <string name="share_box_send">Gönder</string>
@@ -720,10 +732,12 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="tab_category">Kategoriler</string>
   <string name="tab_common_app">Uygulama &amp; Dizinler</string>
   <string name="tab_expand">Genişlet</string>
+  <string name="tab_follow">İzleniyor:</string>
   <string name="tab_hottest_video">Popüler</string>
   <string name="tab_local">Yerel</string>
   <string name="tab_local_video">Çevrimdışı</string>
   <string name="tab_more">Fazlası</string>
+  <string name="tab_newest_video">Yeni</string>
   <string name="tab_path">DİZİNLER</string>
   <string name="tab_profile">Profil</string>
   <string name="tab_ranking_list">Rütbeler</string>
@@ -778,7 +792,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="upload_notification_compress_title">Video sıkıştırılıyor⤦</string>
   <string name="upload_notification_failed">"Yüklenemedi"</string>
   <string name="upload_notification_failed_content">Yeniden deneyin</string>
-  <string name="upload_notification_progress">%%%1$s yükleniyor</string>
+  <string name="upload_notification_progress">Yükleniyor: %%%1$s</string>
   <string name="upload_notification_success">Başarıyla yüklendi</string>
   <string name="upload_notification_success_content">"Diğer insanlar paylaşılan videoyu görmeden önce incelenelidir"</string>
   <string name="upload_notification_title">Video Yükleniyor</string>
@@ -796,6 +810,8 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="user_center_setting">Ayarlar</string>
   <string name="user_center_title">Ana Sayfa</string>
+  <string name="user_follow_me_title">Takipçilerim</string>
+  <string name="user_follow_title">Takip Ettiğim</string>
   <string name="user_guide">KuaiPan hakkında daha fazla bilgi</string>
   <string name="user_guide_continue_use">Tamam</string>
   <string name="user_guide_download_other_version">Bilgisayardan dosya yükle</string>
@@ -805,15 +821,27 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_guide_save_file">KuaiPan kullanarak dosyaları kaydet</string>
   <string name="user_guide_summary">Rahat ve güvenli bir bulut depolamasıdır</string>
   <string name="user_guide_upload_to_kuaipan">Telefondaki içeriği KuaiPan\'da saklayın.</string>
+  <string name="user_like_text">Sevilenler</string>
+  <string name="user_liked_video_title">Sevilen Videolar</string>
   <string name="user_login_dialog_cancle">İptal</string>
   <string name="user_login_dialog_tip">Videolarıi raytingleri ve ödülleri kazanabilmek için oturum aç</string>
   <string name="user_login_dialog_title">Oturum Aç</string>
+  <string name="user_message_text">Mesajlar</string>
   <string name="user_msg_text">Mesajlar</string>
+  <string name="user_no_fans_tip">Takipçi yok</string>
+  <string name="user_no_follow_topic">"Henüz takip edilen konu yok."</string>
+  <string name="user_no_follow_user">""Henüz takip edilen konu yok."</string>
+  <string name="user_no_liked_video_tip">Sevdiğiniz videolar burada.</string>
   <string name="user_no_net_video_tip">Ağ bağlantısı zayıf, ayarları denetleyin ve yeniden deneyin</string>
   <string name="user_no_upload">Video yok</string>
   <string name="user_no_video_tip">"Videolar henüz yüklenmedi"</string>
   <string name="user_not_login">Önce giriş yap</string>
   <string name="user_not_video_btn_text">Önce videoyu yükleyin</string>
+  <string name="user_recommend_follow">Tavsiyeli profiller</string>
+  <string name="user_setting_follow_new_msg">Takipçilerin bildirimleri</string>
+  <string name="user_setting_follow_new_msg_tip">Yeni videolar hakkında bildirim al</string>
+  <string name="user_setting_followed_msg">Takipçilerin bildirimleri</string>
+  <string name="user_setting_followed_msg_tip">İnsanlar sizi takip etmeye başladığında bildirim al</string>
   <string name="user_setting_new_comment">Yorumların bildirimleri</string>
   <string name="user_setting_new_comment_tip">Yeni yorumların bildirimlerini al.</string>
   <string name="user_setting_new_liked">Sevilen bildirimler</string>
@@ -822,6 +850,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_setting_topic_new_msg_tip">"Başlıkta yeni videolar takipçiler tarafından paylaşıldığında bildirimleri al."</string>
   <string name="user_topic_btn_text">Daha fazla başlığa bak</string>
   <string name="user_topic_text">Başlıklarım</string>
+  <string name="user_upload_text">Yüklemeler</string>
   <string name="user_upload_tip">Yükle</string>
   <string name="user_video_text">Videolarım</string>
   <string name="utf8_summary">FTP sistemi varsayılan kodlaması</string>
@@ -836,13 +865,13 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="video_data_consumption_confirm">Tamam</string>
   <string name="video_data_consumption_dialog_message">Yüklemek için %1$s mobil veri gerekiyor</string>
   <string name="video_data_consumption_dialog_title">Mobil Veri Uyarısı</string>
-  <string name="video_parse_btn">Başlat</string>
-  <string name="video_parse_error_repeated">"Benzer videolar yüklenemiyor"</string>
-  <string name="video_parse_error_unknown">"Bu video hizmeti desteklenmiyor, farklı bir tane deneyin"</string>
-  <string name="video_parse_hint">Desteklenen Uygulamalar: WeChat, Weibo, Youku.</string>
-  <string name="video_parse_success">Başarılı</string>
-  <string name="video_parse_timeout">Bazı şeyler yanlış gitti, tekrar deneyin</string>
-  <string name="video_parsing_btn">Yükleniyor…</string>
+  <string name="video_parse_btn">"Başlat'a basın"</string>
+  <string name="video_parse_error_repeated">"Lütfen,benzer video bağlantısı tekrarlanamıyor"</string>
+  <string name="video_parse_error_unknown">"Bu bağlantısı desteklenmiyor, farklı bir tane deneyin"</string>
+  <string name="video_parse_hint">Desteklenen Video Bağlantısı: WeChat, Weibo, Youku.</string>
+  <string name="video_parse_success">Ayrıştırma başarılı</string>
+  <string name="video_parse_timeout">Ayrıştırılamadı, lütfen yenileyin</string>
+  <string name="video_parsing_btn">Ayrıştırılıyor…</string>
   <string name="video_play_failed">Bilinmeyen hata</string>
   <string name="video_publish_hint">Videonuzu bulması için diğer kişilerin anlayacağı etkili içerikler, açıklamalar yazın</string>
   <string name="video_releasing">Yükleniyor…</string>
@@ -877,6 +906,9 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="weixin_not_installed">"WeChat kurulu değil"</string>
   <string name="weixin_sticker_tag_str">Etiketler</string>
   <string name="wifi_state">WLAN Bağlantısı</string>
+  <string name="wx_title1">"Burada güzel video var!"</string>
+  <string name="wx_title2">Video paylaştım, bakın!</string>
+  <string name="wx_title3">Dünyanın her yerinden videoları izleyin!</string>
   <string name="wxcircle_platform">Anlar</string>
   <string name="xiaomi_account">Mi Hesabı</string>
   <string name="xiaomi_btn_str">Mi</string>
