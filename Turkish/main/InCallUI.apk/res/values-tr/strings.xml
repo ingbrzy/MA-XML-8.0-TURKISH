@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accept_modify_call_request_prompt">Arama isteğini değiştirme kabul edilsin mi?</string>
+  <string name="accept_modify_call_request_prompt">Arama isteği değişikliği kabul edilsin mi?</string>
   <string name="accessibility_call_muted">Çağrı sessizde.</string>
   <string name="accessibility_speakerphone_enabled">Hoparlör etkin.</string>
   <string name="activity_not_found">Uygulama telefonunuzda yüklü değil.</string>
@@ -86,7 +86,7 @@
   <string name="callFailed_timedOut">Yanıt yok, zaman aşımına uğradı</string>
   <string name="callFailed_unobtainable_number">Geçersiz numara</string>
   <string name="callFailed_userBusy">Hat meşgul</string>
-  <string name="callUnanswered_forwarded">Arama cevaplanmadı ve yönlendirildi</string>
+  <string name="callUnanswered_forwarded">Cevaplanmayan çağrı yönlendirildi</string>
   <string name="call_additional_sum">Telefon numarası ve arama bekletme ayarları</string>
   <string name="call_barring_sum">Sesli mesaj engelleme ayarları</string>
   <string name="call_button_dialer_text">Klavye</string>
@@ -116,6 +116,7 @@
   <string name="caller_manage_manage_done_text">Çağrıya dön</string>
   <string name="calling_via_template">%s ile aranıyor</string>
   <string name="can_not_call_oneself">"Bu numara aranamadı"</string>
+  <string name="can_not_use">"Kullanılamadı"</string>
   <string name="cancel">İptal</string>
   <string name="cannot_answered_Video_Call">Zaten faal bir sesli arama olduğundan görüntülü çağrıya cevap verilemiyor.</string>
   <string name="cannot_answered_Voice_Call">Zaten bir görüntülü arama olduğundan sesli aramaya cevap verilemiyor</string>
@@ -253,8 +254,8 @@
   <string name="disable_cfnrc_forbidden">"Operatörünüz telefonunuza ulaşılamadığında çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor."</string>
   <string name="disable_cfnry_forbidden">"Operatörünüz telefonunuza cevap vermediğinde çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor."</string>
   <string name="disable_data_connection_msg"> Tüm kullanılabilir ağlar için arama kullanımda olduğunda veri bağlantısı kesilecek. Devam etmek istiyor musun?</string>
-  <string name="disable_fdn">FDN devre dışı</string>
-  <string name="disable_fdn_ok">FDN etkin</string>
+  <string name="disable_fdn">Arama Yönlendirme devre dışı</string>
+  <string name="disable_fdn_ok">Arama Yönlendirme etkin</string>
   <string name="disable_pin_ok">SIM PIN devre dışı.</string>
   <string name="disable_sim_pin">SIM PIN devre dışı</string>
   <string name="display_name">GörünenAd</string>
@@ -311,8 +312,8 @@
   <string name="enable_disable_retail_directory">Sarı Sayfalar</string>
   <string name="enable_disable_stock_quotes">Hisse Senetleri</string>
   <string name="enable_disable_technology_news">Teknoloji Haberleri</string>
-  <string name="enable_fdn">FDN etkin</string>
-  <string name="enable_fdn_ok">FDN devre dışı</string>
+  <string name="enable_fdn">Arama Yönlendirme etkin</string>
+  <string name="enable_fdn_ok">Arama Yönlendirme devre dışı</string>
   <string name="enable_in_progress">Lütfen bekleyin...</string>
   <string name="enable_pin">SIM PIN kodunu etkinleştir/devre dışı bırak</string>
   <string name="enable_pin_ok">SIM PIN kodu etkinleştirildi</string>
@@ -348,7 +349,7 @@
   <string name="fdn_errorcode_pin2_info">Başarısız, geçersiz PIN2.</string>
   <string name="fdn_errorcode_storage_info">Başarısız, depolama dolu.</string>
   <string name="fdn_errorcode_unknown_info">Başarısız, bilinmeyen bir hata oluştu, lütfen daha sonra deneyin.</string>
-  <string name="fdn_invalid_number">"Sayı 20 basamağı geçemeyeceğinden FDN güncellenemedi."</string>
+  <string name="fdn_invalid_number">"Sayı 20 basamağı geçemeyeceğinden Arama Yönlendirme güncellenemedi."</string>
   <string name="fdn_only_error">Operasyon sadece sabit arama numaralarına izin verilir.</string>
   <string name="fdn_phone_book_busy">Telefon rehberi artık meşgul, lütfen daha sonra deneyin.</string>
   <string name="fraud_call_answer">Cevapla</string>
@@ -394,18 +395,18 @@ Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
   <string name="incall_toast_unhold">Bekletmeden al</string>
   <string name="incoming_answer_voice_text">Sesli cevap</string>
   <string name="incoming_call_forwarded_title">Gelen Aramaları Yönlendir</string>
-  <string name="incoming_circle_text_answer">Loosen answer</string>
-  <string name="incoming_circle_text_answer_p">Answering slide</string>
-  <string name="incoming_circle_text_message">Loosen SMS reply</string>
-  <string name="incoming_circle_text_message_p">SMS reply slide</string>
-  <string name="incoming_circle_text_reject">Loosen reject</string>
-  <string name="incoming_circle_text_reject_p">Rejecting slide</string>
+  <string name="incoming_circle_text_answer">Serbest bırak</string>
+  <string name="incoming_circle_text_answer_p">Yukarı kaydır</string>
+  <string name="incoming_circle_text_message">Serbest bırak</string>
+  <string name="incoming_circle_text_message_p">Yukarı kaydır</string>
+  <string name="incoming_circle_text_reject">Serbest bırak</string>
+  <string name="incoming_circle_text_reject_p">Yukarı kaydır</string>
   <string name="international_dialing_add_country_code" formatted="false">"%s numarası arama yaptığınız tespit edildi. Ülke kodu eklemek ister misiniz (+%s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code">"%1$s numarayı aradığınız tespit edildi, %2$s. Ülke kodunu ve alan kodu eklemek istiyor musunuz (+%3$s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code_without_prefix">Ülke kodunu ve alan kodu eklemek istiyor musunuz?</string>
   <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"%s numarayı çevirdiğiniz tespit edildi. Hedefiniz şehir %s değilse, alan kodunu girin."</string>
   <string name="international_dialing_add_country_code_input_area_code">"%s numarayı çevirdiğiniz tespit edildi. Eğer öyleyse, alan kodunu girin."</string>
-  <string name="international_dialing_area_code">alan kodu</string>
+  <string name="international_dialing_area_code">Alan Kodu</string>
   <string name="international_dialing_call_button">Çağrı</string>
   <string name="international_dialing_change_country_prefix">"%s numarayı çevirdiğiniz tespit edildi. Uluslararası arama öneki değiştirilsin mi '+'?"</string>
   <string name="international_dialing_click_below_button">Ülke kodu numarasını değiştirmek için aşağıdaki düğmeye tıklayın.</string>
@@ -423,7 +424,7 @@ Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
   <string name="internet_call">Internet Çağrısı</string>
   <string name="invalidPin">4 ile 8 karakter arası uzunluğunda bir PIN2 kodu girin.</string>
   <string name="invalidPin2">4 ila 8 rakamdan oluşan bir PIN2 yazın.</string>
-  <string name="invalidPuk2">8 karakter uzunluğunda bir Puk2 kodu girin.</string>
+  <string name="invalidPuk2">8 karakter uzunluğunda bir PUK2 kodu girin.</string>
   <string name="invalid_password">4 haneli bir parola yazın.</string>
   <string name="ip_dial_error_toast_for_no_ip_prefix_number">Sesli arama ayarlarında önce IP önek numarasını girin.</string>
   <string name="ip_dial_error_toast_for_sip_call_selected">IP arama fonksiyonu internet çağrısı için geçerli değildir.</string>
@@ -488,7 +489,7 @@ Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
   <string name="maintenance_disable">Bakım devre dışı</string>
   <string name="maintenance_enable">Bakım etkinleştirildi</string>
   <string name="manageConferenceLabel">Konferans Görüşmesini Yönet</string>
-  <string name="manage_fdn_list">FDN Listesi</string>
+  <string name="manage_fdn_list">Arama Yönlendirme Listesi</string>
   <string name="manual_select_dialog_msg">Cep telefonu elle seçim modunda iken diğer operatörler seçilemez. Bazen el ile seçimi yeniden yapmak veya seçili operatörün hizmeti kaybettiğinizde otomatik seçim moduna geçiş yapmak gerekir. Tavsiyemiz \"Otomatik Olarak Seç\" seçeneğini kullanmanız. Ağı el ile seçmek istiyor musunuz?</string>
   <string name="manual_select_title">Elle seç</string>
   <string name="memberStatus">Durum</string>
@@ -503,7 +504,7 @@ Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
   <string name="mhh_enable">Tıp, Sağlık ve Hastane seçenekleri etkinleştirildi</string>
   <string name="minutereminder_summary">Her dakikada 50s hatırlat</string>
   <string name="minutereminder_title">Dakika Hatırlatıcısı</string>
-  <string name="miprofile_stranger_card">Yabancı kart</string>
+  <string name="miprofile_stranger_card">Bilinmeyen</string>
   <string name="mismatchPin">"Yazdığınız PIN eşleşmiyor. Tekrar deneyin."</string>
   <string name="mismatchPin2">"Yazdığınız PIN2s eşleşmiyor. Tekrar deneyin."</string>
   <string name="mismatch_password">Girdiğiniz şifre eşleşmiyor. Lütfen tekrar deneyin.</string>
@@ -524,7 +525,7 @@ koşulsuz etkinleştirildi"</string>
 "</string>
   <string name="modify_call_option_title">Hangi arama türü?</string>
   <string name="modify_call_option_voice">Sadece Sesli</string>
-  <string name="modify_call_option_vt">VT</string>
+  <string name="modify_call_option_vt">Videolu Görüşme</string>
   <string name="modify_call_option_vt_rx">Video alımı</string>
   <string name="modify_call_option_vt_tx">Video aktarımı</string>
   <string name="modify_call_prompt_no">Hayır</string>
@@ -756,7 +757,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="preferred_network_mode_dialogtitle">Tercih Edilen Ağ Modu</string>
   <string name="preferred_network_mode_evdo_only_summary">Tercih Edilen Mod: Yalnızca EvDo</string>
   <string name="preferred_network_mode_global_summary">Tercih Edilen Mod: Global</string>
-  <string name="preferred_network_mode_gsm_only_summary">Tercih Edilen Mod: Yanlız</string>
+  <string name="preferred_network_mode_gsm_only_summary">Tercih Edilen Mod: Yalnız</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Tercih Edilen Mod: GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Tercih Edilen Mod: CDMA + LTE/EvDo</string>
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Tercih Edilen Mod: LTE/WCDMA</string>
@@ -903,6 +904,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="sum_cw_disabled">Görüşme esnasında gelen aramaları bildir</string>
   <string name="sum_cw_enabled">Görüşme esnasında gelen aramaları bildir</string>
   <string name="sum_default_caller_id">Dışarıya yapılan aramalarda numara gösterimi için operatörün varsayılan ayarlarını kullan</string>
+  <string name="sip_call_not_support_record">"SIP çağrısı kaydedilemedi"</string>
   <string name="sum_fdn">Sabit Arama Numaralarını Yönet</string>
   <string name="sum_fdn_change_pin">FDN erişimi için PIN kodunu değiştir</string>
   <string name="sum_fdn_manage_list">Telefon numara listesini yönet</string>
@@ -917,7 +919,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="sum_voice_call">Sesli aramaya ile ilgili ayarlar</string>
   <string name="sum_voice_mail">Sesli Mesaj Hizmeti ve Numarası</string>
   <string name="sum_voicemail_choose_provider">Sesli mesaj servisini seçin</string>
-  <string name="suspect_info">"Daima şahsı mâli bilgileriniz hakkında birine cevap vermeden önce telefon veya video aracılığıyla konuştuğunuz kişinin kimliğini mutlaka teyit edin."</string>
+  <string name="suspect_info">"Dikkat: Daima şahsı mâli bilgileriniz hakkında birine cevap vermeden önce telefon veya video aracılığıyla konuştuğunuz kişinin kimliğini mutlaka teyit edin."</string>
   <string name="technology_news_disable">Teknoloji Haberleri devre dışı</string>
   <string name="technology_news_enable">Teknoloji Haberleri etkin</string>
   <string name="third_party_account_summary">Bu hesap %s uygulaması tarafından şu anda kullanımda.</string>
@@ -935,7 +937,7 @@ Sonraki dönem %4$d gün sonra başlayacak (%5$s)"</string>
   <string name="throttle_time_frame">Veri Kullanım Dönemi</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ döngü geçme süresi
 Sonraki dönem %2$d gün sonra başlayacak (%3$s)"</string>
-  <string name="time_left_livetalk">(%dS)</string>
+  <string name="time_left_livetalk">(%ds)</string>
   <string name="transport">Protocol</string>
   <string name="transport_title">Aktarım türü</string>
   <string name="tty_mode_option_summary">TTY Modunu ayarla</string>
