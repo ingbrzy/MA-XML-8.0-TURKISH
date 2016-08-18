@@ -425,4 +425,9 @@
         <item>8</item>
         <item>4</item>
     </integer-array>
+    <integer-array name="network_mode_all_lte">
+        <item>10</item>
+        <item>8</item>
+        <item>20</item>
+    </integer-array>
 </resources>
