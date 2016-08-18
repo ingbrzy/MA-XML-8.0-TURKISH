@@ -53,7 +53,10 @@
   <string name="confirm_local_package_wipe_title">Veri silinsin mi?</string>
   <string name="continue_update_negative_btn">Devam</string>
   <string name="continue_update_positive_btn">Durdur</string>
-  <string name="daily_build">Günlük</string>
+  <string name="daily_build">Günlük Sürüm</string>
+  <string name="dialog_reboot_message">"MIUI Güncellemesi yaklaşık 5-20 dakika arasında sürebilir. Bu esnada cihazı kapatmayın ve kesinlikle güncelleme bitene kadar yeniden başlatmayın."</string>
+  <string name="dialog_reboot_title">Sistem Güncellemesi</string>
+  <string name="dialog_reboot_yes">Güncelle</string>
   <string name="download_again">Tekrar Deneyin</string>
   <string name="download_cancel">İptal</string>
   <string name="download_current_rom">Güncelemeyi uygulayıp yeniden başlat</string>
@@ -89,6 +92,7 @@
   <string name="later">Sonra</string>
   <string name="loading">İsteniyor…</string>
   <string name="log_share">Paylaş</string>
+  <string name="menu_more_button">Menü</string>
   <string name="menu_title_current_version_log">"Yenilikler"</string>
   <string name="menu_title_download_current_rom">En Güncel ROM\'u İndir</string>
   <string name="menu_title_pick_rom_file">Güncelleme Paketini Seç</string>
@@ -183,7 +187,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="sina_share_success">Gönderildi</string>
   <string name="sina_token_expired_warning">Weibo hesabının süresi doldu: Lütfen yenileyin</string>
   <string name="sina_token_invalid_warning">Weibo hesabı geçersiz: Lütfen yenileyin</string>
-  <string name="sogou_uninstall_msg">Sogou klavye (Mi Edition) artık MIUI 7 sürümüyle uyumlu değil. Klavyeyi değiştirin veya daha yeni Sogou sürümüne güncelleyin.</string>
+  <string name="sogou_uninstall_msg">Sogou klavye (Mi Edition) artık MIUI 8 sürümüyle uyumlu değil. Klavyeyi değiştirin veya daha yeni Sogou sürümüne güncelleyin.</string>
   <string name="sogou_uninstall_negative_button">Sogou\'yu Güncelle</string>
   <string name="sogou_uninstall_positive_button">Klavyeyi Değiştir</string>
   <string name="sogou_uninstall_title">Klavye uyumluluğu</string>
@@ -257,6 +261,6 @@ Geribildirim gönderilemedi."</string>
   <string name="weekly_build">Haftalık</string>
   <string name="welcom_button">Tamam</string>
   <string name="welcom_message">"Sarsmaya hazırsın :)"</string>
-  <string name="welcom_title">MIUI 7 dünyasına hoşgeldiniz</string>
+  <string name="welcom_title">MIUI 8 dünyasına hoşgeldiniz!</string>
   <string name="worst_update">Şu ana kadarki en kötü güncelleme</string>
 </resources>
