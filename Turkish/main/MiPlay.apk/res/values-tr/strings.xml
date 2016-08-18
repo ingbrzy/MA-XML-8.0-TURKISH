@@ -2,6 +2,9 @@
 <resources>
   <string name="app_name">Mi Oynatıcısı</string>
   <string name="cancel">İptal</string>
+  <string name="enable_wifi_btn">Etkin</string>
+  <string name="enable_wifi_message">Yakın cihazları bağla ve arama kullanımı için WLAN bağlantısı etkin.</string>
+  <string name="enable_wifi_title">WLAN etkin</string>
   <string name="media_feature_projection">Ters Görüntü</string>
   <string name="media_status_error">Hata</string>
   <string name="media_status_started">Bağlandı</string>
