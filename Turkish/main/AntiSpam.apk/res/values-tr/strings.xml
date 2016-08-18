@@ -145,7 +145,7 @@
   <string name="mark_courier">Raporlanan ajanları engelle</string>
   <string name="mark_courier_block">Ajan olarak raporlandı</string>
   <string name="mark_courier_block_large">Ajan</string>
-  <string name="mark_courier_time_setting">Tanımlanan sayı kadar ajan bildirimi raporlandı</string>
+  <string name="mark_courier_time_setting">Tanımlanan engellenen numara ajan olarak bildirimi raporlandı</string>
   <string name="mark_fraud">Raporlanan dolandırıcıları engelle</string>
   <string name="mark_fraud_block">Dolandırıcı olarak raporlandı</string>
   <string name="mark_fraud_block_large">Dolandırıcılar</string>
@@ -168,7 +168,7 @@
   <string name="mark_sell">Telemarket bildirilerini engelle</string>
   <string name="mark_sell_block">Telemarket olarak işaretlendi</string>
   <string name="mark_sell_block_large">Telemarket</string>
-  <string name="mark_sell_time_setting">Tanımlanan sayı kadar telemarket bildirimi yapıldı</string>
+  <string name="mark_sell_time_setting">Tanımlanan engelli numara telemarket olarak bildirim yapıldı</string>
   <string name="mark_time_setting_dialog_title">Raporlama Sayısı</string>
   <string name="mark_time_text">%d</string>
   <string name="marked_by_others">"Diğer kullanıcılar %d olarak raporladı"</string>
