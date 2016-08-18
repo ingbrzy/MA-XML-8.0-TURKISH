@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="agps_enable">A-GPS etkin</string>
+  <string name="agps_mode">AGPS Modu</string>
+  <string name="agps_network">Ağı Başlatma İsteğine izin ve</string>
+  <string name="agps_onoff">AGPS Aç/Kapat</string>
+  <string name="agps_position_mode">AGPS Pozisyon Modu</string>
+  <string name="app_name">AGPS Test Modu</string>
+  <string name="cmcc_logging">CMCC Günlüğü</string>
+  <string name="logging">Günlükleniyor...</string>
+  <string name="mode_msa">MSA</string>
+  <string name="mode_msb">MSB</string>
+  <string name="mode_standalone">Yalnız Başına</string>
+  <string name="position_mode_coldstart">Soğuk Başlatma</string>
+  <string name="position_mode_hotstart">Sıcak Başlatma</string>
+  <string name="position_mode_warmstart">Sıcak Açış</string>
+  <string name="reset">Varsayılana Sıfırla</string>
+  <string name="save">Kaydet</string>
+  <string name="secure_mode">Güvenli Modu</string>
+  <string name="slp_address">SLP Adresi:</string>
+  <string name="slp_load">Yükle</string>
+  <string name="slp_port">SLP Portu:</string>
+  <string name="slp_template">SLP Şablonu</string>
+  <string name="slp_templatechoose">SLP Şablonu seç</string>
+  <string name="supl_logging">SUPL Günlükleniyor</string>
+  <string name="user_plane_settings">Kullanıcı Düzlem Ayarları</string>
+</resources>
