@@ -26,6 +26,7 @@
   <string name="duration_format_hour">%ss</string>
   <string name="duration_format_minute">%sdak</string>
   <string name="duration_format_second">%ssn</string>
+  <string name="empty_recognition_tip">Boş</string>
   <string name="error_app_internal">Başka bir uygulamanın şu anda kayıt özelliğini kullanıp-kullanmadığını kontrol edin.</string>
   <string name="error_app_internal_title">Ses kaydedici hatası</string>
   <string name="error_file_access">"Dosya yok veya bozuk!"</string>
@@ -35,6 +36,7 @@
   <string name="error_sdcard_unmounted">Şimdi SD kart takın</string>
   <string name="export_to_note">Notları dışarı aktar</string>
   <string name="fm_record">Radyo Kayıtları (%d)</string>
+  <string name="invalid_argument">Geçersiz kanıt</string>
   <string name="low_battery_error">"Kalan pil %5'ten olduğundan, kayıt işlemini kaybedilmeden durduruldu ve yapılan kayıt saklandı."</string>
   <string name="mark_point_list_title">İşaretlenen listesi </string>
   <string name="message_file_size_error">%s tarafından desteklenen kayıt azami uzunluğa ulaşmıştır.</string>
@@ -47,7 +49,7 @@
   <string name="notification_stopped">Kayıt durduruldu</string>
   <string name="notification_title_all_paused">İndirme duraklatıldı</string>
   <string name="notification_warning">Depolama az (%d dakikadan az)</string>
-  <string name="path_soundrecorder_setting">Sistem apps/Recorder</string>
+  <string name="path_soundrecorder_setting">Sistem Uygulamaları/Kaydedici</string>
   <string name="pause">Durdur</string>
   <string name="playback_delete_records">Kaydı sil</string>
   <string name="playback_share_records">Kaydı paylaş</string>
@@ -59,7 +61,7 @@
   <string name="preference_scenes">Kayıt türü</string>
   <string name="preference_silent_mode">Kayıt esnasında zil sesini kapat</string>
   <string name="preference_tip_rename">Kayıt adını elle gir</string>
-  <string name="recognition_error_cancel">Canceled</string>
+  <string name="recognition_error_cancel">İptal edildi</string>
   <string name="recognition_error_download_cancel">Daha sonra</string>
   <string name="recognition_error_download_fail">İndirme başarısız.Lütfen internet bağlantınızı kontrol ediniz.</string>
   <string name="recognition_error_download_msg">Hizmeti kullanılabilir hale getirmek için tanıma motorunu indirmek gerekir.</string>
@@ -82,6 +84,7 @@
   <string name="record_downloading_notification_count">%d indiriliyor</string>
   <string name="record_list">Kayıtlar</string>
   <string name="record_list_call">Kayıtlı Çağrılar</string>
+  <string name="record_list_category_title_format">MMMM yyyy</string>
   <string name="record_list_cloud">Eşitlenmiş kayıtlar</string>
   <string name="record_list_cloud_call">Eşitlenmiş kayıtlı çağrılar</string>
   <string name="record_list_cloud_fm">Eşitlenmiş FM kayıtları</string>
@@ -101,8 +104,9 @@
   <string name="rename_duplicate">Aynı isimde başka bir kayıt zaten var.</string>
   <string name="rename_no_more_tip">"Tekrar gösterme"</string>
   <string name="retry">Tekrarla</string>
+  <string name="runtime_permission_ungranted">"Kaydedici kullanımı izinleri garanti edilemez"</string>
   <string name="search_app">Kaydedici</string>
-  <string name="search_enable_earpiece_title">Use receiver to play audio</string>
+  <string name="search_enable_earpiece_title">Ses oynatımı alıcısını kullan</string>
   <string name="search_led_indicator">Kilit ekranı bildirimleri</string>
   <string name="search_led_indicator_prompt">Kayıt edilirken bildirim ışığını göster</string>
   <string name="search_quliaty_title">Kayıt kalitesi</string>
@@ -112,6 +116,8 @@
   <string name="share">Paylaş</string>
   <string name="share_dialog_title">Şununla paylaş</string>
   <string name="sound_recorder_settings">Ayarlar</string>
+  <string name="speech_recognition_complete">Tamamlanan</string>
+  <string name="speech_recognition_running_tip">Çalışan</string>
   <string name="start">Devam et</string>
   <string name="status_bar_back">Dönmek için dokunun...</string>
   <string name="status_bar_recording">Kaydediliyor...</string>
