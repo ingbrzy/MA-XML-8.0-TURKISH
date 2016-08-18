@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_frequent_phrases">Sık kullanılan ifade ekle</string>
   <string name="android_ringtone_default_with_actual">Varsayılan Zil Sesi (%1$s)</string>
   <string name="android_ringtone_silent">Yok</string>
   <string name="android_ringtone_unknown">Bilinmeyen Zil Sesi</string>
@@ -9,6 +10,7 @@
   <string name="armed_forces_day">Silahlı Kuvvetler Günü</string>
   <string name="autumn_begins">Sonbahar Başlıyor</string>
   <string name="autumn_equinox">Sonbahar Gündönümü</string>
+  <string name="carousel">Carousel</string>
   <string name="childrens_day">Çocuk Bayramı</string>
   <string name="chinese_youth_day">Gençlik Günü</string>
   <string name="christmas_day">Yılbaşı</string>
@@ -18,8 +20,9 @@
   <string name="cloud_state_syncing">Mi Bulut ile Eşitlendi</string>
   <string name="cold_dews">Soğuk Günler</string>
   <string name="day_following_good_friday">Hayırlı Cumalar</string>
-  <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
-  <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+  <string name="daydream">Daydream</string>
+  <string name="def_alarm_alert">/system/media/audio/alarms/Daydream.ogg</string>
+  <string name="def_notification_sound">/system/media/audio/notifications/Fresh.ogg</string>
   <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
   <string name="def_ringtone_slot_1">/system/media/audio/ringtones/MI.ogg</string>
   <string name="def_ringtone_slot_2">/system/media/audio/ringtones/MI.ogg</string>
@@ -29,12 +32,18 @@
   <string name="def_sms_received_sound">/system/media/audio/notifications/MessageIncoming.ogg</string>
   <string name="def_sms_received_sound_slot_1">/system/media/audio/notifications/MessageIncoming.ogg</string>
   <string name="def_sms_received_sound_slot_2">/system/media/audio/notifications/MessageIncoming.ogg</string>
+  <string name="delete_frequent_phrases">Sık kullanılan ifade sil</string>
+  <string name="delete_frequent_phrases_confirm">Seçili sık kullanılan ifade silinsin mi?</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="double_seventh_day">七夕</string>
   <string name="easter">Paskalya</string>
+  <string name="edit_frequent_phrases">Sık kullanılan ifadeleri düzenle</string>
   <string name="fools_day">Aptallar Günü</string>
+  <string name="frequent_phrases_des">Birkaç dokunuşla sık kullanılan ifadeleri düzenleyip, girin</string>
+  <string name="frequent_phrases_size_exceeded">%1$d sık kulllanılan ifadelere ekle. Fazlasını eklemek için gereksizleri silin.</string>
+  <string name="glockenspiel">Orkestra Çanı</string>
   <string name="good_friday">Hayırlı Cumalar</string>
   <string name="grain_buds">小满</string>
   <string name="grain_in_ear">芒种</string>
@@ -49,6 +58,7 @@
   <string name="labour_day">İşçi Bayramı</string>
   <string name="lantern_festival">Su Feneri Festivali</string>
   <string name="light_snow">小雪</string>
+  <string name="lollipop">Lollipop</string>
   <string name="lunar_ba">八</string>
   <string name="lunar_calendar">Kamerî Ay</string>
   <string name="lunar_chu">初</string>
@@ -72,6 +82,9 @@
   <string name="lunar_yi">一</string>
   <string name="lunar_yue">月</string>
   <string name="lunar_zheng">正</string>
+  <string name="menu_add_frequent_phrases">Ekle</string>
+  <string name="menu_delete">Sil</string>
+  <string name="menu_edit">Düzenle</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day">Ulusal Gün</string>
   <string name="national_father_day">Milli Babalar Günü</string>
@@ -99,6 +112,7 @@
   <string name="the_mid_autumn_festival">Güz Ortası Festivali</string>
   <string name="the_rains">雨水</string>
   <string name="the_spring_festival">Bahar Şenliği Arifesi</string>
+  <string name="toyrobot">ToyRobot</string>
   <string name="tw_childrens_day">Çocuk Bayramı</string>
   <string name="tw_youth_day">Gençlik Günü</string>
   <string name="united_nations_day">Birleşmiş Milletler Günü</string>
@@ -112,7 +126,7 @@
   <string name="white_dews">Beyaz Çiğ</string>
   <string name="winter_begins">Kış Başlıyor</string>
   <string name="winter_solstice">Kış Gündönümü</string>
-  <string name="yellow_page_module_sms_sent">SMS sent</string>
+  <string name="yellow_page_module_sms_sent">SMS gönder</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">"Misafir Modunda iken mesaj gönderilemez"</string>
   <string name="yellow_page_sms_send_failed">"SMS gönderilemedi"</string>
   <string name="yellow_page_sms_sending">Gönderiliyor…</string>
