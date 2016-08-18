@@ -67,7 +67,7 @@
   <string name="lable_setup_event_list">Etkinlik listesi ayarı</string>
   <string name="lable_setup_idle_modetext">Boşta modu ayarı</string>
   <string name="lable_setup_menu">Menü ayarı</string>
-  <string name="lable_sim_not_ready">SIM Toolkit hazır değil ve desteklenmiyor</string>
+  <string name="lable_sim_not_ready">SIM Araçları hazır değil ve desteklenmiyor</string>
   <string name="lable_submit_multimedia_message">MMS mesajı gönder</string>
   <string name="lable_timer_management">Zamanlayıcı Yönetimi</string>
   <string name="main_menu_not_initialized">Ana menü başlatılmadı</string>
@@ -75,6 +75,9 @@
   <string name="menu_end_session">Oturum bitişi</string>
   <string name="no_sim_card_inserted">SIM Araçlarını başlatmak için SIM takın.</string>
   <string name="service_name">Servis Adı</string>
+  <string name="sim_type_sim_name">SIM Araçları</string>
+  <string name="sim_type_uim_name">UIM Araçları</string>
+  <string name="sim_type_usim_name">USIM Araçları</string>
   <string name="stk_app_state">Uygulama Durumu</string>
   <string name="stk_dialog_accept">EVET</string>
   <string name="stk_dialog_reject">HAYIR</string>
