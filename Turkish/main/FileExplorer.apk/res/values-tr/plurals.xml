@@ -264,6 +264,14 @@
         <item quantity="few">video</item>
         <item quantity="many">video</item>
     </plurals>
+    <plurals name="user_follow_me_items">
+        <item quantity="other">takipçi</item>
+        <item quantity="zero">takipçi</item>
+        <item quantity="one">takipçi</item>
+        <item quantity="two">takipçi</item>
+        <item quantity="few">takipçi</item>
+        <item quantity="many">takipçi</item>
+    </plurals>
     <plurals name="number_of_comment">
         <item quantity="other">%1$s yorum</item>
         <item quantity="zero">%1$s yorum</item>
@@ -279,5 +287,13 @@
         <item quantity="two">%1$s video</item>
         <item quantity="few">%1$s video</item>
         <item quantity="many">%1$s video</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%1$s takipçi</item>
+        <item quantity="zero">%1$s takipçi</item>
+        <item quantity="one">%1$s takipçi</item>
+        <item quantity="two">%1$s takipçi</item>
+        <item quantity="few">%1$s takipçi</item>
+        <item quantity="many">%1$s takipçi</item>
     </plurals>
 </resources>
