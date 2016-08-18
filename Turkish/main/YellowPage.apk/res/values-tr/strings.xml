@@ -14,6 +14,7 @@
   <string name="account_yellowpage_favorite">Favoriler</string>
   <string name="account_yellowpage_followed">Oynaylanmış Hesaplar</string>
   <string name="account_yellowpage_recent">Geçmişi Görüntüle</string>
+  <string name="add_to_desktop">Masaüstüne ekle</string>
   <string name="agree">Kabul</string>
   <string name="agree_to_continue">Devam</string>
   <string name="agree_to_turn_on">Kabul</string>
@@ -103,6 +104,7 @@
   <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Kurye Servisi</string>
   <string name="express_inquiry">İzleniyor</string>
+  <string name="express_inquiry_and_send">İzleniyor ve gönderiliyor</string>
   <string name="express_inquiry_button_text">Takip et</string>
   <string name="express_inquiry_clipboard_number_message">Takip kopyası izlensin mi?</string>
   <string name="express_inquiry_data_owner_prefix">"Takip bilgisini sağlayan: "</string>
@@ -127,6 +129,14 @@ Takip numarasını kontrol edin."</string>
   <string name="express_inquiry_provider_info">"Destekleyen: "</string>
   <string name="express_inquiry_serial_number_indication">Takip Numarası</string>
   <string name="express_inquiry_serial_number_prefix">Numara: %s</string>
+  <string name="express_inquiry_status_delivered">Ulaştı:</string>
+  <string name="express_inquiry_status_difficult_goods">Bilinmiyor</string>
+  <string name="express_inquiry_status_dispatch">Sevkiyatla İlgili:</string>
+  <string name="express_inquiry_status_on_the_way">Yolda</string>
+  <string name="express_inquiry_status_receipted">Alındı</string>
+  <string name="express_inquiry_status_return">Döndü</string>
+  <string name="express_inquiry_status_sign_out">Reddedildi</string>
+  <string name="express_inquiry_status_unknown">Bilinmiyor</string>
   <string name="express_inquiry_trace">Takip et</string>
   <string name="express_inquiry_trace_device_login_notice">"Başka bir cihazda bu hizmeti kullanıyoruz. Bu cihazdan sipariş durumunu almak istiyorsanız, Mi Hesabınızı doğrulamanız gerekir."</string>
   <string name="express_inquiry_trace_success">Takip ediliyor</string>
@@ -172,6 +182,8 @@ Takip numarasını kontrol edin."</string>
   <string name="express_sender_info">Gönderen bilgisi</string>
   <string name="express_sender_name">Gönderen:</string>
   <string name="express_sender_region">Gönderenin Yeri:</string>
+  <string name="express_shortcut_name">Sorgu veya Gönderim Durumu</string>
+  <string name="express_show_all_inquiry_history">Tüm Sorgu Geçmişini Göster</string>
   <string name="express_submit_order">Gönder</string>
   <string name="express_track_order">Takip et</string>
   <string name="express_tracking_number">Takip Numarası</string>
@@ -219,12 +231,19 @@ Takip numarasını kontrol edin."</string>
   <string name="locating_fail">"Konumunuz bulunamadı"</string>
   <string name="login_before_use">Önce oturum açmalısınız</string>
   <string name="login_ok">Oturum aç</string>
+  <string name="mark_number_check_choose_others">Diğerlerini Seç</string>
+  <string name="mark_number_check_dialog_title">Numarayı İşaretle</string>
+  <string name="mark_number_check_most_choice">(En Çok Seçilen)</string>
   <string name="mark_number_custom_mark_deleted">Etiket kaldırıldı</string>
+  <string name="mark_number_delete_confirm_message">%s etiket bilgisi kaldırılsın mı?</string>
+  <string name="mark_number_delete_confirm_title">Etiketi Kaldırma Bilgisi</string>
   <string name="mark_number_dialog_maintitle">Bu numarayı raporla</string>
   <string name="mark_number_dialog_subtitle">%2$d tarafında %1$s raporlandı</string>
   <string name="mark_number_feedback">Rapor</string>
   <string name="mark_number_feedback_hint">Geribildirim gir</string>
   <string name="mark_number_feedback_invalid_hint">Geribildiriminizi girin</string>
+  <string name="mark_number_feedback_not_number">"%s numara değil"</string>
+  <string name="mark_number_feedback_personal_number">"Kişisel Numara"</string>
   <string name="mark_number_feedback_success">Görüşleriniz başarıyla gönderildi</string>
   <string name="mark_number_marked_maintitle">Bu numara için değiştirme raporu</string>
   <string name="mark_number_marked_subtitle">%s bu numara bildirildi</string>
@@ -252,7 +271,7 @@ Takip numarasını kontrol edin."</string>
   <string name="miuishare_account_login_ok">Oturum Aç</string>
   <string name="miuishare_account_need_activate">Weibo Paylaşımlı Weibo hesabı şu anda etkinleştirilmedi, Xiaomi hesabına bağlanması gerektiriyor. Hesabınızı etkinleştirilsin mi?</string>
   <string name="miuishare_account_need_login">Weibo Paylaşımlı Weibo hesabı şu anda etkinleştirilmedi, Xiaomi hesabına oturum açılması gerekiyor. Şimdi paylaşım için oturum açılsın mı?</string>
-  <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_app_name">MIUI Paylaşım</string>
   <string name="miuishare_no_network">Paylaşılacak ağ yok</string>
   <string name="miuishare_publish">Gönder</string>
   <string name="miuishare_share_done">Paylaşım içeriğini gönder.</string>
@@ -262,6 +281,7 @@ Takip numarasını kontrol edin."</string>
   <string name="miuishare_wechat_timeline_title">Wechat Zaman Planlaması</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="more_coupons">Tüm kuponlar</string>
+  <string name="more_express_numbers">Diğer Expres Numarası</string>
   <string name="navigation_search_all_cities">Tüm şehirler</string>
   <string name="navigation_search_automatically_positioned_city">Geçerli şehir</string>
   <string name="navigation_search_default_hint">Konumları ara</string>
@@ -309,6 +329,7 @@ Takip numarasını kontrol edin."</string>
   <string name="payment_unknown_status_summary">Ağ bağlantınızı kontrol edin ve tekrar deneyin.</string>
   <string name="payment_unknown_status_title">"Ödeme durumu teyit edilemedi"</string>
   <string name="phone_event_setting_notice_text">"Bu özelliği kullanarak %1$s ve %2$s kabul etmiş olursunuz."</string>
+  <string name="phone_event_setting_notice_text_with_contacts_permission">"Bu özelliği kullanarak %1$s ve %2$s içeriğini kabul ederseniz. Gerekli durumlarda irtibata geçin."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">Toplam: %d</string>
   <string name="pull_to_refresh_pull_label">Yenilemek için çekin...</string>
@@ -374,6 +395,7 @@ Toplam: %3$s Yuan"</string>
   <string name="smart_antispam">Bilinmeyen numaraları tanımla</string>
   <string name="tag_follow_status">tag_follow_status</string>
   <string name="tag_follow_yp_id">tag_follow_yp_id</string>
+  <string name="title_activity_di_di_web">DiDi</string>
   <string name="toast_finish_delete_call_log">Çağrı geçmişi silindi</string>
   <string name="toast_text_copied">Metin kopyalandı</string>
   <string name="try_again">Tekrar Dene</string>
