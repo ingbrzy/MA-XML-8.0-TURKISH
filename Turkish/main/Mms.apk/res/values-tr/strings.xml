@@ -207,6 +207,7 @@
   <string name="hms_add_image_progress_message">Çalışıyor...</string>
   <string name="hms_first_use_tips">Servis mesajlarının alınması için, Wi-Fi ağına bağlı olmanız gerekiyor</string>
   <string name="hms_uri_param_err">"URL adresi boş olamaz"</string>
+  <string name="hold_to_talk">Konuşmak için basılı tut</string>
   <string name="i_know">Tamam</string>
   <string name="importing_progress_private_message">Aktarılıyor…</string>
   <string name="in_sms">Mesaj</string>
@@ -302,7 +303,7 @@
   <string name="mx_activate_status_desc_prepare_sending_sms">Etkinleştirme mesajı gönderiliyor...</string>
   <string name="mx_activate_status_desc_query_activte_info">SIM kart bilgilerini kontrol ediliyor…</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">Girdiğiniz telefon numarası geçersiz</string>
-  <string name="mx_activate_status_desc_wait_for_sms_fail">"Mi Mesaj Etkinleştirilmedi"</string>
+  <string name="mx_activate_status_desc_wait_for_sms_fail">"Mi Mesaj etkinleştirilmedi"</string>
   <string name="mx_activate_user_agreement_p1">"Kullanım Şartları: "</string>
   <string name="mx_and_voip_enable">Mi Mesajı &amp; Sesi</string>
   <string name="mx_and_voip_enable_popup_msg">"Mesaj gönderme ve operatör ücreti ödemeden diğer MIUI kullanıcılarına çağrı yapmak VoIP Weihui tarafından desteklenmektedir. Weihui Gizlilik Politikasına gözatın."</string>
@@ -361,6 +362,7 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Yeni mesaj</string>
   <string name="number_add_hint">Telefon numarasını girin</string>
+  <string name="open_audio_record_panel">Ses kayıt panelini aç</string>
   <string name="open_url_with_web">Tarayıcıda bu URL açılsın mı?</string>
   <string name="over_max_mms_size">MMS çok büyük!</string>
   <string name="overwrite_edited_content">"Düzenlediğiniz içeriğin üzerine yazılır."</string>
@@ -497,7 +499,7 @@
   <string name="search_show_more_results">Fazlasını Göster</string>
   <string name="search_title_mms">Mesajlaşma</string>
   <string name="second_mms">İkinci Mesaj</string>
-  <string name="second_mms_introduction">Lütfen İkinci Alana gidin</string>
+  <string name="second_mms_introduction">İkinci Alana git</string>
   <string name="second_mms_notice">Sadece ikinci mesajı göster</string>
   <string name="second_mms_switch">Kullanıcıya Geç</string>
   <string name="secs">saniye</string>
@@ -550,6 +552,7 @@
   <string name="sim_view">Görüntüle</string>
   <string name="slide_number">Slayt %s</string>
   <string name="slide_show_part">Bölüm %1$s/%2$s</string>
+  <string name="slide_up_to_cancel">İptal için yukarı kaydır</string>
   <string name="slideshow_activity">Slayt Gösterisi</string>
   <string name="sms_card_partner_label">"SMS Kart Ortağı: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
