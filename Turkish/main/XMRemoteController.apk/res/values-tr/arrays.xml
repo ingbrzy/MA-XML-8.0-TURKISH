@@ -23,7 +23,39 @@
     <string-array name="question">
         <item>Neden benim telefonum kablosuz cihazlar için aramaya devam ediyor?</item>
         <item>"Neden sadece A/C açıp/kapatabiliyorum?"</item>
-        <item>Mi 3 Mi 2ve Redmi IR uzaktan kumandasını kullanabilir miyim?</item>
+        <item>Mi 3, Mi 2 ve Redmi IR uzaktan kumandasını kullanabilir miyim?</item>
+    </string-array>
+    <string-array name="assistant_tab">
+        <item>Video</item>
+        <item>Ekran Görüntüleri</item>
+        <item>Uygulama</item>
+    </string-array>
+    <string-array name="epg_channel_tab">
+        <item>Tamam</item>
+        <item>Biriktir</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Geçmiş</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar">
+        <item>Tüm Kanallar</item>
+        <item>Favori Kanallar</item>
+        <item>CCTV Kanalı</item>
+        <item>Uydu TV Kanalı</item>
+        <item>HD Kanalları</item>
+        <item>Geçmişte İzlenen</item>
+    </string-array>
+    <string-array name="epg_default_hot_channels">
+        <item>Hunan TV</item>
+        <item>CCTV-6</item>
+        <item>Zhejiang Satellite TV</item>
+        <item>CCTV-5</item>
+        <item>CCTV-3</item>
+        <item>Dragon TV</item>
+        <item>Anhui TV</item>
+        <item>Beijing TV</item>
+        <item>Guangdong TV</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
