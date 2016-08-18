@@ -131,6 +131,7 @@
   <string name="download_file_fail">Yerel dosya erişimi başarısız, SD kartınızda yeterli alan olmayabilir</string>
   <string name="download_finished">Tamam</string>
   <string name="download_geturl_fail">"URL alınamadı"</string>
+  <string name="download_insufficient_space">Yetersiz alan</string>
   <string name="download_is_in_tasklist">Sıraya Alındı</string>
   <string name="download_paused">Durdu</string>
   <string name="download_percent_hint">%%%d indiriliyor</string>
@@ -239,7 +240,7 @@
   <string name="notification_default_title">Çevrimdışı video</string>
   <string name="notification_sub_title">Toplam %d indirme görevi tamamlandı</string>
   <string name="notification_ticker_text">Çevrimdışı Video indirmesi tamamlandı</string>
-  <string name="notification_title">\"%s\" indirme tamamlandı</string>
+  <string name="notification_title">\"%1$s\" indirme tamamlandı</string>
   <string name="nowifi_alert_dialog_continue">Tamam</string>
   <string name="nowifi_alert_dialog_exit">İptal</string>
   <string name="nowifi_alert_dialog_message">"Video akışı için mobil veri bağlantısı kullanmak veri kullanımınızın artmasına neden olur. Eğer planlarınız veri kullanım sınırını aşarsa, operatör sizeden ek ücret talep edebilir."</string>
