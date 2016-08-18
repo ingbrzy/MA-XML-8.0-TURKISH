@@ -94,4 +94,12 @@
         <item quantity="other">Şarkı favorilere eklendi.</item>
         <item quantity="one">Şarkı favorilere eklendi.</item>
     </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d yorum</item>
+        <item quantity="one">%d yorum</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d takipçi</item>
+        <item quantity="one">%d takipçi</item>
+    </plurals>
 </resources>
