@@ -20,7 +20,7 @@
   <string name="account_and_calendar">Hesaplar ve Takvim</string>
   <string name="account_and_calendar_to_display">Görüntülenecek Takvimler</string>
   <string name="accounts">Hesaplar ve Eşitleme</string>
-  <string name="acct_not_synced">"Takvimleriniz güncel olmayabilir bu hesap eşitlenmemiş"</string>
+  <string name="acct_not_synced">"Takvimleriniz güncel olmayabilir, bu hesap eşitlenmemiş"</string>
   <string name="acessibility_cal_notification">Takvim bildirimi</string>
   <string name="acessibility_selected_marker_description">Seçili etkinlik</string>
   <string name="acessibility_snooze_notification">Bildirimi ertele</string>
@@ -82,8 +82,8 @@
   <string name="book_card_rating_text">|   %1$s yorum</string>
   <string name="button_day">Gün</string>
   <string name="button_month">Ay</string>
-  <string name="button_online">Satın Al</string>
-  <string name="button_week">H</string>
+  <string name="button_online">Satınal</string>
+  <string name="button_week">Hafta</string>
   <string name="calendar_network_error">Ağ Hatası</string>
   <string name="calendar_refresh">Yenile</string>
   <string name="calendar_server_error">Sunucu Hatası</string>
@@ -267,6 +267,7 @@
   <string name="lunar_date">Kamerî Takvim</string>
   <string name="match_ed">Sona erdi</string>
   <string name="match_ing">Devam ediyor</string>
+  <string name="match_not_started">未开始</string>
   <string name="menu_about_preferences">Takvim Hakkında</string>
   <string name="menu_general_preferences">Genel Ayarlar</string>
   <string name="menu_preferences">Ayarlar</string>
@@ -309,6 +310,9 @@
   <string name="no_title_label">(Başlık yok)</string>
   <string name="not_exist_topic_list">Takvim listesi alınamıyor!</string>
   <string name="not_synced">eşitlenemedi</string>
+  <string name="olympic_rank">排名</string>
+  <string name="olympic_total">总数</string>
+  <string name="olympic_vs">VS</string>
   <string name="notification_online">%1$s: %2$s yeni etkinlik</string>
   <string name="online_calendar_activity_label">Takvime abone ol</string>
   <string name="online_reminder_change_text">Hatırlatmayı değiştir</string>
@@ -412,10 +416,10 @@
   <string name="setting_about_miui_version">MIUI Sürümü:</string>
   <string name="setting_about_summary">Sürüm:</string>
   <string name="setting_holiday">Tatiller</string>
-  <string name="setting_holiday_display_desc">Takvim anasayfasında tatil kartlarını yerleştir</string>
+  <string name="setting_holiday_display_desc">Takvim anasayfasında tatil kartlarını alta yerleştir</string>
   <string name="setting_holiday_display_title">Tatilleri göster</string>
   <string name="setting_holiday_reminder">Tatil Hatırlatıcısı</string>
-  <string name="setting_homepage">Anasayfa Ekranı</string>
+  <string name="setting_homepage">Anasayfa Ayarları</string>
   <string name="setting_others">Diğerleri</string>
   <string name="setting_sms_import">SMS etkinliğini içe aktar</string>
   <string name="setting_title_about">Hakkında</string>
@@ -445,6 +449,7 @@
   <string name="subscribe_description_card_more_launch">Çoğalt</string>
   <string name="subscribe_detail_title">Abonelik Detayları</string>
   <string name="subscribe_ed">Zaten abone olundu</string>
+  <string name="swipe_up_guide_hint_text">上滑发现更多</string>
   <string name="sync_notice_cancel_toast_message">"Yerel Takvim Mi Bulut ile eşitlenemez"</string>
   <string name="sync_notice_message">Takvimi Mi Bulut alanı ile eşitlemek ister misiniz?</string>
   <string name="sync_notice_ok">Şimdi Eşitle</string>
