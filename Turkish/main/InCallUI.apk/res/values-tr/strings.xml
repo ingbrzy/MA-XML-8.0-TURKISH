@@ -806,8 +806,6 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="respond_via_sms_canned_response_4">"Şu anda konuşamıyorum. Daha sonra arar mısın?"</string>
   <string name="respond_via_sms_confirmation_format">Mesaj, %s numaralı telefona gönderildi.</string>
   <string name="respond_via_sms_custom_message">Size yazılıyor...</string>
-  <string name="select_audio_dialog_title">Cevaplama modunu seçin</string>
-  <string name="select_one_sim_title">Sadece SIM %1$d kullanılabilir</string>
   <string name="respond_via_sms_edittext_dialog_title">Hızlı cevapla</string>
   <string name="respond_via_sms_menu_reset_default_activity">Varsayılan uygulamayı sıfırla</string>
   <string name="respond_via_sms_setting_summary"/>
@@ -832,7 +830,9 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="saving_account">Hesap kaydediliyor...</string>
   <string name="search_networks">Ağları ara</string>
   <string name="selectContact">Kişi seç</string>
+  <string name="select_audio_dialog_title">Cevaplama modunu seçin</string>
   <string name="select_automatically">Otomatik Seç</string>
+  <string name="select_one_sim_title">Sadece SIM %1$d kullanılabilir</string>
   <string name="select_sim_hint">"%2$d SIM kullanılamıyor çünkü SIM %1$d kullanımda."</string>
   <string name="select_voice_call_sim">SIM Kartını Seç</string>
   <string name="send_button">Gönder</string>
@@ -861,6 +861,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="sip_account_list">SIP Hesapları</string>
   <string name="sip_accounts">İnternetten Çağrı Hesapları (SIP)</string>
   <string name="sip_accounts_title">Hesaplar</string>
+  <string name="sip_call_not_support_record">"SIP çağrısı kaydedilemedi"</string>
   <string name="sip_call_options_entry_1">Tüm aramalar için veri ağı ulaşılabilir olduğunda</string>
   <string name="sip_call_options_entry_2">Yalnızca internet numaraları için</string>
   <string name="sip_call_options_entry_3">Her arama için sor</string>
@@ -904,7 +905,6 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="sum_cw_disabled">Görüşme esnasında gelen aramaları bildir</string>
   <string name="sum_cw_enabled">Görüşme esnasında gelen aramaları bildir</string>
   <string name="sum_default_caller_id">Dışarıya yapılan aramalarda numara gösterimi için operatörün varsayılan ayarlarını kullan</string>
-  <string name="sip_call_not_support_record">"SIP çağrısı kaydedilemedi"</string>
   <string name="sum_fdn">Sabit Arama Numaralarını Yönet</string>
   <string name="sum_fdn_change_pin">FDN erişimi için PIN kodunu değiştir</string>
   <string name="sum_fdn_manage_list">Telefon numara listesini yönet</string>
