@@ -44,17 +44,33 @@
         <item quantity="other">Seçilen fotoğraf cihazda değil, indiriliyor</item>
         <item quantity="one">Seçilen fotoğraf cihazda değil, indiriliyor</item>
     </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">"Cihazda %d fotoğraf olmadığından, atlandı."</item>
+        <item quantity="one">"Fotoğraf, cihazda olmadığından atlandı."</item>
+    </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">%1$d fotoğraf indirilemedi, yeniden denensin mi?</item>
         <item quantity="one">Fotoğraf indirilemedi, yeniden denensin mi?</item>
     </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">"%1$d fotoğraf indirilemedi, lütfen ağa bağlanın ve yeniden deneyin"</item>
+        <item quantity="one">"Fotoğraf indirilemdi, lütfen ağa bağlanın ve yeniden deneyin"</item>
+    </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">%1$d fotoğraf (%2$dMB) indirilemedi, yeniden denensin mi?</item>
+        <item quantity="other">"%1$d fotoğraf (%2$dMB) indirilemedi, yeniden denensin mi?"</item>
+        <item quantity="one">"Fotoğraf indirilemedi (%2$dMB), eniden denensin mi?"</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">"%1$d fotoğraf indirilemedi (%2$dMB), lütfen ağa bağlanın ve yeniden deneyin"</item>
         <item quantity="one">Fotoğraf (%2$dMB) indirilemedi, yeniden denensin mi?</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Kalan %d fotoğraf indirmesi iptal edilsin mi?</item>
-        <item quantity="one">Fotoğraf indirmesi iptal edilsin mi</item>
+        <item quantity="one">Fotoğraf indirmesi iptal edilsin mi?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">%d fotoğraf buluta eklendi, görüntülemek için \"Sadece yerel albümleri göster\".</item>
+        <item quantity="one">Added %d fotoğraf buluta eklenddi, görüntülemek için \"Sadece yerel albümleri göster\".</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">%2$s %1$d tane fotoğraf silinsin mi?</item>
