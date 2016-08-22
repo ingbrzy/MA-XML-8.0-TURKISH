@@ -46,7 +46,11 @@
     </plurals>
     <plurals name="manage_condition_providers_summary_nonzero">
         <item quantity="other">%d uygulama koşulları sağlıyor</item>
-        <item quantity="one">%d uygulama koşulları sağlıyor</item>
+        <item quantity="one">%d uygulama koşullarını sağlıyor</item>
+    </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d cihaz</item>
+        <item quantity="one">%d cihaz</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"Telefon bilgilerine ulaşmanız için %1$d adım kaldı."</item>
