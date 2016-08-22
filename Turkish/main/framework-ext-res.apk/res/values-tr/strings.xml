@@ -85,6 +85,10 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="screen_on_proximity_sensor_title">Cepte Aramaları Önle</string>
   <string name="screen_paper_mode_enter_toast">Okuma Modu açık. Bu özelliği kapalıysa; Ayarlar &gt; Ekran &gt; Okuma Moduna gidin.</string>
   <string name="screen_rotation_freeze_message">Otomatik Döndürme devre dışı.</string>
+  <string name="screenshot_gesture_detect_alert_button">Ayarlardan aç</string>
+  <string name="screenshot_gesture_detect_alert_dont_again">"Tekrar gösterme"</string>
+  <string name="screenshot_gesture_detect_alert_msg">Üç parmağı aşağı doğru çektiğinizde ekran görüntüsü alınsın mı?</string>
+  <string name="screenshot_gesture_detect_alert_title">Üç-Parmakla Ekran Görüntüsü Al</string>
   <string name="securespaces_extension_accelerometer_name">ACCELEROMETER_EXTENSION</string>
   <string name="securespaces_extension_accelerometer_serviceName"/>
   <string name="securespaces_extension_delete_userdata_name">DELETE_USERDATA_EXTENSION</string>
