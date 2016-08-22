@@ -169,6 +169,7 @@
   <string name="resource_comment_upload_not_logined">Önce oturum açmanız gerekiyor</string>
   <string name="resource_comment_upload_success">Yorumlar incelendikten sonra görüntülenir.</string>
   <string name="resource_continue">Sonraki</string>
+  <string name="resource_data_empty">İçerik boş.</string>
   <string name="resource_default">Varsayılan Zil Sesi</string>
   <string name="resource_default_name">Kaynak</string>
   <string name="resource_delete">Sil</string>
@@ -321,10 +322,10 @@
   <string name="search_hint_header_text">Sözler2</string>
   <string name="selected_resource_file_invalid">"Seçilen kaynak dosyası kullanılamıyor"</string>
   <string name="settings">Ayarlar</string>
-  <string name="short_ringtone_resource">Kısa</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
   <string name="theme_apply_audio_dialog_item_notification">Bildirim</string>
   <string name="theme_apply_audio_dialog_item_ringtone">Zil Sesi</string>
+  <string name="short_ringtone_resource">Kısa</string>
   <string name="theme_apply_failured">"Kilit ekran duvar kağıdı uygulamıyor"</string>
   <string name="theme_apply_success">Kilit ekranına uygulandı</string>
   <string name="theme_applying">Uygulanıyor…</string>
@@ -407,8 +408,8 @@
   <string name="title_my_audio_resource">Zil Seslerim</string>
   <string name="title_my_wallpaper_resource">Duvar Kağıtlarım</string>
   <string name="title_system_audio_resource">Zil Sesleri</string>
-  <string name="title_system_resource">İndirilen</string>
   <string name="title_system_wallpaper_resource">Duvar Kağıtları</string>
+  <string name="title_system_resource">İndirilen</string>
   <string name="to_activate_the_account">Şimdi Mi Hesabını etkinleştir</string>
   <string name="vip_level_value">LV%d</string>
   <string name="wallpaper_crop">Kırp</string>
