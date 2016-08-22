@@ -131,6 +131,9 @@
   <string name="notification_reboot_title_hm">Güncelleştirmeyi uygulamak için yeniden başlatın</string>
   <string name="notification_restart">Tekrar güncelleyin</string>
   <string name="notification_share">Paylaş</string>
+  <string name="notification_uncrypt_summary_hm">Cihazı yeniden başlatmak için dokunun.</string>
+  <string name="notification_uncrypt_title_hm">Güncellemeyi uygulamak için yeniden başlatın</string>
+  <string name="notification_uncrypting">Güncelleme çözülüyor</string>
   <string name="notification_update_new_version">Güncelleme var</string>
   <string name="notification_update_now">Şimdi Güncelle</string>
   <string name="notification_updating">Güncelleniyor…</string>
@@ -202,6 +205,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="timer_title">Cihaz %d saniye sonra tekrar başlayacak.</string>
   <string name="title_toast_auto">Güncellemeleri otomatik olarak indir</string>
   <string name="top_secret_build">Çok gizli</string>
+  <string name="uncrypt_title">Çözülüyor (%s)</string>
   <string name="unkown_error_title">"İndirilemedi"</string>
   <string name="unstable_build">Kararsız</string>
   <string name="update_comment_hint"/>
