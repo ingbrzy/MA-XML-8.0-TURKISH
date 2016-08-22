@@ -144,6 +144,7 @@
   <string name="actionbar_large_unread_count">%1$d+ okunmamış</string>
   <string name="activity_folder_selection">Dizini Seç</string>
   <string name="activity_mailbox_selection">Hesabı Seç</string>
+  <string name="ad_merge">Reklam&amp;Organize Bildirimi</string>
   <string name="add_account">Hesap Ekle</string>
   <string name="add_account_keywords">Posta Hesabı Ekle;Mail Hesabı Ekle;Yeni Hesap Ekle</string>
   <string name="add_attachment">Ek Ekle</string>
@@ -364,6 +365,7 @@
   <string name="email_setting">Posta</string>
   <string name="email_setting_keywords">Hesaplar;Hesap Ekle; Posta hesabı ekle; silmeyi onayla;göndermeyi onayla;direkt sil; postayı görüntüle;pil tasarrufu; geribildirim gönder; günlüğü gönder</string>
   <string name="email_sina">Sina Posta</string>
+  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Hesap bulunamadı"</string>
   <string name="empty_email_tip">"Boş E-Posta gönderilemez"</string>
   <string name="empty_spam">İstenmeyenleri temizle</string>
@@ -441,6 +443,7 @@
   <string name="forward_attribution_no_headers">---------- Yönlendirilmiş Posta ----------</string>
   <string name="forward_download_failed_ticker">"Bir veya daha fazla ek yönlendirilemedi."</string>
   <string name="forward_download_failed_title">Ekler yönlendirilemedi</string>
+  <string name="forward_subject_label">Fwd:</string>
   <string name="from_heading">"Kimden: "</string>
   <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
   <string name="general_preference_confirm_send_label">Göndermeden önce onayla</string>
@@ -749,6 +752,7 @@
   <string name="quick_reply_hint">%1$d kişinin tümünü cevapla</string>
   <string name="quick_reply_hint_bcc">(Gelen BCC)</string>
   <string name="quick_reply_hint_cc">"(CC) "</string>
+  <string name="quick_reply_hint_reply_only_from">Hızlı Cevap (sadece gönderen)</string>
   <string name="quick_responses_empty_view">Hızlı cevap yok</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- Orjinal Posta --------</string>
@@ -791,6 +795,7 @@
   <string name="reply_add_bodycontent">Hızlı cevap metni posta içeriğine eklensin mi?</string>
   <string name="reply_all">Tümünü Cevapla</string>
   <string name="reply_attribution" formatted="false">%s, %s yaz:</string>
+  <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">Kimlik Avı Raporu</string>
   <string name="report_spam">Spam Raporu</string>
   <string name="request_entity_large">Bu dosya çok büyük</string>
@@ -833,6 +838,11 @@
   <string name="sent_folder_selection_title">%s için gönderilmiş öğeler klasörünün sunucusunu seçin</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Sertifika doğrulama başarısız
 \u0009 (Otomatik eşitleme ayarınının açık olduğundan emin olun)"</string>
+  <string name="ser_resp_err_map_landing_more_failure">Çok fazla başarısız oturum açma teşebbüsü</string>
+  <string name="ser_resp_err_map_landing_too_frequently">Çok fazla başarısız oturum açma teşebbüsü</string>
+  <string name="ser_resp_err_map_mailbox_locked">E-Posta hesabı şifre ile korumalı</string>
+  <string name="ser_resp_err_map_mailbox_not_open">Posta hesabı yok</string>
+  <string name="ser_resp_err_map_max_connections">Çok fazla başarısız oturum açma teşebbüsü</string>
   <string name="ser_resp_err_map_nouser">"Kullanıcı yok"</string>
   <string name="ser_resp_err_map_or">%1$s veya %2$s</string>
   <string name="ser_resp_err_map_pserr">Şifre veya kullanıcı adı hatalı</string>
@@ -897,6 +907,7 @@
   <string name="too_large_to_attach_additional">"Dosya boyutu %1$s\'i geçemez."</string>
   <string name="too_large_to_attach_multiple">"Bir veya daha fazla dosya ekli değil. Dosya boyutu %1$s geçemez."</string>
   <string name="too_large_to_attach_single">"%1$s\'den daha büyük dosya ekleyemiyorum."</string>
+  <string name="topic_merge">Temeları Birleştir</string>
   <string name="trash_folder_selection_title">%s için sunucunuzun çöp klasörü seçin</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
