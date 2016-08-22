@@ -24,6 +24,7 @@
   <string name="add_to_album_exist">Fotoğraf zaten hedef albümde var</string>
   <string name="add_to_album_failed">Albüme ekleme başarısız</string>
   <string name="add_to_album_success">Albüme eklendi</string>
+  <string name="add_to_album_tip">Bulut Fotoğrafları</string>
   <string name="add_to_secret_exist">Fotoğraf zaten gizli albümde var</string>
   <string name="add_to_secret_fail">Gizli albüme fotoğraf eklenemedi</string>
   <string name="add_to_secret_failed_with_reason">"Gizli albüme eklenemez. %1$s."</string>
@@ -69,6 +70,7 @@
   <string name="album_share_subtitle_quitting">Çıkılıyor...</string>
   <string name="album_share_subtitle_requesting">Albüm bilgisi alınıyor...</string>
   <string name="album_share_title_new_album">Yeni albümü paylaş</string>
+  <string name="album_show_local_only">Sadece yerel albümleri göster</string>
   <string name="album_type_baby">Albümü Paylaş</string>
   <string name="album_type_share">Bebek Albümü</string>
   <string name="album_type_system">Sistem Albümü</string>
@@ -582,6 +584,7 @@
   <string name="create_quick_icon_on_desk">Kısayol yarat</string>
   <string name="creating_baby_album">Albüm oluşturuluyor...</string>
   <string name="crop">Kırp</string>
+  <string name="crop_and_rotate">Ayarla</string>
   <string name="crop_label">Kırp</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
   <string name="crop_save_text">Kaydet</string>
@@ -600,7 +603,8 @@
   <string name="delete_finish_format">%d silindi</string>
   <string name="delete_from_album">Cihazınızın \"%s\" albümündeki</string>
   <string name="delete_from_album_no_account">\"%s\" albüm</string>
-  <string name="delete_from_all_devices">Cihazlar</string>
+  <string name="delete_from_all_devices">Tüm Cihazlarda</string>
+  <string name="delete_from_cloud">Bulut albümdeki öğeleri sil</string>
   <string name="delete_from_devices">Tüm cihazları otomatik olarak eşitle</string>
   <string name="delete_from_devices_album">Bu albüm tüm cihazlarda otomatik olarak eşitlendi</string>
   <string name="delete_from_homepage_album">Albümü ana sayfada göster</string>
@@ -923,6 +927,8 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="picker_image_need_download">%d seçili fotoğraf cihazda değil, mobil veri kullanarak indirilsin mi?</string>
   <string name="picker_image_will_download">%d seçili fotoğraf cihazda değil, mobil veri kullanarak indirilsin mi?</string>
   <string name="picker_mobile_data_video">"Video mobil veri kullanarak indirilemedi, %d atla."</string>
+  <string name="picker_no_network_message">Ağ mevcut değil, lütfen ağa bağlanın ve indirin</string>
+  <string name="picker_origin_need_download">"%1$d seçili fotoğraf cihazda değil (%2$dMB) . Mobil veri kullanılarak indirilsin mi?"</string>
   <string name="picker_origin_need_download">%1$d seçili fotoğraf cihazda değil (%2$dMB), mobil veri kullanarak indirilsin mi?</string>
   <string name="picker_skip_unavailable_images">" "&lt;item quantity="one"&gt;"Bir fotoğraf cihazda olmadığından atlandı."&lt;/item&gt; &lt;item quantity="other"&gt;" %d fotoğraf cihazda olmadığından atlandı."&lt;/item&gt;" "</string>
   <string name="picker_title_format">%d seçebilirsin</string>
@@ -1006,6 +1012,8 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="send_too_many_files_error">"Birçok öğe gönderilemiyor (azami %d öğe)."</string>
   <string name="sepia">Sepya</string>
   <string name="set_as_baby_lock_wallpaper">Kilit ekranı duvar kağıdı olarak ayarla</string>
+  <string name="set_as_wallpaper_description">Bu resim sadece önizlemedir, önce orjinal halini indirmeniz gerekir？</string>
+  <string name="set_as_wallpaper_title">Duvar Kağıdı olarak ayarla</string>
   <string name="set_face_group_toast_msg_new_user">Birleştirmek veya yoksaymak için kişiye basılı tutun</string>
   <string name="set_face_group_toast_msg_old_user">Basılı tutulduğunda yüz kapağı, arkadaşlar, aileye dağıtılır</string>
   <string name="set_face_group_toast_title_new_user">Tavsiye</string>
@@ -1016,7 +1024,8 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
   <string name="share">Paylaş</string>
   <string name="share_album">Albümü Paylaş</string>
-  <string name="share_album_needs_auto_upload_tip">Paylaşılan albümün otomatik yedeklemesi devre dışı bırakılamaz</string>
+  <string name="share_album_needs_auto_upload_tip">"Paylaşılan albümün otomatik yedeklemesi devre dışı bırakılamaz"</string>
+  <string name="share_app_is_launching">Hedef uygulama başlatılıyor</string>
   <string name="share_by_email_start">Arkaplanda %1$s paylaşılsın</string>
   <string name="share_by_email_successfully">%1$s paylaşıldı</string>
   <string name="share_public_url_text">"%1$s albümü seninle paylaştım. %2$s adresinden bakabilirsin"</string>
