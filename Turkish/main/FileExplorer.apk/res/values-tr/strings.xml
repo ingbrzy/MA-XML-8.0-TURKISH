@@ -172,7 +172,9 @@
   <string name="dislike_toast">"Böyle videolar tavsiye edilmiyor."</string>
   <string name="dislike_video">"İlgilenmiyor"</string>
   <string name="dlg_error_unmount_text">"USB depolama bağlantısı kesilemedi."</string>
+  <string name="download">İndir</string>
   <string name="download_current_progress">%%%1$d</string>
+  <string name="download_fail">"İndirilemedi"</string>
   <string name="download_failed">"İndirmedi"</string>
   <string name="download_link_completed">%1$s KuaiPan kullanılarak paylaşıldı. Görüntülemek için aşağıdaki linki dokunun:</string>
   <string name="downloaded_sticker_str">İndirildi</string>
@@ -219,7 +221,8 @@
   <string name="file_not_exist">"Dosya mevcut değil"</string>
   <string name="file_too_large">Dosya yüklemek için çok büyük</string>
   <string name="files">Dosyalar</string>
-  <string name="finished">Tamamlandı</string>
+  <string name="finished">Tamam</string>
+  <string name="flow_setting">Ayarlar</string>
   <string name="folder_exist">Klasör zaten mevcut.</string>
   <string name="folder_name_empty">Dosya adı boş olamaz</string>
   <string name="folder_name_illegal">Geçersiz klasör adı</string>
@@ -252,6 +255,7 @@
   <string name="homepage_tab_category">Kategoriler</string>
   <string name="homepage_tab_file_view">Depolama</string>
   <string name="homepage_tab_recent">Geçmiş</string>
+  <string name="hot_app">Popüler Uygulamalar</string>
   <string name="hot_comments">Popüler Yorumlar</string>
   <string name="hot_sticker">Etiketli</string>
   <string name="hot_video">Videolar</string>
@@ -260,6 +264,7 @@
   <string name="if_cancel">Bu işlemi iptal edilsin mi?</string>
   <string name="image_loading_error">"Resim yüklenemedi"</string>
   <string name="input_memo_hint">Ek nedenlerini girin (isteğe bağlı)</string>
+  <string name="install_fail">"Yüklenmedi"</string>
   <string name="installing">Yükleniyor…</string>
   <string name="instruction">FTP istemcisini aşağıdaki adresi girin:</string>
   <string name="instruction_pre">FTP sunucusu başlatmak için dokunun</string>
@@ -477,6 +482,8 @@ ve yenilerini kaçırmayın!"</string>
   <string name="oauth_failed_tip">"Yetkilendirme tamamlanamadı"</string>
   <string name="oauth_success_tip">Yetkilendirme başarıyla tamamlandı</string>
   <string name="online_not_support">"Şu anda bu dosyayı görüntüleyemezsiniz."</string>
+  <string name="only_wifi">WLAN bağlandığında indir</string>
+  <string name="open_app">Aç</string>
   <string name="open_changed_file_message">"Açmaya çalıştığınız dosya değiştirildi. Lütfen:
 1. Güncellemek için dosyayı yeniden indirin.
 2. KuaiPan hesabınızı yükleyin."</string>
@@ -588,6 +595,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="qq_platform">QQ</string>
   <string name="quota_info">Mi Drive: %1$s mevcut, Toplam: %2$s</string>
   <string name="qzone_platform">Qzone</string>
+  <string name="recent_show">Geçmiş</string>
   <string name="recommend">Tavsiyeli</string>
   <string name="recommend_topic">Tavsiyeli Konular</string>
   <string name="recommend_user">Tavsiyeli Profiller</string>
@@ -667,6 +675,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="select_image">Resimler</string>
   <string name="select_music">Ses Dosyaları</string>
   <string name="select_video">Video Dosyaları</string>
+  <string name="select_volume">Lütfen sesi seçin</string>
   <string name="send_comment">Gönder</string>
   <string name="send_error">"Yorum eklenemedi"</string>
   <string name="send_sticker">Etiket Gönder</string>
@@ -741,6 +750,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="tab_path">DİZİNLER</string>
   <string name="tab_profile">Profil</string>
   <string name="tab_ranking_list">Rütbeler</string>
+  <string name="tab_recommend_video">Tavsiye Edilen:</string>
   <string name="tab_remote_video">Geçmiş</string>
   <string name="tab_source">Uygulamalar</string>
   <string name="tab_storage">DEPOLAMA</string>
