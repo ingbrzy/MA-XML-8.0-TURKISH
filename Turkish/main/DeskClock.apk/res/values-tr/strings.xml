@@ -51,6 +51,9 @@
   <string name="edit_systemtime">Sistem Saatini Düzenle</string>
   <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Hergün</string>
+  <string name="force_touch_add_alarm">Alarm Ekle</string>
+  <string name="force_touch_enter_stopwatch">Kronometre</string>
+  <string name="force_touch_enter_timer">Zamanlayıcı</string>
   <string name="full_wday_month_day_no_year">dd MMMM EEEE</string>
   <string name="hour">1 saat</string>
   <string name="hour_unit">Sa +</string>
@@ -108,6 +111,7 @@
   <string name="time">Zaman</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Zili durdurmak için ekrana dokunun</string>
+  <string name="timer_alarm_dot_matrix_label">Zamanlayıcı</string>
   <string name="timer_alert_alert_silenced">Zamanlayıcı %d dakika sonra susturuldu.</string>
   <string name="timer_clock_alert_text">Zamanlayıcıyı Ayarla</string>
   <string name="timer_continue">Devam</string>
