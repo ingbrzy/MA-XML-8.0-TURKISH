@@ -1,23 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="ble_profile_mi_band">
-        <item>Çaldığında titret</item>
-        <item>Alınan mesajda titret</item>
-        <item>Alarm çaldığında titret</item>
-    </string-array>
-    <string-array name="ble_profile_mi_key">
-        <item>Fotoğraf çek</item>
-        <item>Telefonu Bul</item>
-        <item>Mi-Key Bul</item>
-    </string-array>
-    <string-array name="ble_packages">
-        <item></item>
-        <item>com.xiaomi.hm.health</item>
-        <item></item>
-    </string-array>
-    <string-array name="ble_package_names">
-        <item></item>
-        <item>Mi Fit</item>
-        <item></item>
-    </string-array>
+  <string name="app_name">MIUI Bluetooth</string>
+  <string name="ble_device_address">Bluetooth Akıllı MAC cihazı</string>
+  <string name="ble_device_profile">Bluetooth Cihaz Profili</string>
+  <string name="ble_device_profile_header_title">Ayarlar</string>
+  <string name="ble_device_profile_title">Bluetooth Akıllı Cihaz eşlendi</string>
+  <string name="ble_device_rename">Adlandır</string>
+  <string name="ble_profile_1">ble_profile_mi_band</string>
+  <string name="ble_profile_2">ble_profile_mi_key</string>
+  <string name="bluetooth_connected">Eşlendi</string>
+  <string name="bluetooth_connecting">Eşleniyor…</string>
+  <string name="bluetooth_disconnected">Eşlenmedi</string>
+  <string name="bluetooth_disconnecting">Eşlenme kaldırılıyor…</string>
+  <string name="bluetooth_preference_connected_devices">Eşlenen Cihazlar</string>
+  <string name="bluetooth_preference_found_devices">Mevcut cihazlar</string>
+  <string name="bluetooth_preference_scan_title">Cihazları Tara</string>
+  <string name="bluetooth_search_for_devices">Cihazları Ara</string>
+  <string name="device_picker">Bluetooth Cihaz Ayarları</string>
+  <string name="disconnect">Eşlenmeyi Kaldır</string>
+  <string name="goto_package">%1$s Aç</string>
+  <string name="install_package">Fazla fonksiyon için %1$s yükle</string>
+  <string name="mi_band_vibrate_alarm">Alarm sesi çaldığında titret</string>
+  <string name="mi_band_vibrate_incall">Çaldığında titret</string>
+  <string name="mi_band_vibrate_incall_in_contacts">Kişilerden çağrılar</string>
+  <string name="mi_band_vibrate_incall_no_contacts">Bilinmeyenlerden çağrılar</string>
+  <string name="mi_band_vibrate_sms">SMS mesajlarında titret</string>
+  <string name="mi_band_vibrate_sms_in_contacts">Kişilerden mesajlar</string>
+  <string name="mi_band_vibrate_sms_no_contacts">Bilinmeyenlerden mesajlar</string>
+  <string name="mi_key_alert_dialog_message">"Alarmı susturmak için Tamam'a dokun"</string>
+  <string name="mi_key_alert_dialog_title">Mi Key Alarmı</string>
+  <string name="mi_key_find_mikey">"Mi Key'i Bul"</string>
+  <string name="mi_key_find_phone">Telefonu Bul</string>
+  <string name="mi_key_open_camera">Kamerayı Aç</string>
+  <string name="mi_key_summary_find_phone">"Basın &amp;ses zili için Mi Key'e basılı tutun"</string>
+  <string name="mi_key_summary_open_camera">"Kamerayı açmak için Mi Key'e çift basın"</string>
+  <string name="mi_key_summary_take_photo">"Fotoğraf çekmek için Mi Key'e tıklayın"</string>
+  <string name="mi_key_take_photo">Fotoğraf çek</string>
+  <string name="notify_device_lose_connection_text">%1$s eşlemesini kaldırmak için dokunun</string>
+  <string name="notify_device_lose_connection_title">%1$s ile bağlantısı kaybedildi</string>
+  <string name="ok_button">Tamam</string>
+  <string name="progress_scanning">Aranıyor…</string>
+  <string name="reset_function_msg">Normal çalışan %1$s bu özelliği sıfırlamasını önle.</string>
+  <string name="some_app_taking">(%1$s bu özelliği zaten kullanıyor)</string>
+  <string name="unbind_device_alert_cancel">İptal</string>
+  <string name="unbind_device_alert_content">%1$s ile bağlantı kaybedildi. Pil tasarrufu için; bu cihaz eşlemesi kaldırılıyor.</string>
+  <string name="unbind_device_alert_ok">Eşlemeyi kaldır</string>
+  <string name="unbind_device_alert_title">Cihaz eşlemeyi kaldır</string>
 </resources>
