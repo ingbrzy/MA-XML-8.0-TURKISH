@@ -7,6 +7,8 @@
   <string name="app_label">Geribildirim</string>
   <string name="app_name">Geribildirim</string>
   <string name="btn_send">Gönder</string>
+  <string name="bugreport_dialog_not_show_again">"Tekrar gösterme"</string>
+  <string name="bugreport_dialog_submit_content">Geribildiriminiz kişisel bilginizi içerir.</string>
   <string name="bugreport_dump_complete_notification_summary">Görüntülemek için dokunun</string>
   <string name="bugreport_dump_complete_notification_title">Hata raporu oluşturuldu.</string>
   <string name="bugreport_dump_start_notification_summary">Bu işlem birkaç dakika sürebilir.</string>
@@ -85,6 +87,7 @@
   <string name="feedback_submit_hint2">Detayları görüntülemek için \"Raporlarım\" bölümüne gidin</string>
   <string name="feedback_submit_succ">Başarıyla gönderildi</string>
   <string name="feedback_submit_succ_button">Tamam</string>
+  <string name="feedback_submitting">Gönderiliyor…</string>
   <string name="feedback_suggestion_status_change_notification_desc">\"%2$s\" %1$s tavsiyesi</string>
   <string name="feedback_title">Başlık</string>
   <string name="feedback_title_hint">Problemin özetini tanımlayın</string>
@@ -101,9 +104,9 @@
   <string name="menu_copy">Kopyala</string>
   <string name="message_label">Mesaj</string>
   <string name="michat_app_name">Çevrimiçi Destek</string>
-  <string name="michat_artifical_customer_phone">4001005678</string>
-  <string name="michat_artifical_customer_phone_dial_error">"Eğer 400 numaralı hattı arayabilir, %1$s kulanarak farklı bir telefon kullanabilirsiniz"</string>
-  <string name="michat_artifical_customer_text">Kişisel Destek</string>
+  <string name="michat_artificial_customer_phone">4001005678</string>
+  <string name="michat_artificial_customer_phone_dial_error">"Eğer 400 numaralı hattı arayabilir, %1$s kulanarak farklı bir telefon kullanabilirsiniz"</string>
+  <string name="michat_artificial_customer_text">Kişisel Destek</string>
   <string name="michat_attach_image">Resim</string>
   <string name="michat_attach_smiley">Simge</string>
   <string name="michat_attach_take_photo">Kamera</string>
@@ -135,8 +138,10 @@
   <string name="michat_mesage_resend_error_network">"Ağa bağlanamadı"</string>
   <string name="michat_mesage_send_error_network">"Gönderilemedi, Ağ bağlantısını denetleyin"</string>
   <string name="michat_message_copy_info">Panoya kopyalandı</string>
+  <string name="michat_message_error_network">"Ağa bağlanamadı"</string>
   <string name="michat_message_join_again">Geri geldiğiniz için teşekkürler</string>
   <string name="michat_message_robot_welcome">"Adım Mi Bunny. Ben çevrimiçi destek robotuyum."</string>
+  <string name="michat_message_send_error_network">"Gönderilemedi, ağ bağlantısını denetle"</string>
   <string name="michat_motto">Mi Desteği yardım için hazır</string>
   <string name="michat_msg_image_upload_error">"Resim gönderilemedi, sonra tekrar deneyin"</string>
   <string name="michat_msg_input_info">Problemi tanımlayın</string>
