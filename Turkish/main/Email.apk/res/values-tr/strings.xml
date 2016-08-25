@@ -365,7 +365,6 @@
   <string name="email_setting">Posta</string>
   <string name="email_setting_keywords">Hesaplar;Hesap Ekle; Posta hesabı ekle; silmeyi onayla;göndermeyi onayla;direkt sil; postayı görüntüle;pil tasarrufu; geribildirim gönder; günlüğü gönder</string>
   <string name="email_sina">Sina Posta</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Hesap bulunamadı"</string>
   <string name="empty_email_tip">"Boş E-Posta gönderilemez"</string>
   <string name="empty_spam">İstenmeyenleri temizle</string>
@@ -443,7 +442,6 @@
   <string name="forward_attribution_no_headers">---------- Yönlendirilmiş Posta ----------</string>
   <string name="forward_download_failed_ticker">"Bir veya daha fazla ek yönlendirilemedi."</string>
   <string name="forward_download_failed_title">Ekler yönlendirilemedi</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from_heading">"Kimden: "</string>
   <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
   <string name="general_preference_confirm_send_label">Göndermeden önce onayla</string>
@@ -795,7 +793,6 @@
   <string name="reply_add_bodycontent">Hızlı cevap metni posta içeriğine eklensin mi?</string>
   <string name="reply_all">Tümünü Cevapla</string>
   <string name="reply_attribution" formatted="false">%s, %s yaz:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">Kimlik Avı Raporu</string>
   <string name="report_spam">Spam Raporu</string>
   <string name="request_entity_large">Bu dosya çok büyük</string>
