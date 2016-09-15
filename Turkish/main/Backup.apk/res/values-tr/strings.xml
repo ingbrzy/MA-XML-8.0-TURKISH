@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">"Yedekleme bitmedi. İptal edilsin mi?"</string>
+  <string name="abort_restore_confirm">"Geri yükleme bitmedi. Yine de durdurulsun mu?"</string>
   <string name="account_contact_backup_info">Google Hesabı, Mi Hesabı ve Kişi Verisi</string>
   <string name="account_login">Oturum Aç</string>
   <string name="account_summary">Mi hesabını, Google hesabını ve diğer kullanıcı verilerini yedekle</string>
@@ -149,7 +150,7 @@
   <string name="no_encrypt_password">Şifresiz</string>
   <string name="no_network">"Ağa bağlanılamıyor"</string>
   <string name="note_title">Notlar</string>
-  <string name="nothing_searched">Sonuçsuz</string>
+  <string name="nothing_searched">Sonuç yok.</string>
   <string name="notif_backup_complete_title">Başarıyla yedeklendi</string>
   <string name="notif_backup_content">Kullanıcı verileri yedekleniyor</string>
   <string name="notif_backup_title">Verileri Yedekle</string>
@@ -183,7 +184,7 @@
   <string name="restore_telephony_hit">Geri yükleme telefon uygulamasını yeniden başlatacak.</string>
   <string name="retry">Tekrar Dene</string>
   <string name="reverse_all">Tümünü Temizle</string>
-  <string name="router_backup_hint">Lütfen cihazınızı açık tutun</string>
+  <string name="router_backup_hint">Cihazınızı açık tutun</string>
   <string name="sc_bad_request">Geçersiz istek</string>
   <string name="sc_internal_server_error">İç Sunucu Hatası</string>
   <string name="sc_network_unavailable">Bağlantınızı kontrol edin ve tekrar deneyin.</string>
@@ -192,7 +193,7 @@
   <string name="sc_request_timeout">İstek zaman aşımına uğradı</string>
   <string name="sc_service_unavailable">Mi Bulut mevcut değil</string>
   <string name="sc_unaccess_password_file">"WLAN ağ parolasını bulamıyor"</string>
-  <string name="sc_unauthorized">Lütfen tekrar oturum açın</string>
+  <string name="sc_unauthorized">Tekrar oturum açın</string>
   <string name="sd_not_available">Şimdi SD kart takın</string>
   <string name="sdcard_no_enough_space">Yeterli alan yok</string>
   <string name="sdcard_no_enough_space_message">"SD kartınızda yeterli depolama alanı yok."</string>
@@ -204,9 +205,9 @@
   <string name="service_stoped">Hizmet durduruldu</string>
   <string name="settings_summary">Telefon ve Mesaj Ayarları</string>
   <string name="size_byte">B</string>
-  <string name="size_giga_byte"> GB</string>
-  <string name="size_kilo_byte"> KB</string>
-  <string name="size_mega_byte"> MB</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
   <string name="sms_title">Mesajlaşma</string>
   <string name="software_backup_info">Uygulama Verisi</string>
   <string name="start_backup">Yedekle</string>
