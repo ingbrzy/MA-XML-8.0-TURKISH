@@ -11,10 +11,10 @@
   <string name="active_phone_success_toast">SIM kart %1$s doğrulandı</string>
   <string name="activing_simcard">SIM %1$d doğrulanıyor</string>
   <string name="activing_simcard_alone">SIM doğrulanıyor...</string>
-  <string name="activity_not_found">Uygulama telefonunuza yüklü değil.</string>
   <string name="add">Ekle</string>
-  <string name="addSimEntries">SIM Kişisi ekle</string>
+  <string name="add_by_input">Girdi tarafından ekle</string>
   <string name="add_fdn_contact">Sabit arama numarasını ekle</string>
+  <string name="add_from_contacts">Kişilerden ekle</string>
   <string name="add_sip_account">Hesap ekle</string>
   <string name="add_vm_number_str">Numara ekle</string>
   <string name="adding_fdn_contact">Sabit arama numarası ekleniyor…</string>
@@ -47,6 +47,7 @@
   <string name="answer_state_setting_summary">Ek Gelen Çağrı Seçenekleri</string>
   <string name="answer_state_setting_title">Gelen Çağrı Ayarları</string>
   <string name="antispam_notification_title">Bilinmeyen Numara</string>
+  <string name="antispam_setting">Kara Liste</string>
   <string name="apn_settings">Erişim Noktası Adları</string>
   <string name="area_code_preference_be_set_summary">Geçerli Konum: %s</string>
   <string name="area_code_preference_summary">Alan kodunu otomatik çevir</string>
@@ -182,7 +183,7 @@
   <string name="call_additional_sum">Telefon numarası ve çağrı ayarları bekliyor</string>
   <string name="call_barring">Çağrı engelli</string>
   <string name="call_barring_incoming">Gelen çağrı engelli</string>
-  <string name="call_barring_outgoing">Giden çağrı engelli</string>
+  <string name="call_advanced_setting_title">Gelişmiş Ayar</string>
   <string name="call_barring_sum">Çağrı Engelleme Ayarları</string>
   <string name="call_description_recording">Kaydediliyor…</string>
   <string name="call_forwarding_number_hint">Çağrıları yönlendir</string>
@@ -213,7 +214,7 @@
   <string name="call_recording_notification_toggle_title">Çağrı Kaydı Bildirimi</string>
   <string name="call_recording_setting">Çağrı Kaydı Ayarı</string>
   <string name="call_remove_exception_numbers_confirm">%d numara silinecek.</string>
-  <string name="call_settings">Telefon Ayarları</string>
+  <string name="call_settings">Çağrı Ayarları</string>
   <string name="call_settings_category">Çağrılar</string>
   <string name="call_settings_primary_user_only">Çağrı ayarları yalnızca esas kullanıcı tarafından değiştirilebilir.</string>
   <string name="call_settings_title_font_family">sans-serif-light</string>
