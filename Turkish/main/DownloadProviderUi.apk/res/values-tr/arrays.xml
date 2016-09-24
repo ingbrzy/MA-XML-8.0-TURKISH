@@ -2,13 +2,13 @@
 <resources>
     <string-array name="prefEntries_max_bytes_limit">
         <item>Sınırsız</item>
-        <item>100 MB</item>
-        <item>20 MB</item>
-        <item>10 MB</item>
-        <item>5 MB</item>
-        <item>2 MB</item>
-        <item>1 MB</item>
-        <item>512 KB</item>
+        <item>100MB</item>
+        <item>20MB</item>
+        <item>10MB</item>
+        <item>5MB</item>
+        <item>2MB</item>
+        <item>1MB</item>
+        <item>512KB</item>
         <item>Daima Wi-Fi\'i bekle</item>
     </string-array>
     <string-array name="video_type">
