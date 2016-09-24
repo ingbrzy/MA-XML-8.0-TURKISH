@@ -5,7 +5,7 @@
   <string name="activity_title_brightness_image">Altında ve aşırı pozlanmış</string>
   <string name="activity_title_cache">Önbellek</string>
   <string name="activity_title_cache_data">Uygulama verisi</string>
-  <string name="activity_title_deep_apk">Uygulamaları Sil</string>
+  <string name="activity_title_deep_apk">APKları Sil</string>
   <string name="activity_title_deep_clean">Derin Temizlik</string>
   <string name="activity_title_garbage_cleanup">Temizleyici</string>
   <string name="activity_title_ignored_image">Yoksayıldı</string>
@@ -24,6 +24,8 @@
   <string name="activity_title_uninstall_apps">Uygulamalar</string>
   <string name="activity_title_video">Videoları Sil</string>
   <string name="activity_title_white_list">İstisnalar</string>
+  <string name="ad_install_success_dialog_lunch">Aç</string>
+  <string name="ad_install_success_dialog_title">%1$s başarıyla yüklendi. Şimdi açılsın mı?</string>
   <string name="apk_status_damage">Bozuk</string>
   <string name="apk_status_duplicate">Yenilenen</string>
   <string name="apk_status_install">Yüklendi</string>
@@ -44,6 +46,10 @@
   <string name="browser_search_history_desc">Aranmış Öğeler</string>
   <string name="btn_text_done">Tamam</string>
   <string name="btn_text_quick_cleanup">Temizle</string>
+  <string name="btn_text_quick_cleanup_apk">Seçilmiş olan %1$s APKsını sil</string>
+  <string name="btn_text_quick_cleanup_appdata">Seçilin %1$s verisini sil</string>
+  <string name="btn_text_quick_cleanup_large_file">Seçilen %1$s dosyasını sil</string>
+  <string name="btn_text_quick_cleanup_video">Delete selected videos %1$s</string>
   <string name="btn_text_quick_scan">Tara</string>
   <string name="btn_text_stop">Durdur</string>
   <string name="button_optimizer">Tamam</string>
@@ -96,8 +102,10 @@
   <string name="confirm_auto_cleaner">Tamam</string>
   <string name="conn_of_function_safe">Güvenlik için Ağ Bağlantısı</string>
   <string name="connecting">Bağlanıyor…</string>
+  <string name="deep_clean_completed_tips">Başarıyla temizlendi</string>
   <string name="deep_clean_data_path_clean_title">Önbelleği temizle</string>
   <string name="deep_clean_normal_clean_progress_desc">%1$s dosyası temizlendi</string>
+  <string name="deep_clean_uninstall_completed_tips">Başarıyla kaldırıldı</string>
   <string name="deepclean_1_k_clean">Hızlı Temizle</string>
   <string name="deepclean_apk_content">Gereksiz uygulamaları veya APKları sil</string>
   <string name="deepclean_apk_summary_empty">Herşey güzel gözüküyor, silinecek APK dosyası yok</string>
@@ -107,6 +115,8 @@
   <string name="deepclean_cache_content">Uygulamaların oluşturduğu verileri temizle</string>
   <string name="deepclean_cache_header_left">Veri Dosyaları: %d</string>
   <string name="deepclean_cache_summary_empty">Herşey güzel gözüküyor, temizlenecek veri yok</string>
+  <string name="deepclean_empty">Herşey güzel gözüküyor</string>
+  <string name="deepclean_install_info_desc2">Boş alan kazanmak için uygulamaları sil</string>
   <string name="deepclean_large_content">10 MB\'tan daha büyük dosyaları silme</string>
   <string name="deepclean_large_summary_empty">Herşey güzel gözüküyor, silinecek dosya yok</string>
   <string name="deepclean_list_item_from_app">Uygulama Mağazası</string>
@@ -119,7 +129,7 @@
   <string name="deepclean_normal_item_desc1">Çöp dosyalar</string>
   <string name="deepclean_normal_item_desc2">Temizleyicinin etkinliği sistem performansını etkilemez"</string>
   <string name="deepclean_normal_item_summary_empty">Herşey güzel gözüküyor, temizlenecek birşey yok</string>
-  <string name="deepclean_normal_title">Otomatik temizle</string>
+  <string name="deepclean_normal_title">Otomatik Temizle</string>
   <string name="deepclean_similar_ignore">Yoksay</string>
   <string name="deepclean_similar_summary_empty">Herşey güzel gözüküyor, silinecek fotoğraf yok</string>
   <string name="deepclean_size_summary_less">Cihazdaki ne deyse boş yer kalmadı</string>
@@ -186,7 +196,7 @@
   <string name="hints_cache_msd_title">Delta Güncellemesi</string>
   <string name="hints_cleanfinish">Temizlik Bitti</string>
   <string name="hints_deepclean_list_item_from">Şurdan: %s</string>
-  <string name="hints_deepclean_scanning">%s taranıyor</string>
+  <string name="hints_deepclean_scanning">%s taranıyor...</string>
   <string name="hints_finish_quick_cleanup">Tamam</string>
   <string name="hints_finish_quick_cleanup_title">%s Çöpü Temizle</string>
   <string name="hints_finish_quick_scan">Tarama tamamlandı</string>
@@ -220,7 +230,7 @@
   <string name="hints_num">0</string>
   <string name="hints_privacy_header_left">Mahremiyet: %d</string>
   <string name="hints_quick_cleanning">Temizleniyor…</string>
-  <string name="hints_quick_cleanuping">En iyi hale getiriliyor……</string>
+  <string name="hints_quick_cleanuping">İyi hale getiriliyor……</string>
   <string name="hints_quick_deep_clean">Temizle</string>
   <string name="hints_quick_deep_scanning">Taranıyor...</string>
   <string name="hints_quick_deep_uninstall">Sil</string>
@@ -380,6 +390,7 @@
   <string name="safety_rank">Güvenlik açısından %%%d MIUI kullanıcısından önde</string>
   <string name="sc_allow_network_dialog_button">İzinli</string>
   <string name="sc_allow_network_dialog_message">Bu uygulamanın güncellemeleri almak için İnternete bağlanmasına izin veriyor musunuz?</string>
+  <string name="scanning">Taranıyor…</string>
   <string name="search_history">Arama Geçmişi</string>
   <string name="see_more">Fazlası</string>
   <string name="set_immediately">Ayarla</string>
@@ -451,7 +462,7 @@
   <string name="toast_uninstall_success">Kaldırma tamamlandı</string>
   <string name="total_clean">Toplam temizlenen: %s</string>
   <string name="total_clean_text">Temizle</string>
-  <string name="traffic_top">En fazla veri tüketen 5 uygulama</string>
+  <string name="traffic_top">Fazla veri tüketen 5 uygulama</string>
   <string name="unlike">Hayır, teşekkürler</string>
   <string name="update_date_format">dd-MM-yyyy</string>
   <string name="virus_scan">Virüs Tara</string>
