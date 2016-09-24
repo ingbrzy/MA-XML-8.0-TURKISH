@@ -23,7 +23,7 @@
     <string-array name="alarm_repeat_type">
         <item>Birkez</item>
         <item>Günlük</item>
-        <item>Çalışma Günleri</item>
+        <item>Mesai Günleri</item>
         <item>Tatil Günleri</item>
         <item>Pazartesi-Cuma</item>
         <item>Özel</item>
@@ -35,14 +35,32 @@
         <item>Özel</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>Alarma 1 dakikadan daha az kaldı</item>
-        <item>Alarma %1$s kaldı</item>
-        <item>Alarma %2$s kaldı</item>
-        <item>Alarma %1$s %2$s kaldı</item>
-        <item>Alarma %3$s kaldı</item>
-        <item>Alarma %1$s %3$s kaldı</item>
-        <item>Alarma %2$s %3$s kaldı</item>
-        <item>Alarma %1$s, %2$s, %3$s kaldı</item>
+        <item>Alarm 1 dak. kısa süre içinde kapatılacak.</item>
+        <item>Alarm %1$s sonra kapatılacak.</item>
+        <item>Alarm %2$s sonra kapatılacak.</item>
+        <item>Alarm %1$s %2$s sonra kapatılacak.</item>
+        <item>Alarm %3$s sonra kapatılacak.</item>
+        <item>Alarm %1$s %3$s sonra kapatılacak.</item>
+        <item>Alarm %2$s %3$s sonra kapatılacak.</item>
+        <item>Alarm %1$s, %2$s, %3$s sonra kapatılacak.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>20 dakika</item>
+        <item>25 dakika</item>
+        <item>30 dakika</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
     </string-array>
     <string-array name="auto_silence_entries">
         <item>Asla</item>
