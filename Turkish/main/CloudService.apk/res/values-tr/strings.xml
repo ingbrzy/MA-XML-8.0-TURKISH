@@ -321,7 +321,7 @@ Daha fazla özelliğe erişmek için Eşitleme Ayarları düğmesine dokunun."</
   <string name="micloud_setting_sms_summary">SMS ve MMS mesajları</string>
   <string name="micloud_setting_wifi_summary">WLAN Ayarları</string>
   <string name="micloud_single_dspt">Mi Bulut\'u veri eşitlemede, cihazı bulmakta, arkadaşlarınızla paylaşımda kullanabilirsiniz.</string>
-  <string name="micloud_space_applist_detail">Ana ekran uygulamalarını yönet</string>
+  <string name="micloud_space_applist_detail">Ana Ekran uygulamalarını yönet</string>
   <string name="micloud_space_applist_title">Uygulamaları Yönet</string>
   <string name="micloud_space_duokan_detail">Duokan uygulaması ile e-kitapları ve indirmeleri yönet</string>
   <string name="micloud_space_duokan_title">Duokan</string>
@@ -379,7 +379,7 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="mx_dspt_provision_with_voip2">Gizlilik Politikası</string>
   <string name="mx_sub_dspt_provision">Mi Mesajı</string>
   <string name="mx_sub_dspt_provision_with_voip">İnternet Araması</string>
-  <string name="mx_voip_dspt">Mi Çağrı</string>
+  <string name="mx_voip_dspt">Mi Çağrısı</string>
   <string name="next">Sonraki</string>
   <string name="noRemind">"Tekrar hatırlatma!"</string>
   <string name="no_sim">SIM kart bulunamadı</string>
@@ -398,6 +398,14 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="provision_arrow_next">&gt;</string>
   <string name="remind_later">Şimdi değil</string>
   <string name="restoreSync">Şimdi eşitle</string>
+  <string name="search_cloudbackup_pref">Bulut Yedeklemesi</string>
+  <string name="search_cloudbackup_pref_desc">Bulut Yedeklemesini aç/kapat</string>
+  <string name="search_cloudbackup_pref_key_words">bulut yedeklemesi, yedekle buluta</string>
+  <string name="search_cloudbackup_pref_path">Mi Hesap/Mi Bulut/Yedekle ve Geri Yükle</string>
+  <string name="search_finddevice_pref">Telefonu Bul</string>
+  <string name="search_finddevice_pref_desc">Telefonu Bul Aç/Kapat</string>
+  <string name="search_finddevice_pref_key_words">telefonu bul, cihazı bul</string>
+  <string name="search_finddevice_pref_path">Mi Hesabı/Mi Bulut/Telefonu Bul</string>
   <string name="setting">Ayarlar</string>
   <string name="settings_backup_title">Sistem Ayarlarını Eşitle</string>
   <string name="share_cancel">Paylaşım iptal edildi</string>
