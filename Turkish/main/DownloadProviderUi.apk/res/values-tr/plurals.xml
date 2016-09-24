@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">%d öğe bulundu</item>
+        <item quantity="one">1 öğe bulundu</item>
+    </plurals>
     <plurals name="numberOfItemsAvailable">
         <item quantity="other">%d öğe silinsin mi?</item>
         <item quantity="one">Öğe silinsin mi?</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">%d sonuç bulundu</item>
+        <item quantity="one">1 sonuç bulundu</item>
     </plurals>
 </resources>
