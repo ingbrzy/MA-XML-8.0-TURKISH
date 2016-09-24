@@ -67,8 +67,8 @@
         <item>eşittir</item>
     </string-array>
     <string-array name="mortgage_repayment">
-        <item>Eşit yüklemeler</item>
-        <item>Azalan yüklemeler</item>
+        <item>eşit taksitte</item>
+        <item>taksit azaltılması</item>
     </string-array>
     <string-array name="unit_data_order_currency_">
         <item>USD</item>
@@ -183,13 +183,13 @@
         <item>Re</item>
     </string-array>
     <string-array name="unit_data_order_time_">
-        <item>yr</item>
-        <item>week</item>
-        <item>day</item>
-        <item>h</item>
-        <item>min</item>
-        <item>s</item>
-        <item>ms</item>
+        <item>yıl</item>
+        <item>hafta</item>
+        <item>gün</item>
+        <item>saat</item>
+        <item>dak</item>
+        <item>sn</item>
+        <item>msn</item>
         <item>us</item>
         <item>ps</item>
     </string-array>
