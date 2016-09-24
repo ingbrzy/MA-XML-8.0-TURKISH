@@ -1,196 +1,425 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer-array name="units_default_selection_length">
+    <string-array name="reminder_methods_labels">
+        <item>Bildirim</item>
+        <item>E-posta</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <integer-array name="reminder_methods_values">
         <item>1</item>
         <item>2</item>
+        <item>3</item>
+        <item>4</item>
     </integer-array>
-    <integer-array name="units_default_selection_weight">
+    <string-array name="reminder_minutes_labels">
+        <item>Hatırlatıcısız</item>
+        <item>0 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>1 gün</item>
+        <item>2 gün</item>
+        <item>1 hafta</item>
+    </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Hatırlatıcısız</item>
+        <item>0 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>1 gün</item>
+        <item>2 gün</item>
+        <item>1 hafta</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Varsayılan</item>
+        <item>Cumartesi</item>
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshall Adaları</item>
+        <item>Midway Adası</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pasifik Zamanı</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Dağ Saati</item>
+        <item>Orta Amerika</item>
+        <item>Orta Zaman</item>
+        <item>Meksika Şehri</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Doğu Zamanı</item>
+        <item>Venezuela</item>
+        <item>Atlantik Zamanı (Barbados)</item>
+        <item>Atlantik Zamanı (Kanada)</item>
+        <item>Manaus</item>
+        <item>Şantiago</item>
+        <item>Newfoundland</item>
+        <item>Brezilya</item>
+        <item>Buenos Aires</item>
+        <item>Grönland</item>
+        <item>Montevideo</item>
+        <item>Orta Atlantik</item>
+        <item>Azor Adaları</item>
+        <item>Cape Verde Adaları</item>
+        <item>Kazablanka</item>
+        <item>Londra, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrad</item>
+        <item>Brüksel</item>
+        <item>Saraybosna</item>
+        <item>Windhoek</item>
+        <item>Batı Afrika Zamanı</item>
+        <item>Amman, Ürdün</item>
+        <item>Atina, İstanbul</item>
+        <item>Beyrut, Lübnan</item>
+        <item>Kahire</item>
+        <item>Helsinki</item>
+        <item>Kudüs</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bağdat</item>
+        <item>Moskava</item>
+        <item>Kuveyt</item>
+        <item>Nairobi</item>
+        <item>Tahran</item>
+        <item>Bakü</item>
+        <item>Tiflis</item>
+        <item>Erivan</item>
+        <item>Dubai</item>
+        <item>Kabil</item>
+        <item>İslamabad, Karaçi</item>
+        <item>"Uralsk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kalküta</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Hong Kong</item>
+        <item>İrkut Bölgesi</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutistan</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sidney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Meşgul</item>
+        <item>Uygun</item>
+        <item>Belirsiz</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Varsayılan</item>
+        <item>Özel</item>
+        <item>Genel</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>Son</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Cevapsiz)</item>
+        <item>Evet</item>
+        <item>Belki</item>
+        <item>Hayır</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Sadece bu etkinlik</item>
+        <item>Bu ve gelecek etkinlikler</item>
+        <item>Tüm etkinlikler</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Bu &amp; gelecek etkinliklerde</item>
+        <item>Tüm etkinliklerde</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Sadece bu etkinlikte</item>
+        <item>Tüm etkinliklerde</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Gün</item>
+        <item>Hafta</item>
+        <item>Ay</item>
+        <item>Etkinlikler</item>
+    </string-array>
+    <array name="account_birthday">
+        <item>#ffe99080</item>
+        <item>#b3d5a198</item>
+        <item>#fffcefef</item>
+        <item>#ffce7e6f</item>
+    </array>
+    <array name="account_xiaomi">
+        <item>#ff31aeaa</item>
+        <item>#b355c3bf</item>
+        <item>#ffe9f5f5</item>
+        <item>#ff349a97</item>
+    </array>
+    <array name="account_preset1">
+        <item>#ffb69dd0</item>
+        <item>#b3bfa5db</item>
+        <item>#fff6f1fa</item>
+        <item>#ffa894be</item>
+    </array>
+    <array name="account_preset2">
+        <item>#fff0a16f</item>
+        <item>#b3d88c5b</item>
+        <item>#fffdf3ec</item>
+        <item>#ffe4884d</item>
+    </array>
+    <array name="account_preset3">
+        <item>#ff64bce1</item>
+        <item>#b33aadd2</item>
+        <item>#ffe2f5fb</item>
+        <item>#ff5bb5db</item>
+    </array>
+    <array name="account_preset4">
+        <item>#ff88c984</item>
+        <item>#b37dc07a</item>
+        <item>#fff1faf1</item>
+        <item>#ff91c58e</item>
+    </array>
+    <array name="action_bar_colors">
+        <item>#ff7d97e1</item>
+        <item>#ff27bbd0</item>
+        <item>#ff8cc061</item>
+        <item>#ff3fbc7d</item>
+        <item>#ff11b599</item>
+        <item>#fff38f3a</item>
+        <item>#ffeb6e4a</item>
+        <item>#ffdd5a62</item>
+        <item>#ffe8774d</item>
+        <item>#ffe29255</item>
+        <item>#ff579ee0</item>
+        <item>#ff9b88d0</item>
+    </array>
+    <array name="month_today_colors">
+        <item>#ff809be8</item>
+        <item>#ff2ec2d7</item>
+        <item>#ff99ce6d</item>
+        <item>#ff46c987</item>
+        <item>#ff15bb9e</item>
+        <item>#fff49d52</item>
+        <item>#fff4734d</item>
+        <item>#ffea646b</item>
+        <item>#ffed7d54</item>
+        <item>#ffe8995d</item>
+        <item>#ff5ea4e6</item>
+        <item>#ffab99de</item>
+    </array>
+    <string-array name="fortune_gender">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <integer-array name="fortune_gender_values">
         <item>1</item>
-        <item>2</item>
+        <item>0</item>
     </integer-array>
-    <integer-array name="units_default_selection_volume">
-        <item>1</item>
-        <item>2</item>
+    <string-array name="quick_response_defaults">
+        <item>Bir kaç dakika geç kalabilirim.</item>
+        <item>10 dakikada ordayım.</item>
+        <item>Git ve bensiz başla.</item>
+        <item>"Üzgünüm, yapamam. Başka bir programım var."</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Daima</item>
+        <item>Sadece zil sessizde iken</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Şeffaf</item>
+        <item>Beyaz Arkaplan</item>
+    </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Hatırlatıcısız</item>
+        <item>Etkinlik zamanında</item>
+        <item>5 dakika önce</item>
+        <item>10 dakika önce</item>
+        <item>15 dakika önce</item>
+        <item>30 dakika önce</item>
+        <item>1 saat önce</item>
+        <item>1 gün önce</item>
+        <item>2 gün önce</item>
+        <item>1 hafta önce</item>
+    </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Hatırlatıcısız</item>
+        <item>Etkinlik zamanında</item>
+        <item>5 dakika önce</item>
+        <item>10 dakika önce</item>
+        <item>15 dakika önce</item>
+        <item>30 dakika önce</item>
+        <item>1 saat önce</item>
+        <item>1 gün önce</item>
+        <item>2 gün önce</item>
+        <item>1 hafta önce</item>
+    </string-array>
+    <integer-array name="online_reminder_minutes_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
     </integer-array>
-    <integer-array name="units_default_selection_temperature">
-        <item>1</item>
-        <item>2</item>
+    <integer-array name="online_reminder_minutes_values_allday">
+        <item>0</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>4320</item>
+        <item>10080</item>
     </integer-array>
-    <integer-array name="units_default_selection_velocity">
-        <item>1</item>
-        <item>2</item>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 saat önce</item>
+        <item>4 saat önce</item>
+        <item>5 saat önce</item>
+        <item>6 saat önce</item>
+        <item>1 gün önce</item>
+    </string-array>
+    <integer-array name="travel_reminder_minutes_values">
+        <item>180</item>
+        <item>240</item>
+        <item>300</item>
+        <item>360</item>
+        <item>1440</item>
     </integer-array>
-    <integer-array name="units_default_selection_time">
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="units_default_selection_area">
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <string-array name="operators">
-        <item>(</item>
-        <item>)</item>
-        <item>!</item>
-        <item>ln</item>
-        <item>log</item>
-        <item>√</item>
-        <item>÷</item>
-        <item>×</item>
-        <item>+</item>
-        <item>−</item>
-        <item>.</item>
-        <item>^</item>
-        <item>tan</item>
-        <item>sin</item>
-        <item>cos</item>
-        <item>π</item>
-        <item>=</item>
+    <string-array name="repeat_frequency_spinner">
+        <item>day</item>
+        <item>week</item>
+        <item>month</item>
+        <item>year</item>
     </string-array>
-    <string-array name="operatorDescs">
-        <item>sol parantez</item>
-        <item>sağ parantez</item>
-        <item>faktöriyel</item>
-        <item>doğal logaritma</item>
-        <item>logaritma</item>
-        <item>kare kök</item>
-        <item>bölü</item>
-        <item>çarpı</item>
-        <item>artı</item>
-        <item>eksi</item>
-        <item> nokta </item>
-        <item>güç</item>
-        <item>tanjant</item>
-        <item>sinüs</item>
-        <item>kosinüs</item>
-        <item>pi</item>
-        <item>eşittir</item>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>days</item>
+        <item>weeks</item>
+        <item>months</item>
+        <item>years</item>
     </string-array>
-    <string-array name="mortgage_repayment">
-        <item>eşit taksitte</item>
-        <item>taksit azaltılması</item>
+    <string-array name="repeat_choose_day">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
     </string-array>
-    <string-array name="unit_data_order_currency_">
-        <item>USD</item>
-        <item>EUR</item>
-        <item>HKD</item>
-        <item>JPY</item>
-        <item>CNY</item>
+    <string-array name="repeat_choose_weekday">
+        <item>Ptesi</item>
+        <item>Salı</item>
+        <item>Çrş</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Ctesi</item>
+        <item>Pzr</item>
     </string-array>
-    <string-array name="unit_data_order_length_">
-        <item>km</item>
-        <item>m</item>
-        <item>dm</item>
-        <item>cm</item>
-        <item>mm</item>
-        <item>um</item>
-        <item>nm</item>
-        <item>pm</item>
-        <item>dm</item>
-        <item>nmi</item>
-        <item>mi</item>
-        <item>fur</item>
-        <item>fm</item>
-        <item>yd</item>
-        <item>ft</item>
-        <item>in</item>
-        <item>gongli</item>
-        <item>li</item>
-        <item>zhang</item>
-        <item>chi</item>
-        <item>cun</item>
-        <item>fen</item>
-        <item>lii</item>
-        <item>hao</item>
-        <item>pc</item>
-        <item>ld</item>
-        <item>au</item>
-        <item>ly</item>
+    <string-array name="repeat_choose_month">
+        <item>Ocak</item>
+        <item>Şubat</item>
+        <item>Mart</item>
+        <item>Nisan</item>
+        <item>Mayıs</item>
+        <item>Haziran</item>
+        <item>Temmuz</item>
+        <item>Ağustos</item>
+        <item>Eylül</item>
+        <item>Ekim</item>
+        <item>Kasım</item>
+        <item>Aralık</item>
     </string-array>
-    <string-array name="unit_data_order_area_">
-        <item>sq.km</item>
-        <item>ha</item>
-        <item>are</item>
-        <item>sq.m</item>
-        <item>sq.dm</item>
-        <item>sq.cm</item>
-        <item>sq.mm</item>
-        <item>sq.um</item>
-        <item>acre</item>
-        <item>sq.mi</item>
-        <item>sq.yd</item>
-        <item>sq.ft</item>
-        <item>sq.in</item>
-        <item>sq.rd</item>
-        <item>qing</item>
-        <item>mu</item>
-        <item>sq.chi</item>
-        <item>sq.cun</item>
+    <string-array name="repeat_choose_week_left">
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+        <item>fourth</item>
+        <item>last</item>
     </string-array>
-    <string-array name="unit_data_order_volume_">
-        <item>cu.m</item>
-        <item>cu.dm</item>
-        <item>cu.cm</item>
-        <item>cu.mm</item>
-        <item>hl</item>
-        <item>l</item>
-        <item>dl</item>
-        <item>cl</item>
-        <item>ml</item>
-        <item>cu.ft</item>
-        <item>cu.in</item>
-        <item>cu.yd</item>
-        <item>cu.af</item>
+    <string-array name="repeat_choose_week_right">
+        <item>Ptesi - Cuma</item>
+        <item>Haftasonu</item>
+        <item>Tüm Hafta</item>
     </string-array>
-    <string-array name="unit_data_order_velocity_">
-        <item>c</item>
-        <item>mach</item>
-        <item>mps</item>
-        <item>kmph</item>
-        <item>kmps</item>
-        <item>nmiph</item>
-        <item>mileph</item>
-        <item>ftps</item>
-        <item>inps</item>
-    </string-array>
-    <string-array name="unit_data_order_weight_">
-        <item>t</item>
-        <item>kg</item>
-        <item>g</item>
-        <item>mg</item>
-        <item>ug</item>
-        <item>q</item>
-        <item>lb</item>
-        <item>oz</item>
-        <item>ct</item>
-        <item>gr</item>
-        <item>lt</item>
-        <item>st</item>
-        <item>uk.cwt</item>
-        <item>us.cwt</item>
-        <item>uk.st</item>
-        <item>dr</item>
-        <item>dan</item>
-        <item>jin</item>
-        <item>qian</item>
-        <item>liang</item>
-    </string-array>
-    <string-array name="unit_data_order_temperature_">
-        <item>C</item>
-        <item>F</item>
-        <item>K</item>
-        <item>R</item>
-        <item>Re</item>
-    </string-array>
-    <string-array name="unit_data_order_time_">
-        <item>yıl</item>
-        <item>hafta</item>
-        <item>gün</item>
-        <item>saat</item>
-        <item>dak</item>
-        <item>sn</item>
-        <item>msn</item>
-        <item>us</item>
-        <item>ps</item>
+    <string-array name="repeat_choose_end">
+        <item>Asla</item>
+        <item>Zaman</item>
+        <item>Say</item>
     </string-array>
 </resources>
