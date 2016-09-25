@@ -107,9 +107,9 @@
   <string name="account_setup_incoming_security_label">Güvenlik Türü</string>
   <string name="account_setup_incoming_security_none_label">Yok</string>
   <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-  <string name="account_setup_incoming_security_ssl_trust_certificates_label">"     SSL/TLS (Tüm sertifikaları kabul et)"</string>
+  <string name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS (Tüm sertifikaları kabul et)"</string>
   <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
-  <string name="account_setup_incoming_security_tls_trust_certificates_label">"     STARTTLS (Tüm sertifikaları kabul et)"</string>
+  <string name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS (Tüm sertifikaları kabul et)"</string>
   <string name="account_setup_incoming_server_label">Sunucu</string>
   <string name="account_setup_incoming_username_label">Kullanıcı Adı</string>
   <string name="account_setup_incoming_username_label_default_hint">Etki alanını içerebilir</string>
@@ -123,6 +123,7 @@
   <string name="account_setup_options_mail_check_frequency_push">Otomatik (Zorla)</string>
   <string name="account_setup_options_mail_window_1day">Dün</string>
   <string name="account_setup_options_mail_window_1month">Geçen Ay</string>
+  <string name="account_setup_options_mail_window_1quarter">Geçen çeyrek</string>
   <string name="account_setup_options_mail_window_1week">Geçen hafta</string>
   <string name="account_setup_options_mail_window_2weeks">Geçen 2 hafta</string>
   <string name="account_setup_options_mail_window_3days">Son üç gün</string>
@@ -144,7 +145,7 @@
   <string name="actionbar_large_unread_count">%1$d+ okunmamış</string>
   <string name="activity_folder_selection">Dizini Seç</string>
   <string name="activity_mailbox_selection">Hesabı Seç</string>
-  <string name="ad_merge">Reklam&amp;Organize Bildirimi</string>
+  <string name="ad_merge">Reklam &amp; Bildirimler</string>
   <string name="add_account">Hesap Ekle</string>
   <string name="add_account_keywords">Posta Hesabı Ekle;Mail Hesabı Ekle;Yeni Hesap Ekle</string>
   <string name="add_attachment">Ek Ekle</string>
@@ -238,6 +239,7 @@
   <string name="colon">:</string>
   <string name="compose">Yaz</string>
   <string name="compose_attachment_number_limit">"10\'dan fazla eklenti eklenilemiyor"</string>
+  <string name="compose_paste_address_oob">Yapıştırılan karakter çok uzun, kesilecek</string>
   <string name="compose_picturesexceedlimits">"5\'den fazla resim eklenemez!"</string>
   <string name="compose_send">Gönder</string>
   <string name="compose_sent">Posta gönderildi</string>
@@ -353,6 +355,7 @@
   <string name="download_whole_email">İçeriğin geri kalanını indir</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Gezinme menüsünü kapat</string>
+  <string name="drawer_contacts">Kişiler</string>
   <string name="drawer_open">Gezinme menüsünü aç</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
@@ -365,6 +368,7 @@
   <string name="email_setting">Posta</string>
   <string name="email_setting_keywords">Hesaplar;Hesap Ekle; Posta hesabı ekle; silmeyi onayla;göndermeyi onayla;direkt sil; postayı görüntüle;pil tasarrufu; geribildirim gönder; günlüğü gönder</string>
   <string name="email_sina">Sina Posta</string>
+  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Hesap bulunamadı"</string>
   <string name="empty_email_tip">"Boş E-Posta gönderilemez"</string>
   <string name="empty_spam">İstenmeyenleri temizle</string>
@@ -374,7 +378,8 @@
   <string name="enable_sync_in_account_settings">%1$s içinde aç.</string>
   <string name="enumeration_delimiter">" | "</string>
   <string name="exception_cancel">"
-        Bu olay için iptal edildi:
+        Bu olay şunun için iptal 
+    edildi:
 %s "</string>
   <string name="exception_updated">"
         Bu etkinliği değiştirenin detayları:
@@ -445,6 +450,8 @@
   <string name="from_heading">"Kimden: "</string>
   <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
   <string name="general_preference_confirm_send_label">Göndermeden önce onayla</string>
+  <string name="general_preference_str_auto_translation">Hızlı Çevir</string>
+  <string name="general_preference_str_auto_translation_prompt">Çeviri sonucunu görmek için içeriğin karşılığını kopyala</string>
   <string name="general_preference_text_zoom_dialog_title">Mesaj metninin boyutu</string>
   <string name="general_preference_text_zoom_huge">Kocaman</string>
   <string name="general_preference_text_zoom_label">Mesaj metninin boyutu</string>
@@ -904,7 +911,15 @@
   <string name="too_large_to_attach_additional">"Dosya boyutu %1$s\'i geçemez."</string>
   <string name="too_large_to_attach_multiple">"Bir veya daha fazla dosya ekli değil. Dosya boyutu %1$s geçemez."</string>
   <string name="too_large_to_attach_single">"%1$s\'den daha büyük dosya ekleyemiyorum."</string>
-  <string name="topic_merge">Temeları Birleştir</string>
+  <string name="topic_merge">Temaları Birleştir</string>
+  <string name="translation_loading">Yükleniyor…</string>
+  <string name="translation_no_result">Sonuç bulunamadı</string>
+  <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_pronunciation_cn">Pinyin</string>
+  <string name="translation_pronunciation_en">BrE</string>
+  <string name="translation_pronunciation_other">Machine</string>
+  <string name="translation_query_failure">Arama başarısız oldu</string>
+  <string name="translation_technology_support">PowerWord tarafından teknik destek sağlanıyor</string>
   <string name="trash_folder_selection_title">%s için sunucunuzun çöp klasörü seçin</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
