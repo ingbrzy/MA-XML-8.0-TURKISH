@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">%1$d okunmamış</item>
+        <item quantity="other">%1$d yeni mesaj</item>
+        <item quantity="one">%1$d yeni mesaj</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">%1$d posta arşivlensin mi?</item>
@@ -72,12 +73,12 @@
         <item quantity="one">Taslak</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
-        <item quantity="other">%1$d mesajlar kalıcı olarak silinecek.</item>
-        <item quantity="zero">%1$d mesajlar kalıcı olarak silinecek.</item>
+        <item quantity="other">%1$d mesaj kalıcı olarak silinecek.</item>
+        <item quantity="zero">%1$d mesaj kalıcı olarak silinecek.</item>
         <item quantity="one">%1$d mesaj kalıcı olarak silinecek.</item>
-        <item quantity="two">%1$d mesajlar kalıcı olarak silinecek.</item>
-        <item quantity="few">%1$d mesajlar kalıcı olarak silinecek.</item>
-        <item quantity="many">%1$d mesajlar kalıcı olarak silinecek.</item>
+        <item quantity="two">%1$d mesaj kalıcı olarak silinecek.</item>
+        <item quantity="few">%1$d mesaj kalıcı olarak silinecek.</item>
+        <item quantity="many">%1$d mesaj kalıcı olarak silinecek.</item>
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">%1$d postayı taşı</item>
@@ -88,12 +89,12 @@
         <item quantity="many">%1$d postayı taşı</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
-        <item quantity="other">%1$d yeni mesajları göster.</item>
-        <item quantity="zero">%1$d yeni mesajları göster.</item>
+        <item quantity="other">%1$d yeni mesajı göster.</item>
+        <item quantity="zero">%1$d yeni mesajı göster.</item>
         <item quantity="one">%1$d yeni mesajı göster.</item>
-        <item quantity="two">%1$d yeni mesajları göster.</item>
-        <item quantity="few">%1$d yeni mesajları göster.</item>
-        <item quantity="many">%1$d yeni mesajları göster.</item>
+        <item quantity="two">%1$d yeni mesajı göster.</item>
+        <item quantity="few">%1$d yeni mesajı göster.</item>
+        <item quantity="many">%1$d yeni mesajı göster.</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d seçildi</item>
@@ -104,11 +105,11 @@
         <item quantity="many">%d seçildi</item>
     </plurals>
     <plurals name="show_messages_read">
-        <item quantity="other">%1$d eski mesajlar</item>
-        <item quantity="zero">%1$d eski mesajlar</item>
+        <item quantity="other">%1$d eski mesaj</item>
+        <item quantity="zero">%1$d eski mesaj</item>
         <item quantity="one">%1$d eski mesaj</item>
-        <item quantity="two">%1$d eski mesajlar</item>
-        <item quantity="few">%1$d eski mesajlar</item>
-        <item quantity="many">%1$d eski mesajlar</item>
+        <item quantity="two">%1$d eski mesaj</item>
+        <item quantity="few">%1$d eski mesaj</item>
+        <item quantity="many">%1$d eski mesaj</item>
     </plurals>
 </resources>
