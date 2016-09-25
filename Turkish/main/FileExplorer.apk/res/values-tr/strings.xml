@@ -42,9 +42,11 @@
   <string name="backup_title">Sohbet videoları yedeklensin mi?</string>
   <string name="big5_summary">Geleneksel Çince Windows kodlaması</string>
   <string name="big5_title">BIG5</string>
+  <string name="bind">Ekle</string>
   <string name="bind_account">Mevcut Hesabı Eşitle</string>
   <string name="bind_account_summary">Mi Hesabı ile KuaiPan hesabını eşitleyin</string>
   <string name="bind_failed_tip">"Eklenemedi"</string>
+  <string name="bind_need_to_login">Oturum Aç</string>
   <string name="bind_phone_dialog_bind">Şimdi Ekle</string>
   <string name="bind_phone_dialog_cancle">"Ekleme!"</string>
   <string name="bind_phone_dialog_tip">"Videonuz rayting ve ödül kazanma içeriği içerebilir. Bazı şeyler kazanabilirsiniz, fakat bunun için telefon numaranızı eklemelisinizr."</string>
@@ -93,7 +95,8 @@
   <string name="clean_message"> %1$s alan açıldı.</string>
   <string name="clean_title">Çöp kutusundaki 30 günden eski dosyaları sil</string>
   <string name="clean_trash_box">Çöp kutusunu boşalt</string>
-  <string name="click_to_switch_volume">Dahili depolama ve SD kart arasında geçiş yapmak için buraya dokun</string>
+  <string name="click_to_switch_volume">Dahili ve Harici depolama arasında geçiş yapmak için buraya dokun</string>
+  <string name="click_to_switch_volume_pad">Dahili ve SD depolama arasında geçiş yapmak için buraya dokun</string>
   <string name="close">Kapat</string>
   <string name="comment_delete_message">Bu yorum hemen silinecek.</string>
   <string name="comment_delete_title">Yorumu sil</string>
@@ -159,6 +162,8 @@
   <string name="delete_video_dialog_title">Videoyu sil</string>
   <string name="delete_video_success">Başarıyla silindi</string>
   <string name="des_running_trans">%1$d dosya transfer edilemedi.</string>
+  <string name="dialog_logout_message">Şimdi oturum kapatılsın mı?</string>
+  <string name="dialog_logout_title">Oturumu kapat</string>
   <string name="dialog_select_type">Tipini seç</string>
   <string name="dialog_type_audio">Ses</string>
   <string name="dialog_type_image">Resimler</string>
@@ -208,6 +213,7 @@
   <string name="favorite_photo">Fotoğraflar</string>
   <string name="favorite_ringtone">Zil Sesleri</string>
   <string name="favorite_screen_cap">Ekran Görüntüleri</string>
+  <string name="female">Kadın</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_already_downlaoded">Dosya \"%1$s\" konumuna kaydedildi</string>
   <string name="file_info_canread">Okunabilir: </string>
@@ -257,7 +263,7 @@
   <string name="homepage_tab_recent">Geçmiş</string>
   <string name="hot_app">Popüler Uygulamalar</string>
   <string name="hot_comments">Popüler Yorumlar</string>
-  <string name="hot_sticker">Etiketli</string>
+  <string name="hot_sticker">Etiketler</string>
   <string name="hot_video">Videolar</string>
   <string name="hot_video_load_more">Fazlası &gt;</string>
   <string name="hottest_sticker_str">Popüler</string>
@@ -290,7 +296,7 @@
   <string name="kuaipan_not_logged_in">Oturum açılmadı</string>
   <string name="kuaipan_over_space">Yeterli depolama alanı yok.</string>
   <string name="kuaipan_photo_folder_divider">,</string>
-  <string name="kuaipan_photo_locate">%1$s Konumu</string>
+  <string name="kuaipan_photo_locate">Konum: %1$s</string>
   <string name="kuaipan_photo_more_folder_count">%1$s</string>
   <string name="kuaipan_prompt">Sunucu çöktü</string>
   <string name="kuaipan_prompt_message">"
@@ -325,7 +331,8 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="make_private">Gizle</string>
   <string name="make_private_msg_1">Bu dosya gizlensin mi?</string>
   <string name="make_private_msg_2">Bu dosyalar gizlensin mi?</string>
-  <string name="make_private_msg_3">Bu klasördeki tüm dosyalar gizlenir.</string>
+  <string name="make_private_msg_3">Bu klasördeki tüm dosyalar gizlenecek.</string>
+  <string name="male">Erkek</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Temizle</string>
   <string name="menu_item_ftp">FTP</string>
@@ -389,6 +396,7 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="move_icon_to_desktop_hint">Gezginin daha verimli dosyaları yönetmesi için ana ekrana kısayolunu oluşturun.</string>
   <string name="move_icon_to_desktop_success">Kısayol Ana Ekrana eklendi.</string>
   <string name="move_to">Taşı:</string>
+  <string name="msg_notify_setting">Bildirim Ayarları</string>
   <string name="msg_set_password">Önce şifreyi ayarla</string>
   <string name="multi_select_title">%1$s seçildi</string>
   <string name="my_app">Uygulama Verisi</string>
@@ -481,6 +489,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="notify_private_folder_title">Gizli klasör oluştur</string>
   <string name="oauth_failed_tip">"Yetkilendirme tamamlanamadı"</string>
   <string name="oauth_success_tip">Yetkilendirme başarıyla tamamlandı</string>
+  <string name="one_account_bind_needed">En az bir hesap ekleyin</string>
   <string name="online_not_support">"Şu anda bu dosyayı görüntüleyemezsiniz."</string>
   <string name="only_wifi">WLAN bağlandığında indir</string>
   <string name="open_app">Aç</string>
@@ -535,6 +544,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="operation_unfavorite">Favoriden Çıkart</string>
   <string name="operation_unlike">Favoriden Çıkart</string>
   <string name="origin_name">%1$s: </string>
+  <string name="other_user_fans_tab">Hayranlar</string>
   <string name="other_user_follow_title">Takip Edilen Kişi</string>
   <string name="other_user_liked_topic_tip">Konu yok</string>
   <string name="other_user_liked_video_title">Sevdiğim Videolar</string>
@@ -559,6 +569,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="phone_get_code_tip">Bugünlük birden fazla doğrulama kodu girilmeye çalışıldı</string>
   <string name="phone_has_used_tip">Bu telefon varolan hesabı kullanıyor, başka bir tane deneyin.</string>
   <string name="phone_login_title">Telefon</string>
+  <string name="phone_num">Telefon Numarası</string>
   <string name="phone_num_et_hint">Telefon numarasını girin</string>
   <string name="phone_num_format_tip">Geçersiz telefon numarası</string>
   <string name="phone_send_code">Kodu al</string>
@@ -620,11 +631,14 @@ ve yenilerini kaçırmayın!"</string>
   <string name="request_timeout">Ağ isteği zaman aşımına uğradı</string>
   <string name="reset_password">Şifreyi değiştir</string>
   <string name="restoring">Geri yükleniyor…</string>
+  <string name="rlv_closing">Kapatılıyor…</string>
   <string name="rlv_last_loading_time">Son Yenileme: %1$s</string>
   <string name="rlv_last_refreshing_time">%1$s güncellendi</string>
   <string name="rlv_loading_more">Biraz bekleyin…</string>
+  <string name="rlv_pull_to_close">Kapatmak için aşağı çekin</string>
   <string name="rlv_pull_to_refresh">Yenilemek için aşağı doğru çekin ▼</string>
   <string name="rlv_refreshing">Yenileniyor…</string>
+  <string name="rlv_release_to_close">Kapatmak için bırakın</string>
   <string name="rlv_release_to_refresh">Yenilemek için bırakın</string>
   <string name="save_to_local">İndir</string>
   <string name="sd_card_available">Kullanılabilir: %1$s</string>
@@ -687,7 +701,12 @@ ve yenilerini kaçırmayın!"</string>
   <string name="server_control_charset">Transfer kodlaması</string>
   <string name="server_control_settings">Ayarlar</string>
   <string name="server_error">Sunucu hatası. Daha sonra tekrar deneyin (Hata: %s)</string>
+  <string name="set_pattern">Şifre güncellendi</string>
+  <string name="set_pattern_btn">Ayarla</string>
+  <string name="set_pattern_msg">Şifrenizi tekrar ayarlayın. Gizlilik koruması parolası fotoğraf ve mesajlar için çalışır.</string>
   <string name="setting">Ayarlar</string>
+  <string name="setting_account_bind">Hesap ekle</string>
+  <string name="setting_message_notify">Bildirimler</string>
   <string name="share_box">Paylaşıldı</string>
   <string name="share_box_receive">Alınan</string>
   <string name="share_box_send">Gönder</string>
@@ -756,6 +775,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="tab_storage">DEPOLAMA</string>
   <string name="tag_weixin_video">Video Klipler</string>
   <string name="terabyteShort">TB</string>
+  <string name="tip">Dikkat</string>
   <string name="title_album">Albümler</string>
   <string name="title_app_tags">Uygulamalar</string>
   <string name="title_enable_documentsui">"DocumentsUI'yi aç"</string>
@@ -789,8 +809,21 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="ui_main_toast_favorite_added">Favorilere eklendi</string>
   <string name="ui_main_toast_favorite_removed">Favoriden çıkartıldı</string>
   <string name="ui_main_toast_operation_failed">"Favoriden %1$s çıkartılamadı"</string>
+  <string name="unbind">Sil</string>
+  <string name="unbind_account">%s silinsin mi?</string>
+  <string name="unbind_fail">"Silinemedi"</string>
+  <string name="unbind_success">Başarıyla silindi</string>
+  <string name="unlock_pattern_msg">Gizlilik koruması parolası fotoğraf ve mesajlar için çalışır.</string>
+  <string name="unlock_pattern_title">Yeni şifre</string>
+  <string name="unlogin">Önce oturum açın</string>
   <string name="unmount_inform_text">USB depolama birimi çıkartılsın mı?</string>
   <string name="unreviewed_video_cannot_share">Videolar paylaşmadan önce gözden geçirilmelidir</string>
+  <string name="update_failed">"Kaydedilemedi, yeniden deneyin"</string>
+  <string name="update_loading">Kaydediliyor…</string>
+  <string name="upload_avatar_camera">Kamera</string>
+  <string name="upload_avatar_failed">"Yüklenemedi, yeniden deneyin"</string>
+  <string name="upload_avatar_loading">Yükleniyor…</string>
+  <string name="upload_avatar_local">Galeri</string>
   <string name="upload_external_action_hint">URL yapıştır</string>
   <string name="upload_external_notification_failed">"Yayınlanmadı"</string>
   <string name="upload_external_notification_success">Başarıyla yayınlandı</string>
@@ -805,7 +838,8 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="upload_notification_progress">Yükleniyor: %%%1$s</string>
   <string name="upload_notification_success">Başarıyla yüklendi</string>
   <string name="upload_notification_success_content">"Diğer insanlar paylaşılan videoyu görmeden önce incelenelidir"</string>
-  <string name="upload_notification_title">Video Yükleniyor</string>
+  <string name="upload_notification_title">Video yükleniyor</string>
+  <string name="upload_user_photo">Yükle</string>
   <string name="upload_video">Videoyu Paylaş</string>
   <string name="upload_video_dialog_message">"Videonuz doğrulandıktan sonra istenilen özelliğe kavuşur."</string>
   <string name="upload_video_dialog_title">Video başarıyla paylaşıldı</string>
@@ -818,6 +852,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="usb_label">USB</string>
   <string name="used">Kullanılan: </string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
+  <string name="user_cancel">İptal</string>
   <string name="user_center_setting">Ayarlar</string>
   <string name="user_center_title">Ana Sayfa</string>
   <string name="user_follow_me_title">Takipçilerim</string>
@@ -831,6 +866,8 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_guide_save_file">KuaiPan kullanarak dosyaları kaydet</string>
   <string name="user_guide_summary">Rahat ve güvenli bir bulut depolamasıdır</string>
   <string name="user_guide_upload_to_kuaipan">Telefondaki içeriği KuaiPan\'da saklayın.</string>
+  <string name="user_icon">Profil fotoğrafı</string>
+  <string name="user_info_setting">Bilgiyi düzenle</string>
   <string name="user_like_text">Sevilenler</string>
   <string name="user_liked_video_title">Sevilen Videolar</string>
   <string name="user_login_dialog_cancle">İptal</string>
@@ -838,6 +875,8 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_login_dialog_title">Oturum Aç</string>
   <string name="user_message_text">Mesajlar</string>
   <string name="user_msg_text">Mesajlar</string>
+  <string name="user_nickname">Rumuz</string>
+  <string name="user_nickname_limit">Rumuz 4-20 karakter içermeli</string>
   <string name="user_no_fans_tip">Takipçi yok</string>
   <string name="user_no_follow_topic">"Henüz takip edilen konu yok."</string>
   <string name="user_no_follow_user">""Henüz takip edilen konu yok."</string>
@@ -852,12 +891,15 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_setting_follow_new_msg_tip">Yeni videolar hakkında bildirim al</string>
   <string name="user_setting_followed_msg">Takipçilerin bildirimleri</string>
   <string name="user_setting_followed_msg_tip">İnsanlar sizi takip etmeye başladığında bildirim al</string>
+  <string name="user_setting_logout">Oturumu kapat</string>
   <string name="user_setting_new_comment">Yorumların bildirimleri</string>
   <string name="user_setting_new_comment_tip">Yeni yorumların bildirimlerini al.</string>
   <string name="user_setting_new_liked">Sevilen bildirimler</string>
   <string name="user_setting_new_liked_tip">İnsanlar videonuzu sevdiklerine dair bildirimleri al</string>
   <string name="user_setting_topic_new_msg">Yeni video bildirimleri</string>
   <string name="user_setting_topic_new_msg_tip">"Başlıkta yeni videolar takipçiler tarafından paylaşıldığında bildirimleri al."</string>
+  <string name="user_sex">Cinsiyet</string>
+  <string name="user_sign">İmza</string>
   <string name="user_topic_btn_text">Daha fazla başlığa bak</string>
   <string name="user_topic_text">Başlıklarım</string>
   <string name="user_upload_text">Yüklemeler</string>
@@ -910,6 +952,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="wait_wifi">WLAN için bekliyor</string>
   <string name="waiting">Bekleniyor</string>
   <string name="wangpan_root_path">Sürücüm</string>
+  <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>
   <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">%s\'daki video</string>
@@ -921,9 +964,11 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="wx_title3">Dünyanın her yerinden videoları izleyin!</string>
   <string name="wxcircle_platform">Anlar</string>
   <string name="xiaomi_account">Mi Hesabı</string>
+  <string name="xiaomi_btn_bind">Mi Hesabı</string>
   <string name="xiaomi_btn_str">Mi</string>
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Evet</string>
   <string name="yesterday">Dün</string>
+  <string name="zero">0</string>
   <string name="zero_comment">Yorum yok</string>
 </resources>
