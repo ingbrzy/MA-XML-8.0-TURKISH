@@ -30,6 +30,7 @@ SIM kartları geçerseniz, başka bir SMS bu özelliği etkinleştirmek için ot
   <string name="find_device_stop_noise">Sessiz için Tamam\'a dokunun</string>
   <string name="find_device_storage_corrupted">Telefonu Bul depolaması bozuk. Cihazınız artık güvenli değil.</string>
   <string name="find_device_success_title">Telefonu Bul</string>
+  <string name="find_device_telephony_fault">Telefonu Bul: Telefon Arızası (%s).</string>
   <string name="i_know">Tamam</string>
   <string name="lock_msg_phone">İletişim Bilgileri: %s</string>
   <string name="login_extra_steps">Oturum açma doğrulaması</string>
