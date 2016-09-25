@@ -13,7 +13,8 @@
   <string name="auto_disable_screenbuttons_prompts_message">İstediğiniz zaman gezgine geri dönmek için tuşa iki kez hafifçe basın </string>
   <string name="auto_disable_screenbuttons_prompts_not_show_again">Bunu tekrar sorma</string>
   <string name="auto_disable_screenbuttons_prompts_ok">Tamam</string>
-  <string name="auto_disable_screenbuttons_prompts_title">Otomatik olarak ekran düğmelerini devre dışı bırak</string>
+  <string name="auto_disable_screenbuttons_prompts_title">Gezinti düğmeleri devre dışı bırakılsın mı?</string>
+  <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Çıkmak için yeniden dokunun</string>
   <string name="auto_start_warning_allow">İzin ver</string>
   <string name="auto_start_warning_deny">Reddet</string>
   <string name="auto_start_warning_title">%s için otomatik başlama izni verilsin mi?</string>
@@ -75,7 +76,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="reboot_confirm_title">Telefonunuz Tekrar Başlatılacak!</string>
   <string name="reboot_info_auto_boot">Telefonunuz planlanmış yeniden başlatma isteğinden dolayı %s\'de tekrar açılacaktır</string>
   <string name="reboot_info_shutdown_alarm">%s\'de telefon yeniden açılacak ve alarm çalacak</string>
-  <string name="reboot_progress">Tekrar Başlatılıyor…</string>
+  <string name="reboot_progress">Tekrar başlatılıyor…</string>
   <string name="replace">Yerleştir</string>
   <string name="resource_select">Seç</string>
   <string name="screen_button_notification_text">Açmak için, Ana Ekran ve Güç tuşlarına aynı anda basın.</string>
