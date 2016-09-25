@@ -158,14 +158,12 @@
   <string name="chat_qq">QQ kullanarak sohbet et</string>
   <string name="chat_skype">Skype kullanarak sohbet et</string>
   <string name="chat_yahoo">Yahoo kullanarak sohbet et</string>
-  <string name="checkhint">Hedef telefonu kontrol et</string>
   <string name="clearCallLogConfirmation">Tüm çağrı geçmişiniz silinecek.</string>
   <string name="check_unsynchronized_accounts">Hesapları eşitlemek için hatırlat</string>
   <string name="checkhint">Hedef cihazı denetle</string>
   <string name="childrens_day">Çocuklar Günü</string>
   <string name="chinese_youth_day">Gençlik Günü</string>
   <string name="christmas_day">Yeni Yıl</string>
-  <string name="clearCallLogConfirmation">Tüm arama kayıtları silinecek.</string>
   <string name="clearCallLogConfirmation_title">Tüm çağrı günlüğü temizlensin mi?</string>
   <string name="clearCallLogProgress_title">Çağrı günlüğü temizleniyor...</string>
   <string name="clearFrequentsConfirmation">Telefondaki ve kişilerdeki sık kullanılanları temizle ve E-Posta uygulamasının adresleme tercihlerini sıfırlamasını sağla.</string>
@@ -417,7 +415,6 @@ Kartvizitler kapalı"</string>
   <string name="dlg_add_blacklist">Numara engellensin mi?</string>
   <string name="dlg_remove_blacklist">Numaranın engeli kaldırılsın mı?</string>
   <string name="double_seventh_day">Yedinci Gün</string>
-  <string name="duplicate_group_name">Bu isimde zaten bir grup var</string>
   <string name="easter">Paskalya</string>
   <string name="duplicate_group_name">Grup adı zaten var</string>
   <string name="editContactDescription">Kişiyi Düzenle</string>
@@ -954,7 +951,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="path_simple_mode">Sistem Uygulamaları/Kişiler/Fotoğraf ve Bilgiyi Göster</string>
   <string name="path_smart_group_title">Sistem Uygulamaları/Kişiler/Kişileri Göster/Akıllı Gruplar</string>
   <string name="path_wipe_data">Sistem Uygulamaları/Kişiler/Kişileri Düzenle/Veriyi Temizle</string>
-  <string name="payphone">Ödemeli Telefon</string>
   <string name="people">Kişiler</string>
   <string name="percent_sign">%</string>
   <string name="percentage">%%%s</string>
@@ -1069,14 +1065,12 @@ Favorilerinize bir kişi eklemek için:
   <string name="qrcode_detail_menu_scan">Tara</string>
   <string name="qrcode_editor_flash">QR Kodu güncellendi</string>
   <string name="qrcode_editor_flash_failed">QR Kodu güncellenemedi</string>
-  <string name="quickcontact_missing_app">Bu iş için uygulama bulunamadı</string>
   <string name="quit_dialog_confirm_message">"Birleştirilecek kişiniz yok"</string>
-  <string name="quit_dialog_confirm_title">Kişileri birleştirmenin iptali</string>
-  <string name="rcs_account_type_title">融合通信帐号</string>
-  <string name="rcs_contact_detail_profile_binded_label">当前融合通信号码</string>
+  <string name="rcs_account_type_title">Birleşik İletişim Hesabı</string>
+  <string name="rcs_contact_detail_profile_binded_label">Mevcut kartvizitler birleştirildi</string>
   <string name="rcs_fetion_not_exist">无法找到飞信插件</string>
   <string name="rcs_group_chat_name">Grup Sohbeti</string>
-  <string name="rcs_profile_name">我的融合通信名片</string>
+  <string name="rcs_profile_name">Benim kartvizitim</string>
   <string name="rcs_profile_name_photo">Ben</string>
   <string name="progress_notifier_message" formatted="false">%s/%s aktarılıyor: %s</string>
   <string name="quickcontact_missing_app">Bu eylemi gerçekleştirecek uygulama yok</string>
@@ -1110,7 +1104,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="relationLabelsGroup">İlişki Durumu</string>
   <string name="remind_btn_ignore">Yoksay</string>
   <string name="remind_btn_sync_now">Eşitle</string>
-  <string name="remove_blacklist">Engeli Kaldır</string>
   <string name="removePhoto">Fotoğrafı kaldır</string>
   <string name="remove_blacklist">Kara Listeden Çıkart</string>
   <string name="remove_blacklist_dialog_message">Bu numara kara listeden kaldırılsın mı?</string>
@@ -1162,13 +1155,11 @@ Favorilerinize bir kişi eklemek için:
   <string name="search_simple_mode">Görüntüle;Bilgi;Fotoğraf;Kişiler</string>
   <string name="search_smart_group_title">Kişiler;Görüntüle</string>
   <string name="search_wipe_data">Düzenle;Kişiler</string>
-  <string name="searching_vcard_message">Hafızadaki vCard verisi aranıyor...</string>
   <string name="select_all">Hepsi</string>
   <string name="select_device">Cihazı seçin</string>
   <string name="select_groups">Grubu seçin</string>
   <string name="select_new_photo_from_photo_package">Dizine gözat</string>
   <string name="select_done">Daha fazla seçmeyin</string>
-  <string name="select_groups">Grupları Seç</string>
   <string name="select_none">Seçilmedi</string>
   <string name="select_photo_from_photo_package">Fotoğraf paketinden resim seç</string>
   <string name="select_show_contacts">Kişi Listesi</string>
