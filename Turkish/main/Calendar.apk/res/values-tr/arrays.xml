@@ -6,12 +6,6 @@
         <item>SMS</item>
         <item>Alarm</item>
     </string-array>
-    <integer-array name="reminder_methods_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
     <string-array name="reminder_minutes_labels">
         <item>Hatırlatıcısız</item>
         <item>0 dakika</item>
@@ -170,15 +164,15 @@
         <item>Son</item>
     </string-array>
     <string-array name="response_labels1">
-        <item>(Cevapsiz)</item>
+        <item>(Cevapsız)</item>
         <item>Evet</item>
         <item>Belki</item>
         <item>Hayır</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Sadece bu etkinlik</item>
-        <item>Bu ve gelecek etkinlikler</item>
-        <item>Tüm etkinlikler</item>
+        <item>Sadece bu etkinlikte</item>
+        <item>Bu ve gelecek etkinliklerde</item>
+        <item>Tüm etkinliklerde</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
         <item>Bu &amp; gelecek etkinliklerde</item>
@@ -267,7 +261,7 @@
         <item>0</item>
     </integer-array>
     <string-array name="quick_response_defaults">
-        <item>Bir kaç dakika geç kalabilirim.</item>
+        <item>Birkaç dakika geç kalabilirim.</item>
         <item>10 dakikada ordayım.</item>
         <item>Git ve bensiz başla.</item>
         <item>"Üzgünüm, yapamam. Başka bir programım var."</item>
@@ -295,7 +289,7 @@
     </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
         <item>Hatırlatıcısız</item>
-        <item>Etkinlik zamanında</item>
+        <item>Etkinlik esnasında</item>
         <item>5 dakika önce</item>
         <item>10 dakika önce</item>
         <item>15 dakika önce</item>
@@ -338,16 +332,16 @@
         <item>1440</item>
     </integer-array>
     <string-array name="repeat_frequency_spinner">
-        <item>day</item>
-        <item>week</item>
-        <item>month</item>
-        <item>year</item>
+        <item>gün</item>
+        <item>hafta</item>
+        <item>ay</item>
+        <item>yıl</item>
     </string-array>
     <string-array name="repeat_frequency_spinner_plural">
-        <item>days</item>
-        <item>weeks</item>
-        <item>months</item>
-        <item>years</item>
+        <item>gün</item>
+        <item>hafta</item>
+        <item>ay</item>
+        <item>yıl</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1.</item>
@@ -406,11 +400,11 @@
         <item>Aralık</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>first</item>
-        <item>second</item>
-        <item>third</item>
-        <item>fourth</item>
-        <item>last</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>Son</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
         <item>Ptesi - Cuma</item>
