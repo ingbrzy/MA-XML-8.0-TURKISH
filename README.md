@@ -24,8 +24,9 @@ Use the [Github Issue tracker](https://github.com/ingbrzy/MA-XML-7.0-TURKISH/iss
 * Daily updates are made.
 * All Xiaomi models added
 * Spelling errors corrected
-* Min Pad language translation added
+* MiPAD language translation added
 * Some of the problems have been fixed
+* Mi Band, All of Xiaomi phone etc...
 
 ## Changes will be added
 
