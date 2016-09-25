@@ -33,12 +33,12 @@
         <item quantity="many">Kalan indirme dosyası: %1$d</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">Kalan indirme dosyası: %1$d</item>
-        <item quantity="zero">Kalan indirme dosyası: %1$d</item>
-        <item quantity="one">Kalan indirme dosyası: %1$d</item>
-        <item quantity="two">Kalan indirme dosyası: %1$d</item>
-        <item quantity="few">Kalan indirme dosyası: %1$d</item>
-        <item quantity="many">Kalan yükleme dosyası: %1$d</item>
+        <item quantity="other">Kalan gönderme dosyası: %1$d</item>
+        <item quantity="zero">Kalan gönderme dosyası: %1$d</item>
+        <item quantity="one">Kalan gönderme dosyası: %1$d</item>
+        <item quantity="two">Kalan gönderme dosyası: %1$d</item>
+        <item quantity="few">Kalan gönderme dosyası: %1$d</item>
+        <item quantity="many">Kalan gönderme dosyası: %1$d</item>
         </plurals>
     <plurals name="ui_bar_txt_transport_progress">
         <item quantity="other">Kalan yükleme dosyası: %1$d</item>
@@ -89,17 +89,17 @@
         <item quantity="many">Uygulama ile ilgili %1$s dosya (%2$d öğe)</item>
     </plurals>
     <plurals name="search_head_hint_file">
-        <item quantity="other">%1$s ilgili dosya (%2$d öğe)</item>
-        <item quantity="zero">%1$s ilgili dosya (%2$d öğe)</item>
-        <item quantity="one">%1$s ilgili dosya (%2$d öğe)</item>
-        <item quantity="two">%1$s ilgili dosya (%2$d öğe)</item>
-        <item quantity="few">%1$s ilgili dosya (%2$d öğe)</item>
+        <item quantity="other">%1$s ait dosya (%2$d öğe)</item>
+        <item quantity="zero">%1$s ait dosya (%2$d öğe)</item>
+        <item quantity="one">%1$s ait dosya (%2$d öğe)</item>
+        <item quantity="two">%1$s ait dosya (%2$d öğe)</item>
+        <item quantity="few">%1$s ait dosya (%2$d öğe)</item>
         <item quantity="many">%1$s ilgili dosya (%2$d öğe)</item>
     </plurals>
     <plurals name="search_head_hint_tag">
-        <item quantity="other">Etiketli %1$s ilgili dosya (%2$d öğe)</item>
-        <item quantity="zero">Etiketli %1$s ilgili dosya (%2$d öğe)</item>
-        <item quantity="one">Etiketli %1$s ilgili dosya (%2$d öğe)</item>
+        <item quantity="other">Etiketli %1$s ait dosya (%2$d öğe)</item>
+        <item quantity="zero">Etiketli %1$s ait dosya (%2$d öğe)</item>
+        <item quantity="one">Etiketli %1$s ait dosya (%2$d öğe)</item>
         <item quantity="two">Etiketli %1$s ilgili dosya (%2$d öğe)</item>
         <item quantity="few">Etiketli %1$s ilgili dosya (%2$d öğe)</item>
         <item quantity="many">Etiketli %1$s ilgili dosya (%2$d öğe)</item>
@@ -295,5 +295,13 @@
         <item quantity="two">%1$s takipçi</item>
         <item quantity="few">%1$s takipçi</item>
         <item quantity="many">%1$s takipçi</item>
+    </plurals>
+    <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s yorum</item>
+        <item quantity="one">%1$s yorum</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+        <item quantity="other">%d karakter girebilirsiniz</item>
+        <item quantity="one">%d karakter girebilirsiniz</item>
     </plurals>
 </resources>
