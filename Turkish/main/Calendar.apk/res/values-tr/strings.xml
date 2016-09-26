@@ -1,425 +1,466 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>Bildirim</item>
-        <item>E-posta</item>
-        <item>SMS</item>
-        <item>Alarm</item>
-    </string-array>
-    <integer-array name="reminder_methods_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <string-array name="reminder_minutes_labels">
-        <item>Hatırlatıcısız</item>
-        <item>0 dakika</item>
-        <item>5 dakika</item>
-        <item>10 dakika</item>
-        <item>15 dakika</item>
-        <item>30 dakika</item>
-        <item>1 saat</item>
-        <item>1 gün</item>
-        <item>2 gün</item>
-        <item>1 hafta</item>
-    </string-array>
-    <integer-array name="reminder_minutes_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </integer-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Hatırlatıcısız</item>
-        <item>0 dakika</item>
-        <item>5 dakika</item>
-        <item>10 dakika</item>
-        <item>15 dakika</item>
-        <item>30 dakika</item>
-        <item>1 saat</item>
-        <item>1 gün</item>
-        <item>2 gün</item>
-        <item>1 hafta</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>Varsayılan</item>
-        <item>Cumartesi</item>
-        <item>Pazar</item>
-        <item>Pazartesi</item>
-    </string-array>
-    <string-array name="timezone_labels">
-        <item>Marshall Adaları</item>
-        <item>Midway Adası</item>
-        <item>Hawaii</item>
-        <item>Alaska</item>
-        <item>Pasifik Zamanı</item>
-        <item>Tijuana</item>
-        <item>Arizona</item>
-        <item>Chihuahua</item>
-        <item>Dağ Saati</item>
-        <item>Orta Amerika</item>
-        <item>Orta Zaman</item>
-        <item>Meksika Şehri</item>
-        <item>Saskatchewan</item>
-        <item>Bogota</item>
-        <item>Doğu Zamanı</item>
-        <item>Venezuela</item>
-        <item>Atlantik Zamanı (Barbados)</item>
-        <item>Atlantik Zamanı (Kanada)</item>
-        <item>Manaus</item>
-        <item>Şantiago</item>
-        <item>Newfoundland</item>
-        <item>Brezilya</item>
-        <item>Buenos Aires</item>
-        <item>Grönland</item>
-        <item>Montevideo</item>
-        <item>Orta Atlantik</item>
-        <item>Azor Adaları</item>
-        <item>Cape Verde Adaları</item>
-        <item>Kazablanka</item>
-        <item>Londra, Dublin</item>
-        <item>Amsterdam, Berlin</item>
-        <item>Belgrad</item>
-        <item>Brüksel</item>
-        <item>Saraybosna</item>
-        <item>Windhoek</item>
-        <item>Batı Afrika Zamanı</item>
-        <item>Amman, Ürdün</item>
-        <item>Atina, İstanbul</item>
-        <item>Beyrut, Lübnan</item>
-        <item>Kahire</item>
-        <item>Helsinki</item>
-        <item>Kudüs</item>
-        <item>Minsk</item>
-        <item>Harare</item>
-        <item>Bağdat</item>
-        <item>Moskava</item>
-        <item>Kuveyt</item>
-        <item>Nairobi</item>
-        <item>Tahran</item>
-        <item>Bakü</item>
-        <item>Tiflis</item>
-        <item>Erivan</item>
-        <item>Dubai</item>
-        <item>Kabil</item>
-        <item>İslamabad, Karaçi</item>
-        <item>"Uralsk"</item>
-        <item>Yekaterinburg</item>
-        <item>Kalküta</item>
-        <item>Sri Lanka</item>
-        <item>Kathmandu</item>
-        <item>Astana</item>
-        <item>Yangon</item>
-        <item>Krasnoyarsk</item>
-        <item>Bangkok</item>
-        <item>Beijing</item>
-        <item>Hong Kong</item>
-        <item>İrkut Bölgesi</item>
-        <item>Kuala Lumpur</item>
-        <item>Perth</item>
-        <item>Taipei</item>
-        <item>Seul</item>
-        <item>Tokyo, Osaka</item>
-        <item>Yakutistan</item>
-        <item>Adelaide</item>
-        <item>Darwin</item>
-        <item>Brisbane</item>
-        <item>Hobart</item>
-        <item>Sidney, Canberra</item>
-        <item>Vladivostok</item>
-        <item>Guam</item>
-        <item>Magadan</item>
-        <item>Auckland</item>
-        <item>Fiji</item>
-        <item>Tonga</item>
-    </string-array>
-    <string-array name="availability">
-        <item>Meşgul</item>
-        <item>Uygun</item>
-        <item>Belirsiz</item>
-    </string-array>
-    <string-array name="visibility">
-        <item>Varsayılan</item>
-        <item>Özel</item>
-        <item>Genel</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>1.</item>
-        <item>2.</item>
-        <item>3.</item>
-        <item>4.</item>
-        <item>Son</item>
-    </string-array>
-    <string-array name="response_labels1">
-        <item>(Cevapsız)</item>
-        <item>Evet</item>
-        <item>Belki</item>
-        <item>Hayır</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>Sadece bu etkinlikte</item>
-        <item>Bu ve gelecek etkinliklerde</item>
-        <item>Tüm etkinliklerde</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Bu &amp; gelecek etkinliklerde</item>
-        <item>Tüm etkinliklerde</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>Sadece bu etkinlikte</item>
-        <item>Tüm etkinliklerde</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>Gün</item>
-        <item>Hafta</item>
-        <item>Ay</item>
-        <item>Etkinlikler</item>
-    </string-array>
-    <array name="account_birthday">
-        <item>#ffe99080</item>
-        <item>#b3d5a198</item>
-        <item>#fffcefef</item>
-        <item>#ffce7e6f</item>
-    </array>
-    <array name="account_xiaomi">
-        <item>#ff31aeaa</item>
-        <item>#b355c3bf</item>
-        <item>#ffe9f5f5</item>
-        <item>#ff349a97</item>
-    </array>
-    <array name="account_preset1">
-        <item>#ffb69dd0</item>
-        <item>#b3bfa5db</item>
-        <item>#fff6f1fa</item>
-        <item>#ffa894be</item>
-    </array>
-    <array name="account_preset2">
-        <item>#fff0a16f</item>
-        <item>#b3d88c5b</item>
-        <item>#fffdf3ec</item>
-        <item>#ffe4884d</item>
-    </array>
-    <array name="account_preset3">
-        <item>#ff64bce1</item>
-        <item>#b33aadd2</item>
-        <item>#ffe2f5fb</item>
-        <item>#ff5bb5db</item>
-    </array>
-    <array name="account_preset4">
-        <item>#ff88c984</item>
-        <item>#b37dc07a</item>
-        <item>#fff1faf1</item>
-        <item>#ff91c58e</item>
-    </array>
-    <array name="action_bar_colors">
-        <item>#ff7d97e1</item>
-        <item>#ff27bbd0</item>
-        <item>#ff8cc061</item>
-        <item>#ff3fbc7d</item>
-        <item>#ff11b599</item>
-        <item>#fff38f3a</item>
-        <item>#ffeb6e4a</item>
-        <item>#ffdd5a62</item>
-        <item>#ffe8774d</item>
-        <item>#ffe29255</item>
-        <item>#ff579ee0</item>
-        <item>#ff9b88d0</item>
-    </array>
-    <array name="month_today_colors">
-        <item>#ff809be8</item>
-        <item>#ff2ec2d7</item>
-        <item>#ff99ce6d</item>
-        <item>#ff46c987</item>
-        <item>#ff15bb9e</item>
-        <item>#fff49d52</item>
-        <item>#fff4734d</item>
-        <item>#ffea646b</item>
-        <item>#ffed7d54</item>
-        <item>#ffe8995d</item>
-        <item>#ff5ea4e6</item>
-        <item>#ffab99de</item>
-    </array>
-    <string-array name="fortune_gender">
-        <item>男</item>
-        <item>女</item>
-    </string-array>
-    <integer-array name="fortune_gender_values">
-        <item>1</item>
-        <item>0</item>
-    </integer-array>
-    <string-array name="quick_response_defaults">
-        <item>Birkaç dakika geç kalabilirim.</item>
-        <item>10 dakikada ordayım.</item>
-        <item>Git ve bensiz başla.</item>
-        <item>"Üzgünüm, yapamam. Başka bir programım var."</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Daima</item>
-        <item>Sadece zil sessizde iken</item>
-        <item>Asla</item>
-    </string-array>
-    <string-array name="widget_style_list">
-        <item>Şeffaf</item>
-        <item>Beyaz Arkaplan</item>
-    </string-array>
-    <string-array name="miui_reminder_minutes_labels">
-        <item>Hatırlatıcısız</item>
-        <item>Etkinlik zamanında</item>
-        <item>5 dakika önce</item>
-        <item>10 dakika önce</item>
-        <item>15 dakika önce</item>
-        <item>30 dakika önce</item>
-        <item>1 saat önce</item>
-        <item>1 gün önce</item>
-        <item>2 gün önce</item>
-        <item>1 hafta önce</item>
-    </string-array>
-    <string-array name="miui_preferences_default_reminder_labels">
-        <item>Hatırlatıcısız</item>
-        <item>Etkinlik esnasında</item>
-        <item>5 dakika önce</item>
-        <item>10 dakika önce</item>
-        <item>15 dakika önce</item>
-        <item>30 dakika önce</item>
-        <item>1 saat önce</item>
-        <item>1 gün önce</item>
-        <item>2 gün önce</item>
-        <item>1 hafta önce</item>
-    </string-array>
-    <integer-array name="online_reminder_minutes_values">
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </integer-array>
-    <integer-array name="online_reminder_minutes_values_allday">
-        <item>0</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>4320</item>
-        <item>10080</item>
-    </integer-array>
-    <string-array name="travel_reminder_minutes_labels">
-        <item>3 saat önce</item>
-        <item>4 saat önce</item>
-        <item>5 saat önce</item>
-        <item>6 saat önce</item>
-        <item>1 gün önce</item>
-    </string-array>
-    <integer-array name="travel_reminder_minutes_values">
-        <item>180</item>
-        <item>240</item>
-        <item>300</item>
-        <item>360</item>
-        <item>1440</item>
-    </integer-array>
-    <string-array name="repeat_frequency_spinner">
-        <item>gün</item>
-        <item>hafta</item>
-        <item>ay</item>
-        <item>yıl</item>
-    </string-array>
-    <string-array name="repeat_frequency_spinner_plural">
-        <item>gün</item>
-        <item>hafta</item>
-        <item>ay</item>
-        <item>yıl</item>
-    </string-array>
-    <string-array name="repeat_choose_day">
-        <item>1.</item>
-        <item>2.</item>
-        <item>3.</item>
-        <item>4.</item>
-        <item>5.</item>
-        <item>6.</item>
-        <item>7.</item>
-        <item>8.</item>
-        <item>9.</item>
-        <item>10.</item>
-        <item>11.</item>
-        <item>12.</item>
-        <item>13.</item>
-        <item>14.</item>
-        <item>15.</item>
-        <item>16.</item>
-        <item>17.</item>
-        <item>18.</item>
-        <item>19.</item>
-        <item>20.</item>
-        <item>21.</item>
-        <item>22.</item>
-        <item>23.</item>
-        <item>24.</item>
-        <item>25.</item>
-        <item>26.</item>
-        <item>27.</item>
-        <item>28.</item>
-        <item>29.</item>
-        <item>30.</item>
-        <item>31.</item>
-    </string-array>
-    <string-array name="repeat_choose_weekday">
-        <item>Ptesi</item>
-        <item>Salı</item>
-        <item>Çrş</item>
-        <item>Per</item>
-        <item>Cum</item>
-        <item>Ctesi</item>
-        <item>Pzr</item>
-    </string-array>
-    <string-array name="repeat_choose_month">
-        <item>Ocak</item>
-        <item>Şubat</item>
-        <item>Mart</item>
-        <item>Nisan</item>
-        <item>Mayıs</item>
-        <item>Haziran</item>
-        <item>Temmuz</item>
-        <item>Ağustos</item>
-        <item>Eylül</item>
-        <item>Ekim</item>
-        <item>Kasım</item>
-        <item>Aralık</item>
-    </string-array>
-    <string-array name="repeat_choose_week_left">
-        <item>1.</item>
-        <item>2.</item>
-        <item>3.</item>
-        <item>4.</item>
-        <item>Son</item>
-    </string-array>
-    <string-array name="repeat_choose_week_right">
-        <item>Ptesi - Cuma</item>
-        <item>Haftasonu</item>
-        <item>Tüm Hafta</item>
-    </string-array>
-    <string-array name="repeat_choose_end">
-        <item>Asla</item>
-        <item>Zaman</item>
-        <item>Say</item>
-    </string-array>
+  <string name="activity_title_ad">Reklamlar</string>
+  <string name="activity_title_apk">Paketler</string>
+  <string name="activity_title_brightness_image">Altında ve aşırı pozlanmış</string>
+  <string name="activity_title_cache">Önbellek</string>
+  <string name="activity_title_cache_data">Uygulama verisi</string>
+  <string name="activity_title_deep_apk">Uygulamaları Sil</string>
+  <string name="activity_title_deep_clean">Derin Temizlik</string>
+  <string name="activity_title_garbage_cleanup">Temizleyici</string>
+  <string name="activity_title_ignored_image">Yoksayıldı</string>
+  <string name="activity_title_image_gallery">Yenilenenleri Sil</string>
+  <string name="activity_title_large_file">Büyük Dosyalar</string>
+  <string name="activity_title_main">Temizleyici</string>
+  <string name="activity_title_news">Yenilikler</string>
+  <string name="activity_title_privacy_cache">Önbellek Mahremiyeti</string>
+  <string name="activity_title_residual">Artıklar</string>
+  <string name="activity_title_scanfinish">Tam Tara</string>
+  <string name="activity_title_screenshot">Ekran Görüntüleri</string>
+  <string name="activity_title_settings">Ayarlar</string>
+  <string name="activity_title_similar_image">Yenilenen Fotoğraflar</string>
+  <string name="activity_title_similar_image_group">Yenilenenleri Sil</string>
+  <string name="activity_title_tedious_image">Arızalı Fotoğraflar</string>
+  <string name="activity_title_uninstall_apps">Uygulamalar</string>
+  <string name="activity_title_video">Videoları Sil</string>
+  <string name="activity_title_white_list">İstisnalar</string>
+  <string name="apk_status_damage">Bozuk</string>
+  <string name="apk_status_duplicate">Yenilenen</string>
+  <string name="apk_status_install">Yüklendi</string>
+  <string name="apk_status_installed_old">Eski Sürüm</string>
+  <string name="apk_status_uninstalled">Yüklenmedi</string>
+  <string name="app_install_tips_go_to">Aç</string>
+  <string name="app_install_tips_install_success">%1$s başarıyla yüklendi</string>
+  <string name="app_name">Cheetah Mobil CleanMaster SDK</string>
+  <string name="apps_sort_type_item_size">Boyut</string>
+  <string name="apps_sort_type_item_time">Sık Kullanılan</string>
+  <string name="apps_sort_type_title">Sırala</string>
+  <string name="authorize_detail">%d engellenmiş uygulamalar</string>
+  <string name="auto_clean_switch_off">Kapalı</string>
+  <string name="auto_clean_switch_on">Açık</string>
+  <string name="auto_cleaner_open">Aç</string>
+  <string name="back">Geri</string>
+  <string name="browser_scan_history_desc">Tarayıcı Geçmişi</string>
+  <string name="browser_search_history_desc">Aranmış Öğeler</string>
+  <string name="btn_text_done">Tamam</string>
+  <string name="btn_text_quick_cleanup">Temizle</string>
+  <string name="btn_text_quick_scan">Tara</string>
+  <string name="btn_text_stop">Durdur</string>
+  <string name="button_optimizer">Tamam</string>
+  <string name="button_text_add_to_white_list">İstisna</string>
+  <string name="button_text_backup_uninstall">Önce Yedekle</string>
+  <string name="button_text_cancel">İptal</string>
+  <string name="button_text_cleanup">Temizle</string>
+  <string name="button_text_delete_from_white_list">Kaldır</string>
+  <string name="button_text_delete_pic">Sil</string>
+  <string name="button_text_deselect_all_photos">Vazgeç</string>
+  <string name="button_text_group_ignore">Yoksay</string>
+  <string name="button_text_group_unlike">Yenilenen yok</string>
+  <string name="button_text_install">Yükle</string>
+  <string name="button_text_install_now">Yükle</string>
+  <string name="button_text_keep_one">Birtane Yedekle</string>
+  <string name="button_text_known">Tamam</string>
+  <string name="button_text_let_me_select">Tamam</string>
+  <string name="button_text_not_prompt_again">"Tekrar gösterme"</string>
+  <string name="button_text_photo_selected">Seçildi</string>
+  <string name="button_text_restore_ignore">Geri Al</string>
+  <string name="button_text_select_all">Seç</string>
+  <string name="button_text_select_all_photos">Hepsi</string>
+  <string name="button_text_select_pic">Seç</string>
+  <string name="button_text_uninstall">Kaldır</string>
+  <string name="button_text_uninstall_only">Kaldır: %s</string>
+  <string name="button_text_unselect_all">Vazgeç</string>
+  <string name="button_text_unselect_pic">Vazgeç</string>
+  <string name="button_text_view_detail">Detaylar</string>
+  <string name="button_text_view_file">Dosya</string>
+  <string name="buy_immediately">Satınal</string>
+  <string name="buy_traffic_pack">Fazla Veri Satınal</string>
+  <string name="byteShort">B</string>
+  <string name="cache_title_empty_folder">Boş Klasör (%d)</string>
+  <string name="cache_title_empty_folder2">Boş Klasör</string>
+  <string name="cache_title_system_cache">Sistem Önbelleği</string>
+  <string name="cached_garbage">Önbellek</string>
+  <string name="call_log">Çağrı Günlüğü</string>
+  <string name="cancel">İptal</string>
+  <string name="clean_content_all">Tümü</string>
+  <string name="clean_content_one">1 öğe</string>
+  <string name="clean_content_three">3 öğe</string>
+  <string name="clean_content_two">2 öğe</string>
+  <string name="clean_content_zero">Yok</string>
+  <string name="clear_bigfiles">Büyük dosyaları, yenilenen fotoğrafları ve diğer gereksiz öğeleri sil</string>
+  <string name="clear_immediately">Temizle</string>
+  <string name="clear_safe_notify">Güvenlik Bildirim Çubuğu</string>
+  <string name="clip_board_history_desc">Kopyalama/Kesme İçeriği</string>
+  <string name="clipboard">Pano</string>
+  <string name="close">Kapat</string>
+  <string name="confirm_auto_cleaner">Tamam</string>
+  <string name="conn_of_function_safe">Güvenlik için Ağ Bağlantısı</string>
+  <string name="connecting">Bağlanıyor…</string>
+  <string name="deep_clean_data_path_clean_title">Önbelleği temizle</string>
+  <string name="deep_clean_normal_clean_progress_desc">%1$s dosyası temizlendi</string>
+  <string name="deepclean_1_k_clean">Hızlı Temizle</string>
+  <string name="deepclean_apk_content">Gereksiz uygulamaları veya APKları sil</string>
+  <string name="deepclean_apk_summary_empty">Herşey güzel gözüküyor, silinecek APK dosyası yok</string>
+  <string name="deepclean_apk_version_error">Bilinmiyor</string>
+  <string name="deepclean_app_content">30 gündür kullanılmayan uygulamaları kaldır</string>
+  <string name="deepclean_app_summary_empty">Herşey güzel gözüküyor, silinecek uygulama yok​</string>
+  <string name="deepclean_cache_content">Uygulamaların oluşturduğu verileri temizle</string>
+  <string name="deepclean_cache_header_left">Veri Dosyaları: %d</string>
+  <string name="deepclean_cache_summary_empty">Herşey güzel gözüküyor, temizlenecek veri yok</string>
+  <string name="deepclean_large_content">10 MB\'tan daha büyük dosyaları silme</string>
+  <string name="deepclean_large_summary_empty">Herşey güzel gözüküyor, silinecek dosya yok</string>
+  <string name="deepclean_list_item_from_app">Uygulama Mağazası</string>
+  <string name="deepclean_list_item_from_dcim_thumbnails">Minyatür</string>
+  <string name="deepclean_list_item_from_download">İndirmeler</string>
+  <string name="deepclean_list_item_from_gallery">Galeri</string>
+  <string name="deepclean_list_item_from_miui">MIUI</string>
+  <string name="deepclean_list_item_from_music">Müzik</string>
+  <string name="deepclean_list_item_from_sdcard">SD Kart</string>
+  <string name="deepclean_normal_item_desc1">Çöp dosyalar</string>
+  <string name="deepclean_normal_item_desc2">Temizleyicinin etkinliği sistem performansını etkilemez"</string>
+  <string name="deepclean_normal_item_summary_empty">Herşey güzel gözüküyor, temizlenecek birşey yok</string>
+  <string name="deepclean_normal_title">Otomatik temizle</string>
+  <string name="deepclean_similar_ignore">Yoksay</string>
+  <string name="deepclean_similar_summary_empty">Herşey güzel gözüküyor, silinecek fotoğraf yok</string>
+  <string name="deepclean_size_summary_less">Cihazdaki ne deyse boş yer kalmadı</string>
+  <string name="deepclean_size_summary_more">Mevcut Depolama Alanı</string>
+  <string name="deepclean_size_summary_normal">Depolama alanı mevcut</string>
+  <string name="deepclean_size_summary_not_enough">Yetersiz alan</string>
+  <string name="deepclean_title_large_file">Büyük dosyaları sil</string>
+  <string name="deepclean_title_uninstall_apps">Nadiren kullanılan uygulamalar</string>
+  <string name="deepclean_video_content">İzlenilen veya gereksiz videoları sil</string>
+  <string name="deepclean_video_summary_empty">Herşey güzel gözüküyor</string>
+  <string name="default_cache_type">Veri Dosyaları</string>
+  <string name="dialog_content_checkbox_delete_cloud_image">Ayrıca Mi Bulut fotoğrafları sil</string>
+  <string name="dialog_content_delete_image_confirm"> %d fotoğrafları silinsin mi?</string>
+  <string name="dialog_content_select_all_confirm">Bu fotoğrafın bir kopyası saklansın mı?</string>
+  <string name="dialog_msg_add_white_list_error">"Dosya istisnalara eklenemedi"</string>
+  <string name="dialog_msg_backup_and_uninstall_apps">Seçilen uygulamalar yedeklenip silinsin mi?</string>
+  <string name="dialog_msg_check_all">%2$d öğeyi içeren %1$s\'i seçmek için onaylayın</string>
+  <string name="dialog_msg_esc_cleanmaster">Devam eden temizleme taraması durdurulsun mu?</string>
+  <string name="dialog_msg_load_cleanup_engine_error">Temizleyici çekirdeği bozuldu.</string>
+  <string name="dialog_msg_stop_scan">"Devam eden temizleme taraması durdurulsun mu?"</string>
+  <string name="dialog_msg_uninstall_apps">Bu uygulamalar kaldırılsın mı?</string>
+  <string name="dialog_ok_add_white_list_error">Anladım</string>
+  <string name="dialog_title_add_white_list_error">Dikkat</string>
+  <string name="dialog_title_backup_and_uninstall_apps">Yedekle ve Kaldır</string>
+  <string name="dialog_title_check_all">Hepsi</string>
+  <string name="dialog_title_delete_image">Seçilen görüntüleri sil</string>
+  <string name="dialog_title_esc_cleanmaster">Temizleyiciden çık</string>
+  <string name="dialog_title_load_cleanup_engine_error">Birşeyler ters gitti!</string>
+  <string name="dialog_title_stop_scan">Taramayı Durdur</string>
+  <string name="dialog_title_uninstall_apps">Kaldır</string>
+  <string name="download">İndir</string>
+  <string name="downloading">İndiriliyor</string>
+  <string name="empty">" "</string>
+  <string name="empty_content_no_ignore_image">Boş</string>
+  <string name="empty_content_no_privacy">Boş</string>
+  <string name="empty_content_no_similar_image">Fotoğraf yok</string>
+  <string name="empty_title_ad">Reklam dosyası yok</string>
+  <string name="empty_title_apk">Yükleme paketi bulunamadı</string>
+  <string name="empty_title_garbage_cache">Temizlenecek birşey yok</string>
+  <string name="empty_title_garbage_white_list">İstisnalara eklemek için öğelere basılı tutun</string>
+  <string name="empty_title_installed_apps">Boş</string>
+  <string name="empty_title_large_files">Boş</string>
+  <string name="empty_title_residual">Artık dosya bulunamadı</string>
+  <string name="empty_title_video">Silinecek video yok​</string>
+  <string name="flow_rank_title">Veri Kullanımı</string>
+  <string name="function_app_lock_title">%d uygulama gizlilik riski içeriyor</string>
+  <string name="garbage_clean_detail">Detaylar</string>
+  <string name="garbage_cleanup_detail">%1$d kez,  %2$s temizlendi</string>
+  <string name="garbage_month">Bu ay %s temizlendi</string>
+  <string name="gigabyteShort">GB</string>
+  <string name="go_to">Devam</string>
+  <string name="goto_set">Ayarla</string>
+  <string name="grabage_rank_title">Bugün temizlendi</string>
+  <string name="harass_detail">%1$d SMS ve %2$d çağrı engellendi</string>
+  <string name="header_optimizer">Bu özelliği kulanarak %s\'nı kabul etmiş olursunuz.</string>
+  <string name="hint_bar_select_image">%d seçildi</string>
+  <string name="hint_clean_select_similar_image">Yenilenenler siliniyor…</string>
+  <string name="hints_ad_header_left">Reklam Dosyaları</string>
+  <string name="hints_apk_header_left">Paketler</string>
+  <string name="hints_apk_version">Sürüm: %s</string>
+  <string name="hints_app_uninstall_residual">Artık kaldırma dosyaları temizlensin mi?</string>
+  <string name="hints_cache_header_left">Önbellek Dosyaları</string>
+  <string name="hints_cache_msd_desc">"Uygulama kullanımını etkilemiyecek delta güncellemeleri siliniyor"</string>
+  <string name="hints_cache_msd_title">Delta Güncellemesi</string>
+  <string name="hints_cleanfinish">Temizlik Bitti</string>
+  <string name="hints_deepclean_list_item_from">Şurdan: %s</string>
+  <string name="hints_deepclean_scanning">%s taranıyor</string>
+  <string name="hints_finish_quick_cleanup">Tamam</string>
+  <string name="hints_finish_quick_cleanup_title">%s Çöpü Temizle</string>
+  <string name="hints_finish_quick_scan">Tarama tamamlandı</string>
+  <string name="hints_garbage_cleanup_result_danger">Dahili depolamayı temizle</string>
+  <string name="hints_garbage_cleanup_result_risk">Dahili depolamayı temizle</string>
+  <string name="hints_garbage_cleanup_result_safe">Herşey güzel gözüküyor</string>
+  <string name="hints_garbage_handle_item_content">%1$d öğe, %2$s</string>
+  <string name="hints_garbage_handle_item_empty_content">Boş</string>
+  <string name="hints_header_left">%d</string>
+  <string name="hints_install_apps_else"> %s kullanıldı</string>
+  <string name="hints_install_apps_interval"> %d gün önce kullanıldı</string>
+  <string name="hints_install_apps_new">Hiç kullanılmadı</string>
+  <string name="hints_install_apps_risk">Risk bulundu</string>
+  <string name="hints_install_apps_today">Bugün kullanıldı</string>
+  <string name="hints_install_apps_virus">Virüs bulundu</string>
+  <string name="hints_installed_app_fewer">Nadiren kullanılmış</string>
+  <string name="hints_installed_app_near">Son kullanılan</string>
+  <string name="hints_installed_app_never">Hiç kullanılmadı</string>
+  <string name="hints_installed_apps_header_left">Kurulu Uygulama: %d</string>
+  <string name="hints_large_file_header_left">Büyük Dosyalar: %d</string>
+  <string name="hints_latest_garbage_cleanup_date">Son Temizlik: %d gün önce</string>
+  <string name="hints_latest_garbage_cleanup_never">Hiç temizlenmedi</string>
+  <string name="hints_latest_garbage_cleanup_today">Son Temizlik: Bugün</string>
+  <string name="hints_latest_garbage_cleanup_yesterday">Son Temizlik: Dün</string>
+  <string name="hints_list_item_clean">Temizle</string>
+  <string name="hints_list_item_keep">Koru</string>
+  <string name="hints_list_item_lock">Koru</string>
+  <string name="hints_list_item_unlock">Temizle</string>
+  <string name="hints_loading_text">Yükleniyor…</string>
+  <string name="hints_memory_header_left">Hafıza</string>
+  <string name="hints_num">0</string>
+  <string name="hints_privacy_header_left">Mahremiyet: %d</string>
+  <string name="hints_quick_cleanning">Temizleniyor…</string>
+  <string name="hints_quick_cleanuping">En iyi hale getiriliyor……</string>
+  <string name="hints_quick_deep_clean">Temizle</string>
+  <string name="hints_quick_deep_scanning">Taranıyor...</string>
+  <string name="hints_quick_deep_uninstall">Sil</string>
+  <string name="hints_quick_prepare">Hazırlanıyor…</string>
+  <string name="hints_quick_scanning">Taranıyor…</string>
+  <string name="hints_residual_header_left">Artıklar</string>
+  <string name="hints_scan_has_finish">Bitmiş Temizlik</string>
+  <string name="hints_scanfinish">Çöp yok</string>
+  <string name="hints_storage_clean_size"> %s dahili depolamadan kurtarıldı</string>
+  <string name="hints_storage_free">Boş</string>
+  <string name="hints_storage_free_size">Toplam %1$s, %2$s kullanılabilir</string>
+  <string name="hints_storage_news">Güvenlik Yenilikleri</string>
+  <string name="hints_title_garbage">Çöp</string>
+  <string name="hints_video_camera">Kayıtlı Videolar</string>
+  <string name="hints_video_download">Yüklenmiş Videolar</string>
+  <string name="hot">Popüler</string>
+  <string name="hot_today">Bugünkü Popülerler</string>
+  <string name="information_setting">Haber Beslemesinin Ayarları</string>
+  <string name="install_sucess">%s başarıyla yüklendi</string>
+  <string name="installed">Yüklendi</string>
+  <string name="installing">Yükleniyor</string>
+  <string name="item_title_process_mode">Bir faaliyet seç</string>
+  <string name="junk_tag_RF_EmptyFolders">Boş Dizinler</string>
+  <string name="junk_tag_RF_ImageThumbnails">Galeri Minyatürleri</string>
+  <string name="just_now">Şimdi</string>
+  <string name="kilobyteShort">KB</string>
+  <string name="label_image_list_none">Yok</string>
+  <string name="label_preserve_the_best_image">Net fotoğraf kaydedin</string>
+  <string name="last_check_canceled">Önceki tarama iptal edildi</string>
+  <string name="load_only_under_wlan">WLAN ağına bağlandığında haberleri yükle</string>
+  <string name="login_immediately">Oturum Aç</string>
+  <string name="long_click_dialog_summary">Uzun süreli basarak istisnalara ekle.</string>
+  <string name="long_click_dialog_title">İhbar</string>
+  <string name="low_memory_clean_dialog_msg">Önce en az %1$s dosya temizleyin</string>
+  <string name="low_memory_clean_dialog_ok_button">Tamam</string>
+  <string name="low_memory_clean_dialog_title">Boş alan kalmadı</string>
+  <string name="low_memory_warning_dialog_cancel_button">İptal</string>
+  <string name="low_memory_warning_dialog_msg">Cihazda boş alan oluşturup, devam edin</string>
+  <string name="low_memory_warning_dialog_ok_button">Temizle</string>
+  <string name="low_memory_warning_dialog_title">Boş alan yok</string>
+  <string name="mainbtn_text_quick_cleanup"> %s temizle</string>
+  <string name="mainbtn_text_quick_cleanup_default">Temizle</string>
+  <string name="megabyteShort">MB</string>
+  <string name="memeory_check_content">%1$d uygulama,  %2$s hafıza</string>
+  <string name="month_day_format">dd MMM</string>
+  <string name="msg_cleanup_db_update_checking">Güncellemeler kontrol ediliyor…</string>
+  <string name="msg_cleanup_db_update_time_unknown">Son güncelleme bilinmiyor</string>
+  <string name="msg_update_error_code_already_running">Güncelleniyor…</string>
+  <string name="msg_update_error_code_network_error">"Ağa bağlanamadı"</string>
+  <string name="msg_update_error_code_no_newer_db">Temizleyici güncellendi</string>
+  <string name="msg_update_error_code_success">Tamamlandı</string>
+  <string name="msg_update_error_code_unknown_error">Bilinmeyen hata</string>
+  <string name="name_debuglog_dir">BSP Hata Ayıklama Günlüğü</string>
+  <string name="name_optimizer">"Gizlilik Politikası"</string>
+  <string name="nb_clear_set">ROM, pil durumu ve engelliler listesi bildirimlerini temizle</string>
+  <string name="net_assistant_detail">%1$s kullanıldı, %2$s saklandı</string>
+  <string name="net_assistant_title">Bu ay %s mobil veri kullanıldı</string>
+  <string name="network_not_available">"Ağa bağlanamıyor"</string>
+  <string name="news_change">Değişiklik</string>
+  <string name="no_network">"Ağa bağlanamıyor, sonra tekrar deneyin"</string>
+  <string name="no_network_btn">Tekrar Dene</string>
+  <string name="notification_summary_after_auto_cleanup"> %s temizlendi.</string>
+  <string name="notification_summary_of_apps_cleanup">Kullanılmayan uygulamalar depolamanın %s yerini işgal ediyor</string>
+  <string name="notification_summary_of_garbage_cleanup">Çöp %s boyutunu aştı.</string>
+  <string name="notification_title_of_apps_cleanup">Kullanılmayan Uygulamalar</string>
+  <string name="notification_title_of_garbage_cleanup">Çöp Boyutu</string>
+  <string name="notify_when">Çöp boyutu 100 MB ulaştığında bildirim ver</string>
+  <string name="ok">Tamam</string>
+  <string name="open">Aç</string>
+  <string name="open_app">Aç</string>
+  <string name="open_browser">Tarayıcıda Aç</string>
+  <string name="optimizecenter_data_support_cm">Clean Master tarafından güçlendirilmiştir</string>
+  <string name="optimizecenter_data_support_tc">Tencent tarafından güçlendirilmiştir</string>
+  <string name="petabyteShort">PB</string>
+  <string name="phone_search">Google Araması</string>
+  <string name="positive_confirm">Tamam</string>
+  <string name="pref_category_title_auto_clean_settings">Otomatik olarak temizle</string>
+  <string name="pref_category_title_auto_update_cleanup_db">Ek Ayarlar</string>
+  <string name="pref_category_title_cleanup_white_list">İstisnalar</string>
+  <string name="pref_category_title_engine_settings">Tarama Tanımlamasının Ayarları</string>
+  <string name="pref_category_title_garbage_cleanup_check">Bildirimler</string>
+  <string name="pref_category_title_other_clean_settings">Ek Ayarlar</string>
+  <string name="pref_content_cleanup_white_list_none">Yok</string>
+  <string name="pref_section_auto_clean_and_alert">Otomatik olarak temizle</string>
+  <string name="pref_summary_auto_clean_and_alert">Temizleyiciyi otomatik olarak çalışmaya ayarla</string>
+  <string name="pref_summary_auto_deepclean_and_alert">Kullanılmayan uygulama bildirimi</string>
+  <string name="pref_summary_auto_update_cleanup_db"> %s güncellendi</string>
+  <string name="pref_summary_cleanup_white_list">Seçili uygulamaların temizliği görmezden gelinecek</string>
+  <string name="pref_summary_expand_cache_group">Önbellek bilgilerini otomatik göster</string>
+  <string name="pref_summary_garbage_auto_clean_content">Otomatik temizlenecek öğerleri seçin</string>
+  <string name="pref_summary_garbage_cleanup_check_size">Çöpler belirli bir boyuta ulaştığında bildir</string>
+  <string name="pref_summary_garbage_cleanup_check_time">Rutin temizliği planla</string>
+  <string name="pref_summary_garbage_process_mode">Temizleyici çalıştığında bildirimleri ayarla</string>
+  <string name="pref_summary_open_optimizer_cloud_scan">Bilinmeyen dosya tanımlarını çevrimiçi karşılaştır</string>
+  <string name="pref_summary_open_optimizer_memory_scan">Temizlenecek uygulamayı otomatik seç</string>
+  <string name="pref_title_apps_check_size">Depolama alan sınırı</string>
+  <string name="pref_title_apps_check_time">Sıklık</string>
+  <string name="pref_title_apps_cleanup_size">Önbellek şu boyuta ulaştığında:</string>
+  <string name="pref_title_auto_clean_and_alert">Otomatik Temizle</string>
+  <string name="pref_title_auto_clean_content_choose">Temizlenecek öğeleri seçin</string>
+  <string name="pref_title_auto_deepclean_and_alert">Derin Temizlik</string>
+  <string name="pref_title_auto_update_cleanup_db">Otomatik Güncelle</string>
+  <string name="pref_title_choose_engine">Tanımlamalar</string>
+  <string name="pref_title_cleanup_white_list">İstisnalar</string>
+  <string name="pref_title_expand_cache_group">Önbellek öğelerini göster</string>
+  <string name="pref_title_garbage_auto_clean_content">Temizlenecek öğeler</string>
+  <string name="pref_title_garbage_cleanup_check_size">Çöp boyutunun limiti</string>
+  <string name="pref_title_garbage_cleanup_check_time">Ajanda</string>
+  <string name="pref_title_garbage_cleanup_size">Çöp boyutunun limiti</string>
+  <string name="pref_title_garbage_process_mode">Bildirimler</string>
+  <string name="pref_title_manual_check_cleanup_db_update">Güncellemeleri kontrol et</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Dosya adlarını yükle</string>
+  <string name="pref_title_open_optimizer_memory_scan">Uygulama Hafızasını Tara</string>
+  <string name="preference_category_information_setting">category_information_setting</string>
+  <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
+  <string name="preference_key_apps_cleanup_auto_check_size">key_apps_cleanup_auto_check_size</string>
+  <string name="preference_key_apps_cleanup_auto_check_time">key_apps_cleanup_auto_check_time</string>
+  <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
+  <string name="preference_key_auto_clean_content_apk">key_auto_clean_content_apk</string>
+  <string name="preference_key_auto_clean_content_cache">key_auto_clean_content_cache</string>
+  <string name="preference_key_auto_clean_content_residual">key_auto_clean_content_residual</string>
+  <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
+  <string name="preference_key_checkbox_apps_auto_clean_and_alert">key_checkbox_apps_auto_clean_content</string>
+  <string name="preference_key_checkbox_garbage_auto_clean_and_alert">key_checkbox_garbage_auto_clean_content</string>
+  <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
+  <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
+  <string name="preference_key_garbage_auto_clean_and_alert">key_garbage_auto_clean_and_alert</string>
+  <string name="preference_key_garbage_auto_clean_content">key_garbage_auto_clean_content</string>
+  <string name="preference_key_garbage_auto_process_mode">key_garbage_auto_process_mode</string>
+  <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
+  <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
+  <string name="preference_key_information_setting_close">key_information_setting_close</string>
+  <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
+  <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
+  <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
+  <string name="preference_key_open_optimizer_memory_scan">key_open_memory_scan</string>
+  <string name="preference_key_scan_engine">key_scan_engine</string>
+  <string name="privacy_app_desc">Hesap ve Şifre</string>
+  <string name="privacy_app_desc_message">Hesap, Şifre ve Mesajlar</string>
+  <string name="privacy_app_desc_search">Hesap, Şifre ve Arama Geçmişi</string>
+  <string name="privacy_app_desc_setting">Hesap, Şifre ve Ayarlar</string>
+  <string name="privacy_appdata_chrome_history_des">Ziyaret Edilen Siteler</string>
+  <string name="privacy_browser_desc">Aranan öğeler</string>
+  <string name="privacy_cache_desc">Hesap, Şifre, Geçmiş, Ayarlar ve Daha Fazlası</string>
+  <string name="privacy_cache_empty">Şahsi veri yok</string>
+  <string name="privacy_cache_scaning">Kontrol ediliyor…</string>
+  <string name="privacy_cache_title">Şahsi Bilgi</string>
+  <string name="privacy_clipboard_desc">Panodaki içerik</string>
+  <string name="privacy_clipboard_type">Pano</string>
+  <string name="privacy_search_desc">Geçmişi Ara</string>
+  <string name="privacy_search_type">Google Araması</string>
+  <string name="promotion">Reklam</string>
+  <string name="recommend_news">Tavsiye Edilen Kaynaklar</string>
+  <string name="recommend_the_following">Cihazınızı en iyi hale getirmek için aşağıdaki faaliyetleri de uygulayabilirsiniz.</string>
+  <string name="recommended">Seçilmiş</string>
+  <string name="safety_check_detail">%1$d zaman, %2$d puan kazanıldı</string>
+  <string name="safety_rank">Güvenlik açısından %%%d MIUI kullanıcısından önde</string>
+  <string name="sc_allow_network_dialog_button">İzinli</string>
+  <string name="sc_allow_network_dialog_message">Bu uygulamanın güncellemeleri almak için İnternete bağlanmasına izin veriyor musunuz?</string>
+  <string name="search_history">Arama Geçmişi</string>
+  <string name="see_more">Fazlası</string>
+  <string name="set_immediately">Ayarla</string>
+  <string name="seton_immediately">Aç</string>
+  <string name="share">Paylaş</string>
+  <string name="similar_image_desc">Yenilenen Fotoğrafları Sil</string>
+  <string name="similar_image_empty">Yenilenen bulunamadı</string>
+  <string name="similar_image_scaning">Kontrol ediliyor…</string>
+  <string name="similar_image_title">Fotoğraflar</string>
+  <string name="sms">SMS/MMS</string>
+  <string name="sponsored">Sponsorlu</string>
+  <string name="start_downloading_app">İndirmeye başlıyor：%1$s</string>
+  <string name="start_install">Şimdi Yükle</string>
+  <string name="summary_auto_cleaner">Her 3 günde bir otomatik temizlensin mi?</string>
+  <string name="summary_delete_apk">Seçilen APKlar silinsin mi?</string>
+  <string name="summary_delete_cache">Seçili uygulamaların önbelleği temizlensin mi?</string>
+  <string name="summary_delete_large_file">Seçili uygulamaların nadiren kullanılanları silinsin mi?</string>
+  <string name="summary_delete_video">Seçili videoların nadiren kullanılanları silinsin mi?</string>
+  <string name="summary_optimizer">"Bu özellik, Cheetah Mobile çevrimiçi veritabanını güncellemek için klasör isimlerini yükler ve cihazınızın kimliğine ihtiyaç duyar"</string>
+  <string name="terabyteShort">TB</string>
+  <string name="text_optimizer">Dosya isimlerini yükle</string>
+  <string name="there_is_no">Herşey güzel gözüküyor, sonra tekrar deneyin</string>
+  <string name="tips_of_app_manage">Nadiren kullanılan uygulamaları silip depolamada daha fazla alan kazanın</string>
+  <string name="tips_of_auto_launch_manage">Nadiren kullanılan uygulamaların otomatik başlamasını önle</string>
+  <string name="tips_of_cloud_service">Daha fazla Mi hizmeti kullanmak için Mi Hesabınızda oturum açın</string>
+  <string name="tips_of_connect">Güvenlik özelliklerini azami kullanmak için internete bağlanın</string>
+  <string name="tips_of_garbage_cloud_scan">Bulut tarama ile gizli çöpleri bul</string>
+  <string name="tips_of_garbage_data_set">Cihazınızda daha fazla çöp bulmak için Temizleme veritabanını güncelle</string>
+  <string name="tips_of_network_speed_set">Durum çubuğunda ağ hızını göster</string>
+  <string name="tips_of_operators_set">Otomatik olarak veri kullanım istatistiklerini ayarla</string>
+  <string name="tips_of_package_set">Veri planı ayarlayın ve kullandığınız trafik miktarını kontrol edin</string>
+  <string name="tips_of_traffic_notification">Bildirimde mobil veri istatistikleri görüntüle</string>
+  <string name="tips_of_traffic_pack_threshold">"Trafik limitinin seviyesine ulaştığınızda daha fazla veri alımı ekleyin"</string>
+  <string name="tips_of_virus_scan">Cihazı güvenli tutmak için düzenli virüs taraması yapın</string>
+  <string name="title_auto_cleaner">Otomatik olarak temizlensin mi?</string>
+  <string name="title_delete_cache">Uygulama önbelleğini temizle</string>
+  <string name="title_delete_clipboard">Pano İçerikleri</string>
+  <string name="title_delete_deepclean">Sil</string>
+  <string name="title_delete_large_file">Büyük dosyaları sil</string>
+  <string name="title_of_app_manage">Uygulamalar</string>
+  <string name="title_of_auto_launch_manage">Otomatik Başlat</string>
+  <string name="title_of_cloud_service">Bulut Hizmetleri</string>
+  <string name="title_of_garbage_cloud_scan">Bulut Taraması</string>
+  <string name="title_of_garbage_data_set">Temizleyici veritabanı güncellemeleri</string>
+  <string name="title_of_network_speed_set">Ağ hızını durum çubuğunda göster</string>
+  <string name="title_of_operators_set">Şebeke Ayarları</string>
+  <string name="title_of_package_set">Veri Plan Ayarları</string>
+  <string name="title_of_traffic_notification">Veri Durum Çubuğu</string>
+  <string name="title_optimizer">Hüküm ve Koşullar</string>
+  <string name="title_share_link">URL Paylaşımı</string>
+  <string name="toast_add_white_list_success">" istisnalara eklendi"</string>
+  <string name="toast_app_no_residual_on_sdcard">"Uygulamanın SD kartınızda kayıtlı hiçbir dosyası yok"</string>
+  <string name="toast_backup_is_running">Yedekleme zaten çalışıyor.</string>
+  <string name="toast_backup_uninstall_failed">"%d uygulamalar yedeklenemedi."</string>
+  <string name="toast_backup_uninstall_failed2">"Yedeklenemedi"</string>
+  <string name="toast_backup_uninstall_success">Yedekleme ve kaldırma tamamlandı</string>
+  <string name="toast_delete_select_image_succeed">Silindi</string>
+  <string name="toast_garbage_cleanup_success">Temizlik bitti</string>
+  <string name="toast_garbage_list_empty">Herşey güzel gözüküyor!</string>
+  <string name="toast_must_select_before_restore">Geri yüklenecek fotoğrafları seçin</string>
+  <string name="toast_network_eror">"Ağ bağlantısı yok"</string>
+  <string name="toast_network_switch">Bu uygulama internete bağlanacak</string>
+  <string name="toast_removed_from_white_list">" istisnalardan kaldırıldı"</string>
+  <string name="toast_resolve_apk_error">APK çözümleme hatası!</string>
+  <string name="toast_scaning_similar_image">Fotoğraflar kontrol ediliyor…</string>
+  <string name="toast_select_image_need_delete">Silinecek fotoğrafları seçin</string>
+  <string name="toast_select_white_need_remove">Kaldırılacak öğeleri seçin</string>
+  <string name="toast_selecte_group_restore_succeed">Fotoğraflar geri yüklendi</string>
+  <string name="toast_uninstall_success">Kaldırma tamamlandı</string>
+  <string name="total_clean">Toplam temizlenen: %s</string>
+  <string name="total_clean_text">Temizle</string>
+  <string name="traffic_top">En fazla veri tüketen 5 uygulama</string>
+  <string name="unlike">Hayır, teşekkürler</string>
+  <string name="update_date_format">dd-MM-yyyy</string>
+  <string name="virus_scan">Virüs Tara</string>
+  <string name="white_list_ad_header">Reklam Dosyaları: %d</string>
+  <string name="white_list_apk_header">Yükleme Paketleri: %d</string>
+  <string name="white_list_cache_header">Önbellek Dosyaları: %d</string>
+  <string name="white_list_large_file_header">Büyük Dosyalar ve Videolar: %d</string>
+  <string name="white_list_residual_header">Artıklar: %d</string>
+  <string name="white_list_title">İstisnalar</string>
+  <string name="year_month_day_format">dd MMM yyyy</string>
+  <string name="yesterday">Dün</string>
 </resources>
