@@ -37,97 +37,6 @@
         <item>Diğer</item>
         <item>Özel</item>
     </string-array>
-    <string-array name="wfcOperatorHataAlertMessages">
-        <item>WLAN çağrısı kapalı</item>
-        <item>Hücresel ağ yok. Çağrı yapmak için mevcut WLAN ağına bağlanın.</item>
-        <item>Dizesi karar verilecek</item>
-        <item>Hata02: DNS Hatası</item>
-        <item>Hata03: DNS Hatası</item>
-        <item>Hata04: DNS Hatası</item>
-        <item>Hata041: DNS Hatası</item>
-        <item>Hata05: Geçersiz SIM kart</item>
-        <item>Hata07: Bağlanılamıyor</item>
-        <item>Hata081: Bağlanılamıyor</item>
-        <item>Hata082: Bağlanılamıyor</item>
-        <item>Hata08: Bağlanılamıyor</item>
-        <item>REG91: Bağlanılamıyor</item>
-        <item>Hata010: Geçersiz Sertifika</item>
-        <item>Hata101: Geçersiz Sertifika</item>
-        <item>Hata111: Geçersiz Sertifika</item>
-        <item>Hata011: Geçersiz Sertifika</item>
-        <item>Hata403: Bilinmeyen kullanıcı</item>
-        <item>Hata403: Dolaşım izin vermiyor</item>
-        <item>Hata403: Uyumsuz kimlik</item>
-        <item>Hata403: desteklenmeyen kimlik doğrulma şeması</item>
-        <item>Hata403: kara listede</item>
-        <item>REG09: Kayıp 911 Adresi</item>
-        <item>REG99: Bağlanılamıyor</item>
-        <item>REG99: Bağlanılamıyor</item>
-    </string-array>
-    <string-array name="wfcOperatorHataNotificationMessages">
-        <item>WLAN calling off</item>
-        <item>No cellular network available. Connect to an available WLAN Network to make calls.</item>
-        <item>Dizesi karar verilecek</item>
-        <item>Hata02: DNS Hatası</item>
-        <item>Hata03: DNS Hatası</item>
-        <item>Hata04: DNS Hatası</item>
-        <item>Hata041: DNS Hatası</item>
-        <item>Hata05: Geçersiz SIM kart</item>
-        <item>Hata07: Bağlanılamıyor</item>
-        <item>Hata081: Bağlanılamıyor</item>
-        <item>Hata082: Bağlanılamıyor</item>
-        <item>Hata08: Bağlanılamıyor</item>
-        <item>REG91: Bağlanılamıyor</item>
-        <item>Hata010: Geçersiz Sertifika</item>
-        <item>Hata101: Geçersiz Sertifika</item>
-        <item>Hata111: Geçersiz Sertifika</item>
-        <item>Hata011: Geçersiz Sertifika</item>
-        <item>Hata403: Bilinmeyen kullanıcı</item>
-        <item>Hata403: Dolaşım izin vermiyor</item>
-        <item>Hata403: Uyumsuz kimlik</item>
-        <item>Hata403: Desteklenmeyen kimlik doğrulma şeması</item>
-        <item>Hata403: Kara listede</item>
-        <item>REG09: Kayıp 911 Adresi</item>
-        <item>REG99: Bağlanılamıyor</item>
-        <item>REG99: Bağlanılamıyor</item>
-    </string-array>
-    <string-array name="fingerprint_acquired_vendor">
-        <item>Ayrılmış0</item>
-        <item>Ayrılmış1</item>
-        <item>Sensör üzerinde parmağınızı koyun</item>
-        <item>Sensörün üzerine parmağınızı tamamen koyun</item>
-        <item>Kapağı sıkıca kavrayıp, birinci parmağınızla sönsörü tamamen kapatın, kaldırın</item>
-        <item>Kapağı sıkıca kavrayıp, ikinci parmağınızla sönsörü tamamen kapatın, kaldırın</item>
-        <item>Ayrılmış6</item>
-        <item>Ayrılmış7</item>
-        <item>Ayrılmış8</item>
-        <item>Ayrılmış9</item>
-        <item>Ayrılmış10</item>
-        <item>Ayrılmış11</item>
-        <item>Ayrılmış12</item>
-        <item>Sensör üzerine üçüncü parmağınızı düz yerleştirin</item>
-        <item>Taramalar arasında dördüncü parmağınızı biraz hareket ettirin</item>
-        <item>Beşinci parmağı kaldırın</item>
-        <item>Sensör üzerinde parmağınızı uzun süre tutun</item>
-        <item>Ayrılmış17</item>
-        <item>Ayrılmış18</item>
-    </string-array>
-    <array name="fingerprint_error_vendor" />
-    <string-array name="imAddressTypes">
-        <item>Ev</item>
-        <item>İş</item>
-        <item>Diğer</item>
-        <item>Özel</item>
-    </string-array>
-    <array name="carrier_properties" />
-	<array name="common_nicknames" />
-    <string-array name="imAddressTypes">
-        <item>Ev</item>
-        <item>İş</item>
-        <item>Diğer</item>
-        <item>Özel</item>
-    </string-array>
-    <array name="carrier_properties" />
     <string-array name="app_ops_labels">
         <item>Konum erişimi için deneniyor</item>
         <item>Konum erişimi için deneniyor</item>
@@ -190,4 +99,4 @@
         <item>Arama günlüğü silmek için çalışıyor</item>
         <item>Mobil veri açmak için çalışılıyor</item>
     </string-array>
-	</resources>
+</resources>
