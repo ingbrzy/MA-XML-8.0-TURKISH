@@ -29,13 +29,10 @@
   <string name="avast_virus_type_trjan_description">"Virüs bir trojandır. Bir kullanıcının cihazını yetkisiz, uzaktan erişim sağlamak için tasarlanmış bir malware tabanlıdır. Truva atları, normalde virüsler gibi kendilerini çoğaltmak için yeteneği yoktur. Ancak, cihazınızda yüklü olan diğer kötü niyetli yazılımlara yol verebilir ve veri çalınması veya diğer zararlı faaliyetleri tetikleyebilir."</string>
   <string name="avast_virus_type_unknown_description">Bilinmeyen enfeksiyon türü.</string>
   <string name="avast_virus_type_worm_description">Bu virüs solucandır. Diğer cihazlara yayılmak için kendini çoğaltır, bağımsız bir malware tabanlıdır. (Örneğin ağ gibi) sisteminin dosya veya bilgi taşıma özelliklerinden yararlanır, herhangi bir insan eylemi olmaksızın seyahat edebilir. Solucanlar hemen hemen her zaman ağ için az bir zarar verebilir.</string>
-  <string name="avl_dialog_cloudscan"/>
-  <string name="avl_dialog_dbupdate"/>
   <string name="avl_dialog_header">"Bu özellik cihaz kimliğini şifleyerek AVL sunucularına gönderir (%s)."</string>
   <string name="avl_dialog_policy">Gizlilik Kurallarına Gözat</string>
   <string name="avl_dialog_title">"AVL'nin Gizlilik Kuralı"</string>
   <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
-  <string name="default_sdcard_volume_path"/>
   <string name="hello_world">Merhaba Dünya!</string>
   <string name="menu_settings">Ayarlar</string>
   <string name="tencent_dialog_cloudscan">Çevrimiçi virüs tanımlarını kullanarak uygulama adlarını ve ayrıntıları tarayın.</string>
