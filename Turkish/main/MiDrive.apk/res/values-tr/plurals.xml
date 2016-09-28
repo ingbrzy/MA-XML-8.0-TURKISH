@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">%1$d dosyayı sil</item>
+        <item quantity="zero">%1$d dosyayı sil</item>
+        <item quantity="one">%1$d dosyayı sil</item>
+        <item quantity="two">%1$d dosyayı sil</item>
+        <item quantity="few">%1$d dosyayı sil</item>
+        <item quantity="many">%1$d dosyayı sil</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" ve %1$d dizin silinsin mi?"</item>
+        <item quantity="zero">" ve %1$d dizin silinsin mi?"</item>
+        <item quantity="one">" ve %1$d dizin silinsin mi?"</item>
+        <item quantity="two">" ve %1$d dizin silinsin mi?"</item>
+        <item quantity="few">" ve %1$d dizin silinsin mi?"</item>
+        <item quantity="many">" ve %1$d dizin silinsin mi?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d öğe</item>
+        <item quantity="zero">%d öğe</item>
+        <item quantity="one">%d öğe</item>
+        <item quantity="two">%d öğe</item>
+        <item quantity="few">%d öğe</item>
+        <item quantity="many">%d öğe</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">İndirilecek %1$d dosya kaldı</item>
+        <item quantity="zero">İndirilecek %1$d dosya kaldı</item>
+        <item quantity="one">İndirilecek %1$d dosya kaldı</item>
+        <item quantity="two">İndirilecek %1$d dosya kaldı</item>
+        <item quantity="few">İndirilecek %1$d dosya kaldı</item>
+        <item quantity="many">İndirilecek %1$d dosya kaldı</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Gönderilecek %1$d  dosya kaldı</item>
+        <item quantity="zero">Gönderilecek %1$d  dosya kaldı</item>
+        <item quantity="one">Gönderilecek %1$d  dosya kaldı</item>
+        <item quantity="two">Gönderilecek %1$d  dosya kaldı</item>
+        <item quantity="few">Gönderilecek %1$d  dosya kaldı</item>
+        <item quantity="many">Gönderilecek %1$d  dosya kaldı</item>
+    </plurals>
+    <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">Aktarılacak %1$d  dosya kaldı</item>
+        <item quantity="zero">Aktarılacak %1$d  dosya kaldı</item>
+        <item quantity="one">Aktarılacak %1$d  dosya kaldı</item>
+        <item quantity="two">Aktarılacak %1$d  dosya kaldı</item>
+        <item quantity="few">Aktarılacak %1$d  dosya kaldı</item>
+        <item quantity="many">Aktarılacak %1$d  dosya kaldı</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d seçildi</item>
+        <item quantity="zero">%1$d seçildi</item>
+        <item quantity="one">%1$d seçildi</item>
+        <item quantity="two">%1$d seçildi</item>
+        <item quantity="few">%1$d seçildi</item>
+        <item quantity="many">%1$d seçildi</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d öğe)</item>
+        <item quantity="zero"> (%1$d öğe)</item>
+        <item quantity="one"> (%1$d öğe)</item>
+        <item quantity="two"> (%1$d öğe)</item>
+        <item quantity="few"> (%1$d öğe)</item>
+        <item quantity="many"> (%1$d öğe)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d öğe)</item>
+        <item quantity="zero"> (%1$d öğe)</item>
+        <item quantity="one"> (%1$d öğe)</item>
+        <item quantity="two"> (%1$d öğe)</item>
+        <item quantity="few"> (%1$d öğe)</item>
+        <item quantity="many"> (%1$d öğe)</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d öğe</item>
+        <item quantity="zero"> %1$d öğe</item>
+        <item quantity="one"> %1$d öğe</item>
+        <item quantity="two"> %1$d öğe</item>
+        <item quantity="few"> %1$d öğe</item>
+        <item quantity="many"> %1$d öğe</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d dakika önce</item>
+        <item quantity="zero">%1$d dakika önce</item>
+        <item quantity="one">%1$d akika önce</item>
+        <item quantity="two">%1$d dakika önce</item>
+        <item quantity="few">%1$d dakika önce</item>
+        <item quantity="many">%1$d dakika önce</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d saat önce</item>
+        <item quantity="zero">%1$d saat önce</item>
+        <item quantity="one">%1$d saat önce</item>
+        <item quantity="two">%1$d saat önce</item>
+        <item quantity="few">%1$d saat önce</item>
+        <item quantity="many">%1$d saat önce</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d gün önce</item>
+        <item quantity="zero">%1$d gün önce</item>
+        <item quantity="one">%1$d gün önce</item>
+        <item quantity="two">%1$d gün önce</item>
+        <item quantity="few">%1$d gün önce</item>
+        <item quantity="many">%1$d gün önce</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%1$d saniye</item>
+        <item quantity="zero">%1$d akika önce</item>
+        <item quantity="one">%1$d akika önce</item>
+        <item quantity="two">%1$d akika önce</item>
+        <item quantity="few">%1$d akika önce</item>
+        <item quantity="many">%1$d akika önce</item>
+    </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$d dakika</item>
+        <item quantity="zero">%1$d dakika</item>
+        <item quantity="one">%1$d dakika</item>
+        <item quantity="two">%1$d dakika</item>
+        <item quantity="few">%1$d dakika</item>
+        <item quantity="many">%1$d dakika</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d saat</item>
+        <item quantity="zero">%1$d saat</item>
+        <item quantity="one">%1$d saat</item>
+        <item quantity="two">%1$d saat</item>
+        <item quantity="few">%1$d saat</item>
+        <item quantity="many">%1$d saat</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%1$d gün</item>
+        <item quantity="zero">%1$d gün</item>
+        <item quantity="one">%1$d gün</item>
+        <item quantity="two">%1$d gün</item>
+        <item quantity="few">%1$d gün</item>
+        <item quantity="many">%1$d gün</item>
+    </plurals>
+    <plurals name="des_running_trans">
+        <item quantity="other">"%1$d dosya transfer edilemedi."</item>
+        <item quantity="one">"%1$d dosya transfer edilemedi."</item>
+    </plurals>
+</resources>
