@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Günlük Kilit Ekranı</string>
+  <string name="apply">Uygula</string>
   <string name="at_least_one">En az bir kategori seçin</string>
   <string name="auto_interval">Otomatik</string>
   <string name="cancel">Çık</string>
@@ -11,19 +12,32 @@
   <string name="declaration">Her gün ücretsiz olarak kilit ekranına yeni duvar kağıtları alın.</string>
   <string name="declaration_lockscreen_title">Duvar Kağıdı Döngüsü</string>
   <string name="declaration_title">Hükümler ve Koşullar</string>
+  <string name="dislike">Sil</string>
+  <string name="from_migallerylockscreen">" "</string>
   <string name="hour_1">Her saatte</string>
   <string name="hour_3">Her 3 saatte</string>
+  <string name="like">Oyla</string>
+  <string name="liked">Sevdim</string>
   <string name="lockscreen_magazine_summary">Duvar Kağıtlarını Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/ dizine ekleyin</string>
   <string name="lockscreen_magazine_system_title">Çevrimdışı</string>
   <string name="lockscreen_magazine_title">Günlük Kilit Ekranı</string>
+  <string name="lockscreen_wallpaper_changed">Duvar kağıdı değiştirildi</string>
   <string name="minutes_15">15 dakikada</string>
   <string name="no_long_show">"Tekrar gösterme"</string>
+  <string name="ok_enable_network_prov">Kabul</string>
   <string name="ok_international">Kabul</string>
   <string name="ok_lockscreen">Tamam</string>
   <string name="ok_network">Kabul</string>
+  <string name="platform_unavailable_qq">Lütfen QQ kurun</string>
+  <string name="platform_unavailable_qzone">Lütfen Qzone kurun</string>
+  <string name="platform_unavailable_wechat">Lütfen wechat kurun</string>
+  <string name="platform_unavailable_wechatmoment">Lütfen wechat kurun</string>
+  <string name="platform_unavailable_weibo">Lütfen weibo kurun</string>
   <string name="resource_apply">Uygula</string>
   <string name="resource_no_network_text">"Ağa bağlanamıyor."</string>
   <string name="setting_head">Ayarlar</string>
+  <string name="settings">Ayarlar</string>
+  <string name="share">Paylaş</string>
   <string name="sst_favor_desc">Favori duvar kağıtlarını görüntüler</string>
   <string name="sst_favor_title">Favoriler</string>
   <string name="sst_grid_view_select_all">Hepsi</string>
