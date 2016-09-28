@@ -46,7 +46,7 @@
   <string name="package_error_title">Yükleme başarısız</string>
   <string name="package_unzip">Paket ayıklanıyor, işlemi kesmeyin!...</string>
   <string name="package_unzip_error">Ayıklama hatası</string>
-  <string name="ratio">0%</string>
+  <string name="ratio">%0</string>
   <string name="reboot">Yeniden Başlat...</string>
   <string name="reboot_prompt_content">Üzgünüz,FotaUpdateReboot dosyası yok. Beklenmeyen bir hata oldu!</string>
   <string name="reboot_prompt_title">Sistem hatası</string>
