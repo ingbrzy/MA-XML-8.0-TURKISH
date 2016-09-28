@@ -110,6 +110,7 @@
   <string name="call_recording_notification_message_sd_unmounted">SD kart kaldırıldı.</string>
   <string name="call_recording_notification_title">Çağrı kaydedildi</string>
   <string name="call_recording_notification_title_error">"Çağrı kaydedilemedi"</string>
+  <string name="call_self">"Kendi numaran aranamaz"</string>
   <string name="call_settings">Çağrı Ayarları</string>
   <string name="call_title_redialing_with_times">%d kez tekrar arandı</string>
   <string name="caller_manage_header">%s konferans çağrısı</string>
@@ -118,6 +119,7 @@
   <string name="can_not_call_oneself">"Bu numara aranamadı"</string>
   <string name="can_not_use">"Kullanılamadı"</string>
   <string name="cancel">İptal</string>
+  <string name="cancel_call">Telefonu kapat</string>
   <string name="cannot_answered_Video_Call">Zaten faal bir sesli arama olduğundan görüntülü çağrıya cevap verilemiyor.</string>
   <string name="cannot_answered_Voice_Call">Zaten bir görüntülü arama olduğundan sesli aramaya cevap verilemiyor</string>
   <string name="card_title_call_ended">Çağrı bitti </string>
@@ -241,6 +243,7 @@
   <string name="description_image_button_zero">sıfır</string>
   <string name="description_search_button">ara</string>
   <string name="description_target_answer">Cevapla</string>
+  <string name="dial_with_gsm_phone">Düzenli Çağrı</string>
   <string name="dial_emergency_empty_error">Çağrı gönderilmedi. Bir acil durum numarasını çevirin!</string>
   <string name="dial_emergency_error">Çağrı gönderilmedi. %s acil durum numarası değil!</string>
   <string name="dial_pad_autocomplete">Tuş Takımı otomatik tamamla</string>
@@ -794,6 +797,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="registration_status_registering">Kaydediliyor...</string>
   <string name="registration_status_server_unreachable">Hesap kaydı başarısız oldu: Sunucu adını kontrol edin.</string>
   <string name="registration_status_still_trying">Hala deneniyor...</string>
+  <string name="purchase_now">Kontör</string>
   <string name="reminder">Hatırlatıcı</string>
   <string name="removeMember">Kaldır</string>
   <string name="remove_sip_account">Hesabı kaldır</string>
