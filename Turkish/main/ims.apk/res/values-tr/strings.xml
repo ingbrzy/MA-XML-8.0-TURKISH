@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="call_hold_label">Çağrı Beklet :</string>
+  <string name="call_resume_label">Çağrıya Devam :</string>
+  <string name="device_is_hd_capable">Cihaz HD Yetenekli</string>
+  <string name="error_msg_cancelled">İptal edildi</string>
+  <string name="error_msg_failed">Başarısız</string>
+  <string name="error_msg_reinvite_collision">Yeniden Davette Çakışma</string>
+  <string name="incoming_call_failed_low_battery">Gelen Çağrı düşük pil nedeniyle başarısız oldu</string>
+</resources>
