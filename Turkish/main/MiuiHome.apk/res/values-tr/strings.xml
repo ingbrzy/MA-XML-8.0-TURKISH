@@ -48,7 +48,8 @@
   <string name="change_wallpaper">Değiştir</string>
   <string name="children_folder_title">Çocuklar</string>
   <string name="children_mode_exit">Çık</string>
-  <string name="children_mode_tips">Ayarlar dönün ve uygulamalara erişimi yönetin.</string>
+  <string name="children_mode_tips_message">Çocuk modunda uygulama bulunmamaktadır. Uygulamayı seçiniz.</string>
+  <string name="children_mode_tips_title">Lütfen uygulamayı seçin</string>
   <string name="choose_wallpaper">Duvar kağıdını seçin</string>
   <string name="chooser_wallpaper">Yeni duvar kağıdını seç</string>
   <string name="cloud_app_restore_title">Bekliyor</string>
@@ -177,10 +178,12 @@
   <string name="menu_wallpaper">Duvar Kağıdı</string>
   <string name="menu_workspace_preview">Ana Ekranları Önizle</string>
   <string name="mi_wallpaper">MIUI Tema Mağazası</string>
-  <string name="mtzgadget_missing_text">"Widget mevcut değil"</string>
+  <string name="mtzgadget_missing_text">"Araç mevcut değil"</string>
   <string name="multi_selecting_tips">Uygulamayı eklemek için, simgesine dokunun</string>
   <string name="no_detail_page">Detay sayfası yok</string>
   <string name="normal_wallpaper">Duvar Kağıdı</string>
+  <string name="notification_installed">Başarıyla yüklendi</string>
+  <string name="notification_open_button">Aç</string>
   <string name="online_wallpaper">Çevrimiçi</string>
   <string name="out_of_space">Bu Ana Ekranda daha fazla sayfa yok</string>
   <string name="permdesc_install_shortcut">Bir uygulamanın kullanıcı izni olmadan ana ekrana kısayollar eklemesine izin verir.</string>
@@ -189,7 +192,7 @@
   <string name="permdesc_uninstall_shortcut">Bir uygulamanın kullanıcı izni omadan kısayolları kaldırmasına izin verir.</string>
   <string name="permdesc_write_settings">Bir uygulamanın ana ekrandaki ayarları ve kısayolları değiştirmesine izin verir.</string>
   <string name="permlab_install_shortcut">Kısayolları yükle</string>
-  <string name="permlab_install_widget">Widget\'leri yükle</string>
+  <string name="permlab_install_widget">Araçları yükle</string>
   <string name="permlab_read_settings">Ana Ekran Ayarlarını ve Kısayolları oku</string>
   <string name="permlab_uninstall_shortcut">Kısayolları kaldır</string>
   <string name="permlab_write_settings">Ana Ekran Ayarlarını ve Kısayolları düzenle</string>
@@ -213,8 +216,9 @@
   <string name="preferences_title">Başlatıcı Ayarları</string>
   <string name="process"/>
   <string name="recommend_apps_default_title">Boş</string>
-  <string name="recommend_apps_notice">Tavsiye Edilen Uygulamalar</string>
-  <string name="recommend_apps_switch_title">Tavsiye Edilmiş Uygulamalar</string>
+  <string name="recommend_apps_notice">Promosyonlu Uygulamalar</string>
+  <string name="recommend_apps_notice_nodata">Promosyonlu Uygulamalar (Veri yok)</string>
+  <string name="recommend_apps_switch_title">Promosyonlu Uygulamalar</string>
   <string name="recommend_apps_tips">"Bu özelliğin normal çalışmasi için internete bağlanması gerekiyor. Bu özelliği kapatmak için bu klasörün adına dokunun."</string>
   <string name="reset_scene_prompt">Ekran düzenini varsayılana sıfırlanır.</string>
   <string name="screen_number">%d ekranı</string>
