@@ -58,7 +58,7 @@
   <string name="audio_effect_info">Sesi İyi Duruma Getir</string>
   <string name="audio_effect_settings">Kulaklık Tipini Seçin</string>
   <string name="available_via_passpoint">%1$s yoluyla mevcut</string>
-  <string name="battery_low_percent_format">%d%% pil seviyesi kaldı</string>
+  <string name="battery_low_percent_format">%%d% pil seviyesi kaldı</string>
   <string name="battery_low_title">Şarj cihazına bağlayın</string>
   <string name="battery_profiles">Pil profillerini kullan</string>
   <string name="block_notification_content_text">"%1$s'nın bildirimlerini yeniden gösterme. Bunu Ayarlar içinden değiştirebilirsiniz."</string>
@@ -296,6 +296,7 @@ Kilitlemek için aşağı kaydırın ▼"</string>
   <string name="status_bar_safepay_scanning">Ödeme ortamı denetleniyor…</string>
   <string name="status_bar_safepay_unknown">"Ödeme ortamı denetlenemiyor"</string>
   <string name="status_bar_settings_airplane">Uçak Modu</string>
+  <string name="status_bar_settings_battery_meter_format">%%%d</string>
   <string name="status_bar_settings_signal_meter_disconnected">İnternet bağlantısı yok!</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN bağlandı</string>
   <string name="status_bar_style_settings">Bildirimler</string>
