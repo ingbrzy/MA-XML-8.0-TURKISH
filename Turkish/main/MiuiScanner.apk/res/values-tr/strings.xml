@@ -135,6 +135,15 @@
   <string name="preparing_sd">SD kart hazırlanıyor…</string>
   <string name="previous">Geri</string>
   <string name="qr_code_details">QR Kodu Detayı:</string>
+  <string name="recognition_error_download_cancel">Sonra</string>
+  <string name="recognition_error_download_data_msg">Kartları taramak için tanıma motorunu indirin. Bunun büyüklüğü yaklaşık 15 MB. İndirmek için mobil veri kullanılsın mı?</string>
+  <string name="recognition_error_download_fail">"Tanıma motoru indirilemedi"</string>
+  <string name="recognition_error_download_msg">Kartları taramak için tanıma motorunu indirin. Bunun büyüklüğü yaklaşık 15 MB.</string>
+  <string name="recognition_error_download_no_network">"İndirilemedi. Ağa bağlı olduğunuzdan emin olun."</string>
+  <string name="recognition_error_download_ok">İndir</string>
+  <string name="recognition_error_download_success">Başarıyla indirildi</string>
+  <string name="recognition_error_download_title">Tanıma motor gerekli</string>
+  <string name="recognition_error_downloading">Tanıma motoru indiriliyor...</string>
   <string name="recognize">Tara</string>
   <string name="recognize_fail">"Kod okunamıyor"</string>
   <string name="scan_fail">"Kod taranamıyor"</string>
