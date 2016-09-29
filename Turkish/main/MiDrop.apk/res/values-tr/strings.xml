@@ -37,7 +37,7 @@
   <string name="notif_receive_progress">%1$s dosyalar alınıyor…</string>
   <string name="notif_receive_success">%1$s alındı</string>
   <string name="notif_send_cancel">%1$s transferi kesildi</string>
-  <string name="notif_send_cancel_multi">%1$s+%2$ transferi kesildi</string>
+  <string name="notif_send_cancel_multi">%1$s+%2$d transferi kesildi</string>
   <string name="notif_send_progress">%1$s gönderiliyor…</string>
   <string name="notif_send_success"> %1$s gönder</string>
   <string name="notif_send_success_multi">%1$d kişiye gönder</string>
