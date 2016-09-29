@@ -35,6 +35,7 @@
   <string name="camera_snap_mode_title_detail">Detaylara bakmak için dokunun</string>
   <string name="cannot_connect_camera_once">"Kameraya bağlanamıyor"</string>
   <string name="cannot_connect_camera_twice">"Halen kameraya bağlanamıyor. Cihazı yeniden başlatın."</string>
+  <string name="cannot_connect_camera_volte_call">Görüntülü çağrı devam ediyor, lütfen daha sonra deneyin.</string>
   <string name="cannot_move_warning_message">İşlem sürüyor, cihazın işleme devam etmesini sağlayın</string>
   <string name="confirm_location_alert">Fotoğrafın konumunu hatırla</string>
   <string name="confirm_location_message">Fotoğraf ve videolarınızın konumları etiketlenir. Diğer uygulamalar kaydedilmiş görüntülerle birlikte bu bilgilere de ulaşır.</string>
@@ -83,6 +84,7 @@
   <string name="face_beauty_smart">Akıllı</string>
   <string name="find_other_qrcode">QR Kodu bulundu</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
+  <string name="message_snap_double_confirm">Ses tuşuna uzun süreli basarak Transfer moduna geçiliyordu, değiştirilsin mi?</string>
   <string name="no_storage">Kamerayı kullanmadan önce lütfen bir SD kart takın</string>
   <string name="not_enough_space">SD Kart dolu</string>
   <string name="object_track_enable_toast">Bir nesneyi seçmek için, eş zamanlı olarak kenar etrafındaki iki köşegen noktasına dokunun.</string>
@@ -389,12 +391,13 @@
   <string name="tap_to_exposure">El ile pozlamayı ayarlamak için dokunun</string>
   <string name="tap_to_focus">Odaklanmak için dokunun</string>
   <string name="time_lapse_error">"Zaman aralıklı kayıt için bu video boyutu kullanılamıyor"</string>
+  <string name="title_snap_double_confirm">Lütfen yeniden onaylayın</string>
   <string name="toast_burst_snap_finished_end">fotoğraflar</string>
   <string name="toast_burst_snap_finished_start">Seri Çekim</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Ses yakalama açıkken seri çekim yapılamıyor"</string>
   <string name="toast_start_audio_capture">Fotoğrafa bir ses ekle</string>
   <string name="ubi_focus_capture_fail">"Fotoğraf alınamıyor"</string>
-  <string name="ubifocus_capture_warning_message">En iyi sonuç için, resim hem yakın hem de uzak nesneler içermelidir (mercekten 1 metreden az)</string>
+  <string name="ubifocus_capture_warning_message">En iyi sonuç için, resim hem yakın hem de uzak nesneler içermelidir (mercekğe 1 metre az)</string>
   <string name="video_camera_label">Video Kamera</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Boyut sınırına ulaşıldı.</string>
