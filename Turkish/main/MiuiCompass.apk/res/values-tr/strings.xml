@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="altitude">%.1f</string>
+  <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
   <string name="altitude_title">Rakım</string>
   <string name="altitude_uncalibrate_cancel">İptal</string>
   <string name="altitude_uncalibrate_msg">"GPS veya mobil veri bağlantısı olmadan doğru rakımı kalibre edemezsiniz."</string>
