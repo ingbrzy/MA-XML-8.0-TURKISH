@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Taranıyor...</item>
+        <item>Bağlanıyor...</item>
+        <item>Kimlik doğrulanıyor…</item>
+        <item>IP adresi alınıyor…</item>
+        <item>Bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor…</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
+        <item>Engellendi</item>
+        <item>Geçici kötü bağlantıdan kaçınılıyor</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Taranıyor...</item>
+        <item>%1$s için bağlanıyor…</item>
+        <item>%1$ ide doğrulanıyors…</item>
+        <item>%1$s yerinden IP adresi alınıyor…</item>
+        <item> %1$s bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>%1$s bağlantısı kesiliyor…</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
+        <item>Engellendi</item>
+        <item>Geçici kötü bağlantıdan kaçınılıyor</item>
+    </string-array>
     <integer-array name="vibration_torch_on">
         <item>0</item>
         <item>0</item>
