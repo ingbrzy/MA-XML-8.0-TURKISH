@@ -69,6 +69,7 @@
   <string name="album_share_subtitle_requesting">Albüm bilgisi alınıyor...</string>
   <string name="album_share_title_new_album">Yeni albümü paylaş</string>
   <string name="album_show_local_only">Sadece yerel albümleri göster</string>
+  <string name="album_show_local_only_summary">Sadece cihazdaki fotoğrafları silmek ve görüntülemek için açın</string>
   <string name="album_type_baby">Albümü Paylaş</string>
   <string name="album_type_share">Bebek Albümü</string>
   <string name="album_type_system">Sistem Albümü</string>
@@ -79,7 +80,8 @@
   <string name="all_video_album_display_name">Tüm Videolar</string>
   <string name="already_create_baby_album">Bebek albümü zaten Mi Bulut\'ta var.</string>
   <string name="app_name">Galeri</string>
-  <string name="app_name_view_picture">Resmi görüntüle</string>
+  <string name="app_name_view_picture">Resimleri Görüntüle</string>
+  <string name="app_name_view_video">Videoları Görüntüle</string>
   <string name="apply">Uygula</string>
   <string name="aspect_ratio_format" formatted="false">%d:%d</string>
   <string name="aspect_ratio_free">Özel</string>
@@ -146,7 +148,7 @@
   <string name="choose_baby_sexy">Cinsiyet</string>
   <string name="choose_owner_relation">İlişki</string>
   <string name="choose_people">Yüz albümünü seçiniz</string>
-  <string name="choose_some_people">%s yüz albümünü seçin</string>
+  <string name="choose_some_people">%s ile albümü seçin</string>
   <string name="clear_local_photo_direction">"Eğer fotoğraflar ve videoları cihazdan silseniz bile Mi Bulut'ta muhafaza edilirler."</string>
   <string name="click_download_gif">gif indirmek için tıklayın</string>
   <string name="click_top_right">Bu simgeye dokunun</string>
@@ -203,7 +205,8 @@
   <string name="delete_finish_format">%d silindi</string>
   <string name="delete_from_album">Cihazınızın \"%s\" albümündeki</string>
   <string name="delete_from_album_no_account">\"%s\" albüm</string>
-  <string name="delete_from_all_devices">Tüm Cihazlarda</string>
+  <string name="delete_from_all_devices">Tüm cihazlardan</string>
+  <string name="delete_from_all_devices_and_cloud">Tüm cihazlardan ve Mi Buluttan</string>
   <string name="delete_from_cloud">Bulut albümdeki öğeleri sil</string>
   <string name="delete_from_devices">Tüm cihazları otomatik olarak eşitle</string>
   <string name="delete_from_devices_album">Bu albüm tüm cihazlarda otomatik olarak eşitlendi</string>
@@ -222,8 +225,15 @@
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
   <string name="detail_title">Detay Bilgisi</string>
+  <string name="disable_auto_upload_tip">"Yeni ve silinen fotoğraflar Mi Bulut ile eşitlenmez. Bu albüm diğer albümlere taşınacaktır."</string>
+  <string name="disable_auto_upload_title">Mi Bulut ile eşitlemeyi kapat</string>
   <string name="do_not_remind_me">"Tekrar gösterme"</string>
   <string name="doodle">Karalama</string>
+  <string name="doodle_big_size">Büyük</string>
+  <string name="doodle_middle_size">Orta</string>
+  <string name="doodle_mosaic">Mozaik</string>
+  <string name="doodle_small_size">Küçük</string>
+  <string name="doodle_super_big_size">Kocaman</string>
   <string name="download_canceled">İndirme iptal edildi</string>
   <string name="download_retry_message">"Dosyalar indirilemesi, ağ bağlantısını kontrol edip, yeniden deneyin"</string>
   <string name="download_retry_text">Yeniden dene</string>
@@ -234,6 +244,8 @@
   <string name="download_without_wifi_title">Veri Kullanım Uyarısı</string>
   <string name="edit_baby_info">Bebek Bilgilerini Görüntüle</string>
   <string name="email_picker_title">Paylaşılan E-Posta Ekle</string>
+  <string name="enable_auto_upload_tip">Eğer açılırsa bu albüm diğer albümlerden kaldırılır</string>
+  <string name="enable_auto_upload_title">Mi Bulut ile eşitlemeyi aç</string>
   <string name="enable_cloud_for_sharing">Paylaşılan fotoğrafları görüntülemek için Bulut albümlerini açmanız gerekir.</string>
   <string name="enable_face_album_summary">Kişilere göre fotoğrafları otomatik sırala</string>
   <string name="enable_face_album_title">Kişiye Göre Sırala</string>
@@ -327,7 +339,10 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="ignore_album">"Gösterme"</string>
   <string name="ignore_alert_title">"Bu albüm gösterilmesin mi?"</string>
   <string name="ignore_face">Bu kişiyi yoksay</string>
+  <string name="image_decode_failed">"Resim çözülemedi"</string>
   <string name="image_download_item_title">Fotoğrafı indir (%s)</string>
+  <string name="image_invalid_path">Geçersiz yol</string>
+  <string name="image_not_found">"Resim bulunamadı"</string>
   <string name="image_quota_fulfiled">Çok fazla görüntü. Bazı görüntüleri silin ve tekrar deneyin.</string>
   <string name="impunity_declaration_settings">İnternet Bağlantı Bildirimi</string>
   <string name="impunity_declaration_summary">İnternet bağlantısı bildirimi her gösterildiğinde Galeri\'de altyazıları göster</string>
@@ -340,10 +355,14 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="input_or_select_a_name">Bir ad seçin veya girin</string>
   <string name="invalid_invition_url">Geçersiz URL davetiyesi</string>
   <string name="invalid_recipient_message">Girdiğiniz alıcı isimleri geçersiz</string>
+  <string name="invite_send_sms_tip">Operatörünüz bu davetiyeyi göndermek için kullanılan SMS mesajı için ücret alabilir.</string>
+  <string name="invite_sharer_again_confirm_button_text">Yeniden davet et</string>
   <string name="invite_sharer_confirm_button_text">Davet</string>
+  <string name="invite_sharer_phone_number_tip">Telefon numarasını girin</string>
   <string name="invite_sharer_relation_tip">%1$s İlişkili</string>
   <string name="invite_sharer_title">"%1$s'nin %2$s davet et"</string>
   <string name="invite_tip">"Bebeğinizin fotoğraflarınızı paylaşın"</string>
+  <string name="invited_tip">Davetli</string>
   <string name="is">Evet</string>
   <string name="kick_owner_user_positive_button_text">Kaldır</string>
   <string name="kick_owner_user_title">Bu kişi kaldırılsın mı?</string>
@@ -353,6 +372,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">0 &gt; yükseklikte olmalıdır</string>
   <string name="limit_width">0 &gt; genişlikte olmalıdır</string>
+  <string name="loading_dual_tip">İkili resim yükleniyor…</string>
   <string name="loading_fail">"İndirilemedi"</string>
   <string name="loading_fail_sync_off">İndirmek için Mi Bulut ile eşitlemeyi açın</string>
   <string name="loading_fail_sync_off_message">"Fotoğraflar yüklenmedi, Mi Bulut ile eşitleme kapalı."</string>
@@ -448,7 +468,8 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="people_page_label">Kişi</string>
   <string name="people_page_unname">İsimsiz</string>
   <string name="pet_album_display_name">Hayvan Fotoğrafları</string>
-  <string name="petabyteShort">HF</string>
+  <string name="petabyteShort">PB</string>
+  <string name="phone_number_empty_alert">Telefon numarası ekle</string>
   <string name="photo">Fotoğraf</string>
   <string name="photo_edit_file_not_exits_tip">Fotoğrafı düzenlemeden önce indirin</string>
   <string name="photo_editor_saving">Kaydediliyor</string>
@@ -522,12 +543,22 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="scan_barcode_to_join">Albümü eklemek için QR kodunu tarayın</string>
   <string name="scan_qr_code_buttom_text">Bu albümü görmek için QR kodunu tarayın.</string>
   <string name="secret_album_display_name">Gizli Albüm</string>
+  <string name="secret_album_password_update_dialog_cancel">İptal</string>
+  <string name="secret_album_password_update_dialog_msg">Galeri bundan sonra gizlilik korumasının şifresini kullanacak.</string>
+  <string name="secret_album_password_update_dialog_ok">Tamam</string>
+  <string name="secret_album_password_update_dialog_title">Şifreyi güncelle</string>
+  <string name="secret_album_set_pc_password_dialog_msg">Gizlilik koruma şifresi; uygulamalar, fotoğraflar, notlar, gizli klasörler vb için çalışır.</string>
+  <string name="secret_album_set_pc_password_dialog_ok">Şifre Ayarla</string>
+  <string name="secret_album_set_pc_password_dialog_title">Yeni bir şifre ayarla</string>
+  <string name="secret_album_set_pc_password_first_use_msg">Gizlilik koruması şifre kullanılacak. Bu uygulamalar, fotoğraflar, notlar, gizli klasörler vb. gibi işler için kullanılır.</string>
+  <string name="secret_album_set_pc_password_first_use_title">Gizlilik koruma şifresi</string>
   <string name="secret_reason_space_full">Bulut albümleri doldu</string>
   <string name="secret_reason_too_large">Dosya çok büyük</string>
   <string name="secret_reason_type_not_support">"Bu dosya türü desteklenmiyor"</string>
   <string name="secret_reason_unknow_reasons">Bilinmeyen hata</string>
   <string name="select_item_face">"'%s' bu mu?"</string>
   <string name="select_origin_tip">Orjinal Dosya (%s)</string>
+  <string name="send_invitation_fail">"Davet gönderilemedi"</string>
   <string name="send_multiple_files_hint_format">Gönder (%s)</string>
   <string name="send_public_url">Albüm URL\'sini gönder</string>
   <string name="send_too_many_files_error">"Birçok öğe gönderilemiyor (azami %d öğe)."</string>
@@ -646,6 +677,8 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="video_editor_filter_sunny">Güneşli</string>
   <string name="video_editor_invalid_trim_arguments">Bir saniyeden uzun olmalı</string>
   <string name="video_editor_loading_plugin">Yükleniyor…</string>
+  <string name="video_editor_loading_warning_msg">"Kodlama hatası nedeniyle, bazı özellikler ve önizleme; düzenleme işlemi esnasında çalışmayabilir. Böyle olması video dosyasını etkilemez."</string>
+  <string name="video_editor_loading_warning_title">Kodlama Hatası</string>
   <string name="video_editor_more">Gelişmiş</string>
   <string name="video_editor_not_support_tips">"Video dosyaları desteklenmiyor"</string>
   <string name="video_editor_ok">Tamam</string>
@@ -681,5 +714,5 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="who_is_this">Kim?</string>
   <string name="xiaomi_account_not_exists_toast">"Mi Hesabı yok"</string>
   <string name="yes">Evet</string>
-  <string name="you_are">"Bebeğinizin "</string>
+  <string name="you_are">"Bebeğiniz: "</string>
 </resources>
