@@ -23,6 +23,7 @@
   <string name="action_settings">Ayarlar</string>
   <string name="ad_close">Kapat</string>
   <string name="ad_extension">Reklam</string>
+  <string name="ad_mark">REKLAM</string>
   <string name="add_music">Şarkı ekle</string>
   <string name="add_to_last_of_playlist">Çalma listesinin sonuna ekle.</string>
   <string name="alaka_required">"Bu şarkı mevcut değildir."</string>
@@ -200,6 +201,7 @@
   <string name="download_done_btn">İndirildi</string>
   <string name="download_error">Başarısız</string>
   <string name="download_error_insufficient_space">Yetersiz alan</string>
+  <string name="download_fail_to_fetch_info">"İndirilemedi, tekrar deneyin"</string>
   <string name="download_filesize_unknown">Bilinmiyor</string>
   <string name="download_in_process">İNDİRİLİYOR</string>
   <string name="download_info_count_deleted_tasks">%s indirilen kaldırıldı</string>
@@ -363,6 +365,7 @@
   <string name="list_item_play_FM_radio">FM radyo oynatmak için dokunun</string>
   <string name="list_item_play_all_tracks">Tümünü Oynat</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
+  <string name="loadercontainer_loading">Biraz bekleyin…</string>
   <string name="loading_hint">Biraz bekleyin...</string>
   <string name="local_music">Çevrimdışı</string>
   <string name="local_music_empty">Yerel çalma listesi boş</string>
@@ -455,6 +458,7 @@
   <string name="nav_online_billboard">Popüler</string>
   <string name="nav_online_fm">Radyo</string>
   <string name="nav_online_playlist">Çalma Listesi</string>
+  <string name="network_error_and_retry">"Bağlanamadı, dokunup yeniden deneyin"</string>
   <string name="network_failure">Ağ bağlantısını kontrol edin ve tekrar deneyin!</string>
   <string name="network_request_error">"Ağa bağlanamıyor"</string>
   <string name="network_settings_error">"Ağa bağlanamıyor"</string>
@@ -664,6 +668,7 @@
   <string name="share_chooser_title">Paylaş</string>
   <string name="share_description">Mi Müzik Sunar</string>
   <string name="share_end_note">Mi Müzik Sunar</string>
+  <string name="share_image_error">İndirilen resmin hatalı olmasından dolayı resim paylaşılamadı</string>
   <string name="share_text_list">"Mi Müzik Çalma Listesi: "</string>
   <string name="share_text_song">"Mi Müzikteki Şarkı: "</string>
   <string name="show_more">%s göster</string>
@@ -714,6 +719,19 @@
   <string name="tab_track">Şarkılar</string>
   <string name="tab_track_list">Şarkılar</string>
   <string name="take_effect_afater_restart">Bu ayarın etkili olması için Müzik uygulamasını yeniden başlatmanız gerekir.</string>
+  <string name="talkback_back">Geri dön</string>
+  <string name="talkback_device">Diğer cihazlarda oynat</string>
+  <string name="talkback_download">İndir</string>
+  <string name="talkback_favorite">Bu şarkıyı beğen</string>
+  <string name="talkback_mode">Listeyi tekrarla</string>
+  <string name="talkback_more">Diğer Menüler</string>
+  <string name="talkback_next">Sonraki şarkı</string>
+  <string name="talkback_play">Oynat / Durdur</string>
+  <string name="talkback_pre">Önceki şarkı</string>
+  <string name="talkback_progress">Durum Çubuğu</string>
+  <string name="talkback_radar">Müzik tanımlaması</string>
+  <string name="talkback_search">Ara</string>
+  <string name="talkback_share">Paylaş</string>
   <string name="task_already_exist">Görev zaten var</string>
   <string name="ticket_summary">Gösterileri, konserler, tiyatro ve diğer etkinlikler için bilet satın al</string>
   <string name="ticket_title">Biletleri Göster</string>
@@ -731,6 +749,7 @@
   <string name="toast_cancel_download">İndirme işlemi iptal edildi</string>
   <string name="toast_cancel_play">Oynatma iptal edildi</string>
   <string name="toast_download_error_by_count_limit">Bu ay için indirme kotanız kadar kullanmış.</string>
+  <string name="toast_download_error_by_not_login">Mi Hesabına oturum açıp, yeniden deneyin.</string>
   <string name="toast_download_error_by_vip_required">Bu şarkıyı Ayrıcalıklı Şarkı Paketinden al.</string>
   <string name="toast_download_in_process">İndirme durumu</string>
   <string name="toast_normal_songs_for_download">Standart kalite ayarında indiriliyor</string>
