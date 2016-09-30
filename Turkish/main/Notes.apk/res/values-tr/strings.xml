@@ -10,6 +10,7 @@
   <string name="alert_message_edit_anyway">Bu notu düzenlerseniz, içeriğinin bazıları kaybedilebilir.</string>
   <string name="alert_title_delete">Bu notu silmek istiyor musunuz?</string>
   <string name="alert_title_edit_anyway">Bu not desteklenmeyen içerikleri ihtiva eder</string>
+  <string name="alert_title_hidden_note">Gizli not hatırlatıcısı alındı</string>
   <string name="all_folder_name">Tüm notlar</string>
   <string name="all_terms">%1$s ve %2$s</string>
   <string name="app_name">Notlar</string>
@@ -22,17 +23,27 @@
   <string name="call_record_folder_name">Çağrı Notları</string>
   <string name="default_folder_name">Adsız klasör</string>
   <string name="delete_folder_dialog_tile">Dizini sil</string>
+  <string name="dlg_btn_set_password">Şifreyi ayarla</string>
   <string name="dlg_check_reminder">"Tekrar gösterme"</string>
   <string name="dlg_delete_message">Siliniyor...</string>
   <string name="dlg_desc_confirm_alarm_silent">Zil susturulduğunda faal alarmlar çalmaz.</string>
   <string name="dlg_hide_message">Gizleniyor…</string>
   <string name="dlg_info_creating_message">Mesaj oluşturuluyor...</string>
+  <string name="dlg_message_password_reset">"Gizli notların şifresi; uygulamalar, fotoğraflar ve gizli klasörler için çalışır. Gizlilik koruması şifre ile değiştirilecek"</string>
+  <string name="dlg_message_set_password">Gizlilik koruması şifresi; uygulamalar, fotoğraf ve gizli klasörler için çalışıyor</string>
+  <string name="dlg_message_use_privacy_password">Gizlilik koruması şifresini kullanın. Bu uygulamalar, fotoğraflar ve gizli klasörler için çalışır</string>
   <string name="dlg_move_message">Taşınıyor…</string>
   <string name="dlg_privacy_message">Gizleniyor…</string>
   <string name="dlg_quick_delete_title">Hızlı Sil</string>
   <string name="dlg_restore_message">Geri yükleniyor...</string>
   <string name="dlg_stick_message">İğneleniyor…</string>
   <string name="dlg_title_confirm_alarm_silent">Sessiz alarmlar</string>
+  <string name="dlg_title_password_reset">Şifrenizi güncelleyin</string>
+  <string name="dlg_title_set_password">Şifreyi ayarla</string>
+  <string name="dlg_title_use_privacy_password">Gizlilik koruması şifresini kullanın</string>
+  <string name="dlg_title_password_reset">Parolanızı yükseltin</string>
+  <string name="dlg_title_set_password">Şifreyi ayarla</string>
+  <string name="dlg_title_use_privacy_password">Gizlilik koruması şifresini kullanın</string>
   <string name="dlg_unhide_message">Gizlilik açılıyor...</string>
   <string name="dlg_unmark_privacy_message">Gizlilik açılıyor…</string>
   <string name="empty_folder_hint">"Dizin yok
@@ -45,6 +56,8 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="error_note_empty_for_clock">"Boş bir not için hatırlatıcı saatini ayarlanamaz"</string>
   <string name="error_note_empty_for_send_to_desktop">"Boş notlar Ana Ekran\'da yeralmaz"</string>
   <string name="error_note_not_exist">"Not yok"</string>
+  <string name="error_send_empty_note">"Boş bir not gönderemezsiniz"</string>
+  <string name="error_send_empty_note_to_weibo">"Weibo boş bir not gönderemezsiniz"</string>
   <string name="error_unsupport_content">Bu not desteklenmeyen içerik ihtiva ettiğinden, güncellemek için buraya dokunun</string>
   <string name="error_widget_exist_for_send_to_desktop">Bu not zaten Ana Ekranda </string>
   <string name="folder_exist">Aynı isimde bir klasör zaten var</string>
@@ -52,6 +65,7 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="format_move_notes_out_folder">%1$s taşındı</string>
   <string name="format_move_notes_to_folder">%1$d notu %2$s klasörüne taşındı</string>
   <string name="hidden_notes_fragment_title">Gizli Notlar</string>
+  <string name="hint_cannot_view_hidden_note_content">"Gizli notlar içeriğini görüntülemezsiniz"</string>
   <string name="hint_foler_name">Adı</string>
   <string name="info_note_enter_desktop">Ana Ekrana eklendi</string>
   <string name="loading_text">Biraz bekleyin...</string>
@@ -64,6 +78,7 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="menu_mark_privacy">Gizle</string>
   <string name="menu_move_parent_folder">Ana klasör</string>
   <string name="menu_move_to">Taşı</string>
+  <string name="menu_new_folder">Yeni Dizin</string>
   <string name="menu_restore">Geri Yükle</string>
   <string name="menu_send_as_image">Resim olarak gönder</string>
   <string name="menu_send_as_text">Metin olarak gönder</string>
@@ -171,6 +186,6 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   - Mi Bulut ile eşitle 
   - Hatırlatıcı Ayarları"</string>
   <string name="widget_content_loading">Biraz bekleyin...</string>
-  <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Yeniden boyutlandırmak için Widget\'e basılı tutun.</string>
+  <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Yeniden boyutlandırmak için Araca basılı tutun.</string>
   <string name="widget_under_privacy_mode">"Misafir Modunda notları görüntüleyemezsiniz"</string>
 </resources>
