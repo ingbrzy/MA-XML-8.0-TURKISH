@@ -135,7 +135,7 @@
   <string name="download_is_in_tasklist">Sıraya Alındı</string>
   <string name="download_paused">Durdu</string>
   <string name="download_percent_hint">%%%d indiriliyor</string>
-  <string name="download_progress_0p">0%</string>
+  <string name="download_progress_0p">%0</string>
   <string name="download_queue">Bilgi alınıyor...</string>
   <string name="download_running">Çalışıyor...</string>
   <string name="download_start_message">%1$s bileşeni indirildikten sonra yüklensin mi?</string>
@@ -415,7 +415,7 @@
   <string name="vp_VideoView_error_text_unknown">Tanımlanamayan bir hata oluştu.</string>
   <string name="vp_VideoView_error_title">Bilinmeyen hata</string>
   <string name="vp_ad_countdown_m_s">%1$d dakika %2$s saniye atla</string>
-  <string name="vp_ad_countdown_s">AD %1$s</string>
+  <string name="vp_ad_countdown_s">Reklam %1$s</string>
   <string name="vp_ad_skip">Atla</string>
   <string name="vp_ad_skip_at">%1$d sonra atla</string>
   <string name="vp_adapt_height">Yüksekliğe sığdır</string>
