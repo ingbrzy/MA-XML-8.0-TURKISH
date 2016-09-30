@@ -353,6 +353,7 @@
   <string name="no">İptal</string>
   <string name="no_block_button_msg">Engeli kaldır</string>
   <string name="no_conversations">Görüşme yok</string>
+  <string name="no_delivery_report">Teslimat raporu yok</string>
   <string name="no_subject">(Konu yok)</string>
   <string name="no_subject_view">(Konu yok)</string>
   <string name="non_english_subject_limit">13 karakter limiti</string>
@@ -389,6 +390,7 @@
   <string name="pref_show_blocked_messages_summary">Engellenen SMS konuşmalar listesinde göster</string>
   <string name="pref_show_sms_template_in_summary">Bir kez kullanılan parolaların SMS mesajlarını otomatik olarak algıla</string>
   <string name="pref_show_sms_template_summary">Doğrulama kodlarını otomatik kopyala ve doldur</string>
+  <string name="pref_smart_messages_settings">Akıllı mesajlar</string>
   <string name="pref_sms_theme_title">Görüntüle</string>
   <string name="pref_summary_allow_si_sl_push">Mesajların web sitelerinden içerik yüklemesine izin verir</string>
   <string name="pref_summary_delete_limit">%1$s görüşme başına mesaj</string>
@@ -444,6 +446,14 @@
   <string name="priority_low">Düşük</string>
   <string name="priority_normal">Normal</string>
   <string name="privacy_mode_hint">"Misafir Modunda mesaj gönderilemez"</string>
+  <string name="privacy_password_message1">Gizlilik koruması şifre uygulamalar, fotoğraflar, notlar ve gizli klasörler için çalışıyor.</string>
+  <string name="privacy_password_message2">Gizlilik koruması şifresini kullanın. Bu uygulamalar, fotoğraflar, notlar ve gizli klasörler için çalışıyor.</string>
+  <string name="privacy_password_message3">"Özel mesajlaşma şifresi uygulamalar, fotoğraflar, notlar ve gizli klasörler için çalışıyor Gizlilik koruması şifre ile değiştirilecek."</string>
+  <string name="privacy_password_set_password">Ayarlar</string>
+  <string name="privacy_password_title1">Şifreyi Ayarla</string>
+  <string name="privacy_password_title2">Gizlilik koruması şifresini kullanın</string>
+  <string name="privacy_password_title3">Parolanızı yükseltin</string>
+  <string name="privacy_password_title4">Şifre yükseltildi</string>
   <string name="private_message">Özel mesajlar</string>
   <string name="private_new_notification">Mesaj bildirimleri</string>
   <string name="private_protect">Şifreler</string>
@@ -539,6 +549,7 @@
   <string name="set">Ayarla</string>
   <string name="share_img">Paylaş</string>
   <string name="show_all_messages">Tüm mesajları görüntüle</string>
+  <string name="show_delivery_status">Teslimat durumunu göster</string>
   <string name="show_sender">Gönderici bilgisini göster</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
