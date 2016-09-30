@@ -29,6 +29,10 @@
   <string name="inbound_me_profile_text">Bu kişiyi rehbere eklemek için dokunun.</string>
   <string name="inbound_me_profile_title">NFC üzerinden kişi alındı</string>
   <string name="nfcUserLabel">NFC</string>
+  <string name="nfc_enabled_dialog">"NFC şu an devre dışı. 
+NFC Hizmetini etkinleştirmek istiyormusunuz?"</string>
+  <string name="no">HAYIR</string>
+  <string name="ok">TAMAM</string>
   <string name="outbound_me_profile_text">Bu kişinin bilgilerinizi vermek için dokunun.</string>
   <string name="outbound_me_profile_title">NFC etkileşimi tamamlandı</string>
   <string name="pair_no">Hayır</string>
@@ -36,6 +40,8 @@
   <string name="pairing_peripheral">%1$s eşleniyor</string>
   <string name="pairing_peripheral_failed">%1$s eşlenmedi</string>
   <string name="pay_with">Öde:</string>
+  <string name="permdesc_nfcReceiveEvent">Uygulama yapılan NFC işlem hakkında bilgi almak için izin verir</string>
+  <string name="permlab_nfcReceiveEvent">NFC İşlem bilinci</string>
   <string name="prompt_connect_to_network">C%1$s ağına bağlansın mı?</string>
   <string name="status_unable_to_connect">Ağa bağlanamadı</string>
   <string name="status_wifi_connected">Bağlandı</string>
