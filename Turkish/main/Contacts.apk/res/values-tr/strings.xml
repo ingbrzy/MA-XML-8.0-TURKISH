@@ -167,7 +167,6 @@
   <string name="clearCallLogConfirmation">Tüm çağrı geçmişiniz silinecek.</string>
   <string name="check_unsynchronized_accounts">Hesapları eşitlemek için hatırlat</string>
   <string name="checkhint">Hedef cihazı denetle</string>
-  <string name="clearCallLogConfirmation">Tüm arama kayıtları silinecek.</string>
   <string name="childrens_day">Çocuklar Günü</string>
   <string name="chinese_youth_day">Gençlik Günü</string>
   <string name="christmas_day">Yeni Yıl</string>
@@ -488,7 +487,7 @@ Sebep: \"%s\""</string>
   <string name="favoritesFrequentContacted">Sık Görüşülen</string>
   <string name="favorites_list_empty">Favori yok</string>
   <string name="fools_day">Aptallar Günü</string>
-  <string name="foundTooManyContacts">%d fazla bulundu.</string>
+  <string name="foundTooManyContacts">%d fazla kişi bulundu.</string>
   <string name="fraud_more_indemnity">Fazlası</string>
   <string name="frequency_none">Asla</string>
   <string name="frequency_three_days">Her 3 günde</string>
@@ -497,8 +496,6 @@ Sebep: \"%s\""</string>
   <string name="followed_yellowpage">Onaylı Kişiler</string>
   <string name="force_touch_miprofile">Kişi Kartı</string>
   <string name="force_touch_new_contact">Yeni Kişi</string>
-  <string name="foundTooManyContacts">%d fazlası bulundu.</string>
-  <string name="fraud_more_indemnity">Fazlası</string>
   <string name="frequentList">Çok Arananlar</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Adı</string>
@@ -962,7 +959,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="path_simple_mode">Sistem Uygulamaları/Kişiler/Fotoğraf ve Bilgiyi Göster</string>
   <string name="path_smart_group_title">Sistem Uygulamaları/Kişiler/Kişileri Göster/Akıllı Gruplar</string>
   <string name="path_wipe_data">Sistem Uygulamaları/Kişiler/Kişileri Düzenle/Veriyi Temizle</string>
-  <string name="payphone">Ödemeli Telefon</string>
   <string name="people">Kişiler</string>
   <string name="percent_sign">%</string>
   <string name="percentage">%%%s</string>
@@ -1080,17 +1076,12 @@ Favorilerinize bir kişi eklemek için:
   <string name="quit_dialog_confirm_message">"Birleştirilecek kişiniz yok"</string>
   <string name="rcs_account_type_title">Birleşik İletişim Hesabı</string>
   <string name="rcs_contact_detail_profile_binded_label">Mevcut kartvizitler birleştirildi</string>
-  <string name="rcs_fetion_not_exist">无法找到飞信插件</string>
   <string name="rcs_group_chat_name">Grup Sohbeti</string>
-   <string name="rcs_account_type_title">Fetion account</string>
-  <string name="rcs_contact_detail_profile_binded_label">Current Fetion account</string>
-  <string name="rcs_fetion_not_exist">"Can't find Fetion plug-in"</string>
-  <string name="rcs_group_chat_name">Grup Sohbeti</string>
+  <string name="rcs_fetion_not_exist">"Birleştirme Eklentisi Bulunamadı"</string>
   <string name="rcs_profile_name">Benim kartvizitim</string>
   <string name="rcs_profile_name_photo">Ben</string>
   <string name="progress_notifier_message" formatted="false">%s/%s aktarılıyor: %s</string>
   <string name="quickcontact_missing_app">Bu eylemi gerçekleştirecek uygulama yok</string>
-  <string name="quit_dialog_confirm_message">"Birleştirilecek kişi yok"</string>
   <string name="quit_dialog_confirm_title">"Herhangi kişi birleştirilmedi"</string>
   <string name="rcs_recipient_type_contact">Kişiye gönder</string>
   <string name="rcs_recipient_type_group">Gruba gönder</string>
@@ -1167,13 +1158,11 @@ Favorilerinize bir kişi eklemek için:
   <string name="search_remove_duplicate">Düzenle;Kişiler</string>
   <string name="search_results_searching">Aranıyor...</string>
   <string name="search_settings_description">Kişilerin Adları</string>
-  <string name="searching_vcard_message">SD Karttaki vCard verisi aranıyor…</string>
   <string name="search_share_visible_contacts">Kişiler;Paylaş;Görünür</string>
   <string name="search_sim_capacity">Kişiler</string>
   <string name="search_simple_mode">Görüntüle;Bilgi;Fotoğraf;Kişiler</string>
   <string name="search_smart_group_title">Kişiler;Görüntüle</string>
   <string name="search_wipe_data">Düzenle;Kişiler</string>
-  <string name="select_all">Hepsi</string>
   <string name="select_device">Cihazı seçin</string>
   <string name="searching_vcard_message">SD kartta vCard verileri aranıyor…</string>
   <string name="select_all">Tümü</string>
