@@ -38,7 +38,7 @@
   <string name="anniversary_of_lifting_martial_law">Sıkıyönetim Anma Günü</string>
   <string name="anti_aggression_day">Japon Saldırı Günü</string>
   <string name="antispam_mark_my_contribution">Raporladığım bu numarayı diğer kullanıcılara göster.</string>
-  <string name="antispam_provider_format">%s tarafından belirlendi</string>
+  <string name="antispam_provider_format">%s spam olarak bildirildi.</string>
   <string name="arbor_day">Ağaç Dikme Günü</string>
   <string name="armed_forces_day">Silahlı Kuvvetler Günü</string>
   <string name="attach_photo_dialog_title">Kişi Resmi</string>
@@ -69,7 +69,6 @@
   <string name="call_assistant">Ara: %s</string>
   <string name="call_callback">Çağrıyı Geri Ara</string>
   <string name="call_car">Otomobili Ara</string>
-  <string name="call_charge">Kontör</string>
   <string name="call_company_main">Şirket Ana Hattını Ara</string>
   <string name="call_custom">Ara: %s</string>
   <string name="call_disambig_title">Numarayı Seç</string>
@@ -77,7 +76,6 @@
   <string name="call_fax_work">İş Faksını Ara</string>
   <string name="call_home">Evi Ara</string>
   <string name="call_isdn">ISDN\'i Ara</string>
-  <string name="call_left">Telefon dengesi</string>
   <string name="call_log_empty_gecode">-</string>
   <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Yeni</string>
@@ -85,12 +83,9 @@
   <string name="call_main">Ana Numarayı Ara</string>
   <string name="call_mms">MMS\'i Ara</string>
   <string name="call_mobile">Mobili Ara</string>
-  <string name="call_not_found"> --</string>
-  <string name="call_operator_init">Operatörü Ayarla</string>
   <string name="call_other">Ara</string>
   <string name="call_other_fax">Faksı Ara</string>
   <string name="call_pager">Çağrı Cihazını Ara</string>
-  <string name="call_problem_report">Bir sorun bildir</string>
   <string name="call_radio">Radyoyu Ara</string>
   <string name="call_record_setting_miui">Çağrı Kayıt Ayarları</string>
   <string name="call_settings">Ayarlar</string>
@@ -99,7 +94,6 @@
   <string name="call_telex">Teleksi Ara</string>
   <string name="call_tty_tdd">TTY/TDD\'yi Ara</string>
   <string name="call_type_and_date">%1$s %2$s</string>
-  <string name="call_unit">USD</string>
   <string name="call_work">İşi Ara</string>
   <string name="call_work_mobile">İş Telefonunu Ara</string>
   <string name="call_work_pager">İş Çağrı Cihazını Ara</string>
@@ -167,7 +161,6 @@
   <string name="clearCallLogConfirmation">Tüm çağrı geçmişiniz silinecek.</string>
   <string name="check_unsynchronized_accounts">Hesapları eşitlemek için hatırlat</string>
   <string name="checkhint">Hedef cihazı denetle</string>
-  <string name="clearCallLogConfirmation">Tüm arama kayıtları silinecek.</string>
   <string name="childrens_day">Çocuklar Günü</string>
   <string name="chinese_youth_day">Gençlik Günü</string>
   <string name="christmas_day">Yeni Yıl</string>
@@ -264,7 +257,7 @@ Kartvizitler kapalı"</string>
   <string name="contact_pick_photo">Fotoğraf</string>
   <string name="contact_read_only">Bu uygulama ile düzenlenemez.</string>
   <string name="contact_status_update_attribution">%1$s ile</string>
-  <string name="contact_status_update_attribution_with_date">%1$s yoluyla %2$s</string>
+  <string name="contact_status_update_attribution_with_date">%1$s ile %2$s</string>
   <string name="contact_unfavorite_toast">Kişi favori listesinden kaldırıldı</string>
   <string name="contactsAllLabel">Kişiler</string>
   <string name="contactsFavoritesLabel">Favoriler</string>
@@ -291,10 +284,9 @@ Kartvizitler kapalı"</string>
   <string name="data_already_used">Kullanılan Veri</string>
   <string name="data_charge">Kontör Mobil Verisi</string>
   <string name="data_left">Kalan Veri</string>
-  <string name="data_unit_gb">GB</string>
-  <string name="data_unit_mb">MB</string>
+  <string name="data_unit">MB</string>
   <string name="date_picker_label">3 gün öncesinden ve günü gelince bana hatırlat</string>
-  <string name="date_time_set">Ayarla</string>
+  <string name="date_time_set">Seç</string>
   <string name="date_year_toggle">Bir Yıl Gir</string>
   <string name="default_ringtone">Varsayılan Zil Sesi</string>
   <string name="deleteConfirmation">Bu kişi silinecek!</string>
@@ -458,7 +450,6 @@ Kartvizitler kapalı"</string>
   <string name="export_to_sim">SIM karta aktar</string>
   <string name="export_to_sim1">SIM Kart 1\'e Aktar</string>
   <string name="export_to_sim2">SIM Kart 2\'ye Aktar</string>
-  <string name="export_to_sim_prepare_title">Hazırlanıyor...</string>
   <string name="export_to_sim_title">Aktarılıyor…</string>
   <string name="export_to_storage">Depolamaya Aktar</string>
   <string name="export_vcard_description">vCard dosyasından SD Karta aktar</string>
@@ -497,8 +488,6 @@ Sebep: \"%s\""</string>
   <string name="followed_yellowpage">Onaylı Kişiler</string>
   <string name="force_touch_miprofile">Kişi Kartı</string>
   <string name="force_touch_new_contact">Yeni Kişi</string>
-  <string name="foundTooManyContacts">%d fazlası bulundu.</string>
-  <string name="fraud_more_indemnity">Fazlası</string>
   <string name="frequentList">Çok Arananlar</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Adı</string>
@@ -679,7 +668,7 @@ Sebep: \"%s\""</string>
   <string name="map_other">Adresleri Görüntüle</string>
   <string name="map_work">İş adresini görüntüle</string>
   <string name="meid">"MEID : "</string>
-  <string name="meid_invalid">Geçersiz MEID</string>
+  <string name="meid_invalid">MEID geçersiz</string>
   <string name="menuMoreDescription">Fazlası</string>
   <string name="menu_accounts">Hesaplar</string>
   <string name="menu_addStar">Favoriye Ekle</string>
@@ -962,7 +951,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="path_simple_mode">Sistem Uygulamaları/Kişiler/Fotoğraf ve Bilgiyi Göster</string>
   <string name="path_smart_group_title">Sistem Uygulamaları/Kişiler/Kişileri Göster/Akıllı Gruplar</string>
   <string name="path_wipe_data">Sistem Uygulamaları/Kişiler/Kişileri Düzenle/Veriyi Temizle</string>
-  <string name="payphone">Ödemeli Telefon</string>
   <string name="people">Kişiler</string>
   <string name="percent_sign">%</string>
   <string name="percentage">%%%s</string>
@@ -1082,15 +1070,10 @@ Favorilerinize bir kişi eklemek için:
   <string name="rcs_contact_detail_profile_binded_label">Mevcut kartvizitler birleştirildi</string>
   <string name="rcs_fetion_not_exist">无法找到飞信插件</string>
   <string name="rcs_group_chat_name">Grup Sohbeti</string>
-   <string name="rcs_account_type_title">Fetion account</string>
-  <string name="rcs_contact_detail_profile_binded_label">Current Fetion account</string>
-  <string name="rcs_fetion_not_exist">"Can't find Fetion plug-in"</string>
-  <string name="rcs_group_chat_name">Grup Sohbeti</string>
   <string name="rcs_profile_name">Benim kartvizitim</string>
   <string name="rcs_profile_name_photo">Ben</string>
   <string name="progress_notifier_message" formatted="false">%s/%s aktarılıyor: %s</string>
   <string name="quickcontact_missing_app">Bu eylemi gerçekleştirecek uygulama yok</string>
-  <string name="quit_dialog_confirm_message">"Birleştirilecek kişi yok"</string>
   <string name="quit_dialog_confirm_title">"Herhangi kişi birleştirilmedi"</string>
   <string name="rcs_recipient_type_contact">Kişiye gönder</string>
   <string name="rcs_recipient_type_group">Gruba gönder</string>
@@ -1159,7 +1142,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="search_import_from_other_phone">Kişiler;Aktar;Diğer Telefon</string>
   <string name="search_import_from_sdcard">Kişiler;Aktar;Depolama</string>
   <string name="search_import_from_sim">Kişiler;Aktar;SIM Kart</string>
-  <string name="search_input_hint">Telefon numarasını veya hizmetleri arayabilirsin</string>
   <string name="search_key_photo_word">Düzenle;Kişiler;Fotoğraflar;Kişiler</string>
   <string name="search_key_rebuild_t9_index_title">Düzenle;Kişiler;t9</string>
   <string name="search_key_sim_manage">Düzenle;Kişiler</string>
@@ -1175,8 +1157,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="search_wipe_data">Düzenle;Kişiler</string>
   <string name="select_all">Hepsi</string>
   <string name="select_device">Cihazı seçin</string>
-  <string name="searching_vcard_message">SD kartta vCard verileri aranıyor…</string>
-  <string name="select_all">Tümü</string>
   <string name="select_groups">Grubu seçin</string>
   <string name="select_new_photo_from_photo_package">Dizine gözat</string>
   <string name="select_done">Daha fazla seçmeyin</string>
@@ -1323,7 +1303,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="toast_making_personal_copy">Şahsi kopya oluşturuluyor…</string>
   <string name="toast_text_copied">Kopyalandı</string>
   <string name="today">Bugün</string>
-  <string name="transfer_accounts">Hesapları transfer et</string>
   <string name="tw_childrens_day">Çocuklar Günü</string>
   <string name="tw_youth_day">Gençlik Günü</string>
   <string name="type_incoming">Gelen Arama</string>
@@ -1393,9 +1372,6 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="wipe_data">Veriyi Temizle</string>
   <string name="yellowPageNavigationIconLabel">Sarı Sayfalar</string>
   <string name="yellowPageNavigationLabel">Sarı Sayfalar</string>
-  <string name="yellowpage_navigation_ad_hint">Reklam</string>
-  <string name="yellowpage_navigation_balance_refresh_failed">"Denge ve veri doğrulanamadı, daha sonra tekrar deneyin."</string>
-  <string name="yellowpage_navigation_balance_refresh_succeed">Denge ve veri doğrulanmış</string>
   <string name="yellowpage_navigation_clear_search_history">Geçmişi Temizle</string>
   <string name="yellowpage_navigation_more_items">Fazlası</string>
   <string name="yellowpage_navigation_more_items_title">Diğer Servisler</string>
