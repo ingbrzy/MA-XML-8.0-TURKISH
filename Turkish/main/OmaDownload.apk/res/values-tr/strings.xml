@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="cancel">İptal</string>
+  <string name="cannot_download">SD kart olmadan dd dosyası indirilemez</string>
+  <string name="description">Açıklama:</string>
+  <string name="download">İndir</string>
+  <string name="download_complete">İndirme tamam</string>
+  <string name="download_info">İndirme Bilgisi</string>
+  <string name="download_sucessful">Başarıyla indirildi</string>
+  <string name="filename">Dosya adı:</string>
+  <string name="filesize">Dosya boyutu:</string>
+  <string name="filetype">Dosya tipi:</string>
+  <string name="filevendor">Dosya Sağlayıcısı:</string>
+  <string name="invalid_dd">Geçersiz tanımlayıcı dosyası</string>
+  <string name="invalid_version">Geçersiz sürüm</string>
+  <string name="mimemismatch">Mime türü uyuşmazlığı</string>
+  <string name="next_page">Sonraki sayfa</string>
+  <string name="nonacceptable">Kabul edilemez içerik</string>
+  <string name="server_error">Sunucu hatası!</string>
+</resources>
