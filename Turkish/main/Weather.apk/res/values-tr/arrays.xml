@@ -34,23 +34,6 @@
         <item>HKE %1$s</item>
         <item>HKE %1$s</item>
     </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
     </string-array><string-array name="weather_type">
         <item>Güneşli</item>
         <item>Bulutlu</item>
@@ -102,21 +85,6 @@
         <item>GB</item>
         <item>B</item>
         <item>KB</item>
-    </string-array>
-    <string-array name="wind_power">
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
     </string-array>
     <string-array name="aqi_value">
         <item>İyi</item>

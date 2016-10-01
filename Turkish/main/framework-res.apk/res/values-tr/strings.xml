@@ -164,7 +164,6 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="data_usage_warning_title">Veri kullanım uyarısı</string>
   <string name="data_usage_wifi_limit_snoozed_title">Kablosuz veri limiti aşıldı</string>
   <string name="data_usage_wifi_limit_title">Kablosuz veri sınırına ulaşıldı</string>
-  <string name="date_and_time" formatted="false">%d %b %Y %H:%M:%S</string>
   <string name="date_picker_decrement_day_button">Günü azalt</string>
   <string name="date_picker_decrement_month_button">Ayı azalt</string>
   <string name="date_picker_decrement_year_button">Yılı azalt</string>
@@ -685,7 +684,6 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="mmiComplete">MMI tamamlandı.</string>
   <string name="mmiError">Bağlantı sorunu veya geçersiz MMI kodu.</string>
   <string name="mmiFdnError">İşlem sadece sabit arama numaralarıyla sınırlandırılmıştır.</string>
-  <string name="month_day_year" formatted="false">%d %B %Y</string>
   <string name="more_item_label">Diğer</string>
   <string name="muted_by">%1$s tarafından kapatıldı</string>
   <string name="needPuk">SIM kartınızın PUK kilidi devrede. Kilidi açmak için PUK kodunu yazın.</string>

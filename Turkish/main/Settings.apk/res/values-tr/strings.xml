@@ -428,7 +428,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="battery_msg_unaccounted">Pil kullanımında yaklaşık güç durumu esas alınır ve değerler farklılıklar gösterebilir. Özellikle farklı hesaplar farklı sonuçlar çıkartabilir. Yani esas güç ile gözlemlenen güç arasında farklılıklar olabilir.</string>
   <string name="battery_saver">Pil Tasarrufu</string>
   <string name="battery_saver_turn_on_automatically_never">Asla</string>
-  <string name="battery_saver_turn_on_automatically_pct">%%%1$d pilde</string>
+  <string name="battery_saver_turn_on_automatically_pct">at %1$s battery</string>
   <string name="battery_saver_turn_on_automatically_title">Otomatik aç</string>
   <string name="battery_settings">Pil</string>
   <string name="battery_settings_title">Pil Ayarları</string>

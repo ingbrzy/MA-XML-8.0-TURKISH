@@ -191,12 +191,6 @@
   <string name="composer_failed_to_get_database_infomation">Veritabanı bilgisi alınamıyor.</string>
   <string name="composer_has_no_exportable_contact">Dışa aktarılabilecek kişi bulunmamaktadır. Telefonunuzda kişileriniz varsa, bazı veri sağlayıcıları kişilerin, telefondan dışa aktarılmasına izin vermiyor olabilir.</string>
   <string name="composer_not_initialized">"vCard oluşturucu düzgün başlamadı."</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider"/>
-  <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix"/>
-  <string name="config_export_file_suffix"/>
-  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Çağrı geçmişi silinsin mi?</string>
   <string name="confirm_delete_selected_all_call_logs">Çağrı geçmişi silinsin mi?</string>
   <string name="confirm_delete_sim_entry_miui">%d kişi SIM karttan silinsin mi?</string>
@@ -967,8 +961,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="photo_fragment">Fotoğraf</string>
   <string name="photo_labels_group">Profil Fotoğrafı</string>
   <string name="photo_load_failed">"Fotoğraf yüklenemedi"</string>
-  <string name="pick_new_photo">Galeriden yeni fotoğraf seç</string>
-  <string name="pick_photo">Galeriden fotoğraf seç</string>
   <string name="pick_recent_contacts_list_title">%1$d geçmiş kişi</string>
   <string name="pick_recent_list_title">%1$d geçmiş kişi</string>
   <string name="pickerNewContactHeader">Yeni kişi oluştur</string>

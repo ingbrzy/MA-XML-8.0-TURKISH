@@ -29,20 +29,16 @@
         <item>Sonra göster</item>
     </string-array>
     <string-array name="cache_clean_menu">
-        <item>Bu dosyayı temizle</item>
-        <item>Dosya konumunu görüntüle</item>
-        <item>Dosyayı istisnalara ekle</item>
-        <item>Uygulamayı istisnalara ekle</item>
+        <item>Clean up this file</item>
+        <item>"View file's location"</item>
     </string-array>
     <string-array name="trash_clean_menu">
-        <item>Bu dosyayı temizle</item>
-        <item>Dosya konumunu görüntüle</item>
-        <item>Dosyayı istisnalara ekle</item>
+        <item>Clean up this file</item>
+        <item>"View file's location"</item>
     </string-array>
     <string-array name="video_clean_menu">
-        <item>Bu dosyayı temizle</item>
-        <item>Aç</item>
-        <item>Dosyayı istisnalara ekle</item>
+        <item>Clean up this file</item>
+        <item>Open</item>
     </string-array>
     <string-array name="empty_floder_clean_menu">
         <item>Temizle</item>
