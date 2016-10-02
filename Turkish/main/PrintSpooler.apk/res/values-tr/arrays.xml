@@ -4,12 +4,17 @@
         <item>Siyah &amp; Beyaz</item>
         <item>Renkli</item>
     </string-array>
+    <string-array name="duplex_mode_labels">
+        <item>Yok</item>
+        <item>Uzun Kenar</item>
+        <item>Kısa Kenar</item>
+    </string-array>
     <string-array name="orientation_labels">
         <item>Dikey</item>
         <item>Yatay</item>
     </string-array>
     <string-array name="page_options_labels">
-        <item>Hepsi</item>
+        <item>Tümü</item>
         <item>Aralık</item>
     </string-array>
 </resources>
