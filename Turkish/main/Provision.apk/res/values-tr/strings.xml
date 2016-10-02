@@ -2,10 +2,13 @@
 <resources>
   <string name="agree">Kabul</string>
   <string name="agree_terms">"Hizmet Koşulları ve Gizlilik politikasını okudum ve kabul ettim."</string>
+  <string name="app_name">Hüküm</string>
   <string name="back">Geri</string>
   <string name="congratulation_label">"Artık hazırsınız!​"</string>
   <string name="congratulation_title">Kurulum tamamlandı</string>
   <string name="content_description_complete">Tamam</string>
+  <string name="content_description_language_picker">Dili Seçin</string>
+  <string name="content_description_miui_version">MIUI 8</string>
   <string name="content_description_start">Başlat</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
@@ -26,10 +29,14 @@
   <string name="next">Sonraki</string>
   <string name="next_fingerprint">Sonraki</string>
   <string name="other_settings">Ek Ayarlar</string>
+  <string name="other_settings_auto_update">Otomatik güncelle</string>
+  <string name="other_settings_auto_update_summary">MIUI indirmek ve güncelleştirmeleri yüklemek için boşta kalma süresi seçecektir.</string>
   <string name="other_settings_location">Konum</string>
   <string name="other_settings_location_summary">Uygulamaların yerinizi belirlemesine izin verir</string>
+  <string name="other_settings_upload_debug_log_summary">Tanı verileri, donanım, işletim sistemi ve uygulamalar için kullanım hakkında bilgi içerebilir. Veri sistemindeki sorunları bulmak ve analiz etmek için kullanılacak ve sizi kişisel verilerinizi asla içermeyecek.</string>
+  <string name="other_settings_upload_debug_log_title">Veri Tanımlamasını Otomatik Gönder</string>
   <string name="other_settings_user_experience">Kullanıcı Deneyim Programı</string>
-  <string name="other_settings_user_experience_summary">Anonim kullanım verileri göndererek MIUI geliştirilmesine yardımcı olu</string>
+  <string name="other_settings_user_experience_summary">Anonim kullanım verileri göndererek MIUI geliştirilmesine yardımcı olun</string>
   <string name="other_settings_user_experience_summary1">Gizlilik Politikasına bak</string>
   <string name="page_layout_label">Yazı boyutu ve Ana Ekran düzenini, bildirm alanını, tuş takımı ve dafa fazlasını ayarlayın.</string>
   <string name="page_layout_title">Sistem düzeni</string>
