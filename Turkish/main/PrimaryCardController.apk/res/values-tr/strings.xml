@@ -7,7 +7,9 @@
   <string name="lte_checkbox_text">Önce seçilen SIM kartta varsayılan 4G/3G mobil verisini ayarla</string>
   <string name="lte_recognition_title">SIM Kart Tanımlaması</string>
   <string name="lte_recognize_summary">İki tane 4G/3G SIM kartı tespit edildi, varsayılan 4G/3G SIM kartı ayarlayın:</string>
+  <string name="lte_recognize_summary_generic">İki SIMkart tespit edildi, tercih edilen SIM kartı seçiniz:</string>
   <string name="lte_select_summary">4G/3G olarak tanımlanan kart ve ve diğer bir tane de 2G kart seçildi.</string>
+  <string name="lte_select_summary_generic">Seçilen SIM kart veri aboneliğide 3G/4G hizmetleri olacak.</string>
   <string name="lte_select_title">Varsayılan 4G/3G SIM Kart</string>
   <string name="lte_set">Ayarla</string>
   <string name="lte_setting">Varsayılan 4G/3G SIM kart ayarlanıyor</string>
