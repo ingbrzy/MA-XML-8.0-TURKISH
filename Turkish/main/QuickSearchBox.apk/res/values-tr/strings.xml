@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Ara</string>
+  <string name="application_desc">Uygulama</string>
+  <string name="applications_search_label">Uygulamalar</string>
   <string name="apps_search_activity"/>
   <string name="baidu_search_url_from_default">https://www.google.com.tr/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.com.tr/search?q=%s&amp;tn=ins</string>
@@ -66,6 +68,7 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="search_videos">Videoları Ara</string>
   <string name="search_widget">Ara</string>
   <string name="send_secret_code">Kodu gönder</string>
+  <string name="settings_description">Yüklü uygulamaların adları</string>
   <string name="show_more">Daha Fazla Göster</string>
   <string name="suggest_open_app_failed">"Bu uygulama açılamadı"</string>
   <string name="system_search_category_title">Telefon</string>
