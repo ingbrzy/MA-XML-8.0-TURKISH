@@ -53,6 +53,12 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="activity_title_virus">Virüs</string>
   <string name="activity_title_virus_detail">Virüs Detayları</string>
   <string name="activity_title_virus_settings">Ayarlar</string>
+  <string name="adb_install_no_network">Ağa bağlanın ve tekrar deneyin</string>
+  <string name="adb_install_open">İzin veriliyor…</string>
+  <string name="adb_install_open_error">"İzin verilemedi, ağ bağlantısını kontrol edin"</string>
+  <string name="adb_install_reject_notiy">"USB yoluyla %s yüklenmesine izin verilemedi"</string>
+  <string name="adb_install_reject_notiy_desc">Geliştirici Seçenekleri USB üzerinden yüklemeye izin verebilir</string>
+  <string name="adb_login_xiaomi_account">Öncelikle Mi Hesabınızda oturum açın</string>
   <string name="add_miservice_dialog_content">"%s istisnalar listesine MIUI hizmet çerçevesini eklemenizi gerektirir. MIUI yerleşik uygulamaları ve diğer üçüncü parti uygulamalarının bildirimlerini alabilirsiniz."</string>
   <string name="add_miservice_dialog_title">MIUI Hizmet Çerçevesi</string>
   <string name="add_to_whitelist_button">Veri Dolaşım İstisnaları</string>
@@ -162,6 +168,12 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="battery_status_unknown">Bilinmeyen hata</string>
   <string name="battery_temperature_title">Sıcaklık</string>
   <string name="begin_date">Kullanım sıfırlama tarihi</string>
+  <string name="bind_xiaomi_account_cancel">İptal</string>
+  <string name="bind_xiaomi_account_confirm">Ekle</string>
+  <string name="bind_xiaomi_account_dialog_summery">"Mi Hesabı %s eklemek üzeresiniz. Eğer şifrenizi unutursanız, sıfırlamak için bu hesabı kullanabilirsiniz. Oturum kapatılınca, otomatik olarak hesap kaldırılır."</string>
+  <string name="bind_xiaomi_account_success">Mi Hesabı başarıyla eklendi</string>
+  <string name="bind_xiaomi_account_summary">Şifrenizi sıfırlamak için Mi Hesabı kullanın</string>
+  <string name="bind_xiaomi_account_title">Mi Hesabı Ekle</string>
   <string name="boot_reminder">Telefonu planlanan zamanda aç</string>
   <string name="boot_time">Açık: %1$s</string>
   <string name="boot_time_day">Açık: %2$s %1$ddk</string>
@@ -243,9 +255,17 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="card_main_paysafe_action">Aç</string>
   <string name="card_main_paysafe_summary">Mühtemel risklerde ödeme içeriğini tara</string>
   <string name="card_main_paysafe_title">Ödeme Güvenliği</string>
+  <string name="card_main_private_space_action">Oluştur</string>
+  <string name="card_main_private_space_summary">İkinci Alanı kullanarak sanki iki cihaza sahip olursunuz</string>
+  <string name="card_main_private_space_title">İkinci Alan</string>
   <string name="card_main_sectool_title">Araçlar</string>
   <string name="card_main_speeddetail_title">Bağlantı Hızı</string>
   <string name="card_main_speeddetailt_summary">Kişisel uygulamalarda bağlantı hızını görüntüle</string>
+  <string name="card_main_xspace_action">Oluştur</string>
+  <string name="card_main_xspace_summary">Herhangi bir uygulama için çift hesap oluştur</string>
+  <string name="card_main_xspace_title">Klonlu Uygulamalar</string>
+  <string name="category_key_power_usage_details">key_power_usage_details</string>
+  <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">Son Şarj:</string>
   <string name="charging_text_battery_nearly_full">En Son Şarj:</string>
@@ -262,6 +282,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="cmcc_app_check_dialog_negative">Sonra</string>
   <string name="cmcc_app_check_dialog_positive">Şimdi Başlat</string>
   <string name="cmcc_app_check_dialog_title">Sistem onarıldı</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Mi Hesabı ekleniyor</string>
   <string name="confirm_fingerprint_msg">Parmakizi okuyucusuna parmağınızı yerleştirin</string>
   <string name="confirm_reject_all_permission">Bu özelliği kullanarak tüm uygulamaları kısıtlansın mı?</string>
   <string name="connect_internet_by_mobiledata">Mobil veri bağlantısı</string>
@@ -661,6 +682,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="menu_text_antispam">Kara Liste</string>
   <string name="menu_text_antivirus">Virüs Tara</string>
   <string name="menu_text_garbage_cleanup">Temizleyici</string>
+  <string name="menu_text_garbage_cleanup_danger">%s aşıldı</string>
   <string name="menu_text_license_manager">İzinler</string>
   <string name="menu_text_networkassistants">Veri Kullanımı</string>
   <string name="menu_text_networkassistants_danger">%s aşıldı</string>
@@ -737,7 +759,9 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="notification_exit_power_save_mode_subtitle">Pil %s şarj edildi.</string>
   <string name="notification_item">Uygulama kilidiyle seçili uygulamaları koruyun</string>
   <string name="notification_subtitle">Dokunup açın</string>
-  <string name="notification_summary_cmcc_app_check">Detayları görüntülemek için dokunun</string>
+  <string name="notification_summary_cmcc_app_check">Detayları görüntülemek için dokunun.</string>
+  <string name="notification_sysapp_cracked_text">MIUI mevcut sürümü modifiye edilmiştir</string>
+  <string name="notification_sysapp_cracked_title">Güvenlik riski algılandı</string>
   <string name="notification_title_cmcc_app_check">Son kontrolden bu yana %d gün geçti.</string>
   <string name="notification_title_firewall_blocked">Engelli</string>
   <string name="notify_daily_data_usage_body">Otomatik olarak veri kullanımını sınırlamak için, aylık veri planını ayarla.</string>
@@ -801,6 +825,11 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="package_setted_error_notification_titile">"Veri planı ayarlanamadı"</string>
   <string name="packages_subtitle">Eklenmiş Paketler</string>
   <string name="passwordIncorrect">Kullanıcı Adı veya Şifre Yanlış</string>
+  <string name="password_promotion_button_text">Anladım</string>
+  <string name="password_promotion_message">Uygulama kiliti Gizlilik korumasının şifresine yükseltiliyor. Bunu sıfırlamak için geçerli Mi Hesabı kullanabilirsiniz.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Uygulama kiliti Gizlilik korumasının şifresine yükseltiliyor. Bunu sıfırlamak için geçerli Mi Hesabı kullanabilirsiniz. Bunu yapabilmek için Mi Hesabı ekleyin.</string>
+  <string name="password_promotion_postbutton_text">Ayarlara git</string>
+  <string name="password_promotion_title">Gizlilik Koruma Şifresi</string>
   <string name="path_antispam">Sistem Uygulamaları/Güvenlik/Kara Liste</string>
   <string name="path_antivirus">Sistem Uygulamaları/Güvenlik/Virüs Tara</string>
   <string name="path_applicationlock">Sistem Uygulamaları/Güvenlik</string>
@@ -1189,6 +1218,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="security_scan_optimizing">İyi Hale Getiriliyor…</string>
   <string name="see_detail">Detaylar</string>
   <string name="select_pattern">Deseni Seç</string>
+  <string name="set_applock_password">Şifreyi ayarla</string>
+  <string name="setting_privacy_password">Gizlilik koruması şifresini ayarlayın</string>
   <string name="setting_traffic_pkg">Veri Paketini Ayarla</string>
   <string name="settings">Veri Kullanım Ayarları</string>
   <string name="settings_battery_consume_abnormal_summary">Pil hızlı boşaldığında bildirim al</string>
@@ -1257,9 +1288,11 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="summary_dev">Kötü amaçlı yazılımı önle ve kişisel verileri koru</string>
   <string name="summary_find_device">Cihazı her yerden bul ve kilitle</string>
   <string name="summary_flow_notification">Bildirim alanında aylık veri kullanım istatistiklerini göster</string>
+  <string name="summary_flow_purchase">"Yeterli miktarda veri kalmadı. Bağlantının devam etmesi için veri satın alınabilir."</string>
   <string name="summary_flow_purchase_beyond">"Operatörün planladığı aylık veri limitini %s MB aştınız"</string>
   <string name="summary_flow_verify">"Operatörün veri istatistikleri %d gündür eşitlenmedi"</string>
   <string name="summary_flow_verify_failed">Ek harçlardan sakınmak için veri kullanımını otomatik kullan</string>
+  <string name="summary_garbage_clean">Önbelleği temizle alanını boşalt</string>
   <string name="summary_garbage_lib">Casus, reklam ve diğer istenmeyen çöpleri kaldırmak için son tanımlamaları kullanın</string>
   <string name="summary_install_virus">Uygulamaları yüklemeden önce virüs taramasından geçirin</string>
   <string name="summary_live_talk_purchase">Arama ücretlerinden %70 tasarruf edin.</string>
@@ -1279,6 +1312,15 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="summary_virus_cloudscan">Uygulamanın isimlerini ve bilgilerini yükleyin ve çevrimiçi virüs tanımlarını kullanarak tarayın</string>
   <string name="summary_virus_update">Otomatik olarak en son virüs tanımlarını al</string>
   <string name="summary_xiaomi_roaming">Mobil veri dolaşımı için MB başına 0.01 yuan.</string>
+  <string name="sys_app_prot_cracked_confirm">Anladım</string>
+  <string name="sys_app_prot_cracked_login">Mi Hesabınız ile oturum açın</string>
+  <string name="sys_app_prot_cracked_text_login">"Cihazınızın güvenlik riski geçerli MIUI sürümü tarafından değiştirildi.
+
+Bu cihaz nereden geldiğini biliyor ve irtibata geçip yardım almak için bölgenizdeki Xiaomi yetkili servis merkezinden yardım alın."</string>
+  <string name="sys_app_prot_cracked_text_unlogin">"Geçerli MIUI sürümü cihazınızın risk güvenliğini değiştirmiştir. Bu uyarıyı kapatmak için Mi Hesabınızda oturum açın.
+
+Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak için bölgenizdeki Xiaomi yetkili servis merkezinden yardım alın."</string>
+  <string name="sys_app_prot_cracked_title">Güvenlik Riski</string>
   <string name="system_app">Sistem Uygulamaları</string>
   <string name="system_application">Sistem Uygulamaları</string>
   <string name="system_check_content">%1$d riskli</string>
@@ -1330,6 +1372,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="tc_sms_report_get_sms">SMS Al</string>
   <string name="tc_sms_report_get_sms2">SMS Al</string>
   <string name="tc_sms_report_get_sms_again">SMS Yenile</string>
+  <string name="tc_sms_report_get_sms_bill">SMS al</string>
+  <string name="tc_sms_report_get_sms_calltime">SMS al</string>
   <string name="tc_sms_report_get_sms_failure">"Veri kullanımı SMS biçimi alınamadı"</string>
   <string name="tc_sms_report_get_sms_successs">Veri kullanım SMS biçimi güncellendi</string>
   <string name="tc_sms_report_get_sms_timeout">İstek zaman aşımına uğradı</string>
@@ -1351,6 +1395,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="tc_sms_report_tips_dialog_message">"Veri kullanım için Operatörden gelen son veri kullanımnı almak için özel olarak biçimlendirilmiş bir SMS kullanır. Bu özellik normalde çalışmıyorsa, veri kullanım SMS biçimini güncellemeyi deneyin. Yeni güncellenen biçim o zaman bizim sunuculara yüklenir."</string>
   <string name="tc_sms_report_tips_dialog_title">"Veri Kullanım SMS'i"</string>
   <string name="tc_sms_report_title">Veri Kullanım Hata Raporu</string>
+  <string name="tc_sms_report_title_bill">Veri Kullanım Hata Raporu</string>
+  <string name="tc_sms_report_title_calltime">Veri Kullanım Hata Raporu</string>
   <string name="tc_sms_report_toast_text">Bilgi alınıyor…</string>
   <string name="tc_sms_report_upload_success">"Veri kullanım raporu SMS olarak sunuldu. Bunda bizimde hakkımız var!"</string>
   <string name="tc_sms_report_upload_when_net">Görüşleriniz için teşekkür ederiz!</string>
@@ -1388,6 +1434,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="title_flow_rank">Mobil Veri Kullanımı</string>
   <string name="title_flow_verify">Hesabı Karşılaştır</string>
   <string name="title_flow_verify_failed">"5 gün boyunca art arda ayarlama yapılmaz"</string>
+  <string name="title_garbage_clean">Uygulama önbelleği %s aştı</string>
   <string name="title_garbage_lib">Çöp tanımlamalarını güncelle</string>
   <string name="title_install_virus_no">Yüklemeleri izleme kapalı</string>
   <string name="title_install_virus_yes">Yüklemeleri izleme açık</string>
@@ -1569,6 +1616,9 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Açık Kalma Zamanı:</string>
   <string name="usage_type_wifi_running">WLAN Açık:</string>
+  <string name="usb_adb_input_apply_step_1">Cihazınız USB üzerinden bağlı olduğunda bilgisayarınız sizden habersiz ayarları ve verilen izinlerini değiştirmek mümkün olacak</string>
+  <string name="usb_adb_input_apply_step_2">Bu tür hesaplar veya mesajlar özel bilgilerin sızmasına yol açabilir</string>
+  <string name="usb_adb_input_apply_step_3">Verilecek bu izinler bazı güvenlik riskleri doğurabilir. İzin verilsin mi?</string>
   <string name="usb_install_desc">Bu uygulama USB yoluyla yüklensin mi?</string>
   <string name="usbsharenet_exception_summary">"Paylaşılan USB bağlantısını kullanarak internete bağlanamıyor. Cihazınızın USB bağlantısını kontrol edin ve Mi PC Suite\'i yeniden başlatın."</string>
   <string name="usbsharenet_exception_title">USB üzerinden internet paylaşım testi</string>
