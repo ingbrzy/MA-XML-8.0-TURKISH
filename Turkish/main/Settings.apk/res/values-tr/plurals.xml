@@ -12,6 +12,10 @@
         <item quantity="other">Geliştirici Moduna geçebilmek için %1$d adımınız kaldı.</item>
         <item quantity="one">%1$d adım sonra Geliştirici Moduna geçeceksiniz.</item>
     </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d parmakizi ayarı</item>
+        <item quantity="one">%1$d  parmakizi ayarı</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Şifre en az %d harf içermelidir.</item>
         <item quantity="one">Şifre en az 1 harf içermelidir.</item>
@@ -47,6 +51,39 @@
     <plurals name="manage_condition_providers_summary_nonzero">
         <item quantity="other">%d uygulama koşulları sağlıyor</item>
         <item quantity="one">%d uygulama koşullarını sağlıyor</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Sadece %1$d dakika için alarmı değiştir (%2$s kadar)</item>
+        <item quantity="one">Sadece %2$s dakika boyunca alarmı değiştir</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Sadece %2$s kadar  %1$d saat alarmı değiştir </item>
+        <item quantity="one">Sadece %2$s kadar alarmı bir saat boyunca değiştirin </item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d izin verilmiş</item>
+        <item quantity="one">%d izin verilmiş</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%2$d - > %1$d izin verilmiş</item>
+        <item quantity="one">%2$d -> %1$d izin verilmiş</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d ek izin</item>
+        <item quantity="one">%d ek izin</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d uygulama desteklenen bağlantıyı açabilir</item>
+        <item quantity="zero">Desteklenen bağlantıyı açacak uygulama yok</item>
+        <item quantity="one">Bir uygulama desteklenen bağlantıyı açabilir</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d uygulama pili iyi hale getirme iznini yoksaydı</item>
+        <item quantity="one">1 uygulama pili iyi hale getirme iznini kabul etti</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">En son hafızanın %2$s, %1$d uygulama kullandı </item>
+        <item quantity="one">En son hafızanın  %2$s 1 uygulama kullandı</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d cihaz</item>
