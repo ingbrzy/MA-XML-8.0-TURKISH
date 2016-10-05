@@ -2342,7 +2342,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="no_data_usage">Veri kullanılmadı</string>
   <string name="no_default_apps">Varsayılan uygulama yok.</string>
   <string name="no_condition_providers">Hiçbir koşul sağlayıcıları yüklenmedi.</string>
-  <string name="no_connected_devices">Cihazlar bağlanamadı</string>
   <string name="no_device_admins">Kullanılabilir aygıt yöneticisi yok</string>
   <string name="no_internet_access_remember">Bu ağda tekrar sorma</string>
   <string name="no_internet_access_text">WLAN %1$sağı internete erişemiyor. Halen bağlı mısınız?</string>
@@ -2971,7 +2970,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="rebootiing_for_updates">Tekrar başlatılıyor…</string>
   <string name="recent_location_requests_summary">Aşağıdaki uygulamalar konum bilginizi görüntülemek istiyor</string>
   <string name="receiver_clean">Alanı Boşalt</string>
-  <string name="recent_location_requests_summary">Konum bilgisine erişmek isteyen uygulamaları görüntüle</string>
   <string name="recent_location_requests_title">Konum Erişimi</string>
   <string name="recognizer_settings_summary">"'%s' Ayarları"</string>
   <string name="recognizer_settings_title">Sesli Arama</string>
@@ -3585,7 +3583,6 @@ PIN kodu yanlış olabilir."</string>
   <string name="sim_no_inserted_msg">Takılı SIM kart yok</string>
   <string name="sim_notification_summary">Ayarlamak için dokunun</string>
   <string name="sim_notification_title">SIM kart değişti.</string>
-  <string name="sim_name_hint">SIM Adını girin</string>
   <string name="sim_other_call_settings">Diğer çağrı ayarları</string>
   <string name="sim_outgoing_call_title">Giden çağrılar için SIM</string>
   <string name="sim_pin_attempts">"
@@ -4497,7 +4494,6 @@ Ekle butonunu (+) kullanarak kelime ekleyin."</string>
   <string name="wifi_ap_choose_2G">2.4 GHz Bandı</string>
   <string name="wifi_ap_choose_5G">5 GHz Bandı</string>
   <string name="wifi_api_test">WLAN API</string>
-  <string name="wifi_alert_lockdown_by_device_owner">%1$s cihazınızı yönetir ve değişikliğe izin vermez veya bu WLAN ağı siler.  Daha fazlası için yönetici ile irtibata geçin.</string>
   <string name="wifi_assistant_card_message">Otomatik olarak bir Wi-Fi Yardımcısı ile mevcut ağlara bağlan.</string>
   <string name="wifi_assistant_dialog_message">"WLAN Yardımcısı ağ trafiğini izlemeye olanak sağlayan bir VPN bağlantısı kurmak istiyor. Eğer kaynağa güveniyorsanız kabul edin."</string>
   <string name="wifi_assistant_explanation_message">Google WLAN Yardımcısı sizin için kullanılabilir ağları algılar ve en iyi hız ve güvenilirlik ile aygıtları birbirine bağlar.</string>
@@ -4923,7 +4919,6 @@ Farklı bir WLAN ağına başlanmak için "&lt;b&gt;Geri&lt;/b&gt; tuşuna dokun
   <string name="zen_mode_delete_rule_button">Sil</string>
   <string name="zen_mode_delete_rule_confirmation">“%1$s” kuralı silinsin mi?</string>
   <string name="zen_mode_alarm_info">Alarmlar her zaman öncelikli kesintilerdir</string>
-  <string name="zen_mode_alarm_use">Sesler</string>
   <string name="zen_mode_automation_category">Otomasyon</string>
   <string name="zen_mode_default_option">Bu kapatılana kadar, </string>
   <string name="zen_mode_downtime_category">Aksama Süresi (sadece öncelikli kesintiler)</string>
