@@ -7,23 +7,10 @@
         <item>8 saniye</item>
         <item>10 saniye</item>
     </string-array>
-    <string-array name="alert_sound_duration_values">
-        <item>2</item>
-        <item>4</item>
-        <item>6</item>
-        <item>8</item>
-        <item>10</item>
-    </string-array>
     <string-array name="alert_reminder_interval_entries">
         <item>Birkez</item>
         <item>Her 2 dakikada</item>
         <item>Her 15 dakikada</item>
         <item>Kapalı</item>
-    </string-array>
-    <string-array name="alert_reminder_interval_values">
-        <item>1</item>
-        <item>2</item>
-        <item>15</item>
-        <item>0</item>
     </string-array>
 </resources>
