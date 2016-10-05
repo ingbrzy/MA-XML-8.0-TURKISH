@@ -89,18 +89,6 @@
         <item>Cihaz kilitlendiğinde veya uygulamadan çıkıldığında</item>
         <item>Cihaz kilitlendiğinden veya uygulamadan çıkıldıktan 1 dakika sonra</item>
     </string-array>
-    <string-array name="lock_mode_value">
-        <item>1</item>
-        <item>0</item>
-        <item>2</item>
-    </string-array>
-    <integer-array name="pc_time_choice_items">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>30</item>
-        <item>0</item>
-    </integer-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>1 dakika sonra</item>
         <item>5 dakika sonra</item>
@@ -121,29 +109,4 @@
         <item>Haftaiçi</item>
         <item>Özel</item>
     </string-array>
-    <integer-array name="pc_choice_dialog_over_heat_values">
-        <item>40</item>
-        <item>42</item>
-        <item>45</item>
-        <item>48</item>
-    <item>0</item>
-        </integer-array>
-    <integer-array name="pc_choice_dialog_battery_style_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
 </resources>
