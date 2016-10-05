@@ -18,18 +18,6 @@
         <item>2 gün</item>
         <item>1 hafta</item>
     </string-array>
-    <integer-array name="reminder_minutes_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </integer-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Hatırlatıcısız</item>
         <item>0 dakika</item>
@@ -42,109 +30,11 @@
         <item>2 gün</item>
         <item>1 hafta</item>
     </string-array>
-    <string-array name="preferences_default_reminder_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Varsayılan</item>
         <item>Cumartesi</item>
         <item>Pazar</item>
         <item>Pazartesi</item>
-    </string-array>
-    <string-array name="timezone_labels">
-        <item>Marshall Adaları</item>
-        <item>Midway Adası</item>
-        <item>Hawaii</item>
-        <item>Alaska</item>
-        <item>Pasifik Zamanı</item>
-        <item>Tijuana</item>
-        <item>Arizona</item>
-        <item>Chihuahua</item>
-        <item>Dağ Saati</item>
-        <item>Orta Amerika</item>
-        <item>Orta Zaman</item>
-        <item>Meksika Şehri</item>
-        <item>Saskatchewan</item>
-        <item>Bogota</item>
-        <item>Doğu Zamanı</item>
-        <item>Venezuela</item>
-        <item>Atlantik Zamanı (Barbados)</item>
-        <item>Atlantik Zamanı (Kanada)</item>
-        <item>Manaus</item>
-        <item>Şantiago</item>
-        <item>Newfoundland</item>
-        <item>Brezilya</item>
-        <item>Buenos Aires</item>
-        <item>Grönland</item>
-        <item>Montevideo</item>
-        <item>Orta Atlantik</item>
-        <item>Azor Adaları</item>
-        <item>Cape Verde Adaları</item>
-        <item>Kazablanka</item>
-        <item>Londra, Dublin</item>
-        <item>Amsterdam, Berlin</item>
-        <item>Belgrad</item>
-        <item>Brüksel</item>
-        <item>Saraybosna</item>
-        <item>Windhoek</item>
-        <item>Batı Afrika Zamanı</item>
-        <item>Amman, Ürdün</item>
-        <item>Atina, İstanbul</item>
-        <item>Beyrut, Lübnan</item>
-        <item>Kahire</item>
-        <item>Helsinki</item>
-        <item>Kudüs</item>
-        <item>Minsk</item>
-        <item>Harare</item>
-        <item>Bağdat</item>
-        <item>Moskava</item>
-        <item>Kuveyt</item>
-        <item>Nairobi</item>
-        <item>Tahran</item>
-        <item>Bakü</item>
-        <item>Tiflis</item>
-        <item>Erivan</item>
-        <item>Dubai</item>
-        <item>Kabil</item>
-        <item>İslamabad, Karaçi</item>
-        <item>"Uralsk"</item>
-        <item>Yekaterinburg</item>
-        <item>Kalküta</item>
-        <item>Sri Lanka</item>
-        <item>Kathmandu</item>
-        <item>Astana</item>
-        <item>Yangon</item>
-        <item>Krasnoyarsk</item>
-        <item>Bangkok</item>
-        <item>Beijing</item>
-        <item>Hong Kong</item>
-        <item>İrkut Bölgesi</item>
-        <item>Kuala Lumpur</item>
-        <item>Perth</item>
-        <item>Taipei</item>
-        <item>Seul</item>
-        <item>Tokyo, Osaka</item>
-        <item>Yakutistan</item>
-        <item>Adelaide</item>
-        <item>Darwin</item>
-        <item>Brisbane</item>
-        <item>Hobart</item>
-        <item>Sidney, Canberra</item>
-        <item>Vladivostok</item>
-        <item>Guam</item>
-        <item>Magadan</item>
-        <item>Auckland</item>
-        <item>Fiji</item>
-        <item>Tonga</item>
     </string-array>
     <string-array name="availability">
         <item>Meşgul</item>
@@ -188,78 +78,6 @@
         <item>Ay</item>
         <item>Etkinlikler</item>
     </string-array>
-    <array name="account_birthday">
-        <item>#ffe99080</item>
-        <item>#b3d5a198</item>
-        <item>#fffcefef</item>
-        <item>#ffce7e6f</item>
-    </array>
-    <array name="account_xiaomi">
-        <item>#ff31aeaa</item>
-        <item>#b355c3bf</item>
-        <item>#ffe9f5f5</item>
-        <item>#ff349a97</item>
-    </array>
-    <array name="account_preset1">
-        <item>#ffb69dd0</item>
-        <item>#b3bfa5db</item>
-        <item>#fff6f1fa</item>
-        <item>#ffa894be</item>
-    </array>
-    <array name="account_preset2">
-        <item>#fff0a16f</item>
-        <item>#b3d88c5b</item>
-        <item>#fffdf3ec</item>
-        <item>#ffe4884d</item>
-    </array>
-    <array name="account_preset3">
-        <item>#ff64bce1</item>
-        <item>#b33aadd2</item>
-        <item>#ffe2f5fb</item>
-        <item>#ff5bb5db</item>
-    </array>
-    <array name="account_preset4">
-        <item>#ff88c984</item>
-        <item>#b37dc07a</item>
-        <item>#fff1faf1</item>
-        <item>#ff91c58e</item>
-    </array>
-    <array name="action_bar_colors">
-        <item>#ff7d97e1</item>
-        <item>#ff27bbd0</item>
-        <item>#ff8cc061</item>
-        <item>#ff3fbc7d</item>
-        <item>#ff11b599</item>
-        <item>#fff38f3a</item>
-        <item>#ffeb6e4a</item>
-        <item>#ffdd5a62</item>
-        <item>#ffe8774d</item>
-        <item>#ffe29255</item>
-        <item>#ff579ee0</item>
-        <item>#ff9b88d0</item>
-    </array>
-    <array name="month_today_colors">
-        <item>#ff809be8</item>
-        <item>#ff2ec2d7</item>
-        <item>#ff99ce6d</item>
-        <item>#ff46c987</item>
-        <item>#ff15bb9e</item>
-        <item>#fff49d52</item>
-        <item>#fff4734d</item>
-        <item>#ffea646b</item>
-        <item>#ffed7d54</item>
-        <item>#ffe8995d</item>
-        <item>#ff5ea4e6</item>
-        <item>#ffab99de</item>
-    </array>
-    <string-array name="fortune_gender">
-        <item>男</item>
-        <item>女</item>
-    </string-array>
-    <integer-array name="fortune_gender_values">
-        <item>1</item>
-        <item>0</item>
-    </integer-array>
     <string-array name="quick_response_defaults">
         <item>Birkaç dakika geç kalabilirim.</item>
         <item>10 dakikada ordayım.</item>
@@ -299,24 +117,6 @@
         <item>2 gün önce</item>
         <item>1 hafta önce</item>
     </string-array>
-    <integer-array name="online_reminder_minutes_values">
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </integer-array>
-    <integer-array name="online_reminder_minutes_values_allday">
-        <item>0</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>4320</item>
-        <item>10080</item>
-    </integer-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 saat önce</item>
         <item>4 saat önce</item>
@@ -324,13 +124,6 @@
         <item>6 saat önce</item>
         <item>1 gün önce</item>
     </string-array>
-    <integer-array name="travel_reminder_minutes_values">
-        <item>180</item>
-        <item>240</item>
-        <item>300</item>
-        <item>360</item>
-        <item>1440</item>
-    </integer-array>
     <string-array name="repeat_frequency_spinner">
         <item>gün</item>
         <item>hafta</item>
