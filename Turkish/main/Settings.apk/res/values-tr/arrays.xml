@@ -276,11 +276,6 @@
         <item>Orta</item>
         <item>Uzun</item>
     </string-array>
-    <string-array name="long_press_timeout_selector_values">
-        <item>500</item>
-        <item>1000</item>
-        <item>1500</item>
-    </string-array>
     <string-array name="captioning_typeface_selector_titles">
         <item>Varsayılan</item>
         <item>Sans-serif</item>
@@ -291,17 +286,6 @@
         <item>Sıradan</item>
         <item>El Yazısı</item>
         <item>Küçük Puntolu</item>
-    </string-array>
-    <string-array name="captioning_typeface_selector_values">
-        <item></item>
-        <item>sans-serif</item>
-        <item>sans-serif-condensed</item>
-        <item>sans-serif-monospace</item>
-        <item>serif</item>
-        <item>serif-monospace</item>
-        <item>casual</item>
-        <item>cursive</item>
-        <item>sans-serif-smallcaps</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Çok Küçük</item>
@@ -434,11 +418,6 @@
         <item>Kapat</item>
         <item>Sınırlı kesintiler</item>
         <item>Sıfır kesinti</item>
-    </string-array>
-    <string-array name="entryvalues_zen_mode">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
         <item>Normal</item>
@@ -677,11 +656,6 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>4.5 inç</item>
         <item>4.0 inç</item>
         <item>3.5 inç</item>
-    </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Hemen</item>
