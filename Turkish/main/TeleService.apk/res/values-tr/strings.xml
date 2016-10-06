@@ -411,7 +411,6 @@
   <string name="dial_pad_autocomplete">Tuş Takımı Otomatik Tamamlama</string>
   <string name="dial_related_setting_catory">Çevirici</string>
   <string name="dialerKeyboardHintText">Aramak için klavyeyi kullan</string>
-  <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
   <string name="dialog_activate_livetalk">Doğrula</string>
   <string name="dialog_call_ordinary_telephone">SIM Kullan</string>
   <string name="dialog_network_priority_title">Öncelikli Ağ</string>
@@ -634,10 +633,6 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="ims_vt_call_quality_title">Görüntülü Çağrı Kalitesi</string>
   <string name="ims_vt_call_quality_unknown">Bilinmiyor</string>
   <string name="in_search_femtocell_networks_wait_tip">Ara...</string>
-  <string name="incall_default_activity">com.android.incallui.InCallActivity</string>
-  <string name="incall_default_class">com.android.incallui.CallHandlerService</string>
-  <string name="incall_default_package">com.android.incallui</string>
-  <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
   <string name="incall_error_call_failed">Çağrı gönderilmedi.</string>
   <string name="incall_error_emergency_only">Ağa kayıtlı değil.</string>
   <string name="incall_error_missing_voicemail_number">Sesli mesaj numarası bilinmiyor.</string>
@@ -867,7 +862,6 @@ Kontör yükle ve konuşmaya başla"</string>
   <string name="msim_not_set_summary">Ayarlanamadı</string>
   <string name="msim_pref_title_data">İnternet</string>
   <string name="msim_pref_title_voice">Çevir</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">ICC kart hatası</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Çağrı esnasında ayarlanamıyor"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM kart hatası</string>
@@ -1017,7 +1011,6 @@ Tercih edilen ağ bunun yerine kullanılıyor."</string>
   <string name="operator_mins_first">"Operatörün planına öncelik verin"</string>
   <string name="operator_mins_first_close">Kapat</string>
   <string name="operator_remain_mins">Operatör Paketinin Dakikaları</string>
-  <string name="operator_remain_mins_value">%1$s dakika</string>
   <string name="optional_summary">İsteğe Bağlı</string>
   <string name="order_by_recent">Frekans</string>
   <string name="order_id">Sipariş ID: %1$s</string>
@@ -1472,7 +1465,6 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="tty_mode_option_title">TTY Modu</string>
   <string name="turnover_mute_summary">Telefon tersine çevrildiğinde zil sesini sustur</string>
   <string name="turnover_mute_title">Zil sesini susturmak için çevirin</string>
-  <string name="ui_default_package">com.android.dialer</string>
   <string name="unable_dial_livetalk">"Aramayı tamamlanamadı"</string>
   <string name="unblock_pin2">PIN2 engelini kaldır</string>
   <string name="undefined">Yok</string>
@@ -1514,7 +1506,6 @@ Bu sorun devam ederse lütfen operatörünüze başvurun."</string>
   <string name="voicemail_notification_ringtone_title">Zil Sesi</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Titreşim</string>
   <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
-  <string name="voicemail_notification_vibrate_when_default">Asla</string>
   <string name="voicemail_notification_vibrate_when_title">Titreşim</string>
   <string name="voicemail_number_not_set">&lt;Ayarlanmadı&gt;</string>
   <string name="voicemail_provider">Sesli Mesaj Hizmeti</string>
