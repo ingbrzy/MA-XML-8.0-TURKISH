@@ -115,9 +115,6 @@ Tuş sayfasında metreyi ayarlayıp, istenilen bileşenleri seçebilirsiniz"</st
   <string name="confirm">Tamam</string>
   <string name="copy">Kopyala</string>
   <string name="copy_succeed">Başarıyla kopyalandı</string>
-  <string name="default_action_title">Varsayılan Eylem</string>
-  <string name="default_toolbar_items">.CapturePhotoAction,.FlashlightAction,.AudioRecorderAction,0,0,0</string>
-  <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>
   <string name="delete">Sil</string>
   <string name="delete_confirm">Bu eylemi silmek istediğinizden emin misiniz?</string>
   <string name="delete_gesture">MiKey için düğme hareketleri silinsin mi?</string>
@@ -251,7 +248,6 @@ Tıkla: Sonraki
   <string name="setting_proximity_desc">MiKey cebe konulduğunda hatalı kullanımı engellemek için yakınlık sensörünü kullansın.</string>
   <string name="setting_proximity_text">Yakınlık Sensörünü Kullan</string>
   <string name="setting_silent_mode">Sessiz Mod</string>
-  <string name="setting_silent_mode_default">"Kulaklık Modu (MiKey'i seç)"</string>
   <string name="setting_silent_mode_desc">"Kulaklığı bağlamak istiyorsanız, Kulaklık Modunu seçin ve MiKey bağlantısını kesin. Aksi taktirde ses çıkışı düzgün bir şekilde çalışmayacak."</string>
   <string name="setting_silent_mode_dust_cap">Bağlanma Modu</string>
   <string name="setting_speed_desc">Tuş Tıklama Hızı</string>
