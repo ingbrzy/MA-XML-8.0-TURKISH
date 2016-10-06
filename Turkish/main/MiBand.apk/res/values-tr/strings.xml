@@ -33,10 +33,7 @@
   <string name="action_walk">Yürü</string>
   <string name="add_family_member">Kullanıcı Ekle</string>
   <string name="add_than_last_time">%1$s ağırlıktan beri eklendi</string>
-  <string name="add_weight_fail_with_value">Hedefe ulaşmak için %1$s gerekiyor</string>
   <string name="add_weight_succ">Hedefinize ulaştınız!</string>
-  <string name="add_weight_succ_with_value">" %1$s 
-hedefinizi geçtiniz."</string>
   <string name="addgoal_child_fat">"Hedeflediğiniz ağırlığın üzerine çıktınız"</string>
   <string name="addgoal_child_heavy">"Hedeflediğiniz ağırlığın üzerine çıktınız"</string>
   <string name="addgoal_child_normal">"Hedeflediğiniz ağırlığa geldik."</string>
@@ -626,7 +623,6 @@ ulaşıldı"</string>
   <string name="label_update_time">%s güncellendi</string>
   <string name="label_weight">Geçerli Kilo</string>
   <string name="lable_qrcode_is_myself">"Kendinizi arkadaş olarak ekleyemezsiniz"</string>
-  <string name="larger_than_normal_with_value">Yaklaşık %1$s</string>
   <string name="left_hand">Sol el</string>
   <string name="less_than_6">"6 çocuktan az ölçüm yapılamaz"</string>
   <string name="less_than_last_time">En son tartımdan beri %1$s kaybedildi</string>
@@ -643,8 +639,6 @@ ulaşıldı"</string>
   <string name="look_device_list">Yakındaki bileklikleri görüntüle</string>
   <string name="look_weight_device_list">Yakındaki terazileri görüntüle</string>
   <string name="lose_weight_succ">Hedefinize ulaştınız!</string>
-  <string name="lose_weight_succ_with_value">"%1$s tarafından
-hedef geçildi"</string>
   <string name="losegoal_child_fat">"Hedeflediğiniz ağırlığın üzerine çıktınız"</string>
   <string name="losegoal_child_heavy">"Hedeflediğiniz ağırlığın üzerine çıktınız"</string>
   <string name="losegoal_child_normal">"Tebrikler! Hedeflediğiniz ağırlığa ulaştınız."</string>
@@ -653,7 +647,6 @@ hedef geçildi"</string>
   <string name="losegoal_light_female">"Hedeflediğiniz ağırlığın altına indiniz"</string>
   <string name="losegoal_light_male">"Hedeflediğiniz ağırlığın altına indiniz"</string>
   <string name="losegoal_normal">"Tebrikler! Hedeflediğiniz ağırlığa ulaştınız."</string>
-  <string name="lost_weight_fail_with_value">Hedefe ulaşınca %1$s kaybedeceksiniz</string>
   <string name="main_ui_share_tips">"Bugünkü etkinlik: %1$s%2$s.
 %3$s"</string>
   <string name="main_ui_sleep_share_tips">"Hafif Uyku: %1$s%2$s
@@ -1074,7 +1067,6 @@ Yakılan: %3$s Kal.
   <string name="share_weibo_label">Weibo</string>
   <string name="share_weixin_label">WeChat</string>
   <string name="signal_strength">"Sinyal Gücü: "</string>
-  <string name="smaller_than_normal_with_value">%1$s ortalamanın altında</string>
   <string name="smart_alarm_clock">Alarm</string>
   <string name="smart_alarm_notify">Alarm</string>
   <string name="smart_wake_up">Erkenci Kuş Alarmı</string>
