@@ -21,7 +21,11 @@
   <string name="help">Yardım</string>
   <string name="menu_back">Geri</string>
   <string name="menu_end_session">Oturum bitti</string>
+  <string name="no_sim_card_inserted">SIM Araçlarının başlayabilmesi için SIM Kart takın.</string>
   <string name="service_name">Hizmet Adı</string>
+  <string name="sim_type_sim_name">SIM Araçları</string>
+  <string name="sim_type_uim_name">UIM Araçları</string>
+  <string name="sim_type_usim_name">USIM Araçları</string>
   <string name="stk_app_state">Uygulama Durumu</string>
   <string name="stk_dialog_accept">EVET</string>
   <string name="stk_dialog_reject">HAYIR</string>
