@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="default_smiley_names">
-        <item>Mutlu</item>
-        <item>Üzgün</item>
-        <item>Göz Kırp</item>
-        <item>Dil Çıkart</item>
-        <item>Şaşırmış</item>
-        <item>Öpüyor</item>
-        <item>Bağırıyor</item>
-        <item>Havalı</item>
-        <item>Para Delisi</item>
-        <item>Ketum</item>
-        <item>Mahçup</item>
-        <item>Melek</item>
-        <item>Kararsız</item>
-        <item>Ağlıyor</item>
-        <item>Dudaklar Mühürlü</item>
-        <item>Gülüyor</item>
-        <item>Şaşkın</item>
-        <item>Kalp</item>
-        <item>Deli</item>
-        <item>Sırıt</item>
-        <item>İfadesiz Surat</item>
-    </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>1 kez</item>
         <item>2 kez</item>
