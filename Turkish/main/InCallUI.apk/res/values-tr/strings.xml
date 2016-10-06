@@ -215,9 +215,6 @@
   <string name="deactivate_all">Tümünü iptal</string>
   <string name="default_area_code_setting">Varsayılan Alan Kodu</string>
   <string name="default_notification_description">Varsayılan ses (%1$s)</string>
-  <string name="default_port">5060</string>
-  <string name="default_preference_summary">&lt;Ayarsız&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete_fdn_contact">Sabit arama numarasını sil</string>
   <string name="deleting_fdn_contact">Sabit arama numarası siliniyor...</string>
   <string name="description_delete_button">geri</string>
@@ -813,7 +810,6 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="select_audio_dialog_title">Cevaplama modunu seçin</string>
   <string name="select_one_sim_title">Sadece SIM %1$d kullanılabilir</string>
   <string name="respond_via_sms_edittext_dialog_title">Hızlı cevapla</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Varsayılan uygulamayı sıfırla</string>
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Hızlı Cevaplar</string>
   <string name="respond_via_sms_setting_title_2">Hızlı Cevapları Düzenle</string>
@@ -907,7 +903,6 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="sum_cfu_enabled_no_number">Numara kullanılamıyor</string>
   <string name="sum_cw_disabled">Görüşme esnasında gelen aramaları bildir</string>
   <string name="sum_cw_enabled">Görüşme esnasında gelen aramaları bildir</string>
-  <string name="sum_default_caller_id">Dışarıya yapılan aramalarda numara gösterimi için operatörün varsayılan ayarlarını kullan</string>
   <string name="sip_call_not_support_record">"SIP çağrısı kaydedilemedi"</string>
   <string name="sum_fdn">Sabit Arama Numaralarını Yönet</string>
   <string name="sum_fdn_change_pin">FDN erişimi için PIN kodunu değiştir</string>
@@ -978,7 +973,6 @@ Bu sorun devam ederse operatörünüze danışın."</string>
   <string name="voice_privacy_summary">Gelişmiş gizlilik modunu etkinleştirin</string>
   <string name="voicemail">Sesli Mesaj</string>
   <string name="voicemail_abbreviated">SM:</string>
-  <string name="voicemail_default">Operatörüm</string>
   <string name="voicemail_notification_ringtone_title">Ses</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Titreşim</string>
   <string name="voicemail_notification_vibrate_when_title">Titreşim</string>
