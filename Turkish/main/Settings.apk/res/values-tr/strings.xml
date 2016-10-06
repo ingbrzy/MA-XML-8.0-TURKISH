@@ -1615,7 +1615,6 @@ Otomatik yedekleme açıldığında veriler periyotik zamanlarda saklanır. Bu i
   <string name="help_uri_apps"/>
   <string name="help_uri_beam"/>
   <string name="help_uri_dashboard"/>
-  <string name="help_uri_default"/>
   <string name="help_uri_display"/>
   <string name="help_uri_interruptions"/>
   <string name="help_uri_notifications"/>
@@ -1683,12 +1682,8 @@ Otomatik yedekleme açıldığında veriler periyotik zamanlarda saklanır. Bu i
   <string name="input_method">Klavye</string>
   <string name="input_method_selector">Giriş Usulu Seçici</string>
   <string name="input_method_selector_always_hide_title">Daima Gizle</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Daima Göster</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Otomatik</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Ayarlar</string>
   <string name="input_method_settings_button">Ayarlar</string>
   <string name="input_methods_and_subtype_enabler_title">Etkin giriş yöntemlerini seçin</string>
@@ -4452,8 +4447,6 @@ Ekle butonunu (+) kullanarak kelime ekleyin."</string>
   <string name="wait_for_debugger_summary">Ayıklanacak uygulamayı çalıştırmadan önce bağlamak için hata ayıklayıcısını bekle</string>
   <string name="wakeup_for_keyguard_notification_title">Bildirim gelince ekranı uyandır</string>
   <string name="wallpaper_attributions">Duvar Kağıtları</string>
-  <string name="wallpaper_attributions_values">"Uydu Görüntüsünün Sağlayıcıları:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Ana Ekran</string>
   <string name="wallpaper_live">Canlı Duvar Kağıdı</string>
   <string name="wallpaper_lockscreen">Kilit Ekranı</string>
@@ -4486,7 +4479,7 @@ Ekle butonunu (+) kullanarak kelime ekleyin."</string>
   <string name="wifi_advanced_titlebar">Gelişmiş WLAN</string>
   <string name="wifi_aggressive_handover">Hücresel geçişte agresif Wi-Fi</string>
   <string name="wifi_aggressive_handover_summary">Etkinleştirildiğinde; Wi-Fi sinyali düşük olduğunda Hücresel veri bağlantısı üzerinden geçişlerde Wi-Fi daha agresif olacak.</string>
-  <string name="wifi_alert_lockdown_by_device_owner">%1$s yönetimi bu cihazda değişiklik yapılmasına veya WLAN ağının silinmesine izin vermiyor. Daha fazla bilgi için yönetici le irtibata geçin.</string>
+  <string name="wifi_alert_lockdown_by_device_owner">%1$s yönetimi bu cihazda değişiklik yapılmasına veya WLAN ağının silinmesine izin vermiyor. Daha fazla bilgi için yöneticiyle irtibata geçin.</string>
   <string name="wifi_allow_scan_with_traffic">Daima Wi-Fi Dolaşım Taramalarına izin ver</string>
   <string name="wifi_allow_scan_with_traffic_summary">Arabiriminde veri trafiği miktarına bağlı olarak Kablosuz Dolaşım Taramalarına izin ver/verme</string>
   <string name="wifi_and_mobile_skipped_message">"UYARI: Wi-Fi adımını atlarsanız, telefonunuz ilk indirme ve güncelleme için kullanılacak bir internet bağlantısına sahip olmayacaktır."</string>
