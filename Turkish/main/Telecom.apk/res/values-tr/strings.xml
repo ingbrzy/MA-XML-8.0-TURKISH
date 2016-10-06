@@ -84,14 +84,12 @@
   <string name="confirm_device_info_full">SD kart dolmak üzere, kayıt saklandı.</string>
   <string name="confirm_save_info_saved">Kayıt saklandı</string>
   <string name="confirm_save_info_saved_to">Kayıt şuraya saklandı:</string>
-  <string name="default_notification_description">Varsayılan Ses (%1$s)</string>
   <string name="description_delete_button">backspace</string>
   <string name="description_dialpad_overflow">Diğer Seçenekler</string>
   <string name="description_image_button_plus">plus</string>
   <string name="description_voicemail_button">voicemail</string>
   <string name="dial_conference_fail_prompt">"Direkt olarak konferans araması yapılamıyor çünkü ağınız VoLTE desteğine sahip değil."</string>
   <string name="dial_vt_fail_prompt">"Ağınız VoLTE desteğine sahip değil. Düzenli sesli çağrıya dönülsün mü?"</string>
-  <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
   <string name="dialpad_0_labels"/>
   <string name="dialpad_0_letters">+</string>
   <string name="dialpad_1_labels"/>
@@ -205,8 +203,6 @@
   <string name="test_account_3_label">Bay Voice Chat Pro</string>
   <string name="test_account_3_short_description">Chat Network kullanıcılarıyla sohbet edin</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
-  <string name="ui_default_package">com.android.incallui</string>
-  <string name="ui_default_package_dialer">com.android.contacts</string>
   <string name="unknown">Bilinmiyor</string>
   <string name="userCallActivityLabel">Telefon</string>
   <string name="video_call_not_allowed_if_tty_enabled">Görüntülü görüşme yapmak için TTY Modunu devre dışı bırakın.</string>
