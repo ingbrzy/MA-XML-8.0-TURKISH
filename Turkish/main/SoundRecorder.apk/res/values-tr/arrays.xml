@@ -7,7 +7,25 @@
     <string-array name="interview_record_scenes_entries">
         <item>Müzik</item>
         <item>Ses</item>
-        <item>Mülakat</item>
+        <item>Röportaj</item>
+    </string-array>
+    <string-array name="hd_record_scenes_entries">
+        <item>Müzik</item>
+        <item>Ses</item>
+        <item>Röportaj</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="record_scenes_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>2 Kanallı kayıt, kulaklıkta stereo ses olarak dinlenir</item>
+        <item>"Daha kaliteli ses kaydı için mikrofonu ses kaynağına yakınlaştırın"</item>
+        <item>Temiz kayıt için telefonu iki kişi arasına yerleştirin</item>
+        <item>Mikrofonun azami etkisi 10 metre civarındadır</item>
     </string-array>
     <string-array name="record_quality_entries">
         <item>Yüksek</item>
