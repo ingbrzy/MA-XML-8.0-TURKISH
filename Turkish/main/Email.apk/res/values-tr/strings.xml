@@ -306,9 +306,6 @@
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Bugün, %1$s</string>
   <string name="default_">VARSAYILAN</string>
-  <string name="default_exchange">EXCHANGE</string>
-  <string name="default_imap">IMAP</string>
-  <string name="default_pop3">POP3</string>
   <string name="default_setup">VARSAYILAN AYARLAR</string>
   <string name="default_signature">Mi telefonumla gönderildi</string>
   <string name="del_account_questionnair_hint">"Bu hesabı neden kaldırdığınızdan bahseder misiniz?"</string>
@@ -852,7 +849,6 @@
   <string name="ser_resp_err_map_serclosed">%s sunucu kapalı</string>
   <string name="ser_resp_err_map_ssl">"Güvenlik Tipinden 'SSL/TLS (Tüm sertifikaları kabul et)  seçeneğini seçin'"</string>
   <string name="set_network">Ağı Ayarla</string>
-  <string name="setting_default_lable"/>
   <string name="settings_activity_title">Ayarlar</string>
   <string name="share_choose">Paylaşmak için dosyayı seçin</string>
   <string name="sharing">Paylaş</string>
