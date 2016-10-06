@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_not_found">Eylemi gerçekleştirecek uygulama bulunamadı</string>
+  <string name="back_to_message_list">Mesaj listesine dön</string>
+  <string name="confirm_delete_all_conversations">Tüm görüşmeler silinsin mi?</string>
+  <string name="confirm_delete_conversation">Bu içeriğin tümü silinsin mi?</string>
+  <string name="confirm_delete_group_message">Grup mesajları silinsin mi?</string>
+  <string name="confirm_delete_locked_message">Kilitli mesajlar silinsin mi?</string>
+  <string name="confirm_delete_message">Bu mesaj silinsin mi?</string>
+  <string name="confirm_dialog_locked_title">Kilitli mesaj silinsin mi?</string>
+  <string name="confirm_dialog_title">Silinsin mi?</string>
+  <string name="copy_message_text">Kopyala</string>
+  <string name="copy_message_text_success">Metin kopyalandı</string>
+  <string name="delete">Sil</string>
+  <string name="delete_message">Sil</string>
+  <string name="from_label">"Şurdan: "</string>
+  <string name="menu_forward">İlet</string>
+  <string name="menu_lock">Favori</string>
+  <string name="menu_unlock">Favoriden Çıkart</string>
+  <string name="message_details_title">Mesaj Detayları</string>
+  <string name="message_type_label">"Tipi: "</string>
+  <string name="received_label">"Alınan: "</string>
+  <string name="sent_label">"Gönder: "</string>
+  <string name="sms_card_partner_label">"SMS Kart Ortağı: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+  <string name="text_message">Mesaj Metni</string>
+  <string name="view_message_details">Detayları Görüntüle</string>
+</resources>
