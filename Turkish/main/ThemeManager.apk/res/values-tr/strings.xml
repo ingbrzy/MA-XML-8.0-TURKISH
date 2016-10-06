@@ -115,6 +115,8 @@
   <string name="provision_second_title">Varsayılan beş temadan birini seçin</string>
   <string name="provision_title">Bir tema seçin</string>
   <string name="purchased_list">Satın Alınan</string>
+  <string name="purchased_list_current">MIUI 8</string>
+  <string name="purchased_list_legacy">Eski Temalar</string>
   <string name="purchased_list_format">%1$s satın alındı</string>
   <string name="reload">Yeniden dene</string>
   <string name="resource_account_abnormal_state">Hesap hatası. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
@@ -248,8 +250,11 @@
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Ücretsiz</string>
   <string name="resource_price_unit">Mi Kredisi</string>
+  <string name="resource_purchase_common_error">Operasyon başarısız. Lütfen sonra tekrar deneyin.</string>
+  <string name="resource_purchase_continue_to_pay">%s ödemesi için devam et</string>
   <string name="resource_purchase_getting_order">Sipariş bilgi alınıyor…</string>
   <string name="resource_purchase_verifying_payment">Ödeme bilgisi doğrulanıyor…</string>
+  <string name="resource_purchase_vip_pay_failed">VIP tarafından ödeme başarız oldu.</string>
   <string name="resource_purchase_waiting_payment">Ödeme bilgisi bekleniyor…</string>
   <string name="resource_ranking">Popüler</string>
   <string name="resource_ranking_free">Ücretsiz</string>
