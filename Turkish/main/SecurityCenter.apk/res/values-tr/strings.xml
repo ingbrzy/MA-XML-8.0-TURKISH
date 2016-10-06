@@ -264,8 +264,6 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="card_main_xspace_action">Oluştur</string>
   <string name="card_main_xspace_summary">Herhangi bir uygulama için çift hesap oluştur</string>
   <string name="card_main_xspace_title">Klonlu Uygulamalar</string>
-  <string name="category_key_power_usage_details">key_power_usage_details</string>
-  <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">Son Şarj:</string>
   <string name="charging_text_battery_nearly_full">En Son Şarj:</string>
@@ -937,7 +935,6 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="power_save_mode_ontime_enabled">Modlar arasındaki geçişin zamanlanması</string>
   <string name="power_save_mode_start_time">Başlama</string>
   <string name="power_save_mode_summary" formatted="false">Arkaplan işlemlerinin izlemesi, eşitlemenin kapatılması ve sistem animasyonlarının kapatılmasını sağlar. Pil Tasarrufu, pilin %60 veya %100 olduğu durumlarda kapatılır.</string>
-  <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary_na">Şuraya:</string>
   <string name="power_save_on_time_start_time_summary_na">Şurda:</string>
   <string name="power_save_summary_text">"Arkaplan aktivitesi, eşitleme durdurulması ve sistem animasyonlarını durdurarak Pil Tasarrufu sağlanır."</string>
@@ -1048,7 +1045,6 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="preference_key_cta_settings">key_cta_settings</string>
   <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
   <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
-  <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
   <string name="preference_key_information_setting_close">key_information_setting_close</string>
   <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
   <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
@@ -1333,9 +1329,6 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="tc_diagnostic_brand_error_notification_title">Yanlış Ağ Tipi</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Sonuç: Yanlış operatör markası&lt;br/&gt;&lt;br/&gt;Markayı ayarla: &lt;xliff:g id=marka misali=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Faal Marka: &lt;xliff:g id=konum misali=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Tamam</string>
-  <string name="tc_diagnostic_fragment_default">"Teşhis Hakkında
-1. Cihaz, operatörün ağına bağlanmak için ücretsiz gönderecek ve operatörün yanıtı bekleyecek. Bu 5 dakika kadar sürebilir.
-2. Teşhis arkaplanda devam ederken başka işlerle meşgul olabilirsiniz."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Konumu ayarlamak için dokunun</string>
   <string name="tc_diagnostic_location_error_notification_title">Yanlış konum</string>
   <string name="tc_diagnostic_notification_sumarry">Sonuçları görüntülemek için dokunun</string>
