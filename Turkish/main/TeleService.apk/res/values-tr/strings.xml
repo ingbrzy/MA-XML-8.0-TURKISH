@@ -8,7 +8,6 @@
   <string name=" hide_error_from_network_text">İstek işlenemedi</string>
   <string name="Result_title">Sonuç...</string>
   <string name="accessibility_call_muted">Çağrı sessizde.</string>
-  <string name="accessibility_settings_activity_title">Erişebilirlik</string>
   <string name="accessibility_speakerphone_enabled">Hoparlör etkin.</string>
   <string name="active_phone_fail_nochoice">"SIM kart doğrulanamadı"</string>
   <string name="active_phone_fail_toast">"SIM kart  %1$s doğrulanamadı"</string>
@@ -924,7 +923,6 @@ Kontör yükle ve konuşmaya başla"</string>
   <string name="msim_not_set_summary">Ayarlanamadı</string>
   <string name="msim_pref_title_data">İnternet</string>
   <string name="msim_pref_title_voice">Çevir</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">ICC kart hatası</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Çağrı esnasında ayarlanamıyor"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM kart hatası</string>
@@ -1082,7 +1080,6 @@ Tercih edilen ağ bunun yerine kullanılıyor."</string>
   <string name="operator_mins_first">"Operatörün planına öncelik verin"</string>
   <string name="operator_mins_first_close">Kapat</string>
   <string name="operator_remain_mins">Operatör Paketinin Dakikaları</string>
-  <string name="operator_remain_mins_value">%1$s dakika</string>
   <string name="optional_summary">İsteğe Bağlı</string>
   <string name="order_by_recent">Frekans</string>
   <string name="order_id">Sipariş ID: %1$s</string>
@@ -1119,7 +1116,6 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="other_settings">Diğer çağrı ayarları</string>
   <string name="other_settings_category">Diğer</string>
   <string name="overseas_roaming_setting">Veri Dolaşımı</string>
-  <string name="password">Şifre</string>
   <string name="password_changed">Şifre değiştirildi</string>
   <string name="password_title">Şifre</string>
   <string name="path_answer_state_setting_title">Sistem Uygulamaları/Telefon/Gelen Çağrı Ayarları</string>
@@ -1468,7 +1464,6 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="sim_useless">SIM mevcut değil</string>
   <string name="sim_unlock_failed">SIM kilit açma isteği başarısız</string>
   <string name="sim_unlock_success">SIM kilid açma başarılı</string>
-  <string name="sim_useless">SIM mevcut değil</string>
   <string name="sip_account_list">SIP Hesapları</string>
   <string name="sip_accounts">İnternetten Ara (SIP) Hesabı</string>
   <string name="sip_accounts_title">SIP Hesapları</string>
@@ -1675,10 +1670,7 @@ Bu sorun devam ederse lütfen operatörünüze başvurun."</string>
   <string name="volte_ss_not_available_tips_roaming">Operasyonun tamamlanması için, %s veri dolaşımını açmalısınız.</string>
   <string name="volte_switch_summary">Sesli ve görüntülü görüşme kalitesini artırmak için VoLTE kullanın</string>
   <string name="volte_switch_title">VoLTE etkin</string>
-  <string name="wait_prompt_str">"Aşağıdaki sesler gönderilsin mi?
-"</string>
-  <string name="wait_prompt_str">"Tonlar gönderilsin mi?
-"</string>
+  <string name="wait_prompt_str">"Aşağıdaki sesler gönderilsin mi?"</string>
   <string name="wfc_internet_connection_lost">İnternet bağlantısı kesildi</string>
   <string name="wfc_internet_lost_summary">"Oops! WLAN bağlı ancak internet bağlantısı kesilmiş gibi görünür.
  
@@ -1692,7 +1684,6 @@ Görüşmeyi bitirmek için deneyin ve WLAN ağına tekrar bağlanmayı deneyin"
   <string name="wfc_wifi_handover_fail">Oops! Görüşmeniz tamamlanamıyor.</string>
   <string name="wfc_wifi_lte_handover_fail">Görüşmeye devam edebimek için mevcut LTE ağınız yok.</string>
   <string name="whole_calls">Tüm Çağrılar</string>
-  <string name="whole_calls">Tüm çağrılar</string>
   <string name="wifi_call_setting">Wi-Fi Çağrı Ayarları</string>
   <string name="wifi_calling">Wi-Fi Çağrısı</string>
   <string name="wifi_calling_call_assistant">Çağrı Yardımcısı</string>
