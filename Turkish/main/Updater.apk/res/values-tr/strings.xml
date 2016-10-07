@@ -21,6 +21,7 @@
   <string name="autosetmode">Ayarlar</string>
   <string name="best_update">En iyi güncelleme</string>
   <string name="boot_recovery">Kurtarma Modunda başlatılsın mı?</string>
+  <string name="button_delay_update_reboot">Y. Başlat &amp; Güncelle</string>
   <string name="button_text_check">Güncellemeleri kontrol et</string>
   <string name="button_text_later_reboot">Sonra</string>
   <string name="button_text_reboot">Tekrar Başlat</string>
@@ -54,6 +55,11 @@
   <string name="continue_update_negative_btn">Devam</string>
   <string name="continue_update_positive_btn">Durdur</string>
   <string name="daily_build">Günlük Sürüm</string>
+  <string name="delay_update_text">Sonra güncelle</string>
+  <string name="dialog_delay_update_cancel">İptal</string>
+  <string name="dialog_delay_update_msg">"Piliniz en az %30 şarja sahip olduğunda güncellemeleri uygulamak için cihazınız yeniden başlatılacak"</string>
+  <string name="dialog_delay_update_title">Güncelleme mevcut</string>
+  <string name="dialog_delay_update_tonight">Bu gece güncelle</string>
   <string name="dialog_reboot_message">"MIUI Güncellemesi yaklaşık 5-20 dakika arasında sürebilir. Bu esnada cihazı kapatmayın ve kesinlikle güncelleme bitene kadar yeniden başlatmayın."</string>
   <string name="dialog_reboot_title">Sistem Güncellemesi</string>
   <string name="dialog_reboot_yes">Güncelle</string>
@@ -117,6 +123,12 @@
   <string name="no_wifi_title">Veri Kullanım Uyarısı</string>
   <string name="not_open">Hayır</string>
   <string name="notification_auto_reboot_seccess_title">Cihaz otomatik olarak güncellenecek</string>
+  <string name="notification_delay_update_button">İki saat içinde güncelle</string>
+  <string name="notification_delay_update_cancel">"Bu gece güncelleme!"</string>
+  <string name="notification_delay_update_low_power">Pil geceleyin düşük olacak gibi gözüküyor</string>
+  <string name="notification_delay_update_msg">%ss cihaz yeniden başlatılacak &amp; güncellenecek </string>
+  <string name="notification_delay_update_no_update">"Güncelleme uygulanamadı"</string>
+  <string name="notification_delay_update_shutdown">Geceleyin cihaz kapatılacak gibi gözüküyor</string>
   <string name="notification_downloading">Güncelleme indiriliyor…</string>
   <string name="notification_fail_msg">ROM indirmeyi deneyin</string>
   <string name="notification_load_body_alpha">Cihazınız için en son güncellemeleri alın.</string>
@@ -204,6 +216,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="test">Test</string>
   <string name="timer_title">Cihaz %d saniye sonra tekrar başlayacak.</string>
   <string name="title_toast_auto">Güncellemeleri otomatik olarak indir</string>
+  <string name="toast_delay_update_tonight">Cihazınız saat 2:00ÖÖ ve 5:00ÖÖ arasında güncellenecek</string>
   <string name="top_secret_build">Çok gizli</string>
   <string name="uncrypt_title">Çözülüyor (%s)</string>
   <string name="unkown_error_title">"İndirilemedi"</string>
