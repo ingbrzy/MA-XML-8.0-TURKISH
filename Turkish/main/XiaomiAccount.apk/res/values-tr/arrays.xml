@@ -29,6 +29,10 @@
         <item>Y</item>
         <item>Z</item>
     </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
     <string-array name="education">
         <item>Ortaokul</item>
         <item>Hazırlık Okulu</item>
