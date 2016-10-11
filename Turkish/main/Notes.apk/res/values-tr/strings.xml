@@ -7,9 +7,12 @@
   <string name="alert_edit_action_update">Değiştir</string>
   <string name="alert_message_delete">%1$s not silinsin mi?</string>
   <string name="alert_message_delete_note">Bu notu silmek istiyor musunuz?</string>
-  <string name="alert_message_edit_anyway">Bu notu düzenlerseniz, içeriğinin bazıları kaybedilebilir.</string>
+  <string name="alert_message_edit_anyway">Bu notu düzenlerseniz, içeriğinden bazı şeyleri kaybedebilirsiniz.</string>
+  <string name="alert_message_restore">"Not açılamadı. Geri yükleyip içeriğini düzenleyin."</string>
   <string name="alert_title_delete">Bu notu silmek istiyor musunuz?</string>
   <string name="alert_title_edit_anyway">Bu not desteklenmeyen içerikleri ihtiva eder</string>
+  <string name="alert_title_hidden_note">Gizli not hatırlatıcısı alındı</string>
+  <string name="alert_title_restore">Notu Geri Yükle</string>
   <string name="all_folder_name">Tüm notlar</string>
   <string name="all_terms">%1$s ve %2$s</string>
   <string name="app_name">Notlar</string>
@@ -27,6 +30,9 @@
   <string name="dlg_desc_confirm_alarm_silent">Zil susturulduğunda faal alarmlar çalmaz.</string>
   <string name="dlg_hide_message">Gizleniyor…</string>
   <string name="dlg_info_creating_message">Mesaj oluşturuluyor...</string>
+  <string name="dlg_message_password_reset">"Gizli Notlar; Gizlilik Koruma Şifresi ile mesajları, fotoğrafları, gizli dizinleri korumak için şifrelenir."</string>
+  <string name="dlg_message_set_password">Gizlilik Koruma Şifresi mesajlar, fotoğraflar ve gizli dizinleri korumak için çalışır</string>
+  <string name="dlg_message_use_privacy_password">Gizlilik Koruma Şifresi kullanıyor. Böylece mesajlar, fotoğraflar ve gizli dizinler koruma altına alınır</string>
   <string name="dlg_move_message">Taşınıyor…</string>
   <string name="dlg_privacy_message">Gizleniyor…</string>
   <string name="dlg_quick_delete_title">Hızlı Sil</string>
@@ -98,6 +104,7 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="pref_title_font_size">Yazı Boyutu</string>
   <string name="pref_title_note_style">Tarzı</string>
   <string name="pref_title_recover_help">Notları kurtar</string>
+  <string name="pref_title_show_root_folder_in_homepage">Hizli Notları Ana Ekranda göster</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Hızlı Sil</string>
   <string name="privacy_hint">Gizlilik</string>
   <string name="privacy_notes_fragment_title">Gizli Notlar</string>
