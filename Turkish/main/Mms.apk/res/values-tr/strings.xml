@@ -389,8 +389,8 @@
   <string name="pref_other_title">Ek Ayarlar</string>
   <string name="pref_show_blocked_messages_summary">Engellenen SMS konuşmalar listesinde göster</string>
   <string name="pref_show_sms_template_in_summary">Bir kez kullanılan parolaların SMS mesajlarını otomatik olarak algıla</string>
-  <string name="pref_show_sms_template_summary">Doğrulama kodlarını otomatik kopyala ve doldur</string>
-  <string name="pref_smart_messages_settings">Akıllı mesajlar</string>
+  <string name="pref_show_sms_template_summary">Mi Mesajda akıllı özellikleri kullanmayı açarsanız kodları kopyalayabilir, dengeleri kontrol edebilirsiniz vb...</string>
+  <string name="pref_smart_messages_settings">Akıllı Mesajlar</string>
   <string name="pref_sms_theme_title">Görüntüle</string>
   <string name="pref_summary_allow_si_sl_push">Mesajların web sitelerinden içerik yüklemesine izin verir</string>
   <string name="pref_summary_delete_limit">%1$s görüşme başına mesaj</string>
