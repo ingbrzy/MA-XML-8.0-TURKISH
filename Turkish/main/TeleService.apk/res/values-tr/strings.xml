@@ -347,7 +347,8 @@
   <string name="cfnrc_title_cta">Ulaşılamıyorsa Yönlendir</string>
   <string name="cfnry_title">Cevaplanmazsa Yönlendir</string>
   <string name="cfu_title">Daima Çağrıları Yönlendir</string>
-  <string name="change_cdma_capability_dialog" formatted="false">%s geçici olarak çalışmıyor , eğer varsayılan çağrı, SMS, Veri %s göre %s şeklide değişecek.</string>
+  <string name="change_data_preference_4g_only_prompt">Sadece 4G SIM Kartı var gibi gözüküyor. Varsayılan olarak ayarlansın mı?</string>
+  <string name="change_cdma_capability_dialog" formatted="false">%s geçici olarak çalışmıyor. Eğer varsayılan çağrı, SMS veya Veri %s göre %s şeklinde değişecek.</string>
   <string name="change_default_data_card">Mobil Veri SIM Varsayılanı</string>
   <string name="change_default_data_card_summary">SIM kartları değişti gibi görünüyor. Mobil veri bağlantısı için varsayılan SIM olarak bu kart ayarlansın mı?</string>
   <string name="change_num">Güncelle</string>
@@ -911,6 +912,7 @@ Kontör yükle ve konuşmaya başla"</string>
   <string name="msim_disable_sim_card_btn_text">Tamam</string>
   <string name="msim_disable_sim_card_summary_default_card">"Bu kart şu anda varsayılan SIM olarak ayarlandı. Bunu kullanmayı bırakırsanız, arama yapmak veya mobil veri bağlantınızı kullanmak mümkün olmayacaktır. Varsayılan kart olarak başka SIM ayarladıktan sonra bu SIM kartı durdurabilirsiniz."</string>
   <string name="msim_disable_sim_card_summary_non_default_card">Arama yapmak veya mobil veri bağlantınızı kullanmak mümkün olmayabilir. %s SIM kart kullanımı durdurulsun mu?</string>
+  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Acil geri arama modunda ikincil SIM kartı kısıtlamayın."</string>
   <string name="msim_disable_sim_card_title">SIM kartı kullanmayı durdurun</string>
   <string name="msim_enable_sim">Aç</string>
   <string name="msim_general_setting">Ayarlar</string>
