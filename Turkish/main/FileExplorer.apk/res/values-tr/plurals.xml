@@ -304,4 +304,12 @@
         <item quantity="other">%d karakter girebilirsiniz</item>
         <item quantity="one">%d karakter girebilirsiniz</item>
     </plurals>
+    <plurals name="video_items">
+        <item quantity="other"> %1$d öğe</item>
+        <item quantity="zero"> %1$d öğe</item>
+        <item quantity="one"> %1$d öğe</item>
+        <item quantity="two"> %1$d öğe</item>
+        <item quantity="few"> %1$d öğe</item>
+        <item quantity="many"> %1$d öğe</item>
+    </plurals>
 </resources>
