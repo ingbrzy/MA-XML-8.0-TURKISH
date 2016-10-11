@@ -856,7 +856,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="confirm_new_backup_pw_prompt">Buraya yeni tam yedekleme şifrenizi tekrar yazın</string>
   <string name="confirm_privacy_password">Gizlilik koruması parolasını girin</string>
   <string name="confirm_privacy_password_fingerprint">Parmakizini tarayın veya Gizlilik koruması şifrenizi girin</string>
-  <string name="confirm_privacy_password_instruction">Bu şifre uygulamaları, mesajları, fotoğrafları ve kişileri korur.</string>
+  <string name="confirm_privacy_password_instruction">Bu şifre mesajları, fotoğrafları ve kişileri korur.</string>
   <string name="confirm_reset_aaid">Tamam</string>
   <string name="connect_to_internet">Ağa bağlan</string>
   <string name="connected_via_passpoint">%1$s yoluyla bağlandı</string>
@@ -2814,7 +2814,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="privacy_password_fingerprint_dialog_message">Parmağınızı sensöre koyun</string>
   <string name="privacy_password_fingerprint_dialog_title">Parmakizini Tarayın</string>
   <string name="privacy_password_settings">Gizlilik koruma şifresini kullan</string>
-  <string name="privacy_password_settings_titles">Gizlilik koruma şifresi mesajlarınızı, fotoğrafları, dosyaları, notları ve uygulamaları korur.</string>
+  <string name="privacy_password_settings_titles">Gizlilik koruma şifresi mesajlarınızı, fotoğrafları, dosyaları, notları korur.</string>
   <string name="privacy_password_title">Gizlilik Koruma Şifresi</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Deseni göster</string>
@@ -3608,6 +3608,13 @@ Kalan Girişimler :"</string>
   <string name="simulate_color_space">Renk alanını simüle et</string>
   <string name="single_key_use">Tekli Düğme</string>
   <string name="single_key_use_summary">Diğer iki düğme ile yapılan fonksiyonları Ana Ekran düğmesi ile gerçekleştirirsiniz.</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
+  <string name="size_peta_byte">PB</string>
+  <string name="size_suffix">%1$s%2$s</string>
+  <string name="size_tera_byte">TB</string>
   <string name="skip_label">Atla</string>
   <string name="skip_lock_screen_confirm_msg">Kilit erkanında Bildirimler, Müzik Çalar Kontrolü, Kamera ve Mi Ana Sayfa devre dışı.</string>
   <string name="skip_step">Atla</string>
