@@ -591,6 +591,8 @@ ve yenilerini kaçırmayın!"</string>
   <string name="phone_valid_code_tip">Kod birden fazla girildi, yeni bir tane alıp, deneyin</string>
   <string name="pick_file">Dosyaları Seç</string>
   <string name="pick_folder">Dizin seç</string>
+  <string name="popup_msg_qq">Bu videoyu QQ arkadaşlarınızla paylaşın.</string>
+  <string name="popup_msg_wx">Bu videoyu WeChat arkadaşlarınızla paylaşın.</string>
   <string name="port_range">Port numarası 1024–65535 arasında olmalıdır</string>
   <string name="private_files">Gizli</string>
   <string name="private_folder">Gizli Klasörler</string>
@@ -715,6 +717,10 @@ ve yenilerini kaçırmayın!"</string>
   <string name="share_now">Paylaş</string>
   <string name="share_title_1">Güzel etiket paketi bulundu!</string>
   <string name="share_to">Paylaş…</string>
+  <string name="share_youliao1">Daha fazla bölümü izlemek için güncelle.</string>
+  <string name="share_youliao2">Daha fazla bölümü izlemek için güncelle.</string>
+  <string name="share_youliao3">Daha fazla bölümü izlemek için güncelle.</string>
+  <string name="share_youliao4">Daha fazla bölümü izlemek için güncelle.</string>
   <string name="shared_sticker_network_permission_tip">"Ağa bağlanamıyor. Ağ bağlantınızı kontrol edin ve tekrar deneyin."</string>
   <string name="shared_sticker_page_no_file">"Ağa bağlanamıyor. Ağ bağlantınızı kontrol edin ve tekrar deneyin."</string>
   <string name="shared_sticker_str">Geçmiş</string>
@@ -817,6 +823,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="unlogin">Önce oturum açın</string>
   <string name="unmount_inform_text">USB depolama birimi çıkartılsın mı?</string>
   <string name="unreviewed_video_cannot_share">Videolar paylaşmadan önce gözden geçirilmelidir</string>
+  <string name="update">Güncelle</string>
   <string name="update_failed">"Kaydedilemedi, yeniden deneyin"</string>
   <string name="update_loading">Kaydediliyor…</string>
   <string name="upload_avatar_camera">Kamera</string>
@@ -839,7 +846,12 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="upload_notification_success_content">"Diğer insanlar paylaşılan videoyu görmeden önce incelenelidir"</string>
   <string name="upload_notification_title">Video yükleniyor</string>
   <string name="upload_user_photo">Yükle</string>
+  <string name="upload_video_failed">"Gönderilemedi"</string>
+  <string name="upload_video_failed_external_progress">"Gönderilemedi, başka bir tane deneyin"</string>
+  <string name="upload_video_failed_progress">"Gönderilemedi, yeniden deneyin"</string>
   <string name="upload_video">Videoyu Paylaş</string>
+  <string name="upload_video_success">Başarıyla gönderildi</string>
+  <string name="upload_video_success_progress">Başarıyla gönderildi</string>
   <string name="upload_video_dialog_message">"Videonuz doğrulandıktan sonra istenilen özelliğe kavuşur."</string>
   <string name="upload_video_dialog_title">Video başarıyla paylaşıldı</string>
   <string name="upload_video_failed">"Video paylaşılamadı, tekrar deneyin."</string>
@@ -916,6 +928,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="video_data_consumption_confirm">Tamam</string>
   <string name="video_data_consumption_dialog_message">Yüklemek için %1$s mobil veri gerekiyor</string>
   <string name="video_data_consumption_dialog_title">Mobil Veri Uyarısı</string>
+  <string name="video_description">Video Açıklaması</string>
   <string name="video_parse_btn">"Başlat'a basın"</string>
   <string name="video_parse_error_repeated">"Lütfen,benzer video bağlantısı tekrarlanamıyor"</string>
   <string name="video_parse_error_unknown">"Bu bağlantısı desteklenmiyor, farklı bir tane deneyin"</string>
@@ -925,6 +938,8 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="video_parsing_btn">Ayrıştırılıyor…</string>
   <string name="video_play_failed">Bilinmeyen hata</string>
   <string name="video_publish_hint">Videonuzu bulması için diğer kişilerin anlayacağı etkili içerikler, açıklamalar yazın</string>
+  <string name="video_publish_hint2">Açıklama</string>
+  <string name="video_recommend_upload">Tavsiyeli</string>
   <string name="video_releasing">Yükleniyor…</string>
   <string name="video_replay">Tekrar Oynat</string>
   <string name="video_status_reject">Çıkıldı</string>
@@ -936,13 +951,17 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="video_topic_hint">Ara</string>
   <string name="video_upload_btn">Sonraki</string>
   <string name="video_upload_btn_hint">MP4 videolar 3s~10dak kadar uzun olmalı</string>
+  <string name="video_upload_hint">Videoları göndererek daha fazla puan kazanın.</string>
   <string name="video_upload_btn_hint_span">"Video bulunamıyor mu?"</string>
   <string name="video_upload_item_more">Fazlası (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
+  <string name="video_upload_kuaishou_hint">KuaiShou sitesine videoları göndererek hayranlarınızı arttırın.</string>
   <string name="video_upload_retry_confirm">Tekrar Deneyin</string>
   <string name="video_upload_retry_message">"Yüklenemedi, yeniden denensin mi?"</string>
   <string name="video_upload_retry_title">Yeniden deneyin</string>
   <string name="video_upload_title">Videoyu Seçin</string>
+  <string name="video_upload_wechat_hint">WeChat sitesine videoları gönderip daha fazla haran kazanın.</string>
+  <string name="video_uploaded">Yüklendi</string>
   <string name="videos">Videolar</string>
   <string name="view_more_sticker">Daha fazla etikete bak</string>
   <string name="vip_info">VIP: %1$s</string>
@@ -968,6 +987,13 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Evet</string>
   <string name="yesterday">Dün</string>
+  <string name="youliao_ad_msg">"Şimdi uygulamayı tam sürüme güncelleyin, daha fazla eğlenin!
+170 Milyon Mi hayranı izlesin."</string>
+  <string name="youliao_ad_title">En iyi videolar tam sürümde güncellenir!</string>
+  <string name="youliao_ad_update">Güncelle</string>
+  <string name="youliao_dialog_msg">"En iyiler \"Youliao\" güncellenir, 
+şimdi uygulamayı tam sürüme güncelleyin ve fazlasını izleyin."</string>
+  <string name="youliao_dialog_title">İlginç video yok mu?</string>
   <string name="zero">0</string>
   <string name="zero_comment">Yorum yok</string>
 </resources>
