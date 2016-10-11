@@ -27,6 +27,7 @@
   <string name="account_none_binded_info">Yok</string>
   <string name="account_none_binded_secure_phone">Telefon numarası yok</string>
   <string name="account_none_user_name">Yok</string>
+  <string name="account_protection">Hesap Koruması</string>
   <string name="account_security_question">Güvenlik sorusu</string>
   <string name="account_settings">Hesap</string>
   <string name="account_user_avatar">Profil Resmi</string>
@@ -63,6 +64,7 @@
   <string name="agree_add_continue">Kabul</string>
   <string name="alert_title_remove_account">Hesap kaldırılsın mı?</string>
   <string name="app_name">Mi Hesabı</string>
+  <string name="auth_fail_warning">Oturum süresi doldu, yeniden oturum açın</string>
   <string name="authorize_title">Yetkilendir</string>
   <string name="barcode_add_account_prompt">Bir hesaba bağlanmak için, giriş yaptıktan sonra QR kodunu tekrar tarayın.</string>
   <string name="bind_facebook">Facebook hesabına bağlan</string>
@@ -83,6 +85,9 @@
   <string name="cloud_service_dspt">Fotoğraflarınızı, kişileri, notları, uygulamaları ve daha fazlası tüm cihazlarınızla eşitleyin.</string>
   <string name="completed">Tümünü ayarla</string>
   <string name="confirm_activate_email">Doğrulandı</string>
+  <string name="confirm_delete_app_message">"Bu uygulamayı silindikten sonra, bu numara ile Mi Hesabında oturum açmak isterseniz yeniden etkinleştirmeniz yapmanız gerekir."</string>
+  <string name="confirm_delete_browser_message">"Bu tarayıcıyı sildikten sonra bu telefon numarası ile Mi Hesabına girmek isterseniz yeniden etkinleştirme yapmanız gerekir."</string>
+  <string name="confirm_delete_device_message">"Bu cihazı sildikten sonra bu telefon numarası ile Mi Hesabına girmek isterseniz yeniden etkinleştirme yapmanız gerekir."</string>
   <string name="confirm_phone_number_dialog_message">Doğrulama kodu gönderilecek: %s.</string>
   <string name="confirm_phone_number_dialog_title">Telefon numarasını onayla</string>
   <string name="confirm_unbind">Bu hesap bağlantısı kesilsin mi?</string>
@@ -96,14 +101,21 @@
   <string name="data_keep_in_device">Bu cihazda sakla</string>
   <string name="data_wipe_from_device">Bu cihazdan sil</string>
   <string name="delete_action">Sil</string>
+  <string name="delete_app">Uygulamayı sil</string>
+  <string name="delete_bank_card_message">Oturumu kapattıktan sonra banka kartı güvenlik nedeniyle silinecektir.</string>
+  <string name="delete_bank_card_title">Banka kartınız siliniyor</string>
+  <string name="delete_browser">Tarayıcıyı sil</string>
+  <string name="delete_device">Cihazı sil</string>
   <string name="delete_device_btn">Kaldır</string>
   <string name="delete_device_failed">"Cihaz kaldırılamadı"</string>
   <string name="delete_device_notice">Cihaz kaldırıldıktan sonra, otomatik olarak Mi Hesabınızdan çıkmış olunacak. Bu fotoğraflara, mesajlara erişmek için cihaz veya hesabınızda saklanan diğer içeriği kullanmak mümkün olmayacak."</string>
+  <string name="delete_lock_device_success">Başarıyla silindi</string>
   <string name="device_delete_loading">Bir saniye…</string>
   <string name="device_delete_success_message">"Bu cihazda oturum açamıyorsanız, hemen şifrenizi değiştirin."</string>
   <string name="device_delete_success_title">Oturum kapatıldı</string>
   <string name="device_list__header">Cihazlarım</string>
   <string name="device_list_title">Cihazlarım</string>
+  <string name="device_name">Cihaz Adı</string>
   <string name="device_trust_info">Güvenli cihaz</string>
   <string name="empty_device_list_notice">Cihaz yok</string>
   <string name="error_dup_binded_email">Bu E-Posta adresi zaten başka Mi Hesabı ile ilişkilendirilmiş.</string>
@@ -118,6 +130,7 @@
   <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka Mi Hesabı ile ilişkilendirilmiş.</string>
   <string name="find_device_access_denied">"Durum alınamadı, erişim engellendi"</string>
   <string name="find_device_account_error">"Durum alınırken hesapta hata oluştu"</string>
+  <string name="find_device_activate_account">Hesabı etkinleştir</string>
   <string name="find_device_bad_response_error">Durum alınırken, sunucu hatası oluştu, tekrar deneyin"</string>
   <string name="find_device_error_password_not_confirmed">"Telefonu Bul açılamadı. Mi Hesabı şifresini yeniden girin."</string>
   <string name="find_device_error_password_recently_changed">"Şifreyi en son 3 gün önce değiştirdiniz. Güvenlik durumundan dolayı Telefonu Bul açılamadı."</string>
@@ -130,9 +143,11 @@
   <string name="find_device_request_error">"Durum bilgisi alınamadı, sonra yeniden deneyin"</string>
   <string name="find_device_request_prepare_error">"Cihaz durumu alınamadı, sonra yeniden deneyin"</string>
   <string name="find_device_unknown_error">"Cihaz durumu alınamadı, sonra yeniden deneyin"</string>
+  <string name="first_login_time">Önce giriş yapın: %s</string>
   <string name="forward_to_bind">Ekle</string>
   <string name="get_device_list_failed">"Cihaz listesi alınamıyor"</string>
   <string name="get_phone_verifycode_exceed_limit">Çok fazla doğrulama kodu bu numaraya gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
+  <string name="ignore">Şimdi değil</string>
   <string name="i_know">Biliyorum</string>
   <string name="ignore">Şimdi değil</string>
   <string name="input_email_address_notice">"Hesabınızı doğrulamak için bu e-postayı kullanacağız"</string>
@@ -140,8 +155,13 @@
   <string name="internet_statement_title">Kullanıcının Şartları</string>
   <string name="just_a_second">Biraz bekleyin...</string>
   <string name="loading_micloud_sync_data">Biraz bekleyin...</string>
+  <string name="local_device">(bu cihaz)</string>
   <string name="locating_current_location">Saptanıyor</string>
   <string name="location_service_not_working">Konum hizmeti çalışmıyor</string>
+  <string name="login_check_find_device">Cihazın güvenlik bilgisi alınıyor…</string>
+  <string name="login_check_find_device_failed_title">"Telefonu Bul durumu denetlenemedi"</string>
+  <string name="login_find_device_bind">Bu cihaz Mi Hesap Kimliği (%s) ile bağlantılıdır, şifrenizi girip cihazı doğrulayın.</string>
+  <string name="login_guard_prompt">Bilinmeyen bir uygulama veya cihazla Mi Hesabında oturum açtığınızda doğrulama yapabilmek için telefon numarası gerekir.</string>
   <string name="logout_failed">"Oturum açılamıyor"</string>
   <string name="mi_account_dspt_provision">"İstediğiniz yerden Mi Bulut, MIUI Tema Mağazası ve diğer servislere oturum açabilirsiniz. "</string>
   <string name="mi_account_identity_title">Kimliğinizi doğrulayın</string>
@@ -152,20 +172,20 @@
   <string name="micloud_space_info">%s mevcut</string>
   <string name="mili_center">Mi Kredisi</string>
   <string name="mipay_center">Mi Cüzdanı</string>
-  <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
-  <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space. To avoid this, don't turn on sync with Mi Cloud."</string>
-  <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>
+  <string name="multi_user_not_show_sync_activity_message_1">"İlk Alandaki Mi Hesabını kullanıyorsunuz gibi."</string>
+  <string name="multi_user_not_show_sync_activity_message_2">"Tüm verileriniz İkinci Alana eşitlenecek. Bu esnada Mi Bulut ile eşitlemeyi açmayın."</string>
+  <string name="multi_user_not_show_sync_activity_title">Mi Bulut ile eşitlemeyi açma!</string>
   <string name="my_device_title">Geçerli Cihaz:</string>
   <string name="no_network_btn">Yenile</string>
   <string name="no_network_title">"Ağa bağlanılamıyor."</string>
   <string name="no_response_retry">Cevap yok, lütfen tekrar deneyin.</string>
-  <string name="no_sim_card">SIM kart yok</string>
+  <string name="no_sim_card_or_unactivated">"SIM Kart yüklenmedi veya etkinleştirilmedi"</string>
   <string name="nobind">Bağlanamadı</string>
   <string name="notify_network_restricted_content_bg_network">"Mi Hesabının internet erişimi kısıtlandı. Dokunup izin verin."</string>
   <string name="notify_network_restricted_content_hidden_state">"Mi Hesabının arkaplan etkinliği kısıtlandı. Dokunup izin verin."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Hesabının internet erişimi kısıtlandı. Dokunup izin verin."</string>
   <string name="notify_network_restricted_title">"Mi Hesabı internete bağlanamadı"</string>
-  <string name="other_devices">Diğer cihazlar</string>
+  <string name="other_devices_title">Diğer cihazlar</string>
   <string name="passport_access_denied">Erişim engellendi</string>
   <string name="passport_account_hint_text">E-posta adresi veya Mi Hesap Kimliği</string>
   <string name="passport_account_identity_title">Kimliğinizi doğrulayın</string>
@@ -194,6 +214,8 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_completed">Bitti</string>
   <string name="passport_confirm">Tamam</string>
   <string name="passport_confirm_recycle_account">Evet</string>
+  <string name="passport_copy_message_text_success">Başarıyla kopyalandı</string>
+  <string name="passport_copy_message_vcode">Kodu kopyala</string>
   <string name="passport_delete_account">Oturumu kapat</string>
   <string name="passport_downlink_reg">Telefon numarası kullanarak hesap oluştur</string>
   <string name="passport_email">E-Posta adresi</string>
@@ -254,9 +276,10 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_login_short">Oturum aç</string>
   <string name="passport_login_title">Mi Hesabınızda oturum açın</string>
   <string name="passport_login_using_other_ways">&lt;u&gt;Diğer yolla oturum aç&lt;/u&gt;</string>
+  <string name="passport_message_dialog_title">SMS ile Kodları Doğrula</string>
   <string name="passport_login_with_email_or_id">&lt;u&gt;E-Posta adresi veya Mi Hesap ID ile oturum açın&lt;/u&gt;</string>
   <string name="passport_miui_provision_find_status_text">"Bu cihaz kullanılan bir Mi Hesap (%1$s) ile ilişkili, cihazın şifresini girip doğrulayın.
-(Unlock number: %2$s)"</string>
+(Kaldırma Numarası: %2$s)"</string>
   <string name="passport_next">Sonraki</string>
   <string name="passport_notification_title">%1$s için oturum açma hatası</string>
   <string name="passport_password_req_notice">Şifre 8-16 karakter haneli olmalı sayılar ve harfler içermelidir (küçük harfe duyarlı).</string>
@@ -317,7 +340,8 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_skip_setup_account_msg">Mi Hesabınızı daha sonra Ayarlardan değiştirebilirsiniz.</string>
   <string name="passport_skip_setup_account_title">Kurulumu Atla</string>
   <string name="passport_title_reg">Hesap oluştur</string>
-  <string name="passport_trust_device">Bu cihaz güvenli</string>
+  <string name="passport_trust_device">Bu cihazı doğrulanmış cihazlara ekle</string>
+  <string name="passport_trying_read_verify_code_sms">Doğrulama kodu alınıyor…</string>
   <string name="passport_uplink_reg">Telefon numarasını kullan</string>
   <string name="passport_uplink_slot1_reg">SIM 1 Kullan</string>
   <string name="passport_uplink_slot2_reg">SIM 2 Kullan</string>
@@ -330,6 +354,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_user_agreement_p4">kabul etmiş olursunuz.</string>
   <string name="passport_vcode_notification_title">Oturum açma doğrulanması tamamlanamadı</string>
   <string name="passport_vcode_prompt_long">Doğrulama kodunu girin</string>
+  <string name="passport_vcode_sms_send_prompt">Doğrulama kodunu %s gönder</string>
   <string name="passport_verification_failed">Kimlik doğrulama başarısız</string>
   <string name="passport_verify">Doğrula</string>
   <string name="passport_wait_for_sms_prompt">Şimdi baştan başlansın mı? Telefonunuz operatörünüzün şebekesi kapsama alanı içinde olduğunda doğrulama mesajlarının teslim edilmesi 10 dakika sürebilir."</string>
@@ -376,9 +401,12 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="service_error">Servis hatası</string>
   <string name="set_security_question_title">Güvenlik sorusunu ayarla</string>
   <string name="sina_weibo">Sina Weibo</string>
+  <string name="sms_send_success">Gönder</string>
   <string name="sns_access_token_expired_warning">Hesap oturum açma süresi doldu. Bu hesabı eklemek için tekrar giriş yapın.</string>
   <string name="submit_answers">Gönder</string>
   <string name="success">Tamam</string>
+  <string name="trusted_browsers">Güvenilir Tarayıcılar</string>
+  <string name="trusted_browsers_prompt">Eğer Çerezleri silerseniz, tarayıcınız güvenilir olmaktan çıkacak.</string>
   <string name="theme_store">MIUI Tema Mağazası</string>
   <string name="theme_store_dspt">Görünümü seçin. Özelleştirilebilir ücretsiz yüzlerce tema ile telefonunuzu benzersiz yapın.</string>
   <string name="timeout_retry">İstek zaman aşımına uğradı, lütfen tekrar deneyin.</string>
@@ -386,8 +414,13 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="turn_off_find_device_failed_title">"Telefonu Bul kapatılamıyor"</string>
   <string name="turning_off_find_device">Telefonu Bul kapatılıyor…</string>
   <string name="unbind_sns_description">"Bu hesabın bağlantısını kestikten sonra, Mi Hesabınızda oturum açmak için %s hesap bilgilerini kullanmak mümkün olmayacaktır."</string>
+  <string name="unlock_help_notice">"Yardım:
+· Eğer şifrenizi unutursanız; id.mi.com adrese gidip sıfırlayın.
+· Eğer cihazın kilidini kaldıramazsanız; i.mi.com adrese gidip Telefonu Bul özelliğini kapatın
+· Şu kilidi kaldırma numarasını müşteri hizmetlerine söyleyin: %s"</string>
   <string name="unbind_weibo_description">"Bu hesabın bağlantısını kestikten sonra, Weibo kişilerinizi eşitlemek veya oturum açmak için Sina Weibo Hesabınızı kullanmak mümkün olmayacaktır."</string>
   <string name="update_contacts">Adres defterini güncelle</string>
+  <string name="update_email_address_dialog_message">Kimliğinizi doğrulamadan önce mail adresinizi güncellemelisiniz.</string>
   <string name="update_contacts_description">Sina Weibo platformlarında kişileri eşitlemek üzere Mi Hesabınızı kullanmasına izin verin</string>
   <string name="update_email_address_dialog_message">Kimliğinizi doğrulamadan önce E-Postanızı güncelleyin</string>
   <string name="update_email_address_dialog_title">E-Postayı güncelle</string>
@@ -395,6 +428,10 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="updated_nothing">Güncellendi</string>
   <string name="user_avatar_update_title">Profil fotoğrafını değiştir</string>
   <string name="user_avatar_uploading">Biraz bekleyin...</string>
+  <string name="verified_apps">Doğrulanmış Uygulamalar</string>
+  <string name="verified_devices">Doğrulanmış Cihazlar</string>
+  <string name="verify_phone_prompt">Doğrulamak için telefon numarasını seçin</string>
+  <string name="verify_phone_title">Telefon Numarası</string>
   <string name="wipe_data_dialog_msg">Eğer devam ederseniz, %s silinecek.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Bazı öğeler eşitlenemedi."</string>
