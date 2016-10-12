@@ -38,7 +38,10 @@
   <string name="attach_take_photo">Fotoğraf Çek</string>
   <string name="attach_video">Video</string>
   <string name="audio_download_failed">"Ses dosyası indirilemedi!"</string>
+  <string name="audio_message_expired">Sesli mesajın süresi doldu.</string>
+  <string name="audio_message_mx_offline">"Ses dosyası indirilemedi. Mi Mesaj çevrimdışı veya mevcut değil."</string>
   <string name="audio_playing_seconds">%d\"</string>
+  <string name="audio_sim_card_mismatching">Ağ bağlantısı yok veya SIM Kart takılmamış. SIM Kart takıp, ağa mesaj gönderme, alma vb... işlemlerini ayarlayın.</string>
   <string name="back_to_message_list">Mesaj listesine dön</string>
   <string name="batch_adding_progress_message">Ekleniyor</string>
   <string name="batch_delete_confirm_dialog_message">Seçtiğiniz %1$s mesaj silinsin mi?</string>
