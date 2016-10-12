@@ -5,7 +5,7 @@
   <string name="DOWNLOAD_UNIT_KB"> KB</string>
   <string name="DOWNLOAD_UNIT_MB"> MB</string>
   <string name="DOWNLOAD_UNIT_TB"> TB</string>
-  <string name="Only_the_wifi">Sadece Wi-Fi Kullan</string>
+  <string name="Only_the_wifi">Sadece WLAN Kullan</string>
   <string name="about">Hakkında</string>
   <string name="action_settings">Ayarlar</string>
   <string name="ad_mark">AD</string>
@@ -173,7 +173,7 @@
   <string name="hint">Dikkat</string>
   <string name="home_page_new_download_guide">Yeni indirilenler buraya</string>
   <string name="immediately_a_renewal">Şimdi Yenile</string>
-  <string name="info_flow_only_load_wifi">Wi-Fi bağlandığında önerilen kaynakları yükle</string>
+  <string name="info_flow_only_load_wifi">WLAN bağlandığında önerilen kaynakları yükle</string>
   <string name="info_flow_setting">Ayarlar</string>
   <string name="info_flow_show">Önerilen Kaynaklar</string>
   <string name="input_valid_address">Dosya yolunu girin</string>
@@ -218,7 +218,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="notify_install_guide_msg">Başarıyla yüklendi</string>
   <string name="notify_install_guide_title">%s başarıyla yüklendi</string>
   <string name="notify_not_support">Bu tür bildirimler desteklenmez. Şimdi güncelle</string>
-  <string name="notify_only_wifi_download">Wi-Fi için bekliyor</string>
+  <string name="notify_only_wifi_download">WLAN için bekliyor</string>
   <string name="one_month">1 ay</string>
   <string name="only_support_torrent">Sadece torrent dosyaları desteklenir</string>
   <string name="open">Aç</string>
@@ -245,9 +245,9 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="pref_download_settings_title">İndirme Boyutunun Sınırı</string>
   <string name="pref_download_storage_path">İndirmeler için yeni bir klasör oluşturun</string>
   <string name="pref_sniff_shortcut">Kısayol oluştur</string>
-  <string name="pref_summary_any_bytes_popup">Herzaman dosyaları indirmek için Wi-Fi bağlantısını bekle</string>
+  <string name="pref_summary_any_bytes_popup">Herzaman dosyaları indirmek için WLAN bağlantısını bekle</string>
   <string name="pref_summary_enable_max_bytes_popup">İçerik indirmek için mobil veri bağlantısı kullanırken açılır pencerede bildirim göster</string>
-  <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s\'i aşarsa Wi-Fi\'i bekle</string>
+  <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s\'i aşarsa WLAN\'i bekle</string>
   <string name="pref_summary_no_limit_popup">Limitsiz</string>
   <string name="pref_title_enable_max_bytes_popup">Veri kullanım uyarısını göster</string>
   <string name="preferences_title">Ayarlar</string>
@@ -316,13 +316,13 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="select_sub_file_download">İndirmek için bir dosya seçin</string>
   <string name="select_subfile_all">Tümünü Seç</string>
   <string name="selected_count"> %2$d üzerindeki %1$d seçildi</string>
-  <string name="setting_close_debug">Hata ayıklama modu kapalı</string>
-  <string name="setting_debug_fail">"Hata ayıklama modu kapatılamadı"</string>
+  <string name="setting_close_debug">Hata Ayıklama Modu kapalı</string>
+  <string name="setting_debug_fail">"Hata Ayıklama Modu kapatılamadı"</string>
   <string name="setting_open_debug">Hata Ayıklama Modu açıldı. Buraya 6 kez dokunarak Hata Ayıklama Modunu kapatabilirsiniz.</string>
   <string name="shortcut_dialog_content">Doğrudan kaynakları aramak için Ana Ekranda kısayol oluşturun.</string>
   <string name="shortcut_dialog_create">Oluştur</string>
   <string name="shortcut_dialog_title">Ana Ekran\'da kısayol oluştursun mu?</string>
-  <string name="show_more">%s fazlasını göster</string>
+  <string name="show_more">%s görüntüle</string>
   <string name="sniff_associate_text">Daha fazla kaynak bulmak için aşağıdaki anahtar kelimelere dokunun</string>
   <string name="sniff_bt_text">Torrent Dosyası</string>
   <string name="sniff_btn_text">Kaynak</string>
@@ -394,7 +394,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="title_homepage_infoflow">Geçmiş güncellemeler</string>
   <string name="title_tips">Dikkat</string>
   <string name="title_unbind_xunlei">Xunlei Hesabından kaldır</string>
-  <string name="toast_only_wifi_download">Bu öğeyi indirmek için Wi-Fi ağına bağlanın</string>
+  <string name="toast_only_wifi_download">Bu öğeyi indirmek için WLAN ağına bağlanın</string>
   <string name="toast_xunlei_engine_open">Xunlei İndirme Hızlandırıcısı açıldı</string>
   <string name="torrent_file_error">"Bu torrent dosyası ayrıştırılamadı"</string>
   <string name="torrent_no_subfile">Bu torrentte alt dosya yok</string>
