@@ -567,7 +567,7 @@
   <string name="recv_info_doing_format" formatted="false">Receiving file (%d/%d) at %s</string>
   <string name="recv_info_gone_format" formatted="false">%d dosya alındı, ortalama hız %s</string>
   <string name="recv_info_gone_format_one" formatted="false">%d dosya alındı, ortalama hız %s</string>
-  <string name="recv_request_msg" formatted="false">%s  %s dosyaları gönderdi, dosyaları almak istiyor musunuz?</string>
+  <string name="recv_request_msg" formatted="false">%s  %s dosya gönderdi, dosyaları almak istiyor musunuz?</string>
   <string name="recv_waiting">Diğer kişinin dosyaları göndermesi bekleniyor…</string>
   <string name="retry">Tekrar Dene</string>
   <string name="ringtone_audio">Ringtone Maker Müzik</string>
@@ -581,8 +581,8 @@
   <string name="send_confirm_back_msg">Şu &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; dosyaları seçtiniz, iptal etmek istediğinden emin misin?</string>
   <string name="send_contact">%1$d kişi</string>
   <string name="send_document">%1$d döküman</string>
-  <string name="send_file">%1$d dosyalar</string>
-  <string name="send_history_list_item_title">%1$s %2$d dosyalar gönderildi</string>
+  <string name="send_file">%1$d dosya</string>
+  <string name="send_history_list_item_title">%1$s %2$d dosya gönderildi</string>
   <string name="send_image">%1$d fotoğraf</string>
   <string name="send_message_content">Sadece %s gönderdi, CM Transferi yükleyerek bunları alabilirsiniz.</string>
   <string name="send_msg_finish">Mesajlarınızı kontrol etmek için alıcı danışınız</string>
