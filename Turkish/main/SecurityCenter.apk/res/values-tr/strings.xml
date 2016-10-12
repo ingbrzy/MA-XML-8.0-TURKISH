@@ -9,7 +9,7 @@
   <string name="Settings_title_power_center">Pil Ayarları</string>
   <string name="ac_enable_title">Uygulama Kilidini Aç</string>
   <string name="ac_enter_applock">Uygulama Kilidini girin</string>
-  <string name="ac_firstUseApplock_subTitle">Uygulama kilidi gizli bilgilerinizi korrumakta kullanılır</string>
+  <string name="ac_firstUseApplock_subTitle">Uygulama kilidi gizli bilgilerinizi korumakta kullanılır</string>
   <string name="ac_firstUseApplock_title">Seçili uygulamaları açmak için şifre gereklidir</string>
   <string name="ac_summaryOff">Kapatıldı, uygulamaları açmak için şifre gerekmez</string>
   <string name="ac_summaryOn">Açık, uygulamaları açmak için şifre gereklidir</string>
@@ -716,7 +716,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="manual_white_list_header">%d istisna</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">M/sn</string>
-  <string name="memory_check_content">Serbest: %s</string>
+  <string name="memory_check_content">Kazanılan: %s</string>
   <string name="memory_check_content_none">Boş</string>
   <string name="menu_item_about_content">Sürüm %s</string>
   <string name="menu_item_about_summary">Sürüm %s</string>
@@ -939,7 +939,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="power_analysis_suggestion_need_optimize">Pil kullanımında sorunlar tespit edildi.</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Pil kullanımını analiz et</string>
-  <string name="power_cell">Şebeke beklemede</string>
+  <string name="power_cell">Şebeke Beklemedeyken</string>
   <string name="power_center_auto_shutdown">Aç/Kapat Zamanlaması</string>
   <string name="power_center_battery_full">Pil tamamen şarj oldu</string>
   <string name="power_center_charge_time">Tam Doluma: %1$s</string>
