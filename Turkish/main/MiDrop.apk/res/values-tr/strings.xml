@@ -32,9 +32,9 @@
   <string name="intro_page3_choose_midrop">\"Mi Drop\" uygulamasını seç</string>
   <string name="intro_page3_choose_midrop2">Dosyalar anında gönderilir!</string>
   <string name="newText">Yeni Metin</string>
-  <string name="notif_receive_cancel">%1$s dosyalar gönderilemedi</string>
+  <string name="notif_receive_cancel">%1$s dosya gönderilemedi</string>
   <string name="notif_receive_lockscreen">Detayları görmek için dokunun</string>
-  <string name="notif_receive_progress">%1$s dosyalar alınıyor…</string>
+  <string name="notif_receive_progress">%1$s dosya alınıyor…</string>
   <string name="notif_receive_success">%1$s alındı</string>
   <string name="notif_send_cancel">%1$s transferi kesildi</string>
   <string name="notif_send_cancel_multi">%1$s+%2$d transferi kesildi</string>
@@ -73,7 +73,7 @@
   <string name="sender_cancel">"Gönderme!"</string>
   <string name="sender_complete">Tamam</string>
   <string name="sender_fail">"Gönderilemiyor"</string>
-  <string name="sender_file_num">%1$d dosyalar için bekleniyor</string>
+  <string name="sender_file_num">%1$d dosya için bekleniyor</string>
   <string name="sender_finish">Gönderildi</string>
   <string name="sender_in_progress_later">Daha sonra tekrar deneyin</string>
   <string name="sender_in_progress_now">İptal</string>
