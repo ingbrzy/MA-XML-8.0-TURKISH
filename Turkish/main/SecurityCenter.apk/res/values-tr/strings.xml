@@ -156,6 +156,12 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="auto_task_manager_group_title">Otomatik Görevlerim</string>
   <string name="auto_task_notify_do_task_title">Otomatik görev başladı</string>
   <string name="auto_task_notify_exit_task_title">Otomatik görev bitti</string>
+  <string name="auto_task_notify_task_cancel_count_down">Otomatik eylem 5 saniye sonra bitecek</string>
+  <string name="auto_task_notify_task_cancel_do">Eylemi iptal et</string>
+  <string name="auto_task_notify_task_canceled_summary">Arama yapabilir ve alabilirsiniz</string>
+  <string name="auto_task_notify_task_canceled_title">Eylem iptal edildi</string>
+  <string name="auto_task_notify_task_continue_do">Eylemi başlat</string>
+  <string name="auto_task_notify_task_count_down">Otomatik eylem 5 saniye sonra başlayacak</string>
   <string name="auto_task_operation_airplane_mode">Uçak Modu</string>
   <string name="auto_task_operation_auto_brightness">Otomatik PArlaklık</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
