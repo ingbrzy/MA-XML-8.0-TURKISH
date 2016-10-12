@@ -55,6 +55,8 @@
   <string name="data_error">Bir hata oluştu</string>
   <string name="data_error_show">Bir hata oluştu</string>
   <string name="delete">Sil</string>
+  <string name="didi_back">Geri</string>
+  <string name="didi_close">Kapat</string>
   <string name="do_not_remind_me">"Tekrar gösterme"</string>
   <string name="dont_enable">Kapat</string>
   <string name="download_completed">%s indirilip kaydedildi</string>
@@ -283,7 +285,8 @@ Takip numarasını kontrol edin."</string>
   <string name="more_coupons">Tüm kuponlar</string>
   <string name="more_express_numbers">Diğer Expres Numarası</string>
   <string name="navigation_search_all_cities">Tüm şehirler</string>
-  <string name="navigation_search_automatically_positioned_city">Geçerli şehir</string>
+  <string name="navigation_search_automatically_positioned_city">Geçerli Şehir</string>
+  <string name="navigation_search_default_hint">Konumları Ara</string>
   <string name="navigation_search_hot_cities">Popüler</string>
   <string name="navigation_search_no_city_list">"Bir şey bulamadık"</string>
   <string name="navigation_search_positioning">Yer saptanıyor…</string>
@@ -338,6 +341,7 @@ Takip numarasını kontrol edin."</string>
   <string name="quick_yellow_page_tab_phones">Telefon</string>
   <string name="recharge_actual_price">Ücret:</string>
   <string name="recharge_charge_range">Ücret: %1$s-%2$s Yuan</string>
+  <string name="recharge_charge_value">Ücret: %s Yuan</string>
   <string name="recharge_follow_name">Kontör</string>
   <string name="recharge_history">Kontör geçmişi</string>
   <string name="recharge_history_empty">Boş</string>
