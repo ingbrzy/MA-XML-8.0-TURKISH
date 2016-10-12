@@ -101,8 +101,8 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="find_device_reading_status">Durum yükleniyor…</string>
   <string name="find_device_reading_status_failure">"Durum yüklenemedi."</string>
   <string name="find_device_send_sms_alert">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS gönderilecektir.</string>
-  <string name="find_device_service_summary">"Cihazınızı bulun ve kaybetme durumunda uzaktan kilitleyin."</string>
-  <string name="find_device_service_summary_international">"Cihazınızı bulun ve kaybetme durumunda uzaktan kilitleyin."</string>
+  <string name="find_device_service_summary">Cihazınızı bulmak için i.mi.com ziyaret edin ve uzaktan cihazı kilitleyin.</string>
+  <string name="find_device_service_summary_international">Cihazınızı bulmak için i.mi.com ziyaret edin ve hemen uzaktan cihazı kilitleyin.</string>
   <string name="find_device_service_title">Telefonu Bul</string>
   <string name="find_device_status_ok">Herhangi bir yerdeki telefonu i.mi.co adresinden bulun</string>
   <string name="find_device_status_ok_international">Herhangi bir yerdeki telefonu www.mi.com/micloud adresinde bulun.</string>
