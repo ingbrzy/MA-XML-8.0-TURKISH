@@ -36,6 +36,7 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="device_settings_category_title">Kısayolları temizle</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
+  <string name="entrance_setting">Arama açılıyor...</string>
   <string name="google_app_label">Google Araması</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
@@ -71,6 +72,8 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="settings_description">Yüklü uygulamaların adları</string>
   <string name="show_more">Daha Fazla Göster</string>
   <string name="suggest_open_app_failed">"Bu uygulama açılamadı"</string>
+  <string name="swipe_up_summary">Global aramayı açmak için yukarı kaydırın</string>
+  <string name="swipe_up_title">Yukarı Kaydır</string>
   <string name="system_search_category_title">Telefon</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
