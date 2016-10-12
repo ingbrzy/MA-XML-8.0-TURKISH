@@ -4,7 +4,7 @@
   <string name="about_title">Hakkında</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">"Sürüm "</string>
-  <string name="account_auth_fail">account authenticate fail</string>
+  <string name="account_auth_fail">Hesap yetkilendirmesi başarısız</string>
   <string name="actor">Aktör</string>
   <string name="actor_intro">Hakkında</string>
   <string name="ad_countdown">%ss kaldı</string>
@@ -34,6 +34,7 @@
   <string name="all">tümü</string>
   <string name="all_ep">Tüm Bölüm</string>
   <string name="all_episode">Tüm Bölümler</string>
+  <string name="already_buy_vip">VIP olarak satın alındı</string>
   <string name="app_charging_wifi_mode">Uygulamayı şarjda güncelle</string>
   <string name="app_charging_wifi_mode_summary">Uygulamanın güncellemesi WLAN ve Şarj bağlantısı olduğunda sağlanır</string>
   <string name="app_latest_version">Yeni güncelleme yok</string>
@@ -123,6 +124,7 @@
   <string name="disk_volume">Çıkartılabilir Depolama</string>
   <string name="dlna_list_name">DLNA Cihazı</string>
   <string name="dlna_name">Paylaşılan Cihaz</string>
+  <string name="do_not_buy_vip">VIP olarak satın alınmadı</string>
   <string name="douban_score">Puan</string>
   <string name="download">İndir</string>
   <string name="download_add_success">İndirme sırasına eklendi</string>
@@ -157,6 +159,7 @@
   <string name="error_empty_live_favor">TV Kanallarında Kolleksiyon yok</string>
   <string name="error_empty_title">Bir şeyler yanlış gitti.</string>
   <string name="expire_time">Zaman aşım süresi</string>
+  <string name="expired_buy_vip">VIP süresi doldu</string>
   <string name="favorite">Favori</string>
   <string name="fenghuang">iFeng</string>
   <string name="file_error">Dosya hatası</string>
@@ -169,6 +172,7 @@
   <string name="forecasts">EPG</string>
   <string name="fullscreen">Tam Ekran</string>
   <string name="funshion">Funshion</string>
+  <string name="go_to_cinema">Sinemaya git</string>
   <string name="gong_count_dlna">%d DLNA</string>
   <string name="gong_count_ge">Toplam %d</string>
   <string name="gong_count_ji">Toplam %d Bl. </string>
@@ -233,7 +237,8 @@
   <string name="no_login_xiaomi_account">Yorum göndermek için Mi Hesabınızla oturum açın</string>
   <string name="no_longer_tips">"Tekrar gösterme"</string>
   <string name="no_pay_record"> ödeme kaydı yok</string>
-  <string name="no_sdcard_no_download">Yeterli depolama alanı yok</string>
+  <string name="no_sdcard_no_download">Yeterli depolama alanı yok.</string>
+  <string name="no_vip_product">VIP hizmetlerini desteklemiyor</string>
   <string name="not_buy_vip">yetkili yok</string>
   <string name="not_exist_openid">hesap bilgileri alınıyor, lütfen bekleyin...</string>
   <string name="not_login">Oturum açılmadı</string>
@@ -343,6 +348,7 @@
   <string name="share_device">Paylaşılan cihaz</string>
   <string name="similar">Benzer</string>
   <string name="sina">Sina</string>
+  <string name="single_pay">Tekli Ödeme</string>
   <string name="sniff">Kaynak</string>
   <string name="souhu">Souhu</string>
   <string name="source_error">Kaynak alım hatası</string>
@@ -407,7 +413,9 @@
   <string name="video_plugin">Video eklentisi</string>
   <string name="video_plugin_downloading">(%1$s) indiriliyor...</string>
   <string name="video_plugin_prepare">Biraz bekleyin...</string>
-  <string name="vip_package">Yetkili paket</string>
+  <string name="video_vip">VIP</string>
+  <string name="vip_package">VIP Paketi</string>
+  <string name="vip_rights">VIP Hakları ve İçerikleri</string>
   <string name="vp_VideoView_error_button">Tamam</string>
   <string name="vp_VideoView_error_network_not_available">"Ağa bağlanamıyor"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"Bu dosya türü desteklenmiyor."</string>
