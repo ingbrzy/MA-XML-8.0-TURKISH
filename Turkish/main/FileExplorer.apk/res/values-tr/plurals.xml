@@ -169,36 +169,36 @@
         <item quantity="many">%1$d yeni dosya bulundu</item>
     </plurals>
     <plurals name="file_notify_title">
-        <item quantity="other">Uygulamanın %2$s\'nin %1$d alınmış dosyalar </item>
+        <item quantity="other">Uygulamanın %2$s\'nin %1$d alınmış dosya </item>
         <item quantity="zero">Uygulamanın %2$s\'nin %1$d alınmış dosya</item>
         <item quantity="one">Uygulamanın %2$s\'nin %1$d alınmış dosya</item>
-        <item quantity="two">Uygulamanın %2$s\'nin %1$d alınmış dosyalar </item>
-        <item quantity="few">Uygulamanın %2$s\'nin %1$d alınmış dosyalar </item>
-        <item quantity="many">Uygulamanın %2$s\'nin %1$d alınmış dosyalar </item>
+        <item quantity="two">Uygulamanın %2$s\'nin %1$d alınmış dosya </item>
+        <item quantity="few">Uygulamanın %2$s\'nin %1$d alınmış dosya </item>
+        <item quantity="many">Uygulamanın %2$s\'nin %1$d alınmış dosya </item>
     </plurals>
     <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">WeChat\'den %1$d alınmış dosyalar</item>
+        <item quantity="other">WeChat\'den %1$d alınmış dosya</item>
         <item quantity="zero">WeChat\'den %1$d alınmış dosya</item>
         <item quantity="one">WeChat\'den %1$d alınmış dosya</item>
-        <item quantity="two">WeChat\'den %1$d alınmış dosyalar</item>
-        <item quantity="few">WeChat\'den %1$d alınmış dosyalar</item>
-        <item quantity="many">WeChat\'den %1$d alınmış dosyalar</item>
+        <item quantity="two">WeChat\'den %1$d alınmış dosya</item>
+        <item quantity="few">WeChat\'den %1$d alınmış dosya</item>
+        <item quantity="many">WeChat\'den %1$d alınmış dosya</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d WeChat videolarının süresi dolmak üzere</item>
-        <item quantity="zero">%1$d WeChat videolarının süresi dolmak üzere</item>
+        <item quantity="other">%1$d WeChat videosunun süresi dolmak üzere</item>
+        <item quantity="zero">%1$d WeChat videosunun süresi dolmak üzere</item>
         <item quantity="one">%1$d WeChat videosunun süresi dolmak üzere</item>
-        <item quantity="two">%1$d WeChat videolarının süresi dolmak üzere</item>
-        <item quantity="few">%1$d WeChat videolarının süresi dolmak üzere</item>
-        <item quantity="many">%1$d WeChat videolarının süresi dolmak üzere</item>
+        <item quantity="two">%1$d WeChat videosunun süresi dolmak üzere</item>
+        <item quantity="few">%1$d WeChat videosunun süresi dolmak üzere</item>
+        <item quantity="many">%1$d WeChat videosunun süresi dolmak üzere</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
-        <item quantity="other">"WeChat görüşmelerindeki %1$d videolarının süresi doluyor. Cihazınızın dahili hafızasına yedeklensin mi?"</item>
-        <item quantity="zero">"WeChat görüşmelerindeki %1$d videolarının süresi doluyor. Cihazınızın dahili hafızasına yedeklensin mi?"</item>
-        <item quantity="one">"%1$d video in WeChat conversations is about to expire. Cihazınızın dahili hafızasına yedeklensin mi?"</item>
-        <item quantity="two">"WeChat görüşmelerindeki %1$d videolarının süresi doluyor. Cihazınızın dahili hafızasına yedeklensin mi?"</item>
-        <item quantity="few">"WeChat görüşmelerindeki %1$d videolarının süresi doluyor. Cihazınızın dahili hafızasına yedeklensin mi?"</item>
-        <item quantity="many">"WeChat görüşmelerindeki %1$d videolarının süresi doluyor. Cihazınızın dahili hafızasına yedeklensin mi?"</item>
+        <item quantity="other">"WeChat görüşmelerindeki %1$d videosunun süresi doluyor. Cihazınızın dahili hafızasına yedeklensin mi?"</item>
+        <item quantity="zero">"WeChat görüşmelerindeki %1$d videosunun süresi doluyor. Cihazınızın dahili hafızasına yedeklensin mi?"</item>
+        <item quantity="one">"%1$d videosunun süresi doluyor. Cihazınızın dahili hafızasına yedeklensin mi?"</item>
+        <item quantity="two">"WeChat görüşmelerindeki %1$d videosunun süresi doluyor. Cihazınızın dahili hafızasına yedeklensin mi?"</item>
+        <item quantity="few">"WeChat görüşmelerindeki %1$d videosunun süresi doluyor. Cihazınızın dahili hafızasına yedeklensin mi?"</item>
+        <item quantity="many">"WeChat görüşmelerindeki %1$d videosunun süresi doluyor. Cihazınızın dahili hafızasına yedeklensin mi?"</item>
     </plurals>
     <plurals name="file_notify_title_wechat_sticker">
         <item quantity="other">Bugün WeChat %1$d yeni etiketi</item>
