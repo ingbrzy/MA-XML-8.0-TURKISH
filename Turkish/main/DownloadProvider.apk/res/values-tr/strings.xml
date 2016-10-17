@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">İndirme Yöneticisi</string>
-  <string name="auto_restart_under_wifi">Dosya WLAN ile otomatik olarak indir</string>
+  <string name="auto_restart_under_wifi">Dosyayı WLAN ile otomatik olarak indir</string>
   <string name="button_cancel_download">İptal</string>
   <string name="button_download_now">Şimdi indir</string>
   <string name="button_queue_for_wifi">Kuyrukta</string>
@@ -72,7 +72,7 @@
   <string name="warning_tip_title">Veri Kullanım Uyarısı</string>
   <string name="wifi_recommended_body" formatted="false">"%s boyutundaki indirme işlemine şimdi başlanırsa pil ömrü kısalabilir veya mobil veri bağlantınız fazla miktarda kullanılabilir. Bunun sonucunda veri planınıza bağlı olarak mobil operatörünüz sizden ücret talep edebilir.
 
-Bu indirme işlemini kablosuz ağa bir sonraki bağlanmanızda başlatmak için %s düğmesine dokunun"</string>
+Bu indirme işlemini WLAN ağa bir sonraki bağlanmanızda başlatmak için %s düğmesine dokunun"</string>
   <string name="wifi_recommended_title">Daha sonra indirilmek üzere sıraya alınsın mı?</string>
   <string name="wifi_required_body" formatted="false">"%s indirmeyi tamamlamak için WLAN bağlantısı kullanmalısınız. 
 
