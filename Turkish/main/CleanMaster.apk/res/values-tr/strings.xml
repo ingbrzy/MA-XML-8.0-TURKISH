@@ -256,12 +256,12 @@
   <string name="installed">Yüklendi</string>
   <string name="installing">Yükleniyor</string>
   <string name="item_title_process_mode">Bir faaliyet seç</string>
-  <string name="junk_syscache_alert_desc">我们不建议清理这个缓存,&lt;font color=#d64438&gt;清理后会影响APP正常运行&lt;/font&gt;</string>
-  <string name="junk_tag_RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
-  <string name="junk_tag_RF_DemoVideo_LG">LG手机演示用视频</string>
-  <string name="junk_tag_RF_DemoVideo_MIUI">小米手机品牌展示视频</string>
-  <string name="junk_tag_RF_DemoVideo_Samsung">三星手机演示用视频</string>
-  <string name="junk_tag_RF_DemoVideo_Sony">索尼手机演示用视频</string>
+  <string name="junk_syscache_alert_desc">Uygulamanın normal işlevi esnasında,&lt;font color=#d64438&gt;önbelleğini temizlemenizi tavsiye etmiyoruz&lt;/font&gt;</string>
+  <string name="junk_tag_RF_DalvikCacheLeftovers">Yazılım Sisteminin Artıkları (Dalvik-Cache)</string>
+  <string name="junk_tag_RF_DemoVideo_LG">LG Mobil Telefon Demo Videosu</string>
+  <string name="junk_tag_RF_DemoVideo_MIUI">MIUI Mobil Telefon Marka Demo Videosu</string>
+  <string name="junk_tag_RF_DemoVideo_Samsung">Samsung Mobil Telefon Demo Videosu</string>
+  <string name="junk_tag_RF_DemoVideo_Sony">Sony Mobil Telefon Demo Videosu</string>
   <string name="junk_tag_RF_EmptyFolders">Boş Dizinler</string>
   <string name="junk_tag_RF_ImageThumbnails">Galeri Minyatürleri</string>
   <string name="junk_tag_RF_LibsDirFiles">无用的数据文件</string>
@@ -418,19 +418,10 @@
   <string name="pref_title_open_optimizer_memory_scan">Uygulama Hafızasını Tara</string>
   <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
-  <string name="preference_key_apps_cleanup_auto_check_size">key_apps_cleanup_auto_check_size</string>
-  <string name="preference_key_apps_cleanup_auto_check_time">key_apps_cleanup_auto_check_time</string>
-  <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
-  <string name="preference_key_auto_clean_content_apk">key_auto_clean_content_apk</string>
-  <string name="preference_key_auto_clean_content_cache">key_auto_clean_content_cache</string>
-  <string name="preference_key_auto_clean_content_residual">key_auto_clean_content_residual</string>
   <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
-  <string name="preference_key_checkbox_apps_auto_clean_and_alert">key_checkbox_apps_auto_clean_content</string>
-  <string name="preference_key_checkbox_garbage_auto_clean_and_alert">key_checkbox_garbage_auto_clean_content</string>
   <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
-  <string name="preference_key_garbage_auto_clean_and_alert">key_garbage_auto_clean_and_alert</string>
-  <string name="preference_key_garbage_auto_clean_content">key_garbage_auto_clean_content</string>
-  <string name="preference_key_garbage_auto_process_mode">key_garbage_auto_process_mode</string>
+  <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
+  <string name="preference_key_garbage_clean_alert">key_garbage_clean_alert</string>
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
   <string name="preference_key_information_setting_close">key_information_setting_close</string>
@@ -540,7 +531,7 @@
   <string name="unlike">Hayır, teşekkürler</string>
   <string name="update_date_format">dd-MM-yyyy</string>
   <string name="virus_scan">Virüs Tara</string>
-  <string name="vungle_ad_name">Vungle广告</string>
+  <string name="vungle_ad_name">Vungle Reklam广告</string>
   <string name="white_list_ad_header">Reklam Dosyaları: %d</string>
   <string name="white_list_apk_header">Yükleme Paketleri: %d</string>
   <string name="white_list_cache_header">Önbellek Dosyaları: %d</string>
