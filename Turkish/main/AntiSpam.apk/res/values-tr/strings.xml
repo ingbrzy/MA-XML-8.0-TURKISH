@@ -280,7 +280,7 @@
   <string name="st_filter_keywords_setting_summary2">"
 (Birden fazla kelimeyi ayırmak için virgül kullanın)"</string>
   <string name="st_filter_keywords_setting_title">Anahtar Kelime Filtresini Yapılandır</string>
-  <string name="st_filter_keywords_title">Anahtar kelime filtresi</string>
+  <string name="st_filter_keywords_title">Anahtar Kelime Filtresi</string>
   <string name="st_filter_sms_button">Mesajları filtrele</string>
   <string name="st_hint_add_head_number">Önek Girişi</string>
   <string name="st_hint_add_phonenumber">Telefon numarasını gir</string>
@@ -290,20 +290,22 @@
   <string name="st_message_phonepass">Çağrılara izin ver</string>
   <string name="st_mute_all">Çağrıları ve mesajları sessize al</string>
   <string name="st_mute_block">Çağrıları sessize al ve mesajları engelle</string>
-  <string name="st_mute_title">Zil Çalmasın veya Titreşim olmasın</string>
+  <string name="st_mute_title">Zil Çalmasın veya Titreşim Olmasın</string>
   <string name="st_other_setting_group">Diğer Ayarlar</string>
   <string name="st_settings_name">Kara Liste Ayarları</string>
   <string name="st_show_block_notification">Engelleme bildirimi göster</string>
   <string name="st_show_num_keyword">" anahtar kelimeler "</string>
-  <string name="st_show_num_number">" numaralar"</string>
+  <string name="st_show_num_number">" numara"</string>
   <string name="st_sms_group">Mesajlar</string>
   <string name="st_sub_title_customize_mode_name">Adı</string>
   <string name="st_sub_title_whiteblack_list_group">Kara Liste</string>
   <string name="st_sum_call_wait">Dışarda olduğunuzda sizi arayanlara - Meşgul - sinyali çalınacaktır.</string>
   <string name="st_summary_blacklist_numbers">Çağrı ve mesajları numara ve alan kodu kullanarak engelle</string>
+  <string name="st_summary_blacklist_numbers_international">Numara kullanarak çağrı ve mesajları engelle</string>
   <string name="st_summary_keywords_blacklist">Mesajları engellemek için anahtar kelimeler ekleyin</string>
   <string name="st_summary_special_numbers">İşaretli telefon numaralarını engelle</string>
   <string name="st_summary_whitelist_numbers">Özel numaralara ve bölgelerden gelen aramalara ve mesajlara izin ver</string>
+  <string name="st_summary_whitelist_numbers_international">Belirli numaraların çağrı ve mesajlarına izin ver</string>
   <string name="st_title_adblock_group">Reklam Engelleyici</string>
   <string name="st_title_adblock_setting">Reklam Engelleyici Ayarları</string>
   <string name="st_title_addblacklist">Kara Listeye ekle</string>
