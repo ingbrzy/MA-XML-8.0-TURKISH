@@ -89,7 +89,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="antivirus_sec_support">%s tarafından güçlendirildi</string>
   <string name="antivirus_update_db">%s</string>
   <string name="apn_exception_summary">"Operatörün Erişim Noktası Yapılandırmasını Test Et"</string>
-  <string name="apn_exception_title">APN Yapılandırmasını Denetle</string>
+  <string name="apn_exception_title">ENA Yapılandırmasını Denetle</string>
   <string name="app_check_no_issue">Pilde herhangi bir sorun gözükmüyor. Harika!</string>
   <string name="app_check_optimize_title">Arkaplan aktivitelerini iyi hale getir</string>
   <string name="app_check_reason_background_cpu">CPU Arkaplan Aktiviteleri</string>
@@ -414,7 +414,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="datausage_purchase_title_order">Kontör</string>
   <string name="datausage_purchase_title_pkglist">Kontör</string>
   <string name="datausage_purchase_view_detail">Detaylara Bak</string>
-  <string name="declaration_dialog_msg">Bu özellik kullanımı izlemenize yardımcı olabilir, ancak ek ücretleri önlemek için garanti edilemez. En iyi sonuçlar için, muhafazakar bir sınır belirleyebilirsiniz.</string>
+  <string name="declaration_dialog_msg">Bu özellik kullanımı durumunu izlemenize yardımcı olabilir, ancak ek ücretleri önlemek için garanti edilemez. En iyi sonuç için, muhafazakar bir sınır belirleyebilirsiniz.</string>
   <string name="deep_clean_disconnect_data_title">Cihaz kilitlendiğinde mobil veriyi kapat</string>
   <string name="deep_clean_memory_clean_title">Cihaz kilitlendiğinde önbelleğini temizle</string>
   <string name="deep_clean_never_memory_clean">Asla</string>
@@ -450,7 +450,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="dialog_msg_stop_virus_scan">"Tarama henüz tamamlanmadı, durdurmak istiyor musunuz?"</string>
   <string name="dialog_roaming_apps_sorted_title">Sırala</string>
   <string name="dialog_roaming_message">Yurtdışı dolaşım sırasında bu uygulama mobil veri kullansın mı?</string>
-  <string name="dialog_roaming_title">Yurtdışı dolaşım</string>
+  <string name="dialog_roaming_title">Yurtdışı Dolaşım</string>
   <string name="dialog_title_attention">Dikkat</string>
   <string name="dialog_title_auto_start_declare">Otomatik Başlatma Hakkında</string>
   <string name="dialog_title_stop_paysafety_scan">Dur</string>
@@ -459,7 +459,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="dns_exception_summary">"Yönlendiricinin DNS ayarlarını kontrol edin"</string>
   <string name="dns_exception_title">DNS ayarlarını kontrol et</string>
   <string name="download">İndir</string>
-  <string name="downloading">İndiriliyor</string>
+  <string name="downloading">İndiriliyor...</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="empty_app">Uygulama yok</string>
@@ -476,7 +476,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="every_day">Hergün</string>
   <string name="examination_score_100">Her şey iyi görünüyor!</string>
   <string name="examination_score_100_with_recommend">%d öğe en iyi hale getirilebilir</string>
-  <string name="examination_score_60_0">Şimdi Tara</string>
+  <string name="examination_score_60_0">Şimdi tara</string>
   <string name="examination_score_80_100">Birkaç öğe en iyi hale getirilebilir</string>
   <string name="examination_score_80_100_with_recommend">%d öğe en iyi hale getirebilir</string>
   <string name="examination_score_80_60">Bazı öğeler en iyi hale getirebilir</string>
@@ -588,7 +588,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="install_title">USB Yoluyla Yükle</string>
   <string name="installed">Yüklendi</string>
   <string name="installing">Yükleniyor</string>
-  <string name="international_roaming_setting">Yurtdışı dolaşım</string>
+  <string name="international_roaming_setting">Yurtdışı Dolaşım</string>
   <string name="international_roaming_whitelist_count">Dolaşım esnasında %d uygulama mobil veri kullanabilir</string>
   <string name="ip_address_exception_summary">"IP adresi alınamadı. Bir statik IP adresi kullanmayı deneyin."</string>
   <string name="item_app_permission">Uygulama İzinleri</string>
@@ -635,7 +635,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="lock_screen_traffic_warn_title">Kilit Ekran Bildirimleri</string>
   <string name="lock_screen_warning_category">Kilit ekran bildirimleri</string>
   <string name="lock_screen_warning_switch_summary">Veri kullanımı belirlenen miktarı aştığında Kilit ekranında uyarı göster</string>
-  <string name="lock_screen_warning_switch_title">Uyarıları kilit ekranında göster</string>
+  <string name="lock_screen_warning_switch_title">Uyarıları Kilit Ekranında Göster</string>
   <string name="lock_screen_warning_value">Veri Kullanım Uyarısı</string>
   <string name="lock_settings_title">Kilit Ekranı ve Şifre</string>
   <string name="lockpassword_confirm_your_password_header">Şifreyi Doğrula</string>
@@ -1070,7 +1070,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_specified_traffic_settings">Veri limiti ayarları</string>
   <string name="pref_summary_lock_screen_memory_clean">Cihaz kilitlenince otomatik temizle</string>
   <string name="pref_title_declaration">Önemli feragat</string>
-  <string name="pref_title_diagnostics_show_float_notification">Kayan bildirimler</string>
+  <string name="pref_title_diagnostics_show_float_notification">Kayan Bildirimler</string>
   <string name="pref_title_lock_screen_memory_clean">Kilit ekranında temizle</string>
   <string name="pref_title_mobile_traffic">Kilitli iken veri kullanımı göster</string>
   <string name="pref_title_network_diagnostics">Ağı Test Et</string>
@@ -1330,7 +1330,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="spinner_title">%1$s - Mobil Veri: %2$s</string>
   <string name="st_title_mode_choose_group">Profil Seç</string>
   <string name="start_diagnostic_botton">Başlat</string>
-  <string name="start_install">Şimdi Yükle</string>
+  <string name="start_install">Şimdi yükle</string>
   <string name="stop_app_button">Dur</string>
   <string name="suffix_pay_risk_count_bottom">risk</string>
   <string name="suffix_pay_risk_count_top">ödeme</string>
@@ -1449,7 +1449,7 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="tc_sms_report_notify_get_timeout_body">Süreç zaman aşımına uğradı. Girdiğiniz SMS sorgulama kodu doğruysa operatörünüz ile onaylayın.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Veri kullanım SMS'i alınamadı"</string>
   <string name="tc_sms_report_receive_content">Veri kullanım raporu SMS içerikleri (Veri kullanım istatistiklerini onayla)</string>
-  <string name="tc_sms_report_receive_content_null">"Bu özelliği geliştirmemize yardımcı olun!&lt;br/&gt;İşte böyle:&lt;br/&gt;1. \"SMS kontrol komutu\" ve \"Alıcı Numarası\" -na git&lt;br/&gt;2. \"SMS Şablonu al\" dokun&lt;br/&gt;3. Operatörünüzden SMS mesajı almak için bekleyin &lt;br/&gt;4. \"MIUI\'ye yükle\" dokunun​​"</string>
+  <string name="tc_sms_report_receive_content_null">"Bu özelliğin geliştirilmesine yardımcı olun!&lt;br/&gt;İşte böyle:&lt;br/&gt;1. \"SMS kontrol komutu\" ve \"Alıcı Numarası\" -na git&lt;br/&gt;2. \"SMS Şablonu al\" dokun&lt;br/&gt;3. Operatörünüzden SMS mesajı almak için bekleyin &lt;br/&gt;4. \"MIUI\'ye yükle\" dokunun​​"</string>
   <string name="tc_sms_report_receive_num">Alıcı Numarası</string>
   <string name="tc_sms_report_send_num">Operatör Telefon #</string>
   <string name="tc_sms_report_summary">Veri kullanım bilgisi yanlış veya güncellemek için başarısız olduğunda bize bir rapor göndererek bu özelliği geliştirmemize yardımcı olun.</string>
