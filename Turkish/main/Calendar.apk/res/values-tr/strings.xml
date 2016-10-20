@@ -311,6 +311,9 @@
   <string name="no_network_btn">Tekrar Dene</string>
   <string name="no_syncable_calendars">Takvim yok</string>
   <string name="no_title_label">(Başlık yok)</string>
+  <string name="no_visiable_calendar_message">Bir takvim hesabı seçmelisiniz. Hesabı seçip devam etmek için dokunun.</string>
+  <string name="no_visiable_calendar_select_account">Hesabı seçin</string>
+  <string name="no_visiable_calendar_title">Takvim Hesabı Seçin</string>
   <string name="not_exist_topic_list">Takvim listesi alınamıyor!</string>
   <string name="not_synced">eşitlenemedi</string>
   <string name="notification_online">%1$s: %2$s yeni etkinlik</string>
@@ -547,7 +550,8 @@
   <string name="what_label">Başlık:</string>
   <string name="when_label">Zaman:</string>
   <string name="where_label">Yer</string>
-  <string name="widget_events">Sonraki etkinlikler</string>
+  <string name="widget_events">Sonraki Etkinlik</string>
+  <string name="widget_get_weather_info">Hava Durumunu Al &gt;</string>
   <string name="widget_no_events">Etkinlik yok</string>
   <string name="widget_select_style">Bir stil seçin</string>
   <string name="work_day_default_banner_title">Para durmaz, fazla mesai gelir kapısıdır :) </string>
