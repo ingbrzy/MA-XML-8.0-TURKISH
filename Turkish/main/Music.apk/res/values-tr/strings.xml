@@ -131,9 +131,9 @@
   <string name="desktop_lyric_button_close">Kapat</string>
   <string name="desktop_lyric_button_lock">Kilitle</string>
   <string name="desktop_lyric_color">Renk</string>
-  <string name="desktop_lyric_dialog_msg">Müziklerim &gt; Ayarlar &gt; Fazla Gelişmiş Ayarlar altından açabilirsin</string>
+  <string name="desktop_lyric_dialog_msg">Müziklerim &gt; Ayarlar &gt; Diğer Gelişmiş Ayarlar altından açabilirsin</string>
   <string name="desktop_lyric_dialog_positive_button">Şimdi dene</string>
-  <string name="desktop_lyric_dialog_title">Şimdi Dene</string>
+  <string name="desktop_lyric_dialog_title">Şimdi dene</string>
   <string name="desktop_lyric_lock_toast">Kilitlendi. Bildirim alanından Müziğin kilidini açabilirsiniz.</string>
   <string name="desktop_lyric_setting_summary">Ekranda kayan şarkı sözlerini göster</string>
   <string name="desktop_lyric_setting_title">Ekrandaki şarkı sözleri</string>
@@ -278,7 +278,7 @@
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Oluştur</string>
   <string name="eq_preset_format">Kullanıcı tanımlı %d</string>
-  <string name="eq_preset_hint">Önayar adı</string>
+  <string name="eq_preset_hint">Efekt adı</string>
   <string name="eq_preset_rename">Adlandır</string>
   <string name="eq_preset_select">Hazır Ayarlardan Seçin</string>
   <string name="eq_rock">Rock</string>
@@ -429,6 +429,7 @@
   <string name="monthly_price">Mi Kredileri</string>
   <string name="more">Fazlası</string>
   <string name="more_about_artist">%s hakkında daha fazlası</string>
+  <string name="more_add_song_list">Çalma listesine ekle</string>
   <string name="more_online_artist">Fazlası</string>
   <string name="more_online_billboard">Fazlası</string>
   <string name="more_online_fm">Fazlası</string>
@@ -438,6 +439,7 @@
   <string name="more_online_suggest">Fazlası</string>
   <string name="more_settings">Gelişmiş Ayarlar</string>
   <string name="more_settings_summary">İndirme ayarları, Uyku Modu, Mobil Veri, Dosya Filtreleri, vb...</string>
+  <string name="more_share">Paylaş</string>
   <string name="multichoice">Seç</string>
   <string name="music_browser_label">Müzik</string>
   <string name="music_filter">Ses dosyalarını filtrele</string>
