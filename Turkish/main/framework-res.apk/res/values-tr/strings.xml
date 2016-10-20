@@ -805,8 +805,8 @@ Müşteri Hizmetleri'ne başvurun."</string>
   <string name="permdesc_readSyncSettings">Uygulamaya bir hesaba ait eşitleme ayarlarını okuma izni verir. Mesela: bu izne sahip bir uygulama Kişiler uygulamasının bir hesapla eşitleme olup olmadığını belirleyebilir.</string>
   <string name="permdesc_readSyncStats">Uygulamaya bir hesaba ait eşitleme istatistiklerini okuma izni verir. Buna eşitleme etkinlikleri geçmişi ve eşitlenen veri miktarı bilgileri de dahildir.</string>
   <string name="permdesc_receiveBootCompleted">Uygulamaya, kendisini sistem açılışı bittikten hemen sonra başlatma izni verir. Bu izin, telefonun başlatılması için daha uzun bir süre geçmesine ve uygulamanın her zaman çalışarak telefonu yavaşlatmasına neden olur.</string>
-  <string name="permdesc_receiveMms">Uygulamaya MMS iletilerini alma ve işleme izni verir. Bu izin, uygulamanın cihazınıza gönderilen iletileri takip edip size göstermeden silebileceği anlamına gelir.</string>
-  <string name="permdesc_receiveSms">Uygulamaya SMS iletilerini alma ve işleme izni verir. Bu izin, uygulamanın cihazınıza gönderilen iletileri takip edip size göstermeden silebileceği anlamına gelir.</string>
+  <string name="permdesc_receiveMms">Uygulamaya MMS mesajlarını alma ve işleme izni verir. Bu izin, uygulamanın cihazınıza gönderilen mesajları takip edip size göstermeden silebileceği anlamına gelir.</string>
+  <string name="permdesc_receiveSms">Uygulamaya SMS mesajlarını alma ve işleme izni verir. Bu izin, uygulamanın cihazınıza gönderilen mesajları takip edip size göstermeden silebileceği anlamına gelir.</string>
   <string name="permdesc_receiveWapPush">Uygulamaya WAP mesajlarını alma ve işleme izni verir. Buna, size gönderilen mesajları takip edip size göstermeden silebilme izni de dahildir.</string>
   <string name="permdesc_recordAudio">Uygulamaya mikrofonla ses kaydetme izni verir. Bu izin, uygulamanın istediği zaman onayınız olmadan ses kaydetmesine olanak sağlar.</string>
   <string name="permdesc_register_call_provider">Uygulamanın yeni telekomünikasyon bağlantıları kaydettirmesine izin verir.</string>
@@ -938,7 +938,7 @@ izin isteğinde bulunuldu."</string>
   <string name="permlab_route_media_output">Medya çıktısını yönlendir</string>
   <string name="permlab_sdcardRead">USB belleğini okuma</string>
   <string name="permlab_sdcardWrite">USB belleğinizin içeriğini değiştirme veya silme</string>
-  <string name="permlab_sendSms">SMS iletileri gönderme ve görüntüleme</string>
+  <string name="permlab_sendSms">SMS mesajlarını gönder ve görüntüle</string>
   <string name="permlab_setAlarm">alarm ayarla</string>
   <string name="permlab_setInputCalibration">giriş cihazı kalibrasyonunu değiştir</string>
   <string name="permlab_setTimeZone">saat dilimini ayarla</string>
@@ -1013,7 +1013,7 @@ izin isteğinde bulunuldu."</string>
   <string name="postalTypeHome">Ev</string>
   <string name="postalTypeOther">Diğer</string>
   <string name="postalTypeWork">İş</string>
-  <string name="power_dialog">Telefon seçenekleri</string>
+  <string name="power_dialog">Telefon Seçenekleri</string>
   <string name="power_off">Kapat</string>
   <string name="prepend_shortcut_label">Menü+</string>
   <string name="preposition_for_date">%s tarihinde</string>
@@ -1026,7 +1026,7 @@ izin isteğinde bulunuldu."</string>
   <string name="reason_service_unavailable">Yazdırma hizmeti etkin değil</string>
   <string name="reason_unknown">Bilinmiyor</string>
   <string name="reboot_confirm">Telefon yeniden başlatılacak.</string>
-  <string name="reboot_safemode_confirm">Cihazı kapatıp güvenli modda tekrar açmak ister misiniz? Bu işlem, yüklediğiniz tüm üçüncü taraf uygulamaları devre dışı bırakacaktır. Daha sonra tekrar açtığınızda bu uygulamalar geri yüklenecektir.</string>
+  <string name="reboot_safemode_confirm">Cihazı kapatıp Güvenli Modda tekrar açmak ister misiniz? Bu işlem, yüklediğiniz tüm üçüncü taraf uygulamaları devre dışı bırakacaktır. Daha sonra tekrar açtığınızda bu uygulamalar geri yüklenecektir.</string>
   <string name="reboot_safemode_title">Güvenli Modda yeniden aç</string>
   <string name="reboot_title">Y. Başlat</string>
   <string name="reboot_to_reset_message">Yeniden başlatılıyor…</string>
@@ -1145,12 +1145,12 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="shutdown_confirm">Telefonunuz kapanacak.</string>
   <string name="shutdown_confirm_question">Kapatmak istiyor musunuz?</string>
   <string name="shutdown_progress">Kapanıyor…</string>
-  <string name="silent_mode">Sessiz mod</string>
-  <string name="silent_mode_ring">Telefon zili açık</string>
-  <string name="silent_mode_silent">Telefon zili kapalı</string>
+  <string name="silent_mode">Sessiz Mod</string>
+  <string name="silent_mode_ring">Telefon Zili açık</string>
+  <string name="silent_mode_silent">Telefon Zili kapalı</string>
   <string name="silent_mode_vibrate">Zil titreşimde</string>
   <string name="sim_added_message">Hücresel ağa erişmek için cihazınızı yeniden başlatın.</string>
-  <string name="sim_added_title">SIM kart eklendi</string>
+  <string name="sim_added_title">SIM Kart eklendi</string>
   <string name="sim_done_button">Tamamlandı</string>
   <string name="sim_removed_message">Hücresel ağ, geçerli bir SIM kart takıp cihazınızı yeniden başlatıncaya kadar kullanılamayacak.</string>
   <string name="sim_removed_title">SIM kart çıkarıldı</string>
@@ -1166,7 +1166,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="sms_control_yes">İzin ver</string>
   <string name="sms_premium_short_code_details">&lt;b&gt;Bu i&amp;#351;lem, mobil hesab&amp;#305;n&amp;#305;zdan &amp;#246;deme al&amp;#305;nmas&amp;#305;na neden olacak.&lt;/b&gt;</string>
   <string name="sms_short_code_confirm_allow">Gönder</string>
-  <string name="sms_short_code_confirm_always_allow">Daima İzin Ver</string>
+  <string name="sms_short_code_confirm_always_allow">Daima izin ver</string>
   <string name="sms_short_code_confirm_deny">İptal</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt;, &lt;b&gt;%2$s&lt;/b&gt; adresine bir mesaj göndermek istiyor.</string>
   <string name="sms_short_code_confirm_never_allow">İzin Verme</string>
@@ -1179,7 +1179,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="ssl_ca_cert_noti_by_unknown">Bunu, bilinmeyen üçüncü taraflar yapabilir</string>
   <string name="ssl_ca_cert_noti_managed">%s tarafından</string>
   <string name="ssl_ca_cert_warning">Ağ izlenebilir</string>
-  <string name="ssl_certificate">Güvenlik sertifikası</string>
+  <string name="ssl_certificate">Güvenlik Sertifikası</string>
   <string name="ssl_certificate_is_valid">Bu sertifika geçerli.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stk_cc_ss_to_dial">SS isteği DIAL isteği olarak değiştirildi.</string>
@@ -1190,10 +1190,10 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="stk_cc_ussd_to_ussd">USSD isteği yeni USSD isteği olarak değiştirildi.</string>
   <string name="storage_internal">Dahili depolama birimi</string>
   <string name="storage_sd_card">SD Kart</string>
-  <string name="storage_sd_card_label">%s SD kartı</string>
-  <string name="storage_usb">USB bellek</string>
+  <string name="storage_sd_card_label">%s SD Kartı</string>
+  <string name="storage_usb">USB Bellek</string>
   <string name="storage_usb_drive">USB Sürücü</string>
-  <string name="storage_usb_drive_label">%s USB sürücüsü</string>
+  <string name="storage_usb_drive_label">%s USB Sürücüsü</string>
   <string name="submit">Gönder</string>
   <string name="sync_binding_label">Eşitle</string>
   <string name="sync_do_nothing">Şimdilik bir şey yapma</string>
@@ -1227,14 +1227,14 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="untitled">&lt;İsimsiz&gt;</string>
   <string name="upload_file">Dosya seç</string>
   <string name="usb_accessory_notification_title">USB aksesuarı bağlandı</string>
-  <string name="usb_charging_notification_title">Şarj için USB</string>
+  <string name="usb_charging_notification_title">"Şarj için USB'den bağlandı"</string>
   <string name="usb_midi_notification_title">MIDI için USB</string>
   <string name="usb_midi_peripheral_manufacturer_name">Android</string>
   <string name="usb_midi_peripheral_name">Android USB Çevre Birimi Bağlantı Noktası</string>
   <string name="usb_midi_peripheral_product_name">USB Çevre Birimi Bağlantı Noktası</string>
-  <string name="usb_mtp_notification_title">Dosya aktarımı için USB</string>
+  <string name="usb_mtp_notification_title">"Dosya aktarımı için USB'den bağlandı"</string>
   <string name="usb_notification_message">Diğer USB seçenekleri için dokunun.</string>
-  <string name="usb_ptp_notification_title">Fotoğraf aktarımı için USB</string>
+  <string name="usb_ptp_notification_title">"Fotoğraf aktarımı için USB'den bağlandı"</string>
   <string name="usb_storage_activity_title">USB Depolaması</string>
   <string name="usb_storage_button_mount">USB depolama birimini aç</string>
   <string name="usb_storage_error_message">USB belleğinizi USB yığın belleği amaçlı kullanmayla ilgili bir sorun var.</string>
@@ -1274,7 +1274,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="vpn_text">Ağını yönetmek için dokunun.</string>
   <string name="vpn_text_long">%s için bağlandı. Ağı yönetmek için dokunun.</string>
   <string name="vpn_title">VPN etkin</string>
-  <string name="vpn_title_long">VPN %s tarafından etkin</string>
+  <string name="vpn_title_long">VPN; %s tarafından etkin</string>
   <string name="wait">Bekle</string>
   <string name="wallpaper_binding_label">Duvar Kağıdı</string>
   <string name="webpage_unresponsive">"Sayfa yanıt vermiyor.
@@ -1337,7 +1337,7 @@ Kapatmak ister misiniz?"</string>
   <string name="zen_mode_downtime_feature_name">Bildirim istenmeyen zaman</string>
   <string name="zen_mode_feature_name">Rahatsız Etme</string>
   <string name="zen_mode_forever">Kapatılana Kadar</string>
-  <string name="zen_mode_forever_dnd">Rahatsız Etme özelliğini kapatana kadar</string>
+  <string name="zen_mode_forever_dnd">Rahatsız Etme özelliği kapatılana kadar</string>
   <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">%1$s saate kadar</string>
 </resources>
