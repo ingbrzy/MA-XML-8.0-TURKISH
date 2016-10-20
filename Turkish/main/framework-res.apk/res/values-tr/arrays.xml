@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Yeniden deneyin</item>
+        <item></item>
+        <item></item>
+        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
+        <item></item>
+        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
+        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
+        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
+        <item>"Çok hızlı! Parmakizi tanınamadı"</item>
+        <item>Parmağınızı biraz kaydırıp, yeniden deneyin</item>
+        <item>Parmağınızı kaldırın ve tekrar tarayıcıya koyun</item>
+        <item>Parmağınızı tarayıcının üzerinde biraz daha fazla tutun</item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="emailAddressTypes">
         <item>Ev</item>
         <item>İş</item>
