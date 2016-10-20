@@ -105,8 +105,8 @@
   <string name="declaration_content">"1. Bu uygulamayı kullanarak Sohu Video, iQiyi ve diğer sağlayıcıların "&lt;a href="file:///android_asset/terms.html"&gt;Hizmet Şartlarını&lt;/a&gt; kabul etmiş olursunuz."
 2. Kullanıcı deneyimini iyileştirmek için cihazınız hakkında veri toplanacak ve izleneceksiniz. Cihazın IMEI bilgisi kullanılacak. &amp;#8203;
 3. HD Video eklentisi otomatik olarak kurulacaktır.
-4. Bu uygulama normal bir şekilde çalışması için internete bağlanmak ister."</string>
-  <string name="declaration_content_td_custom">Bu uygulama normal bir şekilde çalışması için internete bağlanmak ister.</string>
+4. Bu uygulama normal bir şekilde çalışabilmek için internete bağlanma ihtiyacı duyar."</string>
+  <string name="declaration_content_td_custom">Bu uygulama normal bir şekilde çalışabilmek için internet bağlantısı gerektirir.</string>
   <string name="defaults">Varsayılan</string>
   <string name="delete">Sil</string>
   <string name="delete_action_text">Sil (%d)</string>
@@ -199,7 +199,7 @@
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
   <string name="live">Canlı</string>
-  <string name="loading">&lt;CDATA&gt;Yükleniyor &lt;/CDATA&gt;</string>
+  <string name="loading">Yükleniyor</string>
   <string name="loading_video_netplay_label">Yükleniyor...</string>
   <string name="loading_video_netplay_label_v5">Yükleniyor...</string>
   <string name="local_favorite_empty_title">Boş</string>
@@ -401,7 +401,7 @@
   <string name="video">Video</string>
   <string name="video_app_update">Güncelle</string>
   <string name="video_bbs">Foruma Katıl</string>
-  <string name="video_bbs_url">Katılın ve bu uygulamayı geliştirmemize yardımcı olun</string>
+  <string name="video_bbs_url">Katılın ve bu uygulamayı geliştirmeye yardımcı olun</string>
   <string name="video_count">%d videolar</string>
   <string name="video_info_audio_bitrate_label">Ses bit hızı:</string>
   <string name="video_info_audio_coding_label">Ses kodlama formatı:</string>
