@@ -124,7 +124,7 @@
   <string name="backup_detail_page_title">Mi Bulut Yedekleri</string>
   <string name="backup_only_in_wifi">Fotoğraf ve videoları yedeklerken sadece WLAN kullan</string>
   <string name="backup_only_in_wifi_summary">Fotoğraf ve videoları yedeklerken asla mobil veri kullanma</string>
-  <string name="backup_waiting_button_text">Şimdi Yedekle</string>
+  <string name="backup_waiting_button_text">Hemen Yedekle</string>
   <string name="backuping">%1$d/%2$d yedekleniyor</string>
   <string name="begin_share">Bebek Albümü \"%s\" oluşturması bitti ve şimdi paylaşabilirsiniz</string>
   <string name="begin_share_toast">Paylaşmadan önce çocuk için ayrı bir albüm oluşturulsun mu?</string>
@@ -205,11 +205,11 @@
   <string name="delete_finish_format">%d silindi</string>
   <string name="delete_from_album">Cihazınızın \"%s\" albümündeki</string>
   <string name="delete_from_album_no_account">\"%s\" albüm</string>
-  <string name="delete_from_all_devices">Tüm cihazlardan</string>
-  <string name="delete_from_all_devices_and_cloud">Tüm cihazlardan ve Mi Buluttan</string>
+  <string name="delete_from_all_devices">Cihazlardan</string>
+  <string name="delete_from_all_devices_and_cloud">Cihazdan ve Mi Buluttan</string>
   <string name="delete_from_cloud">Bulut albümdeki öğeleri sil</string>
   <string name="delete_from_devices">Tüm cihazları otomatik olarak eşitle</string>
-  <string name="delete_from_devices_album">Bu albüm tüm cihazlarda otomatik olarak eşitlendi</string>
+  <string name="delete_from_devices_album">Bu albüm tüm cihazlara otomatik olarak eşitlendi</string>
   <string name="delete_from_homepage_album">Albümü ana sayfada göster</string>
   <string name="delete_from_web">Net Albümleri</string>
   <string name="delete_in_album">Albümde fotoğrafı veya videoyu sildiğinizde, şurdan da silinir:</string>
