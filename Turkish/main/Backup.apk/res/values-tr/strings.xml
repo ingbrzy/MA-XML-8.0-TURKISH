@@ -276,9 +276,9 @@ Lütfen en az %s kadar boş alan temizleyin"</string>
   <string name="trans_one_key_migrate">Mi Transfer</string>
   <string name="trans_operate_func_one">Usul A</string>
   <string name="trans_operate_func_two">Usul B</string>
-  <string name="trans_operate_new_phone_tips">"Yeni cihazı kullanarak QR kodunu tarayın. Ayarlar &gt; Ek Ayarlar &gt; Transfer\'e gidin.
+  <string name="trans_operate_new_phone_tips">"Alıcı cihazı kullanarak QR kodunu tarayın. Ayarlar &gt; Ek Ayarlar &gt; Transfer\'e gidin.
 [Alıcı Değilim] diye QR kodu oluştur"</string>
-  <string name="trans_operate_old_phone_tips1">"1. Eski cihazınıza Transfer uygulamasını yükleyin
+  <string name="trans_operate_old_phone_tips1">"1. Gönderenin cihazınıza Transfer uygulamasını yükleyin
 2. Uygulamayı açın ve [Göndericiyim] seçeneğini seçin
 3. Eski aygıtla QR kodunu tarayın"</string>
   <string name="trans_operate_old_phone_tips2">"Ayarlar &gt; Ek Ayarlar &gt; Transfer yerinde [Göndericiyim] seçeneğini seçin"</string>
@@ -296,32 +296,32 @@ Lütfen en az %s kadar boş alan temizleyin"</string>
   <string name="trans_progress_subdescript_waiting">%s alınması için bekliyor</string>
   <string name="trans_receiver">"Alıcıyım"</string>
   <string name="trans_receiver_time_remained">"%s kaldı.
-WLAN HOTSPOT\'u kapatmayın.
+WLAN iNet\'i kapatmayın.
 İki aygıtı birbirine yakın tutun"</string>
   <string name="trans_receiving_completed">Veri alındı</string>
   <string name="trans_restoring">Geri yükleniyor...</string>
   <string name="trans_restoring_no_items">Öğeler eşitleniyor</string>
   <string name="trans_retry">Tekrar Dene</string>
   <string name="trans_scan_invalid_qrcode">QR kodu geçersiz</string>
-  <string name="trans_scan_qr_code_tips">Yeni cihazı kullanarak QR kodunu tarayın</string>
+  <string name="trans_scan_qr_code_tips">Alıcı cihazı kullanarak QR kodunu tarayın</string>
   <string name="trans_select_data">Gönderilecek verileri seçin</string>
   <string name="trans_select_data_no_space">"Gönderilecek cihazda yeterli alan yok. 
 Dosyaları yeniden seçin veya %s kadar boş alan oluşturun"</string>
   <string name="trans_select_data_tips">"Aktarmak için dosyaları seçin
-Benzer dosyalar yeni cihazınızın üstüne yazılır"</string>
+Benzer dosyalar Alıcı cihazınızın üstüne yazılır"</string>
   <string name="trans_select_device_receive">Veri almak için tek bir cihaz seçin.</string>
   <string name="trans_select_device_send">Veri aktarmak için tek bir cihaz seçin.</string>
   <string name="trans_sender">"Göndericiyim"</string>
-  <string name="trans_sender_connectting">Yeni cihazınızı onaylayın</string>
-  <string name="trans_sender_searching">Yeni cihazlar aranıyor</string>
-  <string name="trans_sender_searching_ensurance">"Eski aygıttın açık olduğundan emin olun
-Eski aygıt bağlamak için bekliyor..."</string>
+  <string name="trans_sender_connectting">Alıcı cihazınızı onaylayın</string>
+  <string name="trans_sender_searching">Alıcı cihazlar aranıyor</string>
+  <string name="trans_sender_searching_ensurance">"Gönderici cihazın açık olduğundan emin olun
+Gönderici cihaz bağlamak için bekliyor..."</string>
   <string name="trans_sender_time_remained">"%s kaldı.
 WLAN\i kapatmayın.
 Cihazlarınızı birbirine yakın tutun."</string>
   <string name="trans_sending_completed">Veri gönderildi</string>
-  <string name="trans_show_qr_code_label">Eski cihazı bağlayın</string>
-  <string name="trans_show_qr_code_tips">Eski cihazı kullanarak QR kodunu tarayın</string>
+  <string name="trans_show_qr_code_label">Gönderenin cihazına bağlantı kurun</string>
+  <string name="trans_show_qr_code_tips">Gönderenin cihazını kullanarak QR kodunu tarayın</string>
   <string name="trans_start_failed_message">Başlatılamadı, lütfen yeniden deneyin veya cihazı yeniden başlatın</string>
   <string name="trans_start_failed_title">Başlatılamadı</string>
   <string name="trans_time_format_second">Bir dakikadan daha az</string>
