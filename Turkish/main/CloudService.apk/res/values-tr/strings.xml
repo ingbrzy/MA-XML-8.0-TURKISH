@@ -101,8 +101,8 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="find_device_reading_status">Durum yükleniyor…</string>
   <string name="find_device_reading_status_failure">"Durum yüklenemedi."</string>
   <string name="find_device_send_sms_alert">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS gönderilecektir.</string>
-  <string name="find_device_service_summary">Cihazınızı bulmak için i.mi.com ziyaret edin ve uzaktan cihazı kilitleyin.</string>
-  <string name="find_device_service_summary_international">Cihazınızı bulmak için i.mi.com ziyaret edin ve hemen uzaktan cihazı kilitleyin.</string>
+  <string name="find_device_service_summary">Cihazınızı bulmak için i.mi.com adresini ziyaret edin ve uzaktan cihazı hemen kilitleyin.</string>
+  <string name="find_device_service_summary_international">Cihazınızı bulmak için i.mi.com adresini ziyaret edin ve uzaktan cihazı hemen kilitleyin.</string>
   <string name="find_device_service_title">Telefonu Bul</string>
   <string name="find_device_status_ok">Herhangi bir yerdeki telefonu i.mi.co adresinden bulun</string>
   <string name="find_device_status_ok_international">Herhangi bir yerdeki telefonu www.mi.com/micloud adresinde bulun.</string>
@@ -398,7 +398,7 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="one_sync_item_close">%d kapalı</string>
   <string name="open_micloud_sync">Mi Bulut ile eşitleme açık</string>
   <string name="other_settings">Diğer Ayarlar</string>
-  <string name="other_sync_item">Diğer eşitlenecek öğeler</string>
+  <string name="other_sync_item">Eşitlenecek Diğer Öğeler</string>
   <string name="passed_synced_time_day">%dd gün önce eşitlendi</string>
   <string name="passed_synced_time_hour">%1$dh %2$dm önce eşitlendi</string>
   <string name="passed_synced_time_min">%d dakika önce eşitlendi</string>
@@ -472,7 +472,7 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="sync_item_calllog_title">Çağrı geçmişini eşitle</string>
   <string name="sync_item_sms_summary">Telefonunuzdaki gönderilen ve alınan SMS\'leri eşitle</string>
   <string name="sync_item_sms_title">Mesajları eşitle</string>
-  <string name="sync_item_title">Öğeler eşitleniyor</string>
+  <string name="sync_item_title">Eşitlenecek Öğeler</string>
   <string name="sync_off">Kapalı</string>
   <string name="sync_on">Açık</string>
   <string name="sync_resend_sms_dspt_provision">" Eğer SIM kartı değiştirirseniz, yeniden etkinleştirmek için mesaj gönderilir ve buna mukabil öperatörünüz sizden ücret talep edebilir."</string>
