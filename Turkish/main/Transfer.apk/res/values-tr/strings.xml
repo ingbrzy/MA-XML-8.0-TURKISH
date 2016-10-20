@@ -182,14 +182,14 @@
   <string name="call_barring">Çağrı engelli</string>
   <string name="call_barring_incoming">Gelen çağrı engelli</string>
   <string name="call_barring_outgoing">Giden çağrı engelli</string>
-  <string name="call_barring_sum">Çağrı Engelleme Ayarları</string>
+  <string name="call_barring_sum">Çağrı engelleme ayarlarını yapılandırır</string>
   <string name="call_description_recording">Kaydediliyor…</string>
   <string name="call_forwarding_number_hint">Çağrıları yönlendir</string>
   <string name="call_forwarding_settings">Çağrı Yönlendirme Ayarları</string>
   <string name="call_forwarding_settings_with_label">Çağrı Yönlendirme Ayarları (%s)</string>
   <string name="call_ind_services">Serbest Çağrı Hizmetleri</string>
   <string name="call_record_add_numbers">Numara ekle</string>
-  <string name="call_record_auto_always">Tüm numaralar</string>
+  <string name="call_record_auto_always">Tüm Numaralar</string>
   <string name="call_record_auto_scenario_title">Aramaları Kaydet</string>
   <string name="call_record_auto_summary">"Kayıtlar cihazınızın dahili hafızasındaki MIUI/sound_recorder/call_rec klasörüne kaydedilir."</string>
   <string name="call_record_auto_title">Çağrıları Otomatik Kaydet</string>
@@ -217,7 +217,7 @@
   <string name="call_settings_primary_user_only">Çağrı ayarları yalnızca esas kullanıcı tarafından değiştirilebilir.</string>
   <string name="call_settings_title_font_family">sans-serif-light</string>
   <string name="call_type">Çağrı Tipi</string>
-  <string name="call_waiting_summary">Görüşme esnasında, gelen diğer çağrıları bana bildir</string>
+  <string name="call_waiting_summary">Görüşme esnasında, gelen çağrıları bana bildir</string>
   <string name="call_waiting_title">Çağrı Bekletme</string>
   <string name="call_waiting_tone_continuously">Sürekli bildirim sesi çal</string>
   <string name="call_waiting_tone_stop_summary"/>
@@ -643,7 +643,7 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="input_password">Şifreyi girin</string>
   <string name="international_calls">Sadece uluslararası</string>
   <string name="international_dial_complete_intention">Uluslararası aramalarda tasarruf edin.</string>
-  <string name="international_dial_complete_no">Şimdi Değil</string>
+  <string name="international_dial_complete_no">Şimdi değil</string>
   <string name="international_dial_complete_summary">Uluslararası aramalar normalde daha yüksek oranlarına sahip. Ucuz aramak için kontör paketi kullanın.</string>
   <string name="international_dial_complete_yes">Mi Ses kullan</string>
   <string name="international_disable">Uluslararası haberler devre dışı</string>
@@ -708,7 +708,7 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="lable_all_out_except">Ev PLMN hariç uluslararası giden aramalar</string>
   <string name="lable_all_outgoing">Giden tüm çağrılar</string>
   <string name="lable_all_outgoing_international">Uluslararası giden aramalar</string>
-  <string name="lable_call_barring">Çağrı engelleme</string>
+  <string name="lable_call_barring">Çağrı Engelleme</string>
   <string name="lable_disable">Kapalı</string>
   <string name="lable_enable">Açık</string>
   <string name="lable_incoming_calls_except">Dolaşımda gelen çağrılar</string>
@@ -739,7 +739,7 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="livetalk_creat_account_fialed">Hesap hatası</string>
   <string name="livetalk_dial_direct">Direkt Ara</string>
   <string name="livetalk_enable_switch">Kontör Paketini kullan</string>
-  <string name="livetalk_experience_button">Şimdi Dene</string>
+  <string name="livetalk_experience_button">Şimdi dene</string>
   <string name="livetalk_introduction_text">Harika tarifelerle uluslararası aramalar</string>
   <string name="livetalk_last_step">Geri</string>
   <string name="livetalk_login_message">"Kontör paketini kullanarak, 
@@ -816,11 +816,11 @@ Kontör yükle ve konuşmaya başla"</string>
   <string name="mismatch_pin">"PIN\'ler eşleşmiyor."</string>
   <string name="mismatch_pin2">"PIN2\'ler eşleşmiyor. Tekrar dene."</string>
   <string name="missed_call_notify_five_times">5 kez</string>
-  <string name="missed_call_notify_none">Hatırlatıcı yok</string>
+  <string name="missed_call_notify_none">Yok</string>
   <string name="missed_call_notify_once">1 kez</string>
   <string name="missed_call_notify_ten_times">10 kez</string>
   <string name="missed_call_notify_thrice">3 kez</string>
-  <string name="missed_call_notify_times_summary">İstediğiniz sayıda cevapsız aramalar hakkında hatırlattıcı seçin (Hatırlatmalar 5 dakikalık aralıklarla ayrılmış)</string>
+  <string name="missed_call_notify_times_summary">İstediğiniz sayıda cevapsız aramalar hakkında hatırlatıcı seçin (Hatırlatmalar 5 dakikalık aralıklarla ayrılmış)</string>
   <string name="missed_call_notify_times_title">Cevapsız Çağrı Hatırlatmaları</string>
   <string name="missed_call_notify_twice">2 kez</string>
   <string name="mmiCancelled">MMI kodu iptal edildi</string>
