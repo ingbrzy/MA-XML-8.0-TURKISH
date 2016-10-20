@@ -9,12 +9,12 @@
         <item quantity="one">1 uygulamanın bildirimi gösteriliyor</item>
     </plurals>
     <plurals name="show_dev_countdown">
-        <item quantity="other">Geliştirici Moduna geçebilmek için %1$d adımınız kaldı.</item>
+        <item quantity="other">Geliştirici Moduna geçebilmek için %1$d adım kaldı.</item>
         <item quantity="one">%1$d adım sonra Geliştirici Moduna geçeceksiniz.</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">%1$d parmakizi ayarı</item>
-        <item quantity="one">%1$d  parmakizi ayarı</item>
+        <item quantity="other">%1$d parmakizini ayarla</item>
+        <item quantity="one">%1$d parmakizini ayarla</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Şifre en az %d harf içermelidir.</item>
