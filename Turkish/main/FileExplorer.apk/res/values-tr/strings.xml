@@ -47,7 +47,7 @@
   <string name="bind_account_summary">Mi Hesabı ile KuaiPan hesabını eşitleyin</string>
   <string name="bind_failed_tip">"Eklenemedi"</string>
   <string name="bind_need_to_login">Oturum Aç</string>
-  <string name="bind_phone_dialog_bind">Şimdi Ekle</string>
+  <string name="bind_phone_dialog_bind">Şimdi ekle</string>
   <string name="bind_phone_dialog_cancle">"Ekleme!"</string>
   <string name="bind_phone_dialog_tip">"Videonuz rayting ve ödül kazanma içeriği içerebilir. Bazı şeyler kazanabilirsiniz, fakat bunun için telefon numaranızı eklemelisinizr."</string>
   <string name="bind_phone_failed_tip">"Telefon numarası eklenemedi"</string>
@@ -231,6 +231,9 @@
   <string name="folder_exist">Klasör zaten mevcut.</string>
   <string name="folder_name_empty">Dosya adı boş olamaz</string>
   <string name="folder_name_illegal">Geçersiz klasör adı</string>
+  <string name="follow_fail">"Takip edilmiyor, sonra deneyin"</string>
+  <string name="follow_tip_1">Daha fazla video izlemek için beni takip edin</string>
+  <string name="follow_tip_2">Daha fazla video izlemek için beni takip edin</string>
   <string name="folder_name_invalid">"Klasör adları şu karakterleri içeremez: /\\:*?&lt;&gt;"</string>
   <string name="force_touch_clean">Temizle</string>
   <string name="force_touch_search">Dosyaları ara</string>
@@ -356,7 +359,7 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="message_reply_suffix">": "</string>
   <string name="message_title">Mesajlarım</string>
   <string name="mi_router_label">Yönlendirici</string>
-  <string name="midrive_network_connect_confirm">Mi Drive normal çalıkmak için internete ihtiyaç duyar.</string>
+  <string name="midrive_network_connect_confirm">Mi Drive normal şekilde çalışabilmek için internete ihtiyaç duyar.</string>
   <string name="midrive_space_full">"Mi Drive'da yeterli alan yok"</string>
   <string name="midrive_welcome_message">Kuaipan dosyaları başarıyla Mi Drive uygulamasına aktarıldı. 3 ay boyunda Mi Bulut üyeliği veriyoruz. Mi Bulut ve Mi Drive aynı depolamayı kullanır. i.mi.com adresinden dosyalarınıza erişebilirsiniz.</string>
   <string name="midrive_welcome_title">"Mi Drive'a Hoşgeldiniz"</string>
@@ -708,6 +711,9 @@ ve yenilerini kaçırmayın!"</string>
   <string name="setting">Ayarlar</string>
   <string name="setting_account_bind">Hesap ekle</string>
   <string name="setting_message_notify">Bildirimler</string>
+  <string name="share_success">Başarıyla paylaşıldı</string>
+  <string name="share_tip_1">Paylaşım için teşekkürler, diğer videolar için beni takip edin</string>
+  <string name="share_tip_2">Paylaşım için teşekkürler, diğer videolar için beni takip edin</string>
   <string name="share_box">Paylaşıldı</string>
   <string name="share_box_receive">Alınan</string>
   <string name="share_box_send">Gönder</string>
@@ -736,6 +742,8 @@ ve yenilerini kaçırmayın!"</string>
 Depolama için %1$s boş alan eklendi."</string>
   <string name="slashes">/</string>
   <string name="smb_loading">Biraz bekleyin...</string>
+  <string name="sort_size_asc">Büyükten daha küçük</string>
+  <string name="sort_size_desc">Küçükten daha büyük</string>
   <string name="sms_platform">SMS</string>
   <string name="space_info">KuaiPan: %1$s mevcut, Toplam: %2$s</string>
   <string name="space_usage">Kullanılan Alan:</string>
@@ -754,6 +762,8 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="storage_usb">USB Depolama</string>
   <string name="storage_usb_description">USB Depolama</string>
   <string name="storage_warning">"Harici depolama kullanılamıyor"</string>
+  <string name="swap_tip_1">Solu veya sağı değiştir</string>
+  <string name="swap_tip_2">Diğer videoları izlemek için...</string>
   <string name="subtitle_report_video">Şurdan: %1$s</string>
   <string name="symbol_for_storage_tip">:</string>
   <string name="sys_size_enable">" mevcut"</string>
@@ -900,13 +910,19 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_setting_follow_new_msg_tip">Yeni videolar hakkında bildirim al</string>
   <string name="user_setting_followed_msg">Takipçilerin bildirimleri</string>
   <string name="user_setting_followed_msg_tip">İnsanlar sizi takip etmeye başladığında bildirim al</string>
+  <string name="user_setting_hot_comment">Özellik yorumlarıyla ilgili bildirimler</string>
+  <string name="user_setting_hot_comment_tip">Özellik yorumları geldiğinde bildirim al</string>
   <string name="user_setting_logout">Oturumu kapat</string>
   <string name="user_setting_new_comment">Yorumların bildirimleri</string>
   <string name="user_setting_new_comment_tip">Yeni yorumların bildirimlerini al.</string>
   <string name="user_setting_new_liked">Sevilen bildirimler</string>
   <string name="user_setting_new_liked_tip">İnsanlar videonuzu sevdiklerine dair bildirimleri al</string>
+  <string name="user_setting_play_num">Görünüm hakkındaki bildirimler</string>
+  <string name="user_setting_play_num_tip">Videoların görüntülenme sayısı hakkında bildirim al</string>
   <string name="user_setting_topic_new_msg">Yeni video bildirimleri</string>
   <string name="user_setting_topic_new_msg_tip">"Başlıkta yeni videolar takipçiler tarafından paylaşıldığında bildirimleri al."</string>
+  <string name="user_setting_video_has_hot_comment">Popüler yorumlar hakkında bildirimler</string>
+  <string name="user_setting_video_has_hot_comment_tip">Videolarınızın popülerliği hakkındaki yorumları hakkında bildirimleri al</string>
   <string name="user_sex">Cinsiyet</string>
   <string name="user_sign">İmza</string>
   <string name="user_topic_btn_text">Daha fazla başlığa bak</string>
@@ -974,6 +990,9 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="wechat_video">%s\'daki video</string>
   <string name="weixin_not_installed">"WeChat kurulu değil"</string>
   <string name="weixin_sticker_tag_str">Etiketler</string>
+  <string name="welcome_to_my_page">Ana Sayfama Hoşgeldiniz!</string>
+  <string name="welcome_to_my_page_1">Beni takip et!</string>
+  <string name="welcome_to_my_page_2">Beni takip et!</string>
   <string name="wifi_state">WLAN Bağlantısı</string>
   <string name="wx_title1">"Burada güzel video var!"</string>
   <string name="wx_title2">Video paylaştım, bakın!</string>
