@@ -176,8 +176,13 @@
         <item>Elle</item>
         <item>Otomatik Proxy Yapılandırması</item>
     </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Yok</item>
+        <item>Bildirim</item>
+        <item>Titreşim</item>
+    </string-array>
     <string-array name="apn_auth_entries">
-        <item>None</item>
+        <item>Yok</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP veya CHAP</item>
@@ -223,7 +228,59 @@
         <item>Medya</item>
         <item>Cihaz</item>
      </string-array>
-     <string-array name="app_ops_labels">
+     <string-array name="app_ops_summaries">
+        <item>coarse location</item>
+        <item>fine location</item>
+        <item>GPS</item>
+        <item>vibrate</item>
+        <item>read contacts</item>
+        <item>modify contacts</item>
+        <item>read call log</item>
+        <item>modify call log</item>
+        <item>read calendar</item>
+        <item>modify calendar</item>
+        <item>wi-fi scan</item>
+        <item>notification</item>
+        <item>cell scan</item>
+        <item>call phone</item>
+        <item>read SMS</item>
+        <item>write SMS</item>
+        <item>receive SMS</item>
+        <item>receive emergency SMS</item>
+        <item>receive MMS</item>
+        <item>receive WAP push</item>
+        <item>send SMS</item>
+        <item>read ICC SMS</item>
+        <item>write ICC SMS</item>
+        <item>modify settings</item>
+        <item>draw on top</item>
+        <item>access notifications</item>
+        <item>camera</item>
+        <item>record audio</item>
+        <item>play audio</item>
+        <item>read clipboard</item>
+        <item>modify clipboard</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>get usage stats</item>
+        <item>mute/unmute microphone</item>
+        <item>project media</item>
+        <item>activate VPN</item>
+        <item>write wallpaper</item>
+        <item>assist structure</item>
+        <item>assist screenshot</item>
+    </string-array>
+    <string-array name="app_ops_labels">
         <item>Konum</item>
         <item>Konum</item>
         <item>Konum</item>
@@ -320,7 +377,17 @@
         <item>Mavi üzerine sarı</item>
         <item>Özel</item>
     </string-array>
-    <string-array name="select_logd_size_summaries">
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (Hata Ayıkla)</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Dalvik Kullan</item>
+        <item>ART Kullan</item>
+        <item>ART-Hata Ayıklama Kullan</item>
+    </string-array>
+	<string-array name="select_logd_size_summaries">
         <item>64K başına günlük tampon</item>
         <item>256K başına günlük tampon</item>
         <item>1M başına günlük tampon</item>
@@ -492,7 +559,7 @@
         <item>Önbellekte (boş)</item>
     </string-array>
     <string-array name="color_picker">
-        <item>Ördeksi</item>
+        <item>Petrol </item>
         <item>Mavi</item>
         <item>Çivit Rengi</item>
         <item>Mor</item>
@@ -553,6 +620,13 @@
         <item>Pembe</item>
         <item>Menekşe</item>
         <item>Mor</item>
+    </string-array>
+    <string-array name="pink_panel_led_color_entries">
+        <item>Kırmızı</item>
+        <item>Mavi</item>
+        <item>Turuncu</item>
+        <item>Yeşil</item>
+        <item>Eflatun</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>Mavi</item>
@@ -689,6 +763,13 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>El ile bağlan</item>
         <item>Daima sor</item>
     </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 Dakika</item>
+        <item>15 Dakika</item>
+        <item>30 Dakika</item>
+        <item>1 Dakika</item>
+        <item>Unbegrenzt</item>
+    </string-array>
     <string-array name="wifi_ssid_type_entries">
         <item>Otomatik olarak bağlan</item>
         <item>El ile bağlan</item>
@@ -705,7 +786,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>Video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
-        <item>Ağ nedeniyle trafik çok yavaş</item>
+        <item>Netzwerk ist aufgrund des hohen Datenverkehrs langsam</item>
         <item>Sinyal gücü zayıf olduğundan ağ yavaş</item>
         <item>Taşınıyor…</item>
     </string-array>
@@ -729,6 +810,10 @@ Not: Sadece Ubuntu 8.04!"</item>
     <string-array name="agps_network_entries">
         <item>Ev Ağı</item>
         <item>Tüm Ağ</item>
+    </string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Riskli uygulmayı sor</item>
+        <item>İzin ver</item>
     </string-array>
     <string-array name="agps_si_mode_entries">
         <item>MSB</item>
