@@ -170,6 +170,7 @@
   <string name="common_use_phrase_bottom_bar_text_next">Sonraki</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Önceki</string>
   <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
+  <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
   <string name="contextmenu_add_contact">Kişi Ekle</string>
   <string name="contextmenu_copy">Kopyala</string>
   <string name="contextmenu_copylink">URL adresini kopyala</string>
@@ -328,7 +329,7 @@
   <string name="homepage_get_location">Konumu al</string>
   <string name="homepage_get_location_failed">"Bilgi alınamadı, bir şehir seçin"</string>
   <string name="homepage_more_cards">Diğer hizmetler</string>
-  <string name="homepage_more_sites">Diğer siteler</string>
+  <string name="homepage_more_sites">Diğer Siteler</string>
   <string name="homepage_search_hint">Ara</string>
   <string name="homepage_top_card_menu">Üstte</string>
   <string name="in_incognito">"Şu anda gizlisiniz. Görüntülediğiniz web sayfaları tarayıcı geçmişinde görüntülenmeyecek."</string>
@@ -420,6 +421,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miuichromium_error_page_network_hijack">Geçerli ağ güvenli değil</string>
   <string name="miuichromium_error_page_network_off">Wi-Fi/Mobil Veriyi aç</string>
   <string name="miuichromium_error_page_no_network">"Ağa bağlanamıyor"</string>
+  <string name="miuichromium_error_page_reason_network">Ağ ayarlarını denetle</string>
+  <string name="miuichromium_error_page_reason_server">Sayfa yüklenemedi</string>
   <string name="miuichromium_error_page_reload">Yenile</string>
   <string name="miuichromium_error_page_safe_network">Güvenli Mod</string>
   <string name="miuichromium_error_page_server_error">Çok fazla cihaz bağlanmaya çalışıyor</string>
@@ -491,7 +494,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Hızlı URL girişi</string>
   <string name="pref_adblock_counts">%d reklam engellendi</string>
   <string name="pref_adblock_title">Reklam Engelleyici</string>
-  <string name="pref_auto_update_under_wifi">Wi-Fi kullanarak güncelle</string>
+  <string name="pref_auto_update_under_wifi">WLAN kullanarak güncelle</string>
   <string name="pref_category_hint">Kategori</string>
   <string name="pref_check_security_url_summary">"Güvenli olup olmadığını kontrol etmek için Mi sunucularına web sitenizin URL\'sini gönder"</string>
   <string name="pref_check_security_url_title">URL güvenliğini denetle</string>
@@ -520,7 +523,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_extras_reset_default_title">Diğer</string>
   <string name="pref_extras_send_feedback">Geribildirim gönder</string>
   <string name="pref_extras_title">Gelişmiş</string>
-  <string name="pref_extras_title_version">Sürüm bilgisi</string>
+  <string name="pref_extras_title_version">Sürüm Bilgisi</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">"Dosyaları tarayıcının varsayılan konumuna kaydet"</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Varsayılan konumu geri yükle</string>
   <string name="pref_file_download_default_path_prefix">Varsayılan Konum: %s</string>
@@ -589,6 +592,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="profiler_stopped_toast">Profiler tamamlandı. Sonuç %1$s kadar.</string>
   <string name="progress_dialog_setting_wallpaper">Duvar kağıdı ayarlanıyor...</string>
   <string name="pull_to_refresh_pull_label">Yenilemek için çekin...</string>
+  <string name="pull_to_refresh_refreshing_label">Yükleniyor...</string>
   <string name="pull_to_refresh_release_label">Yenilemek için serbest bırakın</string>
   <string name="qr_code_title">QR Kodu</string>
   <string name="quicklink_bookmark_save">Favori Yeri</string>
@@ -653,7 +657,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="save_to_camera">Kameraya kaydet</string>
   <string name="save_to_camera_failed">"Resim kaydedilemiyor"</string>
   <string name="save_to_camera_success">Kameraya kaydedildi</string>
-  <string name="sdcard_error">SD kartınızı kontrol edin</string>
+  <string name="sdcard_error">SD Kartınızı kontrol edin</string>
   <string name="search">Ara</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
@@ -689,6 +693,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="sendstartpage">Başlangıç Sayfası</string>
   <string name="share_page_text">"【%1$s】 zevk alıyorum | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Bu web sitesinin URL\'si güvenli olduğundan emin olmak için Xiaomi sunucularına gönderilir. Ayarlar bölümünden istediğiniz zaman bu özelliği kapatabilirsiniz.</string>
+  <string name="show_check_security_url_check_tip_dialog_title">URL güvenliğini kontrol edin</string>
   <string name="show_security_tip_dialog_title">Kullanım Koşulları</string>
   <string name="show_weather_location_getter_tip_dialog_description">Hava servisleri tarayıcınızda anlık güncel hava durumu bilgilerini size sunması için konum bilgisine erişiyor. Ayarlar bölümünden bu özelliği kapatabilirsiniz.</string>
   <string name="sign_in_to" formatted="false"> %s1 için oturum aç \"%s2\"</string>
@@ -730,10 +735,6 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="tab_hotpage">Haber Kaynağı</string>
   <string name="tab_quicklinks">Başlangıç Sayfası</string>
   <string name="tab_yellowpage">Bağlantılar</string>
-  <string name="tae_sdk_login_qr_icon_close"></string>
-  <string name="tae_sdk_login_qr_icon_taobao"></string>
-  <string name="tae_sdk_qr_login_icon_password"></string>
-  <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="time_picker_dialog_am">ÖÖ</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
@@ -757,7 +758,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="url_suggest_indicator_bookmark">Favoriler/Geçmiş</string>
   <string name="url_suggest_indicator_hoturl">Popüler</string>
   <string name="url_suggest_indicator_mostvisited">Sık Kullanılanlar</string>
-  <string name="use_cellular_network_alert_message">"Wi-Fi mevcut değil. Yerine mobil veri bağlantısı kullanılsın mı?"</string>
+  <string name="use_cellular_network_alert_message">"WLAN mevcut değil. Yerine mobil veri bağlantısı kullanılsın mı?"</string>
   <string name="use_cellular_network_alert_title">Veri kullanımı</string>
   <string name="user_defined_webpage">Başlangıç Sayfasına Ekle</string>
   <string name="user_defined_webpage_title">Başlangıç Sayfasına Ekle</string>
@@ -784,7 +785,11 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="video_buffering_percent_string">"Belleğe alınıyor: "</string>
   <string name="video_collect_cancel">Favorilerden çıkart</string>
   <string name="video_collect_success">Favoriler</string>
+  <string name="video_download_clear_info">%d seçili video önbellekten silindi</string>
+  <string name="video_download_clear_prompt">%d seçili video önbellekten silinsin mi?</string>
   <string name="video_download_complete">İndirme tamamlandı.</string>
+  <string name="video_download_downloaded">Yüklendi</string>
+  <string name="video_download_downloading">Yükleniyor</string>
   <string name="video_download_empty">Video yok</string>
   <string name="video_download_error">Hata</string>
   <string name="video_download_error_http_gone">"Dosya bulunamadı"</string>
@@ -825,7 +830,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="video_subtitle_prefix2">"İzlendi: "</string>
   <string name="video_title_prefix_message">"Çevrimdışı: "</string>
   <string name="video_unknown_duration">Süre bilinmiyor</string>
-  <string name="view_certificate">Sertifikayı Görüntüle</string>
+  <string name="view_certificate">Sertifikayı görüntüle</string>
   <string name="view_document_downloaded_files">İndirilenlerde indirilmiş dosyaları görüntüle</string>
   <string name="voice_sub_title">"Ne diyeceğimi bilmiyorum? mi.com sitesini açmayı deneyin!"</string>
   <string name="voice_title">Komutunuzu söyleyin...</string>
