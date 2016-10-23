@@ -274,7 +274,7 @@
   <string name="comma">, </string>
   <string name="confirm">Tamam</string>
   <string name="confirm_delete">%s resimler silinsin mi?</string>
-  <string name="confirm_delete_init_message">Fotoğraf cihazdan ve Mi Bulut'tan silinecek. Eğer sadece cihazdan silinmesini istiyorsanız, Mi Bulut eşitlemesini çevrimdışı hale getirin.</string>
+  <string name="confirm_delete_init_message">"Fotoğraf cihazdan ve Mi Bulut'tan silinecek. Eğer sadece cihazdan silinmesini istiyorsanız, Mi Bulut eşitlemesini çevrimdışı hale getirin."</string>
   <string name="confirm_delete_init_title">Resmi temizle</string>
   <string name="confirm_download">%s indirmelisiniz.</string>
   <string name="confirm_download_video_message">Video indirildikten sonra izleyebilrisiniz. WLAN kullanılabilir olduğunda indirmeye devam edecek.</string>
@@ -1057,7 +1057,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="sync_only_in_wifi">Sadece WLAN ağına bağlıyken yükle</string>
   <string name="sync_only_in_wifi_alert">Bu seçeneği devre dışı bırakmak veri kullanımını arttırabilir</string>
   <string name="sync_only_in_wifi_summary">Fotoğraflar yüklemek için mobil veri bağlantısı yok</string>
-  <string name="sync_third_party_app_pic_summary">Mi Bulut'taki diğer uygulamaların fotoğraflarını eşitle</string>
+  <string name="sync_third_party_app_pic_summary">"Mi Bulut'taki diğer uygulamaların fotoğraflarını eşitle"</string>
   <string name="system_album">Sistem Albümü</string>
   <string name="tab_all_text">İkiside</string>
   <string name="tab_lockscreen_text">Kilit Ekranı</string>
