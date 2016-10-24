@@ -228,7 +228,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="app_factory_reset">Güncellemeleri kaldır</string>
   <string name="app_factory_reset_dlg_text">Bu Android sistem uygulamasının tüm güncellemeleri kaldırılacaktır.</string>
   <string name="app_factory_reset_dlg_title">Güncellemeler kaldırılsın mı?</string>
-  <string name="app_floating_window_dlg_disable"> "%1$s'nin açılır ayarlarını kapat ve çık. Gerçekten bu özelliği kapatmak istiyor musunuz?"</string>
+  <string name="app_floating_window_dlg_disable">"%1$s\nin açılır ayarlarını kapat ve çık. Gerçekten bu özelliği kapatmak istiyor musunuz?"</string>
   <string name="app_floating_window_dlg_enable">"%1$s'nin açılır ayarları etkin olduğundan yeniden başlatılması gerekir. Uygulamayı elle yeniden başlatabilirsiniz.
  Gerçekten bu özelliği kapatmak istiyor musunuz?"</string>
   <string name="app_forget_pattern"><u>Deseni unuttum</u></string>
@@ -896,7 +896,6 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="clear_user_data_text">Veriyi Temizle</string>
   <string name="close_gesture">Kullanılan büyütmeyi kapat</string>
   <string name="close_dialog">Tamam</string>
-  <string name="close_gesture">El hareketiyle kapat</string>
   <string name="close_miui_optimization_title">MIUI iyileştirmesini kapat</string>
   <string name="close_miui_optimization_warning_message">Cihazınız değişiklikleri uygulamak için yeniden başlatılacaktır. Not: Bu özellik kapalıysa, kullanıcı arabiriminde çok büyük değişiklikler görünecek.</string>
   <string name="cloud_app_name">Mi Bulut Yedeklemesi</string>
@@ -2612,11 +2611,10 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="no_application">Hiçbir şey</string>
   <string name="no_applications">Uygulama yok.</string>
   <string name="no_battery_summary">Son tam şarjdan beri pil kullanılmadı</string>
-  <string name="no_condition_providers">Hiçbir sağlayıcı yüklü değil</string>
   <string name="no_connected_devices">Bağlı cihaz yok</string>
   <string name="no_data_usage">Veri kullanılmadı</string>
   <string name="no_default_apps">Varsayılan uygulama yok.</string>
-  <string name="no_condition_providers">Hiçbir koşul sağlayıcıları yüklenmedi.</string>
+  <string name="no_condition_providers">Hiçbir koşul sağlayıcı yüklenmedi.</string>
   <string name="no_device_admins">Kullanılabilir aygıt yöneticisi yok</string>
   <string name="no_encrypt_password">Şifre yok</string>
   <string name="no_internet_access_remember">Bu ağda tekrar sorma</string>
@@ -4418,7 +4416,7 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">"Trackball'e Uyandır"</string>
   <string name="trans_backingup">Yedekleniyor…</string>
-  <string name="transition_animation_scale_title">Geçiş Animasyonu Ölçeği</string>
+  <string name="transition_animation_scale_title">Geçiş Animasyon Ölçeği</string>
   <string name="trans_backingup_no_items">Eşitleniyor…</string>
   <string name="trans_calculating">Hesaplanıyor…</string>
   <string name="trans_calculating_app_sd_size">Dosya boyutu hesaplandı, %s tarandı</string>
@@ -4499,7 +4497,6 @@ Transferi için bekleniyor..."</string>
   <string name="trans_waiting_ensurance">"Mi Transferin etkin ve
 alıcı aygıtın açık olduğundan emin olun"</string>
   <string name="trans_waiting_for_sender">Alıcı aygıttın bağlanması için bekliyor...</string>
-  <string name="transition_animation_scale_title">Geçiş Animasyonu</string>
   <string name="translation_contributors_title">Katkıda Bulunanlar</string>
   <string name="trust_agent_disabled_device_admin">Yönetici tarafından devre dışı bırakıldı</string>
   <string name="trusted_credentials">Güvenilir Kimlik Bilgileri</string>
@@ -5499,7 +5496,6 @@ Delta Güncelleme Boyutu: %2$s"</string>
   <string name="zen_mode_schedule_rule_days_none">Yok</string>
   <string name="zen_mode_selected_callers">Seçili Arayanlar</string>
   <string name="zen_mode_selected_messages">Seçili Mesajlar</string>
-  <string name="zen_mode_miui_disturb_category">Beni Rahatsız Etme</string>
   <string name="zen_mode_settings_title">İstisnalar</string>
   <string name="zen_mode_start_time">Başlangıç Zamanı</string>
   <string name="zen_mode_summary_alarms_only_by_time">Sadece alarmları %1$s kadar değiştir </string>
@@ -5517,4 +5513,4 @@ Delta Güncelleme Boyutu: %2$s"</string>
   <string name="zone_auto_summaryOn">Ağın sağladığı zaman dilimini kullan</string>
   <string name="zone_list_menu_sort_alphabetically">Alfabetik sırala</string>
   <string name="zone_list_menu_sort_by_timezone">Zaman dilimine göre sırala</string>
-</resources>
+</resources
