@@ -102,6 +102,7 @@
   <string name="clip_board_history_desc">Kopyalama/Kesme İçeriği</string>
   <string name="clipboard">Pano</string>
   <string name="close">Kapat</string>
+  <string name="close_debug_mode">Hata Ayıklama anahtarını kapatmak için %1$d dokunun</string>
   <string name="confirm_auto_cleaner">Tamam</string>
   <string name="conn_of_function_safe">Güvenlik için Ağ Bağlantısı</string>
   <string name="connecting">Bağlanıyor…</string>
@@ -154,6 +155,7 @@
   <string name="dialog_msg_load_cleanup_engine_error">Temizleyici çekirdeği bozuldu.</string>
   <string name="dialog_msg_stop_scan">"Devam eden temizleme taraması durdurulsun mu?"</string>
   <string name="dialog_msg_uninstall_apps">Bu uygulamalar kaldırılsın mı?</string>
+  <string name="dialog_msg_uninstall_apps_xspace">Bu uygulamalar kaldırılsın mı? （klonlu uygulamalar dahil）?</string>
   <string name="dialog_ok_add_white_list_error">Anladım</string>
   <string name="dialog_title_add_white_list_error">Dikkat</string>
   <string name="dialog_title_backup_and_uninstall_apps">Yedekle ve Kaldır</string>
@@ -189,6 +191,7 @@
   <string name="harass_detail">%1$d SMS ve %2$d çağrı engellendi</string>
   <string name="header_optimizer">Bu özelliği kulanarak %s\'nı kabul etmiş olursunuz.</string>
   <string name="hint_bar_select_image">%d seçildi</string>
+  <string name="hint_clean_select_items">Yenilenenleri sil...</string>
   <string name="hint_clean_select_similar_image">Yenilenenler siliniyor…</string>
   <string name="hints_ad_header_left">Reklam Dosyaları</string>
   <string name="hints_apk_header_left">Paketler</string>
@@ -276,11 +279,11 @@
   <string name="junk_tag_big_file_from_name_baofeng">Fırtına Videosu</string>
   <string name="junk_tag_big_file_from_name_bluetoothfiles">Bluetooth dizini</string>
   <string name="junk_tag_big_file_from_name_camerafiles">Sistem Albüm Dizini</string>
-  <string name="junk_tag_big_file_from_name_downloads">下载目录</string>
-  <string name="junk_tag_big_file_from_name_fmt">来自%s</string>
-  <string name="junk_tag_big_file_from_name_musicfiles">音乐目录</string>
-  <string name="junk_tag_big_file_from_name_sdcard">存储卡根目录</string>
-  <string name="junk_tag_big_file_from_name_videofiles">视频目录</string>
+  <string name="junk_tag_big_file_from_name_downloads">İndirme Dizini</string>
+  <string name="junk_tag_big_file_from_name_fmt">Şurdan: %s</string>
+  <string name="junk_tag_big_file_from_name_musicfiles">Müzik Dizini</string>
+  <string name="junk_tag_big_file_from_name_sdcard">Hafıza Kartı Kök Dizini</string>
+  <string name="junk_tag_big_file_from_name_videofiles">Video Dizini</string>
   <string name="junk_tag_big_file_mergedfile_desc_aura">它是Sygic GPS下载的地图，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
   <string name="junk_tag_big_file_mergedfile_desc_baidumap">它是百度地图下载的地图，&lt;font color=#d64438 &gt;清理后需要重新下载才能离线使用&lt;/font&gt;</string>
   <string name="junk_tag_big_file_mergedfile_desc_baofeng">这是暴风影音下载的视频，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
@@ -308,9 +311,9 @@
   <string name="junk_tag_big_file_type_gamedata_obb">%1$s的数据包</string>
   <string name="junk_tag_big_file_type_map_baidu">%1$s离线地图</string>
   <string name="junk_tag_junk_android_data_2nd_card_left_overs">软件卸载后残留文件</string>
-  <string name="junk_tag_junk_big_name_android_data_google_file">翻译数据文件</string>
-  <string name="junk_tag_junk_big_name_c_thumbnails">相册缩略图</string>
-  <string name="junk_tag_junk_big_name_d_100media">录制的视频</string>
+  <string name="junk_tag_junk_big_name_android_data_google_file">Çeviri veri dosyası</string>
+  <string name="junk_tag_junk_big_name_c_thumbnails">Albüm küçük resmi</string>
+  <string name="junk_tag_junk_big_name_d_100media">Kayıtlı Video</string>
   <string name="junk_tag_junk_big_name_d_thumbnails">相册缩略图</string>
   <string name="junk_tag_junk_big_name_demovideo">功能演示视频</string>
   <string name="junk_tag_junk_big_name_downloadmanager">下载的文件</string>
@@ -373,6 +376,10 @@
   <string name="open">Aç</string>
   <string name="open_app">Aç</string>
   <string name="open_browser">Tarayıcıda Aç</string>
+  <string name="open_debug_mode">Hata Ayıklama anahtarına geçiş yapmak için %1$d dokunun</string>
+  <string name="opened">Aç</string>
+  <string name="optimizecenter_data_support">Clean Master tarafından güçlendirilmiştir</string>
+  <string name="optimizecenter_data_support_cm">Clean Master tarafından güçlendirilmiştir</string>
   <string name="optimizecenter_data_support_cm">Clean Master tarafından güçlendirilmiştir</string>
   <string name="optimizecenter_data_support_tc">Tencent tarafından güçlendirilmiştir</string>
   <string name="petabyteShort">PB</string>
@@ -528,7 +535,7 @@
   <string name="total_clean">Toplam temizlenen: %s</string>
   <string name="total_clean_text">Temizle</string>
   <string name="traffic_top">Fazla veri tüketen 5 uygulama</string>
-  <string name="unlike">Hayır, teşekkürler</string>
+  <string name="unlike">Hayır, Teşekkürler</string>
   <string name="update_date_format">dd-MM-yyyy</string>
   <string name="virus_scan">Virüs Tara</string>
   <string name="vungle_ad_name">Vungle广告</string>
