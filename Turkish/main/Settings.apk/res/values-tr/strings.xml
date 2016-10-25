@@ -1468,7 +1468,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="enable_service_password_reason">Çünkü %1$s servisini açarsanız veri şifreleme etkilenir ve şifrenizi onaylamanız gerekir.</string>
   <string name="enable_service_pattern_reason">Çünkü %1$s servisini açarsanız veri şifreleme etkilenir ve deseninizi onaylamanız gerekir.</string>
   <string name="enable_service_pin_reason">Çünkü %1$s servisini açarsanız veri şifreleme etkilenir ve PIN kodunuzu onaylamanız gerekir.</string>
-  <string name="enable_service_title">%1$s kullanılsın mı?</string>
+  <string name="enable_service_title">Servis şu eylemleri gerçekleştirir:</string>
   <string name="enable_snapshot_screenlock">Fotoğraf çekmek için Geri tuşuna uzunca basın</string>
   <string name="enable_terminal_summary">Yerel kabuk erişim talebinin istemci uygulamasını aç</string>
   <string name="enable_terminal_title">Yerel İstemci</string>
@@ -1680,7 +1680,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="free_wifi_connect_summary">%1$s bağlanmak için dokunun.</string>
   <string name="free_wifi_connect_title">WLAN mevcut</string>
   <string name="free_wifi_connected">Ücretsiz WLAN\'a bağlandı</string>
-  <string name="free_wifi_connected_count">%1$s kullanıcı bağlandı</string>
+  <string name="free_wifi_connected_count">%1$s kişi bağlandı</string>
   <string name="free_wifi_connected_time">Süre: %1$s</string>
   <string name="free_wifi_connecting">Bağlanıyor...</string>
   <string name="free_wifi_login_again">Tekrar giriş yapın</string>
@@ -3540,7 +3540,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="sdcard_unmounted">SD Kart takın</string>
   <string name="se_route_ese">Yerleşik güvenli eleman</string>
   <string name="se_route_uicc">SIM Kart üzerindeki güvenli eleman</string>
-  <string name="se_wallet_ese">Mi Cüzdan Mi Ödeme ve NFC taşıma kartını kullanmanıza olanak verir.</string>
+  <string name="se_wallet_ese">Mi Ödeme ve NFC Nakil Kartı</string>
   <string name="se_wallet_hce">HCE Cüzdan kullan</string>
   <string name="search_about">"Telefon Hakkında;Cihaz Adı;Model Numarası;Android Sürümü;MIUI Sürümü;CPU;RAM;Dahili Hafıza;Baseband Sürümü;Kernel Sürümü;Yapı Numarası;Durum;Yasal Bilgiler "</string>
   <string name="search_accelerometer">Otomatik Ekranı Döndür;Ekranı Döndür;Yönlendirme;Portre;Yatay</string>
