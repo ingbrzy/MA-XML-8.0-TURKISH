@@ -9,12 +9,12 @@
         <item quantity="one">%d uygulamaya ilişkin veri kullanımı izleniyor</item>
     </plurals>
     <plurals name="hints_traffic_saving_optimized">
-        <item quantity="other">%d uygulama en iyi hale getirildi</item>
-        <item quantity="one">%d uygulama en iyi hale getirildi</item>
+        <item quantity="other">%d uygulama iyi hale getirildi</item>
+        <item quantity="one">%d uygulama iyi hale getirildi</item>
     </plurals>
     <plurals name="hints_traffic_saving_need_optimize">
-        <item quantity="other">%d uygulama en iyi hale getirilebilir</item>
-        <item quantity="one">%d uygulama en iyi hale getirilebilir</item>
+        <item quantity="other">%d uygulama iyi hale getirilebilir</item>
+        <item quantity="one">%d uygulama iyi hale getirilebilir</item>
     </plurals>
     <plurals name="hints_traffic_saving_enable_title">
         <item quantity="other">%d uygulama Veri Tasarrufu kullanıyor</item>
@@ -76,6 +76,14 @@
         <item quantity="other">%d öğe iyi hale getirilebilir</item>
         <item quantity="one">%d öğe iyi hale getirilebilir</item>
     </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d görüntüledi</item>
+        <item quantity="zero">%1$d görüntüledi</item>
+        <item quantity="one">%1$d görüntüledi</item>
+        <item quantity="two">%1$d görüntüledi</item>
+        <item quantity="few">%1$d görüntüledi</item>
+        <item quantity="many">%1$d görüntüledi</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d öğe güvenli</item>
         <item quantity="one">%1$d öğe güvenli</item>
@@ -111,6 +119,22 @@
     <plurals name="summary_app_update">
         <item quantity="other">%d uygulama için güncelleme var.</item>
         <item quantity="one">%d uygulama için güncelleme var.</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d risk,</item>
+        <item quantity="one">%d risk,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d trojan,</item>
+        <item quantity="one">%d trojan,</item>
+    </plurals>
+    <plurals name="hints_scan_result_virus_number">
+        <item quantity="other">%d risk</item>
+        <item quantity="one">%d risk</item>
+    </plurals>
+    <plurals name="hints_scan_result_danger">
+        <item quantity="other">%d​ risk bulundu, şimdi düzelt</item>
+        <item quantity="one">%d risk bulundu, şimdi düzelt</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d uygulama gizlilik riskleri içeriyor</item>
