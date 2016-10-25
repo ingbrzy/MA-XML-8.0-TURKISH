@@ -75,6 +75,11 @@
         <item>Sıklıkla Kullanılan</item>
         <item>Adı</item>
     </string-array>
+    <string-array name="roaming_network_type">
+        <item>Daima</item>
+        <item>Sadece istisnalar</item>
+        <item>Asla</item>
+    </string-array>
     <string-array name="traffic_saving_compress_level_string_array">
         <item>Yok</item>
         <item>Düşük</item>
@@ -90,6 +95,9 @@
         <item>Cihaz kilitlendiğinde</item>
         <item>Cihaz kilitlendiğinde veya uygulamadan çıkıldığında</item>
         <item>Cihaz kilitlendiğinden veya uygulamadan çıkıldıktan 1 dakika sonra</item>
+    </string-array>
+    <string-array name="long_add_menu">
+        <item>İstisnalara ekle</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>1 dakika sonra</item>
