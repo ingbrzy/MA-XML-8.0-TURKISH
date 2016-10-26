@@ -1,106 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="boot_msg_text">
-        <item>Güncelleştirme hazırlanıyor (0%)…</item>
-        <item>Güncelleştirme hazırlanıyor (1%)…</item>
-        <item>Güncelleştirme hazırlanıyor (2%)…</item>
-        <item>Güncelleştirme hazırlanıyor (3%)…</item>
-        <item>Güncelleştirme hazırlanıyor (4%)…</item>
-        <item>Güncelleştirme hazırlanıyor (5%)…</item>
-        <item>Güncelleştirme hazırlanıyor (6%)…</item>
-        <item>Güncelleştirme hazırlanıyor (7%)…</item>
-        <item>Güncelleştirme hazırlanıyor (8%)…</item>
-        <item>Güncelleştirme hazırlanıyor (9%)…</item>
-        <item>Güncelleştirme hazırlanıyor (10%)…</item>
-        <item>Güncelleştirme hazırlanıyor (11%)…</item>
-        <item>Güncelleştirme hazırlanıyor (12%)…</item>
-        <item>Güncelleştirme hazırlanıyor (13%)…</item>
-        <item>Güncelleştirme hazırlanıyor (14%)…</item>
-        <item>Güncelleştirme hazırlanıyor (15%)…</item>
-        <item>Güncelleştirme hazırlanıyor (16%)…</item>
-        <item>Güncelleştirme hazırlanıyor (17%)…</item>
-        <item>Güncelleştirme hazırlanıyor (18%)…</item>
-        <item>Güncelleştirme hazırlanıyor (19%)…</item>
-        <item>Güncelleştirme hazırlanıyor (20%)…</item>
-        <item>Güncelleniyor (21%)…</item>
-        <item>Güncelleniyor (22%)…</item>
-        <item>Güncelleniyor (23%)…</item>
-        <item>Güncelleniyor (24%)…</item>
-        <item>Güncelleniyor (25%)…</item>
-        <item>Güncelleniyor (26%)…</item>
-        <item>Güncelleniyor (27%)…</item>
-        <item>Güncelleniyor (28%)…</item>
-        <item>Güncelleniyor (29%)…</item>
-        <item>Güncelleniyor (30%)…</item>
-        <item>Güncelleniyor (31%)…</item>
-        <item>Güncelleniyor (32%)…</item>
-        <item>Güncelleniyor (33%)…</item>
-        <item>Güncelleniyor (34%)…</item>
-        <item>Güncelleniyor (35%)…</item>
-        <item>Güncelleniyor (36%)…</item>
-        <item>Güncelleniyor (37%)…</item>
-        <item>Güncelleniyor (38%)…</item>
-        <item>Güncelleniyor (39%)…</item>
-        <item>Güncelleniyor (40%)…</item>
-        <item>İyi hale getiriliyor (41%)…</item>
-        <item>İyi hale getiriliyor (42%)…</item>
-        <item>İyi hale getiriliyor (43%)…</item>
-        <item>İyi hale getiriliyor (44%)…</item>
-        <item>İyi hale getiriliyor (45%)…</item>
-        <item>İyi hale getiriliyor (46%)…</item>
-        <item>İyi hale getiriliyor (47%)…</item>
-        <item>İyi hale getiriliyor (48%)…</item>
-        <item>İyi hale getiriliyor (49%)…</item>
-        <item>İyi hale getiriliyor (50%)…</item>
-        <item>İyi hale getiriliyor (51%)…</item>
-        <item>İyi hale getiriliyor (52%)…</item>
-        <item>İyi hale getiriliyor (53%)…</item>
-        <item>İyi hale getiriliyor (54%)…</item>
-        <item>İyi hale getiriliyor (55%)…</item>
-        <item>İyi hale getiriliyor (56%)…</item>
-        <item>İyi hale getiriliyor (57%)…</item>
-        <item>İyi hale getiriliyor (58%)…</item>
-        <item>İyi hale getiriliyor (59%)…</item>
-        <item>İyi hale getiriliyor (60%)…</item>
-        <item>İyi hale getiriliyor (61%)…</item>
-        <item>İyi hale getiriliyor (62%)…</item>
-        <item>İyi hale getiriliyor (63%)…</item>
-        <item>İyi hale getiriliyor (64%)…</item>
-        <item>İyi hale getiriliyor (65%)…</item>
-        <item>İyi hale getiriliyor (66%)…</item>
-        <item>İyi hale getiriliyor (67%)…</item>
-        <item>İyi hale getiriliyor (68%)…</item>
-        <item>İyi hale getiriliyor (69%)…</item>
-        <item>İyi hale getiriliyor (70%)…</item>
-        <item>İyi hale getiriliyor (71%)…</item>
-        <item>İyi hale getiriliyor (72%)…</item>
-        <item>İyi hale getiriliyor (73%)…</item>
-        <item>İyi hale getiriliyor (74%)…</item>
-        <item>İyi hale getiriliyor (75%)…</item>
-        <item>İyi hale getiriliyor (76%)…</item>
-        <item>İyi hale getiriliyor (77%)…</item>
-        <item>İyi hale getiriliyor (78%)…</item>
-        <item>İyi hale getiriliyor (79%)…</item>
-        <item>İyi hale getiriliyor (80%)…</item>
-        <item>İyi hale getiriliyor (81%)…</item>
-        <item>İyi hale getiriliyor (82%)…</item>
-        <item>İyi hale getiriliyor (83%)…</item>
-        <item>İyi hale getiriliyor (84%)…</item>
-        <item>İyi hale getiriliyor (85%)…</item>
-        <item>İyi hale getiriliyor (86%)…</item>
-        <item>İyi hale getiriliyor (87%)…</item>
-        <item>İyi hale getiriliyor (88%)…</item>
-        <item>İyi hale getiriliyor (89%)…</item>
-        <item>Güncelleme tamamlanıyor (90%)…</item>
-        <item>Güncelleme tamamlanıyor (91%)…</item>
-        <item>Güncelleme tamamlanıyor (92%)…</item>
-        <item>Güncelleme tamamlanıyor (93%)…</item>
-        <item>Güncelleme tamamlanıyor (94%)…</item>
-        <item>Güncelleme tamamlanıyor (95%)…</item>
-        <item>Güncelleme tamamlanıyor (96%)…</item>
-        <item>Güncelleme tamamlanıyor (97%)…</item>
-        <item>Güncelleme tamamlanıyor (98%)…</item>
-        <item>Güncelleme tamamlanıyor (99%)…</item>
-        <item>Güncelleme tamamlanıyor (100%)…</item>
+        <item>Güncelleştirme hazırlanıyor (%0)…</item>
+        <item>Güncelleştirme hazırlanıyor (%1)…</item>
+        <item>Güncelleştirme hazırlanıyor (%2)…</item>
+        <item>Güncelleştirme hazırlanıyor (%3)…</item>
+        <item>Güncelleştirme hazırlanıyor (%4)…</item>
+        <item>Güncelleştirme hazırlanıyor (%5)…</item>
+        <item>Güncelleştirme hazırlanıyor (%6)…</item>
+        <item>Güncelleştirme hazırlanıyor (%7)…</item>
+        <item>Güncelleştirme hazırlanıyor (%8)…</item>
+        <item>Güncelleştirme hazırlanıyor (%9)…</item>
+        <item>Güncelleştirme hazırlanıyor (%10)…</item>
+        <item>Güncelleştirme hazırlanıyor (%11)…</item>
+        <item>Güncelleştirme hazırlanıyor (%12)…</item>
+        <item>Güncelleştirme hazırlanıyor (%13)…</item>
+        <item>Güncelleştirme hazırlanıyor (%14)…</item>
+        <item>Güncelleştirme hazırlanıyor (%15)…</item>
+        <item>Güncelleştirme hazırlanıyor (%16)…</item>
+        <item>Güncelleştirme hazırlanıyor (%17)…</item>
+        <item>Güncelleştirme hazırlanıyor (%18)…</item>
+        <item>Güncelleştirme hazırlanıyor (%19)…</item>
+        <item>Güncelleştirme hazırlanıyor (%20)…</item>
+        <item>Güncelleniyor (%21)…</item>
+        <item>Güncelleniyor (%22)…</item>
+        <item>Güncelleniyor (%23)…</item>
+        <item>Güncelleniyor (%24)…</item>
+        <item>Güncelleniyor (%25)…</item>
+        <item>Güncelleniyor (%26)…</item>
+        <item>Güncelleniyor (%27)…</item>
+        <item>Güncelleniyor (%28)…</item>
+        <item>Güncelleniyor (%29)…</item>
+        <item>Güncelleniyor (%30)…</item>
+        <item>Güncelleniyor (%31)…</item>
+        <item>Güncelleniyor (%32)…</item>
+        <item>Güncelleniyor (%33)…</item>
+        <item>Güncelleniyor (%34)…</item>
+        <item>Güncelleniyor (%35)…</item>
+        <item>Güncelleniyor (%36)…</item>
+        <item>Güncelleniyor (%37)…</item>
+        <item>Güncelleniyor (%38)…</item>
+        <item>Güncelleniyor (%39)…</item>
+        <item>Güncelleniyor (%40)…</item>
+        <item>İyi hale getiriliyor (%41)…</item>
+        <item>İyi hale getiriliyor (%42)…</item>
+        <item>İyi hale getiriliyor (%43)…</item>
+        <item>İyi hale getiriliyor (%44)…</item>
+        <item>İyi hale getiriliyor (%45)…</item>
+        <item>İyi hale getiriliyor (%46)…</item>
+        <item>İyi hale getiriliyor (%47)…</item>
+        <item>İyi hale getiriliyor (%48)…</item>
+        <item>İyi hale getiriliyor (%49)…</item>
+        <item>İyi hale getiriliyor (%50)…</item>
+        <item>İyi hale getiriliyor (%51)…</item>
+        <item>İyi hale getiriliyor (%52)…</item>
+        <item>İyi hale getiriliyor (%53)…</item>
+        <item>İyi hale getiriliyor (%54)…</item>
+        <item>İyi hale getiriliyor (%55)…</item>
+        <item>İyi hale getiriliyor (%56)…</item>
+        <item>İyi hale getiriliyor (%57)…</item>
+        <item>İyi hale getiriliyor (%58)…</item>
+        <item>İyi hale getiriliyor (%59)…</item>
+        <item>İyi hale getiriliyor (%60)…</item>
+        <item>İyi hale getiriliyor (%61)…</item>
+        <item>İyi hale getiriliyor (%62)…</item>
+        <item>İyi hale getiriliyor (%63)…</item>
+        <item>İyi hale getiriliyor (%64)…</item>
+        <item>İyi hale getiriliyor (%65)…</item>
+        <item>İyi hale getiriliyor (%66)…</item>
+        <item>İyi hale getiriliyor (%67)…</item>
+        <item>İyi hale getiriliyor (%68)…</item>
+        <item>İyi hale getiriliyor (%69)…</item>
+        <item>İyi hale getiriliyor (%70)…</item>
+        <item>İyi hale getiriliyor (%71)…</item>
+        <item>İyi hale getiriliyor (%72)…</item>
+        <item>İyi hale getiriliyor (%73)…</item>
+        <item>İyi hale getiriliyor (%74)…</item>
+        <item>İyi hale getiriliyor (%75)…</item>
+        <item>İyi hale getiriliyor (%76)…</item>
+        <item>İyi hale getiriliyor (%77)…</item>
+        <item>İyi hale getiriliyor (%78)…</item>
+        <item>İyi hale getiriliyor (%79)…</item>
+        <item>İyi hale getiriliyor (%80)…</item>
+        <item>İyi hale getiriliyor (%81)…</item>
+        <item>İyi hale getiriliyor (%82)…</item>
+        <item>İyi hale getiriliyor (%83)…</item>
+        <item>İyi hale getiriliyor (%84)…</item>
+        <item>İyi hale getiriliyor (%85)…</item>
+        <item>İyi hale getiriliyor (%86)…</item>
+        <item>İyi hale getiriliyor (%87)…</item>
+        <item>İyi hale getiriliyor (%88)…</item>
+        <item>İyi hale getiriliyor (%89)…</item>
+        <item>Güncelleme tamamlanıyor (%90)…</item>
+        <item>Güncelleme tamamlanıyor (%91)…</item>
+        <item>Güncelleme tamamlanıyor (%92)…</item>
+        <item>Güncelleme tamamlanıyor (%93)…</item>
+        <item>Güncelleme tamamlanıyor (%94)…</item>
+        <item>Güncelleme tamamlanıyor (%95)…</item>
+        <item>Güncelleme tamamlanıyor (%96)…</item>
+        <item>Güncelleme tamamlanıyor (%97)…</item>
+        <item>Güncelleme tamamlanıyor (%98)…</item>
+        <item>Güncelleme tamamlanıyor (%99)…</item>
+        <item>Güncelleme tamamlanıyor (%100)…</item>
      </string-array>
 </resources>
