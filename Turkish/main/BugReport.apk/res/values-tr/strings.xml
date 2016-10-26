@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_cancel">İptal</string>
+  <string name="action_confirm">Seç</string>
   <string name="action_submit">Gönder</string>
   <string name="announcement">Dikkat</string>
   <string name="app_empty">"İndirilen uygulamanız yok"</string>
@@ -96,6 +97,7 @@
   <string name="first_position">2#</string>
   <string name="floor">%1$s#</string>
   <string name="from">Şurdan: %1$s</string>
+  <string name="hot_problem">Genel hataları göster</string>
   <string name="loading_apps">Liste yükleniyor…</string>
   <string name="login_system_failed">"Oturum açılamadı, tekrar deneyin"</string>
   <string name="logo_title">Geribildirim</string>
@@ -216,9 +218,14 @@
   <string name="section_description">Açıklama</string>
   <string name="section_err_type">Hatanın Türü</string>
   <string name="section_screenshot">Ekran Görüntüsü</string>
+  <string name="section_screenshot">Bildschirm</string>
+  <string name="second_position">3#</string>
+  <string name="server_error_message">Sunucu Hatası (Kod:%1$s), daha sonra tekrar deneyin</string>
+  <string name="server_unknown_error_message">Sunucu hatası, lütfen tekrar deneyin</string>
   <string name="submit_dialog_cancel">İptal</string>
   <string name="submit_dialog_confirm">Gönder</string>
   <string name="submit_dialog_content">"Görüşleriniz, hata günlükleri ve ekli görüntüler ile birlikte, Mi sunucularına gönderilecek. Eğer ağ bağlantı hatası oluşursa size sorulur veya sonra tekrar gönderilir."</string>
+  <string name="submit_dialog_not_wifi_content">"Görüşleriniz, bir Wi-Fi bağlantısı sağlandığında Xiaomi sunucularına hata raporları ve görüntüleri ile birlikte gönderilir."</string>
   <string name="submit_dialog_title">Raporu gönder</string>
   <string name="submit_feedback_info_failed">"Rapor gönderilemedi"</string>
   <string name="suggestion_description">Açıklamanızı buraya yazın</string>
@@ -245,6 +252,7 @@
   <string name="toast_title_required">Problemi tanımlayın</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Tekrar deneyin</string>
+  <string name="upload_log_failed">Kayıtlar gönderilemedi</string>
   <string name="warning_field_empty">%1$s girişi</string>
   <string name="warning_field_invalid">Geçerli bir %1$s seçin</string>
 </resources>
