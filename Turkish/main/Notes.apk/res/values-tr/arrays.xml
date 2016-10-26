@@ -8,6 +8,10 @@
         <item>Kamera</item>
         <item>Galeri</item>
     </string-array>
+    <string-array name="note_sort_way">
+        <item>Oluşturma tarihine göre</item>
+        <item>Değiştirme tarihine göre</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Adı</item>
         <item>Rumuz</item>
