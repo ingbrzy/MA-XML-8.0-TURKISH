@@ -40,6 +40,7 @@
   <string name="default_alarm_alert">Varsayılan zil sesini ayarla</string>
   <string name="default_alarm_title">Varsayılan zil sesi</string>
   <string name="default_label">Alarm</string>
+  <string name="delelte_selected_timezone">Seçilen saat dilimi silinsin mi?</string>
   <string name="delete">Sil</string>
   <string name="delete_alarm">Alarmı Sil</string>
   <string name="delete_alarm_confirm">Alarmı silmek istiyor musunuz?</string>
@@ -116,8 +117,9 @@
   <string name="timer_alert_alert_silenced">Zamanlayıcı %d dakika sonra susturuldu.</string>
   <string name="timer_clock_alert_text">Zamanlayıcıyı Ayarla</string>
   <string name="timer_continue">Devam</string>
+  <string name="timer_delete">Kaldır</string>
   <string name="timer_got_it">Tamam</string>
-  <string name="timer_item_duration_display">%1$d dk %2$d sn</string>
+  <string name="timer_item_duration_display">%1$d dak %2$d san</string>
   <string name="timer_item_label_hint">Zamanlayıcı Adı</string>
   <string name="timer_item_picker_hour">S</string>
   <string name="timer_item_picker_minute">Dak</string>
@@ -135,6 +137,7 @@
   <string name="upcoming_alarm_hint">Önceden bu alarmı kapatabilirsiniz</string>
   <string name="vibrate_pref_summary">Alarm çaldığında titret</string>
   <string name="vibrate_when_ringing">Alarm çaldığında titret</string>
+  <string name="volume_button_dialog_title">Tuş Fonksiyonu</string>
   <string name="volume_button_setting_summary">"Alarm çalarken ses tuşlarının fonksiyonlarını ayarlayın"</string>
   <string name="volume_button_setting_title">Ses Tuşları</string>
   <string name="workday_alarm_clock">İşgünü Alarmı</string>
