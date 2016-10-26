@@ -551,6 +551,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="go_to">Devam</string>
   <string name="handle_bar_title_apps">Uygulamalar</string>
   <string name="goto_set">Ayarla</string>
+  <string name="handle_bar_summary_wifi_unknown">Bilinmiyor</string>
   <string name="handle_bar_title_paysms">Mesajlar</string>
   <string name="handle_bar_title_system">Sistem</string>
   <string name="handle_bar_title_wifi">WLAN</string>
@@ -561,7 +562,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="header_info_scan_progress">%%%d</string>
   <string name="help_label">Yardım</string>
   <string name="hide_mode_app_background_setting_text">Uygulama Pil Tasarrufu</string>
-  <string name="hide_mode_summary_text">"Manage apps' background activity to save battery"</string>
+  <string name="hide_mode_summary_text">"Pil tasarrufu için uygulamaların arkaplan faaliyetlerini yönet"</string>
   <string name="hide_mode_title_text">Gizleme Modu</string>
   <string name="hints_auto_start_warning_info">"Otomatik başlatmayı kısıtlarsanız, bazı uygulama ve hizmetlerin bildirimlerini almanız mümkün olmaz!"</string>
   <string name="hints_cleanning_done">Başarıyla temizlendi</string>
@@ -1159,8 +1160,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="power_save_mode_start_time">Başlangıç</string>
   <string name="power_save_mode_summary">Arkaplan etkinliklerini, eşitlemeyi ve animasyonları durdurur. Enerji Tasarruf Modu pilin %60 üstünde olduğunu görünce, kapanır.</string>
   <string name="power_save_on_time_auto_save_title">Planlı Değişiklik</string>
-  <string name="power_save_on_time_default_time">00:00</string>
-  <string name="power_save_on_time_end_time_summary">Şurdan:</string>
+  <string name="power_save_on_time_default_time_na">00:00</string>
+  <string name="power_save_on_time_end_time_summary">Bitiş:</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_goout_title">Standart Profil</string>
   <string name="power_save_on_time_option_recovery_title">Süre bitince, şuna geç:</string>
@@ -1445,6 +1446,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="scanning_bar_system_text">Uygulama İzinleri</string>
   <string name="scanning_bar_system_title">Sistem taranıyor…</string>
   <string name="score_pts">%</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="section_clear_acc_item_title">"%s. Yeterli alan yoksa, Temizleyiciyi kullanmayı deneyin."</string>
   <string name="section_security_defend_item_title">Uygulama Kilidi ile veriyi koruyun</string>
   <string name="section_system_item_fixed">Onarıldı</string>
@@ -1494,6 +1496,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="sorted_button">Sırala</string>
   <string name="sorted_dialog_title">Sırala</string>
   <string name="sp_back_title_text_zero">Güvenli</string>
+  <string name="sp_button_text_ignore_alert_title">Bu öğe yoksayılsın mı?</string>
+  <string name="sp_empty_title_sign_exception">Yalnız istisnaları eklemek için sonuç sayfasında uygulama öğesini tıklatın</string>
   <string name="sp_monitored_apps_count_zero">Ödeme uygulaması güvenli değil</string>
   <string name="sp_monitored_apps_list_title">İzleme Ayarları</string>
   <string name="sp_network_privacy_dialog_message">"Güvenlik uygulaması ödeme durumunu denetleyemedi çünkü internet bağlantısı kısıtlanmış. Güvenliğin internete erişmesine izin verilsin mi?"</string>
@@ -1501,6 +1505,15 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="sp_safe_score_text">Ödeme Güvenli</string>
   <string name="sp_scan_item_monitor">Ödeme İzleniyor</string>
   <string name="sp_scan_item_url_antispam">Tehlikeli URL Koruması</string>
+  <string name="sp_settings_check_item_summary_sign_exception">İşaretli istisnaları yönet</string>
+  <string name="sp_settings_check_item_summary_virus_exception">Virüs istisnalarını yönet</string>
+  <string name="sp_settings_check_item_title_root">ROOT</string>
+  <string name="sp_settings_check_item_title_sign_exception">İşaretli İstisnalar</string>
+  <string name="sp_settings_check_item_title_update">Sistem Güncellemesi</string>
+  <string name="sp_settings_check_item_title_virus_exception">Virüs İstisnaları</string>
+  <string name="sp_settings_check_item_title_wifi">WLAN</string>
+  <string name="sp_settings_exception_count_zero">Öğe yok</string>
+  <string name="sp_settings_group_title_check_item">Öğe Ayarlarını Denetle</string>
   <string name="sp_settings_group_title_ime">Güvenli IME Ayarları</string>
   <string name="sp_settings_group_title_omit">Atlanan Öğeler</string>
   <string name="sp_settings_info_input_method">Ödeme Uygulamasında kullanılan giriş usulu</string>
@@ -1509,6 +1522,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="sp_settings_plugin_monitor_title">Ödeme eklentisi izleniyor</string>
   <string name="sp_settings_root_title_omit">"ROOT Erişimini Denetle"</string>
   <string name="sp_settings_title_input_method">IME Güvenliği</string>
+  <string name="sp_toast_removed_from_sign_white_list">İstisnalar kaldırıldı. Öğe bir dahaki seferde taranır.</string>
   <string name="spinner_title">%1$s - Mobil Veri: %2$s</string>
   <string name="sponsored">Sponsor:</string>
   <string name="st_title_mode_choose_group">Profil Seç</string>
@@ -1584,6 +1598,9 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="tc_diagnostic_brand_error_notification_title">Yanlış Ağ Tipi</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Sonuç: Yanlış operatör markası&lt;br/&gt;&lt;br/&gt;Markayı ayarla: &lt;xliff:g id=marka misali=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Faal Marka: &lt;xliff:g id=konum misali=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Tamam</string>
+  <string name="tc_diagnostic_fragment_default">"Test Hakkında
+1. Bu cihaz şebeke ağına bağlanır, mesaj gönderir ve operatörün cevap vermesini bekler. Bu yaklaşık 5 dakika sürer.
+2. Test esnasında bu sayfadan ayrılabilirsiniz, işlem arkaplanda devam eder."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Konumu ayarlamak için dokunun</string>
   <string name="tc_diagnostic_location_error_notification_title">Yanlış konum</string>
   <string name="tc_diagnostic_notification_sumarry">Sonuçları görüntülemek için dokunun</string>
