@@ -9,6 +9,7 @@
   <string name="baidu_search_url_from_launcher">https://www.google.com.tr/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://www.google.com.tr/search?q=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="baidu_search_url">https://www.google.tr/search?q=%s&amp;tn=ins</string>
   <string name="clear_history">Geçmişi temizle</string>
   <string name="clear_shortcuts">Kısayolları temizle</string>
   <string name="clear_shortcuts_agree">Kısayolları temizle</string>
@@ -72,6 +73,13 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="search_suggestion">İpuçları</string>
   <string name="search_videos">Videoları Ara</string>
   <string name="search_widget">Ara</string>
+  <string name="searchable_lable_app">Uygulama</string>
+  <string name="searchable_lable_browser">Tarayıcı</string>
+  <string name="searchable_lable_duokan">Duokan</string>
+  <string name="searchable_lable_music">Müzik</string>
+  <string name="searchable_lable_o2o">o2o</string>
+  <string name="searchable_lable_video">Video</string>
+  <string name="searchable_sources">Çevrimiçi</string>
   <string name="send_secret_code">Kodu gönder</string>
   <string name="settings_description">Yüklü uygulamaların adları</string>
   <string name="show_more">Daha Fazla Göster</string>
