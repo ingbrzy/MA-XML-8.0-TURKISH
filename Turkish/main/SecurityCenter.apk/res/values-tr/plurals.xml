@@ -181,6 +181,10 @@
         <item quantity="zero">0 uygulama bulundu</item>
         <item quantity="one">%d uygulama bulundu</item>
     </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d öğe</item>
+        <item quantity="one">Bir öğe</item>
+    </plurals>
     <plurals name="sp_back_title_text">
         <item quantity="other">%s ödeme riski</item>
         <item quantity="one">%s ödeme riski</item>
