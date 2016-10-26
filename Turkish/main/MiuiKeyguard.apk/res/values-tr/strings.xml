@@ -4,7 +4,7 @@
   <string name="click_to_enter_text">Gözatmak için dokunun</string>
   <string name="confirm_pin_msg">PIN kodunu tekrar girin</string>
   <string name="custom_lock_wallpaper_enter">Gir</string>
-  <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı kaydırın ▲</string>
+  <string name="default_lockscreen_unlock_hint_text">▲ Kilidi açmak için yukarı kaydırın ▲</string>
   <string name="delete">Sil</string>
   <string name="emergency_call_string">Acil Çağrı</string>
   <string name="experimental_try_string">Tekrar Dene</string>
@@ -47,12 +47,14 @@
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
   <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
   <string name="lockscreen_charging_msg">Şarj ediliyor...</string>
+  <string name="lockscreen_emergency_call">Acil Çağrı</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">  Telefonunuzu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuz fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri silinecek.
   </string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuzu Mi Hesabı kullanarak açmanız istenecek.
 
   %d saniye sonra tekrar deneyin."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Telefonu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. Telefonunuz şimdi fabrika ayarlarına geri döndürülecek.</string>
+  <string name="lockscreen_forgot_pattern_button_text">Unuttunuz mu?</string>
   <string name="lockscreen_glogin_checking_password">Denetleniyor...</string>
   <string name="lockscreen_glogin_invalid_input">Kullanıcı adı veya şifre geçersiz!</string>
   <string name="lockscreen_glogin_password_hint">Şifre</string>
@@ -60,6 +62,18 @@
   <string name="login_website_in_case_forget_password">Şifrenizi sıfırlamak için \"www.mi.com/micloud\" adresine gidin</string>
   <string name="missed_call_text">%d cevapsız çağrı</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ile kilit açıldı</string>
+  <string name="notification_missedCallTicker">%s cevapsız çağrı geldi</string>
+  <string name="notification_missedCallTitle">Cevapsız Çağrı</string>
+  <string name="notification_missedCall_call_back">Geri ara</string>
+  <string name="notification_missedCall_message">Mesaj</string>
+  <string name="notification_missedCallsMsg">%s cevapsız çağrı</string>
+  <string name="notification_missedCallsTitle">Cevapsız Çağrılar</string>
+  <string name="notification_network_selection_text">Seçili şebeke (%s) mevcut değil</string>
+  <string name="notification_network_selection_title">Şebeke yok</string>
+  <string name="notification_voicemail_no_vm_number">Bilinmeyen mesaj</string>
+  <string name="notification_voicemail_text_format">%s çağrı</string>
+  <string name="notification_voicemail_title">Yeni Sesli Mesaj</string>
+  <string name="notification_voicemail_title_count">Yeni Sesli Mesaj (%d)</string>
   <string name="open_camera_hint_text">%s açmak için sola kaydırın ◄</string>
   <string name="open_remote_center_hint_text">%s açmak için sağa kaydırın ►</string>
   <string name="open_wifi_settings">Ağ bağlantısını aç</string>
