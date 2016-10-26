@@ -101,6 +101,10 @@
   <string name="lockstyle_personal_settings">Özelleştir</string>
   <string name="long_ringtone_resource">Uzun</string>
   <string name="mi_wallpaper">MIUI Duvar Kağıdı</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Zil Sesi SIM Kart 1 ve SIM KArt 2 içinde uygulanır.</string>
+  <string name="multi_sim_ringtone_settings_dialog_ok">Anladım</string>
+  <string name="multi_sim_ringtone_settings_dialog_remind_never">"Tekrar gösterme"</string>
+  <string name="multi_sim_ringtone_settings_dialog_title">Uyumluluk Problemleri</string>
   <string name="my_gifts">Hediyeler</string>
   <string name="my_gifts_purchased">Satın Alınan</string>
   <string name="my_gifts_received">Alınan:</string>
@@ -234,7 +238,7 @@
   <string name="resource_menu_refresh">Yenile</string>
   <string name="resource_mute">Yok</string>
   <string name="resource_my">Çevrimdışı</string>
-  <string name="resource_network_diagnostics">Ağ Teşhisi</string>
+  <string name="resource_network_diagnostics"><u>Ağ Teşhisi</u></string>
   <string name="resource_no_match_app">Bu eylemi gerçekleştirecek uygulama bulunamadı.</string>
   <string name="resource_no_network_text">"Ağ bağlantısı yok."</string>
   <string name="resource_no_result">"Sonuç bulunamadı"</string>
@@ -247,6 +251,7 @@
   <string name="resource_pack_price_info">Orj. Fiyat: %1$s</string>
   <string name="resource_pack_warning">"Bu temadaki %1$d içerikleri satın aldınız. Ucuz olarak tek tek kalan bileşenleri satın alın."</string>
   <string name="resource_present">Hediye</string>
+  <string name="resource_preview">Önizle</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Ücretsiz</string>
   <string name="resource_price_unit">Mi Kredisi</string>
@@ -301,8 +306,8 @@
   <string name="resource_title_rank">Popüler</string>
   <string name="resource_title_select_ringtone">Tonu Seçin</string>
   <string name="resource_title_subject">Özellikli</string>
-  <string name="resource_trial_days">(deneme: %1$dd)</string>
-  <string name="resource_trial_days_hours">(deneme: %1$dd %2$dh)</string>
+  <string name="resource_trial_days">Deneme : %1$d gün</string>
+  <string name="resource_trial_days_hours">Deneme :%1$d gün %2$d saat</string>
   <string name="resource_trial_end_message">%1$s deneme süresi doldu. Eğer beğendiyseniz, satın alabilirsiniz.</string>
   <string name="resource_trial_end_purchase">Satın Al</string>
   <string name="resource_trial_end_restore">Deneme bitti</string>
@@ -313,9 +318,10 @@
   <string name="resource_trial_fail_go_settings">Ayarlar</string>
   <string name="resource_trial_fail_message">Sistem saatinin doğru zaman diliminde olduğunundan emin olun.</string>
   <string name="resource_trial_fail_title">"Deneme süresi ayarlanamadı"</string>
-  <string name="resource_trial_hours">(Deneme: %1$dh)</string>
-  <string name="resource_trial_hours_minutes">(Deneme: %1$dh %2$dm)</string>
-  <string name="resource_trial_minutes">(Deneme: %1$dm)</string>
+  <string name="resource_trial_hours">Deneme: %1$ds</string>
+  <string name="resource_trial_hours_minutes">Deneme: %1$ds %2$ddak</string>
+  <string name="resource_trial_minutes">Deneme: %1$ddak</string>
+  <string name="resource_waiting_pause">Durdur</string>
   <string name="resource_unknow_error">Bilinmeyen hata oluştu</string>
   <string name="resource_update">Güncelle</string>
   <string name="resource_user_know">Tamam</string>
@@ -333,6 +339,7 @@
   <string name="short_ringtone_resource">Kısa</string>
   <string name="theme_apply_failured">"Kilit ekran duvar kağıdı uygulamıyor"</string>
   <string name="theme_apply_success">Kilit ekranına uygulandı</string>
+  <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
   <string name="theme_applying">Uygulanıyor…</string>
   <string name="theme_batch_update_all">Tümünü Güncelle</string>
   <string name="theme_batch_update_dlg_content">%1$s ve diğer %2$d tema güncellensin mi?</string>
