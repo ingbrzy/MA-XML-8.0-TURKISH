@@ -38,6 +38,8 @@ Daha fazla depolama alanı elde etmek için, mi.com/micloud adresini ziyaret edi
   <string name="cloud_back_up_button_ok">Zorla durdur</string>
   <string name="cloud_back_up_close_info">Yedeklemek için dokunun.</string>
   <string name="cloud_back_up_dialog_content">"Yedekleme durdurulsun mu? Şimdi durdurursanız, uygulamaları geri yüklemek için bu yedeği kullanmanız mümkün olmayacak."</string>
+  <string name="cloud_back_up_interval_long">7 gün</string>
+  <string name="cloud_back_up_interval_short">1 gün</string>
   <string name="cloud_back_up_network_unavailable">"Kaldırılamadı. WLAN\'a bağlanın ve tekrar deneyin."</string>
   <string name="cloud_back_up_open_info">"Ana Ekranı ve uygulamaları %1$s ara ile yedekle.
 Son yedekleme: %2$s"</string>
@@ -114,12 +116,14 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="get_this_month_gb">Bu ay %s ücretsiz alan ekle</string>
   <string name="google_100gb">100GB</string>
   <string name="google_cloud">Google Drive</string>
+  
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Yaklaşık yıllık 143 Yuan</string>
   <string name="header_cloud_backup_settings">Yedekle ve Geri Yükle</string>
   <string name="header_cloud_restore_summary">Mi Bulut alanındaki bir yedek dosyasından Ana Ekran düzeni, Sistem Ayarları ve Uygulamaları geri yükleyin</string>
   <string name="header_data_and_synchronization">Veri ve Eşitle</string>
   <string name="header_find_device_settings">Telefonu Bul</string>
+  <string name="header_other_settings">Gelişmiş Ayarlar</string>
   <string name="i_know">Tamam</string>
   <string name="input_password_hint">Şifre Gir</string>
   <string name="internet_access_dspt">Bu uygulamanın normal bir şekilde çalışması için internete bağlanması gerekiyor.</string>
@@ -193,6 +197,8 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_detail_query_error">"Eşitlenme durumu alınamıyor"</string>
   <string name="micloud_detail_query_error_detail">"Bazı hizmetlerin eşitleme durumu denetlenemedi. Lütfen Geribildirimi kullanarak geliştiricilerle temasa geçin."</string>
   <string name="micloud_detail_query_error_title">"Eşitlenme durumu alınamıyor"</string>
+  <string name="micloud_detail_preference_syncing">Eşitle</string>
+  <string name="micloud_detail_preference_wlan">WLAN bağlantısında eğiştle</string>
   <string name="micloud_detail_success">Eşitlendi</string>
   <string name="micloud_detail_sync_now">Şimdi eşitle</string>
   <string name="micloud_detail_syncing">Eşitleniyor</string>
@@ -247,7 +253,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_main_message_not_synced">%s veri eşitlenemedi</string>
   <string name="micloud_main_multi_user_error_message">"Benzer bir hesapla oturum açıp İlk Alanı veMi Bulut hatasını çözebilirsiniz. Eğer veriyi yedeklemek isterseniz:
 
-1.Farklı bir hesap kullan
+1. Farklı bir hesap kullan
 2. İlk Alana öğeleri transfer et"</string>
   <string name="micloud_main_multi_user_error_title">Mi Bulut Hatası</string>
   <string name="micloud_main_network_abnormal">"Ağa bağlanamıyor"</string>
@@ -464,8 +470,7 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="sync_dspt_provision">"Fotoğraflarınızı, şahısları, notları ve daha fazlasını eşitleyin, her yerden erişin "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-  <string name="sync_dspt_provision3">". Bu özelliği istediğiniz zaman Ayarlardan açıp/kapatabilirsiniz.
-"</string>
+  <string name="sync_dspt_provision3">". Bu özelliği istediğiniz zaman Ayarlardan açıp/kapatabilirsiniz."</string>
   <string name="sync_dspt_provision_header">Eşitle</string>
   <string name="sync_dspt_provision_title">Mi Bulut</string>
   <string name="sync_item_calllog_summary">Çağrı ses kayıtlarını eşitle</string>
