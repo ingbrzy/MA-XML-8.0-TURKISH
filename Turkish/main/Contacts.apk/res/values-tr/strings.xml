@@ -69,6 +69,7 @@
   <string name="call_assistant">Ara: %s</string>
   <string name="call_callback">Çağrıyı Geri Ara</string>
   <string name="call_car">Otomobili Ara</string>
+  <string name="call_charge">Şarj..?</string>
   <string name="call_company_main">Şirket Ana Hattını Ara</string>
   <string name="call_custom">Ara: %s</string>
   <string name="call_disambig_title">Numarayı Seç</string>
@@ -76,6 +77,7 @@
   <string name="call_fax_work">İş Faksını Ara</string>
   <string name="call_home">Evi Ara</string>
   <string name="call_isdn">ISDN\'i Ara</string>
+  <string name="call_left">Kaldı</string>
   <string name="call_log_empty_gecode">-</string>
   <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Yeni</string>
@@ -83,9 +85,11 @@
   <string name="call_main">Ana Numarayı Ara</string>
   <string name="call_mms">MMS\'i Ara</string>
   <string name="call_mobile">Mobili Ara</string>
+  <string name="call_operator_init">Operatörü Seç</string>
   <string name="call_other">Ara</string>
   <string name="call_other_fax">Faksı Ara</string>
   <string name="call_pager">Çağrı Cihazını Ara</string>
+  <string name="call_problem_report">Problemi raporla</string>
   <string name="call_radio">Radyoyu Ara</string>
   <string name="call_record_setting_miui">Çağrı Kayıt Ayarları</string>
   <string name="call_settings">Ayarlar</string>
@@ -229,6 +233,7 @@ Kartvizitler kapalı"</string>
   <string name="contact_detail_miprofile_save_success_toast">Kartvizit alınıyor</string>
   <string name="contact_detail_miprofile_settings_header">Ek Ayarlar</string>
   <string name="contact_detail_miprofile_subtitle">Kartvizit zaten değişmiş</string>
+  <string name="contact_detail_picture_description">Paylaşılacak resmi seçin</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"Ağ bağlanamıyor"</string>
   <string name="contact_detail_profile_switch_fail_toast">Bir şeyler, sunucumuzda ters gitti</string>
   <string name="contact_detail_profile_switch_off">Kartvizitleri kapat</string>
@@ -444,6 +449,7 @@ Kartvizitler kapalı"</string>
   <string name="export_to_sim">SIM karta aktar</string>
   <string name="export_to_sim1">SIM Kart 1\'e Aktar</string>
   <string name="export_to_sim2">SIM Kart 2\'ye Aktar</string>
+  <string name="export_to_sim_prepare_title">Hazırlanıyor...</string>
   <string name="export_to_sim_title">Aktarılıyor…</string>
   <string name="export_to_storage">Depolamaya Aktar</string>
   <string name="export_vcard_description">vCard dosyasından SD Karta aktar</string>
@@ -629,6 +635,7 @@ Sebep: \"%s\""</string>
   <string name="label_notes">Notlar</string>
   <string name="label_sip_address">İnternetten Ara</string>
   <string name="launcherDialer">Telefon</string>
+  <string name="listAllContactsInAccount">%s kişi</string>
   <string name="listCustomView">Özel görünümdeki kişiler</string>
   <string name="listFoundAllContactsZero">Kişi yok</string>
   <string name="listSingleContact">Tek Kişi</string>
@@ -651,6 +658,7 @@ Sebep: \"%s\""</string>
   <string name="local_profile_title">Profilim</string>
   <string name="local_search_label">Tüm Kişiler</string>
   <string name="locale_change_in_progress">Kişi listesi, dil değişikliğini yansıtacak şekilde güncellenmektedir.</string>
+  <string name="login_before_recharging">Değişiklik edebilmeniz için oturum açmanız gerekir.</string>
   <string name="login_ok">Oturum Aç</string>
   <string name="lunarBirthdayLabelsGroup">Ay takvimine göre doğum günü</string>
   <string name="lunar_calendar">Ay Takvimi</string>
@@ -772,6 +780,7 @@ Sebep: \"%s\""</string>
   <string name="miprofile_request_notification_message">Profil fotoğrafı ve daha fazla bilgi görüntülemek için kabul edin</string>
   <string name="miprofile_request_notification_title">%1$s kişi kartvizitini değiştirmek istiyor</string>
   <string name="miprofile_request_notification_title_name">%1$s kişi kartvizitini değiştirmek istiyor</string>
+  <string name="miprofile_request_time_expired_deleted">Bir haftadan eski istekler otomatik olarak silinir</string>
   <string name="miprofile_save_alertdialog_message">Kartvizitiniz otomatik olarak bu kişiye gönderilecektir.</string>
   <string name="miprofile_save_alertdialog_title">Kişi kartviziti alındı</string>
   <string name="miprofile_switch_off_alertdialog_message">"Diğer kişilerle kartvizitleri değişiminiz mümkün değildir."</string>
@@ -945,6 +954,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="path_simple_mode">Sistem Uygulamaları/Kişiler/Fotoğraf ve Bilgiyi Göster</string>
   <string name="path_smart_group_title">Sistem Uygulamaları/Kişiler/Kişileri Göster/Akıllı Gruplar</string>
   <string name="path_wipe_data">Sistem Uygulamaları/Kişiler/Kişileri Düzenle/Veriyi Temizle</string>
+  <string name="payphone">Ödemeli Telefon</string>
   <string name="people">Kişiler</string>
   <string name="percent_sign">%</string>
   <string name="percentage">%%%s</string>
@@ -958,6 +968,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="photo_package_activity_title">Dizinlere Gözat</string>
   <string name="pick_favorites_contacts_list_title">%1$d favori</string>
   <string name="pick_favorites_list_title">%1$d favori</string>
+  <string name="pick_new_photo">%s yeni resmi seçin</string>
+  <string name="pick_photo">%s resimi seçin</string>
   <string name="photo_fragment">Fotoğraf</string>
   <string name="photo_labels_group">Profil Fotoğrafı</string>
   <string name="photo_load_failed">"Fotoğraf yüklenemedi"</string>
@@ -1134,6 +1146,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="search_import_from_other_phone">Kişiler;Aktar;Diğer Telefon</string>
   <string name="search_import_from_sdcard">Kişiler;Aktar;Depolama</string>
   <string name="search_import_from_sim">Kişiler;Aktar;SIM Kart</string>
+  <string name="search_input_hint">Telefon numarası ve hizmetleri arayabilirsiniz</string>
   <string name="search_key_photo_word">Düzenle;Kişiler;Fotoğraflar;Kişiler</string>
   <string name="search_key_rebuild_t9_index_title">Düzenle;Kişiler;t9</string>
   <string name="search_key_sim_manage">Düzenle;Kişiler</string>
@@ -1295,6 +1308,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="toast_making_personal_copy">Şahsi kopya oluşturuluyor…</string>
   <string name="toast_text_copied">Kopyalandı</string>
   <string name="today">Bugün</string>
+  <string name="transfer_accounts">Hesaplara aktar</string>
   <string name="tw_childrens_day">Çocuklar Günü</string>
   <string name="tw_youth_day">Gençlik Günü</string>
   <string name="type_incoming">Gelen Arama</string>
@@ -1306,6 +1320,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="unknow_phone_number_call_failed">"Bilinmeyen numara aranamıyor"</string>
   <string name="unknow_phone_number_mms_failed">"Bilinmeyen numaraya mesaj gönderilemiyor"</string>
   <string name="unknown">Bilinmiyor</string>
+  <string name="unknown_caller">Bilinmeyen Kişi</string>
   <string name="unknown_contact_name">Bilinmeyen Kişi</string>
   <string name="upgrade_in_progress">Kişi listesi güncelleniyor.</string>
   <string name="upgrade_out_of_memory">"Kişiler güncellenme sürecindedir. 
@@ -1364,6 +1379,9 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="wipe_data">Veriyi Temizle</string>
   <string name="yellowPageNavigationIconLabel">Sarı Sayfalar</string>
   <string name="yellowPageNavigationLabel">Sarı Sayfalar</string>
+  <string name="yellowpage_navigation_ad_hint">Reklam</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">Balans ve veri doğrulanamadı, daha sonra tekrar deneyin.</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Balans ve veri gözden geçirilmiştir</string>
   <string name="yellowpage_navigation_clear_search_history">Geçmişi Temizle</string>
   <string name="yellowpage_navigation_more_items">Fazlası</string>
   <string name="yellowpage_navigation_more_items_title">Diğer Servisler</string>
