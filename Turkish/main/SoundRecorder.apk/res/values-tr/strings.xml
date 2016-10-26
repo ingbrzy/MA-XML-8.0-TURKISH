@@ -40,6 +40,7 @@
   <string name="error_sdcard_unmounted">Şimdi SD kart takın</string>
   <string name="export_to_note">Notları dışarı aktar</string>
   <string name="fm_record">Radyo Kayıtları (%d)</string>
+  <string name="loading_recording">Kayıtlar yükleniyor</string>
   <string name="invalid_argument">Geçersiz kanıt</string>
   <string name="low_battery_error">"Kalan pil %5'ten olduğundan, kayıt işlemini kaybedilmeden durduruldu ve yapılan kayıt saklandı."</string>
   <string name="low_battery_error_confirm">Tamam</string>
@@ -50,6 +51,7 @@
   <string name="network_tip_dialog_content">Konuşma tanınması motorunun normal çalışabilmesi için internete bağlanması gerekiyor.</string>
   <string name="network_tip_dialog_ok">İzin ver</string>
   <string name="network_tip_dialog_title">İnternet bağlantısı gerekiyor</string>
+  <string name="no_downloading_file">Şu anda yüklenmek üzere hiçbir dosya yok</string>
   <string name="new_record_name">Yeni kayıt</string>
   <string name="no_file">Boş</string>
   <string name="notification_message_all_paused">WLAN bağlantısı bekleniyor.</string>
@@ -68,6 +70,8 @@
   <string name="preference_led_indicator">Kilit ekranı bildirimleri</string>
   <string name="preference_led_indicator_prompt">Kayıt işlemi devam ederken kilit ekranında durum çubuğunda ve yanıp sönen bildirim ışığı göster</string>
   <string name="preference_record_scenes_dialog_title">Kayıt türünü seçin</string>
+  <string name="preference_record_type_dialog_title">Kayıt türünü seçin</string>
+  <string name="preference_record_type_title">Kayıt tipi:</string>
   <string name="preference_scenes">Kayıt türü</string>
   <string name="preference_silent_mode">Kayıt esnasında zil sesini kapat</string>
   <string name="preference_tip_rename">Kayıt adını elle gir</string>
@@ -86,9 +90,15 @@
   <string name="recognition_status_downloading">İndiriliyor</string>
   <string name="record_back_pressed_hint">Kaydı durdurmak için tekrar geriye dokunun</string>
   <string name="record_download">Mi Bulut\'tan indirin</string>
+  <string name="record_download_activity">İndiricide kaydediliyor</string>
   <string name="record_download_complete">İndirildi</string>
+  <string name="record_download_failed">Başarısız</string>
+  <string name="record_download_manager">İndirme Yöneticisi</string>
   <string name="record_download_msg">İndirme bittikten sonra kayıtlar sadece çalınabilir.</string>
   <string name="record_download_msg_reload">"Bu kayıt yok."</string>
+  <string name="record_download_paused">Askıda</string>
+  <string name="record_download_pending">Beklemede</string>
+  <string name="record_download_progress">%%%d</string>
   <string name="record_downloading_notification">İndiriliyor...</string>
   <string name="record_downloading_notification_complete">İndirme tamamlandı</string>
   <string name="record_downloading_notification_count">%d indiriliyor</string>
@@ -103,6 +113,7 @@
   <string name="record_name_hour">.</string>
   <string name="record_name_minute"/>
   <string name="record_picker_title">Bir kayıt seçin</string>
+  <string name="record_saving">Kayıt saklanıyor...</string>
   <string name="record_quliaty_preference_title">Kayıt kalitesi</string>
   <string name="recording">Kaydediliyor</string>
   <string name="recording_quality_high">Yüksek kalite</string>
@@ -129,6 +140,7 @@
   <string name="speech_recognition_complete">Tamamlanan</string>
   <string name="speech_recognition_running_tip">Çalışan</string>
   <string name="start">Devam et</string>
+  <string name="start_recording">Kayda başla</string>
   <string name="status_bar_back">Dönmek için dokunun...</string>
   <string name="status_bar_recording">Kaydediliyor...</string>
   <string name="status_bar_recording_pause">Kaydedici duraklatıldı, </string>
@@ -142,6 +154,7 @@
   <string name="text_btn_wave">Dalga</string>
   <string name="text_finish">Bitir</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
+  <string name="toast_file_is_downloading">Dosya yükleniyor...</string>
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s yaklaşık %2$s kayıt yapabilirsin</string>
   <string name="toast_uninstall_fileexplorer">"Gezgin uygulaması yüklü değil"</string>
