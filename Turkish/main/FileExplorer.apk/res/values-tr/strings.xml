@@ -547,8 +547,10 @@ ve yenilerini kaçırmayın!"</string>
   <string name="operation_unlike">Favoriden Çıkart</string>
   <string name="origin_name">%1$s: </string>
   <string name="other_user_fans_tab">Hayranlar</string>
+  <string name="other_user_follow_tab">Takip ettiklerim</string>
   <string name="other_user_follow_title">Takip Edilen Kişi</string>
   <string name="other_user_liked_topic_tip">Konu yok</string>
+  <string name="other_user_liked_video_tab">Favoriler</string>
   <string name="other_user_liked_video_title">Sevdiğim Videolar</string>
   <string name="other_user_no_follow_tip">"Hiçkimseyi henüz takip etmiyorsunuz."</string>
   <string name="other_user_no_liked_video_tip">Sevilen video yok.</string>
@@ -762,7 +764,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="storage_usb">USB Depolama</string>
   <string name="storage_usb_description">USB Depolama</string>
   <string name="storage_warning">"Harici depolama kullanılamıyor"</string>
-  <string name="swap_tip_1">Solu veya sağı değiştir</string>
+  <string name="swap_tip_1">Sola veya sağa kaydırın</string>
   <string name="swap_tip_2">Diğer videoları izlemek için...</string>
   <string name="subtitle_report_video">Şurdan: %1$s</string>
   <string name="symbol_for_storage_tip">:</string>
@@ -787,7 +789,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="tab_recommend_video">Tavsiye Edilen:</string>
   <string name="tab_remote_video">Geçmiş</string>
   <string name="tab_source">Uygulamalar</string>
-  <string name="tab_storage">DEPOLAMA</string>
+  <string name="tab_storage">Depolama</string>
   <string name="tag_weixin_video">Video Klipler</string>
   <string name="terabyteShort">TB</string>
   <string name="tip">Dikkat</string>
@@ -907,22 +909,22 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_not_video_btn_text">Önce videoyu yükleyin</string>
   <string name="user_recommend_follow">Tavsiyeli profiller</string>
   <string name="user_setting_follow_new_msg">Takipçilerin bildirimleri</string>
-  <string name="user_setting_follow_new_msg_tip">Yeni videolar hakkında bildirim al</string>
+  <string name="user_setting_follow_new_msg_tip">Yeni videolar bildirimleriniz</string>
   <string name="user_setting_followed_msg">Takipçilerin bildirimleri</string>
   <string name="user_setting_followed_msg_tip">İnsanlar sizi takip etmeye başladığında bildirim al</string>
   <string name="user_setting_hot_comment">Özellik yorumlarıyla ilgili bildirimler</string>
-  <string name="user_setting_hot_comment_tip">Özellik yorumları geldiğinde bildirim al</string>
+  <string name="user_setting_hot_comment_tip">Özellik yorumlarıyla ilgili bildirimleriniz</string>
   <string name="user_setting_logout">Oturumu kapat</string>
   <string name="user_setting_new_comment">Yorumların bildirimleri</string>
   <string name="user_setting_new_comment_tip">Yeni yorumların bildirimlerini al.</string>
   <string name="user_setting_new_liked">Sevilen bildirimler</string>
   <string name="user_setting_new_liked_tip">İnsanlar videonuzu sevdiklerine dair bildirimleri al</string>
   <string name="user_setting_play_num">Görünüm hakkındaki bildirimler</string>
-  <string name="user_setting_play_num_tip">Videoların görüntülenme sayısı hakkında bildirim al</string>
+  <string name="user_setting_play_num_tip">Videoların görüntülenme sayısı hakkında bildirimleriniz</string>
   <string name="user_setting_topic_new_msg">Yeni video bildirimleri</string>
   <string name="user_setting_topic_new_msg_tip">"Başlıkta yeni videolar takipçiler tarafından paylaşıldığında bildirimleri al."</string>
   <string name="user_setting_video_has_hot_comment">Popüler yorumlar hakkında bildirimler</string>
-  <string name="user_setting_video_has_hot_comment_tip">Videolarınızın popülerliği hakkındaki yorumları hakkında bildirimleri al</string>
+  <string name="user_setting_video_has_hot_comment_tip">Videolarınızın popülerliği hakkındaki yorumlarla ilgili bildirimleriniz</string>
   <string name="user_sex">Cinsiyet</string>
   <string name="user_sign">İmza</string>
   <string name="user_topic_btn_text">Daha fazla başlığa bak</string>
@@ -1004,12 +1006,13 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Evet</string>
   <string name="yesterday">Dün</string>
-  <string name="youliao_ad_msg">"Şimdi uygulamayı tam sürüme güncelleyin, daha fazla eğlenin!
-170 Milyon Mi hayranı izlesin."</string>
+  <string name="youliao_ad_msg">"\"Youliao\" katılın!
+170 Milyon Mi hayranı sizi izlesin."</string>
+  <string name="youliao_ad_title">Popüler videolar güncellendi!</string>
   <string name="youliao_ad_title">En iyi videolar tam sürümde güncellenir!</string>
   <string name="youliao_ad_update">Güncelle</string>
-  <string name="youliao_dialog_msg">"En iyiler \"Youliao\" güncellenir, 
-şimdi uygulamayı tam sürüme güncelleyin ve fazlasını izleyin."</string>
+  <string name="youliao_dialog_msg">"En popüler videolar \"Youliao\" sitesinde güncellenir, 
+şimdi uygulamayı tam sürüme güncelleyin ve eğlenceye dalın :(."</string>
   <string name="youliao_dialog_title">İlginç video yok mu?</string>
   <string name="zero">0</string>
   <string name="zero_comment">Yorum yok</string>
