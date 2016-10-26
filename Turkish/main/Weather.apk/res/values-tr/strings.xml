@@ -4,12 +4,14 @@
   <string name="act_find_city_hot_title">Ekle</string>
   <string name="act_set_city_find_side">Yer saptanıyor...</string>
   <string name="act_set_city_find_side_error">"Konum bulunamadı"</string>
+  <string name="act_set_city_swipe_hint">Konumu silmek için sola kaydırın</string>
   <string name="act_weather_find_city_added">Eklendi</string>
   <string name="act_weather_find_city_click_retry">Tekrar Dene</string>
   <string name="act_weather_find_city_net_no_good">"Ağa bağlanamadı."</string>
   <string name="act_weather_find_city_no_result">Sonuç yok</string>
   <string name="act_weather_find_city_searching">Aranıyor...</string>
   <string name="activity_alert_detail_title"/>
+  <string name="activity_detail_time_format">E</string>
   <string name="activity_find_city_dialog_cancel">İptal</string>
   <string name="activity_find_city_dialog_message">Konumunuzun Hava Durumunu görüntüleyelim</string>
   <string name="activity_find_city_dialog_set">Ayarlar</string>
@@ -29,6 +31,7 @@
   <string name="ads_score_title"/>
   <string name="alert_warning">Hava Durumu Uyarıları</string>
   <string name="app_name">Hava Durumu</string>
+  <string name="app_version">Sürüm: %s</string>
   <string name="aqi_data_source">Caiyun Weather katkılarıyla</string>
   <string name="aqi_desc">Hava Kalite İndeksi</string>
   <string name="aqi_detail_24_hours">Saatlik tahmin</string>
@@ -42,7 +45,7 @@
   <string name="aqi_detail_sub_title">HKE Detayları</string>
   <string name="aqi_detail_subtitle">HKE %1$s</string>
   <string name="aqi_detail_title">Hava Kalite İndeksi</string>
-  <string name="aqi_detail_unit">Unit: µg/m³ (CO: mg/m³)</string>
+  <string name="aqi_detail_unit">Birim: µg/m³ (CO: mg/m³)</string>
   <string name="aqi_publish_source">%1$s CNEMC tarafından güncellendi</string>
   <string name="aqi_publish_time">Güncelleme: %1$s</string>
   <string name="aqi_short_desc">HKE %1$s</string>
@@ -55,6 +58,7 @@
   <string name="button_exit">Çık</string>
   <string name="button_not_allow">İptal</string>
   <string name="button_sure_abandon">Değişikliklerden vazgeçilsin mi?</string>
+  <string name="change_alert">Ağ bağlantısını kontrol edip, yeniden deneyin.</string>
   <string name="close">Kapat</string>
   <string name="commercial">Ticari</string>
   <string name="common_loading_text">Biraz bekleyin…</string>
@@ -62,7 +66,7 @@
   <string name="daily_forcast_drawer_on_top">%1$s günlük tahmin</string>
   <string name="daily_forcast_no_stable_direction">Rüzgarsız</string>
   <string name="daily_forcast_no_wind">&lt;12km/h</string>
-  <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
+  <string name="daily_forcast_no_wind_miles">1 m/s</string>
   <string name="daily_forcast_temperature_connect"/>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s sonra.</string>
@@ -86,8 +90,9 @@
   <string name="indices_desc_feel_without_pic">%1$s C°</string>
   <string name="indices_desc_humidity">Nem: %%%1$s</string>
   <string name="indices_desc_humidity_without_pic">%%%1$s</string>
-  <string name="indices_desc_pressure">%1$smb</string>
-  <string name="indices_desc_visibility">%1$skm</string>
+  <string name="indices_desc_pressure">%1$s hPa</string>
+  <string name="indices_desc_pressure_mm">%1$s mmHg</string>
+  <string name="indices_desc_visibility">%1$s Km</string>
   <string name="indices_no_restriction">Yok</string>
   <string name="indices_title">Önerilen Etkinlikler</string>
   <string name="indices_title_Precip1hr">1sa. Yağış Miktarı</string>
@@ -99,6 +104,7 @@
   <string name="indices_title_sport">Spor</string>
   <string name="indices_title_uv">UV İndeksi</string>
   <string name="indices_title_visibility">Görüş Mesafesi</string>
+  <string name="information_manager">WLAN ağına bağlanınca değiştir</string>
   <string name="information_manager_information">Hava Durumu Bilgisi</string>
   <string name="information_manager_wlan">WLAN bağlandığında göster</string>
   <string name="information_menu_title"/>
@@ -108,7 +114,7 @@
   <string name="install">Kurulum</string>
   <string name="international_detail_menu_title">Detaylar</string>
   <string name="international_details_pressure_title">Basınç</string>
-  <string name="international_details_real_feel_title">Gerçekte Hissedilen</string>
+  <string name="international_details_real_feel_title">Hissedilen</string>
   <string name="international_details_title">Detaylar</string>
   <string name="international_details_uv_index_title">UV İndeksi</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
@@ -127,7 +133,8 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="no_network_btn">Tekrar deneyin</string>
   <string name="open">Aç</string>
   <string name="open_browser">Tarayıcıda Aç</string>
-  <string name="pressure_connect">%1$s mb</string>
+  <string name="pressure_connect">%1$s hPa</string>
+  <string name="realtime_aqi_connection">%1$s</string>
   <string name="realtime_aqi_title">Hava Kalite İndeksi</string>
   <string name="realtime_humidity_title">Relatif Nem</string>
   <string name="realtime_wind_default_title">Rüzgar</string>
@@ -183,6 +190,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="view_indexes_item_today">Bugün</string>
   <string name="view_indexes_item_tommorrow">Yarın</string>
   <string name="weather_alert">Hava Durumu Uyarıları</string>
-  <string name="wind_miles_unit">%1$smph</string>
+  <string name="weather_unit">°</string>
+  <string name="wind_miles_unit">%1$s m/s</string>
   <string name="wind_unit">%1$skm/s</string>
 </resources>
