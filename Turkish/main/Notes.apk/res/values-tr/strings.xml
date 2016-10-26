@@ -6,6 +6,8 @@
   <string name="alert_edit_action_delete">Kaldır</string>
   <string name="alert_edit_action_update">Değiştir</string>
   <string name="alert_message_delete">%1$s not silinsin mi?</string>
+  <string name="alert_message_delete_folders">Seçilen %1$s dizini silmek istediğinizden emin misiniz?</string>
+  <string name="alert_message_delete_folders_notes">Seçili %1$s dizin ve %2$s notu silmek istediğinizden emin misiniz?</string>
   <string name="alert_message_delete_note">Bu notu silmek istiyor musunuz?</string>
   <string name="alert_message_edit_anyway">Bu notu düzenlerseniz, içeriğinden bazı şeyleri kaybedebilirsiniz.</string>
   <string name="alert_message_restore">"Not açılamadı. Geri yükleyip içeriğini düzenleyin."</string>
@@ -25,6 +27,7 @@
   <string name="call_record_folder_name">Çağrı Notları</string>
   <string name="default_folder_name">Adsız klasör</string>
   <string name="delete_folder_dialog_tile">Dizini sil</string>
+  <string name="dlg_btn_set_password">Şifre ayarla</string>
   <string name="dlg_check_reminder">"Tekrar gösterme"</string>
   <string name="dlg_delete_message">Siliniyor...</string>
   <string name="dlg_desc_confirm_alarm_silent">Zil susturulduğunda faal alarmlar çalmaz.</string>
@@ -38,7 +41,10 @@
   <string name="dlg_quick_delete_title">Hızlı Sil</string>
   <string name="dlg_restore_message">Geri yükleniyor...</string>
   <string name="dlg_stick_message">İğneleniyor…</string>
-  <string name="dlg_title_confirm_alarm_silent">Sessiz alarmlar</string>
+  <string name="dlg_title_confirm_alarm_silent">Sessiz Modda alarmlar kapatılsın mı?</string>
+    <string name="dlg_title_password_reset">Şifreyi güncelle</string>
+    <string name="dlg_title_set_password">Şifre ayarla</string>
+    <string name="dlg_title_use_privacy_password">Kişisel Koruma Şifresi kullan</string>
   <string name="dlg_unhide_message">Gizlilik açılıyor...</string>
   <string name="dlg_unmark_privacy_message">Gizlilik açılıyor…</string>
   <string name="empty_folder_hint">"Dizin yok
@@ -51,6 +57,8 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="error_note_empty_for_clock">"Boş bir not için hatırlatıcı saatini ayarlanamaz"</string>
   <string name="error_note_empty_for_send_to_desktop">"Boş notlar Ana Ekran\'da yeralmaz"</string>
   <string name="error_note_not_exist">"Not yok"</string>
+  <string name="error_send_empty_note">Boş not gönderilemez</string>
+  <string name="error_send_empty_note_to_weibo">Boş not Weibo adresine gönderilemez</string>
   <string name="error_unsupport_content">Bu not desteklenmeyen içerik ihtiva ettiğinden, güncellemek için buraya dokunun</string>
   <string name="error_widget_exist_for_send_to_desktop">Bu not zaten Ana Ekranda </string>
   <string name="folder_exist">Aynı isimde bir klasör zaten var</string>
@@ -58,6 +66,7 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="format_move_notes_out_folder">%1$s taşındı</string>
   <string name="format_move_notes_to_folder">%1$s notu %2$s klasörüne taşındı</string>
   <string name="hidden_notes_fragment_title">Gizli Notlar</string>
+  <string name="hint_cannot_view_hidden_note_content">Gizli notların içeriği görüntülenemiyor</string>
   <string name="hint_foler_name">Adı</string>
   <string name="info_note_enter_desktop">Ana Ekrana eklendi</string>
   <string name="loading_text">Biraz bekleyin...</string>
@@ -68,8 +77,10 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="menu_folders">Dizinler</string>
   <string name="menu_hide">Gizle</string>
   <string name="menu_mark_privacy">Gizle</string>
+  <string name="menu_move">Taşı</string>
   <string name="menu_move_parent_folder">Ana klasör</string>
   <string name="menu_move_to">Taşı</string>
+  <string name="menu_new_folder">Yeni Dizin</string>
   <string name="menu_restore">Geri Yükle</string>
   <string name="menu_send_as_image">Resim olarak gönder</string>
   <string name="menu_send_as_text">Metin olarak gönder</string>
@@ -90,6 +101,7 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="note_link_select">Metni Seç</string>
   <string name="note_link_tel">Ara</string>
   <string name="note_link_web">Tarayıcıda Görüntüle</string>
+  <string name="note_sort_way">Notları nasıl sıralamak istediğinizi seçin</string>
   <string name="notealert_enter">Notu Aç</string>
   <string name="notealert_ok">Reddet</string>
   <string name="notelist_menu_new">Not Ekle</string>
@@ -138,6 +150,7 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="sns_footer_text">Mi Notlar ile oluşturuldu</string>
   <string name="sns_hint_content">"Aklınızdan ne geçiyor?"</string>
   <string name="sns_hint_title">Konu (isteğe bağlı)</string>
+  <string name="sns_message_building">Mesaj oluşturuluyor...</string>
   <string name="sns_message_disconnect">"Ağa bağlı değilsiniz. Bağlantınızı kontrol edin ve tekrar deneyin."</string>
   <string name="sns_title_edit">Başlığı düzenle</string>
   <string name="sns_title_send">Mesaj gönder</string>
@@ -180,4 +193,5 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="widget_content_loading">Biraz bekleyin...</string>
   <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Yeniden boyutlandırmak için Widget\'e basılı tutun.</string>
   <string name="widget_under_privacy_mode">"Misafir Modunda notları görüntüleyemezsiniz"</string>
+  <string name="widget_under_visit_mode">Misafir Modunda notları görüntülenemez</string>
 </resources>
