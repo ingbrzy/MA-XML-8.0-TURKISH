@@ -137,6 +137,7 @@
   <string name="download_is_in_tasklist">Sıraya Alındı</string>
   <string name="download_paused">Durdu</string>
   <string name="download_percent_hint">%%%d indiriliyor</string>
+  <string name="download_progress">İndirme: %s</string>
   <string name="download_progress_0p">%0</string>
   <string name="download_queue">Bilgi alınıyor...</string>
   <string name="download_running">Çalışıyor...</string>
@@ -255,6 +256,7 @@
   <string name="offline_alert_wifi">Cihazınız bir WLAN ağına bağlandığında indirme başlayacak.</string>
   <string name="offline_already_in">\"%1$s\" zaten bekleyen indirmelerde var</string>
   <string name="offline_created_order">\"%1$s\" zaten bekleyen indirmelere eklendi</string>
+  <string name="offline_download_fragment">Çevrimdışı</string>
   <string name="offline_loaded">Çevrimdışı video</string>
   <string name="offline_loading">Çevrimdışı</string>
   <string name="offline_max_promote">Önbelleğe almak için bekliyor, aynı anda en fazla 2 adet önbelleğe alma işlemi gerçekleştirilebilir.</string>
@@ -317,7 +319,8 @@
   <string name="reload_title">"Ağa bağlanamadı"</string>
   <string name="reload_title_ep">"Tüm seri alınamadı"</string>
   <string name="replay">Yeniden Oynat</string>
-  <string name="retry">Tekrar Deneyin</string>
+  <string name="retry">Tekrar deneyin</string>
+  <string name="review_fragment">Yorumlar</string>
   <string name="router">Çevrimdışı</string>
   <string name="router_download_task_with">%d görevler</string>
   <string name="router_update">Mi Yönlendiriciyi şimdi güncelle.</string>
@@ -328,6 +331,7 @@
   <string name="search">Ara</string>
   <string name="search_develop_settings">Geliştirici Ayarları;Sürümü Seç;Sürümü Seç;Video Güncelle;Sürüm;Forum;Performans Modu;Resim Kalitesi;Oynatıcı Ekleri</string>
   <string name="search_hint">Çevrimiçi Video Ara</string>
+  <string name="search_result_empty_hint">Sonuç yok</string>
   <string name="search_result_empty_text">"Bir şey bulamadı"</string>
   <string name="search_settings">Video Ayarları;Mobil Ağ;Wifi;Video Oynat;Push;Bildirim;Önbellek;Geliştirici Ayarları</string>
   <string name="search_snack_more">Daha Fazla Bilgi</string>
