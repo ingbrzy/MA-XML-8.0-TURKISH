@@ -212,7 +212,12 @@
   <string name="bottom_bar_no_quickreply_toast">Hızlı cevap yok</string>
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Hatırlatıcı</string>
+  <string name="calendar_remind_gridview_month_later">Sonraki ay</string>
+  <string name="calendar_remind_gridview_nextweek">Gelecek hafta</string>
   <string name="calendar_remind_gridview_pick_date">Tarih Seç</string>
+  <string name="calendar_remind_gridview_tomorrow">Yarın</string>
+  <string name="calendar_remind_gridview_tonight">Bu Akşam</string>
+  <string name="calendar_remind_gridview_weekend">Hafta Sonu</string>
   <string name="cancel">İptal</string>
   <string name="cancel_action">İptal</string>
   <string name="cant_move_or_change_labels">"Seçim birden fazla hesap içerdiğinden taşınamaz."</string>
@@ -473,6 +478,7 @@
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
   <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Tümünü Cevapla</string>
+  <string name="ignore_spam_warning">Yoksay ve bu pstaya güven</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Gelen posta sunucusu için şifre yanlış</string>
   <string name="info_actionbar_normal_detail">Ayrıntılar</string>
@@ -639,6 +645,7 @@
   <string name="outbox_alert_description_provision_error">Giden kutusu eşitlenirken sunucu hükmü hatası</string>
   <string name="outbox_alert_description_reject_by_server">%s tarafından reddedildi</string>
   <string name="outbox_alert_description_sent_failed">"Ek boyut sunucunun sınırını aşıyor."</string>
+  <string name="outbox_alert_description_time_out">Ağ bağlantısı zaman aşımına uğradı</string>
   <string name="outbox_alert_duplicate_click">Şimdi gönderiliyor...</string>
   <string name="outbox_alert_edit_resend">Düzenleyip tekrar gönderin</string>
   <string name="outbox_alert_failed_edit_resend">"Gönderilemedi. Düzenleyip yeniden deneyin."</string>
@@ -790,6 +797,8 @@
   <string name="release_to_refresh">Yenilemek için bırakın</string>
   <string name="remote_search_result">%s sunucudakı sonuçlar</string>
   <string name="remove_account">Hesabı kaldır</string>
+  <string name="remove_account_confirm">\"%1$s\" hesap postadan kaldırıldı.</string>
+  <string name="remove_account_confirm_title">Hesabı Kaldır</string>
   <string name="remove_folder">%1$s\'dan kaldır</string>
   <string name="remove_star">Favoriden çıkart</string>
   <string name="reply">Cevapla</string>
