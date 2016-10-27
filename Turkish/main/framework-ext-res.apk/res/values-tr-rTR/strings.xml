@@ -79,11 +79,12 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="reboot_progress">Tekrar başlatılıyor…</string>
   <string name="replace">Yerleştir</string>
   <string name="resource_select">Seç</string>
+  <string name="screen_button_disabled_message">Navigationstasten deaktiviert. Zum Reaktivieren drücken Sie gleichzeitig die Home- und Powertaste.</string>
   <string name="screen_button_notification_text">Açmak için, Ana Ekran ve Güç tuşlarına aynı anda basın.</string>
   <string name="screen_button_notification_title">Gezinme tuşları kapatıldı</string>
-  <string name="screen_on_proximity_sensor_hint">Bu özelliği kapatırsınız, Geri ve Sesi Aç tuşlarına aynı anda basın.</string>
-  <string name="screen_on_proximity_sensor_summary">"Ekranın turuncu alanını örtmeyin"</string>
-  <string name="screen_on_proximity_sensor_title">Cepte Aramaları Önle</string>
+  <string name="screen_on_proximity_sensor_hint">Bu özelliği kapatırsınız, Sesi Aç ve Geri tuşlarına aynı anda basın.</string>
+  <string name="screen_on_proximity_sensor_summary">"Ekranın ses alıcı alanı örtmeyin"</string>
+  <string name="screen_on_proximity_sensor_title">Cep Modu</string>
   <string name="screen_paper_mode_enter_toast">Okuma Modu açık. Bu özelliği kapalıysa; Ayarlar &gt; Ekran &gt; Okuma Moduna gidin.</string>
   <string name="screen_rotation_freeze_message">Otomatik Döndürme devre dışı.</string>
   <string name="screenshot_gesture_detect_alert_button">Ayarlardan aç</string>
@@ -117,6 +118,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="softap_notifif_summary">%d bağlandı</string>
   <string name="softap_notifif_title">İnternet Paylaşımı \"%s\" açık</string>
   <string name="start_security_permission_verify_text">Mi Hesabıyla izinleri doğrula</string>
+  <string name="status_bar_toggle_ac">Erişim</string>
   <string name="status_bar_toggle_auto_brightness">Parlaklık</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
