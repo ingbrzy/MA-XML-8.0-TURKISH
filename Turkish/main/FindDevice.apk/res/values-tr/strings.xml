@@ -47,6 +47,8 @@ SIM kartları geçerseniz, başka bir SMS bu özelliği etkinleştirmek için ot
   <string name="stop_on_empty_captcha">"Captcha boş olamaz"</string>
   <string name="stop_on_empty_password">"Şifre boş olamaz"</string>
   <string name="time_correction_failure">Zaman doğrulanamıyor. %s</string>
+  <string name="time_correction_failure_network">Ağ hatası</string>
+  <string name="time_correction_failure_no_ntp">"NTP sunucusu kullanılamıyor"</string>
   <string name="time_correction_success">Zaman doğrulandı</string>
   <string name="unlock">Etkinleştir</string>
   <string name="unlock_access_denied">Erişim reddedildi</string>
