@@ -30,6 +30,7 @@
   <string name="bt_restart_dialog_message">BT klasöründeki tüm indirmeler yeniden başlatılsın mı?</string>
   <string name="bt_restart_dialog_title">Tüm indirmeleri yeniden başlat</string>
   <string name="bt_xunlei_open_info">Bu tür bağlantıları açmak için Xunlei Engine kullanılsın mı?</string>
+  <string name="btn_change">Değiştir</string>
   <string name="button_sort_by_date">Tarihe Göre</string>
   <string name="button_sort_by_size">Boyuta Göre</string>
   <string name="cancel">İptal</string>
@@ -149,6 +150,7 @@
   <string name="expire_notification_msg">Xunlei üyelik süresi yakında doluyor.</string>
   <string name="expire_today_notification_msg">Xunlei üyeliği bugün sona eriyor.</string>
   <string name="extend">Fazlası</string>
+  <string name="extra_ad_title">Şunlar da hoşunuza gidebilir</string>
   <string name="extract_file">Dosya paketi açılıyor…</string>
   <string name="file_exist_hint">Bu dosya zaten var.</string>
   <string name="file_picker">Konum seçin</string>
@@ -395,6 +397,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="title_tips">Dikkat</string>
   <string name="title_unbind_xunlei">Xunlei Hesabından kaldır</string>
   <string name="toast_only_wifi_download">Bu öğeyi indirmek için WLAN ağına bağlanın</string>
+  <string name="toast_update_data_limit_fail">Ayarlama başarısız oldu</string>
   <string name="toast_xunlei_engine_open">Xunlei İndirme Hızlandırıcısı açıldı</string>
   <string name="torrent_file_error">"Bu torrent dosyası ayrıştırılamadı"</string>
   <string name="torrent_no_subfile">Bu torrentte alt dosya yok</string>
@@ -409,6 +412,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="unit_en_billion">Milyar</string>
   <string name="unit_en_million">Milyon</string>
   <string name="unit_en_thounsand">Bin</string>
+    <string name="valid_date">Geçerlilik Tarihi:  %s</string>
   <string name="valid_in_this_month">Bu ay için geçerli</string>
   <string name="version">Sürüm: %s</string>
   <string name="vip_auto_speedup">Xunlei İndirme Hızlandırıcısı açık</string>
