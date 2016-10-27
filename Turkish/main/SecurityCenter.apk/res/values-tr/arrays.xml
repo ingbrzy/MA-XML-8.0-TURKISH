@@ -49,20 +49,18 @@
         <item>8 san</item>
         <item>9 san</item>
     </string-array>
-    <string-array name="traffic_type">
-        <item>"Mobil kullanım "</item>
-        <item>"WLAN kullanım "</item>
-    <item>"Kaydedilen veri "</item>
-    </string-array>
+     <string-array name="traffic_type">
+        <item>"Mobile usage "</item>
+        <item>"WLAN usage "</item>
+     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobil kullanım "</item>
         <item>"WLAN kullanımı "</item>
     </string-array>
-    <string-array name="traffic_sort_type">
-        <item>"Mobil veri kullanımı "</item>
-        <item>"WLAN kullanımı "</item>
-    <item>"Kaydedilen veri "</item>
-    </string-array>
+     <string-array name="traffic_sort_type">
+        <item>"Mobile data usage "</item>
+        <item>"WLAN usage "</item>
+     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Otomataik Olarak Al</item>
         <item>Elle Al</item>
