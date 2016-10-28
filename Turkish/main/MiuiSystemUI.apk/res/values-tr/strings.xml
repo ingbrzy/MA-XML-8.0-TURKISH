@@ -58,7 +58,7 @@
   <string name="audio_effect_info">Sesi İyi Duruma Getir</string>
   <string name="audio_effect_settings">Kulaklık Tipini Seçin</string>
   <string name="available_via_passpoint">%1$s yoluyla mevcut</string>
-  <string name="battery_low_percent_format">%%%d pil seviyesi kaldı.</string>
+  <string name="battery_low_percent_format">%d%% remaining</string>
   <string name="battery_low_title">Şarj cihazına bağlayın</string>
   <string name="battery_profiles">Pil profillerini kullan</string>
   <string name="block_notification_content_text">"%1$s'nın bildirimlerini yeniden gösterme. Bunu Ayarlar içinden değiştirebilirsiniz."</string>
