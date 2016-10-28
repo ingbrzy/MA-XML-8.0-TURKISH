@@ -520,9 +520,9 @@
         <item>İnsan</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
-        <item>Ask</item>
-        <item>Never allow</item>
-        <item>Always allow</item>
+        <item>Sor</item>
+        <item>İzin verme</item>
+        <item>Daima izin ver</item>
     </string-array>
     <string-array name="ram_states">
         <item>Normal</item>
@@ -713,7 +713,7 @@
         <item>Bir dizin oluştur: mkdir /media/mtp</item>
         <item>Kullanıcı grubu izinleri geçerli sigorta kullanıcı grubunda onayla</item>
         <item>Tekrar oturum açın</item>
-        <item>Cihaz bağlantı erişimi: mtpfs /media/mtp via file explorer; same as local directory</item>
+        <item>Cihaz bağlantı erişimi: mtpfs /media/mtp yoluyla dosya gezgini; aynı yerel dizin</item>
         <item>"Cihazı kaldır: fusermount -u /media/mtp
 Not: Sadece Ubuntu 8.04!"</item>
     </string-array>
@@ -734,7 +734,7 @@ Not: Sadece Ubuntu 8.04!"</item>
     <string-array name="screen_optimize_summary">
         <item>Mevcut ışık için karşıtlığı iyi hale getir</item>
         <item>"Ekran karşıtlığını artır"</item>
-        <item>Karşıtlık sabit kalacak</item>
+        <item>Karşıtlık sabit bırak</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>İzin Ver</item>
@@ -750,8 +750,8 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>Tabii</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Tekli mikrofonlu gürültüyü bastır</item>
-        <item>Çift mikrofonlu gürültüyü bastır</item>
+        <item>Tekli mikrofonla gürültüyü bastır</item>
+        <item>Çift mikrofonla gürültüyü bastır</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Yüz kilidini aç</item>
@@ -816,6 +816,10 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>Riskli uygulmayı sor</item>
         <item>İzin ver</item>
     </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Sor</item>
+        <item>İzin ver</item>
+    </string-array>
     <string-array name="agps_si_mode_entries">
         <item>MSB</item>
         <item>MSA</item>
@@ -854,12 +858,12 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>Normal (720p)</item>
     </string-array>
      <string-array name="common_password_business_names">
-        <item>Lock screen</item>
-        <item>Privacy password</item>
-        <item>Child mode</item>
-        <item>File Explorer</item>
-        <item>App lock</item>
-        <item>Second space</item>
+        <item>Kilit Ekran</item>
+        <item>Gizlilik Şifresi</item>
+        <item>Çocuk Modu</item>
+        <item>Dosya Gezgini</item>
+        <item>Uygulama Kilidi</item>
+        <item>İkinci Alan</item>
      </string-array>
     <string-array name="anr_record_interval_entries">
         <item>10 san</item>
