@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_frequent_phrases">Sık kullanma aşaması ekle</string>
+  <string name="add_frequent_phrases">Sık Kullanılanları ekle</string>
   <string name="all_call_livetalk_enable">Yurtiçi ve uluslararası aramalar için kontör paketininin kullan</string>
   <string name="all_call_livetalk_remain_mins">Kalan Dakika: %1$s yurtiçi veya %2$s uluslararası</string>
   <string name="alwaysUsePrompt">Tercihimi hatırla</string>
@@ -163,5 +163,5 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="turn_off">Kapalı</string>
   <string name="unknown_caller">Bilinmeyen Numara</string>
   <string name="user_switching_dialog_text">Geçiliyor…</string>
-  <string name="xspace_resolver_activity_title">Uygulamayı seç</string>
+  <string name="xspace_resolver_activity_title">Uygulama seç</string>
 </resources>
