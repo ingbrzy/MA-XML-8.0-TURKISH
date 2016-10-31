@@ -25,8 +25,8 @@
   <string name="add_event_hint">Etiketi girin</string>
   <string name="add_sharer">Üye ekle</string>
   <string name="add_to_album">Albüme ekle</string>
-  <string name="add_to_album_bulk_result">%d başarısız</string>
-  <string name="add_to_album_exist">This photo already exists</string>
+  <string name="add_to_album_bulk_result">(%d) Başarısız oldu</string>
+  <string name="add_to_album_exist">Bu fotoğraf zaten var</string>
   <string name="add_to_album_failed">Albüme ekleme başarısız</string>
   <string name="add_to_album_success">Albüme eklendi</string>
   <string name="add_to_album_tip">Bulut Fotoğrafları</string>
@@ -122,6 +122,7 @@
   <string name="app_name_view_video">Videoları Görüntüle</string>
   <string name="apply">Uygula</string>
   <string name="appwidget_empty_text">Fotoğraf yok</string>
+  <string name="aspect_ratio_format" formatted="false">%d:%d</string>
   <string name="appwidget_title">Galeri</string>
   <string name="aspect_ratio_free">Özel</string>
   <string name="aspect_ratio_origin">Orjinal</string>
@@ -181,12 +182,12 @@
   <string name="baidu_bdmobile_downloads">Baidu-Mobil</string>
   <string name="baidu_flyflow_downloads">Baidu-Tarayıcı</string>  
   <string name="beautyphone">Güzellik</string>
-  <string name="begin_share">Bebek Albümü \"%s\" oluşturması bitti ve şimdi paylaşabilirsiniz</string>
+  <string name="begin_share">Bebek Albümü \"%s\" oluşturuldu ve şimdi paylaşabilirsiniz</string>
   <string name="begin_share_toast">Paylaşmadan önce çocuk için ayrı bir albüm oluşturulsun mu?</string>
   <string name="big_screen_alertdialog_title">Araç Kutusu</string>
   <string name="bigscreen_slide_exit">Slaytı durdur</string>
   <string name="bigscreen_slide_fail_cause_loading">Resim yüklendikten sonra slaytı yeniden başlat</string>
-  <string name="bigscreen_slide_playing">%s slayt oynatılacak</string>
+  <string name="bigscreen_slide_playing">%s slaytı oynatılacak</string>
   <string name="bigscreen_video_quit">Dokunup videoyu bitirin</string>
   <string name="black_white">Siyah-Beyaz</string>
   <string name="brannan">Brannan</string>
@@ -330,7 +331,7 @@
   <string name="delete_album_failed">Albümü silinemedi</string>
   <string name="delete_album_msg_format">\"%2$s\" albüm %1$s %3$s silinsin mi?</string>
   <string name="delete_album_success">Albüm silindi.</string>
-  <string name="delete_file">%1$d dosyalar silinsin mi?</string>
+  <string name="delete_file">%1$d dosya silinsin mi?</string>
   <string name="delete_files_and_folders">%1$d dosya ve %2$d dizin silinsin mi?</string>
   <string name="delete_finish_format">%d silindi</string>
   <string name="delete_folder">%1$d dizin silinsin mi?</string>
@@ -378,11 +379,12 @@
   <string name="doodle_mosaic">Mozaik</string>
   <string name="doodle_small_size">Küçük</string>
   <string name="doodle_super_big_size">Kocaman</string>
+  <string name="download_canceled">İndirme iptal edildi</string>
   <string name="download">İndir</string>
   <string name="download_fail">İndirme başarısız</string>
   <string name="download_fail_confirm_continue">%s indirmesi başarısız</string>
-  <string name="download_refocus_data">Veri indirmesi yeniden odaklanamıyor</string>
-  <string name="download_retry_message">"Dosyalar indirilemesi, ağ bağlantısını kontrol edip, yeniden deneyin"</string>
+  <string name="download_refocus_data">Veri indirmesine yeniden odaklanamıyor</string>
+  <string name="download_retry_message">"Dosyalar indirilemedi, ağ bağlantısını kontrol edip, yeniden deneyin"</string>
   <string name="download_retry_text">Yeniden dene</string>
   <string name="download_retry_title">"Dosyalar indirilemedi"</string>
   <string name="download_tip">İndir</string>
@@ -581,7 +583,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="invite_sharer_again_confirm_button_text">Yeniden davet et</string>
   <string name="invite_sharer_confirm_button_text">Davet</string>
   <string name="invite_sharer_phone_number_tip">Telefon numarasını girin</string>
-  <string name="invite_sharer_relation_tip">%1$s İlişkili</string>
+  <string name="invite_sharer_relation_tip">"%1$s'nin ilişkisi"</string>
   <string name="invite_sharer_title">"%1$s'nin %2$s davet et"</string>
   <string name="invite_tip">"Bebeğinizin fotoğraflarınızı paylaşın"</string>
   <string name="invited_tip">Davetli</string>
@@ -840,7 +842,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="projection_device_connection_failed">"Projektör bağlanamadı"</string>
   <string name="projection_local_mobile">Mobil</string>
   <string name="projection_multi_title">Cihaz Listesi</string>
-  <string name="projection_single_title">%s için göster</string>
+  <string name="projection_single_title">%s için yansıt</string>
   <string name="projection_slide_exit">Slayttan çık</string>
   <string name="projection_slide_fail_cause_loading">Resim yüklendikten sonra slayt gösterisini başlat</string>
   <string name="projection_slide_playing">Slaty gösterisinin %s oynatılıyor</string>
@@ -953,7 +955,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="send_invitation_fail">"Davet gönderilemedi"</string>
   <string name="send_multiple_files_hint_format">Gönder (%s)</string>
   <string name="send_public_url">Albüm URL\'sini gönder</string>
-  <string name="send_too_many_files_error">Can send up to %d items at a time</string>
+  <string name="send_too_many_files_error">Bir seferde %d öğeyi gönder</string>
   <string name="sepia">Sepya</string>
   <string name="set_as_baby_lock_wallpaper">Kilit Ekran Duvar Kağıdını ayarla</string>
   <string name="set_as_wallpaper_description">Bu resim sadece önizlemedir, orjinali indirilsin mi？</string>
