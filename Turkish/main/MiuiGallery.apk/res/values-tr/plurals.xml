@@ -121,12 +121,12 @@
         <item quantity="one">%d gün</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%2$s fotoğraf %1$d tane eklendi</item>
-        <item quantity="one">%2$s fotoğraf %1$d tane eklendi</item>
+        <item quantity="other">%2$s %1$d resim eklendi</item>
+        <item quantity="one">%2$s %1$d resim eklendi</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%2$s fotoğraf %1$d tane eklendi</item>
-        <item quantity="one">%2$s fotoğraf %1$d tane eklendi</item>
+        <item quantity="other">%2$s %1$d resim eklendi</item>
+        <item quantity="one">%2$s %1$d resim eklendi</item>
     </plurals>
     <plurals name="baby_age_subtitle_year">
         <item quantity="other">"%1$d yıl "</item>
@@ -161,7 +161,7 @@
         <item quantity="one">Seçilen fotoğraf cihazda değil, indiriliyor</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
-        <item quantity="other">"Cihazda %d fotoğraf olmadığından, atlandı."</item>
+        <item quantity="other">"Cihazda %d fotoğrafı olmadığından, atlandı."</item>
         <item quantity="one">"Fotoğraf, cihazda olmadığından atlandı."</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
@@ -170,7 +170,7 @@
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">"%1$d fotoğraf indirilemedi, lütfen ağa bağlanın ve yeniden deneyin"</item>
-        <item quantity="one">"Fotoğraf indirilemdi, lütfen ağa bağlanın ve yeniden deneyin"</item>
+        <item quantity="one">"Fotoğraf indirilemedi, lütfen ağa bağlanın ve yeniden deneyin"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">"%1$d fotoğraf (%2$dMB) indirilemedi, yeniden denensin mi?"</item>
@@ -185,20 +185,20 @@
         <item quantity="one">"\"Sadece yerel albümleri göster\" özelliğini kapalı olduğundan %d Mi Bulut'a eklendi"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">Geri kalan %d fotoğraf indirmesi iptal edilsin mi?</item>
-        <item quantity="one">Diğer fotoğraf indirmesi iptal edilsin mi?</item>
+        <item quantity="other">Geri kalan %d fotoğrafın indirilmesi iptal edilsin mi?</item>
+        <item quantity="one">Diğer fotoğrafın indirilmesi iptal edilsin mi?</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
-        <item quantity="other">%2$s fotoğraf %1$d tane silinsin mi?</item>
-        <item quantity="one">%2$s fotoğraf %1$d tane silinsin mi?</item>
+        <item quantity="other">%2$s %1$d resim silinsin mi?</item>
+        <item quantity="one">%2$s %1$d resim silinsin mi?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
-        <item quantity="other">%2$s video %1$d silinsin mi?</item>
+        <item quantity="other">%2$s %1$d video silinsin mi?</item>
         <item quantity="one">%2$s video silinsin mi?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
-        <item quantity="other">%2$s öğe %1$d silinsin mi?</item>
-        <item quantity="one">%2$s öğe %1$d silinsin mi?</item>
+        <item quantity="other">%2$s %1$d öğe silinsin mi?</item>
+        <item quantity="one">%2$s %1$d öğe silinsin mi?</item>
     </plurals>
     <plurals name="album_item_msg_format">
         <item quantity="other">(Toplam %d öğe)</item>
