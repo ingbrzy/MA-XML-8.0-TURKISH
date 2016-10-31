@@ -117,7 +117,7 @@
   <string name="callrecordview_menu_batch_delete">Toplu Sil</string>
   <string name="callrecordview_menu_blocklist">Kara Liste</string>
   <string name="callrecordview_menu_conference">Konferans Çağrısı</string>
-  <string name="callrecordview_menu_delete">Çağrı geçmişini temizle</string>
+  <string name="callrecordview_menu_delete">Çağrı geçmişini sil</string>
   <string name="callrecordview_menu_delete_accepted">Cevaplanmış çağrıları temizle</string>
   <string name="callrecordview_menu_delete_all">Arama geçmişini temizle</string>
   <string name="callrecordview_menu_delete_called">Giden çağrıları temizle</string>
@@ -903,7 +903,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="no_voip_contacts">Mi Voice kişisi yok</string>
   <string name="non_phone_add_to_contacts">Var olan bir kişiye ekle</string>
   <string name="non_phone_caption">Telefon Numarası</string>
-  <string name="non_phone_close">Kapat</string>
+  <string name="non_phone_close">Kapalı</string>
   <string name="none_found">Cihaz bulunamadı</string>
   <string name="none_paired">Hiçbir cihazla eşleşemedi</string>
   <string name="not_applied">"Uygulanmadı"</string>
