@@ -1,9 +1,12 @@
 <resources>
     <string name="label_airplane_mode">Uçak Modu</string>
     <string name="label_silent_mode">Sessiz</string>
-    <string name="label_reboot">Yeniden başlat</string>
+    <string name="label_reboot">Yeniden Başlat</string>
     <string name="label_shutdown">Kapat</string>
-    <string name="label_alert_reboot">Yeniden başlat</string>
+    <string name="label_alert_bootloader">Bootloader</string>
+    <string name="label_alert_reboot">Yeniden Başlat</string>
+    <string name="label_alert_recovery">Kurtarma Modu</string>
     <string name="label_alert_shutdown">Kapat</string>
-    <string name="label_blank">Geri</string>
+    <string name="label_blank">Uyku Modu</string>
+	<string name="label_blank">Geri</string>
 </resources>
