@@ -84,6 +84,11 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="antivirus_choose_engine_disable_toast">"Tarama işlemi devam ederken tanımlar arasında geçiş yapamazsınız"</string>
   <string name="antivirus_choose_engine_settings">Virüs tanımı ayarları</string>
   <string name="antivirus_choose_engine_title">Tanımlar</string>
+  <string name="antivirus_monitor_btn_text_clean_risk">Riskli uygulamaları sil</string>
+  <string name="antivirus_monitor_btn_text_clean_virus">Virüsleri sil</string>
+  <string name="antivirus_monitor_clean_tips">%s öğe silindi</string>
+  <string name="antivirus_monitor_risk_advice">"Bu uygulama güvenli olmadığından silin"</string>
+  <string name="antivirus_monitor_virus_advice">Bu uygulama virüs içerebileğinden, silin</string>
   <string name="antivirus_more_engine_dialog_summary">Birden fazla tanım kullanılması tarama süresini uzatır.</string>
   <string name="antivirus_more_engine_dialog_title">Dikkat</string>
   <string name="antivirus_none_engine_dialog_ok">Tamam</string>
@@ -158,6 +163,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="auto_task_edit_condition_title">Durum Ekle</string>
   <string name="auto_task_edit_my_custom_task">Adı</string>
   <string name="auto_task_edit_operation_summary">Mesela; \"Uçak Modunu Aç\"</string>
+  <string name="auto_task_edit_step1">1.</string>
+  <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Adı</string>
   <string name="auto_task_main_summary">Belirlenen zaman aralığından veya pil durumuna göre sistem ayarlarını değiştir</string>
   <string name="auto_task_main_title">Otomatik Görevler</string>
@@ -707,6 +714,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="main_alert_message_month_limit_error">Veri sınırı yanlış</string>
   <string name="main_alert_message_no_imsi">SIM kart algılanmadı</string>
   <string name="main_alert_message_no_mobile_package">Veri Limitini Ayarla</string>
+  <string name="main_alert_message_open_traffic_ctrl">Kısıtlanmış veri kullanımını tavsiye ederiz</string>
   <string name="main_alert_message_slot_no_data_connection">"SIM kartınız
 mobil veri bağlantısını desteklemiyor"</string>
   <string name="main_button_idel_traffic">Üst Limit</string>
@@ -716,6 +724,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="main_button_usage_adjusting">Değiştiriliyor…</string>
   <string name="main_button_usage_package_setting">Veri kullanım limitini ayarla</string>
   <string name="main_message_no_package_by_dual">%s için veri limitini ayarla</string>
+  <string name="main_open_traffic_ctrl_button">Veri kullanımını kısıtla</string>
   <string name="main_primary_message_traffic_cur_leisure">Üst veri kullanımı</string>
   <string name="main_primary_message_traffic_cur_normal">Üst veri limitinin altında</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Veri limiti aşıldı</string>
@@ -1252,6 +1261,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_title_traffic_speed_state">Ağ hızını göster</string>
   <string name="pref_title_update_notification">Veri kullanım bildirimleri</string>
   <string name="pref_title_virus_white_list">İstisnalar</string>
+  <string name="pref_traffic_manage_title">Veri Kullanımı</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Akıllı istisnalara izin ver</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Yeni yüklenen uygulamalar için veri tasarrufunu otomatik olarak etkinleştir</string>
   <string name="pref_traffic_saving_compressed">Sıkıştırıldı</string>
