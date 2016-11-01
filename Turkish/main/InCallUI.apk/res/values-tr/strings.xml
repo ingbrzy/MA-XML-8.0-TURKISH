@@ -605,8 +605,10 @@ Tavsiyemiz \"Otomatik Olarak Seç\", seçeneğini kullanmanız veya elle başka 
   <string name="notification_action_answer_video">Video</string>
   <string name="notification_action_answer_voice">Ses</string>
   <string name="notification_action_dismiss">Reddet</string>
+  <string name="notification_action_earpiece">Kulaklık</string>
   <string name="notification_action_end_call">Kapat</string>
-  <string name="notification_dialing">Aranıyor</string>
+  <string name="notification_action_speaker">Hoparlör</string>
+  <string name="notification_dialing">Aranıyor...</string>
   <string name="notification_incoming_call">Gelen çağrı</string>
   <string name="notification_incoming_video_call">Gelen Video Çağrısı</string>
   <string name="notification_missedCallTicker">%s tarafından cevapsız çağrı</string>
