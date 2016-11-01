@@ -127,8 +127,8 @@
     <string-array name="alarm_repeat_type">
         <item>Birkez</item>
         <item>Hergün</item>
-       <item>Mesai Saatlerinde</item>
-        <item>Haftanın Günleri</item>
+        <item>İş Saatlerinde</item>
+        <item>Haftanın Her Günü</item>
         <item>Özel</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
