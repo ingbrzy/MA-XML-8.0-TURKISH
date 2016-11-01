@@ -9,6 +9,7 @@
   <string name="Result_title">Sonuç...</string>
   <string name="accessibility_call_muted">Çağrı sessizde.</string>
   <string name="accessibility_speakerphone_enabled">Hoparlör etkin.</string>
+  <string name="account_changed_title">Hesap değiştirildi</string>
   <string name="active_phone_fail_nochoice">"SIM kart doğrulanamadı"</string>
   <string name="active_phone_fail_toast">"SIM kart  %1$s doğrulanamadı"</string>
   <string name="active_phone_sim_absent">SIM kartı yerleştirin</string>
@@ -674,6 +675,7 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="help_view">Yardım</string>
   <string name="hintName">Adı</string>
   <string name="hintPhonenumber">Telefon Numarası</string>
+  <string name="home_screen_shortcut">Ana Ekran Kısayolu</string>
   <string name="importAllSimEntries">Tümünü İçe Aktar</string>
   <string name="importSimEntry">İçe Aktar</string>
   <string name="importToFDNfromContacts">Kişileri içe aktar</string>
@@ -845,13 +847,14 @@ Kontör yükle ve konuşmaya başla"</string>
   <string name="livetalk_remain_minutes_title">Kalan arama süresi</string>
   <string name="livetalk_service_and_short_number_not_support">Servis numaraları ve sıralama numaraları desteklenmez.</string>
   <string name="livetalk_setting">Kontör Paketi</string>
+  <string name="livetalk_shortcut_title">Kontör Paketi</string>
   <string name="livetalk_sim_card_not_activated">"Kart etkinleştirilmedi"</string>
   <string name="livetalk_terms_conditions">Hükümler ve Koşullar</string>
   <string name="livetalk_unavaiable_info">Bu hizmet geçici olarak kullanılamıyor</string>
   <string name="livetalk_user_config_title">Telefon numarasını doğrula</string>
   <string name="livetalk_welcome_description_text">"• %70 arama ücretlerinden tasarruf.
-• Dünyanın herhangi bir telefonu aramak için hiçbir operatör kısıtlaması yok.
-•Kontör yükleyin ve aramaya başlayın, hiçbir karmaşık ayar yok."</string>
+• Dünyanın herhangi bir yerinde bir telefonu aramak için hiçbir operatör kısıtlaması olmaz.
+•Kontör yükleyin ve aramaya başlayın, hiçbir karmaşık ayara gerek yok."</string>
   <string name="livetalk_welcome_notes_text">"Not: Her çağrı 1 KB mobil veri gerektirir; Servis ve kısa numaralar desteklenmez. Gelen aramalar için ödeme yapıyorsanız, dolaşım açık olduğundaki işlemler operatörünüz tarafından tahsil edilir. Operatörünüz bu telefon numarasını doğrulamak için bir SMS ücreti alabilir."</string>
   <string name="livetalk_white_list_number_title">Düzenli çağrı yapın</string>
   <string name="load_networks_progress">Aranıyor…</string>
@@ -1440,6 +1443,9 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="search_networks">Ağları Ara</string>
   <string name="selectContact">Kişi Seç</string>
   <string name="select_automatically">Otomatik Seç</string>
+  <string name="select_cancel">İptal</string>
+  <string name="select_continue">Devam</string>
+  <string name="select_ok">Tamam</string>
   <string name="select_voice_call_sim">SIM Kartı Seç</string>
   <string name="sendSms">SMS Gönder</string>
   <string name="send_button">Gönder</string>
@@ -1453,6 +1459,8 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="set_subscription">Abonelikleri Seç</string>
   <string name="setting_activate_domestic_title">Yerli Çağrılar</string>
   <string name="setting_activate_international_title">Uluslararası Çağrılar</string>
+  <string name="setting_duration_other_prompt">Uluslararası arama ücretlerini kontrol et</string>
+  <string name="setting_duration_title">Kalan Süre: </string>
   <string name="settings_label">Ağ Ayarları</string>
   <string name="sim1_activated">SIM Kart 1</string>
   <string name="sim1_no_activated">"SIM Kart 1 doğrulanamadı"</string>
@@ -1481,9 +1489,11 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="sim_roaming_settings_summary">Dolaşım esnasında mobil veri ağlarına bağlan</string>
   <string name="sim_roaming_settings_title">Mi Dolaşım</string>
   <string name="sim_service_setting">Mi SIM &amp; Mi Dolaşım</string>
+  <string name="sim_unknown">Bilinmiyor</string>
   <string name="sim_useless">SIM mevcut değil</string>
   <string name="sim_unlock_failed">SIM kilit açma isteği başarısız</string>
-  <string name="sim_unlock_success">SIM kilid açma başarılı</string>
+  <string name="sim_unlock_success">SIM kilidi açma başarılı</string>
+  <string name="sim_useless">SIM kullanılamıyor</string>
   <string name="sip_account_list">SIP Hesapları</string>
   <string name="sip_accounts">İnternetten Ara (SIP) Hesabı</string>
   <string name="sip_accounts_title">SIP Hesapları</string>
@@ -1505,6 +1515,7 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="sip_receive_calls_summary">Pil tüketimini arttırır</string>
   <string name="sip_settings">İnternet Çağrısı</string>
   <string name="sip_system_decide">Otomatik</string>
+  <string name="slot">Yuva</string>
   <string name="sp_unlock_failed">SIM Hizmet Sağlayıcı kilit açma isteği başarısız</string>
   <string name="sp_unlock_success">SIM Hizmet Sağlayıcı kilidini açma başarılı</string>
   <string name="sports_news_settings">Spor Haberleri</string>
@@ -1596,6 +1607,7 @@ Sonraki Döneme:n %4$d gün (%5$s)"</string>
   <string name="throttle_time_frame">Veri Kullanım Zamanı</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ kaldı.
 Sonraki Zamana: %2$d gün (%3$s)"</string>
+  <string name="time_statistic">%1$d dakika tasarruf edildi</string>
   <string name="title_call_barring">Çağrı Engelleme (%s)</string>
   <string name="title_cf_option_phone_number">Telefon numarasına yönlendir</string>
   <string name="title_cf_option_stop">Yönlendirmeyi durdur</string>
@@ -1622,6 +1634,7 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
   <string name="tty_mode_entries_off">TTY Kapalı</string>
   <string name="tty_mode_entries_vco">TTY VCO</string>
+  <string name="tty_mode_not_allowed_vt_call">Görüntülü görüşme esnasında TTY Moduna geçmeye izin verilmez</string>
   <string name="tty_mode_option_summary">TTY Modunu Ayarla</string>
   <string name="tty_mode_option_title">TTY Modu</string>
   <string name="turnover_mute_summary">Telefon tersine çevrildiğinde zil sesini sustur, bu özellik gelen çağrıda titreşim açıksa çalışmaz.</string>
@@ -1642,7 +1655,10 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
 Kontör paketi kullanılsın mı?"</string>
   <string name="use_current_account_creat_livetalk_button">Kullan</string>
   <string name="use_history">Etkinlik</string>
+  <string name="use_history_duration_hour">%1$s</string>
   <string name="use_history_duration_min">%1$s dak</string>
+  <string name="use_history_endtime">Bitiş: %1$s</string>
+  <string name="use_history_starttime">Başlama: %1$s</string>
   <string name="use_range">Menzil</string>
   <string name="username_title">Kullanıcı Adı</string>
   <string name="ussdRunning">USSD kodu çalışıyor...</string>
@@ -1654,6 +1670,7 @@ Kontör paketi kullanılsın mı?"</string>
   <string name="vibrate_after_connected_summary">Cevaplarken titret</string>
   <string name="vibrate_after_connected_title">Bağlandıktan sonra titret</string>
   <string name="vibrate_on_ring_title">Çalarken titret</string>
+  <string name="video_call">Görüntülü Çağrı</string>
   <string name="vm_change_failed">"Sesli mesaj numarasını değiştirilemedi.
 Bu sorun devam ederse lütfen operatörünüze başvurun."</string>
   <string name="vm_changed">Sesli mesaj numarası değiştirildi.</string>
