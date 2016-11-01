@@ -175,6 +175,7 @@
   <string name="notification_missedCallsTitle">Cevapsız Çağrılar</string>
   <string name="outgoing_call_error_limit_exceeded">Çağrı gönderilmedi, sınır aşıldı.</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Çağrı gönderilemedi, geçersiz numara girildi.</string>
+  <string name="outgoing_call_not_allowed">Cihaz sahibi yalnızca acil arama yapabilir</string>
   <string name="outgoing_call_failed">Çağrı gönderilemedi.</string>
   <string name="outgoing_call_not_allowed_no_permission">Telefonun izni olmadan bu uygulama dışarıya çağrı yapamaz.</string>
   <string name="outgoing_call_not_allowed_user_restriction">Cihaz sahibi tarafından sadece acil çağrılara izin verilir.</string>
