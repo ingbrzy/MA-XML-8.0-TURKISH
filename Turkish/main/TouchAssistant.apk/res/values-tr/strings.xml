@@ -9,6 +9,7 @@
   <string name="close_panel">Kısayol Menüsünü kapat</string>
   <string name="customize_entries">Kısayolu Seç</string>
   <string name="enable_touch_assistant">Kısayol Menüsünü Aç</string>
+  <string name="enabled_for_pad_hint">\"Yatay Modda gezinti düğmelerini engelle\" açık olduğunda çalıştır</string>
   <string name="function_settings">Kısayol Ayarları</string>
   <string name="hide_touch_assistant">Otomatik Gizle</string>
   <string name="hide_touch_assistant_intro">Seçili uygulamanın kısayol menüsünü gizle.</string>
@@ -17,6 +18,7 @@
   <string name="motion_behavior">Tercihli İşaret</string>
   <string name="name_alipay_payment_code">Alipay Ödemesi</string>
   <string name="name_alipay_scan">Alipay Tarayıcısı</string>
+  <string name="name_kill_processes">Hafızayı Temizle</string>
   <string name="name_long_press_power_key">Uzun süreli güç tuşuna bas</string>
   <string name="name_memory_clean">Önbelleği temizle</string>
   <string name="name_music_next_song">Sonraki parça</string>
@@ -32,6 +34,7 @@
   <string name="name_screenshot">Ekran Alıntısı</string>
   <string name="name_wechat_payment_code">Wechat Ödemesi</string>
   <string name="name_wechat_scan">Wechat Taraması</string>
+  <string name="not_working">%s (Çalışmıyor)</string>
   <string name="open_panel">Kısayol Menüsünü aç</string>
   <string name="pay_entry_dialog_title_select">Açmak için Uygulamayı Seçin</string>
   <string name="pay_entry_dialog_title_setting">Uygulama Ayarı</string>
