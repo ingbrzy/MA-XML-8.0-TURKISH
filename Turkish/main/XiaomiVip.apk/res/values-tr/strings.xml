@@ -46,7 +46,7 @@
   <string name="giveup">Vazgeç</string>
   <string name="go">İşlemi görüntüle</string>
   <string name="hello">Merhaba</string>
-  <string name="hours">%dh</string>
+  <string name="hours">%ds</string>
   <string name="in_progress">İsteniyor…</string>
   <string name="invalid_json">Bir şeyler yanlış gitti</string>
   <string name="level">Level</string>
@@ -56,7 +56,7 @@
   <string name="limit_task">Sınırlı zorluklar</string>
   <string name="limit_task_format" formatted="false">%d/%d</string>
   <string name="millis">%dmsan</string>
-  <string name="minutes">%dm</string>
+  <string name="minutes">%ddk</string>
   <string name="miuishare_account_activate_confirmation">Etkinleştirme gerekiyor</string>
   <string name="miuishare_account_activate_ok">Etkinleştir</string>
   <string name="miuishare_account_login_cancel">İptal</string>
@@ -94,7 +94,7 @@
   <string name="rank">Rütbeler</string>
   <string name="rank_keeps">Aynı</string>
   <string name="redeem">Kurtar</string>
-  <string name="seconds">%ds</string>
+  <string name="seconds">%dsn</string>
   <string name="share_button">Paylaş</string>
   <string name="start_activity_error">"Uygulama başlatılamadı: %s"</string>
   <string name="take_awarded_package">Kurtar</string>
@@ -110,6 +110,8 @@
   <string name="task_select_title">Zorluk seç</string>
   <string name="task_start">Başla</string>
   <string name="task_take_award">Ödülleri al</string>
+  <string name="today_task">"Bugünün meydan okuması"</string>
+  <string name="today_task_format" formatted="false">%d/%d</string>
   <string name="unachieved">Mevcut</string>
   <string name="unlimited_task">Özel Zorluklar</string>
   <string name="upgraded">Hesap güncellendi!</string>
