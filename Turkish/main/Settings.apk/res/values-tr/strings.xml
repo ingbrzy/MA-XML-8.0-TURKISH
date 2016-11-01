@@ -5,6 +5,7 @@
 Reklam tanımlayıcısı cihazınızın kalıcı kimliğidir. Satıcılar sizin için daha faydalı olabilecek reklam içeriğini seçmekte bunu kullanır.
 
 Kişiselleştirilmiş reklamları kullanmamayı seçerseniz, reklam miktarını azaltmayacak sadece sizin için yararlı reklamların miktarını önemli ölçüde azaltacaktır."</string>
+  <string name="about_phone_enter_xiaomi_net">Fazlası</string>
   <string name="abort_backup_confirm">Yedekleme tamamlanmadı. Yinede çıkılsın mı?</string>
   <string name="about_phone_enter_xiaomi_net">Mi ağına gir</string>
   <string name="about_settings">Telefon Hakkında</string>
@@ -345,6 +346,8 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="auto_disable_screenbuttons_auto">Daima devre dışı</string>
   <string name="auto_disable_screenbuttons_cancel">İptal</string>
   <string name="auto_disable_screenbuttons_no">Asla devre dışı olmasın</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">Cihaz yatay görünüm moduna geçtiğinde, gezinti düğmeleri kilitlenir.</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Yatay Moda geçince gezinti düğmelerini kilitle</string>
   <string name="auto_disable_screenbuttons_summary">Seçilen uygulamaları kullanırken otomatik gezinme düğmelerini devre dışı bırakın. Herhangi bir gezinti düğmesini yeniden etkinleştirmek için iki kez hafifçe dokunun.</string>
   <string name="auto_disable_screenbuttons_title">Otomatik olarak gezinme düğmelerini devre dışı bırak</string>
   <string name="auto_launch_disable_text">Varsayılan ayarda değil.</string>
@@ -937,6 +940,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="color_white">Beyaz</string>
   <string name="color_yellow">Sarı</string>
   <string name="common_settings">Hızlı Ayarlar</string>
+  <string name="complete_parameters">Tüm Özellikler</string>
   <string name="complete_settings">Genel Ayarlar</string>
   <string name="compute_backup_info">Yedekleme bilgisini oku...</string>
   <string name="compute_delete_contact_info">Diğer bilgiler...</string>
@@ -1228,6 +1232,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="development_settings_not_available">Geliştirici Seçenekleri bu kullanıcı için değildir</string>
   <string name="development_settings_summary">Uygulama geliştirme için seçenekleri ayarla</string>
   <string name="development_settings_title">Geliştirici Seçenekleri</string>
+  <string name="device_actionbar_title">Mi 5</string>
   <string name="device_additional_status">Ek Durum Bilgisi</string>
   <string name="device_additional_status_summary">Telefon Numarası, Sinyal, IMEI, vb.</string>
   <string name="device_admin_add_title">Cihaz Yöneticileri</string>
@@ -1235,12 +1240,14 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="device_admin_status">Bu yönetici etkin ve %1$s uygulamasının şu işlemleri gerçekleştirmesine izin veriyor:</string>
   <string name="device_admin_title">Cihaz Yönetimi</string>
   <string name="device_admin_warning">Bu yöneticinin etkinleştirilmesi %1$s uygulamasının şu işlemleri gerçekleştirilmesine izin verir:</string>
+  <string name="device_complete_parameters">Tamamla</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">10 Çekirdek</string>
   <string name="device_cpu2_info">Çift Çekirdek</string>
   <string name="device_cpu4_info">4 Çekirdek</string>
   <string name="device_cpu6_info">6 Çekirdek</string>
   <string name="device_cpu8_info">8 Çekirdek</string>
+  <string name="device_display_layout_title">Mi 5 Özellikleri</string>
   <string name="device_edit_title">Telefonu Adlandır</string>
   <string name="device_feedback">Bu cihazla ilgili görüşlerinizi gönderin</string>
   <string name="device_info_default">Bilinmiyor</string>
@@ -1249,7 +1256,9 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="device_info_settings">Telefon Durumu</string>
   <string name="device_internal_memory">Dahili Hafıza</string>
   <string name="device_memory">RAM</string>
+  <string name="device_miui_more">Detaylara Bak</string>
   <string name="device_miui_version">MIUI Sürümü</string>
+  <string name="device_miui_version_update">MIUI güncellemesi mevcut</string>
   <string name="device_name">Cihaz Adı</string>
   <string name="device_name_input_error">"Cihaz adı kaydedilemedi"</string>
   <string name="device_name_input_hint">Adı girin</string>
@@ -1257,6 +1266,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="device_picker">Bluetooth cihazı seçin</string>
   <string name="device_reset_title">Cihazı Sıfırla</string>
   <string name="device_sd_memory">SD Kart</string>
+  <string name="device_share_loading">Resim oluşturuluyor</string>
   <string name="device_security_settings_title">Güvenlik</string>
   <string name="device_status">Durum</string>
   <string name="device_status_activity_title">Durum</string>
@@ -2312,6 +2322,7 @@ Burada diğer kullanıcılar var.
   <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Yaklaşık %1$s, son 3 saatte kullandığı hafıza</string>
   <string name="menu_cancel">Reddet</string>
+  <string name="menu_check">Deneyim</string>
   <string name="menu_delete">Erişim Noktası Ağını Sil</string>
   <string name="menu_duration_12h">12 saat</string>
   <string name="menu_duration_1d">1 gün</string>
@@ -2328,6 +2339,7 @@ Burada diğer kullanıcılar var.
   <string name="menu_proc_stats_type_foreground">Önplan</string>
   <string name="menu_restore">Sıfırla</string>
   <string name="menu_save">Kaydet</string>
+  <string name="menu_share">Paylaş</string>
   <string name="menu_show_percentage">Yüzdeleri göster</string>
   <string name="menu_show_system">Sistemi göster</string>
   <string name="menu_stats_last_unplugged">En son fişten çekildikten sonra %1$s</string>
@@ -2558,6 +2570,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="musicfx_title">Müzik Efekleri</string>
   <string name="mvno_match_data">MVNO Değeri</string>
   <string name="mvno_type">MVNO Türü</string>
+  <string name="my_device">Cihazım</string>
   <string name="nearby_wifi">Mevcut Ağlar</string>
   <string name="need_reboot_now">Güncelleştirmeyi yüklemek için yeniden başlatın.</string>
   <string name="network_assistant">Veri Kullanımı</string>
@@ -3283,6 +3296,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="radio_info_smsc_refresh_label">Yenile</string>
   <string name="radio_info_smsc_update_label">Güncelle</string>
   <string name="radio_info_toggle_dns_check_label">DNS denetimini değiştir</string>
+  <string name="rank_title">Rütbeler</string>
   <string name="rarely_running">Nadiren Çalışan (%s)</string>
   <string name="read_encrypt_fail">Şifreli yedekleme okunamadı</string>
   <string name="really_remove_account_message">Bu hesaba ait tüm mesajlar, kişiler, diğer veriler bu telefondan kaldırılacak!</string>
@@ -3291,6 +3305,11 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="recent_location_requests_summary">Aşağıdaki uygulamalar konum bilginizi görüntülemek istiyor</string>
   <string name="receiver_clean">Alanı Boşalt</string>
   <string name="recent_location_requests_title">Konum Erişimi</string>
+  <string name="recommend_item_1">Telefon kılıfı</string>
+  <string name="recommend_item_2">Mi Band</string>
+  <string name="recommend_item_3">Taşınabilir şarj aleti</string>
+  <string name="recommend_item_4">Kulaklıklar</string>
+  <string name="recommend_item_title">Tavsiye Edilenler</string>
   <string name="recognizer_settings_summary">"'%s' Ayarları"</string>
   <string name="recognizer_settings_title">Sesli Arama</string>
   <string name="recognizer_title">Ses Tanımlayıcısı</string>
@@ -4220,8 +4239,9 @@ Biçimlendirdikten sonra, ^1 bu cihazda çalışır.
 
 "&lt;b&gt;Geçerli depolamadaki ^1 biçimlendirme esnasında tüm veriler silinecek&lt;/b&gt;" Veriler kaybedileceği için, yedekleme yapmayı unutmayın. "</string>
   <string name="storage_wizard_format_confirm_public_title">Taşınabilir depolama olarak biçimlendir</string>
+  <string name="storage_wizard_format_confirm_third_body">^1 biçimlendirildi</string>
   <string name="storage_wizard_format_confirm_title">Dahili depolama olarak biçimlendir</string>
-  <string name="storage_wizard_format_progress_body">Biçimlendirildiğinde ^1 kaldırma.</string>
+  <string name="storage_wizard_format_progress_body">Biçimlendirildiğinde ^1 kaldır.</string>
   <string name="storage_wizard_format_progress_title">^1 biçimlendiriliyor…</string>
   <string name="storage_wizard_init_external_summary">Fotoğraflar ve diğer medya arasında taşıyın.</string>
   <string name="storage_wizard_init_external_title">Taşınabilir depolama olarak kullan</string>
