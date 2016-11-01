@@ -30,6 +30,10 @@
   <string name="app_name_miuiringtone">Zil Sesi</string>
   <string name="app_name_miuiwallpaper">Duvar Kağıdı</string>
   <string name="app_name_screenshot">Ekran Görüntüleri</string>
+  <string name="auto_play">WLAN ağına bağlandığında otomatik olarak oynat</string>
+  <string name="auto_play_later">Sonra</string>
+  <string name="auto_play_now">Aç</string>
+  <string name="auto_play_toast">Videolar otomatik olarak oynatılır. Bunu ayarlardan değiştirebilirsiniz.</string>
   <string name="archive_send_to">Gönder…</string>
   <string name="background">Gizle</string>
   <string name="backup_cancel">"Yedekleme!"</string>
@@ -88,6 +92,20 @@
   <string name="change_sticker">Başka bir etiket seçin</string>
   <string name="choose_report_comment_reason">Bu yorumu neden raporluyorsunuz?</string>
   <string name="choose_report_reason">Neden bu video klibi raporluyorsun?</string>
+  <string name="claim_no_video">Hiçbir video yok</string>
+  <string name="claim_operation_too_frequently">Fazla girişim var! Sonra yeniden deneyin.</string>
+  <string name="claim_remind_dialog_cancel">Diğer videoları görüntüle</string>
+  <string name="claim_remind_dialog_confirm">Bekle</string>
+  <string name="claim_remind_dialog_message">"Geri dönerseniz videoyu göstermek mümkün olmayacak"</string>
+  <string name="claim_remind_dialog_title">Dikkat</string>
+  <string name="claim_video">İddia</string>
+  <string name="claim_video_already_claimed">Bu videoda hak iddia edildi, sonraki zamanda daha hızlı olun!</string>
+  <string name="claim_video_already_locked">Hak iddia edildi</string>
+  <string name="claim_video_failure">"İddia edilmedi, yeniden deneyin"</string>
+  <string name="claim_video_locking">Hak iddia ediliyor...</string>
+  <string name="claim_video_over">Bugün çok iddia edildi, yarın geri gelin!</string>
+  <string name="claim_video_success">Başarıyla hak iddia edildi</string>
+  <string name="claim_video_unlogin">Hak iddialı videolara oturum açın</string>
   <string name="choose_send_type">Kullanılan gönderiliyor...</string>
   <string name="choose_upload_location">KuaiPan dizinine yükle</string>
   <string name="clean_hint">Alan boşaltmak için dokunun</string>
@@ -280,6 +298,7 @@
   <string name="join_activity">Katılımcı</string>
   <string name="just_now">Şimdi</string>
   <string name="kilobyteShort">KB</string>
+  <string name="kuaipan_label">Kuaipan</string>
   <string name="kp_category_all">Kategori</string>
   <string name="kp_category_doc">Word</string>
   <string name="kp_category_excel">Excel</string>
@@ -457,6 +476,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="no_file">Boş</string>
   <string name="no_local_sticker_tip">"İndirilen etiketler bulamadı. Mi hayranları tarafından paylaşılan etiketlere göz atın."</string>
   <string name="no_login_btn_text">Oturum Aç</string>
+  <string name="no_login_str">Oturum açılmadı</string>
   <string name="no_login_tip">Ödül kazanmak için popüler içeriklerle videoları paylaş</string>
   <string name="no_message">Mesaj yok</string>
   <string name="no_more_space">Yetersiz depolama alanı.</string>
@@ -546,6 +566,11 @@ ve yenilerini kaçırmayın!"</string>
   <string name="operation_unfavorite">Favoriden Çıkart</string>
   <string name="operation_unlike">Favoriden Çıkart</string>
   <string name="origin_name">%1$s: </string>
+  <string name="original_user_qq_group">Yetenek ekibi QQ grubuna katılın</string>
+  <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; topluluğa katıldı</string>
+  <string name="original_user_signal">Yetenek ekibi</string>
+  <string name="original_user_title">Yetenek ekibinin bir üyesi oldunuz. Tebrikler!</string>
+  <string name="original_user_verify">• Teşekkürler</string>
   <string name="other_user_fans_tab">Hayranlar</string>
   <string name="other_user_follow_tab">Takip ettiklerim</string>
   <string name="other_user_follow_title">Takip Edilen Kişi</string>
@@ -625,6 +650,8 @@ ve yenilerini kaçırmayın!"</string>
   <string name="rename_failed">" %1$s adlandırılamadı"</string>
   <string name="repair_done">Geri yüklendi</string>
   <string name="repair_error">"Geri yüklenemedi"</string>
+  <string name="repair_error_no_media">"Geri açılamadı, lütfen en az bir medya dosyası seçin."</string>
+  <string name="repair_error_no_order">"Geri açılamadı, lütfen silin veya %s şifreleyin ve yeniden deneyin"</string>
   <string name="repair_file">Şifrelenmiş dosyaları geri yükle</string>
   <string name="repeat_upload_video">Bu video zaten paylaşıldı, başka bir tane seç.</string>
   <string name="reply_success">Yorum eklendi</string>
@@ -775,11 +802,15 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="system_video_control">Popüler videoları göster</string>
   <string name="system_video_control_tip">Gezginde popüler videoları göster</string>
   <string name="tab_category">Kategoriler</string>
+  <string name="tab_claim">İddia</string>
   <string name="tab_common_app">Uygulama &amp; Dizinler</string>
+  <string name="tab_discover">Keşfet</string>
   <string name="tab_expand">Genişlet</string>
+  <string name="tab_homepage">Ana Sayfa</string>
   <string name="tab_follow">İzleniyor:</string>
   <string name="tab_hottest_video">Popüler</string>
   <string name="tab_local">Yerel</string>
+  <string name="tab_mine">Profil</string>
   <string name="tab_local_video">Çevrimdışı</string>
   <string name="tab_more">Fazlası</string>
   <string name="tab_newest_video">Yeni</string>
@@ -806,7 +837,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="tools">ARAÇLAR</string>
   <string name="topic_follow">Takip</string>
   <string name="topic_followed">Takipte:</string>
-  <string name="topic_message">%1$s: %2$s</string>
+  <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
   <string name="topic_winners">Önceki kazananlar</string>
   <string name="trans_mobile_network_message">Mobil veri kullanarak dosya transfer etmek ek ücrete tabidir.</string>
   <string name="trans_task">Ağ transferi</string>
@@ -945,6 +976,14 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="video_data_consumption_dialog_message">Yüklemek için %1$s mobil veri gerekiyor</string>
   <string name="video_data_consumption_dialog_title">Mobil Veri Uyarısı</string>
   <string name="video_description">Video Açıklaması</string>
+  <string name="video_encrypt_fans_btn">Hayran ol</string>
+  <string name="video_encrypt_fans_text">Sadece hayranlar bu videoyu izleyebilir</string>
+  <string name="video_encrypt_follow_fail">"Takip edilmiyor"</string>
+  <string name="video_encrypt_follow_success">%s takipte</string>
+  <string name="video_encrypt_login_btn">Oturum aç</string>
+  <string name="video_encrypt_login_text">Bu videoyu oynatmak için oturum aç</string>
+  <string name="video_operation_need_fans">Bu videoyu yapan kişiyi takip et</string>
+  <string name="video_operation_need_login">Bunu yapmak için oturum aç</string>
   <string name="video_parse_btn">"Başlat'a basın"</string>
   <string name="video_parse_error_repeated">"Lütfen,benzer video bağlantısı tekrarlanamıyor"</string>
   <string name="video_parse_error_unknown">"Bu bağlantısı desteklenmiyor, farklı bir tane deneyin"</string>
