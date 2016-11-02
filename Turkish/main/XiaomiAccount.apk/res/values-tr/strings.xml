@@ -191,7 +191,7 @@
   <string name="location_service_not_working">Konum hizmeti çalışmıyor</string>
   <string name="login">Giriş yap</string>
   <string name="login_check_find_device">Cihazın güvenlik bilgisi alınıyor…</string>
-  <string name="login_check_find_device_failed_title">\"Telefonu Bul\" durumu denetlenemedi</string>
+  <string name="login_check_find_device_failed_title">Cihazın güvenlik durumu denetlenemedi</string>
   <string name="login_failed">"Giriş yapılamıyor"</string>
   <string name="login_find_device_bind">Bu cihaz Mi Hesap Kimliği (%s) ile bağlantılıdır.</string>
   <string name="login_guard">Mi Güvencesi</string>
