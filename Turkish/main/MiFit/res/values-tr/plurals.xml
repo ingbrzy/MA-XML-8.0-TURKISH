@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="numberFoot">
+        <item quantity="other">%s ayak</item>
+        <item quantity="one">%s ayak</item>
+    </plurals>
+    <plurals name="numberInch">
+        <item quantity="other">%s inç</item>
+        <item quantity="one">%s inç</item>
+    </plurals>
+    <plurals name="picker_number_of_items_selected">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+</resources>
