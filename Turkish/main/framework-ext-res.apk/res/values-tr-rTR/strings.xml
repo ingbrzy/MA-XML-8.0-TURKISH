@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_package_delete_confirm_title">Önemli Uyarı</string>
   <string name="add_frequent_phrases">Sık Kullanılanları ekle</string>
   <string name="all_call_livetalk_enable">Yurtiçi ve uluslararası aramalar için kontör paketininin kullan</string>
   <string name="all_call_livetalk_remain_mins">Kalan Dakika: %1$s yurtiçi veya %2$s uluslararası</string>
@@ -18,6 +19,11 @@
   <string name="auto_start_warning_allow">İzin ver</string>
   <string name="auto_start_warning_deny">Reddet</string>
   <string name="auto_start_warning_title">%s için otomatik başlama izni verilsin mi?</string>
+  <string name="button_text_cancel">İptal</string>
+  <string name="button_text_delete">Sil</string>
+  <string name="button_text_delete_timer">Sil (%d)</string>
+  <string name="button_text_next_step">İleri</string>
+  <string name="button_text_next_step_timer">İleri (%d)</string>
   <string name="call_record_or">" veya "</string>
   <string name="call_record_sample_prefix_miui">Çağrı</string>
   <string name="caller_info_name_delimiter">" veya "</string>
@@ -68,6 +74,9 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="memory_clear_nothing_result">Önbellekte temizlemek için bir şey yok</string>
   <string name="memory_clear_result">%1$sB temizlendi | %2$sB mevcut</string>
   <string name="miui">miui</string>
+  <string name="package_delete_confirm_step_1">%s silinsin mi?</string>
+  <string name="package_delete_confirm_step_2">Bu uygulamayı silmek, sistemin kararsız hale gelmesine neden olabilir.</string>
+  <string name="package_delete_confirm_step_3">"Bunu sildikten sonra bu uygulamayı açmak mümkün olmayacak."</string>
   <string name="paste">Yapıştır</string>
   <string name="perm_send_push_dspt">Mi Push mesajlarına izin ver</string>
   <string name="perm_send_push_lab">Push mesajı gönder</string>
