@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="avoid_type">
+        <item>@string/state_close</item>
+        <item>@string/avoid_enable_smart</item>
+        <item>@string/avoid_enable_time</item>
+    </string-array>
+    <string-array name="avoid_type_sub">
+        <item></item>
+        <item>@string/avoid_enable_smart_sub</item>
+        <item>@string/avoid_enable_time_sub</item>
+    </string-array>
+    <string-array name="colors">
+        <item>@string/blue</item>
+        <item>@string/orange</item>
+        <item>@string/green</item>
+        <item>@string/red</item>
+    </string-array>
+    <string-array name="hr_sport_new">
+        <item>Hafif</item>
+        <item>Ağır</item>
+        <item>Aerobik</item>
+        <item>Anaerobik</item>
+        <item>Azami VO₂</item>
+    </string-array>
+    <string-array name="lock_screen_type">
+        <item>Kapat</item>
+        <item>Yakın</item>
+        <item>Uzak</item>
+    </string-array>
+    <string-array name="long_sit_items">
+        <item>60 dakika</item>
+        <item>90 dakika</item>
+        <item>120 dakika</item>
+    </string-array>
+    <string-array name="mili_help_tips">
+        <item>Bilekliğinizin şarj olduğundan ve pilinin bitmemiş olduğundan emin olun.</item>
+        <item>Öncelikle Bluetooth aygıtını kapatıp daha sonra mevcut cihaz ile eşleştirin.</item>
+        <item>"Bileklik şarj edildiği halde telefon bilekliği bulamıyorsa; telefonun Bluetooth'unu kapatıp-açmayı deneyin."</item>
+        <item>"Bluetooth'u yeniden başlatmak sorunu çözmediyse; telefonunuzu yeniden başlatmayı deneyin."</item>
+    </string-array>
+    <string-array name="mili_help_title">
+        <item>Bilekliğiniz şarj edildi mi?</item>
+        <item>Bu bileklik başka bir cihazla mı eşleştirildi?</item>
+        <item>"Bluetooth'u yeniden başlatmayı denediniz mi?"</item>
+        <item>Telefonunuzu yeniden başlatmayı denediniz mi?</item>
+    </string-array>
+    <string-array name="mili_pro_display_items">
+        <item>Süre</item>
+        <item>Adım</item>
+        <item>Mesafe</item>
+        <item>Kalori</item>
+        <item>Nabız</item>
+        <item>Kalan Pil</item>
+    </string-array>
+    <string-array name="month_list">
+        <item>Oca</item>
+        <item>Şub</item>
+        <item>Mar</item>
+        <item>Nis</item>
+        <item>May</item>
+        <item>Haz</item>
+        <item>Tem</item>
+        <item>Ağu</item>
+        <item>Eyl</item>
+        <item>Eki</item>
+        <item>Kas</item>
+        <item>Ara</item>
+    </string-array>
+    <string-array name="normandy_help_tips">
+        <item>Huami sensörünün pil ömrü 6 aydır. Sensörü 6 aydan daha uzun süredir kullanıyorsanız, sensörün pili bitmiş olabilir.</item>
+        <item>"Öncelikle diğer cihazda Bluetooth'u kapatın, ardından telefonunuzla eşleştirin."</item>
+        <item>Telefonunuzu yeniden başlatmayı deneyin, ardından bilekliği eşleştirin.</item>
+        <item>"Bluetooth'u yeniden başlatmak sorunu çözmediyse; telefonunuzu yeniden başlatmayı deneyin."</item>
+        <item>Mi Fit uygulamasını her açışınızda uygulama verileri otomatik olarak eşitlenmeye çalışacak</item>
+    </string-array>
+    <string-array name="normandy_help_title">
+        <item>Huami sensörünün şarjı var mı?</item>
+        <item>Huami sensörü başka bir cihazla mı eşleştirildi?</item>
+        <item>"Bluetooth'u yeniden başlatmayı denediniz mi?"</item>
+        <item>Telefonunuzu yeniden başlatmayı denediniz mi?</item>
+        <item>Verilerimi sensör ile nasıl eşitleyebilirim?</item>
+    </string-array>
+    <string-array name="running_months">
+        <item>Oca</item>
+        <item>Şub</item>
+        <item>Mar</item>
+        <item>Nis</item>
+        <item>May</item>
+        <item>Haz</item>
+        <item>Tem</item>
+        <item>Ağu</item>
+        <item>Eyl</item>
+        <item>Eki</item>
+        <item>Kas</item>
+        <item>Ara</item>
+    </string-array>
+    <string-array name="shoes_help_tips">
+        <item>Huami sensörünü uzun bir süre kullanmazsanız uyku moduna geçer. Sensörü sallamayı deneyin.</item>
+        <item>Huami sensörünün pil ömrü 1 yıldır. Sensörü bir yıldan uzun süredir kullanıyorsanız, sensörün pili bitmiş olabilir.</item>
+        <item>Öncelikle Bluetooth aygıtını kapatın, ardından mevcut cihaz ile eşleştirin.</item>
+        <item>Telefonunuzu yeniden başlatmayı deneyin, ardından bilekliği eşleştirin.</item>
+        <item>"Bluetooth'u yeniden başlatmak problemi çözmüyorsa, telefonunuzu yeniden başlatmayı deneyin."</item>
+        <item>Mi Fit uygulamasını her açışınızda uygulama verileri otomatik olarak eşitlenmeye çalışacak.</item>
+    </string-array>
+    <string-array name="shoes_help_title">
+        <item>Huami sensörünü sallayın</item>
+        <item>Huami sensörü şarj edildi mi?</item>
+        <item>Huami sensörü başka bir cihazla mı eşleştirildi?</item>
+        <item>"Bluetooth'u yeniden başlatmayı deneyin"</item>
+        <item>Telefonunuzu yeniden başlatmayı deneyin</item>
+        <item>Ayakkabı verileri nasıl eşitleyebilirim?</item>
+    </string-array>
+    <string-array name="unbind_device_description">
+        <item>Mi Band</item>
+        <item>Mi Tartı</item>
+        <item>Ayakkabı</item>
+    </string-array>
+    <string-array name="wear_type">
+        <item>@string/left_hand</item>
+        <item>@string/right_hand</item>
+    </string-array>
+    <string-array name="wear_type_body">
+        <item>@string/left_hand</item>
+        <item>@string/right_hand</item>
+        <item>@string/body</item>
+    </string-array>
+    <string-array name="weeks">
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+        <item>Pazar</item>
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çrş</item>
+        <item>Prş</item>
+        <item>Cum</item>
+        <item>Cts</item>
+        <item>Paz</item>
+    </string-array>
+    <string-array name="weight_body_figures">
+        <item>Zayıf</item>
+        <item>Normal</item>
+        <item>Kilolu</item>
+        <item>Obez I</item>
+    </string-array>
+    <string-array name="weight_body_figures_for_child">
+        <item>Normal</item>
+        <item>Kilolu</item>
+        <item>Obez</item>
+    </string-array>
+    <string-array name="weight_body_figures_for_not_chinese">
+        <item>Zayıf</item>
+        <item>Normal</item>
+        <item>Kilolu</item>
+        <item>Obez I</item>
+        <item>Obez II</item>
+    </string-array>
+    <string-array name="weight_help_tips">
+        <item>Ağırlığınızın görüntülenip, görüntülemediğini kontrol etmek için tartının üzerine çıkabilirsiniz. Tartı üzerinde düşük pil ikonu görüntüleniyorsa, lütfen tartının pillerini değiştirin.</item>
+        <item>Tartının üzerine çıktığınızda tepki vermiyorsa, pillerin doğru bir şekilde takılıp takılmadığını kontrol edin.</item>
+        <item>"Bileklik şarj edildiği halde telefon bilekliği bulamıyorsa, telefonun Bluetooth'unu açıp kapatmayı deneyin."</item>
+        <item>"Bluetooth'u yeniden başlatmak problemi çözmüyorsa, telefonunuzu yeniden başlatmayı deneyin."</item>
+        <item>Mi Fit uygulamasını her açışınızda uygulama verileri otomatik olarak eşitlemeye çalışacak.</item>
+    </string-array>
+    <string-array name="weight_help_title">
+        <item>Yeteri kadar pil var mı?</item>
+        <item>Piller doğru şekilde takıldı mı?</item>
+        <item>"Bluetooth'u yeniden başlatmayı denediniz mi?"</item>
+        <item>Telefonunuzu yeniden başlatmayı denediniz mi?</item>
+        <item>Mi Tartı verileri nasıl eşitleyebilirim?</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" kg"</item>
+        <item>" Jin"</item>
+        <item>" lbs"</item>
+    </string-array>
+    <string-array name="timeline_type">
+        <item>Etkinlik</item>
+        <item>Yürüyüş</item>
+        <item>Yürü</item>
+        <item>Hızlı Git</item>
+        <item>Koş</item>
+        <item>Ayakta</item>
+        <item>Sessiz Oturuş</item>
+        <item>Ufak Vakalar</item>
+        <item>Bileklik takılı değil</item>
+        <item>Bileklik şarjda</item>
+        <item>Yaslandı</item>
+    </string-array>
+</resources>
