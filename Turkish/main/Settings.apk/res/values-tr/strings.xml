@@ -4653,8 +4653,8 @@ Bu cihazda kayıtlı parmakizleri kaldırılacak ve telefon kilidi açılmayacak
   <string name="unmount_inform_text">USB depolama bağlantısı kesilecek.</string>
   <string name="untitled_apn">İsimsiz</string>
   <string name="update_progress_for_updates">Güncelleniyor (%s)</string>
-  <string name="upload_debug_log_summary">Anonim kullanım verileri göndererek MIUI\'nin geliştirilmesine yardımcı olun</string>
-  <string name="upload_debug_log_title">Kullanıcı Deneyim Programı</string>
+  <string name="upload_debug_log_summary">Topladığımız bilgiler, kişisel verileri içerebilir. Bu sistemdeki sorunları bulmak ve analiz etmek için kullanılacak ve kişisel bilgileriniz asla sizi tanımlamak için kullanılmaz.</string>
+  <string name="upload_debug_log_title">Teşhis Verilerini Otomatik Olarak Gönder</string>
   <string name="usage_access">Kullanım Erişimi</string>
   <string name="usage_access_description">Kullanım Erişimi diğer uygulamaların şebeke, dil ayarları ve diğer detayların kullanım erişimine izin verir.</string>
   <string name="usage_access_title">Kullanım Erişimli Uygulamalar</string>
