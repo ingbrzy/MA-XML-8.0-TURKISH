@@ -22,6 +22,7 @@
   <string name="activity_main_refresh_fail">"Ağa bağlanamadı"</string>
   <string name="activity_main_time_format">dd.MM</string>
   <string name="activity_main_update_time">Güncelleme: %1$s</string>
+  <string name="activity_main_update_time_expire">Veri süresi doldu</string>
   <string name="activity_main_update_time_right_now">Şimdi</string>
   <string name="activity_weathermain_locationg">Yer saptanıyor...</string>
   <string name="activity_weathermain_locationg_error">"Konum bulunamadı"</string>
