@@ -651,6 +651,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="keywords_networkassistant_4">Bağlantı;İnternet;Test</string>
   <string name="keywords_permcenter">Otomatik Başlat;İzinler;ROOT;Konum;Kişilere Erişim</string>
   <string name="keywords_powercenter">Pili Koru;Isınma;Aç;Kapat;Pil</string>
+  <string name="keywords_powercenter_powerrank">Pil Kullanımı</string>
   <string name="keywords_securitycenter">Güvenlik;Denetle;Tara</string>
   <string name="keywords_securitycenter_settings">Pil Tasarrufu;İzinler;Kara Liste;Veri Kullanımı;Kalibre Veri Planı;Ağı Test Et;Uygulama Kilidi;Pili Koru;Isınma;Aç;Kapat;Otomatik Başlat;ROOT;Konum;Kişilere Erişim;Engelle;Kara Liste;Akıllı Kara Liste;Sahtekârlık;Pazarlama;Ajanslar;Veri;Trafik;Veri Tarifesi;Bağlantı;İnternet;Test;Şifre;Gizlilik;Erişim;Koruma</string>
   <string name="kilobyteShort">KB</string>
@@ -889,6 +890,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="notify_weekly_traffic_title_for_slotnum">Bu hafta %2$s\'dan %1$s kullanıldı</string>
   <string name="ok">Tamam</string>
   <string name="ok_button">Tamam</string>
+  <string name="old_sdk_deny_warning">"Uygulama en son Android izin gereksinimleri ile uyumlu değildir. Reddedilen izinler bu uygulamanın çalışma biçimini etkileyebilir."</string>
   <string name="online_chat">Sohbet</string>
   <string name="online_read">Yenilikler</string>
   <string name="open">Aç</string>
@@ -960,6 +962,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="path_networkassistant_4">Sistem Uygulamaları/Güvenlik/Ağ Yardımcısı/Ağı Testi</string>
   <string name="path_permcenter">Sistem Uygulamaları/Güvenlik/İzinler</string>
   <string name="path_powercenter">Sistem Uygulamaları/Güvenlik/Pil Tasarrufu</string>
+  <string name="path_powercenter_powerrank">Pil &amp; Performans/Pil Kullanımı</string>
+  <string name="resource_powercenter_powerrank">Pil &amp; Performans</string>
   <string name="path_securitycenter">Sistem Uygulamaları/Güvenlik</string>
   <string name="path_securitycenter_settings">Sistem Uygulamaları/Güvenlik</string>
   <string name="pay_charge">Ek veri satınal</string>
@@ -1924,9 +1928,9 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Açık Kalma Zamanı:</string>
   <string name="usage_type_wifi_running">WLAN Açık:</string>
-  <string name="usb_adb_input_apply_step_1">Cihazınız USB üzerinden bağlı olduğunda bilgisayarınız sizden habersiz ayarları ve verilen izinlerini değiştirmek mümkün olacak</string>
-  <string name="usb_adb_input_apply_step_2">Bu tür hesaplar veya mesajlar özel bilgilerin sızmasına yol açabilir</string>
-  <string name="usb_adb_input_apply_step_3">Verilecek bu izinler bazı güvenlik riskleri doğurabilir. İzin verilsin mi?</string>
+  <string name="usb_adb_input_apply_step_1">Bu sızıntı özel bilgi kaybına neden olabilir. Eğer geliştirici değilseniz bunu kullanmanızı tavsiye etmiyoruz.</string>
+  <string name="usb_adb_input_apply_step_2">Geliştiriciler USB ile alakalı ayarları, ayarları, izinleri yönetebilir.</string>
+  <string name="usb_adb_input_apply_step_3">İzin verilsin mi?</string>
   <string name="usb_install_desc">Bu uygulama USB yoluyla yüklensin mi?</string>
   <string name="usbsharenet_exception_summary">"Paylaşılan USB bağlantısını kullanarak internete bağlanamıyor. Cihazınızın USB bağlantısını kontrol edin ve Mi PC Suite\'i yeniden başlatın."</string>
   <string name="usbsharenet_exception_title">USB üzerinden internet paylaşım testi</string>
