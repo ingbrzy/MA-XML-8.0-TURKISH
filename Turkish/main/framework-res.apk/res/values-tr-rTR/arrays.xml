@@ -1,26 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="fingerprint_acquired_vendor">
-        <item>Yeniden deneyin</item>
-        <item></item>
-        <item></item>
-        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
-        <item></item>
-        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
-        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
-        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
-        <item>"Çok hızlı! Parmakizi tanınamadı"</item>
-        <item>Parmağınızı biraz kaydırıp, yeniden deneyin</item>
-        <item>Parmağınızı kaldırın ve tekrar tarayıcıya koyun</item>
-        <item>Parmağınızı tarayıcının üzerinde biraz daha fazla tutun</item>
-        <item></item>
-        <item></item>
-    </string-array>
     <string-array name="emailAddressTypes">
         <item>Ev</item>
         <item>İş</item>
@@ -53,6 +32,33 @@
         <item>Özel</item>
     </string-array>
     <string-array name="postalAddressTypes">
+        <item>Ev</item>
+        <item>İş</item>
+        <item>Diğer</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Yeniden deneyin</item>
+        <item></item>
+        <item>Sensör üzerine parmağınızı koyun</item>
+        <item>Parmakizi tarayıcısını tamamen kapatın ve basınç uygulayın</item>
+        <item></item>
+        <item>Parmakizi tarayıcısını tamamen kapatın ve basınç uygulayın</item>
+        <item>Parmakizi tarayıcısını tamamen kapatın ve basınç uygulayın</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
+        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
+        <item>Çok hızlı! Parmakizi tanınamadı</item>
+        <item>Parmağınızı biraz kaydırıp, yeniden deneyin</item>
+        <item>Parmağınızı kaldırın ve tekrar tarayıcıya koyun</item>
+        <item>Parmağınızı tarayıcının üzerinde biraz daha fazla tutun</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="imAddressTypes">
         <item>Ev</item>
         <item>İş</item>
         <item>Diğer</item>
@@ -106,14 +112,14 @@
         <item>Mikrofonun sesini kapatmak için çalışılıyor</item>
         <item>Pencereyi ısındırmaya çalışıyor?!</item>
         <item>Medya projesi için çalışıyor</item>
-        <item>VPN\'i etkinleştirmek için çalışılıyor</item>
-        <item>WLAN\'i açıp-kapatmak için çalışıyor</item>
-        <item>Bluetooth\'u açıp-kapatmak için çalışıyor</item>
+        <item>"VPN'i etkinleştirmek için çalışılıyor"</item>
+        <item>"WLAN'i açıp-kapatmak için çalışıyor"</item>
+        <item>"Bluetooth'u açıp-kapatmak için çalışıyor"</item>
         <item>MMS göndermeye çalışıyor</item>
         <item>MMS okumaya çalışıyor</item>
         <item>MMS yazmaya çalışıyor</item>
         <item>Önyükleme sırasında başlatmak için çalışıyor</item>
-        <item>NFC\'yi açıp-kapatmaya çalışıyor</item>
+        <item>"NFC'yi açıp-kapatmaya çalışıyor"</item>
         <item>SMS silmeye çalışıyor</item>
         <item>MMS silmeye çalışıyor</item>
         <item>Kişileri silmek için çalışıyor</item>
