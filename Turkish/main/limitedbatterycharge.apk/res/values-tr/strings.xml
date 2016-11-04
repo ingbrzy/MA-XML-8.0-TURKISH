@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Limitli Pil Seviyesi Testi</string>
-    <string name="limited_battery_charge_title">Limitli pil şarjı</string>
-    <string name="limited_battery_charge_level">Pil Seviyesi(%1$s%%)...</string>
-    <string name="limited_battery_charge_enter_hint1">Pil %80 üzerinde olduğunda şarj etmeyin，pilin bitmesini bekleyin</string>
-    <string name="limited_battery_charge_enter_hint2">Pil seviyesi standartlara ulaştı!</string>
-    <string name="limited_battery_charge_status_pass">GEÇTİ</string>
-    <string name="limited_battery_charge_status_fail">BAŞARISIZ</string>
-    <string name="limited_battery_charge_exit_hint">Limitli pil şarjından çıkılsın mı?</string>
-    <string name="none" />
-    <string name="exit">Çık</string>
+  <string name="app_name">Limitli Pil Seviyesi Testi</string>
+  <string name="exit">Çık</string>
+  <string name="limited_battery_charge_enter_hint1">Pil %80 üzerinde olduğunda şarj etmeyin，pilin bitmesini bekleyin</string>
+  <string name="limited_battery_charge_enter_hint2">Pil seviyesi standartlara ulaştı!</string>
+  <string name="limited_battery_charge_exit_hint">Limitli pil şarjından çıkılsın mı?</string>
+  <string name="limited_battery_charge_level">Pil Seviyesi(%1$s%%)...</string>
+  <string name="limited_battery_charge_status_fail">BAŞARISIZ</string>
+  <string name="limited_battery_charge_status_pass">GEÇTİ</string>
+  <string name="limited_battery_charge_title">Limitli pil şarjı</string>
+  <string name="none"/>
 </resources>

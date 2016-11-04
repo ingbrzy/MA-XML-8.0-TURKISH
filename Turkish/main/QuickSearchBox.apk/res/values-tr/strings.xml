@@ -4,12 +4,12 @@
   <string name="application_desc">Uygulama</string>
   <string name="applications_search_label">Uygulamalar</string>
   <string name="apps_search_activity"/>
+  <string name="baidu_search_url">https://www.google.tr/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_default">https://www.google.com.tr/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.com.tr/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_launcher">https://www.google.com.tr/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://www.google.com.tr/search?q=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
-  <string name="baidu_search_url">https://www.google.tr/search?q=%s&amp;tn=ins</string>
   <string name="clear_history">Geçmişi temizle</string>
   <string name="clear_shortcuts">Kısayolları temizle</string>
   <string name="clear_shortcuts_agree">Kısayolları temizle</string>

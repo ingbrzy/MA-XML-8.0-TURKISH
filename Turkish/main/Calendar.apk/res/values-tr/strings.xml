@@ -22,9 +22,9 @@
   <string name="account_and_calendar">Hesaplar ve Takvim</string>
   <string name="account_and_calendar_to_display">Görüntülenecek Takvimler</string>
   <string name="accounts">Hesaplar ve Eşitleme</string>
-  <string name="acessibility_recurrence_choose_end_date_description">Bitiş tarihini değiştir</string>
   <string name="acct_not_synced">"Takvimleriniz güncel olmayabilir, bu hesap eşitlenmemiş"</string>
   <string name="acessibility_cal_notification">Takvim bildirimi</string>
+  <string name="acessibility_recurrence_choose_end_date_description">Bitiş tarihini değiştir</string>
   <string name="acessibility_selected_marker_description">Seçili etkinlik</string>
   <string name="acessibility_snooze_notification">Bildirimi ertele</string>
   <string name="action_label">Geri</string>
@@ -162,8 +162,8 @@
   <string name="date_pattern_mm_dd">d M</string>
   <string name="date_pattern_mm_dd_kk_mm">d M HH:mm</string>
   <string name="date_pattern_yyyy_mm_dd_kk_mm">dd MM yyy HH:mm</string>
-  <string name="day_picker_description">Ayı günlük ızgarala</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
+  <string name="day_picker_description">Ayı günlük ızgarala</string>
   <string name="day_view">Gün</string>
   <string name="day_view_new_event_hint">Yeni Etkinlik</string>
   <string name="default_reminder_mode">Hatırlatıcılar</string>
@@ -282,10 +282,10 @@
   <string name="horoscope_card_love">Aşk：</string>
   <string name="horoscope_card_working">Kariyer Kismeti：</string>
   <string name="horoscope_select_activity_label">Takımyıldızını Seçin</string>
+  <string name="hour_picker_description">Saat dairesel slayt olarak</string>
   <string name="huangli_bad_type">Kaçın</string>
   <string name="huangli_good_type">Gerekli</string>
   <string name="huangli_label"/>
-  <string name="hour_picker_description">Saat dairesel slayt olarak</string>
   <string name="image_content">Resim</string>
   <string name="insert_event_dialog_btn_negative">Hayır</string>
   <string name="insert_event_dialog_btn_positive">Evet</string>
@@ -293,8 +293,8 @@
   <string name="insert_event_dialog_title">Dikkat</string>
   <string name="insert_event_toast_add_failed">Eklenemedi</string>
   <string name="insert_event_toast_add_success">Etkinlik oluşturuldu</string>
-  <string name="joke_card_click_toast">Şakaları kopyalamak için uzunca basın</string>
   <string name="item_is_selected">%1$s seçildi</string>
+  <string name="joke_card_click_toast">Şakaları kopyalamak için uzunca basın</string>
   <string name="joke_card_icon_text">|  %1$s gülüyor</string>
   <string name="joke_card_long_click_toast">Kopyalandı, uzunca basıp kutuya yapıştırın</string>
   <string name="joke_card_paste_suffix">【Redmi Takvimi】</string>
@@ -435,6 +435,9 @@
   <string name="quick_response_settings_summary">Misafirlere gönderilecek E-Postalara verilecek varsayılan cevapları düzenle</string>
   <string name="quick_response_settings_title">Hızlı Cevapları Düzenle</string>
   <string name="recommend_card_add">Abone ol</string>
+  <string name="recommend_card_adding">Abonelikler</string>
+  <string name="recommend_card_close_hint">Benzer abonelikleri azalt</string>
+  <string name="recommend_card_from">Abonelikten：</string>
   <string name="recurrence_dialog_title">Tekrarla</string>
   <string name="recurrence_dialog_title_never">Abone Ol</string>
   <string name="recurrence_end_continously">Daima</string>
@@ -442,9 +445,6 @@
   <string name="recurrence_end_date">%s için</string>
   <string name="recurrence_end_date_label">Tarihe kadar</string>
   <string name="recurrence_month_pattern_by_day">Aylık aynı gün</string>
-  <string name="recommend_card_adding">Abonelikler</string>
-  <string name="recommend_card_close_hint">Benzer abonelikleri azalt</string>
-  <string name="recommend_card_from">Abonelikten：</string>
   <string name="refresh">Yenile</string>
   <string name="reminders_label">Hatırlatıcı ekle</string>
   <string name="repeat_activity_label">Tekrarla</string>
@@ -475,10 +475,10 @@
   <string name="response_maybe">Belki</string>
   <string name="response_no">Hayır</string>
   <string name="response_yes">Evet</string>
+  <string name="rest_day_indication">: )</string>
   <string name="rsvp_accepted">Kabul</string>
   <string name="rsvp_declined">Reddet</string>
   <string name="rsvp_tentative">Belki</string>
-  <string name="rest_day_indication">: )</string>
   <string name="save_label">Tamam</string>
   <string name="saving_event">Kaydedildi</string>
   <string name="saving_event_with_guest">Güncellemeler gönderilecek</string>
@@ -528,6 +528,8 @@
   <string name="str_from_mon_to_fri">Ptesi - Cuma</string>
   <string name="str_hour_of_everyday">Her gün: %s</string>
   <string name="str_hour_of_next">Bir Sonraki: %s</string>
+  <string name="subscribe">Abone</string>
+  <string name="subscribe_all">Tüm Abonelikler</string>
   <string name="subscribe_card">Abone Ol</string>
   <string name="subscribe_card_more_default_text">Fazlası</string>
   <string name="subscribe_card_recommend_default_text">Abonelik Tavsiyesi</string>
@@ -545,8 +547,6 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="subscribe_channel_subscribing">Abonelik</string>
   <string name="subscribe_channel_title">Kanala Abone Ol</string>
   <string name="subscribe_description_card_default_title">Abone Profili</string>
-  <string name="subscribe">Abone</string>
-  <string name="subscribe_all">Tüm Abonelikler</string>
   <string name="subscribe_description_card_more_cut">Azalt</string>
   <string name="subscribe_description_card_more_launch">Çoğalt</string>
   <string name="subscribe_detail_title">Abonelik Detayları</string>

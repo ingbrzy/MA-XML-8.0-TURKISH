@@ -114,7 +114,7 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="bugreport_title">Hata raporu al</string>
   <string name="byteShort">B</string>
   <string name="cancel">İptal</string>
-  <string name="candidates_style"><u>Aday</u></string>
+  <string name="candidates_style">&lt;u&gt;Aday&lt;/u&gt;</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Uygulamanın erişilebilirliğini artırmak için komut dosyaları yüklenebilir.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Kredi kartı ve şifre gibi kişisel bilgiler içerir.</string>
   <string name="capability_desc_canRequestTouchExploration">Dokunulan öğeler sesli olarak okunur ve ekranı keşfetmek için hareketler kullanılabilir.</string>
@@ -340,11 +340,11 @@ kullanarak numarayı ara"</string>
   <string name="global_action_silent_mode_off_status">Ses Açık</string>
   <string name="global_action_silent_mode_on_status">Ses Kapalı</string>
   <string name="global_action_toggle_silent_mode">Sessiz Mod</string>
+  <string name="global_action_voice_assist">Ses Yardımcısı</string>
   <string name="global_actions">Telefon Seçenekleri</string>
   <string name="global_actions_airplane_mode_off_status">Uçak Modu KAPALI</string>
   <string name="global_actions_airplane_mode_on_status">Uçak Modu AÇIK</string>
   <string name="global_actions_toggle_airplane_mode">Uçak Modu</string>
-  <string name="global_action_voice_assist">Ses Yardımcısı</string>
   <string name="gpsNotifMessage">%1$s tarafından istendi (%2$s)</string>
   <string name="gpsNotifTicker">%s kullanıcısından gelen konum isteği</string>
   <string name="gpsNotifTitle">Konum İsteği</string>
@@ -479,7 +479,7 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="kg_invalid_sim_pin_hint">4-8 rakamdan oluşan bir PIN girin.</string>
   <string name="kg_invalid_sim_puk_hint">PUK kodu 8 basamaklı bir sayı olmalıdır.</string>
   <string name="kg_login_account_recovery_hint">"Kullanıcı adınızı veya şifrenizi mi unuttunuz?
-Şu adrese gidin: "<b>google.com/accounts/recovery</b>.</string>
+Şu adrese gidin: "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_login_checking_password">Hesap denetleniyor…</string>
   <string name="kg_login_instructions">Kilidi açmak için Google hesabınızla oturum açın.</string>
   <string name="kg_login_invalid_input">Geçersiz kullanıcı adı veya şifre.</string>
@@ -780,8 +780,8 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="permdesc_accessContentProvidersExternally">Tutucu içerik sağlayıcılara erişmenizi sağlar. Normal uygulamalar buna ihtiyaç duymaz.</string>
   <string name="permdesc_accessDrmCertificates">Bir uygulamanın DRM sertifikaları için temel hazırlık yapmasına ve bunları kullanmasına izin verir. Normal uygulamalar için hiçbir zaman gerekmez.</string>
   <string name="permdesc_accessFineLocation">Uygulamaya, Küresel Konumlandırma Sistemi (GPS) veya baz istasyonları ve Kablosuz bağlantı gibi ağ konum kaynaklarını kullanarak konumunuzu hassas bir şekilde belirleme izni verir. Uygulamaların bu konum hizmetlerini kullanabilmesi için bunların cihazınızda açık ve kullanılabilir olması gerekir. Uygulamalar bulunduğunuz yeri belirlemek için bu izni kullanabilirler ve bu kullanım fazladan pil tüketimine neden olabilir.</string>
-  <string name="permdesc_accessInputFlinger">Uygulamanın düşük seviyeli giriş parmak işlevlerini kullanmanıza olanak sağlar</string>
   <string name="permdesc_accessImsCallService">Uygulamanın, sizin müdahaleniz olmadan telefon etmek için IMS hizmetini kullanmasına izin verir.</string>
+  <string name="permdesc_accessInputFlinger">Uygulamanın düşük seviyeli giriş parmak işlevlerini kullanmanıza olanak sağlar</string>
   <string name="permdesc_accessLocationExtraCommands">Uygulamanın, ekstra konum sağlayıcı komutlarına erişmesine izin verir. Bu izin, uygulamanın GPS veya diğer konum kaynaklarının çalışmasını kesmesine olanak sağlayabilir.</string>
   <string name="permdesc_accessMockLocation">Test için sahte konum kaynakları oluşturma veya yeni bir konum sağlayıcı yükler. Bu GPS veya konum sağlayıcıları konum ve/veya durum gibi diğer konum kaynakları tarafından döndürülen değeri geçersiz kılmak için uygulama sağlar.</string>
   <string name="permdesc_accessMtp">Çekirdekteki MTP sürücüsüne erişim MTP USB protokolünü uygulamak için izin verir</string>
@@ -888,8 +888,8 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="permdesc_writeSyncSettings">Uygulamaya bir hesaba ait senkronizasyon ayarlarını değiştirme izni verir. Örneğin, bu izne sahip bir uygulama Kişiler uygulamasının bir hesapla senkronize edilmesini etkinleştirebilir.</string>
   <string name="permgroupdesc_calendar">Takviminize erişir</string>
   <string name="permgroupdesc_camera">Fotoğraf çeker ve video kaydeder</string>
-  <string name="permgroupdesc_costMoney">Ücretli İşlemler</string>
   <string name="permgroupdesc_contacts">Kişilerinize erişir</string>
+  <string name="permgroupdesc_costMoney">Ücretli İşlemler</string>
   <string name="permgroupdesc_developmentTools">Uygulama geliştiricileri için özellik sağlar</string>
   <string name="permgroupdesc_deviceAlarms">Alarmlar ayarlar</string>
   <string name="permgroupdesc_dictionary">Sözlüğünüzdeki kelimeleri okur</string>

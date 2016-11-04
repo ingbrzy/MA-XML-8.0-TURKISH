@@ -120,8 +120,8 @@
   <string name="provision_title">Bir tema seçin</string>
   <string name="purchased_list">Satın Alınan</string>
   <string name="purchased_list_current">MIUI 8</string>
-  <string name="purchased_list_legacy">Eski Temalar</string>
   <string name="purchased_list_format">%1$s satın alındı</string>
+  <string name="purchased_list_legacy">Eski Temalar</string>
   <string name="reload">Yeniden dene</string>
   <string name="resource_account_abnormal_state">Hesap hatası. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="resource_account_fail_to_add">"Hesap eklenemedi"</string>
@@ -238,7 +238,7 @@
   <string name="resource_menu_refresh">Yenile</string>
   <string name="resource_mute">Yok</string>
   <string name="resource_my">Çevrimdışı</string>
-  <string name="resource_network_diagnostics"><u>Ağ Teşhisi</u></string>
+  <string name="resource_network_diagnostics">&lt;u&gt;A&amp;#287; Te&amp;#351;hisi&lt;/u&gt;</string>
   <string name="resource_no_match_app">Bu eylemi gerçekleştirecek uygulama bulunamadı.</string>
   <string name="resource_no_network_text">"Ağ bağlantısı yok."</string>
   <string name="resource_no_result">"Sonuç bulunamadı"</string>
@@ -321,23 +321,23 @@
   <string name="resource_trial_hours">Deneme: %1$ds</string>
   <string name="resource_trial_hours_minutes">Deneme: %1$ds %2$ddak</string>
   <string name="resource_trial_minutes">Deneme: %1$ddak</string>
-  <string name="resource_waiting_pause">Durdur</string>
   <string name="resource_unknow_error">Bilinmeyen hata oluştu</string>
   <string name="resource_update">Güncelle</string>
   <string name="resource_user_know">Tamam</string>
   <string name="resource_waiting_download">Bekleniyor</string>
+  <string name="resource_waiting_pause">Durdur</string>
   <string name="sdcard_not_mounted_dialog_message">"Şimdi SD kart ekleyin.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">SD Kart tespit edilemedi</string>
   <string name="search_hint_header_text">Sözler</string>
   <string name="selected_resource_file_invalid">"Seçilen kaynak dosyası kullanılamıyor"</string>
   <string name="settings">Ayarlar</string>
+  <string name="short_ringtone_resource">Kısa</string>
+  <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
   <string name="theme_apply_audio_dialog_item_notification">Bildirim</string>
   <string name="theme_apply_audio_dialog_item_ringtone">Zil Sesi</string>
-  <string name="short_ringtone_resource">Kısa</string>
   <string name="theme_apply_failured">"Kilit ekran duvar kağıdı uygulamıyor"</string>
   <string name="theme_apply_success">Kilit ekranına uygulandı</string>
-  <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
   <string name="theme_applying">Uygulanıyor…</string>
   <string name="theme_batch_update_all">Tümünü Güncelle</string>
   <string name="theme_batch_update_dlg_content">%1$s ve diğer %2$d tema güncellensin mi?</string>
@@ -417,8 +417,8 @@
   <string name="title_my_audio_resource">Zil Seslerim</string>
   <string name="title_my_wallpaper_resource">Duvar Kağıtlarım</string>
   <string name="title_system_audio_resource">Zil Sesleri</string>
-  <string name="title_system_wallpaper_resource">Duvar Kağıtları</string>
   <string name="title_system_resource">İndirilen</string>
+  <string name="title_system_wallpaper_resource">Duvar Kağıtları</string>
   <string name="to_activate_the_account">Şimdi Mi Hesabını etkinleştir</string>
   <string name="wallpaper_crop">Kırp</string>
   <string name="wallpaper_decoded_error">"Duvar Kağıdı yüklenemiyor"</string>

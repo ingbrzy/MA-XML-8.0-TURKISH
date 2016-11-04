@@ -31,9 +31,9 @@
   <string name="app_not_found_dlg_title">Uygulama bulunamadı</string>
   <string name="app_permissions">Uygulama izinleri</string>
   <string name="app_permissions_breadcrumb">Uygulamalar</string>
-  <string name="app_permissions_group_summary">%2$d -> %1$d uygulamaya izin verildi</string>
+  <string name="app_permissions_group_summary">%2$d -&gt; %1$d uygulamaya izin verildi</string>
   <string name="cancel">İptal</string>
-  <string name="current_permission_template">%2$s -> %1$s </string>
+  <string name="current_permission_template">%2$s -&gt; %1$s </string>
   <string name="default_permission_description">Bilinmeyen bir eylemi gerçekleşti</string>
   <string name="devicePerms">Cihaz erişimi</string>
   <string name="dlg_app_replacement_statement">"Bu uygulama, daha önce yüklediğiniz bir uygulamanın yerine geçecek. 

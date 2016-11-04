@@ -26,8 +26,8 @@
   <string name="ac_mode_fan">Yön</string>
   <string name="ac_mode_hot">Isıtma</string>
   <string name="ac_set_timer_title_text">Klima Zamanlayıcı düğmesine basarak seçin</string>
-  <string name="activity_stb_list_title">Uydu Alıcısını Seçin</string>
   <string name="action_settings">Ayarlar</string>
+  <string name="activity_stb_list_title">Uydu Alıcısını Seçin</string>
   <string name="actor_intro_title_text">Oyuncular</string>
   <string name="add">Ekle</string>
   <string name="add_control">Uzaktan Kumanda Ekle</string>
@@ -268,8 +268,8 @@
   <string name="epg_program_updated_to">%1$d bölümü oynat</string>
   <string name="epg_search_box_hint">Görmek istediğiniz TV programlarını arayın</string>
   <string name="epg_search_history">Geçmişi Ara</string>
-  <string name="epg_search_hot_keyword">Popüler aramalar</string>
   <string name="epg_search_hot_channel">En iyi kanalları ara</string>
+  <string name="epg_search_hot_keyword">Popüler aramalar</string>
   <string name="epg_search_hot_program">En iyi programları ara</string>
   <string name="epg_status_playing_text">Oynatılıyor…</string>
   <string name="epg_status_playing_text_v5">Canlı</string>
@@ -664,7 +664,7 @@ Hesabınızı etkinleştirmek için,
   <string name="passport_phone_num_hint_text">Telefon Numarası</string>
   <string name="passport_prev">Geri</string>
   <string name="passport_privacy_policy">Gizlilik Politikası</string>
-  <string name="passport_provision_skip_login"><u>Bu adımı atla</u></string>
+  <string name="passport_provision_skip_login">&lt;u&gt;Bu ad&amp;#305;m&amp;#305; atla&lt;/u&gt;</string>
   <string name="passport_quick_login_dialog_step2_title">2 adımlı doğrulama</string>
   <string name="passport_quick_login_dialog_title">Şifreyi doğrula</string>
   <string name="passport_quick_login_step2_title">2 adımlı doğrulama</string>
@@ -724,7 +724,7 @@ Hesabınızı etkinleştirmek için,
   <string name="passport_verification_failed">Kimlik doğrulama başarısız oldu</string>
   <string name="passport_verify">Doğrula</string>
   <string name="passport_wait_for_sms_prompt">"Şimdi baştan başlanılsın mı? Telefon operatörünün şebekesi kapsama alanı içinde olduğunda doğrulama mesajlarının teslim edilmesi 10 dakika kadar sürebilir."</string>
-  <string name="passport_welcome_skip_login"><u>Bu adımı atla</u></string>
+  <string name="passport_welcome_skip_login">&lt;u&gt;Bu ad&amp;#305;m&amp;#305; atla&lt;/u&gt;</string>
   <string name="passport_wrong_captcha">Girdiğiniz kod yanlış</string>
   <string name="passport_wrong_password">Şifre yanlış</string>
   <string name="passport_wrong_phone_number_format">Girdiğiniz telefon numarasının biçimi geçersiz</string>

@@ -30,11 +30,11 @@
   <string name="app_name_miuiringtone">Zil Sesi</string>
   <string name="app_name_miuiwallpaper">Duvar Kağıdı</string>
   <string name="app_name_screenshot">Ekran Görüntüleri</string>
+  <string name="archive_send_to">Gönder…</string>
   <string name="auto_play">WLAN ağına bağlandığında otomatik olarak oynat</string>
   <string name="auto_play_later">Sonra</string>
   <string name="auto_play_now">Aç</string>
   <string name="auto_play_toast">Videolar otomatik olarak oynatılır. Bunu ayarlardan değiştirebilirsiniz.</string>
-  <string name="archive_send_to">Gönder…</string>
   <string name="background">Gizle</string>
   <string name="backup_cancel">"Yedekleme!"</string>
   <string name="backup_checkbox_msg">Otomatik olarak yedekle</string>
@@ -92,6 +92,8 @@
   <string name="change_sticker">Başka bir etiket seçin</string>
   <string name="choose_report_comment_reason">Bu yorumu neden raporluyorsunuz?</string>
   <string name="choose_report_reason">Neden bu video klibi raporluyorsun?</string>
+  <string name="choose_send_type">Kullanılan gönderiliyor...</string>
+  <string name="choose_upload_location">KuaiPan dizinine yükle</string>
   <string name="claim_no_video">Hiçbir video yok</string>
   <string name="claim_operation_too_frequently">Fazla girişim var! Sonra yeniden deneyin.</string>
   <string name="claim_remind_dialog_cancel">Diğer videoları görüntüle</string>
@@ -106,8 +108,6 @@
   <string name="claim_video_over">Bugün çok iddia edildi, yarın geri gelin!</string>
   <string name="claim_video_success">Başarıyla hak iddia edildi</string>
   <string name="claim_video_unlogin">Hak iddialı videolara oturum açın</string>
-  <string name="choose_send_type">Kullanılan gönderiliyor...</string>
-  <string name="choose_upload_location">KuaiPan dizinine yükle</string>
   <string name="clean_hint">Alan boşaltmak için dokunun</string>
   <string name="clean_message"> %1$s alan açıldı.</string>
   <string name="clean_title">Çöp kutusundaki 30 günden eski dosyaları sil</string>
@@ -249,10 +249,10 @@
   <string name="folder_exist">Klasör zaten mevcut.</string>
   <string name="folder_name_empty">Dosya adı boş olamaz</string>
   <string name="folder_name_illegal">Geçersiz klasör adı</string>
+  <string name="folder_name_invalid">"Klasör adları şu karakterleri içeremez: /\\:*?&lt;&gt;"</string>
   <string name="follow_fail">"Takip edilmiyor, sonra deneyin"</string>
   <string name="follow_tip_1">Daha fazla video izlemek için beni takip edin</string>
   <string name="follow_tip_2">Daha fazla video izlemek için beni takip edin</string>
-  <string name="folder_name_invalid">"Klasör adları şu karakterleri içeremez: /\\:*?&lt;&gt;"</string>
   <string name="force_touch_clean">Temizle</string>
   <string name="force_touch_search">Dosyaları ara</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Dokun&lt;/a&gt;ve çöp kutusuna git</string>
@@ -298,7 +298,6 @@
   <string name="join_activity">Katılımcı</string>
   <string name="just_now">Şimdi</string>
   <string name="kilobyteShort">KB</string>
-  <string name="kuaipan_label">Kuaipan</string>
   <string name="kp_category_all">Kategori</string>
   <string name="kp_category_doc">Word</string>
   <string name="kp_category_excel">Excel</string>
@@ -312,6 +311,7 @@
   <string name="kuaipan_delete_guide_des">Rehber silinsin mi?</string>
   <string name="kuaipan_delete_success">Fotoğraf silindi</string>
   <string name="kuaipan_info">KuaiPan dosyalar</string>
+  <string name="kuaipan_label">Kuaipan</string>
   <string name="kuaipan_logged_in">Oturum açıldı</string>
   <string name="kuaipan_not_logged_in">Oturum açılmadı</string>
   <string name="kuaipan_over_space">Yeterli depolama alanı yok.</string>
@@ -739,9 +739,6 @@ ve yenilerini kaçırmayın!"</string>
   <string name="setting">Ayarlar</string>
   <string name="setting_account_bind">Hesap ekle</string>
   <string name="setting_message_notify">Bildirimler</string>
-  <string name="share_success">Başarıyla paylaşıldı</string>
-  <string name="share_tip_1">Paylaşım için teşekkürler, diğer videolar için beni takip edin</string>
-  <string name="share_tip_2">Paylaşım için teşekkürler, diğer videolar için beni takip edin</string>
   <string name="share_box">Paylaşıldı</string>
   <string name="share_box_receive">Alınan</string>
   <string name="share_box_send">Gönder</string>
@@ -749,6 +746,9 @@ ve yenilerini kaçırmayın!"</string>
   <string name="share_later">İptal</string>
   <string name="share_link_failed">"Bağlantı linki oluşturulamıyor."</string>
   <string name="share_now">Paylaş</string>
+  <string name="share_success">Başarıyla paylaşıldı</string>
+  <string name="share_tip_1">Paylaşım için teşekkürler, diğer videolar için beni takip edin</string>
+  <string name="share_tip_2">Paylaşım için teşekkürler, diğer videolar için beni takip edin</string>
   <string name="share_title_1">Güzel etiket paketi bulundu!</string>
   <string name="share_to">Paylaş…</string>
   <string name="share_youliao1">Daha fazla bölümü izlemek için güncelle.</string>
@@ -770,9 +770,9 @@ ve yenilerini kaçırmayın!"</string>
 Depolama için %1$s boş alan eklendi."</string>
   <string name="slashes">/</string>
   <string name="smb_loading">Biraz bekleyin...</string>
+  <string name="sms_platform">SMS</string>
   <string name="sort_size_asc">Büyükten daha küçük</string>
   <string name="sort_size_desc">Küçükten daha büyük</string>
-  <string name="sms_platform">SMS</string>
   <string name="space_info">KuaiPan: %1$s mevcut, Toplam: %2$s</string>
   <string name="space_usage">Kullanılan Alan:</string>
   <string name="start_server">Sunucuyu başlat</string>
@@ -790,9 +790,9 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="storage_usb">USB Depolama</string>
   <string name="storage_usb_description">USB Depolama</string>
   <string name="storage_warning">"Harici depolama kullanılamıyor"</string>
+  <string name="subtitle_report_video">Şurdan: %1$s</string>
   <string name="swap_tip_1">Sola veya sağa kaydırın</string>
   <string name="swap_tip_2">Diğer videoları izlemek için...</string>
-  <string name="subtitle_report_video">Şurdan: %1$s</string>
   <string name="symbol_for_storage_tip">:</string>
   <string name="sys_size_enable">" mevcut"</string>
   <string name="system_alert">İnternet bağlantısı</string>
@@ -805,12 +805,12 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="tab_common_app">Uygulama &amp; Dizinler</string>
   <string name="tab_discover">Keşfet</string>
   <string name="tab_expand">Genişlet</string>
-  <string name="tab_homepage">Ana Sayfa</string>
   <string name="tab_follow">İzleniyor:</string>
+  <string name="tab_homepage">Ana Sayfa</string>
   <string name="tab_hottest_video">Popüler</string>
   <string name="tab_local">Yerel</string>
-  <string name="tab_mine">Profil</string>
   <string name="tab_local_video">Çevrimdışı</string>
+  <string name="tab_mine">Profil</string>
   <string name="tab_more">Fazlası</string>
   <string name="tab_newest_video">Yeni</string>
   <string name="tab_path">DİZİNLER</string>
@@ -888,15 +888,15 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="upload_notification_success_content">"Diğer insanlar paylaşılan videoyu görmeden önce incelenelidir"</string>
   <string name="upload_notification_title">Video yükleniyor</string>
   <string name="upload_user_photo">Yükle</string>
+  <string name="upload_video">Videoyu Paylaş</string>
+  <string name="upload_video_dialog_message">"Videonuz doğrulandıktan sonra istenilen özelliğe kavuşur."</string>
+  <string name="upload_video_dialog_title">Video başarıyla paylaşıldı</string>
   <string name="upload_video_failed">"Gönderilemedi"</string>
   <string name="upload_video_failed_external_progress">"Gönderilemedi, başka bir tane deneyin"</string>
   <string name="upload_video_failed_progress">"Gönderilemedi, yeniden deneyin"</string>
-  <string name="upload_video">Videoyu Paylaş</string>
+  <string name="upload_video_forbidden">"Benzer videolar yüklenemiyor"</string>
   <string name="upload_video_success">Başarıyla gönderildi</string>
   <string name="upload_video_success_progress">Başarıyla gönderildi</string>
-  <string name="upload_video_dialog_message">"Videonuz doğrulandıktan sonra istenilen özelliğe kavuşur."</string>
-  <string name="upload_video_dialog_title">Video başarıyla paylaşıldı</string>
-  <string name="upload_video_forbidden">"Benzer videolar yüklenemiyor"</string>
   <string name="upload_video_tip">Bir seferde sadece bir videoya izin veriyoruz....</string>
   <string name="uploading">Yükleniyor</string>
   <string name="uploading_video">Video yükleniyor…</string>
@@ -1005,8 +1005,8 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="video_topic_hint">Ara</string>
   <string name="video_upload_btn">Sonraki</string>
   <string name="video_upload_btn_hint">MP4 videolar 3s~10dak kadar uzun olmalı</string>
-  <string name="video_upload_hint">Videoları göndererek daha fazla puan kazanın.</string>
   <string name="video_upload_btn_hint_span">"Video bulunamıyor mu?"</string>
+  <string name="video_upload_hint">Videoları göndererek daha fazla puan kazanın.</string>
   <string name="video_upload_item_more">Fazlası (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_kuaishou_hint">KuaiShou sitesine videoları göndererek hayranlarınızı arttırın.</string>

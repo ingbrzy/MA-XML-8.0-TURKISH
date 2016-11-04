@@ -173,15 +173,15 @@
   <string name="get_device_list_failed">"Cihaz listesi alınamıyor"</string>
   <string name="get_email_verifycode_exceed_limit">Çok fazla doğrulama kodu bu numaraya gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
   <string name="get_phone_verifycode_exceed_limit">Çok fazla doğrulama kodu bu numaraya gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
+  <string name="i_know">Biliyorum</string>
   <string name="ignore">Şimdi değil</string>
   <string name="input_captcha_hint">Kodu girin</string>
-  <string name="i_know">Biliyorum</string>
   <string name="input_email_address_notice">"Hesabınızı doğrulamak için bu e-postayı kullanacağız"</string>
   <string name="input_password_hint">Şifreyi girin</string>
   <string name="input_vcode_hint">Doğrulama kodunu girin</string>
-  <string name="io_error_title">Ağı doğrulayın</string>
   <string name="internet_statement_message">Dokunarak kabul edin, şartları kabul etmekle uygulamanın internete erişimini sağlarsınız</string>
   <string name="internet_statement_title">Kullanıcının Şartları</string>
+  <string name="io_error_title">Ağı doğrulayın</string>
   <string name="just_a_second">Biraz bekleyin...</string>
   <string name="license_host_unreachable">"Ağ bağlantısı kurulamıyor. %s kullanarak siteyi görüntüleyebilirsin."</string>
   <string name="loading">Biraz bekleyin…</string>
@@ -199,7 +199,7 @@
   <string name="login_instead_reg">Bu numarayı kullan</string>
   <string name="login_instead_reg_with_email">Bu E-Postayı kullan</string>
   <string name="login_title">Mi Hesabına giriş yap</string>
-  <string name="login_with_email_or_id"><u>E-Posta veya Mi Hesap Kimliğiyle giriş yap</u></string>
+  <string name="login_with_email_or_id">&lt;u&gt;E-Posta veya Mi Hesap Kimli&amp;#287;iyle giri&amp;#351; yap&lt;/u&gt;</string>
   <string name="logout_failed">"Oturum açılamıyor"</string>
   <string name="mi_account_dspt_provision">"İstediğiniz yerden Mi Bulut, MIUI Tema Mağazası ve diğer servislere oturum açabilirsiniz. "</string>
   <string name="mi_account_identity_title">Kimliğinizi doğrulayın</string>
@@ -223,7 +223,7 @@
   <string name="mipay_center">Mi Cüzdanı</string>
   <string name="miui_provision_find_status_text">"Bu cihaz (%1$s) Mi Hesabı ile bağlantılıdır, cihazı doğrulamak için şifreyi girin.
  +(Kilit Açma Numarası: %2$s)"</string>
-   <string name="multi_user_not_show_sync_activity_message_1">"İlk Alandaki Mi Hesabını kullanıyorsunuz gibi."</string>
+  <string name="multi_user_not_show_sync_activity_message_1">"İlk Alandaki Mi Hesabını kullanıyorsunuz gibi."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"Tüm verileriniz İkinci Alana eşitlenecek. Bu esnada Mi Bulut ile eşitlemeyi açmayın."</string>
   <string name="multi_user_not_show_sync_activity_title">Mi Bulut ile eşitlemeyi açma!</string>
   <string name="my_device_title">Geçerli Cihaz:</string>
@@ -258,7 +258,7 @@
   <string name="passport_btn_return">Geri</string>
   <string name="passport_button_cancel">İptal</string>
   <string name="passport_captcha">Kodu Girin</string>
-  <string name="passport_change_account"><u>Hesabı değiştir</u></string>
+  <string name="passport_change_account">&lt;u&gt;Hesab&amp;#305; de&amp;#287;i&amp;#351;tir&lt;/u&gt;</string>
   <string name="passport_change_phone_number">Numaraları değiştir</string>
   <string name="passport_checking_account">Şifre kontrol ediliyor…</string>
   <string name="passport_checking_input">Giriş kontrol ediliyor…</string>
@@ -304,7 +304,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_find_device_activate_account">Hesabı etkinleştir</string>
   <string name="passport_find_device_display_id">Kilidi Açma Numarası: %s</string>
   <string name="passport_find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com adresini ziyaret edin.</string>
-  <string name="passport_forget_password"><u>Şifremi unuttum</u></string>
+  <string name="passport_forget_password">&lt;u&gt;&amp;#350;ifremi unuttum&lt;/u&gt;</string>
   <string name="passport_forget_password_no_underline">Şifremi unuttum</string>
   <string name="passport_get_back_pwd">Hesap şifresini al</string>
   <string name="passport_get_verify_code">Kodu al</string>
@@ -334,9 +334,9 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_login_prompt">Tek Mi Hesabı, tüm Mi Hizmetleri.</string>
   <string name="passport_login_short">Oturum aç</string>
   <string name="passport_login_title">Mi Hesabınızda oturum açın</string>
-  <string name="passport_login_using_other_ways"><u>Diğer yolla oturum aç</u></string>
-  <string name="passport_message_dialog_title">SMS ile Kodları Doğrula</string>
+  <string name="passport_login_using_other_ways">&lt;u&gt;Di&amp;#287;er yolla oturum a&amp;#231;&lt;/u&gt;</string>
   <string name="passport_login_with_email_or_id">&lt;u&gt;E-Posta adresi veya Mi Hesap ID ile oturum açın&lt;/u&gt;</string>
+  <string name="passport_message_dialog_title">SMS ile Kodları Doğrula</string>
   <string name="passport_miui_provision_find_status_text">"Bu cihaz kullanılan bir Mi Hesap (%1$s) ile ilişkili, cihazın şifresini girip doğrulayın.
 (Kaldırma Numarası: %2$s)"</string>
   <string name="passport_next">Sonraki</string>
@@ -363,9 +363,9 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_reg_success">Hesabınız oluşturuldu</string>
   <string name="passport_reg_success_summary">%1$s hesabınızla bağlanmıştır. Oturum açmak için veya şifrenizi sıfırlamak için kullanabilirsiniz.</string>
   <string name="passport_reg_type_email">E-posta adresi kullan</string>
-  <string name="passport_reg_type_other_ways"><u>E-Posta adresinizi veya alternatif bir numarayı kullanın</u></string>
+  <string name="passport_reg_type_other_ways">&lt;u&gt;E-Posta adresinizi veya alternatif bir numaray&amp;#305; kullan&amp;#305;n&lt;/u&gt;</string>
   <string name="passport_reg_type_other_ways_title">Bir Mi Hesap Oluştur</string>
-  <string name="passport_reg_using_other_phone"><u>Alternatif telefon numarasını kullan</u></string>
+  <string name="passport_reg_using_other_phone">&lt;u&gt;Alternatif telefon numaras&amp;#305;n&amp;#305; kullan&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Şunu kullanarak yeni hesap oluştur: "</string>
   <string name="passport_reg_using_phone_number_prompt">Telefon numarasını kullanarak hesap oluşturun</string>
   <string name="passport_reg_via_sms_alert">Operatörünüz bu hizmeti etkinleştirmek için bir SMS mesajı için ücret alabilir.</string>
@@ -373,7 +373,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_register">Hesap oluştur</string>
   <string name="passport_register_account_goto_email">Gelen kutusuna git</string>
   <string name="passport_register_account_verified_confirm">Hesap doğrulandı</string>
-  <string name="passport_register_by_email"><u>E-Posta adresini kullanarak bir hesap oluştur</u></string>
+  <string name="passport_register_by_email">&lt;u&gt;E-Posta adresini kullanarak bir hesap olu&amp;#351;tur&lt;/u&gt;</string>
   <string name="passport_register_restricted">Bu numara ile ilişkili çok fazla hesap var. Başka birini deneyin</string>
   <string name="passport_register_restricted_title">"Bu telefon numarası kullanılamıyor"</string>
   <string name="passport_registered_phone_user_ID">Kullanıcı ID: %s</string>
@@ -419,7 +419,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_verification_failed">Kimlik doğrulama başarısız</string>
   <string name="passport_verify">Doğrula</string>
   <string name="passport_wait_for_sms_prompt">Şimdi baştan başlansın mı? Telefonunuz operatörünüzün şebekesi kapsama alanı içinde olduğunda doğrulama mesajlarının teslim edilmesi 10 dakika sürebilir."</string>
-  <string name="passport_welcome_skip_login"><u>Atla</u></string>
+  <string name="passport_welcome_skip_login">&lt;u&gt;Atla&lt;/u&gt;</string>
   <string name="passport_wrong_captcha">Girilen kod geçersiz</string>
   <string name="passport_wrong_password">Şifre hatalı</string>
   <string name="passport_wrong_phone_number_format">Girdiğiniz telefon numarasının biçimi geçersiz</string>
@@ -436,7 +436,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="photoPickerNotFoundText">Resim bulunamadı.</string>
   <string name="prev">Geri</string>
   <string name="privacy_policy">Veri Koruması</string>
-  <string name="provision_skip_login"><u>Bu adımı atla</u></string>
+  <string name="provision_skip_login">&lt;u&gt;Bu ad&amp;#305;m&amp;#305; atla&lt;/u&gt;</string>
   <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">2-Adımlı Doğrulama</string>
   <string name="quick_login_dialog_title">Şifreyi Doğrula</string>
@@ -446,7 +446,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="reg_failed">"Hesap oluşturulamadı"</string>
   <string name="reging">Hesap oluşturuluyor...</string>
   <string name="register">Mi Hesabı oluştur</string>
-  <string name="register_by_email"><u>Mi Hesabı oluşturmak için e-posta adresi kullan</u></string>
+  <string name="register_by_email">&lt;u&gt;Mi Hesab&amp;#305; olu&amp;#351;turmak i&amp;#231;in e-posta adresi kullan&lt;/u&gt;</string>
   <string name="relogin">Yeniden giriş yap</string>
   <string name="remove_account_notice">Mesajları, kişileri ve diğer verileri Mi Hesabınızla eşitlemek iter misiniz?</string>
   <string name="remove_device_success_notice">Eğer bu cihazı güvenilir cihazlardan kaldırırsanız, yeniden otorum açıp doğrulamanız gerekebilir.</string>
@@ -483,24 +483,24 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="sns_access_token_expired_warning">Hesap oturum açma süresi doldu. Bu hesabı eklemek için tekrar giriş yapın.</string>
   <string name="submit_answers">Gönder</string>
   <string name="success">Tamam</string>
-  <string name="trusted_browsers">Güvenilir Tarayıcılar</string>
-  <string name="trusted_browsers_prompt">Eğer Çerezleri silerseniz, tarayıcınız güvenilir olmaktan çıkar.</string>
   <string name="theme_store">MIUI Tema Mağazası</string>
   <string name="theme_store_dspt">Görünümü seçin. Özelleştirilebilir ücretsiz yüzlerce tema ile telefonunuzu benzersiz yapın.</string>
   <string name="timeout_retry">İstek zaman aşımına uğradı, lütfen tekrar deneyin.</string>
   <string name="title_reg">Hesap oluştur</string>
+  <string name="trusted_browsers">Güvenilir Tarayıcılar</string>
+  <string name="trusted_browsers_prompt">Eğer Çerezleri silerseniz, tarayıcınız güvenilir olmaktan çıkar.</string>
   <string name="trying_read_verify_code_sms">Doğrulama kodu alınıyor...</string>
   <string name="turn_off_find_device_failed_title">"Telefonu Bul kapatılamıyor"</string>
   <string name="turning_off_find_device">Telefonu Bul kapatılıyor…</string>
   <string name="unbind_sns_description">"Bu hesabın bağlantısını kestikten sonra, Mi Hesabınızda oturum açmak için %s hesap bilgilerini kullanmak mümkün olmayacaktır."</string>
+  <string name="unbind_weibo_description">"Bu hesabın bağlantısını kestikten sonra, Weibo kişilerinizi eşitlemek veya oturum açmak için Sina Weibo Hesabınızı kullanmak mümkün olmayacaktır."</string>
   <string name="unlock_help_notice">"Yardım:
 · Eğer şifrenizi unutursanız; id.mi.com adrese gidip sıfırlayın.
 · Eğer cihazın kilidini kaldıramazsanız; i.mi.com adrese gidip Telefonu Bul özelliğini kapatın
 · Şu kilidi kaldırma numarasını müşteri hizmetlerine söyleyin: %s"</string>
-  <string name="unbind_weibo_description">"Bu hesabın bağlantısını kestikten sonra, Weibo kişilerinizi eşitlemek veya oturum açmak için Sina Weibo Hesabınızı kullanmak mümkün olmayacaktır."</string>
   <string name="update_contacts">Adres defterini güncelle</string>
-  <string name="update_email_address_dialog_message">Kimliğinizi doğrulamadan önce mail adresinizi güncellemelisiniz.</string>
   <string name="update_contacts_description">Sina Weibo platformlarında kişileri eşitlemek üzere Mi Hesabınızı kullanmasına izin verin</string>
+  <string name="update_email_address_dialog_message">Kimliğinizi doğrulamadan önce mail adresinizi güncellemelisiniz.</string>
   <string name="update_email_address_dialog_title">E-Postayı güncelle</string>
   <string name="update_phone_number_notice_message">Kimliğinizi doğrulamadan önce telefon numarasını güncelleyin</string>
   <string name="update_recovery_info_dialog_message">Eğer kimliğinizi kanıtlamak zorunda kalırsanız önce e-posta adresini güncelleyin.</string>

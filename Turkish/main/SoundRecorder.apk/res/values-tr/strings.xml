@@ -40,8 +40,8 @@
   <string name="error_sdcard_unmounted">Şimdi SD kart takın</string>
   <string name="export_to_note">Notları dışarı aktar</string>
   <string name="fm_record">Radyo Kayıtları (%d)</string>
-  <string name="loading_recording">Kayıtlar yükleniyor</string>
   <string name="invalid_argument">Geçersiz kanıt</string>
+  <string name="loading_recording">Kayıtlar yükleniyor</string>
   <string name="low_battery_error">"Kalan pil %5'ten olduğundan, kayıt işlemini kaybedilmeden durduruldu ve yapılan kayıt saklandı."</string>
   <string name="low_battery_error_confirm">Tamam</string>
   <string name="low_battery_error_title">Düşük Pil</string>
@@ -51,8 +51,8 @@
   <string name="network_tip_dialog_content">Konuşma tanınması motorunun normal çalışabilmesi için internete bağlanması gerekiyor.</string>
   <string name="network_tip_dialog_ok">İzin ver</string>
   <string name="network_tip_dialog_title">İnternet bağlantısı gerekiyor</string>
-  <string name="no_downloading_file">Şu anda yüklenmek üzere hiçbir dosya yok</string>
   <string name="new_record_name">Yeni kayıt</string>
+  <string name="no_downloading_file">Şu anda yüklenmek üzere hiçbir dosya yok</string>
   <string name="no_file">Boş</string>
   <string name="notification_message_all_paused">WLAN bağlantısı bekleniyor.</string>
   <string name="notification_playback">Oynatılıyor...</string>
@@ -113,8 +113,8 @@
   <string name="record_name_hour">.</string>
   <string name="record_name_minute"/>
   <string name="record_picker_title">Bir kayıt seçin</string>
-  <string name="record_saving">Kayıt saklanıyor...</string>
   <string name="record_quliaty_preference_title">Kayıt kalitesi</string>
+  <string name="record_saving">Kayıt saklanıyor...</string>
   <string name="recording">Kaydediliyor</string>
   <string name="recording_quality_high">Yüksek kalite</string>
   <string name="recording_quality_low">Düşük kalite</string>
@@ -154,8 +154,8 @@
   <string name="text_btn_wave">Dalga</string>
   <string name="text_finish">Bitir</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="toast_file_is_downloading">Dosya yükleniyor...</string>
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+  <string name="toast_file_is_downloading">Dosya yükleniyor...</string>
   <string name="toast_max_record_time">%1$s yaklaşık %2$s kayıt yapabilirsin</string>
   <string name="toast_uninstall_fileexplorer">"Gezgin uygulaması yüklü değil"</string>
   <string name="wifi_recommended_body" formatted="false">Mobil veri bağlantısı kullanarak bu dosyayı indirmeniz (%s) veri kullanımını arttıracaktır. Eğer planladığınız veri kullanım sınırını aşarsanız, operatörünüz sizden ek ücret talep edebilir. WLAN bağlantısıyla bun dosyayı indirmeniz için bekletiliyor, %s dokunun.</string>

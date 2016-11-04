@@ -261,12 +261,12 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="screenshot_edit">Düzenle</string>
   <string name="screenshot_failed_text">"Kısıtlı olmasından dolayı depolama alanı ekran görüntüsü alamıyor buna uygulama veya kuruluş tarafından izin verilmiyor."</string>
   <string name="screenshot_long_screenshot">Genişlet</string>
-  <string name="screenshot_send">Gönder</string>
   <string name="screenshot_saved_text">Ekran görüntüsüne bakmak için dokunun.</string>
   <string name="screenshot_saved_title">Ekran görüntüsü alındı.</string>
   <string name="screenshot_saving_text">Ekran görüntüsü kaydedilecek</string>
   <string name="screenshot_saving_ticker">Ekran görüntüsü kaydediliyor...</string>
   <string name="screenshot_saving_title">Ekran görüntüsü kaydediliyor...</string>
+  <string name="screenshot_send">Gönder</string>
   <string name="settings_custom_notification">Bildirimleri yönet</string>
   <string name="settings_package">com.android.settings</string>
   <string name="settings_toggle_position">Geçişleri yönet</string>
@@ -351,7 +351,7 @@ Kilitlemek için aşağı kaydırın ▼"</string>
   <string name="vpn_title">VPN etkinleştirildi</string>
   <string name="vpn_title_long">%s VPN kullanılarak bağlandı</string>
   <string name="weather_description">%1$s | %2$s &gt;</string>
-  <string name="weather_description_no_aqi">%1$s ></string>
+  <string name="weather_description_no_aqi">%1$s &gt;</string>
   <string name="weather_publish_time">%1$s güncellendi</string>
   <string name="wifi_connected_no_internet">Bağlandı, İnternet yok</string>
   <string name="wifi_disabled_generic">Devre dışı</string>

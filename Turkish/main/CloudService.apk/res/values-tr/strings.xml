@@ -10,8 +10,8 @@
   <string name="add_cloud_storage">Depolama ekle</string>
   <string name="add_short_cut">Ekle</string>
   <string name="added_successfully">Başarıyla eklendi</string>
-  <string name="all_sync_item_open">Tüm öğeler açık</string>
   <string name="alert_notif_title_dspt">Eşitlenemiyor</string>
+  <string name="all_sync_item_open">Tüm öğeler açık</string>
   <string name="antispam_sync">Rahatsız Etme Ayarları</string>
   <string name="app_name">Mi Bulut</string>
   <string name="apple_10gb">20 GB</string>
@@ -116,7 +116,6 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="get_this_month_gb">Bu ay %s ücretsiz alan ekle</string>
   <string name="google_100gb">100GB</string>
   <string name="google_cloud">Google Drive</string>
-  
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Yaklaşık yıllık 143 Yuan</string>
   <string name="header_cloud_backup_settings">Yedekle ve Geri Yükle</string>
@@ -194,11 +193,11 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_detail_ok">Tamam</string>
   <string name="micloud_detail_pending">Bekleniyor</string>
   <string name="micloud_detail_preference_sync_items">Öğeler</string>
+  <string name="micloud_detail_preference_syncing">Eşitle</string>
+  <string name="micloud_detail_preference_wlan">WLAN bağlantısında eğiştle</string>
   <string name="micloud_detail_query_error">"Eşitlenme durumu alınamıyor"</string>
   <string name="micloud_detail_query_error_detail">"Bazı hizmetlerin eşitleme durumu denetlenemedi. Lütfen Geribildirimi kullanarak geliştiricilerle temasa geçin."</string>
   <string name="micloud_detail_query_error_title">"Eşitlenme durumu alınamıyor"</string>
-  <string name="micloud_detail_preference_syncing">Eşitle</string>
-  <string name="micloud_detail_preference_wlan">WLAN bağlantısında eğiştle</string>
   <string name="micloud_detail_success">Eşitlendi</string>
   <string name="micloud_detail_sync_now">Şimdi eşitle</string>
   <string name="micloud_detail_syncing">Eşitleniyor</string>

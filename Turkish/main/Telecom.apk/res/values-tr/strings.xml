@@ -134,6 +134,7 @@
   <string name="incall_error_supp_service_transfer">Arama aktararılamıyor.</string>
   <string name="incall_error_supp_service_unknown">Hizmet desteklenmiyor.</string>
   <string name="ip_dial_error_for_sip_call">IP arama fonksiyonu internet çağrısı için geçerli değildir.</string>
+  <string name="lch_dtmf_key">D</string>
   <string name="mo_code_call_deflected">Çağrı aktarıldı</string>
   <string name="mo_code_call_forwarded">Çağrı yönlendirildi</string>
   <string name="mo_code_call_forwarding">Çağrı yönlendiriliyor...</string>
@@ -163,7 +164,6 @@
   <string name="mt_code_forwarded_cf_uncond">Koşulsuz çağrı yönlendirildi</string>
   <string name="mt_code_multi_party_call">Konferans Çağrısı</string>
   <string name="mt_code_on_hold_call_released">Bekletilen çağrı alındı</string>
-  <string name="lch_dtmf_key">D</string>
   <string name="no_vm_number">Eksik sesli mesaj numarası</string>
   <string name="no_vm_number_msg">SIM kartta saklı sesli mesaj numarası yok</string>
   <string name="notification_missedCallTicker">Cevapsız çağrınız: %s</string>
@@ -175,8 +175,8 @@
   <string name="notification_missedCallsTitle">Cevapsız Çağrılar</string>
   <string name="outgoing_call_error_limit_exceeded">Çağrı gönderilmedi, sınır aşıldı.</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Çağrı gönderilemedi, geçersiz numara girildi.</string>
-  <string name="outgoing_call_not_allowed">Cihaz sahibi yalnızca acil arama yapabilir</string>
   <string name="outgoing_call_failed">Çağrı gönderilemedi.</string>
+  <string name="outgoing_call_not_allowed">Cihaz sahibi yalnızca acil arama yapabilir</string>
   <string name="outgoing_call_not_allowed_no_permission">Telefonun izni olmadan bu uygulama dışarıya çağrı yapamaz.</string>
   <string name="outgoing_call_not_allowed_user_restriction">Cihaz sahibi tarafından sadece acil çağrılara izin verilir.</string>
   <string name="reminder">Hatırlatıcı</string>

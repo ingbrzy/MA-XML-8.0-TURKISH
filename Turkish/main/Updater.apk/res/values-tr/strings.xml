@@ -82,7 +82,7 @@
   <string name="dialog_delay_update_tonight">Bu gece güncelle</string>
   <string name="dialog_no">Hayır</string>
   <string name="dialog_ok">Tamam</string>
-    <string name="dialog_reboot_message">"MIUI Güncellemesi yaklaşık 5-20 dakika arasında sürebilir. Bu esnada cihazı kapatmayın ve kesinlikle güncelleme bitene kadar yeniden başlatmayın."</string>
+  <string name="dialog_reboot_message">"MIUI Güncellemesi yaklaşık 5-20 dakika arasında sürebilir. Bu esnada cihazı kapatmayın ve kesinlikle güncelleme bitene kadar yeniden başlatmayın."</string>
   <string name="dialog_reboot_title">Sistem Güncellemesi</string>
   <string name="dialog_reboot_yes">Güncelle</string>
   <string name="dialog_yes">Evet</string>
@@ -275,7 +275,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="system_backup_cancel_text">Güncelle</string>
   <string name="system_backup_download_helper">Güncellemeden önce verilerinizi yedeklediniz mi?</string>
   <string name="system_backup_error_message">MUIU Yedekleme Uygulaması bulunamadı"</string>
-  <string name="system_backup_helper" />
+  <string name="system_backup_helper"/>
   <string name="system_backup_ok_text">Yedekle</string>
   <string name="test">Test</string>
   <string name="timer_title">Cihaz %d saniye sonra tekrar başlayacak.</string>
