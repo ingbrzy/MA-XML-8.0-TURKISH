@@ -60,6 +60,7 @@
   <string name="from_unit_short">km/s</string>
   <string name="fund"/>
   <string name="fund_loan"/>
+  <string name="home_title_calculator">Hesap Makinesi</string>
   <string name="income_type"/>
   <string name="item_title_aa_payment">Hesabı Böl</string>
   <string name="item_title_area_conversion">Alan</string>
@@ -150,11 +151,13 @@
   <string name="tanDesc">Tanjant</string>
   <string name="tax_accumulation_fund">Birikmiş Fon</string>
   <string name="tax_annual_bonus_hint">Vergiden önceki primi girin</string>
+  <string name="tax_annual_bonus_number">Prim</string>
   <string name="tax_birth">Doğum</string>
   <string name="tax_cal_method_annual">Ek prim hesaplaması</string>
   <string name="tax_cal_method_fixed_salary">Gelen vergi hesaplaması</string>
   <string name="tax_cal_method_format">Kişisel Girdi: %s</string>
   <string name="tax_city">Şehir</string>
+  <string name="tax_city_error">Doğru şehri girin</string>
   <string name="tax_city_located">Konum</string>
   <string name="tax_city_picker">Şehir</string>
   <string name="tax_edittext_hint"/>
@@ -170,6 +173,8 @@
   <string name="tax_individual_income_tax_result">Sonuç</string>
   <string name="tax_injury">Zarar</string>
   <string name="tax_insurance_and_fund">Sigorta</string>
+  <string name="tax_last_salary_hint">Gelirinizi girin</string>
+  <string name="tax_last_salary_number">Gelir</string>
   <string name="tax_medical">Sağlık</string>
   <string name="tax_param_error">Gerçek sigorta aralığını girin</string>
   <string name="tax_result_real_get">Vergili</string>
@@ -366,9 +371,9 @@
   <string name="wf_word_figure">Finansal Karakterler</string>
   <string name="word_figure_big_unit_fen">分</string>
   <string name="word_figure_big_unit_jiao">角</string>
-  <string name="word_figure_big_unit_wan">万</string>
-  <string name="word_figure_big_unit_yi">亿</string>
-  <string name="word_figure_big_unit_zhao">兆</string>
+  <string name="word_figure_big_unit_wan">万 </string>
+  <string name="word_figure_big_unit_yi">亿 </string>
+  <string name="word_figure_big_unit_zhao">兆 </string>
   <string name="word_figure_number_0">零</string>
   <string name="word_figure_number_1">壹</string>
   <string name="word_figure_number_2">贰</string>
