@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parmakizi Kaydetme</string>
+    <string name="selftest">Kendi Kendine Test</string>
+    <string name="checkerboard_test">Denetleme Testi</string>
+    <string name="image_quality_test">RESİM KALİTE TESTİ</string>
+    <string name="fingerprint_enroll">Kaydet</string>
+    <string name="fingerprint_authen">Kimlik Doğrulaması</string>
+    <string name="fingerprint_remove">Parmakizini kaldır</string>
+    <string name="fingerprint_tips">Kaydetme veya kimlik doğrulamasına tıklayın, ardından sensör üzerine parmağınızı koyun</string>
+    <string name="fingerprint_no">parmakizi yok</string>
+    <string name="ok">Tamam</string>
+    <string name="error">Hata</string>
+</resources>
