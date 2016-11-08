@@ -542,8 +542,8 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="force_stop_dlg_text">"Arkaplan mobil veriyi kısıtlamak, bir WLAN ağına bağlı olduğunuz sürece bazı uygulamalar ve hizmetleri çalıştırmaz."</string>
   <string name="force_stop_dlg_title">Arkaplan Verilerini Sınırla</string>
   <string name="foreground_traffic">Önplanda: %s</string>
-  <string name="forget_password_button_text">&lt;u&gt;&amp;#350;ifremi Unuttum&lt;/u&gt;</string>
-  <string name="forget_pattern">&lt;u&gt;Deseni Unuttum&lt;/u&gt;</string>
+  <string name="forget_password_button_text">Şifremi Unuttum</string>
+  <string name="forget_pattern">Deseni Unuttum</string>
   <string name="free_time_traffic">Veri Üst Limiti</string>
   <string name="free_time_traffic_hint">Veri üst limitini girin</string>
   <string name="free_time_traffic_settings">Veri Üst Limiti</string>
@@ -1510,6 +1510,13 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="sorted_button">Sırala</string>
   <string name="sorted_dialog_title">Sırala</string>
   <string name="sp_back_title_text_zero">Güvenli</string>
+  <string name="sp_background_risk_dialog_summary">, lütfen detaylıca kontrol edin ve ödeme risklerini düzeltin</string>
+  <string name="sp_background_risk_dialog_title">Tehlikeli</string>
+  <string name="sp_background_risk_type_messaging">Sistemin mesajlaşma uygulamasının yerine geçmiş</string>
+  <string name="sp_background_risk_type_root">Sistem ROOT erişimli halde</string>
+  <string name="sp_background_risk_type_sign">Gayri resmi uygulama çalışıyor</string>
+  <string name="sp_background_risk_type_virus">Virüs uygulaması çalışıyor</string>
+  <string name="sp_background_risk_type_wifi">Wi-Fi bağlantısı tehlikeli</string>
   <string name="sp_button_text_ignore_alert_title">Bu öğe yoksayılsın mı?</string>
   <string name="sp_empty_title_sign_exception">Yalnız istisnaları eklemek için sonuç sayfasında uygulama öğesini tıklatın</string>
   <string name="sp_monitored_apps_count_zero">Ödeme uygulaması güvenli değil</string>
