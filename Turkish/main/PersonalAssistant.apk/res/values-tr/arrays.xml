@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="map_keyword">
+        <item>İzdiham</item>
+        <item>Km İzdiham</item>
+        <item>Km Ertele</item>
+        <item>Yol Yapımı</item>
+    </string-array>
+    <string-array name="map_title">
+        <item>Kaçın</item>
+        <item>Aşırı Tıkanık</item>
+        <item>Trafik Akışı</item>
+        <item>İzdiham yok</item>
+        <item>Anormal Trafik</item>
+    </string-array>
+    <string-array name="keyword_recommend_unit">
+        <item>Arzu</item>
+        <item>Hemen</item>
+    </string-array>
+    <string-array name="express_watched_app_filter">
+        <item>Nakliye Şirketi:</item>
+        <item>İrsaliye Numarası:</item>
+        <item>Bilgi Kaynağı:</item>
+        <item>Lojistik Bilgisi:</item>
+    </string-array>
+</resources>
