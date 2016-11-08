@@ -300,6 +300,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="apply_now_button_text">Güncelle</string>
   <string name="apply_password_to_category_title">Kilitinin açılması gerekiyor</string>
   <string name="apply_update_fail">"Güncellenemedi!"</string>
+  <string name="approve_title">Doğrula</string>
   <string name="apps_and_data_item_desc">Uygulama ve Veri</string>
   <string name="apps_storage">Uygulama Depolaması</string>
   <string name="apps_with_restrictions_header">Kısıtlamalarla Uygulamaları</string>
@@ -1672,8 +1673,8 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="force_touch_enable">3D Dokunma etkin</string>
   <string name="force_touch_enable_tips">"3D Dokunma etkin olduğunda uygulama simgesine açmak için uzunca süre basın."</string>
   <string name="forget">UNUT</string>
-  <string name="forget_password_button_text">&lt;u&gt;&amp;#350;ifreyi Unuttum&lt;/u&gt;</string>
-  <string name="forget_pattern">&lt;u&gt;Deseni Unuttum&lt;/u&gt;</string>
+  <string name="forget_password_button_text">Şifreyi Unuttum</string>
+  <string name="forget_pattern">Deseni Unuttum</string>
   <string name="forget_privacy_password_setting">Mi Hesabı Ekle</string>
   <string name="forget_privacy_password_summary">Şifreyi sıfırlamak için Mi Hesabını kullan</string>
   <string name="forget_wifi_message">Telefonunuz bu ağa otomatik bağlanmayı kesecek.</string>
