@@ -12,6 +12,7 @@
   <string name="actionBarCFVoice">Görüntülü çağrı yönlendiriliyor (%s)</string>
   <string name="active_phone_fail_nochoice">"SIM kart doğrulanamadı"</string>
   <string name="active_phone_fail_toast">"SIM kart  %1$s doğrulanamadı"</string>
+  <string name="account_changed_title">Hesap değiştirildi</string>
   <string name="active_phone_sim_absent">SIM kartı yerleştirin</string>
   <string name="active_phone_success_nochoice">SIM kart doğrulandı</string>
   <string name="active_phone_success_toast">SIM kart %1$s doğrulandı</string>
@@ -105,6 +106,7 @@
   <string name="autoip_prefix_summary">"Operatörünüzün IP öneki: %s"</string>
   <string name="autoip_setting">Otomatik IP Ayarları</string>
   <string name="autoip_summary">Uluslararası numaraları için IP öneki ekle</string>
+  <string name="autoip_summary_more">, toplam %d </string>
   <string name="autoip_support_local_numbers">Herzaman IP öneki kullan</string>
   <string name="back">Geri</string>
   <string name="badPin">"Yazdığınız eski PIN doğru değil. Yeniden deneyin."</string>
@@ -203,6 +205,7 @@
   <string name="call_forwarding_settings">Çağrı Yönlendirme Ayarları</string>
   <string name="call_forwarding_settings_with_label">Çağrı Yönlendirme Ayarları (%s)</string>
   <string name="call_ind_services">Serbest Çağrı Hizmetleri</string>
+  <string name="call_log">Çağrı Geçmişi</string>
   <string name="call_record_add_numbers">Numara ekle</string>
   <string name="call_record_auto_always">Tüm Numaralar</string>
   <string name="call_record_auto_scenario_title">Aramaları Kaydet</string>
@@ -376,6 +379,7 @@
   <string name="common_setting">Genel Ayarlar</string>
   <string name="config_default_data_sim">Ayarlar</string>
   <string name="config_dialing_emergency_number_suffix"/>
+  <string name="confirm">Onayla</string>
   <string name="confirmPin2Label">Yeni PIN2 kodunu onaylayın</string>
   <string name="confirmPinLabel">Yeni PIN kodunu onaylayın</string>
   <string name="confirm_3g_switch">Bu SIM 3G hizmetini ayarlamak istediğiniz emin misiniz? Bu aynı zamanda otomatik olarak bu SIM kartı görüntülü görüşme için varsayılan SIM olarak ayarlanacak.</string>
@@ -443,8 +447,8 @@
   <string name="dial_pad_autocomplete">Tuş Takımı Otomatik Tamamlama</string>
   <string name="dial_related_setting_catory">Çevirici</string>
   <string name="dialerKeyboardHintText">Aramak için klavyeyi kullan</string>
-  <string name="dialog_activate_livetalk">Doğrula</string>
-  <string name="dialog_call_ordinary_telephone">SIM Kullan</string>
+  <string name="dialog_activate_livetalk">Numarayı Doğrula</string>
+  <string name="dialog_call_ordinary_telephone">Çağrı(%ds)</string>
   <string name="dialog_network_priority_title">Öncelikli Ağ</string>
   <string name="dialog_no">Hayır</string>
   <string name="dialog_purchase">Kontür</string>
@@ -549,11 +553,12 @@
   <string name="enable_4G_data">4G Verisi etkin</string>
   <string name="enable_4G_data_summary">4G bğlantısı daha iyi ve daha hızlı internet erişimi sağlayabilir</string>
   <string name="enable_antispam_strange_summary">Bilinmeyen bir numaradan gelen ilk çağrıyı sustur</string>
-  <string name="enable_antispam_strange_title">İlk Çağrıyı Sustur</string>
+  <string name="enable_antispam_strange_title">Önce Çağrıyı Sustur</string>
+  <string name="enable_button_text">Sonraki</string>
   <string name="enable_disable_administrative">Yönetimsel</string>
   <string name="enable_disable_advertisements">Reklamlar</string>
-  <string name="enable_disable_atr">Alan Trafik Raporları</string>
-  <string name="enable_disable_cell_bc_sms">Hücre Yayın Mesajları</string>
+  <string name="enable_disable_atr">Alandaki Trafik Raporları</string>
+  <string name="enable_disable_cell_bc_sms">Hücresel Şebeke Mesajları</string>
   <string name="enable_disable_emergency_broadcast">Acil Yayını</string>
   <string name="enable_disable_eo">İstihdam Olanakları</string>
   <string name="enable_disable_international">Uluslararası</string>
@@ -654,6 +659,7 @@ Bu sorun devam ederse operatörünüze danışın."</string>
   <string name="fw_get_in_vm_failed">"Alma ve geçerli yönlendirme numarası ayarları kaydedilemedi.
 Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="general_news_settings">Genel Haberler</string>
+  <string name="general_remove">Kaldır</string>
   <string name="general_setting">Ayarlar</string>
   <string name="get_pin2">PIN2 kodu</string>
   <string name="get_product_list_failed">"Liste yüklenemiyor"</string>
@@ -719,7 +725,8 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="incoming_video_show_pref_summary">Arayan tarafından belirlenen video zil sesini göster. Bu özelliği kullanmak için ad kartlarını açın.</string>
   <string name="incoming_video_show_pref_title">"Arayanın profil videosunu göster"</string>
   <string name="input_password">Şifreyi girin</string>
-  <string name="international_calls">Sadece uluslararası</string>
+  <string name="internation_remain_minutes">veya %1$s %2$s uluslararası görüşme süresi）</string>
+  <string name="international_calls">Sadece Uluslararası</string>
   <string name="international_dial_complete_intention">Uluslararası aramalarda tasarruf edin.</string>
   <string name="international_dial_complete_no">Şimdi değil</string>
   <string name="international_dial_complete_summary">Uluslararası aramalar normalde daha yüksek oranlarına sahip. Ucuz aramak için kontör paketi kullanın.</string>
@@ -756,6 +763,7 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
   <string name="ivr_type_settings">Veri Planı Ayarları</string>
   <string name="ivr_type_settings_hint">Veri planı kodunu girin</string>
+  <string name="keep_wait_call_back">Beklemeye devam et</string>
   <string name="labelCBVideo">Görüntülü Arama Engeli</string>
   <string name="labelCBVoice">Sesli Arama Engeli</string>
   <string name="labelCDMAMore">CDMA Çağrı Ayarları</string>
@@ -831,18 +839,18 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="livetalk_last_step">Geri</string>
   <string name="livetalk_login_message">"Kontör paketini kullanarak, 
 Mi Hesabıyla oturup açın"</string>
+  <string name="livetalk_manual">İşletme Kılavuzu</string>
   <string name="livetalk_name">Kontör Paketi</string>
   <string name="livetalk_network_confirm">Tamam</string>
   <string name="livetalk_network_confirm_summary">Kontör paketi mobil veri aramaya bağlandığında her zaman yaklaşık 1 KB kullanır.</string>
   <string name="livetalk_network_unavailable">Ağ kullanılamıyor</string>
   <string name="livetalk_next_step">Sonraki</string>
   <string name="livetalk_nsufficient_balance">Yetersiz bakiye</string>
-  <string name="livetalk_package_introduction_text">"Herhangi bir telefon numarasına ucuza arayın
-Kontör yükle ve konuşmaya başla"</string>
+  <string name="livetalk_package_introduction_text">"Herhangi bir telefonu ucuza arayın"</string>
   <string name="livetalk_package_name">Kontör Bakiyesi</string>
   <string name="livetalk_provider">%1$s tarafından sağlanmıştır</string>
   <string name="livetalk_provision">Kullanım Koşulları</string>
-  <string name="livetalk_provision_content">Kontor paketini kullanarak %1$s içeriğini kabul etmiş olursun. Bu hizmeti kullanmak için internet bağlantısına ihtiyacınız var. Bu hizmetin etkinleştirilmesi için bir SMS gönderilebilir. Kabul ediyor musunuz?</string>
+  <string name="livetalk_provision_content">Kontor paketini kullanmakla %1$s içeriğini kabul etmiş olursun. İnternete bağlanmalı ve bir SMS göndererek bu hizmeti açabilirsiniz.</string>
   <string name="livetalk_provision_title">Kullanım Koşulları</string>
   <string name="livetalk_remain_minutes_title">Kalan arama süresi</string>
   <string name="livetalk_service_and_short_number_not_support">Servis numaraları ve sıralama numaraları desteklenmez.</string>
@@ -896,6 +904,7 @@ Kontör yükle ve konuşmaya başla"</string>
   <string name="managed_roaming_title_sub2">Dolaşımı Yönet (SUB2)</string>
   <string name="managed_roaming_title_sub3">Dolaşımı Yönet (SUB3)</string>
   <string name="menu_add">Kişi ekle</string>
+  <string name="menu_add_numbers">Numara ekle</string>
   <string name="menu_delete">Kişiyi düzenle</string>
   <string name="menu_edit">Kişiyi düzenle</string>
   <string name="messageCFB">Numara meşgulse</string>
@@ -1024,7 +1033,7 @@ Tercih edilen ağ bunun yerine kullanılıyor."</string>
   <string name="no_internet_available_title">İnternet bağlantısı yok</string>
   <string name="no_more">Fazlası yok</string>
   <string name="no_number">Telefon numarası yok</string>
-  <string name="no_sim_card">SIM kartı takın</string>
+  <string name="no_sim_card">SIM kart yok</string>
   <string name="no_sip_account_found">Bu telefonda hiçbir internet arama hesabı yok. Şimdi bir tane eklemek ister misiniz?</string>
   <string name="no_sip_account_found_title">İnternetten arama hesabı yok</string>
   <string name="no_vm_number">Sesli mesaj numarası eksik</string>
@@ -1105,6 +1114,9 @@ Tercih edilen ağ bunun yerine kullanılıyor."</string>
   <string name="operator_remain_mins">Operatör Paketinin Dakikaları</string>
   <string name="optional_summary">İsteğe Bağlı</string>
   <string name="order_by_recent">Frekans</string>
+  <string name="order_error_network">Yüklenemedi, şebeke yok.</string>
+  <string name="order_error_retry">Yeniden dene</string>
+  <string name="order_error_unknown">Yüklenemedi, bilinmeyen hata.</string>
   <string name="order_id">Sipariş ID: %1$s</string>
   <string name="order_price">¥ %1$s</string>
   <string name="order_time">%1$s dak</string>
@@ -1222,11 +1234,14 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="pin_progress_change_pin2">PIN2 değiştiriliyor…</string>
   <string name="pin_progress_set_fdn_lock">Sabit Arama Numara kilidi ayarlanıyor…</string>
   <string name="pin_progress_set_icc_lock">ICC kilit durumu ayarlanıyor…</string>
-  <string name="pin_progress_unlock_icc">SIM kart kilidi açılıyor…</string>
+  <string name="pin_progress_unlock_icc">SIM kartın kilidi açılıyor…</string>
+  <string name="please_connect_network_message">Lütfen ağa bağlanın</string>
+  <string name="please_connect_network_title">Ağ yok</string>
   <string name="place_a_call1">Abonelik 1</string>
   <string name="place_a_call2">Abonelik 2</string>
   <string name="place_a_call3">Abonelik 3</string>
   <string name="please_enter_phone_number">Lütfen telefon numarasını girin</string>
+  <string name="please_login_mi_accout">Giriş</string>
   <string name="plmn_list_setting_add_plmn">Yeni PLMN</string>
   <string name="plmn_list_setting_title">Tercih edilen ağlar</string>
   <string name="port_title">Port Numarası</string>
@@ -1318,6 +1333,11 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="proceed">İlerle</string>
   <string name="product_reflash_button">Yenile…</string>
   <string name="progress_dialog_exiting_ecm">Acil Geri Arama Modundan çıkılıyor</string>
+  <string name="propmpt_dialog_do_not_ask">Yeniden gösterme</string>
+  <string name="propmpt_dialog_network_failed_title">Görüşme süresi doldu</string>
+  <string name="propmpt_dialog_no_call_back_content">Bağlantı süresi çok uzun. Operatörünüz tarafından normal çağrıya geçilmiş olabilir.</string>
+  <string name="propmpt_dialog_not_activate_sim_content">Kontör paketi kullanmaya başlamadan önce numarayı doğrulayın. Operatörünüz tarafından değiştirilmiş düzenli çağrıları halen kullanıyor olabilirsiniz.</string>
+  <string name="propmpt_dialog_not_activate_sim_title">Telefon numarası doğrulanamadı</string>
   <string name="proxy_address">Proxy Adresi</string>
   <string name="proxy_address_title">Giden Proxy Adresi</string>
   <string name="pstn_connection_service_label">Dahili SIM Kartlar</string>
@@ -1346,7 +1366,8 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="purchase_list">Satınalma geçmişi</string>
   <string name="purchase_notes">Not: Uluslararası aramalar için kullanılabilir. Uluslararası çağrıda 1 dakika boyunca ödenen tutar yerel 6 dakika miktarına eşittir.</string>
   <string name="purchase_primary">Satınal</string>
-  <string name="purchase_summary">"%70'e varan tasarruf etmiş olursunuz"</string>
+  <string name="purchase_summary">"%70 tasarruf edin"</string>
+  <string name="purchase_title">Satınal</string>
   <string name="query">Sorgula</string>
   <string name="quickly_verify">Doğrula</string>
   <string name="radio_off_error">Bu ayarları görüntülemeden önce radyoyu açın.</string>
@@ -1379,7 +1400,10 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="remain_mins_divider">veya</string>
   <string name="remain_mins_domestic">Kalan (Yerli)</string>
   <string name="remain_mins_international">Kalan (Uluslararası)</string>
-  <string name="remain_mins_unit">dak</string>
+  <string name="remain_mins_unit">dakika</string>
+  <string name="remain_mins_unit_plural">dakika</string>
+  <string name="remain_minutes">Görüşme Süresi</string>
+  <string name="remain_minutes_summary">Farklı Ülkeler, Farklı Fiyat;Faturada gösterilir</string>
   <string name="remember_my_choice">Daima internet aramaları yapmak için kullan</string>
   <string name="remove">Kaldır</string>
   <string name="remove_ims_account">Hesabı kaldır</string>
@@ -1456,6 +1480,8 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="set_smsc_address_error">"Numara ayarlanamadı"</string>
   <string name="set_smsc_address_timeout">Bağlantı zaman aşımı</string>
   <string name="set_smsc_address_title">SMS Merkez Numarasını Ayarla</string>
+  <string name="set_time_period">Süreyi Ayarla</string>
+  <string name="setting">Ayarlar</string>
   <string name="set_subscription">Abonelikleri Seç</string>
   <string name="setting_activate_domestic_title">Yerli Çağrılar</string>
   <string name="setting_activate_international_title">Uluslararası Çağrılar</string>
@@ -1641,6 +1667,7 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="unable_dial_livetalk">"Aramayı tamamlanamadı"</string>
   <string name="unblock_pin2">PIN2 engelini kaldır</string>
   <string name="undefined">Yok</string>
+  <string name="undefined_setting">Yok</string>
   <string name="unknown">Bilinmiyor</string>
   <string name="unlock_failed">Ağ kilidini açma isteği başarısız.</string>
   <string name="unlock_success">Şebeke kilidini başarıyla açtı.</string>
@@ -1650,8 +1677,8 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="uplmn_list_setting_add_plmn">Yeni PLMN</string>
   <string name="uplmn_list_setting_title">Tercih Edilen Ağlar</string>
   <string name="uplmn_numeric_is_empty">Bir ağ kimliği girin</string>
-  <string name="use_current_account_creat_livetalk">"Bu Mi Hesabıyla oturum açıldı: %1$s.
-Kontör paketi kullanılsın mı?"</string>
+  <string name="use_current_account_creat_livetalk">Sonraki</string>
+  <string name="use_current_account_creat_livetalk_info">Mi Hesabı tarafından kontör pakaeti erişimini kullan: %1$s</string>
   <string name="use_current_account_creat_livetalk_button">Kullan</string>
   <string name="use_history">Etkinlik</string>
   <string name="use_history_duration_hour">%1$s</string>
@@ -1663,7 +1690,7 @@ Kontör paketi kullanılsın mı?"</string>
   <string name="ussdRunning">USSD kodu çalışıyor...</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="verified">Doğrulandı</string>
-  <string name="verify_fialed">"Doğrulanamadı"</string>
+  <string name="verify_failed">"Doğrulama hatası"</string>
   <string name="verifying">Doğrulanıyor…</string>
   <string name="vibrate_after_connected_summary">Cevaplarken titret</string>
   <string name="vibrate_after_connected_title">Bağlandıktan sonra titret</string>
