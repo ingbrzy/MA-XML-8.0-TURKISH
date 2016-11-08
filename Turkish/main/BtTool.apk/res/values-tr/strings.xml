@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Tamamlandı</string>
+    <string name="abc_action_bar_home_description">Ana Ekrana git</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer Seçenekler</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_query">Sorguyu Ara</string>
+    <string name="abc_searchview_description_clear">Sorguyu Temizle</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli Arama</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_activity_chooser_view_see_all">THepsi</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_shareactionprovider_share_with">Paylaş:</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="nnf_new_folder">Yeni Dizin</string>
+    <string name="nnf_create_folder_error">Dizin oluşturulamadı</string>
+    <string name="nnf_name">Adı</string>
+    <string name="nnf_select_something_first">Önce birşey seçin</string>
+    <string name="nnf_permission_external_write_denied">Dosya adına erişim izni yok</string>
+    <string name="app_name">BT Aracı</string>
+    <string name="app_version">0.9.6</string>
+    <string name="loading">Yükleniyor</string>
+    <string name="act_set_prefs_bluetooth">Bluetooth Günlük Aracı</string>
+    <string name="act_set_prefs_systool">MTK Sistem Aracı</string>
+    <string name="act_set_pref_test_situation_title">Test Durumu: %1$s</string>
+    <string name="act_set_pref_test_situation_dialog_title">Test Durumu:</string>
+    <string name="act_set_pref_btsc_cust_path_title">özel Yığın Ayarı</string>
+    <string name="act_set_pref_btsc_cust_path_summary">%1$s</string>
+    <string name="act_set_pref_systool_open_mtklogger_title">MtkLogger Aç</string>
+    <string name="act_set_pref_systool_open_mtklogger_summary">MtkLogger ana ekranına git</string>
+    <string name="act_set_pref_systool_open_engmode_title">EngineerMode aç</string>
+    <string name="act_set_pref_systool_open_engmode_summary">VM Konuşması: Doanımı Testi > Ses > Seslendirme Günlüğü</string>
+</resources>
