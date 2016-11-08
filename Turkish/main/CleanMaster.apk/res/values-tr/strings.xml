@@ -96,7 +96,7 @@
   <string name="clean_content_three">3 öğe</string>
   <string name="clean_content_two">2 öğe</string>
   <string name="clean_content_zero">Yok</string>
-  <string name="clear_bigfiles">Büyük dosyaları, yenilenen fotoğrafları ve diğer gereksiz öğeleri sil</string>
+  <string name="clear_bigfiles">Büyük dosyaları, yenilenen fotoğrafları ve diğer eski öğeleri sil</string>
   <string name="clear_immediately">Temizle</string>
   <string name="clear_safe_notify">Güvenlik Bildirim Çubuğu</string>
   <string name="clip_board_history_desc">Kopyalama/Kesme İçeriği</string>
@@ -171,12 +171,13 @@
   <string name="empty_content_no_ignore_image">Boş</string>
   <string name="empty_content_no_privacy">Boş</string>
   <string name="empty_content_no_similar_image">Fotoğraf yok</string>
-  <string name="empty_title_ad">Reklam dosyası yok</string>
+  <string name="empty_title_ad">Eski dosya bulunamadı</string>
   <string name="empty_title_apk">Yükleme paketi bulunamadı</string>
   <string name="empty_title_garbage_cache">Temizlenecek birşey yok</string>
   <string name="empty_title_garbage_white_list">İstisnalara eklemek için öğelere basılı tutun</string>
   <string name="empty_title_installed_apps">Boş</string>
   <string name="empty_title_large_files">Boş</string>
+  <string name="empty_title_photos">Fotoğraflar bulunamadı</string>
   <string name="empty_title_residual">Artık dosya bulunamadı</string>
   <string name="empty_title_video">Silinecek video yok​</string>
   <string name="flow_rank_title">Veri Kullanımı</string>
@@ -193,7 +194,7 @@
   <string name="hint_bar_select_image">%d seçildi</string>
   <string name="hint_clean_select_items">Yenilenenleri sil...</string>
   <string name="hint_clean_select_similar_image">Yenilenenler siliniyor…</string>
-  <string name="hints_ad_header_left">Reklam Dosyaları</string>
+  <string name="hints_ad_header_left">Eski Dosyalar</string>
   <string name="hints_apk_header_left">Paketler</string>
   <string name="hints_apk_version">Sürüm: %s</string>
   <string name="hints_app_uninstall_residual">Artık kaldırma dosyaları temizlensin mi?</string>
@@ -493,7 +494,7 @@
   <string name="update_date_format">dd-MM-yyyy</string>
   <string name="virus_scan">Virüs Tara</string>
   <string name="vungle_ad_name">Vungle广告</string>
-  <string name="white_list_ad_header">Reklam Dosyaları: %d</string>
+  <string name="white_list_ad_header">Eski Dosyalar: %d</string>
   <string name="white_list_apk_header">Yükleme Paketleri: %d</string>
   <string name="white_list_cache_header">Önbellek Dosyaları: %d</string>
   <string name="white_list_large_file_header">Büyük Dosyalar ve Videolar: %d</string>
