@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="remove_numbers_confirm">
+        <item quantity="other">%d numara silinecek.</item>
+        <item quantity="one">%d numara silinecek.</item>
+    </plurals>
     <plurals name="phone_in_ecm_notification_time">
         <item quantity="other">%s dakika boyunca veri bağlantısı yok</item>
         <item quantity="one">%s dakika boyunca veri bağlantısı yok</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Telefon %s dakika boyunca acil arama modunda olacaktır. Bu modda iken bir hiçbir uygulama veri bağlantısı kullanamaz. Şimdi çıkmak istiyor musunuz?</item>
-        <item quantity="one">Telefon %s dakika boyunca acil arama modunda olacaktır. Bu modda iken bir hiçbir uygulama veri bağlantısı kullanamaz. Şimdi çıkmak istiyor musunuz?</item>
+        <item quantity="other">Telefon %s dakika boyunca Acil Çağrı Modunda olacaktır. Bu modda iken bir hiçbir uygulama veri bağlantısı kullanamaz. Şimdi çıkmak istiyor musunuz?</item>
+        <item quantity="one">Telefon %s dakika boyunca Acil Çağrı Modunda olacaktır. Bu modda iken bir hiçbir uygulama veri bağlantısı kullanamaz. Şimdi çıkmak istiyor musunuz?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Seçilen eylem acil arama modunda kullanılamaz. Telefon %s dakika boyunca bu modda olacak. Artık ayrılmak istiyor musunuz?</item>
-        <item quantity="one">"Seçilen eylem acil arama modunda kullanılamaz. Telefon %s dakika boyunca bu modda olacak. Artık ayrılmak istiyor musunuz?"</item>
+        <item quantity="other">Seçilen eylem Acil Çağrı Modunda kullanılamaz. Telefon %s dakika boyunca bu modda olacak. Artık ayrılmak istiyor musunuz?</item>
+        <item quantity="one">"Seçilen eylem Acil Çağrı Modunda kullanılamaz. Telefon %s dakika boyunca bu modda olacak. Artık ayrılmak istiyor musunuz?"</item>
     </plurals>
 </resources>
