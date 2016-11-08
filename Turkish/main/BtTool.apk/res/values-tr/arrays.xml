@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="act_set_pref_test_situation_entries_labels">
+        <item>Varsayılan</item>
+        <item>SQC</item>
+        <item>H. Ayıklama</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="act_set_pref_test_situation_entries_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="act_set_pref_test_situation_entries_summaries">
+        <item>asgari günlük çıkışı</item>
+        <item>fazla günlük fakat performansı da koru</item>
+        <item>performans düşüsüyle birlikte azami günlük</item>
+        <item>kendi tanımına göre ayarlanmış günlük</item>
+    </string-array>
+</resources>
