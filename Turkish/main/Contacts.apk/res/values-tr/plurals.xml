@@ -131,6 +131,10 @@
         <item quantity="other">%1$d kişi</item>
         <item quantity="one">%1$d kişi</item>
     </plurals>
+    <plurals name="livetalk_unit">
+        <item quantity="other">Dakika</item>
+        <item quantity="one">Dakika</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">%d kez çaldı</item>
         <item quantity="one"> %d kez çaldı</item>
