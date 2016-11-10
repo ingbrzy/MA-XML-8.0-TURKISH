@@ -374,6 +374,10 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_web_discription_02">Her yerden alışveriş yap ve dosyalarına eriş</string>
   <string name="micloud_web_discription_international">www.mi.com/micloud adresini ziyaret edin</string>
   <string name="micloud_website">Mi Bulut öğeleri</string>
+  <string name="micloud_wipe_data_confirm_label">Mi Bulut üzerinden veriyi kaldır</string>
+  <string name="micloud_wipe_data_confirm_title">Telefonda oturum kapatıldığında Mi Bulut ile eşitlenmiş öğeler kaldırılsın mı?</string>
+  <string name="micloud_wipe_data_remove">Kaldır</string>
+  <string name="micloud_wipe_data_retain">Ayrıl</string>
   <string name="microsoft_cloud">Microsoft Bulut Servisi</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Yıllık yaklaşık olarak 80 Yuan</string>
@@ -510,7 +514,11 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="view_storage_title">Depolama Alanı</string>
   <string name="virtual_sim_desc">SIM kart olmadan cihazı bulmak için Mi SIM özelliğini açın</string>
   <string name="voip_choose_sim">Mi Voice uygulamasını etkinleştirmek için telefon numarasını seçin</string>
+  <string name="wipe_data_dialog_button_check_sync">Eşitlendiğini denetle</string>
+  <string name="wipe_data_dialog_msg">"%s eşitlenmedi ve halen telefonda."</string>
+  <string name="wipe_data_dialog_msg_and_on">, va diğer öğeler</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">"Bazı öğeler eşitlenmedi"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xmpp_server_addr"/>
