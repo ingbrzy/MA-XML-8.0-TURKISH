@@ -16,4 +16,32 @@
         <item quantity="other">%d fotoğraf</item>
         <item quantity="one">%d fotoğraf</item>
     </plurals>
+	<plurals name="dirty_callog_count">
+        <item quantity="other">%d çağrı geçmişi</item>
+        <item quantity="one">%d çağrı geçmişi</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d WLAN bağlantısı</item>
+        <item quantity="one">%d WLAN bağlantısı</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d kayıt</item>
+        <item quantity="one">%d kayıt</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d şarkı</item>
+        <item quantity="one">%d şarkı</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d tarayıcı öğesi</item>
+        <item quantity="one">%d tarayıcı öğesi</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d takvim öğesi</item>
+        <item quantity="one">%d takvim öğesi</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d kara liste girişi</item>
+        <item quantity="one">%d kara liste girişi</item>
+    </plurals>
 </resources>
