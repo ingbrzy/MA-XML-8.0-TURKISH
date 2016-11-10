@@ -2824,6 +2824,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="path_brightness_settings">Ayarlar/Ekran/Parlaklık</string>
   <string name="path_button_light_timeout">Ayarlar/Ek Ayarlar/Düğmeler/Düğme ışıkları açık kalsın</string>
   <string name="path_calendar_sound_title">Ayarlar/Ses &amp; Titreşim/Takvim Sesi</string>
+  <string name="path_camera_key_action_shortcut_screenshot">Ayarlar/Ek Ayarlar/Ekran Görüntüsü</string>
   <string name="path_children_mode_settings">Ayarlar/Ek Ayarlar/Çocuk Modu</string>
   <string name="path_choose_timezone">Ayarlar/Ek Ayarlar/Tarih &amp; Zaman/Zaman Dilimini Seçin</string>
   <string name="path_cloud_backup_settings_section_title">Ayarlar/Ek Ayarlar/Yedekle &amp; Sıfırla/Yedekleme Ayarları</string>
@@ -2846,6 +2847,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="path_do_not_disturb_settings">Ayarlar/Rahatsız Etme</string>
   <string name="path_dtmf_tone_enable_title">Ayarlar/Ses &amp; Titreşim/Tuş Takımı Tonları</string>
   <string name="path_edge_handgrip">Ayarlar/Kenar Kontrolleri</string>
+  <string name="path_enable_adb">Ayarlar/Ek Ayarlar/Yönetici Seçenekleri/USB Hata Ayıklama</string>
   <string name="path_equalizer">Ayarlar/Ses &amp; Titreşim/Ses Ayarları/Ekolayzer</string>
   <string name="path_fluency_mode">Ayarlar/Pil &amp; Performans/Sistem Animasyonları</string>
   <string name="path_font_settings">Ayarlar/Ekran/Yazı Tipi</string>
@@ -2893,6 +2895,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="path_other_advanced_settings">Ayarlar/Ek Ayarlar</string>
   <string name="path_owner_info_settings">Ayarlar/Kilit Ekranı &amp; Şifre/Sahip Bilgisi</string>
   <string name="path_page_layout_settings">Ayarlar/Ekran/Metin Boyutu</string>
+  <string name="path_permission_settings_title">Ayarlar/İzinler/Uygulama İzinleri</string>
   <string name="path_pn_settings">Ayarlar/Mobil Ağlar/Erişim Noktası Adı</string>
   <string name="path_pointer_speed">Ayarlar/Ek Ayarlar/Dil &amp; Giriş/İşaretleyici Hızı</string>
   <string name="path_power_checker">Ayarlar/Ek Ayarlar/Beta Özellikleri/Güç Denetleyicisi</string>
@@ -3587,6 +3590,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_brightness">Parlaklık;Ekran Parlaklığı</string>
   <string name="search_button_light_timeout">Işıkları açık bırak;Düğme Işıkları</string>
   <string name="search_calendar_sound_title">Takvim Sesi;Takvim</string>
+  <string name="search_camera_key_action_shortcut_screenshot">Ekran Görüntüsü Al</string>
   <string name="search_children_mode_settings">Çocuk Modu;SMS Kilidi;SMS Kısıtlaması</string>
   <string name="search_children_mode_title">Çocuk Modu;Çocuk</string>
   <string name="search_choose_timezone">Zaman Dilimini Seç;Zaman Dilimi</string>
@@ -3596,7 +3600,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_credentials_install">Depolamadan Yükle;Direkt yükle;APK yükle</string>
   <string name="search_date_time">Tarih ve Saat;Tarih;Zaman</string>
   <string name="search_description">Arama Ayarları</string>
-  <string name="search_development_settings">Geliştirici Seçenekleri</string>
+  <string name="search_development_settings">Geliştirici Seçenekleri;Yardımcı</string>
   <string name="search_device_name">Cihaz Adı</string>
   <string name="search_device_status">Durum</string>
   <string name="search_display">Ekran;Parlaklık;Renk DoygunluğuEldiven Modu;Ekran Koruyucu;Ekranı Otomatik Döndür;Ekranı Döndür;Cepte Ara</string>
@@ -3611,6 +3615,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_dtmf_tone_enable_title">Tuş Takımı Dokunma Tonları</string>
   <string name="search_edge_handgrip">Kenar Kontrolleri</string>
   <string name="search_empty">Arama sonucu bulunamadı</string>
+  <string name="search_enable_adb">USB Hata Ayıklama</string>
   <string name="search_equalizer">Ekolayzer</string>
   <string name="search_fluency_mode">Sistem Animasyonları</string>
   <string name="search_font">Sistem Fontu;Font;Yazı Tipleri;Yazı Boyutu, Font Boyu</string>
@@ -3652,6 +3657,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_other_advanced_settings">Ek Ayarlar;Gizlilik Ayarları;Tarih &amp; Zaman;Dil &amp; Giriş;Tek Elle Kullanım Modu;Pil &amp; Performans;Depolama;Bildirim Işığı;Led;Kulaklık &amp; Ses Efekleri;Düğmeler;Tuşlar;Erişebilirlik;Beta Özellikleri;Test Özellikleri;Geliştirici Seçenekleri;Yedekle &amp; Sıfırla;Transfer;Tek Tuşla Gönder</string>
   <string name="search_owner_info_settings">Sahip Bilgisi</string>
   <string name="search_page_layout_settings">Metin Boyutu</string>
+  <string name="search_permission_settings_title">Uygulama İzinleri</string>
   <string name="search_pointer_speed">İşaretleyici Hızı</string>
   <string name="search_power_checker">Güç Denetleyicisi</string>
   <string name="search_power_hide_mode_title">Uygulamaların pil kullanımını yönet</string>
