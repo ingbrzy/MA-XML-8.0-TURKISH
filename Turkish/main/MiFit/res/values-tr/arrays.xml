@@ -24,7 +24,7 @@
         <item>Azami VO₂</item>
     </string-array>
     <string-array name="lock_screen_type">
-        <item>Kapat</item>
+        <item>Kapalı</item>
         <item>Yakın</item>
         <item>Uzak</item>
     </string-array>
@@ -34,9 +34,9 @@
         <item>120 dakika</item>
     </string-array>
     <string-array name="mili_help_tips">
-        <item>Bilekliğinizin şarj olduğundan ve pilinin bitmemiş olduğundan emin olun.</item>
+        <item>Bilekliğinizin şarj olduğundan ve pilin bitmemiş olduğundan emin olun.</item>
         <item>Öncelikle Bluetooth aygıtını kapatıp daha sonra mevcut cihaz ile eşleştirin.</item>
-        <item>"Bileklik şarj edildiği halde telefon bilekliği bulamıyorsa; telefonun Bluetooth'unu kapatıp-açmayı deneyin."</item>
+        <item>"Bileklik şarj edildiği halde telefon; bilekliği bulamıyorsa; telefonun Bluetooth'unu kapatıp-açmayı deneyin."</item>
         <item>"Bluetooth'u yeniden başlatmak sorunu çözmediyse; telefonunuzu yeniden başlatmayı deneyin."</item>
     </string-array>
     <string-array name="mili_help_title">
