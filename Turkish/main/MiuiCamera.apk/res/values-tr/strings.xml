@@ -41,13 +41,13 @@
   <string name="cannot_move_warning_message">İşlem sürüyor, cihazın işleme devam etmesini sağlayın</string>
   <string name="close">Kapat</string>
   <string name="confirm_location_alert">Fotoğrafın konumunu hatırla</string>
-  <string name="confirm_location_message">Fotoğraflar konuma kaydedilsin mi?</string>
+  <string name="confirm_location_message">Fotoğraflarınızı ve videolarınızı çekildikleri yerlerle etiketleyin. Diğer uygulamalar bu bilgilere kaydedilen resimlerinizle birlikte erişebilir.</string>
   <string name="confirm_location_title">Fotoğraflar bu konumu hatırlansın mı?</string>
   <string name="confirm_recording_fail_calling_alert">Görüşme esnasında kayıt yapılamıyor.</string>
   <string name="confirm_recording_fail_recorder_busy_alert">"Başka bir uygulama zaten cihazın mikrofonunu kullanarak kayıt yapıyor."</string>
   <string name="confirm_recording_fail_title">"Kaydedilemedi"</string>
   <string name="confirm_restore_message">Kameranın varsayılan ayarları geri yüklensin mi?</string>
-  <string name="confirm_restore_title">Varsayılan Ayarları Geri Yükle</string>
+  <string name="confirm_restore_title">Varsayılanları Geri Yükle</string>
   <string name="details">Detaylar</string>
   <string name="dialog_ok">Tamam</string>
   <string name="dual_camera_lens_covered_toast">Lens kapalı.</string>
@@ -92,8 +92,8 @@
   <string name="location">Konum</string>
   <string name="message_snap_double_confirm">Ses tuşuna uzun süreli basarak Transfer moduna geçiliyordu, değiştirilsin mi?</string>
   <string name="model">Model</string>
-  <string name="no_storage">Kamerayı kullanmadan önce lütfen bir SD kart takın</string>
-  <string name="not_enough_space">SD Kart dolu</string>
+  <string name="no_storage">Kamerayı kullanmadan önce; bir SD kart takın</string>
+  <string name="not_enough_space">Dahili Depolama dolu</string>
   <string name="object_track_enable_toast">Bir nesneyi seçmek için, eş zamanlı olarak kenar etrafındaki iki köşegen noktasına dokunun.</string>
   <string name="orientation">Döndür</string>
   <string name="pano_dialog_panorama_failed">"Geniş Görünüm kayıt edilemedi"</string>
@@ -448,6 +448,7 @@
   <string name="spaceIsLow_content_external_storage_priority">SD kartta yeterli alan yok</string>
   <string name="spaceIsLow_content_primary_storage_priority">USB Depolamada yeterli alan yok</string>
   <string name="start_capture">Tamam</string>
+  <string name="pref_camera_id_default">0</string>
   <string name="tap_to_exposure">El ile pozlamayı ayarlamak için dokunun</string>
   <string name="tap_to_focus">Odaklanmak için dokunun</string>
   <string name="time">Zaman</string>
