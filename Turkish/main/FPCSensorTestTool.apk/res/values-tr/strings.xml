@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sensör Test Aracı</string>
+    <string name="selftest">Kendini Test Et</string>
+    <string name="checkerboard_test">Denetleme Testi</string>
+    <string name="image_quality_test">Resim Kalite Testi</string>
+    <string name="capacitance_test">Kapasite Testi</string>
+    <string name="correct">Tamam</string>
+    <string name="error">Hata</string>
+</resources>
