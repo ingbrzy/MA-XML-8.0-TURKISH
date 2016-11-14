@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Yükleme için %d saniye içinde yeniden başlatılıyor...</item>
+        <item quantity="one">Yükleme için 1 saniye içinde yeniden başlatılıyor...</item>
+    </plurals>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">Android cihazında şu uygulamalar olmadığından bu hesap kullanılamıyor: ^1. &lt;b>^2&lt;/b> için alan adı yöneticisine başvurun veya başka bir hesap kullanarak oturum açın.</item>
+        <item quantity="one">Android cihazında şu uygulama olmadığından bu hesap kullanılamıyor: ^1. &lt;b>^2&lt;/b> için alan adı yöneticisine başvurun veya başka bir hesap kullanarak oturum açın.</item>
+    </plurals>
+</resources>
