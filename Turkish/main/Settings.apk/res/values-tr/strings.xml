@@ -884,7 +884,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="children_mode_title">Çocuk Modu</string>
   <string name="choose_assist_title">Yardımcı Uygulamayı seç</string>
   <string name="choose_profile">Profili seç</string>
-  <string name="choose_smartcover_type">Kapak tipini seçin</string>
+  <string name="choose_smartcover_type">Kılıf tipini seçin</string>
   <string name="choose_timezone">Zaman Dilimini Seç</string>
   <string name="choose_voice_input_title">Ses Girişini Seç</string>
   <string name="cleaner">Temizleyici</string>
@@ -1705,6 +1705,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="free_xiaomi_wifi_connect_summary">%1$s bağlantısı için dokun.</string>
   <string name="frequently_fragment_delete">Kaldır</string>
   <string name="frequently_fragment_tempty">Sık kullanılan öğeler burada listelenecektir</string>
+  <string name="full_transparent_smarrcover_title">Ön Kılıf Şeffaf</string>
   <string name="fullbackup_data_summary">"Otomatik olarak cihazdaki verilerle uygulama verileri farklı bir noktada yedeklenir (buna WLAN şifreleri, çağrı geçmişi, ayarlar ve satın alınan uygulamalar dahildir)
 
 Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında saklanır. Bu işlemde esnasında kişiler, mesajlar, fotoğraflar dahil olmak üzere uygulama verisi de saklanır."</string>
@@ -2648,7 +2649,9 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="no_updates_warning2">"Rahatla, bir güncelleme olup olmadığını size bildiririz :)"</string>
   <string name="noise_suppression">Ortam gürültüsünü bastır</string>
   <string name="normal_date_format">Bölgesel (%s)</string>
-  <string name="normal_smartcover_title">Opak ön kapak</string>
+  <string name="normal_smartcover_title">Ön Kılıf Opak</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">Akıllı Kılıf Kilidi veya Ekran Kilidi</string>
+  <string name="smartcover_sensitive_summary">Kilitle veya akıllı kılıf ile telefonun basitçe aç</string>
   <string name="not_installed">Yüklenmedi</string>
   <string name="note_title">Notlar</string>
   <string name="notes_privacy_password_role_instruction">Özel notlarınız burada depolanacak...</string>
@@ -4011,7 +4014,7 @@ Kalan Girişimler :"</string>
   <string name="slot_number">(Yuva %1$d)</string>
   <string name="slot_status_title">IMEI Bilgileri</string>
   <string name="small_font">Küçük</string>
-  <string name="smallwindow_smartcover_title">Şeffaf Ön Kapak</string>
+  <string name="smallwindow_smartcover_title">Şeffaf Ön Kılıf</string>
   <string name="smartcover_sensitive_title">Akıllı Kılıf Modu</string>
   <string name="sms_application_title">Varsayılan SMS Uygulaması</string>
   <string name="sms_change_default_dialog_text">SMS uygulaması olarak  %2$s yerine %1$s kullanmak ister misiniz?</string>
