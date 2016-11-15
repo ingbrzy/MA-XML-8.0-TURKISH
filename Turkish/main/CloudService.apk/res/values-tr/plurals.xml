@@ -8,6 +8,18 @@
         <item quantity="other">%d mesaj</item>
         <item quantity="one">%d mesaj</item>
     </plurals>
+    <plurals name="sync_items_close">
+        <item quantity="other">%d kapalı</item>
+        <item quantity="one">%d kapalı</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Eşitleme için bekleyen öğe: %d</item>
+        <item quantity="one">Eşitleme için bekleyen öğe: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d öğe eşitleme için bekliyor</item>
+        <item quantity="one">%d öğe eşitleme için bekliyor</item>
+    </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">%d not</item>
         <item quantity="one">%d not</item>
