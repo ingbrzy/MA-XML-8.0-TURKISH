@@ -133,7 +133,7 @@
   <string name="empty_device_list_notice">Cihaz yok</string>
   <string name="error_device_id">Cihaz kimliği alınamadı</string>
   <string name="error_dup_binded_email">Bu E-Posta adresi zaten başka Mi Hesabı ile ilişkilendirilmiş.</string>
-  <string name="error_duplicate_answers">"Yüvenlik amaçlı yenilenen cevapları kullanmayın"</string>
+  <string name="error_duplicate_answers">"Güvenlik amaçlı yenilenen cevapları kullanmayın"</string>
   <string name="error_incomplete_question_or_answer">4 soru seçin ve cevaplayın</string>
   <string name="error_invalid_bind_address">Girdiğiniz E-Posta adresi geçersiz.</string>
   <string name="error_invalid_dev_id">Geçersiz Cihaz Kimliği</string>
@@ -199,7 +199,7 @@
   <string name="login_instead_reg">Bu numarayı kullan</string>
   <string name="login_instead_reg_with_email">Bu E-Postayı kullan</string>
   <string name="login_title">Mi Hesabına giriş yap</string>
-  <string name="login_with_email_or_id">&lt;u&gt;E-Posta veya Mi Hesap Kimli&amp;#287;iyle giri&amp;#351; yap&lt;/u&gt;</string>
+  <string name="login_with_email_or_id">E-Posta veya Mi Hesap Kimliğiyle giriş yap</string>
   <string name="logout_failed">"Oturum açılamıyor"</string>
   <string name="mi_account_dspt_provision">"İstediğiniz yerden Mi Bulut, MIUI Tema Mağazası ve diğer servislere oturum açabilirsiniz. "</string>
   <string name="mi_account_identity_title">Kimliğinizi doğrulayın</string>
@@ -255,10 +255,11 @@
   <string name="passport_auto_generate_pwd">Güvenli bir şifre oluşturun</string>
   <string name="passport_back">Geri</string>
   <string name="passport_bad_authentication">Kullanıcı adı veya şifre hatalı</string>
+  <string name="passport_barcode_add_account_prompt">Bir hesaba bağlanmak için; oturumu açtıktan sonra QR Kodunu yeniden tarayın.</string>
   <string name="passport_btn_return">Geri</string>
   <string name="passport_button_cancel">İptal</string>
   <string name="passport_captcha">Kodu Girin</string>
-  <string name="passport_change_account">&lt;u&gt;Hesab&amp;#305; de&amp;#287;i&amp;#351;tir&lt;/u&gt;</string>
+  <string name="passport_change_account">Hesabı değiştir</string>
   <string name="passport_change_phone_number">Numaraları değiştir</string>
   <string name="passport_checking_account">Şifre kontrol ediliyor…</string>
   <string name="passport_checking_input">Giriş kontrol ediliyor…</string>
@@ -363,9 +364,9 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_reg_success">Hesabınız oluşturuldu</string>
   <string name="passport_reg_success_summary">%1$s hesabınızla bağlanmıştır. Oturum açmak için veya şifrenizi sıfırlamak için kullanabilirsiniz.</string>
   <string name="passport_reg_type_email">E-posta adresi kullan</string>
-  <string name="passport_reg_type_other_ways">&lt;u&gt;E-Posta adresinizi veya alternatif bir numaray&amp;#305; kullan&amp;#305;n&lt;/u&gt;</string>
+  <string name="passport_reg_type_other_ways">E-Posta adresinizi veya alternatif bir numarayı kullanın</string>
   <string name="passport_reg_type_other_ways_title">Bir Mi Hesap Oluştur</string>
-  <string name="passport_reg_using_other_phone">&lt;u&gt;Alternatif telefon numaras&amp;#305;n&amp;#305; kullan&lt;/u&gt;</string>
+  <string name="passport_reg_using_other_phone">Alternatif telefon numarası kullan</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Şunu kullanarak yeni hesap oluştur: "</string>
   <string name="passport_reg_using_phone_number_prompt">Telefon numarasını kullanarak hesap oluşturun</string>
   <string name="passport_reg_via_sms_alert">Operatörünüz bu hizmeti etkinleştirmek için bir SMS mesajı için ücret alabilir.</string>
@@ -373,7 +374,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_register">Hesap oluştur</string>
   <string name="passport_register_account_goto_email">Gelen kutusuna git</string>
   <string name="passport_register_account_verified_confirm">Hesap doğrulandı</string>
-  <string name="passport_register_by_email">&lt;u&gt;E-Posta adresini kullanarak bir hesap olu&amp;#351;tur&lt;/u&gt;</string>
+  <string name="passport_register_by_email">E-Posta adresini kullanarak bir hesap oluşturun</string>
   <string name="passport_register_restricted">Bu numara ile ilişkili çok fazla hesap var. Başka birini deneyin</string>
   <string name="passport_register_restricted_title">"Bu telefon numarası kullanılamıyor"</string>
   <string name="passport_registered_phone_user_ID">Kullanıcı ID: %s</string>
@@ -419,7 +420,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_verification_failed">Kimlik doğrulama başarısız</string>
   <string name="passport_verify">Doğrula</string>
   <string name="passport_wait_for_sms_prompt">Şimdi baştan başlansın mı? Telefonunuz operatörünüzün şebekesi kapsama alanı içinde olduğunda doğrulama mesajlarının teslim edilmesi 10 dakika sürebilir."</string>
-  <string name="passport_welcome_skip_login">&lt;u&gt;Atla&lt;/u&gt;</string>
+  <string name="passport_welcome_skip_login">Atla</string>
   <string name="passport_wrong_captcha">Girilen kod geçersiz</string>
   <string name="passport_wrong_password">Şifre hatalı</string>
   <string name="passport_wrong_phone_number_format">Girdiğiniz telefon numarasının biçimi geçersiz</string>
@@ -436,7 +437,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="photoPickerNotFoundText">Resim bulunamadı.</string>
   <string name="prev">Geri</string>
   <string name="privacy_policy">Veri Koruması</string>
-  <string name="provision_skip_login">&lt;u&gt;Bu ad&amp;#305;m&amp;#305; atla&lt;/u&gt;</string>
+  <string name="provision_skip_login">Bu adımı atla</string>
   <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">2-Adımlı Doğrulama</string>
   <string name="quick_login_dialog_title">Şifreyi Doğrula</string>
@@ -446,7 +447,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="reg_failed">"Hesap oluşturulamadı"</string>
   <string name="reging">Hesap oluşturuluyor...</string>
   <string name="register">Mi Hesabı oluştur</string>
-  <string name="register_by_email">&lt;u&gt;Mi Hesab&amp;#305; olu&amp;#351;turmak i&amp;#231;in e-posta adresi kullan&lt;/u&gt;</string>
+  <string name="register_by_email">Mi Hesabı oluşturmak için e-posta adresi kullan</string>
   <string name="relogin">Yeniden giriş yap</string>
   <string name="remove_account_notice">Mesajları, kişileri ve diğer verileri Mi Hesabınızla eşitlemek iter misiniz?</string>
   <string name="remove_device_success_notice">Eğer bu cihazı güvenilir cihazlardan kaldırırsanız, yeniden otorum açıp doğrulamanız gerekebilir.</string>
