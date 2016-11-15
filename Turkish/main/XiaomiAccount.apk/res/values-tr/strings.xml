@@ -304,7 +304,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_find_device_activate_account">Hesabı etkinleştir</string>
   <string name="passport_find_device_display_id">Kilidi Açma Numarası: %s</string>
   <string name="passport_find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com adresini ziyaret edin.</string>
-  <string name="passport_forget_password">&lt;u&gt;&amp;#350;ifremi unuttum&lt;/u&gt;</string>
+  <string name="passport_forget_password">Şifremi unuttum</string>
   <string name="passport_forget_password_no_underline">Şifremi unuttum</string>
   <string name="passport_get_back_pwd">Hesap şifresini al</string>
   <string name="passport_get_verify_code">Kodu al</string>
@@ -334,8 +334,8 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_login_prompt">Tek Mi Hesabı, tüm Mi Hizmetleri.</string>
   <string name="passport_login_short">Oturum aç</string>
   <string name="passport_login_title">Mi Hesabınızda oturum açın</string>
-  <string name="passport_login_using_other_ways">&lt;u&gt;Di&amp;#287;er yolla oturum a&amp;#231;&lt;/u&gt;</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;E-Posta adresi veya Mi Hesap ID ile oturum açın&lt;/u&gt;</string>
+  <string name="passport_login_using_other_ways">Diğer yolla oturum aç</string>
+  <string name="passport_login_with_email_or_id">E-Posta adresi veya Mi Hesap ID ile oturum açın</string>
   <string name="passport_message_dialog_title">SMS ile Kodları Doğrula</string>
   <string name="passport_miui_provision_find_status_text">"Bu cihaz kullanılan bir Mi Hesap (%1$s) ile ilişkili, cihazın şifresini girip doğrulayın.
 (Kaldırma Numarası: %2$s)"</string>
@@ -407,11 +407,11 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_uplink_slot2_reg">SIM 2 Kullan</string>
   <string name="passport_use_generated_pwd_message">Unutmayacağınız bir şifre kullanın. Diğer Mi Hizmetleri içinde aynı şifreyi kullanabilirsiniz.</string>
   <string name="passport_use_generated_pwd_title">Şifrenizi unutmayın!</string>
-  <string name="passport_user_agreement"> Kullanıcı Sözleşmesi</string>
+  <string name="passport_user_agreement"> Kullanıcı Sözleşmesi </string>
   <string name="passport_user_agreement_p1">Kullanıcı Sözleşmesi </string>
-  <string name="passport_user_agreement_p2"> ve </string>
-  <string name="passport_user_agreement_p3">Gizlilik Politikası\'nı</string>
-  <string name="passport_user_agreement_p4">kabul etmiş olursunuz.</string>
+  <string name="passport_user_agreement_p2">" ve "</string>
+  <string name="passport_user_agreement_p3">"Gizlilik Politikası\'nı "</string>
+  <string name="passport_user_agreement_p4">" kabul etmiş olursunuz."</string>
   <string name="passport_vcode">Doğrulama Kodu</string>
   <string name="passport_vcode_notification_title">Oturum açma doğrulanması tamamlanamadı</string>
   <string name="passport_vcode_prompt_long">Doğrulama kodunu girin</string>
