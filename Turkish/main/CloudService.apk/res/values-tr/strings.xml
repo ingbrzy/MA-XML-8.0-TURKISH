@@ -53,7 +53,7 @@ Son yedekleme: %2$s"</string>
   <string name="cloud_space_upgrade_message">Bulutunuza %s GB eklemek için dokunun •</string>
   <string name="cloud_space_upgrade_no_quota_info">"Depolama bilgisi alınamıyor"</string>
   <string name="cloud_space_upgrade_title">"Mi Bulut'ta daha fazla alan"</string>
-  <string name="cloud_storage_full">Bulut Depolama</string>
+  <string name="cloud_storage_full">Bulut Depolama doldu</string>
   <string name="cloud_storage_is_full">Dolu</string>
   <string name="cloudservice_new_sync">%s Mi Bulut ile eşitle</string>
   <string name="cmcc_micloud_dspt">Mi Bulut kullanarak verilerinizi eşitleyin, cihazını bulun ve arkadaşlarınızla paylaşın.. </string>
@@ -408,8 +408,8 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="open_micloud_sync">Mi Bulut ile eşitleme açık</string>
   <string name="other_settings">Diğer Ayarlar</string>
   <string name="other_sync_item">Eşitlenecek Diğer Öğeler</string>
-  <string name="passed_synced_time_day">%dd gün önce eşitlendi</string>
-  <string name="passed_synced_time_hour">%1$dh %2$dm önce eşitlendi</string>
+  <string name="passed_synced_time_day">%dg önce eşitlendi</string>
+  <string name="passed_synced_time_hour">%1$ds %2$ddak önce eşitlendi</string>
   <string name="passed_synced_time_min">%d dakika önce eşitlendi</string>
   <string name="passed_synced_time_sec">%d saniye önce eşitlendi</string>
   <string name="password">Şifrenizi girin</string>
