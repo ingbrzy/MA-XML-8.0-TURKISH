@@ -300,12 +300,12 @@
   <string name="st_sub_title_customize_mode_name">Adı</string>
   <string name="st_sub_title_whiteblack_list_group">Kara Liste</string>
   <string name="st_sum_call_wait">Dışarda olduğunuzda sizi arayanlara - Meşgul - sinyali çalınacaktır.</string>
-  <string name="st_summary_blacklist_numbers">Çağrı ve mesajları numara ve alan kodu kullanarak engelle</string>
-  <string name="st_summary_blacklist_numbers_international">Numara kullanarak çağrı ve mesajları engelle</string>
+  <string name="st_summary_blacklist_numbers">Aramaları ve mesajları belirli numaralardan ve alanlardan engelle</string>
+  <string name="st_summary_blacklist_numbers_international">Aramaları ve mesajları belirli numaralardan ve alanlardan engelle</string>
   <string name="st_summary_keywords_blacklist">Mesajları engellemek için anahtar kelimeler ekleyin</string>
   <string name="st_summary_special_numbers">İşaretli telefon numaralarını engelle</string>
   <string name="st_summary_whitelist_numbers">Özel numaralara ve bölgelerden gelen aramalara ve mesajlara izin ver</string>
-  <string name="st_summary_whitelist_numbers_international">Belirli numaraların çağrı ve mesajlarına izin ver</string>
+  <string name="st_summary_whitelist_numbers_international">Belirli numaralardan ve alanlardan gelen çağrılara ve mesajlara izin ver</string>
   <string name="st_title_adblock_group">Reklam Engelleyici</string>
   <string name="st_title_adblock_setting">Reklam Engelleyici Ayarları</string>
   <string name="st_title_addblacklist">Kara Listeye ekle</string>
@@ -348,7 +348,7 @@
   <string name="tab_block_log_unKnowNumber">Özel Numara</string>
   <string name="tab_call">Çağrılar</string>
   <string name="tab_sms">Mesajlar</string>
-  <string name="tab_title">Anti-Spam</string>
+  <string name="tab_title">Kara Liste</string>
   <string name="toast_keyword_blank">Bir anahtar kelime girmeniz gerekiyor</string>
   <string name="toast_keyword_exist">Kelime filtresi eklendi</string>
   <string name="toast_keyword_invalid">Hatalı kelime</string>
