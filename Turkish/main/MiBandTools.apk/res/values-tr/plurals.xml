@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="card_selected_items">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">1 öğe seçildi</item>
+    </plurals>
+    <plurals name="list_card_undo_items">
+        <item quantity="other">%d kart kaldırıldı</item>
+        <item quantity="one">1 ckart kaldırıldı</item>
+    </plurals>
+</resources>
