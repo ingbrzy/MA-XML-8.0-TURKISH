@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="circles_multiple">
+        <item quantity="other">%1$s çevre</item>
+        <item quantity="one">%1$s çevre</item>
+    </plurals>
+    <plurals name="content_description_rated">
+        <item quantity="other">Verdiğiniz oy: %1$s yıldız</item>
+        <item quantity="one">Verdiğiniz oy: %1$s yıldız</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d yorum</item>
+        <item quantity="one">%1$d yorum</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%2$d yıldızlı değerlendirme için %1$d yorum</item>
+        <item quantity="one">%2$d yıldızlı değerlendirme için %1$d yorum</item>
+    </plurals>
+    <plurals name="content_description_review_tip_review_count">
+        <item quantity="other">%2$s yorumdan %1$s olanlar</item>
+        <item quantity="one">%2$s yorumdan %1$s olan</item>
+    </plurals>
+    <plurals name="my_apps_selected">
+        <item quantity="other">%1$d tane seçildi</item>
+        <item quantity="one">%1$d tane seçildi</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d güncelleme onay gerektiriyor</item>
+        <item quantity="one">%1$d güncelleme onay gerektiriyor</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d yeni güncelleme</item>
+        <item quantity="one">%1$d yeni güncelleme</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d güncelleme var</item>
+        <item quantity="one">%1$d güncelleme var</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Tümünü güncelle</item>
+        <item quantity="one">Güncelle</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d uygulama güncellendi</item>
+        <item quantity="one">%1$d uygulama güncellendi</item>
+    </plurals>
+    <plurals name="number_of_apps">
+        <item quantity="other">%1$s uygulama</item>
+        <item quantity="one">%1$s uygulama</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&amp;lt;b>%1$s&amp;lt;/b> %2$s yıldız</item>
+        <item quantity="one">&amp;lt;b>%1$s&amp;lt;/b> %2$s yıldız</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&amp;lt;b>%1$s&amp;lt;/b> %2$s yıldız - %3$s</item>
+        <item quantity="one">&amp;lt;b>%1$s&amp;lt;/b> %2$s yıldız - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&amp;lt;b>%1$s&amp;lt;/b> %2$s yıldız - %3$s - %4$s</item>
+        <item quantity="one">&amp;lt;b>%1$s&amp;lt;/b> %2$s yıldız - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d kullanıcı bu yorumu faydalı buldu. Yorumu faydalı olarak işaretle</item>
+        <item quantity="one">%1$d kullanıcı bu yorumu faydalı buldu. Yorumu faydalı olarak işaretle</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d kullanıcı bu yorumu faydalı buldu. Yorumun faydalı bulunma işaretini kaldır</item>
+        <item quantity="one">%1$d kullanıcı bu yorumu faydalı buldu. Yorumun faydalı bulunma işaretini kaldır</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Bunun için &amp;lt;b>%1$s yıldız&amp;lt;/b> verdi</item>
+        <item quantity="one">Bunun için &amp;lt;b>%1$s yıldız&amp;lt;/b> verdi</item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s yorumda</item>
+        <item quantity="one">%1$s yorumda</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&amp;lt;b>%1$s yıldız&amp;lt;/b> %2$s</item>
+        <item quantity="one">&amp;lt;b>%1$s yıldız&amp;lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_apps_loading_error_menu_title">
+        <item quantity="other">Öğeler yüklenemiyor. Başka bir yedeği deneyin.</item>
+        <item quantity="one">Öğeler yüklenemiyor. Daha sonra tekrar deneyin.</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">En son %1$d gün önce kullanıldı</item>
+        <item quantity="one">En son %1$d gün önce kullanıldı</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Seçilen %1$d uygulamayı geri yükle</item>
+        <item quantity="one">Seçilen uygulamayı geri yükle</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">yıldız</item>
+        <item quantity="one">yıldız</item>
+    </plurals>
+    <plurals name="tip_header_subtitle">
+        <item quantity="other">%1$s kişi şunu söylüyor:</item>
+        <item quantity="one">%1$s kişi şunu söylüyor:</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">En son %1$d gün önce kullanıldı</item>
+        <item quantity="one">En son %1$d gün önce kullanıldı</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">En son %1$d ay önce kullanıldı</item>
+        <item quantity="one">En son %1$d ay önce kullanıldı</item>
+    </plurals>
+</resources>
