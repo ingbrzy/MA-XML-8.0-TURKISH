@@ -269,8 +269,8 @@
         <item quantity="one">%1$d öğe kaydedildi</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">Bulut doldu. %1$d öğe yedeklenmeyi bekliyor</item>
-        <item quantity="one">Bulut doldu. %1$d öğe yedeklenmeyi bekliyor</item>
+        <item quantity="other">%1$d öğe yedeklenemedi</item>
+        <item quantity="one">%1$d öğe yedeklenemedi</item>
     </plurals>
     <plurals name="local_space_full">
         <item quantity="other">Depolama alanı çok az. %1$d öğe yedeklenmeyi bekliyor</item>
