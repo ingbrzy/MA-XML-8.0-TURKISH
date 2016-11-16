@@ -710,6 +710,8 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">Eski cihaz güncel cihaz ile değiştirilecek</string>
   <string name="bluetooth_unlock_change_matched_device">Diğer cihazı seç</string>
   <string name="bluetooth_unlock_confirm_device_text">Bluetooth cihazını doğrulamak için dokun.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Kilidi açmak için saatin üzerindeki düğmeye dokunun.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Kilidi açmak için cihazdaki düğmeye dokunun.</string>
   <string name="bluetooth_unlock_confirm_device_text_2">Cihaz kilidini açmak için düğmeye dokunun.</string>
   <string name="bluetooth_unlock_delete_device">Bu cihazı sil</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Bu cihaz silinsin mi?</string>
