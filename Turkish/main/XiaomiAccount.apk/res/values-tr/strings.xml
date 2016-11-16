@@ -238,6 +238,10 @@
   <string name="notify_network_restricted_content_hidden_state">"Mi Hesabının arkaplan etkinliği kısıtlandı. Dokunup izin verin."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Hesabının internet erişimi kısıtlandı. Dokunup izin verin."</string>
   <string name="notify_network_restricted_title">"Mi Hesabı internete bağlanamadı"</string>
+  <string name="oauth_get_scopes_failed">"Hesap bilgisi alınamadı"</string>
+  <string name="oauth_getting_scopes">Hesap doğrulanıyor…</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; izileri alınıyor:&lt;br&gt; &lt;br&gt; %3$s</string>
+  <string name="oauth_title">Mi Hesabıyla oturum aç</string>
   <string name="other_devices">Diğer Cihazlar</string>
   <string name="other_devices_title">Diğer cihazlar</string>
   <string name="passport_access_denied">Erişim engellendi</string>
