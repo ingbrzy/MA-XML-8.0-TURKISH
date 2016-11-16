@@ -328,4 +328,8 @@
         <item quantity="other">• &lt;font color=#fc7050>%1$s&lt;/font> takipçi var!</item>
         <item quantity="one">• &lt;font color=#fc7050>%1$s&lt;/font> takipçi var!</item>
     </plurals>
+    <plurals name="video_publish_watchable_hint">
+        <item quantity="other">%1$d takipçi durumunuzu güncelledi​</item>
+        <item quantity="one">%1$d takipçi durumunuzu güncelledi</item>
+    </plurals>
 </resources>
