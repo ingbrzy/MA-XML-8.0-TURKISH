@@ -420,7 +420,7 @@ Kartvizitler kapalı"</string>
   <string name="editContactNameExpandOpenDescription">Adı Genişlet</string>
   <string name="editGroupDescription">Grubu düzenle</string>
   <string name="edit_contact">Kişiyi Düzenle</string>
-  <string name="edit_contact_card_title">Kişi kartını düzenle</string>
+  <string name="edit_contact_card_title">Paylaşılacak öğeyi seçin</string>
   <string name="edit_contact_photo">Kişi fotoğrafını düzenle</string>
   <string name="email">E-Posta</string>
   <string name="emailLabelsGroup">E-Posta</string>
@@ -1384,8 +1384,8 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="yellowPageNavigationLabel">Sarı Sayfalar</string>
   <string name="yellowpage_mi_family">Mi Ailesi</string>
   <string name="yellowpage_navigation_ad_hint">Reklam</string>
-  <string name="yellowpage_navigation_balance_refresh_failed">Balans ve veri doğrulanamadı, daha sonra tekrar deneyin.</string>
-  <string name="yellowpage_navigation_balance_refresh_succeed">Balans ve veri gözden geçirilmiştir</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">Bakiye ve mobil veri doğrulanamadı, daha sonra tekrar deneyin.</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Bakiye ve mobil veriler doğrulandı</string>
   <string name="yellowpage_navigation_clear_search_history">Geçmişi Temizle</string>
   <string name="yellowpage_navigation_more_items">Fazlası</string>
   <string name="yellowpage_navigation_more_items_title">Diğer Servisler</string>
