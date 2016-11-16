@@ -34,6 +34,8 @@
   <string name="auto_play">WLAN ağına bağlandığında otomatik olarak oynat</string>
   <string name="auto_play_later">Sonra</string>
   <string name="auto_play_now">Aç</string>
+  <string name="auto_play_recommend">Otomatik oynat</string>
+  <string name="auto_play_recommend_tips">Videoları otomatik olarak oynatmaya başla</string>
   <string name="auto_play_toast">Videolar otomatik olarak oynatılır. Bunu ayarlardan değiştirebilirsiniz.</string>
   <string name="background">Gizle</string>
   <string name="backup_cancel">"Yedekleme!"</string>
@@ -75,6 +77,7 @@
   <string name="category_favorite">Favoriler</string>
   <string name="category_file">Dosyalar</string>
   <string name="category_files">Dosyalar</string>
+  <string name="category_installed_app">Yüklü Uygulamalar</string>
   <string name="category_kuaipan">KuaiPan</string>
   <string name="category_midrive">KuaiPan</string>
   <string name="category_music">Müzik</string>
@@ -136,6 +139,7 @@
   <string name="copy_file_to_midrive">Mi Drive yerine kopyala</string>
   <string name="copy_text">Metni kopyala</string>
   <string name="copy_to">Kopyala</string>
+  <string name="create_shortcut_success">Kısayol başarıyla oluşturuldu</string>
   <string name="create_kuaipan_shortcut_pref">Ana Ekrana kısayol oluştur</string>
   <string name="create_new_folder_desctiption">Dizin oluşturuluyor…</string>
   <string name="create_new_folder_failed">Dizin oluşturulamadı.</string>
@@ -178,6 +182,7 @@
   <string name="delete_video_dialog_tip">"Video silindikten sonra geri alınamaz."</string>
   <string name="delete_video_dialog_title">Videoyu sil</string>
   <string name="delete_video_success">Başarıyla silindi</string>
+  <string name="deleted_video_msg">"Biraz geç kaldın. Bu video silindi."</string>
   <string name="des_running_trans">%1$d dosya transfer edilemedi.</string>
   <string name="dialog_logout_message">Şimdi oturum kapatılsın mı?</string>
   <string name="dialog_logout_title">Oturumu kapat</string>
@@ -295,6 +300,7 @@
   <string name="instruction">FTP istemcisini aşağıdaki adresi girin:</string>
   <string name="instruction_pre">FTP sunucusu başlatmak için dokunun</string>
   <string name="interest_recommend">Tavsiyeli Videolar</string>
+  <string name="is_playing">Oynatılıyor...</string>
   <string name="join_activity">Katılımcı</string>
   <string name="just_now">Şimdi</string>
   <string name="kilobyteShort">KB</string>
@@ -336,9 +342,11 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="local_video">Video Dosyaları</string>
   <string name="local_video_empty">Cihazınızda video klipler yok. Popüler olanları kontrol edin</string>
   <string name="login">Oturum Aç</string>
+  <string name="login_account_bind_qq">QQ Hesabı</string>
   <string name="login_account_bind_skip">Atla</string>
   <string name="login_account_bind_tip">İyi bir rumuz ve avatar seçimi videolarınız popüler olmasını sağlar</string>
   <string name="login_account_bind_title">Üçüncü taraf hesaf ekle</string>
+  <string name="login_account_bind_wb">Weibo Hesap</string>
   <string name="login_account_bind_wx">WeChat Kullan</string>
   <string name="login_account_bind_xm">Mi Hesap Kullan</string>
   <string name="login_expired">Oturum süresi bitti, tekrar oturum açın</string>
@@ -369,6 +377,7 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="menu_item_usb">USB</string>
   <string name="menu_list_name">Menü</string>
   <string name="message_comment_prefix">"Yorum: "</string>
+  <string name="message_my_received_notification">Yeni Mesaj</string>
   <string name="message_my_received_praise">Sevdiklerim</string>
   <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">" bu yorumu sevdi"</string>
@@ -596,6 +605,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="phone_code_et_hint">Doğrulama kodunu girin</string>
   <string name="phone_get_code_tip">Bugünlük birden fazla doğrulama kodu girilmeye çalışıldı</string>
   <string name="phone_has_used_tip">Bu telefon varolan hesabı kullanıyor, başka bir tane deneyin.</string>
+  <string name="phone_login_btn_str">Telefon Numarası</string>
   <string name="phone_login_title">Telefon</string>
   <string name="phone_num">Telefon Numarası</string>
   <string name="phone_num_et_hint">Telefon numarasını girin</string>
@@ -621,6 +631,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="pick_file">Dosyaları Seç</string>
   <string name="pick_folder">Dizin seç</string>
   <string name="popup_msg_qq">Bu videoyu QQ arkadaşlarınızla paylaşın.</string>
+  <string name="popup_msg_wb">Harika video değil mi? Weibo arkadaşlarınızla paylaşın!</string>
   <string name="popup_msg_wx">Bu videoyu WeChat arkadaşlarınızla paylaşın.</string>
   <string name="port_range">Port numarası 1024–65535 arasında olmalıdır</string>
   <string name="private_files">Gizli</string>
@@ -631,6 +642,8 @@ ve yenilerini kaçırmayın!"</string>
   <string name="private_toast_hint2">Bir dosyayı gizlemek için basılı tutun ve gizli dizine ekleyin.</string>
   <string name="private_toast_hint3">Gizli klasörleri görüntülemek için aşağı çekin ▼</string>
   <string name="promot_enctypt_password">Cihazınızın kilidini açmak için veya Çocuk modunu kapatmak için kullanılan şifreyi girin</string>
+  <string name="qq_btn_bind">QQ</string>
+  <string name="qq_login_btn_str">QQ</string>
   <string name="pull_to_signin">Kontrol etmek aşağı çekin. ▼</string>
   <string name="qq_not_installed">"QQ yüklenmedi"</string>
   <string name="qq_platform">QQ</string>
@@ -739,6 +752,8 @@ ve yenilerini kaçırmayın!"</string>
   <string name="setting">Ayarlar</string>
   <string name="setting_account_bind">Hesap ekle</string>
   <string name="setting_message_notify">Bildirimler</string>
+  <string name="setting_shortcut">Ana Ekran kısayolu ekle</string>
+  <string name="share_from_youliao">（#有料# @有料Video）丨</string>
   <string name="share_box">Paylaşıldı</string>
   <string name="share_box_receive">Alınan</string>
   <string name="share_box_send">Gönder</string>
@@ -749,6 +764,15 @@ ve yenilerini kaçırmayın!"</string>
   <string name="share_success">Başarıyla paylaşıldı</string>
   <string name="share_tip_1">Paylaşım için teşekkürler, diğer videolar için beni takip edin</string>
   <string name="share_tip_2">Paylaşım için teşekkürler, diğer videolar için beni takip edin</string>
+  <string name="share_title_01">"%1$s Harika bir video! %2$s"</string>
+  <string name="share_title_02">"%1$s Harika bir video!"</string>
+  <string name="share_title_03">"%1$s Harika bir video! %2$s"</string>
+  <string name="share_title_04">%1$s Bir video paylaştım, bakın! %2$s</string>
+  <string name="share_title_05">%1$s Bir video paylaştım, bakın! %2$s</string>
+  <string name="share_title_06">%1$s Bir video paylaştım, bakın! %2$s</string>
+  <string name="share_title_07">%s Bir video paylaştım, bakın!</string>
+  <string name="share_title_08">%s Bir video paylaştım, bakın!</string>
+  <string name="share_title_09">%s Bir video paylaştım, bakın!</string>
   <string name="share_title_1">Güzel etiket paketi bulundu!</string>
   <string name="share_to">Paylaş…</string>
   <string name="share_youliao1">Daha fazla bölümü izlemek için güncelle.</string>
@@ -763,6 +787,9 @@ ve yenilerini kaçırmayın!"</string>
 (WeChat etiketlerine şahsi GIFler ekleyebilirsin)."</string>
   <string name="shared_sticker_use_tip_title">Etiketler nasıl kullanılır?</string>
   <string name="shared_str">%s tarafından paylaşıldı</string>
+  <string name="shortcut_exists">Kısayol zaten var</string>
+  <string name="shortcut_hotvideos">Popüler videolar</string>
+  <string name="shortcut_msg">Popüler videoların kısayolunu Ana Ekrana ekle</string>
   <string name="show_message">Bunu açmadan önce bu dosyayı yüklemeniz gerekir.</string>
   <string name="sign_description">Oturum açılıyor...</string>
   <string name="signin_error">"Sunucuya bağlanamıyor. Ağ bağlantınızı kontrol edin."</string>
@@ -910,6 +937,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_follow_title">Takip Ettiğim</string>
   <string name="user_guide">KuaiPan hakkında daha fazla bilgi</string>
   <string name="user_guide_continue_use">Tamam</string>
+  <string name="user_guide_more_login">Diğer yolla oturum aç</string>
   <string name="user_guide_download_other_version">Bilgisayardan dosya yükle</string>
   <string name="user_guide_kuaipan_copy">Dosyaları telefondan kopyalayıp Kuaipan\'a yapıştırın</string>
   <string name="user_guide_kuaipan_lable">Rahat ve güvenli bir bulut depolamasıdır</string>
@@ -993,6 +1021,8 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="video_play_failed">Bilinmeyen hata</string>
   <string name="video_publish_hint">Videonuzu bulması için diğer kişilerin anlayacağı etkili içerikler, açıklamalar yazın</string>
   <string name="video_publish_hint2">Açıklama</string>
+  <string name="video_publish_origin_tag">Orjinal etiket</string>
+  <string name="video_publish_watchable_tag">Bu videoyu izleyip beni takip et</string>
   <string name="video_recommend_upload">Tavsiyeli</string>
   <string name="video_releasing">Yükleniyor…</string>
   <string name="video_replay">Tekrar Oynat</string>
@@ -1018,6 +1048,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="video_uploaded">Yüklendi</string>
   <string name="videos">Videolar</string>
   <string name="view_more_sticker">Daha fazla etikete bak</string>
+  <string name="wb_btn_bind">Weibo</string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">Ağ bağlantısı için bekliyor</string>
   <string name="wait_sdcard">SD kart için bekliyor...</string>
@@ -1025,9 +1056,13 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="waiting">Bekleniyor</string>
   <string name="wangpan_root_path">Sürücüm</string>
   <string name="wechat_btn_bind">WeChat</string>
+  <string name="wechat_login_btn_str">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>
   <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">%s\'daki video</string>
+  <string name="weibo_login_btn_str">Weibo</string>
+  <string name="weibo_share_success">Başarıyla paylaşıldı</string>
+  <string name="weibo_str">Weibo</string>
   <string name="weixin_not_installed">"WeChat kurulu değil"</string>
   <string name="weixin_sticker_tag_str">Etiketler</string>
   <string name="welcome_to_my_page">Ana Sayfama Hoşgeldiniz!</string>
@@ -1041,6 +1076,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="xiaomi_account">Mi Hesabı</string>
   <string name="xiaomi_btn_bind">Mi Hesabı</string>
   <string name="xiaomi_btn_str">Mi</string>
+  <string name="xiaomi_login_btn_str">Mi Hesabı</string>
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Evet</string>
   <string name="yesterday">Dün</string>
