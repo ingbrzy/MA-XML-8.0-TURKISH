@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Otomatik Arayıcı</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="start_test_off">Testi Başlat (KAPALI)</string>
+    <string name="start_test_on">Testi Durdur (AÇIK)</string>
+    <string name="loops">Döngü</string>
+    <string name="loop_1">1</string>
+    <string name="loop_50">50</string>
+    <string name="loop_100">100</string>
+    <string name="loop_200">200</string>
+    <string name="delete">Delete</string>
+    <string name="hot">hot</string>
+    <string name="warm">warm</string>
+    <string name="cold">cold</string>
+    <string name="full">full</string>
+    <string name="phone">Telefon</string>
+    <string name="phone_911">911</string>
+    <string name="phone_8378911">\#8378911</string>
+    <string name="phone_edit">Düzenle</string>
+    <string name="end_call">Çağrı Bitme Süresi</string>
+    <string name="phone_call">Telefon Çağrı Süresi</string>
+    <string name="settings">Ayarlar</string>
+    <string name="msg_permission_steps">"İzinleriniz kapatılmış. Lütfen izin verin, bunun için "<b>Ayarlar</b> -> <b>Uygulamalar</b> -> <i>Menü</i> -> <i>Sistemi Göster</i> -> <b>Otomatik Arayıcı</b> -> <b>İzinler</b> altından yetkilendirin.</string>
+    <string name="a" />
+</resources>
