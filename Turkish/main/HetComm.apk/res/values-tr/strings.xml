@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hotknotbeam_saved_location">beam</string>
+    <string name="app_name">Turbo İndirme</string>
+    <string name="hetcomm_intro">Büyük dosyaları indirmek (20MB üstü) için daha hızlı, aynı zamanda WLAN ve 4G/3G ağlarını da kullanır. Çalışırken Turbo İndir simgesi durum çubuğunda gösterilir. Turbo İndir kullanmak için, WLAN ve Mobil veri haçık olmalıdır. Bu etkin olduğunda, seçmiş olduğunuz herhangi bir uygulama WLAN ve 4G/3G şebekeleri üzerinden indirme yapabilir.</string>
+    <string name="enable_switch_on">Açık</string>
+    <string name="enable_switch_off">Kapalı</string>
+    <string name="notify_top_title">İndirme Hızlandırıcısı</string>
+    <string name="unit_Mbps">Mbps</string>
+    <string name="network_WiFi">WLAN</string>
+    <string name="network_Mobile">3/4G</string>
+    <string name="connection_wlan">WLAN</string>
+    <string name="connection_mobile">Mobil Veri</string>
+    <string name="conn_notice_title">Mobil Veri ve WLAN Kapalıyken</string>
+    <string name="conn_notice_detail">Turbo İndirmeyi etkinleştirmek için; hem WLAN hem de Mobil veri açık olmalıdır.</string>
+    <string name="conn_charging_warning">Mobil şebekeler vasıtasıyla indirmek, ek ücretlerle sonuçlanabilir.</string>
+    <string name="turn_on">T%1$s aç</string>
+    <string name="turn_off_due_to_vpn">VPN açık olduğundan Turbo İndirme kapalıdır</string>
+    <string name="turn_off_due_to_tether">Paylaşım bağlantısı açık olduğundan Turbo İndirme kapalıdır</string>
+    <string name="turn_off_due_to_shutdown">Kapatıldığından, Turbo İndirme de kapatıldı</string>
+    <string name="turn_off_due_to_roaming">Dolaşımda olduğundan Turbo İndirme kapalı</string>
+    <string name="ratio_is_single">WLAN/Mobil veri hızı yavaştır. İndirmeyi hızlandırmak için, Turbo İndirme yalnızca Mobil Veri/WLAN'ı kullanacak.</string>
+    <string name="ratio_is_back">Turbo İndirme dosyaları indirmek için birlikte WLAN ve Mobil verileri beraber kullanır.</string>
+    <string name="action_help">Yardım</string>
+    <string name="hetcomm_help">"&lt;html>&lt;body>&lt;h1>Turbo İndirme Yardımı&lt;/u> &lt;/h1>&lt;br>WLAN ve 4G/3G özelliğini aynı anda kullanarak büyük dosyaları en hızlı şekilde indirin. &lt;h4>1. Turbo İndirmeye dokunup Ayarlara gidin&lt;/h4> &lt;h4>2. Turbo İndirme özelliğini açıp-kapatın&lt;/h4> &lt;p>&lt;b>[Tip]&lt;/b> Eğer bir WLAN/Mobil bağlatı varsa başlatın &lt;p>&lt;b>[İpucu]&lt;/b> Eğer WLAN veya 4G/3G bağlantınız yavaşsa, daha hızlı indirmek için daha hızlı bir ağa bağlanın. &lt;p>&lt;b>[İpucu]&lt;/b> Hız ve Performans ağınızın durumuna göre değişir. &lt;br>&amp;nbsp;&amp;nbsp;- Eğer sinyal kalitesi dengesizse bu indirme işlerinize de yansıyacaktır. &lt;br>&amp;nbsp;&amp;nbsp;- velhasıl iyi indirme yapabilmek için birden fazla bağlantıyı aynı anda kullanın. &lt;p>&lt;b>[Tip]&lt;/b> &lt;p>&lt;b>[İpucu]&lt;/b> Turbo İndirme Paylaşım/VPN bağlantısı olduğunda otomatik olarak kapatılır. &lt;/body>&lt;/html>"</string>
+</resources>
