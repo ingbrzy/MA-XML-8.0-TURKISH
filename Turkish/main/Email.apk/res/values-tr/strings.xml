@@ -19,6 +19,10 @@
   <string name="account_set_up_change_type_note">Eğer POP3 ve IMAP ayarları arasında geçiş yapmanız gerekirse, hesabınızı silin ve istenilen ayarlar ile yeni bir tane oluşturun.</string>
   <string name="account_setting">Hesaplar</string>
   <string name="account_setting_keywords">Hesaplar;posta hesapları</string>
+  <string name="account_setting_message_body_load_complete">Postanın tamamı</string>
+  <string name="account_setting_message_body_load_head_abstract">Postanın özeti</string>
+  <string name="account_setting_message_body_load_head_only">Sadece başlık</string>
+  <string name="account_setting_message_body_load_text">Sadece içerik</string>
   <string name="account_settings_action">Hesap Ayarları</string>
   <string name="account_settings_background_attachments_label">Ekleri indir</string>
   <string name="account_settings_background_attachments_summary">Wi-Fi kullanarak ekleri indir</string>
@@ -118,12 +122,12 @@
   <string name="account_setup_options_mail_check_frequency_12hour">Her 12 saatte</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Her saatte</string>
   <string name="account_setup_options_mail_check_frequency_4hour">Her 4 saatte</string>
-  <string name="account_setup_options_mail_check_frequency_imap_push">Otomatik (Zorla, sunucu destekler ise)</string>
+  <string name="account_setup_options_mail_check_frequency_imap_push">Otomatik (Zorla)</string>
   <string name="account_setup_options_mail_check_frequency_never">Asla</string>
   <string name="account_setup_options_mail_check_frequency_push">Otomatik (Zorla)</string>
   <string name="account_setup_options_mail_window_1day">Dün</string>
   <string name="account_setup_options_mail_window_1month">Geçen Ay</string>
-  <string name="account_setup_options_mail_window_1quarter">Geçen çeyrek</string>
+  <string name="account_setup_options_mail_window_1quarter">Çeyrek</string>
   <string name="account_setup_options_mail_window_1week">Geçen hafta</string>
   <string name="account_setup_options_mail_window_2weeks">Geçen 2 hafta</string>
   <string name="account_setup_options_mail_window_3days">Son üç gün</string>
@@ -188,6 +192,7 @@
   <string name="attachment_not_exists">Ek mevcut değil!</string>
   <string name="attachment_open_SecurityException_hint">Bu dosyayı açmak için izniniz olmayabilir veya dosya zarar görmüş olabilir.</string>
   <string name="attachment_open_SecurityException_title">"Dosya açılamadı"</string>
+  <string name="attachment_size_exceed_limit">"Boyut sunucu limitini aşmış gibi görünüyor"</string>
   <string name="attachment_stop_all">Durdur</string>
   <string name="attachment_text">Metin</string>
   <string name="attachment_type_blocked">"Maalesef, kaydedilemiyor veya bu tür ekleri açamıyor."</string>
@@ -244,7 +249,7 @@
   <string name="colon">:</string>
   <string name="compose">Yaz</string>
   <string name="compose_attachment_number_limit">"10\'dan fazla eklenti eklenilemiyor"</string>
-  <string name="compose_paste_address_oob">Yapıştırılan karakter çok uzun, kesilecek</string>
+  <string name="compose_paste_address_oob">Fazla karakter</string>
   <string name="compose_picturesexceedlimits">"5\'den fazla resim eklenemez!"</string>
   <string name="compose_send">Gönder</string>
   <string name="compose_sent">Posta gönderildi</string>
@@ -284,7 +289,7 @@
   <string name="contextmenu_add_contact">Kişi ekle</string>
   <string name="contextmenu_call">Çağrı</string>
   <string name="contextmenu_copy">Kopyala</string>
-  <string name="contextmenu_copylink">URL adresini kopyala</string>
+  <string name="contextmenu_copylink">Bağlantıyı kopyala</string>
   <string name="contextmenu_create">Yeni kişi oluştur</string>
   <string name="contextmenu_dial_dot">Ara…</string>
   <string name="contextmenu_edit">Kişiyi düzenle</string>
@@ -300,6 +305,9 @@
   <string name="conversation_item_mark_read">Okundu</string>
   <string name="conversation_item_mark_unread">Okunmadı</string>
   <string name="conversation_photo_welcome_text">Bu postayı seçmek için gönderenin resmine dokunun.</string>
+  <string name="conversation_quick_button_approve">Kabul</string>
+  <string name="conversation_quick_button_disapprove">Reddet</string>
+  <string name="conversation_quick_button_received">Alındı</string>
   <string name="conversation_view">Görüşmeyi Görüntüle</string>
   <string name="conversation_view_keywords">görüntüle;içeriği görüntüle;postaya bak;posta görüşmesi</string>
   <string name="copied">Kopyalandı</string>
@@ -404,6 +412,7 @@
   <string name="file_not_found_redownload">"Dosya bulunamadı"</string>
   <string name="file_rar_not_support">"Şifrelenmiş rar dosyalarını açamaz"</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
+  <string name="first_quick_default_reply">Bu kısayola tıklanınca, \"%s\" tüm alıcılara gönderilecek.</string>
   <string name="folder_drafts_name_cn0">Taslak</string>
   <string name="folder_drafts_name_cn1">Taslaklar</string>
   <string name="folder_drafts_name_cn2">[Gmail]/Taslak</string>
@@ -452,7 +461,7 @@
   <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
   <string name="general_preference_confirm_send_label">Göndermeden önce onayla</string>
   <string name="general_preference_str_auto_translation">Hızlı Çevir</string>
-  <string name="general_preference_str_auto_translation_prompt">Çeviri sonucunu görmek için içeriğin karşılığını kopyala</string>
+  <string name="general_preference_str_auto_translation_prompt">Çeviriyi görmek için metin kopyala</string>
   <string name="general_preference_text_zoom_dialog_title">Mesaj metninin boyutu</string>
   <string name="general_preference_text_zoom_huge">Kocaman</string>
   <string name="general_preference_text_zoom_label">Mesaj metninin boyutu</string>
@@ -481,7 +490,7 @@
   <string name="ignore_spam_warning">Yoksay ve bu pstaya güven</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Gelen posta sunucusu için şifre yanlış</string>
-  <string name="info_actionbar_normal_detail">Ayrıntılar</string>
+  <string name="info_actionbar_normal_detail">Promosyon</string>
   <string name="info_actionbar_subscribe">Haber Beslemesi</string>
   <string name="info_item_from">Gönderen </string>
   <string name="info_item_hide">Gizle</string>
@@ -489,8 +498,8 @@
   <string name="info_name_title">Yenilikler</string>
   <string name="info_no_message">Görüntülenecek makale yok!</string>
   <string name="info_no_more_message">"Görüntülecek öğe yok"</string>
-  <string name="info_switch_summary">En yenileri görüntüle</string>
-  <string name="info_switch_title">Gelen Kutusu Yenilikleri</string>
+  <string name="info_switch_summary">Promosyonları gelen kutusunun en üstünde göster</string>
+  <string name="info_switch_title">Promosyon</string>
   <string name="info_sync_error">Eşitlenemedi, daha sonra tekrar deneyin.</string>
   <string name="information_subscribe_first_intro">「Abone Ol」 ilk kez kullanılacak ,Lütfen ilgilendiğiniz etiketleri seçin. Size çeşitli içerikler önereceğiz~</string>
   <string name="inline_picture_deleted">Eksik resim indiriliyor...</string>
@@ -505,7 +514,7 @@
   <string name="load_more">Fazlasını yükle</string>
   <string name="loading_conversation">Yükleniyor...</string>
   <string name="loading_conversations">Yükleniyor...</string>
-  <string name="loading_from_remote">Aranıyor...</string>
+  <string name="loading_from_remote">Yükleniyor...</string>
   <string name="local_search">Yerelde Ara</string>
   <string name="local_search_result">%seşitlenmiş mesaj sonucu</string>
   <string name="login">Oturum aç</string>
@@ -565,7 +574,8 @@
   <string name="menu_att_mgr_order_size">Boyuta Göre</string>
   <string name="menu_change_folders">Taşı</string>
   <string name="menu_compose">Yaz</string>
-  <string name="menu_discovery">Bul</string>
+  <string name="menu_contact_edit">Düzenle</string>
+  <string name="menu_discovery">Promosyon</string>
   <string name="menu_folder_options">Eşitleme Ayarları</string>
   <string name="menu_move_to">Taşı</string>
   <string name="menu_move_to_inbox">Gelen Kutusuna Taşı</string>
@@ -576,6 +586,7 @@
   <string name="menu_search">Ara</string>
   <string name="menu_settings">Ayarlar</string>
   <string name="merged_mailbox_compose_select_account">Hesap Seç</string>
+  <string name="message_body_load_set_description">Mobil veri kullanırken yeni postaların yükleme boyutu</string>
   <string name="message_compose_insert_quick_response_list_title">Hızlı Cevap Ekle</string>
   <string name="message_count_spacer">  </string>
   <string name="message_decode_error">"Mesajı çözülemiyor"</string>
@@ -761,6 +772,7 @@
   <string name="quick_reply_hint_bcc">(Gelen BCC)</string>
   <string name="quick_reply_hint_cc">"(CC) "</string>
   <string name="quick_reply_hint_reply_only_from">Hızlı Cevap (sadece gönderen)</string>
+  <string name="remind_attachment_size_limit">"E-Postalarınız %sMB'tan az olmalıdır"</string>
   <string name="quick_responses_empty_view">Hızlı cevap yok</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- Orjinal Posta --------</string>
@@ -839,11 +851,13 @@
   <string name="send_failed">"Mesaj gönderilemedi!"</string>
   <string name="send_feed_back">Geribildirim gönder</string>
   <string name="send_feed_back_keywords">şikayetler;görüşler;geribildirim;geribildirim gönder</string>
+  <string name="send_mail">Gönder</string>
   <string name="sender_whitelist_cleared">"Resimler otomatik olarak gösterilmeyecektir."</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
   <string name="sending">Gönderiliyor…</string>
   <string name="sending_message">Mesaj gönderiliyor…</string>
+  <string name="sending_quick_reply">\"%s\" mail gönderiliyor</string>
   <string name="sent_folder_selection_title">%s için gönderilmiş öğeler klasörünün sunucusunu seçin</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Sertifika doğrulama başarısız
 \u0009 (Otomatik eşitleme ayarınının açık olduğundan emin olun)"</string>
@@ -916,14 +930,14 @@
   <string name="too_large_to_attach_multiple">"Bir veya daha fazla dosya ekli değil. Dosya boyutu %1$s geçemez."</string>
   <string name="too_large_to_attach_single">"%1$s\'den daha büyük dosya ekleyemiyorum."</string>
   <string name="topic_merge">Temaları Birleştir</string>
-  <string name="translation_loading">Yükleniyor…</string>
-  <string name="translation_no_result">Sonuç bulunamadı</string>
-  <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_loading">Biraz bekleyin...</string>
+  <string name="translation_no_result">Sonuç yok</string>
+  <string name="translation_pronunciation_am">AmE</string>
   <string name="translation_pronunciation_cn">Pinyin</string>
   <string name="translation_pronunciation_en">BrE</string>
   <string name="translation_pronunciation_other">Machine</string>
-  <string name="translation_query_failure">Arama başarısız oldu</string>
-  <string name="translation_technology_support">PowerWord tarafından teknik destek sağlanıyor</string>
+  <string name="translation_query_failure">Sonuç bulunamadı</string>
+  <string name="translation_technology_support">iciba.com tarafından teknik destek sağlanıyor</string>
   <string name="trash_folder_selection_title">%s için sunucunuzun çöp klasörü seçin</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
@@ -967,5 +981,6 @@ Posta eşitlenmeden önce "&lt;b&gt;Şimdi Eşitleye&lt;/b&gt; dokunun veya bu h
   <string name="yes">Evet</string>
   <string name="yidianzixun">Yi Dian Zixun</string>
   <string name="you_are_in_mobile_network">Mobil veri bağlantısı kullanarak günlük gönderilsin mi? Eğer planladığınız veri kullanımının üzerine çıkarsanız, öperatörünüz sizden ek ücret talep edebilir.</string>
+  <string name="youfuli">Promosyon</string>
   <string name="zip_viewer_no_file">Dosya yok.</string>
 </resources>
