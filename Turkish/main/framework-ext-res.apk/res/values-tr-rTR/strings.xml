@@ -34,7 +34,7 @@
   <string name="default_name">Varsayılan</string>
   <string name="enable_livetalk_summary">Arama ücretlerinden %70 tasarruf edin</string>
   <string name="enable_livetalk_title">Kontör paketini aç</string>
-  <string name="fc_dialog_body">Analiz için Mi\'ye hata raporu gönderilsin mi? Bu rapor Kişisel Tanıtıcı Bilgiler içerebilir. Raporunuzu bu hatayı düzeltmeye yardımcı olmak için kullanılacaktır ve herhangi bir ticari bağlamda asla paylaşılmaz.</string>
+  <string name="fc_dialog_body">Analiz için Mi\'ye hata raporu gönderilsin mi? Bu rapor Şahsi İçerikli Bilgiler içerebilir. Raporunuz bu hatayı düzeltmeye yardımcı olmak için kullanılacak ve herhangi bir ticari bağlamda asla paylaşılmayacak.</string>
   <string name="fc_dialog_jump_to_preview">Sonuca gözat</string>
   <string name="first_back_long_press_message">"Basın &amp; geçerli işlemi ve arka plan hizmetlerini sonlandırmak için Geri düğmesine basılı tutun.
 
@@ -42,7 +42,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="fm_record_smaple_prefix_miui">FM Kaydı</string>
   <string name="force_exit_message">%1$s zorla kapatıldı!</string>
   <string name="force_exit_skip_message">"%1$s sistem uygulaması olduğu için kapatılamaz!"</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Ana Sayfa düğmesine basarak Ana Ekrana geri gidebilirsiniz. Ama hafifçe dokunarak bunu seçebilirsiniz. Ana düğmeyi özelleştirmek için Ayarlar &gt; Ek Ayarlar &gt; Tuşlar bölümünden bunu yapabilirsiniz.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Ana Sayfa düğmesine basarak Ana Ekrana geri gidebilirsiniz. Bunu hafifçe dokunarak seçebilirsiniz. Ana Ekran düğmesini özelleştirmek için Ayarlar &gt; Ek Ayarlar &gt; Tuşlar bölümünden bunu yapabilirsiniz.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Şimdi değil</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ayarlara git</string>
   <string name="fp_nav_center_action_choose_dlg_title">Ana Ekran için hızlı dokunun</string>
