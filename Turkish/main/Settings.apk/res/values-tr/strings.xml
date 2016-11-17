@@ -420,7 +420,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="band_mode_title">GSM/UMTS Bant Ayarı</string>
   <string name="baseband_version">Ana Bant Sürümü</string>
   <string name="batch_delete_backup_confirm">Seçili yedekleme silinsin mi?</string>
-  <string name="batch_delete_saved_network">Seçili %s ağ silinsin mi?</string>
+  <string name="batch_delete_saved_network">Seçili ağ silinsin mi?:%s </string>
   <string name="batch_delete_saved_networks">Tüm seçili ağları sil</string>
   <string name="battery_action_app_details">Uygulama Bilgisi</string>
   <string name="battery_action_app_settings">Uygulama Ayarları</string>
@@ -2509,8 +2509,8 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="multi_user_mode_dialog_message">Mi Transfer Çoklu-Kullanıcı Modunu desteklemez. Çoklu-Kullanıcı Modunu kapatıp, devam edin.</string>
   <string name="multi_user_mode_dialog_title">Çoklu-Kullanıcı Modundasınız</string>
   <string name="music_audio_effect_optimize">Ses Ayarları</string>
-  <string name="music_audio_effect_optimize_summary">Dirac, kulaklık ve diğer ses ayarlarını yapılandırabilirsiniz</string>
-  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Ses, Kulaklık ve Diğer Ses Ayarları</string>
+  <string name="music_audio_effect_optimize_summary">Dirac, kulaklık ve diğer ses ayarları</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, Kulaklık ve Diğer Ses Ayarları</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, kulaklık ve diğer ses ayarları</string>
   <string name="music_audio_effect_settings">Efekt Ayarları</string>
   <string name="music_dirac_control">Ses kalitesini iyileştir</string>
