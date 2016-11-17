@@ -60,7 +60,7 @@
   <string name="month_day_format">dd MMM </string>
   <string name="move_failed">"Kesilemedi"</string>
   <string name="move_failed_retry">"Kesilemedi, %1$s bekleyin ve yeniden deneyin"</string>
-  <string name="need_get_accounts_permission">Mi Drive normal çalışabilmek için hesabınıza erişme izni ister.</string>
+  <string name="need_get_accounts_permission">"Mi Drive'in normal çalışması için hesabınıza erişmesi gerekiyor."</string>
   <string name="never_notify">"Yeniden gösterme"</string>
   <string name="no_app_found_to_open_file">Bu eylemi gerçekleştirecek uygulama bulunamadı</string>
   <string name="no_more_space">Yeterli boş alan yok.</string>
@@ -118,7 +118,7 @@
   <string name="terabyteShort">TB</string>
   <string name="tools">Araçlar</string>
   <string name="trans_mobile_network_message">Mobil veri kullanımı ek operatör masrafına neden olabilir. Yine de devam edilsin mi?</string>
-  <string name="trans_task">Ağ transferi</string>
+  <string name="trans_task">Ağ Transferi</string>
   <string name="transing">Gönderiliyor</string>
   <string name="upload_failed">"Yüklenemedi"</string>
   <string name="upload_file_to_midrive">Mi Drive alanına dosya gönder</string>
