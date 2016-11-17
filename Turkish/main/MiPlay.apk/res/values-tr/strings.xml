@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Mi Oynatıcısı</string>
+  <string name="app_name">Medya Sunucusu</string>
   <string name="cancel">İptal</string>
   <string name="enable_wifi_btn">Etkin</string>
   <string name="enable_wifi_message">Yakın cihazları bağla ve arama kullanımı için WLAN bağlantısı etkin.</string>
@@ -11,11 +11,11 @@
   <string name="media_status_starting">Bağlanıyor…</string>
   <string name="media_status_stopped">Durduruldu</string>
   <string name="media_status_stopping">Durduruluyor…</string>
-  <string name="noti_projection_status_desc_on">Ekran Yansıtma Açık</string>
-  <string name="noti_projection_status_title">MiPlay Kablosuz Ekran</string>
+  <string name="noti_projection_status_desc_on">Ekran Yansıtması Açık</string>
+  <string name="noti_projection_status_title">Mi Play Kablosuz Ekran</string>
   <string name="prjection_title">Kablosuz Ekran</string>
   <string name="search_for_devices">Yenile</string>
-  <string name="wifi_display_autonomous_go">Otomatik Git Etkin</string>
+  <string name="wifi_display_autonomous_go">Etkinliğe Otomatik Git</string>
   <string name="wifi_display_certification_heading">Sertifika</string>
   <string name="wifi_display_details">Ekran Ayarları</string>
   <string name="wifi_display_enable_menu_item">Kablosuz Ekran etkin</string>
