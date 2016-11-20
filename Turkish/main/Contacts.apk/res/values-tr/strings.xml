@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_calllog_detail">Çağrı geçmişinin detayları</string>
+  <string name="accessibility_calllog_detail">Çağrı Geçmişinin Detayları</string>
   <string name="account_container_title">Şuradan alındı:</string>
   <string name="account_default">Telefon</string>
-  <string name="account_phone">Sadece telefon, eşitlenmedi</string>
+  <string name="account_phone" product="default">Sadece telefon, eşitlenmedi</string>
+  <string name="account_phone" product="tablet">Sadece tablet, eşitlenmedi</string>
   <string name="account_sim">SIM Kart</string>
   <string name="account_sim2">SIM Kart %d</string>
   <string name="account_type_format">%1$s kişi</string>
-  <string name="actionIncomingCall">Gelen çağrılar</string>
+  <string name="actionIncomingCall">Gelen Çağrılar</string>
   <string name="action_menu_overflow_description">Diğer Seçenekler</string>
   <string name="activity_title_confirm_add_detail">Kişiye Ekle</string>
   <string name="activity_title_contacts_filter">Görüntülenecek Kişiler</string>
@@ -16,7 +17,7 @@
   <string name="add_2sec_pause">2 saniye duraklama ekle</string>
   <string name="add_account">Hesap ekle</string>
   <string name="add_blacklist">Kara Listeye ekle</string>
-  <string name="add_blacklist_dialog_message">Numara kara listeye eklensin mi?</string>
+  <string name="add_blacklist_dialog_message">Numara Kara Listeye eklensin mi?</string>
   <string name="add_blacklist_dialog_title">Kara Liste</string>
   <string name="add_connection_button">Bağlantı ekle</string>
   <string name="add_contact_dlg_message_fmt">\"%s\" kişilere eklensin mi?</string>
@@ -56,7 +57,7 @@
   <string name="btn_rotation">Döndür</string>
   <string name="btn_split_contact">Ayır</string>
   <string name="button_cancel_scan">Durdur</string>
-  <string name="button_join_service_number">Hizmet Numarası Ekle</string>
+  <string name="button_join_service_number">Şebeke Numarası Ekle</string>
   <string name="button_my_center">Profil</string>
   <string name="button_scan">Tekrar Tara</string>
   <string name="caching_vcard_message">vCard telefon önbelleğine alınıyor...</string>
@@ -67,9 +68,9 @@
   <string name="callDetailsDurationFormat" formatted="false">%s dakika %s saniye</string>
   <string name="callShortcutActivityTitle">Aranacak numarayı seçin</string>
   <string name="call_assistant">Ara: %s</string>
-  <string name="call_callback">Çağrıyı Geri Ara</string>
+  <string name="call_callback">Geri Ara</string>
   <string name="call_car">Otomobili Ara</string>
-  <string name="call_charge">Şarj..?</string>
+  <string name="call_charge">Yükle</string>
   <string name="call_company_main">Şirket Ana Hattını Ara</string>
   <string name="call_custom">Ara: %s</string>
   <string name="call_disambig_title">Numarayı Seç</string>
@@ -84,13 +85,13 @@
   <string name="call_log_old_header">Eski</string>
   <string name="call_main">Ana Numarayı Ara</string>
   <string name="call_mms">MMS\'i Ara</string>
-  <string name="call_mobile">Mobili Ara</string>
+  <string name="call_mobile">Cep Telefonunu Ara</string>
   <string name="call_operator_init">Operatörü Seç</string>
   <string name="call_other">Ara</string>
   <string name="call_other_fax">Faksı Ara</string>
   <string name="call_pager">Çağrı Cihazını Ara</string>
   <string name="call_problem_report">Problemi raporla</string>
-  <string name="call_radio">Radyoyu Ara</string>
+  <string name="call_radio">Telsizi Ara</string>
   <string name="call_record_setting_miui">Çağrı Kayıt Ayarları</string>
   <string name="call_settings">Ayarlar</string>
   <string name="call_sim1_menu_title">SIM 1 ile Ara</string>
@@ -105,11 +106,11 @@
   <string name="calllog_menu_edit_before_call">Düzenle</string>
   <string name="calllog_menu_send_sms">Mesaj Gönder</string>
   <string name="callrecordview_item_newcontact">| Yeni Kişi</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">%1$d dk %2$d sn</string>
+  <string name="callrecordview_item_op_time_minutes_seconds">%1$ddak %2$dsan</string>
   <string name="callrecordview_item_op_time_missed">"Bağlanmadı"</string>
-  <string name="callrecordview_item_op_time_only_minutes">%d dk</string>
-  <string name="callrecordview_item_op_time_only_seconds">%d sn</string>
-  <string name="callrecordview_item_op_time_rejected">| Çağrı Reddedildi</string>
+  <string name="callrecordview_item_op_time_only_minutes">%d dak</string>
+  <string name="callrecordview_item_op_time_only_seconds">%d san</string>
+  <string name="callrecordview_item_op_time_rejected">| Çağrı reddedildi</string>
   <string name="callrecordview_item_op_time_short_incoming">"Gelen: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Giden: "</string>
   <string name="callrecordview_item_op_video">Video</string>
@@ -168,11 +169,11 @@
   <string name="chinese_youth_day">Gençlik Günü</string>
   <string name="christmas_day">Yeni Yıl</string>
   <string name="clearCallLogConfirmation">Tüm çağrı geçmişiniz silinecek.</string>
-  <string name="clearCallLogConfirmation_title">Tüm çağrı günlüğü temizlensin mi?</string>
-  <string name="clearCallLogProgress_title">Çağrı günlüğü temizleniyor...</string>
+  <string name="clearCallLogConfirmation_title">Tüm çağrı geçmişi temizlensin mi?</string>
+  <string name="clearCallLogProgress_title">Çağrı geçmişi temizleniyor...\u2026</string>
   <string name="clearFrequentsConfirmation">Telefondaki ve kişilerdeki sık kullanılanları temizle ve E-Posta uygulamasının adresleme tercihlerini sıfırlamasını sağla.</string>
   <string name="clearFrequentsConfirmation_title">Sık görüşülenler temizlensin mi?</string>
-  <string name="clearFrequentsProgress_title">Sık görüşülenler temizleniyor...</string>
+  <string name="clearFrequentsProgress_title">Sık görüşülenler temizleniyor...\u2026</string>
   <string name="clear_and_bright">Qingming Festival</string>
   <string name="clear_copy_number_description">Kopyalanan numarayı temizle</string>
   <string name="clear_default">Varsayılanları temizle</string>
@@ -184,7 +185,7 @@
   <string name="cloud_antispam_mark">Raporla</string>
   <string name="cloud_antispam_marked">Raporlanan</string>
   <string name="cloud_antispam_title">Bilinmeyen numaraları tespit et</string>
-  <string name="cloud_recommend_msg">Kişileri Mi Bulut ile eşitlemek için dokunun •</string>
+  <string name="cloud_recommend_msg">Kişileri Mi Bulut ile eşitlemek için dokunun</string>
   <string name="cloud_state_disabled">Eşitleme kapalı</string>
   <string name="cloud_state_loading">Biraz bekleyin…</string>
   <string name="cloud_state_sync_finished">Mi Bulut ile eşitlendi</string>
@@ -193,7 +194,8 @@
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
   <string name="composer_failed_to_get_database_infomation">Veritabanı bilgisi alınamıyor.</string>
-  <string name="composer_has_no_exportable_contact">Dışa aktarılabilecek kişi bulunmamaktadır. Telefonunuzda kişileriniz varsa, bazı veri sağlayıcıları kişilerin, telefondan dışa aktarılmasına izin vermiyor olabilir.</string>
+  <string name="composer_has_no_exportable_contact" product="default">Dışa aktarılabilecek kişi bulunmamaktadır. Telefonunuzda kişileriniz varsa, bazı veri sağlayıcıları kişilerin, telefondan dışa aktarılmasına izin vermiyor olabilir.</string>
+  <string name="composer_has_no_exportable_contact" product="tablet">Dışa aktarabilir kişi bulunmamaktadır. Eğer tabletinizde kayıtlı kişileriniz varsa, bazı veri sağlayıcıları kişilerin tabletinizden dışa aktarılmasına izin vermiyor olabilir.</string>
   <string name="composer_not_initialized">"vCard oluşturucu düzgün başlamadı."</string>
   <string name="confirm_delete_contact_all_call_logs">Çağrı geçmişi silinsin mi?</string>
   <string name="confirm_delete_selected_all_call_logs">Çağrı geçmişi silinsin mi?</string>
@@ -271,7 +273,7 @@ Kartvizitler kapalı"</string>
   <string name="convenient_service">Hizmetler</string>
   <string name="copy_number">Kopyala</string>
   <string name="copy_text">Panoya kopyala</string>
-  <string name="createContactShortcutSuccessful">Kişi Widgeti ana ekrana eklendi</string>
+  <string name="createContactShortcutSuccessful">Kartviziti Ana Ekrana eklendi</string>
   <string name="create_group_dialog_title">Yeni grup oluştur</string>
   <string name="create_group_item_label">Yeni grup oluştur</string>
   <string name="create_qrcode_fail_message">"QR kodu oluşturulamıyor"</string>
@@ -344,6 +346,7 @@ Kartvizitler kapalı"</string>
   <string name="description_star">Favori</string>
   <string name="description_view_contact">%1$s kişiyi gözat </string>
   <string name="description_view_contact_detail">Kişiye Gözat</string>
+  <string name="no_sdcard_message" product="nosdcard">Depolama birimi bulunamadı.</string>
   <string name="description_voicemail_button">Sesli Mesaj</string>
   <string name="deselect_all">Vazgeç</string>
   <string name="details_list_group_header_more_action">Fazlası</string>
@@ -379,27 +382,27 @@ Kartvizitler kapalı"</string>
   <string name="dialer_addAnotherCall">Çağrı ekle</string>
   <string name="dialer_copy_view_delete_description">Kopyalanan numarayı temizle</string>
   <string name="dialer_digits_copy_number_label">Numara kopyalandı</string>
-  <string name="dialer_empty_text_loading">Biraz Bekleyin...</string>
+  <string name="dialer_empty_text_loading">Biraz bekleyin...</string>
   <string name="dialer_empty_text_no_call_log">Arama kaydı yok</string>
   <string name="dialer_empty_text_no_search_result">Kişi kaydı yok</string>
   <string name="dialer_menu_description">Menüyü göster</string>
   <string name="dialer_menu_title">Menü Seçenekleri</string>
   <string name="dialer_returnToInCallScreen">Çağrıya dön</string>
-  <string name="dialer_useDtmfDialpad">Dokunmatik tuş takımı kullan</string>
+  <string name="dialer_useDtmfDialpad">Dokunmatik Tuş Takımı kullan</string>
   <string name="dialog_import">Kişileri içe aktar</string>
-  <string name="dialog_import_export">Kişileri İçe/Dışa Aktar</string>
+  <string name="dialog_import_export">Kişileri içe/dışa Aktar</string>
   <string name="dialog_new_contact_account">Hesaptan kişileri aktar</string>
-  <string name="dialog_new_group_account">Hesaptan grup oluştur</string>
+  <string name="dialog_new_group_account">Hesapta grup oluştur</string>
   <string name="dialog_phone_call_prohibited_message">Çağrı gönderilemedi</string>
-  <string name="dialog_sync_add">Eşleşmiş grup ekle</string>
+  <string name="dialog_sync_add">Eşitleme grupu ekle</string>
   <string name="dialog_voicemail_airplane_mode_message">Sesli arama için öncelikle Uçak Modunu kapatınız.</string>
   <string name="dialog_voicemail_not_ready_message">Sesli Mesajı ayarlarmak için, Menü &gt; Ayarlara git.</string>
   <string name="directory_search_label">Dizin</string>
   <string name="dirty_contacts_notification_description">%d değişiklikleri Mi Hesabınızla eşitlenemedi</string>
   <string name="dirty_contacts_notification_message">Ayarlardan istediğiniz zaman bu hatırlatıcıyı kapatın.</string>
   <string name="dirty_contacts_notification_title">Kişiler eşitlensin mi?</string>
-  <string name="display_all_contacts">Tüm kişiler</string>
-  <string name="display_more_groups">Daha fazla grup</string>
+  <string name="display_all_contacts">Tüm Kişiler</string>
+  <string name="display_more_groups">Diğer Grup</string>
   <string name="display_only_phones">Eksik Numaraları Gizle</string>
   <string name="display_options_sort_by_family_name">Soyadı</string>
   <string name="display_options_sort_by_given_name">Adı</string>
@@ -408,7 +411,7 @@ Kartvizitler kapalı"</string>
   <string name="display_options_view_given_name_first">Önce Adı</string>
   <string name="display_options_view_names_as">Kişilerin Görüntülenme Şekli</string>
   <string name="display_sim_contacts">SIM Karttaki Kişileri Göster</string>
-  <string name="display_ungrouped">Tüm diğer kişiler</string>
+  <string name="display_ungrouped">Diğer Kişiler</string>
   <string name="display_warn_remove_ungrouped">\"%s\" eşitlemesi ile gruplandırılmamışlar kişilerden kaldırılıyor.</string>
   <string name="dlg_add_blacklist">Numara engellensin mi?</string>
   <string name="dlg_remove_blacklist">Numaranın engeli kaldırılsın mı?</string>
@@ -440,18 +443,19 @@ Kartvizitler kapalı"</string>
   <string name="expandOpenViewDescription">Genişlet</string>
   <string name="expand_collapse_name_fields_description">Ad alanlarını genişlet veya daralt</string>
   <string name="export_sim_contact_finish">Kişiler aktarıldı</string>
-  <string name="export_sim_contact_finish_failure">%1$d transfer edildi | %2$d kaldı</string>
+  <string name="export_sim_contact_finish_failure">%1$d aktarıldı | %2$d kaldı</string>
   <string name="export_sim_contact_finish_msg">%1$d aktarıldı | %2$d eşlendi | %3$d, %4$s kaldı</string>
   <string name="export_sim_contact_finish_success">%d kişi kopyalandı</string>
   <string name="export_sim_contacts_dialog_message">SIM kartınıza %d kişi kaydedilebilir</string>
-  <string name="export_to_sdcard">SD Karta Aktar</string>
-  <string name="export_to_sim">SIM karta aktar</string>
-  <string name="export_to_sim1">SIM Kart 1\'e Aktar</string>
-  <string name="export_to_sim2">SIM Kart 2\'ye Aktar</string>
+  <string name="export_to_sdcard">SD Karta aktar</string>
+  <string name="export_to_sim">SIM Karta aktar</string>
+  <string name="export_to_sim1">SIM Kart 1\'e aktar</string>
+  <string name="export_to_sim2">SIM Kart 2\'ye aktar</string>
   <string name="export_to_sim_prepare_title">Hazırlanıyor...</string>
   <string name="export_to_sim_title">Aktarılıyor…</string>
   <string name="export_to_storage">Depolamaya Aktar</string>
-  <string name="export_vcard_description">vCard dosyasından SD Karta aktar</string>
+  <string name="export_vcard_description" product="default">vCard dosyasını SD Karta aktar</string>
+  <string name="export_vcard_description" product="nosdcard">Dahili Depolamaya  vCard olarak aktar</string>
   <string name="exporting_contact_failed_message">"Kişi bilgisi dışa aktarılamadı.
 Sebep: \"%s\""</string>
   <string name="exporting_contact_failed_title">"Dışa aktarılamıyor"</string>
@@ -471,7 +475,8 @@ Sebep: \"%s\""</string>
   <string name="fail_reason_no_exportable_contact">Dışa aktarılabilecek kişi bulunmuyor.</string>
   <string name="fail_reason_not_supported">"Desteklenmeyen dosya biçimi."</string>
   <string name="fail_reason_too_long_filename">Gerekli dosya ismi çok uzun (\"%s\").</string>
-  <string name="fail_reason_too_many_vcard">Hafızada çok fazla vCard dosyası bulunuyor.</string>
+  <string name="fail_reason_too_many_vcard" product="nosdcard">Depolama alanında çok fazla vCard dosyası bulunuyor.</string>
+  <string name="fail_reason_too_many_vcard" product="default">SD kartta çok fazla vCard dosyası bulunuyor.</string>
   <string name="fail_reason_unknown">Bilinmeyen hata.</string>
   <string name="fail_reason_vcard_parse_error">"Beklenmedik bir nedenle vCard dosyaları ayrıştırılamadı."</string>
   <string name="favoritesFrequentCalled">Sık Aranan</string>
@@ -487,7 +492,7 @@ Sebep: \"%s\""</string>
   <string name="frequency_none">Asla</string>
   <string name="frequency_three_days">Her 3 günde</string>
   <string name="frequency_weekly">Her hafta</string>
-  <string name="frequentList">Çok Arananlar</string>
+  <string name="frequentList">Sık Arananlar</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Adı</string>
   <string name="gallery">Galeri</string>
@@ -554,7 +559,8 @@ Sebep: \"%s\""</string>
   <string name="import_all_vcard_string">Tüm vCard dosyalarını içe aktar</string>
   <string name="import_contact_card_aggregate_suggestion_button">Kartları birleştir</string>
   <string name="import_contact_card_button">İçe aktar</string>
-  <string name="import_failure_no_vcard_file">Hafızada vCard dosyası bulunamadı.</string>
+  <string name="import_failure_no_vcard_file" product="nosdcard">Depolama alanında vCard dosyası bulunamadı.</string>
+  <string name="import_failure_no_vcard_file" product="default">SD kartta vCard dosyası bulunamadı.</string>
   <string name="import_from_onekey_migrate">Mi Transfer kullanarak içeri aktar</string>
   <string name="import_from_other_phone">Başka bir telefondan içe aktar</string>
   <string name="import_from_sdcard">Hesabımdan içe aktar</string>
@@ -573,12 +579,13 @@ Sebep: \"%s\""</string>
   <string name="import_to_xiaomi_account_progress_message">Aktarılıyor...</string>
   <string name="import_to_xiaomi_account_progress_title">Kişileri Mi Hesabına aktar</string>
   <string name="import_to_xiaomi_account_title">Mi Hesabına aktar</string>
-  <string name="import_vcard_description">Kişileri SD Karttan aktar</string>
+  <string name="import_vcard_description" product="default">Kişileri SD Karttan aktar</string>
+  <string name="import_vcard_description" product="nosdcard">Kişileri Dahili Depolama alanından içe aktar</string>
   <string name="import_vcard_dialog_message">vCard içeri aktarılsın mı?</string>
   <string name="import_weibo_dialog_title">Weibo kişilerini içe aktar</string>
   <string name="import_weibo_error_no_matched_contacts">Eşleşen kişi yok</string>
   <string name="import_weibo_error_no_network">"Ağa bağlanamıyor.  Veri bağlantınızı kontrol edin ve tekrar deneyin."</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Mi hesabınızda saklanmış telefon numarası bulunamadı.</string>
+  <string name="import_weibo_error_no_xiaomi_phone">Mi hesabınızda kayıtlı telefon numarası bulunamadı.</string>
   <string name="import_weibo_error_unknown">Bilinmeyen hata</string>
   <string name="import_weibo_error_user_cancel">Aktarım iptal edildi</string>
   <string name="import_weibo_fetch_followers">Kişiler alınıyor...</string>
@@ -628,6 +635,7 @@ Sebep: \"%s\""</string>
   <string name="invalid_contacts_to_save_to_group">"Bilinmeyen numara kaydedilemedi"</string>
   <string name="keep_local">"Eşitlenemedi"</string>
   <string name="keep_local_btn">"Telefonun dahili hafızasını kullan"</string>
+  <string name="keep_local_btn" product="tablet">Tabletin dahili depolama alanını kullan</string>
   <string name="label_custom_type">Özel</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Tekrarlanmış kişi yok</string>
@@ -661,8 +669,8 @@ Sebep: \"%s\""</string>
   <string name="local_invisible_directory">Diğer</string>
   <string name="local_profile_title">Profilim</string>
   <string name="local_search_label">Tüm Kişiler</string>
-  <string name="locale_change_in_progress">Kişi listesi, dil değişikliğini yansıtacak şekilde güncellenmektedir.</string>
-  <string name="login_before_recharging">Değişiklik edebilmeniz için oturum açmanız gerekir.</string>
+  <string name="locale_change_in_progress">Kişi listesi değiştirilen dile uyarlandı.</string>
+  <string name="login_before_recharging">Değişiklik yapabilmeniz için oturum açmanız gerekir.</string>
   <string name="login_ok">Oturum Aç</string>
   <string name="lunarBirthdayLabelsGroup">Ay takvimine göre doğum günü</string>
   <string name="lunar_calendar">Ay Takvimi</string>
@@ -712,13 +720,13 @@ Sebep: \"%s\""</string>
   <string name="menu_help">Yardım</string>
   <string name="menu_import_export">İçe/Dışa Aktar</string>
   <string name="menu_joinAggregate">Birleştir</string>
-  <string name="menu_newContact">Yeni Kişi Oluştur</string>
+  <string name="menu_newContact">Yeni Kişi</string>
   <string name="menu_newContactButton">Ekle</string>
   <string name="menu_new_contact_action_bar">Yeni</string>
   <string name="menu_new_favorite_action_bar">Favorilere Ekle</string>
   <string name="menu_new_group_action_bar">Yeni</string>
   <string name="menu_not_redirect_calls_to_vm">Sesli Mesaj kullanılamaz</string>
-  <string name="menu_redirect_calls_to_vm">Tüm sesli aramalar</string>
+  <string name="menu_redirect_calls_to_vm">Çağrıları sesli mesaja yönlendir</string>
   <string name="menu_removeStar">Favorilerden kaldır</string>
   <string name="menu_search">Ara</string>
   <string name="menu_select_all">Hepsi</string>
@@ -746,7 +754,7 @@ Sebep: \"%s\""</string>
   <string name="miprofile_contact_added">Eklendi</string>
   <string name="miprofile_contact_header">Kartvizitler ile Kişiler</string>
   <string name="miprofile_contact_meaasge">Yerel Kişiler</string>
-  <string name="miprofile_contact_verifying">Onaylanıyor</string>
+  <string name="miprofile_contact_verifying">Onaylanıyor...</string>
   <string name="miprofile_edit_title">Profili Düzenle</string>
   <string name="miprofile_error_accept_self">"Şahsı kartınız değiştirilemedi"</string>
   <string name="miprofile_error_no_miaccount">Mi Hesabınız ile oturum açın</string>
@@ -755,7 +763,7 @@ Sebep: \"%s\""</string>
   <string name="miprofile_error_unknown">Bilinmeyen hata</string>
   <string name="miprofile_find_miprofile_title">Görüntülenen tüm bilgiyi ekle</string>
   <string name="miprofile_find_profile_batch_add">Tümünü Ekle</string>
-  <string name="miprofile_find_profile_batch_finish">Bitir</string>
+  <string name="miprofile_find_profile_batch_finish">Tamam</string>
   <string name="miprofile_find_profile_batch_request_failed">"Profil eklenemedi"</string>
   <string name="miprofile_find_profile_loading">Yükleniyor…</string>
   <string name="miprofile_find_profile_no_recommend">Tavsiye edilen profil yok </string>
@@ -764,9 +772,9 @@ Sebep: \"%s\""</string>
   <string name="miprofile_name">Profilim</string>
   <string name="miprofile_nick_name_divider">"  |  "</string>
   <string name="miprofile_nick_name_edit">Kartın rumuzunu düzenle</string>
-  <string name="miprofile_nick_name_edit_dialog_hint">Rumuz Gir</string>
+  <string name="miprofile_nick_name_edit_dialog_hint">Rumuzu girin</string>
   <string name="miprofile_nick_name_edit_dialog_message">Rumuz arama geçmişinde ve profil bilgisinde belirtilecek</string>
-  <string name="miprofile_nick_name_edit_dialog_title">Rumuzu Düzenle</string>
+  <string name="miprofile_nick_name_edit_dialog_title">Rumuzu düzenle</string>
   <string name="miprofile_notice_text">"Kişinin profil fotoğrafını görüntülemek için dokunun"</string>
   <string name="miprofile_request_agenda_date">Bu kişi kartvizitini değiştirmek istiyor: [%1$s]</string>
   <string name="miprofile_request_agenda_today">Bu kişi kartvizitini değiştirmek istiyor: [Bugün  %1$s]</string>
@@ -801,7 +809,7 @@ Sebep: \"%s\""</string>
   <string name="multi_number_menu_group">Yeni Grup</string>
   <string name="multi_number_menu_message">Mesaj</string>
   <string name="multi_number_title">Konferans Çağrısı</string>
-  <string name="multipleContactDeleteConfirmation">Bu kişiyi silme birden fazla hesap bilgilerini de silecektir.</string>
+  <string name="multipleContactDeleteConfirmation">Bu kişiyi silmek, birden fazla hesap bilgilerinin de silinmesine neden olacak.</string>
   <string name="multipleContactDeleteConfirmationDetail">\"%s\" kişisini sildiğinizde birden fazla hesaptaki bilgiler de silinecektir !</string>
   <string name="my_in_call_show">Videolarım</string>
   <string name="my_phone_not_provider_bluetooth">"Telefonda Bluetooth yok"</string>
@@ -830,18 +838,17 @@ Sebep: \"%s\""</string>
   <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Mi hesabında yedeklenmiş kişiler bilgisini geri yükle</string>
   <string name="noContacts">Kişi yok</string>
-  <string name="noContactsHelpText">"Görüntülemek için herhangi bir kişi yok.
-
-Kişi eklemek için,  "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;&lt;/b&gt;" tuşuna dokun, dokunduğunda:
- 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesapları eklemek veya Telefona eşitleyeceğiniz kişiler için hesabı ayarlayın
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Sıfırdan yeni bir kişi oluşturun
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"SIM kart veya SD Karttan kişileri içeri/dışarı aktarın
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
-"</string>
+  <string name="noContactsNoSimHelpText" product="default">\"Görüntülenecek kişi kaydınız bulunmamaktadır.\n\nKişi eklemek için, <font fgcolor="#ffffffff"><b>Menü</b></font>\'ye, ardından:\n
+        \n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font>\'a dokunarak tabletinize eşitleyeceğiniz kişilerin kayıtlı olduğu bir hesap ekleyebilir veya kurulumunu yapabilirsiniz.\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>Yeni kişi</b></font>\'ye dokunarak en baştan bir kişi oluşturabilir\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>İçe/Dışa Aktar</b></font>\'a dokunarak SIM veya SD kartınızdan kişileri içe aktarabilirsiniz.\n</li>\"
+    </string>
   <string name="noContactsHelpTextForCreateShortcut">"Görüntülenecek herhangi bir kişi yok."</string>
+  <string name="noContactsHelpText" product="tablet">\"Görüntülenecek kişi kaydınız bulunmamaktadır.\n\nKişi eklemek için, <font fgcolor="#ffffffff"><b>Menü</b></font>\'ye, ardından:\n
+        \n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font>\'a dokunarak tabletinize eşitleyeceğiniz kişilerin kayıtlı olduğu bir hesap ekleyebilir veya kurulumunu yapabilirsiniz.\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>Yeni Kişi</b></font>\'ye dokunarak en baştan bir kişi oluşturabilir\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>İçe/Dışa Aktar</b></font>\'a dokunarak SIM veya SD kartınızdan kişileri içe aktarabilirsiniz.\n</li>\"
+    </string>
   <string name="noContactsHelpTextWithSync">"Görüntülenecek herhangi bir kişi yok. (Sadece bir hesap eklediyseniz, kişileri eşitlemek birkaç dakika sürebilir.)
 
 Kişi eklemek için, "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;&lt;/b&gt;" tuşuna dokunun, dokunduğunda:
@@ -855,7 +862,7 @@ Kişi eklemek için, "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"SIM kart veya SD Karttan kişileri içeri/dışarı aktarın
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Görüntülenecek herhangi bir kişi yok. (Sadece bir hesap eklediyseniz, kişileri eşitlemek birkaç dakika sürebilir.)"</string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Görüntülenecek herhangi bir kişi yok. (Eğer bir hesap eklediyseniz, kişileri eşitlemek biraz zaman alabilir.)"</string>
   <string name="noContactsNoSimHelpText">"Görüntülenecek herhangi bir kişi yok.
 
 Kişi eklemek için, "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;&lt;/b&gt;" tuşuna dokunun, dokunduğunda:
@@ -867,20 +874,19 @@ Kişi eklemek için, "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"SD Kartınızdan kişileri içeri/dışarı aktarın
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Görüntülenecek herhangi bir kişi yok. (Sadece bir hesap eklediyseniz, kişileri eşitlemek birkaç dakika sürebilir.)
-
-Kişi eklemek için, "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;&lt;/b&gt;" tuşuna dokunun, dokunduğunda:
- 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesapları eklemek veya telefona eşitleyeceğiniz kişiler için hesabı ayarlayın
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;" Görünür kişiler için ekran seçeneklerini değiştir
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Sıfırdan yeni bir kişi oluşturun
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"SD Kartınızdan kişileri içeri/dışarı aktarın
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
-"</string>
-  <string name="noContactsWithPhoneNumbers">Telefon numarası olan kişi bulunamadı</string>
+  <string name="noContactsNoSimHelpTextWithSync" product="default">\"Görüntülenecek kişi kaydınız bulunmamaktadır. (Eğer kısa bir süre önce bir hesap eklediyseniz, kişilerin eşitleme işlemi birkaç dakika sürebilir.)\n\nKişi eklemek için, <font fgcolor="#ffffffff"><b>Menü</b></font>\'ye, ardından:\n
+        \n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font>\'a dokunarak tabletinize eşitleyeceğiniz kişilerin kayıtlı olduğu bir hesap ekleyebilir veya kurulumunu yapabilirsiniz.\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>Görüntüleme Seçenekleri</b></font>\'ne dokunarak hangi kişilerin görünür durumda olduğunu değiştirebilir\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>Yeni kişi</b></font>\'ye dokunarak en baştan bir kişi oluşturabilir\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>İçe aktar/Dışa aktar</b></font>\'a dokunarak SIM veya SD kartınızdan kişileri içe aktarabilirsiniz.\n</li>\"
+    </string>
+  <string name="noContactsNoSimHelpTextWithSync" product="tablet">\"Görüntülenecek kişi kaydınız bulunmamaktadır. (Eğer kısa bir süre önce bir hesap eklediyseniz, kişilerin eşitleme işlemi birkaç dakika sürebilir.)\n\nKişi eklemek için, <font fgcolor="#ffffffff"><b>Menü</b></font>\'ye, ardından:\n
+        \n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font>\'a dokunarak tabletinize eşitleyeceğiniz kişilerin kayıtlı olduğu bir hesap ekleyebilir veya kurulumunu yapabilirsiniz.\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>Görüntüleme seçenekleri</b></font>\'ne dokunarak hangi kişilerin görünür durumda olduğunu değiştirebilir\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>Yeni kişi</b></font>\'ye dokunarak en baştan bir kişi oluşturabilir\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>İçe/Dışa Aktar</b></font>\'a dokunarak SIM veya SD kartınızdan kişileri içe aktarabilirsiniz.\n</li>\"
+    </string>
+  <string name="noContactsWithPhoneNumbers">Telefon numarası olan hiç kimse bulunamadı</string>
   <string name="noFavoritesHelpText">"Herhangi bir favoriniz yok.
 
 Favorilerinize bir kişi eklemek için:
@@ -892,7 +898,7 @@ Favorilerinize bir kişi eklemek için:
 "&lt;li&gt;"Kişinin adının yanındaki yıldıza dokunun
 "&lt;/li&gt;"
 "</string>
-  <string name="noGroups">Grupsuz</string>
+  <string name="noGroups">Grup yok</string>
   <string name="noMatchingContacts">Eşleşen kişi bulunamadı.</string>
   <string name="noRecentContacts">Son kişi yok</string>
   <string name="no_account_prompt">"Kişi aramaları bir Google Hesabı ile daha iyi çalışır.
@@ -904,7 +910,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="no_contacts_dialog_message">"Kişiler SIM kart hafızasında olabilir. Telefonunuzun dahili depolamasına SIM karttan bunları aktarın ve yeniden deneyin."</string>
   <string name="no_contacts_dialog_title">"Kişiler bulunamadı"</string>
   <string name="no_contacts_selected">Seçilmiş kişi yok.</string>
-  <string name="no_sdcard_message">SD Kart bulunamadı.</string>
+  <string name="no_sdcard_message" product="default">SD Kart bulunamadı.</string>
   <string name="no_voip_contacts">Mi Voice kişisi yok</string>
   <string name="non_phone_add_to_contacts">Var olan bir kişiye ekle</string>
   <string name="non_phone_caption">Telefon Numarası</string>
@@ -967,7 +973,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Numara çok uzun</string>
   <string name="phone_primary">Birinci</string>
-  <string name="photoPickerNotFoundText">Telefonda uygun resim yok</string>
+  <string name="photoPickerNotFoundText" product="default">Telefonda uygun resim yok</string>
+  <string name="photoPickerNotFoundText" product="tablet">Tablette uygun resim yok</string>
   <string name="photo_fragment">Fotoğraf</string>
   <string name="photo_labels_group">Profil Fotoğrafı</string>
   <string name="photo_load_failed">"Fotoğraf yüklenemedi"</string>
@@ -993,6 +1000,10 @@ Favorilerinize bir kişi eklemek için:
   <string name="play_add_incall_show_entry">Oynat veya video ekle</string>
   <string name="play_incall_show_entry">Videoyu Oynat</string>
   <string name="postalLabelsGroup">Adres</string>
+  <string-array name="otherLabels">
+    <item>Firma</item>
+    <item>Not</item>
+  </string-array>
   <string name="postal_address">Adres</string>
   <string name="postal_city">Şehir</string>
   <string name="postal_country">Ülke</string>
@@ -1011,7 +1022,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="pref_key_sim_manage2">SIM 2 Ayarı</string>
   <string name="pref_rcs_backup_restore_title">Yedekle &amp; Geri Yükle Ayarları</string>
   <string name="pref_rcs_fetion_entry_title">Fetion Ayarları (?)</string>
-  <string name="pref_summary_import_from_account">Google ve Exchange hesaplarındaki kişileri Mi Hesabıma transfer et</string>
+  <string name="pref_summary_import_from_account">Google ve Exchange hesaplarındaki kişileri Mi Hesabıma aktar</string>
   <string name="pref_title_account_import">Kişileri Aktar</string>
   <string name="pref_title_import_from_account">Mi Hesabıma Aktar</string>
   <string name="preference_auto_ip_summary_disable">Kapalı</string>
@@ -1093,19 +1104,19 @@ Favorilerinize bir kişi eklemek için:
   <string name="reading_vcard_failed_title">vCard verisi okunamadı</string>
   <string name="rebuild_t9_index_dialog_message">Yeniden yapılandırılıyor...</string>
   <string name="recent">En Son</string>
-  <string name="recentCallsIconLabel">Çağrı Günlüğü</string>
-  <string name="recentCalls_addToContact">Varolan Bir Kişiye Ekle</string>
+  <string name="recentCallsIconLabel">Çağrı Geçmişi</string>
+  <string name="recentCalls_addToContact">Kayıtlı Kişiye Ekle</string>
   <string name="recentCalls_callNumber">Ara: %s</string>
-  <string name="recentCalls_deleteAll">Çağrı Günlüğünü Temizle</string>
+  <string name="recentCalls_deleteAll">Çağrı Geçmişini Temizle</string>
   <string name="recentCalls_editNumberBeforeCall">Aramadan önce numarayı düzelt</string>
-  <string name="recentCalls_empty">Çağrı günlüğü boş</string>
-  <string name="recentCalls_removeFromRecentList">Çağrıyı günlükten çıkart</string>
+  <string name="recentCalls_empty">Çağrı geçmişi yok</string>
+  <string name="recentCalls_removeFromRecentList">Çağrı geçmişinden sil</string>
   <string name="recentCalls_shareVoicemail">Sesli mesajı paylaş</string>
   <string name="recentCalls_trashVoicemail">Sesli mesajı sil</string>
   <string name="recent_contacts_label">En Son</string>
   <string name="recent_number">En Son</string>
   <string name="recent_updates">En Son Güncellemeler</string>
-  <string name="redirect_calls_to_vm_confirm_message">Posta kutunuzu ayarlamadan önce mobil şebeke sağlayıcınızın sözleşme şartlarınızı ve koşullarınızı kontrol edin.</string>
+  <string name="redirect_calls_to_vm_confirm_message">Posta kutunuzu ayarlamadan önce mobil şebeke sağlayıcınızın sunduğu sözleşme şartlarını ve koşullarınızı kontrol edin.</string>
   <string name="redirect_calls_to_vm_confirm_text">Tamam</string>
   <string name="refresh">Yenile</string>
   <string name="relationLabelsGroup">İlişki Durumu</string>
@@ -1125,8 +1136,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="returnCall">Çağrıya Dön</string>
   <string name="ringLabelsGroup">Zil Sesi</string>
   <string name="save_photo_progress">Fotoğraf kaydediliyor...</string>
-  <string name="savingContact">Kişi kaydediliyor...</string>
-  <string name="savingDisplayGroups">Görüntüleme seçenekleri kaydediliyor...</string>
+  <string name="savingContact">Kişi kaydediliyor...\u2026</string>
+  <string name="savingDisplayGroups">Görüntüleme seçenekleri kaydediliyor...\u2026</string>
   <string name="scan">Tara</string>
   <string name="scan_duplicate_message">%1$d kişi aynı bilgiyi içeriyor.</string>
   <string name="scan_merge">Tekrarlanan kişiler aranıyor...</string>
@@ -1134,7 +1145,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning">Taranıyor</string>
   <string name="scanning_sdcard_failed_message">Sebep: \"%s\".</string>
-  <string name="scanning_sdcard_failed_title">"SD Kart taranamadı"</string>
+  <string name="scanning_sdcard_failed_title" product="nosdcard">Depolama alanı taranamadı</string>
+  <string name="scanning_sdcard_failed_title" product="default">SD kart taranamadı</string>
   <string name="searchHint">Kişileri Ara</string>
   <string name="search_batch_delete">Düzenle;Kişiler</string>
   <string name="search_contacts_display">Kişiler;Görüntüle</string>
@@ -1162,7 +1174,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="search_simple_mode">Görüntüle;Bilgi;Fotoğraf;Kişiler</string>
   <string name="search_smart_group_title">Kişiler;Görüntüle</string>
   <string name="search_wipe_data">Düzenle;Kişiler</string>
-  <string name="searching_vcard_message">SD Karttaki vCard verisi aranıyor…</string>
+  <string name="searching_vcard_message" product="nosdcard">Depolama birimindeki vCard dosyaları aranıyor...\u2026</string>
+  <string name="searching_vcard_message" product="default">SD Karttaki vCard verisi aranıyor…</string>
   <string name="select_all">Hepsi</string>
   <string name="select_device">Cihazı seçin</string>
   <string name="select_done">Daha fazla seçmeyin</string>
@@ -1173,7 +1186,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="select_show_contacts">Kişi Listesi</string>
   <string name="select_vcard_title">vCard Dosyası Seç</string>
   <string name="send_contact_shortcut_todesktop_success">Ana Ekrana eklendi</string>
-  <string name="send_to_voicemail_checkbox">Çağrıları doğrudan sesli mesaja yönlendir</string>
+  <string name="send_to_voicemail_checkbox">Çağrıları direkt sesli mesaja yönlendir</string>
   <string name="separatorJoinAggregateAll">Tüm Kişiler</string>
   <string name="separatorJoinAggregateSuggestions">Önerilen Kişiler</string>
   <string name="service_more">Fazlası</string>
@@ -1260,10 +1273,10 @@ Favorilerinize bir kişi eklemek için:
   <string name="social_widget_label">Kişi</string>
   <string name="social_widget_loading">Yükleniyor...</string>
   <string name="solar_calendar">Güneş Takvimi</string>
-  <string name="splitConfirmation">Bu kişi birden çok kişiye ayrılacak.</string>
+  <string name="splitConfirmation">Bu kişi; birden çok kişiye ayrılacak.</string>
   <string name="splitConfirmation_title">Kişi birden çok kişiye ayrılsın mı?</string>
   <string name="spring_begins">Hıdırellez</string>
-  <string name="starredList">Yıldızlı</string>
+  <string name="starredList">Favorili</string>
   <string name="starred_contacts">Favoriler</string>
   <string name="status_available">Uygun</string>
   <string name="status_away">Dışarıda</string>
@@ -1279,7 +1292,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="summer_solstice">Günötesi</string>
   <string name="t9_search_guide_pinyin">"Orhan'ı aramak için 6 ve 7 harflerine tıklayın."</string>
   <string name="t9_search_guide_pinyin_title1">Bulunacak kişilerin rakamlarını girin</string>
-  <string name="t9_search_guide_pinyin_title2">Xenia aramasını yapmak için 9 ve 4 giriş yapın: &lt;font fgcolor=""&gt;X&lt;/font&gt;enia &lt;font fgcolor=""&gt;H&lt;/font&gt;oney</string>
+  <string name="t9_search_guide_pinyin_title2">Orhan'ı aramak için 6 ve 7 harflerine tıklayın.</string>
   <string name="t9_search_guide_zhuyin">"Orhan'ı aramak için 6 ve 7 harflerine tıklayın."</string>
   <string name="t9_search_guide_zhuyin_title1">Bulunacak kişilerin rakamlarını girin</string>
   <string name="t9_search_guide_zhuyin_title2">"Orhan'ı aramak için 6 ve 7 harflerine tıklayın."</string>
