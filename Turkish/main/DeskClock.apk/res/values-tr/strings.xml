@@ -86,6 +86,14 @@
   <string name="remind_ringtone">Zil Sesi</string>
   <string name="reset">Sıfırla</string>
   <string name="revert">Geri Al</string>
+  <string name="search_alarm_clock">@string/alarm_list_title</string>
+  <string name="search_alarm_clock_keywords">Alarm;Alarm Saati;</string>
+  <string name="search_stopwatch">@string/stopwatch_title</string>
+  <string name="search_stopwatch_keywords">Kronometre</string>
+  <string name="search_timer">@string/timer_title</string>
+  <string name="search_timer_keywords">Zamanlayıcı</string>
+  <string name="search_worldclock">@string/worldclock_title</string>
+  <string name="search_worldclock_keywords">Zaman;Dünya Saati;Saat</string>
   <string name="set_alarm">Alarmı Ayarla</string>
   <string name="setting_alarm_arriving_summary">Zil çalmadan önce bir bildirim gönder</string>
   <string name="setting_alarm_arriving_title">Zilden Önce Bildirim</string>
