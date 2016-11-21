@@ -101,7 +101,7 @@
   <string name="lockstyle_personal_settings">Özelleştir</string>
   <string name="long_ringtone_resource">Uzun</string>
   <string name="mi_wallpaper">MIUI Duvar Kağıdı</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">Zil Sesi SIM Kart 1 ve SIM Kart 2 içinde uygulanır.</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Zil sesi her iki SIM karta da uygulanır.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Anladım</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"Tekrar gösterme"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Uyumluluk Problemleri</string>
@@ -238,7 +238,7 @@
   <string name="resource_menu_refresh">Yenile</string>
   <string name="resource_mute">Yok</string>
   <string name="resource_my">Çevrimdışı</string>
-  <string name="resource_network_diagnostics">Ağ Teşhisi</string>
+  <string name="resource_network_diagnostics">&lt;u&gt;A&amp;#287; Te&amp;#351;hisi&lt;/u&gt;</string>
   <string name="resource_no_match_app">Bu eylemi gerçekleştirecek uygulama bulunamadı.</string>
   <string name="resource_no_network_text">"Ağ bağlantısı yok."</string>
   <string name="resource_no_result">"Sonuç bulunamadı"</string>
