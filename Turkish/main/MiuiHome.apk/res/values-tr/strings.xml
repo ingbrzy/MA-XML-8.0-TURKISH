@@ -82,6 +82,7 @@
   <string name="editing_mode_enter_tip_text">Ana ekranı düzenlemek için kıstırın</string>
   <string name="editing_mode_title">%1$d seçildi</string>
   <string name="editing_mode_title_empty">0 seçildi</string>
+  <string name="editing_set_screen_layout_cells">Ekran düzeni efektini seçin</string>
   <string name="editing_set_transition_effect_tips">Ekranlar arası geçiş efektini seçin</string>
   <string name="editing_set_wallpaper_tips">Duvar kağıdını seç</string>
   <string name="editing_tips">Ana Ekranı Düzenle</string>
@@ -178,7 +179,7 @@
   <string name="menu_workspace_preview">Ana Ekranları Önizle</string>
   <string name="mi_wallpaper">MIUI Tema Mağazası</string>
   <string name="mtzgadget_missing_text">"Araç mevcut değil"</string>
-  <string name="multi_selecting_tips">Uygulamayı eklemek için, simgesine dokunun</string>
+  <string name="multi_selecting_tips">Uygulamayı eklemek için, simgesini sürükleyip, buraya bırakabilirsiniz</string>
   <string name="no_detail_page">Detay sayfası yok</string>
   <string name="normal_wallpaper">Duvar Kağıdı</string>
   <string name="notification_installed">Başarıyla yüklendi</string>
@@ -243,6 +244,7 @@
   <string name="status_pending">Bekleniyor</string>
   <string name="title_select_live_folder">Klasörü Seç</string>
   <string name="title_select_shortcut">Kısayolu Seç</string>
+  <string name="toast_screen_icons_misplaced">Diğer veritabanından geri yüklendiğinde, bazı simgeler yanlış yerleştirilmiş olabilir</string>
   <string name="toggle_select_title">Geçişi Seç</string>
   <string name="toggle_title">Geçişler</string>
   <string name="transformation_type_classic">Geçiştir</string>
