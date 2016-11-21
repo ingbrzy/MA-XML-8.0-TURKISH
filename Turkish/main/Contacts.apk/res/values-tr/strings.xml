@@ -1292,7 +1292,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="summer_solstice">Günötesi</string>
   <string name="t9_search_guide_pinyin">"Orhan'ı aramak için 6 ve 7 harflerine tıklayın."</string>
   <string name="t9_search_guide_pinyin_title1">Bulunacak kişilerin rakamlarını girin</string>
-  <string name="t9_search_guide_pinyin_title2">"Orhan'ı aramak için 6 ve 7 harflerine tıklayın."</string>
+  <string name="t9_search_guide_pinyin_title2">Orhan'ı aramak için 6 ve 7 harflerine tıklayın.</string>
   <string name="t9_search_guide_zhuyin">"Orhan'ı aramak için 6 ve 7 harflerine tıklayın."</string>
   <string name="t9_search_guide_zhuyin_title1">Bulunacak kişilerin rakamlarını girin</string>
   <string name="t9_search_guide_zhuyin_title2">"Orhan'ı aramak için 6 ve 7 harflerine tıklayın."</string>
@@ -1324,6 +1324,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="toast_making_personal_copy">Şahsi kopya oluşturuluyor…</string>
   <string name="toast_text_copied">Kopyalandı</string>
   <string name="today">Bugün</string>
+  <string name="tomorrow">Yarın</string>
   <string name="transfer_accounts">Hesaplara aktar</string>
   <string name="tw_childrens_day">Çocuklar Günü</string>
   <string name="tw_youth_day">Gençlik Günü</string>
@@ -1418,5 +1419,6 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Ana Ekrana eklendi</string>
   <string name="yellowpage_search_the_yellowpage">Sarı Sayfalarda Ara</string>
   <string name="yellowpage_user_profile">Profil</string>
+  <string name="yesterday">Dün</string>
   <string name="zero_items_selected">Öğeleri Seç</string>
 </resources>
