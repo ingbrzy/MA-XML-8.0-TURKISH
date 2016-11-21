@@ -124,10 +124,12 @@ Not: Büyütme için üç kez vurma klavye ve gezinme çubuğunda dışında her
 Parmağınızın sensörün iç kenarını kapsadığından emin olun"</string>
   <string name="add_fingerprint_instruction_msg">Cihazınızın kilidini açın veya parmakizi ile ödemenizi doğrulayın</string>
   <string name="add_fingerprint_instruction_title">Parmakizi okuyucuya parmağınızı yerleştirin</string>
+  <string name="add_fingerprint_name_suggest_text">Parmakizi Adı</string>
   <string name="add_fingerprint_put_finger_edge_msg">Yerleştirin ve parmakizi tamamen kaydedilene kadar art arda parmağınızı kaldırın.</string>
   <string name="add_fingerprint_put_finger_msg">Yerleştirin ve parmakizi tamamen kaydedilene kadar art arda parmağınızı kaldırın.</string>
   <string name="add_fingerprint_put_finger_title">Parmakizi ekle</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Parmağınızın tüm bölümünü taramak için birkaç kez sensöre dokunarak hareket ettirin.</string>
+  <string name="add_fingerprint_success_msg">Başarıyla eklendi</string>
   <string name="add_fingerprint_text">Parmakizi ekle</string>
   <string name="add_fingerprint_toast_text">Sensöre parmağınızı koyun</string>
   <string name="adding_profile_owner_warning">"Devam ettiğinizde, kullanıcınız sizin yöneticiniz tarafından idare edilecek. Kişisel verilere ek olarak, ilişkili verileri depolamak mümkün olabilir.
@@ -420,7 +422,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="band_mode_title">GSM/UMTS Bant Ayarı</string>
   <string name="baseband_version">Ana Bant Sürümü</string>
   <string name="batch_delete_backup_confirm">Seçili yedekleme silinsin mi?</string>
-  <string name="batch_delete_saved_network">Seçili ağ silinsin mi?:%s </string>
+  <string name="batch_delete_saved_network">Seçili %s ağ silinsin mi?</string>
   <string name="batch_delete_saved_networks">Tüm seçili ağları sil</string>
   <string name="battery_action_app_details">Uygulama Bilgisi</string>
   <string name="battery_action_app_settings">Uygulama Ayarları</string>
@@ -710,8 +712,6 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">Eski cihaz güncel cihaz ile değiştirilecek</string>
   <string name="bluetooth_unlock_change_matched_device">Diğer cihazı seç</string>
   <string name="bluetooth_unlock_confirm_device_text">Bluetooth cihazını doğrulamak için dokun.</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Kilidi açmak için saatin üzerindeki düğmeye dokunun.</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Kilidi açmak için cihazdaki düğmeye dokunun.</string>
   <string name="bluetooth_unlock_confirm_device_text_2">Cihaz kilidini açmak için düğmeye dokunun.</string>
   <string name="bluetooth_unlock_delete_device">Bu cihazı sil</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Bu cihaz silinsin mi?</string>
@@ -791,9 +791,12 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="button_send">Gönder</string>
   <string name="button_text_accept">Kabul</string>
   <string name="button_text_accept_timer">Kabul(%d)</string>
+  <string name="button_text_cancel">İptal</string>
   <string name="button_text_login">Oturum Aç</string>
   <string name="button_text_next_step">Sonraki</string>
   <string name="button_text_next_step_timer">Sonraki (%d)</string>
+  <string name="button_text_ok">Tamam</string>
+  <string name="button_text_ok_timer">Tamam(%d)</string>
   <string name="button_text_reboot_now">Y. Başlat</string>
   <string name="button_text_reject">Reddet</string>
   <string name="cache_header_label">Önbellek</string>
@@ -886,7 +889,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="children_mode_title">Çocuk Modu</string>
   <string name="choose_assist_title">Yardımcı Uygulamayı seç</string>
   <string name="choose_profile">Profili seç</string>
-  <string name="choose_smartcover_type">Kılıf tipini seçin</string>
+  <string name="choose_smartcover_type">Kapak tipini seçin</string>
   <string name="choose_timezone">Zaman Dilimini Seç</string>
   <string name="choose_voice_input_title">Ses Girişini Seç</string>
   <string name="cleaner">Temizleyici</string>
@@ -1200,6 +1203,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="debug_monitoring_category">Gözetim</string>
   <string name="debug_networking_category">Ağ</string>
   <string name="debug_view_attributes">Görünüm özelliği incelemeyi etkinleştir</string>
+  <string name="defalut_launcher_title">Varsayılan Başlatıcı</string>
   <string name="default_app">(Varsayılan)</string>
   <string name="default_apps_title">Varsayılan Uygulamalar</string>
   <string name="default_assist_none">Yok</string>
@@ -1620,9 +1624,12 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="fingerprint_add_max">%d için parmakizi ekleyebilirsiniz</string>
   <string name="fingerprint_add_title">Parmakizi ekle</string>
   <string name="fingerprint_and_password_entrance_title">Kilit Ekranı &amp; Parmakizi</string>
+  <string name="fingerprint_apply_to_privacy_password">Gizlilik Koruma Şifresi</string>
+  <string name="fingerprint_apply_to_privacy_password_scenarios">Gizlilik koruma şifresi mesajları, fotoğrafları, dosyaları, notları ve uygulamaları korur.</string>
   <string name="fingerprint_enable_keyguard_toggle_title">Kilit Ekranı</string>
   <string name="fingerprint_enroll_button_add">Diğerini Ekle</string>
   <string name="fingerprint_enroll_button_next">Sonraki</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Parmakizi(parmakizi, kilit ekranı şifresinin ayarlanmasından sonra kullanılabilir)</string>
   <string name="fingerprint_for_keyguard_disabled">Güvenlik ayarları tarafından Parmakizi devre dışı bırakıldı.</string>
   <string name="fingerprint_identificating_msg">Parmakizi tarandı...</string>
   <string name="fingerprint_identify_input_password_msg">Parolanı Gir</string>
@@ -1634,6 +1641,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="fingerprint_list_title">Parmakizi</string>
   <string name="fingerprint_lock_first">Birinci Alan kilidini kaldır</string>
   <string name="fingerprint_lock_second">İkinci Alan kilidini kaldır</string>
+  <string name="fingerprint_manage">Parmakizini Yönet</string>
   <string name="fingerprint_manage_category_title">Parmakizlerini yönet</string>
   <string name="fingerprint_not_identified_msg">"Parmakizi okunamadı. Şifrenizi girin"</string>
   <string name="fingerprint_not_recognized">Tanımlanamadı</string>
@@ -1707,7 +1715,6 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="free_xiaomi_wifi_connect_summary">%1$s bağlantısı için dokun.</string>
   <string name="frequently_fragment_delete">Kaldır</string>
   <string name="frequently_fragment_tempty">Sık kullanılan öğeler burada listelenecektir</string>
-  <string name="full_transparent_smarrcover_title">Ön Kılıf Şeffaf</string>
   <string name="fullbackup_data_summary">"Otomatik olarak cihazdaki verilerle uygulama verileri farklı bir noktada yedeklenir (buna WLAN şifreleri, çağrı geçmişi, ayarlar ve satın alınan uygulamalar dahildir)
 
 Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında saklanır. Bu işlemde esnasında kişiler, mesajlar, fotoğraflar dahil olmak üzere uygulama verisi de saklanır."</string>
@@ -1905,6 +1912,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="keyboard_layout_picker_title">Klavye Düzenleri</string>
   <string name="keyboard_settings_category">Klavye &amp; Giriş Usulleri</string>
   <string name="keyboard_settings_title">Android Klavye</string>
+  <string name="keyguard_advance_setting_title">Tuş Kilidi Gelişmiş Ayarları</string>
   <string name="keyguard_left_function_chooser_hint_text">%s için sol kısayol değiştirildi</string>
   <string name="keyguard_left_function_chooser_title">Uygulama</string>
   <string name="keyguard_left_function_title">Sol</string>
@@ -1965,6 +1973,8 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="launch_count_label">Say(?)</string>
   <string name="launch_defaults_none">Varsayılan ayarı yok</string>
   <string name="launch_defaults_some">Bazı varsayılanı ayarla</string>
+  <string name="launcher_auto_fill_empty_title">Boş Hücreleri Otomatik Doldur</string>
+  <string name="launcher_title">Başlatıcı</string>
   <string name="launching_cit">CIT Başlatılıyor</string>
   <string name="launching_pho">Telefon bilgisi başlatılıyor, lütfen bekleyin...</string>
   <string name="launching_rep">Raporlanıyor…</string>
@@ -2090,6 +2100,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="lock_after_timeout_summary_with_exception">%1$s uyuyunca, %2$s tarafından kilit açılır</string>
   <string name="lock_immediately_summary_with_exception">Uyuduktan sonra hemen %1$s tarafından kilidin açılmasını engelle</string>
   <string name="lock_intro_message">Lock_intro_message</string>
+  <string name="lock_screen_cells_title">Ekran Hücrelerini Kilitle</string>
   <string name="lock_screen_notifications_interstitial_message">Cihazınız kilitliyken, bildirimleri nasıl göstermek istiyorsunuz?</string>
   <string name="lock_screen_notifications_interstitial_title">Bildirimler</string>
   <string name="lock_screen_notifications_summary_disable">"Tüm bildirimleri gösterme"</string>
@@ -2099,6 +2110,8 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="lock_screen_secure_after_timeout_immediately_summary">Şifre hemen gerekli, </string>
   <string name="lock_screen_secure_after_timeout_summary">%1$s içinde şifre iste</string>
   <string name="lock_screen_secure_after_timeout_title">Şifre istendi</string>
+  <string name="lock_screen_signature_summary">İmza kilit ekranında gösterilecek</string>
+  <string name="lock_screen_signature_title">Kilit Ekran İmzası</string>
   <string name="lock_screen_unlock_show">Kaydırma ekranını atla</string>
   <string name="lock_screen_unlock_show_summary">Doğrudan Ana Sayfaya ve Şifre girişi ekranına git</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Değiştirmek için dokunun</string>
@@ -2208,6 +2221,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="manage_condition_providers_summary_zero">Uygulama koşullarını sağlayıcı yok</string>
   <string name="manage_device_admin">Cihaz Yöneticileri</string>
   <string name="manage_device_admin_summary">Cihaz yöneticilerini görüntüle veya devre dışı bırak</string>
+  <string name="manage_fingerprint_text">Parmakizini Yönet</string>
   <string name="manage_fakecell_settings">Sahte Baz Koruma Ayarları</string>
   <string name="manage_mobile_plan_title">Mobil Plan</string>
   <string name="manage_notification_access">Bildirim Erişimi</string>
@@ -2234,6 +2248,9 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
 Şu anda aşağıdaki hesaplarda oturum açmış durumdasınız:
 "</string>
   <string name="master_clear_all">"Telefonunuzun dahili depolama alanındaki tüm veriler silinsin mi? Bu işlemi geri alamazsınız!"</string>
+  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Fabrika verilerine sıfırlama,&amp;#8221; fotoğraf, şarkı, not ve diğer kişisel veriler de dahil olmak üzere&lt;/b&gt;, telefonunuzdaki tüm verileri silecek. Tüm önemli öğeleri bilgisayarınıza yedeklediğinizden emin olun.</string>
+  <string name="master_clear_apply_step_2">Tüm önemli öğelerin bilgisayarınıza yedeklendiğinden emin olun. Bu cihaz üzerindeki tüm veriler sıfırlama esnasında silinir. &lt;b&gt;Yedek almadığınız öğeleri geri yükleyemezsiniz.&lt;/b&gt;</string>
+  <string name="master_clear_apply_title">Attention</string>
   <string name="master_clear_button_text">Telefonu sıfırla</string>
   <string name="master_clear_confirm_title">Sıfırlansın mı?</string>
   <string name="master_clear_desc">"Telefonunuzun dahili hafızasındaki "&lt;b&gt;şu veriler silinecek&lt;/b&gt;",:
@@ -2433,6 +2450,7 @@ Burada diğer kullanıcılar var.
   <string name="miui_data_usage_menu_metered">Mobil Paylaşım</string>
   <string name="miui_disturb_title">Rahatsız Etme</string>
   <string name="miui_experience_optimization">MIUI\'yi iyi hale getir</string>
+  <string name="miui_screen_config_title">MIUI Başlatıcı Ekran Ayarı</string>
   <string name="miui_screensaver_show_time">Süre</string>
   <string name="miui_screensaver_show_time_select_title">Slayt Süresi</string>
   <string name="miui_screensaver_state_off">Kapalı</string>
@@ -2509,8 +2527,8 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="multi_user_mode_dialog_message">Mi Transfer Çoklu-Kullanıcı Modunu desteklemez. Çoklu-Kullanıcı Modunu kapatıp, devam edin.</string>
   <string name="multi_user_mode_dialog_title">Çoklu-Kullanıcı Modundasınız</string>
   <string name="music_audio_effect_optimize">Ses Ayarları</string>
-  <string name="music_audio_effect_optimize_summary">Dirac, kulaklık ve diğer ses ayarları</string>
-  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, Kulaklık ve Diğer Ses Ayarları</string>
+  <string name="music_audio_effect_optimize_summary">Dirac, kulaklık ve diğer ses ayarlarını yapılandırabilirsiniz</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Ses, Kulaklık ve Diğer Ses Ayarları</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, kulaklık ve diğer ses ayarları</string>
   <string name="music_audio_effect_settings">Efekt Ayarları</string>
   <string name="music_dirac_control">Ses kalitesini iyileştir</string>
@@ -2592,6 +2610,10 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="never">Asla</string>
   <string name="new_backup">Yedekle</string>
   <string name="new_backup_pw_prompt">Buraya tam yedeklemeler için yeni bir şifre yazın</string>
+  <string name="new_password_to_new_fingerprint_dialog_msg">Parmakizi eklendikten sonra ekranın kilidini açmak için parmakizi kullanılabilir</string>
+  <string name="new_password_to_new_fingerprint_dialog_negative_msg">İptal</string>
+  <string name="new_password_to_new_fingerprint_dialog_positive_msg">Ekle</string>
+  <string name="new_password_to_new_fingerprint_dialog_tittle">Parmakizi ekle</string>
   <string name="next_button_label">Sonraki</string>
   <string name="next_label">Sonraki</string>
   <string name="nfc_category_title">NFC (Kablosuz Transfer)</string>
@@ -2651,9 +2673,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="no_updates_warning2">"Rahatla, bir güncelleme olup olmadığını size bildiririz :)"</string>
   <string name="noise_suppression">Ortam gürültüsünü bastır</string>
   <string name="normal_date_format">Bölgesel (%s)</string>
-  <string name="normal_smartcover_title">Ön Kılıf Opak</string>
-  <string name="smartcover_lock_or_unlock_screen_tittle">Akıllı Kılıf Kilidi veya Ekran Kilidi</string>
-  <string name="smartcover_sensitive_summary">Kilitle veya akıllı kılıf ile telefonun basitçe aç</string>
+  <string name="normal_smartcover_title">Opak ön kapak</string>
   <string name="not_installed">Yüklenmedi</string>
   <string name="note_title">Notlar</string>
   <string name="notes_privacy_password_role_instruction">Özel notlarınız burada depolanacak...</string>
@@ -2793,6 +2813,8 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="passwordIncorrect">Girdiğiniz şifre hatalı</string>
   <string name="password_entrance_title">Ekran Kilidi</string>
   <string name="password_guard">Şifre</string>
+  <string name="password_turned_off_text">Şifre kapatıldı</string>
+  <string name="password_turned_on_text">Şifre açıldı</string>
   <string name="password_promotion_button_text">Mi Hesabı ekle</string>
   <string name="password_promotion_message">(%s) Mi Hesabı ekleyerek, unuttuğunuzda şifrenizi sıfırlamak için kullanabilirsiniz.</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Bunu unutmanız halinde şifrenizi sıfırlamak için Mi Hesabı ekleyin</string>
@@ -3455,6 +3477,7 @@ Bu ayar telefondaki tüm kullanıcıları etkiler."</string>
   <string name="screen">Ekran</string>
   <string name="screen_button">Ekran Düğmeleri</string>
   <string name="screen_button_tips">Ekran düğmelerini gizlemek için aşağı kaydırın</string>
+  <string name="screen_cells_config_title">Ekran Hücresinin Ayarı</string>
   <string name="screen_color_and_optimize">Renkler &amp; Karşıtlık</string>
   <string name="screen_color_and_optimize_disabled">"Okuma Modunda renk sıcaklığı ayarlanamaz"</string>
   <string name="screen_color_temperature">Renkler</string>
@@ -3896,7 +3919,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="show_hw_screen_updates_summary">GPU ile çizildiğinde içerden pencere görüntülemesi flaşlı</string>
   <string name="show_magnifier_when_input">Metni büyüteç içinde göster</string>
   <string name="show_non_rect_clip">Dikdörtgensiz işlemler için hata ayıkla</string>
-  <string name="show_owner_info_on_lockscreen_label">Kilit ekranında sahip bilgilerini göster</string>
+  <string name="show_owner_info_on_lockscreen_label">Kilit ekranında imzayı göster</string>
   <string name="show_password">Şifreler Görülebilsin</string>
   <string name="show_profile_info_on_lockscreen_label">Kilit ekranında profil bilgisini göster</string>
   <string name="show_rounded_corners">Köşeleri oval göster</string>
@@ -4016,8 +4039,10 @@ Kalan Girişimler :"</string>
   <string name="slot_number">(Yuva %1$d)</string>
   <string name="slot_status_title">IMEI Bilgileri</string>
   <string name="small_font">Küçük</string>
-  <string name="smallwindow_smartcover_title">Şeffaf Ön Kılıf</string>
+  <string name="smallwindow_smartcover_title">Şeffaf Ön Kapak</string>
   <string name="smartcover_sensitive_title">Akıllı Kılıf Modu</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">Akıllı Kılıf Modu</string>
+  <string name="smartcover_sensitive_summary">Akıllı kılıfı kullanarak telefonu otomatik olarak kilitleyin veya açın</string>
   <string name="sms_application_title">Varsayılan SMS Uygulaması</string>
   <string name="sms_change_default_dialog_text">SMS uygulaması olarak  %2$s yerine %1$s kullanmak ister misiniz?</string>
   <string name="sms_change_default_dialog_title">SMS uygulaması değişsin mi?</string>
@@ -4579,8 +4604,14 @@ alıcı aygıtın açık olduğundan emin olun"</string>
   <string name="tts_status_requires_network">%1$s için ağ bağlantısı gerekiyor</string>
   <string name="tts_status_title">Varsayılan Dil Durumu</string>
   <string name="turn_off_common_password_confirm_msg">Ekran kilidi dahi kapatılacak.</string>
+  <string name="turn_off_keyguard_password_alert_title">Kapalı</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Kilit ekranı şifresini kapatmak istediğinizi onaylıyor musunuz?</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Kilit ekranı şifresini kapattıktan sonra parmakizi fonksiyonunu kullanılmayacak</string>
   <string name="turn_off_radio">Radyoyu kapat</string>
   <string name="turn_off_security_lock">Kilitlemeyi kapat</string>
+  <string name="wallpaper_attributions_values">"Uydu Resmi Saylayıcıları:
+©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
+  <string name="turn_on_keyguard_password">Tuş kilidi şifresini aç</string>
   <string name="turn_on_radio">Radyoyu aç</string>
   <string name="turn_on_security_lock">Ekran kilidini seç</string>
   <string name="uicc_eject">UICC depolamayı çıkart</string>
