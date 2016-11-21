@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alphabet">Alfabeler</string>
+  <string name="alphabet">Harfler</string>
   <string name="app_name">SIM Araçları</string>
   <string name="app_name2">SIM Araçları 2</string>
   <string name="app_name3">SIM Araçları 3</string>
@@ -9,15 +9,15 @@
   <string name="button_ok">Tamam</string>
   <string name="button_yes">Evet</string>
   <string name="default_call_setup_msg">Çağrı sürüyor…</string>
-  <string name="default_close_channel_msg">Kanal Kapatıldı</string>
-  <string name="default_open_channel_msg">Kanal açılsın mı?</string>
-  <string name="default_receive_data_msg">Veri alınıyor</string>
-  <string name="default_send_data_msg">Veri gönderiliyor</string>
-  <string name="default_setup_call_msg">Bağlantı kurulyor</string>
-  <string name="default_tone_dialog_msg">Ses oynatılıyor</string>
+  <string name="default_close_channel_msg">Kanal kapatıldı</string>
+  <string name="default_open_channel_msg">Bu kanal açılsın mı?</string>
+  <string name="default_receive_data_msg">Veri alınıyor...</string>
+  <string name="default_send_data_msg">Veri gönderiliyor...</string>
+  <string name="default_setup_call_msg">Çağrı ayarlanıyor...</string>
+  <string name="default_tone_dialog_msg">Varsayılan ton</string>
   <string name="digits">Rakamlar (0-9, *, #, +)</string>
-  <string name="disable_app">Pasif</string>
-  <string name="enable_app">Aktif</string>
+  <string name="disable_app">Kapalı</string>
+  <string name="enable_app">Açık</string>
   <string name="help">Yardım</string>
   <string name="menu_back">Geri</string>
   <string name="menu_end_session">Oturum bitti</string>
@@ -30,6 +30,6 @@
   <string name="stk_dialog_accept">EVET</string>
   <string name="stk_dialog_reject">HAYIR</string>
   <string name="stk_dialog_title">SIM Araçları</string>
-  <string name="stk_intent_permission">STK Amaçları İzin Ver</string>
+  <string name="stk_intent_permission">İstenen izni ver</string>
   <string name="stk_no_service">Mevcut hizmet yok</string>
 </resources>
