@@ -155,7 +155,7 @@
   <string name="dialog_msg_load_cleanup_engine_error">Temizleyici çekirdeği bozuldu.</string>
   <string name="dialog_msg_stop_scan">"Devam eden temizleme taraması durdurulsun mu?"</string>
   <string name="dialog_msg_uninstall_apps">Bu uygulamalar kaldırılsın mı?</string>
-  <string name="dialog_msg_uninstall_apps_xspace">Bu uygulamalar kaldırılsın mı? （klonlu uygulamalar dahil）?</string>
+  <string name="dialog_msg_uninstall_apps_xspace">Klonlu uygulamalarda dahil olmak üzere bu uygulama kaldırılsın mı?</string>
   <string name="dialog_ok_add_white_list_error">Anladım</string>
   <string name="dialog_title_add_white_list_error">Dikkat</string>
   <string name="dialog_title_backup_and_uninstall_apps">Yedekle ve Kaldır</string>
@@ -315,7 +315,7 @@
   <string name="msg_update_error_code_unknown_error">Bilinmeyen hata</string>
   <string name="name_debuglog_dir">BSP Hata Ayıklama Günlüğü</string>
   <string name="name_optimizer">"Gizlilik Politikası"</string>
-  <string name="nb_clear_set">ROM, pil durumu ve engelliler listesi bildirimlerini temizle</string>
+  <string name="nb_clear_set">Önbelleği, pil durumunı ve engelliler bilgisinin bildirimlerini temizle</string>
   <string name="net_assistant_detail">%1$s kullanıldı, %2$s saklandı</string>
   <string name="net_assistant_title">Bu ay %s mobil veri kullanıldı</string>
   <string name="network_not_available">"Ağa bağlanamıyor"</string>
