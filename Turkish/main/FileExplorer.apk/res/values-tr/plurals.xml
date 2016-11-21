@@ -317,8 +317,8 @@
         <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> gün</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">• &lt;font color=#fc7050>%1$s&lt;/font> video yüklediniz,</item>
-        <item quantity="one">• &lt;font color=#fc7050>%1$s&lt;/font> video yüklediniz,</item>
+        <item quantity="other">• &lt;font color=#fc7050>%1$s&lt;/font> video yüklediniz.</item>
+        <item quantity="one">• &lt;font color=#fc7050>%1$s&lt;/font> video yüklediniz.</item>
     </plurals>
     <plurals name="original_user_play_2">
         <item quantity="other">&lt;font color=#fc7050>%1$s&lt;/font> kişiyi mutlu ettiniz!</item>
@@ -327,9 +327,5 @@
     <plurals name="original_user_fans">
         <item quantity="other">• &lt;font color=#fc7050>%1$s&lt;/font> takipçi var!</item>
         <item quantity="one">• &lt;font color=#fc7050>%1$s&lt;/font> takipçi var!</item>
-    </plurals>
-    <plurals name="video_publish_watchable_hint">
-        <item quantity="other">%1$d takipçi durumunuzu güncelledi​</item>
-        <item quantity="one">%1$d takipçi durumunuzu güncelledi</item>
     </plurals>
 </resources>
