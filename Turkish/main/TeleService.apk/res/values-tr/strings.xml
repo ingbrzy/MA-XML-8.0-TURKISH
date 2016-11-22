@@ -1773,4 +1773,12 @@ Görüşmeyi bitirmek için deneyin ve WLAN ağına tekrar bağlanmayı deneyin"
   <string name="xdivert_setting">X-Yönlendirme Ayarları</string>
   <string name="xdivert_summary">CFNRc Ayarları</string>
   <string name="xdivert_title">X-Yönlendirme</string>
+  <string name="fdn_list_with_label">FDN Listesi (%s)</string>
+  <string name="ims_settings">IMS Ayarları</string>
+  <string name="incall_error_local_low_battery">Düşük pil nedeniyle çağrı başarısız oldu.</string>
+  <string name="incall_error_low_battery">"Bağlanılan cihazın düşük pilinden dolayı görüşme sonlandırıldı."</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
+  <string name="operator_remain_mins_value">%1$s dakika</string>
+  <string name="preferred_network_mode_lte_wcdma_choice">LTE / WCDMA</string>
+  <string name="ringtone_unknown">Bilinmeyen zil sesi</string>
 </resources>
