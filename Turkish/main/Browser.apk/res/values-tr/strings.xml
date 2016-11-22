@@ -47,6 +47,7 @@
   <string name="action_menu_useful_page">Kısayol Ekle</string>
   <string name="action_menu_useful_page_added">Başlangıç Sayfasına eklendi</string>
   <string name="actionbar_share">Paylaş</string>
+  <string name="actionbar_textselection_title">Metini seç</string>
   <string name="actionbar_web_search">Ara</string>
   <string name="adblock_force_updating_rules_toast">Reklem Engelleyici güncelleniyor</string>
   <string name="adblock_notification">%d reklam engellendi</string>
@@ -57,7 +58,7 @@
   <string name="adblock_websites_settings_title">Engelli Siteler</string>
   <string name="add_bookmark_group">Grup Ekle</string>
   <string name="add_bookshelf_popup_text">Kitaplığa eklendi</string>
-  <string name="add_favorites_to">Favorilere ekle: </string>
+  <string name="add_favorites_to">Favorilere ekle</string>
   <string name="add_new_bookmark">Favorilere Ekle</string>
   <string name="add_new_quicklink">Başlangıç Sayfasına Ekle</string>
   <string name="add_ql_bm_title">Kaydet</string>
@@ -364,7 +365,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="media_error_timeout">Ağ bağlantısı zaman aşımına uğradı</string>
   <string name="media_error_video_not_exist">"Video mevcut değil!"</string>
   <string name="media_player_error_button">Tamam</string>
-  <string name="media_player_error_text_invalid_progressive_playback">Üzgünüz, bu video bu cihaza uygun akışa sahip değil</string>
+  <string name="media_player_error_text_invalid_progressive_playback">Üzgünüz, bu video bu cihazda oynatılmak için değil.</string>
   <string name="media_player_error_text_unknown">Üzgünüz, Bu video oynatılamaz.</string>
   <string name="media_player_error_title">Oynatılamıyor</string>
   <string name="media_player_loading_video">Video yükleniyor...</string>
@@ -481,6 +482,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="paused_waiting_to_retry">Tekrar denemek için bekleniyor...</string>
   <string name="pay_failed_toast">Ödeme tamamlanamadı</string>
   <string name="pay_success_toast">Ödeme başarıyla tamamlandı</string>
+  <string name="permission_alert_window">Bu özelliği kullanmak için, lütfen sistem seçeneğinde açılır pencere seçeneğini açın.</string>
+  <string name="permission_unknown">Bilinmeyen Seçenek</string>
   <string name="popup_window_attempt">Bu sitenin açılır pencere açmasına izin verilsin mi?</string>
   <string name="positive_confirm_message">Kapat</string>
   <string name="pref_accessibility">Erişebilirlik</string>
@@ -743,6 +746,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="unsecurity_url_toast">"Bu web sitesi güvenli değil"</string>
   <string name="up_to_loading_tips">Yenilemek için bırakın</string>
   <string name="update_no_network_toast">"Ağa bağlanamıyor"</string>
+  <string name="updating_chrome">Chrome güncelleniyor...</string>
   <string name="uploads_disabled">Dosya yüklemeleri devre dışı</string>
   <string name="url_copy_done">URL panoya kopyalandı</string>
   <string name="url_find_on_page_result">Tarayıcıda Görüntüle</string>
