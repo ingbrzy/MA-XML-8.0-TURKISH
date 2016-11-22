@@ -199,9 +199,9 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">Evet</string>
   <string name="nav_guide_cancel">Yoksay</string>
-  <string name="nav_guide_message">Dokunmatik düğmeleri gizlemek/göstermek için hareketleri kullan.</string>
-  <string name="nav_guide_ok">Ayarla</string>
-  <string name="nav_guide_title">Dokunmatik düğmelerini gizle</string>
+  <string name="nav_guide_message">Ayarlardan sonra ekran düğmelerinin hareketlerini gizleyip/açabilirsiniz.</string>
+  <string name="nav_guide_ok">Ayarlar</string>
+  <string name="nav_guide_title">Ekran düğmelerini gizle</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Bildirim yok.</string>
   <string name="no_weather_description">Hava Durumu bilgisini al &gt;</string>
@@ -261,7 +261,7 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="screenshot_edit">Düzenle</string>
   <string name="screenshot_failed_text">"Kısıtlı olmasından dolayı depolama alanı ekran görüntüsü alamıyor buna uygulama veya kuruluş tarafından izin verilmiyor."</string>
   <string name="screenshot_long_screenshot">Genişlet</string>
-  <string name="screenshot_saved_text">Ekran görüntüsüne bakmak için dokunun.</string>
+  <string name="screenshot_saved_text">Ekran görüntüsünü görmek için hafifçe dokunun.</string>
   <string name="screenshot_saved_title">Ekran görüntüsü alındı.</string>
   <string name="screenshot_saving_text">Ekran görüntüsü kaydedilecek</string>
   <string name="screenshot_saving_ticker">Ekran görüntüsü kaydediliyor...</string>
@@ -274,6 +274,7 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="settings_toggle_position_divider_page">Bar üzerine yerleştirilen %1$d geçiş etkin</string>
   <string name="settings_toggle_position_reset">Geçişleri sıfırla</string>
   <string name="share">Paylaş</string>
+  <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
   <string name="status_bar_date_format">"d MMMM
 EEEE"</string>
