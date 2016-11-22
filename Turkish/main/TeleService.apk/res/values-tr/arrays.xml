@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Varsayılan ağ</item>
+        <item>Numarayı gizle</item>
+        <item>Numarayı göster</item>
+    </string-array>
+    <string-array name="call_barring_outgoing_display_values">
+        <item>Kapalı</item>
+        <item>Dolaşımda çağrıyı engelle</item>
+        <item>Uluslararası çağrıyı engelle</item>
+        <item>Giden çağrıyı engelle</item>
+    </string-array>
+    <string-array name="call_barring_incoming_display_values">
+        <item>Kapalı</item>
+        <item>Dolaşım</item>
+        <item>Hepsi</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Sadece ev</item>
+        <item>Otomatik</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Üçlü Mod</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Üçlü Mod</item>
+    </string-array>
+</resources>
