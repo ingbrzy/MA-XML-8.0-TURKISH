@@ -212,6 +212,16 @@
   <string name="hms_first_use_tips">Servis mesajlarının alınması için, Wi-Fi ağına bağlı olmanız gerekiyor</string>
   <string name="hms_uri_param_err">"URL adresi boş olamaz"</string>
   <string name="hold_to_talk">Konuşmak için basılı tut</string>
+  <string name="hybrid_check_network">Ağ Ayarları</string>
+  <string name="hybrid_data_error">Bir hata oluştu</string>
+  <string name="hybrid_locating_fail">"Konumunuz bulunamıyor"</string>
+  <string name="hybrid_network_access_denied">Ağ erişimi reddedildi</string>
+  <string name="hybrid_network_unavaliable">"Ağa bağlanamıyor"</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Yenilemek için ekin…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Biraz bekleyin…</string>
+  <string name="hybrid_pull_to_refresh_release_label">Yenilemek için birakın…</string>
+  <string name="hybrid_service_unavailiable">"Hizmet mevcut değil"</string>
+  <string name="hybrid_try_again">Tekrar deneyin</string>
   <string name="i_know">Tamam</string>
   <string name="importing_progress_private_message">Aktarılıyor…</string>
   <string name="in_sms">Mesaj</string>
