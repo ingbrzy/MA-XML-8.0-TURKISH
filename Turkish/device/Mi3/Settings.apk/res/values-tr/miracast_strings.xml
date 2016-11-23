@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="miracast_settings_category">Wi-Fi Ekran Ayarları</string>
+  <string name="miracast_display_category">Ekranlar</string>
+  <string name="miracast_menu_search">Ara</string>
+  <string name="miracast_menu_searching">Aranıyor...</string>
+  <string name="miracast_menu_teardown">Bağlantıyı kes</string>
+  <string name="miracast_menu_connect">Yayını başlat</string>
+  <string name="miracast_menu_disconnect">Yayını durdur</string>
+  <string name="miracast_menu_forget">Ekranı unut</string>
+  <string name="miracast_menu_rename">Ekranı yeniden adlandır</string>
+  <string name="miracast_setup_save">Kaydet</string>
+  <string name="miracast_setup_cancel">İptal</string>
+  <string name="miracast_wifi_off">Miracast kullanmak için Wi-Fi\'yi etkin hale getir</string>
+  <string name="miracast_no_sinks_found">Kullanılabilir ekran yok</string>
+  <string name="miracast_nickname">Bir isim girin:</string>
+  <string name="miracast_connection_failed_generic">"Ekrana bağlanılamıyor"</string>
+  <string name="miracast_sink_connected">Bağlandı</string>
+  <string name="miracast_sink_not_available">Kullanılabilir durumda değil</string>
+  <string name="miracast_sink_connecting">Bağlanıyor...</string>
+  <string name="miracast_sink_ready_to_connect">Bağlantı için hazır</string>
+  <string name="miracast_sink_busy">Meşgul</string>
+  <string name="miracast_error_already_streaming">Zaten başka bir ekrana yansıtılıyor</string>
+  <string name="miracast_error_connection_in_progress">Bağlanıyor...</string>
+  <string name="miracast_cancelconnect_dialog">Bağlantıyı iptal et</string>
+  <string name="miracast_dialog_title">%1$s</string>
+  <string name="miracast_error_cancelconnect">Bağlantı meşgul</string>
+  <string name="miracast_search_for_displays">Kablosuz Ekranlar aranıyor...</string>
+  <string name="miracast_PC2THOR_streaming_on">Bu cihaza başka bir bilgisayar yayın yapıyor olduğundan Miracast kullanılabilir durumda değil</string>
+  <string name="miracast_disable_dhcp">DHCP\'yi devre dışı bırak</string>
+  <string name="miracast_enable_dhcp">DHCP\'yi etkinleştir</string>
+</resources>
