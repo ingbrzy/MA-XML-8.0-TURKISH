@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sina_share_pendding">Gönderiliyor...</string>
+  <string name="sina_share_success">Gönderildi</string>
+  <string name="sina_share_fail">Gönderme başarısız</string>
+  <string name="sina_token_expired_warning">Weibo hesabınızın süresi doldu: Lütfen yeniden bağlanın</string>
+  <string name="sina_token_invalid_warning">Weibo hesabı geçersiz: ütfen yeniden bağlanın</string>
+  <string name="sina_share_fail_content_repeat">Paylaşılamadı, İçerik zaten mevcut</string>
+</resources>
