@@ -1629,7 +1629,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="fingerprint_enable_keyguard_toggle_title">Kilit Ekranı</string>
   <string name="fingerprint_enroll_button_add">Diğerini Ekle</string>
   <string name="fingerprint_enroll_button_next">Sonraki</string>
-  <string name="fingerprint_first_open_screen_password_tittle">Parmakizi(parmakizi, kilit ekranı şifresinin ayarlanmasından sonra kullanılabilir)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Parmakizi (kullanmadan önce ekran şifresini ayarlayın)</string>
   <string name="fingerprint_for_keyguard_disabled">Güvenlik ayarları tarafından Parmakizi devre dışı bırakıldı.</string>
   <string name="fingerprint_identificating_msg">Parmakizi tarandı...</string>
   <string name="fingerprint_identify_input_password_msg">Parolanı Gir</string>
@@ -1912,7 +1912,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="keyboard_layout_picker_title">Klavye Düzenleri</string>
   <string name="keyboard_settings_category">Klavye &amp; Giriş Usulleri</string>
   <string name="keyboard_settings_title">Android Klavye</string>
-  <string name="keyguard_advance_setting_title">Tuş Kilidi Gelişmiş Ayarları</string>
+  <string name="keyguard_advance_setting_title">Gelişmiş Ayarlar</string>
   <string name="keyguard_left_function_chooser_hint_text">%s için sol kısayol değiştirildi</string>
   <string name="keyguard_left_function_chooser_title">Uygulama</string>
   <string name="keyguard_left_function_title">Sol</string>
@@ -2110,7 +2110,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="lock_screen_secure_after_timeout_immediately_summary">Şifre hemen gerekli, </string>
   <string name="lock_screen_secure_after_timeout_summary">%1$s içinde şifre iste</string>
   <string name="lock_screen_secure_after_timeout_title">Şifre istendi</string>
-  <string name="lock_screen_signature_summary">İmza kilit ekranında gösterilecek</string>
+  <string name="lock_screen_signature_summary">İmza, Kilit Ekranında gösterilecek</string>
   <string name="lock_screen_signature_title">Kilit Ekran İmzası</string>
   <string name="lock_screen_unlock_show">Kaydırma ekranını atla</string>
   <string name="lock_screen_unlock_show_summary">Doğrudan Ana Sayfaya ve Şifre girişi ekranına git</string>
@@ -2610,7 +2610,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="never">Asla</string>
   <string name="new_backup">Yedekle</string>
   <string name="new_backup_pw_prompt">Buraya tam yedeklemeler için yeni bir şifre yazın</string>
-  <string name="new_password_to_new_fingerprint_dialog_msg">Parmakizi eklendikten sonra ekranın kilidini açmak için parmakizi kullanılabilir</string>
+  <string name="new_password_to_new_fingerprint_dialog_msg">Cihazınızın kilidini açmak için parmakizinizi ekleyin.</string>
   <string name="new_password_to_new_fingerprint_dialog_negative_msg">İptal</string>
   <string name="new_password_to_new_fingerprint_dialog_positive_msg">Ekle</string>
   <string name="new_password_to_new_fingerprint_dialog_tittle">Parmakizi ekle</string>
@@ -4605,13 +4605,13 @@ alıcı aygıtın açık olduğundan emin olun"</string>
   <string name="tts_status_title">Varsayılan Dil Durumu</string>
   <string name="turn_off_common_password_confirm_msg">Ekran kilidi dahi kapatılacak.</string>
   <string name="turn_off_keyguard_password_alert_title">Kapalı</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Kilit ekranı şifresini kapatmak istediğinizi onaylıyor musunuz?</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Kilit ekranı şifresini kapattıktan sonra parmakizi fonksiyonunu kullanılmayacak</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Kilit Ekran şifresini kapatmak istiyor musunuz?</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Kilit Ekranının şifresini kapattığınızda, parmakiziyle cihazın kilidini açmanız mümkün olmayacak.</string>
   <string name="turn_off_radio">Radyoyu kapat</string>
   <string name="turn_off_security_lock">Kilitlemeyi kapat</string>
   <string name="wallpaper_attributions_values">"Uydu Resmi Saylayıcıları:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
-  <string name="turn_on_keyguard_password">Tuş kilidi şifresini aç</string>
+  <string name="turn_on_keyguard_password">Kilit Ekranının şifresini aç</string>
   <string name="turn_on_radio">Radyoyu aç</string>
   <string name="turn_on_security_lock">Ekran kilidini seç</string>
   <string name="uicc_eject">UICC depolamayı çıkart</string>
