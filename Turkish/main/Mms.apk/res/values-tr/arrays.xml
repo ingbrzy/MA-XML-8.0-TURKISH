@@ -20,8 +20,30 @@
         <item>Adres</item>
         <item>Not</item>
         <item>İlişki</item>
-    </string-array>
-   <string-array name="resent_via_entries_sms">
+    <string-array name="default_smiley_names">
+        <item>Mutlu</item>
+        <item>Üzgün</item>
+        <item>Göz kırpıyor</item>
+        <item>Dil dışarda</item>
+        <item>Şaşkın</item>
+        <item>Öpücük</item>
+        <item>Bağırıyor</item>
+        <item>Harika</item>
+        <item>Para ağızda</item>
+        <item>Ağıza tekme</item>
+        <item>Mahçup</item>
+        <item>Melek</item>
+        <item>Kararsız</item>
+        <item>Ağlıyor</item>
+        <item>Dudaklar mühürlendi</item>
+        <item>Gülüyor</item>
+        <item>Karışık</item>
+        <item>Kalp</item>
+        <item>Çılgın</item>
+        <item>Sırıtma</item>
+        <item>İfadesiz yüz</item>
+     </string-array>
+     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
         <item>Mi Mesajı</item>
     </string-array>
