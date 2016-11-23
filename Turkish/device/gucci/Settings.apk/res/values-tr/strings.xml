@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sim_pin_change_failed_enable_sim_lock">SIM/RUIM PIN değiştirilemedi.SIM/RUIM kilidini etkinleştirin.</string>
+  <string name="sim_enable_disable_lock_not_supported">SIM/RUIM kartınız SIM kilidini desteklemiyor.</string>
+  <string name="sim_pin_attempts">Kalan Deneme:</string>
+  <string name="sim_enter_pin_hints">4/8 haneli PIN kodunu girin</string>
+  <string name="gemini_data_connection">Veri Bağlantısı</string>
+  <string name="gemini_sim_info_editor_name">SIM adını düzenle</string>
+  <string name="gemini_sim_info_editor_name_dup_title">"Kaydedilemedi"</string>
+  <string name="gemini_sim_info_editor_name_dup_msg">İsim diğer SIM kart tarafından kullanılıyor</string>
+  <string name="gemini_sim_info_editor_number">Telefon numarasını girin</string>
+  <string name="gemini_no_sim_indicator">SIM kart yok</string>
+  <string name="gemini_sim_management_title">SIM Yönetimi</string>
+  <string name="gemini_sim_info_title">SIM Bilgileri</string>
+  <string name="sim_status_summary">SIM Kart Bilgisi</string>
+  <string name="gemini_default_sim_title">VARSAYILAN AYARLAR</string>
+  <string name="gemini_general_settings_title">GENEL AYARLAR</string>
+  <string name="gemini_roaming_settings_title">Dolaşım</string>
+  <string name="gemini_data_roaming_title">Veri Dolaşımı</string>
+  <string name="gemini_data_roaming_summary">Dolaşımdayken veri servislerine bağlan</string>
+  <string name="enable_sim">Etkinleştir</string>
+  <string name="sim_lock">Kilitli</string>
+  <string name="gemini_sim_mode_progress_activating_message">Etkinleştiriliyor...</string>
+  <string name="gemini_sim_mode_progress_deactivating_message">Devre dışı bırakılıyor...</string>
+  <string name="set_mobile_data_failed">"SIM kart ayarlanamadı"</string>
+  <string name="mobile_data_switching_message">Mobil veri bağlantısı değiştiriliyor...</string>
+  <string name="ct_mobile_data_hints">Mobil veri; birinci yuvadaki kart için etkinleştirildiğinde, ikinci yuvadaki kart için etkinleştirilemez.</string>
+</resources>
