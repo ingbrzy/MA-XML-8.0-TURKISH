@@ -45,7 +45,7 @@
   <string name="aqi_detail_so2">SO₂</string>
   <string name="aqi_detail_sub_title">HKE Detayları</string>
   <string name="aqi_detail_subtitle">HKE %1$s</string>
-  <string name="aqi_detail_title">Hava Kalite İndeksi</string>
+  <string name="aqi_detail_title">Hava Kalite Endeksi</string>
   <string name="aqi_detail_unit">Birim: µg/m³ (CO: mg/m³)</string>
   <string name="aqi_publish_source">%1$s CNEMC tarafından güncellendi</string>
   <string name="aqi_publish_time">Güncelleme: %1$s</string>
@@ -181,7 +181,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="tts_report_wind"/>
   <string name="twc_logo_title"/>
   <string name="unit">Birim</string>
-  <string name="unit_temperature">Sicaklık Birimi</string>
+  <string name="unit_temperature">Sıcaklık Birimi</string>
   <string name="unit_wind">Rüzgar Hızı Birimi</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
