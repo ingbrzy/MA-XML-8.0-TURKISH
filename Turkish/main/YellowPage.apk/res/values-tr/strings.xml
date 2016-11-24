@@ -31,7 +31,7 @@
   <string name="call">Çağrı</string>
   <string name="callNoAnswerTimeFormat">%s kez çaldı</string>
   <string name="callrecordview_item_newcontact">Yeni Kişi</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">%1$d dk %2$d sn</string>
+  <string name="callrecordview_item_op_time_minutes_seconds">%1$ddak %2$dsan</string>
   <string name="callrecordview_item_op_time_missed">Bağlanmadı</string>
   <string name="callrecordview_item_op_time_only_minutes">%d dk</string>
   <string name="callrecordview_item_op_time_only_seconds">%d sn</string>
@@ -48,8 +48,8 @@
   <string name="confirm_to_send_to_desktop">Ana Ekrana %s yerleştirilsin mi?</string>
   <string name="contact_detail_calllog_call_note_tips">Çağrı Notları</string>
   <string name="contact_detail_calllog_call_record_tips">Kaydedilen Çağrılar</string>
-  <string name="content_desc_send_sms">SMS Gönder</string>
-  <string name="coupon_bought_count">%d satın al</string>
+  <string name="content_desc_send_sms">SMS gönder</string>
+  <string name="coupon_bought_count">%d satınal</string>
   <string name="currency_character">Yuan</string>
   <string name="custom_mark_category">Özel</string>
   <string name="data_error">Bir hata oluştu</string>
