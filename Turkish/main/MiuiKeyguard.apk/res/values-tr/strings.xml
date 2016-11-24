@@ -17,7 +17,7 @@
   <string name="experimental_validate_warning">MIUI\'yi daha iyi hale getirdiğiniz için teşekkürler!</string>
   <string name="find_device_turn_off_flight_mode">Uçak Modunu kapat</string>
   <string name="fingerprint_add_text">Parmakizi arayüzü güncellendi. Parmakizinizi tekrar ekleyin</string>
-  <string name="fingerprint_add_title">PArmakizi ekle</string>
+  <string name="fingerprint_add_title">Parmakizi ekle</string>
   <string name="fingerprint_enter_second_psw_msg">İkinci Alan şifresinin girdikten sonra parmakizi tanımlamasını kullanmak için cihaz yeniden başlatılacak</string>
   <string name="fingerprint_enter_second_psw_title">İkinci Alan şifresini girin</string>
   <string name="fingerprint_lockout_msg">Bir dakika sonra parmakizi ile kilidi açmayı deneyin!</string>
@@ -76,8 +76,8 @@
   <string name="notification_voicemail_text_format">%s çağrı</string>
   <string name="notification_voicemail_title">Yeni Sesli Mesaj</string>
   <string name="notification_voicemail_title_count">Yeni Sesli Mesaj (%d)</string>
-  <string name="open_camera_hint_text">%s açmak için sola kaydırın ◄</string>
-  <string name="open_remote_center_hint_text">%s açmak için sağa kaydırın ►</string>
+  <string name="open_camera_hint_text">%s açmak için sola kaydırın </string>
+  <string name="open_remote_center_hint_text">%s açmak için sağa kaydırın </string>
   <string name="open_wifi_settings">Ağ bağlantısını aç</string>
   <string name="phone_locked_string">Telefon kilitlendi</string>
   <string name="phone_locked_timeout_minutes_string">%s dakika sonra tekrar deneyin</string>
