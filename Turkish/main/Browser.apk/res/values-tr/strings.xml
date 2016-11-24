@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Açılış Sayfası</string>
-  <string name="abc_action_bar_up_description">Yukarı Git ▲</string>
+  <string name="abc_action_bar_up_description">Yukarı Git </string>
   <string name="abc_action_menu_overflow_description">Fazlası</string>
   <string name="abc_action_mode_done">Tamam</string>
   <string name="abc_action_mode_select_all">Hepsi</string>
@@ -109,9 +109,9 @@
   <string name="bookmarks_management">Favoriler</string>
   <string name="bookmarks_root_folder">Root Dizini</string>
   <string name="bookmarks_search">Tarayıcı</string>
-  <string name="bottom_bar_tabs_long_click_down_tip_txt">Kapatmak için aşağı doğru kaydırın ▼ </string>
+  <string name="bottom_bar_tabs_long_click_down_tip_txt">Kapatmak için aşağı doğru kaydırın  </string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Bu Son Sekme</string>
-  <string name="bottom_bar_tabs_long_click_up_tip_txt">Kapatmak için yukarıya doğru kaydırın ▲</string>
+  <string name="bottom_bar_tabs_long_click_up_tip_txt">Kapatmak için yukarıya doğru kaydırın </string>
   <string name="browserFrameFileErrorLabel">Dosya problemi</string>
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"Görüntülemeye çalıştığınız sayfa zaten gönderilmiş veriler içeriyor. Verileri yeniden göndermek, önceki eylemleri tekrarlayacaktır."</string>
@@ -131,7 +131,7 @@
   <string name="close_all_tab_alert_message">Tüm sekmeler kapatılsın mı?</string>
   <string name="close_all_tab_alert_title">Tüm sekmeleri kapat</string>
   <string name="close_cloud_tab_tip">%s üstündeki tüm bulut sekmeleri kapatılsın mı?</string>
-  <string name="cloud_loading_tips">Eşitlemek için aşağıya doğru çekin ▼</string>
+  <string name="cloud_loading_tips">Eşitlemek için aşağıya doğru çekin </string>
   <string name="cloud_no_new_data_toast">"Herşey güncel"</string>
   <string name="cloud_sync_closed_toast">"Eşitleme devre dışı olduğundan güncellenemiyor"</string>
   <string name="cloud_sync_failed_toast">"Güncellenemedi"</string>
@@ -348,7 +348,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="keep_queued_download">Koru</string>
   <string name="last_month">Geçen ay</string>
   <string name="license_activity_title">Sistem WebView Lisansları</string>
-  <string name="loading_tips">Yenilemek için aşağı doğru çekin ▼</string>
+  <string name="loading_tips">Yenilemek için aşağı doğru çekin </string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">Oturum açılamadı, yenileyin ve tekrar deneyin.</string>
   <string name="low_memory_error">Düşük bellek nedeniyle önceki işlemi tamamlanamıyor</string>
@@ -366,7 +366,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="media_error_video_not_exist">"Video mevcut değil!"</string>
   <string name="media_player_error_button">Tamam</string>
   <string name="media_player_error_text_invalid_progressive_playback">Üzgünüz, bu video bu cihazda oynatılmak için değil.</string>
-  <string name="media_player_error_text_unknown">Üzgünüz, Bu video oynatılamaz.</string>
+  <string name="media_player_error_text_unknown">Üzgünüz, bu video oynatılamaz.</string>
   <string name="media_player_error_title">Oynatılamıyor</string>
   <string name="media_player_loading_video">Video yükleniyor...</string>
   <string name="menu_addtodesk"> Ana Ekrana yerleştir </string>
