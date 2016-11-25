@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">CellConnectionService</string>
+  <string name="app_name">Hücresel Bağlantı Servisi</string>
   <string name="button_cancel">İptal</string>
   <string name="button_no">Hayır</string>
   <string name="button_ok">Tamam</string>
@@ -19,7 +19,7 @@
   <string name="confirm_radio_flight_mode_on_and_msg">Uçak Modunu açın ve</string>
   <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s kapatıldı. Uçuş Modu kapatmak ve bu SIM karttı açmak ister misiniz?</string>
   <string name="confirm_radio_flight_mode_on_sim_off_msg_card">%1$s kapatıldı. Uçuş Modu kapatmak ve bu karttı açmak ister misiniz?</string>
-  <string name="confirm_radio_flight_mode_on_sim_off_msg_uim">%1$s kapatıldı. WUçuş Modu kapatmak ve bu UIM karttını açmak ister misiniz?</string>
+  <string name="confirm_radio_flight_mode_on_sim_off_msg_uim">%1$s kapatıldı. Uçuş Modu kapatmak ve bu UIM karttını açmak ister misiniz?</string>
   <string name="confirm_radio_flight_mode_on_sim_on_msg">Uçuş Modu açık. Uçak Modu kapatmak ister misiniz?</string>
   <string name="confirm_radio_lbutton">Açık</string>
   <string name="confirm_radio_msg">%1$s kapalı. Bu SIM karttı açmak ister misiniz?</string>
