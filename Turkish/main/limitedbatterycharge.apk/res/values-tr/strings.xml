@@ -5,7 +5,7 @@
   <string name="limited_battery_charge_enter_hint1">Pil %80 üzerinde olduğunda şarj etmeyin，pilin bitmesini bekleyin</string>
   <string name="limited_battery_charge_enter_hint2">Pil seviyesi standartlara ulaştı!</string>
   <string name="limited_battery_charge_exit_hint">Limitli pil şarjından çıkılsın mı?</string>
-  <string name="limited_battery_charge_level">Pil Seviyesi(%1$s%%)...</string>
+  <string name="limited_battery_charge_level">Pil Seviyesi(%%%1$s)...</string>
   <string name="limited_battery_charge_status_fail">BAŞARISIZ</string>
   <string name="limited_battery_charge_status_pass">GEÇTİ</string>
   <string name="limited_battery_charge_title">Limitli pil şarjı</string>
