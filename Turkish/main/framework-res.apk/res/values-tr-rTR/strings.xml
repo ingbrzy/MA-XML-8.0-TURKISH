@@ -479,7 +479,7 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="kg_invalid_sim_pin_hint">4-8 rakamdan oluşan bir PIN girin.</string>
   <string name="kg_invalid_sim_puk_hint">PUK kodu 8 basamaklı bir sayı olmalıdır.</string>
   <string name="kg_login_account_recovery_hint">"Kullanıcı adınızı veya şifrenizi mi unuttunuz?
-Şu adrese gidin: "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+Şu adrese gidin: "google.com/accounts/recovery.</string>
   <string name="kg_login_checking_password">Hesap denetleniyor…</string>
   <string name="kg_login_instructions">Kilidi açmak için Google hesabınızla oturum açın.</string>
   <string name="kg_login_invalid_input">Geçersiz kullanıcı adı veya şifre.</string>
@@ -553,7 +553,7 @@ Kilidi açmak için, Ana Ekran ve Güç tuşuna aynı anda basıp belli bir sür
   <string name="lockscreen_failed_attempts_now_wiping">Telefon kilidini %d defa yanlış bir şekilde açmaya çalıştınız. Telefon şimdi fabrika varsayılanına sıfırlanacak.</string>
   <string name="lockscreen_forgot_pattern_button_text">Deseni unuttunuz mu?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Kullanıcı adınızı veya şifrenizi mi unuttunuz?
-"&lt;b&gt;google.com/accounts/recovery&lt;/b&gt; adresini ziyaret edin.</string>
+"google.com/accounts/recovery adresini ziyaret edin.</string>
   <string name="lockscreen_glogin_checking_password">Denetleniyor…</string>
   <string name="lockscreen_glogin_forgot_pattern">Hesap kilidini aç</string>
   <string name="lockscreen_glogin_instructions">Kilidi açmak için Google hesabınızla oturum açın.</string>
@@ -748,7 +748,7 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="notification_work_profile_content_description">İş profili</string>
   <string name="number_picker_decrement_button">Azalt ▼</string>
   <string name="number_picker_increment_button">Artır ▲</string>
-  <string name="number_picker_increment_scroll_action">Artırmak için yukarı ▲, azaltmak için aşağı kaydırın.▼ </string>
+  <string name="number_picker_increment_scroll_action">Artırmak için yukarı ▲, azaltmak için aşağı kaydırın.</string>
   <string name="number_picker_increment_scroll_mode">%s dokunun ve basılı tutun.</string>
   <string name="ok">Tamam</string>
   <string name="old_app_action">%1$s öğesine geri dön</string>
@@ -1226,17 +1226,17 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="sipAddressTypeOther">Diğer</string>
   <string name="sipAddressTypeWork">İş</string>
   <string name="skip_button_label">Atla</string>
-  <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; çok sayıda SMS mesajı gönderiyor. Bu uygulamanın mesaj göndermeye devam etmesine izin veriyor musunuz?</string>
+  <string name="sms_control_message">%1$s çok sayıda SMS mesajı gönderiyor. Bu uygulamanın mesaj göndermeye devam etmesine izin veriyor musunuz?</string>
   <string name="sms_control_no">Reddet</string>
   <string name="sms_control_title">SMS mesajları gönderiliyor</string>
   <string name="sms_control_yes">İzin ver</string>
-  <string name="sms_premium_short_code_details">&lt;b&gt;Bu i&amp;#351;lem, mobil hesab&amp;#305;n&amp;#305;zdan &amp;#246;deme al&amp;#305;nmas&amp;#305;na neden olacak.&lt;/b&gt;</string>
+  <string name="sms_premium_short_code_details">Bu i&amp;#351;lem, mobil hesab&amp;#305;n&amp;#305;zdan &amp;#246;deme al&amp;#305;nmas&amp;#305;na neden olacak.</string>
   <string name="sms_short_code_confirm_allow">Gönder</string>
   <string name="sms_short_code_confirm_always_allow">Daima izin ver</string>
   <string name="sms_short_code_confirm_deny">İptal</string>
-  <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt;, &lt;b&gt;%2$s&lt;/b&gt; adresine bir mesaj göndermek istiyor.</string>
+  <string name="sms_short_code_confirm_message">%1$s, %2$s adresine bir mesaj göndermek istiyor.</string>
   <string name="sms_short_code_confirm_never_allow">İzin Verme</string>
-  <string name="sms_short_code_details">Bu işlem, mobil hesabınızdan &lt;b&gt;&amp;#246;deme al&amp;#305;nmas&amp;#305;na neden olabilir&lt;/b&gt;.</string>
+  <string name="sms_short_code_details">Bu işlem, mobil hesabınızdan &amp;#246;deme al&amp;#305;nmas&amp;#305;na neden olabilir.</string>
   <string name="sms_short_code_remember_choice">Seçimimi hatırla</string>
   <string name="sms_short_code_remember_undo_instruction">"Bu ayarı daha sonra Ayarlar &gt; Uygulamalar'dan değiştirebilirsiniz."</string>
   <string name="smv_application">%1$s uygulaması (%2$s işlemi) kendiliğinden uyguladığı StrictMode politikasını ihlal etti.</string>
