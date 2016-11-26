@@ -482,7 +482,7 @@
   <string name="header_label_general_preferences">Genel</string>
   <string name="help_and_info">Yardım</string>
   <string name="hide_atts_remaining">%1$d ekleri gizle</string>
-  <string name="hide_elided">▼ Alıntılanan metni gizle</string>
+  <string name="hide_elided">Alıntılanan metni gizle</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
   <string name="hierarchical_folder_top">%1$s∕</string>
@@ -608,7 +608,7 @@
   <string name="more_context">Fazlası</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Başka dizine taşı</string>
-  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
+  <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
   <string name="mute">Sessiz</string>
   <string name="net_check_title">Ağ bağlantısı kurulamadı. Ağ ayarlarını kontrol edin ve tekrar deneyin.</string>
   <string name="network_error">Bağlantı yok</string>
@@ -970,7 +970,7 @@
   <string name="via_domain">%1$s yoluyla</string>
   <string name="view_more_conversations">Daha fazla postayı görüntüle</string>
   <string name="wait_for_manual_sync_body">"Bu hesap otomatik eşitlemeye ayarlanmadı
-Posta eşitlenmeden önce "&lt;b&gt;Şimdi Eşitleye&lt;/b&gt; dokunun veya bu hesabın postaları otomatik eşitlemesi için &lt;b&gt;Eşitleme Ayarlarını Değiştir&lt;/b&gt; seçeneğini kullanın</string>
+Posta eşitlenmeden önce "Şimdi Eşitleye dokunun veya bu hesabın postaları otomatik eşitlemesi için Eşitleme Ayarlarını Değiştir seçeneğini kullanın</string>
   <string name="wait_for_sync_title">Eşitlemek için bekleniyor</string>
   <string name="widget_all_mail">Tüm Posta</string>
   <string name="widget_large_unread_count">%d+</string>
