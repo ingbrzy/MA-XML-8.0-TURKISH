@@ -174,7 +174,7 @@
   <string name="clearFrequentsConfirmation">Telefondaki ve kişilerdeki sık kullanılanları temizle ve E-Posta uygulamasının adresleme tercihlerini sıfırlamasını sağla.</string>
   <string name="clearFrequentsConfirmation_title">Sık görüşülenler temizlensin mi?</string>
   <string name="clearFrequentsProgress_title">Sık görüşülenler temizleniyor...\u2026</string>
-  <string name="clear_and_bright">Qingming Festival</string>
+  <string name="clear_and_bright">Qingming Festivali</string>
   <string name="clear_copy_number_description">Kopyalanan numarayı temizle</string>
   <string name="clear_default">Varsayılanları temizle</string>
   <string name="clear_digits">Telefon numarasını temizle</string>
@@ -456,8 +456,7 @@ Kartvizitler kapalı"</string>
   <string name="export_to_storage">Depolamaya Aktar</string>
   <string name="export_vcard_description" product="default">vCard dosyasını SD Karta aktar</string>
   <string name="export_vcard_description" product="nosdcard">Dahili Depolamaya  vCard olarak aktar</string>
-  <string name="exporting_contact_failed_message">"Kişi bilgisi dışa aktarılamadı.
-Sebep: \"%s\""</string>
+  <string name="exporting_contact_failed_message">"Kişi bilgisi dışa aktarılamadı. Sebep: \"%s\""</string>
   <string name="exporting_contact_failed_title">"Dışa aktarılamıyor"</string>
   <string name="exporting_contact_list_message">%s aktarılıyor...</string>
   <string name="exporting_contact_list_progress" formatted="false">%s / %s kişiler aktarılıyor...</string>
@@ -851,16 +850,16 @@ Sebep: \"%s\""</string>
     </string>
   <string name="noContactsHelpTextWithSync">"Görüntülenecek herhangi bir kişi yok. (Sadece bir hesap eklediyseniz, kişileri eşitlemek birkaç dakika sürebilir.)
 
-Kişi eklemek için, "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;&lt;/b&gt;" tuşuna dokunun, dokunduğunda:
+Kişi eklemek için, "&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;" tuşuna dokunun, dokunduğunda:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesapları eklemek veya telefona eşitleyeceğiniz kişiler için hesabı ayarlayın
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;" Görünür kişiler için ekran seçeneklerini değiştir
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Sıfırdan yeni bir kişi oluşturun
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"SIM kart veya SD Karttan kişileri içeri/dışarı aktarın
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"&lt;font fgcolor="#ffffffff"&gt;"Hesapları eklemek veya telefona eşitleyeceğiniz kişiler için hesabı ayarlayın
+"&lt;/font&gt;" 
+"&lt;font fgcolor="#ffffffff"&gt;" Görünür kişiler için ekran seçeneklerini değiştir
+"&lt;/font&gt;" 
+"&lt;font fgcolor="#ffffffff"&gt;"Sıfırdan yeni bir kişi oluşturun
+"&lt;/font&gt;" 
+"&lt;font fgcolor="#ffffffff"&gt;"SIM kart veya SD Karttan kişileri içeri/dışarı aktarın
+"&lt;/font&gt;"
 "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Görüntülenecek herhangi bir kişi yok. (Eğer bir hesap eklediyseniz, kişileri eşitlemek biraz zaman alabilir.)"</string>
   <string name="noContactsNoSimHelpTextWithSync" product="default">\"Görüntülenecek kişi kaydınız bulunmamaktadır. (Eğer kısa bir süre önce bir hesap eklediyseniz, kişilerin eşitleme işlemi birkaç dakika sürebilir.)\n\nKişi eklemek için, <font fgcolor="#ffffffff"><b>Menü</b></font>\'ye, ardından:\n
@@ -880,12 +879,12 @@ Kişi eklemek için, "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt
 
 Favorilerinize bir kişi eklemek için:
 
-"&lt;li&gt; &lt;b&gt;Kişiler&lt;/b&gt;" sekmesine dokunun
-"&lt;/li&gt;" 
-"&lt;li&gt;"Favorilere eklemek istediğiniz kişiye dokunun
-"&lt;/li&gt;" 
-"&lt;li&gt;"Kişinin adının yanındaki yıldıza dokunun
-"&lt;/li&gt;"
+" Kişiler" sekmesine dokunun
+"" 
+""Favorilere eklemek istediğiniz kişiye dokunun
+"" 
+""Kişinin adının yanındaki yıldıza dokunun
+""
 "</string>
   <string name="noGroups">Grup yok</string>
   <string name="noMatchingContacts">Eşleşen kişi bulunamadı.</string>
