@@ -829,20 +829,20 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="network_roaming_exception_tips">"Dolaşımda iken mobil veri kullanılamıyor"</string>
   <string name="network_route_exception_detail">"Bağlı olduğunuz yönlendirici ile ilgili bir sorun olabilir:
 
- "&lt;b&gt;"1. Halka açık Wi-Fi ağına bağlandıysanız,
-"&lt;/b&gt;"Bir genel WLAN ağına bağlıysanız, o ağa bağlı kullanıcı sayısı yavaşlatabilir veya bağlantı sorunları oluşmuş olabilir. Başka bir ağa geçiş yapın ve yeniden deneyin.
+ ""1. Halka açık Wi-Fi ağına bağlandıysanız,
+""Bir genel WLAN ağına bağlıysanız, o ağa bağlı kullanıcı sayısı yavaşlatabilir veya bağlantı sorunları oluşmuş olabilir. Başka bir ağa geçiş yapın ve yeniden deneyin.
 
- 2."&lt;b&gt;" İnternet servis sağlayıcı sorunları
-"&lt;/b&gt;"Hesabınızın İnternet Servis Sağlayıcısı ile iyi durumda olduğundan emin olun.
+ 2."" İnternet servis sağlayıcı sorunları
+""Hesabınızın İnternet Servis Sağlayıcısı ile iyi durumda olduğundan emin olun.
 
- 3."&lt;b&gt;" Yönlendirici donanım sorunları
-"&lt;/b&gt;"Yönlendiriciyi kapatıp açın ve yönetici ayarlarını kontrol edin.
+ 3."" Yönlendirici donanım sorunları
+""Yönlendiriciyi kapatıp açın ve yönetici ayarlarını kontrol edin.
 
- 4."&lt;b&gt;" Diğer yönlendirici sorunları
-"&lt;/b&gt;"Cihazın kullanım kılavuzuna bakarak fabrika ayarlarına sıfırlayın.
+ 4."" Diğer yönlendirici sorunları
+""Cihazın kullanım kılavuzuna bakarak fabrika ayarlarına sıfırlayın.
 
- 5."&lt;b&gt;" Yönlendirici kablolarının doğru bağlandığından emin olun
-"&lt;/b&gt;"Yönlendiricinizin ethernet kablosunu değiştirin. Evinizdeki diğer bağlantılardan şüphe ediyorsanız, İnternet Servis Sağlayıcınız ile temasa geçin."</string>
+ 5."" Yönlendirici kablolarının doğru bağlandığından emin olun
+""Yönlendiricinizin ethernet kablosunu değiştirin. Evinizdeki diğer bağlantılardan şüphe ediyorsanız, İnternet Servis Sağlayıcınız ile temasa geçin."</string>
   <string name="network_sim_exception_detail">"SIM kart ile ilgili bir sorun olabilir:
 
  1. SIM kartınızın çalışır durumda olduğundan emin olun, gerekirse bir arkadaşınızın SIM kartını deneyip, normal çalışıp çalışmadığını görün.
@@ -1270,7 +1270,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Yeni yüklenen uygulamalar için veri tasarrufunu otomatik olarak etkinleştir</string>
   <string name="pref_traffic_saving_compressed">Sıkıştırıldı</string>
   <string name="pref_traffic_saving_issue">SSS</string>
-  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Veri tasarrufu işlevi gizliliğimi ve güvenliğimi riske atar mı? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Hayır. Verileriniz özel kalacak ve üçüncü şahıslarla paylaşılmayacaktır. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Neden Veri koruyucu çalışıyor? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Veri koruyucu operatörün ağını kullanıyorken gönderdiğiniz veya indirdiğiniz içeriklerdeki gereksiz veri harcamaları önler."</string>
+  <string name="pref_traffic_saving_issue_content">" 1. Veri tasarrufu işlevi gizliliğimi ve güvenliğimi riske atar mı? &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Hayır. Verileriniz özel kalacak ve üçüncü şahıslarla paylaşılmayacaktır. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt; 2. Neden Veri koruyucu çalışıyor? &lt;br /&gt;&lt;br /&gt; Veri koruyucu operatörün ağını kullanıyorken gönderdiğiniz veya indirdiğiniz içeriklerdeki gereksiz veri harcamaları önler."</string>
   <string name="pref_traffic_saving_no_compress">Sıkıştırılmamış</string>
   <string name="pref_traffic_saving_notify_switch">Bildirim alanında göster</string>
   <string name="pref_traffic_saving_notify_switch_hint">Veri Tasarrufunu bildirim alanında göster</string>
