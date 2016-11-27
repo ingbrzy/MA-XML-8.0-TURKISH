@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_settings">Ayarlar</string>
+  <string name="app_label">KLO Hata Raporu</string>
+  <string name="btn_cancel">İptal</string>
+  <string name="btn_done">Tamam</string>
+  <string name="btn_failed">Başarısız, çıkın</string>
+  <string name="btn_not_upload">Yüklenemedi</string>
+  <string name="btn_upload">Yükle</string>
+  <string name="later">Sonra</string>
+  <string name="mem_collect_text_1_1">MIUI Alfa Sürümü kullanmaya hoş geldiniz, yakın zamanda yetersiz bellek sorunu ile uğraşıyoruz ve </string>
+  <string name="mem_collect_text_1_2">hafıza sorunu olabilir.</string>
+  <string name="mem_collect_text_2_1">Sizin </string>
+  <string name="mem_collect_text_2_2">telefondaki hafıza dosyaları bize göndererek yardımcı olabileceğinizi umuyoruz.</string>
+  <string name="mem_collect_text_3">Kişisel gizlilik verilerinizin güvenliğini garanti edeceğiz.</string>
+  <string name="mem_collect_text_thx">"yüklendi
+Desteğin için teşekkürler"</string>
+  <string name="noti_body">bir hata günlüğü oluştur</string>
+  <string name="noti_btn_text">Yükle</string>
+  <string name="noti_title">Hata günlüğü oluşturuldu</string>
+  <string name="notification_update_new_version">Güncelleme uygun</string>
+  <string name="notification_update_now">Şimdi güncelle</string>
+  <string name="passport_xiaomi_account_dspt">Mi Bulut, MIUI Tema Mağazası ve diğer Mi Hizmetlerinde istediğiniz yerden oturum açmak için Mi Hesabınızı kullanın.</string>
+  <string name="title">Hata Günlüğü Toplama Aracı</string>
+  <string name="to_turn_on_wifi">"Lütfen WLAN'ı açın"</string>
+</resources>
