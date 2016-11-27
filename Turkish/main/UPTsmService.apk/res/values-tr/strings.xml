@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">UPTsm Eki</string>
+  <string name="error_crash">Üzgünüz, programda beklenmedik hata oluştu ve çıkılıyor</string>
+  <string name="error_download_file">Dosya indirme başarısız</string>
+  <string name="error_network">Ağ zorlanamadı</string>
+  <string name="error_storage_not_enough">Depolama alanı eksikliği. Yeterli alan açıp, yeniden denemek için izin verin</string>
+  <string name="error_unrecognized">Bilinmeyen hata</string>
+  <string name="servicedesc">TSM Hizmeti</string>
+  <string name="subscription">AID Grubu</string>
+  <string name="unit_rmb">Yuan</string>
+</resources>
