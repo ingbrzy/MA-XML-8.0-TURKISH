@@ -3850,7 +3850,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="select_logd_size_title">Kaydedici tampon boyutları</string>
   <string name="select_runtime_dialog_title">Çalışma süresini seç</string>
   <string name="select_runtime_title">Günlük arabellek boyutu seçin</string>
-  <string name="select_runtime_warning_message">%1$s'den %2$s'e çalışmak için yeniden başlatın?</string>
+  <string name="select_runtime_warning_message">"%1$s'den %2$s'e çalışmak için yeniden başlatın?"</string>
   <string name="select_sim_for_calls">Çağrı: </string>
   <string name="select_sim_for_data">Veri için bir SIM seç</string>
   <string name="select_ssid_type_title">SSID Seç</string>
