@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">İndirme Yöneticisi</string>
-  <string name="auto_restart_under_wifi">Dosyayı WLAN ile otomatik olarak indir</string>
+  <string name="auto_restart_under_wifi">Dosyayı Wi-Fi ile otomatik olarak indir</string>
   <string name="button_cancel_download">İptal</string>
   <string name="button_download_now">Şimdi indir</string>
   <string name="button_queue_for_wifi">Kuyrukta</string>
@@ -34,13 +34,13 @@
   <string name="notification_download_failed">İndirme tamamlanamadı</string>
   <string name="notification_download_failed_more">%1$d dosyasını indirme başarısız oldu</string>
   <string name="notification_download_success_more">%1$d dosyası indirildi</string>
-  <string name="notification_need_wifi_for_size">Dosyanın büyüklüğü göz önüne alındığında wifi ile indirmeniz tavsiye edilir</string>
+  <string name="notification_need_wifi_for_size">Dosyanın büyüklüğü göz önüne alındığında Wi-Fi ile indirmeniz tavsiye edilir</string>
   <string name="notification_paused_in_background">Arkaplanda duraklatıldı.</string>
   <string name="notify_disabled_net_by_app">İnternet bağlantısı Güvenlik uygulaması tarafından kısıtlandı</string>
   <string name="notify_install_guide_forward_text">Aç</string>
   <string name="notify_install_guide_msg">Başarıyla yüklendi</string>
   <string name="notify_install_guide_title">%s başarıyla yüklendi</string>
-  <string name="notify_only_wifi_download">WLAN ağı bekleniyor</string>
+  <string name="notify_only_wifi_download">Wi-Fi ağı bekleniyor</string>
   <string name="paused_waiting_for_network">Ağ bağlantısı bekleniyor</string>
   <string name="permdesc_accessAllDownloads">Uygulama sistem üzerinde herhangi bir uygulama tarafından başlatılan tüm siteleri görme ve değiştirmenize olanak sağlar.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Uygulama indirme yöneticisi daha fazla alana ihtiyaç duyduğunda otomatik olarak silinemez.</string>
@@ -67,16 +67,16 @@
   <string name="root_downloads">İndirilenler</string>
   <string name="task_already_exist">Görev zaten mevcut</string>
   <string name="warning_tip_cancel">İndir</string>
-  <string name="warning_tip_content">"Artık WLAN ağına bağlı değilsiniz. İndirme işlemini tamamlamak için mobil veri bağlantısını kullanmanız veri kullanımınızı arttıracaktır. Tarifenizin veri kullanım sınırını aşarsanız operatörünüz tarafından ek ücrete tabi kalabilirsiniz."</string>
+  <string name="warning_tip_content">"Artık Wi-Fi ağına bağlı değilsiniz. İndirme işlemini tamamlamak için mobil veri bağlantısını kullanmanız veri kullanımınızı arttıracaktır. Tarifenizin veri kullanım sınırını aşarsanız operatörünüz tarafından ek ücrete tabi kalabilirsiniz."</string>
   <string name="warning_tip_ok">Duraklat</string>
   <string name="warning_tip_title">Veri Kullanım Uyarısı</string>
   <string name="wifi_recommended_body" formatted="false">"%s boyutundaki indirme işlemine şimdi başlanırsa pil ömrü kısalabilir veya mobil veri bağlantınız fazla miktarda kullanılabilir. Bunun sonucunda veri planınıza bağlı olarak mobil operatörünüz sizden ücret talep edebilir.
 
-Bu indirme işlemini WLAN ağa bir sonraki bağlanmanızda başlatmak için %s düğmesine dokunun"</string>
+Bu indirme işlemini Wi-Fi ağa bir sonraki bağlanmanızda başlatmak için %s düğmesine dokunun"</string>
   <string name="wifi_recommended_title">Daha sonra indirilmek üzere sıraya alınsın mı?</string>
-  <string name="wifi_required_body" formatted="false">"%s indirmeyi tamamlamak için WLAN bağlantısı kullanmalısınız. 
+  <string name="wifi_required_body" formatted="false">"%s indirmeyi tamamlamak için Wi-Fi bağlantısı kullanmalısınız. 
 
-%s bu indirme işlemini WLAN ağına bağlı olduğunuzda başlatmak için dokunun."</string>
+%s bu indirme işlemini Wi-Fi ağına bağlı olduğunuzda başlatmak için dokunun."</string>
   <string name="wifi_required_title">Bu dosya şebeke operatörünüz için çok büyük</string>
   <string name="xl_speedup_experience_notify_context">Xunlei üyesi olduğunuzda indirme hızınız her indirme işleminde hızlandırılır</string>
   <string name="xl_speedup_experience_notify_title">Xunlei Üyeliği</string>
