@@ -92,6 +92,7 @@
   <string name="feedback_submit_failed_notification_desc">Detayları görüntüle</string>
   <string name="feedback_submit_failed_notification_retry">Yeniden gönder</string>
   <string name="feedback_submit_failed_notification_title">"Rapor gönderilemedi"</string>
+  <string name="feedback_submit_hint">Problemleri daha hızlı çözmemize yardımcı olmak için problemlerle karşılaştığınızda hataları bildirin.</string>
   <string name="feedback_submit_hint1">"Raporunuzun durumunu takip edin"</string>
   <string name="feedback_submit_hint2">Detayları görüntülemek için \"Raporlarım\" bölümüne gidin</string>
   <string name="feedback_submit_succ">Başarıyla gönderildi</string>
@@ -250,7 +251,7 @@
   <string name="server_unknown_error_message">Sunucu hatası, lütfen tekrar deneyin</string>
   <string name="submit_dialog_cancel">İptal</string>
   <string name="submit_dialog_confirm">Gönder</string>
-  <string name="submit_dialog_content">"Görüşleriniz, hata günlükleri ve ekli görüntüler ile birlikte, Mi sunucularına gönderilecek. Eğer ağ bağlantı hatası oluşursa size sorulur veya sonra tekrar gönderilir."</string>
+  <string name="submit_dialog_content">"Görüşleriniz, ekler ve günlüklerle birlikte MIUI sunucularına gönderilecek. Kişisel bilgiler içerebilir."</string>
   <string name="submit_dialog_not_wifi_content">"Görüşleriniz, bir Wi-Fi bağlantısı sağlandığında Xiaomi sunucularına hata raporları ve görüntüleri ile birlikte gönderilir."</string>
   <string name="submit_dialog_title">Raporu gönder</string>
   <string name="submit_feedback_info_failed">"Rapor gönderilemedi"</string>
@@ -277,6 +278,7 @@
   <string name="toast_module_required">Öğe seç</string>
   <string name="toast_network_unavailable">"Gönderilemedi. Ağa bağlanamıyor."</string>
   <string name="toast_pending_log_collection">Günlükler halen toplanıyor...</string>
+  <string name="toast_post_deleted">"Bu konu yok, silinmiş veya düzenlenmiş."</string>
   <string name="toast_problem_class_required">Kategoriyi seç</string>
   <string name="toast_report_copied_to_clipboard">Rapor panoya kopyalandı</string>
   <string name="toast_report_sent_failed">"Rapor gönderilemiyor"</string>
