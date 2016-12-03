@@ -4,6 +4,7 @@
   <string name="application_desc">Uygulama</string>
   <string name="applications_search_label">Uygulamalar</string>
   <string name="apps_search_activity"/>
+  <string name="apps_whites">( \"com.android.quicksearchbox\", \"com.android.browser\", \"com.android.contacts\", \"com.android.mms\", \"com.miui.gallery\", \"com.android.settings\", \"com.android.deskclock\", \"com.android.camera\", \"com.miui.video\", \"com.miui.securitycenter\", \"com.miui.weather2\", \"com.xiaomi.market\", \"com.android.calendar\", \"com.android.fileexplorer\", \"com.miui.player\", \"com.android.thememanager\", \"com.android.calculator2\", \"com.xiaomi.gamecenter\", \"com.miui.notes\", \"com.xiaomi.smarthome\", \"com.xiaomi.account\", \"com.android.updater\", \"com.xiaomi.o2o\", \"com.xiaomi.shop\", \"com.android.soundrecorder\", \"com.mipay.wallet\", \"com.miui.voip\", \"com.miui.voiceassist\", \"com.android.email\", \"com.miui.networkassistant\", \"com.xiaomi.jr\", \"com.miui.compass\", \"com.miui.luckymoney\", \"com.xiaomi.hm.health\", \"com.xiaomi.channel\", \"com.miui.fm\", \"com.miui.bugreport\", \"com.mi.vtalk\", \"com.xiaomi.payment\", \"com.miui.virtualsim\", \"com.xiaomi.router\", \"com.miui.cloudbackup\", \"com.xiaomi.pass\", \"com.xiaomi.mitv.phone.tvassistan\", \"com.xiaomi.tag\", \"com.xiaomi.xy.sportscamera\", \"com.xiaomi.mishare\", \"com.xiaomi.pricecheck\", \"com.miui.userbook\", \"com.xiaomi.mitv.soundbarapp\", \"com.miui.livetalk\", \"com.android.providers.downloads.ui\", \"com.xiaomi.midrop\", \"com.miui.miuibbs\", \"com.xiaomi.scanner\", \"com.miui.voip\", \"com.wali.live\" )</string>
   <string name="baidu_search_url">https://www.google.tr/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_default">https://www.google.com.tr/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.com.tr/search?q=%s&amp;tn=ins</string>
@@ -55,11 +56,26 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="permission_prompt_start">İzin ver</string>
   <string name="permission_prompt_started_info">"Global aramaya izin verdin"</string>
   <string name="permission_prompt_title">Fazlasını ister misin?</string>
-  <string name="recent_apps">Tavsiyeli Uygulamalar</string>
-  <string name="recently_shortcut_label">En son kısayollar</string>
+  <string name="recent_apps">Önceki Uygulamalar</string>
+  <string name="recent_apps_filter">"Kullanılmayan uygulamaları gizle"</string>
+  <string name="recent_close_content">"Bu özellik şimdi kapatılsın mı?
+Bunu Ayarlar &gt; Yüklü Uygulamalar &gt; Ara altından değiştirebilirsiniz"</string>
+  <string name="recent_close_title">Özelliği kapat</string>
+  <string name="recent_delete_content">"Uygulamalar şimdi gizlensin mi?
+Bunu Ayarlar &gt; Yüklü Uygulamalar &gt; Ara altından değiştirebilirsiniz"</string>
+  <string name="recent_delete_negative">İptal</string>
+  <string name="recent_delete_positive">Tamam</string>
+  <string name="recent_delete_title">Uygulamaları gizle</string>
+  <string name="recent_edit">Düzenle</string>
+  <string name="recent_edit_done">Tamam</string>
+  <string name="recent_filter_functions">Özellikler kapatıldı</string>
+  <string name="recent_function">Özellikler</string>
+    <string name="recently_shortcut_label">En son kısayollar</string>
   <string name="remove_from_history">Arama geçmişinden bu öğeyi kaldırmak istiyor musunuz?</string>
   <string name="remove_from_history_failed">"Bu öğe arama geçmişinden kaldırılamadı!"</string>
   <string name="search_apps">Uygulamaları Ara</string>
+  <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
+  <string name="search_button">Ara</string>
   <string name="search_group_fold">Gizle</string>
   <string name="search_group_unfold">Fazlası</string>
   <string name="search_history">Geçmiş</string>
@@ -100,6 +116,13 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="switch_setting">Ayarlar</string>
   <string name="system_search_category_title">Telefon</string>
   <string name="top_clicked">Sık Kullanılanlar</string>
+  <string name="update_check">Güncellemeleri denetle</string>
+  <string name="update_right_now">Güncelle</string>
+  <string name="update_title">Güncelleme mevcut</string>
+  <string name="update_version_alpha">Alpha</string>
+  <string name="update_version_dev">Beta</string>
+  <string name="update_version_stable">Stabil</string>
+  <string name="updated_title">MIUI güncel</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">"Neyi aramak istiyorsun? "</string>
