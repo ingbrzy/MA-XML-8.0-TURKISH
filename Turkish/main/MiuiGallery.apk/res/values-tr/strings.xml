@@ -108,6 +108,8 @@
   <string name="alert_secret_album_set_pattern">Desen kilidini açmayı ayarlayın</string>
   <string name="alert_secret_album_title">Gizli Albümü nasıl görebilirim</string>
   <string name="all_items_synced">"Tüm albümler Mi Bulut'a yedeklendi."</string>
+  <string name="all_faces">Kişilerin tüm fotoğrafları</string>
+  <string name="all_items_synced">"Tüm albümler Mi Bulut'a yedeklendi"</string>
   <string name="all_video_album_display_name">Tüm Videolar</string>
   <string name="already_apply_album">%1$s açılsın mı?</string>
   <string name="already_create_baby_album">Bebek albümü zaten Mi Bulut\'ta var.</string>
@@ -283,7 +285,10 @@
   <string name="confirm_download">%s indirmelisiniz.</string>
   <string name="confirm_download_video_message">Video indirildikten sonra izleyebilrisiniz. WLAN kullanılabilir olduğunda indirmeye devam edecek.</string>
   <string name="confirm_download_video_title">Videoyu indir</string>
-  <string name="confirm_face">Karşılaştır</string>
+  <string name="confirm_face">Eşleştir</string>
+  <string name="confirm_hidden_recommend_group">Tamam</string>
+  <string name="confirm_hidden_recommend_group_message">Öneriler kapatıldığında, \"Benzeyen Daha Fazla Kişi\" seçeneği de kullanabilirsiniz</string>
+  <string name="confirm_hidden_recommend_group_title">"Tavsiyeleri gösterme"</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; %s bu albümle birleştirilsin mi? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; %s bu albümle birleştirilsin mi? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Eşleşme yok</string>
@@ -403,6 +408,8 @@
   <string name="edited_photo_bucket_name">Değiştirildi</string>
   <string name="effect">Efekt</string>
   <string name="email_picker_title">Paylaşılan E-Posta Ekle</string>
+  <string name="empty_recommend_button_view">Geri</string>
+  <string name="empty_recommend_face_page_view">Başka öneri yok</string>
   <string name="enable">Etkin</string>
   <string name="enable_auto_upload_tip">Eğer açılırsa bu albüm diğer albümlerden kaldırılır</string>
   <string name="enable_auto_upload_title">Mi Bulut ile eşitlemeyi aç</string>
@@ -452,6 +459,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="face_album_not_named">İsimsiz</string>
   <string name="face_album_pending_enable_tip">Cihaz WLAN\'a bağlı olduğunda fotoğrafları sıralayacak</string>
   <string name="face_album_rename_hint">Adını Girin</string>
+  <string name="face_album_title">%s</string>
   <string name="face_album_use_tip">Otomatik olarak insanlara göre fotoğrafları sırala</string>
   <string name="face_albumset_detecting_tip">Biraz bekleyin…</string>
   <string name="face_albumset_empty">Boş</string>
@@ -459,7 +467,12 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="face_albumset_pending_enable_tip">WLAN yoluyla cihaza bağlanınca fotoğrafları sırala</string>
   <string name="face_albumset_use_tip">Kişilere göre fotoğrafları sırala</string>
   <string name="face_choose_tip">Mevcut albümden seçin</string>
+  <string name="face_confirm">Bu benzer kişi</string>
   <string name="face_move_dialog_title">Bir albüm seçin</string>
+  <string name="face_name_edit">Düzenle</string>
+  <string name="face_name_input">Adı girin</string>
+  <string name="face_recommend">Tavsiyeler</string>
+  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="facelift">Yumuşat</string>
   <string name="facetan">Tabakla</string>
   <string name="fail_hint">Operasyon başarısız oldu</string>
@@ -688,6 +701,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="moman_camera_picture">Moman Kamera Fotoğrafı</string>
   <string name="more">Fazlası</string>
   <string name="more_album_hint">, vb.</string>
+  <string name="more_face">Benzeyen daha fazla kişi</string>
   <string name="more_face_album_name">Fazla Kişi</string>
   <string name="mosaic">Mozaik</string>
   <string name="move">Taşı</string>
@@ -896,6 +910,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="relation_text_mother">Anne</string>
   <string name="relation_with_you">Sizinle bir ilişkisini seçin</string>
   <string name="release_space_finish_format">Yerel depolamadaki %s serbest bırakıldı</string>
+  <string name="remind_face_recommend_confirm">Onayla</string>
   <string name="remind_shows_in_photo_tab_summary">Ana sayfada bu albümü göster?</string>
   <string name="remind_shows_in_photo_tab_title">Albümü ayarla</string>
   <string name="remove_from_other_albums_tip">Listedeki diğer albüm kaldırıldığında Mi Bulut eşitlemesinde de kaldırılır. Albüm kaldırılsın mı?</string>
