@@ -104,9 +104,13 @@
         <item quantity="other">"Bu kişi gösterilmesin mi?"</item>
         <item quantity="one">"Bu kişi gösterilmesin mi?"</item>
     </plurals>
-    <plurals name="more_face">
-        <item quantity="other">%2$s\'daki %1$s fotoğraf >></item>
-        <item quantity="one">%2$s\'daki %1$s fotoğraf >></item>
+    <plurals name="face_count">
+        <item quantity="other">Toplam %d fotoğraf</item>
+        <item quantity="one">Toplam %d fotoğraf</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Toplam %d fotoğraf</item>
+        <item quantity="one">Toplam %d fotoğraf</item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d yıl</item>
