@@ -101,6 +101,7 @@
   <string name="autoip_exception_summary">Toplam %d</string>
   <string name="autoip_exception_summary_more">, toplam %d</string>
   <string name="autoip_no_exceptions">"Bir IP öneki gerektirmeyen numaraları ekle"</string>
+  <string name="autoip_phone">Otomatik IP çevirmesi</string>
   <string name="autoip_prefix">IP öneki</string>
   <string name="autoip_prefix_summary">"Operatörünüzün IP öneki: %s"</string>
   <string name="autoip_setting">Otomatik IP Ayarları</string>
@@ -1156,6 +1157,7 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="path_antispam_setting">Sistem Uygulamaları/Telefon/Kara Liste</string>
   <string name="path_app_name">Sistem Uygulamaları/Telefon</string>
   <string name="path_auto_answer_pref_title">Sistem Uygulamaları/Telefon/Otomatik Cevapla</string>
+  <string name="path_auto_retry_mode_title">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/Otomatik Dene</string>
   <string name="path_autoip">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/Otomatik IP Araması</string>
   <string name="path_call_background_setting_name">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/Çağrı Arkaplanı</string>
   <string name="path_call_forwarding_settings">Sistem Uygulamaları/Telefon/Çağrı Yönlendirme Ayarları</string>
@@ -1168,7 +1170,7 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="path_cloud_antispam_title">Sistem Uygulamaları/Telefon/Bilinmeyen Numara Tanımlaması</string>
   <string name="path_connect_disconnect_vibrate_title">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/Cağrı Cevaplandığında Titret</string>
   <string name="path_dtmf_tones_title">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/DTMF Tonları</string>
-  <string name="path_enable_antispam_strange_title">Telefon/Gelen Çağrı Ayarları/İlk zil Sessiz</string>
+  <string name="path_enable_antispam_strange_title">Sistem Uygulamaları/Telefon/Gelen Çağrı Ayarları/İlk Zil Sessiz</string>
   <string name="path_enable_proximity_title">Sistem Uygulamaları/Telefon/Gelen Çağrı Ayarları/Yakınlık Sensörü</string>
   <string name="path_fdn">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/Sabit Arama Numaraları</string>
   <string name="path_flash_when_ring_title">Sistem Uygulamaları/Telefon/Gelen Çağrı Ayarları/Zil Çaldığından Flaşla</string>
