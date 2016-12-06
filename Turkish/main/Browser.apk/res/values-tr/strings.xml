@@ -367,7 +367,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="media_player_error_button">Tamam</string>
   <string name="media_player_error_text_invalid_progressive_playback">Üzgünüz, bu video bu cihazda oynatılmak için değil.</string>
   <string name="media_player_error_text_unknown">Üzgünüz, bu video oynatılamaz.</string>
-  <string name="media_player_error_title">Oynatılamıyor</string>
+  <string name="media_player_error_title">Video oynatılamıyor</string>
   <string name="media_player_loading_video">Video yükleniyor...</string>
   <string name="menu_addtodesk"> Ana Ekrana yerleştir </string>
   <string name="menu_exit_nightmode">Çık</string>
@@ -482,8 +482,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="paused_waiting_to_retry">Tekrar denemek için bekleniyor...</string>
   <string name="pay_failed_toast">Ödeme tamamlanamadı</string>
   <string name="pay_success_toast">Ödeme başarıyla tamamlandı</string>
-  <string name="permission_alert_window">Bu özelliği kullanmak için, lütfen sistem seçeneğinde açılır pencere seçeneğini açın.</string>
-  <string name="permission_unknown">Bilinmeyen Seçenek</string>
+  <string name="permission_alert_window">Açılır pencerelerin bu özelliği kullanmasına izin ver</string>
+  <string name="permission_unknown">Bilinmeyen faaliyet</string>
   <string name="popup_window_attempt">Bu sitenin açılır pencere açmasına izin verilsin mi?</string>
   <string name="positive_confirm_message">Kapat</string>
   <string name="pref_accessibility">Erişebilirlik</string>
