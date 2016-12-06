@@ -17,9 +17,9 @@
   <string name="ble_profile_1">ble_profile_mi_band</string>
   <string name="ble_profile_2">ble_profile_mi_key</string>
   <string name="bluetooth_busy">Bluetooth meşgul,lütfen sonra tekrar deneyin</string>
-  <string name="bluetooth_connected">Eşleşdi</string>
+  <string name="bluetooth_connected">Bluetooth sesi bağlandı</string>
   <string name="bluetooth_connecting">Eşleşiyor…</string>
-  <string name="bluetooth_disconnected">Eşleşmedi</string>
+  <string name="bluetooth_disconnected">Bluetooth sesi kesildi</string>
   <string name="bluetooth_disconnecting">Eşleşme Kaldırılıyor…</string>
   <string name="bluetooth_dun_authorize_allow">İzin ver</string>
   <string name="bluetooth_dun_authorize_decline">Reddet</string>
@@ -93,6 +93,7 @@
   <string name="inbound_history_title">Gelen Transferler</string>
   <string name="inbound_noti_title">Bluetooth Paylaşımı: Alınan dosyalar</string>
   <string name="incoming_file_confirm_Notification_caption">Bu dosyayı almak istiyor musunuz?</string>
+  <string name="incoming_file_confirm_Notification_content">%1$s, %2$s gönderilmeye hazır</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth Paylaşımı: Gelen dosya</string>
   <string name="incoming_file_confirm_cancel">Reddet</string>
   <string name="incoming_file_confirm_content">Gelen dosya kabul edilsin mi?</string>
@@ -152,6 +153,7 @@
   <string name="panu_disconnect_while_wifi_connected">Bluetooth paylaşımının bağlantısı kesildi</string>
   <string name="panu_no_need_connect">WLAN bağlıyken Bluetooth paylaşımını kullanmak mümkün olmaz</string>
   <string name="pbap_acceptance_timeout_message">%1$s ile bağlantı zaman aşımına uğradı</string>
+  <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
   <string name="pbap_authentication_timeout_message">%1$s ile oturum girişi zaman aşımına uğradı</string>
   <string name="pbap_session_key_dialog_header">Bluetooth oturum anahtarı gerekli</string>
   <string name="pbap_session_key_dialog_title">%1$s için oturum anahtarını girin</string>
