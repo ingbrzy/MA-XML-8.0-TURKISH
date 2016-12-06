@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_channel">Kanal Ekle</string>
   <string name="alert_reminder_interval_summary"/>
   <string name="alert_reminder_interval_title">Alarm Hatırlatıcısı</string>
   <string name="alert_sound_duration_summary"/>
@@ -12,8 +13,25 @@
   <string name="category_dev_settings_title">Geliştirici Seçenekleri</string>
   <string name="category_etws_settings_title">ETWS Ayarları</string>
   <string name="category_india_settings_title">Hindistan Ayarları</string>
+  <string name="cb_channel_50_name">Kanal 50</string>
+  <string name="cb_channel_dialog_channel_name">Kanal Adı (0-10 karakter)</string>
+  <string name="cb_channel_dialog_channel_number">Kanal Numarası (0-65534)</string>
+  <string name="cb_channel_dialog_channel_state">Kanal aktif</string>
+  <string name="cb_channel_dialog_edit_channel">Kanalı Düzenle</string>
+  <string name="cb_default_new_channel_name">Yeni Kanal</string>
+  <string name="cb_error_channel_id_exist">Kanal kimliği var</string>
+  <string name="cb_error_channel_name">Kanal adı uzunluğu doğru değil(1-10 karakter).</string>
+  <string name="cb_error_channel_num">Lütfen kanal numarasını girin(0-65534).</string>
+  <string name="cb_menu_add_channel">Kanal Ekle</string>
+  <string name="cb_menu_channel_list">Kanal listesi</string>
+  <string name="cb_menu_delete">Yayını sil</string>
+  <string name="cb_menu_edit">Düzenle</string>
+  <string name="cb_menu_tile">Kanal Operasyonu</string>
   <string name="cb_other_message_identifiers">Şebeke Yayını</string>
+  <string name="cell_broadcast_setting">Hücresel Yayın Ayarları</string>
   <string name="cell_broadcast_settings_not_available">Şebeke yayını ayarları bu kullanıcı için geçerli değildir</string>
+  <string name="channel_list">Kanal Listesi</string>
+  <string name="close_dialog">Tamam</string>
   <string name="cmas_amber_alert">Çocuk Kaçırma (Sarı Alarm)</string>
   <string name="cmas_category_cbrne">Kimyasal/Biyolojik/Nükleer/Patlayıcı</string>
   <string name="cmas_category_env">Çevresel</string>
@@ -58,9 +76,14 @@
   <string name="confirm_delete_all_broadcasts">Alınan tüm yayın mesajları silinsin mi?</string>
   <string name="confirm_delete_broadcast">Bu yayın silinsin mi?</string>
   <string name="delivery_time_heading">Alınma Tarihi:</string>
+  <string name="disable">Pasif</string>
+  <string name="done_text">Tamam</string>
   <string name="emergency_alert_settings_title">Acil Durum Ayarları</string>
+  <string name="enable">Aktif</string>
   <string name="enable_alert_speech_summary">Acil durum uyarı mesajları için metin seslendirme özelliğini kullan</string>
   <string name="enable_alert_speech_title">Uyarı Mesajını Seslendir</string>
+  <string name="enable_alert_tone_summary">Alarm tonu açık</string>
+  <string name="enable_alert_tone_title">Alarm Tonu</string>
   <string name="enable_alert_vibrate_summary">Uyarı geldiğinde titreşimle bildir</string>
   <string name="enable_alert_vibrate_title">Titreşim</string>
   <string name="enable_channel_50_alerts_summary">"Kanal 50 alan güncelleme bilgileri Brezilya'da kullanılmaktadır"</string>
@@ -71,6 +94,8 @@
   <string name="enable_cmas_amber_alerts_title">Sarı uyarıları göster</string>
   <string name="enable_cmas_extreme_threat_alerts_summary">Cana ve mala karşı aşırı tehditlerle ilgili uyarıları göster</string>
   <string name="enable_cmas_extreme_threat_alerts_title">Aşırı tehditleri göster</string>
+  <string name="enable_cmas_presidential_alerts_summary">Başkanlık alarmlarını herzaman göster</string>
+  <string name="enable_cmas_presidential_alerts_title">Başkanlık uyarılarını göster</string>
   <string name="enable_cmas_severe_threat_alerts_summary">Can ve mala karşı üst düzey tehditlerle ilgili uyarıları göster</string>
   <string name="enable_cmas_severe_threat_alerts_title">Üst düzey tehditleri göster</string>
   <string name="enable_cmas_test_alerts_summary">Ticari Mobil Uyarı Sistemi test yayınlarını görüntüle</string>
@@ -79,6 +104,8 @@
   <string name="enable_emergency_alerts_title">Bildirimleri Aç</string>
   <string name="enable_etws_test_alerts_summary">Deprem Tsunami Uyarı Sistemi için test yayınlarını görüntüle</string>
   <string name="enable_etws_test_alerts_title">DTUS test yayınlarını göster</string>
+  <string name="error_finish_dialog_title">Ağ veya SIM Kart hatası.</string>
+  <string name="error_updating_title">Çağrı Ayarı hatası</string>
   <string name="etws_earthquake_and_tsunami_warning">Deprem ve Tsunami Uyarısı</string>
   <string name="etws_earthquake_warning">Deprem Uyarısı</string>
   <string name="etws_other_emergency_type">Acil Durum</string>
@@ -93,8 +120,12 @@
   <string name="notification_multiple">%s okunmamış uyarı.</string>
   <string name="notification_multiple_title">Yeni Alarmlar</string>
   <string name="pws_other_message_identifiers">Acil Durum</string>
+  <string name="reading_settings">Okuma Ayarları</string>
+  <string name="receive_broad_cast">Hücresel Yayın Mesaj Alımı</string>
   <string name="show_cmas_opt_out_summary">İlk TMUS görüntülendikten sonra devre dışı bırakmak için mesaj kutusu gösterilir (Başkanlık düzeyinde uyarı hariç).</string>
   <string name="show_cmas_opt_out_title">Devre dışı bırakma iletişim kutusunu göster</string>
   <string name="sms_cb_settings">Şebeke Yayın Ayarları</string>
+  <string name="updating_settings">Ayarlar güncelleniyor</string>
+  <string name="updating_title">Çağrı Ayarları</string>
   <string name="view_details_title">Alarm Detayları</string>
 </resources>
