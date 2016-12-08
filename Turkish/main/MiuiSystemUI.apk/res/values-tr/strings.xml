@@ -59,7 +59,6 @@
   <string name="adb_warning_title">USB Hata Ayıklamaya izin verilsin mi?</string>
   <string name="allow_mock_location">Sahte konumlara izin ver</string>
   <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
-  <string name="always_use_accessory">Bu USB aksesuarı varsayılan olarak kullanın</string>
   <string name="always_use_device">Bu USB cihazı varsayılan olarak kullan</string>
   <string name="animator_duration_scale_title">Animatör süresi ölçeği</string>
   <string name="apn_settings_not_available">Bu kullanıcı için Erişim Noktası Adının ayarları kullanılamıyor</string>
@@ -350,7 +349,6 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="notification_otg_unknow_in">OTG cihazı bağlandı</string>
   <string name="notification_otg_unknow_out">OTG Cihaz bağlantısı kesildi</string>
   <string name="notification_template_text">" bildirim var. Görüntülemek için dokunun."</string>
-  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM kilidini aç</string>
   <string name="oem_unlock_enable_summary">Önyükleyicinin kilidinin açılmasına izin ver</string>
   <string name="oldman_airplane_mode_text">Uçak Modu</string>
@@ -458,10 +456,8 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="simulate_color_space">Renk alanını simüle et</string>
   <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
-  <string name="status_bar_date_format">"d MMMM
-EEEE"</string>
-  <string name="status_bar_date_format_12">"d MMMM
-EEEE"</string>
+  <string name="status_bar_date_format">"d MMMM EEEE"</string>
+  <string name="status_bar_date_format_12">"d MMMM EEEE"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Bugün: %1$s | Kalan: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Aşılan: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
@@ -541,8 +537,7 @@ Kilitlemek için aşağı kaydırın "</string>
   <string name="usb_audio_disable_routing">USB ses yolunu devre dışı bırak</string>
   <string name="usb_audio_disable_routing_summary">USB ses çevre birimlerine otomatik yönlendirmeyi devre dışı bırak</string>
   <string name="usb_debugging_always">Bu bilgisayara herzaman izin ver.</string>
-  <string name="usb_debugging_message">"Bilgisayarın RSA anahtarlı parmakizi:
-%1$s"</string>
+  <string name="usb_debugging_message">"Bilgisayarın RSA anahtarlı parmakizi: %1$s"</string>
   <string name="usb_debugging_title">USB hata ayıklamaya izin verilsin mi?</string>
   <string name="usb_device_confirm_prompt">USB cihaz bağlanınca %1$s açılsın mı ?</string>
   <string name="usb_device_permission_prompt">%1$s uygulamasının USB cihaza bağlanmasına izin verilsin mi?</string>
