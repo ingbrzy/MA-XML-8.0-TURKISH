@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_smart_sms_title">Akıllı mesaj ortağı</string>
   <string name="action_firewall_setting">Kara Liste</string>
   <string name="activity_not_found">Bu işlemi yapabilecek uygulama bulunamadı</string>
   <string name="activity_not_found_uri">Bu işlemi yapabilecek uygulama bulunamadı</string>
@@ -381,6 +382,7 @@
   <string name="open_url_with_web">Tarayıcıda bu URL açılsın mı?</string>
   <string name="over_max_mms_size">MMS çok büyük!</string>
   <string name="overwrite_edited_content">"Düzenlediğiniz içeriğin üzerine yazılır."</string>
+  <string name="partner_companies">Teddy Mobil, Yulore Tech.</string>
   <string name="phrase_confirm_delete_message">Bu cevap silinsin mi?</string>
   <string name="phrase_empty">Cevap yok</string>
   <string name="phrase_from">%1s</string>
@@ -393,7 +395,7 @@
   <string name="pref_allow_network_access_summary">Teslimat ve diğer hizmetler hakkında en son bilgileri almak için açın.</string>
   <string name="pref_cell_broadcast">Hücresel Yayınlar</string>
   <string name="pref_collapse_sp_messages_summary">Operatörden gelen aynı mesajları birleştir</string>
-  <string name="pref_delivery_ringtone">Ses Bildirimi</string>
+  <string name="pref_delivery_ringtone">Alındı Sesi</string>
   <string name="pref_edit_smsc_address">SMS Merkezi Numarası</string>
   <string name="pref_forward_title">Yönlendir</string>
   <string name="pref_message_recovery_introduction_title">Mesajları Kurtar</string>
@@ -410,7 +412,7 @@
   <string name="pref_summary_allow_si_sl_push">Mesajların web sitelerinden içerik yüklemesine izin verir</string>
   <string name="pref_summary_delete_limit">%1$s görüşme başına mesaj</string>
   <string name="pref_summary_delivery_reports">Gönderilen mesajların sevkiyat durumu göster</string>
-  <string name="pref_summary_delivery_ringtone">Mesaj gönderildiğinde sesli bildirim ver.</string>
+  <string name="pref_summary_delivery_ringtone">Mesaj alındığında sesli bildirim ver.</string>
   <string name="pref_summary_hide_festival">Çince dili dışı kullanım için önerilenler özelliğini kaldır</string>
   <string name="pref_summary_manage_sim_messages">SIM kartınızda depolanan mesajları yönetin</string>
   <string name="pref_summary_mms_auto_retrieval">Otomatik olarak mesajlardaki fotoğrafları ve videoları indir</string>
@@ -427,6 +429,7 @@
   <string name="pref_time_auto_group_disabled_summary">"Mevcut font boyutu desteklenmiyor"</string>
   <string name="pref_time_auto_group_summary">Bir dakika içinde alınan mesajları aynı grupta topla</string>
   <string name="pref_time_auto_group_title">Zamana Göre Grupla</string>
+  <string name="pref_title_about_smart_sms">Akıllı mesaj ortağı hakkında</string>
   <string name="pref_title_allow_si_sl_push">WAP Push mesajlarına izin ver (SI/SL)</string>
   <string name="pref_title_card_format">Kart paylaşım biçimi</string>
   <string name="pref_title_delivery_reports">Gönderilme Durumu</string>
