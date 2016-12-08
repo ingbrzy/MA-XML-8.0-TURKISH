@@ -37,6 +37,16 @@
         <item>Diğer</item>
         <item>Özel</item>
     </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>"WLAN üzerinden arama yapmak ve mesaj göndermek için, önce operatörünüzden bu servisi kurmasını isteyin. Ardından, Ayarlar'dan tekrar WLAN aramasını açın."</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Operatöre kaydolun</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s WLAN Çağrısı</item>
+    </string-array>
     <string-array name="fingerprint_acquired_vendor">
         <item>Yeniden deneyin</item>
         <item></item>
