@@ -22,7 +22,7 @@
   <string name="activity_main_refresh_fail">"Ağa bağlanamadı"</string>
   <string name="activity_main_time_format">dd.MM</string>
   <string name="activity_main_update_time">Güncelleme: %1$s</string>
-  <string name="activity_main_update_time_expire">Veri süresi doldu</string>
+  <string name="activity_main_update_time_expire">Veri güncellemesinin zamanı geçti</string>
   <string name="activity_main_update_time_right_now">Şimdi</string>
   <string name="activity_weathermain_locationg">Yer saptanıyor...</string>
   <string name="activity_weathermain_locationg_error">"Konum bulunamadı"</string>
@@ -31,6 +31,8 @@
   <string name="ads_install_num"/>
   <string name="ads_score_title"/>
   <string name="alert_warning">Hava Durumu Uyarıları</string>
+  <string name="already_voted">Oylandı</string>
+  <string name="already_voted_toast">Bugünü zaten seçtiniz</string>
   <string name="app_name">Hava Durumu</string>
   <string name="app_version">Sürüm: %s</string>
   <string name="aqi_data_source">Caiyun Weather katkılarıyla</string>
@@ -59,6 +61,7 @@
   <string name="button_exit">Çık</string>
   <string name="button_not_allow">İptal</string>
   <string name="button_sure_abandon">Değişikliklerden vazgeçilsin mi?</string>
+  <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Ağ bağlantısını kontrol edip, yeniden deneyin.</string>
   <string name="close">Kapat</string>
   <string name="commercial">Ticari</string>
@@ -73,9 +76,10 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s sonra.</string>
   <string name="daily_forcast_whirl_wind">Kasırga</string>
   <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+  <string name="daily_forecast_detail">Tahmin Detayları</string>
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="edit_alert_city_title">Uyarıları Yönet</string>
-  <string name="edit_city">Düzenle</string>
+  <string name="edit_city">Şehri düzenle</string>
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Bu uygulamanın internete bağlanması ve normal çalışması için konumunuza erişmesi gerekiyor.</string>
   <string name="first_start_network_title">İnternet bağlantısı ve konum erişimi</string>
@@ -98,7 +102,7 @@
   <string name="indices_title">Önerilen Etkinlikler</string>
   <string name="indices_title_Precip1hr">1sa. Yağış Miktarı</string>
   <string name="indices_title_car_wash">Araç Yıkama</string>
-  <string name="indices_title_feel">Hissedilen</string>
+  <string name="indices_title_feel">"Hissedilen"</string>
   <string name="indices_title_humidity">Nem</string>
   <string name="indices_title_pressure">Basınç</string>
   <string name="indices_title_restriction">Hız Limiti</string>
@@ -109,13 +113,13 @@
   <string name="information_manager_information">Hava Durumu Bilgisi</string>
   <string name="information_manager_wlan">WLAN bağlandığında göster</string>
   <string name="information_menu_title"/>
-  <string name="information_set">Başlangıç Sayfası Ayarları</string>
+  <string name="information_set">Başlangıç Sayfasının Ayarları</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Kurulum</string>
   <string name="international_detail_menu_title">Detaylar</string>
   <string name="international_details_pressure_title">Basınç</string>
-  <string name="international_details_real_feel_title">Hissedilen</string>
+  <string name="international_details_real_feel_title">"Hissedilen"</string>
   <string name="international_details_title">Detaylar</string>
   <string name="international_details_uv_index_title">UV İndeksi</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
@@ -124,6 +128,7 @@
 Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="location_management">Konumlar</string>
   <string name="location_tag">Mekan</string>
+  <string name="lunar_calendar"/>
   <string name="menu_add_city">Konum Ekle</string>
   <string name="menu_location">Konumlar</string>
   <string name="mi_pad2">latte</string>
@@ -132,6 +137,8 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="network_unavailable">"Ağa bağlanamadı."</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Tekrar deneyin</string>
+  <string name="no_vote_num">%1$speople | </string>
+  <string name="no_vote_ratio">Eksi %%%1$s</string>
   <string name="open">Aç</string>
   <string name="open_browser">Tarayıcıda Aç</string>
   <string name="pressure_connect">%1$s hPa</string>
@@ -167,6 +174,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="top_pollution_pm10">PM10</string>
   <string name="top_pollution_pm25">PM2.5</string>
   <string name="top_pollution_so2">SO2</string>
+  <string name="total_voted_num_text">"&lt;font color='#20a7ff'&gt;%1$s&lt;/font&gt; kişi oyladı"</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">Yarından itibaren: %1$s</string>
   <string name="traffic_control_today_numbers">Bugün: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Yarın: %1$s</string>
@@ -194,4 +202,6 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="weather_unit">°</string>
   <string name="wind_miles_unit">%1$s m/s</string>
   <string name="wind_unit">%1$skm/s</string>
+  <string name="yes_vote_num"> | %1$s kişi</string>
+  <string name="yes_vote_ratio">artı %%%1$s</string>
 </resources>
