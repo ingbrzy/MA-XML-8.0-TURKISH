@@ -12,6 +12,10 @@
         <item quantity="other">Geliştirici Moduna geçebilmek için %1$d adım kaldı.</item>
         <item quantity="one">%1$d adım sonra Geliştirici Moduna geçeceksiniz.</item>
     </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Seçili dil kaldırılsın mı?</item>
+        <item quantity="one">Seçili dil kaldırılsın mı?</item>
+    </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">%1$d parmakizini ayarla</item>
         <item quantity="one">%1$d parmakizini ayarla</item>
@@ -43,6 +47,58 @@
     <plurals name="wrong_pin_code">
         <item quantity="other">Yanlış SIM PIN kodu, %d deneme hakkınız kaldı.</item>
         <item quantity="one">Yanlış SIM PIN kodu, %d deneme hakkınız kaldı. Cihazınızın kilidini açmak için operatöre başvurmanız gerekir.</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d öğe</item>
+        <item quantity="one">1 öğe</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Çok çok kısa gecikme (%1$d ms)</item>
+        <item quantity="one">Çok çok kısa gecikme (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Çok kısa gecikme (%1$d ms)</item>
+        <item quantity="one">Çok kısa gecikme (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Kısa gecikme (%1$d ms)</item>
+        <item quantity="one">Kısa gecikme (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Uzun gecikme (%1$d ms)</item>
+        <item quantity="one">Uzun gecikme (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Çok uzun gecikme (%1$d ms)</item>
+        <item quantity="one">Çok uzun gecikme (%1$d ms)</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d yazdırma işi</item>
+        <item quantity="one">1 yazdırma işi</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Sertifikalara güven veya kaldır</item>
+        <item quantity="one">Sertifikaya güven veya kaldır</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s, e-postalarınız, uygulamalarınız ve güvenli web siteleri gibi cihazınızın ağ etkinliğini izlemelerine izin verebilecek sertifika yetkililerini cihazınıza yükledi.
+
+Bu sertifikalar hakkında daha fazla bilgi için, yöneticinize başvurun."</item>
+        <item quantity="one">"%s, e-postalarınız, uygulamalarınız ve güvenli web siteleri gibi cihazınızın ağ etkinliğini izlemelerine izin verebilecek bir sertifika yetkilisi cihazınıza yükledi.
+
+Bu sertifika hakkında daha fazla bilgi için, yöneticinize başvurun."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s, e-postalarınız, uygulamalarınız ve güvenli web siteleri dahil olmak üzere iş ağı faaliyetlerini izlemelerine izin verebilecek iş profiliniz için sertifika yetkilileri kurdu.
+
+Bu sertifikalar hakkında daha fazla bilgi için, yöneticinize başvurun."</item>
+        <item quantity="one">"%s, e-postalarınız, uygulamalarınız ve güvenli web siteleri gibi cihazınızın ağ etkinliğini izlemelerine izin verebilecek bir sertifika yetkilisi cihazınıza yükledi.
+
+Bu sertifika hakkında daha fazla bilgi için, yöneticinize başvurun."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Sertifikaları kontrol et</item>
+        <item quantity="one">Sertifikayı kontrol et</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d uygulama bildirimleri okuyabilir</item>
@@ -84,6 +140,14 @@
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">En son hafızanın %2$s, %1$d uygulama kullandı </item>
         <item quantity="one">En son hafızanın  %2$s 1 uygulama kullandı</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">Gönderilen %d uygulama engellendi</item>
+        <item quantity="one">Gönderilen %d uygulama engellendi</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">Veri Tasarrufu açıkken %1$d uygulamaya sınırsız veri kullanımın izin verildi</item>
+        <item quantity="one">Veri Tasarrufu açıkken 1 uygulamaya sınırsız veri kullanımın izin verildi</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d cihaz</item>
