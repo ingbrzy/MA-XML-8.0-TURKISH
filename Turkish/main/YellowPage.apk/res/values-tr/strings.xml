@@ -114,6 +114,7 @@
   <string name="express_inquiry_delete_warning_multiple">%d girişler silinsin mi?</string>
   <string name="express_inquiry_delete_warning_single">Bu giriş silinsin mi?</string>
   <string name="express_inquiry_delivered">Teslim edildi</string>
+  <string name="express_inquiry_detail">Ayrıntılı Bilgi</string>
   <string name="express_inquiry_edit_logistics">Kurye</string>
   <string name="express_inquiry_history">Geçmiş</string>
   <string name="express_inquiry_history_remark">Yorumlar</string>
@@ -187,6 +188,7 @@ Takip numarasını kontrol edin."</string>
   <string name="express_shortcut_name">Sorgu veya Gönderim Durumu</string>
   <string name="express_show_all_inquiry_history">Tüm Sorgu Geçmişini Göster</string>
   <string name="express_submit_order">Gönder</string>
+  <string name="express_tail_number">Sıra No</string>
   <string name="express_track_order">Takip et</string>
   <string name="express_tracking_number">Takip Numarası</string>
   <string name="express_urge_order">Ping</string>
