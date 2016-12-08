@@ -4,9 +4,19 @@
   <string name="app_name">Güvenli Alanlar Temsilcisi</string>
   <string name="choice_no">Hayır</string>
   <string name="choice_yes">Evet</string>
+  <string name="dialog_download_space_cancel">İptal</string>
+  <string name="dialog_download_space_create">Tamam</string>
+  <string name="dialog_download_space_title">Alan indirilsin mi?</string>
+  <string name="dialog_download_space_cancel">İptal</string>
+  <string name="dialog_download_space_create">Tamam</string>
+  <string name="dialog_download_space_title">Alanı İndir</string>
   <string name="dialog_password_expired_button">Şifreyi Güncelle</string>
   <string name="dialog_password_expired_message">Şifrenizin süresi doldu veya artık geçerli ilkeden dolayı işlevini kaybetti. Lütfen şifrenizi güncelleyin.</string>
   <string name="dialog_password_expired_title">Şifre süresi doldu</string>
+  <string name="dialog_space_creating_text">Lütfen bekleyin</string>
+  <string name="dialog_space_creating_title">Yeni alan oluşturuluyor</string>
+  <string name="dialog_space_creating_text">Lütfen bekleyin</string>
+  <string name="dialog_space_creating_title">Yeni alan oluşturuluyor</string>
   <string name="expiration_status_future">Şifrenin süresi şu andan itibaren %1$s zamanda dolacak</string>
   <string name="expiration_status_past">Şifre süresi %1$s zaman önce doldu</string>
   <string name="label_activity_debug">İlke Ayıklaması</string>
@@ -49,5 +59,13 @@
   <string name="sscm_registration_disclaimer">Güvenli Alanların güncellemesinde küçük bir alan harcanır. Bu beraberinde bir miktar ağ trafiğine neden olur. Bunun için yerel hizmet sağlayıcı ile görüşebilirsiniz. Eğer bunları kabul ediyorsanız lütfen \"Evet\" düğmesini seçip Güvenli Alan aboneliğini başlatın.</string>
   <string name="sscm_registration_summary">Ayrıntılarını görüntülemek için bildirimleri aşağı çekin</string>
   <string name="title_sscm_registration">Güvenli Alan Hizmet Hatırlatıcısı</string>
+  <string name="toast_space_creation_failed">Alan oluşturulamadı</string>
+  <string name="uri_invalid">URI veya QR kodu Güvenli Alan tanımlanamadı</string>
+  <string name="uri_invalid_server_url">"Kayıt URI'sinde geçersiz sunucu URL'si"</string>
+  <string name="uri_missing_registration_token">"Kayıt URI'sındaki boş kayıt veya eksik kayıt belirteci"</string>
+  <string name="toast_space_creation_failed">Alan oluşturulamadı.</string>
+  <string name="uri_invalid">URI veya QR kodu Güvenli Alanı tanımlamaz</string>
+  <string name="uri_invalid_server_url">"Kayıt URI'sinde geçersiz sunucu bağlantısı"</string>
+  <string name="uri_missing_registration_token">"Kayıt URI'sındaki boş kayıt veya eksik kayıt belirteci"</string>
   <string name="wifi">Wi-Fi</string>
 </resources>
