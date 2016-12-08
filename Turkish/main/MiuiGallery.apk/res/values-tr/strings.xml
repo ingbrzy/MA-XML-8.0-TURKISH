@@ -177,10 +177,10 @@
   <string name="baby_suffix">Bebek</string>
   <string name="background_effect">Arkaplan Efekti</string>
   <string name="backup_automatically_summary">Mi Bulut tüm cihazların fotoğraf ve videolarını yedekler. Rahatlıkla tüm cihazlardaki fotoğraf ve videoları düzenleyebilir, sıralayabilir ve paylaşabilirsiniz. </string>
-  <string name="backup_automatically_title">Otomatik olarak yedekle ve eşitle</string>
+  <string name="backup_automatically_title">Otomatik Yedekle ve Eşitle</string>
   <string name="backup_detail_page_title">Mi Bulut Yedekleri</string>
-  <string name="backup_only_in_wifi">Fotoğraf ve videoları yedeklerken sadece WLAN kullan</string>
-  <string name="backup_only_in_wifi_summary">Fotoğraf ve videoları yedeklerken asla mobil veri kullanma</string>
+  <string name="backup_only_in_wifi">Fotoğraf/Video Yedeklemesinde WLAN Kullan</string>
+  <string name="backup_only_in_wifi_summary">Fotoğraf ve videoları yedeklerken asla mobil veri kullanmayıp, sadece WLAN kullanın</string>
   <string name="backup_waiting_button_text">Hemen Yedekle</string>
   <string name="backuping">%1$d/%2$d yedekleniyor</string>
   <string name="baidu_bdmobile_downloads">Baidu-Mobil</string>
@@ -408,6 +408,7 @@
   <string name="effect">Efekt</string>
   <string name="email_picker_title">Paylaşılan E-Posta Ekle</string>
   <string name="empty_recommend_button_view">Geri</string>
+  <string name="empty_recommend_back">Geri</string>
   <string name="empty_recommend_face_page_view">Başka öneri yok</string>
   <string name="enable">Etkin</string>
   <string name="enable_auto_upload_tip">Eğer açılırsa bu albüm diğer albümlerden kaldırılır</string>
@@ -1061,8 +1062,8 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="slideshow_interval_title">Her resmin geçiş süresini seçin</string>
   <string name="slideshow_interval_value">%1$d saniye</string>
   <string name="slideshow_repeat_mode">Tekrarla</string>
-  <string name="slim_after_backuped_summary">Mi Bulut\'ta yedeklendikten sonra yerel fotoğraflar yüksek çözünürlükte en iyi hale getirilir. Tam çözünürlüklü olanlar hala Mi Bulut\'ta saklanır. Bu yerel depolamada bir çok fotoğrafı kaydedebilirsiniz.</string>
-  <string name="slim_after_backuped_title">Yedeklendikten sonra yerel depolamayı en iyi duruma getir</string>
+  <string name="slim_after_backuped_summary">Mi Bulut\'ta yedeklendikten sonra yerel fotoğraflar yüksek çözünürlükte en iyi hale getirilir. Tam çözünürlüklü olanlar hala Mi Bulut\'ta saklanır. Böylece depolamada daha çok alan kazanırsınız.</string>
+  <string name="slim_after_backuped_title">Yedeklemeden Sonra Depolamayı İyi Hale Getir</string>
   <string name="slim_introduce">Fotoğraflar ve Videolar yerel yerde en iyi hale getirildikten sonra Mi Bulut\'ta yedeklenir. Yüksek çözünürlükteki resimler Mi Bulut alanında silinmez, muhafaza edilir.</string>
   <string name="slim_introduce_with_specific_size">Fotoğraflar ve Videolar yerel yerde en iyi hale getirildikten sonra Mi Bulut\'ta yedeklenir. Mi Bulut üzerinde bu fotoğraflar yüksek çözünürlükte saklanır. %1$s alan kazanırsınız. (Mi Hesabı gerekli).</string>
   <string name="slim_now">İyi Hale Getir</string>
