@@ -35,7 +35,7 @@
   <string name="complete">Tamam</string>
   <string name="cta_dialog_negative">Çık</string>
   <string name="cta_dialog_positive">Kabul</string>
-  <string name="cta_dialog_text1">Akıllı Yardımcı'yı kullanmak için, </string>
+  <string name="cta_dialog_text1">"Akıllı Yardımcı'yı kullanmak için, "</string>
   <string name="cta_dialog_text2">\"Kullanıcı Sözleşmesi\'ni \"</string>
   <string name="cta_dialog_text3">ve</string>
   <string name="cta_dialog_text4">\"Gizlilik Politikası\'nı\" okumalı ve kabul etmelisiniz.</string>
@@ -44,11 +44,14 @@
   <string name="data_error">Bir hata oluştu, bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="data_error_show">"Sipariş tamamlandı, ayrıntıları göremiyorum"</string>
   <string name="drive">Sür</string>
+  <string name="duokan_open">Daha fazla okuma kartını aç</string>
+  <string name="duokan_reading">Fazlasını oku</string>
+  <string name="duokan_setting_brief">Bıraktığınız yerden okumaya devam edin.</string>
   <string name="entrance">Kart kısayolları</string>
-  <string name="exercise_setting_brief">Etkinlik istatistiklerinizi görüntüleyin.</string>
+  <string name="exercise_setting_brief">"Etkinlik verilerinizi görüntüleyin (Güvenlik için Mi Fit'in otomatik olarak başlatılmasına izin verin)."</string>
   <string name="express">Hızlı teslimat</string>
   <string name="express_jd">JD</string>
-  <string name="express_mi_shop">Mi Uygulama Mağazası</string>
+  <string name="express_mi_shop">Mi Mağazası</string>
   <string name="express_open">Teslimat izleme kartlarını göster</string>
   <string name="express_other_app">Alışveriş uygulamalarından siparişleri takip et</string>
   <string name="express_setting_brief">Siparişlerinizi izlemek için alışveriş uygulamalarından kartlar edinin.</string>
@@ -56,7 +59,7 @@
   <string name="express_taobao">Taobao</string>
   <string name="express_tmall">Tmall</string>
   <string name="flow_open">Mobil bilgi kartını göster</string>
-  <string name="flow_setting_brief">Mobil verilerinizi yönetin.</string>
+  <string name="flow_setting_brief">Mobil veri bilgilerinizi görüntüleyin (Veri planınızı Güvenlik &gt; Veri kullanımı bölümüne ekleyin).</string>
   <string name="focus">Durumu takip et</string>
   <string name="focus_on_dynamic">Durumu takip et</string>
   <string name="go_to_school">İşyerinde veya okulda</string>
