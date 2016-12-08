@@ -604,6 +604,16 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="biometric_weak_liveliness_summary">Kilit açma sırasında göz kırpmak gerekir</string>
   <string name="biometric_weak_liveliness_title">Canlılık Denetimi</string>
   <string name="ble_scan_notify_text">Konum hassasiyetini arttırmak için; sistem uygulamaları ve hizmetlerini Bluetooth cihazlar tespit edebilir. Bunu değiştirmek için LINK_BEGINTarama AyarlarıLINK_END seçeneğini kullanabilirsiniz.</string>
+  <string name="block_list_connected_devices">Bağlanan Cihazlar</string>
+  <string name="block_list_diaglog_cancle">İptal</string>
+  <string name="block_list_diaglog_ok">Tamam</string>
+  <string name="block_list_dialog_content">Bu işlem "%s" cihazının bağlantısını keser ve bunu engelleme listesine ekler.</string>
+  <string name="block_list_dialog_title">Bağlantı kesilsin mi?</string>
+  <string name="block_list_no_device">Kara Listede bağlı cihaz yok</string>
+  <string name="block_list_remove_dialog_content">Bu cihaz "%s" bu paylaşımına bağlanabilecek</string>
+  <string name="block_list_remove_dialog_title">“%s” kara listeden kaldırılsın mı?</string>
+  <string name="block_list_summary">Bu paylaşıma bağlanmasına izin verilmeyen cihazları görüntüleme</string>
+  <string name="block_list_title">Kara Liste</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Medya sesi için bağlandı</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Medya sesi için kullan</string>
@@ -4876,6 +4886,7 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="testing_wifi_info">WLAN Bilgisi</string>
   <string name="tether_and_hotspot_title">Direkt Bağlantı &amp; Net Paylaşımı</string>
   <string name="tether_devices_management_title">Cihazları yönet</string>
+  <string name="tether_devices_max_number">Bağlı cihazların limiti</string>
   <string name="tether_settings_disabled">Kişisel Paylaşım kapalı</string>
   <string name="tether_settings_disabled_on_data_saver">Veri Tasarrufu açıkken mobil paylaşım yapamaz veya kullanamazsınız</string>
   <string name="tether_settings_launch_title">Mobil Paylaşım</string>
