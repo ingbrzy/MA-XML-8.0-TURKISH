@@ -26,7 +26,7 @@
   <string name="ad_mark">REKLAM</string>
   <string name="add_music">Şarkı ekle</string>
   <string name="add_to_last_of_playlist">Çalma listesinin sonuna ekle.</string>
-  <string name="alaka_required">"Bu şarkı mevcut değildir."</string>
+  <string name="alaka_required">"Dinlemek için bu şarkıyı satın almalısınız"</string>
   <string name="album_name">Albüm</string>
   <string name="album_search_title">Albüm</string>
   <string name="alert_msg_vip_song_for_download">Bu şarkıyı indirmek için Ayrıcalıklı Şarkı Paketi al.</string>
@@ -521,13 +521,15 @@
   <string name="notification_headset_info">Ayarları görüntülemek için dokunun.</string>
   <string name="notification_headset_settings">Kulaklık bağlandı</string>
   <string name="notification_need_wifi_for_size">İndirme boyutundan dolayı WLAN gerekli.</string>
-  <string name="notification_play_summary">Geçerli ve sonraki şarkıyı göster, Ana Ekranka sözleri göster</string>
-  <string name="notification_play_title">Bildirim alanı aracı</string>
+  <string name="notification_play_summary">Geçerli ve sonraki şarkıyı göster, Ana Ekranda sözleri göster</string>
+  <string name="notification_play_title">Bildirim Alanı Aracı</string>
   <string name="notification_recommend_summary">Yeni müzik trendleri ve uygulama promosyonları hakkında bilgi</string>
   <string name="notification_recommend_title">Önemli Bildirimleri</string>
   <string name="notification_setting">Bildirim Ayarları</string>
   <string name="notification_title_no_song">"Herkesin ne dinlediğini göz atın!"</string>
   <string name="nowplaying_menu_item_delete">Sil</string>
+  <string name="nowplaying_dialog_title_delete_tracks">Listeden kaldırılsın mı？</string>
+  <string name="nowplaying_menu_item_delete">Kaldır</string>
   <string name="ok">Tamam</string>
   <string name="one_month">1 ay</string>
   <string name="online_bill">Popüler</string>
