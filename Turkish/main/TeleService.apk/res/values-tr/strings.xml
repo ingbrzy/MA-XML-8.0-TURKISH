@@ -2,7 +2,6 @@
 <resources>
   <string name=" hide_error_from_network_text">İstek işlenemedi</string>
   <string name="Result_title">Sonuç...</string>
-  <string name=" hide_error_from_network_text">İsteği işleyemedi</string>
   <string name="accessibility_call_muted">Çağrı sessizde.</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM kurumsal PIN kilidini aç</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">RUIM kurumsal kilidini açma isteği...</string>
@@ -1600,7 +1599,6 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">Tercihen Ağ Modu: TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_tdscdma_gsm_summary">Tercihen Ağ Modu: TDSCDMA / GSM</string>
   <string name="preferred_network_mode_tdscdma_gsm_wcdma_summary">Tercihen Ağ Modu: TDSCDMA/GSM/WCDMA</string>
-  <string name="preferred_network_mode_tdscdma_summary">Tercihen Ağ Modu: TDSCDMA</string>
   <string name="preferred_network_mode_tdscdma_wcdma_summary">Tercihen Ağ Modu: TDSCDMA / WCDMA</string>
   <string name="preferred_network_mode_tdscdma_summary">Tercihen Ağ Modu: TDSCDMA</string>
   <string name="preferred_network_mode_title">Tercihen Edilen Ağ Tipi</string>
@@ -2002,7 +2000,7 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="top_up_first">Önce Kontör</string>
   <string name="transport_title">Taşıma Tipi</string>
-  ts_default_lang_summary">Konuşulan metin için dile özgü sesi ayarla</string>
+  <string name="ts_default_lang_summary">Konuşulan metin için dile özgü sesi ayarla</string>
   <string name="tts_default_lang_title">Dil</string>
   <string name="tts_default_pitch_summary">Sentezlenen konuşmanın tonunu etkiler</string>
   <string name="tts_default_pitch_title">Perde</string>
