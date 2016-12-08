@@ -1,24 +1,226 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Taranıyor…</item>
+        <item>Bağlanıyor…</item>
+        <item>Yetkilendiriliyor…</item>
+        <item>IP Adresi sağlanıyor…</item>
+        <item>Bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor…</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
+        <item>Engellendi</item>
+        <item>Geçici zayıf bağlantıdan kaçınılıyor</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Taranıyor…</item>
+        <item>%1$s bağlanılıyor…</item>
+        <item>%1$s ile yetkilendiriliyor…</item>
+        <item>%1$s IP adresi sağlanıyor…</item>
+        <item>%1$s bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>%1$s bağlantısı kesiliyor…</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
+        <item>Engellendi</item>
+        <item>Geçici zayıf bağlantıdan kaçınılıyor</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Asla denetleme</item>
+        <item>DRM içeriği yalnızca kontrol edin</item>
+        <item>Daima denetle</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Asla HDCP denetimi kullanma</item>
+        <item>HDCP DRM içeriği yalnızca denetlenirken kullan</item>
+        <item>Her zaman HDCP denetimi kullan</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Kapalı</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Kapalı</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Kapalı</item>
+        <item>64K başına günlük tampon</item>
+        <item>256K başına günlük tampon</item>
+        <item>1M başına günlük tampon</item>
+        <item>4M başına günlük tampon</item>
+        <item>16M başına günlük tampon</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği .5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1.5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
+    </string-array>
+    <string-array name="window_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği .5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1.5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği .5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1.5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Yok</item>
+        <item>480p</item>
+        <item>480p (güvenli)</item>
+        <item>720p</item>
+        <item>720p (güvenli)</item>
+        <item>1080p</item>
+        <item>1080p (güvenli)</item>
+        <item>4K</item>
+        <item>4K (güvenli)</item>
+        <item>4K (ölçeksiz)</item>
+        <item>4K (ölçeksiz, güvenli)</item>
+        <item>720p, 1080p (çift ekran)</item>
+    </string-array>
+    <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480/142</item>
+        <item>720x480/142, güvenli</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213, güvenli</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320, güvenli</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320, güvenli</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640, güvenli</item>
+        <item>1280x720/213;1920x1080/320</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Yok</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafik)</item>
+        <item>glGetError\'da yığın çağır</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Kapat</item>
+        <item>Dikdörtgen olmayan kırpma bölgesini mavi çiz</item>
+        <item>Yeşil test çizim komutlarını vurgula</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Kapat</item>
+        <item>Ekran üzerinde çubuklar halinde</item>
+        <item>adb içinde shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Kapat</item>
+        <item>Overdraw alanları göster</item>
+        <item>Renk körlüğüne uygun alanları göster</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standart limit</item>
+        <item>Arkaplan işlemi yok</item>
+        <item>En çok 1 işlem</item>
+        <item>En çok 2 işlem</item>
+        <item>En çok 3 işlem</item>
+        <item>En çok 4 işlem</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Şarj ediliyor</item>
+        <item>MTP (Medya Transfer Protokolü)</item>
+        <item>PTP (Resim Transfer Protokolü)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Ses Kaynağı</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Çok Yavaş</item>
+        <item>Yavaş</item>
+        <item>Normal</item>
+        <item>Hızlı</item>
+        <item>Daha Hızlı</item>
+        <item>Çok Hızlı</item>
+        <item>Çabuk</item>
+        <item>Çarçabuk</item>
+        <item>Anlık</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Titreşimli (varsayılan)</item>
+        <item>Doğal</item>
+        <item>Standart</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Geliştirilmiş renkler</item>
+        <item>Gözle görülen doğal renkler</item>
+        <item>Dijital içerik için optimize edilmiş renkler</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>%0</item>
+        <item>%50</item>
+        <item>%100</item>
+    </string-array>
+    <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Global</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+    </string-array>
     <string-array name="clir_display_values">
-        <item>Varsayılan ağ</item>
+        <item>Varsayılan Ağ</item>
         <item>Numarayı gizle</item>
         <item>Numarayı göster</item>
     </string-array>
-    <string-array name="call_barring_outgoing_display_values">
-        <item>Kapalı</item>
-        <item>Dolaşımda çağrıyı engelle</item>
-        <item>Uluslararası çağrıyı engelle</item>
-        <item>Giden çağrıyı engelle</item>
-    </string-array>
-    <string-array name="call_barring_incoming_display_values">
-        <item>Kapalı</item>
-        <item>Dolaşım</item>
-        <item>Hepsi</item>
+    <string-array name="clir_values">
+        <item>Varsayılan</item>
+        <item>Gizle</item>
+        <item>Göster</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Sadece ev</item>
+        <item>Sadece Ev</item>
         <item>Otomatik</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>
