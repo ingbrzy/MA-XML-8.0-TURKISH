@@ -127,7 +127,7 @@
   <string name="button_convert_fbe">Sil ve dönüştür...</string>
   <string name="cancel">İptal</string>
   <string name="category_personal">Kişisel</string>
-  <string name="category_workİşWork</string>
+  <string name="category_work">İş</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="charge_length_format">%1$s ago</string>
   <string name="choose_profile">Profil seç</string>
@@ -245,9 +245,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="install_failed_inconsistent_certificates">Çakışan imza ile aynı adı varolan bir paket zaten yüklü.</string>
   <string name="install_failed_invalid_apk">Paket bozuk görünüyor.</string>
   <string name="install_failed_msg">"%1$s telefonunuza yüklenemedi."</string>
-  <string name="installing">Yükleniyor…</string>
   <string name="keep_screen_on">Uyanık kal</string>
-  <string name="keep_screen_on_summary">Screen will never sleep while charging</string>
   <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyumaz</string>
   <string name="install_failed_verify_failed">Paket doğrulamayı geçemedi ve yüklenemez.</string>
   <string name="install_failed_verify_timeout">Bu paketi doğrulamak için çalışırken zaman aşımı oluştu. Daha sonra tekrar yüklemeyi deneyin.</string>
