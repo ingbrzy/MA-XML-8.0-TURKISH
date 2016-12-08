@@ -27,7 +27,6 @@ Reklam tanımlayıcı, cihazınıza özgü daimi bir kimliktir. Satıcılar, dah
   <string name="abc_font_family_title_material">sans-serif-medium</string>
   <string name="abc_search_hint">Ara…</string>
   <string name="abc_searchview_description_clear">Sorguyu temizle</string>
-  </string>
   <string name="abc_searchview_description_query">Sorguyu ara</string>
   <string name="abc_searchview_description_search">Ara</string>
   <string name="abc_searchview_description_submit">Sorguyu gönder</string>
@@ -461,7 +460,6 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="backup_empty">Yedekleme boş</string>
   <string name="backup_empty_info">Verileri, ayarları ve uygulamaları yedekle</string>
   <string name="backup_empty_info_onpad">Verileri, ayarları ve uygulamaları yedekle</string>
-  <string name="backup_erase_dialog_message">WLAN şifreleriniz, favorileriniz, diğer ayarlarınız, uygulama verileri ve tüm silinmiş Google sunucu kopyalarının yedeklemesi durdurulsun mu?</string>
   <string name="backup_disabled">Yedekleme pasif</string>
   <string name="backup_erase_dialog_message">WLAN şifrelerinizi, yerimlerinizi, diğer ayarlarınızı ve uygulama verilerinizi yedeklemeyi bırakın, ayrıca Google sunucularındaki tüm kopyaları silinsin mi?</string>
   <string name="backup_erase_dialog_title"/>
@@ -1709,7 +1707,6 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="enhanced_4g_lte_mode_title">Gelişmiş 4G LTE Modu</string>
   <string name="enter_password">Android\'i başlatmak için şifrenizi girin</string>
   <string name="enter_pattern">Android\'i başlatmak için deseninizi çizin</string>
-  <string name="enter_pin">"Android'i başlatmak için PIN'inizi girin"</string>
   <string name="enter_pin">Yeniden başlattıktan sonra kilit ekranda şifreyi girin</string>
   <string name="equalizer">EQ</string>
   <string name="erase_application">Uygulamaları kaldır</string>
@@ -1808,8 +1805,6 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="fingerprint_and_password_entrance_title">Kilit Ekranı &amp; Parmakizi</string>
   <string name="fingerprint_apply_to_privacy_password">Gizlilik Koruma Şifresi</string>
   <string name="fingerprint_apply_to_privacy_password_scenarios">Gizlilik Koruma Şifresi; mesajlarınızı, fotoğraflarınızı, dosyalarınızı, notlarınızı ve uygulamalarınızı korur.</string>
-  <string name="fingerprint_apply_to_privacy_password">Gizlilik Koruma Şifresi</string>
-  <string name="fingerprint_apply_to_privacy_password_scenarios">Gizlilik koruma şifresi mesajları, fotoğrafları, dosyaları, notları ve uygulamaları korur.</string>
   <string name="fingerprint_enable_keyguard_toggle_title">Kilit Ekranı</string>
   <string name="fingerprint_enroll_button_add">Diğerini Ekle</string>
   <string name="fingerprint_enroll_button_next">Sonraki</string>
@@ -2332,7 +2327,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="lock_profile_wipe_warning_content_pattern">Bu girişime yanlış bir iş deseni girerseniz iş profiliniz ve ilişkili verileriniz bu cihazdan kaldırılır.</string>
   <string name="lock_profile_wipe_warning_content_pin">Bu girişime yanlış bir iş PIN kodu girerseniz iş profiliniz ve ilişkili verileriniz bu cihazdan kaldırılır.</string>
   <string name="lock_profile_wipe_warning_title">Son kez dene</string>
-  <string name="lock_screen_cells_title">Ana Ekran düzenini kilitle</string>
   <string name="lock_screen_intro_skip_dialog_text">Cihaz koruma özellikleri etkinleştirilmeyecek. Kaybolduğunda veya çalındığında başkalarının bu telefonu kullanmasını engelleyemezsiniz.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Cihaz koruma özellikleri etkinleştirilmeyecek. Başkalarının kaybedildiğinde, çalındığında veya silindiğinde bu telefonu kullanmasını engelleyemezsiniz.</string>
   <string name="lock_screen_cells_title">Ana Ekran düzenini kilitle</string>
@@ -2515,7 +2509,6 @@ Hem cihazınız hem de iş profiliniz için yeni bir ekran kilidi ayarlayabilirs
   <string name="managed_profile_location_switch_lockdown">Şirketiniz tarafından kapalı</string>
   <string name="managed_profile_location_switch_title">İş profili için konum</string>
   <string name="managed_profile_not_available_label">"İş profili henüz kullanılamaz"</string>
-  <string name="managed_user_title">İş Profili</string>
   <string name="managed_profile_settings_title">İş Profili Ayarları</string>
   <string name="managed_user_title">Tüm iş uygulamaları</string>
   <string name="managing_admin">%s tarafından yönetildi</string>
@@ -2980,8 +2973,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="notification_breathing_light_freq_title">Bildirimin Yanıp-Sönme Aralığı</string>
   <string name="notification_exit_power_save_mode">Enerji Tasarruf Modundan çıkıldı</string>
   <string name="notification_exit_power_save_mode_subtitle">Şarj %60 olduğunda otomatik olarak tasarruf modundan çıkılır</string>
-  <string name="notification_listener_security_warning_summary">%1$s; tüm bildirimlere erişebilir ki bunlara size gönderilen mesajların metninin okunması, gönderenin içeriği de dahildir. Bu bildirimleri veya dokunmatik eylem düğmelerini de kapatması dahildir. </string>
-  <string name="notification_listener_security_warning_title">%1$s açılsın mı?</string>
   <string name="notification_importance_blocked">Bu uygulamadaki bildirimleri asla gösterme</string>
   <string name="notification_importance_default">Tam ekran kesintisi veya gözetimi yok.</string>
   <string name="notification_importance_high">Daima gözetle. Tam ekran kesintisi yok.</string>
@@ -2997,7 +2988,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="notification_listener_security_warning_summary">"%1$s;  kişi adları ve aldığınız mesaj metinleri gibi kişisel bilgileri içeren tüm bildirimleri okuyabilecektir. Ayrıca, bildirimleri kapatabilir veya içerdikleri eylem düğmelerini tetikleyebilir.  
 
 Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve ilgili ayarları değiştirmeyi de mümkün kılacaktır."</string>
-    <string name="notification_listener_security_warning_title">Allow notification access for %1$s?</string>
+    <string name="notification_listener_security_warning_title">%1$s bildirim erişimine izin verilsin mi?</string>
   <string name="notification_log_details_actions">eylemler</string>
   <string name="notification_log_details_ashmem">ashmem</string>
   <string name="notification_log_details_content_intent">niyet</string>
@@ -3045,7 +3036,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="notifications_hidden">Kilit ekranında değil</string>
   <string name="notifications_label">Bildirimler</string>
   <string name="notifications_no_peeking">Sıralama yok</string>
-  <string name="notifications_priority">Öncelik</string>
   <string name="notifications_sensitive">Hassas içerik gizlendi</string>
   <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
   <string name="notifications_two_items">%1$s / %2$s</string>
@@ -3162,8 +3152,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="passwordIncorrect">Girdiğiniz şifre hatalı</string>
   <string name="password_entrance_title">Ekran Kilidi</string>
   <string name="password_guard">Şifre</string>
-  <string name="password_turned_off_text">Şifre kapalı</string>
-  <string name="password_turned_on_text">Şifre açık</string>
   <string name="password_turned_off_text">Şifre kapatıldı</string>
   <string name="password_turned_on_text">Şifre açıldı</string>
   <string name="password_promotion_button_text">Mi Hesabı ekle</string>
@@ -3676,7 +3664,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="radio_info_asdiv_switch_label">ASDiv Durumu:</string>
   <string name="radio_info_band_mode_label">Frekans bandını seç</string>
   <string name="radio_info_call_redirect_label">Çağrı yeniden yönlendir:</string>
-  <string name="radio_info_call_status_label">Çağrı Durumu:</string>
   <string name="radio_info_call_status_label">Sesli Çağrı Durumu:</string>
   <string name="radio_info_cell_info_refresh_rate">Hücre Bilgisi Yenileme Hızı:</string>
   <string name="radio_info_cellinfo_label">Tüm Hücre Ölçüm Bilgisi:</string>
@@ -3733,7 +3720,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="remote_receive">Alıcı</string>
   <string name="remove_account_failed">Bu hesap bazı uygulamalara ihtiyaç duyar. Telefon içindeki Ayarlardan Geri Yükleme veya fabrika ayarlarından sıfırlanınca hesaplar kaldırılır. (Tabi tüm kişisel içeriklerde silinir.)</string>
   <string name="remove_account_label">Hesabı kaldır</string>
-  <string name="remove_device_admin">Devre dışı bırak</string>
   <string name="remove_and_uninstall_device_admin">Devre Dışı Bırak ve Kaldır</string>
   <string name="remove_device_admin">Bu cihaz yöneticisini devre dışı bırak</string>
   <string name="remove_from_frequently_fragment">Hızlı Ayarlardan %s kaldırılsın mı?</string>
@@ -3867,8 +3853,7 @@ Bu ayar telefondaki tüm kullanıcıları etkiler."</string>
   <string name="screen">Ekran</string>
   <string name="screen_button">Ekran Düğmeleri</string>
   <string name="screen_button_tips">Ekran düğmelerini gizlemek için aşağı kaydırın</string>
-  <string name="screen_cells_config_title">Home screen layout</string>
-    <string name="screen_cells_config_title">Ana Ekran Düzeni</string>
+  <string name="screen_cells_config_title">Ana Ekran Düzeni</string>
   <string name="screen_color_and_optimize">Renkler &amp; Karşıtlık</string>
   <string name="screen_color_and_optimize_disabled">"Okuma Modunda renk sıcaklığı ayarlanamaz"</string>
   <string name="screen_color_temperature">Renkler</string>
@@ -4241,7 +4226,6 @@ Satın alma işlemlerine ve uygulama erişimine izin vermek için parmakizinizi 
   <string name="security_settings_fingerprint_enroll_introduction_cancel">İptal</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Atla</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Devam</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">Telefonun kilidini açmak için parmakizi sensörüne dokunun bunun ödeme veya uygulama imzaları içinde yapabilirsiniz. Parmakizi kullanırken hangi parmakizini okuttuysanız onu kullanmaya dikkat edin.</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_warning">Not: Parmakizi güçlü bir desen ve PIN kodundan daha az güvenlidir.</string>
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Fazlasını öğren</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">PArmakizi ekle</string>
@@ -4918,7 +4902,6 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="tethering_help_dialog_title">Yardım</string>
   <string name="tethering_no_sim_alert_title">SIM Kart yok</string>
   <string name="tethering_no_sim_card_text">İnternet erişiminde Mobil Paylaşım veya USB Paylaşımı kullanarak veri bağlantınızı diğer cihazlarla paylaşmak için lütfen SIM kartı kurun.</string>
-  <string name="tethering_settings_not_available">İnternet paylaşım ayarları bu kullanıcı için geçerli değil</string>
   <string name="tethering_settings_not_available">Paylaşım ayarlarını İlk Alanda değiştirin</string>
   <string name="tethering_settings_summary">"Cihazınızın mobil veri bağlantısını USB veya Mobil Paylaşım ile paylaşın"</string>
   <string name="theme_settings_title">Temalar</string>
@@ -5111,7 +5094,6 @@ alıcı aygıtın açık olduğundan emin olun"</string>
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="turn_on_keyguard_password">Kilit Ekranının şifresini aç</string>
   <string name="turn_on_radio">Kablosuzu aç</string>
-  <string name="turn_on_keyguard_password">Ekran şifresini kilitle</string>
   <string name="turn_on_security_lock">Ekran kilidini seç</string>
   <string name="turn_on_wifi_dialog_text">"Mobil Paylaşım etkin olduğunda WLAN kapanır. WLAN'ı açmak için lütfen Mobil Paylaşımı kapatın.</string>
   <string name="turn_on_wifi_dialog_title">"Wi-Fi'yi aç"</string>
@@ -5618,7 +5600,6 @@ Ekle butonunu (+) kullanarak kelime ekleyin."</string>
   <string name="wifi_ap_choose_2G">2.4 GHz Bandı</string>
   <string name="wifi_ap_choose_5G">5 GHz Bandı</string>
   <string name="wifi_api_test">WLAN API</string>
-  <string name="wifi_assistant_card_message">Otomatik olarak bir Wi-Fi Yardımcısı ile mevcut ağlara bağlan.</string>
   <string name="wifi_assistant_no_thanks">Hayır, Teşekkürler</string>
   <string name="wifi_assistant_open_app">Uygulamayı Aç</string>
   <string name="wifi_assistant_card_message">Kullanılabilir ağlara WLAN Yardımcısı ile otomatik olarak bağlanın.</string>
@@ -5637,8 +5618,6 @@ Tanıtımı"</string>
   <string name="wifi_auto_connect_type_title">Otomatik bağlantı tipi</string>
   <string name="wifi_automatically_connect_summary">Wi-Fi Yardımcısı belirlenen ağa en yüksek kalitede otomatik olarak bağlanır</string>
   <string name="wifi_automatically_connect_title">"Wi-Fi'yi otomatik aç'ı kullan"</string>
-  <string name="wifi_automatically_manage_summary">Bir WLAN yardımcısının WLAN bağlantınızı yönetmesine izin verin</string>
-  <string name="wifi_automatically_manage_title">"WLAN'ı otomatik olarak yönet"</string>
   <string name="wifi_automatically_manage_summary">%1$s WLAN bağlantısını yönetmenizi sağlar</string>
   <string name="wifi_automatically_manage_title">WLAN Ağını otomatik yönet</string>
   <string name="wifi_available_title">WLAN ağına bağlan</string>
@@ -5708,7 +5687,6 @@ Tanıtımı"</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
   <string name="wifi_dns2_hint">8.8.4.4</string>
-  <string name="wifi_dont_skip">"Atlama"</string>
   <string name="wifi_do_not_provide_eap_user_cert">Verme</string>
   <string name="wifi_do_not_validate_eap_server">Doğrulama</string>
   <string name="wifi_do_not_validate_eap_server_warning">Belirtilen sertifika yok. Bağlantınız özel olmayacak.</string>
