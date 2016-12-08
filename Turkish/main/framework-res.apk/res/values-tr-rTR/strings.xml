@@ -318,7 +318,6 @@ kullanarak numarayı ara"</string>
   <string name="ext_media_unmounting_notification_title">%s çıkarma işlemi devam ediyor…</string>
   <string name="ext_media_unsupported_notification_message">Bu cihaz %s birimini desteklemiyor. Desteklenen bir biçimde kurmak için dokunun.</string>
   <string name="ext_media_unsupported_notification_title">%s desteklenmiyor</string>
-  <string name="extract_edit_menu_button">Düzenle</string>
   <string name="extmedia_format_button_format">Biçimlendir</string>
   <string name="extmedia_format_message">USB Depolamadaki dosyalarda saklanan tüm bilgiler silinir. Bu işlem geri alınamaz!</string>
   <string name="extmedia_format_title">USB Depolama biçimlendirilsin mi?</string>
@@ -388,7 +387,6 @@ kullanarak numarayı ara"</string>
   <string name="granularity_label_line">satır</string>
   <string name="granularity_label_link">bağlantı</string>
   <string name="granularity_label_word">kelime</string>
-  <string name="hardware">Donanım</string>
   <string name="hardware">Sanal klavyeyi göster</string>
   <string name="heavy_weight_notification">%1$s çalışıyor</string>
   <string name="heavy_weight_notification_detail">Uygulamaya geçiş yapmak için dokunun</string>
@@ -1272,7 +1270,6 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="share_remote_bugreport_notification_title">Hata raporu paylaşılsın mı?</string>
   <string name="shareactionprovider_share_with">Şununla paylaş:</string>
   <string name="shareactionprovider_share_with_application">%s ile paylaş</string>
-  <string name="show_ime">Giriş usulunu göster</string>
   <string name="sharing_remote_bugreport_notification_title">Hata raporu paylaşılıyor…</string>
   <string name="show_ime">Fiziksel klavye etkinken ekranda dursun</string>
   <string name="shutdown_confirm">Telefonunuz kapanacak.</string>
@@ -1421,7 +1418,6 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="usb_storage_title">USB bağlandı</string>
   <string name="usb_supplying_notification_title">"Bağlanan cihaz için USB'den güç sağlanıyor"</string>
   <string name="use_a_different_app">Farklı bir uygulama kullan</string>
-  <string name="user_owner_label">Kişisel</string>
   <string name="user_creation_account_exists">"%1$s'nin %2$s ile yeni bir kullanıcı oluşturmasına izin verilsin mi?"</string>
   <string name="user_creation_adding">"%1$s'nin %2$s ile yeni bir kullanıcı oluşturmasına izin verilsin mi? (Bu hesaba sahip bir kullanıcı zaten var) "</string>
   <string name="user_encrypted_detail">Kullanıcı verileri kilitlendi</string>
