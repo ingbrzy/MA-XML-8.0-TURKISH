@@ -84,6 +84,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="antivirus_choose_engine_disable_toast">"Tarama işlemi devam ederken tanımlar arasında geçiş yapamazsınız"</string>
   <string name="antivirus_choose_engine_settings">Virüs tanımı ayarları</string>
   <string name="antivirus_choose_engine_title">Tanımlar</string>
+  <string name="antivirus_choose_engine_update_disable_toast">"Güncelleme devam ederken tanımlar değiştirilemez"</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Riskli uygulamaları sil</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Virüsleri sil</string>
   <string name="antivirus_monitor_clean_tips">Silinen Öğeler: %s</string>
@@ -271,6 +272,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="btn_text_goto_setup">"Ayarlar'a git"</string>
   <string name="btn_text_network_speed_detail">Bağlantı</string>
   <string name="btn_text_open_now">Aç</string>
+  <string name="btn_text_optimize_extend_battery_time">%s ekle</string>
   <string name="btn_text_optimize_manually">Elle iyi hale getir</string>
   <string name="btn_text_optimize_now">İyi Hale Getir</string>
   <string name="btn_text_power_cleanup">Derin Temizlik</string>
@@ -381,12 +383,12 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="connecting">Bağlanıyor…</string>
   <string name="continue_install">Yükle</string>
   <string name="convenient_mode">Tüm uygulamaların kilidini birkez aç</string>
-  <string name="convenient_summary">"1 uygulamanın kilidini açıldıktan sonra şifre gerekmez"</string>
+  <string name="convenient_summary">"Tüm uygulamaların kilidini açmak için bir kez şifre girin"</string>
   <string name="correction_attention_dialog_message">Şimdi ayarlanıyor. İşlem bitene kadar bekleyin ve yeniden deneyin.</string>
   <string name="cta_button_text_agree">Tamam</string>
   <string name="cta_button_text_cancel">İptal</string>
   <string name="cta_checkbox_title">"Tekrar gösterme"</string>
-  <string name="cta_dialog_msg">Güvenlik normal şekilde çalışabilmek için internet bağlantısına ihtiyaç duyduğu gibi konuma erişmek te ister.</string>
+  <string name="cta_dialog_msg">Güvenlik; normal şekilde çalışabilmek için internet bağlantısına ihtiyaç duyduğu gibi konuma erişmek de ister.</string>
   <string name="cta_dialog_title">Hükümler ve Koşullar</string>
   <string name="cta_settings">İnternet bağlantısına izin ver</string>
   <string name="current_network_state_not_need_diagnose">İnternet bağlantısı normal.</string>
@@ -443,7 +445,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="datausage_purchase_title_order">Kontör</string>
   <string name="datausage_purchase_title_pkglist">Kontör</string>
   <string name="datausage_purchase_view_detail">Detaylara Bak</string>
-  <string name="declaration_dialog_msg">Bu özellik kullanımı durumunu izlemenize yardımcı olabilir, ancak ek ücretleri önlemek için garanti edilemez. En iyi sonuç için, muhafazakar bir sınır belirleyebilirsiniz.</string>
+  <string name="declaration_dialog_msg">Bu özelliğin kullanılması durumunda izlemenize yardımcı olabilir, ancak ek ücretleri önlemek için garanti edilemez. En iyi sonuç için, ideal bir sınır belirleyebilirsiniz.</string>
   <string name="deep_clean_disconnect_data_title">Cihaz kilitlendiğinde mobil veriyi kapat</string>
   <string name="deep_clean_memory_clean_title">Cihaz kilitlendiğinde önbelleğini temizle</string>
   <string name="deep_clean_never_memory_clean">Asla</string>
@@ -808,6 +810,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="modifypassword">Şifreyi değiştir</string>
   <string name="monitor_requests_from_pc">USB üzerinden uygulamaların yüklenmesini yönet</string>
   <string name="month_report_month_report_switch">Aylık rapor göster</string>
+  <string name="msg_update_error_code_success">Tamam</string>
+  <string name="msg_update_up">Gizle</string>
   <string name="network_assistant_upgraded_body">Ayrıntılarını görüntülemek için dokunun.</string>
   <string name="network_assistant_upgraded_title">Güncellendi</string>
   <string name="network_blocked_connected_open_wifi">Halka açık ağa bağlandı</string>
@@ -967,6 +971,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="path_securitycenter">Sistem Uygulamaları/Güvenlik</string>
   <string name="path_securitycenter_settings">Sistem Uygulamaları/Güvenlik</string>
   <string name="pay_charge">Ek veri satınal</string>
+  <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">USB Yoluyla Yükle</string>
   <string name="pc_to_phone_install">USB yoluyla %s yüklenmesi engellendi</string>
   <string name="per_month_pkg_traffic_settings">Veri limitini ayarla</string>
@@ -1015,7 +1020,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="power_btn_analyze">Pil kullanımını analiz et</string>
   <string name="power_button_delete">Sil</string>
   <string name="power_cell">Şebeke Beklemedeyken</string>
-  <string name="power_center_auto_shutdown">Aç/Kapat Zamanlaması</string>
+  <string name="power_center_auto_shutdown">Açma/Kapatma Zamanlaması</string>
   <string name="power_center_auto_shutdown_summary">Kapama veya yeniden açmak için zamanlama</string>
   <string name="power_center_battery_full">Pil tamamen şarj oldu</string>
   <string name="power_center_charge_time">Tam Doluma: %1$s</string>
@@ -1259,8 +1264,9 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_title_diagnostics_show_float_notification">Kayan Bildirimler</string>
   <string name="pref_title_lock_screen_memory_clean">Kilit ekranında temizle</string>
   <string name="pref_title_mobile_traffic">Kilitli iken veri kullanımı göster</string>
-  <string name="pref_title_network_diagnostics">Ağı Test Et</string>
-  <string name="pref_title_over_traffic_limit_warning">Limiti aşınca</string>
+  <string name="pref_title_manual_check_virus_db_update">Güncellemeleri kontrol et</string>
+  <string name="pref_title_network_diagnostics">Ağı test et</string>
+  <string name="pref_title_over_traffic_limit_warning">Limit Aşılınca</string>
   <string name="pref_title_traffic_limit_number">Boyut</string>
   <string name="pref_title_traffic_speed_state">Ağ hızını göster</string>
   <string name="pref_title_update_notification">Veri kullanım bildirimleri</string>
@@ -1302,6 +1308,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="preference_key_information_setting_close">key_information_setting_close</string>
   <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
   <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
+  <string name="preference_key_manual_update_virus_db">key_manual_update_virus_db</string>
   <string name="preference_key_module_antipam">module_antipam</string>
   <string name="preference_key_module_antivirus">key_module_antivirus</string>
   <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
@@ -1350,7 +1357,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="promotion">Reklam</string>
   <string name="prompt_input_time_illegal">"Bu sefer ayarlanamıyor, değiştirin ve yeniden deneyin"</string>
   <string name="protection_category_dangerous_title">Risk (%d)</string>
-  <string name="protection_category_recommend_title">Tavsiye edilen değişiklikler (%d)</string>
+  <string name="protection_category_recommend_title">Önerilen değişiklikler (%d)</string>
   <string name="protection_category_security_title">Temizle (%d)</string>
   <string name="protocol_exception_title">Ağ Protokol Teşhisi</string>
   <string name="protocol_loop_back_exception_summary">Yerel döngünün geri testi başarısız oldu. MIUI\'ye sorunu bildirmek için, Hata Raporla uygulamasına gidin ve cihazınızdan bir günlük gönderin.</string>
@@ -1361,6 +1368,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="quick_optimize_no_issue_subtitle">Herşey güzel gözüküyor</string>
   <string name="quick_optimize_no_issue_title">"Pil problemi bulunamadı"</string>
   <string name="quick_optimize_sub_summary_text">Pil ömrü için %s eklendi</string>
+  <string name="quick_optimize_suggest_battery_consume_too_fast">Telefon pili boşaltılıyor, düzelt</string>
+  <string name="quick_optimize_suggest_battery_over_heat">Telefon aşırı ısınmış, düzelt</string>
   <string name="reach_daily_limit_value_body">Mobil veri kullanımını azalt.</string>
   <string name="reach_daily_limit_value_body_open_traffic_saving">Veri tasarrufunu açmak için dokunun.</string>
   <string name="reach_daily_limit_value_title">Günlük veri sınırına ulaşıldı</string>
@@ -1368,9 +1377,9 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="read_unit">" makale"</string>
   <string name="recently_reject_message">%1$s ve %2$d uygulamanın yüklenmesi engellendi</string>
   <string name="recently_reject_message_one">%1$s yükleme isteği reddedildi</string>
-  <string name="recommend_app">Tavsiyeli Uygulamalar</string>
-  <string name="recommend_news">Tavsiyeli Kaynaklar</string>
-  <string name="recommended">Tavsiyeli</string>
+  <string name="recommend_app">Önerilen Uygulamalar</string>
+  <string name="recommend_news">Önerilen Kaynaklar</string>
+  <string name="recommended">Önerilen</string>
   <string name="reject_all">Tümünü Kısıtla</string>
   <string name="reject_countdown">Reddet (%d)</string>
   <string name="reject_usb_install">USB üzerinden aşağıdaki uygulamaların yüklenmesi engellendi</string>
@@ -1547,6 +1556,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="sp_toast_removed_from_sign_white_list">İstisnalar kaldırıldı. Öğe bir dahaki seferde taranır.</string>
   <string name="spinner_title">%1$s - Mobil Veri: %2$s</string>
   <string name="sponsored">Sponsor:</string>
+  <string name="sponsored_sec_fb">Sponsor: </string>
   <string name="st_title_mode_choose_group">Profil Seç</string>
   <string name="start_diagnostic_botton">Başlat</string>
   <string name="start_downloading_app">İndirme Başlangıcı: %1$s</string>
@@ -1738,7 +1748,7 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="title_garbage_lib">Çöp tanımlamalarını güncelle</string>
   <string name="title_install_virus_no">Yüklemeleri izleme kapalı</string>
   <string name="title_install_virus_yes">Yüklemeleri izleme açık</string>
-  <string name="title_limit_traffic_per_day">Günlük veri kullanım sınırı</string>
+  <string name="title_limit_traffic_per_day">Günlük Veri Kullanım Sınırı</string>
   <string name="title_live_talk_purchase">Kontür paketini aç</string>
   <string name="title_miui_update">Güncelleme mevcut</string>
   <string name="title_miui_update_no">MIUI güncellemesi bulundu: %s</string>
@@ -1927,8 +1937,8 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="usage_type_cpu_foreground">CPU Önplan</string>
   <string name="usage_type_data_recv">Mobil Veri Alımı</string>
   <string name="usage_type_data_send">Mobil Veri Gönderimi</string>
-  <string name="usage_type_data_wifi_recv">WLAN veri alındı</string>
-  <string name="usage_type_data_wifi_send">WLAN veri gönderildi</string>
+  <string name="usage_type_data_wifi_recv">WLAN paket alındı</string>
+  <string name="usage_type_data_wifi_send">WLAN paket gönderildi</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Sinyal olmadan geçen zaman</string>
   <string name="usage_type_on_time">Açık Kalma Süresi:</string>
@@ -1944,9 +1954,15 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="usbsharenet_exception_title">USB üzerinden internet paylaşım testi</string>
   <string name="usbsharenet_pc_exception_summary">"Paylaşılan USB bağlantısını kullanarak internete bağlanamıyor. Bilgisayarınızın internet bağlantısını kontrol edin."</string>
   <string name="use_immediately">Kullan</string>
+  <string name="virus_already_update">Tanımlar güncel</string>
+  <string name="virus_dp_update_title">Tanım güncellemeleri</string>
   <string name="virus_list_header_title">%d virüs tespit edildi</string>
   <string name="virus_scan">Virüs Tara</string>
   <string name="virus_scan_process_pre">%</string>
+  <string name="virus_update_fail">"Güncellenemedi"</string>
+  <string name="virus_update_success">Başarıyla güncellendi</string>
+  <string name="virus_update_tips_title">WLAN ağına bağlan</string>
+  <string name="virus_wait_network_dialog_message">"Güncellemeler büyük. İndirmek için WLAN'a bağlanın."</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">İzinli %2$s için %1$s açılsın mı?</string>
   <string name="warning_open_mi_sim">Mi SIM aç</string>
