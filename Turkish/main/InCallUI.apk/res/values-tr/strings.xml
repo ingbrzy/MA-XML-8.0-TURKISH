@@ -387,8 +387,9 @@ Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
   <string name="incall_error_power_off">Bir arama yapabilmek için öncelikle Uçak Modunu kapatın</string>
   <string name="incall_error_supp_service_conference">"Konferans aramaları yapamaz."</string>
   <string name="incall_error_supp_service_hangup">"Çağrı sonlandırılamıyor"</string>
+  <string name="incall_error_supp_service_hold">"Çağrı bekletilemiyor."</string>
   <string name="incall_error_supp_service_reject">"Çağrı reddedilemiyor."</string>
-  <string name="incall_error_supp_service_separate">Çağrı ayrılamıyor.</string>
+  <string name="incall_error_supp_service_separate">Çağrıdan ayrılamıyor.</string>
   <string name="incall_error_supp_service_switch">Çağrılar arasında geçiş yapılamıyor.</string>
   <string name="incall_error_supp_service_transfer">"Çağrı aktarılamıyor."</string>
   <string name="incall_error_supp_service_unknown">"Bu hizmet desteklenmiyor."</string>
@@ -397,11 +398,11 @@ Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
   <string name="incoming_answer_voice_text">Sesli cevap</string>
   <string name="incoming_call_forwarded_title">Gelen Aramaları Yönlendir</string>
   <string name="incoming_circle_text_answer">Serbest bırak</string>
-  <string name="incoming_circle_text_answer_p">Cevaplamak için kaydır ▲</string>
+  <string name="incoming_circle_text_answer_p">Cevaplamak için kaydır</string>
   <string name="incoming_circle_text_message">Serbest bırak</string>
-  <string name="incoming_circle_text_message_p">Cevaplamak için kaydır ▲</string>
+  <string name="incoming_circle_text_message_p">Cevaplamak için kaydır</string>
   <string name="incoming_circle_text_reject">Serbest bırak</string>
-  <string name="incoming_circle_text_reject_p">Reddetmek için kaydır ▲</string>
+  <string name="incoming_circle_text_reject_p">Reddetmek için kaydır</string>
   <string name="international_dialing_add_country_code" formatted="false">"%s numarası arama yaptığınız tespit edildi. Ülke kodu eklemek ister misiniz (+%s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code">"%1$s numarayı aradığınız tespit edildi, %2$s. Ülke kodunu ve alan kodu eklemek istiyor musunuz (+%3$s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code_without_prefix">Ülke kodunu ve alan kodu eklemek istiyor musunuz?</string>
@@ -520,7 +521,7 @@ Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
 Çağrı Yönlendirme"</string>
   <string name="mo_code_unconditional_cf_active">"Çağrı Yönlendirme
 koşulsuz etkinleştirildi"</string>
-  <string name="mobile_networks">Mobil Ağ Ayarları</string>
+  <string name="mobile_networks">Hücresel Ağ Ayarları</string>
   <string name="modem_switching">SIM kartı tamamlamak için yaklaşık 10 saniye sürer. Lütfen bekleyin...</string>
   <string name="modify_call_failure_str">"Başarısız çağrı isteğini değiştir
 "</string>
