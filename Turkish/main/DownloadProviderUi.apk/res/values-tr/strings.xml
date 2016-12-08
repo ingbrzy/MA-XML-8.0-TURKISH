@@ -5,12 +5,12 @@
   <string name="DOWNLOAD_UNIT_KB"> KB</string>
   <string name="DOWNLOAD_UNIT_MB"> MB</string>
   <string name="DOWNLOAD_UNIT_TB"> TB</string>
-  <string name="Only_the_wifi">Sadece WLAN Kullan</string>
+  <string name="Only_the_wifi">Sadece Wi-Fi Kullan</string>
   <string name="about">Hakkında</string>
   <string name="action_settings">Ayarlar</string>
   <string name="ad_mark">AD</string>
   <string name="ad_title">İnsanlar ayrıca %1$s ile bunu indirdi. </string>
-  <string name="ad_title_other">İnsanlar bu resmi de indirdi</string>
+  <string name="ad_title_other">Bu görüntüyü yükleyen kullanıcılar aynı zamanda şu ürünleri de yükledi:</string>
   <string name="add_flow_fail_haveget_msg">Deneme süresi doldu.</string>
   <string name="add_flow_fail_vip_msg">Xunlei İndirme Hızlandırıcısı açık</string>
   <string name="add_flow_success_msg">Bu ay %s eklendi</string>
@@ -70,7 +70,7 @@
   <string name="dialog_insufficient_space_on_external">İndirme tamamlanamıyor. Harici hafızada yeterli boş alan yok.</string>
   <string name="dialog_media_not_found">İndirme yapılamıyor. Harici depolama alanı kullanılamaz.</string>
   <string name="dialog_msg_disabled_net">Geçerli ağdaki indirmeler %1$s tarafından kısıtlandı. Güvenlik uygulamasına gitmek için Ağ ayarlarını dokunun.</string>
-  <string name="dialog_msg_recommend">"Kapattıktan sonra tavsiye edilen kaynaklar görüntülenmiyecek. \"WLAN ağına bağlanınca yükle\" seçeneğini seçip mobil veri tasarrufu sağlayabilirsiniz."</string>
+  <string name="dialog_msg_recommend">"Mevcut ağda %1$s kısıtlı yükleme var. Güvenlik uygulamasına gitmek için Ağ Ayarları'na dokunun."</string>
   <string name="dialog_queued_body">Bu dosya daha sonra indirilmek üzere sıraya alındı.</string>
   <string name="dialog_title_disabled_net">İnternet Erişimi</string>
   <string name="dialog_title_not_available">İndirme Hatası</string>
@@ -85,6 +85,7 @@
   <string name="download_complete">Tamam</string>
   <string name="download_detail">Detaylar</string>
   <string name="download_error">Başarısız</string>
+  <string name="download_error_download_file_not_exists">"Dosya yok"</string>
   <string name="download_error_insufficient_space">Yetersiz alan</string>
   <string name="download_filesize_unknown">Bilinmiyor</string>
   <string name="download_from">Kaynak:</string>
@@ -175,7 +176,7 @@
   <string name="hint">Dikkat</string>
   <string name="home_page_new_download_guide">Yeni indirilenler buraya</string>
   <string name="immediately_a_renewal">Şimdi Yenile</string>
-  <string name="info_flow_only_load_wifi">WLAN bağlandığında önerilen kaynakları yükle</string>
+  <string name="info_flow_only_load_wifi">"Wi-Fi'ye bağlandığında önerilen kaynakları yükle"</string>
   <string name="info_flow_setting">Ayarlar</string>
   <string name="info_flow_show">Önerilen Kaynaklar</string>
   <string name="input_valid_address">Dosya yolunu girin</string>
@@ -220,7 +221,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="notify_install_guide_msg">Başarıyla yüklendi</string>
   <string name="notify_install_guide_title">%s başarıyla yüklendi</string>
   <string name="notify_not_support">Bu tür bildirimler desteklenmez. Şimdi güncelle</string>
-  <string name="notify_only_wifi_download">WLAN için bekliyor</string>
+  <string name="notify_only_wifi_download">Wi-Fi için bekliyor</string>
   <string name="one_month">1 ay</string>
   <string name="only_support_torrent">Sadece torrent dosyaları desteklenir</string>
   <string name="open">Aç</string>
@@ -245,11 +246,11 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="period_of_validity">Geçerlilik:</string>
   <string name="pref_download_revert_default">Varsayılan</string>
   <string name="pref_download_settings_title">İndirme Boyutunun Sınırı</string>
-  <string name="pref_download_storage_path">İndirmeler için yeni bir klasör oluşturun</string>
+  <string name="pref_download_storage_path">İndirmeler için yeni bir klasör oluştur</string>
   <string name="pref_sniff_shortcut">Kısayol oluştur</string>
-  <string name="pref_summary_any_bytes_popup">Herzaman dosyaları indirmek için WLAN bağlantısını bekle</string>
+  <string name="pref_summary_any_bytes_popup">Herzaman dosyaları indirmek için Wi-Fi bağlantısını bekle</string>
   <string name="pref_summary_enable_max_bytes_popup">İçerik indirmek için mobil veri bağlantısı kullanırken açılır pencerede bildirim göster</string>
-  <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s\'i aşarsa WLAN\'i bekle</string>
+  <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s\'i aşarsa Wi-Fi\'yi bekle</string>
   <string name="pref_summary_no_limit_popup">Limitsiz</string>
   <string name="pref_title_enable_max_bytes_popup">Veri kullanım uyarısını göster</string>
   <string name="preferences_title">Ayarlar</string>
@@ -396,7 +397,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="title_homepage_infoflow">Geçmiş güncellemeler</string>
   <string name="title_tips">Dikkat</string>
   <string name="title_unbind_xunlei">Xunlei Hesabından kaldır</string>
-  <string name="toast_only_wifi_download">Bu öğeyi indirmek için WLAN ağına bağlanın</string>
+  <string name="toast_only_wifi_download">Bu öğeyi indirmek için Wi-Fi ağına bağlanın</string>
   <string name="toast_update_data_limit_fail">Ayarlama başarısız oldu</string>
   <string name="toast_xunlei_engine_open">Xunlei İndirme Hızlandırıcısı açıldı</string>
   <string name="torrent_file_error">"Bu torrent dosyası ayrıştırılamadı"</string>
