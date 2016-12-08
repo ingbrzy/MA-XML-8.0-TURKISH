@@ -1,9 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Shell</string>
-  <string name="bugreport_confirm">"Hata raporları, kişisel ve özel bilgiler dahil olmak üzere, sistemin çeşitli günlük dosyalarından veriler içerir. Sadece güvendiğiniz uygulamalarla güvendiğiniz kişilere hata raporlarını paylaşın."</string>
-  <string name="bugreport_confirm_repeat">Bu mesajı bir dahaki sefere göster</string>
-  <string name="bugreport_finished_text">Hata Raporunu paylaşmak için dokunun</string>
-  <string name="bugreport_finished_title">Hata raporu yakalandı</string>
+  <string name="bugreport_add_details_to_zip_failed">"Zip dosyasına hata raporu ayrıntıları eklenemedi"</string>
+  <string name="bugreport_confirm">"Hata raporları, hassas olduğunu düşündüğünüz verileri içerebilen (uygulama kullanımı ve konum verileri gibi) sistemin çeşitli günlük dosyalarından gelen verileri içerir. Hata raporlarını yalnızca güvendiğiniz kullanıcılar ve uygulamalarla paylaşın."</string>
+  <string name="bugreport_confirm_dont_repeat">"Tekrar gösterme"</string>
+  <string name="bugreport_finished_pending_screenshot_text">Hata raporunuzu bir ekran görüntüsü olmadan paylaşmak veya ekran görüntüsünün bitmesini beklemek için dokunun</string>
+  <string name="bugreport_finished_text">Hata raporunuzu paylaşmak için dokunun</string>
+  <string name="bugreport_finished_title">Hata raporunda #%d yakalandı</string>
+  <string name="bugreport_in_progress_title">Hata raporunda #%d üretildi</string>
+  <string name="bugreport_info_action">Detaylar</string>
+  <string name="bugreport_info_description">Hata Özeti</string>
+  <string name="bugreport_info_dialog_title">Hata raporunda #%d detaylar</string>
+  <string name="bugreport_info_name">Dosya Adı</string>
+  <string name="bugreport_info_title">Hat Başlığı</string>
+  <string name="bugreport_screenshot_action">Ekran Görüntüsü</string>
+  <string name="bugreport_screenshot_failed">Ekran görüntüsü alınamadı.</string>
+  <string name="bugreport_screenshot_taken">Ekran görüntüsü başarıyla alındı.</string>
   <string name="bugreport_storage_title">Hata Raporları</string>
+  <string name="bugreport_unnamed">isimsiz</string>
+  <string name="bugreport_unreadable_text">Hata rapor dosyası okunamadı</string>
+  <string name="bugreport_updating_title">Hata raporuna ayrıntı ekle</string>
+  <string name="bugreport_updating_wait">Lütfen bekleyin…</string>
+  <string name="save">Kaydet</string>
 </resources>
