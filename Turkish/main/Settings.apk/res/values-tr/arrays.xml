@@ -103,6 +103,21 @@
         <item>Este es un ejemplo de síntesis de voz en español.</item>
         <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
+    <string-array name="color_mode_names">
+        <item>Titreşimli (varsayılan)</item>
+        <item>Doğal</item>
+        <item>Standart</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Geliştirilmiş renkler</item>
+        <item>Gözle görülen doğal renkler</item>
+        <item>Dijital içerik için optimize edilmiş renkler</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>%0</item>
+        <item>%50</item>
+        <item>%100</item>
+    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Push düğmesi</item>
         <item>Emsal cihazdan PIN</item>
@@ -216,7 +231,8 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
-    </string-array>
+		<item>ICCID</item>
+     </string-array>
     <string-array name="app_install_location_entries">
         <item>Dahili Depolama</item>
         <item>Çıkartılabilir SD Kart</item>
@@ -280,11 +296,25 @@
         <item>yüksek güçte konum izleme</item>
         <item>kullanım istatistiklerini al</item>
         <item>mikrofon sesini açar-kapar</item>
+        <item>durumu göster</item>
         <item>medyayı yansıtır</item>
         <item>VPN açar</item>
         <item>duvar kağıdı yapar</item>
         <item>yapı yardımcısı</item>
         <item>ekran görüntüsü alma yardımcısı</item>
+        <item>telefon durumunu okur</item>
+        <item>add voicemail</item>
+        <item>sip kullanır</item>
+        <item>giden çağrıyı işler</item>
+        <item>parmakizi</item>
+        <item>vucüt sensörleri</item>
+        <item>hücresel yayını okur</item>
+        <item>sahte konum</item>
+        <item>depolamayı okur</item>
+        <item>depolamaya yazar</item>
+        <item>ekranı açar</item>
+        <item>hesap alır</item>
+        <item>arkaplanda çalışır</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Konum</item>
@@ -332,12 +362,26 @@
         <item>Konum</item>
         <item>Kullanım istatistiklerini al</item>
         <item>Mikrofonu Aç/Kapat</item>
+        <item>Durumu göster</item>
         <item>Medyayı Yansıt</item>
         <item>"VPN'i etkinleştir"</item>
         <item>Duvar Kağıdı</item>
         <item>Yapı Yardımcısı</item>
         <item>Ekran görüntüsü alma yardımcısı</item>
-     </string-array>
+		<item>Telefon Durumunu okur</item>
+        <item>Sesli mesaj ekler</item>
+        <item>SIP kullanır</item>
+        <item>Giden çağrıyı işler</item>
+        <item>Parmakizi</item>
+        <item>Vucüt Sensörleri</item>
+        <item>Hücresel yayını okur</item>
+        <item>Sahte Konum</item>
+        <item>Depolamayı okur</item>
+        <item>Depolamaya yazar</item>
+        <item>Ekranı açar</item>
+        <item>Hesapları alır</item>
+        <item>Arkaplanda çalışır</item>
+    </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Kısa</item>
         <item>Orta</item>
@@ -394,6 +438,7 @@
         <item>ART-Hata Ayıklama Kullan</item>
     </string-array>
 	<string-array name="select_logd_size_summaries">
+        <item>Kapalı</item>
         <item>64K başına günlük tampon</item>
         <item>256K başına günlük tampon</item>
         <item>1M başına günlük tampon</item>
@@ -409,6 +454,20 @@
         <item>Asla HDCP denetimi kullanma</item>
         <item>HDCP DRM içeriği yalnızca denetlenirken kullan</item>
         <item>Her zaman HDCP denetimi kullan</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Kapalı</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Kapalı</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animasyon kapalı</item>
@@ -572,15 +631,25 @@
         <item>Pembe</item>
         <item>Kırmızı</item>
     </string-array>
-     <string-array name="usb_configuration_titles">
-        <item>@string/usb_use_charging_only</item>
+    <string-array name="usb_configuration_titles">
+        <item>Şarj ediliyor</item>
         <item>MTP (Medya Transfer Protokolü)</item>
         <item>PTP (Resim Transfer Protokolü)</item>
         <item>RNDIS (USB Ethernet)</item>
         <item>Ses Kaynağı</item>
         <item>MIDI</item>
     </string-array>
+    <string-array name="cellcular2wifi_entries">
+        <item>Otomatik olarak bağlan</item>
+        <item>Elle bağlan</item>
+        <item>Daima sor</item>
+    </string-array>
     <string-array name="wifi_calling_mode_choices">
+        <item>Tercihen WLAN</item>
+        <item>Tercihen Hücresel</item>
+		<item>Sadece WLAN</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Tercihen WLAN</item>
         <item>Tercihen Hücresel</item>
     </string-array>
@@ -897,8 +966,8 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>1 dak</item>
     </string-array>
     <string-array name="screen_button_style">
-        <item>Sol el stili</item>
-        <item>Sağ el stili</item>
+        <item>Sol El Stili</item>
+        <item>Sağ El Stili</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Hergün</item>
