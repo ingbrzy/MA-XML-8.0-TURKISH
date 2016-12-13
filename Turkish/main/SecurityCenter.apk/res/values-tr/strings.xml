@@ -272,7 +272,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="btn_text_goto_setup">"Ayarlar'a git"</string>
   <string name="btn_text_network_speed_detail">Bağlantı</string>
   <string name="btn_text_open_now">Aç</string>
-  <string name="btn_text_optimize_extend_battery_time">%s ekle</string>
+  <string name="btn_text_optimize_extend_battery_time">"%s ekle"</string>
   <string name="btn_text_optimize_manually">Elle iyi hale getir</string>
   <string name="btn_text_optimize_now">İyi Hale Getir</string>
   <string name="btn_text_power_cleanup">Derin Temizlik</string>
@@ -1515,6 +1515,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="sim_location_error_notify_message">SIM konumunu değiştirmek için dokunun.</string>
   <string name="sim_location_error_notify_title">SIM kart hatası</string>
   <string name="sim_state_exception_summary">SIM durumunda SIM kart ile ilgili bilgiler yanlışta olabilir.</string>
+  <string name="skin_change_close_btn_text">Varsayılan arkaplan olarak ayarla</string>
+  <string name="skin_change_close_toast">Değişiklikler, bir sonraki Güvenlik başlatımı esnasında uygulanacak.</string>
   <string name="songs_number">18 şarkı</string>
   <string name="songs_unit">" şarkı"</string>
   <string name="sorted_button">Sırala</string>
