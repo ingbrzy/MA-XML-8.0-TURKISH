@@ -15,11 +15,11 @@
   <string name="activate_feature_register_xiaomi_account">Mi Hesap Kurulumu</string>
   <string name="activate_feature_remote_assist">Uzak Bağlantı Yardımcısı</string>
   <string name="activate_feature_verify_mx_token">Mi Hesap Doğrulaması</string>
-  <string name="activate_history_cancelled">İptal edildi</string>
-  <string name="activate_history_multisim_overview">SIM kart %3$d %1$s etkinleştir. Bu özellik \"%2$s\" ile tetiklenir.</string>
-  <string name="activate_history_overview">SIM kart %1$s etkinleştir. Bu özellik \"%2$s\"ile tetiklenir.</string>
+  <string name="activate_history_canceled_overview">SIM kart etkinleştirmesi iptal edildi. Etkinleştirme \"%1$s\" tarafından tetiklendi.</string>
+  <string name="activate_history_multisim_canceled_overview">SIM kart %2$d etkinleştirme iptal edildi. Etkinleştirme \"%1$s\" tarafından tetiklendi.</string>
+  <string name="activate_history_multisim_success_overview">SIM kart %2$d başarıyla etkinleştirildi. Etkinleştirme \"%1$s\" tarafından tetiklendi.</string>
   <string name="activate_history_sms">Bir SMS etkinleştirme esnasında gönderildi.</string>
-  <string name="activate_history_success">Başarılı</string>
+  <string name="activate_history_success_overview">SIM kart başarıyla etkinleştirildi. Etkinleştirme \"%1$s\" tarafından tetiklendi.</string>
   <string name="activate_history_title">SIM Kartı Etkinleştir</string>
   <string name="activate_phone_cancel_notif_title">SIM kart etkinleştirme iptal edildi</string>
   <string name="activate_phone_cancel_notif_title_msim">SIM kart %s etkinleştirme iptal edildi</string>
