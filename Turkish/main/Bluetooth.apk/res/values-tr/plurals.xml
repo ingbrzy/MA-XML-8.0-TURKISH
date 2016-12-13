@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
- <resources>
+<resources>
      <plurals name="noti_caption_unsuccessful">
          <item quantity="other">%1$d başarısız.</item>
          <item quantity="one">%1$d başarısız.</item>
@@ -8,4 +8,4 @@
          <item quantity="other">%1$d başarılı, %2$s</item>
          <item quantity="one">%1$d başarılı, %2$s</item>
     </plurals>
- </resources>
+</resources>
