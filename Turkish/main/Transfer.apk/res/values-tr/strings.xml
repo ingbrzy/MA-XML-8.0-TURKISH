@@ -24,8 +24,8 @@
   <string name="administrative_disable">Yönetici kapalı</string>
   <string name="administrative_enable">Yönetici etkin</string>
   <string name="advanced_settings">İsteğe Bağlı Ayarlar</string>
-  <string name="advanced_settings_hide">Tümünü gizlemek için dokunun ▼</string>
-  <string name="advanced_settings_show">Tümünü göstermek için dokunun ▲</string>
+  <string name="advanced_settings_hide">Tümünü gizlemek için dokunun</string>
+  <string name="advanced_settings_show">Tümünü göstermek için dokunun</string>
   <string name="advertisements_disable">Reklamlar devre dışı</string>
   <string name="advertisements_enable">Reklamlar etkin</string>
   <string name="agree_provision">Kabul ve Devam</string>
@@ -111,7 +111,7 @@
   <string name="callFailed_bearer_service_not_implemented"/>
   <string name="callFailed_call_rejected"/>
   <string name="callFailed_cb_enabled">"Engelleme açıkken giden çağrı yapılamaz."</string>
-  <string name="callFailed_cdma_activation">"Bu sim kartının hizmeti etkinleştirildi ve telefonun dolaşım kapasitesi güncellendi"</string>
+  <string name="callFailed_cdma_activation">"Bu SIM kartının hizmeti etkinleştirildi ve telefonun dolaşım kapasitesi güncellendi"</string>
   <string name="callFailed_channel_unacceptable"/>
   <string name="callFailed_conditional_IE_error"/>
   <string name="callFailed_congestion">Ağ meşgul</string>
@@ -332,9 +332,9 @@
   <string name="close">Kapat</string>
   <string name="close_dialog">Tamam</string>
   <string name="close_profile">Kapat</string>
-  <string name="cloud_antispam_title">Bilinmeyen numaraları tespit</string>
-  <string name="cmcc_ut_data_enable_prompt">"VoLTE ağını kullanarak bağlantı kurulamadı. Şimdi Mobil Veri bağlantısını aç."</string>
-  <string name="command_error_fdn_failure">Önce Sabit Arama Numarasını açmanız gerekiyor</string>
+  <string name="cloud_antispam_title">Bilinmeyen numaraların tespiti</string>
+  <string name="cmcc_ut_data_enable_prompt">"Bu hizmet mobil veri bağlantısı istiyor. Açıp, devam et."</string>
+  <string name="command_error_fdn_failure">Önce Sabit Arama Numarasını kapatmanız gerekiyor</string>
   <string name="common_problem_message">%1$s daha fazlasını öğrenin veya 400-100-5678 numaradan müşteri hizmetlerine ulaşın</string>
   <string name="common_setting">Genel Ayarlar</string>
   <string name="config_dialing_emergency_number_suffix"/>
@@ -433,8 +433,8 @@
   <string name="disable">Devre Dışı</string>
   <string name="disable_all_cf">Tüm çağrı yönlendirme özellikleri devre dışı</string>
   <string name="disable_cfb_forbidden">"Operatörünüz telefonunuz meşgul olduğunda çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor."</string>
-  <string name="disable_cfnrc_forbidden">"Operatörünüz telefonunuz ulaşılamadığında çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor."</string>
-  <string name="disable_cfnry_forbidden">"Operatörünüz cevapsız çağrıları yönlendirmeyi kapatmayı desteklemiyor."</string>
+  <string name="disable_cfnrc_forbidden">"Operatörünüz telefonunuza ulaşılamadığında çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor."</string>
+  <string name="disable_cfnry_forbidden">"Operatörünüz cevapsız çağrıları yönlendirmenin kapatılmasını desteklemiyor."</string>
   <string name="disable_fdn">Sabit Arama Numarası kapalı</string>
   <string name="disable_fdn_ok">Sabit Arama Numarası açık</string>
   <string name="disable_pin_ok">SIM PIN kapalı</string>
@@ -512,7 +512,7 @@
   <string name="end_call_because_can_not_hold">"Geçerli çağrı bitti çünkü beklenemezdi."</string>
   <string name="enhanced_4g_lte_mode_off_failed">"VoLTE kapatılamadı."</string>
   <string name="enhanced_4g_lte_mode_on_failed">"VoLTE açılamadı."</string>
-  <string name="enhanced_4g_lte_mode_summary">Ses ve diğer iletişimini geliştirmek için LTE hizmetlerini kullanın (tavsiye edilir)</string>
+  <string name="enhanced_4g_lte_mode_summary">Ses ve diğer iletişimi artırmak için LTE hizmetlerini kullanın (önerilir)</string>
   <string name="enhanced_4g_lte_mode_title">Gelişmiş 4G LTE Modu</string>
   <string name="ensure_info">Evet</string>
   <string name="enterName">Adı:</string>
@@ -547,7 +547,7 @@
   <string name="fdn">Sabit Arama Numarası</string>
   <string name="fdnListLabel">Sabit Arama Numarası Listesi</string>
   <string name="fdn_activation">Sabit Arama Numarası etkinleştir</string>
-  <string name="fdn_check_failure">"Telefonunuzun Sabit Arama Numaraları ayarı açıktır. Sonuç olarak, bazı aramayla ilgili özellikler çalışmıyor."</string>
+  <string name="fdn_check_failure">"Telefonun Sabit Arama Numarasının Ayarı açık durumda. Bu nedenle bazı arama özellikleri çalışmamaktadır"</string>
   <string name="fdn_contact_added">Sabit arama numarası eklendi.</string>
   <string name="fdn_contact_deleted">Sabit arama numarası silindi.</string>
   <string name="fdn_contact_name_number_invalid">İsim ve numara aynı anda boş olamaz.</string>
@@ -555,7 +555,7 @@
   <string name="fdn_contact_updated">Sabit arama numarası güncellendi.</string>
   <string name="fdn_contacts_empty">Sabit Arama Numara listesinde kişi yok</string>
   <string name="fdn_disabled">Sabit Arama Numaraları devre dışı</string>
-  <string name="fdn_enable_puk2_requested">Şifre yanlış, PIN2 bloke oldu. PIN2 kodunu değiştirin ve yeniden deneyin.</string>
+  <string name="fdn_enable_puk2_requested">Şifre yanlış, PIN2 engellendi. PIN2 kodunu değiştirin ve yeniden deneyin.</string>
   <string name="fdn_enabled">Sabit Arama Numaraları açık</string>
   <string name="fdn_errorcode_name_info">Başarısız, kişi adının çok uzun.</string>
   <string name="fdn_errorcode_number_info">Başarısız, iletişim numarası çok uzun.</string>
@@ -574,9 +574,9 @@
   <string name="femtocell_point_list_title">Femtocells</string>
   <string name="flash_when_ring_summary">Gelen aramalar için flaş bildirim ışığı</string>
   <string name="flash_when_ring_title">Zil Çalarken Flaş Bildirim Işığı</string>
-  <string name="fw_change_failed">"Yönlendirme numarasını değiştiremedi.
+  <string name="fw_change_failed">"Yönlendirme numarası değiştirilemedi.
 Bu sorun devam ederse operatörünüze danışın."</string>
-  <string name="fw_get_in_vm_failed">"Alma ve geçerli yönlendirme numarası ayarları kaydedilemedi.
+  <string name="fw_get_in_vm_failed">"Yönlendirme numarasının ayarları alınıp, kaydedilemedi.
 Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="general_news_settings">Genel Haberler</string>
   <string name="general_setting">Ayarlar</string>
@@ -620,11 +620,11 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="ims_vt_call_quality_title">Görüntülü Çağrı Kalitesi</string>
   <string name="ims_vt_call_quality_unknown">Bilinmiyor</string>
   <string name="in_search_femtocell_networks_wait_tip">Ara...</string>
-  <string name="incall_error_call_failed">Çağrı gönderilmedi.</string>
+  <string name="incall_error_call_failed">Çağrı yapılamadı.</string>
   <string name="incall_error_emergency_only">Ağa kayıtlı değil.</string>
   <string name="incall_error_missing_voicemail_number">Sesli mesaj numarası bilinmiyor.</string>
   <string name="incall_error_no_active_sim">"SIM kart etkinleştirilmedi"</string>
-  <string name="incall_error_no_phone_number_supplied">Çağrı gönderilmedi, geçerli numara girilmedi.</string>
+  <string name="incall_error_no_phone_number_supplied">Çağrı yapılamadı, geçerli numara girilmedi.</string>
   <string name="incall_error_out_of_service">Hücresel ağ mevcut değil.</string>
   <string name="incall_error_power_off">Bir arama yapmak için önce Uçak Modunu kapatın.</string>
   <string name="incall_error_sim_deactive">SIM kart pasif</string>
@@ -829,7 +829,7 @@ Kontör yükle ve konuşmaya başla"</string>
   <string name="mobile_data">"Mobil Veri: "</string>
   <string name="mobile_data_off">Kapalı</string>
   <string name="mobile_data_on">Açık</string>
-  <string name="mobile_network_settings_not_available">Hücresel ağ ayarları bu kullanıcı için geçerli değildir</string>
+  <string name="mobile_network_settings_not_available">Bu kullanıcı için hücresel ağ ayarları mevcut değil</string>
   <string name="mobile_networks">Hücresel Ağ Ayarları</string>
   <string name="msim_apn_not_set">Ayarlanamadı</string>
   <string name="msim_disable_sim_card_btn_text">Tamam</string>
@@ -855,8 +855,8 @@ Kontör yükle ve konuşmaya başla"</string>
   <string name="msim_setting_sim_info_editor_title">SIM bilgisini düzenle</string>
   <string name="msim_sim_lock">Kilitli</string>
   <string name="msim_sim_radio_off">Kapalı</string>
-  <string name="msim_switch_data_conn_toast">SIM kart değiştirildi. Ağ türü değişti. Ayarlar menüsünde SIM kartlar ve mobil ağlarda ek bilgileri görüntüleyin.</string>
-  <string name="msim_switch_data_conn_toast_for_h2xct">SIM yuvası 2 sadece GSM şebekeleri destekler. Bu yuva için tercih edilen ağ türü yalnızca 2G olarak değiştirildi.</string>
+  <string name="msim_switch_data_conn_toast">SIM kart değiştirildi. Ağ türü değişti. Ayarlar menüsünde SIM kartlar ve mobil ağlardan görüntüleyin.</string>
+  <string name="msim_switch_data_conn_toast_for_h2xct">SIM 2 yuvası sadece GSM şebekeleri destekler. Bu yuva için tercih edilen ağ türü yalnızca 2G olarak ayarlanmıştır.</string>
   <string name="multi_category_disable">Çoklu kategori devre dışı</string>
   <string name="multi_category_enable">Çoklu kategori etkin</string>
   <string name="multi_sim_settings_title">Çift SIM Ayarları</string>
@@ -1062,7 +1062,7 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="pin2_invalid">"Yanlış bir PIN girdiğiniz için Sabit Arama Numarası güncellenmedi."</string>
   <string name="pin2_invalid_or_name_is_too_long">Geçersiz bir PIN girdiğiniz veya girdiğiniz ad çok uzun.</string>
   <string name="pin2_lock_warning">"
-PIN2 ile ilgili fonksiyonlar başka bir başarısız denemeden sonra kilitlenecektir."</string>
+Bir sonraki başarısız girişimden sonra PIN2 ile ilgili fonksiyonlar kilitlenecek"</string>
   <string name="pin2_or_fdn_invalid">"Sabit Arama Numarası güncellenemedi. PIN2 hatalı veya telefon numarası reddedildi."</string>
   <string name="pin2_unblocked">PIN2 Kilidi açıldı!</string>
   <string name="pin_attempts">"
@@ -1071,7 +1071,7 @@ PIN2 ile ilgili fonksiyonlar başka bir başarısız denemeden sonra kilitlenece
   <string name="pin_failed">Girilen PIN hatalı.</string>
   <string name="pin_length_indicate">(4-8 basamaklı)</string>
   <string name="pin_lock_warning">"
-Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlenir"</string>
+Telefonunuz bir sonraki başarısız girişimden sonra otomatik olarak kilitlenecek"</string>
   <string name="pin_progress_change_pin">PIN değiştiriliyor...</string>
   <string name="pin_progress_change_pin2">PIN2 değiştiriliyor…</string>
   <string name="pin_progress_set_fdn_lock">Sabit Arama Numara kilidi ayarlanıyor…</string>
@@ -1163,11 +1163,11 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="puk_label">PUK2 kodunu girin</string>
   <string name="puk_length_indicate">(8 haneli)</string>
   <string name="puk_lock_warning">"
-SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
+SIM kartınız bir sonraki başarısız girişimden sonra kilitlenecek."</string>
   <string name="puk_requested">Şifre yanlış, PIN engellendi! PUK istendi.</string>
   <string name="puk_unlock_failed">PUK kilidi açılamadı.</string>
   <string name="puk_unlock_success">PUK kilidi başarıyla açıldı.</string>
-  <string name="puk_unlocked">SIM kartınız kilitlendi. Telefonunuz kilidi açılıyor ...</string>
+  <string name="puk_unlocked">SIM kartınızın kilidi kaldırıldı. Telefonunuz kilidi açılıyor ...</string>
   <string name="purchase">Satın Al</string>
   <string name="purchase_description_summary">"-  Dünyanın herhangi bir telefonu aramak için hiçbir operatör kısıtlaması yok.
 - Mevcut planla çatışmaz.
@@ -1181,7 +1181,7 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="purchase_summary">"%70'e varan tasarruf etmiş olursunuz"</string>
   <string name="query">Sorgula</string>
   <string name="quickly_verify">Doğrula</string>
-  <string name="radio_off_error">Bu ayarları görüntülemeden önce radyoyu açın.</string>
+  <string name="radio_off_error">Bu ayarları görüntülemeden önce telefonun şebeke sinyalini açın.</string>
   <string name="rc_unlock_failed">RUIM Kurumsal kilit açma isteği başarısız.</string>
   <string name="rc_unlock_success">RUIM Kurumsal kilit açma başarılı.</string>
   <string name="reading_settings">Ayarlar okunuyor…</string>
@@ -1259,7 +1259,7 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="roaming_enable">Dolaşımdayken veri hizmetlerine bağlan</string>
   <string name="roaming_notification_content">Daha uygun arama yapmak için otomatik olarak ülke kodlarını ekleyebilirsiniz.</string>
   <string name="roaming_notification_title">Dolaşım etkinleştirilmişe benziyor</string>
-  <string name="roaming_reenable_message">"Veri bağlantısını kaybettik çünkü dolaşımdayken ev ağı ilen olan bağlantı kapatıldı."</string>
+  <string name="roaming_reenable_message">"Veri dolaşımı kapalı olarak ev ağınızı terk ettiğiniz için bağlantınızı kaybettiniz."</string>
   <string name="roaming_warning">Veri dolaşımına izin verilsin mi? Bunun için ücret ödeyebilirsiniz!</string>
   <string name="rsp_unlock_failed">RUIM Hizmet Sağlayıcı kilit açma isteği başarısız</string>
   <string name="rsp_unlock_success">RUIM Hizmet Sağlayıcı kilid açma başarılı</string>
@@ -1353,8 +1353,8 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="sum_cfu_enabled">Tüm çağrılar şuraya yönlendiriliyor {0}</string>
   <string name="sum_cfu_enabled_indicator">Tüm aramalar yönlendiriliyor</string>
   <string name="sum_cfu_enabled_no_number">Numara kullanılamıyor</string>
-  <string name="sum_cw_disabled">Bir arama esnasında, gelen çağrıları bana bildir</string>
-  <string name="sum_cw_enabled">Bir arama esnasında, gelen çağrıları bana bildir</string>
+  <string name="sum_cw_disabled">Görüşme esnasında gelen aramaları bildirme</string>
+  <string name="sum_cw_enabled">Görüşme esnasında gelen aramaları bildir</string>
   <string name="sum_fdn">Sabit Arama Numaraları Yönet</string>
   <string name="sum_fdn_change_pin">Sabit Arama Numarası erişimi için PIN kodunu değiştir</string>
   <string name="sum_fdn_manage_list">Telefon numara listesini yönet</string>
@@ -1524,8 +1524,8 @@ Bu sorun devam ederse lütfen operatörünüze başvurun."</string>
   <string name="wifi_preferred">Wi-Fi Tercihli</string>
   <string name="wild_prompt_str">Joker karakteri değiştirin</string>
   <string name="wrong_password">Girdiğiniz şifre yanlış</string>
-  <string name="xdivert_button">X-Yönlendirme Ayarları</string>
-  <string name="xdivert_setting">X-Yönlendirme Ayarları</string>
+  <string name="xdivert_button">Akıllı-Yönlendirme Ayarları</string>
+  <string name="xdivert_setting">Akıllı-Yönlendirme Ayarları</string>
   <string name="xdivert_summary">CFNRc Ayarları</string>
-  <string name="xdivert_title">X-Yönlendirme</string>
+  <string name="xdivert_title">Akıllı-Yönlendirme</string>
 </resources>
