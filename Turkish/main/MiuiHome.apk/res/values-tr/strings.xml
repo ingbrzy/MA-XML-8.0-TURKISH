@@ -155,7 +155,7 @@
   <string name="invalid_contact_shortcut">Geçersiz kişi</string>
   <string name="is_setting_wallpaper_message">Duvar kağıdınız ayarlanıyor…</string>
   <string name="is_system_wallpaper_message">"Sistem kaynaklarını silinemiyor"</string>
-  <string name="launcher_not_exist">Ana Sayfa durdu, lütfen Ana Sayfaya dönüp, yeniden deneyin.</string>
+  <string name="launcher_not_exist">Bir hata oluştu, Ana Ekrana dönün ve tekrar deneyin.</string>
   <string name="like">Beğen</string>
   <string name="liked">Beğenildi</string>
   <string name="loading_desktop">Biraz bekleyin...</string>
@@ -223,6 +223,7 @@
   <string name="recommend_apps_switch_title">Promosyonlu Uygulamalar</string>
   <string name="recommend_apps_tips">"Bu özelliğin normal çalışması için internete bağlanması gerekiyor. Bu özelliği kapatmak için bu klasörün adına dokunun."</string>
   <string name="reset_scene_prompt">Ekran düzenini varsayılana sıfırlanır.</string>
+  <string name="screen_locked_toast">Ana Ekran düzeni kilitlendi</string>
   <string name="screen_number">%d ekranı</string>
   <string name="scroll_tip_format_when_announce_accessibility">%1$d sayfa, %2$d uygulama</string>
   <string name="select_all">Hepsi</string>
