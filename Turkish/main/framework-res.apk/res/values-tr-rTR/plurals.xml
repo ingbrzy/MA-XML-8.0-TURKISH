@@ -37,12 +37,12 @@
         <item quantity="one">%ds</item>
     </plurals>
     <plurals name="duration_days_shortest">
-        <item quantity="other">%dg</item>
-        <item quantity="one">%dg</item>
+        <item quantity="other">%dgün</item>
+        <item quantity="one">%dgün</item>
     </plurals>
     <plurals name="duration_years_shortest">
-        <item quantity="other">%dy</item>
-        <item quantity="one">%dy</item>
+        <item quantity="other">%dyıl</item>
+        <item quantity="one">%dyıl</item>
     </plurals>
     <plurals name="duration_minutes_shortest_future">
         <item quantity="other">%ddak içinde</item>
@@ -53,12 +53,12 @@
         <item quantity="one">%ds içinde</item>
     </plurals>
     <plurals name="duration_days_shortest_future">
-        <item quantity="other">%dg içinde</item>
-        <item quantity="one">%dg içinde</item>
+        <item quantity="other">%dgün içinde</item>
+        <item quantity="one">%dgün içinde</item>
     </plurals>
     <plurals name="duration_years_shortest_future">
-        <item quantity="other">%dy içinde</item>
-        <item quantity="one">%dy içinde</item>
+        <item quantity="other">%dyıl içinde</item>
+        <item quantity="one">%dyıl içinde</item>
     </plurals>
     <plurals name="duration_minutes_relative">
         <item quantity="other">%d dakika önce</item>
