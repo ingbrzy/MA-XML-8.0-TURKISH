@@ -72,6 +72,10 @@
         <item quantity="other">%d pil sorunu</item>
         <item quantity="one">%d pil sorunu</item>
     </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">%d pil sorunu bulundu, düzelt</item>
+        <item quantity="one">%d pil sorunu bulundu, düzelt</item>
+    </plurals>
     <plurals name="app_check_title_text">
         <item quantity="other">%d öğe iyi hale getirilebilir</item>
         <item quantity="one">%d öğe iyi hale getirilebilir</item>
