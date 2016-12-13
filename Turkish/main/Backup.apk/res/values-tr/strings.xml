@@ -158,9 +158,9 @@
   <string name="notif_restore_content">Kullanıcı verileri geri yükleniyor</string>
   <string name="notif_restore_title">Verileri geri yükle</string>
   <string name="notif_trans_receiving_completed">Veri başarıyla alındı</string>
-  <string name="notif_trans_receiving_failed">Veri alımı başarısız oldu</string>
+  <string name="notif_trans_receiving_failed">Veri alınamadı</string>
   <string name="notif_trans_sending_completed">Veri başarıyla gönderildi</string>
-  <string name="notif_trans_sending_failed">Veri gönderimi başarısız oldu</string>
+  <string name="notif_trans_sending_failed">Veri gönderilemedi</string>
   <string name="page_loading">Biraz bekleyin...</string>
   <string name="progress_backup_hint">Yedekleniyor...</string>
   <string name="progress_restore_hint">Geri Yükleniyor...</string>
