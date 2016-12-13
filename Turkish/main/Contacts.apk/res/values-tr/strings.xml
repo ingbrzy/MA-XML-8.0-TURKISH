@@ -671,7 +671,7 @@ Kartvizitler kapalı"</string>
   <string name="locale_change_in_progress">Kişi listesi değiştirilen dile uyarlandı.</string>
   <string name="login_before_recharging">Değişiklik yapabilmeniz için oturum açmanız gerekir.</string>
   <string name="login_ok">Oturum Aç</string>
-  <string name="low_memory_toast">"Depolama alanını azaldığından kullanmaya devam edemiyor."</string>
+  <string name="low_memory_toast">"Düşük bellek nedeniyle bu özelliği kullanamazsınız."</string>
   <string name="lunarBirthdayLabelsGroup">Ay takvimine göre doğum günü</string>
   <string name="lunar_calendar">Ay Takvimi</string>
   <string name="lunar_leap">Ayın turu</string>
@@ -1381,7 +1381,7 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="wipe_data">Veriyi temizle</string>
   <string name="yellowPageNavigationIconLabel">Sarı Sayfalar</string>
   <string name="yellowPageNavigationLabel">Sarı Sayfalar</string>
-  <string name="yellowpage_fc_toast">"Sarı Sayfalar çöktüğünden kullanmaya devam edemiyoruz."</string>
+  <string name="yellowpage_fc_toast">"Sarı sayfalar çöktüğünden bu özelliği kullanamazsınız."</string>
   <string name="yellowpage_mi_family">Mi Ailesi</string>
   <string name="yellowpage_navigation_ad_hint">Reklam</string>
   <string name="yellowpage_navigation_balance_refresh_failed">Bakiye ve mobil veri doğrulanamadı, daha sonra tekrar deneyin.</string>
