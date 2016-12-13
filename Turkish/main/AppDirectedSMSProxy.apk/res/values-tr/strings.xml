@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Motorola AppDirectedSmsProxy Service</string>
+  <string name="config_actionDirectedSMSReceived">verizon.intent.action.DIRECTED_SMS_RECEIVED</string>
+  <string name="config_adsPrefix">//VZW</string>
+  <string name="config_keyAppPrefix">com.verizon.directedAppSMS</string>
+  <string name="vvm_notification_call_action">Sesli Mesaj Çağrısı</string>
+  <string name="vvm_notification_content">"Sesli mesajı dinleyin veya Play Store'dan Görsel Sesli Mesaj'ı indirin."</string>
+  <string name="vvm_notification_install_action">Yükle</string>
+  <string name="vvm_notification_title">Yeni Sesli Mesajlar</string>
+</resources>
