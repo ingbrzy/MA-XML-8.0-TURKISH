@@ -32,7 +32,7 @@
   <string name="ads_score_title"/>
   <string name="alert_warning">Hava Durumu Uyarıları</string>
   <string name="already_voted">Oylandı</string>
-  <string name="already_voted_toast">Bugünü zaten seçtiniz</string>
+  <string name="already_voted_toast">Bugün zaten oy kullandın</string>
   <string name="app_name">Hava Durumu</string>
   <string name="app_version">Sürüm: %s</string>
   <string name="aqi_data_source">Caiyun Weather katkılarıyla</string>
@@ -137,8 +137,8 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="network_unavailable">"Ağa bağlanamadı."</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Tekrar deneyin</string>
-  <string name="no_vote_num">%1$speople | </string>
-  <string name="no_vote_ratio">Eksi %%%1$s</string>
+  <string name="no_vote_num">%1$s kişi | </string>
+  <string name="no_vote_ratio">Aleyhte: %%%1$s</string>
   <string name="open">Aç</string>
   <string name="open_browser">Tarayıcıda Aç</string>
   <string name="pressure_connect">%1$s hPa</string>
@@ -203,5 +203,5 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="wind_miles_unit">%1$s m/s</string>
   <string name="wind_unit">%1$skm/s</string>
   <string name="yes_vote_num"> | %1$s kişi</string>
-  <string name="yes_vote_ratio">artı %%%1$s</string>
+  <string name="yes_vote_ratio">Lehte %%%1$s</string>
 </resources>
