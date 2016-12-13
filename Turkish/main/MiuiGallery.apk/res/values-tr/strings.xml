@@ -681,7 +681,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="menu_item_sort_size_desc">Boyutu (Artan)</string>
   <string name="menu_view_contact">Kişiyi Görüntüle</string>
   <string name="merge_album">Birleştir</string>
-  <string name="merge_album_title">Albümleri Birleştir</string>
+  <string name="merge_album_title">Bu kişiyle birleştir</string>
   <string name="message_no_delete_access">%s silmek için yetkiniz yok</string>
   <string name="messagelist_sender_self">Ben</string>
   <string name="micloud_introduce">Fotoğraf ve Videoları otomatik yedekle (Mi Hesabı gerekli)</string>
@@ -779,6 +779,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="operation_move_to_other_albums">Diğer albümlere taşı</string>
   <string name="operation_not_show_in_photos_tab">Fotoğraflarda görünmüyor</string>
   <string name="operation_projection">Yansıt</string>
+  <string name="operation_remove_face">Kaldır</string>
   <string name="operation_refresh">Güncelle</string>
   <string name="operation_remove_from_face_album">Albümden kaldır</string>
   <string name="operation_remove_from_face_album_button">Kaldır</string>
@@ -911,6 +912,9 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="relation_with_you">Sizinle bir ilişkisini seçin</string>
   <string name="release_space_finish_format">Yerel depolamadaki %s serbest bırakıldı</string>
   <string name="remind_face_recommend_confirm">Onayla</string>
+  <string name="remove_from_album_message">Bu fotoğraf artık burada gösterilmeyecek</string>
+  <string name="remove_from_album_title">Geçerli albümden kaldır</string>
+  <string name="remove_from_current_album">Bu albümden kaldır</string>
   <string name="remind_shows_in_photo_tab_summary">Ana sayfada bu albümü göster?</string>
   <string name="remind_shows_in_photo_tab_title">Albümü ayarla</string>
   <string name="remove_from_other_albums_tip">Listedeki diğer albüm kaldırıldığında Mi Bulut eşitlemesinde de kaldırılır. Albüm kaldırılsın mı?</string>
@@ -919,6 +923,8 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="remove_from_secret_failed_with_reason">"Gizli albümden kaldırılamadı. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s öğeleri gizli albümden kaldırılamaz. %1$s."</string>
   <string name="remove_from_secret_successful">Gizli albümden kaldırıldı</string>
+  <string name="remove_to_album_title">Birleştir:</string>
+  <string name="remove_to_other_album">Farklı biriyle birleştir</string>
   <string name="remove_from_secret_successfully_message">Gizli albümden kaldır</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s öğe gizli albümden kaldırılamadı</string>
   <string name="remove_hidden_album">Albümü göster</string>
