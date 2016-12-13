@@ -17,7 +17,7 @@ Eğer yedeklemeyi siz talep etmediyseniz, işlem devam edemez."</string>
   <string name="restore_confirm_text">"Bağlı bilgisayardan tüm veriler için tam bir geri yükleme isteği alındı. Bu işleme izin veriyor musunuz?
 
 Eğer bu işlemi siz talep etmediyseniz, işlemin devam etmesine izin verilmez. Bu işlem cihazdaki verilerin yerini alır!"</string>
-  <string name="restore_confirm_title">Tam Geri Yükle</string>
+  <string name="restore_confirm_title">Tamamını Geri Yükle</string>
   <string name="restore_enc_password_text">Eğer geri yükleme verileri şifreli ise lütfen şifrenizi girin:</string>
   <string name="toast_backup_ended">Yedek tamamlandı</string>
   <string name="toast_backup_started">Yedekleniyor...</string>
