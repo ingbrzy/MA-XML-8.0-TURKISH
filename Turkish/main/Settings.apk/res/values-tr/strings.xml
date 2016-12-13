@@ -1713,7 +1713,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="enforce_read_external_confirm_title">USB Kart korunsun mu?</string>
   <string name="enforce_read_external_summary">Uygulamaların USB Kart okuma izni istemesi gerekir</string>
   <string name="enforce_read_external_title">USB Kartı Koru</string>
-  <string name="enhanced_4g_lte_mode_summary">Gelişmiş ses ve iletişim için LTE veri kullan (Tavsiyeli)</string>
+  <string name="enhanced_4g_lte_mode_summary">Ses ve diğer iletişimi artırmak için LTE hizmetlerini kullanın (önerilir)</string>
   <string name="enhanced_4g_lte_mode_title">Gelişmiş 4G LTE Modu</string>
   <string name="enter_password">Android\'i başlatmak için şifrenizi girin</string>
   <string name="enter_pattern">Android\'i başlatmak için deseninizi çizin</string>
@@ -3813,7 +3813,7 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="roaming">Veri Dolaşımı</string>
   <string name="roaming_disable">Dolaşımda veri hizmetlerine bağlan</string>
   <string name="roaming_enable">Dolaşımdayken mobil veri kullan</string>
-  <string name="roaming_reenable_message">Veri bağlantısını kaybettiniz çünkü ana ağınızdaki veri dolaşımı kapatıldı.</string>
+  <string name="roaming_reenable_message">Veri dolaşımı kapalı olarak ev ağınızı terk ettiğiniz için bağlantınızı kaybettiniz.</string>
   <string name="roaming_reenable_title">Veri dolaşımına izin verilsin mi?</string>
   <string name="roaming_turn_it_on_button">Açın</string>
   <string name="roaming_warning">Kayda değer dolaşım ücreti ödeyebilirsiniz!</string>
