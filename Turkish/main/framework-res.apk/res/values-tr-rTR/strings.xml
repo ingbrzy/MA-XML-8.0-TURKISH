@@ -159,7 +159,11 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="chooser_wallpaper">Duvar kağıdını değiştir</string>
   <string name="clearDefaultHintMsg">Sistem Ayarları &gt; Uygulamalar &gt; İndirilen bölümünden varsayılanı temizleyin.</string>
   <string name="close_button_text">Kapat</string>
+  <string name="common_last_name_prefixes"/>
   <string name="common_name">Ortak Ad:</string>
+  <string name="common_name_conjunctions"/>
+  <string name="common_name_prefixes"/>
+  <string name="common_name_suffixes"/>
   <string name="condition_provider_service_binding_label">Durum Sağlayıcı</string>
   <string name="configure_input_methods">Klavyeyi Seç</string>
   <string name="contentServiceSync">Eşitle</string>
@@ -190,6 +194,7 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="data_usage_warning_title">Veri Kullanım Uyarısı</string>
   <string name="data_usage_wifi_limit_snoozed_title">WLAN veri limiti aşıldı</string>
   <string name="data_usage_wifi_limit_title">WLAN verisi kapatıldı</string>
+  <string name="date_and_time" formatted="false">%d %b %Y %H:%M:%S</string>
   <string name="date_picker_decrement_day_button">Günü azalt</string>
   <string name="date_picker_decrement_month_button">Ayı azalt</string>
   <string name="date_picker_decrement_year_button">Yılı azalt</string>
@@ -213,6 +218,7 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="default_audio_route_name">Telefon</string>
   <string name="default_audio_route_name_dock_speakers">Yuva Hoparlörleri</string>
   <string name="default_audio_route_name_headphones">Kulaklıklar</string>
+  <string name="default_browser"/>
   <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Sil</string>
   <string name="deleteText">Sil</string>
@@ -387,6 +393,7 @@ kullanarak numarayı ara"</string>
   <string name="granularity_label_line">satır</string>
   <string name="granularity_label_link">bağlantı</string>
   <string name="granularity_label_word">kelime</string>
+  <string name="gsm_alphabet_default_charset"/>
   <string name="hardware">Sanal klavyeyi göster</string>
   <string name="heavy_weight_notification">%1$s çalışıyor</string>
   <string name="heavy_weight_notification_detail">Uygulamaya geçiş yapmak için dokunun</string>
@@ -414,6 +421,7 @@ kullanarak numarayı ara"</string>
   <string name="httpErrorTooManyRequests">Çok fazla sayıda istek işleniyor. Daha sonra yeniden deneyin.</string>
   <string name="httpErrorUnsupportedAuthScheme">Site kimlik doğrulama şeması desteklenmiyor.</string>
   <string name="httpErrorUnsupportedScheme">Protokol desteklenmiyor.</string>
+  <string name="icu_abbrev_wday_month_day_no_year">dMMMMeee</string>
   <string name="imProtocolAim">AIM</string>
   <string name="imProtocolCustom">Özel</string>
   <string name="imProtocolGoogleTalk">Hangouts</string>
@@ -1221,7 +1229,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="screen_lock">Ekran Kilidi</string>
   <string name="search_go">Ara</string>
   <string name="search_hint">Ara…</string>
-  <string name="search_language_hint">Dil adı yazın</string>
+  <string name="search_language_hint">Dil adını yazın</string>
   <string name="searchview_description_clear">Sorguyu temizle</string>
   <string name="searchview_description_query">Arama sorgusu</string>
   <string name="searchview_description_search">Ara</string>
@@ -1294,13 +1302,13 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="sms_control_no">Reddet</string>
   <string name="sms_control_title">SMS mesajları gönderiliyor</string>
   <string name="sms_control_yes">İzin ver</string>
-  <string name="sms_premium_short_code_details">Bu i&amp;#351;lem, mobil hesab&amp;#305;n&amp;#305;zdan &amp;#246;deme al&amp;#305;nmas&amp;#305;na neden olacak.</string>
+  <string name="sms_premium_short_code_details">Bu işlem, mobil hesabınızdan ödeme alınmasına neden olacak.</string>
   <string name="sms_short_code_confirm_allow">Gönder</string>
   <string name="sms_short_code_confirm_always_allow">Daima izin ver</string>
   <string name="sms_short_code_confirm_deny">İptal</string>
   <string name="sms_short_code_confirm_message">%1$s, %2$s adresine bir mesaj göndermek istiyor.</string>
   <string name="sms_short_code_confirm_never_allow">İzin Verme</string>
-  <string name="sms_short_code_details">Bu işlem, mobil hesabınızdan &amp;#246;deme al&amp;#305;nmas&amp;#305;na neden olabilir.</string>
+  <string name="sms_short_code_details">Bu işlem, mobil hesabınızdan ödeme alınmasına neden olabilir.</string>
   <string name="sms_short_code_remember_choice">Seçimimi hatırla</string>
   <string name="sms_short_code_remember_undo_instruction">"Bu ayarı daha sonra Ayarlar &gt; Uygulamalar'dan değiştirebilirsiniz."</string>
   <string name="smv_application">%1$s uygulaması (%2$s işlemi) kendiliğinden uyguladığı StrictMode politikasını ihlal etti.</string>
