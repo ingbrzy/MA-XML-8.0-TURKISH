@@ -328,4 +328,16 @@
         <item quantity="other">• &lt;font color=#fc7050>%1$s&lt;/font> takipçi var!</item>
         <item quantity="one">• &lt;font color=#fc7050>%1$s&lt;/font> takipçi var!</item>
     </plurals>
+	<plurals name="video_like_num">
+        <item quantity="other">%1$s beğendi</item>
+        <item quantity="one">%1$s beğendi</item>
+    </plurals>
+    <plurals name="gems">
+        <item quantity="other">%1$s mücevher</item>
+        <item quantity="one">%1$s mücevher</item>
+    </plurals>
+    <plurals name="more_gems">
+        <item quantity="other">Şansınızı arttırmak için &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> daha fazla mücevher toplayın</item>
+        <item quantity="one">Şansınızı arttırmak için &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> daha fazla mücevher toplayın</item>
+    </plurals>
 </resources>
