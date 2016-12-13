@@ -3,10 +3,10 @@
   <string name="close_dialog">Tamam</string>
   <string name="error_updating_title">Çağrı Ayarları hatası</string>
   <string name="exception_error">Ağ veya SIM kart hatası.</string>
-  <string name="fdn_check_failure">"Telefon uygulamasının Sabit Arama Numaralar ayarları açıldı. Sonuç olarak, bazı aramayla ilgili özellikler çalışmıyor."</string>
+  <string name="fdn_check_failure">"Telefonun Sabit Arama Numarasının Ayarı açık durumda. Bu nedenle bazı arama özellikleri çalışmamaktadır"</string>
   <string name="phone_numbers">Telefon Numarasını girin</string>
   <string name="proceed">İlerledi</string>
-  <string name="radio_off_error">Bu ayarları görüntülemeden önce radyoyu açın</string>
+  <string name="radio_off_error">Bu ayarları görüntülemeden önce telefonun şebeke sinyalini açın.</string>
   <string name="reading_settings">Ayarlar okunuyor...</string>
   <string name="response_error">Ağdan beklenmeyen cevap.</string>
   <string name="reverting_settings">Ayarlara dönülüyor</string>
