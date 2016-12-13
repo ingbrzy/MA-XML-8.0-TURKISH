@@ -210,7 +210,7 @@
   <string name="copy_number">Telefon numarasını kopyala</string>
   <string name="custom_message_cancel">İptal</string>
   <string name="custom_message_send">Gönder</string>
-  <string name="data_enable_summary">Mobil ağ üzerinden veri erişimini etkinleştir</string>
+  <string name="data_enable_summary">Bu cihazın mobil veri kullanmasına izin ver</string>
   <string name="data_enabled">Veri etkin</string>
   <string name="deactivate_all">Tümünü iptal</string>
   <string name="default_area_code_setting">Varsayılan Alan Kodu</string>
@@ -253,7 +253,7 @@
   <string name="disable">Devre dışı</string>
   <string name="disable_cfb_forbidden">"Operatörünüz telefonunuz meşgul olduğunda çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor."</string>
   <string name="disable_cfnrc_forbidden">"Operatörünüz telefonunuza ulaşılamadığında çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor."</string>
-  <string name="disable_cfnry_forbidden">"Operatörünüz telefonunuza cevap vermediğinde çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor."</string>
+  <string name="disable_cfnry_forbidden">"Operatörünüz cevapsız çağrıları yönlendirmenin kapatılmasını desteklemiyor."</string>
   <string name="disable_data_connection_msg"> Tüm kullanılabilir ağlar için arama kullanımda olduğunda veri bağlantısı kesilecek. Devam etmek istiyor musun?</string>
   <string name="disable_fdn">Arama Yönlendirme devre dışı</string>
   <string name="disable_fdn_ok">Arama Yönlendirme etkin</string>
@@ -335,7 +335,7 @@
   <string name="ext_media_badremoval_notification_title">SD kart beklenmedik bir şekilde kaldırıldı</string>
   <string name="fdn">Sabit Arama Numaraları</string>
   <string name="fdn_activation">FDN\'yi etkinleştir</string>
-  <string name="fdn_check_failure">"Telefon uygulamanızın sabit arama numaraları ayarı açık durumda. Bu nedenle bazı arama özellikleri çalışmamaktadır"</string>
+  <string name="fdn_check_failure">"Telefonun Sabit Arama Numarasının Ayarı açık durumda. Bu nedenle bazı arama özellikleri çalışmamaktadır"</string>
   <string name="fdn_contact_added">Sabit arama numarası eklendi</string>
   <string name="fdn_contact_deleted">Sabit arama numarası silindi</string>
   <string name="fdn_contact_name_number_invalid">İsim ve numara aynı anda boş olamaz.</string>
@@ -356,9 +356,9 @@
   <string name="fraud_call_answer">Cevapla</string>
   <string name="fraud_call_decline">Reddet</string>
   <string name="fraud_call_waring">Dikkatli olun: Şahsı bilgileri içeren mesajlar göndermeden önce gönderdiğiniz kişinin kimliğini: telefon veya video ile tekrardan doğrulayın.</string>
-  <string name="fw_change_failed">"Yönlendirilen numara değiştirilemiyor
+  <string name="fw_change_failed">"Yönlendirme numarası değiştirilemedi.
 Problem devam ederse operatörünüz ile iletişime geçin"</string>
-  <string name="fw_get_in_vm_failed">"Şu anki numara ayarları alınamıyor ve kayıt edilemiyor
+  <string name="fw_get_in_vm_failed">"Yönlendirme numarasının ayarları alınıp, kaydedilemedi.
 Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
   <string name="gemini_3g_disable_warning_case0">Önce bu SIM karttaki veri dolaşımını etkinleştirmek gerekir. Veri dolaşımını ve bu SIM kartı etkinleştrimek istediğinizden emin misiniz?</string>
   <string name="gemini_3g_disable_warning_case1">3G hizmeti bu seçilmiş SIM ile kullanılamaz. Bu veriler daha yavaş yükleyebilirsiniz. 3G hizmet ayarlarını Ayarlar &gt; Kablosuz &amp; Ağlar &gt; altındaki Mobil Ağlardan değiştirebilirsiniz. Bu SIM kartı seçtiğinizden emin misiniz?</string>
@@ -380,9 +380,9 @@ Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
   <string name="importingSimContacts">SIM karttaki kişiler içe aktarılıyor...</string>
   <string name="inCallLabel">InCallUI</string>
   <string name="incall_call_type_label_sip">İnternetten Ara</string>
-  <string name="incall_error_call_failed">Arama gönderilemedi</string>
+  <string name="incall_error_call_failed">Arama yapılamadı</string>
   <string name="incall_error_emergency_only">Ağa kayıtlı değil</string>
-  <string name="incall_error_no_phone_number_supplied">Arama gönderilemedi. Girilen numara geçersiz</string>
+  <string name="incall_error_no_phone_number_supplied">Arama yapılamadı. Girilen numara geçersiz</string>
   <string name="incall_error_out_of_service">Mobil ağ kullanılamıyor.</string>
   <string name="incall_error_power_off">Bir arama yapabilmek için öncelikle Uçak Modunu kapatın</string>
   <string name="incall_error_supp_service_conference">"Konferans aramaları yapamaz."</string>
@@ -781,7 +781,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="puk_requested">Şifre hatalı. SIM kart kilitlendi! PUK2 kodu gerekiyor.</string>
   <string name="puk_unlocked">SIM kartınızın engeli kaldırılmıştır. Telefon kilidi açılıyor...</string>
   <string name="purchase_now">Kontör</string>
-  <string name="radio_off_error">Bu ayarları görüntülemeden önce telefonun radyo sinyalini açın.</string>
+  <string name="radio_off_error">Bu ayarları görüntülemeden önce telefonun şebeke sinyalini açın.</string>
   <string name="reading_settings">Ayarlar okunuyor...</string>
   <string name="regional_disable">Bölgesel haberler devre dışı bırakıldı</string>
   <string name="regional_enable">Bölgesel Haberler etkinleştirildi</string>
@@ -828,7 +828,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="roaming">Veri Dolaşımı</string>
   <string name="roaming_disable">Dolaşım esnasında veri hizmetlerine bağlan</string>
   <string name="roaming_enable">Dolaşım esnasında veri hizmetlerine bağlan</string>
-  <string name="roaming_reenable_message">"Ev ağı ile veri dolaşımı kapalı olduğundan veri bağlantısını kaybettiniz."</string>
+  <string name="roaming_reenable_message">"Veri dolaşımı kapalı olarak ev ağınızı terk ettiğiniz için bağlantınızı kaybettiniz."</string>
   <string name="roaming_warning">Veri dolaşımına izin verilsin mi? Önemli miktarda dolaşım ücretleri ödeyebilirsin!</string>
   <string name="save">Kaydet</string>
   <string name="saving_account">Hesap kaydediliyor...</string>
@@ -906,7 +906,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="sum_cfu_enabled">Bütün aramalar {0} numarasına yönlendiriliyor</string>
   <string name="sum_cfu_enabled_indicator">Bütün aramalar yönlendiriliyor</string>
   <string name="sum_cfu_enabled_no_number">Numara kullanılamıyor</string>
-  <string name="sum_cw_disabled">Görüşme esnasında gelen aramaları bildir</string>
+  <string name="sum_cw_disabled">Görüşme esnasında gelen aramaları bildirme</string>
   <string name="sum_cw_enabled">Görüşme esnasında gelen aramaları bildir</string>
   <string name="sum_fdn">Sabit Arama Numaralarını Yönet</string>
   <string name="sum_fdn_change_pin">FDN erişimi için PIN kodunu değiştir</string>
@@ -961,7 +961,7 @@ Sonraki dönem %2$d gün sonra başlayacak (%3$s)"</string>
   <string name="username_title">Kullanıcı Adı</string>
   <string name="vibrate_on_ring_title">Çaldığında titret</string>
   <string name="video_call">Görüntülü Çağrı</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Önce TTY modunu kapatın</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Görüntülü arama yapmak için TTY Modunu kapatın.</string>
   <string name="video_switch_to_voice_call_prompt">Sesli çağrıyı değiştir</string>
   <string name="vm_change_failed">"Sesli mesaj numarası değiştirilemedi.
 Bu sorun devam ederse operatörünüze danışın."</string>
