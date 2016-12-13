@@ -222,7 +222,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="debug_monitoring_category">İzleniyor</string>
   <string name="debug_networking_category">Ağ oluşturuluyor</string>
   <string name="debug_view_attributes">Görünüm özellik incelemesini etkinleştir</string>
-  <string name="default_permission_description">Bilinmeyen bir eylemi gerçekleşti</string>
   <string name="dev_settings_warning_message">Bu ayarlar geliştirme kullanımı için tasarlanmıştır. Bunlar cihazınızın ve üzerindeki uygulamaların zararlı veya hatalı çalışmasına neden olabilir.</string>
   <string name="dev_settings_warning_title">Geliştirici seçeneklerine izin verilsin mi?</string>
   <string name="development_settings_enable">Geliştirici seçeneklerini etkinleştir</string>
@@ -310,8 +309,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="incoming_call_failed_low_battery">Gelen Çağrı düşük pil nedeniyle başarısız oldu</string>
   <string name="keep_screen_on">Uyanık kal</string>
   <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyumaz</string>
-  <string name="launch_defaults_none">Varsayılan ayarlanmadı</string>
-  <string name="launch_defaults_some">Bazı varsayılanlar ayarlanır</string>
   <string name="incall_error_missing_voicemail_number">Bilinmeyen sesli mesaj numarası.</string>
   <string name="incall_error_supp_service_conference">Konferans görüşmesi yapılamıyor.</string>
   <string name="incall_error_supp_service_hangup">Çağrı serbest bırakılamıyor.</string>
@@ -437,7 +434,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="screen_overlay_message">Bu izin ayarını değiştirmek için, önce Ayarlar altındaki Uygulamalardan; Ekran Bindirmesi özelliğini kapatmak zorundasınız</string>
   <string name="screen_overlay_title">Ekran Bindirmesi tespit edildi</string>
   <string name="screen_zoom_summary_custom">Özel (%d)</string>
-  <string name="screen_zoom_summary_default">Varsayılan</string>
   <string name="screen_zoom_summary_extremely_large">Kocaman</string>
   <string name="screen_zoom_summary_large">Büyük</string>
   <string name="screen_zoom_summary_small">Küçük</string>
@@ -487,13 +483,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="toast_personal_call_msg">Using the personal dialer to make the call</string>
   <string name="track_frame_time">GPU görüntüleme profili</string>
   <string name="transition_animation_scale_title">Geçiş animasyon ölçeği</string>
-  <string name="tts_default_lang_summary">Konuşulan metin için dile özgü sesi ayarla</string>
-  <string name="tts_default_lang_title">Dil</string>
-  <string name="tts_default_pitch_summary">Sentezlenen konuşmanın tonunu etkiler</string>
-  <string name="tts_default_pitch_title">Perde</string>
-  <string name="tts_default_rate_summary">Metnin konuşulma hızını belirtir</string>
-  <string name="tts_default_rate_title">Konuşma Hızı</string>
-  <string name="tts_default_sample_string">Bu konuşma sentezin bir örneğidir</string>
   <string name="tts_engine_network_required">Bu dilde, metinden-sese çıkışı için çalışan bir ağ bağlantısı gereklidir.</string>
   <string name="tts_engine_preference_section_title">Tercih Edilen Sentezleyici</string>
   <string name="tts_engine_security_warning">Bu konuşma sentezleyicisi, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere konuşulacak tüm metni alabilmektedir. %s sentezleyici bunu sağlar. Bu konuşma sentezleyicisinin kullanımını etkinleştirilsin mi?</string>
@@ -516,8 +505,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="tts_status_requires_network">%1$s ağ bağlantısı gerektiriyor</string>
   <string name="tts_status_title">Varsayılan Dil Durumu</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
-  <string name="ui_default_package">com.android.incallui</string>
-  <string name="ui_default_package_dialer">com.android.contacts</string>
   <string name="unblock_button">Kilidi aç</string>
   <string name="unblock_dialog_body">%1$s kilidi açılsın mı?</string>
   <string name="unknown">Bilinmiyor</string>
@@ -557,9 +544,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Yok</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>

@@ -281,8 +281,6 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyumaz</string>
   <string name="kilobyte_per_second">K/sn</string>
   <string name="label_view">Gözat</string>
-  <string name="launch_defaults_none">Varsayılan ayarlanmadı</string>
-  <string name="launch_defaults_some">Bazı varsayılanlar ayarlanır</string>
   <string name="legacy_dhcp_client_summary">"Yeni Android DHCP istemcisi yerine Lollipop'tan DHCP istemcisini kullanın."</string>
   <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
@@ -406,7 +404,6 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="screen_pinning_positive">Anladım</string>
   <string name="screen_pinning_title">Ekran iğnelendi</string>
   <string name="screen_zoom_summary_custom">Özel (%d)</string>
-  <string name="screen_zoom_summary_default">Varsayılan</string>
   <string name="screen_zoom_summary_extremely_large">Kocaman</string>
   <string name="screen_zoom_summary_large">Büyük</string>
   <string name="screen_zoom_summary_small">Küçük</string>
@@ -502,13 +499,6 @@ Kilitlemek için aşağı kaydırın "</string>
   <string name="torch_opened">El Feneri açık</string>
   <string name="track_frame_time">GPU görüntüleme profili</string>
   <string name="transition_animation_scale_title">Geçiş animasyon ölçeği</string>
-  <string name="tts_default_lang_summary">Konuşulan metin için dile özgü sesi ayarla</string>
-  <string name="tts_default_lang_title">Dil</string>
-  <string name="tts_default_pitch_summary">Sentezlenen konuşmanın tonunu etkiler</string>
-  <string name="tts_default_pitch_title">Perde</string>
-  <string name="tts_default_rate_summary">Metnin konuşulma hızını belirtir</string>
-  <string name="tts_default_rate_title">Konuşma Hızı</string>
-  <string name="tts_default_sample_string">Bu konuşma sentezin bir örneğidir</string>
   <string name="tts_engine_network_required">Bu dilde, metinden-sese çıkışı için çalışan bir ağ bağlantısı gereklidir.</string>
   <string name="tts_engine_preference_section_title">Tercih Edilen Sentezleyici</string>
   <string name="tts_engine_security_warning">Bu konuşma sentezleyicisi, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere konuşulacak tüm metni alabilmektedir. %s sentezleyici bunu sağlar. Bu konuşma sentezleyicisinin kullanımını etkinleştirilsin mi?</string>

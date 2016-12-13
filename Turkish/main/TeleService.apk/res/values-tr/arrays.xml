@@ -69,15 +69,6 @@
         <item>Animasyon ölçeği 5x</item>
         <item>Animasyon ölçeği 10x</item>
     </string-array>
-    <string-array name="window_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animasyon kapalı</item>
         <item>Animasyon ölçeği .5x</item>
@@ -109,20 +100,6 @@
         <item>4K (ölçeksiz)</item>
         <item>4K (ölçeksiz, güvenli)</item>
         <item>720p, 1080p (çift ekran)</item>
-    </string-array>
-    <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/142</item>
-        <item>720x480/142, güvenli</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213, güvenli</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320, güvenli</item>
-        <item>3840x2160/320</item>
-        <item>3840x2160/320, güvenli</item>
-        <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320|3840x2160/640, güvenli</item>
-        <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Yok</item>
@@ -203,16 +180,6 @@
         <item>Global</item>
         <item>LTE / CDMA</item>
         <item>LTE / GSM / UMTS</item>
-    </string-array>
-    <string-array name="clir_display_values">
-        <item>Varsayılan Ağ</item>
-        <item>Numarayı gizle</item>
-        <item>Numarayı göster</item>
-    </string-array>
-    <string-array name="clir_values">
-        <item>Varsayılan</item>
-        <item>Gizle</item>
-        <item>Göster</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Sadece Ev</item>

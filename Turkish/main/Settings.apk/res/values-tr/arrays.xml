@@ -510,20 +510,6 @@
         <item>4K (ölçeksiz, güvenli)</item>
         <item>720p, 1080p (çift ekran)</item>
     </string-array>
-    <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/142</item>
-        <item>720x480/142, güvenli</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213, güvenli</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320, güvenli</item>
-        <item>3840x2160/320</item>
-        <item>3840x2160/320, güvenli</item>
-        <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320|3840x2160/640, güvenli</item>
-        <item>1280x720/213;1920x1080/320</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Yok</item>
         <item>Logcat</item>

@@ -1360,7 +1360,6 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="debug_view_attributes">Görünüm özelliği incelemeyi etkinleştir</string>
   <string name="decline_remote_bugreport_action">Reddet</string>
   <string name="defalut_launcher_title">Varsayılan Başlatıcı</string>
-  <string name="default_admin_support_msg">"Bu eylem devre dışı bırakıldı. Daha fazla bilgi edinmek için kuruluşunuzun yöneticisine başvurun."</string>
   <string name="default_app">(Varsayılan)</string>
   <string name="default_apps_title">Varsayılan</string>
   <string name="default_assist_none">Yok</string>
@@ -1369,12 +1368,9 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="default_browser_title_none">Varsayılan Tarayıcı yok</string>
   <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_emergency_app">Acil Durum Uygulaması</string>
-  <string name="default_for_work">Varsayılan iş</string>
   <string name="default_input_method">Varsayılan klavyeyi seçin</string>
-  <string name="default_keyboard_layout">Varsayılan</string>
   <string name="default_phone_title">Telefon Uygulaması</string>
   <string name="default_sound">Varsayılan ses</string>
-  <string name="default_spell_checker">Varsayılan yazım denetleyicisi</string>
   <string name="default_usb_mode">USB Bağlantısı</string>
   <string name="delete">Sil</string>
   <string name="delete_backup_process">silinecek...</string>
@@ -2944,7 +2940,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="no_connected_devices">Bağlı cihaz yok</string>
   <string name="no_data_usage">Veri kullanılmadı</string>
   <string name="no_default_apps">Varsayılan uygulama yok.</string>
-  <string name="no_default_home">Varsayılan Ana Sayfa yok</string>
   <string name="no_device_admins">Kullanılabilir aygıt yöneticisi yok</string>
   <string name="no_encrypt_password">Şifre yok</string>
   <string name="no_internet_access_remember">Bu ağda tekrar sorma</string>
@@ -2984,7 +2979,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="notification_exit_power_save_mode">Enerji Tasarruf Modundan çıkıldı</string>
   <string name="notification_exit_power_save_mode_subtitle">Şarj %60 olduğunda otomatik olarak tasarruf modundan çıkılır</string>
   <string name="notification_importance_blocked">Bu uygulamadaki bildirimleri asla gösterme</string>
-  <string name="notification_importance_default">Tam ekran kesintisi veya gözetimi yok.</string>
   <string name="notification_importance_high">Daima gözetle. Tam ekran kesintisi yok.</string>
   <string name="notification_importance_low">Tam ekran kesintisi, bakış açısı, ses veya titreşim yok.</string>
   <string name="notification_importance_max">Daima göz atın ve tam ekran kesintisine izin verin. Bildirim listesinin üst kısmında gösterin.</string>
@@ -3003,7 +2997,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="notification_log_details_ashmem">ashmem</string>
   <string name="notification_log_details_content_intent">niyet</string>
   <string name="notification_log_details_content_view">özel görünüm</string>
-  <string name="notification_log_details_default">varsayılan</string>
   <string name="notification_log_details_delete_intent">niyeti sil</string>
   <string name="notification_log_details_delimiter">": "</string>
   <string name="notification_log_details_explanation">açıklama</string>
@@ -3944,7 +3937,6 @@ Ekran iğnelemeyi kullanmak için:
   <string name="screen_zoom_short_summary">Ekrandaki öğeleri daha büyük veya daha küçük yapın</string>
   <string name="screen_zoom_summary">Ekranınızdaki öğeleri daha küçük veya daha büyük yapın. Ekranınızdaki bazı uygulamalar konumunu değiştirebilir.</string>
   <string name="screen_zoom_summary_custom">Özel (%d)</string>
-  <string name="screen_zoom_summary_default">Varsayılan</string>
   <string name="screen_zoom_summary_extremely_large">Koskocaman</string>
   <string name="screen_zoom_summary_large">Büyük</string>
   <string name="screen_zoom_summary_small">Küçük</string>
@@ -4840,7 +4832,6 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="system_backup">Yedekle</string>
   <string name="system_backup_info">Sistem ayarları ve ana ekran düzeni</string>
   <string name="system_backup_section_title">Yedekle</string>
-  <string name="system_default_app">(Sistem Varsayılanı)</string>
   <string name="system_package">"Sistem güncellemeleri harici medya yüklenemez."</string>
   <string name="system_storage">Sistem Depolaması</string>
   <string name="system_ui_settings">SystemUI Ayarlayıcıyı Göster</string>
@@ -5101,8 +5092,6 @@ alıcı aygıtın açık olduğundan emin olun"</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Kilit Ekranının şifresini kapattığınızda, parmakiziyle cihazın kilidini açmanız mümkün olmayacak.</string>
   <string name="turn_off_radio">Kablosuzu kapat</string>
   <string name="turn_off_security_lock">Kilitlemeyi kapat</string>
-  <string name="wallpaper_attributions_values">"Uydu Resmi Saylayıcıları:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="turn_on_keyguard_password">Kilit Ekranının şifresini aç</string>
   <string name="turn_on_radio">Kablosuzu aç</string>
   <string name="turn_on_security_lock">Ekran kilidini seç</string>

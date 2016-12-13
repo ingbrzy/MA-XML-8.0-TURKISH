@@ -2,11 +2,6 @@
 <resources>
   <string name="app_name">BSPTelephonyDevTool</string>
   <string name="data_connection">Veri Bağlantısı</string>
-  <string name="default_common_phone">Standart Ortak Telefon</string>
-  <string name="default_data_phone">Standart Veri Telefonu</string>
-  <string name="default_phone">Varsayılan Telefon</string>
-  <string name="default_sms_phone">Standart SMS Telefonu</string>
-  <string name="default_voice_phone">Standart Sesli Telefon</string>
   <string name="network_status_and_signal_strength">Ağ Durumu &amp; Sinyal Gücü</string>
   <string name="no">Hayır</string>
   <string name="no_sim_inserted">SIM KArt takılı değil</string>

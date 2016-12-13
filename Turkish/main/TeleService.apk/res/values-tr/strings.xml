@@ -1042,8 +1042,6 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="lable_network_not_supported">"Şebeke desteklemiyor"</string>
   <string name="lafs_disable">Yerel Havaalanı Uçuş Tarifeleri devre dışı</string>
   <string name="lafs_enable">Yerel Havaalanı Uçuş Tarifeleri etkin</string>
-  <string name="launch_defaults_none">Varsayılan ayarlanmadı</string>
-  <string name="launch_defaults_some">Bazı varsayılanlar ayarlanır</string>
   <string name="legacy_dhcp_client_summary">"Yeni Android DHCP istemcisi yerine Lollipop'tan DHCP istemcisini kullanın."</string>
   <string name="left_minutes">dak</string>
   <string name="list_language_dtitle">Diller</string>
@@ -1461,7 +1459,6 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="phone_accounts_ask_every_time">Birkez sor</string>
   <string name="phone_accounts_choose_accounts">Hesapları seç</string>
   <string name="phone_accounts_configure_account_settings">Hesap ayarlarını yapılandır</string>
-  <string name="phone_accounts_default_account_label">Şebeke mevcut değil</string>
   <string name="phone_accounts_make_calls_with">Çağrı yap:</string>
   <string name="phone_accounts_make_sip_calls_with">SIP çağrısı yap:</string>
   <string name="phone_accounts_selection_header">Telefon Hesapları</string>
@@ -1758,7 +1755,6 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="saved_network">%1$s tarafından kaydedildi</string>
   <string name="saving_account">Hesap kaydediliyor...</string>
   <string name="screen_zoom_summary_custom">Özel (%d)</string>
-  <string name="screen_zoom_summary_default">Varsayılan</string>
   <string name="screen_zoom_summary_extremely_large">Kocaman</string>
   <string name="screen_zoom_summary_large">Büyük</string>
   <string name="screen_zoom_summary_small">Küçük</string>
@@ -1994,13 +1990,6 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="top_up_first">Önce Kontör</string>
   <string name="transport_title">Taşıma Tipi</string>
-  <string name="ts_default_lang_summary">Konuşulan metin için dile özgü sesi ayarla</string>
-  <string name="tts_default_lang_title">Dil</string>
-  <string name="tts_default_pitch_summary">Sentezlenen konuşmanın tonunu etkiler</string>
-  <string name="tts_default_pitch_title">Perde</string>
-  <string name="tts_default_rate_summary">Metnin konuşulma hızını belirtir</string>
-  <string name="tts_default_rate_title">Konuşma Hızı</string>
-  <string name="tts_default_sample_string">Bu konuşma sentezin bir örneğidir</string>
   <string name="tts_engine_network_required">Bu dilde, metinden-sese çıkışı için çalışan bir ağ bağlantısı gereklidir.</string>
   <string name="tts_engine_preference_section_title">Tercih Edilen Sentezleyici</string>
   <string name="tts_engine_security_warning">Bu konuşma sentezleyicisi, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere konuşulacak tüm metni alabilmektedir. %s sentezleyici bunu sağlar. Bu konuşma sentezleyicisinin kullanımını etkinleştirilsin mi?</string>
@@ -2150,9 +2139,7 @@ Görüşmeyi bitirmek için deneyin ve WLAN ağına tekrar bağlanmayı deneyin"
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">None</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
@@ -2192,8 +2179,6 @@ Görüşmeyi bitirmek için deneyin ve WLAN ağına tekrar bağlanmayı deneyin"
   <string name="ims_settings">IMS Ayarları</string>
   <string name="incall_error_local_low_battery">Düşük pil nedeniyle çağrı başarısız oldu.</string>
   <string name="incall_error_low_battery">"Bağlanılan cihazın düşük pilinden dolayı görüşme sonlandırıldı."</string>
-  <string name="msim_select_default_time_left">(%ds)</string>
-  <string name="operator_remain_mins_value">%1$s dakika</string>
   <string name="preferred_network_mode_lte_wcdma_choice">LTE / WCDMA</string>
   <string name="ringtone_unknown">Bilinmeyen zil sesi</string>
 </resources>
