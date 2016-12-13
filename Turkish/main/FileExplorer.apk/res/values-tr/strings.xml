@@ -139,6 +139,7 @@
   <string name="copy_file_to_midrive">Mi Drive yerine kopyala</string>
   <string name="copy_text">Metni kopyala</string>
   <string name="copy_to">Kopyala</string>
+  <string name="count_down">Geriye Sayım: %1$s</string>
   <string name="create_shortcut_success">Kısayol başarıyla oluşturuldu</string>
   <string name="create_kuaipan_shortcut_pref">Ana Ekrana kısayol oluştur</string>
   <string name="create_new_folder_desctiption">Dizin oluşturuluyor…</string>
@@ -167,6 +168,7 @@
   <string name="decrypt_error">"Çözülemedi"</string>
   <string name="decrypt_to">Çöz ve farklı kaydet...</string>
   <string name="decrypting">Çözülüyor…</string>
+  <string name="default_prize_text">Bu doğruca benim hazineme gider!</string>
   <string name="delete_dialog_button">Sil</string>
   <string name="delete_error">"Dosyalar silinemedi, tekrar deneyin"</string>
   <string name="delete_failed">"Silinemiyor"</string>
@@ -272,6 +274,7 @@
   <string name="ftp_transfer_secure">Güvenlik</string>
   <string name="ftp_username_and_passworld">Giriş Yap</string>
   <string name="ftp_username_hint">Kullanıcı Adı</string>
+  <string name="full_gems">Mücevherlerinizi değiştirin</string>
   <string name="gbk_summary">Basitleştirilmiş Çince için Windows kodlaması</string>
   <string name="gbk_title">GBK</string>
   <string name="get_user_info_err">"Bu kişinin hakkındakı bilgi alınamıyor"</string>
@@ -523,6 +526,8 @@ ve yenilerini kaçırmayın!"</string>
   <string name="online_not_support">"Şu anda bu dosyayı görüntüleyemezsiniz."</string>
   <string name="only_wifi">WLAN bağlandığında indir</string>
   <string name="open_app">Aç</string>
+  <string name="open_chest">Bir hediye almak için aç</string>
+  <string name="open_chest_failed">"Açılamadı, ağ ayarlarınızı denetleyip tekrar deneyin"</string>
   <string name="open_changed_file_message">"Açmaya çalıştığınız dosya değiştirildi. Lütfen:
 1. Güncellemek için dosyayı yeniden indirin.
 2. KuaiPan hesabınızı yükleyin."</string>
@@ -640,11 +645,13 @@ ve yenilerini kaçırmayın!"</string>
   <string name="private_folder_update">Gizli dosyalar güncelleniyor...</string>
   <string name="private_toast_hint1">Gizli klasörlere dosyalar eklemek için dokunun</string>
   <string name="private_toast_hint2">Bir dosyayı gizlemek için basılı tutun ve gizli dizine ekleyin.</string>
-  <string name="private_toast_hint3">Gizli klasörleri görüntülemek için aşağı çekin ▼</string>
+  <string name="private_toast_hint3">Gizli klasörleri görüntülemek için aşağı çekin</string>
+  <string name="prize_result_tip">Değiştir</string>
+  <string name="prize_result_tip2">Mücevher hazinesine git</string>
   <string name="promot_enctypt_password">Cihazınızın kilidini açmak için veya Çocuk modunu kapatmak için kullanılan şifreyi girin</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>
-  <string name="pull_to_signin">Kontrol etmek aşağı çekin. ▼</string>
+  <string name="pull_to_signin">Kontrol etmek aşağı çekin.</string>
   <string name="qq_not_installed">"QQ yüklenmedi"</string>
   <string name="qq_platform">QQ</string>
   <string name="quota_info">Mi Drive: %1$s mevcut, Toplam: %2$s</string>
@@ -653,11 +660,12 @@ ve yenilerini kaçırmayın!"</string>
   <string name="recommend">Tavsiyeli</string>
   <string name="recommend_topic">Tavsiyeli Konular</string>
   <string name="recommend_user">Tavsiyeli Profiller</string>
-  <string name="release_to_signin">Kontrol etmek bırakın ▲</string>
+  <string name="release_to_signin">Kontrol etmek bırakın </string>
   <string name="remote_video_no_network">"Ağa bağlanamıyor."</string>
   <string name="remote_video_report_success">"Görüşleriniz için teşekkür ederiz! En kısa sürede takipçisi olacağız."</string>
   <string name="remote_video_server_error">"Sunucuya bağlanamadı."</string>
   <string name="rename_alert">"Bu dosyanın uzantısını değiştirirseniz, bunu açmak mümkün olmayabilir."</string>
+  <string name="rename_alert2">Dosya gizli olacak.</string>
   <string name="rename_description">Adlandırılıyor…</string>
   <string name="rename_failed">" %1$s adlandırılamadı"</string>
   <string name="repair_done">Geri yüklendi</string>
@@ -681,7 +689,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="rlv_last_refreshing_time">%1$s güncellendi</string>
   <string name="rlv_loading_more">Biraz bekleyin…</string>
   <string name="rlv_pull_to_close">Kapatmak için aşağı çekin</string>
-  <string name="rlv_pull_to_refresh">Yenilemek için aşağı doğru çekin ▼</string>
+  <string name="rlv_pull_to_refresh">Yenilemek için aşağı doğru çekin</string>
   <string name="rlv_refreshing">Yenileniyor…</string>
   <string name="rlv_release_to_close">Kapatmak için bırakın</string>
   <string name="rlv_release_to_refresh">Yenilemek için bırakın</string>
