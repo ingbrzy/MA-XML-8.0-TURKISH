@@ -46,7 +46,6 @@ Mobil ağ hizmetinizi daha sonra "Sistem Ayarları > Kablosuz ve Ağlar > Mobil 
 Mobil veri hizmetinizi daha sonra "Sistem Ayarları &amp;gt; Kablosuz ve Ağlar &amp;gt; Hücresel Ağlar bölümünden etkinleştirebilirsiniz.</string>
   <string name="activation_canceled_title">Etkinleştirme iptal edildi</string>
   <string name="activation_continue_skip_label">Devam Et</string>
-  <string name="activation_default_network_name">mobil ağ</string>
   <string name="activation_failed_message">"Şunları yapabilirsiniz:
 "&lt;li&gt;Hücresel veriye bağlanmayı tekrar deneyin&lt;/li&gt;"
 "&lt;li&gt;Kurulum için farklı bir ağ kullanın&lt;/li&gt;"
@@ -326,8 +325,6 @@ Telefonunuzu bunun yerine bir kablosuz bağlantıyı kullanarak kurmak için "At
   <string name="invalid_qr_code_title">QR kodu çalışmadı</string>
   <string name="keep_screen_on">Uyanık kal</string>
   <string name="keep_screen_on_summary">Şarj edilirken ekran hiçbir zaman uykuya geçmez</string>
-  <string name="launch_defaults_none">Hiçbir varsayılan tercih ayarlanmadı</string>
-  <string name="launch_defaults_some">Bazı varsayılan tercihler ayarlandı</string>
   <string name="legacy_dhcp_client">Eski DHCP istemcisini kullan</string>
   <string name="legacy_dhcp_client_summary">Yeni Android DHCP istemcisi yerine Lollipop DHCP istemcisini kullan.</string>
   <string name="local_backup_password_summary_change">Masaüstü tam yedeklemelerinin şifresini değiştirmek veya kaldırmak için dokunun</string>
@@ -417,7 +414,6 @@ Daha önce herhangi bir Google ürününde (Gmail veya YouTube gibi) oturum açt
   <string name="runningservices_settings_title">Çalışan hizmetler</string>
   <string name="saved_network">%1$s tarafından kaydedildi</string>
   <string name="screen_zoom_summary_custom">Özel (%d)</string>
-  <string name="screen_zoom_summary_default">Varsayılan</string>
   <string name="screen_zoom_summary_extremely_large">En büyük</string>
   <string name="screen_zoom_summary_large">Büyük</string>
   <string name="screen_zoom_summary_small">Küçük</string>
@@ -493,13 +489,6 @@ Cihazda temel hazırlık yapılmadı"</string>
   <string name="track_frame_time">Profil GPU oluşturma</string>
   <string name="transition_animation_scale_title">Geçiş animasyonu ölçeği</string>
   <string name="try_again_button_label">Yeniden dene</string>
-  <string name="tts_default_lang_summary">Dil için tanımlı sesi, konuşulan metin için ayarlar</string>
-  <string name="tts_default_lang_title">Dil</string>
-  <string name="tts_default_pitch_summary">Sentezlenmiş konuşma sesini etkiler</string>
-  <string name="tts_default_pitch_title">Perde</string>
-  <string name="tts_default_rate_summary">Metnin konuşulduğu hız</string>
-  <string name="tts_default_rate_title">Konuşma hızı</string>
-  <string name="tts_default_sample_string">Bu bir konuşma sentezi örneğidir</string>
   <string name="tts_engine_network_required">Bu dil, Metin Sentezleyici çıkışı için bir ağ bağlantısı gerektirir.</string>
   <string name="tts_engine_preference_section_title">Tercih edilen sentezleyici</string>
   <string name="tts_engine_security_warning">Bu konuşma sentezi aleti, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere, konuşulacak tüm metni toplayabilir. %s motorundan geliyor. Bu konuşma sentezi motorunun kullanımını etkinleştirilsin mi?</string>
