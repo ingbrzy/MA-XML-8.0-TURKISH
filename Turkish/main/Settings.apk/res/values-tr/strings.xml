@@ -576,6 +576,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="battery_stats_duration">Fişten çekildikten sonra: %1$s</string>
   <string name="battery_stats_flashlight_on_label">Flaş ışığı açık</string>
   <string name="battery_stats_gps_on_label">GPS açık</string>
+  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">%1$s pilde</string>
   <string name="battery_stats_phone_signal_label">Mobil ağ sinyali</string>
   <string name="battery_stats_screen_on_label">Ekran açık</string>
@@ -2005,6 +2006,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="help_uri_apps"/>
   <string name="help_uri_beam"/>
   <string name="help_uri_dashboard"/>
+  <string name="help_uri_default"/>
   <string name="help_uri_display"/>
   <string name="help_uri_interruptions"/>
   <string name="help_uri_notifications"/>
