@@ -670,6 +670,7 @@ Hesabınızı etkinleştirmek için,
   <string name="vp_select_video_source">Kaynağı Seç</string>
   <string name="vp_skip">Girişi ve Yapımcıları Atla</string>
   <string name="vp_standard_definition">SD</string>
+  <string name="vp_start_error_msg">"Bu video oynatılamıyor"</string>
   <string name="vp_super_definition">Süper</string>
   <string name="vp_time_separator">/</string>
   <string name="vp_toast_downloadapk">İndiriliyor…</string>
@@ -677,6 +678,7 @@ Hesabınızı etkinleştirmek için,
   <string name="vp_using_16_9">16:9\'a Zorla</string>
   <string name="vp_using_4_3">4:3\'e Zorla</string>
   <string name="vp_video_bad_network_condition">İnternet bağlantısı zayıf. Daha sonra tekrar deneyin.</string>
+  <string name="vp_video_create_video_error_info">Video oynatıcı hatası, Lütfen daha sonra tekrar deneyin.</string>
   <string name="vp_video_invalid_cp_info">Video sağlayıcısının bilgileri geçersiz. Lütfen uygulamayı yeniden başlatın</string>
   <string name="vp_video_loading">&lt;CDATA&gt;Yükleniyor&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_video_plugin_installation">%1$s yükleniyor…</string>
