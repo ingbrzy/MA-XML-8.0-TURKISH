@@ -81,6 +81,7 @@ Son yedekleme: %2$s"</string>
   <string name="error_title">"Eşitlenemiyor"</string>
   <string name="error_unauthorized">Çok sayıda giriş yapıldığından eşitleme kapatıldı.</string>
   <string name="error_unknown">"Oturum açılamıyor"</string>
+  <string name="file_provider_authority">com.miui.cloudservice.fileprovider</string>
   <string name="find_device">Telefonu Bul</string>
   <string name="find_device_disabled_notice">"Bu özelliği açmak veya kapatmak isterseniz Mi Bulut Ayarlarını kullanabilirsiniz."</string>
   <string name="find_device_disabled_title">Telefonu Bul devre dışı</string>
