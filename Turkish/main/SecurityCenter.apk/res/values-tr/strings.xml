@@ -13,7 +13,8 @@
   <string name="ac_firstUseApplock_title">Seçili uygulamaları açmak için şifre gereklidir</string>
   <string name="ac_summaryOff">Kapatıldı, uygulamaları açmak için şifre gerekmez</string>
   <string name="ac_summaryOn">Açık, uygulamaları açmak için şifre gereklidir</string>
-  <string name="access_control_need_password">"%s başarıyla eklendi"</string>
+  <string name="access_control_need_password">"%s başarıyla eklendi
+"</string>
   <string name="access_control_need_to_unlock">"Parmakizini tarayın veya
 Uygulama Kilidinin şifresini girin"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Uygulama Kilidinin şifresini girin</string>
@@ -318,6 +319,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="buy_immediately">Satın Al</string>
   <string name="buy_traffic_pack">Fazla Veri Al</string>
   <string name="byteShort">B</string>
+  <string name="cache_check_content_none">@string/memory_check_content_none</string>
   <string name="cache_header_title">%2$s alan açmak için %1$d dosyayı temizleyin</string>
   <string name="call_and_contact">Çağrılar ve Kişiler</string>
   <string name="cancal_to_setting_fingerprint">İptal</string>
@@ -348,11 +350,14 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="card_main_private_space_summary">İkinci Alanı kullanarak sanki iki cihaza sahip olursunuz</string>
   <string name="card_main_private_space_title">İkinci Alan</string>
   <string name="card_main_sectool_title">Araçlar</string>
+  <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
   <string name="card_main_speeddetail_title">Bağlantı Hızı</string>
   <string name="card_main_speeddetailt_summary">Kişisel uygulamalarda bağlantı hızını görüntüle</string>
   <string name="card_main_xspace_action">Oluştur</string>
   <string name="card_main_xspace_summary">Herhangi bir uygulama için çift hesap oluştur</string>
   <string name="card_main_xspace_title">Klonlu Uygulamalar</string>
+  <string name="category_key_power_usage_details">key_power_usage_details</string>
+  <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="celcius_symbol">C°</string>
   <string name="charging_text_battery_full_time">Son Şarj:</string>
   <string name="charging_text_battery_nearly_full">En Son Şarj:</string>
@@ -1025,7 +1030,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="power_center_battery_full">Pil tamamen şarj oldu</string>
   <string name="power_center_charge_time">Tam Doluma: %1$s</string>
   <string name="power_center_consume_rank">Pil Kullanımı</string>
-  <string name="power_center_consume_time">Kalan: %1$s</string>
+  <string name="power_center_consume_time">%1$s pil kaldı</string>
   <string name="power_center_custom_title">Pil Profilleri</string>
   <string name="power_center_low_battery_summary_dynamic">\"%2$s\", pil seviyesi %%%1$d altındaysa</string>
   <string name="power_center_low_battery_title">Güç Tasarruf Modu</string>
@@ -1173,7 +1178,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="power_save_mode_end_time">Bitiş</string>
   <string name="power_save_mode_ontime_enabled">Profiller arasında geçiş yapmak için süreleri belirleyin</string>
   <string name="power_save_mode_start_time">Başlangıç</string>
-  <string name="power_save_mode_summary">Arkaplan etkinliklerini, eşitlemeyi ve animasyonları durdurur. Enerji Tasarruf Modu pilin %60 üstünde olduğunu görünce, kapanır.</string>
+  <string name="power_save_mode_summary" formatted="false">Arkaplan etkinliklerini, eşitlemeyi ve animasyonları durdurur. Enerji Tasarruf Modu pilin %60 veya %100 olduğunu görünce, kapanır.</string>
   <string name="power_save_on_time_auto_save_title">Planlı Değişiklik</string>
   <string name="power_save_on_time_end_time_summary">Bitiş:</string>
   <string name="power_save_on_time_end_time_summary_na">Başlangıç:</string>
@@ -1544,7 +1549,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="sp_settings_check_item_title_virus_exception">Virüs İstisnaları</string>
   <string name="sp_settings_check_item_title_wifi">WLAN</string>
   <string name="sp_settings_exception_count_zero">Öğe yok</string>
-  <string name="sp_settings_group_title_check_item">Çoklu Ayarları Denetle</string>
+  <string name="sp_settings_group_title_check_item">Çoklu Öğeler</string>
   <string name="sp_settings_group_title_ime">Güvenli IME Ayarları</string>
   <string name="sp_settings_group_title_omit">Atlanan Öğeler</string>
   <string name="sp_settings_info_input_method">Ödeme Uygulamasında kullanılan giriş usulu</string>
@@ -1775,8 +1780,8 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="title_virus_update_yes">Virüs tanımlarını için otomatik güncelleme açık</string>
   <string name="title_virus_yes">Virüs bulunamadı</string>
   <string name="title_xiaomi_roaming">Mi Dolaşımı</string>
-  <string name="toast_add_virus_white_list_no_need_repeat">Virüs zaten istisnalarda!</string>
-  <string name="toast_add_virus_white_list_success">İstisnalara eklendi. Ayarlardan öğeleri görüntüleyebilirsiniz.</string>
+  <string name="toast_add_virus_white_list_no_need_repeat">Bu istisna zaten mevcut</string>
+  <string name="toast_add_virus_white_list_success">İstisnalara eklendi. Güvenlik ayarlarındaki öğeleri görüntüleyin.</string>
   <string name="toast_auto_traffic_correct">Veri kullanımı otomatik ayarlandı</string>
   <string name="toast_cleaner_cloudscan">Temizleyici çevrimiçi tanımları kullanacak</string>
   <string name="toast_default_app">"Sistem varsayılanı %2$s olarak %2$s ayarla"</string>
