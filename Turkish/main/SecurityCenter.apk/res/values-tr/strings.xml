@@ -319,7 +319,6 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="buy_immediately">Satın Al</string>
   <string name="buy_traffic_pack">Fazla Veri Al</string>
   <string name="byteShort">B</string>
-  <string name="cache_check_content_none">@string/memory_check_content_none</string>
   <string name="cache_header_title">%2$s alan açmak için %1$d dosyayı temizleyin</string>
   <string name="call_and_contact">Çağrılar ve Kişiler</string>
   <string name="cancal_to_setting_fingerprint">İptal</string>
@@ -350,14 +349,11 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="card_main_private_space_summary">İkinci Alanı kullanarak sanki iki cihaza sahip olursunuz</string>
   <string name="card_main_private_space_title">İkinci Alan</string>
   <string name="card_main_sectool_title">Araçlar</string>
-  <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
   <string name="card_main_speeddetail_title">Bağlantı Hızı</string>
   <string name="card_main_speeddetailt_summary">Kişisel uygulamalarda bağlantı hızını görüntüle</string>
   <string name="card_main_xspace_action">Oluştur</string>
   <string name="card_main_xspace_summary">Herhangi bir uygulama için çift hesap oluştur</string>
   <string name="card_main_xspace_title">Klonlu Uygulamalar</string>
-  <string name="category_key_power_usage_details">key_power_usage_details</string>
-  <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="celcius_symbol">C°</string>
   <string name="charging_text_battery_full_time">Son Şarj:</string>
   <string name="charging_text_battery_nearly_full">En Son Şarj:</string>
