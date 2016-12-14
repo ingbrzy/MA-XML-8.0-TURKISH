@@ -576,6 +576,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="battery_stats_duration">Fişten çekildikten sonra: %1$s</string>
   <string name="battery_stats_flashlight_on_label">Flaş ışığı açık</string>
   <string name="battery_stats_gps_on_label">GPS açık</string>
+  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">%1$s pilde</string>
   <string name="battery_stats_phone_signal_label">Mobil ağ sinyali</string>
   <string name="battery_stats_screen_on_label">Ekran açık</string>
@@ -607,9 +608,10 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="block_list_connected_devices">Bağlanan Cihazlar</string>
   <string name="block_list_diaglog_cancle">İptal</string>
   <string name="block_list_diaglog_ok">Tamam</string>
-  <string name="block_list_dialog_content">Bu işlem "%s" cihazının bağlantısını keser ve bunu engelleme listesine ekler.</string>
   <string name="block_list_dialog_title">Bağlantı kesilsin mi?</string>
+  <string name="block_list_mtk_dialog_content">Bu işlem "%s" bağlantısını bu cihazdan keser</string>
   <string name="block_list_no_device">Kara Listede bağlı cihaz yok</string>
+  <string name="block_list_qcom_dialog_content">Bu işlem "%s" cihazının bağlantısını keser ve bunu engelleme listesine ekler.</string>
   <string name="block_list_remove_dialog_content">Bu cihaz "%s" bu paylaşımına bağlanabilecek</string>
   <string name="block_list_remove_dialog_title">“%s” kara listeden kaldırılsın mı?</string>
   <string name="block_list_summary">Bu paylaşıma bağlanmasına izin verilmeyen cihazları görüntüleme</string>
@@ -667,6 +669,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_disable_absolute_volume_summary">Kabul edilemez derecede yüksek ses seviyesi veya kontrol yetersizliği gibi uzak aygıtlarla ilgili ses sorunları olduğunda Bluetooth mutlak ses düzeyi özelliğini devre dışı bırakır.</string>
   <string name="bluetooth_disable_profile_message">Devre Dışı Bırakılacak:&lt;br&gt;%1$s&lt;br&gt;&lt;br&gt;Buradan:&lt;br&gt;%2$s</string>
   <string name="bluetooth_disable_profile_title">Profil devre dışı bırakılsın mı?</string>
+  <string name="bluetooth_disabled">Pasif</string>
   <string name="bluetooth_disconnect_a2dp_profile">Medya sesi %1$s bağlantısını kesecek.</string>
   <string name="bluetooth_disconnect_all_profiles">Bunun ile bağlantısı sona erecek:&lt;br&gt;%1$s</string>
   <string name="bluetooth_disconnect_headset_profile">Eller Serbest için %1$s ses bağlantısını kesecek.</string>
@@ -807,7 +810,9 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">Eski cihaz güncel cihaz ile değiştirilecek</string>
   <string name="bluetooth_unlock_change_matched_device">Diğer cihazı seç</string>
   <string name="bluetooth_unlock_confirm_device_text">Bluetooth cihazını doğrulamak için dokun.</string>
-  <string name="bluetooth_unlock_confirm_device_text_2">Cihaz kilidini açmak için düğmeye dokunun.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Kilidini açmak için saatin üzerindeki düğmeye dokunun.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Kilidini açmak için saatin üzerindeki düğmeye dokunun.</string>
+  <string name="bluetooth_unlock_confirm_device_text_2">Kilidini açmak için saatin üzerindeki düğmeye dokunun.</string>
   <string name="bluetooth_unlock_delete_device">Bu cihazı sil</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Bu cihaz silinsin mi?</string>
   <string name="bluetooth_unlock_device_matched_text">Kilidi açmak için bu cihazı kullan.</string>
@@ -1310,6 +1315,8 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
 "&lt;font size="12"&gt;Limit&lt;/font&gt;" "</string>
   <string name="data_usage_sweep_warning">" "&lt;font size="18"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
 "&lt;font size="12"&gt;Uyarı&lt;/font&gt;" "</string>
+  <string name="data_usage_tab_3g">2G-3G</string>
+  <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
   <string name="data_usage_tab_mobile">Hücresel</string>
   <string name="data_usage_tab_slot">SIM</string>
@@ -1503,6 +1510,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="dlg_error_uicc_unmount_text">"UICC Depolama bağlantısı kesilemedi. Sonra tekrar deneyin."</string>
   <string name="dlg_error_unmount_text">"USB Depolama bağlantısı kesilemedi. Sonra tekrar deneyin."</string>
   <string name="dlg_error_usb_unmount_text">"USB Depolama bağlantısı kesilemedi. Sonra tekrar deneyin."</string>
+  <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">Tamam</string>
   <string name="dlg_remove_locales_error_message">En az bir dili tercih edilen olarak koru</string>
   <string name="dlg_remove_locales_error_title">Tüm dilleri kaldırılamıyor</string>
@@ -1918,6 +1926,7 @@ Orada hiçbir at, hayvan gibi görünmüyordu; Herkes mutlu, memnun ve müreffeh
   <string name="free_xiaomi_wifi_connect_summary">%1$s bağlantısı için dokun.</string>
   <string name="frequently_fragment_delete">Kaldır</string>
   <string name="frequently_fragment_tempty">Sık kullanılan öğeler burada listelenecektir</string>
+  <string name="full_transparent_smarrcover_title">Şeffaf ön kapak</string>
   <string name="fullbackup_data_summary">"Otomatik olarak cihazdaki verilerle uygulama verileri farklı bir noktada yedeklenir (buna WLAN şifreleri, çağrı geçmişi, ayarlar ve satın alınan uygulamalar dahildir)
 
 Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında saklanır. Bu işlemde esnasında kişiler, mesajlar, fotoğraflar dahil olmak üzere uygulama verisi de saklanır."</string>
@@ -1992,6 +2001,19 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="heads_up_enabled_title">Yüksek öncelikli açılır pencere</string>
   <string name="heavy_weight_stop_description">"Bu uygulama güvenli bir şekilde durdurulamıyor. Eğer durdurursanız mevcut bazı işleri kaybedebilirsiniz."</string>
   <string name="help_label">Yardım ve Geribildirim</string>
+  <string name="help_uri_about"/>
+  <string name="help_uri_accessibility"/>
+  <string name="help_uri_apps"/>
+  <string name="help_uri_beam"/>
+  <string name="help_uri_dashboard"/>
+  <string name="help_uri_default"/>
+  <string name="help_uri_display"/>
+  <string name="help_uri_interruptions"/>
+  <string name="help_uri_notifications"/>
+  <string name="help_uri_other_sounds"/>
+  <string name="help_uri_printing"/>
+  <string name="help_uri_storage"/>
+  <string name="help_uri_wallpaper"/>
   <string name="help_url_accounts"/>
   <string name="help_url_backup_reset"/>
   <string name="help_url_battery"/>
@@ -3400,6 +3422,7 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="power_cell">Şebeke Beklemedeyken:</string>
   <string name="power_center">Güç</string>
   <string name="power_charge_remaining">Şarj: %1$s</string>
+  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - Tam Doluma: %2$s</string>
   <string name="power_charging_duration_ac">%1$s - AC ile Tam Doluma: %2$s</string>
   <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
@@ -3758,6 +3781,7 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="reset_second_space_passwd_cancel">İptal</string>
   <string name="reset_second_space_passwd_confirm">Devam</string>
   <string name="reset_second_space_passwd_detail">İlk Alanda kullanılan Mi Hesabı şifresini girin</string>
+  <string name="reset_shortcut_manager_throttling">Kısayol Yöneticisi hız sınırlayıcı sayaçlarını sıfırla</string>
   <string name="resetting_second_space_passwd">İkinci Alan şifresini sıfırla</string>
   <string name="resolver_settings_label">Sırala</string>
   <string name="resource_ringtone_volume_mute">Zil Sesi sessizde</string>
@@ -4158,27 +4182,27 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_vpn_settings_password">VPN Şifresi</string>
   <string name="search_wakeup_for_keyguard_notification_title">Kilit ekranında bildirimlerde uyandır</string>
   <string name="search_wallpaper">Duvar Kağıdı</string>
-  <string name="search_wifi">Wifi;WLAN;Gelişmiş Ayarlar</string>
-  <string name="search_wifi_advanced_ip_address_title">IP Adresi</string>
-  <string name="search_wifi_advanced_mac_address_title">WLAN MAC Adresi</string>
-  <string name="search_wifi_advanced_settings">Gelişmiş Ayarlar;WLAN</string>
+  <string name="search_wifi">Wifi;WLAN;Gelişmiş Ayarlar,Kablosuz Ağlar</string>
+  <string name="search_wifi_advanced_ip_address_title">IP Adresi,IP</string>
+  <string name="search_wifi_advanced_mac_address_title">WLAN MAC Adresi,MAC Adresi</string>
+  <string name="search_wifi_advanced_settings">Gelişmiş Ayarlar;WLAN,WLAN Ayarları,Wi-Fi Ayarları</string>
   <string name="search_wifi_display">Kablosuz Ekran</string>
-  <string name="search_wifi_enable">WLAN;WLAN;Wi-Fi,Wifi</string>
-  <string name="search_wifi_install_credentials">Sertifika Yükle</string>
-  <string name="search_wifi_menu_p2p">Direkt WLAN</string>
-  <string name="search_wifi_menu_wps_pin">WPS PIN girişi</string>
-  <string name="search_wifi_more_settings">Fazlası;Uçak Modu;VPN;Bağlantı &amp; iNet Paylaşımı;Kablosuz Ekran;Uluslararası Mobil Verisi;NFC;Android Beam;Güvenli Eleman Pozisyonu</string>
-  <string name="search_wifi_scan_always_available">Daima mevcutu tara</string>
-  <string name="search_wifi_setting_frequency_band_title">WLAN Frekans Bandı</string>
-  <string name="search_wifi_setting_sleep_policy_title">Uykudayken WLAN bağlantısını koru</string>
-  <string name="search_wifi_tether_checkbox">iNet Paylaşımı</string>
-  <string name="search_wifi_tether_configure_ap_text">"iNet Paylaşımı ayarla"</string>
-  <string name="search_wifi_wapi_cert_install">WAPI sertifikasını yükle</string>
+  <string name="search_wifi_enable">"WLAN;WLAN;Wi-Fi,Wifi,WLAN'ı Aç"</string>
+  <string name="search_wifi_install_credentials">Sertifika Yükle,Sertifikalar</string>
+  <string name="search_wifi_menu_p2p">Direkt WLAN,Direkt WLAN</string>
+  <string name="search_wifi_menu_wps_pin">WPS PIN girişi;WPS;WPS PIN</string>
+  <string name="search_wifi_more_settings">Diğer;Kablosuz</string>
+  <string name="search_wifi_scan_always_available">Daima mevcutu tara, Ağları tara, Wi-Fi tara, WLAN tara</string>
+  <string name="search_wifi_setting_frequency_band_title">WLAN Frekans Bandı,WIFI Frekans Bandı, Frekans Bandı</string>
+  <string name="search_wifi_setting_sleep_policy_title">Uykudayken WLAN bağlantısını koru, WLAN bağlantısını koru</string>
+  <string name="search_wifi_tether_checkbox">iNet Paylaşımı,Hotspot, Mobil</string>
+  <string name="search_wifi_tether_configure_ap_text">"iNet Paylaşımı ayarla,Hotspot Yapılandırması"</string>
+  <string name="search_wifi_wapi_cert_install">WAPI sertifikasını yükle,WAPI</string>
   <string name="search_wifi_wapi_cert_uninstall">WAPI sertifikasını kaldır</string>
   <string name="search_wps_connect_title">WPS Push Düğmesi</string>
   <string name="search_xiaomi_account">Mi Hesabı</string>
-  <string name="search_xspace">XSpace</string>
-  <string name="search_zen_mode_option_miui_silent">Sessiz Mod</string>
+  <string name="search_xspace">Klonlu Uygulamalar</string>
+  <string name="search_zen_mode_option_miui_silent">Sessiz Mod,Sessiz</string>
   <string name="second_space">İkinci Alan</string>
   <string name="secure_keyguard_business_title">Ekran Kilidini Ayarla</string>
   <string name="secure_lock_encryption_warning">"Çünkü bir erişilebilirlik hizmeti açtınız, cihazınız gelişmiş veri şifreleme için ekran kilidi kullanamaz."</string>
@@ -4779,6 +4803,7 @@ Devam etmek için; fakat uygulamalar bu konumdan taşınırken ve veri transferi
   <string name="succeed">Tamamlandı</string>
   <string name="sum_carrier_select">Bir ağ operatörü seçin</string>
   <string name="summary_divider_text">", "</string>
+  <string name="summary_font_size">%1$s</string>
   <string name="summary_err_backup_encrypting">Mi Hesabıyla oturum açın.</string>
   <string name="summary_err_backup_no_network">Ağ bağlantısı yok</string>
   <string name="summary_err_restore_encrypting">Geri kurtarma başarısız oldu. Mi Hesabında yedekleme olduğundan emin misiniz?</string>
@@ -4875,13 +4900,13 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="testing_sim_toolkit">SIM Araçları</string>
   <string name="testing_usage_stats">Kullanım İstatistikleri</string>
   <string name="testing_wifi_info">WLAN Bilgisi</string>
-  <string name="tether_and_hotspot_title">Direkt Bağlantı &amp; Net Paylaşımı</string>
+  <string name="tether_and_hotspot_title">Paylaşım &amp; Mobil Hotspot</string>
   <string name="tether_devices_management_title">Cihazları yönet</string>
   <string name="tether_devices_max_number">Bağlı cihazların limiti</string>
   <string name="tether_settings_disabled">Kişisel Paylaşım kapalı</string>
   <string name="tether_settings_disabled_on_data_saver">Veri Tasarrufu açıkken mobil paylaşım yapamaz veya kullanamazsınız</string>
-  <string name="tether_settings_launch_title">Mobil Paylaşım</string>
-  <string name="tether_settings_title_all">Hotspot</string>
+  <string name="tether_settings_launch_title">Mobil HotSpot</string>
+  <string name="tether_settings_title_all">Paylaşım &amp; Mobil Hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth iNet Paylaşımı</string>
   <string name="tether_settings_title_usb">USB iNet Paylaşımı</string>
   <string name="tether_settings_title_usb_bluetooth">iNet Paylaşımı</string>
@@ -5027,6 +5052,7 @@ Transferi için bekleniyor..."</string>
 alıcı aygıtın açık olduğundan emin olun"</string>
   <string name="trans_waiting_for_sender">Alıcı aygıttın bağlanması için bekliyor...</string>
   <string name="transition_animation_scale_title">Geçiş Animasyon Ölçeği</string>
+  <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Katkıda Bulunanlar</string>
   <string name="trust_agent_disabled_device_admin">Yönetici tarafından devre dışı bırakıldı</string>
   <string name="trusted_credentials">Güvenilir Kimlik Bilgileri</string>
@@ -5187,6 +5213,7 @@ Kaydettiğiniz parmakizleri de bu profilden kaldırılacak ve profilinizin kilid
   <string name="unlock_set_unlock_mode_pin">PIN</string>
   <string name="unlock_set_unlock_none_summary">Güvenlik yok</string>
   <string name="unlock_set_unlock_none_title">Yok</string>
+  <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Yok</string>
   <string name="unlock_set_unlock_password_summary">Kilidi açmak için dört veya daha fazla harfli, rakamlı şifre belirleyin</string>
   <string name="unlock_set_unlock_password_title">Şifre</string>
@@ -5595,7 +5622,13 @@ Ekle butonunu (+) kullanarak kelime ekleyin."</string>
   <string name="wifi_aggressive_handover_summary">Etkinleştirildiğinde, WLAN; WLAN sinyali düşük olduğunda, veri bağlantısını Hücresel cihaza aktarmada daha agresif olur</string>
   <string name="wifi_allow_scan_with_traffic">WLAN Dolaşım Taramasına her zaman izin ver</string>
   <string name="wifi_allow_scan_with_traffic_summary">Arayüzde mevcut veri trafiği miktarına dayalı olarak WLAN Dolaşım Taramalarına İzin Ver/İzin Verme</string>
-  <string name="wifi_and_mobile_skipped_message">"UYARI: Wi-Fi adımını atlarsanız, telefonunuz ilk indirme ve güncelleme için kullanılacak bir internet bağlantısına sahip olmayacaktır."</string>
+  <string name="wifi_and_mobile_skipped_message">"Wi-Fi'yi atlarsan:"
+
+"Telefonunuzun İnternet bağlantısı olmayacak."
+
+"Internet'e bağlanana kadar yazılım güncellemelerini almazsınız."
+
+"Şu anda cihaz koruma özelliklerini etkinleştiremezsiniz."</string>
   <string name="wifi_ap_band_config">Erişim Noktası Bandı Seç</string>
   <string name="wifi_ap_choose_2G">2.4 GHz Bandı</string>
   <string name="wifi_ap_choose_5G">5 GHz Bandı</string>
