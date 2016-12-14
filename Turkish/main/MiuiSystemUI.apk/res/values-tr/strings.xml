@@ -218,9 +218,9 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
   <string name="disabled_by_admin_summary_text">Yönetici tarafından kontrol edilir</string>
   <string name="dismount_storage">Hayır</string>
-  <string name="divider_menu_close">kapat</string>
-  <string name="divider_menu_select_apps">seç</string>
-  <string name="divider_menu_swap_task">değiştir</string>
+  <string name="divider_menu_close">Kapat</string>
+  <string name="divider_menu_select_apps">Seç</string>
+  <string name="divider_menu_swap_task">Değiştir</string>
   <string name="dlg_confirm_kill_storage_users_text">USB depolamayı açarsanız, kullandığınız bazı uygulamalar durabilir veya USB depolama kapatılana kadar kullanılamayabilir.</string>
   <string name="dlg_confirm_kill_storage_users_title">USB depolamayı aç</string>
   <string name="dlg_error_title">USB işlemi başarısız</string>
@@ -326,7 +326,7 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="nav_guide_ok">Ayarlar</string>
   <string name="nav_guide_title">Ekran düğmelerini gizle</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
-  <string name="no_multi_window_app">Çoklu pencere desteği olan uygulama yok</string>
+  <string name="no_multi_window_app">Mevcut uygulama bölünmüş ekran modunu desteklemez</string>
   <string name="no_application">Hiçbir şey</string>
   <string name="no_notification_tips">Bildirim yok.</string>
   <string name="no_weather_description">Hava Durumu bilgisini al &gt;</string>
