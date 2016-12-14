@@ -314,8 +314,8 @@
   <string name="pref_camera_skinToneEnhancement_entry_enable">Etkin</string>
   <string name="pref_camera_snap_enable_title">Hızlı Geçiş Modu</string>
   <string name="pref_camera_snap_entry_off">Kapalı</string>
-  <string name="pref_camera_snap_entry_take_movie">Video kaydını başlatmak için Ses Seviyesini Azalt düğmesine basılı tutun. Durdurmak için bırakın.</string>
-  <string name="pref_camera_snap_entry_take_picture">Seri Fotoğraf Çekimini başlatmak için Ses Seviyesini Azalt düğmesine basılı tutun.Durdurmak için bırakın.</string>
+  <string name="pref_camera_snap_entry_take_movie">Hızlı Çekim Modu (Film)</string>
+  <string name="pref_camera_snap_entry_take_picture">Seri Çekim Modu (Resim)</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"\"Ses Düğmeleriyle Uyan\" açıkken Seri Çekim Moduna geçilemiyor."</string>
   <string name="pref_camera_sound_title">Kamera Sesleri</string>
   <string name="pref_camera_square_mode_title">Kare</string>
@@ -401,7 +401,7 @@
   <string name="preparing_sd">SD Kart kontrol ediliyor…</string>
   <string name="record_back_pressed_hint">Tekrar dokunup kaydı durdurun</string>
   <string name="search_settings">Kamera Ayarları;Kalite;Fotoğraf Kalitesi;Resim Konumu;Fotoğraf Konumu;Yüz Tespiti;Kamera Sesi</string>
-  <string name="see_qrcode_detals">QR Detayları</string>
+  <string name="see_qrcode_detals">QR Kodu Detayları</string>
   <string name="setting_top_text">Kamera Modları</string>
   <string name="simple_mode_button_asd_flash">Flaş Yakalamasını Kapat</string>
   <string name="simple_mode_button_asd_hdr">HDR Yakalamasını Kapat</string>
