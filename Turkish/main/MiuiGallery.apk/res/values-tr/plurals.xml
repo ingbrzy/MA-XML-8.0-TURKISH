@@ -229,8 +229,8 @@
         <item quantity="one">1 video eşitlemeyi bekliyor</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d öğe eşitlemeyi bekliyor</item>
-        <item quantity="one">1 öğe eşitlemeyi bekliyor</item>
+        <item quantity="other">%1$d öğe yedeklenmeyi bekliyor</item>
+        <item quantity="one">1 öğe yedeklenmeyi bekliyor</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">%1$d fotoğraf eşitleniyor...</item>
