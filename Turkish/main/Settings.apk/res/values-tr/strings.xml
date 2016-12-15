@@ -3096,6 +3096,11 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="open_anr_debug">ANR hata ayıklama açık</string>
   <string name="open_miui_optimization_title">"'MIUI\'i iyi hale getir' açık"</string>
   <string name="open_miui_optimization_warning_message">Cihazınız bu değişikliği uygulamak için yeniden başlayacak</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">İptal</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Kapat</string>
+  <string name="open_personal_assistant_dialog_desc">"Akıllı Yardımcıyı kullanamaz ve güncellemelerini alamazsınız. Şimdi kapatılsın mı?"</string>
+  <string name="open_personal_assistant_dialog_title">Akıllı Yardımcıyı kapat</string>
+  <string name="open_personal_assistant_title">Akıllı Yardımcıyı aç</string>
   <string name="open_wifi_connect_summary">Ayrıntılarını görüntülemek için dokunun.</string>
   <string name="open_wifi_connect_title">%1$s bağlan</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Bu iş profilini yöneten:</string>
