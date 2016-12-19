@@ -89,7 +89,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="reboot_progress">Yeniden başlatılıyor…</string>
   <string name="replace">Yerleştir</string>
   <string name="resource_select">Seç</string>
-  <string name="screen_button_disabled_message">Gezinme düğmeleri pasif hald. Yeniden etkinleştirmek için Ana Sayfa ve Güç düğmesine aynı anda basın.</string>
+  <string name="screen_button_disabled_message">Gezinme düğmeleri pasif halde. Yeniden etkinleştirmek için Ana Sayfa ve Güç düğmesine aynı anda basın.</string>
   <string name="screen_button_enabled_message">Gezinme düğmeleri etkin</string>
   <string name="screen_button_notification_text">Açmak için, Ana Ekran ve Güç tuşlarına aynı anda basın.</string>
   <string name="screen_button_notification_title">Gezinme tuşları kapatıldı</string>
@@ -131,13 +131,15 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="softap_notifif_title">İnternet Paylaşımı \"%s\" açık</string>
   <string name="start_security_permission_verify_text">Mi Hesabıyla izinleri doğrula</string>
   <string name="status_bar_toggle_auto_brightness">Parlaklık</string>
+  <string name="status_bar_toggle_battery_saver">Pil Tasarrufu</string>
+  <string name="status_bar_toggle_battery_saver_action">com.miui.securitycenter/com.miui.powercenter.savemode.PowerSaveActivity</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
   <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
   <string name="status_bar_toggle_cast">Yansıt</string>
   <string name="status_bar_toggle_data">Mobil Veri</string>
   <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
-  <string name="status_bar_toggle_edit">Diğer</string>
+  <string name="status_bar_toggle_edit">Sırala</string>
   <string name="status_bar_toggle_flight_mode">Uçak Modu</string>
   <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
   <string name="status_bar_toggle_gps">GPS</string>
@@ -147,6 +149,8 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
   <string name="status_bar_toggle_mute">Sessiz Mod</string>
   <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
+  <string name="status_bar_toggle_nfc">NFC</string>
+  <string name="status_bar_toggle_nfc_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
   <string name="status_bar_toggle_paper_mode">Okuma Modu</string>
   <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
   <string name="status_bar_toggle_power_mode">Performans</string>
@@ -167,6 +171,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
+  <string name="subinfo_default_name">SIM %d</string>
   <string name="translation_more">Fazlası</string>
   <string name="translation_query_error">"Sonuç bulunamadı"</string>
   <string name="translation_query_error_network">"Ağa bağlanamadı. Ayarları kontrol edin ve tekrar edin"</string>
