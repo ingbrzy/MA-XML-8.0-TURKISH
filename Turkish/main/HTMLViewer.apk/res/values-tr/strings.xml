@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ad_service">Reklam Hizmeti</string>
   <string name="app_label">HTML Görüntüleyici</string>
   <string name="app_name_which_call">Uygulama:%s</string>
   <string name="app_version_which_call">Uygulama Sürümü:%s</string>
@@ -11,6 +12,8 @@
   <string name="open_wifi_connect_title">%1$s bağlanın.</string>
   <string name="permdesc_accessDrm">Uygulamaya DRM korumalı içeriğe erişim izni verir.</string>
   <string name="policy_name">Kural:%s</string>
+  <string name="settings_ad_loading">Yükleniyor...</string>
+  <string name="settings_ad_loading_unavailable">Yüklenirken bir sorun var.</string>
   <string name="settings_license_activity_loading">Yükleniyor...</string>
   <string name="settings_license_activity_title">Açık Kaynak Lisansları</string>
   <string name="settings_license_activity_unavailable">Lisans yüklenirken bir sorun oluştu.</string>
