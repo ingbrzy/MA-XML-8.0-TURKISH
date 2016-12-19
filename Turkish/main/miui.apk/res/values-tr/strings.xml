@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">"Ana Ekran'a git"</string>
-  <string name="abc_action_bar_up_description">Yukarı git ▲</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="action_mode_deselect_all">Vazgeç</string>
   <string name="action_mode_select_all">Hepsi</string>
   <string name="action_mode_title_empty">Öğeleri seç</string>
@@ -471,6 +471,7 @@
   <string name="phone">Telefon</string>
   <string name="pm">ÖS</string>
   <string name="privacy_policy">Gizlilik Kuralları</string>
+  <string name="sar">SAR</string>
   <string name="saturday">Cumartesi</string>
   <string name="saturday_short">Cts</string>
   <string name="saturday_shortest">Cts</string>
