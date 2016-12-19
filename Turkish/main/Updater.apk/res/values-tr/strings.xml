@@ -158,8 +158,8 @@
   <string name="no_updates_found">"Zaten MIUI en yeni sürüme sahip :)"</string>
   <string name="no_updates_warning">Hiçbir güncelleme bulunamadı</string>
   <string name="no_updates_warning2">"Rahatlayın, yeni bir güncelleme olduğunda size haber vereceğiz :)"</string>
-  <string name="no_wifi_msg">"Mobil veri bağlantısı kullanarak güncelleme yapmak veri kullanımını arttıracak. Eğer mobil veir bağlantı planınızı aşarsanız operatörünüz sizden ek ücret talep edebilir."</string>
-  <string name="no_wifi_title">Veri Kullanım Uyarısı</string>
+  <string name="no_wifi_msg">"Mobil verileri kullanmak ek ücretlere neden olabilir. Güncellemeleri indirmek için WLAN'a bağlanın."</string>
+  <string name="no_wifi_title">"WLAN'a bağlan"</string>
   <string name="not_open">Hayır</string>
   <string name="notification_auto_reboot_seccess_title">Cihaz otomatik olarak güncellenecek</string>
   <string name="notification_delay_update_button">İki saat içinde güncelle</string>
