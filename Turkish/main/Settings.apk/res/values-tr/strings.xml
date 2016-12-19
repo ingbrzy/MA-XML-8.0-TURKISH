@@ -34,6 +34,7 @@ Reklam tanımlayıcı, cihazınıza özgü daimi bir kimliktir. Satıcılar, dah
   <string name="abc_shareactionprovider_share_with">Paylaş:</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="about_ad_service_instructions">Reklam Hizmetleri ve Gizlilik Hakkında​</string>
   <string name="abort_backup_confirm">Yedekleme tamamlanmadı. Yinede çıkılsın mı?</string>
   <string name="about_phone_enter_xiaomi_net">Mi ağına gir</string>
   <string name="about_settings">Telefon Hakkında</string>
@@ -2370,8 +2371,8 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="lock_screen_secure_after_timeout_immediately_summary">Şifre her zaman gerekli. </string>
   <string name="lock_screen_secure_after_timeout_summary">%1$s içinde şifre iste</string>
   <string name="lock_screen_secure_after_timeout_title">Şifre istendi</string>
-  <string name="lock_screen_signature_summary">İmza, Kilit Ekranında gösterilecek</string>
-  <string name="lock_screen_signature_title">Kilit Ekran İmzası</string>
+  <string name="lock_screen_signature_summary">Bu mesaj Kilit ekranında görüntülenecektir</string>
+  <string name="lock_screen_signature_title">Kilit Ekrandaki Sahip Bilgileri</string>
   <string name="lock_screen_unlock_show">Kaydırma ekranını atla</string>
   <string name="lock_screen_unlock_show_summary">Doğrudan Ana Sayfaya ve Şifre girişi ekranına git</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Değiştirmek için dokunun</string>
@@ -4323,6 +4324,8 @@ Not: Bazen parmakizi, desen ve PIN kodundan daha az güvenlik sunar.  "&lt;annot
   <string name="set_password_message">Bu cihazın kilidini açmak, Çocuk Modunu kapatmak içinde bir şifre ayarlayın.</string>
   <string name="set_password_title">Şifre ayarla</string>
   <string name="setting_privacy_password">Gizlilik Koruma Şifresini Ayarla</string>
+  <string name="settings_ad_loading">Yükleniyor...</string>
+  <string name="settings_ad_loading_unavailable">Yüklenirken bir sorun oldu.</string>
   <string name="settings_backup">Ayarları yedekle</string>
   <string name="settings_backup_summary">Ayarlarımı yedekle</string>
   <string name="settings_button">Ayarlar</string>
@@ -5326,7 +5329,7 @@ Kaydettiğiniz parmakizleri de bu profilden kaldırılacak ve profilinizin kilid
   <string name="use_location_title">Konum &amp; Google Araması</string>
   <string name="use_nuplayer">"NuPlayer'i Kullan (deneysel)"</string>
   <string name="use_nuplayer_summary">"Diğer oynatıcı yerine NuPlayer'i kullan"</string>
-  <string name="use_personalized_ad_service">Kişiselleştirilmiş Reklamlar</string>
+  <string name="use_personalized_ad_service">Reklam tanımlayıcıyı kullan</string>
   <string name="use_privacy_password_immediate">Kullan</string>
   <string name="use_system_language_to_select_input_method_subtypes">Sistem dilini kullan</string>
   <string name="use_this_wlan">Bağlandı</string>
