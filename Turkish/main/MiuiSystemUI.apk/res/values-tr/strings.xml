@@ -36,6 +36,12 @@
   <string name="accessibility_phone_three_bars">Telefon sinyali üç çubuk.</string>
   <string name="accessibility_phone_two_bars">Telefon sinyali iki çubuk.</string>
   <string name="accessibility_recent">Son Uygulamalar</string>
+  <string name="accessibility_recent_task_enter">Son görev panelini girin ,%d görev var</string>
+  <string name="accessibility_recent_task_exit">Son görev panelinden çık</string>
+  <string name="accessibility_recent_task_first_enter_tips">Son görev paneline girin, %d görev var, kaldırmak için hızlıca kaydırın, kilitlemek için aşağıya hızlıca kaydırın</string>
+  <string name="accessibility_recent_task_locked">Kilitli, kilidini açmak için aşağı doğru hızlıca kaydır</string>
+  <string name="accessibility_recent_task_memory_info">Toplam:%2$s，Mevcut:%1$s，tüm görevleri temizlemek için çift dokunun</string>
+  <string name="accessibility_recent_task_unlocked">Kilit açıldı</string>
   <string name="accessibility_remove_notification">Bildirimi temizle.</string>
   <string name="accessibility_ringer_silent">Telefon Sessizde.</string>
   <string name="accessibility_ringer_vibrate">Telefon Titreşimde.</string>
