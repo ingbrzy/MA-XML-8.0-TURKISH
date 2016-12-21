@@ -226,13 +226,6 @@
         <item>IS95B</item>
         <item>IS95A</item>
     </string-array>
-    <string-array name="mvno_type_entries">
-        <item>Yok</item>
-        <item>SPN</item>
-        <item>IMSI</item>
-        <item>GID</item>
-		<item>ICCID</item>
-     </string-array>
     <string-array name="app_install_location_entries">
         <item>Dahili Depolama</item>
         <item>Çıkartılabilir SD Kart</item>
@@ -437,14 +430,6 @@
         <item>ART Kullan</item>
         <item>ART-Hata Ayıklama Kullan</item>
     </string-array>
-	<string-array name="select_logd_size_summaries">
-        <item>Kapalı</item>
-        <item>64K başına günlük tampon</item>
-        <item>256K başına günlük tampon</item>
-        <item>1M başına günlük tampon</item>
-        <item>4M başına günlük tampon</item>
-        <item>16M başına günlük tampon</item>
-    </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Asla denetleme</item>
         <item>DRM içeriği yalnızca kontrol edin</item>
@@ -454,20 +439,6 @@
         <item>Asla HDCP denetimi kullanma</item>
         <item>HDCP DRM içeriği yalnızca denetlenirken kullan</item>
         <item>Her zaman HDCP denetimi kullan</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Kapalı</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Kapalı</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animasyon kapalı</item>
@@ -629,11 +600,6 @@
         <item>Otomatik olarak bağlan</item>
         <item>Elle bağlan</item>
         <item>Daima sor</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices">
-        <item>Tercihen WLAN</item>
-        <item>Tercihen Hücresel</item>
-		<item>Sadece WLAN</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Tercihen WLAN</item>
