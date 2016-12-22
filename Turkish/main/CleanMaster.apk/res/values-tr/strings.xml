@@ -467,7 +467,7 @@
   <string name="title_of_traffic_notification">Veri Durum Çubuğu</string>
   <string name="title_optimizer">Hüküm ve Koşullar</string>
   <string name="title_share_link">URL Paylaşımı</string>
-  <string name="toast_add_white_list_success">" istisnalara eklendi"</string>
+  <string name="toast_add_white_list_success">"İstisnalara başarıyla eklendi"</string>
   <string name="toast_app_no_residual_on_sdcard">"Uygulamanın SD kartınızda kayıtlı hiçbir dosyası yok"</string>
   <string name="toast_backup_is_running">Yedekleme zaten çalışıyor.</string>
   <string name="toast_backup_uninstall_failed">"%d uygulamalar yedeklenemedi."</string>
@@ -479,7 +479,7 @@
   <string name="toast_must_select_before_restore">Geri yüklenecek fotoğrafları seçin</string>
   <string name="toast_network_eror">"Ağ bağlantısı yok"</string>
   <string name="toast_network_switch">Bu uygulama internete bağlanacak</string>
-  <string name="toast_removed_from_white_list">" istisnalardan kaldırıldı"</string>
+  <string name="toast_removed_from_white_list">"İstisnalardan başarıyla kaldırıldı"</string>
   <string name="toast_resolve_apk_error">APK çözümleme hatası!</string>
   <string name="toast_scaning_similar_image">Fotoğraflar kontrol ediliyor…</string>
   <string name="toast_select_image_need_delete">Silinecek fotoğrafları seçin</string>
