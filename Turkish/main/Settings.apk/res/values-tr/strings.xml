@@ -3120,7 +3120,7 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="owner_info_settings_edit_text_hint">Kilit ekranında görüntülenecek metni yazın</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Yok</string>
-  <string name="owner_info_settings_title">Kilit Ekran İmzası</string>
+  <string name="owner_info_settings_title">Kilit Ekranda Sahip Bilgisi</string>
   <string name="packages_subtitle">Dahil Paketler</string>
   <string name="pad_applock">Uygulama Kilidi</string>
   <string name="page_layout_1">1 Kasım 1928</string>
@@ -3290,7 +3290,7 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="path_other_advanced_settings">Ayarlar/Ek Ayarlar</string>
   <string name="path_owner_info_settings">Ayarlar/Kilit Ekranı &amp; Şifre/Sahip Bilgisi</string>
   <string name="path_page_layout_settings">Ayarlar/Ekran/Metin Boyutu</string>
-  <string name="path_permission_settings_title">Ayarlar/İzinler/Uygulama İzinleri</string>
+  <string name="path_permission_settings_title">Ayarlar/İzinler/İzinler</string>
   <string name="path_pn_settings">Ayarlar/Mobil Ağlar/Erişim Noktası Adı</string>
   <string name="path_pointer_speed">Ayarlar/Ek Ayarlar/Dil &amp; Giriş/İşaretleyici Hızı</string>
   <string name="path_power_checker">Ayarlar/Ek Ayarlar/Beta Özellikleri/Güç Denetleyicisi</string>
@@ -4112,7 +4112,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_oldman_mode">Hafif Mod;Yaşlılık Modu</string>
   <string name="search_onekey_migrate">Transfer;Mi Transfer</string>
   <string name="search_other_advanced_settings">Ek Ayarlar;Gizlilik Ayarları;Tarih &amp; Zaman;Dil &amp; Giriş;Tek Elle Kullanım Modu;Pil &amp; Performans;Depolama;Bildirim Işığı;Led;Kulaklık &amp; Ses Efekleri;Düğmeler;Tuşlar;Erişebilirlik;Beta Özellikleri;Test Özellikleri;Geliştirici Seçenekleri;Yedekle &amp; Sıfırla;Transfer;Tek Tuşla Gönder</string>
-  <string name="search_owner_info_settings">Sahip Bilgisi</string>
+  <string name="search_owner_info_settings">Kilit Ekran Sahip Bilgisi;Sahip Bilgisi;İmza;Kilit Ekran İmzası;Sahip</string>
   <string name="search_page_layout_settings">Metin Boyutu</string>
   <string name="search_permission_settings_title">Uygulama İzinleri</string>
   <string name="search_pointer_speed">İşaretleyici Hızı</string>
@@ -4325,7 +4325,7 @@ Not: Bazen parmakizi, desen ve PIN kodundan daha az güvenlik sunar.  "&lt;annot
   <string name="set_password_title">Şifre ayarla</string>
   <string name="setting_privacy_password">Gizlilik Koruma Şifresini Ayarla</string>
   <string name="settings_ad_loading">Yükleniyor...</string>
-  <string name="settings_ad_loading_unavailable">Yüklenirken bir sorun oldu.</string>
+  <string name="settings_ad_loading_unavailable">Yüklenirken bir sorun oluştu.</string>
   <string name="settings_backup">Ayarları yedekle</string>
   <string name="settings_backup_summary">Ayarlarımı yedekle</string>
   <string name="settings_button">Ayarlar</string>
@@ -4384,7 +4384,7 @@ Not: Bazen parmakizi, desen ve PIN kodundan daha az güvenlik sunar.  "&lt;annot
   <string name="show_ime_summary">Fiziksel klavye etkinken ekranda göster</string>
   <string name="show_magnifier_when_input">Metni büyüteç içinde göster</string>
   <string name="show_non_rect_clip">Dikdörtgensiz işlemler için hata ayıkla</string>
-  <string name="show_owner_info_on_lockscreen_label">Kilit ekranında imzayı göster</string>
+  <string name="show_owner_info_on_lockscreen_label">Kilit ekranında sahip bilgisini göster</string>
   <string name="show_password">Şifreler Görülebilsin</string>
   <string name="show_profile_info_on_lockscreen_label">Kilit ekranında profil bilgisini göster</string>
   <string name="show_rounded_corners">Köşeleri oval göster</string>
