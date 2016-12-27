@@ -140,6 +140,10 @@
         <item quantity="other">%d​ risk bulundu, şimdi düzelt</item>
         <item quantity="one">%d risk bulundu, şimdi düzelt</item>
     </plurals>
+    <plurals name="virus_clean_num">
+        <item quantity="other">Herşey düzgün gözüküyor</item>
+        <item quantity="one">Herşey düzgün gözüküyor</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d uygulama gizlilik riskleri içeriyor</item>
         <item quantity="one">%d uygulama gizlilik riskleri içeriyor</item>
