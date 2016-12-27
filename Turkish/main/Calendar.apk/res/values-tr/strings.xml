@@ -214,7 +214,6 @@
   <string name="edit_event_confirm_message">Değişiklikler gözardı edilsin mi?</string>
   <string name="edit_event_from_label">Şurdan</string>
   <string name="edit_event_label">Detaylar</string>
-  <string name="edit_event_no_reminder_value">Hatırlatıcısız</string>
   <string name="edit_event_show_all">Tümünü Göster</string>
   <string name="edit_event_tab_anniversary">yıldönümü</string>
   <string name="edit_event_tab_birthday">doğumgünü</string>
@@ -260,7 +259,6 @@
   <string name="event_lunar_month">Ay</string>
   <string name="event_not_found">Etkinlik yok</string>
   <string name="event_reminder_allday_day_zero">%2$s gün</string>
-  <string name="event_reminder_value_zero">Etkinlik Zamanı</string>
   <string name="event_reminders_to_max">Bu etkinlik yalnızca %d hatırlatmayı destekliyor</string>
   <string name="event_subscirbe_detail_title">Etkinlik hakkında daha fazla bilgi</string>
   <string name="event_title">Başlık</string>
@@ -440,7 +438,6 @@
   <string name="preferences_category_general_title">Genel Ayarlar</string>
   <string name="preferences_clear_search_history_summary">"Tüm yaptığınız aramaları temizler."</string>
   <string name="preferences_clear_search_history_title">Arama geçmişini temizle</string>
-  <string name="preferences_default_allday_reminder_title">Varsayılan tüm gün hatırlatma zamanı</string>
 <string name="preferences_debug_category">Hata Ayıklama</string>
   <string name="preferences_default_reminder_default">10</string>
   <string name="preferences_default_reminder_dialog">Varsayılan hatırlatıcı süresi</string>
