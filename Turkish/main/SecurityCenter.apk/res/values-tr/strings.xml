@@ -356,7 +356,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="card_main_xspace_title">Klonlu Uygulamalar</string>
   <string name="celcius_symbol">C°</string>
   <string name="charging_text_battery_full_time">Son Şarj:</string>
-  <string name="charging_text_battery_nearly_full">En Son Şarj:</string>
+  <string name="charging_text_battery_nearly_full">Doluma Az Kaldı:</string>
   <string name="charging_text_battery_perfect">Tam Şarj:</string>
   <string name="charging_text_time_calculating">Şarj zamanı hesaplanıyor…</string>
   <string name="chat_number">10 saat</string>
@@ -1924,6 +1924,7 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="traffic_setting_open">Açık</string>
   <string name="traffic_setting_step_num">Veri Plan Ayarları</string>
   <string name="traffic_warning_purchase_title">Mobil Veri Kullanım Uyarısı</string>
+  <string name="try_recommended_function">Cihazınızı yeni Güvenlik özelliklerini kullanarak koruyun</string>
   <string name="unable_connect_internet">İnternet bağlantısı yok</string>
   <string name="uninstall_app_dialog_msg">Kaldırma, tüm uygulama verilerini kaldırır.</string>
   <string name="uninstall_app_dialog_title">Kaldırılsın mı?</string>
