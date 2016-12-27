@@ -153,6 +153,7 @@
   <string name="color_picker_hue">Ton</string>
   <string name="color_picker_saturation">Doygunluk</string>
   <string name="comment_app_menu">Yorum</string>
+  <string name="comment_hint">Yorum</string>
   <string name="comment_menu">Yorum</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.tr</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
@@ -175,6 +176,7 @@
   <string name="contextmenu_openlink">Bağlantıyı Aç</string>
   <string name="contextmenu_openlink_newwindow">Yeni sekmede aç</string>
   <string name="contextmenu_openlink_newwindow_background">Arkaplan sekmesinde aç</string>
+  <string name="contextmenu_recognise_qr_code">QR kodunu tanı</string>
   <string name="contextmenu_savelink">Bağlantıyı kaydet</string>
   <string name="contextmenu_send_mail">E-Posta gönder</string>
   <string name="contextmenu_set_wallpaper">Duvar Kağıdı olarak ayarla</string>
@@ -541,6 +543,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_notifications_receive">Bildirimler</string>
   <string name="pref_notifications_title">Bildirimler</string>
   <string name="pref_other_title">Diğer</string>
+  <string name="pref_paper_mode_title">Okuma Modu</string>
   <string name="pref_privacy_clear_cache">Önbelleği temizle</string>
   <string name="pref_privacy_clear_cache_dlg">Yerel olarak önbelleğe alınmış içerik ve veritabanları silinsin mi?</string>
   <string name="pref_privacy_clear_cache_summary">Yerel olarak önbelleğe alınmış içerik ve veritabanlarını temizleyin</string>
