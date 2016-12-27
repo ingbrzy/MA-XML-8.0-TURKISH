@@ -366,15 +366,30 @@ Kartvizitler kapalı"</string>
   <string name="device_import_progress_toast">%1$d kişi içe aktarıldı</string>
   <string name="device_import_title">İçe aktar</string>
   <string name="device_list_title">Telefon Seç</string>
-  <string name="device_other_guide">Telefonunuz listede yok, aşağıdaki adımları deneyin</string>
-  <string name="device_other_title">Diğer Telefon</string>
+  <string name="device_other_guide">"Diğer telefon Bluetooth'u destekliyor mu?"</string>
+  <string name="device_other_title">Diğer telefondan içe aktar</string>
   <string name="device_paired_dialog_message">Kişiler alınıyor...</string>
   <string name="device_paired_dialog_title">Kişiler alınıyor...</string>
   <string name="device_pairing_dialog_message">Eşleştiriliyor...</string>
   <string name="device_pairing_dialog_title">Cihazlar eşleştiriliyor</string>
-  <string name="device_version_header_bluetooth">Bluetooth\'un açık olduğundan emin olun</string>
-  <string name="device_version_header_no_bluetooth">Kişileri SIM karttan aktar</string>
-  <string name="device_version_title">Modeli Seçin</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Lütfen cihazın \"Bluetooth\" özelliğini açın;
+        
+
+- \"Bluetooth\" genellikle Android cihazların ağ bölümünün altındadır
+        
+- \"Bluetooth\" iOS cihazlarda Ayarlar altında bulunur
+        
+
+2. Android cihazlarda \"Bulunabilir\" seçeneğinin açık olması gerekir;
+        
+
+3. \"İleri\" düğmesini tıklayın ve sonraki adımda kişilerin erişmesine izin verin."</string>
+  <string name="device_transfer_by_sim_message">"1. Diğer cihazınızın kartvizitlerini SIM karta kaydedin;
+        
+
+2. \"Kişi Ayarları\" - \"Kişileri Al/Ver\" -  "SIM karttan aktar\"  bölümüne gidin, herhangi bir SIM kişisine uzunca basın, alınacak kişileri seçin ve ardından \ "Aktar \" seçeneğine tıklayın."</string>
+  <string name="device_version_header_bluetooth">Bluetooth yoluyla aktar</string>
+  <string name="device_version_header_no_bluetooth">SIM Kart yoluyla aktar</string>
   <string name="dial">Çevir</string>
   <string name="dialerDialpadHintText">Çağrı eklemek için numarayı çevirin</string>
   <string name="dialerIconLabel">Geçmiş</string>
@@ -812,8 +827,8 @@ Kartvizitler kapalı"</string>
   <string name="multipleContactDeleteConfirmation">Bu kişiyi silmek, birden fazla hesap bilgilerinin de silinmesine neden olacak.</string>
   <string name="multipleContactDeleteConfirmationDetail">\"%s\" kişisini sildiğinizde birden fazla hesaptaki bilgiler de silinecektir !</string>
   <string name="my_in_call_show">Videolarım</string>
-  <string name="my_phone_not_provider_bluetooth">"Telefonda Bluetooth yok"</string>
-  <string name="my_phone_provider_bluetooth">Telefonda Bluetooth var</string>
+  <string name="my_phone_not_provider_bluetooth">Hayır</string>
+  <string name="my_phone_provider_bluetooth">Evet</string>
   <string name="nameLabelsGroup">Ad</string>
   <string name="name_family">Soyadı</string>
   <string name="name_given">Adı</string>
