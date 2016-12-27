@@ -59,6 +59,7 @@
   <string name="bind_phone_failed_tip">"Telefon numarası eklenemedi"</string>
   <string name="bind_phone_success_tip">Telefon numarası başarıyla eklendi</string>
   <string name="bind_success_tip">Başarıyla eklendi</string>
+  <string name="black_list">"Engellendiniz. Nedenini öğrenmek için MIUI Forum sitesine görüşlerinizi gönderin."</string>
   <string name="binded_accout_description">Mi Hesabınız KuaiPan ile eşitlendi. Şimdi Mi Hesabınızı ile KuaiPan\'da sakladığınız verilere ulaşmak için kullanabilirsiniz.</string>
   <string name="binded_accout_title">Hesaplar eşitlendi</string>
   <string name="byteShort">B</string>
@@ -276,6 +277,9 @@
   <string name="full_gems">Mücevherlerinizi değiştirin</string>
   <string name="gbk_summary">Basitleştirilmiş Çince için Windows kodlaması</string>
   <string name="gbk_title">GBK</string>
+  <string name="gender_choose_sub_tile">Kişiselleştirilmiş içerik edin</string>
+  <string name="gender_choose_sub_title">Yararlı tavsiyeler alın</string>
+  <string name="gender_choose_tip">Cinsiyetinizi seçin</string>
   <string name="get_user_info_err">"Bu kişinin hakkındakı bilgi alınamıyor"</string>
   <string name="get_verification_code_fail">"Doğrulama kodu alınamadı"</string>
   <string name="gigabyteShort">GB</string>
@@ -284,6 +288,7 @@
   <string name="group_title_extra_backup">Yedekler</string>
   <string name="group_title_extra_expire">Kullanım süresi dolmak üzere</string>
   <string name="group_title_extra_new">Yeni</string>
+  <string name="handsome_boy">Erkek</string>
   <string name="has_installed">Yüklendi</string>
   <string name="homepage_tab_category">Kategoriler</string>
   <string name="homepage_tab_file_view">Depolama</string>
@@ -597,12 +602,17 @@ ve yenilerini kaçırmayın!"</string>
   <string name="partial_cancel_successful">"Bazı dosyalar kaldırılamadı. %s dosyanın geri kalanı taşındı."</string>
   <string name="partial_delete_failure">"Bazı dosyalar silinemedi, tekrar deneyin"</string>
   <string name="partial_encrypt_success">"Bazı dosyalar gizlenemedi, tekrar deneyin"</string>
+  <string name="path_download">İndirilenleri Yönet</string>
+  <string name="path_hot_sticker">Popüler Etiketler</string>
+  <string name="path_hot_video">Popüler kısa videoları ücretsiz olarak görüntüle</string>
+  <string name="path_kuai_chuan">Eşler arası dosya aktarımı</string>
+  <string name="path_recent_file">Cihazınızdaki dosyaları yönetin</string>
   <string name="partial_repair_done">Bazı dosyalar geri yüklendi</string>
   <string name="paused">Durduruldu</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Dahili Depolama</string>
   <string name="phone_bind_skip">Atla</string>
-  <string name="phone_bind_tip">Raytin ve ödül kazanabilmek için telefon numarasını ekleyin</string>
+  <string name="phone_bind_tip">Skor ve ödül kazanabilmek için telefon numarasını ekleyin</string>
   <string name="phone_bind_title">Telefon numarası ekle</string>
   <string name="phone_btn_str">Telefon</string>
   <string name="phone_code_err">Telefon numarası veya doğrulama kodu yanlış</string>
@@ -638,6 +648,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="popup_msg_wb">Harika video değil mi? Weibo arkadaşlarınızla paylaşın!</string>
   <string name="popup_msg_wx">Bu videoyu WeChat arkadaşlarınızla paylaşın.</string>
   <string name="port_range">Port numarası 1024–65535 arasında olmalıdır</string>
+  <string name="pretty_girl">Kadın</string>
   <string name="private_files">Gizli</string>
   <string name="private_folder">Gizli Klasörler</string>
   <string name="private_folder_no_file_hints">Gizli dizin yok.</string>
@@ -705,6 +716,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="search_app_more">Fazlası</string>
   <string name="search_category">Tipi</string>
   <string name="search_description">Cihazdaki tüm dosyaları ara</string>
+  <string name="search_download">İndirilenler;Önceki İndirmeler</string>
   <string name="search_empty_view_hint">Hiçbir şey bulamadı</string>
   <string name="search_error_hint">Ara</string>
   <string name="search_file_type_apk">Apk</string>
@@ -714,7 +726,11 @@ ve yenilerini kaçırmayın!"</string>
   <string name="search_file_type_picture">Fotoğraf</string>
   <string name="search_file_type_video">Video</string>
   <string name="search_hint">Ara</string>
+  <string name="search_hot_sticker">Etiketler; Etiketleri indir</string>
+  <string name="search_hot_video">Popüler videolar; Videoları yükle; Video yükle; Kısa video; Kısa videolar; Küçük video; Küçük videolar</string>
   <string name="search_keyword">Etiketler</string>
+  <string name="search_kuai_chuan">Mi Drop;Transfer</string>
+  <string name="search_recent_file">Dosya Gezigini;Gezgin;Dosya;Dosyalar;Dosyaları yönet;Dosya yöneticisi</string>
   <string name="search_keyword_buy">Alışveriş</string>
   <string name="search_keyword_game">Oyunlar</string>
   <string name="search_keyword_im">Sohbet</string>
