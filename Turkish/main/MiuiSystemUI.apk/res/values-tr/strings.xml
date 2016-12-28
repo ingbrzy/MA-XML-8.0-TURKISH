@@ -371,14 +371,14 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="pointer_location_summary">Geçerli dokunmatik verileri gösteren ekranın yer paylaşımı</string>
   <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">Doluma: %1$s - %2$s</string>
-  <string name="power_charging_duration_ac">AC üzerinden doluma: %1$s - %2$s </string>
+  <string name="power_charging_duration_ac">AC ile Doluma: %1$s - %2$s </string>
   <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
   <string name="power_charging_duration_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_usb">USB üzerinden doluma: %1$s - %2$s</string>
+  <string name="power_charging_duration_usb">USB ile Doluma: %1$s - %2$s</string>
   <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_wireless">Kablosuzla doluma: %1$s - %2$s</string>
+  <string name="power_charging_duration_wireless">Kablosuz ile Doluma: %1$s - %2$s</string>
   <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
-  <string name="power_discharging_duration">%1$s - yaklaışık %2$s kaldı</string>
+  <string name="power_discharging_duration">%1$s - yaklaşık %2$s kaldı</string>
   <string name="power_discharging_duration_short">%1$s - %2$s kaldı</string>
   <string name="power_remaining_duration_only">Yaklaşık %1$s kaldı</string>
   <string name="power_remaining_duration_only_short">%1$s kaldı</string>
@@ -393,6 +393,8 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="quick_settings_connecting">Bağlanıyor</string>
   <string name="quick_settings_done">Tamam</string>
   <string name="quick_settings_more_settings">Diğer Ayarlar</string>
+  <string name="quick_settings_tiles">varsayılan</string>
+  <string name="quick_settings_tiles_default">wifi,hücresel,pil,dnd,flaş ışığı,döndür,bt,uçak modu,konum</string>
   <string name="quick_settings_wifi_detail_empty_text">WLAN ağı mevcut değil</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Yakındaki bir ağı seç</string>
