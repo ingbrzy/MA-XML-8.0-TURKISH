@@ -655,7 +655,6 @@ Hesabınızı etkinleştirmek için,
   <string name="passport_login">Varolan hesabınızda oturum aç</string>
   <string name="passport_login_check_find_device">Telefonu Bul durumu denetleniyor…</string>
   <string name="passport_login_check_find_device_failed">"Telefonu Bul denetimi başarısız oldu. Ağ bağlantısını kontrol edin."</string>
-  <string name="passport_login">Oturum aç</string>
   <string name="passport_login_failed">"Oturum açılamadı"</string>
   <string name="passport_login_find_device_bind">Bu cihaz mevcut Mi Hesap numarası ile bağlantılıdır (%s).Bu cihazı etkinleştirmek için oturum açın.</string>
   <string name="passport_login_instead_reg">Bu numarayı kullan</string>
@@ -695,7 +694,6 @@ Hesabınızı etkinleştirmek için,
   <string name="passport_reg_type_other_ways">Başka yollar kullanarak hesap oluşturun</string>
   <string name="passport_reg_type_other_ways_title">Başka yollar kullanarak hesap oluşturun</string>
   <string name="passport_reg_using_other_phone">Başka telefon numarası kullanarak kaydol</string>
-  <string name="passport_reg_using_other_phone">Alternatif telefon numarası kullan</string>
   <string name="passport_reg_using_other_phone_number_prompt">Başka telefon numarası kullanarak kaydol</string>
   <string name="passport_reg_using_phone_number_prompt">Telefon numarasıyla kaydol</string>
   <string name="passport_reg_via_sms_alert">Operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı için ücret alabilir.</string>
@@ -727,13 +725,11 @@ Hesabınızı etkinleştirmek için,
   <string name="passport_setting">Ayarlanıyor...</string>
   <string name="passport_sim_index_info">SIM Kart %1$d - %2$s</string>
   <string name="passport_skip_login">Oturum açmayı atla</string>
-  <string name="passport_skip_login">Atla</string>
   <string name="passport_skip_register">Oturum açmayı atla</string>
   <string name="passport_skip_setup_account_msg">Ayarlar bölümünde Mi Hesabını kurabilirsiniz.</string>
   <string name="passport_skip_setup_account_title">Kurulumu atla</string>
   <string name="passport_title_reg">Hesap oluştur</string>
   <string name="passport_trust_device">Bu cihaza güven</string>
-  <string name="passport_trust_device">Bu cihazı doğrulanmış cihazlara ekle</string>
   <string name="passport_trying_read_verify_code_sms">Doğrulama kodu al...</string>
   <string name="passport_uplink_reg">Telefon Numarasını Kullan</string>
   <string name="passport_uplink_slot1_reg">Use SIM 1</string>
