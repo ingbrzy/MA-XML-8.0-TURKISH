@@ -298,7 +298,6 @@ Sadece VKE değeri ile \"obez\" olup olmadığınıza karar veremezsiniz. Standa
     <string name="body_fat_low_need_attention">Vücudunuzun yağ oranı düşüktür. Yağ hücreleri sinir sisteminin önemli bir parçasıdır ve vücut yağının aşırı azaltılması endokrin bozukluklara neden olabilir</string>
     <string name="body_fat_need_attention">Çok fazla vücut yağı, lütfen diyette dikkat edin ve sağlıklı olmak için daha fazla egzersiz yapın</string>
     <string name="body_fat_not_up_standard" formatted="false">Standart vücut yağ oranı aralığı %s~%s olmalıdır, yine de %s yağ kaybetmeniz gerekir</string>
-    <string name="body_fat_not_up_standard_novalue" formatted="false">Standart vücut yağ oranı aralığı %s~%s olmalıdır. Şu andaki vücut yağ oranı yüksektir, dengeli diyet yapmanız, yaşam tarzınızı geliştirmeniz ve daha fazla egzersiz yapmanız gerekir</string>
     <string name="body_fat_rate">Vücut Yağ Oranı</string>
     <string name="body_figures">Vücut Tipi: %s</string>
     <string name="body_params_bmi">VKE</string>
@@ -313,7 +312,6 @@ Güçlü kaslar + dengeli vücut yağ oranı, iyi görünümlü ve sığ bir vü
 
 Kalsiyumun dengeli şekilde alınmasını ve her gün 15 dakikalık güneşlenmeyi ve 20 dakikalık egzersiz yapmayı çalışmalısınız."</string>
     <string name="bone_need_attention_infomation">Mevcut kemik kütlesi çok düşük. Dengeli kalsiyum alımını sürdürmeye çalışın, her gün 15 dakikalık güneşlenme ve 20 dakikalık egzersiz yapın</string>
-    <string name="bone_value">Kemik Kütlesi</string>
     <string name="bracelet_login_info_2">"Bu ürünü kullanarak, Xiaomi'nin belirtilen sözleşmelerini kabul etmiş sayılıyorsunuz
 "</string>
     <string name="bracelet_notify_text">Bilekliğinizi takmayı unutmayın</string>
@@ -417,7 +415,6 @@ Kalsiyumun dengeli şekilde alınmasını ve her gün 15 dakikalık güneşlenme
     <string name="download_watermark_failed">İndirilemedi</string>
     <string name="edit">Düzenle</string>
     <string name="edit_app">Uygulamaları yönet</string>
-    <string name="empty_value">--</string>
     <string name="enable_app_alert">Mi Band uyarılarını aç</string>
     <string name="enable_broadcast">Bulunabilirliği aç</string>
     <string name="enable_id_broadcast_query">Bulunabilirliği açmak istiyor musunuz?</string>
@@ -846,7 +843,6 @@ Galeriyi açın"</string>
  
  Kas kütlesi kaybı daha düşük bir bazal metabolizmayla sonuçlanır ve enerji tüketimini azaltır; kilo alırsınız veya daha kolay hasta olursunuz. Daha fazla kas, vücut yağını azaltmak için bazal metabolizmayı geliştirmek için yararlıdır"</string>
     <string name="muscle_low_infomation" formatted="false">Standart kas oranı aralığı %s~%s olmalıdır. Hâlâ %s daha fazla kasaya ihtiyacınız var. Sağlıklı yiyin ve daha fazla egzersiz yapın. Daha fazla kas sizi daha iyi koruyacaktır.</string>
-    <string name="muscle_low_infomation_novalue" formatted="false">Standart kas oranı aralığı %s~%s olmalıdır. Hâlâ kaslara ihtiyacınız var. Sağlıklı yiyin ve daha fazla egzersiz yapın. Daha fazla kas sizi daha iyi koruyacaktır.</string>
     <string name="muscle_need_attention_infomation">Daha düşük kas oranınız var. Sağlıklı yiyin ve daha fazla egzersiz yapın. Daha fazla kas sizi daha iyi koruyacak</string>
     <string name="muscle_rate">Kas</string>
     <string name="mutex_login_content">Hesabınızla %1$s tarihinde başka bir cihazda oturum açıldı</string>
@@ -1502,7 +1498,6 @@ Egzersizleriniz için Mi Band'ı eşleştirin"</string>
     <string name="share_weibo_label">Weibo</string>
     <string name="share_weight_bmi">VKE</string>
     <string name="share_weight_bodyfat">Vücut Yağı</string>
-    <string name="share_weight_current_value">Ağırlık</string>
     <string name="share_weight_figure">Vücut Tipi</string>
     <string name="share_weight_hidden_tip">Detayları gizle</string>
     <string name="share_weight_last_title">İlerleme</string>
@@ -1788,7 +1783,6 @@ menüsüne gidin."</string>
 Viskal yağ kolayca birikir ancak sert şekilde azalır. Dengeli bir diyet sürdürmeniz ve aerobik egzersizinin her gün 20 dakikadan az olmamasına dikkat edin"</string>
     <string name="visceral_high_infomation">"Visseral (iç yağ oranı) yağ seviyesi 9'dan daha düşük bir seviyeye indirilmelidir. Egzersiz yapmaya ve dengeli beslenmeye devam edin"</string>
     <string name="visceral_need_attention_infomation">Mevcut viseral yağ seviyesi çok yüksek. Egzersiz yapmak ve dengeli beslenmek daha fazla bir artışı önleyebilir</string>
-    <string name="visceral_value">İç organlara ait yağ</string>
     <string name="wait">Biraz bekleyin...</string>
     <string name="watch">Saat</string>
     <string name="watch_req_with_diff_user">Görüntülemek için aynı hesabı kullanın</string>
