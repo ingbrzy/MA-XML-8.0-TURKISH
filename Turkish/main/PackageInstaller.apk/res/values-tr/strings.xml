@@ -128,7 +128,6 @@
   <string name="bluetooth_profile_sap">SIM Erişimi</string>
   <string name="bluetooth_sap_profile_summary_connected">SAP için bağlandı</string>
   <string name="bluetooth_sap_profile_summary_use_for">SIM kart erişimini kullan</string>
-  <string name="bluetooth_sap_profile_summary_use_for">Use for SIM access</string>
   <string name="btn_text_full_scan">Tam Tara</string>
   <string name="btn_text_install_new_version">San Sürüm</string>
   <string name="btn_text_install_origin">Orjinal Sürüm</string>
@@ -169,7 +168,6 @@
 
 Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edilebilir."</string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3G Verisi devre dışı</string>
-  <string name="data_usage_disabled_dialog_4g_title">4G Verisi devre dışı</string>
   <string name="data_usage_disabled_dialog_4g_title">4G Verisi devre dışı</string>
   <string name="cta_button_text_agree">Tamam</string>
   <string name="cta_button_text_cancel">Çık</string>
@@ -214,10 +212,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="disable_overlays_summary">Her zaman ekran birleştirme için GPU\'yu kullan</string>
   <string name="disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
   <string name="disabled_by_admin_summary_text">Yönetici tarafından kontrol edilir</string>
-  <string name="dlg_app_replacement_statement">"Bu uygulama, daha önce yüklediğiniz bir uygulamanın yerine geçecek. 
-  
-  Eski kullanıcı verileri kaydedilecektir."</string>
-  <string name="dlg_app_replacement_title">Uygulama değiştirilsin mi?</string>
   <string name="dlg_ok">Tamam</string>
   <string name="dlg_sys_app_replacement_statement">"Bu bir sistem uygulamasıdır. Yine de değiştirmek istiyor musunuz?
   
@@ -354,7 +348,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="message_full_scanning">Tamamen taranıyor…</string>
   <string name="message_install_in_market">"Uygulama Mağazası'dan uygulamayı yüklemenizi öneririz"</string>
   <string name="message_quick_scanning">Hızlı taranıyor…</string>
-  <string name="message_staging">Uygulama hazırlanıyor...</string>
   <string name="miui_app_danger">"Bu uygulama güvenli değil, silin."</string>
   <string name="miui_app_detail">Detaylar</string>
   <string name="miui_app_virus">Bu uygulama virüslü, silin.</string>
@@ -460,18 +453,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="privacyPerms">Gizlilik</string>
   <string name="privacy_relative">Gizlilik</string>
   <string name="reboot_time">Yeniden başlatmaya hazırlanıyor... (%1$s)</string>
-  <string name="out_of_space_dlg_text">"%1$s yüklenemedi. Biraz boş alan açıp ve yeniden deneyin."</string>
-  <string name="out_of_space_dlg_title">Yer yok</string>
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
-  <string name="permdesc_togglePermissions">Uygulama başlangıç arayüzü için uygulama izni alır. Normal uygulamalar için hiçbir zaman gerekmez.</string>
-  <string name="permission_request_title">İzin isteği</string>
-  <string name="permission_review_title_template_install">%1$s erişmesine izin verilecek şeyin seçimini yapın</string>
-  <string name="permission_review_title_template_update">%1$s güncellendi. Bu uygulamanın erişmesine izin verilecek şeyler arasından seçim yapın.</string>
-  <string name="permission_review_warning_title_template_update">%1$s güncellendi. %1$s aşağıdakilere erişmesine izin verilsin mi?</string>
-  <string name="permission_summary_enforced_by_policy">Politikası tarafından zorlandı</string>
-  <string name="permission_title">%1$s izni</string>
-  <string name="permission_warning_template">%2$s için %1$s izin verilsin mi?</string>
-  <string name="permlab_togglePermissions">izin geçişi</string>
   <string name="picture_color_mode">Renkli Resim Modu</string>
   <string name="picture_color_mode_desc">sRGB kullan</string>
   <string name="pointer_location">İşaretleyici Konumu</string>
@@ -608,29 +590,13 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="virus_scan_is_risk">"Bu uygulama cihazınızın güvenliği açısından bir risk oluşturuyor."</string>
   <string name="virus_scan_is_virus">Bu uygulama bir virüs içeriyor.</string>
   <string name="waiting_tip">Bu biraz zaman alabilir, ancak buna değer</string>
-  <string name="wear_not_allowed_dlg_text">Wear'da desteklenmeyen kurulum/kaldırma işlemleri.</string>
+  <string name="wear_not_allowed_dlg_text">"Wear'da desteklenmeyen kurulum/kaldırma işlemleri."</string>
   <string name="wear_not_allowed_dlg_title">Android Wear</string>
   <string name="wifi_connected_no_internet">Bağlandı, İnternet yok</string>
   <string name="wifi_disabled_generic">Pasif</string>
   <string name="wifi_disabled_network_failure">IP Konfigürasyon Hatası</string>
   <string name="wifi_disabled_password_failure">Kimlik doğrulama sorunu</string>
   <string name="wifi_disabled_wifi_failure">WLAN Bağlantısı Arızası</string>
-  <string name="wifi_fail_to_scan">"Ağlar için tarama yapılamıyor"</string>
-  <string name="wifi_no_internet">"İnternet Erişimi tespit edilmedi, otomatik olarak yeniden bağlanmaz."</string>
-  <string name="wifi_not_in_range">Menzil dışı</string>
-  <string name="wifi_remembered">Kayıtlı</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
-  <string name="wifi_security_none">Yok</string>
-  <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_wep">WEP</string>
-  <string name="wifi_security_short_wpa">WPA</string>
-  <string name="wifi_security_short_wpa2">WPA2</string>
-  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-  <string name="wifi_security_wep">WEP</string>
-  <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa2">WPA2 PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="verify_apps_over_usb_title">USB üzerinden uygulamaları doğrula</string>
   <string name="vpn_settings_not_available">Bu kullanıcı için VPN ayarları mevcut değil</string>
   <string name="wait_for_debugger">Hata Ayıklama için bekle</string>
@@ -641,11 +607,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="wifi_aggressive_handover_summary">Etkinleştirildiğinde, Wi-Fi, Wi-Fi sinyali düşük olduğunda veri bağlantısını Hücresel olarak iletirken daha agresif olur</string>
   <string name="wifi_allow_scan_with_traffic">"WLAN Dolaşım Taramasına her zaman izin ver"</string>
   <string name="wifi_allow_scan_with_traffic_summary">Arabirimde mevcut veri trafiğinin miktarına dayalı olarak Wi-Fi Dolaşım taramalarına izin ver/izin verme</string>
-  <string name="wifi_connected_no_internet">Bağlandı, İnternet yok</string>
-  <string name="wifi_disabled_generic">Devre dışı</string>
-  <string name="wifi_disabled_network_failure">IP Yapılandırması başarısız oldu</string>
-  <string name="wifi_disabled_password_failure">Yetkilendirme problemi</string>
-  <string name="wifi_disabled_wifi_failure">WLAN Bağlantısı Başarısız</string>
   <string name="wifi_display_certification">Kablosuz Ekran sertifikası</string>
   <string name="wifi_display_certification_summary">Kablosuz Ekran sertifikasyonun seçeneklerini göster</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
