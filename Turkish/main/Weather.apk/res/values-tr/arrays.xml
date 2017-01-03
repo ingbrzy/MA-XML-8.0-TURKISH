@@ -134,14 +134,6 @@
         <item>11</item>
         <item>12</item>
     </string-array>
-	<string-array name="aqi_value">
-        <item>İyi</item>
-        <item>Tatminkâr</item>
-        <item>Az Kirli</item>
-        <item>Kötü</item>
-        <item>Çok Kötü</item>
-        <item>Şiddetli</item>
-    </string-array>
     <string-array name="wind_unit_simple">
         <item>Beaufort ölçeği</item>
         <item>km/s</item>
