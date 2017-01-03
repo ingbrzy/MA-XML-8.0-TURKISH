@@ -25,6 +25,38 @@
         <item>Seul</item>
         <item>Kuala Lumpur</item>
     </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_detail_title">
+        <item>İyi</item>
+        <item>Makul</item>
+        <item>Hassas Gruplar İçin Sağlıksız</item>
+        <item>Sağlıksız</item>
+        <item>Çok Sağlıksız</item>
+        <item>Tehlikeli</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Güneşli</item>
         <item>Bulutlu</item>
@@ -68,6 +100,16 @@
         <item>Elverişsiz</item>
     </string-array>
     <string-array name="wind_direction">
+        <item>Kuzey</item>
+        <item>Kuzeybatı</item>
+        <item>Doğu</item>
+        <item>Güneydoğu</item>
+        <item>Güney</item>
+        <item>Güneybatı</item>
+        <item>Batı</item>
+        <item>Kuzeybatı</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
         <item>K</item>
         <item>KD</item>
         <item>D</item>
@@ -76,5 +118,56 @@
         <item>GB</item>
         <item>B</item>
         <item>KB</item>
+    </string-array>
+	<string-array name="wind_power">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+	<string-array name="aqi_value">
+        <item>İyi</item>
+        <item>Tatminkâr</item>
+        <item>Az Kirli</item>
+        <item>Kötü</item>
+        <item>Çok Kötü</item>
+        <item>Şiddetli</item>
+    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>Beaufort ölçeği</item>
+        <item>km/s</item>
+        <item>mt/sn</item>
+        <item>mps</item>
+        <item>kn</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;2 gücünde</item>
+        <item>&lt;6.0km/s</item>
+        <item>&lt;1.7mt/sn</item>
+        <item>&lt;3.7mps</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Beaufort ölçeği</item>
+        <item>Saatte kilometre (km/s)</item>
+        <item>Saniyede metre (mt/sn)</item>
+        <item>Saatte mil (mph)</item>
+        <item>Knot (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>force %1$s</item>
+        <item>%1$skm/s</item>
+        <item>%1$smt/sn</item>
+        <item>%1$smps</item>
+        <item>%1$skn</item>
     </string-array>
 </resources>
