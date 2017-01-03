@@ -4,6 +4,12 @@
   <string name="active_xiaomi_account">Etkin</string>
   <string name="active_xiaomi_account_msg">Mi Hesabınızı etkinleştirmek için lütfen https://account.xiaomi.com/pass/serviceLogin adresine gidin.</string>
   <string name="active_xiaomi_account_title">Mi Hesabını Etkinleştir</string>
+  <string name="alpha_apply">Beta test programına kaydolun</string>
+  <string name="alpha_cancel">Beta test programından kaydını kaldır</string>
+  <string name="alpha_cancel_cancel">İptal</string>
+  <string name="alpha_cancel_confirm">Kaydınız kaldırılsın mı?</string>
+  <string name="alpha_cancel_ok">Tamam</string>
+  <string name="alpha_no_network">Kaydolmak için ağa bağlanın</string>
   <string name="app_name">Güncelleyici</string>
   <string name="apply_later_button_text">Sonra</string>
   <string name="apply_now_button_text">Güncelle</string>
@@ -128,6 +134,7 @@
   <string name="loading">İsteniyor…</string>
   <string name="log_share">Paylaş</string>
   <string name="menu_more_button">Menü</string>
+  <string name="menu_title_apply_for_alpha">Beta test programına kaydolun</string>
   <string name="menu_title_check_update">WLAN ağına bağlanınca güncelle</string>
   <string name="menu_title_current_version_log">"Yenilikler (Değişiklikler)"</string>
   <string name="menu_title_download_current_rom">En Güncel ROM\'u İndir</string>
