@@ -339,6 +339,10 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="not_support_multi_window">"Mevcut uygulama çoklu pencereyi desteklemez"</string>
   <string name="notification_header_title">Bildirimler</string>
   <string name="notification_hidden_text">İçerik gizlendi</string>
+  <string name="notification_low_battery_action_btn">Aç</string>
+  <string name="notification_low_battery_need_charge">Pil düşük. Cihazınızı şarj edin.</string>
+  <string name="notification_low_battery_open_save_mode">Pil Tasarrufunu aç</string>
+  <string name="notification_low_battery_title">Düşük Pil: %%%d</string>
   <string name="notification_manager">Bildirimleri yönet</string>
   <string name="notification_manager_des">Filtre ve Bildirimleri Yönet</string>
   <string name="notification_otg_gamestick_in">Oyun denetleyicisi bağlandı</string>
@@ -394,6 +398,7 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="quick_settings_done">Tamam</string>
   <string name="quick_settings_more_settings">Diğer Ayarlar</string>
   <string name="quick_settings_tiles">varsayılan</string>
+  <string name="quick_settings_tiles_default">wifi,hücresel,pil,dnd,flaşışığı,döndür,bt,uçakmodu,konum</string>
   <string name="quick_settings_wifi_detail_empty_text">WLAN ağı mevcut değil</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Yakındaki bir ağı seç</string>
