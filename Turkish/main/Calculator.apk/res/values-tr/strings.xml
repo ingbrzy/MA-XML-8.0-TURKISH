@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Hesap Makinesi</string>
+  <string name="app_name_danfa">Mi Hesap Makinesi</string>
   <string name="cal_convert_to_word_figure">Finansal Karakterlere Dönüştür</string>
   <string name="cal_copy">Kopyala</string>
   <string name="cal_edit_mode">Düzenleme Modu</string>
@@ -25,10 +26,11 @@
   <string name="convertion_unit_weight">Ağırlık Dönüştürücüsü</string>
   <string name="cos">cos</string>
   <string name="cosDesc">kosinüs</string>
-  <string name="currency_update_time_format">Döviz değerleri hexun.com tarafından sağlanıyor (%s)</string>
+  <string name="cos_mathematical_value">cos</string>
+  <string name="currency_update_time_format">Döviz değerleri webull tarafından sağlanıyor (%s)</string>
   <string name="current_rate_remind_commercial"/>
   <string name="current_rate_remind_fund"/>
-  <string name="dateformat">MM,dd,yyyy</string>
+  <string name="dateformat">dd/MM/yyyy</string>
   <string name="day">gün</string>
   <string name="del">SİL</string>
   <string name="digit0">0</string>
@@ -47,6 +49,7 @@
   <string name="dotDesc">Nokta</string>
   <string name="e">e</string>
   <string name="eDesc">"Euler Sayısı"</string>
+  <string name="e_mathematical_value">e</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">Eşittir</string>
@@ -81,8 +84,10 @@
   <string name="leftParenDesc">Sol parantez</string>
   <string name="lg">log</string>
   <string name="lgDesc">Logaritma</string>
+  <string name="lg_mathematical_value">lg</string>
   <string name="ln">ln</string>
   <string name="lnDesc">Tabii logaritma</string>
+  <string name="ln_mathematical_value">ln</string>
   <string name="loan_edittext_hint_commercial">Miktarı Girin</string>
   <string name="loan_edittext_hint_commercial_combined">Ticari</string>
   <string name="loan_edittext_hint_fund">Miktarı Girin</string>
@@ -138,17 +143,38 @@
   <string name="plusDesc">Artı</string>
   <string name="power">^</string>
   <string name="powerDesc">Güç</string>
+  <string name="preference_about_calculator">Hesap Makinesi Hakkında</string>
+  <string name="preference_alert_follow_qq_group">"Geribildirim için QQ'ya kopyalayıp yapıştırın"</string>
+  <string name="preference_alert_follow_wechat">"Takip etmek için WeChat'e kopyalayıp yapıştırın"</string>
+  <string name="preference_alert_follow_wechat_button">Kopyala</string>
+  <string name="preference_check_update_summary_current_version">Geçerli Sürüm：%s</string>
+  <string name="preference_check_update_summary_new_version">Yeni Sürüm：%s</string>
+  <string name="preference_check_update_title">Güncellemeleri denetle</string>
+  <string name="preference_feedback_title">SSS</string>
+  <string name="preference_follow_qq_group">QQ Grubu:523274279</string>
+  <string name="preference_follow_us">Takip Et</string>
+  <string name="preference_follow_web_summary">www.miui.com</string>
+  <string name="preference_follow_web_title">Resmi Site</string>
+  <string name="preference_follow_wechat_summary">MIUI</string>
+  <string name="preference_follow_wechat_title">WeChat</string>
+  <string name="preference_follow_weibo_summary">\@MIUI</string>
+  <string name="preference_follow_weibo_title">Sina Weibo</string>
+  <string name="preference_settings">Ayarlar</string>
+  <string name="preference_use_degress_summary">Trigonometrik fonksiyonlarda açıları radyanla değiştir</string>
+  <string name="preference_use_degress_title">Açıları kullan</string>
   <string name="rate_data_provider">Faiz aralıkları hexun.com sitesinden alınmaktadır</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">Sağ parantez</string>
   <string name="sin">sin</string>
   <string name="sinDesc">Sinüs</string>
+  <string name="sin_mathematical_value">sin</string>
   <string name="social_security"/>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">Kare kök</string>
   <string name="start_calculate"/>
   <string name="tan">tan</string>
   <string name="tanDesc">Tanjant</string>
+  <string name="tan_mathematical_value">tan</string>
   <string name="tax_accumulation_fund">Birikmiş Fon</string>
   <string name="tax_annual_bonus_hint">Vergiden önceki primi girin</string>
   <string name="tax_annual_bonus_number">Prim</string>
@@ -189,10 +215,23 @@
   <string name="times"/>
   <string name="title_bar">Uzunluk Dönüştürücü</string>
   <string name="to_num">62.7</string>
+  <string name="unit_data_default_area_0">sq.m</string>
+  <string name="unit_data_default_area_1">sq.cm</string>
+  <string name="unit_data_default_currency_0">CNY</string>
+  <string name="unit_data_default_currency_1">USD</string>
+  <string name="unit_data_default_currency_2">EUR</string>
   <string name="unit_data_default_length_0">m</string>
   <string name="unit_data_default_length_1">cm</string>
+  <string name="unit_data_default_temperature_0">C</string>
+  <string name="unit_data_default_temperature_1">F</string>
+  <string name="unit_data_default_time_0">dak</string>
+  <string name="unit_data_default_time_1">s</string>
+  <string name="unit_data_default_velocity_0">mps</string>
+  <string name="unit_data_default_velocity_1">kmps</string>
+  <string name="unit_data_default_volume_0">cu.m</string>
+  <string name="unit_data_default_volume_1">cu.cm</string>
   <string name="unit_data_default_weight_0">kg</string>
-  <string name="unit_data_default_weight_1">g</string>
+  <string name="unit_data_default_weight_1">gr</string>
   <string name="unit_data_display_area_acre">Acre</string>
   <string name="unit_data_display_area_are">Are</string>
   <string name="unit_data_display_area_ha">Hektar</string>
@@ -371,9 +410,9 @@
   <string name="wf_word_figure">Finansal Karakterler</string>
   <string name="word_figure_big_unit_fen">分</string>
   <string name="word_figure_big_unit_jiao">角</string>
-  <string name="word_figure_big_unit_wan">万 </string>
-  <string name="word_figure_big_unit_yi">亿 </string>
-  <string name="word_figure_big_unit_zhao">兆 </string>
+  <string name="word_figure_big_unit_wan">"万 "</string>
+  <string name="word_figure_big_unit_yi">"亿 "</string>
+  <string name="word_figure_big_unit_zhao">"兆 "</string>
   <string name="word_figure_number_0">零</string>
   <string name="word_figure_number_1">壹</string>
   <string name="word_figure_number_2">贰</string>
@@ -389,5 +428,15 @@
   <string name="word_figure_unit_shi">拾</string>
   <string name="word_figure_yuan">元</string>
   <string name="word_figure_zheng">整</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_connect_download_manager_fail">"İndirme Yöneticisine bağlantı başarısız oldu, lütfen Uygulama Yönetimi'ndeki İndirme Yöneticisinden durumunu kontrol edin."</string>
+  <string name="xiaomi_external_storage_unavailable">Depolama alanı kullanılamıyor, lütfen SD kartını kontrol edin.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_update_dialog_message">"Tanıtım Sürümü: %1$s
+Boyut: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Tanıtım Sürümü: %1$s
+Delta Güncelleme Boyutu: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">%1$s güncellemesi!</string>
   <string name="year"/>
 </resources>
