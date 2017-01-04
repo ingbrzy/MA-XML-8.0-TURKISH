@@ -77,6 +77,15 @@
   <string name="app_new_version">Bu uygulamanın son sürümü zaten yüklü</string>
   <string name="app_update_install">Güncelleştirmeyi yüklemek için hazır.</string>
   <string name="application_name">Tarayıcı</string>
+  <string name="aqi_quality_index_break">Ağır Tehlikeli</string>
+  <string name="aqi_quality_index_dangerous">Tehlikeli</string>
+  <string name="aqi_quality_index_good">İyi</string>
+  <string name="aqi_quality_index_hazardous">Riskli</string>
+  <string name="aqi_quality_index_light_pollution">Hafif Kirlilik</string>
+  <string name="aqi_quality_index_moderate">Makul</string>
+  <string name="aqi_quality_index_pure">Mükemmel</string>
+  <string name="aqi_quality_index_unhealthy">Sağlıksız</string>
+  <string name="autofill_keyboard_accessory_content_description">Öneriler Mevcut</string>
   <string name="autofill_popup_content_description">Otomatik doldurma penceresini göster </string>
   <string name="autologin_bar_error">"Oturum açılamadı"</string>
   <string name="autologin_bar_hide_text">Gizle</string>
@@ -299,6 +308,7 @@
   <string name="find_on_page_next">Sonraki</string>
   <string name="find_on_page_prev">Önceki</string>
   <string name="find_previous">Öncekini bul</string>
+  <string name="fling_on_border_gesture_hint">"Bu hareketin işlevini Ayarlar'dan seçebilirsiniz"</string>
   <string name="force_quick_search_title">Ara</string>
   <string name="force_touch_bookmark_history_title">Favori ve Geçmiş</string>
   <string name="force_touch_infoflow_title">Haberler</string>
@@ -319,6 +329,7 @@
   <string name="gold_medals">Altın Madalyalar</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Ana Ekrana yerleştirildi</string>
+  <string name="hint">İpucu</string>
   <string name="history_saved_webpage">Sayfayı kaydet</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Sil</string>
@@ -403,6 +414,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miuichromium_error_page_airplane_mode_on">Bağlamak için Uçak Modunu kapatın</string>
   <string name="miuichromium_error_page_btn_close">Kapat</string>
   <string name="miuichromium_error_page_btn_refresh">Yenile</string>
+  <string name="miuichromium_error_page_btn_report_issue">Sorunu bildir</string>
   <string name="miuichromium_error_page_diagnose">Ağı Tanımla</string>
   <string name="miuichromium_error_page_diagnose_banner">Ağ Tanılama</string>
   <string name="miuichromium_error_page_diagnose_certificate">"Ağ protokolü doğrulanamadı"</string>
@@ -529,8 +541,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_file_download_default_path_prefix">Varsayılan Konum: %s</string>
   <string name="pref_file_download_save_modify_default_path">İndirme Yeri</string>
   <string name="pref_file_download_save_title">İndirmeler</string>
-  <string name="pref_fling_on_border_enabled">Sekmelerde geçişlerini kenarından kaydırın</string>
-  <string name="pref_fling_on_border_enabled_title_summary">Sekmeler arasında geçiş yapmak için ekranın sol veya sağ kenarından kaydırın</string>
+  <string name="pref_fling_on_border">Kenardan hızlıca kaydır</string>
+  <string name="pref_fling_on_border_title_summary">Ekranın sol veya sağ kenarından hızlıca kaydırın</string>
   <string name="pref_font_size_category">Yazı boyutu</string>
   <string name="pref_force_userscalable">Yakınlaştırmaya zorla</string>
   <string name="pref_force_userscalable_summary">"Yakınlaştırma davranışını denetlemek için web sitesinin talebini geçersiz kıl"</string>
