@@ -41,4 +41,9 @@
         <item>Sil</item>
         <item>Hayır, teşekkürler</item>
     </string-array>
+	<string-array name="pref_fling_on_border_gesture_entries">
+        <item>Sayfa geri</item>
+        <item>Sekmeleri değiştir</item>
+        <item>Yok</item>
+    </string-array>
 </resources>
