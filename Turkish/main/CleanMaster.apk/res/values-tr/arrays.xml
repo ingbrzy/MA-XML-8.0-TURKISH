@@ -9,7 +9,7 @@
         <item>Ad</item>
     </string-array>
     <string-array name="installed_app_sort_type">
-        <item>Sıkça kullanılan</item>
+        <item>Sıkça Kullanılan</item>
         <item>Boyut</item>
     </string-array>
     <string-array name="auto_clean_time">
@@ -68,5 +68,15 @@
     </string-array>
     <string-array name="low_memory_clean_menu">
         <item>Temizle</item>
+    </string-array>
+	<string-array name="wechat_menu_delete">
+        <item>Temizle</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist">
+        <item>Temizle</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist_view">
+        <item>Temizle</item>
+        <item>Görüntüle</item>
     </string-array>
 </resources>
