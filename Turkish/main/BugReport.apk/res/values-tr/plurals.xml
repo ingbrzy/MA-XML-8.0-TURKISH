@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="time_in_hour">
+        <item quantity="other">%1$d saat önce</item>
+        <item quantity="one">"%1$d saat önce "</item>
+    </plurals>
+    <plurals name="time_in_minute">
+        <item quantity="other">%1$d dakika önce</item>
+        <item quantity="one">%1$d dakika önce</item>
+    </plurals>
+    <plurals name="time_in_second">
+        <item quantity="other">%1$d saniye önce</item>
+        <item quantity="one">%1$d saniye önce</item>
+    </plurals>
+</resources>
