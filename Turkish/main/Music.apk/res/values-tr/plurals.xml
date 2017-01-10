@@ -58,6 +58,10 @@
         <item quantity="other">%d şarkı kaldırılsın mı?</item>
         <item quantity="one">%d şarkı kaldırılsın mı?</item>
     </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">%d şarkı Mi Bulut üzerinden silinsin mi?</item>
+        <item quantity="one">%d şarkı Mi Bulut üzerinden silinsin mi?</item>
+    </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d şarkı listeye eklendi</item>
         <item quantity="one">Şarkı listeye eklendi</item>
@@ -101,5 +105,26 @@
     <plurals name="reader_count">
         <item quantity="other">%d takipçi</item>
         <item quantity="one">%d takipçi</item>
+    </plurals>
+	<plurals name="Nunbackup_audios">
+        <item quantity="other">"%1$d şarkı yedeklenemedi (%2$.1fMB)"</item>
+        <item quantity="one">"%1$d şarkı yedeklenemedi (%2$.1fMB)"</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">%1$d şarkıyı yedekle (%2$.1fMB)</item>
+        <item quantity="one">%1$d şarkıyı yedekle (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Şarkılar yedekleniyor, %1$d şarkı kaldı (%2$.1fMB)</item>
+        <item quantity="one">Şarkı yedekleniyor, %1$d şarkı kaldı (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d şarkı Mi Bulut'a yedeklenemedi. Şimdi durdurulsun mu?"</item>
+        <item quantity="one">"%d şarkı Mi Bulut'a yedeklenemedi. Şimdi durdurulsun mu?"</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">%1$s oluşturuldu | Toplam %2$d şarkı</item>
+        <item quantity="zero">%1$s oluşturuldu | Toplam %2$d şarkı</item>
+        <item quantity="one">%1$s oluşturuldu | Toplam %2$d şarkı</item>
     </plurals>
 </resources>
