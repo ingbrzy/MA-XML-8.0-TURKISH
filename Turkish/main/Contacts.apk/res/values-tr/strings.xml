@@ -404,6 +404,9 @@ Kartvizitler kapalı"</string>
   <string name="dialer_menu_title">Menü Seçenekleri</string>
   <string name="dialer_returnToInCallScreen">Çağrıya dön</string>
   <string name="dialer_useDtmfDialpad">Dokunmatik Tuş Takımı kullan</string>
+  <string name="dialog_device_info_hardware_version">Donanım Sürümü: %s</string>
+  <string name="dialog_device_info_miui_version">MIUI Sürümü: %s</string>
+  <string name="dialog_device_info_title">Sürüm Bilgisi</string>
   <string name="dialog_import">Kişileri içe aktar</string>
   <string name="dialog_import_export">Kişileri içe/dışa Aktar</string>
   <string name="dialog_new_contact_account">Hesaptan kişileri aktar</string>
@@ -413,6 +416,10 @@ Kartvizitler kapalı"</string>
   <string name="dialog_voicemail_airplane_mode_message">Sesli arama için öncelikle Uçak Modunu kapatınız.</string>
   <string name="dialog_voicemail_not_ready_message">Sesli Mesajı ayarlarmak için, Menü &gt; Ayarlara git.</string>
   <string name="directory_search_label">Dizin</string>
+  <string name="disclaimer_text">"Sarı sayfalar SMS göndererek bakiyenizle ilgili bilgi alır. Operatörünüz bu bilgiyi bir gecikme ile güncelleyebilir, dolayısıyla aldığınız sayılar doğru olmayabilir. Bir hata görürseniz, bu hizmeti iyileştirmemize yardımcı olmak için soruşturma SMS'iyle bildirebilirsiniz. 
+
+Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelliyoruz."</string>
+  <string name="disclaimer_title">Disclaimer</string>
   <string name="dirty_contacts_notification_description">%d değişiklikleri Mi Hesabınızla eşitlenemedi</string>
   <string name="dirty_contacts_notification_message">Ayarlardan istediğiniz zaman bu hatırlatıcıyı kapatın.</string>
   <string name="dirty_contacts_notification_title">Kişiler eşitlensin mi?</string>
@@ -1129,6 +1136,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="remove_duplicate">"MIUI aynı kişileri bulup birleştirmenize yardım edecek.
 
   Başlamak için ekranın altındaki simgeye dokunun."</string>
+  <string name="report_inquiry_mms">"SMS'i Raporla"</string>
   <string name="restore_nickname">Geri Yükle</string>
   <string name="ret_sign">"
 "</string>
