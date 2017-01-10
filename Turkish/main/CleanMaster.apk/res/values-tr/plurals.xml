@@ -81,4 +81,12 @@
         <item quantity="other">%d uygulama yüklendi</item>
         <item quantity="one">%d uygulama yüklendi</item>
     </plurals>
+	<plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">"%d dışa aktarılamadı. Alanı boşaltın ve tekrar deneyin."</item>
+        <item quantity="one">"%d dışa aktarılamadı. Alanı boşaltın ve tekrar deneyin."</item>
+    </plurals>
+    <plurals name="wechat_empty_files">
+        <item quantity="other">（%1$d boş dosya）%2$s</item>
+        <item quantity="one">（%1$d boş dosya）%2$s</item>
+    </plurals>
 </resources>
