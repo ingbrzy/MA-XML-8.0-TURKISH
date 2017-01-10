@@ -32,6 +32,7 @@
   <string name="gs_performance_mode_detail">Kesintisiz performans sağlamak için CPU kullanımını artır</string>
   <string name="install_game_count">%d oyun eklendi</string>
   <string name="loading">Biraz bekleyin…</string>
+  <string name="lucky_result_title">红包助手战绩</string>
   <string name="main_toolbar_purchase">Kontör</string>
   <string name="man_add_application">Otomatik başlayan uygulamaları elle ekle</string>
   <string name="miuishare_title_more">Fazlası</string>
@@ -79,4 +80,6 @@
   <string name="top_game">En İyiler</string>
   <string name="uninstall_game_count">"%d oyun eklenemedi"</string>
   <string name="usage_sorted_loading_text">Biraz bekleyin...</string>
+  <string name="wlan_change_protection_detail">"Mobil veri şebekesine bağlandığında WLAN'a otomatik olarak geçme"</string>
+  <string name="wlan_change_protection_title">Anahtarlama ağlarını önle</string>
 </resources>
