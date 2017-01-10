@@ -335,6 +335,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="card_main_deepclean_title">Derin Temizlik</string>
   <string name="card_main_gamebooster_summary">Açılış Hızı &amp; Oyun Deneyimini Geliştir</string>
   <string name="card_main_gamebooster_title">Oyun Hızını Arttır</string>
+  <string name="card_main_hbassistant_summary">Zarfları daha hızlı kapmak için bu aracı kullanın</string>
+  <string name="card_main_hbassistant_title">Kırmızı zarf asistanı</string>
   <string name="card_main_monthreport_action">Görüntüle</string>
   <string name="card_main_monthreport_summary">Aylık raporları görüntüle</string>
   <string name="card_main_monthreport_title">Güvenlik Başlatmaları</string>
@@ -643,6 +645,13 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="item_usb_debug">USB Hata Ayıklama</string>
   <string name="item_virus">Virüs</string>
   <string name="item_virus_lib">Virüs tanımlarını otomatik olarak güncelle</string>
+  <string name="key_business">key_business</string>
+  <string name="key_lucky_money_notification_settings">key_lucky_money_notification_settings</string>
+  <string name="key_lucky_sound">key_lucky_sound</string>
+  <string name="key_miliao">key_miliao</string>
+  <string name="key_only_group_message">key_only_group_message</string>
+  <string name="key_qq">key_qq</string>
+  <string name="key_wechat">key_wechat</string>
   <string name="keywords_antispam">Kara Liste;Engelle;Kara Liste;Akıllı Kara Liste;Sahtekârlık;Pazarlama;Ajanslar</string>
   <string name="keywords_antivirus">Virüs;Risk;Antivirüs;Tara</string>
   <string name="keywords_applicationlock">Şifre;Gizlilik;Uygulama Kiliti;Erişim;Koruma</string>
@@ -1148,7 +1157,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="power_optimize_btn_text_fixed">İyi hale getirildi</string>
   <string name="power_optimize_catagory_fixed_title">İyi hale getirildi</string>
   <string name="power_optimize_close_app">Güç tüketen uygulamaları kapat</string>
-  <string name="power_optimize_disable_app_autostart">Uygulamaların otomatin açılmasının önüne geç</string>
+  <string name="power_optimize_disable_app_autostart">Uygulamaların otomatik açılmasının önüne geç</string>
   <string name="power_optimize_disable_gps">"GPS'i kapat"</string>
   <string name="power_optimize_disable_start_other_app">Uygulamaların başka uygulama açmasının önüne geç</string>
   <string name="power_optimize_loading">Yükleniyor...</string>
