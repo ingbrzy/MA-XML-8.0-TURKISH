@@ -3,6 +3,8 @@
   <string name="SMTP_independent_verification_text">SMTP Bağımsız Doğrulama</string>
   <string name="SMTP_password_text">Şifre</string>
   <string name="SMTP_username_text">Kullanıcı Adı</string>
+  <string name="accessibility_guide_first">Bir sonraki ekranda, \"Hizmetler\" sekmesini seçerek 139 Posta Kutusu'nu otomatik olarak yapılandırın</string>
+  <string name="accessibility_guide_second">Daha sonra sağ üst köşedeki anahtara tıklayın, devam etmek için \"Onayla\" düğmesini tıklayın.</string>
   <string name="account_duplicate_dlg_message_fmt">"\"%s\" hesabı için zaten bu kullanıcı adını kullanıyorsunuz."</string>
   <string name="account_duplicate_dlg_title">Tekrarlanan Hesap</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -138,7 +140,7 @@
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Koru</string>
   <string name="account_setup_options_title">Hesap Ayarları</string>
   <string name="account_setup_outgoing_port_label">Port</string>
-  <string name="account_setup_outgoing_require_login_label">Oturum gerekiyor</string>
+  <string name="account_setup_outgoing_require_login_label">Oturum açmanız gerekiyor</string>
   <string name="account_setup_outgoing_smtp_server_label">SMTP Sunucusu</string>
   <string name="account_setup_security_policies_required_fmt">"   %s sunucusu,  Android cihazınızın bazı güvenlik özelliklerini uzaktan kontrol edebilmek için sizden izin istiyor. Bu hesabı ayarlamayı tamamlamak istiyor musunuz?"</string>
   <string name="account_setup_security_required_title">Uzaktan Güvenlik Yönetimi</string>
@@ -203,6 +205,14 @@
   <string name="auto_advance_help_title">Postayı sildikten sonra, görüntüle </string>
   <string name="auto_advance_label">Sildikten sonra devam et</string>
   <string name="auto_advance_summary">Posta silindikten sonra ilerlemek için bir posta seçin</string>
+  <string name="auto_mail_describe">139 E-posta Hizmeti Otomatik Yapılandırma, oturum açma bilgilerini posta kutusuna girmenize yardımcı olabilir. Bu özelliği etkinleştirmek istiyor musunuz?</string>
+  <string name="auto_mail_disable_txt">Pasif</string>
+  <string name="auto_mail_enable_txt">Başlatma Ayarları</string>
+  <string name="auto_mail_go_email">Posta Kutusu</string>
+  <string name="auto_mail_name">Otomatik Posta</string>
+  <string name="auto_mail_title_note">\"139 Posta Kutusunu Oto. Yapılandırma\" seçeneğini bulun, başlamak için tıklayın.</string>
+  <string name="auto_mail_window_description">139 Posta Kutusunu Oto. Yapılandırma</string>
+  <string name="auto_mail_window_label">139 Posta Kutusunu Oto. Yapılandırma</string>
   <string name="auto_sync_off">Otomatik eşitleme kapalı.</string>
   <string name="battery_saver">Pil Tasarrufu</string>
   <string name="battery_saver_keywords">pil tasarrufu;batarya;pil koruyucu;posta tasarrufu</string>
@@ -244,6 +254,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Resimler temizlensin mi?</string>
   <string name="clear_display_images_whitelist_title">Resimleri temizle</string>
   <string name="click_download_all_content">[ İçeriği indirmek için dokunun ]</string>
+  <string name="close">Kapat</string>
   <string name="click_to_reload">Yeniden yüklemek için ekrana tıklayın</string>
   <string name="collapse_recipient_details">Alıcı ayrıntılarını daralt</string>
   <string name="colon">:</string>
@@ -253,6 +264,9 @@
   <string name="compose_picturesexceedlimits">"5\'den fazla resim eklenemez!"</string>
   <string name="compose_send">Gönder</string>
   <string name="compose_sent">Posta gönderildi</string>
+  <string name="config">139 Posta Kutusu Telefon Numarası Yapılandırıldı</string>
+  <string name="config_cancel">İptal</string>
+  <string name="config_retry">Tekrar Dene</string>
   <string name="confirm">Tamam</string>
   <string name="confirm_before_delete">Silmeden önce onayla</string>
   <string name="confirm_before_delete_keywords">onayla;silmeden önce onayla;silmeyi onayla</string>
@@ -305,8 +319,8 @@
   <string name="conversation_item_mark_read">Okundu</string>
   <string name="conversation_item_mark_unread">Okunmadı</string>
   <string name="conversation_photo_welcome_text">Bu postayı seçmek için gönderenin resmine dokunun.</string>
-  <string name="conversation_quick_button_approve">Kabul</string>
-  <string name="conversation_quick_button_disapprove">Reddet</string>
+  <string name="conversation_quick_button_approve">Tamam</string>
+  <string name="conversation_quick_button_disapprove">İptal</string>
   <string name="conversation_quick_button_received">Alındı</string>
   <string name="conversation_view">Görüşmeyi Görüntüle</string>
   <string name="conversation_view_keywords">görüntüle;içeriği görüntüle;postaya bak;posta görüşmesi</string>
@@ -371,6 +385,7 @@
   <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">Hızlı Cevap</string>
   <string name="elided_padding_token"> </string>
+  <string name="email_address">E-Posta Adresi</string>
   <string name="email_feedback_uri"/>
   <string name="email_netease">NetEase Posta</string>
   <string name="email_package_name">com.android.email</string>
@@ -386,6 +401,7 @@
   <string name="empty_trash_dialog_title">Çöp Kutusu temizlensin mi?</string>
   <string name="enable_sync_in_account_settings">%1$s içinde aç.</string>
   <string name="enumeration_delimiter">" | "</string>
+  <string name="error">error</string>
   <string name="exception_cancel">"
         Bu olay şunun için iptal 
     edildi:
@@ -412,7 +428,10 @@
   <string name="file_not_found_redownload">"Dosya bulunamadı"</string>
   <string name="file_rar_not_support">"Şifrelenmiş rar dosyalarını açamaz"</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
-  <string name="first_quick_default_reply">Bu kısayola tıklanınca, \"%s\" tüm alıcılara gönderilecek.</string>
+  <string name="first_quick_default_reply">Mesaj dizisindeki tüm kişilere \"%s\" göndermek için düğmeye dokunun</string>
+  <string name="float_window_content">Posta kutusunu kullandığınız algılar, otomatik olarak 139 E-Posta hesabı ve parolasını girmesini onayla seçeneğini tıklayın.</string>
+  <string name="float_window_info">"139 posta kutusunu yapılandırırken, yapılandırma hataları olduğu durumunda telefonu çalıştırmayın."</string>
+  <string name="float_window_title">Yapılandırma.........</string>
   <string name="folder_drafts_name_cn0">Taslak</string>
   <string name="folder_drafts_name_cn1">Taslaklar</string>
   <string name="folder_drafts_name_cn2">[Gmail]/Taslak</string>
@@ -481,6 +500,7 @@
   <string name="header_category_other">Geribildirim</string>
   <string name="header_label_general_preferences">Genel</string>
   <string name="help_and_info">Yardım</string>
+  <string name="help_config">Kendi Yapılandır</string>
   <string name="hide_atts_remaining">%1$d ekleri gizle</string>
   <string name="hide_elided">Alıntılanan metni gizle</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -518,6 +538,7 @@
   <string name="local_search">Yerelde Ara</string>
   <string name="local_search_result">%seşitlenmiş mesaj sonucu</string>
   <string name="login">Oturum aç</string>
+  <string name="login139">CMCC Tek tuşla oturum aç</string>
   <string name="login_failed_ticker">%s oturum açıldı</string>
   <string name="login_failed_title">"Oturum açılamadı"</string>
   <string name="long_press_to_select_tip">Dokunun &amp; bir postayı seçmek için basılı tutun, daha sonra seçmek için dokunun.</string>
@@ -551,8 +572,8 @@
   <string name="mark_important">Önemli olarak işaretle</string>
   <string name="mark_not_important">Önemsiz olarak işaretle</string>
   <string name="mark_not_spam">İstenmeyen olarak işaretle</string>
-  <string name="mark_read">Okundu diye işaretle</string>
-  <string name="mark_unread">Okunmadı diye işaretle</string>
+  <string name="mark_read">Okundu &#x2714;</string>
+  <string name="mark_unread">Okunmadı &#x2714;</string>
   <string name="me_object_pronun">ben</string>
   <string name="me_subject_pronun">ben</string>
   <string name="meeting_accepted">Kabul Edildi: %s</string>
@@ -613,6 +634,7 @@
   <string name="net_check_title">Ağ bağlantısı kurulamadı. Ağ ayarlarını kontrol edin ve tekrar deneyin.</string>
   <string name="network_error">Bağlantı yok</string>
   <string name="network_not_available">"Ağa bağlanamıyor"</string>
+  <string name="network_tip">Kimlik doğrulama başarısız oldu, lütfen ağ bağlantınızı kontrol edin</string>
   <string name="network_try_again">Ağı kontrol edin ve tekrar deneyin</string>
   <string name="network_unavailable">Ağ mevcut değil</string>
   <string name="new_incoming_messages_one"> %s\'dan yeni mesaj. Göster.</string>
@@ -627,8 +649,11 @@
   <string name="no_conversations">Mesaj yok.</string>
   <string name="no_mails">E-Posta yok</string>
   <string name="no_matched_attachment">Sonuç yok.</string>
+  <string name="no_remind">Hatırlatıcı yok</string>
   <string name="not_subject">(Konusuz)</string>
-  <string name="not_synced_title">Hesap eşleşemedi</string>
+  <string name="not_synced_title">Hesap eşitlenemedi</string>
+  <string name="note_text">Olası China Mobile veya SMS doğrulama ağı vasıtasıyla, akış veya SMS için ilave maliyetler ücretlenebilir.</string>
+  <string name="note_title">139 E-posta Otomatik Yapılandırma</string>
   <string name="notification_action_archive">Arşiv</string>
   <string name="notification_action_delete">Sil</string>
   <string name="notification_action_remove_label">Etiketi kaldır</string>
@@ -641,6 +666,7 @@
   <string name="oauth_error_description">"Kimlik doğrulaması yapılamadı"</string>
   <string name="oauth_gmail_login_notify">Aşağıdaki oturum sayfasından Google Hesabı kullanıcı adınızı ve şifrenizi girin.</string>
   <string name="oauth_login_continue">Devam</string>
+  <string name="oauth_login_continue_qq"> &gt; giriş yapmak için yetkilendirme kodunu edinin</string>
   <string name="ok">Tamam</string>
   <string name="okay_action">Tamam</string>
   <string name="outbox_alert_button_no_resend">"Gönderme!"</string>
@@ -665,6 +691,10 @@
   <string name="outbox_alert_select_operation">Bir faaliyet seçin</string>
   <string name="outbox_alert_title_sent_failed">"Posta gönderilemedi"</string>
   <string name="outbox_no_mails">Boş</string>
+  <string name="overlays_fail_tip">Maalesef posta kutunuz başarıyla yapılandırılmadı, kayan Windows izinlerini açın ve tekrar deneyin.</string>
+  <string name="overlays_ok">Açık izinler</string>
+  <string name="overlays_tip">Yüzen Windows izinlerini açın ve otomatik olarak aşırı deneyimi yapılandırmak için 139 posta kutusunun keyfini çıkarın.</string>
+  <string name="overlays_title">Kayan Windows izinlerini aç</string>
   <string name="parase_setup_data">Veri alınıyor…</string>
   <string name="password_expire_warning_content_title">Kilit ekranı parolasının süresi sona eriyor</string>
   <string name="password_expire_warning_dialog_content_fmt">Yakında zamanda kilit ekranı PIN veya parolasını değiştirmelisiniz veya  %s için veriler silinecek. Şimdi değiştirilsin mi?</string>
@@ -693,6 +723,7 @@
   <string name="permission_access_provider_label">Kullanıcı verilerine eriş</string>
   <string name="permission_read_attachment_desc">Uygulamaya E-Posta eklerini okuma izni verir.</string>
   <string name="permission_read_attachment_label">Ekleri oku</string>
+  <string name="permission_tip">Yapılandırma başarısız. Yapılandırma izinleri sırasında lütfen çağrılara ve metin mesajlarına izin verin</string>
   <string name="phone">Telefon</string>
   <string name="photo_load_failed">"Resim yüklenemedi"</string>
   <string name="photo_view_count" formatted="false">%d / %d</string>
@@ -754,6 +785,17 @@
   <string name="push_wps_confirm_message">WPS Office kullanarak bu eki açmayı deneyin.</string>
   <string name="push_wps_confirm_title">WPS Office\'i Dene</string>
   <string name="push_wps_no_response_app">Bu eylemi işlemek için uygulama bulunamadı</string>
+  <string name="qq_bar_open_imap">Etkin</string>
+  <string name="qq_bar_send_message">SMS Gönder</string>
+  <string name="qq_login_basecode">"Web sayfası üzerinden QQ Email'e giriş yapılıyor. Lütfen bağımsız şifrenizi girin."</string>
+  <string name="qq_login_get_auth">"Doğrulama SMS'i gönderilemedi mi? Lütfen şifre koruma soruları yoluyla kimliğinizi doğrulayın"</string>
+  <string name="qq_login_open_imap">\"IMAP/SMTP\" seçeneğini etkinleştirmek için \"Etkin\" seçeneğini tıklayın.</string>
+  <string name="qq_login_origin_setting">&gt; oturum açmak için kullanıcı adı ve şifre giriniz</string>
+  <string name="qq_login_send_message">Bir yetkilendirme kodu almak için \"SMS gönder\" düğmesini tıklayın</string>
+  <string name="qq_login_webview">"Web sayfası üzerinden QQ Email'e giriş yapılıyor. Lütfen şifrenizi girin."</string>
+  <string name="qq_next_generation_auth_toast">Tarayıcı ile ikinci nesil şifre koruması için lütfen başvuruyu tamamlayın</string>
+  <string name="qq_uthentication_failed">Kimlik doğrulama başarısız oldu, lütfen tekrar oturum açın.</string>
+  <string name="qq_webview_loading">Şimdi atlanılıyor, lütfen bekleyin...</string>
   <string name="questionnair_body_invisibility">"Mesajlar görüntülenmiyor"</string>
   <string name="questionnair_confirm_delete">Kaldır</string>
   <string name="questionnair_instability">Sıklıkla Çökenler</string>
@@ -857,7 +899,7 @@
   <string name="senders_split_token">, </string>
   <string name="sending">Gönderiliyor…</string>
   <string name="sending_message">Mesaj gönderiliyor…</string>
-  <string name="sending_quick_reply">\"%s\" mail gönderiliyor</string>
+  <string name="sending_quick_reply">\"%s\" gönderiliyor</string>
   <string name="sent_folder_selection_title">%s için gönderilmiş öğeler klasörünün sunucusunu seçin</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Sertifika doğrulama başarısız
 \u0009 (Otomatik eşitleme ayarınının açık olduğundan emin olun)"</string>
@@ -887,6 +929,7 @@
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
+  <string name="sms_tip">"Kimlik doğrulama başarısız, antivirüs yazılımının SMS'i engelleyip-engellemediğini kontrol edin"</string>
   <string name="smtp_password_error">Giden posta sunucu şifresi hatalı!</string>
   <string name="sort_attachment">Sırala</string>
   <string name="special_text_1">Şöyle yazdı:</string>
@@ -972,6 +1015,12 @@
   <string name="wait_for_manual_sync_body">"Bu hesap otomatik eşitlemeye ayarlanmadı
 Posta eşitlenmeden önce "Şimdi Eşitleye dokunun veya bu hesabın postaları otomatik eşitlemesi için Eşitleme Ayarlarını Değiştir seçeneğini kullanın</string>
   <string name="wait_for_sync_title">Eşitlemek için bekleniyor</string>
+  <string name="webview_logout">Gerçekten giriş yapmaktan vazgeçmek istiyor musun? Haydi, tekrar deneyin!</string>
+  <string name="webview_logout_cancel">"Daha fazla denemeyecek"</string>
+  <string name="webview_logout_sure">Bir kez daha deneyin</string>
+  <string name="webview_sslerror_handle_cancel">İptal</string>
+  <string name="webview_sslerror_handle_continue">Devam</string>
+  <string name="webview_sslerror_handle_hitmessage">Sertifika Hatası! Bu web sitesine devam edilsin mi (önerilmez)?</string>
   <string name="widget_all_mail">Tüm Posta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Diğer</string>
