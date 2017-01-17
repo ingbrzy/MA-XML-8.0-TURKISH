@@ -251,7 +251,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_main_memory_low_message">"Eşitleme için, bulutta depolanmış bazı öğeleri silin."</string>
   <string name="micloud_main_memory_low_title">Telefonun dahili hafızası nedeyse dolmak üzere</string>
   <string name="micloud_main_message_not_synced">%s veri eşitlenemedi</string>
-  <string name="micloud_main_multi_user_error_message">"Benzer bir hesapla oturum açıp İlk Alanı veMi Bulut hatasını çözebilirsiniz. Eğer veriyi yedeklemek isterseniz:
+  <string name="micloud_main_multi_user_error_message">"Benzer bir hesapla oturum açıp İlk Alanı ve Mi Bulut hatasını çözebilirsiniz. Eğer veriyi yedeklemek isterseniz:
 
 1. Farklı bir hesap kullan
 2. İlk Alana öğeleri transfer et"</string>
@@ -387,13 +387,13 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="mx_dspt_provision">"Mi Mesaj; SMS masrafı ödemeden diğer MIUI kullanıcılarına mesaj göndermenizi sağlar.
 
 Bu özelliği istediğiniz zaman Ayarlardan açıp-kapatabilirsiniz."</string>
-  <string name="mx_dspt_provision_privacy">"Bu özellik, telefon numaranızı isteyebilir. Bu özelliği etkinleştirmek için gönderilecek mesajdan, öperatörünüz ücret talep edebilir.
+  <string name="mx_dspt_provision_privacy">"Bu özellik telefon numaranıza ihtiyaç duyabilir. Bu servisi etkinleştirmek için bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.
 
 Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönderir."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"Bu özellik, telefon numaranızı isteyebilir. Bu özelliği etkinleştirmek için gönderilecek mesajdan, öperatörünüz ücret talep edebilir.
+  <string name="mx_dspt_provision_privacy_2_sim">"Bu özellik, telefon numaranızı isteyebilir. Bu servisi etkinleştirmek için 2 giden SMS mesajı gerekebilir. Operatörünüz sizden bu mesajlar için ücret alabilir.
 
 Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönderir."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"Bu özellik, telefon numaranızı isteyebilir. SIM kartı tespit edildiğinde bu özelliği etkinleştirmek için gönderilecek mesajdan, öperatörünüz ücret talep edebilir.
+  <string name="mx_dspt_provision_privacy_no_sim">"Bu özellik, telefon numaranızı isteyebilir. SIM kartı algılanırsa, bu servisi etkinleştirmek için bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.
 
 Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönderir."</string>
   <string name="mx_dspt_provision_with_voip">"Ücretsiz internet bağlantısını kullanarak diğer MIUI kullanıcılarını arayın. Bu özelliği istediğiniz zaman Ayarlardan açıp-kapayabilirsiniz. VoIP Weihui tarafından desteklenmektedir. Weihui Gizlilik Politikasına bakın"</string>
@@ -484,15 +484,15 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="sync_item_title">Eşitlenecek Öğeler</string>
   <string name="sync_off">Kapalı</string>
   <string name="sync_on">Açık</string>
-  <string name="sync_resend_sms_dspt_provision">" Eğer SIM kartı değiştirirseniz, yeniden etkinleştirmek için mesaj gönderilir ve buna mukabil öperatörünüz sizden ücret talep edebilir."</string>
-  <string name="sync_sub_1_intl_sms">Etkinleştirmek için gönderilen SMS mesaji için öperatörünüz sizden ücret talep edebilir.</string>
-  <string name="sync_sub_1_sms">Bu hizmeti etkinleştirmek için gönderilen SMS mesajına mukabil, öperatörünüz sizden ücret talep edebilir.</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Etkinleştirme için gönderilen SMS mesajlarından dolayı öperatörünüz bir yerel bir de uluslararası mesaj ücreti talep edebilir.</string>
-  <string name="sync_sub_2_intl_sms">Bu etkinleştirme SMS mesajı için öperatörünüz iki uluslararası mesaj ücreti talep edebilir.</string>
-  <string name="sync_sub_2_sms">Bu etkinleştirme işlemi için öperatörünüz 2 SMS ücreti talep edebilir.</string>
-  <string name="sync_sub_dspt">Bu etkinleştirme işlemi için öpretatörünüz SMS ücreti talep edebilir.</string>
+  <string name="sync_resend_sms_dspt_provision">" SIM kartları değiştirirseniz, operatörünüzün bu servisi tekrar etkinleştirmesi gerekirse, SMS mesajı almak için operatörünüz sizden ücret alabilir."</string>
+  <string name="sync_sub_1_intl_sms">Bu servisi etkinleştirmek için uluslararası bir SMS mesajı gelmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
+  <string name="sync_sub_1_sms">Bu servisi etkinleştirmek için bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">Bu hizmeti etkinleştirmek için 1 yerli ve 1 uluslararası SMS mesajı gerekebilir. Operatörünüz sizden bu mesajlar için ücret alabilir.</string>
+  <string name="sync_sub_2_intl_sms">Bu servisi etkinleştirmek için 2 giden uluslararası SMS mesajı gerekebilir. Operatörünüz sizden bu mesajlar için ücret alabilir.</string>
+  <string name="sync_sub_2_sms">Bu servisi etkinleştirmek için 2 giden SMS mesajı gerekebilir. Operatörünüz sizden bu mesajlar için ücret alabilir.</string>
+  <string name="sync_sub_dspt">Bu servisi etkinleştirmek için bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
   <string name="sync_sub_dspt_provision">Fotoğrafları, şahısları, müzikleri, uygulamaları ve daha fazlasını eşitle</string>
-  <string name="sync_sub_int_dspt">Etkinleştirme işleminden dolayı öperatörünüz bir uluslararası SMS gönderim bedeli talep edebilir.</string>
+  <string name="sync_sub_int_dspt">Bu servisi etkinleştirmek için uluslararası bir SMS mesajı gelmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
   <string name="title_reg">Mi Hesabı oluştur</string>
   <string name="total_space_upgraded_to">Toplam Alan:%s</string>
   <string name="trying_to_connect_to_network">Ağa bağlanıyor…</string>
