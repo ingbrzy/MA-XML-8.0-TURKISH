@@ -56,9 +56,9 @@
   <string name="activate_popup_desc_new_mixed_sim_cards">"SIM kartınız değişmiş gibi görünüyor. %s etkinleştirmek için (düzenli ve uluslararası) 2 kısa mesaj gönderilecektir. Operatörünüz tarafından ücretlendirilebilir."</string>
   <string name="activate_popup_desc_new_sim_card">"SIM kartınız değişmiş gibi görünüyor. %s etkinleştirmek için düzenli mesaj gönderilecek. Operatörünüz tarafından ücretlendirilebilir."</string>
   <string name="activate_popup_desc_new_sim_card_downlink">"SIM kartınız değişmiş gibi görünüyor. %s etkinleştirmek için geçerli telefon numarasını girin."</string>
-  <string name="activate_popup_desc_register_account">Operatörünüz, Mi Hesabınızı oluşturmakta kullanılan bir SMS mesajı için ücret alabilir.</string>
+  <string name="activate_popup_desc_register_account">Mi Hesabınızı oluşturmak için bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
   <string name="activate_popup_desc_register_account_downlink">Telefon numaranızı girin</string>
-  <string name="activate_popup_desc_register_account_intl">Operatörünüz, Mi Hesabınızı oluşturmak için kullanılan uluslararası bir SMS mesajı için ücret alabilir.</string>
+  <string name="activate_popup_desc_register_account_intl">Mi Hesabınızı oluşturmak için uluslararası bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
   <string name="activate_popup_desc_sim_card">%s etkinleştirmek için mesaj gönderilecek. Operatörünüz tarafından ücretlendirilebilir.</string>
   <string name="activate_popup_desc_sim_card_downlink">%s etkinleştirmek için geçerli telefon numarasını girin.</string>
   <string name="activate_popup_desc_voip_privacy">Gizlilik Politikası</string>
