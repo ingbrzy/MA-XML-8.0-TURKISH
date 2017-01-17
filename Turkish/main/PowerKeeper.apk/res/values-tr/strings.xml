@@ -2,6 +2,7 @@
 <resources>
   <string name="action_bar_delete">Sil</string>
   <string name="action_settings">Ayarlar</string>
+  <string name="action_title_optimize">İyi hale getir</string>
   <string name="activity_title_poweranalyze">Pil Testi</string>
   <string name="activity_title_powerconfigure">Pil Ayarları</string>
   <string name="activity_title_poweroptimize">Pil Tasarrufu</string>
@@ -75,6 +76,7 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="no_applications">Boş</string>
   <string name="none">İşlem yok</string>
   <string name="normal">Varsayılan Mod</string>
+  <string name="notify_app_consume_abnormal_title">pili boşaltıyor</string>
   <string name="operation_create_group">Adı</string>
   <string name="operation_create_group_message">Yeni grup adı girin</string>
   <string name="power_checker_recent_btn_title">Güç Ayarları</string>
