@@ -66,6 +66,7 @@
   <string name="close">Kapat</string>
   <string name="commercial">Ticari</string>
   <string name="common_loading_text">Biraz bekleyin…</string>
+  <string name="connect_fail">Ağ bağlantısı anormal. Lütfen daha sonra tekrar deneyiniz.</string>
   <string name="daily_forcast_drawer_on_bottom">Gizle</string>
   <string name="daily_forcast_drawer_on_top">%1$s günlük tahmin</string>
   <string name="daily_forcast_no_stable_direction">Meltem</string>
@@ -78,6 +79,8 @@
   <string name="daily_forcast_wind_connect">%2$s %1$s</string>
   <string name="daily_forecast_detail">Tahmin Detayları</string>
   <string name="daily_forecast_detail_date">d/M</string>
+  <string name="daily_forecast_no_data">"Veri alımı başarısız oldu
+  +elle yenilemek için aşağı çekin veya ağ ayarlarını kontrol edin"</string>
   <string name="edit_alert_city_title">Uyarıları Yönet</string>
   <string name="edit_city">Şehri düzenle</string>
   <string name="empty">" "</string>
@@ -146,7 +149,9 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="realtime_aqi_connection">%1$s</string>
   <string name="realtime_aqi_title">Hava Kalite İndeksi</string>
-  <string name="realtime_humidity_title">Relatif Nem</string>
+  <string name="realtime_cityname_default">Şehir Konumu</string>
+  <string name="realtime_humidity_title">Bağıl Nem</string>
+  <string name="realtime_temperature_no_data">Yok</string>
   <string name="realtime_wind_default_title">Rüzgar</string>
   <string name="refresh_fail">"Ağa bağlanamadı"</string>
   <string name="retry">Tekrar deneyin</string>
@@ -203,6 +208,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="view_indexes_item_today">Bugün</string>
   <string name="view_indexes_item_tommorrow">Yarın</string>
   <string name="weather_alert">Hava Durumu Uyarıları</string>
+  <string name="wind_direction_no_data">Rüzgar</string>
   <string name="weather_unit">°</string>
   <string name="wind_miles_unit">%1$s m/s</string>
   <string name="wind_unit">%1$skm/s</string>
