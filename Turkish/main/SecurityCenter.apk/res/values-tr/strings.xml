@@ -626,7 +626,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="hot">Popüler</string>
   <string name="hot_today">Bugünkü popüler</string>
   <string name="info_and_call">Çağrılar ve Mesajlaşma</string>
-  <string name="information_setting">Haber Besleme Ayarları</string>
+  <string name="information_setting">Tavsiyeler</string>
   <string name="input_aviable_traffic">Veri kullanım limitini ayarla</string>
   <string name="input_traffic_pkg">Veri kullanımını girin</string>
   <string name="input_used_hint">Veri kullanımını girin</string>
@@ -682,7 +682,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="legal_workday_message">(Tatilleri atla)</string>
   <string name="list_empty_text">Boş</string>
   <string name="load_fail">"Yüklenmedi"</string>
-  <string name="load_only_under_wlan">WLAN bağlantısına bağlandığında haberleri yükle</string>
+  <string name="load_only_under_wlan">Yalnızca WLAN kullanarak yükle</string>
   <string name="local_ip_exception_summary">"Yerel IP adresi alınamadı. MIUI Hata Bildirimi uygulaması ile bu sorunu ve cihaz günlüğünü bize iletebilirsiniz."</string>
   <string name="lock_mode_title">Kilit Ayarları</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s kilit ekranında kullanıldı</string>
@@ -1387,7 +1387,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="recently_reject_message">%1$s ve %2$d uygulamanın yüklenmesi engellendi</string>
   <string name="recently_reject_message_one">%1$s yükleme isteği reddedildi</string>
   <string name="recommend_app">Önerilen Uygulamalar</string>
-  <string name="recommend_news">Önerilen Kaynaklar</string>
+  <string name="recommend_news">Tavsiyeleri al</string>
   <string name="recommended">Önerilen</string>
   <string name="reject_all">Tümünü Kısıtla</string>
   <string name="reject_countdown">Reddet (%d)</string>
