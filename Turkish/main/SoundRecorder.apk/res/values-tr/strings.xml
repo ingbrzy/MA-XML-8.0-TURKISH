@@ -41,8 +41,11 @@
   <string name="export_to_note">Notları dışarı aktar</string>
   <string name="fm_record">Radyo Kayıtları (%d)</string>
   <string name="invalid_argument">Geçersiz kanıt</string>
+  <string name="keywords_search_call_record">Çağrıları kaydet, çağrı kaydı, çağrı kaydı, çağrı kaydı</string>
+  <string name="keywords_search_record">Yeni kayıt, Kayıt ekle; Kayıt; Kayıtlar; Transkript; Transkript; Kaydedici; Konuşma kaydedici; Ses kaydedici; Kayıt cihazı uygulaması; Kayıt uygulaması; Nasıl kaydedilir; Ses nasıl kaydedilir; kaydedici nerede; MIUI Yeniden Sıralama</string>
+  <string name="keywords_search_record_list">Kaydedici, Transkript, Transkriptler; Kayıt; Kayıt paylaş; Kayıtları paylaş; Kayıt; Kayıtlar</string>
   <string name="loading_recording">Kayıtlar yükleniyor</string>
-  <string name="low_battery_error">"Kalan pil %5'ten olduğundan, kayıt işlemini kaybedilmeden durduruldu ve yapılan kayıt saklandı."</string>
+  <string name="low_battery_error">"Kalan pil %5'ten az olduğundan, kayıt işlemini kaybedilmeden durduruldu ve yapılan kayıt saklandı."</string>
   <string name="low_battery_error_confirm">Tamam</string>
   <string name="low_battery_error_title">Düşük Pil</string>
   <string name="mark_point_list_title">İşaretliler</string>
@@ -88,6 +91,7 @@
   <string name="recognition_error_internal">İç hata</string>
   <string name="recognition_error_stopped">Tanımayı durdur</string>
   <string name="recognition_status_downloading">İndiriliyor</string>
+  <string name="record">Kayıt</string>
   <string name="record_back_pressed_hint">Kaydı durdurmak için tekrar geriye dokunun</string>
   <string name="record_download">Mi Bulut\'tan indirin</string>
   <string name="record_download_activity">İndiricide kaydediliyor</string>
