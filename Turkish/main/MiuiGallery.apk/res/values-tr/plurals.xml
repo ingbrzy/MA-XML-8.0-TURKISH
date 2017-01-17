@@ -264,32 +264,40 @@
         <item quantity="other">%1$d öğe| %2$s</item>
         <item quantity="one">%1$d öğe| %2$s</item>
     </plurals>
-    <plurals name="backup_waiting">
-        <item quantity="other">%1$d öğe yedeklenmeyi bekliyor</item>
-        <item quantity="one">%1$d öğe yedeklenmeyi bekliyor</item>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d fotoğraf ve video | %2$s</item>
+        <item quantity="one">%1$d fotoğraf ve video | %2$s</item>
     </plurals>
-    <plurals name="backuped">
-        <item quantity="other">%1$d öğe kaydedildi</item>
-        <item quantity="one">%1$d öğe kaydedildi</item>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d fotoğraf ve video</item>
+        <item quantity="one">%1$d fotoğraf ve video</item>
     </plurals>
-    <plurals name="cloud_space_full">
-        <item quantity="other">%1$d öğe yedeklenemedi</item>
-        <item quantity="one">%1$d öğe yedeklenemedi</item>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d fotoğraf</item>
+        <item quantity="one">%d fotoğraf</item>
     </plurals>
-    <plurals name="local_space_full">
-        <item quantity="other">Depolama alanı çok az. %1$d öğe yedeklenmeyi bekliyor</item>
-        <item quantity="one">Depolama alanı çok az. %1$d öğe yedeklenmeyi bekliyor</item>
-     </plurals>
-     <plurals name="network_unsatisfied">
-        <item quantity="other">Ağ hatası. %1$d öğe yedeklenmeyi bekliyor</item>
-        <item quantity="one">Ağ hatası. %1$d öğe yedeklenmeyi bekliyor</item>
-     </plurals>
-     <plurals name="sync_off">
-        <item quantity="other">Eşitleme kapalı. %1$d öğe yedeklenmeyi bekliyor</item>
-        <item quantity="one">Eşitleme kapalı. %1$d öğe yedeklenmeyi bekliyor</item>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">"%d fotoğraf ve video yedeklenemedi"</item>
+        <item quantity="one">"%d fotoğraf ve video yedeklenemedi"</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d öğe</item>
+        <item quantity="one">%d öğe</item>
     </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">"%1$d fotoğraf işlenmeden, atlandı."</item>
         <item quantity="one">"Bir fotoğraf işlenmeden atlandandı"</item>
+    </plurals>
+	<plurals name="file_count_format">
+        <item quantity="other">Toplam %1$d öğe</item>
+        <item quantity="one">Toplam %1$d öğe</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">%1$d yeni fotoğraf bulundu</item>
+        <item quantity="one">Yeni fotoğraf bulundu</item>
     </plurals>
 </resources>
