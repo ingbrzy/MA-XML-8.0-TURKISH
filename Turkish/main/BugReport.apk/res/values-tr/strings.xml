@@ -82,6 +82,7 @@
   <string name="feedback_status_commit_failed_title">Rapor gönderilemedi</string>
   <string name="feedback_status_commit_succ_title">Gönderildi</string>
   <string name="feedback_status_commit_uploading_title">Gönderiliyor…</string>
+  <string name="feedback_status_forum_reply">Tekrarla</string>
   <string name="feedback_status_jira_comment">Yorum ekle</string>
   <string name="feedback_status_more">Detaylar</string>
   <string name="feedback_status_processing">İşleniyor…</string>
@@ -89,6 +90,7 @@
   <string name="feedback_status_replyed">Cevaplandı</string>
   <string name="feedback_status_reresolved">Çözüldü</string>
   <string name="feedback_status_supplement">"Probleminizin detaylarını tanımlayın"</string>
+  <string name="feedback_status_supplement_more">Yorum ekle</string>
   <string name="feedback_submit_failed_notification_desc">Detayları görüntüle</string>
   <string name="feedback_submit_failed_notification_retry">Yeniden gönder</string>
   <string name="feedback_submit_failed_notification_title">"Rapor gönderilemedi"</string>
