@@ -201,6 +201,8 @@
   <string name="edit_event_birthday_name_empty_hint">Lütfen bir isim girin</string>
   <string name="edit_event_birthday_name_hint">Adı</string>
   <string name="edit_event_birthday_reminder_3_days_before">Ve 3 gün önce hatırlat</string>
+  <string name="edit_event_birthday_reminder_summary">%1$s günü</string>
+  <string name="edit_event_birthday_reminder_summary_3_days_before">Üç gün önce, %1$s günü</string>
   <string name="edit_event_birthday_reminder_time">Hatırlatma Zamanı</string>
   <string name="edit_event_birthday_the_day">gün</string>
   <string name="drop_down_list_header_release_text">Yenilemek için serbest bırakın</string>
@@ -210,6 +212,8 @@
   <string name="edit_event_calendar_label">Takvim</string>
   <string name="edit_event_from_label">Şurdan</string>
   <string name="edit_event_no_reminder_value">Hatırlatıcı yok</string>
+  <string name="edit_event_reminder_text">%1$s, %2$s günü</string>
+  <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s, %3$s günü</string>
   <string name="edit_event_label">Detaylar</string>
   <string name="edit_event_show_all">Tümünü Göster</string>
   <string name="edit_event_tab_anniversary">yıldönümü</string>
