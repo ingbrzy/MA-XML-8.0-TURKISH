@@ -16,12 +16,17 @@
         <item>HD</item>
     </string-array>
     <string-array name="record_scenes_summaries">
-        <item>2 Kanallı kayıt, kulaklıkta stereo ses olarak dinlenir</item>
-        <item>"Daha kaliteli ses kaydı için mikrofonu ses kaynağına yakınlaştırın"</item>
-        <item>Temiz kayıt için telefonu iki kişi arasına yerleştirin</item>
-        <item>Yüksek Dinamik Aralık Teknolojisi mikrofonun daha ayrıntılı ses yakalamasına izin verir</item>
+        <item>Daha kaliteli müzik kaydet</item>
+        <item>Daha iyi kalite için mikrofonu ses kaynağına yaklaştırın</item>
+        <item>Konuşmalarını net bir şekilde kaydetmek için telefonu 2 kişinin arasına yerleştirin</item>
+        <item>Yüksek dinamik aralık teknolojisi, mikrofonun daha ayrıntılı ses elde etmesini sağlar</item>
     </string-array>
-    <string-array name="record_quality_entries">
+    <string-array name="record_scenes_summaries_stereo">
+		<item>Daha iyi kalite için mikrofonu ses kaynağına yaklaştırın</item>
+        <item>Konuşmalarını net bir şekilde kaydetmek için telefonu 2 kişinin arasına yerleştirin</item>
+        <item>Yüksek dinamik aralık teknolojisi, mikrofonun daha ayrıntılı ses elde etmesini sağlar</item>
+    </string-array>
+	<string-array name="record_quality_entries">
         <item>Yüksek</item>
         <item>Standart</item>
         <item>Düşük</item>
