@@ -20,6 +20,7 @@
   <string name="alarm_volume_summary">Alarm sesini ayarlayın</string>
   <string name="alarm_volume_title">Alarm Sesinin Seviyesi</string>
   <string name="alarmclock_empty_text">Alarm yok</string>
+  <string name="alarmclock_silent_hint">Alarm sessizde</string>
   <string name="alert">Zil Sesi</string>
   <string name="analog_gadget">Analog Saat</string>
   <string name="app_label">Saat</string>
@@ -33,7 +34,7 @@
   <string name="common_settings">Ayarlar</string>
   <string name="confirm_abort">Vazgeç</string>
   <string name="control_set_alarm">Alarmı Ayarla</string>
-  <string name="control_set_alarm_with_existing">Alarm : %s</string>
+  <string name="control_set_alarm_with_existing">Alarm: %s</string>
   <string name="day">1 gün</string>
   <string name="day_concat">". "</string>
   <string name="days">%s gün</string>
