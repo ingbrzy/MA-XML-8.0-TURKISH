@@ -47,6 +47,10 @@
   <string name="additional_permissions">Ek İzinler</string>
   <string name="allPerms">Tümü</string>
   <string name="all_permissions">Tüm İzinler</string>
+  <string name="allow_source_dlg_text">"%1$s başka bir uygulama kurmak istiyor.
+
+Şimdi ve gelecekte böyle bir işlem yapmasına izin veriyor musunuz?"</string>
+  <string name="allow_source_dlg_title">Uygulama için yeni kaynak</string>
   <string name="allow_mock_location">Sahte konumlara izin ver</string>
   <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
   <string name="animator_duration_scale_title">Animatör süresi ölçeği</string>
@@ -448,7 +452,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="permission_send_sms_descx">Uygulama SMS ve MMS gönderebilir</string>
   <string name="permission_summary_enforced_by_policy">Politika zorunluluğu:</string>
   <string name="permission_title">%1$s izini</string>
-  <string name="permission_warning_template">%2$s için izin verilsin mi?</string>
+  <string name="permission_warning_template">"%2$s'daki %1$s izin verilsin mi?</string>
   <string name="permlab_togglePermissions">İzin geçişi</string>
   <string name="privacyPerms">Gizlilik</string>
   <string name="privacy_relative">Gizlilik</string>
