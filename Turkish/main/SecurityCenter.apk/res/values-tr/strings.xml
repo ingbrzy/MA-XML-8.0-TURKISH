@@ -178,6 +178,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="auto_task_notify_task_cancel_count_down">Otomatik eylem 5 saniye sonra bitecek</string>
   <string name="auto_task_notify_task_cancel_do">Eylemi iptal et</string>
   <string name="auto_task_notify_task_canceled_summary">Arama yapabilir ve alabilirsiniz</string>
+  <string name="auto_task_notify_task_canceled_summary2">"Görünüşe göre bir oyun oynuyorsun."</string>
   <string name="auto_task_notify_task_canceled_title">Eylem iptal edildi</string>
   <string name="auto_task_notify_task_continue_do">Eylemi başlat</string>
   <string name="auto_task_notify_task_count_down">Otomatik eylem 5 saniye sonra başlayacak</string>
@@ -1514,6 +1515,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="showpattern">Deseni göster</string>
   <string name="shutdown_cancel_reminder">"Kapatılamıyor"</string>
   <string name="shutdown_cancel_reminder_detail">"Bir konuşmasının ortasında olduğu için cihaz kapatılamaz"</string>
+  <string name="shutdown_cancel_reminder_detail2">"Görünüşe göre bir oyun oynuyorsun. Planlanmış güç iptal edildi."</string>
   <string name="shutdown_time">Kapalı: %1$s</string>
   <string name="shutdown_time_day">Kapatmaya: %2$s %1$dg</string>
   <string name="shutdown_time_day_tomorrow">Kapatmaya: Yarın, %1$s saat</string>
