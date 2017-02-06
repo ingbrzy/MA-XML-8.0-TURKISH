@@ -46,6 +46,9 @@
   <string name="drive">Sür</string>
   <string name="duokan_open">Daha fazla okuma kartını aç</string>
   <string name="duokan_reading">Fazlasını oku</string>
+  <string name="duokan_not_installed">"Bu uygulama telefonunuza yüklenmedi. Bu kart şu an kullanılamıyor."</string>
+  <string name="duokan_open">Duokan kartı ekle</string>
+  <string name="duokan_reading">Duokan</string>
   <string name="duokan_setting_brief">Bıraktığınız yerden okumaya devam edin.</string>
   <string name="entrance">Kart kısayolları</string>
   <string name="exercise_setting_brief">"Etkinlik verilerinizi görüntüleyin (Güvenlik için Mi Fit'in otomatik olarak başlatılmasına izin verin)."</string>
@@ -177,6 +180,9 @@
   <string name="weibo_name">Yeni Posta</string>
   <string name="weibo_parent">Weibo</string>
   <string name="which_transport">Normal olarak varış noktanıza nasıl ulaşıyorsunuz?</string>
+  <string name="widget_fav">Favori</string>
+  <string name="widget_fav_open">Favori kartı göster</string>
+  <string name="widget_fav_setting_brief">Favori veriye gözat</string>
   <string name="wx_aa">Alman Usulu</string>
   <string name="wx_collectioncode">Ödeme al</string>
   <string name="wx_name">Kartım</string>
@@ -184,4 +190,5 @@
   <string name="wx_paycode">Ödeme</string>
   <string name="wx_scan">Tarayıcı</string>
   <string name="wx_timeline">Anlar</string>
+  <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
 </resources>
