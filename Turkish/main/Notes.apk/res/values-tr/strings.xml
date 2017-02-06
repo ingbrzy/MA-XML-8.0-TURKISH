@@ -24,6 +24,7 @@
   <string name="attachment_gallery">Galeri</string>
   <string name="button_new_note">Yeni</string>
   <string name="call_folder_name">Çağrı Notları</string>
+  <string name="cloud_trash_bin_title">"Mi Bulut'taki notları sil"</string>
   <string name="call_record_folder_name">Çağrı Notları</string>
   <string name="default_folder_name">Adsız klasör</string>
   <string name="delete_folder_dialog_tile">Dizini sil</string>
@@ -111,6 +112,7 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="permlab_accessNote">Notlara Erişim</string>
   <string name="pref_desc_alarm_when_silent">Zil susturulduğu zaman hatırlatmalar için alarmlar hala çalacaktır</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Bir notu hareket kulanarak sildiğinizde size soru sorulmaz"</string>
+  <string name="pref_title_cloud_trash_bin">"Mi Bulut'taki notları sil"</string>
   <string name="pref_title_alarm_when_silent">"Sessizdeyken Hatırlat"</string>
   <string name="pref_title_common">Ek Ayarlar</string>
   <string name="pref_title_font_size">Yazı Boyutu</string>
