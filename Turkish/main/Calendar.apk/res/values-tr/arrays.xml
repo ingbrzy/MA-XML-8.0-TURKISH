@@ -99,9 +99,20 @@
         <item>Şeffaf</item>
         <item>Beyaz Arkaplan</item>
     </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Etkinlik esnasında</item>
+        <item>5 dakika önce</item>
+        <item>10 dakika önce</item>
+        <item>15 dakika önce</item>
+        <item>30 dakika önce</item>
+        <item>1 saat önce</item>
+        <item>1 gün önce</item>
+        <item>2 gün önce</item>
+        <item>1 hafta önce</item>
+    </string-array>
     <string-array name="miui_reminder_minutes_labels">
         <item>Hatırlatıcısız</item>
-        <item>Etkinlik zamanında</item>
+        <item>Etkinlik esnasında</item>
         <item>5 dakika önce</item>
         <item>10 dakika önce</item>
         <item>15 dakika önce</item>
