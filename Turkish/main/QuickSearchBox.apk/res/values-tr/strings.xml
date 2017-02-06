@@ -2,6 +2,8 @@
 <resources>
   <string name="app_loaction">Ana Ekranda bul</string>
   <string name="app_name">Ara</string>
+  <string name="appindex_description">Yüklü uygulamaların fonksiyonları</string>
+  <string name="appindex_search_label">Uygulama Fonksiyonları</string>
   <string name="application_desc">Uygulama</string>
   <string name="applications_search_label">Uygulamalar</string>
   <string name="apps_search_activity"/>
@@ -59,6 +61,7 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="permission_prompt_start">İzin ver</string>
   <string name="permission_prompt_started_info">"Global aramaya izin verdin"</string>
   <string name="permission_prompt_title">Fazlasını ister misin?</string>
+  <string name="pull_to_input">Arama çubuğunu göstermek için aşağı doğru çekin</string>
   <string name="recent_apps">Önceki Uygulamalar</string>
   <string name="recent_apps_filter">"Kullanılmayan uygulamaları gizle"</string>
   <string name="recent_close_content">"Bu özellik şimdi kapatılsın mı?
@@ -73,7 +76,8 @@ Bunu Ayarlar &gt; Yüklü Uygulamalar &gt; Ara altından değiştirebilirsiniz"<
   <string name="recent_edit_done">Tamam</string>
   <string name="recent_filter_functions">Özellikler kapatıldı</string>
   <string name="recent_function">Özellikler</string>
-    <string name="recently_shortcut_label">En son kısayollar</string>
+  <string name="recently_shortcut_label">En son kısayollar</string>
+  <string name="release_to_input">Arama çubuğunu göstermek için bırakın</string>
   <string name="remove_from_history">Arama geçmişinden bu öğeyi kaldırmak istiyor musunuz?</string>
   <string name="remove_from_history_failed">"Bu öğe arama geçmişinden kaldırılamadı!"</string>
   <string name="search_apps">Uygulamaları Ara</string>
