@@ -436,6 +436,9 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="phone_unactivated">Etkinleştirilmedi</string>
   <string name="phone_unknown">Bilinmeyen</string>
   <string name="photoPickerNotFoundText">Resim bulunamadı.</string>
+  <string name="push_notification_content">Tıklayın ve doğrulama kodunu alın</string>
+  <string name="push_notification_title">Mi Hesabınızla bilinmeyen bir cihazda oturum açtınız</string>
+  <string name="push_notify_dialog_title">Giriş Güvenliği Doğrulaması</string>
   <string name="prev">Geri</string>
   <string name="privacy_policy">Veri Koruması</string>
   <string name="provision_skip_login">Bu adımı atla</string>
