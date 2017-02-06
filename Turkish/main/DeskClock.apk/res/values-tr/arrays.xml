@@ -34,24 +34,6 @@
         <item>Pazartesi-Cuma</item>
         <item>Özel</item>
     </string-array>
-    <string-array name="aqi_value">
-        <item>İyi</item>
-        <item>Tatminkâr</item>
-        <item>Az Kirli</item>
-        <item>Zayıf</item>
-        <item>Çok Kötü</item>
-        <item>Sert</item>
-    </string-array>
-    <string-array name="weather_tips_value">
-        <item>Dışarıdaki faaliyetleri azaltın</item>
-        <item>Kaymamaya dikkat edin</item>
-        <item>Fırtınalı hava, güvenli seyahat edin</item>
-        <item>Sisli-puslu hava, maske takın</item>
-        <item>Dışarı çıktığınızda bir şemsiye alın</item>
-        <item>Yolda dikkat edin</item>
-        <item>Hava kumlu, maske takın</item>
-        <item>Harika bir gün diliyorum</item>
-    </string-array>
     <string-array name="alarm_set">
         <item>Alarm 1 dak. az süre içinde kapatılacak.</item>
         <item>Alarm %1$s sonra kapatılacak.</item>
