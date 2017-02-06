@@ -20,8 +20,11 @@
   <string name="game_more_improve">Arkaplan etkinliklerini ve indirme hızını kısıtlayarak oyunlar için pil ve bant hızını arttırabilirsiniz</string>
   <string name="game_setting">Oyun Ayarları</string>
   <string name="gs_app_back_self_start">Pil Tasarrufu</string>
+  <string name="gs_auto_clean_memory">Belleği Temizle</string>
+  <string name="gs_auto_clean_memory_detail">Oyun iyi hale getirmek için önbelleği otomatik olarak temizle</string>
   <string name="gs_dialog_confirm_close_msg">Kısayol Ana Sayfadan kaldırılacak. Güvenlik altındaki Ayarlardan değiştirebilirsiniz.</string>
   <string name="gs_dialog_confirm_close_title">Kapalı</string>
+  <string name="gs_game_disturb_msg">Rahatsız Etme Modu</string>
   <string name="gs_game_duration">Zaman</string>
   <string name="gs_game_net_priority">Bağlantı Önceliği</string>
   <string name="gs_game_net_priority_detail">Oyun için bant genişliğinin yeterli olması için indirme hızını limitle</string>
