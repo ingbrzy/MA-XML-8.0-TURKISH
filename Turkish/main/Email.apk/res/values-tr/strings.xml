@@ -310,7 +310,7 @@
   <string name="contextmenu_feedback">Geribildirim gönder</string>
   <string name="contextmenu_help">Yardım</string>
   <string name="contextmenu_map">Harita</string>
-  <string name="contextmenu_open">Açık</string>
+  <string name="contextmenu_open">Aç</string>
   <string name="contextmenu_openlink">Tarayıcıda Aç</string>
   <string name="contextmenu_send_mail">E-Posta gönder</string>
   <string name="contextmenu_sharelink">Bağlantıyı paylaş</string>
@@ -572,8 +572,8 @@
   <string name="mark_important">Önemli olarak işaretle</string>
   <string name="mark_not_important">Önemsiz olarak işaretle</string>
   <string name="mark_not_spam">İstenmeyen olarak işaretle</string>
-  <string name="mark_read">Okundu &#x2714;</string>
-  <string name="mark_unread">Okunmadı &#x2714;</string>
+  <string name="mark_read">&#x2714; kundu</string>
+  <string name="mark_unread">&#x2714; Okunmadı</string>
   <string name="me_object_pronun">ben</string>
   <string name="me_subject_pronun">ben</string>
   <string name="meeting_accepted">Kabul Edildi: %s</string>
