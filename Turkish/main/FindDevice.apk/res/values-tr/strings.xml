@@ -44,6 +44,8 @@ SIM kartları geçerseniz, başka bir SMS bu özelliği etkinleştirmek için ot
   <string name="passport_verify">Doğrula</string>
   <string name="password">Şifre</string>
   <string name="phone_locked">Bu cihaz mevcut Mi Hesabı ile ilgili olabilir (%s). Bu cihazı etkinleştirmek için oturum açın.</string>
+  <string name="phone_locked_account_email">, ilişkili e-posta: %s</string>
+  <string name="phone_locked_account_phone">, ilişkili telefon numarası: %s</string>
   <string name="stop_on_empty_captcha">"Captcha boş olamaz"</string>
   <string name="stop_on_empty_password">"Şifre boş olamaz"</string>
   <string name="time_correction_failure">Zaman doğrulanamıyor. %s</string>
