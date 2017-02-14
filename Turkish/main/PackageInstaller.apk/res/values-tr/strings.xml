@@ -255,12 +255,12 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="install">Yükle</string>
   <string name="install_confirm_question">Bu uygulamayı yüklemek istiyor musunuz? Şu erişimi elde edeceksiniz:</string>
   <string name="install_confirm_question_no_perms">Bu uygulamayı yüklemek istiyor musunuz? Herhangi bir özel erişim gerektirmez.</string>
-  <string name="install_confirm_question_update">Bu mevcut uygulamayı güncelleştirip yüklemek istiyor musunuz? Varolan veri kaybolmaz. Güncellenmiş uygulamada şu erişimi elde edeceksiniz:</string>
-  <string name="install_confirm_question_update_no_perms">Bu mevcut uygulamayı güncelleştirip yüklemek istiyor musunuz? Varolan veri kaybolmaz. Herhangi bir özel erişim gerektirmez.</string>
-  <string name="install_confirm_question_update_system">Bu yerleşik uygulamayı güncelleştirip yüklemek istiyor musunuz? Varolan veri kaybolmaz. Güncellenmiş uygulamada şu erişimi elde edeceksiniz:</string>
-  <string name="install_confirm_question_update_system_no_perms">Bu yerleşik uygulamayı güncelleştirip yüklemek istiyor musunuz? Varolan veri kaybolmaz. Herhangi bir özel erişim gerektirmez.</string>
+  <string name="install_confirm_question_update">Bu mevcut uygulamayı güncelleştirip yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmayacak. Güncellenmiş uygulama aşağıdakilere erişecek:</string>
+  <string name="install_confirm_question_update_no_perms">Bu mevcut uygulamayı güncelleştirip yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmayacak. Herhangi bir özel erişim gerektirmez.</string>
+  <string name="install_confirm_question_update_system">Bu yerleşik uygulamayı güncelleştirip yüklemek istiyor musunuz? Varolan veri kaybolmaz. Mevcut uygulama verileri kaybolmayacak. Güncellenmiş uygulama aşağıdakilere erişecek:</string>
+  <string name="install_confirm_question_update_system_no_perms">Bu yerleşik uygulamayı güncelleştirip yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmayacak. Herhangi bir özel erişim gerektirmez.</string>
   <string name="install_done">Uygulama yüklendi.</string>
-  <string name="install_failed">Uygulama yüklenmedi.</string>
+  <string name="install_failed">Uygulama yüklenemedi</string>
   <string name="install_failed_blocked">Paketin yüklenmesi engellendi.</string>
   <string name="install_failed_conflict">Paket, mevcut bir paketin aynı adıyla çakışıyor.</string>
   <string name="install_failed_incompatible">"Bu uygulama telefonunuzla uyumlu değil."</string>
@@ -411,7 +411,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="next">Sonraki</string>
   <string name="no_application">Yok</string>
   <string name="no_apps">Uygulama yok</string>
-  <string name="no_new_perms">Bu güncelleştirme, yeni izinler gerektirir.</string>
+  <string name="no_new_perms">Bu güncelleştirme yeni izinler gerektirmez.</string>
   <string name="no_permissions">İzin yok</string>
   <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM kilidini aç</string>
@@ -566,7 +566,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="uninstall_blocked_profile_owner">"Bu uygulama, çalışma profili için gerekli ve kaldırılamaz."</string>
   <string name="uninstall_confirm_question">Bu uygulama kaldırılsın mı?</string>
   <string name="uninstall_done">Kaldırma tamamladı.</string>
-  <string name="uninstall_failed">Başarıyla kaldırıldı.</string>
+  <string name="uninstall_failed">Kaldırma başarıyla kaldırıldı.</string>
   <string name="uninstall_failed_device_policy_manager">"Bu paket etkin bir cihaz yöneticisi olduğu için kaldıramazsınız."</string>
   <string name="uninstall_failed_device_policy_manager_of_user">"Bu paket, kullanıcı %1$s için etkin bir cihaz yöneticisi olduğu için kaldıramazsınız."</string>
   <string name="uninstall_failed_msg">"%1$s kaldırılamadı."</string>
