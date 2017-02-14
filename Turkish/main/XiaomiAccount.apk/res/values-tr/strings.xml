@@ -158,6 +158,8 @@
   <string name="find_device_error_password_recently_changed">"Şifreyi en son 3 gün önce değiştirdiniz. Güvenlik durumundan dolayı Telefonu Bul açılamadı."</string>
   <string name="find_device_interrupted">Faaliyet kesildi, sonra yeniden deneyin</string>
   <string name="find_device_io_error">"Ağa bağlanamadı"</string>
+  <string name="find_device_locked_account_email" formatted="false">%s,ilişkili e-posta adresi:%s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s,ilişkili telefon numarası:%s</string>
   <string name="find_device_null_credential_error">"Cihaz bilgisi alınamadı, Xiaomi yönetici hizmetine başvurun"</string>
   <string name="find_device_operation_failed_error">Bir hata oluştu</string>
   <string name="find_device_operation_failed_error_unknown">Bir hata oluştu, sonra yeniden deneyin</string>
