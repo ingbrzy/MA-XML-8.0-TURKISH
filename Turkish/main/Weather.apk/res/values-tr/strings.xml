@@ -35,10 +35,10 @@
   <string name="already_voted_toast">Bugün zaten oy kullandın</string>
   <string name="app_name">Hava Durumu</string>
   <string name="app_version">Sürüm: %s</string>
-  <string name="aqi_data_source">Colorful Clouds katkılarıyla</string>
+  <string name="aqi_data_source">Colorful Clouds tarafından güçlendirildi</string>
   <string name="aqi_desc">Hava Kalite İndeksi</string>
-  <string name="aqi_detail_24_hours">Saatlik Tahmin</string>
-  <string name="aqi_detail_5_days">Günlük Tahmin</string>
+  <string name="aqi_detail_24_hours">%1$s-Saatlik Tahmin</string>
+  <string name="aqi_detail_5_days">5 Günlük Tahmin</string>
   <string name="aqi_detail_co">CO</string>
   <string name="aqi_detail_no2">NO₂</string>
   <string name="aqi_detail_o3">O₃</string>
@@ -79,8 +79,8 @@
   <string name="daily_forcast_wind_connect">%2$s %1$s</string>
   <string name="daily_forecast_detail">Tahmin Detayları</string>
   <string name="daily_forecast_detail_date">d/M</string>
-  <string name="daily_forecast_no_data">"Veri alımı başarısız oldu
-  +elle yenilemek için aşağı çekin veya ağ ayarlarını kontrol edin"</string>
+  <string name="daily_forecast_no_data">"Hava Durumu bilgisi alınamadı
+  +Yenilemek veya ağ ayarlarını kontrol etmek için aşağı doğru çekin"</string>
   <string name="edit_alert_city_title">Uyarıları Yönet</string>
   <string name="edit_city">Şehri düzenle</string>
   <string name="empty">" "</string>
@@ -123,7 +123,7 @@
   <string name="install">Kurulum</string>
   <string name="international_detail_menu_title">Detaylar</string>
   <string name="international_details_pressure_title">Basınç</string>
-  <string name="international_details_real_feel_title">"Hissedilen"</string>
+  <string name="international_details_real_feel_title">"Hissedilen°"</string>
   <string name="international_details_title">Detaylar</string>
   <string name="international_details_uv_index_title">UV İndeksi</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
