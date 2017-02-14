@@ -179,6 +179,7 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_confusion_toast_confirm">Cihaz kabul edildi</string>
   <string name="micloud_confusion_toast_deny">Mi Hesabınızda oturum açın</string>
   <string name="micloud_confusion_yes">Evet</string>
+  <string name="micloud_detail_battery_low">Pil düşük</string>
   <string name="micloud_detail_battery_low_message">Batarya düşük. Lütfen telefonu şarj edin ve eşitleyin.</string>
   <string name="micloud_detail_battery_low_title">Batarya düşük</string>
   <string name="micloud_detail_depend_wifi_message">Lütfen WLAN ağına bağlanın veya eşitleme ayarlarını kontrol edin.</string>
@@ -189,9 +190,11 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_detail_force_sync">Şimdi eşitle</string>
   <string name="micloud_detail_lastest">Eşitlendi</string>
   <string name="micloud_detail_lastest_with_off">Eşitlendi</string>
+  <string name="micloud_detail_need_charge">Eşitlemek için şarj edilmesi gerekiyor</string>
   <string name="micloud_detail_not_sync">%d eşitlenmek için bekliyor</string>
   <string name="micloud_detail_not_synced">Eşitlenmedi</string>
   <string name="micloud_detail_ok">Tamam</string>
+  <string name="micloud_detail_pause">Eşitleme durdu</string>
   <string name="micloud_detail_pending">Bekleniyor</string>
   <string name="micloud_detail_preference_sync_items">Öğeler</string>
   <string name="micloud_detail_preference_syncing">Eşitle</string>
@@ -204,6 +207,10 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_detail_syncing">Eşitleniyor</string>
   <string name="micloud_detail_upload_syncing">%s yükleniyor</string>
   <string name="micloud_detail_wlan">%d eşitleme için bekleniyor</string>
+  <string name="micloud_dialog_sync_now_message">WLAN kullanmanızı önerin</string>
+  <string name="micloud_dialog_sync_now_negative">Şimdi değil</string>
+  <string name="micloud_dialog_sync_now_positive">Veri aktarım akışını kullanma</string>
+  <string name="micloud_dialog_sync_now_title">Verileri şimdi veri aktarım akışı kullanarak eşitleyin</string>
   <string name="micloud_detail_wlan_contact">Fotoğrafı eşitlenmek için bekleyen: %d</string>
   <string name="micloud_detail_wlan_mms">%d MMS eşitleme için bekliyor</string>
   <string name="micloud_dspt">Mi Bulut kullanarak verilerinizi eşitleyin, cihazın konumunu bulun, </string>
@@ -244,6 +251,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_full_influence_title">Mi Bulut dolduğunda...</string>
   <string name="micloud_main_battery_low">Eşitleme için yeterli batarya gücü yok</string>
   <string name="micloud_main_battery_message">Eşitlemek için şarja cihazına bağlayın.</string>
+  <string name="micloud_main_cancel_sync">Eşitlemeyi iptal et</string>
   <string name="micloud_main_clear_now">Temizle</string>
   <string name="micloud_main_data_unsynced">%d eşitleme için bekleniyor</string>
   <string name="micloud_main_detail">Detaylara gözat</string>
@@ -271,10 +279,11 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_main_suggest_sync">"Herşey eşitlenemedi"</string>
   <string name="micloud_main_sync_exception">Eşitleme hatası</string>
   <string name="micloud_main_sync_init">Bilgi alınıyor</string>
+  <string name="micloud_main_sync_need_charge">Şarj edilmesi bekleniyor</string>
   <string name="micloud_main_sync_now">Şimdi eşitle</string>
   <string name="micloud_main_sync_on">Eşitleme açık</string>
   <string name="micloud_main_sync_on_wifi">WLAN bağlantısı için bekleniyor</string>
-  <string name="micloud_main_sync_pause">Eşitleme durdu</string>
+  <string name="micloud_main_sync_pause">Eşitlemeyi durdur</string>
   <string name="micloud_main_sync_pending">Eşitleme için bekleniyor</string>
   <string name="micloud_main_sync_setting">Eşitleme Ayarları</string>
   <string name="micloud_main_sync_stop">Eşitleme durduruldu</string>
