@@ -142,7 +142,7 @@
         <item>kn</item>
     </string-array>
     <string-array name="breeze">
-        <item>&lt;2 gücünde</item>
+        <item>&lt;Beaufort Numarası 2</item>
         <item>&lt;6.0km/s</item>
         <item>&lt;1.7mt/sn</item>
         <item>&lt;3.7mps</item>
@@ -156,7 +156,7 @@
         <item>Knot (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">
-        <item>force %1$s</item>
+        <item>Beaufort Numarası %1$s</item>
         <item>%1$skm/s</item>
         <item>%1$smt/sn</item>
         <item>%1$smps</item>
