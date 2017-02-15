@@ -8,6 +8,7 @@
   <string name="activity_rule">Kurallar</string>
   <string name="ad_download">İndir</string>
   <string name="ad_downloading">Biraz bekleyin...</string>
+  <string name="add_follow">Takip et</string>
   <string name="add_one">+1</string>
   <string name="add_private">Dosyaları şimdi gizle</string>
   <string name="add_private_files">Dosyaları ekle</string>
@@ -113,11 +114,14 @@
   <string name="claim_video_success">Başarıyla hak iddia edildi</string>
   <string name="claim_video_unlogin">Hak iddialı videolara oturum açın</string>
   <string name="clean_hint">Alan boşaltmak için dokunun</string>
+  <string name="click_login_str">Oturum Aç</string>
   <string name="clean_message"> %1$s alan açıldı.</string>
   <string name="clean_title">Çöp kutusundaki 30 günden eski dosyaları sil</string>
   <string name="clean_trash_box">Çöp kutusunu boşalt</string>
   <string name="click_to_switch_volume">Dahili ve Harici depolama arasında geçiş yapmak için buraya dokun</string>
   <string name="click_to_switch_volume_pad">Dahili ve SD depolama arasında geçiş yapmak için buraya dokun</string>
+  <string name="comment_added">Başarıyla eklendi</string>
+  <string name="comment_added_tip">"Çok fazla yorum ekliyorsunuz. Bu kişiyi takip edecek misiniz?"</string>
   <string name="close">Kapat</string>
   <string name="comment_delete_message">Bu yorum hemen silinecek.</string>
   <string name="comment_delete_title">Yorumu sil</string>
@@ -169,6 +173,8 @@
   <string name="decrypt_error">"Çözülemedi"</string>
   <string name="decrypt_to">Çöz ve farklı kaydet...</string>
   <string name="decrypting">Çözülüyor…</string>
+  <string name="default_prize_text">Bu benim hazinem doğru gidiyor!</string>
+  <string name="default_user_desc">"Bu kişinin açıklaması henüz eklenmemiş."</string>
   <string name="delete_dialog_button">Sil</string>
   <string name="delete_error">"Dosyalar silinemedi, tekrar deneyin"</string>
   <string name="delete_failed">"Silinemiyor"</string>
@@ -249,6 +255,7 @@
   <string name="file_loading">Biraz bekleyin...</string>
   <string name="file_name_invalid">"Dosya adları şu karakterleri içeremez: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">"Dosya mevcut değil"</string>
+  <string name="finish_str">Tamam</string>
   <string name="file_too_large">Dosya yüklemek için çok büyük</string>
   <string name="files">Dosyalar</string>
   <string name="finished">Tamam</string>
@@ -258,6 +265,7 @@
   <string name="folder_name_illegal">Geçersiz klasör adı</string>
   <string name="folder_name_invalid">"Klasör adları şu karakterleri içeremez: /\\:*?&lt;&gt;"</string>
   <string name="follow_fail">"Takip edilmiyor, sonra deneyin"</string>
+  <string name="follow_success_tip">Başarıyla takibe alındı</string>
   <string name="follow_tip_1">Daha fazla video izlemek için beni takip edin</string>
   <string name="follow_tip_2">Daha fazla video izlemek için beni takip edin</string>
   <string name="force_touch_clean">Temizle</string>
@@ -433,7 +441,9 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="move_icon_to_desktop_success">Kısayol Ana Ekrana eklendi.</string>
   <string name="move_to">Taşı:</string>
   <string name="msg_notify_setting">Bildirim Ayarları</string>
+  <string name="msg_page_video_default_title">Video yükledim, bakabilirsiniz!</string>
   <string name="msg_set_password">Önce şifreyi ayarla</string>
+  <string name="my_follows">Beslemem</string>
   <string name="multi_select_title">%1$s seçildi</string>
   <string name="my_app">Uygulama Verisi</string>
   <string name="my_app_desc"/>
@@ -463,6 +473,7 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="my_video">Videolar</string>
   <string name="my_video_desc"/>
   <string name="name_empty">Bir ad girmelisiniz.</string>
+  <string name="need_login">Önce oturum açın</string>
   <string name="need_read_storage_permission">"Çalışmak için tasarlanan gezginin cihazın dahili depolamasına erişimesi gerekiyor"</string>
   <string name="net_lose_connected">Bağlantı koptu.</string>
   <string name="networkView_notConnected">"Ağa bağlanamıyor"</string>
@@ -474,6 +485,7 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="never_notify_network_connect">Tercihimi hatırla</string>
   <string name="new_comments">Yeni Yorumlar</string>
   <string name="new_folder_name">Adsız klasör</string>
+  <string name="next_time">Şimdi değil</string>
   <string name="new_function">Gizli Klasörler</string>
   <string name="new_function_info">Gizli klasörleri görüntülemek için, başlangıç sayfanızdaki simgelerin ilk satırından ekranın alt kısmına doğru aşağı çekin.</string>
   <string name="new_function_str">"WeChat etiketleri şimdi otomatik olarak toplanabilir.
@@ -502,6 +514,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="no_recent_files">Sık kullanılan dosya yok</string>
   <string name="no_tasks">Görev yok.</string>
   <string name="no_topic">Başlık yok</string>
+  <string name="no_videos">Burada birşey yok, önce aşağıyı kontrol edin!</string>
   <string name="no_topic_found">"Başlık bulunamadı"</string>
   <string name="no_wifi">Bağlantı bulunmadı.</string>
   <string name="no_wifi_hint">Bağlantı yok.</string>
@@ -583,6 +596,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="operation_unfavorite">Favoriden Çıkart</string>
   <string name="operation_unlike">Favoriden Çıkart</string>
   <string name="origin_name">%1$s: </string>
+  <string name="original_user_desc">İçerik Oluşturucu statüsünü elde etmek için orijinal videoları düzenli olarak yükleyin</string>
   <string name="original_user_qq_group">Yetenek ekibi QQ grubuna katılın</string>
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; topluluğa katıldı</string>
   <string name="original_user_signal">Yetenek ekibi</string>
@@ -668,8 +682,10 @@ ve yenilerini kaçırmayın!"</string>
   <string name="qzone_platform">Qzone</string>
   <string name="recent_show">Geçmiş</string>
   <string name="recommend">Tavsiyeli</string>
+  <string name="recommend_popup_title">Tavsiyeler</string>
   <string name="recommend_topic">Tavsiyeli Konular</string>
   <string name="recommend_user">Tavsiyeli Profiller</string>
+  <string name="recommend_users">%1$s+</string>
   <string name="release_to_signin">Kontrol etmek bırakın </string>
   <string name="remote_video_no_network">"Ağa bağlanamıyor."</string>
   <string name="remote_video_report_success">"Görüşleriniz için teşekkür ederiz! En kısa sürede takipçisi olacağız."</string>
@@ -755,6 +771,8 @@ ve yenilerini kaçırmayın!"</string>
   <string name="search_title_hint">Ara</string>
   <string name="select_dest_folder">Klasörü seç</string>
   <string name="select_image">Resimler</string>
+  <string name="select_interest_str">Beğendiğiniz konuları seçin</string>
+  <string name="select_interest_tip">Keşfedilecek çok şey var!</string>
   <string name="select_music">Ses Dosyaları</string>
   <string name="select_video">Video Dosyaları</string>
   <string name="select_volume">Lütfen sesi seçin</string>
@@ -798,6 +816,8 @@ ve yenilerini kaçırmayın!"</string>
   <string name="share_title_09">%s Bir video paylaştım, bakın!</string>
   <string name="share_title_1">Güzel etiket paketi bulundu!</string>
   <string name="share_to">Paylaş…</string>
+  <string name="share_topic_desc">Ödüller almak için videolar yükle</string>
+  <string name="share_topic_title">"#%1$s# izledim, sende izle!"</string>
   <string name="share_youliao1">Daha fazla bölümü izlemek için güncelle.</string>
   <string name="share_youliao2">Daha fazla bölümü izlemek için güncelle.</string>
   <string name="share_youliao3">Daha fazla bölümü izlemek için güncelle.</string>
@@ -861,7 +881,8 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="tab_local">Yerel</string>
   <string name="tab_local_video">Çevrimdışı</string>
   <string name="tab_mine">Profil</string>
-  <string name="tab_more">Fazlası</string>
+  <string name="tab_more">Diğer</string>
+  <string name="tab_msg">Mesajlar</string>
   <string name="tab_newest_video">Yeni</string>
   <string name="tab_path">DİZİNLER</string>
   <string name="tab_profile">Profil</string>
@@ -956,19 +977,21 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_cancel">İptal</string>
   <string name="user_center_setting">Ayarlar</string>
   <string name="user_center_title">Ana Sayfa</string>
+  <string name="user_desc_default_tip">Puan toplamak ve ödüller kazanmak için oturum açın.</string>
   <string name="user_follow_me_title">Takipçilerim</string>
   <string name="user_follow_title">Takip Ettiğim</string>
-  <string name="user_guide">KuaiPan hakkında daha fazla bilgi</string>
+  <string name="user_guide">Mi Drive hakkında daha fazla bilgi</string>
   <string name="user_guide_continue_use">Tamam</string>
   <string name="user_guide_more_login">Diğer yolla oturum aç</string>
   <string name="user_guide_download_other_version">Bilgisayardan dosya yükle</string>
-  <string name="user_guide_kuaipan_copy">Dosyaları telefondan kopyalayıp Kuaipan\'a yapıştırın</string>
+  <string name="user_guide_kuaipan_copy">Dosyaları telefondan kopyalayıp Mi Drive\'a yapıştırın</string>
   <string name="user_guide_kuaipan_lable">Rahat ve güvenli bir bulut depolamasıdır</string>
   <string name="user_guide_other_version">mi.kuaipan.cn\'dan indirin. Hesap kimliğinizle giriş yapın(%1$s)</string>
-  <string name="user_guide_save_file">KuaiPan kullanarak dosyaları kaydet</string>
+  <string name="user_guide_save_file">Mi Drive kullanarak dosyaları kaydet</string>
   <string name="user_guide_summary">Rahat ve güvenli bir bulut depolamasıdır</string>
-  <string name="user_guide_upload_to_kuaipan">Telefondaki içeriği KuaiPan\'da saklayın.</string>
-  <string name="user_icon">Profil fotoğrafı</string>
+  <string name="user_guide_upload_to_kuaipan">Telefondaki içeriği Mi Drive\'da saklayın.</string>
+  <string name="user_icon">Profil Fotoğrafı</string>
+  <string name="user_id_tip">ID: </string>
   <string name="user_info_setting">Bilgiyi düzenle</string>
   <string name="user_like_text">Sevilenler</string>
   <string name="user_liked_video_title">Sevilen Videolar</string>
@@ -1045,6 +1068,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="video_publish_hint">Videonuzu bulması için diğer kişilerin anlayacağı etkili içerikler, açıklamalar yazın</string>
   <string name="video_publish_hint2">Açıklama</string>
   <string name="video_publish_origin_tag">Orjinal etiket</string>
+  <string name="video_publish_watchable_limit">Bunu her gün iki kere yapabilirsiniz.</string>
   <string name="video_publish_watchable_tag">Bu videoyu izleyip beni takip et</string>
   <string name="video_recommend_upload">Tavsiyeli</string>
   <string name="video_releasing">Yükleniyor…</string>
@@ -1103,6 +1127,12 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Evet</string>
   <string name="yesterday">Dün</string>
+  <string name="you_liao_god_desc">Videoları düzenli olarak yükleyin ve Beyefendi statüsünü kazanmak için hayran kitlenizi genişletin</string>
+  <string name="you_liao_god_str">Beyefendi</string>
+  <string name="you_liao_goddess_desc">Videoları düzenli olarak yükleyin ve Hanımefendi statüsünü elde etmek için hayran kitlenizi genişletin​</string>
+  <string name="you_liao_goddess_str">Hanımefendi</string>
+  <string name="you_liao_xunlei_desc">Ev sahibi statüsünü kazanmak için bizimle sözleşme imzalayın</string>
+  <string name="you_liao_xunlei_str">Xunlei Ev Sahibi</string>
   <string name="youliao_ad_msg">"\"Youliao\" katılın!
 170 Milyon Mi hayranı sizi izlesin."</string>
   <string name="youliao_ad_title">Popüler videolar güncellendi!</string>
