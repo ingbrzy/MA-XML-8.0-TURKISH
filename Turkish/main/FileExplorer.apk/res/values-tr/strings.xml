@@ -173,8 +173,6 @@
   <string name="decrypt_error">"Çözülemedi"</string>
   <string name="decrypt_to">Çöz ve farklı kaydet...</string>
   <string name="decrypting">Çözülüyor…</string>
-  <string name="default_prize_text">Bu benim hazinem doğru gidiyor!</string>
-  <string name="default_user_desc">"Bu kişinin açıklaması henüz eklenmemiş."</string>
   <string name="delete_dialog_button">Sil</string>
   <string name="delete_error">"Dosyalar silinemedi, tekrar deneyin"</string>
   <string name="delete_failed">"Silinemiyor"</string>
@@ -441,7 +439,6 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="move_icon_to_desktop_success">Kısayol Ana Ekrana eklendi.</string>
   <string name="move_to">Taşı:</string>
   <string name="msg_notify_setting">Bildirim Ayarları</string>
-  <string name="msg_page_video_default_title">Video yükledim, bakabilirsiniz!</string>
   <string name="msg_set_password">Önce şifreyi ayarla</string>
   <string name="my_follows">Beslemem</string>
   <string name="multi_select_title">%1$s seçildi</string>
@@ -977,7 +974,6 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_cancel">İptal</string>
   <string name="user_center_setting">Ayarlar</string>
   <string name="user_center_title">Ana Sayfa</string>
-  <string name="user_desc_default_tip">Puan toplamak ve ödüller kazanmak için oturum açın.</string>
   <string name="user_follow_me_title">Takipçilerim</string>
   <string name="user_follow_title">Takip Ettiğim</string>
   <string name="user_guide">Mi Drive hakkında daha fazla bilgi</string>
