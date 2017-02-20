@@ -161,10 +161,10 @@
   <string name="find_device_locked_account_email" formatted="false">%s,ilişkili e-posta adresi:%s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s,ilişkili telefon numarası:%s</string>
   <string name="find_device_null_credential_error">"Cihaz bilgisi alınamadı, Xiaomi yönetici hizmetine başvurun"</string>
-  <string name="find_device_operation_failed_error">Bir hata oluştu</string>
+  <string name="find_device_operation_failed_error">Sunucuda bir hata oluştu, daha sonra tekrar deneyin</string>
   <string name="find_device_operation_failed_error_unknown">Bir hata oluştu, sonra yeniden deneyin</string>
   <string name="find_device_remote_exception">RPC Hatası</string>
-  <string name="find_device_request_error">"Durum bilgisi alınamadı, sonra yeniden deneyin"</string>
+  <string name="find_device_request_error">"Sunucuda hata oluştuğundan durum bilgisi isteğinde bulunamıyor, daha sonra tekrar deneyin"</string>
   <string name="find_device_request_prepare_error">"Cihaz durumu alınamadı, sonra yeniden deneyin"</string>
   <string name="find_device_unknown_error">"Cihaz durumu alınamadı, sonra yeniden deneyin"</string>
   <string name="find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com ziyaret edin</string>
