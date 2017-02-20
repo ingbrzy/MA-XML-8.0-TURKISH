@@ -84,6 +84,13 @@
   <string name="impunity_declaration_negative_text">Çıkış</string>
   <string name="impunity_declaration_positive_text">İzinli</string>
   <string name="impunity_declaration_title">Hizmet Koşulları</string>
+  <string name="keywords_search_code">Tarayıcı, Tarama; QR kodu; QR; Tanıma; Barkod; Barkod; Ürün; Alipay; WeChat; QR kodunu tarama yöntemi; barkod tarama yöntemi; tarama yöntemi; MIUI Tarayıcı</string>
+  <string name="keywords_search_document">Tarayıcı; Dokümanı tara; Dokümanları tara; OCR; Metni tara; Tara</string>
+  <string name="keywords_search_namecard">Tarayıcı, Kartvizit, Kartvizitler; Tarama; Tarama kartları; Kart; Kartlar; Kişiler; İletişim</string>
+  <string name="keywords_search_settings">Tarayıcı, Tarayıcı ağı ayarları</string>
+  <string name="keywords_search_shopping">Alışveriş; Tarayıcı; Ürünleri tara; Ürünü tara; Fiyat kontrolü; Ürünler; Taobao; Tmall; Fiyatlar; Online alışveriş</string>
+  <string name="keywords_search_study">Tarayıcı, Sorunlar, Sorunları Çözme, Ödev, Okul, Fizik, Kimya, Matematik, Matematik, İngilizce, Tarihçe, Çinli</string>
+  <string name="keywords_search_translation">Sözlük, İngilizce, Yabancı Dil, Dil, İngilizce, Çince, İtalyanca, Almanca, Japonca, Korece, İspanyolca, Fransızca; Baidu Çeviri; Youdao Sözlüğü; Baidu Sözlüğü; Google Translate</string>
   <string name="language_entry_chinese_cn">Sadeleştirilmiş Çince</string>
   <string name="language_entry_chinese_tw">Geleneksel Çince</string>
   <string name="language_entry_danish">Danimarkaca</string>
@@ -119,6 +126,7 @@
   <string name="not_recommend_access_web_url">Her halükarda git</string>
   <string name="not_tips">"Yeniden gösterme"</string>
   <string name="note">Yeniden işaretle:</string>
+  <string name="path_scanner_setting">Sistem Uygulamaları/Tarayıcı</string>
   <string name="payment_weixin">WeChat</string>
   <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Telefon:</string>
