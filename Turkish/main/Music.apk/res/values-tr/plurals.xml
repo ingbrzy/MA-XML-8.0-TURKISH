@@ -127,4 +127,9 @@
         <item quantity="zero">%1$s oluşturuldu | Toplam %2$d şarkı</item>
         <item quantity="one">%1$s oluşturuldu | Toplam %2$d şarkı</item>
     </plurals>
+	<plurals name="Nalbum_total_songs">
+        <item quantity="other">Toplam %d şarkı</item>
+        <item quantity="zero">Toplam %d şarkı</item>
+        <item quantity="one">Toplam %d şarkı</item>
+    </plurals>
 </resources>
