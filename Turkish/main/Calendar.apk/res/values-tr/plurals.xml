@@ -31,16 +31,36 @@
         <item quantity="other">+%d etkinlik</item>
         <item quantity="one">+1 etkinlik</item>
     </plurals>
-<plurals name="Ndays_ago">
+<plurals name="Ndays_ago_at">
         <item quantity="other">%1$d gün önce: %2$s</item>
         <item quantity="one">%1$d gün önce: %2$s</item>
     </plurals>
-    <plurals name="Ndays_after">
+    <plurals name="Ndays_after_at">
         <item quantity="other">%1$d gün içinde: %2$s</item>
         <item quantity="one">%1$d gün içinde: %2$s</item>
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">%d hafta önce</item>
         <item quantity="one">1 hafta önce</item>
+    </plurals>
+	<plurals name="anniversary_notify_title">
+        <item quantity="other">[Anniversary]%1$s yaşında %2$d. yildönümü </item>
+        <item quantity="one">[Anniversary]%1$s yaşında %2$d. yildönümü</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">[Anniversary]%1$s yaşında %2$d. yildönümüne 3 gün var</item>
+        <item quantity="one">[Anniversary]%1$s yaşında %2$d. yildönümüne 3 gün var</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">yıl</item>
+        <item quantity="one">yıl</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">gün</item>
+        <item quantity="one">gün</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">gün sonra</item>
+        <item quantity="one">gün sonra</item>
     </plurals>
 </resources>
