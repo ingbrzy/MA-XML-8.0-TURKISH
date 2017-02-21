@@ -226,4 +226,9 @@
         <item>Zaman</item>
         <item>Say</item>
     </string-array>
+	<string-array name="repeat_countdown">
+        <item>Asla</item>
+        <item>Aylık</item>
+        <item>Yıllık</item>
+    </string-array>
 </resources>
