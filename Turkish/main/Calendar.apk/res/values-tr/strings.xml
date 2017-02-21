@@ -55,6 +55,8 @@
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Süresi Doldu</string>
   <string name="alert_title">Takvim Bildirimleri</string>
+  <string name="anniversary_card_title">Yıldönümü</string>
+  <string name="anniversary_event_title">[Yıldönümü]%1$s</string>
   <string name="anniversary_metric"/>
   <string name="anniversary_term">yıldönümü</string>
   <string name="app_label">Takvim</string>
@@ -65,8 +67,8 @@
   <string name="birthday_event_description_a_week_later">Bir hafta kadar</string>
   <string name="birthday_event_description_day_after_tomorrow">Yarından sonraki gün</string>
   <string name="birthday_event_description_day_before_yesterday">Dünden önceki gün</string>
-  <string name="birthday_event_description_days_ago">%1$s gün önce</string>
-  <string name="birthday_event_description_days_later">%1$s gün kadar kaldı</string>
+  <string name="birthday_event_description_days_ago">%1$d gün önce</string>
+  <string name="birthday_event_description_days_later">%1$d gün kadar kaldı</string>
   <string name="birthday_event_description_default">"%1$s'nın %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s %2$s'nın %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Bugün</string>
@@ -131,6 +133,11 @@
   <string name="copy_db">Veritabanına gönder</string>
   <string name="copy_email">E-posta adresini kopyala</string>
   <string name="copy_number">Telefon numarasını kopyala</string>
+  <string name="countdown_card_title">Sayılı Günler</string>
+  <string name="countdown_event_title">[Sayım]%1$s</string>
+  <string name="countdown_notify_before_3_day_title">[Sayım]3 gün içinde; %1$s</string>
+  <string name="countdown_notify_title">[Sayım]%1$s</string>
+  <string name="countdown_today">Bugün</string>
   <string name="create_an_account_desc">"Takvim en iyi şekilde Mi Hesabı ile çalışır.
 
 • Herhangi bir Web tarayıcısına eriş
@@ -177,6 +184,10 @@
   <string name="deleted_key">%1$s silindi</string>
   <string name="deleting_calendar">Abonelikten çık</string>
   <string name="departure">Ayrıl</string>
+  <string name="description_calendar">Sistem Uygulamaları/Takvim</string>
+  <string name="description_calendar_edit_event">Sistem Uygulamaları/Takvim/Ajanda</string>
+  <string name="description_calendar_huangli"/>
+  <string name="description_calendar_subscribe_group"/>
   <string name="description_label">Tarif</string>
   <string name="directory_searching_fmt">%s aranıyor...</string>
   <string name="discard_label">İptal</string>
@@ -193,6 +204,8 @@
   <string name="drop_down_list_footer_loading_text">Yükleniyor...</string>
   <string name="dropdown_delete_button_desc">Alıcılardan %s kaldır</string>
   <string name="edit_event_all_day_label">Tüm Gün</string>
+  <string name="edit_event_anniversary_name_empty_hint">Lütfen yıldönümünü girin</string>
+  <string name="edit_event_anniversary_name_hint">İçerik</string>
   <string name="drop_down_list_footer_no_more_text">Fazlası</string>
   <string name="drop_down_list_header_loading_text">Fazlası</string>
   <string name="drop_down_list_header_pull_text">Yenilemek için aşağı çekin</string>
@@ -208,10 +221,16 @@
   <string name="drop_down_list_header_release_text">Yenilemek için serbest bırakın</string>
   <string name="edit_event_choose_date">Tarihi seç</string>
   <string name="edit_event_confirm_message">Değişiklikler yoksayılsın mı?</string>
+  <string name="edit_event_countdown_name_empty_hint">Lütfen sayılı gün içeriğini girin</string>
+  <string name="edit_event_countdown_name_hint">İçerik</string>
   <string name="edit_event_input_year">Yılı girin</string>
   <string name="edit_event_calendar_label">Takvim</string>
   <string name="edit_event_from_label">Şurdan</string>
   <string name="edit_event_no_reminder_value">Hatırlatma!</string>
+  <string name="edit_event_reminder_3_days_before">3 gün öndene hatırlat</string>
+  <string name="edit_event_reminder_summary">Aynı gün, %1$s zamanda hatırlat</string>
+  <string name="edit_event_reminder_time">Hatırlatma Zamanı</string>
+  <string name="edit_event_reminder_summary_3_days_before">3 gün öncesinin %1$s zamanında hatırlat</string>
   <string name="edit_event_reminder_text">%1$s, %2$s zamanda</string>
   <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s, %3$s zamanda</string>
   <string name="edit_event_label">Detaylar</string>
@@ -421,7 +440,7 @@
   <string name="online_reminder_header_text">Hatırlat</string>
   <string name="online_reminder_minutes_text">Hatırlatma Zamanı</string>
   <string name="online_reminder_slider_text">Hatırlatmayı etkinleştir</string>
-  <string name="path_calendar">Sistem Uygulamaları/Takvim/Ayarlar</string>
+  <string name="path_calendar_settings">Sistem Uygulamaları/Takvim/Ayarlar</string>
   <string name="pengzu">Pang</string>
   <string name="prefDialogTitle_vibrateWhen">Titret</string>
   <string name="pref_error_no_ringtone_select">Hiçbiri seçilmedi</string>
@@ -530,7 +549,11 @@
   <string name="saving_event">Kaydedildi</string>
   <string name="saving_event_with_guest">Güncellemeler gönderilecek</string>
   <string name="search">Ara</string>
-  <string name="search_calendar">Takvim;Ajanda;Hatırlatıcı</string>
+  <string name="search_calendar">"Tarih; Güneş Terimleri; Ay Ayı; Almanak; Fortune; Gündem; Toplantı; Hatırlatma; Tatilde Tatil; Doğum Günü; 2016; 2017; Bahar Şenliği; Yılbaşı Günü; Uluslararası İşçi Bayramı; Sonbahar Sonbahar Şenliği"</string>
+  <string name="search_calendar_edit_event">Toplantı; Hatırlatma; Ajanda</string>
+  <string name="search_calendar_huangli"/>
+  <string name="search_calendar_settings">Takvim; Ajanda; Hatırlatma</string>
+  <string name="search_calendar_subscribe_group"/>
   <string name="search_history_cleared">Arama geçmişi temizlendi</string>
   <string name="search_title">Takvimlerim de Ara</string>
   <string name="searchview_description_clear">Sorguyu </string>
