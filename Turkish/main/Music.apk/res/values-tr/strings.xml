@@ -58,7 +58,16 @@
   <string name="app_label">İndirilenler</string>
   <string name="artist">Sanatçılar</string>
   <string name="artist_album">Albümler</string>
+  <string name="artist_area_all">Tümü</string>
+  <string name="artist_area_china">Çin</string>
+  <string name="artist_area_europe_usa">Avrupa/ABD</string>
+  <string name="artist_area_japan">Japonya</string>
+  <string name="artist_area_korea">Kore</string>
   <string name="artist_favor">Özellikli</string>
+  <string name="artist_gender_all">Tümü</string>
+  <string name="artist_gender_female">Kadın</string>
+  <string name="artist_gender_group">Grup</string>
+  <string name="artist_gender_male">Erkek</string>
   <string name="artist_is_empty">Sanatçı adı boş olamaz.</string>
   <string name="artist_name">Sanatçı</string>
   <string name="artist_news">Yenilikler</string>
@@ -81,6 +90,7 @@
   <string name="auto_payment">Otomatik yenile</string>
   <string name="auto_payment_date">Sonraki ödeme: %s</string>
   <string name="auto_restart_under_wifi">WLAN otomatik olarak bu dosyayı indirir</string>
+  <string name="auto_upgrade">Otomatik Güncelle</string>
   <string name="avail_services">Mevcut</string>
   <string name="available_playlist_name_format">Yeni çalma listesi %d</string>
   <string name="avoid_to_use_traffic_summary">"Müzik yayınında mobil ağı kullanmayın"</string>
@@ -344,6 +354,7 @@
   <string name="favorite_singer">Favori Şarkıcılar</string>
   <string name="favorite_succeed">Favorilere eklendi</string>
   <string name="favorite_tracks">Favoriler</string>
+  <string name="favorites">Favoriler</string>
   <string name="favourite_music_left_half">Oynatma listesine yeni şarkılar eklemek için dokunun</string>
   <string name="favourite_music_right_half">"Şarkının başlığının sağındaki favori simgesi"</string>
   <string name="female_artist">Kadın Şarkıcılar</string>
@@ -415,6 +426,7 @@
   <string name="higher_quality_music_summary">Daha yüksek bit hızında müzik indir ve aktar</string>
   <string name="home_tab_local">Müziğim</string>
   <string name="home_tab_online">Keşfet</string>
+  <string name="hot_icon_in_fast_indexer">H</string>
   <string name="i_know">Tamam</string>
   <string name="i_know_it">Tamam</string>
   <string name="impunity_declaration">Uygulama çevrimiçi içerik ve akışı görüntülemek için bir internet bağlantısı gerektirir.</string>
@@ -456,9 +468,11 @@
   <string name="local_music_is_not_available">Yerel müzik mevcut değil.</string>
   <string name="local_page_artist">Takipteki Sanatçılar</string>
   <string name="local_page_custom_subtitle">Hergün Yeni Şarkılar</string>
-  <string name="local_page_custom_title">Sana özel</string>
+  <string name="local_page_custom_title">Sana Özel</string>
+  <string name="local_page_playlist">Listem</string>
   <string name="local_page_song_all">Tüm Şarkılar</string>
   <string name="local_page_song_download">Yerel Şarkılar</string>
+  <string name="local_page_song_download_history">İndirilenler</string>
   <string name="local_page_song_favorite">Favori Şarkılar</string>
   <string name="local_tracks_short">Çevrimdışı</string>
   <string name="login_first">Mi Hesabınız ile giriş yapmanız gerekiyor</string>
@@ -573,6 +587,7 @@
   <string name="no_local_source_find">"Şarkı bulunamadı"</string>
   <string name="no_online_song_selected">Seçilen şarkı yok</string>
   <string name="no_results_return">Arama sonucu yok</string>
+  <string name="no_scanned_songs">Boş</string>
   <string name="no_song">Şarkı yok</string>
   <string name="no_song_downloaded">"Sunucuya bağlanılamıyor"</string>
   <string name="normal_quality">İyi</string>
@@ -647,6 +662,7 @@
   <string name="play_next">Sonrakini oynat.</string>
   <string name="playback_failed_no_title_by_bad_file">"Şarkı oynatılamıyor. Format desteklenmiyor veya dosya yok."</string>
   <string name="playlist_deleted_message">Oynatma listesi silindi</string>
+  <string name="playlist_empty">Çalma listesi bulunamadı.</string>
   <string name="playlist_renamed_message">Oynatma listesi yeniden adlandırıldı</string>
   <string name="playlist_type_album">Albümler</string>
   <string name="playlist_type_artist">Sanatçı</string>
@@ -694,6 +710,7 @@
   <string name="radar_support_by">ACRCloud ile güçlendirilmiştir</string>
   <string name="really_pay">Şimdi ödensin mi?</string>
   <string name="recently_played">Önceden oynatılan</string>
+  <string name="recently_played_songs">Önceden oynatılan</string>
   <string name="recommend_fragment_title">Öne Çıkanlar</string>
   <string name="recommended_file_size_download_in_mobile">Bu dosyayı indirirken mobil veri %s  kullanılsın mı?</string>
   <string name="recommended_no_file_size_download_in_mobile">Bu dosyayı indirmek için mobil veri bağlantısı kullanılsın mı?</string>
@@ -845,7 +862,8 @@
   <string name="talkback_search">Ara</string>
   <string name="talkback_share">Paylaş</string>
   <string name="task_already_exist">Görev zaten var</string>
-  <string name="ticket_summary">Gösterileri, konserler, tiyatro ve diğer etkinlikler için bilet satın al</string>
+  <string name="text_separator">|</string>
+  <string name="ticket_summary">Gösteriler, konserler, tiyatro ve diğer etkinlikler için bilet satınal</string>
   <string name="ticket_title">Biletleri Göster</string>
   <string name="time_to_upgrade">Mi Müzik son sürüme güncelleyin</string>
   <string name="title_online_artist">Popüler Sanatçılar</string>
