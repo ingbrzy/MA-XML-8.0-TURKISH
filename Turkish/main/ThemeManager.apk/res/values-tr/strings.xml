@@ -22,6 +22,8 @@
   <string name="backup_theme_name">Temayı yedekle</string>
   <string name="backup_theme_progress_message">Yedekleniyor...</string>
   <string name="backup_theme_success_message">Geçerli temanin ayarları yedeklendi.</string>
+  <string name="both_all_apply_failured">"Duvar kağıdı uygulanamıyor"</string>
+  <string name="both_all_apply_success">Duvar kağıdı uygulandı</string>
   <string name="browser_local_resource">Yerel Kaynaklar</string>
   <string name="change_host_hint">Sunucuyu Değiştir</string>
   <string name="change_wallpaper">Duvar Kağıdı</string>
@@ -85,14 +87,21 @@
   <string name="gift_use_confirmation_dlg_title">Bu hediye gönderilsin mi?</string>
   <string name="gift_use_fail_dlg_title">Bir şeyler yanlış gitti</string>
   <string name="gift_used">Gönderildi</string>
+  <string name="home_apply_failured">"Ana Ekrana duvar kağıdı uygulanamıyor"</string>
+  <string name="home_apply_success">Ana Ekran duvar kağıdı uygulandı</string>
   <string name="incompatible_dialog_message">Bu tema tamamen MIUI 8 ile uyumlu değil. Bazı içerikler ekranda düzgün gözükmeyebilir.</string>
   <string name="incompatible_dialog_ok">Anladım</string>
   <string name="incompatible_dialog_title">Uyumluluk Problemleri</string>
+  <string name="is_setting_wallpaper_message">Duvar kağıdı ayarlanıyor…</string>
   <string name="live_wallpaper">Canlı Duvar Kağıtları</string>
   <string name="loading">Biraz bekleyin...</string>
   <string name="loading_resource_detail_fail">"Kaynak yüklenemiyor"</string>
   <string name="loading_resource_detail_info">Biraz bekleyin...</string>
   <string name="local_resouce_creator_name">Geliştirici: %1$s</string>
+  <string name="lockscreen_apply_failured">"Kilit Ekran duvar kağıdı uygulanamıyor"</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">"Ana Ekran duvar kağıdı uygulandı fakat Kilit Ekran için uygulanamadı"</string>
+  <string name="lockscreen_apply_success">Kilit Ekran duvar kağıdı uygulandı</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">"Kilit Ekran duvar kağıdı uygulandı fakat Ana Ekran için uygulanamadı"</string>
   <string name="lockscreen_magazine_subscribe">%1$s takipçi</string>
   <string name="lockscreen_magazine_summary">Kategoriler</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s duvar kağıdı</string>
@@ -333,6 +342,7 @@
   <string name="search_hint_header_text">Sözler</string>
   <string name="selected_resource_file_invalid">"Seçilen kaynak dosyası kullanılamıyor"</string>
   <string name="settings">Ayarlar</string>
+  <string name="the_picture_is_too_small">Resim çok küçük</string>
   <string name="short_ringtone_resource">Kısa</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
   <string name="theme_apply_audio_dialog_item_notification">Bildirim</string>
@@ -423,7 +433,7 @@
   <string name="to_activate_the_account">Şimdi Mi Hesabını etkinleştir</string>
   <string name="wallpaper_crop">Kırp</string>
   <string name="wallpaper_decoded_error">"Duvar Kağıdı yüklenemiyor"</string>
-  <string name="wallpaper_loading_text">Biraz bekleyin...</string>
+  <string name="wallpaper_scroll_type_tips">Duvar kağıdını kaydır</string>
   <string name="wallpaper_set_as_both">İkisine de Ayarla</string>
   <string name="wallpaper_set_as_destop">Ana Ekrana Ayarla</string>
   <string name="wallpaper_set_as_lockscreen">Kilit Ekranına Ayarla</string>
