@@ -5,14 +5,14 @@
         <item quantity="one">Bu içerik silinsin mi?</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s saniye</item>
-        <item quantity="one">%s saniye</item>
-        <item quantity="few">%s saniye</item>
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+        <item quantity="few">%d saniye</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s saniye</item>
-        <item quantity="one">%s saniye</item>
-        <item quantity="few">%s saniye</item>
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+        <item quantity="few">%d saniye</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">\"%2$s\ için %1$s sonuç"</item>
@@ -36,7 +36,7 @@
         <item quantity="one">%1$s mesaj</item>
     </plurals>
 	<plurals name="custom_select_title_items_selected">
-        <item quantity="other">%d seçildi</item>
+        <item quantity="other">%d öğe seçildi</item>
         <item quantity="zero">Öğeleri seç</item>
     </plurals>
 </resources>
