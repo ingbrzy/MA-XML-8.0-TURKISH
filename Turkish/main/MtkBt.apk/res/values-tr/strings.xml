@@ -356,7 +356,6 @@ Göndermeye devam edilsin mi?"</string>
   <string name="simap_connected_notify_message">Bağlantısını kesmek için seçin</string>
   <string name="simap_connected_notify_ticker">Uzaktan SIM\'e bağlandı</string>
   <string name="simap_connected_notify_title">%1$s SIM bağlandı</string>
-  <string name="simap_defaultname">Araç Kiti</string>
   <string name="simap_disconnect_message">%1$s ile bağlantı kesilsin mi?</string>
   <string name="simap_disconnect_no">Hayır</string>
   <string name="simap_disconnect_title">Uzaktan SIM bağlantısı kesildi</string>
@@ -368,7 +367,6 @@ Göndermeye devam edilsin mi?"</string>
   <string name="simap_request_notif_message">%1$s uzak SIM isteğine izin ver</string>
   <string name="toast_bpp_enable_fail">Baskı hizmetinin etkinleştirmesi başarısız</string>
   <string name="toast_connect_fail">Bağlantı başarısız</string>
-  <string name="toast_get_default_value">Varsayılan değer alınıyor...</string>
   <string name="toast_get_printer_attr">Yazıcı kapasitelerini al...</string>
   <string name="toast_get_printer_attr_fail">Yazıcı kapasitelerini alırken başarısız</string>
 </resources>

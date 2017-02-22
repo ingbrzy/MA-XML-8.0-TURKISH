@@ -2,7 +2,6 @@
 <resources>
   <string name="accessibility_calllog_detail">Çağrı Geçmişinin Detayları</string>
   <string name="account_container_title">Şuradan alındı:</string>
-  <string name="account_default">Telefon</string>
   <string name="account_phone" product="default">Sadece telefon, eşitlenmedi</string>
   <string name="account_phone" product="tablet">Sadece tablet, eşitlenmedi</string>
   <string name="account_sim">SIM Kart</string>
@@ -176,7 +175,6 @@
   <string name="clearFrequentsProgress_title">Sık görüşülenler temizleniyor...\u2026</string>
   <string name="clear_and_bright">Qingming Festivali</string>
   <string name="clear_copy_number_description">Kopyalanan numarayı temizle</string>
-  <string name="clear_default">Varsayılanları temizle</string>
   <string name="clear_digits">Telefon numarasını temizle</string>
   <string name="click_close">Kapatmak için dokunun</string>
   <string name="clip_dialog_title">Kopyalanan numara aransın mı?</string>
@@ -288,7 +286,6 @@ Kartvizitler kapalı"</string>
   <string name="date_picker_label">3 gün öncesinden ve günü gelince bana hatırlat</string>
   <string name="date_time_set">Seç</string>
   <string name="date_year_toggle">Bir Yıl Gir</string>
-  <string name="default_ringtone">Varsayılan Zil Sesi</string>
   <string name="deleteConfirmation">Bu kişi silinecek!</string>
   <string name="deleteConfirmationDetail">\"%s\" silinsin mi?</string>
   <string name="deleteConfirmation_title">Bu kişi silinsin mi?</string>
@@ -1040,7 +1037,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="preference_contacts_filter">Rehber Listelerini Yapılandır</string>
   <string name="preference_contacts_more">Kişileri Düzenle</string>
   <string name="preference_contacts_recovery_introduction">Kişileri Kurtar</string>
-  <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
   <string name="preference_dial_pad_touch_tone_human">Ses</string>
   <string name="preference_dial_pad_touch_tone_piano">Piyano Tuşları</string>
   <string name="preference_dial_pad_touch_tone_switch">Tuşa Dokunma Sesleri</string>
@@ -1201,7 +1197,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="service_provider">Dizin</string>
   <string name="service_provider_detail">Dizin Detayları</string>
   <string name="set_data_package">Önce Veri Planını Ayarla</string>
-  <string name="set_default">Varsayılan Olsun</string>
   <string name="set_photo_failed_msg">"Resim atanmadı"</string>
   <string name="share_error">"Bu kişi paylaşılamıyor"</string>
   <string name="share_over_limit">"1000\'den fazlasını paylaşamıyoruz"</string>
@@ -1365,7 +1360,6 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="vcard_import_failed">"%s vCard içe aktarılamıyor."</string>
   <string name="vcard_import_request_rejected_message">vCard içe aktarım isteği reddedildi. Daha sonra tekrar deneyin.</string>
   <string name="vcard_import_will_start_message">%s kısa zamanda içe aktarılacaktır.</string>
-  <string name="vcard_import_will_start_message_with_default_name">Dosya kısa süre içerisinde aktarılacaktır.</string>
   <string name="vcard_info_send_error">vCard gönderilemedi</string>
   <string name="vcard_unknown_filename">kişi</string>
   <string name="video_call">Video Çağrısı</string>

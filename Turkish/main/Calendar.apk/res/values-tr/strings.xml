@@ -69,7 +69,6 @@
   <string name="birthday_event_description_day_before_yesterday">Dünden önceki gün</string>
   <string name="birthday_event_description_days_ago">%1$d gün önce</string>
   <string name="birthday_event_description_days_later">%1$d gün kadar kaldı</string>
-  <string name="birthday_event_description_default">"%1$s'nın %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s %2$s'nın %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Bugün</string>
   <string name="birthday_event_description_tomorrow">Yarın</string>
@@ -120,7 +119,6 @@
   <string name="chongsha">Üç Harfliler :)</string>
   <string name="choose_event_color_label">Etkinlik Rengi</string>
   <string name="click_watch">İzlemek için tıklayın</string>
-  <string name="color_picker_default_title">Bir renk seçin</string>
   <string name="color_swatch_description">Renk %1$d</string>
   <string name="color_swatch_description_selected">%1$d renk seçildi</string>
   <string name="common_fri">Cuma</string>
@@ -174,7 +172,6 @@
   <string name="date_pattern_yyyy_mm_dd_kk_mm">dd MM yyy HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view_new_event_hint">Yeni Etkinlik</string>
-  <string name="default_reminder_mode">Hatırlatıcılar</string>
   <string name="delete_calendar">İptal</string>
   <string name="delete_label">Sil</string>
   <string name="delete_recurring_event_title">%s silinsin mi?</string>
@@ -226,7 +223,6 @@
   <string name="edit_event_input_year">Yılı girin</string>
   <string name="edit_event_calendar_label">Takvim</string>
   <string name="edit_event_from_label">Şurdan</string>
-  <string name="edit_event_no_reminder_value">Hatırlatma!</string>
   <string name="edit_event_reminder_3_days_before">3 gün öndene hatırlat</string>
   <string name="edit_event_reminder_summary">Aynı gün, %1$s zamanda hatırlat</string>
   <string name="edit_event_reminder_time">Hatırlatma Zamanı</string>
@@ -254,7 +250,6 @@
   <string name="event_action_edit">Düzenle</string>
   <string name="event_all_day_label">Tüm gün</string>
   <string name="event_color_picker_dialog_title">Etkinlik Rengi</string>
-  <string name="event_color_set_to_default">Standart Takvim Rengi</string>
   <string name="event_create">Yeni etkinlik</string>
   <string name="event_created_fail_text">Etkinlik hatırlatıcı oluşturulamadı</string>
   <string name="event_created_text">Etkinlik hatırlatıcı oluşturuldu</string>
@@ -279,7 +274,6 @@
   <string name="event_lunar_month">Ay</string>
   <string name="event_not_found">Etkinlik yok</string>
   <string name="event_reminder_allday_day_zero">Günün %2$s zamanında</string>
-  <string name="event_reminder_value_zero">Faaliyetten önce</string>
   <string name="event_reminders_to_max">Hatırlatıcılar %d zamana kadar ayarlanabilir</string>
   <string name="event_subscirbe_detail_title">Etkinlik hakkında daha fazla bilgi</string>
   <string name="event_title">Başlık</string>
@@ -455,22 +449,17 @@
   <string name="preferences_alerts_title">Bildirimler</string>
   <string name="preferences_alerts_vibrateWhen_title">Titret</string>
   <string name="preferences_alerts_vibrate_title">Titreşim ve Zil Sesi</string>
-  <string name="preferences_default_allday_reminder_title">Varsayılan tüm gün hatırlatma zamanı</string>
   <string name="preferences_build_version">Sürüm</string>
   <string name="preferences_category_account_title">Hesap</string>
   <string name="preferences_category_general_title">Genel Ayarlar</string>
   <string name="preferences_clear_search_history_summary">"Tüm yaptığınız aramaları temizler."</string>
   <string name="preferences_clear_search_history_title">Arama geçmişini temizle</string>
 <string name="preferences_debug_category">Hata Ayıklama</string>
-  <string name="preferences_default_reminder_default">10</string>
-  <string name="preferences_default_reminder_dialog">Varsayılan hatırlatıcı süresi</string>
-  <string name="preferences_default_reminder_title">Hatırlatıcı Zamanı</string>
   <string name="preferences_experimental_category">Deneyimsel</string>
   <string name="preferences_general_title">Takvim Görüntü Ayarları</string>
   <string name="preferences_hide_declined_title">Reddedilen etkinlikleri gizle</string>
   <string name="preferences_history_events">Geçmiş etkinlikleri göster</string>
   <string name="preferences_holidays">Tatilleri Göster</string>
-  <string name="preferences_home_tz_default">Amerika/Los_Angeles</string>
   <string name="preferences_home_tz_title">Yerel Zaman Dilimi</string>
   <string name="preferences_import_credit_repayment">Kredi kartı ile ödeme</string>
   <string name="preferences_import_travel">Biletler</string>
@@ -488,7 +477,6 @@
   <string name="preferences_title">Takvim</string>
   <string name="preferences_use_home_tz_descrip">Kendi zaman diliminizde seyahat ederken, takvim ve olayları görüntüler</string>
   <string name="preferences_use_home_tz_title">Yerel zaman dilimini kullan</string>
-  <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Haftanın başlangıç günü</string>
   <string name="preferences_week_start_day_title">Haftanın Başlangıç Günü</string>
   <string name="presence_label">Durum</string>

@@ -101,7 +101,6 @@ Cihazda birden fazla kullanıcı varsa, geçici olarak kilit ekranına erişileb
 
 Klavye ve gezinme çubuğunu yakınlaştırabilirsiniz."</string>
   <string name="accessibility_screen_magnification_title">Büyütme Hareketleri</string>
-  <string name="accessibility_service_default_description">Hiçbir açıklama sağlanmadı.</string>
   <string name="accessibility_service_no_apps_message">TalkBack kör veya görme zorluğu kullanıcılara yardımcı olmak üzere sözlü geribildirim sağlar. Ücretsiz olarak Android Marketten yüklemek ister misiniz?</string>
   <string name="accessibility_service_no_apps_title">Ekranın okunmasına ihtiyacınız var mı?</string>
   <string name="accessibility_services_title">Hizmetler</string>
@@ -296,7 +295,6 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="app_launch_domain_links_title">Bağlantıları aç</string>
   <string name="app_launch_open_domain_urls_summary">Sormadan aç</string>
   <string name="app_launch_open_domain_urls_title">Destekleyen bağlantıları aç</string>
-  <string name="app_launch_other_defaults_title">Diğer Varsayılanlar</string>
   <string name="app_launch_supported_domain_urls_title">Desteklenen Bağlantılar</string>
   <string name="app_link_open_always">Bu uygulamada aç</string>
   <string name="app_link_open_ask">Herzaman sor</string>
@@ -452,7 +450,6 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="background_process_stop_description">"Bu halen faal olan bir işlemin halen çalıştığını gösterir. Durdurmayı gerektirecek herhangi bir sebep yok."</string>
   <string name="backtouch_enable_title">Arka kapak ses seviyesini ayarlayın</string>
   <string name="backup">Yedekle</string>
-  <string name="backup_configure_account_default_summary">Veri yedeği yapabilecek herhangi bir hesap yok</string>
   <string name="backup_configure_account_title">Yedekleme Hesabı</string>
   <string name="backup_data">Yedeklenecek öğeleri seçin</string>
   <string name="backup_data_summary">Uygulama verisi, WLAN şifreleri ve Google sunucuları için diğer ayarları yedekler</string>
@@ -747,8 +744,6 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_pb_remember_choice">"Tekrar sorma"</string>
   <string name="bluetooth_permission_request">Bluetooth izni isteği</string>
   <string name="bluetooth_phonebook_request">Telefon rehberi erişim isteği</string>
-  <string name="bluetooth_pin_values_hint">Genellikle 0000 veya 1234</string>
-  <string name="bluetooth_pin_values_hint_16_digits">16 karakter olmalı</string>
   <string name="bluetooth_preference_connected_devices">Cihazlara bağlandı</string>
   <string name="bluetooth_preference_device_settings">Cihaz Ayarları</string>
   <string name="bluetooth_preference_found_devices">Kullanılabilir cihazlar</string>
@@ -1367,18 +1362,6 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="debug_view_attributes">Görünüm özelliği incelemeyi etkinleştir</string>
   <string name="decline_remote_bugreport_action">Reddet</string>
   <string name="defalut_launcher_title">Varsayılan Başlatıcı</string>
-  <string name="default_app">(Varsayılan)</string>
-  <string name="default_apps_title">Varsayılan</string>
-  <string name="default_assist_none">Yok</string>
-  <string name="default_assist_title">Yardımcı Uygulama</string>
-  <string name="default_browser_title">Tarayıcı Uygulaması</string>
-  <string name="default_browser_title_none">Varsayılan Tarayıcı yok</string>
-  <string name="default_date_format">dd/MM/yyyy</string>
-  <string name="default_emergency_app">Acil Durum Uygulaması</string>
-  <string name="default_input_method">Varsayılan klavyeyi seçin</string>
-  <string name="default_phone_title">Telefon Uygulaması</string>
-  <string name="default_sound">Varsayılan ses</string>
-  <string name="default_usb_mode">USB Bağlantısı</string>
   <string name="delete">Sil</string>
   <string name="delete_backup_process">silinecek...</string>
   <string name="delete_backup_title">Yedeği Sil</string>
@@ -1423,7 +1406,6 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="device_display_layout_title">Özellikler</string>
   <string name="device_edit_title">Telefonu Adlandır</string>
   <string name="device_feedback">Bu cihazla ilgili görüşlerinizi gönderin</string>
-  <string name="device_info_default">Bilinmiyor</string>
   <string name="device_info_label">Cihaz Bilgisi</string>
   <string name="device_info_not_available">Mevcut değil</string>
   <string name="device_info_settings">Telefon Durumu</string>
@@ -2124,7 +2106,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="internal_storage">Dahili depolama</string>
   <string name="internal_storage_sentence">Dahili depolama</string>
   <string name="invalid_location">"Yükleme konumu geçerli değil."</string>
-  <string name="invalid_size_value">"Paket boyutu hesaplanamadı."</string>
   <string name="ipaddr_label">IPaddr:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s ve %2$s</string>
@@ -2140,7 +2121,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="key_settings_title">Düğmeler</string>
   <string name="keyboard_and_input_methods_category">Klavye ve giriş usulleri</string>
   <string name="keyboard_assistance_category">Klavye Yardımı</string>
-  <string name="keyboard_layout_default_label">Varsayılan</string>
   <string name="keyboard_layout_dialog_setup_button">Klavye düzenlerini ayarla</string>
   <string name="keyboard_layout_dialog_switch_hint">Geçiş yapmak için Kontrol-Boşluk tuşlarına basın</string>
   <string name="keyboard_layout_dialog_title">Klavye düzenini seçin</string>
@@ -2166,8 +2146,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="keywords_color_mode">canlı, RGB, sRGB, renk, doğal, standart</string>
   <string name="keywords_color_temperature">renk sıcaklığı D65 D73 beyaz sarı mavi sıcak soguk</string>
   <string name="keywords_date_and_time">saat, askeri</string>
-  <string name="keywords_default_apps">uygulama, varsayılan</string>
-  <string name="keywords_default_phone_app">telefon, çevirici, varsayılan</string>
   <string name="keywords_display">ekran, dokunmatik ekran</string>
   <string name="keywords_display_auto_brightness">loş ekran, dokunmatik ekran, pil</string>
   <string name="keywords_display_brightness_level">loş ekran, dokunmatik ekran, pil</string>
@@ -2182,7 +2160,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="keywords_location">yakın, yer, geçmiş, raporlama</string>
   <string name="keywords_location_mode">Doğruluk</string>
   <string name="keywords_lockscreen">Kilidini açmak, şifre, model, PIN</string>
-  <string name="keywords_more_default_sms_app">Kısa mesaj, mesajlaşma, mesajlar, mesajlaşma</string>
   <string name="keywords_more_mobile_networks">Hücresel, hücre taşıyıcı, kablosuz, veri, 4g, 3g, 2g, lte</string>
   <string name="keywords_network_name_display">şebeke adını görüntüle</string>
   <string name="keywords_network_reset">Sıfırlama, geri yükleme, fabrika ayarları</string>
@@ -2213,10 +2190,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="last_time_used_label">Son kez kullanıldı:</string>
   <string name="later">SONRA</string>
   <string name="lattice_smartcover_title">Ön Koruma Kapağı</string>
-  <string name="launch_by_default">Varsayılanı aç</string>
   <string name="launch_count_label">Say(?)</string>
-  <string name="launch_defaults_none">Varsayılan ayarlanmadı</string>
-  <string name="launch_defaults_some">Bazı varsayılanlar ayarlanır</string>
   <string name="launcher_auto_fill_empty_title">Boş Hücreleri Doldur</string>
   <string name="launcher_title">Ana Ekran</string>
   <string name="launching_cit">CIT Başlatılıyor</string>
@@ -2276,7 +2250,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="local_select_sysdata">Sistem</string>
   <string name="local_select_userapp">Uygulamalar</string>
   <string name="local_select_video">Videolar</string>
-  <string name="locale_default">Varsayılan</string>
   <string name="locale_not_translated">Bazı uygulamalarda kullanılamayabilir</string>
   <string name="locale_remove_menu">Kaldır</string>
   <string name="locale_settings">Bölge</string>
@@ -2930,9 +2903,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="nfc_how_it_works_title">Terminale ödeniyor</string>
   <string name="nfc_more_title">Fazlası...</string>
   <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
-  <string name="nfc_payment_default">Ödeme Varsayılanı</string>
-  <string name="nfc_payment_default_not_set">Ayarlanmadı</string>
-  <string name="nfc_payment_favor_default">Daima</string>
   <string name="nfc_payment_favor_foreground">Tercih edilen ana uygulam</string>
   <string name="nfc_payment_favor_open">Diğer ödeme uygulaması açıldığında hariç tut</string>
   <string name="nfc_payment_how_it_works">Nasıl çalışır?</string>
@@ -2940,11 +2910,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="nfc_payment_menu_item_add_service">Uygulama Bul</string>
   <string name="nfc_payment_no_apps">Mağaza ödemesini telefonla yap</string>
   <string name="nfc_payment_pay_with">Dokun &amp; terminalle öde, şunla öde:</string>
-  <string name="nfc_payment_set_default">Ödeme yaparken daima %1$s kullanılsın mı?</string>
-  <string name="nfc_payment_set_default_instead_of">Ödeme yaptığınızda %2$s yerine daima %1$s kullanılsın mı?</string>
-  <string name="nfc_payment_set_default_label">Tercihinize olarak ayarlansın mı?</string>
   <string name="nfc_payment_settings_title">Dokun &amp; Öde</string>
-  <string name="nfc_payment_use_default">Varsayılanı kullan</string>
   <string name="nfc_quick_toggle_summary">Telefon başka cihaza dokunduğunda veri alışverişine izin ver</string>
   <string name="nfc_quick_toggle_title">NFC (Kablosuz Transferi)</string>
   <string name="nfc_se_route_title">Güvenli eleman pozisyonu</string>
@@ -2962,7 +2928,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="no_condition_providers">Hiçbir koşul sağlayıcı yüklenmedi.</string>
   <string name="no_connected_devices">Bağlı cihaz yok</string>
   <string name="no_data_usage">Veri kullanılmadı</string>
-  <string name="no_default_apps">Varsayılan uygulama yok.</string>
   <string name="no_device_admins">Kullanılabilir aygıt yöneticisi yok</string>
   <string name="no_encrypt_password">Şifre yok</string>
   <string name="no_internet_access_remember">Bu ağda tekrar sorma</string>
@@ -3477,7 +3442,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="pref_volume_wake_title">Ses Tuşlarıyla Uyandır</string>
   <string name="preference_change_password_title">Şifreyi değiştir</string>
   <string name="preferred_app_settings">Varsayılanlar</string>
-  <string name="preferred_app_settings_default">Varsayılan</string>
   <string name="preferred_app_settings_not_selected">Seçilmedi</string>
   <string name="preferred_app_settings_reset">Varsayılanlara dön</string>
   <string name="preferred_app_settings_reset_button">Sıfırla</string>
@@ -3627,7 +3591,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="provision_skip">Atla</string>
   <string name="proxy_action_text">Tamam</string>
   <string name="proxy_clear_text">Temizle</string>
-  <string name="proxy_defaultView_text">Varsayılanları geri yükle</string>
   <string name="proxy_error">Dikkat</string>
   <string name="proxy_error_dismiss">Tamam</string>
   <string name="proxy_error_empty_host_set_port">Ana makine alanı boşsa port alanı da boş olmalıdır.</string>
@@ -3798,8 +3761,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="restore_contacts_hit">Kurtarılan verileri görüntülemek için yeniden günlük oluştur</string>
   <string name="restore_counts">Geri Yüklemeler:</string>
   <string name="restore_data">Veriyi Geri Yükle</string>
-  <string name="restore_default_apn">Varsayılan APN ayarları geri yükleniyor.</string>
-  <string name="restore_default_apn_completed">Varsayılan APN Ayarları sıfırlandı.</string>
   <string name="restore_failed">Geri yükleme başarısız oldu</string>
   <string name="restore_finished">Geri yükleme bitti</string>
   <string name="restore_is_running">Cihaza geri yükleniyor</string>
@@ -4524,9 +4485,6 @@ Kalan Girişimler :"</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Akıllı Kılıf Modu</string>
   <string name="smartcover_sensitive_summary">Akıllı kılıfı kullanarak telefonu otomatik olarak kilitleyin veya açın</string>
   <string name="sms_application_title">Varsayılan SMS Uygulaması</string>
-  <string name="sms_change_default_dialog_text">SMS uygulaması olarak  %2$s yerine %1$s kullanmak ister misiniz?</string>
-  <string name="sms_change_default_dialog_title">SMS uygulaması değişsin mi?</string>
-  <string name="sms_change_default_no_previous_dialog_text">SMS uygulaması olarak %s kullanılsın mı?</string>
   <string name="sms_delivered_sound_dialog_title">SMS gönderildiğinde çalacak sesi seç</string>
   <string name="sms_delivered_sound_title">Mesaj gönderilince</string>
   <string name="sms_messages_title">SMS Mesajları</string>
@@ -5087,16 +5045,6 @@ alıcı aygıtın açık olduğundan emin olun"</string>
   <string name="trusted_credentials_user_tab">Kullanıcı</string>
   <string name="try_again">Tekrar deneyin.</string>
   <string name="tts_data_installed_summary">Konuşma sentezi için gereken sesler zaten düzgün bir şekilde yüklendi</string>
-  <string name="tts_default_lang_summary">Metinden konuşma için dil tanımlı ses ayarları</string>
-  <string name="tts_default_lang_title">Dil</string>
-  <string name="tts_default_pitch_summary">Sentezlenen konuşmanın tonunu etkiler</string>
-  <string name="tts_default_pitch_title">Derece</string>
-  <string name="tts_default_rate_summary">Metnin hangi hızda konuşulacağını belirtir</string>
-  <string name="tts_default_rate_title">Konuşma Hızı</string>
-  <string name="tts_default_sample_string">Bu deneme amaçlı ses sentezidir</string>
-  <string name="tts_default_settings_section">Varsayılan Ayarlar</string>
-  <string name="tts_default_synth_summary">Metinden konuşma için kullanılacak konuşma sentezleyici ayarları</string>
-  <string name="tts_default_synth_title">Varsayılan Sentezleyici</string>
   <string name="tts_engine_error">"Seçtiğiniz sentezleyici çalıştırılamıyor."</string>
   <string name="tts_engine_error_config">Yapılandır</string>
   <string name="tts_engine_error_reselect">Başka sentezleyici seçin</string>
@@ -5994,7 +5942,6 @@ Farklı bir WLAN ağına başlanmak için "Geri tuşuna dokunun.</string>
   <string name="wifi_switch_to_gsm_title">GSM kullanılsın mı?</string>
   <string name="wifi_tether_checkbox_text">Mobil WLAN Paylaşımı</string>
   <string name="wifi_tether_configure_ap_text">WLAN Paylaşım Ayarları</string>
-  <string name="wifi_tether_configure_ssid_default">Android Paylaşımı</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s Mobil WLAN Paylaşımı</string>
   <string name="wifi_tether_enabled_subtext">iNet Paylaşımı %1$s etkin</string>
   <string name="wifi_tether_failed_subtext">Mobil WLAN Paylaşım hatası</string>
@@ -6130,7 +6077,6 @@ Delta Güncelleme Boyutu: %2$s"</string>
   <string name="zen_mode_calls">Çağrılar</string>
   <string name="zen_mode_choose_rule_type">Kural türünü seçin</string>
   <string name="zen_mode_configure_rule">Kuralı Yapılandır</string>
-  <string name="zen_mode_default_option">Bu kapatılana kadar, </string>
   <string name="zen_mode_delete_rule">Kuralı Sil</string>
   <string name="zen_mode_delete_rule_button">Sil</string>
   <string name="zen_mode_delete_rule_confirmation">“%1$s” kuralı silinsin mi?</string>

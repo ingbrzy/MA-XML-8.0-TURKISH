@@ -245,8 +245,6 @@
   <string name="download_btn_select_none">Vazgeç</string>
   <string name="download_complete">İndirme tamamlandı</string>
   <string name="download_completed">İndirildi</string>
-  <string name="download_default_path_txt">Bu seçimi hatırla</string>
-  <string name="download_dialog_default_path_invalid">"Seçtiğiniz indirme yeri geçersiz. Varsayılan konuma kaydediliyor..."</string>
   <string name="download_dialog_file_length_hint_txt">"Boyutu: "</string>
   <string name="download_dialog_file_length_lessthan1kb">1K\'tan küçük</string>
   <string name="download_dialog_file_length_nolength_error_txt">"İndirilemedi"</string>
@@ -530,17 +528,9 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_enable_news">Haberler</string>
   <string name="pref_enable_novels">Kitaplar</string>
   <string name="pref_enable_videos">Videolar</string>
-  <string name="pref_extras_reset_default">Varsayılana Sıfırla</string>
-  <string name="pref_extras_reset_default_dlg">Varsayılan değerlere ayarlar geri döndürülsün mü?</string>
-  <string name="pref_extras_reset_default_summary">Varsayılan ayarları geri yükle</string>
-  <string name="pref_extras_reset_default_title">Diğer</string>
   <string name="pref_extras_send_feedback">Geribildirim gönder</string>
   <string name="pref_extras_title">Gelişmiş</string>
   <string name="pref_extras_title_version">Sürüm Bilgisi</string>
-  <string name="pref_file_downlaod_save_is_reset_default_settings">"Dosyaları tarayıcının varsayılan konumuna kaydet"</string>
-  <string name="pref_file_downlaod_save_reset_default_settings">Varsayılan konumu geri yükle</string>
-  <string name="pref_file_download_default_path_prefix">Varsayılan Konum: %s</string>
-  <string name="pref_file_download_save_modify_default_path">İndirme Yeri</string>
   <string name="pref_file_download_save_title">İndirmeler</string>
   <string name="pref_fling_on_border">Kenardan hızlıca kaydır</string>
   <string name="pref_fling_on_border_title_summary">Ekranın sol veya sağ kenarından hızlıca kaydırın</string>
@@ -615,7 +605,6 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="quicklink_saved_before">Bu site zaten eklenmiş</string>
   <string name="quicklink_user_define_webpage_title">Adı</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
-  <string name="quicklinks_group_default_subtitle">Boş</string>
   <string name="quicklinks_management">Popüler</string>
   <string name="quicklinks_most_visited">Başlangıç Sayfasına Ekle</string>
   <string name="quicklinks_most_visited_subtitle">Yeni sekmede son ziyaret edilen siteleri göster</string>
@@ -782,7 +771,6 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="v5_edit_mode_title_empty">0 seçildi</string>
   <string name="v5_select_all">Hepsi</string>
   <string name="version_check_button_checking">Denetleniyor...</string>
-  <string name="version_check_button_default">Güncellemeleri kontrol et</string>
   <string name="version_check_button_download_failed">İndirmeye devam et</string>
   <string name="version_check_button_downloading">İndiriliyor…</string>
   <string name="version_check_button_install">Yükle</string>

@@ -9,7 +9,6 @@
   <string name="alarm_summary_12h">hh:mm a</string>
   <string name="alarm_summary_24h">kk:mm</string>
   <string name="alarm_time">Alarm Zamanı</string>
-  <string name="alarm_value">Alarm %%%s</string>
   <string name="app">Uygulamayı aç</string>
   <string name="app_center">Uygulama</string>
   <string name="app_name">PonPonTag</string>
@@ -105,7 +104,6 @@ cihazınızın arkasına dokunun."</string>
   <string name="input_password_gain">Şifreyi Onayla</string>
   <string name="input_password_warning">Şifre etiketlemek için yazılır</string>
   <string name="local_app">İndirildi</string>
-  <string name="media_value">Medya %%%s</string>
   <string name="meeting_mode">Toplantı Modu</string>
   <string name="miui_ringer_mode">Zil Modu</string>
   <string name="mode">Mod</string>
@@ -118,7 +116,6 @@ cihazınızın arkasına dokunun."</string>
   <string name="no_available_networks_summary">Bir WLAN ağına bağlamanız gerekir.</string>
   <string name="no_available_xiaomi_shop">"Mi Uygulama Mağazası açılamadı"</string>
   <string name="not_save_btn">Hayır</string>
-  <string name="notification_value">Bildirim %%%s</string>
   <string name="null_task">Görev yok</string>
   <string name="off">kapalı</string>
   <string name="on">açık</string>
@@ -146,7 +143,6 @@ cihazınızın arkasına dokunun."</string>
   <string name="ringer_mode">Zil Modu</string>
   <string name="ringer_normal">Zil</string>
   <string name="ringer_silent">Sessiz</string>
-  <string name="ringer_value">Zil %%%s</string>
   <string name="running">çalışıyor</string>
   <string name="save_alert">Görev saklansın mı?</string>
   <string name="save_btn">Kaydet</string>
@@ -200,7 +196,6 @@ cihazınızın arkasına dokunun."</string>
   <string name="vibrate_mode">Titreşim</string>
   <string name="vibrate_off">Titreşim kapalı</string>
   <string name="vibrate_on">Titreşim açık</string>
-  <string name="voice_call_value">Çağrı Sesi %%%s</string>
   <string name="volume">Ses</string>
   <string name="web_label">Web Etiketi (istenirse)</string>
   <string name="web_url">URL</string>

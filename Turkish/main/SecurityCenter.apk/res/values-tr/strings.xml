@@ -34,7 +34,6 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="activity_title_cache_data">Önbellek</string>
   <string name="activity_title_create_shortcut">Kısayolları yönet</string>
   <string name="activity_title_deep_clean">Gelişmiş Temizlik</string>
-  <string name="activity_title_default_apps_manager">Varsayılan Uygulamalar</string>
   <string name="activity_title_garbage_cleanup">Temizleyici</string>
   <string name="activity_title_large_file">Dosyalar</string>
   <string name="activity_title_license_manager">İzinler</string>
@@ -127,7 +126,6 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="apps_item_sign_dialog_content">\"%s\"imzası Uygulama Mağazasındakinden farklı. Bu uygulama silinsin ve resmi sürümü yüklensin mi? Not: İmzası farklı uygulamalar veri kaybına neden olabilir.</string>
   <string name="apps_item_sign_dialog_title">Resmi Uygulama Sürümünü Yükle</string>
   <string name="apps_item_sign_install_button_text">Değiştir</string>
-  <string name="apps_item_sms_default_set_success">Başarıyla ayarlandı!</string>
   <string name="apps_item_sms_reset_button_text">Varsayılanları yükle</string>
   <string name="apps_item_sms_title">Varsayılan Mesaj Ayarları</string>
   <string name="apps_item_summary_sms">%s, mesajlarınıza erişiyor, bu güvenlik problemine neden olabilir</string>
@@ -623,7 +621,6 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="hints_virus_app_list_item_summary">Uygulama</string>
   <string name="hints_virus_app_summary">%s (uygulama)</string>
   <string name="hints_virus_descx_title">Açıklama:</string>
-  <string name="hints_virus_lib_update_default_summary">Son güncelleme zamanı bilinmiyor</string>
   <string name="hints_virus_name_title">Virüs:</string>
   <string name="hints_virus_scan_result_descx">"Bu uygulama telefonunuzun güvenliği için önemli bir risk oluşturuyor."</string>
   <string name="history_details_title">Geçmiş Detaylar</string>
@@ -681,7 +678,6 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="last_check_date_yesterday">"Dün taranılan:  "</string>
   <string name="last_check_never_checked">Şimdi tara</string>
   <string name="last_checked_date2">%d gün önce tarandı</string>
-  <string name="last_checked_default">%s gün önce tarandı</string>
   <string name="left_precent">%60</string>
   <string name="legal_workday">Tatil</string>
   <string name="legal_workday_invalidate">Ptesi-Cuma (Tatil bilgisi geçti)</string>
@@ -700,7 +696,6 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="lock_screen_warning_category">Kilit ekran bildirimleri</string>
   <string name="lock_screen_warning_switch_summary">Veri kullanımı belirlenen miktarı aştığında Kilit ekranında uyarı göster</string>
   <string name="lock_screen_warning_switch_title">Uyarıları Kilit Ekranında Göster</string>
-  <string name="lock_screen_warning_value">Veri Kullanım Uyarısı</string>
   <string name="lock_settings_title">Kilit Ekranı ve Şifre</string>
   <string name="lockpassword_confirm_your_password_header">Şifreyi Doğrula</string>
   <string name="lockpassword_confirm_your_pattern_header">Deseni Doğrula</string>
@@ -950,10 +945,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="optimize_result_button_to_set">Ayarla</string>
   <string name="optimize_result_button_update_now">Güncelle</string>
   <string name="optimize_result_summary_sucurity_risk">Bazı güvenlik özellikleri kapalı. Cihazı daha güvenli hale getirmek için bazı güvenlik seçeneklerini açmalısınız:</string>
-  <string name="optimize_result_summary_system_default_settings">"Varsayılan MIUI uygulaması sistemin stabil ve güvenliğinin en azını kullanıyor."</string>
   <string name="optimize_result_title_sucurity_risk">Güvenlik riski bulundu</string>
-  <string name="optimize_result_title_system_default_settings">Varsayılan ayarlar değişti</string>
-  <string name="optimize_result_toast_system_default_settings">Varsayılan ayarlar geri yüklendi</string>
   <string name="optimize_result_toast_system_no_item_selected">Seçili öğe yok</string>
   <string name="optmizingbar_optimize_done">İyi hale getirildi</string>
   <string name="optmizingbar_ready">İyi hale getiriliyor…</string>
@@ -1309,7 +1301,6 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_traffic_saving_whitelist">İstisnalar</string>
   <string name="pref_traffic_saving_whitelist_hint">"Seçilen uygulamalar için veri kullanımını sınırlanamadı"</string>
   <string name="pref_version">Sürüm %s</string>
-  <string name="pref_warning_values">Veri Kullanım Uyarı seviyesi</string>
   <string name="pref_whitelist_setting">Veri Dolaşım Kısıtlamaları</string>
   <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preference_category_key_reference_settings">key_reference_settings</string>
@@ -1391,9 +1382,6 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="quick_optimize_sub_summary_text">Pil ömrü için %s eklendi</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Telefon pili boşaltılıyor, düzelt</string>
   <string name="quick_optimize_suggest_battery_over_heat">Telefon aşırı ısınmış, düzelt</string>
-  <string name="reach_daily_limit_value_body">Mobil veri kullanımını azalt.</string>
-  <string name="reach_daily_limit_value_body_open_traffic_saving">Veri tasarrufunu açmak için dokunun.</string>
-  <string name="reach_daily_limit_value_title">Günlük veri sınırına ulaşıldı</string>
   <string name="read_number">86 makale</string>
   <string name="read_unit">" makale"</string>
   <string name="recently_reject_message">%1$s ve %2$d uygulamanın yüklenmesi engellendi</string>
@@ -1465,7 +1453,6 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="safe_result_item_info_app_sign">Resmi olmayan uygulama yok</string>
   <string name="safe_result_item_info_app_virus">Virüs ve riskli uygulama yok</string>
   <string name="safe_result_item_info_sms_auth">Üçüncü parti uygulamalarını için doğrulama koduyla sınırla</string>
-  <string name="safe_result_item_info_sms_default">Varsayılan sistem mesajını varsayılana getir</string>
   <string name="safe_result_item_info_sms_url">Tehlikeli mesaj adreslerinden koru</string>
   <string name="safe_result_item_info_system_antivirus">Virüs etkilerinden koru</string>
   <string name="safe_result_item_info_system_root">Root Güvenliği</string>
@@ -1607,7 +1594,6 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="summary_cmcc_app_check">"Bazı uygulamalar doğrulanamadı"</string>
   <string name="summary_consume_power">Isınma problemleri bulundu, bu pilin ömrünü etkiler </string>
   <string name="summary_data_flow">"Operatörünüzün aylık veri limitini geçmemeye dikkat edin"</string>
-  <string name="summary_default_app">"%s varsayılan sistem uygulaması olarak ayarlı değil"</string>
   <string name="summary_dev">Kötü amaçlı yazılımı önle ve kişisel verileri koru</string>
   <string name="summary_find_device">Cihazı her yerden bul ve kilitle</string>
   <string name="summary_flow_notification">Bildirim alanında aylık veri kullanım istatistiklerini göster</string>
@@ -1691,7 +1677,6 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="tc_diagnostic_upload_success">Görüşleriniz için teşekkür ederiz!</string>
   <string name="tc_sms_report_direction">SMS sorgulama kodu</string>
   <string name="tc_sms_report_do_report">Gönder</string>
-  <string name="tc_sms_report_get_default">"Operatörünüzden veri kullanım dengesini elde etmek için kullanılan SMS mesajları için ücret ödemeniz gerekmez."</string>
   <string name="tc_sms_report_get_sms">SMS Al</string>
   <string name="tc_sms_report_get_sms2">SMS Al</string>
   <string name="tc_sms_report_get_sms_again">SMS Yenile</string>
@@ -1761,7 +1746,6 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="title_data_flow">Mobil Veriyi Denetle</string>
   <string name="title_data_flow_no">Veri kullanımını izleme</string>
   <string name="title_data_flow_yes">Veri kullanımını izle</string>
-  <string name="title_default_app">"MIUI %s varsayılan olarak ayarlanmadı"</string>
   <string name="title_dev_no">Geliştirici Seçeneklerini aç</string>
   <string name="title_dev_yes">Geliştirici Seçeneklerini kapat</string>
   <string name="title_find_device">Telefonu Bul</string>
@@ -1809,7 +1793,6 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="toast_add_virus_white_list_success">İstisnalara eklendi. Güvenlik ayarlarındaki öğeleri görüntüleyin.</string>
   <string name="toast_auto_traffic_correct">Veri kullanımı otomatik ayarlandı</string>
   <string name="toast_cleaner_cloudscan">Temizleyici çevrimiçi tanımları kullanacak</string>
-  <string name="toast_default_app">"Sistem varsayılanı %2$s olarak %2$s ayarla"</string>
   <string name="toast_flow_notification">Veri kullanım bildirimleri açıldı</string>
   <string name="toast_garbage_lib">Temizleyici için otomatik güncellemeler açık</string>
   <string name="toast_lockscreen_glogin_empty_password">Şifre gerekiyor</string>
@@ -1886,7 +1869,6 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="traffic_saving_history_total_money">Toplam kurtarılan</string>
   <string name="traffic_saving_history_total_money_unit">Yuan</string>
   <string name="traffic_saving_history_total_month">"Bu ay kaydedilen: "</string>
-  <string name="traffic_saving_history_total_month_default">Ayda ortalama tasarru</string>
   <string name="traffic_saving_history_total_rate">Oran</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Veri kaydedildi</string>

@@ -18,18 +18,6 @@
         <item>2 gün</item>
         <item>1 hafta</item>
     </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Hatırlatıcısız</item>
-        <item>0 dakika</item>
-        <item>5 dakika</item>
-        <item>10 dakika</item>
-        <item>15 dakika</item>
-        <item>30 dakika</item>
-        <item>1 saat</item>
-        <item>1 gün</item>
-        <item>2 gün</item>
-        <item>1 hafta</item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Varsayılan</item>
         <item>Cumartesi</item>
@@ -84,12 +72,6 @@
         <item>【Kanala Abone Ol】Hizmetler veya takvim özelliklerine abone et</item>
         <item>【Kanala Abone Ol】Farklı hizmetler veya takvim özelliklerini bul</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Birkaç dakika geç kalabilirim.</item>
-        <item>10 dakikada ordayım.</item>
-        <item>Git ve bensiz başla.</item>
-        <item>"Üzgünüm, yapamam. Başka bir programım var."</item>
-    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Daima</item>
         <item>Sadece zil sessizde iken</item>
@@ -99,30 +81,7 @@
         <item>Şeffaf</item>
         <item>Beyaz Arkaplan</item>
     </string-array>
-    <string-array name="default_reminder_labels">
-        <item>Etkinlik esnasında</item>
-        <item>5 dakika önce</item>
-        <item>10 dakika önce</item>
-        <item>15 dakika önce</item>
-        <item>30 dakika önce</item>
-        <item>1 saat önce</item>
-        <item>1 gün önce</item>
-        <item>2 gün önce</item>
-        <item>1 hafta önce</item>
-    </string-array>
     <string-array name="miui_reminder_minutes_labels">
-        <item>Hatırlatıcısız</item>
-        <item>Etkinlik esnasında</item>
-        <item>5 dakika önce</item>
-        <item>10 dakika önce</item>
-        <item>15 dakika önce</item>
-        <item>30 dakika önce</item>
-        <item>1 saat önce</item>
-        <item>1 gün önce</item>
-        <item>2 gün önce</item>
-        <item>1 hafta önce</item>
-    </string-array>
-    <string-array name="miui_preferences_default_reminder_labels">
         <item>Hatırlatıcısız</item>
         <item>Etkinlik esnasında</item>
         <item>5 dakika önce</item>

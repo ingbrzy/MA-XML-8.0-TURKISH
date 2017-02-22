@@ -8,7 +8,6 @@
   <string name="all_resources">Tümü</string>
   <string name="all_ringtone_resource">Tümü</string>
   <string name="app_name">Temalar</string>
-  <string name="apply_default_font_tip">"Sistemin geçerli fontunu korumak istiyor musunuz?"</string>
   <string name="apply_font_btn_exclude">Şimdi Değil</string>
   <string name="apply_font_btn_reboot">Yeniden Başlat</string>
   <string name="apply_font_tip">"Bu temanın yazı tipini uygulamak için yeniden başlatın."</string>
@@ -124,7 +123,6 @@
   <string name="payment_info">Mi Kredisi</string>
   <string name="present_local_themes">İndirilen</string>
   <string name="present_online_themes">Ücretsiz daha fazla tema al</string>
-  <string name="provision_default_theme_title">Varsayılan</string>
   <string name="provision_loading_tips">Biraz bekleyin…</string>
   <string name="provision_second_title">Varsayılan birkaç temadan birini seçin</string>
   <string name="provision_title">Bir tema seçin</string>
@@ -139,7 +137,6 @@
   <string name="resource_account_login_before_action">Mi Hesabına şimdi oturum açın</string>
   <string name="resource_account_login_title">Oturum aç</string>
   <string name="resource_account_switch">Hesaba geçiş yap</string>
-  <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Tema Tarayıcı</string>
   <string name="resource_apply">Uygula</string>
   <string name="resource_apply_trial">Şimdi dene</string>
@@ -161,7 +158,6 @@
   <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Yorum ekle</string>
   <string name="resource_comment_edit_comment_waiting">Denetleniyor...</string>
-  <string name="resource_comment_edit_text_default">Yorum yaz</string>
   <string name="resource_comment_edit_title">Yorumu Düzenle: %1$s</string>
   <string name="resource_comment_entry_tips">Yorumlar (%1$s)</string>
   <string name="resource_comment_expand_full_text">Tüm metni genişlet▼</string>
@@ -169,7 +165,6 @@
   <string name="resource_comment_good_comments">Müspet</string>
   <string name="resource_comment_invalid">Yıldıza dokunarak temayı derecelendirin</string>
   <string name="resource_comment_loading_list">Biraz bekleyin...</string>
-  <string name="resource_comment_name_default">Kullanıcı %1$s</string>
   <string name="resource_comment_no_average_score">Değerlendirilmedi</string>
   <string name="resource_comment_no_comment">Yorum yok</string>
   <string name="resource_comment_publish">Gönder</string>
@@ -186,8 +181,6 @@
   <string name="resource_comment_upload_success">Yorumlar incelendikten sonra görüntülenir.</string>
   <string name="resource_continue">Sonraki</string>
   <string name="resource_data_empty">İçerik boş.</string>
-  <string name="resource_default">Varsayılan Zil Sesi</string>
-  <string name="resource_default_name">Kaynak</string>
   <string name="resource_delete">Sil</string>
   <string name="resource_delete_all">Seçilen %1$d kaynak silinsin mi?</string>
   <string name="resource_delete_confirm">Bu kaynaklar silinsin mi?</string>
@@ -252,7 +245,6 @@
   <string name="resource_no_match_app">Bu eylemi gerçekleştirecek uygulama bulunamadı.</string>
   <string name="resource_no_network_text">"Ağ bağlantısı yok."</string>
   <string name="resource_no_result">"Sonuç bulunamadı"</string>
-  <string name="resource_notification_default">Bildirimler</string>
   <string name="resource_on_trial">Deneniyor: %1$s</string>
   <string name="resource_online">Çevrimiçi</string>
   <string name="resource_pack_confirm">"Bu temadaki %1$d içerikleri satın aldınız, halen ucuz iken temanın tamamını alabilirsiniz."</string>
@@ -274,7 +266,6 @@
   <string name="resource_ranking">Popüler</string>
   <string name="resource_ranking_free">Ücretsiz</string>
   <string name="resource_ranking_purchase">Ücretli</string>
-  <string name="resource_ringtone_default">Zil Sesleri</string>
   <string name="resource_ringtone_playing_error">Hata</string>
   <string name="resource_ringtone_volume_mute">Zil Sesi sessiz</string>
   <string name="resource_save_to_note">Notlara kaydet</string>
@@ -383,7 +374,6 @@
   <string name="theme_component_title_wallpaper">Ana Ekran</string>
   <string name="theme_current_using_has_update">Tema güncellemesi mevcut</string>
   <string name="theme_description_title_customized">Özel</string>
-  <string name="theme_description_title_default">Varsayılan</string>
   <string name="theme_empty_redirect">Tema Mağazasına dön</string>
   <string name="theme_favorite_add_fail">"Tema favorilere eklenemedi"</string>
   <string name="theme_favorite_add_success">Favorilere eklendi</string>

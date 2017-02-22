@@ -379,7 +379,6 @@
   <string name="dcim_viva_pics">VIVA</string>
   <string name="debugging_tip">Ayıklama Verisi Oluştur</string>
   <string name="defalt_local_mobile">Mobil</string>
-  <string name="default_album_name">Yeni Albüm</string>
   <string name="delete">Sil</string>
   <string name="delete_album_failed">Albümü silinemedi</string>
   <string name="delete_album_msg_format">\"%2$s\" albüm %1$s %3$s silinsin mi?</string>
@@ -1147,7 +1146,6 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="slideshow_interval_dialog_title">Kaydırma Aralığını Gir</string>
   <string name="slideshow_interval_invalid">Aralık 3 ve 3600 saniye arasında olmalıdır</string>
   <string name="slideshow_interval_title">Her resmin geçiş süresini seçin</string>
-  <string name="slideshow_interval_value">%1$d saniye</string>
   <string name="slideshow_repeat_mode">Tekrarla</string>
   <string name="slim_after_backuped_summary">Mi Bulut\'ta yedeklendikten sonra yerel fotoğraflar yüksek çözünürlükte en iyi hale getirilir. Tam çözünürlüklü olanlar hala Mi Bulut\'ta saklanır. Böylece depolamada daha çok alan kazanırsınız.</string>
   <string name="slim_after_backuped_title">Yedeklemeden Sonra Depolamayı İyi Hale Getir</string>

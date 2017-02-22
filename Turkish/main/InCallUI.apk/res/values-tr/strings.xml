@@ -35,7 +35,6 @@
   <string name="antispam_notification_title">Bilinmeyen numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
   <string name="apn_settings">Erişim Noktasının Adları</string>
-  <string name="areacode_set_default">Varsayılan olarak ayarla</string>
   <string name="associate_sim_missing_message"> %1$s SIM mevcut değil. %2$s aracılığıyla aranmayı ister misiniz?</string>
   <string name="associate_sim_missing_other">Diğer</string>
   <string name="atr_disable">Bölge Trafik Raporları devre dışı</string>
@@ -152,7 +151,6 @@
   <string name="cb_channel_dialog_channel_number">Kanal Numarası (0-65534)</string>
   <string name="cb_channel_dialog_channel_state">Kanalı etkinleştir</string>
   <string name="cb_channel_dialog_edit_channel">Kanalı Düzenle</string>
-  <string name="cb_default_new_channel_name">Yeni Kanal</string>
   <string name="cb_dialog_title_language_choice">Dili Seç</string>
   <string name="cb_error_channel_id_exist">Kanal kimliği var.</string>
   <string name="cb_error_channel_name">Kanal adı uzunluğu (1-10 karakter) doğru değil.</string>
@@ -218,8 +216,6 @@
   <string name="data_enable_summary">Bu cihazın mobil veri kullanmasına izin ver</string>
   <string name="data_enabled">Veri etkin</string>
   <string name="deactivate_all">Tümünü iptal</string>
-  <string name="default_area_code_setting">Varsayılan Alan Kodu</string>
-  <string name="default_notification_description">Varsayılan ses (%1$s)</string>
   <string name="delete_fdn_contact">Sabit arama numarasını sil</string>
   <string name="deleting_fdn_contact">Sabit arama numarası siliniyor...</string>
   <string name="description_delete_button">geri</string>
@@ -411,7 +407,6 @@ Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
   <string name="international_dialing_add_country_code" formatted="false">"%s numarası arama yaptığınız tespit edildi. Ülke kodu eklemek ister misiniz (+%s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code">"%1$s numarayı aradığınız tespit edildi, %2$s. Ülke kodunu ve alan kodu eklemek istiyor musunuz (+%3$s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code_without_prefix">Ülke kodunu ve alan kodu eklemek istiyor musunuz?</string>
-  <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"%s numarayı çevirdiğiniz tespit edildi. Hedefiniz şehir %s değilse, alan kodunu girin."</string>
   <string name="international_dialing_add_country_code_input_area_code">"%s numarayı çevirdiğiniz tespit edildi. Eğer öyleyse, alan kodunu girin."</string>
   <string name="international_dialing_area_code">Alan Kodu</string>
   <string name="international_dialing_call_button">Çağrı</string>
@@ -435,7 +430,6 @@ Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
   <string name="invalid_password">4 haneli bir parola yazın.</string>
   <string name="ip_dial_error_toast_for_no_ip_prefix_number">Sesli arama ayarlarında önce IP önek numarasını girin.</string>
   <string name="ip_dial_error_toast_for_sip_call_selected">IP arama fonksiyonu internet çağrısı için geçerli değildir.</string>
-  <string name="ip_prefix_edit_default_sum">IP araması için önek numarasını girin</string>
   <string name="ip_prefix_setting">IP önek numarası</string>
   <string name="ip_prefix_setting_sum">IP önek numarasının ayarları</string>
   <string name="ivr_menu_dialing_msg">Yönlendiriliyor...</string>
@@ -538,7 +532,6 @@ koşulsuz etkinleştirildi"</string>
   <string name="modify_call_prompt_no">Hayır</string>
   <string name="modify_call_prompt_yes">Evet</string>
   <string name="more_string">+%1$s</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="mt_code_additional_call_forwarded">Ek gelen çağrı yönlendirildi</string>
   <string name="mt_code_call_connected_ect">Çağrı aktarma aktif</string>
   <string name="mt_code_call_connecting_ect">Çağrı aktarılıyor</string>
@@ -1046,7 +1039,6 @@ Bu sorun devam ederse operatörünüze danışın."</string>
   <string name="vt_peer_video_quality_sharp">Keskin</string>
   <string name="vt_peer_video_rep">Videoyu değiştir</string>
   <string name="vt_peer_video_rep_des">Video mevcut olmadığında gösterilecek resmi ayarlayın</string>
-  <string name="vt_pic_replace_local_default">Varsayılan resim</string>
   <string name="vt_pic_replace_local_description">Kamera kapalı olduğunda gösterilecek resmi ayarlayın</string>
   <string name="vt_pic_replace_local_freezeme">Dondur beni</string>
   <string name="vt_pic_replace_local_mypic">Resmim</string>
