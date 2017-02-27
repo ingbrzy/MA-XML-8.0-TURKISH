@@ -25,7 +25,7 @@
   <string name="acct_not_synced">"Bu hesap eşitlenemiyor, bu nedenle takvimleriniz güncel olmayabilir."</string>
   <string name="acessibility_cal_notification">Takvim Bildirimi</string>
   <string name="acessibility_recurrence_choose_end_date_description">Bitiş tarihini değiştir</string>
-  <string name="acessibility_selected_marker_description">Seçili etkinlik</string>
+  <string name="acessibility_selected_marker_description">Seçili faaliyet</string>
   <string name="acessibility_snooze_notification">Bildirimi ertele</string>
   <string name="action_label">Geri</string>
   <string name="action_text_card_manager">Bir kanala abone ol</string>
@@ -69,6 +69,7 @@
   <string name="birthday_event_description_day_before_yesterday">Dünden önceki gün</string>
   <string name="birthday_event_description_days_ago">%1$d gün önce</string>
   <string name="birthday_event_description_days_later">%1$d gün kadar kaldı</string>
+  <string name="birthday_event_description_default">"%1$s'nın %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s %2$s'nın %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Bugün</string>
   <string name="birthday_event_description_tomorrow">Yarın</string>
@@ -172,6 +173,7 @@
   <string name="date_pattern_yyyy_mm_dd_kk_mm">dd MM yyy HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view_new_event_hint">Yeni Etkinlik</string>
+  <string name="default_reminder_mode">Hatırlatıcılar</string>
   <string name="delete_calendar">İptal</string>
   <string name="delete_label">Sil</string>
   <string name="delete_recurring_event_title">%s silinsin mi?</string>
@@ -214,6 +216,7 @@
   <string name="edit_event_birthday_reminder_summary">Günün %1$s zamanında hatırlat</string>
   <string name="edit_event_birthday_reminder_summary_3_days_before">3 gün öncesinin %1$s zamanında hatırlat </string>
   <string name="edit_event_birthday_reminder_time">Hatırlatma Zamanı</string>
+  <string name="edit_event_calendar_label">Takvim</string>
   <string name="edit_event_birthday_the_day">gün</string>
   <string name="drop_down_list_header_release_text">Yenilemek için serbest bırakın</string>
   <string name="edit_event_choose_date">Tarihi seç</string>
@@ -221,14 +224,17 @@
   <string name="edit_event_countdown_name_empty_hint">Lütfen sayılı gün içeriğini girin</string>
   <string name="edit_event_countdown_name_hint">İçerik</string>
   <string name="edit_event_input_year">Yılı girin</string>
+  <string name="edit_event_label">Detaylar</string>
+  <string name="edit_event_no_reminder_value">"Hatırlatma!"</string>
   <string name="edit_event_calendar_label">Takvim</string>
   <string name="edit_event_from_label">Şurdan</string>
-  <string name="edit_event_reminder_3_days_before">3 gün öndene hatırlat</string>
+  <string name="edit_event_reminder_3_days_before">3 gün önceden hatırlat</string>
   <string name="edit_event_reminder_summary">Aynı gün, %1$s zamanda hatırlat</string>
   <string name="edit_event_reminder_time">Hatırlatma Zamanı</string>
   <string name="edit_event_reminder_summary_3_days_before">3 gün öncesinin %1$s zamanında hatırlat</string>
   <string name="edit_event_reminder_text">%1$s, %2$s zamanda</string>
-  <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s, %3$s zamanda</string>
+  <string name="edit_event_reminder_time">Hatırlatma Zamanı</string>
+  <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s, %3$s zamanında</string>
   <string name="edit_event_label">Detaylar</string>
   <string name="edit_event_show_all">Tümünü Göster</string>
   <string name="edit_event_tab_anniversary">Yıldönümü</string>
@@ -242,7 +248,7 @@
   <string name="email_organizer_label">E-Postayı oluşturan</string>
   <string name="email_picker_label">E-posta ile</string>
   <string name="email_subject_prefix">"Cevap: "</string>
-  <string name="empty_event">Boş etkinlik oluşturulamadı</string>
+  <string name="empty_event">Boş faaliyet oluşturulamadı</string>
   <string name="endByDate">; %s için</string>
   <string name="enter_calendar">Takvim girin</string>
   <string name="event_account">Hesap</string>
@@ -274,6 +280,7 @@
   <string name="event_lunar_month">Ay</string>
   <string name="event_not_found">Etkinlik yok</string>
   <string name="event_reminder_allday_day_zero">Günün %2$s zamanında</string>
+  <string name="event_reminder_value_zero">Faaliyetten önce</string>
   <string name="event_reminders_to_max">Hatırlatıcılar %d zamana kadar ayarlanabilir</string>
   <string name="event_subscirbe_detail_title">Etkinlik hakkında daha fazla bilgi</string>
   <string name="event_title">Başlık</string>
@@ -294,6 +301,7 @@
   <string name="fortune_name">Ara</string>
   <string name="fortune_name_hint">Lütfen giriş yapın</string>
   <string name="fortune_no_name">Lütfen adresi doldurun</string>
+  <string name="free_day_default_banner_title">Tatilde iyi eğlenceler dileriz!</string>
   <string name="from_google_group_calendar">Google Takvimi</string>
   <string name="gadget_no_events">Yaklaşan herhangi bir etkinlik yok.</string>
   <string name="gadget_title">Takvim</string>
@@ -306,7 +314,7 @@
   <string name="hint_what">Etkinlik adı</string>
   <string name="hint_where">Konum</string>
   <string name="holiday_card_title">Tatil</string>
-  <string name="holiday_label">ÇİN ŞENLİKLERİ</string>
+  <string name="homepage_nowadays">Bugünkü</string>
   <string name="homepage_today">Şimdi</string>
   <string name="horoscope_card_comprehensive">Geniş Kismet:</string>
   <string name="horoscope_card_financial">Kismet：</string>
@@ -400,7 +408,7 @@
   <string name="monthly_on_day">Aylık (aynı tarih)</string>
   <string name="monthly_on_day_count">Aylık (%1$s %2$s)</string>
   <string name="more_match">Daha fazla etkinlik</string>
-  <string name="more_string">+%1$d</string>
+  <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Kısa Tanıtım</string>
   <string name="my_subscribe_events">Aboneliklerim</string>
   <string name="network_not_available">"Ağa bağlanamıyor"</string>
@@ -449,12 +457,16 @@
   <string name="preferences_alerts_title">Bildirimler</string>
   <string name="preferences_alerts_vibrateWhen_title">Titret</string>
   <string name="preferences_alerts_vibrate_title">Titreşim ve Zil Sesi</string>
+  <string name="preferences_default_allday_reminder_title">Varsayılan Tüm Gün Hatırlatma Zamanı</string>
+  <string name="preferences_default_reminder_dialog">Varsayılan hatırlatma zamanı</string>
+  <string name="preferences_default_reminder_title">Varsayılan Hatırlatma Zamanı</string>
+  <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_build_version">Sürüm</string>
   <string name="preferences_category_account_title">Hesap</string>
   <string name="preferences_category_general_title">Genel Ayarlar</string>
   <string name="preferences_clear_search_history_summary">"Tüm yaptığınız aramaları temizler."</string>
   <string name="preferences_clear_search_history_title">Arama geçmişini temizle</string>
-<string name="preferences_debug_category">Hata Ayıklama</string>
+  <string name="preferences_debug_category">Hata Ayıklama</string>
   <string name="preferences_experimental_category">Deneyimsel</string>
   <string name="preferences_general_title">Takvim Görüntü Ayarları</string>
   <string name="preferences_hide_declined_title">Reddedilen etkinlikleri gizle</string>
@@ -706,5 +718,4 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="year_picker_description">Yıl Listesi</string>
   <string name="yearly">Yıllık (her %s)</string>
   <string name="yearly_plain">Yıllık</string>
-  <string name="zhushen">Allah</string>
 </resources>
