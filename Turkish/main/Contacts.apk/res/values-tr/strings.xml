@@ -1340,7 +1340,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="unknow_phone_number_call_failed">"Bilinmeyen numara aranamıyor"</string>
   <string name="unknow_phone_number_mms_failed">"Bilinmeyen numaraya mesaj gönderilemiyor"</string>
   <string name="unknown">Bilinmiyor</string>
-  <string name="update_sim_contact_photo_toast">SIM kartvizitleri için fotoğraf ayarlanamıyor</string>
+  <string name="update_sim_contact_photo_toast">SIM kartvizitleri için profil fotoğrafları ayarlanamıyor</string>
   <string name="unknown_caller">Bilinmeyen Kişi</string>
   <string name="unknown_contact_name">Bilinmeyen Kişi</string>
   <string name="upgrade_in_progress">Kişi listesi güncelleniyor.</string>
@@ -1400,6 +1400,7 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="yellowPageNavigationIconLabel">Sarı Sayfalar</string>
   <string name="yellowPageNavigationLabel">Sarı Sayfalar</string>
   <string name="yellowpage_fc_toast">"Sarı sayfalar çöktüğünden bu özelliği kullanamazsınız."</string>
+  <string name="yellowpage_mi_family">Redmi Ailesi</string>
   <string name="yellowpage_mi_family">Mi Ailesi</string>
   <string name="yellowpage_navigation_ad_hint">Reklam</string>
   <string name="yellowpage_navigation_balance_refresh_failed">Bakiye ve mobil veri doğrulanamadı, daha sonra tekrar deneyin.</string>
