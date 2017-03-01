@@ -31,7 +31,7 @@
   <string name="birthday_alarm">Doğum Günü Alarmı</string>
   <string name="birthday_alarm_summary">Doğum Gününde \"Mutlu Yıllar\" alarm sesini çal</string>
   <string name="cancel">İptal</string>
-  <string name="close_alarm">Alarmı Kapat</string>
+  <string name="close_alarm">Kapat</string>
   <string name="common_settings">Ayarlar</string>
   <string name="confirm_abort">Vazgeç</string>
   <string name="control_set_alarm">Alarmı Ayarla</string>
@@ -117,8 +117,8 @@
   <string name="silent_alarm_summary">Sessiz</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">%s bir kez devre dışı bırak</string>
-  <string name="slider_text">Susturmak için yukarı kaydırın ▲</string>
-  <string name="snooze_confirm_cancel">Ertelemeyi iptal et</string>
+  <string name="slider_text">Kapatmak için yukarı kaydırın ▲</string>
+  <string name="snooze_confirm_cancel">Alarmı iptal et</string>
   <string name="snooze_duration_title">Erteleme Süresi</string>
   <string name="start">Başlat</string>
   <string name="start_up">Başlat</string>
