@@ -211,11 +211,24 @@
   <string name="auto_mail_title_note">\"139 Posta Kutusunu Oto. Yapılandırma\" seçeneğini bulun, başlamak için tıklayın.</string>
   <string name="auto_mail_window_description">139 Posta Kutusunu Oto. Yapılandırma</string>
   <string name="auto_mail_window_label">139 Posta Kutusunu Oto. Yapılandırma</string>
+  <string name="auto_remind_bind">Ekle</string>
+  <string name="auto_remind_discribe_text">Otomatik hatırlatıcıları almak için aç</string>
+  <string name="auto_remind_text">Otomatik Hatırlatıcılar</string>
+  <string name="auto_remind_unbind">Durdur</string>
   <string name="auto_sync_off">Otomatik eşitleme kapalı.</string>
+  <string name="bank_card_detail">Kredi Kartı Detayları</string>
+  <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Pil Tasarrufu</string>
   <string name="battery_saver_keywords">pil tasarrufu;batarya;pil koruyucu;posta tasarrufu</string>
   <string name="bcc">Bana</string>
   <string name="bcc_heading">"Bana: "</string>
+  <string name="bill_center_setting">Fatura Ayarları</string>
+  <string name="bill_center_setting_head">Bu hesaplardan bilgileri içe aktar</string>
+  <string name="bill_cycle_text">Fatura Döngüsü</string>
+  <string name="bill_list_card_name_fmt" formatted="false">%s | %s</string>
+  <string name="bill_list_card_num_fmt">**** **** **** %s</string>
+  <string name="bill_remind">Ödeme Hatırlatıcısı</string>
+  <string name="bill_remind_due">Geri ödemenin %s tarihinde yapılması gerekiyor, görüntülemek için dokunun</string>
   <string name="blank_feedback_toast">Geribildirim yazman gerekir</string>
   <string name="body_forward_email_text">[Yönlendir]</string>
   <string name="body_hint">E-Posta Yaz</string>
@@ -325,6 +338,8 @@
   <string name="copy_email">E-Posta adresini kopyala</string>
   <string name="copy_number">Telefon numarasını kopyala</string>
   <string name="create_action">Yeni</string>
+  <string name="credit_limit_text">Kredi Limiti</string>
+  <string name="cur_debt">Hesap Bakiyesi</string>
   <string name="custom_from_account_label">Posta olarak gönder:</string>
   <string name="date_heading">"Tarih: "</string>
   <string name="date_message_received">%1$s, %2$s</string>
@@ -372,9 +387,13 @@
   <string name="download_message_failed_for_too_large">Mesaj indirmek için çok büyük.</string>
   <string name="download_whole_email">İçeriğin geri kalanını indir</string>
   <string name="draft_count_format"> (%1$s)</string>
+  <string name="drawer_bank_bill">Banka Durumu</string>
+  <string name="drawer_bill_title">Faturalar</string>
   <string name="drawer_close">Gezinme menüsünü kapat</string>
   <string name="drawer_contacts">Kişiler</string>
   <string name="drawer_open">Gezinme menüsünü aç</string>
+  <string name="due">Vade</string>
+  <string name="due_date_text">Son Geri Ödeme</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">Hızlı Cevap</string>
@@ -395,7 +414,7 @@
   <string name="empty_trash_dialog_title">Çöp Kutusu temizlensin mi?</string>
   <string name="enable_sync_in_account_settings">%1$s içinde aç.</string>
   <string name="enumeration_delimiter">" | "</string>
-  <string name="error">error</string>
+  <string name="error">Hata</string>
   <string name="exception_cancel">"
         Bu olay şunun için iptal 
     edildi:
@@ -416,6 +435,7 @@
   <string name="feedback_sent">Görüşleriniz için teşekkür ederiz.</string>
   <string name="feedback_user_edit_hint">Burada konuyu açıklayın. İçeriğini inceledikten sonra sizi posta ile bilgilendireceğiz.</string>
   <string name="feedback_user_edit_tag">"MIUI "</string>
+  <string name="fetch_bank_sender_list_failure">"Bilgi alınamadı"</string>
   <string name="fetching_attachment">Ek alınıyor</string>
   <string name="file_deleted_success">Dosya silindi</string>
   <string name="file_not_found">"Dosya bulunamadı"</string>
@@ -470,6 +490,7 @@
   <string name="forward_download_failed_ticker">"Bir veya daha fazla ek yönlendirilemedi."</string>
   <string name="forward_download_failed_title">Ekler yönlendirilemedi</string>
   <string name="from_heading">"Kimden: "</string>
+  <string name="free_period_text">Faizsiz Dönem</string>
   <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
   <string name="general_preference_confirm_send_label">Göndermeden önce onayla</string>
   <string name="general_preference_str_auto_translation">Hızlı Çevir</string>
@@ -503,6 +524,8 @@
   <string name="ignore_spam_warning">Yoksay ve bu pstaya güven</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Gelen posta sunucusu için şifre yanlış</string>
+  <string name="import_button_text">İçe Aktar</string>
+  <string name="import_from_other_account">Diğer hesaplardan içe aktar</string>
   <string name="info_actionbar_normal_detail">Promosyon</string>
   <string name="info_actionbar_subscribe">Haber Beslemesi</string>
   <string name="info_item_from">Gönderen </string>
@@ -519,6 +542,7 @@
   <string name="input_password_prompt">Şifreni gir</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="intent_exchange_package">com.android.exchange</string>
+  <string name="interact_with_server_error">"Sunucuya bağlanamadı"</string>
   <string name="invalid_recipient"> %s adresi geçersiz.</string>
   <string name="invalid_recipient_title">Alıcı Hatası</string>
   <string name="kilobytes">%s KB</string>
@@ -531,7 +555,7 @@
   <string name="local_search">Yerelde Ara</string>
   <string name="local_search_result">%seşitlenmiş mesaj sonucu</string>
   <string name="login">Oturum aç</string>
-  <string name="login139">CMCC Tek tuşla oturum aç</string>
+  <string name="login139">Çin Mobil üzerinden oturum aç</string>
   <string name="login_failed_ticker">%s oturum açıldı</string>
   <string name="login_failed_title">"Oturum açılamadı"</string>
   <string name="long_press_to_select_tip">Dokunun &amp; bir postayı seçmek için basılı tutun, daha sonra seçmek için dokunun.</string>
@@ -540,7 +564,8 @@
   <string name="mail_body_turncated">Bu E-Posta yüklemek için çok büyük, sadece bir kısmını görüntülenecek ve lütfen PC\'de tamamını görüntüleyin.</string>
   <string name="mail_header_network_not_available">"Bir ağ bağlantısı yok."</string>
   <string name="mailbox_list_account_selector_combined_view">Birleştirilmiş hesap</string>
-  <string name="mailbox_name_display_ad">Reklamlar &amp; Bildirimler</string>
+  <string name="mailbox_name_display_ad">Reklamlar</string>
+  <string name="mailbox_name_display_circular">Bildirimler</string>
   <string name="mailbox_name_display_drafts">Taslaklar</string>
   <string name="mailbox_name_display_inbox">Gelen Kutusu</string>
   <string name="mailbox_name_display_junk">İstenmeyen</string>
@@ -599,7 +624,7 @@
   <string name="menu_search">Ara</string>
   <string name="menu_settings">Ayarlar</string>
   <string name="merged_mailbox_compose_select_account">Hesap Seç</string>
-  <string name="message_body_load_set_description">Mobil veri kullanırken yeni postaların yükleme boyutu</string>
+  <string name="message_body_load_set_description">Mobil veri kullanırken E-Postaları yükle</string>
   <string name="message_compose_insert_quick_response_list_title">Hızlı Cevap Ekle</string>
   <string name="message_count_spacer">  </string>
   <string name="message_decode_error">"Mesajı çözülemiyor"</string>
@@ -617,6 +642,7 @@
   <string name="mibill_privacy_policy_description">Mi Cüzdan analiz etme ve otomatik faturalarınızı yönetmenize izin verir. Bu özellik iş ile ilgili E-Posta adresleri için varsayılan olarak kapalıdır.</string>
   <string name="mibill_privacy_policy_link">"Bu özelliği kullanarak, bizim "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Kullanım Koşullarını&lt;/a&gt; kabul etmiş sayılırsınız.</string>
   <string name="mibill_privacy_policy_title">Faturaları otomatik yönet</string>
+  <string name="min_payment_text">Asgari Geri Ödeme</string>
   <string name="more_atts_remaining">%1$d kaldı</string>
   <string name="more_context">Fazlası</string>
   <string name="more_string">+%1$s</string>
@@ -625,20 +651,24 @@
   <string name="mute">Sessiz</string>
   <string name="net_check_title">Ağ bağlantısı kurulamadı. Ağ ayarlarını kontrol edin ve tekrar deneyin.</string>
   <string name="network_error">Bağlantı yok</string>
+  <string name="network_invaild">"Ağa bağlanamadı"</string>
   <string name="network_not_available">"Ağa bağlanamıyor"</string>
   <string name="network_tip">Kimlik doğrulama başarısız oldu, lütfen ağ bağlantınızı kontrol edin</string>
   <string name="network_try_again">Ağı kontrol edin ve tekrar deneyin</string>
   <string name="network_unavailable">Ağ mevcut değil</string>
-  <string name="new_incoming_messages_one"> %s\'dan yeni mesaj. Göster.</string>
-  <string name="new_messages">%1$d yeni mesaj</string>
+  <string name="new_incoming_messages_one"> %s\'dan yeni posta. Göster.</string>
+  <string name="new_messages">%1$d yeni posta</string>
   <string name="next_action">Sonraki</string>
   <string name="no">Hayır</string>
   <string name="no_address_email">raocakmak@gmail.com</string>
   <string name="no_application_found">Bu eki açacak hiçbir uygulama bulunamadı</string>
   <string name="no_application_found_title">Bu eki aç.</string>
+  <string name="no_bill_discribe">"Herhangi fatura bulunamadı.
+Farklı bir E-Posta hesabına geçmeyi deneyin."</string>
   <string name="no_contacts">Kişi yok.</string>
   <string name="no_content_in_body">[İçeriksiz]</string>
-  <string name="no_conversations">Mesaj yok.</string>
+  <string name="no_conversations">Posta yok.</string>
+  <string name="no_filtrable_email_account">Fitrelenecek hesap yok</string>
   <string name="no_mails">E-Posta yok</string>
   <string name="no_matched_attachment">Sonuç yok.</string>
   <string name="no_remind">Hatırlatıcı yok</string>
@@ -658,7 +688,7 @@
   <string name="oauth_error_description">"Kimlik doğrulaması yapılamadı"</string>
   <string name="oauth_gmail_login_notify">Aşağıdaki oturum sayfasından Google Hesabı kullanıcı adınızı ve şifrenizi girin.</string>
   <string name="oauth_login_continue">Devam</string>
-  <string name="oauth_login_continue_qq"> &gt; giriş yapmak için yetkilendirme kodunu edinin</string>
+  <string name="oauth_login_continue_qq"> &gt; bir şifre alın ve oturum açın.</string>
   <string name="ok">Tamam</string>
   <string name="okay_action">Tamam</string>
   <string name="outbox_alert_button_no_resend">"Gönderme!"</string>
@@ -683,11 +713,13 @@
   <string name="outbox_alert_select_operation">Bir faaliyet seçin</string>
   <string name="outbox_alert_title_sent_failed">"Posta gönderilemedi"</string>
   <string name="outbox_no_mails">Boş</string>
+  <string name="over_due">Gecikme</string>
   <string name="overlays_fail_tip">Maalesef posta kutunuz başarıyla yapılandırılmadı, kayan Windows izinlerini açın ve tekrar deneyin.</string>
   <string name="overlays_ok">Açık izinler</string>
   <string name="overlays_tip">Yüzen Windows izinlerini açın ve otomatik olarak aşırı deneyimi yapılandırmak için 139 posta kutusunun keyfini çıkarın.</string>
   <string name="overlays_title">Kayan Windows izinlerini aç</string>
   <string name="parase_setup_data">Veri alınıyor…</string>
+  <string name="parse_bill_discribe">Kredi kartı faturaları işleniyor...</string>
   <string name="password_expire_warning_content_title">Kilit ekranı parolasının süresi sona eriyor</string>
   <string name="password_expire_warning_dialog_content_fmt">Yakında zamanda kilit ekranı PIN veya parolasını değiştirmelisiniz veya  %s için veriler silinecek. Şimdi değiştirilsin mi?</string>
   <string name="password_expire_warning_dialog_title">Kilit ekranı parolasının süresi sona eriyor</string>
@@ -720,6 +752,8 @@
   <string name="photo_load_failed">"Resim yüklenemedi"</string>
   <string name="photo_view_count" formatted="false">%d / %d</string>
   <string name="please_fill_in_your_mailbox_information2">Posta kutusu bilgi girin</string>
+  <string name="pls_parse_bill_discribe">"Ödemeler ve seyahat hakkında hatırlatmalar almak için
+E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="policy_app_blacklist">Belirli uygulamalara izin verme</string>
   <string name="policy_app_whitelist">Sadece belirli uygulamalara izin ver</string>
   <string name="policy_bluetooth_restricted">Bluetooth kullanımını kısıtla</string>
@@ -765,6 +799,7 @@
   <string name="protocol_imap">imap</string>
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
+  <string name="protocol_setting_toast">Kabul ettikten sonra ayarlara gitmek için sağ üst köşeye dokunun</string>
   <string name="pull_to_refresh">Yenilemek için aşağı çek</string>
   <string name="pull_up_to_load_more">Yukarı çekip daha fazlasını yükle ▲</string>
   <string name="push_wps_better_confirm_download">İndir</string>
@@ -777,17 +812,17 @@
   <string name="push_wps_confirm_message">WPS Office kullanarak bu eki açmayı deneyin.</string>
   <string name="push_wps_confirm_title">WPS Office\'i Dene</string>
   <string name="push_wps_no_response_app">Bu eylemi işlemek için uygulama bulunamadı</string>
-  <string name="qq_bar_open_imap">Etkin</string>
+  <string name="qq_bar_open_imap">Yardım</string>
   <string name="qq_bar_send_message">SMS Gönder</string>
-  <string name="qq_login_basecode">"Web sayfası üzerinden QQ Email'e giriş yapılıyor. Lütfen bağımsız şifrenizi girin."</string>
-  <string name="qq_login_get_auth">"Doğrulama SMS'i gönderilemedi mi? Lütfen şifre koruma soruları yoluyla kimliğinizi doğrulayın"</string>
-  <string name="qq_login_open_imap">\"IMAP/SMTP\" seçeneğini etkinleştirmek için \"Etkin\" seçeneğini tıklayın.</string>
-  <string name="qq_login_origin_setting">&gt; oturum açmak için kullanıcı adı ve şifre giriniz</string>
-  <string name="qq_login_send_message">Bir yetkilendirme kodu almak için \"SMS gönder\" düğmesini tıklayın</string>
-  <string name="qq_login_webview">"Web sayfası üzerinden QQ Email'e giriş yapılıyor. Lütfen şifrenizi girin."</string>
-  <string name="qq_next_generation_auth_toast">Tarayıcı ile ikinci nesil şifre koruması için lütfen başvuruyu tamamlayın</string>
-  <string name="qq_uthentication_failed">Kimlik doğrulama başarısız oldu, lütfen tekrar oturum açın.</string>
-  <string name="qq_webview_loading">Şimdi atlanılıyor, lütfen bekleyin...</string>
+  <string name="qq_login_basecode">"Web'de QQ Mail'te oturum açıp, bağımsız şifreyi girin.</string>
+  <string name="qq_login_get_auth">"SMS alamıyorsanız, şifre korumasını açın"</string>
+  <string name="qq_login_open_imap">"IMAP/SMTP'yi açmak için \"Yardım\"'a dokunun"</string>
+  <string name="qq_login_origin_setting">&gt; oturum açmak için kullanıcı adı ve şifreyi girin.</string>
+  <string name="qq_login_send_message">"Bir doğrulama kodu almak için \"SMS gönder\"'e dokunun"</string>
+  <string name="qq_login_webview">"Web'de QQ Mail'de oturum açıp, şifrenizi girin.</string>
+  <string name="qq_next_generation_auth_toast">Tarayıcınızda şifre korumasını açın</string>
+  <string name="qq_uthentication_failed">"Hesap doğrulanamadı, tekrar oturum açın"</string>
+  <string name="qq_webview_loading">Biraz bekleyin…</string>
   <string name="questionnair_body_invisibility">"Mesajlar görüntülenmiyor"</string>
   <string name="questionnair_confirm_delete">Kaldır</string>
   <string name="questionnair_instability">Sıklıkla Çökenler</string>
@@ -905,6 +940,8 @@
   <string name="ser_resp_err_map_pserr">Şifre veya kullanıcı adı hatalı</string>
   <string name="ser_resp_err_map_serclosed">%s sunucu kapalı</string>
   <string name="ser_resp_err_map_ssl">"Güvenlik Tipinden 'SSL/TLS (Tüm sertifikaları kabul et)  seçeneğini seçin'"</string>
+  <string name="service_protocol_discribe">"&lt;u&gt;"WPS Posta Hizmet Sözleşmesi'ni okudum ve kabul ediyorum"&lt;/u&gt;"</string>
+  <string name="service_protocol_title">Hizmet Sözleşmesi</string>
   <string name="set_network">Ağı Ayarla</string>
   <string name="settings_activity_title">Ayarlar</string>
   <string name="share_choose">Paylaşmak için dosyayı seçin</string>
@@ -961,6 +998,7 @@
   <string name="toast_bar_invalid_account">Tekrar oturum açmanız gerekir</string>
   <string name="toast_bar_no_connection_network">"İnternet bağlantısı yok"</string>
   <string name="toast_bar_open_gmail_synchronization">Gmail proxy sunucusunu kullanmak için dokunun</string>
+  <string name="today_text">Bugün</string>
   <string name="too_large_to_attach_additional">"Dosya boyutu %1$s\'i geçemez."</string>
   <string name="too_large_to_attach_multiple">"Bir veya daha fazla dosya ekli değil. Dosya boyutu %1$s geçemez."</string>
   <string name="too_large_to_attach_single">"%1$s\'den daha büyük dosya ekleyemiyorum."</string>
@@ -980,7 +1018,10 @@
   <string name="try_exchange_login">EXCHANGE ile giriş yap</string>
   <string name="turn_auto_sync_on_dialog_body">Yapılan değişiklikler sadece Gmail ile değil tüm uygualmalar ve hesaplar, diğer cihazlar, web, %1$s ile aralarındaki içerikleride eşitleyecektir.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Açık</string>
+  <string name="unknow">Bilinmiyor</string>
   <string name="turn_auto_sync_on_dialog_title">Otomatik eşitleme açılsın mı?</string>
+  <string name="unbind_dialog_text">"Faturaları analiz etmeyi bıraktıktan sonra hatırlatıcı mesajları alamazsınız.
+Şimdi durdurulsun mu?"</string>
   <string name="undo">Geri Al</string>
   <string name="unread_string">Okunmamış Posta</string>
   <string name="unselected_lable">Fazlası</string>
@@ -1007,12 +1048,12 @@
   <string name="wait_for_manual_sync_body">"Bu hesap otomatik eşitlemeye ayarlanmadı
 Posta eşitlenmeden önce "Şimdi Eşitleye dokunun veya bu hesabın postaları otomatik eşitlemesi için Eşitleme Ayarlarını Değiştir seçeneğini kullanın</string>
   <string name="wait_for_sync_title">Eşitlemek için bekleniyor</string>
-  <string name="webview_logout">Gerçekten giriş yapmaktan vazgeçmek istiyor musun? Haydi, tekrar deneyin!</string>
-  <string name="webview_logout_cancel">"Daha fazla denemeyecek"</string>
-  <string name="webview_logout_sure">Bir kez daha deneyin</string>
+  <string name="webview_logout">Tekrar oturum açmayı deneyebilirsiniz</string>
+  <string name="webview_logout_cancel">Şimdi değil</string>
+  <string name="webview_logout_sure">Yeniden dene</string>
   <string name="webview_sslerror_handle_cancel">İptal</string>
   <string name="webview_sslerror_handle_continue">Devam</string>
-  <string name="webview_sslerror_handle_hitmessage">Sertifika Hatası! Bu web sitesine devam edilsin mi (önerilmez)?</string>
+  <string name="webview_sslerror_handle_hitmessage">Bir sertifika hatası oluştu, devam etmek istiyor musunuz?</string>
   <string name="widget_all_mail">Tüm Posta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Diğer</string>
