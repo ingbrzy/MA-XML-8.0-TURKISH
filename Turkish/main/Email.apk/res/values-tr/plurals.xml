@@ -53,7 +53,7 @@
         <item quantity="one">&lt;b>%1$d&lt;/b> sessizde.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&lt;b>%1$d&lt;/b>" mesajlar 'önemli' dizininden kaldırıldı"</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b>" içerik 'önemli' dizininden kaldırıldı"</item>
         <item quantity="one">&lt;b>%1$d&lt;/b>" 'önemli' dizininden kaldırıldı"</item>
     </plurals>
     <plurals name="conversation_not_spam">
@@ -61,24 +61,40 @@
         <item quantity="one">&lt;b>%1$d&lt;/b>" 'istenmeyen' dizininden kaldırıldı"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&lt;b>%1$d&lt;/b> mesajlar istenmeyen olarak raporlandı</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> mesaj istenmeyen olarak raporlandı</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> içerik istenmeyen olarak raporlandı</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> içerik istenmeyen olarak raporlandı</item>
     </plurals>
     <plurals name="conversation_spammed">
         <item quantity="other">&lt;b>%1$d&lt;/b> istenmeyen olarak işaretlendi</item>
         <item quantity="one">&lt;b>%1$d&lt;/b> istenmeyen olarak işaretlendi</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+    <plurals name="day_after">
+        <item quantity="other">%d gün içinde</item>
+        <item quantity="one">%d gün içinde</item>
+    </plurals>
+    <plurals name="day_before">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">%d gün önce</item>
     </plurals>
     <plurals name="draft">
         <item quantity="other">Taslaklar</item>
         <item quantity="one">Taslak</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
-        <item quantity="other">%1$d mesaj kalıcı olarak silinecek.</item>
-        <item quantity="zero">%1$d mesaj kalıcı olarak silinecek.</item>
-        <item quantity="one">%1$d mesaj kalıcı olarak silinecek.</item>
-        <item quantity="two">%1$d mesaj kalıcı olarak silinecek.</item>
-        <item quantity="few">%1$d mesaj kalıcı olarak silinecek.</item>
-        <item quantity="many">%1$d mesaj kalıcı olarak silinecek.</item>
+        <item quantity="other">%1$d içerik kalıcı olarak silinecek.</item>
+        <item quantity="zero">%1$d içerik kalıcı olarak silinecek.</item>
+        <item quantity="one">%1$d içerik kalıcı olarak silinecek.</item>
+        <item quantity="two">%1$d içerik kalıcı olarak silinecek.</item>
+        <item quantity="few">%1$d içerik kalıcı olarak silinecek.</item>
+        <item quantity="many">%1$d içerik kalıcı olarak silinecek.</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">%d ay</item>
+        <item quantity="one">%d ay</item>
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">%1$d postayı taşı</item>
@@ -89,12 +105,12 @@
         <item quantity="many">%1$d postayı taşı</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
-        <item quantity="other">%1$d yeni mesajı göster.</item>
-        <item quantity="zero">%1$d yeni mesajı göster.</item>
-        <item quantity="one">%1$d yeni mesajı göster.</item>
-        <item quantity="two">%1$d yeni mesajı göster.</item>
-        <item quantity="few">%1$d yeni mesajı göster.</item>
-        <item quantity="many">%1$d yeni mesajı göster.</item>
+        <item quantity="other">%1$d yeni içeriği göster.</item>
+        <item quantity="zero">%1$d yeni içeriği göster.</item>
+        <item quantity="one">%1$d yeni içeriği göster.</item>
+        <item quantity="two">%1$d yeni içeriği göster.</item>
+        <item quantity="few">%1$d yeni içeriği göster.</item>
+        <item quantity="many">%1$d yeni içeriği göster.</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d seçildi</item>
@@ -105,11 +121,11 @@
         <item quantity="many">%d seçildi</item>
     </plurals>
     <plurals name="show_messages_read">
-        <item quantity="other">%1$d eski mesaj</item>
-        <item quantity="zero">%1$d eski mesaj</item>
-        <item quantity="one">%1$d eski mesaj</item>
-        <item quantity="two">%1$d eski mesaj</item>
-        <item quantity="few">%1$d eski mesaj</item>
-        <item quantity="many">%1$d eski mesaj</item>
+        <item quantity="other">%1$d eski içerik</item>
+        <item quantity="zero">%1$d eski içerik</item>
+        <item quantity="one">%1$d eski içerik</item>
+        <item quantity="two">%1$d eski içerik</item>
+        <item quantity="few">%1$d eski içerik</item>
+        <item quantity="many">%1$d eski içerik</item>
     </plurals>
 </resources>
