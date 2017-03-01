@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="all_month_str">
+        <item>Oca</item>
+        <item>Şub</item>
+        <item>Mar</item>
+        <item>Nis</item>
+        <item>May</item>
+        <item>Haz</item>
+        <item>Tem</item>
+        <item>Ağu</item>
+        <item>Eyl</item>
+        <item>Eki</item>
+        <item>Kas</item>
+        <item>Ara</item>
+    </string-array>
     <string-array name="compose_modes">
         <item>Cevapla</item>
         <item>Tümünü Cevapla</item>
