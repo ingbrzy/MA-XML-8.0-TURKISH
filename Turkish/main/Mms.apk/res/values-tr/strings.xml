@@ -167,6 +167,7 @@
   <string name="exceed_message_text_limitation">Mesaj metin uzunluğu sınırına ulaşıldı.</string>
   <string name="expire_on">Geçerlilik Tarihi: %s</string>
   <string name="exporting_progress_private_message">Aktarılıyor…</string>
+  <string name="fail_to_add_attachment">"Eklenemedi"</string>
   <string name="failed_to_add_media">"%1$s mesajınıza ekleyemezsiniz."</string>
   <string name="failed_to_resize_image">Resim boyutlandırılamadı.</string>
   <string name="fake_cell_alert_hint">Bu mesajı telefon numarasına gönderirken, diğer taraftan görüntüleyebilirsiniz. SMS içeriğinde finansal istekleri gönderirken dikkat edin.</string>
@@ -541,7 +542,7 @@
   <string name="select_bottom_text">Metin altta</string>
   <string name="select_copy_text">seç ve mesaj metnini kopyala</string>
   <string name="select_different_media">Farklı bir %1$s seçin.</string>
-  <string name="select_link_title">İşlemi seçin</string>
+  <string name="select_link_title">Faaliyeti seç</string>
   <string name="select_local_audio">Sesi seç</string>
   <string name="select_local_video">Videoyu seç</string>
   <string name="select_message_send_sim">SIM kartı seç</string>
