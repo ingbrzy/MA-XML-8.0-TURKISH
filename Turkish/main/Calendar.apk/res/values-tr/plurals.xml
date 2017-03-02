@@ -48,12 +48,12 @@
         <item quantity="one">1 hafta önce</item>
     </plurals>
 	<plurals name="anniversary_notify_title">
-        <item quantity="other">[Anniversary]%1$s yaşında %2$d. yıldönümü </item>
-        <item quantity="one">[Anniversary]%1$s yaşında %2$d. yıldönümü</item>
+        <item quantity="other">Yıldönümü: %1$s yaşında %2$d.  </item>
+        <item quantity="one">Yıldönümü: %1$s yaşında %2$d. </item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">[Yıldönümü]%1$s yaşında %2$d. yıldönümüne 3 gün var</item>
-        <item quantity="one">[Yıldönümü]%1$s yaşında %2$d. yıldönümüne 3 gün var</item>
+        <item quantity="other">Yıldönümü: %1$s yaşında %2$d. yıldönümüne 3 gün var</item>
+        <item quantity="one">Yıldönümü: %1$s yaşında %2$d. yıldönümüne 3 gün var</item>
     </plurals>
     <plurals name="anniversary_year">
         <item quantity="other">yıl</item>
