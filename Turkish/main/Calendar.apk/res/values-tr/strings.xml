@@ -56,7 +56,7 @@
   <string name="alert_reminder_expired">Süresi Doldu</string>
   <string name="alert_title">Takvim Bildirimleri</string>
   <string name="anniversary_card_title">Yıldönümü</string>
-  <string name="anniversary_event_title">[Yıldönümü]%1$s</string>
+  <string name="anniversary_event_title">Yıldönümü: %1$s</string>
   <string name="anniversary_metric"/>
   <string name="anniversary_term">yıldönümü</string>
   <string name="app_label">Takvim</string>
@@ -98,7 +98,7 @@
   <string name="calendar_server_error">Sunucu Hatası</string>
   <string name="calendar_square_color_picker_description">Renk Seçimi</string>
   <string name="call_label">Ara</string>
-  <string name="can_not_create_long_event">Etkinlik içeriği çok uzun</string>
+  <string name="can_not_create_long_event">Faaliyet adı çok uzun</string>
   <string name="can_not_modify_allday_event">"Tüm gün etkinliğini değiştiremezsiniz"</string>
   <string name="can_not_modify_event">"Etkinliği değiştiremezsiniz"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Bir çok gün süren etkinliği değiştiremezsiniz"</string>
@@ -133,9 +133,9 @@
   <string name="copy_email">E-posta adresini kopyala</string>
   <string name="copy_number">Telefon numarasını kopyala</string>
   <string name="countdown_card_title">Sayılı Günler</string>
-  <string name="countdown_event_title">[Sayım]%1$s</string>
-  <string name="countdown_notify_before_3_day_title">[Sayım]3 gün içinde; %1$s</string>
-  <string name="countdown_notify_title">[Sayım]%1$s</string>
+  <string name="countdown_event_title">Sayım: %1$s</string>
+  <string name="countdown_notify_before_3_day_title">Sayım: 3 gün içinde; %1$s</string>
+  <string name="countdown_notify_title">Sayım: %1$s</string>
   <string name="countdown_today">Bugün</string>
   <string name="create_an_account_desc">"Takvim en iyi şekilde Mi Hesabı ile çalışır.
 
@@ -203,8 +203,8 @@
   <string name="drop_down_list_footer_loading_text">Yükleniyor...</string>
   <string name="dropdown_delete_button_desc">Alıcılardan %s kaldır</string>
   <string name="edit_event_all_day_label">Tüm Gün</string>
-  <string name="edit_event_anniversary_name_empty_hint">Lütfen yıldönümünü girin</string>
-  <string name="edit_event_anniversary_name_hint">İçerik</string>
+  <string name="edit_event_anniversary_name_empty_hint">Faaliyet adını yazın</string>
+  <string name="edit_event_anniversary_name_hint">Faaliyet</string>
   <string name="drop_down_list_footer_no_more_text">Fazlası</string>
   <string name="drop_down_list_header_loading_text">Fazlası</string>
   <string name="drop_down_list_header_pull_text">Yenilemek için aşağı çekin</string>
@@ -221,8 +221,8 @@
   <string name="drop_down_list_header_release_text">Yenilemek için serbest bırakın</string>
   <string name="edit_event_choose_date">Tarihi seç</string>
   <string name="edit_event_confirm_message">Değişiklikler yoksayılsın mı?</string>
-  <string name="edit_event_countdown_name_empty_hint">Lütfen sayılı gün içeriğini girin</string>
-  <string name="edit_event_countdown_name_hint">İçerik</string>
+  <string name="edit_event_countdown_name_empty_hint">Faaliyet adını girin</string>
+  <string name="edit_event_countdown_name_hint">Faaliyet</string>
   <string name="edit_event_input_year">Yılı girin</string>
   <string name="edit_event_label">Detaylar</string>
   <string name="edit_event_no_reminder_value">"Hatırlatma!"</string>
