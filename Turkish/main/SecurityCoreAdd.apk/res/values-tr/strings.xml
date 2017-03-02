@@ -7,6 +7,11 @@ Mesajlar sadece İkinci Alanda gözükür."</string>
   <string name="PrivacyContactDes2">"Eğer İlk Alanda özel mesajlar kullanırsanız,
 bu özellik İkinci Alana otomatik olarak eklenir."</string>
   <string name="add_finger_print">Parmakizi ekle</string>
+  <string name="air_space_created">Çalışma alanı başarıyla oluşturuldu</string>
+  <string name="air_space_deleted">Çalışma alanı başarıyla silindi</string>
+  <string name="air_space_exit">Alandan çık</string>
+  <string name="air_space_setting">Alan Ayarları</string>
+  <string name="airspace_users_full">"Daha fazla çalışma alanı oluşturulamıyor"</string>
   <string name="appData">Yüklü Uygulamalar</string>
   <string name="app_name">Güvenlik Çekirdek Bileşeni</string>
   <string name="back">Geri</string>
@@ -32,18 +37,21 @@ bu özellik İkinci Alana otomatik olarak eklenir."</string>
   <string name="confirmCloseSpaceDes">"İkinci Alana girildiğinde silinemez. Tüm veriler taşınacak ve silinecek."</string>
   <string name="confirmDelete">Sil</string>
   <string name="confirmSecondSpacePassword">İkinci Alan şifresini onayla</string>
+  <string name="confirm_airspace_password">Çalışma aalanı şifresini doğrula</string>
   <string name="confirm_main_space_password">İlk Alan şifresini onayla</string>
   <string name="confirm_restore">"Gösterme!"</string>
   <string name="contactData">Kişiler</string>
   <string name="contact_sub_titile_text">Mesaj verisi iki alanda da paylaştırıldı</string>
   <string name="contact_titile_text">"İkinci Alanda özel mesajları
 daima görüntüleyebilirsiniz"</string>
+  <string name="contact_us">İrtibat kur</string>
   <string name="continueButton">Devam</string>
   <string name="createANewSpace">Telefonunuzda boş alan ayırın.</string>
   <string name="createUserFail">"Oluşturulamadı"</string>
   <string name="create_app_icon_failed">"Simge oluşturulamadı"</string>
   <string name="create_app_icon_success">Simge başarıyla oluşturuldu</string>
   <string name="create_space_loading">İkinci Alan oluşturuluyor…</string>
+  <string name="create_work_space">Çalışma Alanı oluştur</string>
   <string name="creating_app_icon">Simge oluşturuluyor…</string>
   <string name="dataSafe">İkinci Alan iki cihazda kullanılıyor.</string>
   <string name="declare_dialog_title">Klonlu Uygulamalar Hakkında</string>
@@ -58,7 +66,9 @@ daima görüntüleyebilirsiniz"</string>
   <string name="dir_switch_out_all_photos">İkinci Alan Galerisi</string>
   <string name="disable">Kapalı</string>
   <string name="dont_import">Şimdi değil</string>
-  <string name="enable">Açık</string>
+  <string name="downloading_space">İndiriliyor…</string>
+  <string name="enable">Aç</string>
+  <string name="enter_air_space">Çalışma Alanına git</string>
   <string name="err_copy_contacts">"Kişiler kopyalanamadı"</string>
   <string name="err_copy_files">"Dosyalar kopyalanamadı"</string>
   <string name="err_copy_photos">"Fotoğraflar kopyalanamadı"</string>
@@ -98,7 +108,11 @@ Ayrı ayrı indirme yapabilirsiniz."</string>
   <string name="import_photo">Fotoğrafları aktar</string>
   <string name="import_photo_desc">İkinci Alanda paylaşılan öğeleri görüntüle</string>
   <string name="import_photo_suc">Fotoğraflar aktarıldı</string>
+  <string name="invalid_qr_code">Geçersiz QR kodu</string>
+  <string name="keywords_sspace">İkinci alan; İki boşluk; Uygulamaları gizle; Dosyaları gizle; Fotoğrafları gizle; Ekran kilidi; Ekran şifresini gizle; Gizlilik; Gizlilik modu; Özel mod; Özel; Konuk modu; Misafir oturumu; Konuk erişimi; Konuk hesabı; Konuk</string>
+  <string name="keywords_xspace">İkili uygulama, İkili uygulamalar, İkili uygulamalar, İkili uygulamalar, Uygulamayı kopyalama, Uygulamaları çoğaltma, Uygulama klonlama, Uygulama klonları, İki hesap, 2 hesap</string>
   <string name="list_empty_text">Boş</string>
+  <string name="loading">Biraz bekleyin...</string>
   <string name="loading_apps">Uygulamalar yükleniyor…</string>
   <string name="loading_space">Biraz bekleyin…</string>
   <string name="loading_success">Başarıyla yüklendi</string>
@@ -108,12 +122,15 @@ Ayrı ayrı indirme yapabilirsiniz."</string>
   <string name="msg_switch_photo">Taşındıktan sonra İlk Alandaki fotoğraflar silinsin mi?</string>
   <string name="needSetKeyguardFirst">İlk Alan şifresini ayarla</string>
   <string name="needSetKeyguardFirstDes">İlk Alan şifresini İkinci Alan şifresinden önce ayarla</string>
+  <string name="need_network_when_create">Çalışma alanını oluşturmadan önce ağa bağlanın</string>
+  <string name="need_reset_passwd">Çalışma alanına girmeden önce Çalışma alanı şifresini sıfırlayın</string>
   <string name="need_set_second_space_desc">İkinci Alan parmakizini İkinci Alan şifresinden önce ekle</string>
   <string name="need_set_second_space_pwd_first">Önce İkinci Alan şifresini ayarla</string>
   <string name="newSecondSpace">İkinci Alanı aç</string>
   <string name="next_setp">Sonraki</string>
   <string name="no_match_repate_scanner">"Parmakizi eşleşemedi, yeniden tarayın"</string>
   <string name="normal_app">İlk Alan</string>
+  <string name="not_support_air_space">"Bu özellik telefonunuzda desteklenmiyor"</string>
   <string name="not_support_multiple_users">"Çoklu alanlar desteklenmez"</string>
   <string name="notificationSetPassword">Şifreyi ayarla</string>
   <string name="notificationSetPasswordDes">İkinci Alan verisini koru</string>
@@ -125,10 +142,13 @@ Ayrı ayrı indirme yapabilirsiniz."</string>
   <string name="ok_button">Tamam</string>
   <string name="openPasswordGuard">İkinci alan şifresini ayarla</string>
   <string name="openSuccess">Açıldı</string>
-  <string name="opened">Aç</string>
+  <string name="opened">Açık</string>
+  <string name="other">Diğer</string>
   <string name="otherSettings">Diğer Ayarlar</string>
   <string name="passWordGuardSummary">Kilit erkanında şifre kullanarak İkinci Alana gir</string>
   <string name="passwordProtect">Şifre</string>
+  <string name="path_sspace">Ayarlar/İkinci Alan</string>
+  <string name="path_xspace">Ayarlar/Klonlu Uygulamalar</string>
   <string name="please_diff_finger_print">"Birinci Alan ile İkinci Alan arasında farklı parmakizlerini kullanın.
 Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="privacyContactsSummary">İkinci Alanda özel öğeleri göster</string>
@@ -141,11 +161,18 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="remove_second_space_msg">İkinci Alan silindiğinde tüm İkinci Alan uygulama veriside silinir. İkinci Alan silinsin mi?</string>
   <string name="removingSpace">Siliniyor…</string>
   <string name="repeat_scanner_fingerprint">Yeniden ekle</string>
+  <string name="reset_passwd_success">Şifre başarıyla sıfırlandı</string>
+  <string name="resource_sspace">İkinci Alan</string>
+  <string name="resource_xspace">Klonlu Uygulamalar</string>
   <string name="restore_normal_show">"Özel mesajları gösterme!"</string>
   <string name="restore_show_desc">"İkinci Alanda özel mesajları gösterme! Onlar İlk Alanda mevcut olurlar."</string>
   <string name="restore_show_toast">Özel mesajlar gösterilmez</string>
   <string name="retain_src_file">Dosyaları koru</string>
   <string name="retain_src_photo">Fotoğrafları koru</string>
+  <string name="same_qr_code_create_space">Başka bir tane oluştur</string>
+  <string name="same_qr_code_des">Görünüşe göre Çalışma alanı zaten var. Oraya gitmek için Giriş ekranı ve Bildirim alanı kısayollarını kullanabilirsiniz. Şimdi gidilsin mi?</string>
+  <string name="same_qr_code_enter_space">Çalışma alanına git</string>
+  <string name="same_qr_code_title">%s zaten var</string>
   <string name="scanner_fingerprint">Parmakizi taranıyor…</string>
   <string name="scanner_fingerprint_enter_second">"Kilit Ekranında İkinci Alana
  parmakizi kullanarak giriş yap"</string>
@@ -186,6 +213,8 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="show_private_msg">Özel mesajları göster</string>
   <string name="show_private_msg_summary">İkinci Alanda özel mesajları göster</string>
   <string name="spaceSetting">Ayarlar</string>
+  <string name="space_des_default">Şifrelenmiş verilerle birlikte izalanı koru</string>
+  <string name="space_name_default">Çalışma Alanı</string>
   <string name="startSet">Ayarla</string>
   <string name="startTransfer">Taşı</string>
   <string name="start_input_finger_print">Parmakizi ekle</string>
@@ -199,6 +228,7 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="switch_apps_settings">Uygulama Ayarları</string>
   <string name="switch_data_app">İkinci Alan öğelerini taşı</string>
   <string name="switch_data_settings">Veriyi Taşı</string>
+  <string name="switch_download_space">Çalışma alanına geç</string>
   <string name="switch_failed">"Taşınamadı"</string>
   <string name="switch_file_success">Dosyalar başarıyla taşındı</string>
   <string name="switch_in_contacts">Kişileri Aktar</string>
@@ -233,9 +263,12 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="transferMessage">İkinci Alandaki mesajlar İlk Alana taşınacak</string>
   <string name="tryNow">Tekrar dene</string>
   <string name="wating">Biraz bekleyin…</string>
+  <string name="xpsace_guide_button">Oluştur</string>
   <string name="xspace_chocie">Klonlu Uygulamalar Desteği</string>
   <string name="xspace_creating">Klonlu Uygulama oluşturuluyor…</string>
   <string name="xspace_description">Klonlu uygulamalar ayrı alan kullanır. Klonlu uygulamaların Ana Ekranda simgesi tanımlanacak.</string>
+  <string name="xspace_guide_des">İki hesabı geçiş yapmadan kullan</string>
+  <string name="xspace_guide_title">%s için Klonlu uygulama kullan</string>
   <string name="xspace_header">Klonlu Uygulama</string>
   <string name="xspace_install_completed">Simge Ana Ekrana eklendi.</string>
   <string name="xspace_install_failed">"Oluşturulamadı!"</string>
