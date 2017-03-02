@@ -123,9 +123,9 @@
   <string name="callrecordview_menu_delete_called">Giden çağrıları temizle</string>
   <string name="callrecordview_menu_delete_confirm">%s silinsin mi?</string>
   <string name="callrecordview_menu_delete_missed">Cevapsız çağrıları temizle</string>
-  <string name="callrecordview_menu_delete_new">Yeni numaraların çağrı geçmişini temizle</string>
+  <string name="callrecordview_menu_delete_new">Yeni kişiler için arama geçmişini temizle</string>
   <string name="callrecordview_menu_delete_one">Çağrı geçmişinden temizle</string>
-  <string name="callrecordview_menu_delete_sim">%s arama geçmişini temizle</string>
+  <string name="callrecordview_menu_delete_sim">Arama geçmişi kayıtlarını temizle (%s)</string>
   <string name="callrecordview_menu_delete_stranger">Bilinmeyen numara çağrılarını temizle</string>
   <string name="callrecordview_menu_edit_call_note">Notu düzenle</string>
   <string name="callrecordview_menu_ip">Otomatik IP Çağrısı</string>
@@ -213,7 +213,7 @@
   <string name="contact_detail_action_item_calllog">Geçmiş</string>
   <string name="contact_detail_action_item_nocalllog">Geçmiş yok</string>
   <string name="contact_detail_calllog_call_note_tips">Notlar</string>
-  <string name="contact_detail_calllog_call_record_tips">Çağrıyı Kaydet</string>
+  <string name="contact_detail_calllog_call_record_tips">Kayıtlı Çağrı</string>
   <string name="contact_detail_calllog_empty">Geçmiş yok</string>
   <string name="contact_detail_menu_delete_miprofile">Kartı sil</string>
   <string name="contact_detail_miprofile_accept">Kartvizitleri değiştir</string>
@@ -381,10 +381,10 @@ Kartvizitler kapalı"</string>
         
 
 3. \"İleri\" düğmesini tıklayın ve sonraki adımda kişilerin erişmesine izin verin."</string>
-  <string name="device_transfer_by_sim_message">"1. Diğer cihazınızın kartvizitlerini SIM karta kaydedin;
+  <string name="device_transfer_by_sim_message">"1. Kişileri diğer cihazdan SIM karta kaydedin;
         
 
-2. \"Kişi Ayarları\" - \"Kişileri Al/Ver\" -  "SIM karttan aktar\"  bölümüne gidin, herhangi bir SIM kişisine uzunca basın, alınacak kişileri seçin ve ardından \ "Aktar \" seçeneğine tıklayın."</string>
+2. Kişiler uygulamasındaki Ayarları açın ve ardından \"Kişileri Al/Dışa Aktar\" - \"SIM karttan aktar"\ 'a gidin, seçmek için herhangi bir SIM kartvizite basılı tutun, gerekli tüm kişileri seçin ve \"Aktar\" seçeneğini seçin."</string>
   <string name="device_version_header_bluetooth">Bluetooth yoluyla aktar</string>
   <string name="device_version_header_no_bluetooth">SIM Kart yoluyla aktar</string>
   <string name="dial">Çevir</string>
@@ -675,11 +675,11 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="list_filter_customize">Özelleştir</string>
   <string name="list_filter_phones">Telefon numarası olan tüm kişiler</string>
   <string name="list_filter_single">Kişi</string>
-  <string name="live_talk_switch_on_toast">Canlı görüşme etkin</string>
-  <string name="livetalk_charge">Yükle</string>
-  <string name="livetalk_left">Kalan görüşme</string>
-  <string name="livetalk_switch_on">Geç</string>
-  <string name="livetalk_title">Canlı Görüşme</string>
+  <string name="live_talk_switch_on_toast">Kontör paketi başarıyla açıldı</string>
+  <string name="livetalk_charge">Kontör</string>
+  <string name="livetalk_left">Kalan</string>
+  <string name="livetalk_switch_on">Aç</string>
+  <string name="livetalk_title">Kontör Paketi</string>
   <string name="loading_accounts">Biraz bekleyin...</string>
   <string name="loading_group_members">Biraz bekleyin...</string>
   <string name="loading_groups">Biraz bekleyin...</string>
