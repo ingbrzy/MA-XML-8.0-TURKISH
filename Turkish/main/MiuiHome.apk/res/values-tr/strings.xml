@@ -63,6 +63,14 @@
   <string name="current_preview">Önizle</string>
   <string name="current_wallpaper">Geçerli</string>
   <string name="custom_wallpaper_picker">Gözat</string>
+  <string name="default_folder_title_claro">Claro</string>
+  <string name="default_folder_title_game">Oyunlar</string>
+  <string name="default_folder_title_microsoft">Microsoft</string>
+  <string name="default_folder_title_recommend">Uygulamalar</string>
+  <string name="default_folder_title_security">Sistem</string>
+  <string name="default_folder_title_telcel">Telcel</string>
+  <string name="default_folder_title_tools">Araçlar</string>
+  <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Sil</string>
   <string name="delete_screen">Ekranı Sil</string>
   <string name="delete_wallpaper_message">Seçtiğiniz %1$d duvar kağıdı silisin mi?</string>
@@ -212,6 +220,7 @@
   <string name="preferences_general_title">Ek Ayarlar</string>
   <string name="preferences_title">Başlatıcı Ayarları</string>
   <string name="process"/>
+  <string name="recommend_apps_default_title">Boş</string>
   <string name="recommend_apps_notice">Promosyonlu Uygulamalar</string>
   <string name="recommend_apps_notice_nodata">Promosyonlu Uygulamalar (Veri yok)</string>
   <string name="recommend_apps_switch_title">Promosyonlu Uygulamalar</string>
@@ -265,7 +274,7 @@
   <string name="uninstall_xspace_dialog_message">Klonlu uygulamalar uygulama verisiyle birlikte kaldırılıyor.</string>
   <string name="uninstall_xspace_dialog_title_format">\"%s\" klonlu uygulamayı kaldır</string>
   <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
-  <string name="unnamed_folder_name">İsimsiz Klasör</string>
+  <string name="unnamed_folder_name">Klasör</string>
   <string name="wallpaper">Duvar Kağıdı</string>
   <string name="wallpaper_auto_change_title">Kilit Ekranı</string>
   <string name="wallpaper_failed_message">"Duvar kağıdı ayarlanamadı"</string>
