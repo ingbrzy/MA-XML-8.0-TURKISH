@@ -75,6 +75,13 @@
   <string name="app_frequency_normal">Bazen</string>
   <string name="app_install">Mi TV üzerinde yükle</string>
   <string name="app_install_count">%1$s yüklendi</string>
+  <string name="app_install_dialog_install_complete">Yükleme Tamamlanınca:</string>
+  <string name="app_install_dialog_install_failed">Yükleme başarısız oldu, ilgili uygulama bulunamadı</string>
+  <string name="app_install_dialog_installing">Yüklendi, lütfen bekleyin</string>
+  <string name="app_install_dialog_negative_text">İptal</string>
+  <string name="app_install_dialog_positive_text">Yükle</string>
+  <string name="app_install_dialog_search_failed">İlgili uygulama bulunamadı</string>
+  <string name="app_install_dialog_searching">İlgili uygulamalar aranıyor, bekleyin</string>
   <string name="app_installing">Yükleniyor…</string>
   <string name="app_lastest">En Son</string>
   <string name="app_listitem_installing">Yükleniyor</string>
@@ -133,6 +140,8 @@
   <string name="cancel_timer">Zamanlayıcı iptal oldu</string>
   <string name="cannot_be_used_in_current_mode">&lt;%1$s&gt;Geçerli modda kullanılamaz</string>
   <string name="carrier_data">Şebeke bilgisi</string>
+  <string name="cast_screen">Mi Tv</string>
+  <string name="change_channel">Kanal Değiştir</string>
   <string name="change_to_channel">Kanalı Değiştir [%1$s] %2$s</string>
   <string name="channel">Kanal</string>
   <string name="channel_added_to_fav">%1$s favoriye eklendi</string>
@@ -240,7 +249,8 @@
   <string name="epg_edit_channel_number">Kanal Numarası</string>
   <string name="epg_edit_channel_title">Kanalı Adı</string>
   <string name="epg_edit_fav_channel_num">Kanal Numarasını Düzenle</string>
-  <string name="epg_episode_open">Tümün göster</string>
+  <string name="epg_episode_open">Tümünü göster</string>
+  <string name="epg_event_search_hint">Aranacak program adını girin</string>
   <string name="epg_fav_channels">Favori Kanallar</string>
   <string name="epg_have_no_fav_channel">Favori kanal yok</string>
   <string name="epg_home_sliding_down">Aşağı Kaydır</string>
@@ -255,10 +265,12 @@
   <string name="epg_more_comment_list_title">En iyi yorumları （%1$d）</string>
   <string name="epg_name">TV Şovları</string>
   <string name="epg_no_booking_data">Program planlanmadı</string>
+  <string name="epg_no_favorite_program">Favori program yok</string>
   <string name="epg_no_more_latest_comment">No more comments</string>
   <string name="epg_no_program_data">Program bulunamadı</string>
   <string name="epg_no_search_result">Sonuç bulunamadı</string>
   <string name="epg_no_sys_notification">Geçici sistem bildirimi yok</string>
+  <string name="epg_no_video_tips">İstenilen bulunamadı, lütfen daha sonra tekrar deneyin</string>
   <string name="epg_not_booked_program_time_left">Rezerve Edilmiş: （Kalan Zaman: %1$s）</string>
   <string name="epg_program_comment">Yorum yaz</string>
   <string name="epg_program_detail_more_time_events">Daha Fazla Yayın Zamanı</string>
@@ -299,6 +311,7 @@
   <string name="fan_speed">Hızı</string>
   <string name="faq">SSS</string>
   <string name="fav">Favori</string>
+  <string name="favorite_channel">Sıkça izlenilen kanal</string>
   <string name="feedback">Geribildirim</string>
   <string name="feedback_error">Hata Raporu</string>
   <string name="feedback_error_success_tip">Başarıyla gönderildi</string>
@@ -331,7 +344,7 @@
   <string name="history_none">"Herhangi bir video izlenilmedi"</string>
   <string name="history_title">Geçmiş</string>
   <string name="home">Ana Ekran</string>
-  <string name="home_pad_ac_status">%1$d ℃ %2$s</string>
+  <string name="home_pad_ac_status">%1$d C° %2$s</string>
   <string name="home_zhuye">﻿Ana Ekran</string>
   <string name="hot_apps">Popüler</string>
   <string name="hot_mode">Isıtma</string>
@@ -348,14 +361,17 @@
   <string name="input_source">Giriş kaynağı</string>
   <string name="input_speech_button">Basılı tutun ve komutu söyleyin</string>
   <string name="input_tip">15 dakika sonra kodun süresi dolacak</string>
+  <string name="install">Yükle</string>
   <string name="install_failed">"%s yüklenemedi"</string>
+  <string name="install_peel_content">"TV rehberi işlevini etkinleştirmek için lütfen Mi Kumanda için Peel'i kurun."</string>
+  <string name="install_peel_title">"Peel Mi Kumanda'yı yükle"</string>
   <string name="install_succed">%s başarıyla yüklendi</string>
   <string name="installing">Yükleniyor...</string>
   <string name="introduction">Özet</string>
   <string name="ir_ac">" HT"</string>
   <string name="ir_device_add">Cihaz ekle</string>
   <string name="ir_device_air_cleaner">Hava Temizleyici</string>
-  <string name="ir_device_air_condition">HT</string>
+  <string name="ir_device_air_condition">Klima</string>
   <string name="ir_device_all_ir">Tümü</string>
   <string name="ir_device_amp">A/V Alıcı</string>
   <string name="ir_device_box">Alıcı</string>
@@ -384,8 +400,11 @@
   <string name="just_now">Şu anda</string>
   <string name="just_used">Şu anda</string>
   <string name="key_press_vibrate">Dokununca titret</string>
+  <string name="ky_receive_audio_preferred">TV programlarını otomatik tanımla</string>
+  <string name="ky_receive_audio_watching_tv">İzlediğiniz:</string>
   <string name="last_bak_time">Son Yedekleme %1$s</string>
   <string name="last_use_frame">%1$s önce</string>
+  <string name="launch_milive_tips">Canlı yayını açıp, bekleyin</string>
   <string name="less_than_10m">&lt;10mt</string>
   <string name="living_room">Oturma odası</string>
   <string name="loading_brand">Bilgi alınıyor...</string>
@@ -423,6 +442,7 @@
   <string name="match_data_error_tips">"Bilgi alınamıyor
 Devam etmek için geri dönün"</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
+  <string name="match_direction_default">Yön tuşları çalışıyor mu?</string>
   <string name="match_dvd_intro_pause">Bıraktığında DVD oynatımı durdurulsun</string>
   <string name="match_dvd_intro_play">Bıraktığında DVD oynatmaya başlasın</string>
   <string name="match_dvd_intro_stop">Bıraktığında DVD oynatımı dursun</string>
@@ -446,6 +466,7 @@ Sonraki soruya cevap verin"</string>
   <string name="match_mibox_sencond">    · Mi TV ile bu cihazı kontrol et.</string>
   <string name="match_mibox_third">    · Başka Mi cihazları otomatik olarka ekle</string>
   <string name="match_name_power">Güç</string>
+  <string name="match_number_default">Numara düğmeleri çalışıyor mu?</string>
   <string name="match_power_confirm_tip_frame">%1$s önyüklemede çalışsın mı?</string>
   <string name="match_power_main_tip_frame">%1$s önyüklemede çalışsın mı?</string>
   <string name="match_stb_intro_left">Bıraktığında sola hareket tuşu</string>
@@ -456,6 +477,7 @@ Sonraki soruya cevap verin"</string>
   <string name="match_stb_name_up">Yukarı</string>
   <string name="match_stb_seletion_des">Konumunuzu seçin</string>
   <string name="match_succuss">"Tümünü ayarladınız"</string>
+  <string name="match_tip_default">Cihaz cevap verdi mi?</string>
   <string name="match_tip_eject">Çıkartma tuşu çalışıyor mu?</string>
   <string name="match_tip_exit">Çıkış tuşu düzgün çalışıyor mu?</string>
   <string name="match_tip_ff">Hızlı sar tuşu çalışıyor mu?</string>
@@ -520,10 +542,12 @@ eylem sonrası bir süre bekleyin."</string>
   <string name="my_appointment">Rezervasyonum</string>
   <string name="my_backup">Yedeklerim</string>
   <string name="my_favorite">Favorilerim</string>
+  <string name="my_favorite_program">Favori Program</string>
   <string name="my_notification">Bildirimler</string>
   <string name="my_room">Odam</string>
   <string name="my_room_underline">Odam</string>
-  <string name="my_setting">Ayarlarım</string>
+  <string name="my_setting">Ayarlar</string>
+  <string name="nearby">Yakında</string>
   <string name="network_diagnosis">Ağ Testi</string>
   <string name="network_no_connection">"Ağa bağlanamadı. Ağ bağlantınızı kontrol edin ve tekrar deneyin."</string>
   <string name="network_ok">Problem bulunamadı</string>
@@ -584,7 +608,7 @@ eylem sonrası bir süre bekleyin."</string>
   <string name="passport_bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
   <string name="passport_barcode_add_account_prompt">Bir hesabı bağlamak için, oturum açtıktan sonra QR kodunu tekrar tarayın.</string>
   <string name="passport_captcha">Kodu girin</string>
-  <string name="passport_change_account">&lt;u&gt;Hesabı değiştir&lt;/u&gt;</string>
+  <string name="passport_change_account">Hesabı değiştir</string>
   <string name="passport_change_phone_number">Numaraları değiştir</string>
   <string name="passport_checking_account">Şifre denetleniyor…</string>
   <string name="passport_checking_input">Giriş denetleniyor…</string>
@@ -602,6 +626,7 @@ Hesabınızı etkinleştirmek için,
   <string name="passport_data_keep_in_device">Hücredeki verileri koru</string>
   <string name="passport_data_wipe_from_device">Telefondan verileri silin</string>
   <string name="passport_delete_account">Oturumu Kapat</string>
+  <string name="passport_downlink_reg">Telefon numarasın kullanarak hesap oluşturun</string>
   <string name="passport_dspt_provision">"Mi Hesabı kullanarak Mi Bulut, Mi Tema Mağazası gibi tüm içeriklere heryerden ulaşabilirsiniz. "</string>
   <string name="passport_dspt_provision2">Daha fazla bilgi</string>
   <string name="passport_email">E-Posta Adresi</string>
@@ -772,7 +797,7 @@ Hesabınızı etkinleştirmek için,
   <string name="press_to_continue_match">Devam etmek için hafifçe dokunun</string>
   <string name="press_to_match">Eşleştirmek için dokunun</string>
   <string name="prev_remote">Önceki kumanda</string>
-  <string name="privacy_content">"Xiaomi'nin "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Gizlilik Politikası&lt;/a&gt; ve &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Kullanıcı Sözleşmesi-ni&lt;/a&gt; kullanmadan önce okuyun. Uygulamanın normal çalışması için internet ve konum hizmetlerine erişmesi gerekir.</string>
+  <string name="privacy_content">"Xiaomi'nin "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Gizlilik Politikası ve &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Kullanıcı Sözleşmesini kullanmadan önce okuyun. Uygulamanın normal çalışması için internet ve konum hizmetlerine erişmesi gerekir.</string>
   <string name="privacy_nohit">"Tekrar gösterme"</string>
   <string name="privacy_title">Hükümler ve Koşullar</string>
   <string name="program_booking_book_filter_book_status">Rezervasyon Durumu</string>
@@ -833,6 +858,7 @@ Hesabınızı etkinleştirmek için,
   <string name="save_share_title">Bu cihazdaki kumandayı kaydet</string>
   <string name="scaning">Aranıyor…</string>
   <string name="scanning_milink">Cihazlar aranıyor…</string>
+  <string name="scene_default">Varsayılan</string>
   <string name="scene_name_frame">%1$s %2$s%3$s</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screen_shot_button_title">TV Ekranını Durdur</string>
@@ -983,7 +1009,7 @@ Hesabınızı etkinleştirmek için,
   <string name="supporting_soon">Yakında</string>
   <string name="swipe_loading">Yükleniyor...</string>
   <string name="switch_place">Şehri seç</string>
-  <string name="technical_support"/>
+  <string name="technical_support">Teknik Destek</string>
   <string name="temperature">Sıcaklık</string>
   <string name="temprature_frame">%1$d ℃</string>
   <string name="third_app_launch_failed">Uygulama başlatılamadı</string>
