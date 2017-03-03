@@ -1369,7 +1369,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="debug_networking_category">Ağ</string>
   <string name="debug_view_attributes">Görünüm özelliği incelemeyi etkinleştir</string>
   <string name="decline_remote_bugreport_action">Reddet</string>
-  <string name="defalut_launcher_title">'Varsayılan Başlatıcı</string>
+  <string name="defalut_launcher_title">Varsayılan Başlatıcı</string>
   <string name="default_app">(Varsayılan)</string>
   <string name="default_apps_title">Varsayılan Uygulamalar</string>
   <string name="default_assist_none">Yok</string>
@@ -2295,7 +2295,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="local_select_video">Videolar</string>
   <string name="locale_not_translated">Bazı uygulamalarda kullanılamayabilir</string>
   <string name="locale_remove_menu">Kaldır</string>
-  <string name="locale_settings">Bölge</string>
   <string name="location_access_off">Kapalı</string>
   <string name="location_access_on">Açık</string>
   <string name="location_access_summary">Uygulamalar konum bilgilerini alabilirsiniz</string>
@@ -3083,9 +3082,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="notifications_label">Bildirimler</string>
   <string name="notifications_priority">Öncelik</string>
   <string name="notifications_sensitive">Hassas içerik gizlendi</string>
-  <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-  <string name="notifications_two_items">%1$s / %2$s</string>
-  <string name="notifications_priority">"Rahatsız Etme'yi geçersiz kıl"</string>
   <string name="notifications_redacted">Hassas içerik kilit ekranında değil</string>
   <string name="notifications_silenced">Susturuldu</string>
   <string name="notifications_summary_divider"> / </string>
@@ -4228,7 +4224,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_virtual_sim">Sanal SIM Kart</string>
   <string name="search_vpn">VPN;Sanal Ağ Noktası Ekle</string>
   <string name="search_vpn_enable">Sanal Ağ Noktası (VPN)</string>
-  <string name="search_vpn_settings_title">VPN; VPN ekleyin; VPN'yi açın.</string>
+  <string name="search_vpn_settings_title">VPN; VPN ekleyin; VPN\'yi açın.</string>
   <string name="search_wakeup_for_keyguard_notification_title">Kilit ekranında bildirimlerde uyandır</string>
   <string name="search_wallpaper">Duvar Kağıdı</string>
   <string name="search_wifi">Wifi;WLAN;Gelişmiş Ayarlar,Kablosuz Ağlar</string>
@@ -4306,9 +4302,6 @@ Satın alma işlemlerine ve uygulama erişimine izin vermek için parmakizinizi 
   <string name="security_settings_fingerprint_enroll_introduction_message_warning">Not: Parmakizi güçlü bir desen ve PIN kodundan daha az güvenlidir.</string>
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Fazlasını öğren</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">PArmakizi ekle</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">"Telefonunuzun kilidini açmak, satın alma yetkisi vermek veya uygulamalarda oturum açmak için parmakizi sensörüne dokunmanız yeterlidir. Parmakizlerini eklemeye dikkat edin. Bunlardan herhangi birini ekleyebilen tek bir baskı bile yapılabilir.
-
-Not: Bazen parmakizi, desen ve PIN kodundan daha az güvenlik sunar.  "&lt;annotation id="url"&gt;Fazlası&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Parmakiziyle kilidi aç</string>
   <string name="security_settings_fingerprint_enroll_lift_touch_again">Sensöre dokunduktan sonra parmağı kaldır</string>
   <string name="security_settings_fingerprint_enroll_onboard_message">Ekran kilidini açmak veya ödemeyi yapmak için parmakizi kullanın, bunun için şuna ihtiyaç var:</string>
