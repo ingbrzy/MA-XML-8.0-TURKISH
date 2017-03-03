@@ -296,6 +296,7 @@
   <string name="callFailed_invalid_transit_NW_selection">Geçişli transit ağ seçimi</string>
   <string name="callFailed_limitExceeded">ACM limiti aşıldı</string>
   <string name="callFailed_message_not_compatible_with_protocol_state">Mesaj, protokol durumuyla uyumlu değil</string>
+  <string name="callFailed_message_not_compatible_with_protocol_state"/>
   <string name="callFailed_message_type_non_implemented">Mesaj türü yok veya uygulanmadı</string>
   <string name="callFailed_message_type_not_compatible_with_protocol_state">Mesaj tipi protokol durumuyla uyumlu değil</string>
   <string name="callFailed_network_out_of_order">Şebeke bozuk</string>
@@ -339,6 +340,7 @@
   <string name="callFailed_video_call_tty_enabled">TTY etkinleştirildiğinde görüntülü görüşmeleri yapılamıyor.</string>
   <string name="callUnanswered_forwarded">Cevapsız ve Yönlendirilen Çağrı</string>
   <string name="call_advanced_setting_title">Gelişmiş Ayarlar</string>
+  <string name="call_background_default">Varsayılan</string>
   <string name="call_background_lock_wallpaper">Kilit Ekran Duvar Kağıdı</string>
   <string name="call_background_setting">Çağrı Arkaplanı</string>
   <string name="call_barring">Çağrı engelli</string>
@@ -504,6 +506,8 @@
   <string name="cfu_title">Daima Çağrıları Yönlendir</string>
   <string name="change_cdma_capability_dialog" formatted="false">%s geçici olarak çalışmıyor. Eğer varsayılan çağrı, SMS veya Veri %s göre %s şeklinde değişecek.</string>
   <string name="change_data_preference_4g_only_prompt">Sadece 4G SIM Kartı var gibi gözüküyor. Varsayılan olarak ayarlansın mı?</string>
+  <string name="change_default_data_card">Varsayılan mobil veri SIM kartı</string>
+  <string name="change_default_data_card_summary">SIM kartları değiştirmişsiniz gibi görünüyor. Bu kartı, mobil veri bağlantınız için varsayılan SIM olarak ayarlamak ister misiniz?</string>
   <string name="change_num">Güncelle</string>
   <string name="change_password">Engelleme şifresini değiştir</string>
   <string name="change_pin">SIM PIN kodunu değiştir</string>
@@ -519,6 +523,7 @@
   <string name="cipher_indication_notification_message">Ses şifreleme ağ tarafından kapalı</string>
   <string name="cipher_indication_notification_title">Ses şifreleme yok</string>
   <string name="clir_choices_hide_number">Numarayı Gizle</string>
+  <string name="clir_choices_network_default">Ağ Varsayılanı</string>
   <string name="clir_choices_show_number">Numarayı Göster</string>
   <string name="close">Kapat</string>
   <string name="close_dialog">Tamam</string>
@@ -548,6 +553,7 @@
   <string name="connect_disconnect_vibrate_title">Aramanız Yanıtlandığında Titret</string>
   <string name="connect_disconnect_vibrate_weak">Bağlantı Kesildiğinde Hafifçe Titret</string>
   <string name="connect_later">"Şu anda bu ağa bağlanılamıyor. Daha sonra tekrar deneyin."</string>
+  <string name="connection_service_default_label">Dahili bağlantı servisi</string>
   <string name="connected_via_passpoint">%1$s yoluyla bağlandı</string>
   <string name="connected_via_wfa">Wi-Fi Yardımcısı sayesinde bağlandı</string>
   <string name="contactAddFailed">"SIM karta kişi eklenemedi"</string>
@@ -560,6 +566,8 @@
   <string name="contactdeleteSuccess">SIM karttaki kişi silindi.</string>
   <string name="corporate_unlock_failed">SIM Kurumsal kilidi açılamadı.</string>
   <string name="corporate_unlock_success">"Hesap oluşturulamadı, yeniden denensin mi?"</string>
+  <string name="crescendo_ringer_summary">Zil sesi seviyesi kademeli olarak belirlediğiniz seviyeye yükselecektir</string>
+  <string name="crescendo_ringer_title">Zil Sesi Seviyesinin Arttır</string>
   <string name="convert_to_fbe_warning">"Veri bölümünü dosya tabanlı şifrelemeye dönüştürün.
  !!Uyarı!! Bu, tüm verilerinizi silecektir.
  Bu özellik Alfa olup doğru çalışmayabilir.
@@ -581,6 +589,9 @@
   <string name="data_usage_uninstalled_apps">Kaldırılan Uygulamalar</string>
   <string name="data_usage_uninstalled_apps_users">Kaldırılan Uygulamalar ve Kullanıcılar</string>
   <string name="deactivate_all">Tümünü İptal</string>
+  <string name="default_notification_description">Varsayılan Ses (%1$s)</string>
+  <string name="default_preference_summary">Ayar yok</string>
+  <string name="default_transport">UDP</string>
   <string name="debug_app">Hata ayıklama uygulamasını seçin</string>
   <string name="debug_app_not_set">Hata ayıklama uygulaması ayarlanmadı</string>
   <string name="debug_app_set">Hata ayıklama uygulaması: %1$s</string>
@@ -668,6 +679,7 @@
   <string name="dialpad_mno">MNO</string>
   <string name="dialpad_nine">9</string>
   <string name="dialpad_one">1</string>
+  <string name="dialpad_pound_labels"/>
   <string name="dialpad_pound_letters"/>
   <string name="dialpad_pound_number">\#</string>
   <string name="dialpad_pqrs">PQRS</string>
@@ -681,8 +693,8 @@
   <string name="dialpad_two">2</string>
   <string name="dialpad_wxyz">WXYZ</string>
   <string name="dialpad_zero">0</string>
-  <string name="disable">Devre Dışı</string>
-  <string name="disable_all_cf">Tüm çağrı yönlendirme özellikleri devre dışı</string>
+  <string name="disable">Kapalı</string>
+  <string name="disable_all_cf">Tüm çağrı yönlendirme özellikleri kapalı</string>
   <string name="disable_cfb_forbidden">"Operatörünüz telefonunuz meşgul olduğunda çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor."</string>
   <string name="disable_cfnrc_forbidden">"Operatörünüz telefonunuz ulaşılamadığında çağrı yönlendirmenin devre dışı bırakılmasını desteklemiyor."</string>
   <string name="disable_cfnry_forbidden">"Operatörünüz cevapsız çağrıları yönlendirmeyi kapatmayı desteklemiyor."</string>
@@ -1504,6 +1516,7 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="preference_category_ringtone">Zil Sesi &amp; Titreşim</string>
   <string name="preference_data_usage_summary">Mobil veri kullanımını kontrol etmek için veri miktarını ayarlayın</string>
   <string name="preference_data_usage_title">Veri Planını Ayarla</string>
+  <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
   <string name="preference_dial_pad_touch_tone_off">Kapalı</string>
   <string name="preference_dial_pad_touch_tone_piano">Piyano Tuşları</string>
   <string name="preference_dial_pad_touch_tone_title">Tuşa Dokunma Tonları</string>
@@ -1699,6 +1712,7 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="respond_via_sms_cannot_empty">Reddetme mesjları boş olmaz</string>
   <string name="respond_via_sms_confirmation_format">%s mesaj gönderildi.</string>
   <string name="respond_via_sms_edittext_dialog_title">Hızlı Cevap</string>
+  <string name="respond_via_sms_menu_reset_default_activity">Varsayılanı Yükle</string>
   <string name="respond_via_sms_setting_summary">Hızlı cevapları yeniden düzenle</string>
   <string name="respond_via_sms_setting_title">Hızlı Cevaplar</string>
   <string name="response_error">Ağdan beklenmeyen yanıt.</string>
@@ -1875,7 +1889,8 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="sum_cfu_enabled_indicator">Tüm aramalar yönlendiriliyor</string>
   <string name="sum_cfu_enabled_no_number">Numara kullanılamıyor</string>
   <string name="sum_cw_disabled">Bir arama esnasında, gelen çağrıları bana bildir</string>
-  <string name="sum_cw_enabled">Bir arama esnasında, gelen çağrıları bana bildir</string>
+  <string name="sum_cw_enabled">Görüşme esnasında gelen çarıları bildir</string>
+  <string name="sum_default_caller_id">Giden aramalarda numaramı görüntülemek için varsayılan operatör ayarlarını kullan</string>
   <string name="sum_fdn">Sabit Arama Numaraları Yönet</string>
   <string name="sum_fdn_change_pin">Sabit Arama Numarası erişimi için PIN kodunu değiştir</string>
   <string name="sum_fdn_manage_list">Telefon numara listesini yönet</string>
@@ -2050,6 +2065,7 @@ Bu sorun devam ederse lütfen operatörünüze başvurun."</string>
   <string name="voice_report_unknown_num">Bilimmeyen numara</string>
   <string name="voicemail">Sesli mesaj</string>
   <string name="voicemail_abbreviated">VM:</string>
+  <string name="voicemail_default">Operatörünüz</string>
   <string name="voicemail_lable">Sesli Mesaj (%s)</string>
   <string name="voicemail_notification_ringtone_key">voicemail_notification_ringtone_key</string>
   <string name="voicemail_notification_ringtone_title">Zil Sesi</string>
