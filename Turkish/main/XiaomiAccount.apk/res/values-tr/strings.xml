@@ -241,7 +241,11 @@
   <string name="notify_network_restricted_content_bg_network">"Mi Hesabının internet erişimi kısıtlandı. Dokunup izin verin."</string>
   <string name="notify_network_restricted_content_hidden_state">"Mi Hesabının arkaplan etkinliği kısıtlandı. Dokunup izin verin."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Hesabının internet erişimi kısıtlandı. Dokunup izin verin."</string>
-  <string name="notify_network_restricted_title">"Mi Hesabı internete bağlanamadı"</string>
+  <string name="notify_network_restricted_title">"Mi Hesabı ağa bağlanamadı"</string>
+  <string name="oauth_get_scopes_failed">"Hesap bilgisi alınamadı"</string>
+  <string name="oauth_getting_scopes">Verifying account…</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; şu izinleri istiyor:&lt;br&gt; &lt;br&gt; %3$s</string>
+  <string name="oauth_title">Mi Hesabıyla oturum aç</string>
   <string name="other_devices">Diğer Cihazlar</string>
   <string name="other_devices_title">Diğer cihazlar</string>
   <string name="passport_access_denied">Erişim engellendi</string>
@@ -259,6 +263,7 @@
   <string name="passport_auto_generate_pwd">Güvenli bir şifre oluşturun</string>
   <string name="passport_back">Geri</string>
   <string name="passport_bad_authentication">Kullanıcı adı veya şifre hatalı</string>
+  <string name="passport_barcode_add_account_prompt">Bir hesaba bağlamak için, oturum açtıktan sonra QR kodunu tekrar tarayın.</string>
   <string name="passport_btn_return">Geri</string>
   <string name="passport_button_cancel">İptal</string>
   <string name="passport_captcha">Kodu Girin</string>
@@ -271,7 +276,7 @@
 
 Hesabınızı etkinleştirmek için, aşağıdaki
  gelen kutunuza gönderilen bağlantıyı takip edin."</string>
-  <string name="passport_completed">Bitti</string>
+  <string name="passport_completed">Tamam</string>
   <string name="passport_confirm">Tamam</string>
   <string name="passport_confirm_recycle_account">Evet</string>
   <string name="passport_copy_message_text_success">Başarıyla kopyalandı</string>
@@ -438,9 +443,10 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="phone_unactivated">Etkinleştirilmedi</string>
   <string name="phone_unknown">Bilinmeyen</string>
   <string name="photoPickerNotFoundText">Resim bulunamadı.</string>
-  <string name="push_notification_content">Tıklayın ve doğrulama kodunu alın</string>
-  <string name="push_notification_title">Mi Hesabınızla bilinmeyen bir cihazda oturum açtınız</string>
-  <string name="push_notify_dialog_title">Giriş Güvenliği Doğrulaması</string>
+  <string name="push_notification_content">Doğrulama kodunu al</string>
+  <string name="push_notification_title">Bilinmeyen bir cihazda, Mi hesabınızla oturum açtınız.</string>
+  <string name="push_notify_dialog_message">"Bilinmeyen bir cihazda, Mi Hesabınızla oturum açmak için kullanılır. Bu doğrulama kodunu cihaza girin. Eğer siz o değilseniz, Mi Hesap şifrenizi hemen değiştirin. Doğrulama kodunu başkalarına açıklamayın."</string>
+  <string name="push_notify_dialog_title">Hesap Doğrulaması</string>
   <string name="prev">Geri</string>
   <string name="privacy_policy">Veri Koruması</string>
   <string name="provision_skip_login">Bu adımı atla</string>
