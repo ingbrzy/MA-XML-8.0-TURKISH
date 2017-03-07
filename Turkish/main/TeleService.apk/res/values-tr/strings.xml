@@ -1850,10 +1850,10 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="sip_menu_add">Add</string>
   <string name="sip_menu_discard">Terket</string>
   <string name="sip_menu_save">Kaydet</string>
-  <string name="sip_profile_create_error">Yeni SIP profili oluşturulamıyor</string>
+  <string name="sip_profile_create_error">Yeni bir SIP profili oluşturulamadı</string>
   <string name="sip_receive_calls">Gelen çağrıları al</string>
   <string name="sip_receive_calls_summary">Pil tüketimini arttırır</string>
-  <string name="sip_save_register_error">Kaydedilemiyor ve yeni SIP profili saklanamıyor</string>
+  <string name="sip_save_register_error">Yeni bir SIP profili kaydedilemedi</string>
   <string name="sip_settings">İnternet Çağrısı</string>
   <string name="sip_system_decide">Otomatik</string>
   <string name="slot">Yuva</string>
