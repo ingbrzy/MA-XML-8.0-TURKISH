@@ -34,6 +34,7 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Bilinmeyen numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
+  <string name="areacode_set_default">Varsayılan olarak ayarla</string>
   <string name="apn_settings">Erişim Noktasının Adları</string>
   <string name="associate_sim_missing_message"> %1$s SIM mevcut değil. %2$s aracılığıyla aranmayı ister misiniz?</string>
   <string name="associate_sim_missing_other">Diğer</string>
@@ -193,7 +194,7 @@
   <string name="conference_call_single_description" formatted="false">%s vb. toplam %s</string>
   <string name="conference_caller_info_name">"%1$s\'nin konferans çağrısı"</string>
   <string name="conference_caller_name_me">Ben</string>
-  <string name="conference_callers_exceeded">Arayanlar konferanstaki sınırı aştı</string>
+  <string name="conference_callers_exceeded">Daha fazla kişi eklenemez</string>
   <string name="conference_member_add_fail">%s eklenemedi.</string>
   <string name="conference_member_adding">%s ekleniyor...</string>
   <string name="conference_member_join">%s konferansa katıldı.</string>
@@ -209,6 +210,7 @@
   <string name="connect_later">"Şimdi ağa bağlanamadı. Sonra tekrar deneyin."</string>
   <string name="contactPhoto">Kişi Resmi</string>
   <string name="contacts_icon_label">Kişiler</string>
+  <string name="default_area_code_setting">Varsayılan alan kodu</string>
   <string name="copy_email">E-Posta adresini kopyala</string>
   <string name="copy_number">Telefon numarasını kopyala</string>
   <string name="custom_message_cancel">İptal</string>
@@ -531,6 +533,7 @@ koşulsuz etkinleştirildi"</string>
   <string name="modify_call_option_vt_tx">Video aktarımı</string>
   <string name="modify_call_prompt_no">Hayır</string>
   <string name="modify_call_prompt_yes">Evet</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="more_string">+%1$s</string>
   <string name="mt_code_additional_call_forwarded">Ek gelen çağrı yönlendirildi</string>
   <string name="mt_code_call_connected_ect">Çağrı aktarma aktif</string>
