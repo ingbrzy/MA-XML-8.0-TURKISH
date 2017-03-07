@@ -94,7 +94,7 @@
   <string name="hourly_forecast_title">Saatlik Tahmin</string>
   <string name="index_item_install_now">Şimdi yükle</string>
   <string name="indices_desc_Precip1hr">%1$smm</string>
-  <string name="indices_desc_feel">Hissedilen Sıcaklık: %1$s C°</string>
+  <string name="indices_desc_feel">Hissedilen: %1$s C°</string>
   <string name="indices_desc_feel_without_pic">%1$s C°</string>
   <string name="indices_desc_humidity">Nem: %%%1$s</string>
   <string name="indices_desc_humidity_without_pic">%%%1$s</string>
@@ -112,12 +112,13 @@
   <string name="indices_title_sport">Spor</string>
   <string name="indices_title_uv">UV İndeksi</string>
   <string name="indices_title_visibility">Görüş Mesafesi</string>
+  <string name="information_manager_default_weather_bg">Varsayılan Hava Durumu Arkaplanı</string>
   <string name="information_manager_extension">Hava Durumu Eklentisi</string>
   <string name="information_manager">WLAN ağına bağlanınca değiştir</string>
   <string name="information_manager_information">Hava Durumu Bilgisi</string>
   <string name="information_manager_wlan">WLAN bağlandığında göster</string>
   <string name="information_menu_title"/>
-  <string name="information_set">Başlangıç Sayfasının Ayarları</string>
+  <string name="information_set">Diğer Ayarlar</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Kurulum</string>
@@ -151,6 +152,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="realtime_aqi_title">Hava Kalite İndeksi</string>
   <string name="realtime_humidity_title">Bağıl Nem</string>
   <string name="realtime_temperature_no_data">Yok</string>
+  <string name="realtime_wind_default_title">Rüzgar</string>
   <string name="refresh_fail">"Ağa bağlanamadı"</string>
   <string name="retry">Tekrar deneyin</string>
   <string name="search_weather">Hava Durumu</string>
