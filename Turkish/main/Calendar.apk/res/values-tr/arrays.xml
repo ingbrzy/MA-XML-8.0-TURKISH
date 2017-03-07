@@ -1,21 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <integer-array name="reminder_minutes_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <integer-array name="allday_reminder_minutes_values">
+        <item>0</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>4320</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_values">
+        <item>-1</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="timezone_labels">
-        <item>Marshall Islands</item>
-        <item>Midway Island</item>
+        <item>Marshall Adaları</item>
+        <item>Midway Adası</item>
         <item>Hawaii</item>
         <item>Alaska</item>
-        <item>Pacific Time</item>
+        <item>Pasifik Zamanı</item>
         <item>Tijuana</item>
         <item>Arizona</item>
         <item>Chihuahua</item>
-        <item>Mountain Time</item>
-        <item>Central America</item>
-        <item>Central Time</item>
-        <item>Mexico City</item>
+        <item>Mountain Zamanı</item>
+        <item>Orta Amerika</item>
+        <item>Merkez Zamanı</item>
+        <item>Meksika City</item>
         <item>Saskatchewan</item>
         <item>Bogota</item>
-        <item>Eastern Time</item>
+        <item>Ortadoğu Zamanı</item>
         <item>Venezuela</item>
         <item>Atlantic Time (Barbados)</item>
         <item>Atlantic Time (Canada)</item>
@@ -37,21 +72,21 @@
         <item>Sarajevo</item>
         <item>Windhoek</item>
         <item>W. Africa Time</item>
-        <item>Amman, Jordan</item>
-        <item>Athens, Istanbul</item>
-        <item>Beirut, Lebanon</item>
-        <item>Cairo</item>
+        <item>Amman, Ürdün</item>
+        <item>Atina, Istanbul</item>
+        <item>Beyrut, Lübnan</item>
+        <item>Kahire</item>
         <item>Helsinki</item>
-        <item>Jerusalem</item>
+        <item>Küdüs</item>
         <item>Minsk</item>
         <item>Harare</item>
-        <item>Baghdad</item>
-        <item>Moscow</item>
-        <item>Kuwait</item>
+        <item>Bağdat</item>
+        <item>Moskava</item>
+        <item>Kuveyt</item>
         <item>Nairobi</item>
-        <item>Tehran</item>
-        <item>Baku</item>
-        <item>Tbilisi</item>
+        <item>Tahran</item>
+        <item>Bakü</item>
+        <item>Tiflis</item>
         <item>Yerevan</item>
         <item>Dubai</item>
         <item>Kabul</item>
@@ -144,6 +179,11 @@
         <item>Bu ve gelecek faaliyetlerde</item>
         <item>Tüm faaliyetlerde</item>
     </string-array>
+    <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
     <string-array name="change_response_labels">
         <item>Sadece bu faaliyette</item>
         <item>Tüm faaliyetler esnasında</item>
@@ -152,6 +192,10 @@
         <item>Erkek</item>
         <item>Kadın</item>
     </string-array>
+    <integer-array name="fortune_gender_values">
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
     <string-array name="summary_card_text_chain">
         <item>【Kanala Abone Ol】Hizmetler veya takvim özelliklerine abone et</item>
         <item>【Abone】Takvimi isteğinize göre özelleştirin</item>
@@ -184,7 +228,7 @@
         <item>1 hafta önce</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Varsayılan Bölge</item>
+        <item>Varsayılan Konum</item>
         <item>Cumartesi</item>
         <item>Pazar</item>
         <item>Pazartesi</item>
@@ -201,6 +245,13 @@
         <item>6 saat önce</item>
         <item>1 gün önce</item>
     </string-array>
+    <integer-array name="travel_reminder_minutes_values">
+        <item>180</item>
+        <item>240</item>
+        <item>300</item>
+        <item>360</item>
+        <item>1440</item>
+    </integer-array>
     <string-array name="repeat_frequency_spinner">
         <item>gün</item>
         <item>hafta</item>
