@@ -361,15 +361,15 @@
   <string name="file_not_found">"Dosya yok"</string>
   <string name="filter_by_duration">Süreye göre</string>
   <string name="filter_by_duration_format">%2$ddak %5$2dsan</string>
-  <string name="filter_by_duration_max">5 dak</string>
-  <string name="filter_by_duration_min">0 san</string>
+  <string name="filter_by_duration_max">%d dak</string>
+  <string name="filter_by_duration_min">%d san</string>
   <string name="filter_by_duration_prefix">"Daha kısa dosyaları gizle "</string>
   <string name="filter_by_duration_summary">"Kısa ses dosyaları gösterilmez"</string>
   <string name="filter_by_folder">Klasöre göre</string>
   <string name="filter_by_folder_summary">Gösterilecek klasörü seçin</string>
   <string name="filter_by_size">Boyuta göre</string>
-  <string name="filter_by_size_max">2 MB</string>
-  <string name="filter_by_size_min">0KB</string>
+  <string name="filter_by_size_max">%dMB</string>
+  <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">"Kısa dosyaları gizle "</string>
   <string name="filter_by_size_summary">Kısa ses dosyaları gizle</string>
   <string name="find_music">Yeni şarkılar keşfet</string>
@@ -484,7 +484,7 @@
   <string name="lyric_setting">Şarkı Sözü Ayarları</string>
   <string name="male_artist">Erkek Sanatçılar</string>
   <string name="manager_cloud_space">Mi Bulut Depolamasını Yönet</string>
-  <string name="max_sleep_time">90</string>
+  <string name="max_sleep_time">%d</string>
   <string name="media_filter">Medya</string>
   <string name="menu_all_task_pause">Tümünü Durdur</string>
   <string name="menu_all_task_start">Tümünü Başlat</string>
@@ -507,7 +507,7 @@
   <string name="metered_serious_alert_msg_with_data">Sadece %s mobil veri kaldı. Şarkıları dinlemek için mobil veri kullanılsın mı?</string>
   <string name="metered_serious_allow">Yine de oynat</string>
   <string name="milink_unavaliable_please_update">Mi bağlantı işlevi kullanılamaz. MIUI sistemini güncellemek gerekir.</string>
-  <string name="min_sleep_time">1</string>
+  <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Bilinmiyor&gt;</string>
   <string name="miui_music">Mi Müzik</string>
   <string name="miuishare_account_activate_confirmation">Ettinleştirme gerekiyor</string>
