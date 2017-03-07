@@ -231,6 +231,12 @@
         <item>Çıkartılabilir SD Kart</item>
         <item>Sistem karar versin</item>
     </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Yok</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
     <string-array name="app_ops_permissions">
         <item>İzin ver</item>
         <item>Yoksayılan</item>
@@ -499,7 +505,7 @@
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Kapat</item>
-        <item>Overdraw alanları göster</item>
+        <item>Taşma alanlarını göster</item>
         <item>Renk körlüğüne uygun alanları göster</item>
     </string-array>
     <string-array name="app_process_limit_entries">
@@ -547,6 +553,11 @@
         <item>Düşük</item>
         <item>Kritik</item>
         <item>\?</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Sor</item>
+        <item>Asla izin verme</item>
+        <item>Daima izin ver</item>
     </string-array>
     <string-array name="entries_zen_mode">
         <item>Kapat</item>
@@ -597,6 +608,10 @@
         <item>Daima sor</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Tercihen WLAN</item>
+        <item>Tercihen Hücresel</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
         <item>Tercihen WLAN</item>
         <item>Tercihen Hücresel</item>
     </string-array>
@@ -893,6 +908,15 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>XXL</item>
         <item>XXXL</item>
     </string-array>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Limitsiz</item>
+    </string-array>
     <string-array name="common_password_business_names">
         <item>Kilit Ekran</item>
         <item>Gizlilik Şifresi</item>
@@ -923,20 +947,20 @@ Not: Sadece Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="privacy_password_function_specfication_names">
         <item>Mesajlar</item>
-        <item>Fotoğraf</item>
+        <item>Resimler</item>
         <item>Dosyalar</item>
         <item>Notlar</item>
         <item>Çocuk Modu</item>
     </string-array>
     <string-array name="standard_configuration_version">
         <item>3.00GB</item>
-        <item>32GB</item>
+        <item>16GB</item>
         <item>Dört Çekirdekli 1.8GHz</item>
     </string-array>
     <string-array name="high_configuration_version">
         <item>3.00GB</item>
         <item>64GB</item>
-        <item>Dört Çekirdekli 2.15GHz</item>
+        <item>On Çekirdekli 2.1GHz</item>
     </string-array>
     <string-array name="enjoy_version">
         <item>3.00GB</item>
