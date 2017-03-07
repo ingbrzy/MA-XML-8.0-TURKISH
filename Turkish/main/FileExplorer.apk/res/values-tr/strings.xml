@@ -127,7 +127,11 @@
   <string name="close">Kapat</string>
   <string name="comment_delete_message">Bu yorum hemen silinecek.</string>
   <string name="comment_delete_title">Yorumu sil</string>
-  <string name="comment_hint">Yorum ekle</string>
+  <string name="comment_fail">"Yorum yayımlanamadı, tekrar deneyin"</string>
+  <string name="comment_fail_banned_forever">"Uygunsuz yorumlar için kalıcı olarak yasaklandınız. Daha fazla bilgi için QQ grubumuz olan (374463568) başvurun."</string>
+  <string name="comment_fail_banned_forever_positive">Anladım</string>
+  <string name="comment_fail_banned_temporary">"Uygunsuz yorumlar nedeniyle geçici olarak yasaklandınız"</string>
+   <string name="comment_hint">Yorum ekle</string>
   <string name="comment_reply">Cevapla: %1$s: </string>
   <string name="compress_fail">"Sıkıştırılamıyor. Aynı isimde bir dosya zaten var."</string>
   <string name="compress_fail_unknown">"Sıkıştırılamıyor. Depolama dolu veya bilinmeyen bir hata oluştu."</string>
