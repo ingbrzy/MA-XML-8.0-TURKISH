@@ -64,7 +64,7 @@
         <item quantity="one">gün</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">gün sonra</item>
-        <item quantity="one">gün sonra</item>
+        <item quantity="other">gün kaldı</item>
+        <item quantity="one">gün kaldı</item>
     </plurals>
 </resources>
