@@ -31,6 +31,7 @@
   <string name="configure_input_methods">Klavyeyi Seç</string>
   <string name="copy">Kopyala</string>
   <string name="cut">Kes</string>
+  <string name="default_name">Varsayılan</string>
   <string name="enable_livetalk_summary">Arama ücretlerinden %70 tasarruf edin</string>
   <string name="enable_livetalk_title">Kontör paketini aç</string>
   <string name="fc_dialog_body">Analiz için Mi\'ye hata raporu gönderilsin mi? Bu rapor Şahsi İçerikli Bilgiler içerebilir. Raporunuz bu hatayı düzeltmeye yardımcı olmak için kullanılacak ve herhangi bir ticari bağlamda asla paylaşılmayacak.</string>
@@ -41,10 +42,10 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="fm_record_smaple_prefix_miui">FM Kaydı</string>
   <string name="force_exit_message">%1$s zorla kapatıldı!</string>
   <string name="force_exit_skip_message">"%1$s sistem uygulaması olduğu için kapatılamaz!"</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Ana Sayfa düğmesine basarak Ana Ekrana geri gidebilirsiniz. Bunu hafifçe dokunarak seçebilirsiniz. Ana Ekran düğmesini özelleştirmek için Ayarlar &gt; Ek Ayarlar &gt; Tuşlar bölümünden bunu yapabilirsiniz.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Ana Sayfa düğmesine basarak Ana Ekrana geri gidebilirsiniz. Bu özellikle Ana Ekrana dönmek için Ayarlar> Ek Ayarlar> Düğmeler> Ana Ekran düğmesine dokunun.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Şimdi değil</string>
-  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ayarlara git</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Ana Ekrana hızlıca dokunun</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Aç</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Hızlıca dokunup aç</string>
   <string name="frequent_phrases">Sık Kullanılanlar</string>
   <string name="global_actions_airplane_mode">Uçak Modu</string>
   <string name="global_actions_reboot">Yeniden Başlat</string>
@@ -170,7 +171,8 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
-  <string name="translation_more">Fazlası</string>
+  <string name="subinfo_default_name">SIM %d</string>
+  <string name="translation_more">Diğer</string>
   <string name="translation_query_error">"Sonuç bulunamadı"</string>
   <string name="translation_query_error_network">"Ağa bağlanamadı. Ayarları kontrol edin ve tekrar edin"</string>
   <string name="turn_off">Kapalı</string>
