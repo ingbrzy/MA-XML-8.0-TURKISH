@@ -20,6 +20,10 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Uygulama Kilidinin şifresini girin</string>
   <string name="access_control_recording_intro_header">Uygulama Kilidi eklemek için deseni çizin</string>
   <string name="access_control_reset_by_account">Uygulama Kilidini sıfırlamak için Mi Hesabınızda oturum açın</string>
+  <string name="accessibility_service_description">"开启此功能，即可进行QQ群红包提醒。
+提示：小米红包助手不会通过辅助功能收集用户任何隐私，请放心开启！"</string>
+  <string name="action_button_text_100">İyi hale getir</string>
+  <string name="action_button_text_60">Onar</string>
   <string name="action_button_text_100">İyi hale getir</string>
   <string name="action_button_text_60">Onar</string>
   <string name="action_button_text_60_80">Onar</string>
@@ -33,7 +37,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="activity_title_cache">Önbellek</string>
   <string name="activity_title_cache_data">Önbellek</string>
   <string name="activity_title_create_shortcut">Kısayolları yönet</string>
-  <string name="activity_title_deep_clean">Gelişmiş Temizlik</string>
+  <string name="activity_title_default_apps_manager">Varsayılan Uygulamalar</string>
+  <string name="activity_title_deep_clean">Derin Temizlik</string>
   <string name="activity_title_garbage_cleanup">Temizleyici</string>
   <string name="activity_title_large_file">Dosyalar</string>
   <string name="activity_title_license_manager">İzinler</string>
@@ -79,6 +84,10 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="adjust_traffic_carrier_summary_yesterday">%s dün güncellendi</string>
   <string name="adjust_traffic_data">Veri Kullanım Ayarı</string>
   <string name="after_the_lock_screen">"Uygulama ekran ile birlikte kilitlendi, değiştirmek için Uygulama Kilit Ayarlarını kulanın."</string>
+  <string name="alarm_headsup_bottom">小米手机抢红包就是快</string>
+  <string name="alarm_lock_screen_summary">一大波红包雨在路上...</string>
+  <string name="alarm_lockscreen_btn">开始抢红包</string>
+  <string name="alarm_setting_title">红包闹钟设置</string>
   <string name="antivirus_choose_engine">%s tanımlaması</string>
   <string name="antivirus_choose_engine_dialog_title">Tanımları seçin</string>
   <string name="antivirus_choose_engine_disable_toast">"Tarama işlemi devam ederken tanımlar arasında geçiş yapamazsınız"</string>
@@ -103,7 +112,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="antivirus_sec_support">%s tarafından güçlendirildi</string>
   <string name="antivirus_update_db">%s</string>
   <string name="apn_exception_summary">"Operatörün Erişim Noktası Yapılandırmasını Test Et"</string>
-  <string name="apn_exception_title">ENA Yapılandırmasını Denetle</string>
+  <string name="apn_exception_title">APN Yapılandırmasını Denetle</string>
+  <string name="app_alarm_title">%s红包活动</string>
   <string name="app_check_no_issue">Pilde herhangi bir sorun gözükmüyor. Harika!</string>
   <string name="app_check_optimize_title">Arkaplan aktivitelerini iyi hale getir</string>
   <string name="app_check_reason_background_cpu">CPU Arkaplan Aktiviteleri</string>
@@ -121,11 +131,16 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="app_name_na">Veri Kullanımı</string>
   <string name="app_name_securitycenter">Güvenlik</string>
   <string name="app_not_installed_toast">"Uygulama telefonunuzda yüklü değil."</string>
+  <string name="app_right">小米公司官方出品</string>
+  <string name="app_summary">"微信/QQ/米聊抢红包神器
+支持个人红包与群红包
+春节红包活动，不错过每一个红包"</string>
   <string name="app_version">Sürüm</string>
   <string name="app_wifi">WLAN</string>
   <string name="apps_item_sign_dialog_content">\"%s\"imzası Uygulama Mağazasındakinden farklı. Bu uygulama silinsin ve resmi sürümü yüklensin mi? Not: İmzası farklı uygulamalar veri kaybına neden olabilir.</string>
   <string name="apps_item_sign_dialog_title">Resmi Uygulama Sürümünü Yükle</string>
   <string name="apps_item_sign_install_button_text">Değiştir</string>
+  <string name="apps_item_sms_default_set_success">Başarıyla ayarlandı</string>
   <string name="apps_item_sms_reset_button_text">Varsayılanları yükle</string>
   <string name="apps_item_sms_title">Varsayılan Mesaj Ayarları</string>
   <string name="apps_item_summary_sms">%s, mesajlarınıza erişiyor, bu güvenlik problemine neden olabilir</string>
@@ -246,6 +261,10 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="battery_status_unknown">Bilinmeyen hata</string>
   <string name="battery_temperature_title">Sıcaklık</string>
   <string name="begin_date">Kullanım sıfırlama tarihi</string>
+  <string name="best_warning_dialog_button">我知道了</string>
+  <string name="best_warning_dialog_message">"温馨提示：使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～"</string>
+  <string name="best_warning_dialog_message1">"使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～"</string>
+  <string name="best_warning_dialog_title">温馨提示</string>
   <string name="bind_xiaomi_account_cancel">İptal</string>
   <string name="bind_xiaomi_account_confirm">Ekle</string>
   <string name="bind_xiaomi_account_dialog_summery">"Mi Hesabı %s eklemek üzeresiniz. Eğer şifrenizi unutursanız, sıfırlamak için bu hesabı kullanabilirsiniz. Oturum kapatılınca, otomatik olarak hesap kaldırılır."</string>
@@ -621,6 +640,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="hints_virus_app_list_item_summary">Uygulama</string>
   <string name="hints_virus_app_summary">%s (uygulama)</string>
   <string name="hints_virus_descx_title">Açıklama:</string>
+  <string name="hints_virus_lib_update_default_summary">Son güncelleme zamanı bilinmiyor</string>
   <string name="hints_virus_name_title">Virüs:</string>
   <string name="hints_virus_scan_result_descx">"Bu uygulama telefonunuzun güvenliği için önemli bir risk oluşturuyor."</string>
   <string name="history_details_title">Geçmiş Detaylar</string>
@@ -678,6 +698,8 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="last_check_date_yesterday">"Dün taranılan:  "</string>
   <string name="last_check_never_checked">Şimdi tara</string>
   <string name="last_checked_date2">%d gün önce tarandı</string>
+  <string name="last_checked_default">%s gün önce tarandı</string>
+  <string name="later">Daha sonra işlenecek</string>
   <string name="left_precent">%60</string>
   <string name="legal_workday">Tatil</string>
   <string name="legal_workday_invalidate">Ptesi-Cuma (Tatil bilgisi geçti)</string>
@@ -696,6 +718,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="lock_screen_warning_category">Kilit ekran bildirimleri</string>
   <string name="lock_screen_warning_switch_summary">Veri kullanımı belirlenen miktarı aştığında Kilit ekranında uyarı göster</string>
   <string name="lock_screen_warning_switch_title">Uyarıları Kilit Ekranında Göster</string>
+  <string name="lock_screen_warning_value">Veri Kullanım Uyarısı</string>
   <string name="lock_settings_title">Kilit Ekranı ve Şifre</string>
   <string name="lockpassword_confirm_your_password_header">Şifreyi Doğrula</string>
   <string name="lockpassword_confirm_your_pattern_header">Deseni Doğrula</string>
@@ -821,7 +844,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="modify_password_info">Desen kilidini aç</string>
   <string name="modifypassword">Şifreyi değiştir</string>
   <string name="monitor_requests_from_pc">USB üzerinden uygulamaların yüklenmesini yönet</string>
-  <string name="month_report_month_report_switch">Aylık rapor göster</string>
+  <string name="month_report_month_report_switch">Aylık raporu göster</string>
   <string name="msg_update_error_code_success">Tamam</string>
   <string name="msg_update_up">Gizle</string>
   <string name="network_assistant_upgraded_body">Ayrıntılarını görüntülemek için dokunun.</string>
@@ -946,7 +969,10 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="optimize_result_button_to_set">Ayarla</string>
   <string name="optimize_result_button_update_now">Güncelle</string>
   <string name="optimize_result_summary_sucurity_risk">Bazı güvenlik özellikleri kapalı. Cihazı daha güvenli hale getirmek için bazı güvenlik seçeneklerini açmalısınız:</string>
+  <string name="optimize_result_summary_system_default_settings">"Varsayılan MIUI uygulamalarını kullanmak, sistemin kararlılığını ve güvenliğini artırır."</string>
   <string name="optimize_result_title_sucurity_risk">Güvenlik riski bulundu</string>
+  <string name="optimize_result_title_system_default_settings">Varsayılan ayarlar değiştirildi</string>
+  <string name="optimize_result_toast_system_default_settings">Varsayılan ayarlar geri yüklendi</string>
   <string name="optimize_result_toast_system_no_item_selected">Seçili öğe yok</string>
   <string name="optmizingbar_optimize_done">İyi hale getirildi</string>
   <string name="optmizingbar_ready">İyi hale getiriliyor…</string>
@@ -1011,7 +1037,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="permission_with_SMS_and_MMS">SMS ve MMS ile ilgili izinler</string>
   <string name="permission_with_call_and_contact">Telefon görüşmeleri, kişi bilgileri ve çağrı günlükleri ile ilgili izinler.</string>
   <string name="permit_running_network">Arkaplan verisi</string>
-  <string name="person_hotpot">Mobil Net Paylaşımı</string>
+  <string name="person_hotpot">Kişisel Net Paylaşımı</string>
   <string name="pkg_traffic">Veri kullanım limitini ayarla</string>
   <string name="please_continue_keep">Koru</string>
   <string name="pm_auto_start_basic_services_lock">Kilitli</string>
@@ -1302,6 +1328,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_traffic_saving_whitelist">İstisnalar</string>
   <string name="pref_traffic_saving_whitelist_hint">"Seçilen uygulamalar için veri kullanımını sınırlanamadı"</string>
   <string name="pref_version">Sürüm %s</string>
+  <string name="pref_warning_values">Veri Kullanım Uyarısının Seviyesi</string>
   <string name="pref_whitelist_setting">Veri Dolaşım Kısıtlamaları</string>
   <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preference_category_key_reference_settings">key_reference_settings</string>
@@ -1318,6 +1345,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="preference_key_cta_settings">key_cta_settings</string>
   <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
   <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
+  <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
   <string name="preference_key_information_setting_close">key_information_setting_close</string>
   <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
   <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
@@ -1383,6 +1411,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="quick_optimize_sub_summary_text">Pil ömrü için %s eklendi</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Telefon pili boşaltılıyor, düzelt</string>
   <string name="quick_optimize_suggest_battery_over_heat">Telefon aşırı ısınmış, düzelt</string>
+  <string name="reach_daily_limit_value_body">Mobil veri kullanımınızı azaltın.</string>
+  <string name="reach_daily_limit_value_title">Günlük veri sınırına ulaşıldı</string>
   <string name="read_number">86 makale</string>
   <string name="read_unit">" makale"</string>
   <string name="recently_reject_message">%1$s ve %2$d uygulamanın yüklenmesi engellendi</string>
@@ -1453,7 +1483,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="safe_result_item_empty_monitor">Ödeme için uygulama güvenliği yok</string>
   <string name="safe_result_item_info_app_sign">Resmi olmayan uygulama yok</string>
   <string name="safe_result_item_info_app_virus">Virüs ve riskli uygulama yok</string>
-  <string name="safe_result_item_info_sms_auth">Üçüncü parti uygulamalarını için doğrulama koduyla sınırla</string>
+  <string name="safe_result_item_info_sms_auth">Üçüncü taraf uygulamalarının doğrulama kodlarına erişimini kısıtla</string>
+  <string name="safe_result_item_info_sms_default">Varsayılan mesajlaşma uygulamasına geç</string>
   <string name="safe_result_item_info_sms_url">Tehlikeli mesaj adreslerinden koru</string>
   <string name="safe_result_item_info_system_antivirus">Virüs etkilerinden koru</string>
   <string name="safe_result_item_info_system_root">Root Güvenliği</string>
@@ -1512,7 +1543,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="settings_power_save_ontime_title">Zamanlama</string>
   <string name="settings_title_payment_security">Ödeme Güvenlik Ayarları</string>
   <string name="settings_title_permission">İzin Ayarları</string>
-  <string name="share">PAylaş</string>
+  <string name="share">Paylaş</string>
   <string name="show_traffic_dialog_message">Veri kullanımınız bildirim alanında görüntülenecektir. Bu özelliği istediğiniz zaman Veri Kullanım &gt; Ayarlardan değiştirebilirsiniz</string>
   <string name="show_traffic_dialog_title">Veri kullanımını bildirim alanında göster</string>
   <string name="showpattern">Deseni göster</string>
@@ -1595,6 +1626,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="summary_cmcc_app_check">"Bazı uygulamalar doğrulanamadı"</string>
   <string name="summary_consume_power">Isınma problemleri bulundu, bu pilin ömrünü etkiler </string>
   <string name="summary_data_flow">"Operatörünüzün aylık veri limitini geçmemeye dikkat edin"</string>
+  <string name="summary_default_app">"%s varsayılan uygulama olarak ayarlanamadı"</string>
   <string name="summary_dev">Kötü amaçlı yazılımı önle ve kişisel verileri koru</string>
   <string name="summary_find_device">Cihazı her yerden bul ve kilitle</string>
   <string name="summary_flow_notification">Bildirim alanında aylık veri kullanım istatistiklerini göster</string>
@@ -1646,6 +1678,9 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="tc_diagnostic_brand_error_notification_title">Yanlış Ağ Tipi</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Sonuç: Yanlış operatör markası&lt;br/&gt;&lt;br/&gt;Markayı ayarla: &lt;xliff:g id=marka misali=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Faal Marka: &lt;xliff:g id=konum misali=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Tamam</string>
+  <string name="tc_diagnostic_fragment_default">"Teşhis hakkında
+1. Cihaz, operatörün şebekesine bağlanacak, ücretsiz mesaj gönderecek ve operatörün cevabını bekleyecek. Bu işlem 5 dakika kadar sürebilir.
+2. Teşhis esnasında bu sayfadan ayrılabilir, arkaplanda işlemi yürütebilir."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Konumu ayarlamak için dokunun</string>
   <string name="tc_diagnostic_location_error_notification_title">Yanlış konum</string>
   <string name="tc_diagnostic_notification_sumarry">Sonuçları görüntülemek için dokunun</string>
@@ -1678,6 +1713,7 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="tc_diagnostic_upload_success">Görüşleriniz için teşekkür ederiz!</string>
   <string name="tc_sms_report_direction">SMS sorgulama kodu</string>
   <string name="tc_sms_report_do_report">Gönder</string>
+  <string name="tc_sms_report_get_default">"Operatörden veri kullanım bakiyenizi almak için kullanılan SMS mesajları için ücret ödemeyeceksiniz."</string>
   <string name="tc_sms_report_get_sms">SMS Al</string>
   <string name="tc_sms_report_get_sms2">SMS Al</string>
   <string name="tc_sms_report_get_sms_again">SMS Yenile</string>
@@ -1745,6 +1781,7 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="title_consume_power">Pil problemi bulundu</string>
   <string name="title_consume_power_rank">Pil Kullanımı</string>
   <string name="title_data_flow">Mobil Veriyi Denetle</string>
+  <string name="title_default_app">"MIUI %s varsayılan olarak ayarlanmadı"</string>
   <string name="title_data_flow_no">Veri kullanımını izleme</string>
   <string name="title_data_flow_yes">Veri kullanımını izle</string>
   <string name="title_dev_no">Geliştirici Seçeneklerini aç</string>
@@ -1794,6 +1831,7 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="toast_add_virus_white_list_success">İstisnalara eklendi. Güvenlik ayarlarındaki öğeleri görüntüleyin.</string>
   <string name="toast_auto_traffic_correct">Veri kullanımı otomatik ayarlandı</string>
   <string name="toast_cleaner_cloudscan">Temizleyici çevrimiçi tanımları kullanacak</string>
+  <string name="toast_default_app">"%1$s varsayılan uygulama olarak %2$s ayarladı"</string>
   <string name="toast_flow_notification">Veri kullanım bildirimleri açıldı</string>
   <string name="toast_garbage_lib">Temizleyici için otomatik güncellemeler açık</string>
   <string name="toast_lockscreen_glogin_empty_password">Şifre gerekiyor</string>
@@ -1965,6 +2003,7 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="usbsharenet_exception_title">USB üzerinden internet paylaşım testi</string>
   <string name="usbsharenet_pc_exception_summary">"Paylaşılan USB bağlantısını kullanarak internete bağlanamıyor. Bilgisayarınızın internet bağlantısını kontrol edin."</string>
   <string name="use_immediately">Kullan</string>
+  <string name="virus_ad_icon_text">Reklam</string>
   <string name="virus_already_update">Tanımlar güncel</string>
   <string name="virus_dp_update_title">Tanım güncellemeleri</string>
   <string name="virus_list_header_title">%d virüs tespit edildi</string>
