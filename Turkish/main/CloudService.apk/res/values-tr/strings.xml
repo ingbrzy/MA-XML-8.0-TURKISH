@@ -315,6 +315,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_notif_content_battery_low">Pil seviyesi çok düşük.</string>
   <string name="micloud_notif_content_clipboard_push">Heran heryerden yapıştırabilirsiniz.</string>
   <string name="micloud_notif_content_depend_wifi">Eşitleme için WLAN ile bağlan.</string>
+  <string name="micloud_notif_content_dirty_data">Detay</string>
   <string name="micloud_notif_content_master_depend_wifi">Önce WLAN ağına bağlan.</string>
   <string name="micloud_notif_content_memory_low">Yetersiz depolama alanı.</string>
   <string name="micloud_notif_content_multi_user_error">İlk Alanda benzer hesapla oturum açtınız.</string>
@@ -324,6 +325,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_notif_title_battery_low">"Mi Bulut ile eşitlenemedi"</string>
   <string name="micloud_notif_title_clipboard_push">İçerik panoya kopyalandı</string>
   <string name="micloud_notif_title_depend_wifi">%d eşitlemek için bekliyor</string>
+  <string name="micloud_notif_title_dirty_data">Eşitlenmemiş verileriniz var</string>
   <string name="micloud_notif_title_master_depend_wifi">"Mi Bulut ile eşitlenemedi"</string>
   <string name="micloud_notif_title_memory_low">"Mi Bulut ile eşitlenemedi"</string>
   <string name="micloud_notif_title_multi_user_error">"Mi Bulut ile eşitlenemedi"</string>
@@ -350,7 +352,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_space_applist_title">Uygulamaları Yönet</string>
   <string name="micloud_space_duokan_detail">Duokan uygulaması ile e-kitapları ve indirmeleri yönet</string>
   <string name="micloud_space_duokan_title">Duokan</string>
-  <string name="micloud_space_full_influence">&lt;u&gt;Bu alanı nasıl tükettim??&lt;/u&gt;</string>
+  <string name="micloud_space_full_influence">Bu alanı nasıl tükettim?</string>
   <string name="micloud_space_soundrecorder_detail">Cihazdaki kayıtları yönet</string>
   <string name="micloud_space_soundrecorder_title">Kayıtlar</string>
   <string name="micloud_storage">Depolama</string>
@@ -372,7 +374,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Bulut</string>
   <string name="micloud_upgrade_member">Daha fazla alan al</string>
-  <string name="micloud_upgrade_space">Daha fazla alan al</string>
+  <string name="micloud_upgrade_space">Boş alan al</string>
   <string name="micloud_user_space_title">Depolama alanı</string>
   <string name="micloud_user_space_usage">Depolama alanı</string>
   <string name="micloud_warn_full_sum">"Yeni öğeler Mi Bulut ile eşleşmiyecek."</string>
