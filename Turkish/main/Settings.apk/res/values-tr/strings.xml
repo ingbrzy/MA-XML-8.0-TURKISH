@@ -5778,7 +5778,7 @@ Tanıtımı"</string>
   <string name="wifi_empty_list_wifi_off">Kullanılabilir ağları görmek için, WLAN\'i açın.</string>
   <string name="wifi_empty_list_wifi_on">WLAN ağları aranıyor...</string>
   <string name="wifi_enable">WLAN</string>
-  <string name="wifi_enable_data_and_wifi_roam">Veri ve WLAN arasında geçiş yap</string>
+  <string name="wifi_enable_data_and_wifi_roam">WLAN Yardımcı Yöneticisi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">WLAN bağlantısı zayıf olduğunda bağlantıyı korumak için geçiş yap.</string>
   <string name="wifi_enable_hs2_title">Passpoint Açık</string>
   <string name="wifi_enable_watchdog_service_summary">Zayıf bağlantılardan kaçın</string>
@@ -5814,7 +5814,7 @@ Tanıtımı"</string>
   <string name="wifi_master_key_dialog_content_password">Şifre</string>
   <string name="wifi_master_key_dialog_title">Bağlan:</string>
   <string name="wifi_master_key_name">WLAN Ana Şifresi</string>
-  <string name="wifi_master_key_service_dialog_content">"WLAN Ana Şifresi, paylaşılan WLAN ağları için şifre sağlayan ücretsiz bir hizmettir. WLAN Ana Şifresi, ağınızın şifresini paylaşmaz."</string>
+  <string name="wifi_master_key_service_dialog_content">"WLAN Ana Şifresi, paylaşılan WLAN ağları için şifre sağlayan ücretsiz bir hizmettir. WLAN Ana Şifresi, ağınızın şifresini paylaşmaz. Ayrıca %1$s。yapabilirsiniz"</string>
   <string name="wifi_master_key_service_dialog_title">Paylaşılan WLAN Ağları</string>
   <string name="wifi_menu_advanced">Gelişmiş</string>
   <string name="wifi_menu_configure">Yapılandır</string>
