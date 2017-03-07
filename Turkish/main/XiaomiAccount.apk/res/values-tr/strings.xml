@@ -152,21 +152,21 @@
   <string name="find_device_access_denied">"Durum alınamadı, erişim engellendi"</string>
   <string name="find_device_account_error">"Durum alınırken hesapta hata oluştu"</string>
   <string name="find_device_activate_account">Hesabı etkinleştir</string>
-  <string name="find_device_bad_response_error">Durum alınırken, sunucu hatası oluştu, tekrar deneyin"</string>
+  <string name="find_device_bad_response_error">Bir sunucu hatası oluştu, bir iki dakika bekleyin ve tekrar deneyin"</string>
   <string name="find_device_display_id">Kilit Açma Numarası: %s</string>
   <string name="find_device_error_password_not_confirmed">"Telefonu Bul açılamadı. Mi Hesabı şifresini yeniden girin."</string>
   <string name="find_device_error_password_recently_changed">"Şifreyi en son 3 gün önce değiştirdiniz. Güvenlik durumundan dolayı Telefonu Bul açılamadı."</string>
-  <string name="find_device_interrupted">Faaliyet kesildi, sonra yeniden deneyin</string>
+  <string name="find_device_interrupted">Faaliyet kesildi, bir iki dakika bekleyin ve tekrar deneyin</string>
   <string name="find_device_io_error">"Ağa bağlanamadı"</string>
   <string name="find_device_locked_account_email" formatted="false">%s,ilişkili e-posta adresi:%s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s,ilişkili telefon numarası:%s</string>
   <string name="find_device_null_credential_error">"Cihaz bilgisi alınamadı, Xiaomi yönetici hizmetine başvurun"</string>
-  <string name="find_device_operation_failed_error">Sunucuda bir hata oluştu, daha sonra tekrar deneyin</string>
+  <string name="find_device_operation_failed_error">Bir sunucu hatası oluştu, bir iki dakika bekleyin ve tekrar deneyin</string>
   <string name="find_device_operation_failed_error_unknown">Bir hata oluştu, sonra yeniden deneyin</string>
   <string name="find_device_remote_exception">RPC Hatası</string>
-  <string name="find_device_request_error">"Sunucuda hata oluştuğundan durum bilgisi isteğinde bulunamıyor, daha sonra tekrar deneyin"</string>
+  <string name="find_device_request_error">"Bir sunucu hatası oluştu, bir iki dakika bekleyin ve tekrar deneyin"</string>
   <string name="find_device_request_prepare_error">"Cihaz durumu alınamadı, sonra yeniden deneyin"</string>
-  <string name="find_device_unknown_error">"Cihaz durumu alınamadı, sonra yeniden deneyin"</string>
+  <string name="find_device_unknown_error">"Cihaz durumu alınamıyor, bir iki dakika bekleyip tekrar deneyin"</string>
   <string name="find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com ziyaret edin</string>
   <string name="first_login_time">Önce giriş yapın: %s</string>
   <string name="forget_password">Şifremi unuttum</string>
