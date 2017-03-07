@@ -179,15 +179,17 @@
   <string name="baby_sexy">Cinsiyet</string>
   <string name="baby_suffix">Bebek</string>
   <string name="background_effect">Arkaplan Efekti</string>
-  <string name="backup_automatically_summary">Mi Bulut tüm cihazların fotoğraf ve videolarını yedekler. Rahatlıkla tüm cihazlardaki fotoğraf ve videoları düzenleyebilir, sıralayabilir ve paylaşabilirsiniz. </string>
+  <string name="backup_automatically_summary">Mi Bulut üzerinde tüm cihazların fotoğraf ve videoları yedeklenir. Böylece, tüm cihazlarınızda fotoğraflara ve videolara rahatça göz atabilir, sıralayabilir, düzenleyebilir ve paylaşabilirsiniz. </string>
   <string name="backup_automatically_title">Otomatik Yedekle ve Eşitle</string>
   <string name="backup_battery_low_desc">Öğeleri yine de yedeklemeyi seçebilirsiniz</string>
   <string name="backup_battery_low_title">Düşük pil nedeniyle yedekleme duraklatıldı</string>
-  <string name="backup_cloud_space_low_btn_text">Daha fazla al</string>
+  <string name="backup_close">Yedeklemeyi kapat</string>
+  <string name="backup_cloud_space_low_btn_text">Diğer</string>
   <string name="backup_cloud_space_low_desc">Mi Bulut: %1$s | Mevcut: %2$s</string>
   <string name="backup_cloud_space_low_title">Mi Bulut depolama alanı yetersiz</string>
   <string name="backup_cta_not_allow">"Ağa erişilemiyor"</string>
   <string name="backup_cta_not_allow_btn_text">İzin ver</string>
+  <string name="backup_detail_page_empty">Yedeklenmek için bekleyen resim ve video yok</string>
   <string name="backup_detail_page_title">Mi Bulut Yedekleri</string>
   <string name="backup_device_space_low_btn_text">Temizle</string>
   <string name="backup_device_space_low_desc">Öğeleri yedeklemeye devam etmek için depolama alanını boşaltın</string>
@@ -195,7 +197,7 @@
   <string name="backup_dirty_num">Toplam: %s</string>
   <string name="backup_dirty_tip">Fotoğraf ve video yedeklenmedi</string>
   <string name="backup_immediately">Yedekle</string>
-  <string name="backup_need_sync_desc">Yedeklemeye devam etmek için düğmeyi tıklayın</string>
+  <string name="backup_need_sync_desc">Yedeklemeye devam etmek için dokunun</string>
   <string name="backup_need_sync_title">Yedekleme durdu</string>
   <string name="backup_no_network_btn_text">Ağ Ayarları</string>
   <string name="backup_no_network_desc">Öğeleri yedeklemeye devam etmek için ağa bağlanın</string>
@@ -206,6 +208,7 @@
   <string name="backup_only_in_wifi">Fotoğraf/Video Yedeklemesinde WLAN Kullan</string>
   <string name="backup_only_in_wifi_summary">Fotoğraf ve videoları yedeklerken asla mobil veri kullanmayıp, sadece WLAN kullanın</string>
   <string name="backup_pause">Yedeklemeyi duraklat</string>
+  <string name="backup_pause_title">%s Yedekle</string>
   <string name="backup_pending">Otomatik olarak yedeklenecek</string>
   <string name="backup_stop">Yedeklemeyi durdur</string>
   <string name="backup_sync_error_btn_text">Tekrar dene</string>
@@ -220,7 +223,7 @@
   <string name="backuped_desc">"Fotoğraflar ve videolar Mi Bulut'a yedeklenir"</string>
   <string name="backuped_title">Başarıyla yedeklendi</string>
   <string name="backuping_title_gprs">Mobil veri kullanarak yedekleniyor…</string>
-  <string name="backuping_title_normal">Yedekleniyor⤦</string>
+  <string name="backuping_title_normal">Yedekleniyor...</string>
   <string name="baidu_bdmobile_downloads">Baidu-Mobil</string>
   <string name="baidu_flyflow_downloads">Baidu-Tarayıcı</string>
   <string name="beautyphone">Güzellik</string>
@@ -378,6 +381,9 @@
   <string name="dcim_opaipic">Opaipic</string>
   <string name="dcim_viva_pics">VIVA</string>
   <string name="debugging_tip">Ayıklama Verisi Oluştur</string>
+  <string name="default_album_name">Yeni Albümm</string>
+  <string name="default_relation_name">Yeni Grup</string>
+  <string name="define_by_user">Özel</string>
   <string name="defalt_local_mobile">Mobil</string>
   <string name="delete">Sil</string>
   <string name="delete_album_failed">Albümü silinemedi</string>
@@ -457,6 +463,7 @@
   <string name="empty_recommend_button_view">Geri</string>
   <string name="empty_recommend_back">Geri</string>
   <string name="empty_recommend_face_page_view">Başka öneri yok</string>
+  <string name="empty_relation">"Grup adı boş olamaz"</string>
   <string name="enable">Etkin</string>
   <string name="enable_auto_upload_tip">Eğer açılırsa bu albüm diğer albümlerden kaldırılır</string>
   <string name="enable_auto_upload_title">Mi Bulut ile eşitlemeyi aç</string>
@@ -616,7 +623,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="ignore_face">Bu kişiyi yoksay</string>
   <string name="illegal_arguments_error">Bir hata oluştu</string>
   <string name="image_decode_failed">"Resim çözülemedi"</string>
-  <string name="image_download_item_title">Fotoğrafı indir (%s)</string>
+  <string name="image_download_item_title">Orjinal resmi indir (%s)</string>
   <string name="image_invalid_path">Geçersiz yol</string>
   <string name="image_not_found">"Resim bulunamadı"</string>
   <string name="image_quota_fulfiled">Çok fazla görüntü. Bazı görüntüleri silin ve tekrar deneyin.</string>
@@ -640,6 +647,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="input_cloudfolder_name">Albüm Adı</string>
   <string name="input_nickname_toast">"Bebeğin adını girin"</string>
   <string name="input_or_select_a_name">Bir ad seçin veya girin</string>
+  <string name="input_relation_name">Grup adını girin</string>
   <string name="internal_camera_folder_display_name">Dahili Kamera Fotoğrafları</string>
   <string name="internal_miui_capture_screen_folder_display_name">Dahili Ekran Görüntüleri</string>
   <string name="internal_sd_card">Dahili Hafıza</string>
@@ -673,6 +681,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="last_year_today">Son 1 Yıl</string>
   <string name="limit_height">0 &gt; yükseklikte olmalıdır</string>
   <string name="limit_width">0  &gt; genişlikte olmalıdır</string>
+  <string name="load_relations">Biraz bekleyin…</string>
   <string name="load_image_error">Fotoğraf yüklenemiyor</string>
   <string name="loading">Yükleniyor…</string>
   <string name="loading_dual_tip">İkili resim yükleniyor…</string>
@@ -774,6 +783,9 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="new_album_invalid_char">Geçersiz karakterler içeriyor: \"%s\", lütfen harf veya rakam yazın.</string>
   <string name="new_album_invalid_name">\"%s\" sistem albümüdür, lütfen yeniden adlandırın.</string>
   <string name="new_album_invalid_prefix">"Lütfen \".\" veya \"_\" ile başlayan albüm adı oluşturmayın."</string>
+  <string name="new_relation_invalid_char">"Grup adın “%s” içeremez. Harf, rakam veya karakter kullanın."</string>
+  <string name="new_relation_invalid_name">“%s” grup adı zaten var, grup adını değiştirin.</string>
+  <string name="new_relation_invalid_prefix">"Grup adları “.” veya “_” ile başlayamaz"</string>
   <string name="new_device_tips">Cihazın ekranına basın</string>
   <string name="next">Sonraki</string>
   <string name="no">Hayır</string>
@@ -817,6 +829,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="operation_do_delete_local_thumnail">Cihazdan sil</string>
   <string name="operation_download">Fotoğrafı (%s) indir</string>
   <string name="operation_edit">Düzenle</string>
+  <string name="operation_edit_video">Düzenle</string>
   <string name="operation_enable_auto_upload">Mi Bulut ile eşitleme açık</string>
   <string name="operation_enter_delete_local">Cihazda yedekli fotoğraf ve videoları sil</string>
   <string name="operation_enter_delte_thumbnail">"Mi Bulut'ta kayıtlı  video ve fotoğrafları sil."</string>
@@ -975,6 +988,9 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="remove_from_secret_successful">Gizli albümden kaldırıldı</string>
   <string name="remove_to_album_title">Birleştir:</string>
   <string name="remove_to_other_album">Farklı biriyle birleştir</string>
+  <string name="rename_album">Albümü değiştir</string>
+  <string name="rename_album_failed">"Değiştirilemedi"</string>
+  <string name="rename_album_succeeded">Başarıyla değiştirildi</string>
   <string name="remove_from_secret_successfully_message">Gizli albümden kaldır</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s öğe gizli albümden kaldırılamadı</string>
   <string name="remove_hidden_album">Albümü göster</string>
@@ -1146,6 +1162,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="slideshow_interval_dialog_title">Kaydırma Aralığını Gir</string>
   <string name="slideshow_interval_invalid">Aralık 3 ve 3600 saniye arasında olmalıdır</string>
   <string name="slideshow_interval_title">Her resmin geçiş süresini seçin</string>
+  <string name="slideshow_interval_value">%1$d saniye</string>
   <string name="slideshow_repeat_mode">Tekrarla</string>
   <string name="slim_after_backuped_summary">Mi Bulut\'ta yedeklendikten sonra yerel fotoğraflar yüksek çözünürlükte en iyi hale getirilir. Tam çözünürlüklü olanlar hala Mi Bulut\'ta saklanır. Böylece depolamada daha çok alan kazanırsınız.</string>
   <string name="slim_after_backuped_title">Yedeklemeden Sonra Depolamayı İyi Hale Getir</string>
@@ -1179,10 +1196,12 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="sync_battery_low">Düşük Pil</string>
   <string name="sync_cloud_space_full">Mi Bulut\'ta yeterli alan yok</string>
   <string name="sync_diabled_toast">Eşitleme kapalı</string>
+  <string name="sync_metatata_wait_title">Mi Bulut Verisi eşitlenmek için bekliyor</string>
   <string name="sync_history_power_on">Sadece şarj esnasında fotoğrafları eşitle</string>
   <string name="sync_in_progress_message">Albümler indiriliyor...</string>
   <string name="sync_off_title">Fotoğrafları ve videoları otomatik olarak yedeklemek için Mi Bulut ile eşitlemeye açın</string>
   <string name="sync_pending_title">Otomatik olarak eşitlenecek</string>
+  <string name="sync_state_unknow">Bilgi alınıyor</string>
   <string name="synced_title">Fotoğraflar ve videolar başarıyla yedekledi</string>
   <string name="syncing_gprs_title">Öğeleri yedeklemek için mobil veri kullan</string>
   <string name="syncing_metadata_title">Mi Bulut verilerini eşitle</string>
@@ -1340,9 +1359,9 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="weixin">WeChat</string>
   <string name="welcome_to_micloud">"Mi Bulut'a Hoşgeldiniz"</string>
-  <string name="welcome_to_slim">Yerel depolamayı en iyi hale getirin</string>
+  <string name="welcome_to_slim">Yerel depolamayı iyi hale getir</string>
   <string name="where_is_barcode">"QR kodu nerede?"</string>
-  <string name="white_balance">Beyaz Dengesi</string>
+  <string name="white_balance">Beyazlık Dengesi</string>
   <string name="who_is_this">Kim?</string>
   <string name="widget_type">Fotoğrafları seçin</string>
   <string name="widget_type_album">Albümü seçin</string>
