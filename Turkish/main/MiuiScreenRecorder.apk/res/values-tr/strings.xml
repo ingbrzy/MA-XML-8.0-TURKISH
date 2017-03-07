@@ -13,7 +13,7 @@
   <string name="button_confirm">Tamam</string>
   <string name="button_goon_recorder">Devam</string>
   <string name="cancel_edit">İptal</string>
-  <string name="cannot_change_parames">"Kayıt esnasından parametreler değiştirilemez"</string>
+  <string name="cannot_change_parames">"Kayıt esnasından parametre değiştirilemez"</string>
   <string name="date_day"/>
   <string name="date_month">-</string>
   <string name="date_year">,</string>
@@ -42,7 +42,7 @@
   <string name="memory_not_allowed">Kullanılabilir depolama alanı yok. Kayıt için bir miktar yer açın.</string>
   <string name="mic_sound">Mikrofon</string>
   <string name="no_recorder_info">Video yok</string>
-  <string name="no_recorder_info2">Ekran kaydı eklemek için + düğmesine dokunun</string>
+  <string name="no_recorder_info2">Ekran kaydı eklemek için düğmeye dokunun</string>
   <string name="no_sound">Sessiz</string>
   <string name="operation_delete">Sil</string>
   <string name="operation_send">Gönder</string>
@@ -61,7 +61,7 @@
   <string name="sound_source">Ses Kaynağı</string>
   <string name="sound_source_summary">Sistem sesleri veya mikrofon</string>
   <string name="start">Başlat</string>
-  <string name="stop_by_second_space">Kullanıcılar arasında geçiş yapılırsa kayıt durdurulur</string>
+  <string name="stop_by_second_space">Alan geçişlerinde kayıt durdurulur</string>
   <string name="stop_record_while_locking">Ekran kilitlenince kayıt durdurulur</string>
   <string name="stop_record_while_locking_summary">Ekran kilitlendiğinde kayıt durdurulup, video saklanır</string>
   <string name="timer_format">%s</string>
