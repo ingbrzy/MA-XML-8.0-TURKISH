@@ -4,4 +4,8 @@
         <item quantity="other">%1$d öğe seçildi</item>
         <item quantity="one">%1$d öğe seçildi</item>
     </plurals>
+	<plurals name="delete_confirm_text">
+        <item quantity="other">%1$d ekran kaydı silinsin mi?</item>
+        <item quantity="one">Bu ekran kaydı silinsin mi?</item>
+    </plurals>
 </resources>
