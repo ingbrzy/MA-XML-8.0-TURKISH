@@ -15,11 +15,8 @@
   <string name="cancel_edit">İptal</string>
   <string name="cannot_change_parames">"Kayıt esnasından parametre değiştirilemez"</string>
   <string name="date_day"/>
-  <string name="date_month">-</string>
-  <string name="date_year">,</string>
-  <string name="delete_confirm_text">Bu ekran kaydı silinsin mi?</string>
-  <string name="delete_confirm_text_multi1">Sil</string>
-  <string name="delete_confirm_text_multi2">Ekran kaydedilsin mi?</string>
+  <string name="date_month">/</string>
+  <string name="date_year">/</string>
   <string name="deselect_all">Vazgeç</string>
   <string name="error_open_file_failed_no_app_found">"Bu dosyayı açacak uygulama bulunamadı"</string>
   <string name="frames">Kare Hızı</string>
