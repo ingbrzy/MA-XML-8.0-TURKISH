@@ -10,7 +10,7 @@
   <string name="confirm_dialog_locked_title">Kilitli mesaj silinsin mi?</string>
   <string name="confirm_dialog_title">Silinsin mi?</string>
   <string name="copy_message_text">Kopyala</string>
-  <string name="copy_message_text_success">Metin kopyalandı</string>
+  <string name="copy_message_text_success">Başarıyla kopyalandı</string>
   <string name="delete">Sil</string>
   <string name="delete_message">Sil</string>
   <string name="from_label">"Şurdan: "</string>
@@ -19,8 +19,14 @@
   <string name="menu_unlock">Favoriden Çıkart</string>
   <string name="message_details_title">Mesaj Detayları</string>
   <string name="message_type_label">"Tipi: "</string>
+  <string name="messaging">Mesajlaşma</string>
   <string name="received_label">"Alınan: "</string>
+  <string name="repayment_network_error">Ağda bazı şeyler ters gitti</string>
+  <string name="repayment_title">Geri Ödeme</string>
+  <string name="repayment_way">Geri Ödeme Usulu</string>
   <string name="sent_label">"Gönder: "</string>
+  <string name="smart_messages_network_allow_message">"Mi Mesaj hizmetlerinin normal çalışması için internete bağlanması gerekiyor. Şimdi izin verilsin mi?</string>
+  <string name="smart_messages_network_allow_title">İnternet bağlantısı gerekiyor</string>
   <string name="sms_card_partner_label">"SMS Kart Ortağı: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="text_message">Mesaj Metni</string>
