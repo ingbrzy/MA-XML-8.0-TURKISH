@@ -30,7 +30,7 @@
   <string name="activity_stb_list_title">Uydu Alıcısını Seçin</string>
   <string name="actor_intro_title_text">Oyuncular</string>
   <string name="add">Ekle</string>
-  <string name="add_control">Uzaktan Kumanda Ekle</string>
+  <string name="add_control">Uzaktan Kumanda</string>
   <string name="add_control_frame">%1$s Uzaktan Kumandayı Ekle</string>
   <string name="add_device">Cihaz Ekle</string>
   <string name="add_device_match_desc_bottom">    3. Bağlantıyı onaylamak için %1$s seçin</string>
@@ -263,7 +263,7 @@
   <string name="epg_load_more_latest_comment">Daha fazla yorum alınıyor</string>
   <string name="epg_loading_hint">Telefonu kullanarak uydu alıcı kanalını değiştir</string>
   <string name="epg_more_comment_list_title">En iyi yorumları （%1$d）</string>
-  <string name="epg_name">TV Şovları</string>
+  <string name="epg_name">Canlı Yayın</string>
   <string name="epg_no_booking_data">Program planlanmadı</string>
   <string name="epg_no_favorite_program">Favori program yok</string>
   <string name="epg_no_more_latest_comment">No more comments</string>
@@ -311,7 +311,7 @@
   <string name="fan_speed">Hızı</string>
   <string name="faq">SSS</string>
   <string name="fav">Favori</string>
-  <string name="favorite_channel">Sıkça izlenilen kanal</string>
+  <string name="favorite_channel">Önceki Kanallar</string>
   <string name="feedback">Geribildirim</string>
   <string name="feedback_error">Hata Raporu</string>
   <string name="feedback_error_success_tip">Başarıyla gönderildi</string>
@@ -363,7 +363,7 @@
   <string name="input_tip">15 dakika sonra kodun süresi dolacak</string>
   <string name="install">Yükle</string>
   <string name="install_failed">"%s yüklenemedi"</string>
-  <string name="install_peel_content">"TV rehberi işlevini etkinleştirmek için lütfen Mi Kumanda için Peel'i kurun."</string>
+  <string name="install_peel_content">"Peel Mi Kumanda'nın TV kılavuzunu kullanmak için yükleyin"</string>
   <string name="install_peel_title">"Peel Mi Kumanda'yı yükle"</string>
   <string name="install_succed">%s başarıyla yüklendi</string>
   <string name="installing">Yükleniyor...</string>
@@ -830,7 +830,7 @@ Hesabınızı etkinleştirmek için,
   <string name="rc_add_distance">%1$dm</string>
   <string name="rc_add_distance_far">&gt;1000km</string>
   <string name="rc_add_distance_km">%1$skm</string>
-  <string name="rc_name">Kumanda</string>
+  <string name="rc_name">Mi Kumanda</string>
   <string name="recover">Sürücü kurtar</string>
   <string name="recovering">Kurtarılıyor</string>
   <string name="refreshing">Yenileniyor…</string>
@@ -913,6 +913,7 @@ Hesabınızı etkinleştirmek için,
   <string name="select_dvb_carrier">Servis sağlayıcı seç</string>
   <string name="select_screenshot_topic">Başlığı seç</string>
   <string name="select_stb">Uydu alıcısını seç</string>
+  <string name="select_stb_tips">Uydu Alıcısını eşle</string>
   <string name="service_info">Servis Bilgisi</string>
   <string name="set_timeing_time_tip">%1$s%2$s olacak</string>
   <string name="setting_airkan">Kablosuz Ekran</string>
@@ -961,8 +962,8 @@ Hesabınızı etkinleştirmek için,
   <string name="share_popup_single_desc">Yakındaki %1$s kontrol etmek için paylaşılan kumandayı kullan</string>
   <string name="share_popup_single_title">%1$s: %2$s paylaşılmış kumanda mevcut</string>
   <string name="share_popup_title">%1$s: yeni bir paylaşılmış kumanda mevcut</string>
-  <string name="share_rc_list_title">Yakınlardaki paylaşılan kumanda</string>
-  <string name="share_rc_not_found">Yakınlarda paylaşılan kumanda yok</string>
+  <string name="share_rc_list_title">Yakındaki paylaşılan kumanda</string>
+  <string name="share_rc_not_found">Yakında paylaşılan kumanda yok</string>
   <string name="share_rc_state_share">Paylaşılıyor…</string>
   <string name="share_rc_title">Kumandayı Paylaş</string>
   <string name="share_rc_type_desc">Paylaştığınız kumandayı kimler görüp, paylaşabilir?</string>
