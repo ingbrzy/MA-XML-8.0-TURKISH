@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Seçilen &lt;g id="number" example="15">%1$s&lt;/g> içerik silinsin mi?</item>
-        <item quantity="one">Bu görüşme silinsin mi?</item>
+        <item quantity="other">Seçilen &lt;g id="number" example="15" id="number">%1$s&lt;/g> içerik silinsin mi?</item>
+        <item quantity="one">Bu içerik silinsin mi?</item>
     </plurals>
 </resources>
