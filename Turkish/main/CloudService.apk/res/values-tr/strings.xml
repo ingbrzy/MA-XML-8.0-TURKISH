@@ -15,7 +15,7 @@
   <string name="antispam_sync">Rahatsız Etme Ayarları</string>
   <string name="app_name">Mi Bulut</string>
   <string name="apple_10gb">20 GB</string>
-  <string name="apple_cloud">Apple Bulut Hizmeti</string>
+  <string name="apple_cloud">iCloud</string>
   <string name="apple_cloud_eng">iCloud</string>
   <string name="apple_cloud_price">Yılda yaklaşık 72 Yuan</string>
   <string name="bad_authentication">Geçersiz kullanıcı adı veya parola</string>
@@ -45,12 +45,12 @@ Daha fazla depolama alanı elde etmek için, mi.com/micloud adresini ziyaret edi
 Son yedekleme: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Ana Ekranı ve uygulamaları %1$s ara ile yedekle.</string>
   <string name="cloud_back_up_remove_success">Yedek silindi</string>
-  <string name="cloud_back_up_summary">WLAN\'a bağlıyken yedekle</string>
+  <string name="cloud_back_up_summary">WLAN\'a bağlanınca yedekle</string>
   <string name="cloud_back_up_title">Cihazı Yedekle</string>
   <string name="cloud_backup_dialog_title">Mi Bulut ile Yedekle</string>
   <string name="cloud_find_device">Telefonu Bul</string>
   <string name="cloud_restore_title">Yedekten Geri Yükle</string>
-  <string name="cloud_space_upgrade_message">Bulutunuza %s GB eklemek için dokunun •</string>
+  <string name="cloud_space_upgrade_message">Bulutunuza %s GB eklemek için dokunun</string>
   <string name="cloud_space_upgrade_no_quota_info">"Depolama bilgisi alınamıyor"</string>
   <string name="cloud_space_upgrade_title">"Mi Bulut'ta daha fazla alan"</string>
   <string name="cloud_storage_full">Bulut Depolama doldu</string>
@@ -121,7 +121,7 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="google_cloud_price">Yaklaşık yıllık 143 Yuan</string>
   <string name="header_cloud_backup_settings">Yedekle ve Geri Yükle</string>
   <string name="header_cloud_restore_summary">Mi Bulut alanındaki bir yedek dosyasından Ana Ekran düzeni, Sistem Ayarları ve Uygulamaları geri yükleyin</string>
-  <string name="header_data_and_synchronization">Veri ve Eşitle</string>
+  <string name="header_data_and_synchronization">Veri ve Eşitleme</string>
   <string name="header_find_device_settings">Telefonu Bul</string>
   <string name="header_other_settings">Gelişmiş Ayarlar</string>
   <string name="i_know">Tamam</string>
@@ -298,7 +298,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_main_wlan_sync_data_count">Eşitlenmek için bekleyen öğeler: %d</string>
   <string name="micloud_member">Mi Bulut üyeliği</string>
   <string name="micloud_member_advantage">Daha fazla alan al.</string>
-  <string name="micloud_member_buy_content" formatted="false">"%s-%s-%s için geçerli
+  <string name="micloud_member_buy_content" formatted="false">"%s-%s-%s zamana kadar geçerli
 
 %s Mi Kredisi"</string>
   <string name="micloud_member_buy_title">Siparişi Onayla</string>
@@ -315,12 +315,12 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_notif_content_battery_low">Pil seviyesi çok düşük.</string>
   <string name="micloud_notif_content_clipboard_push">Heran heryerden yapıştırabilirsiniz.</string>
   <string name="micloud_notif_content_depend_wifi">Eşitleme için WLAN ile bağlan.</string>
-  <string name="micloud_notif_content_dirty_data">Detay</string>
+  <string name="micloud_notif_content_dirty_data">Detaylar</string>
   <string name="micloud_notif_content_master_depend_wifi">Önce WLAN ağına bağlan.</string>
   <string name="micloud_notif_content_memory_low">Yetersiz depolama alanı.</string>
   <string name="micloud_notif_content_multi_user_error">İlk Alanda benzer hesapla oturum açtınız.</string>
   <string name="micloud_notif_content_sync_finish">Hesap</string>
-  <string name="micloud_notif_content_sync_not_finish">Detay</string>
+  <string name="micloud_notif_content_sync_not_finish">Detaylar</string>
   <string name="micloud_notif_content_sync_with_off">Cihazı şimdi eşitlemek için dokunun.</string>
   <string name="micloud_notif_title_battery_low">"Mi Bulut ile eşitlenemedi"</string>
   <string name="micloud_notif_title_clipboard_push">İçerik panoya kopyalandı</string>
