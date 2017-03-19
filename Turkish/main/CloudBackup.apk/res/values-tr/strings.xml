@@ -8,7 +8,7 @@
   <string name="back_up_task_in_process">Yedekleniyor…</string>
   <string name="back_up_task_unfinished">Yedekleme bitmedi</string>
   <string name="backing_up_to_micloud">Yedekleniyor…</string>
-  <string name="backup_fail">"Yedeklenemedi​"</string>
+  <string name="backup_fail">"Yedeklenmedi"</string>
   <string name="backup_finished_notification_content">Ana Ekran Uygulamaları, Sistem Ayarları, vb yedekleyin.</string>
   <string name="backup_now">Şimdi Yedekle</string>
   <string name="backup_size">Boyut: %s</string>
@@ -24,9 +24,9 @@
   <string name="button_next">Sonraki</string>
   <string name="can_not_backup_in_lite_mode">"Hafif Modda yedeklenemiyor"</string>
   <string name="can_not_restore_in_lite_mode">"Hafif Modda geri yüklenemiyor"</string>
-  <string name="cancel_recover_settings">&lt;u&gt;İptal&lt;/u&gt;</string>
+  <string name="cancel_recover_settings">İptal</string>
   <string name="click_try_to_restore_again">Denemek için dokunun</string>
-  <string name="cloud_app_backup_success">Uygulama yedeklemesi bitti</string>
+  <string name="cloud_app_backup_success">Uygulamalar başarıyla yedeklendi</string>
   <string name="cloud_app_check_data">Mi Bulut ile haberleşiyor…</string>
   <string name="cloud_app_current_device">Geçerli Cihaz</string>
   <string name="cloud_app_dont_restore">Yeni cihaz olarak kur</string>
@@ -72,7 +72,7 @@ Not: Yüklediğiniz uygulamalar için verileri Mi Bulut'ta yedeklenmiyecek"</str
   <string name="confirm_restore">Geri Yükle</string>
   <string name="confirm_restore_summary">Ana Ekran yeniden başlar ve WLAN ağına bağlandığında uygulamalar otomatik olarak yüklenir</string>
   <string name="confirm_restore_title">Geri Yükle</string>
-  <string name="customization">&lt;u&gt;Kişiselleştir&lt;/u&gt;</string>
+  <string name="customization">Kişiselleştir</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarm Saati</string>
   <string name="desktop_downloading">İndiriliyor</string>
@@ -120,7 +120,7 @@ Not: Yüklediğiniz uygulamalar için verileri Mi Bulut'ta yedeklenmiyecek"</str
   <string name="retry">Yeniden Dene</string>
   <string name="self_phone">Bu Telefon</string>
   <string name="settings_backup">Sistem Ayarları</string>
-  <string name="start_backup_to_micloud">"Mi Bulut'a uygulamaları yedekle"</string>
+  <string name="start_backup_to_micloud">"Uygulamaları Mi Bulut'a yedekle"</string>
   <string name="start_recover">%s geri yükle</string>
   <string name="success_open_cloudbackup">Ana Ekran uygulamaları için yedeklemeyi aç</string>
   <string name="wait_icon_download">Uygulama simgeleri indiriliyor</string>
