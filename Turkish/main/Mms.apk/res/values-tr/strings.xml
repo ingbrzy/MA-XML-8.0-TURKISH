@@ -96,7 +96,7 @@
   <string name="confirm_restore_checkbox">Engellenen mesajları geri yükle</string>
   <string name="confirm_restore_message">Seçtiğiniz mesajlar geri yüklensin mi?</string>
   <string name="confirm_restore_positive">Geri Yükle</string>
-  <string name="confirm_restore_title">Mesajı Geri Yükle</string>
+  <string name="confirm_restore_title">Mesajları Geri Yükle</string>
   <string name="confirm_send_mms">Alıcıların biri: bir e-posta adresi içeriyor. Bu rapor MMS olarak gönderilecektir.Operatör tarafından ilave ücretlendirme yapılabilir.</string>
   <string name="context_menu_add_calendar">Takvime ekle</string>
   <string name="context_menu_add_contact">Kişilere ekle</string>
@@ -442,7 +442,7 @@
   <string name="pref_title_miui_card">Kartla gönder</string>
   <string name="pref_title_mms_auto_retrieval">MMS içeriğini otomatik olarak al</string>
   <string name="pref_title_mms_delete">MMS mesaj limiti</string>
-  <string name="pref_title_mms_read_reports">Okundu Bilgisi</string>
+  <string name="pref_title_mms_read_reports">MMS Okundu Bilgisi</string>
   <string name="pref_title_mms_retrieval_during_roaming">Dolaşım sırasında MMS içerikleri indirebilir</string>
   <string name="pref_title_mms_validity_period">MMS geçerlilik süresi</string>
   <string name="pref_title_notification_body_enabled">Mesajları Kilit Ekranında Göster</string>
