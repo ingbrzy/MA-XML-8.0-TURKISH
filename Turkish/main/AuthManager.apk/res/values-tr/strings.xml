@@ -223,6 +223,8 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="HIPS_Perm_background_start_activity_Desc">Arkaplanda başlatılır</string>
   <string name="HIPS_Perm_get_accounts">Aygıttaki hesaplara erişebilir</string>
   <string name="HIPS_Perm_get_accounts_Desc">Aygıtta depolanan tüm hesaplara erişebilir</string>
+  <string name="HIPS_Perm_get_installed_apps">Yüklü uygulamalar hakkında bilgi edinin</string>
+  <string name="HIPS_Perm_get_installed_apps_Desc">Bu cihazda yüklü uygulamalar hakkında bilgi edinir</string>
   <string name="HIPS_Perm_get_tasks">Görevleri alır</string>
   <string name="HIPS_Perm_get_tasks_Desc">Görevleri alır</string>
   <string name="HIPS_Perm_install_shortcut">Ana Ekran kısayolları</string>
@@ -233,6 +235,8 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="HIPS_Perm_process_outgoing_calls_Desc">İzler ve çağrıları sonlandırır</string>
   <string name="HIPS_Perm_read_notification_sms">SMS Hizmeti</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">SMS Hizmetini okur</string>
+  <string name="HIPS_Perm_service_foreground">service_foreground</string>
+  <string name="HIPS_Perm_service_foreground_Desc">service_foreground</string>
   <string name="HIPS_Perm_show_when_locked">Kilit Ekranda göster</string>
   <string name="HIPS_Perm_show_when_locked_Desc">Kilit Ekranda gösterilir</string>
   <string name="HIPS_Perm_use_sip">Video Servisleri</string>
