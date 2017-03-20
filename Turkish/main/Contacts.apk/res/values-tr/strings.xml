@@ -2,7 +2,8 @@
 <resources>
   <string name="accessibility_calllog_detail">Çağrı Geçmişinin Detayları</string>
   <string name="account_container_title">Şuradan alındı:</string>
-  <string name="account_phone" product="default">Sadece telefon, eşitlenmedi</string>
+  <string name="account_default">Telefon</string>
+  <string name="account_phone">Sadece telefon, eşitlenmedi</string>
   <string name="account_phone" product="tablet">Sadece tablet, eşitlenmedi</string>
   <string name="account_sim">SIM Kart</string>
   <string name="account_sim2">SIM Kart %d</string>
@@ -85,6 +86,7 @@
   <string name="call_main">Ana Numarayı Ara</string>
   <string name="call_mms">MMS\'i Ara</string>
   <string name="call_mobile">Cep Telefonunu Ara</string>
+  <string name="call_not_found"> --</string>
   <string name="call_operator_init">Operatörü Seç</string>
   <string name="call_other">Ara</string>
   <string name="call_other_fax">Faksı Ara</string>
@@ -95,9 +97,11 @@
   <string name="call_settings">Ayarlar</string>
   <string name="call_sim1_menu_title">SIM 1 ile Ara</string>
   <string name="call_sim2_menu_title">SIM 2 ile Ara</string>
+  <string name="call_sim_menu_title_suffix">(Birinci)</string>
   <string name="call_telex">Teleksi Ara</string>
   <string name="call_tty_tdd">TTY/TDD\'yi Ara</string>
   <string name="call_type_and_date">%1$s %2$s</string>
+  <string name="call_unit">CNY</string>
   <string name="call_work">İşi Ara</string>
   <string name="call_work_mobile">İş Telefonunu Ara</string>
   <string name="call_work_pager">İş Çağrı Cihazını Ara</string>
@@ -130,6 +134,7 @@
   <string name="callrecordview_menu_edit_call_note">Notu düzenle</string>
   <string name="callrecordview_menu_ip">Otomatik IP Çağrısı</string>
   <string name="callrecordview_menu_livetalk">Kontör Paketi</string>
+  <string name="callrecordview_menu_misim">Mi SIM</string>
   <string name="callrecordview_menu_mobiledata">Veri Satınal</string>
   <string name="callrecordview_menu_paste">Yapıştır</string>
   <string name="callrecordview_menu_recharge">Kontör</string>
@@ -175,6 +180,7 @@
   <string name="clearFrequentsProgress_title">Sık görüşülenler temizleniyor...\u2026</string>
   <string name="clear_and_bright">Qingming Festivali</string>
   <string name="clear_copy_number_description">Kopyalanan numarayı temizle</string>
+  <string name="clear_default">Varsayılanı temizle</string>
   <string name="clear_digits">Telefon numarasını temizle</string>
   <string name="click_close">Kapatmak için dokunun</string>
   <string name="clip_dialog_title">Kopyalanan numara aransın mı?</string>
@@ -195,6 +201,14 @@
   <string name="composer_has_no_exportable_contact" product="default">Dışa aktarılabilecek kişi bulunmamaktadır. Telefonunuzda kişileriniz varsa, bazı veri sağlayıcıları kişilerin, telefondan dışa aktarılmasına izin vermiyor olabilir.</string>
   <string name="composer_has_no_exportable_contact" product="tablet">Dışa aktarabilir kişi bulunmamaktadır. Eğer tabletinizde kayıtlı kişileriniz varsa, bazı veri sağlayıcıları kişilerin tabletinizden dışa aktarılmasına izin vermiyor olabilir.</string>
   <string name="composer_not_initialized">"vCard oluşturucu düzgün başlamadı."</string>
+  <string name="config_export_dir">/mnt/sdcard</string>
+  <string name="config_export_extensions_to_consider"/>
+  <string name="config_export_file_extension">vcf</string>
+  <string name="config_export_file_prefix"/>
+  <string name="config_export_file_suffix"/>
+  <string name="config_export_vcard_type">v30_generic</string>
+  <string name="config_import_vcard_type">default</string>
+  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Çağrı geçmişi silinsin mi?</string>
   <string name="confirm_delete_selected_all_call_logs">Çağrı geçmişi silinsin mi?</string>
   <string name="confirm_delete_sim_entry_miui">%d kişi SIM karttan silinsin mi?</string>
@@ -282,10 +296,13 @@ Kartvizitler kapalı"</string>
   <string name="data_already_used">Kullanılan Veri</string>
   <string name="data_charge">Kontör Verisi</string>
   <string name="data_left">Kalan Veri</string>
+  <string name="data_unit_gb">GB</string>
+  <string name="data_unit_mb">MB</string>
   <string name="data_unit">MB</string>
   <string name="date_picker_label">3 gün öncesinden ve günü gelince bana hatırlat</string>
   <string name="date_time_set">Seç</string>
   <string name="date_year_toggle">Bir Yıl Gir</string>
+  <string name="default_ringtone">Varsayılan zil sesi</string>
   <string name="deleteConfirmation">Bu kişi silinecek!</string>
   <string name="deleteConfirmationDetail">\"%s\" silinsin mi?</string>
   <string name="deleteConfirmation_title">Bu kişi silinsin mi?</string>
@@ -773,7 +790,7 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="miprofile_contact_added">Eklendi</string>
   <string name="miprofile_contact_header">Kartvizitler ile Kişiler</string>
   <string name="miprofile_contact_meaasge">Yerel Kişiler</string>
-  <string name="miprofile_contact_verifying">Onaylanıyor...</string>
+  <string name="miprofile_contact_verifying">Doğrulanıyor...</string>
   <string name="miprofile_edit_title">Profili Düzenle</string>
   <string name="miprofile_error_accept_self">"Şahsı kartınız değiştirilemedi"</string>
   <string name="miprofile_error_no_miaccount">Mi Hesabınız ile oturum açın</string>
@@ -1036,6 +1053,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="preference_contacts_display">Görüntüleme Tercihleri</string>
   <string name="preference_contacts_filter">Rehber Listelerini Yapılandır</string>
   <string name="preference_contacts_more">Kişileri Düzenle</string>
+  <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
   <string name="preference_contacts_recovery_introduction">Kişileri Kurtar</string>
   <string name="preference_dial_pad_touch_tone_human">Ses</string>
   <string name="preference_dial_pad_touch_tone_piano">Piyano Tuşları</string>
@@ -1197,6 +1215,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="service_provider">Dizin</string>
   <string name="service_provider_detail">Dizin Detayları</string>
   <string name="set_data_package">Önce Veri Planını Ayarla</string>
+  <string name="set_default">Varsayılanı ayarla</string>
   <string name="set_photo_failed_msg">"Resim atanmadı"</string>
   <string name="share_error">"Bu kişi paylaşılamıyor"</string>
   <string name="share_over_limit">"1000\'den fazlasını paylaşamıyoruz"</string>
@@ -1234,6 +1253,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="sim_export_loading">SIM Kart okunuyor…</string>
   <string name="sim_indexed_contact_not_exist">SIM karttaki %1$d mevki geçersiz, %2$d ve %3$d arasındaki mevkide olmalı.</string>
   <string name="sim_no_contact">SIM kartta kişi yok</string>
+  <string name="sim_unloaded">SIM kart yüklenmedi</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Grup üyesi yok</string>
   <string name="slight_cold">Osamu</string>
@@ -1343,6 +1363,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="update_sim_contact_photo_toast">SIM kartvizitleri için profil fotoğrafları ayarlanamıyor</string>
   <string name="unknown_caller">Bilinmeyen Kişi</string>
   <string name="unknown_contact_name">Bilinmeyen Kişi</string>
+  <string name="update_sim_contact_photo_toast">"SIM kartvizitleri için profil fotoğrafları ayarlanamıyor"</string>
   <string name="upgrade_in_progress">Kişi listesi güncelleniyor.</string>
   <string name="upgrade_out_of_memory">"Kişiler güncellenme sürecindedir. 
 
@@ -1360,6 +1381,7 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="vcard_import_failed">"%s vCard içe aktarılamıyor."</string>
   <string name="vcard_import_request_rejected_message">vCard içe aktarım isteği reddedildi. Daha sonra tekrar deneyin.</string>
   <string name="vcard_import_will_start_message">%s kısa zamanda içe aktarılacaktır.</string>
+  <string name="vcard_import_will_start_message_with_default_name">Dosya kısa sürede içeri aktarılacak</string>
   <string name="vcard_info_send_error">vCard gönderilemedi</string>
   <string name="vcard_unknown_filename">kişi</string>
   <string name="video_call">Video Çağrısı</string>
