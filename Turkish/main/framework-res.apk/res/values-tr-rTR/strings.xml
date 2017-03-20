@@ -45,6 +45,7 @@
   <string name="action_bar_up_description">Yukarı git</string>
   <string name="action_menu_overflow_description">Diğer Seçenekler</string>
   <string name="action_mode_done">Tamam</string>
+  <string name="activity_chooser_view_dialog_title_default">Faaliyeti seç</string>
   <string name="activity_chooser_view_see_all">Tümünü göster</string>
   <string name="activity_list_empty">Eşleşen hiçbir etkinlik bulunamadı.</string>
   <string name="activity_resolver_use_always">Daima</string>
@@ -81,10 +82,16 @@
   <string name="android_upgrading_notification_title">Android güncelleniyor</string>
   <string name="android_upgrading_starting_apps">Uygulamalar başlatılıyor.</string>
   <string name="android_upgrading_title">Android güncelleniyor...</string>
-  <string name="anr_activity_application">"%2$s cevap vermiyor"</string>
-  <string name="anr_activity_process">"%1$s cevap vermiyor"</string>
-  <string name="anr_application_process">"%1$s cevap vermiyor"</string>
-  <string name="anr_process">"%1$s işlemi cevap vermiyor"</string>
+  <string name="anr_activity_application">"%2$s cevap vermiyor.
+
+Kapatmak istiyor musunuz?"</string>
+  <string name="anr_activity_process">"%2$s cevap vermiyor.
+
+Kapatmak istiyor musunuz?"</string>
+  <string name="anr_application_process">"%1$s cevap vermiyor. Kapatmak istiyor musunuz?"</string>
+  <string name="anr_process">"%1$s işlemi cevap vermiyor.
+
+Kapatmak istiyor musunuz?"</string>
   <string name="anr_title"/>
   <string name="app_info">Uygulama Bilgisi</string>
   <string name="app_not_found">Bu eylemi gerçekleştirecek bir uygulama bulunamadı</string>
@@ -210,6 +217,14 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="day_picker_description">Ayın günlerini ızgarala halinde sırala</string>
   <string name="days">gün</string>
   <string name="decline">Reddet</string>
+  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
+  <string name="defaultVoiceMailAlphaTag">Voicemail</string>
+  <string name="default_audio_route_category_name">Sistem</string>
+  <string name="default_audio_route_name">Telefon</string>
+  <string name="default_audio_route_name_dock_speakers">Hoparlör</string>
+  <string name="default_audio_route_name_headphones">Kulaklık</string>
+  <string name="default_browser"/>
+  <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="decline_remote_bugreport_action">Reddet</string>
   <string name="delete">Sil</string>
   <string name="deleteText">Sil</string>
@@ -384,6 +399,7 @@ kullanarak numarayı ara"</string>
   <string name="granularity_label_line">satır</string>
   <string name="granularity_label_link">bağlantı</string>
   <string name="granularity_label_word">kelime</string>
+  <string name="gsm_alphabet_default_charset"/>
   <string name="hardware">Sanal klavyeyi göster</string>
   <string name="heavy_weight_notification">%1$s çalışıyor</string>
   <string name="heavy_weight_notification_detail">Uygulamaya geçiş yapmak için dokunun</string>
@@ -427,6 +443,7 @@ kullanarak numarayı ara"</string>
   <string name="imTypeOther">Diğer</string>
   <string name="imTypeWork">İş</string>
   <string name="image_wallpaper_component">com.android.systemui/com.android.systemui.ImageWallpaper</string>
+  <string name="ime_action_default">Gerçekleştir</string>
   <string name="ime_action_done">Tamam</string>
   <string name="ime_action_go">Git</string>
   <string name="ime_action_next">Sonraki</string>
@@ -526,13 +543,13 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIM kart kilidi açılıyor…</string>
   <string name="kg_text_message_separator">" — "</string>
   <string name="kg_too_many_failed_attempts_countdown">%1$d saniye içinde tekrar deneyin.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message">"Şifrenizi %1$d kez yanlış yazdınız. 
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Şifrenizi %1$d kez yanlış yazdınız. 
 
 %2$d saniye içinde tekrar deneyin."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Kilit açma deseninizi %1$d kez yanlış çizdiniz. 
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Kilit açma deseninizi %1$d kez yanlış çizdiniz. 
 
 %2$d saniye içinde tekrar deneyin."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message">"PIN kodunuzu %1$d kez yanlış girdiniz. 
+  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN kodunuzu %1$d kez yanlış girdiniz. 
 
 %2$d saniye içinde tekrar deneyin."</string>
   <string name="kg_wrong_password">Yanlış Şifre</string>
@@ -575,11 +592,12 @@ Kilidi açmak için, Ana Ekran ve Güç tuşuna aynı anda basıp belli bir sür
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
   <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
+  <string name="lockscreen_carrier_default">Şebeke yok</string>
   <string name="lockscreen_airplane_mode_on">Uçak Modu</string>
   <string name="lockscreen_charged">Şarj edildi</string>
   <string name="lockscreen_emergency_call">Acil Durum Çağrısı</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe">Telefonun kilidini %1$d defa yanlış bir şekilde açmaya çalıştınız. %2$d defa daha başarısız deneme yapılırsa, telefon fabrika varsayılanına sıfırlanır ve tüm kullanıcı verileri kaybedilir.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">"Kilit açma deseninizi %1$d kez yanlış çizdiniz. %2$d başarısız denemeden sonra telefonunuzu Google oturum açma bilgilerinizi kullanarak açmanız istenir.
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefonun kilidini %1$d defa yanlış bir şekilde açmaya çalıştınız. %2$d defa daha başarısız deneme yapılırsa, telefon fabrika varsayılanına sıfırlanır ve tüm kullanıcı verileri kaybedilir.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Kilit açma deseninizi %1$d kez yanlış çizdiniz. %2$d başarısız denemeden sonra telefonunuzu Google oturum açma bilgilerinizi kullanarak açmanız istenir.
 
  Lütfen %3$d saniye içinde tekrar deneyin."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Telefon kilidini %d defa yanlış bir şekilde açmaya çalıştınız. Telefon şimdi fabrika varsayılanına sıfırlanacak.</string>
@@ -622,13 +640,13 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="lockscreen_sound_off_label">Sesi kapat</string>
   <string name="lockscreen_sound_on_label">Sesi aç</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">%d saniye içinde tekrar deneyin.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Kilit açma deseninizi %1$d kez yanlış çizdiniz. 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Kilit açma deseninizi %1$d kez yanlış çizdiniz. 
 
 %2$d saniye içinde tekrar deneyin."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Şifrenizi %1$d kez yanlış yazdınız. 
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Şifrenizi %1$d kez yanlış yazdınız. 
 
 %2$d saniye içinde tekrar deneyin."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"PIN kodunuzu %1$d kez yanlış girdiniz. 
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN kodunuzu %1$d kez yanlış girdiniz. 
 
 %2$d saniye içinde tekrar deneyin."</string>
   <string name="lockscreen_transport_ffw_description">İleri Sar</string>
@@ -654,7 +672,7 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="media_route_chooser_extended_settings">Ayarlar</string>
   <string name="media_route_chooser_searching">Cihazlar aranıyor…</string>
   <string name="media_route_chooser_title">Cihaza bağlan</string>
-  <string name="media_route_chooser_title_for_remote_display">Ekranı cihaza yansıt</string>
+  <string name="media_route_chooser_title_for_remote_display">Cihazı ekrana yansıt</string>
   <string name="media_route_controller_disconnect">Bağlantıyı kes</string>
   <string name="media_route_status_available">Kullanılabilir</string>
   <string name="media_route_status_connecting">Bağlanılıyor...</string>
@@ -759,7 +777,7 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="mmiComplete">MMI tamamlandı.</string>
   <string name="mmiError">Bağlantı sorunu veya geçersiz MMI kodu.</string>
   <string name="mmiFdnError">İşlem sadece sabit arama numaralarıyla sınırlandırılmıştır.</string>
-  <string name="more_item_label">Fazlası</string>
+  <string name="more_item_label">Diğer</string>
   <string name="muted_by">%1$s tarafından kapatıldı</string>
   <string name="needPuk">SIM kartınızın PUK kilidi devrede. Kilidi açmak için PUK kodunu yazın.</string>
   <string name="needPuk2">Engellenen SIM kartı açmak için PUK2 kodunu yazın.</string>
@@ -1072,7 +1090,7 @@ izin isteğinde bulunuldu."</string>
   <string name="permlab_writeSettings">sistem ayarlarını değiştirme</string>
   <string name="permlab_writeSyncSettings">eşitlemeyi aç/kapat</string>
   <string name="perms_description_app">Sağlayan: %1$s.</string>
-  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;YEN&amp;#304;: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;YENİ: &lt;/font&gt;</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Yardımcı</string>
   <string name="phoneTypeCallback">Geri Arama</string>
@@ -1182,6 +1200,8 @@ izin isteğinde bulunuldu."</string>
   <string name="restr_pin_incorrect">Yanlış</string>
   <string name="restr_pin_try_later">Daha sonra tekrar deneyin</string>
   <string name="revoke">İptal et</string>
+  <string name="ringtone_default">Varsayılan zil sesi</string>
+  <string name="ringtone_default_with_actual">Varsayılan zil sesi (%1$s)</string>
   <string name="ringtone_picker_title">Zil Sesleri</string>
   <string name="ringtone_silent">Yok</string>
   <string name="ringtone_unknown">Bilinmeyen zil sesi</string>
@@ -1483,6 +1503,7 @@ Kapatmak ister misiniz?"</string>
   <string name="wifi_calling_off_summary">Kapalı</string>
   <string name="wifi_connect_alert_message">%1$s uygulaması %2$s Wi-Fi ağına bağlanmak istiyor</string>
   <string name="wifi_connect_alert_title">Bağlantıya izin verilsin mi?</string>
+  <string name="wifi_connect_default_application">Bir Uygulama</string>
   <string name="wifi_no_internet">Wi-Fi bağlantısında internet erişimi yok</string>
   <string name="wifi_no_internet_detailed">Seçenekler için dokunun</string>
   <string name="wifi_p2p_dialog_title">Kablosuz Doğrudan Bağlantı</string>
