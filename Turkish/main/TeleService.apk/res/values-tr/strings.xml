@@ -1184,7 +1184,10 @@ Mi Hesabıyla oturup açın"</string>
   <string name="mock_location_app_not_set">Sahte konum uygulama ayarı yok</string>
   <string name="mock_location_app_set">Sahte konum uygulaması: %1$s</string>
   <string name="msim_apn_not_set">Ayarlanamadı</string>
+  <string name="msim_default_setting">Varsayılan Ayarlar</string>
   <string name="msim_disable_sim_card_btn_text">Tamam</string>
+  <string name="msim_disable_sim_card_summary_default_card">"Bu kart şu anda varsayılan SIM olarak ayarlanmıştır. Telefonunuzu kullanmayı bırakırsanız, arama yapamaz veya mobil veri bağlantınızı kullanamazsınız. Başka bir SIM'i varsayılan kartınız olarak ayarladıktan sonra bu SIM kartı durdurabilirsiniz."</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">Arama yapamayabilir veya mobil veri bağlantınızı kullanamayabilirsiniz. %s SIM kartı kullanmayı durdurmak istiyor musunuz?</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Acil geri arama modunda ikincil SIM kartı kısıtlamayın."</string>
   <string name="msim_disable_sim_card_title">SIM kartı kullanmayı durdurun</string>
   <string name="msim_enable_sim">Aç</string>
@@ -1198,6 +1201,7 @@ Mi Hesabıyla oturup açın"</string>
   <string name="msim_not_set_summary">Ayarlanamadı</string>
   <string name="msim_pref_title_data">İnternet</string>
   <string name="msim_pref_title_voice">Çevir</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">ICC kart hatası</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Çağrı esnasında ayarlanamıyor"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM kart hatası</string>
@@ -1401,6 +1405,7 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="other_settings_category">Diğer</string>
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
   <string name="overseas_roaming_setting">Veri Dolaşımı</string>
+  <string name="password">Şifre</string>
   <string name="password_changed">Şifre değiştirildi</string>
   <string name="password_title">Şifre</string>
   <string name="path_answer_state_setting_title">Sistem Uygulamaları/Telefon/Gelen Çağrı Ayarları</string>
@@ -1419,6 +1424,7 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="path_caller_id_title">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/Arayanın Kimliği</string>
   <string name="path_cloud_antispam_title">Sistem Uygulamaları/Telefon/Bilinmeyen Numara Tanımlaması</string>
   <string name="path_connect_disconnect_vibrate_title">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/Cağrı Cevaplandığında Titret</string>
+  <string name="path_crescendo_ringer_title">Sistem Uygulamaları/Telefon/Gelen Çağrı Ayarları/Zil Sesis Arttır</string>
   <string name="path_dtmf_tones_title">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/DTMF Tonları</string>
   <string name="path_enable_antispam_strange_title">Sistem Uygulamaları/Telefon/Gelen Çağrı Ayarları/İlk Zil Sessiz</string>
   <string name="path_enable_proximity_title">Sistem Uygulamaları/Telefon/Gelen Çağrı Ayarları/Yakınlık Sensörü</string>
@@ -1605,6 +1611,7 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="preferred_network_type_pref_entries_only_3g">Sadece 3G</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Tercih Edilen Ağ Tipi</string>
+  <string name="preferred_networks"/>
   <string name="primary_account_summary_with">Birincil Hesap. %s</string>
   <string name="private_num">Özel Numara</string>
   <string name="proceed">İlerle</string>
@@ -1904,6 +1911,7 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="sum_select_automatically">Tercih edilen ağı otomatik olarak seçer</string>
   <string name="sum_show_caller_id">Giden çağrılarda numarayı görüntüle</string>
   <string name="sum_voicemail_choose_provider">Sesli mesaj numarasını seç</string>
+  <string name="summary_preferred_networks"/>
   <string name="sum_xdivert_disabled">X-Yönlendirme kapalı</string>
   <string name="sum_xdivert_enabled">X-Yönlendirme açık</string>
   <string name="summary_manage_subscriptions">Her aboneliğin ağ ayarlarını yönet</string>
@@ -2159,7 +2167,7 @@ Görüşmeyi bitirmek için deneyin ve WLAN ağına tekrar bağlanmayı deneyin"
   <string name="wifi_calling_select_call_assistant">Çağrı Yardımcısını seç</string>
   <string name="wifi_calling_select_call_assistant_summary">Çağrılarda kullanılan ağları yönetmek için bir uygulama veya hizmet seçin</string>
   <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
-  <string name="wifi_calling_summary">Wi-Fi ÇAğrı etkin ve Wi-Fi Çağrı için Seçenekleri seç</string>
+  <string name="wifi_calling_summary">Wi-Fi Çağrı etkin ve Wi-Fi Çağrı için Seçenekleri seç</string>
   <string name="wifi_calling_title">Wi-Fi Çağrısı</string>
   <string name="wifi_calling_use_call_assistant">Çağrı Yardımcısını Kullan</string>
   <string name="wifi_calling_use_call_assistant_summary">Uygulamalar veya hizmetler aramalar için kullanılan ağları yönet</string>
