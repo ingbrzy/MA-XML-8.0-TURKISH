@@ -4,6 +4,8 @@
   <string name="agree_terms">"Hizmet Koşulları ve Gizlilik politikasını okudum ve kabul ettim."</string>
   <string name="app_name">Hüküm</string>
   <string name="back">Geri</string>
+  <string name="cm_terms_content">"Size verilen hizmetleri iyileştirmek için, seçtiğiniz mobil şebeke operatörü, kişisel verilerinizi ve bu cihazla ilgili bilgileri, WLAN şebekeleri veya mobil veri bağlantısı kullanarak kendi sunucularına yükleyebilir. Bu bilgiler, yalnızca hizmetlerin kalitesini artırmak ve daha kişiselleştirilmiş bir içerik sağlamak için istatistiksel amaçlar için kullanılacaktır. Bu bilgiler kişisel olarak sizi tanımlamak için kullanılamaz ve üçüncü taraflara açıklanmaz."</string>
+  <string name="cm_terms_title">Mobil Şebekenin Operatör Anlaşması</string>
   <string name="congratulation_label">"Artık hazırsınız!​"</string>
   <string name="congratulation_title">Kurulum tamamlandı</string>
   <string name="content_description_complete">Tamam</string>
@@ -15,6 +17,9 @@
   <string name="desc_fingerprint">Cihaz kilidini açmak için parmakizini kullanın, Mi Ödeme işlemlerinde veya uygulama ve hizmetlere oturum açıp onaylayın.</string>
   <string name="desc_international_fingerprint">Parmakizinizi kullanarak cihazın kilidi açabilir veya uygulamalara ve hizmetlere oturum açabilirsiniz.</string>
   <string name="disagree">İptal</string>
+  <string name="enable_accessibility_dialog_message">Ekrana 2 parmak ile 10 saniyeden fazla basarak TalkBack'i açtınız. TalkBack, görme engelli kişiler için sesli geribildirim sağlar. Kazayla açtıysanız, İptal düğmesine dokunun ve ekrana iki kez dokunun.</string>
+  <string name="enable_accessibility_dialog_negative_btn">İptal</string>
+  <string name="enable_accessibility_dialog_positive_btn">Tamam</string>
   <string name="ime_privacy_policy">Seçilen klavye için Gizlilik Politikası</string>
   <string name="ime_privacy_policy_no_network">Ağ bağlantısı yok. %s klavyesinin Gizlilik Politikası görüntüle</string>
   <string name="input_method_category">"E-Posta, not yazmak ve diğer her alanda kullanmak için varsayılan klavyenizi seçin. Unutmayın ki istediğiniz her zaman üçüncü parti klavye uygulamalarını yükleyebilirsiniz."</string>
@@ -71,5 +76,5 @@ MIUI'yı kullanabilmeniz için önce Hizmet Şartlarımızı ve Gizlilik Politik
   <string name="title_congratulation">"Şimdi herşeye hazırsın!"</string>
   <string name="title_fingerprint">Parmakizinizi ekleyin</string>
   <string name="user_agreement">Hizmet Şartları</string>
-  <string name="welcome">Hoşgeldiniz</string>
+  <string name="welcome">Hoşgeldiniz!</string>
 </resources>
