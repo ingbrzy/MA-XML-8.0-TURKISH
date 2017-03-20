@@ -883,6 +883,7 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>1 dakika</item>
         <item>2 dakika</item>
         <item>5 dakika</item>
+		<item>Asla</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Sistem animasyonlarını gizle</item>
@@ -966,5 +967,10 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>3.00GB</item>
         <item>32GB</item>
         <item>Dört Çekirdekli 2.15GHz</item>
+    </string-array>
+	<string-array name="miracast_policies">
+        <item>Daha kısa gecikme</item>
+        <item>Standart</item>
+        <item>Daha iyi kalite</item>
     </string-array>
 </resources>
