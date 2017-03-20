@@ -190,11 +190,13 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="auto_task_notify_task_cancel_do">Eylemi iptal et</string>
   <string name="auto_task_notify_task_canceled_summary">Arama yapabilir ve alabilirsiniz</string>
   <string name="auto_task_notify_task_canceled_summary2">"Görünüşe göre bir oyun oynuyorsun."</string>
+  <string name="auto_task_notify_task_canceled_summary3">İkinci Alan tarafından iptal edildi</string>
+  <string name="auto_task_notify_task_canceled_summary4">İlk Alan tarafından iptal edildi</string>
   <string name="auto_task_notify_task_canceled_title">Eylem iptal edildi</string>
   <string name="auto_task_notify_task_continue_do">Eylemi başlat</string>
   <string name="auto_task_notify_task_count_down">Otomatik eylem 5 saniye sonra başlayacak</string>
   <string name="auto_task_operation_airplane_mode">Uçak Modu</string>
-  <string name="auto_task_operation_auto_brightness">Otomatik PArlaklık</string>
+  <string name="auto_task_operation_auto_brightness">Otomatik Parlaklık</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">Ekran Parlaklığı</string>
   <string name="auto_task_operation_close">Kapalı</string>
@@ -835,6 +837,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="menu_text_power_manager">Pil Kullanımı</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Pil: %s</string>
+  <string name="menu_text_power_percent_title_default">Pil</string>
   <string name="mi_service_app_detail">Veri kullanım ayrıntıları</string>
   <string name="mi_service_framework">Mi Hizmet Çerçevesi</string>
   <string name="mi_service_traffic_detail">Çerçeve ayrıntıları</string>
