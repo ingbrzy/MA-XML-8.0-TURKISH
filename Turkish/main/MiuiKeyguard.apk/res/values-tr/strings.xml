@@ -4,6 +4,7 @@
   <string name="click_to_enter_text">Gözatmak için dokunun</string>
   <string name="confirm_pin_msg">PIN kodunu tekrar girin</string>
   <string name="custom_lock_wallpaper_enter">Gir</string>
+  <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı kaydırın</string>
   <string name="delete">Sil</string>
   <string name="emergency_call_string">Acil Çağrı</string>
   <string name="experimental_try_string">Tekrar Dene</string>
@@ -29,11 +30,13 @@
   <string name="incorrect_pukcode">PUK kodu hatalı!</string>
   <string name="incorrect_pukcode_remaining_attempts">PUK kodu hatalı, %d kez deneme hakkınız kaldı</string>
   <string name="input_password_after_boot_msg">"Cihaz yeniden başladıktan sonra şifreyi girmeniz gerekecek."</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">Cihaz yeniden başlatıldıktan sonra İlk Alana girmeniz gerekiyor</string>
   <string name="input_password_hint_text">Şifreyi girin</string>
   <string name="input_pattern_hint_text">Deseni açma desenini çizin</string>
   <string name="input_pin_code">PIN kodunu girin</string>
   <string name="input_puk_code">PUK kodunu girin</string>
   <string name="invalid_confirm_pin_hint">"PIN kodları eşleşmiyor!"</string>
+  <string name="left_action_default_hint_text">Mi Kumanda</string>
   <string name="invalid_sim_pin_hint">PIN Kodu 4-8 karakter arasında olmalı</string>
   <string name="invalid_sim_puk_hint">PUK Kodu en az 8 karakter uzunluğunda olmalı</string>
   <string name="keyguard_torch_cover_text">Feneri açık tutmak için düğmeye basılı tutun</string>
@@ -88,10 +91,12 @@ i.mi.com adresinde oturum açın, "Telefonu Bul" bölümüne gidin, cihazı seç
   <string name="phone_locked_string">Telefon kilitlendi</string>
   <string name="phone_locked_timeout_minutes_string">%s dakika sonra tekrar deneyin</string>
   <string name="phone_locked_timeout_seconds_string">%s saniye içinde tekrar deneyin</string>
+  <string name="symbol_colon">:</string>
   <string name="unlock_sim_string">Tamam</string>
   <string name="unlock_string">Kilidi aç</string>
   <string name="unlocking_sim_card">SIM kartın kilidi açılıyor...</string>
   <string name="unlockscreen_low_battery">Lütfen, şarj cihazını bağlayın.</string>
+  <string name="unlockscreen_quick_charging_message">%%%d hızlı şarj ediliyor</string>
   <string name="unlockscreen_recharge_completed">Pil %100 doldu</string>
   <string name="unlockscreen_recharging_message">Şarj ediliyor: %%%d</string>
   <string name="wrong_password">Yanlış şifre</string>
