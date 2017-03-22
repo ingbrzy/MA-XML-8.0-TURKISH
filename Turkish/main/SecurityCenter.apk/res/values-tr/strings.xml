@@ -70,7 +70,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="adb_install_reject_notiy">"USB yoluyla %s yüklenmesine izin verilemedi"</string>
   <string name="adb_install_reject_notiy_desc">Geliştirici Seçenekleri USB üzerinden yüklemeye izin verebilir</string>
   <string name="adb_login_xiaomi_account">Öncelikle Mi Hesabınızda oturum açın</string>
-  <string name="add_miservice_dialog_content">"%s istisnalar listesine MIUI hizmet çerçevesini eklemenizi gerektirir. MIUI yerleşik uygulamaları ve diğer üçüncü parti uygulamalarının bildirimlerini alabilirsiniz."</string>
+  <string name="add_miservice_dialog_content">"%s istisnalar listesine MIUI hizmet çerçevesini eklemenizi gerektirir.
+        MIUI'nın yerleşik uygulamalarından ve diğer üçüncü parti uygulamalardan bildirim alabilirsiniz."</string>
   <string name="add_miservice_dialog_title">MIUI Hizmet Çerçevesi</string>
   <string name="add_to_whitelist_button">Veri Dolaşım İstisnaları</string>
   <string name="add_white_list">Ekle</string>
@@ -305,6 +306,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="btn_text_stop">Durdur</string>
   <string name="btn_text_virus_scan">Tara</string>
   <string name="button_antivirus">Tamam</string>
+  <string name="button_look_up">Görüntülemek için dokunun</string>
+  <string name="button_lucky_news">红包攻略</string>
   <string name="button_text_accept">Kabul</string>
   <string name="button_text_accept_timer">Kabul (%d)</string>
   <string name="button_text_cancel">İptal</string>
@@ -374,6 +377,14 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="card_main_xspace_action">Oluştur</string>
   <string name="card_main_xspace_summary">Herhangi bir uygulama için çift hesap oluştur</string>
   <string name="card_main_xspace_title">Klonlu Uygulamalar</string>
+  <string name="card_sms_report">SMS yoluyla raporla</string>
+  <string name="card_tc_failed">"Kaibre edilemedi"</string>
+  <string name="card_tc_failed_content">"Olası nedenler:
+ 1. Operatörler, yoğunluk nedeniyle her ayın başında ve sonunda yavaş tepki veriyor. Birkaç gün içinde tekrar deneyin.
+ 2. İlk kez kalibre ettiğinizde, bir ağ istek şablonu gereklidir. Ağa bağlanın ve tekrar deneyin.
+ 3. Operatörünüz, kalan veri ve telefon bakiyesi ile kısa mesaj göndermeyi destekleyemez. Daha fazla bilgi edinmek için operatörünüze başvurun.
+ 4. Operatör verisinde bir hata olabilir. Bunu çözmek için taşıyıcı teşhisi deneyin.
+ 5. Hiçbir şey yardımcı olmuyor gibi görünüyor? Xiaomi'ye geribildiriminizi bir metin mesajıyla göndermek için \ "SMS yoluyla raporla\"'ye dokunun."</string>
   <string name="celcius_symbol">C°</string>
   <string name="charging_text_battery_full_time">Son Şarj:</string>
   <string name="charging_text_battery_nearly_full">Doluma Az Kaldı:</string>
@@ -413,6 +424,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="cta_dialog_title">Hükümler ve Koşullar</string>
   <string name="cta_settings">İnternet bağlantısına izin ver</string>
   <string name="current_network_state_not_need_diagnose">İnternet bağlantısı normal.</string>
+  <string name="customize_limit_pkg">%s (özel)</string>
   <string name="daily_limit_and_lock_screen">Veri Limiti &amp; Bildirimler</string>
   <string name="daily_limit_network_available_body">Veri kullanım istatistiklerini görmek için dokunun.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Mobil verileri açmak için dokunun.</string>
@@ -421,7 +433,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="data_network_blocked_notification_title">İnternet bağlantısı yok</string>
   <string name="data_usage_correction_timeout_body">Elle güncelleştirmek için dokunun.</string>
   <string name="data_usage_correction_timeout_title">Veri kullanım eşitlemesi zaman aşımına uğradı</string>
-  <string name="data_usage_disabled_dialog">"Planlanan veri kullanım limitini aştınız. Eğer limitin üzerine çıkarsanız, operatörünüz tarafından ek ücrete tabi tutulursunuz."</string>
+  <string name="data_usage_disabled_dialog">"Planlanan veri kullanım sınırına ulaştınız. Sınırı aşarsan,
+         Operatörünüz ek ücret talep edebilir."</string>
   <string name="data_usage_disabled_dialog_enable">Veriyi aç</string>
   <string name="data_usage_leisure_warning_body">Veri kullanım detaylarını görüntülemek için dokunun.</string>
   <string name="data_usage_leisure_warning_title">Üst Veri Kullanım Limiti</string>
@@ -435,7 +448,9 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="data_usage_restricted_body">Arkaplan verilerini açmak için dokunun.</string>
   <string name="data_usage_restricted_title">Arkaplan verileri kısıtlı</string>
   <string name="data_usage_warning_body">Veri kullanım detaylarını görüntülemek için dokunun.</string>
+  <string name="data_usage_warning_body_notify">Detayları görüntülemek için dokunun</string>
   <string name="data_usage_warning_title">Veri Kullanımı Uyarısı</string>
+  <string name="data_usage_warning_title_notify">Veri sınırını aştın</string>
   <string name="datausage_ignore_app_list_count">"Yoksayılan %d uygulamanın veri kullanımı"</string>
   <string name="datausage_purchase_backto_ns">Geri</string>
   <string name="datausage_purchase_banner_title">%s Kontör Teklifi (özel)</string>
@@ -549,14 +564,16 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="fingerprint_verify_succeed">Başarıyla doğrulandı</string>
   <string name="fingerprint_verify_try_agin">"Parmakizi taranamadı, tekrar deneyin"</string>
   <string name="firewall_activity_lable">Uygulamaya göre veri kullanımını kısıtlayın</string>
+  <string name="firewall_allow_network">İzinli</string>
   <string name="firewall_applist">Uygulamalar</string>
   <string name="firewall_fragment_nonesys_listempty">Boş</string>
   <string name="firewall_fragment_sys_listempty">Boş</string>
   <string name="firewall_fragment_tab_title_nonsys">Yüklü</string>
   <string name="firewall_fragment_tab_title_sys">Sistem</string>
+  <string name="firewall_network_allow">%2$s kullanımı için %1$s bağlantısına izin verildi</string>
   <string name="firewall_network_restrict_notify_message">Ayarları değiştirmek için dokunun.</string>
   <string name="firewall_network_restrict_notify_mobile">Mobil Veri</string>
-  <string name="firewall_network_restrict_notify_title">"%1$s, %2$s kullanamaz"</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s ağı kullanamaz"</string>
   <string name="firewall_restrict_android_dialog_content">Cihazınız normal çalıştığında, bir kaç Android sistem uygulaması aralıklı internete bağlanır. Bu uygulamalar, mobil veri bağlantınızı kullanır ve operatör tarafında küçük masraflara neden olabilir.</string>
   <string name="firewall_restrict_android_dialog_title">Dikkat</string>
   <string name="firewall_rule_group_title_mobile">Mobil</string>
@@ -583,6 +600,13 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="go_to">Devam</string>
   <string name="go_to_setting_fingerprint">Ayarlar</string>
   <string name="goto_set">Ayarla</string>
+  <string name="guide_get_operator_error">"Yanlış operatör mü?"</string>
+  <string name="guide_operator_text">"Mevcut Operatörünüz: "</string>
+  <string name="guide_primary_text">"Mobil veri kullanımınızı yönetmek için
+Ağ Yardımcısını açın"</string>
+  <string name="guide_quck_open">Aç</string>
+  <string name="guide_second_text">"Operatörünüzü ayarladıktan sonra MIUI, ücretsiz olarak mobil operatörünüze SMS göndererek mobil veri kullanımınızı günlük olarak izleyecektir. MIUI, veri sınırını aştığınızı tespit ettiğinde, ağ bağlantısını kesip sizi bilgilendirecektir."</string>
+  <string name="guide_wait_setting">Şimdi değil</string>
   <string name="handle_bar_summary_wifi_unknown">Bilinmiyor</string>
   <string name="handle_bar_title_apps">Uygulamalar</string>
   <string name="handle_bar_title_paysms">Mesajlar</string>
@@ -658,7 +682,8 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="installing">Yükleniyor</string>
   <string name="international_roaming_setting">Yurtdışı Dolaşım</string>
   <string name="international_roaming_whitelist_count">Dolaşım esnasında %d uygulama mobil veri kullanabilir</string>
-  <string name="ip_address_exception_summary">"IP adresi alınamadı. Bir statik IP adresi kullanmayı deneyin."</string>
+  <string name="ip_address_exception_summary">"IP adresi alınamadı. Bu soruna tekrar girerseniz,
+        statik bir IP adresi kullanmayı deneyin."</string>
   <string name="item_app_permission">Uygulama İzinleri</string>
   <string name="item_dev_mode">Geliştirici Seçenekleri</string>
   <string name="item_install_monitor">Yüklemeleri izle</string>
@@ -705,10 +730,14 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="legal_workday_invalidate">Ptesi-Cuma (Tatil bilgisi geçti)</string>
   <string name="legal_workday_invalidate_message">Yasal tatil bilgisini güncellemek için dokunun.</string>
   <string name="legal_workday_message">(Tatilleri atla)</string>
+  <string name="leisure_usage_dialog_message">"Üst veri limitinize ulaştınız.
+
+Mobil veri bağlantısı tekrar kullanırsanız, operatör sizeden ek ücret talep edebilir."</string>
   <string name="list_empty_text">Boş</string>
   <string name="load_fail">"Yüklenmedi"</string>
   <string name="load_only_under_wlan">Yalnızca WLAN kullanarak yükle</string>
-  <string name="local_ip_exception_summary">"Yerel IP adresi alınamadı. MIUI Hata Bildirimi uygulaması ile bu sorunu ve cihaz günlüğünü bize iletebilirsiniz."</string>
+  <string name="local_ip_exception_summary">"Yerel IP adresi alınamadı. MIUI Hata Bildirimi uygulaması ile 
+ bu sorunu ve cihaz günlüğünü bize iletebilirsiniz."</string>
   <string name="lock_mode_title">Kilit Ayarları</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s kilit ekranında kullanıldı</string>
   <string name="lock_screen_traffic_guide_notification_title">Veri kullanımını yönetmek için dokunun.</string>
@@ -758,11 +787,17 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
 mobil veri bağlantısını desteklemiyor"</string>
   <string name="main_button_idel_traffic">Üst Limit</string>
   <string name="main_button_normal_traffic">Üst Limit</string>
+  <string name="main_bill_remained">Telefon Bakiyesi</string>
   <string name="main_button_usage_adjust">Mobil veri kullanımını eşitle</string>
   <string name="main_button_usage_adjust_manual">Veri kullanım limitini ayarla</string>
   <string name="main_button_usage_adjusting">Değiştiriliyor…</string>
   <string name="main_button_usage_package_setting">Veri kullanım limitini ayarla</string>
   <string name="main_message_no_package_by_dual">%s için veri limitini ayarla</string>
+  <string name="main_leisure_remained">Kalan üst veri limiti:</string>
+  <string name="main_month_total_used">Bu ay kullanılan:</string>
+  <string name="main_month_used">Bu ay kullanılan:</string>
+  <string name="main_no_info">Veri yok</string>
+  <string name="main_normal_data_usage">Mobil veri kullanımı:</string>
   <string name="main_open_traffic_ctrl_button">Veri kullanımını kısıtla</string>
   <string name="main_primary_message_traffic_cur_leisure">Üst veri kullanımı</string>
   <string name="main_primary_message_traffic_cur_normal">Üst veri limitinin altında</string>
@@ -782,6 +817,19 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="main_secondary_message_traffic_used_leisure">%s en üst veri kullanıldı</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s en üst veri kullanımı | geriye en üst veri kalmadı</string>
   <string name="main_secondary_message_traffic_used_normal">%s yüksek miktarda veri kullanıldı</string>
+  <string name="main_primary_message_leisure_alert">Üst limit veri uyarısı</string>
+  <string name="main_primary_message_leisure_overlimit">Dağılımsız veri sınırı aşıldı</string>
+  <string name="main_primary_message_leisure_remain">Üst Limit Verisi</string>
+  <string name="main_primary_message_traffic_overlimit">Dağılımsız Veri Sınırı </string>
+  <string name="main_primary_message_traffic_remain">Mobil Veri</string>
+  <string name="main_primary_message_traffic_warning">Mobil Veri Uyarısı</string>
+  <string name="main_purchase_tips">Promosyon</string>
+  <string name="main_tc_over">Başarıyla kalibre edildi</string>
+  <string name="main_tc_send_sms">"Kalibre etmek için
+SMS gönder"</string>
+  <string name="main_tc_wait_result">"Operatörün cevap vermesi
+için bekleniyor"</string>
+  <string name="main_today_used">Bugün Kullanılan:</string>
   <string name="main_toolbar_firewall">Veri kullanımını kısıtla</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobil Veri</string>
   <string name="main_toolbar_internet_by_pc_brige">USB İnternet</string>
@@ -794,6 +842,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="main_traffic_used">%s kullanıldı</string>
   <string name="main_traffic_used_only">%s kullanıldı</string>
   <string name="main_traffic_used_text">kullanıldı</string>
+  <string name="main_used_bill">%s CNY</string>
   <string name="manual_handle_title">MEVCUT ÖZELLİKLER</string>
   <string name="manual_input_free_traffic">En üst Mobil Veri Ayarı</string>
   <string name="manual_input_traffic">Veri Kullanımını Ayarla</string>
@@ -864,7 +913,8 @@ mobil veri bağlantısını desteklemiyor"</string>
 
  3. Bulunduğunuz bölgede operatörünüzün sinyali zayıf olabilir."</string>
   <string name="network_not_available">"Ağa bağlanamadı"</string>
-  <string name="network_operator_exception_summary">"SIM kart aktivasyonu yapılamadı, SIM kartı ve mobil veri planını kontrol edin"</string>
+  <string name="network_operator_exception_summary">"SIM kartı etkinleştirilemedi. SIM kartınızın doğru yerleştirildiğinden ve
+        mobil planınızın operatörünüz tarafından etkinleştirildiğinden emin olun."</string>
   <string name="network_permission_exception_tips">"Ağa bağlanmak için mobil veri kullanılamıyor"</string>
   <string name="network_roaming_exception_tips">"Dolaşımda iken mobil veri kullanılamıyor"</string>
   <string name="network_route_exception_detail">"Bağlı olduğunuz yönlendirici ile ilgili bir sorun olabilir:
@@ -1243,6 +1293,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_about_traffic_title">Veri Kullanım Ayarları</string>
   <string name="pref_add_traffic_pkg">Satın Alınan Ek Veri</string>
   <string name="pref_adjust_data_usage">Operatör Mesaj Şablonu</string>
+  <string name="pref_adjust_data_usage_summary">Kalibrasyon şablonunu değiştirdikten sonra MIUI, operatörünüzün veri kullanım istatistiklerini almak için, onu kullanacaktır.</string>
+  <string name="pref_adjust_data_usage_value">Değiştirildi</string>
   <string name="pref_adjust_traffic_data">Veri Kullanımını Ayarla</string>
   <string name="pref_allow_connect_network_title">Uluslararası Veri Dolaşımı</string>
   <string name="pref_allow_connect_network_whitelist_title">Dolaşımdayken mobil veri kullanımına izin ver</string>
@@ -1251,6 +1303,9 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_auto_adjust_traffic">Veri kullanım istatistiklerini otomatik eşitle</string>
   <string name="pref_automatic_adjust">Operatör veri kullanımını eşitle</string>
   <string name="pref_avaible_traffic">Kablosuz Planı</string>
+  <string name="pref_category_daily_package_tile">Günlük Veri Planı</string>
+  <string name="pref_category_extra_package_tile">Kontör Paketi</string>
+  <string name="pref_category_half_year_package_tile">Yarım Yıl Veri Paketi</string>
   <string name="pref_category_title_lock_screen_memory_clean">Kilit ekranında temizle</string>
   <string name="pref_category_title_module_settings">Özellik Ayarları</string>
   <string name="pref_category_title_other">Ek Ayarlar</string>
@@ -1259,20 +1314,34 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_category_title_virus_lib_auto_update">Otomatik olarak tanımlarını güncelle</string>
   <string name="pref_category_title_virus_white_list">İstisnalar</string>
   <string name="pref_check_network_diagnostics">"Cihazın internet bağlantısının test et"</string>
+  <string name="pref_confirm_operator_setting">Girdiğiniz bilgilerin doğru olduğundan emin olun</string>
   <string name="pref_connect_settings_enable_background">Arkaplan verilerine izin verin</string>
   <string name="pref_connect_settings_enable_background_hint">"Arkaplanda çalışan uygulamaların veri kullanımına izin verir"</string>
   <string name="pref_connect_settings_exceed_limit">Yüksek veri kullanımını kısıtlayın</string>
   <string name="pref_connect_settings_exceed_limit_hint">Yüksek veri kullanım sınırına ulaştığında veri bağlantısını kapat</string>
   <string name="pref_content_virus_white_list_none">Öğe yok</string>
   <string name="pref_daily_adjust">Yüksek veri sınırının ayarı</string>
+  <string name="pref_correction_setting">Kalibrasyon şablonu ayarları</string>
+  <string name="pref_correction_setting_switch">Özel kalibrasyon şablonu kullan</string>
+  <string name="pref_correction_sms_content">Kalibrasyon şablonu</string>
+  <string name="pref_correction_sms_number">"Kalibrasyon SMS'i gönder:"</string>
+  <string name="pref_daily_adjust">Veri limiti kullanımını ayarla</string>
   <string name="pref_daily_traffic">Üst veri sınırı</string>
   <string name="pref_data_usage_ignore_settings">Veri kullanımını görmezden gel</string>
   <string name="pref_data_usage_ignore_settings_summary">"Seçilen uygulama grubunun veri kullanımını takip etme"</string>
-  <string name="pref_data_usage_not_set">Veri kullanımının üst limiti</string>
-  <string name="pref_free_adjust">Veri kullanımı üst limit ayarı</string>
+  <string name="pref_data_usage_not_set">Bilinmeyen veri planı</string>
+  <string name="pref_free_adjust">Üst limit veri kullanım ayarı</string>
   <string name="pref_free_traffic_exceed_limit">Mobil veri sınıra ulaştığında beni uyar</string>
   <string name="pref_free_traffic_limit_warn">En üst veri kullanım uyarısı</string>
   <string name="pref_free_traffic_settings">En üst veri kullanım ayarları</string>
+  <string name="pref_key_daily_package_switch">Günlük veri planı</string>
+  <string name="pref_key_daily_package_value">Günlük veri planı</string>
+  <string name="pref_key_direction_traffic">Belirlenmiş mobil veri</string>
+  <string name="pref_key_extra_package_switch">Aylık kontör paketi</string>
+  <string name="pref_key_extra_package_value">Paket boyutu</string>
+  <string name="pref_key_half_year_package_start">Başlama tarihi</string>
+  <string name="pref_key_half_year_package_switch">Yarım yıllık veri paketi</string>
+  <string name="pref_key_half_year_package_value">Paket boyutu</string>
   <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
   <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
   <string name="pref_leisure_no_overlay">Aç</string>
@@ -1284,7 +1353,11 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_more_traffic_settings">Ek Ayarlar</string>
   <string name="pref_new_installed_preconfig_title">"Yeni uygulamaların varsayılan ayarları"</string>
   <string name="pref_open_adjust_traffic">Operatörünüz istatistiklerini kullanarak her gün veri kullanımını güncelleyin</string>
-  <string name="pref_package_traffic_leisure">%1$s | En-Üst: %2$s</string>
+  <string name="pref_package_traffic_leisure">%1$s | Üst Limit: %2$s</string>
+  <string name="pref_operator_not_set">"Operatör ayarlanmadı"</string>
+  <string name="pref_operator_setting">%1$s%2$s</string>
+  <string name="pref_package_traffic_leisure">"%1$s 
+ Üst Limit: %2$s"</string>
   <string name="pref_package_traffic_normal">Dahil: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Ek: %2$s</string>
   <string name="pref_package_traffic_settings">Mobil Veri Limiti</string>
@@ -1294,6 +1367,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="pref_roaming_setting_gategory">Ayarlar</string>
   <string name="pref_setting_operators_message">Cihazınız veri kullanım istatistiklerini eşitlemek için operatöre göndereceği mesaji düzenleyin</string>
   <string name="pref_show_mobile_traffic">Cihaz en fazla 5 dakika süreyle bloke edildikten sonra kilidi açma sırasında veri kullanım istatistiklerini gösterecek</string>
+  <string name="pref_special_package_setting">Özel Veri Planı</string>
   <string name="pref_special_traffic_exceed_limit">Mobil veri sınıra ulaştığında beni uyar</string>
   <string name="pref_special_traffic_limit_warn">Veri kullanım uyarısını ayarla</string>
   <string name="pref_specified_adjust">Özel veri sınırı ayarı</string>
@@ -1388,9 +1462,13 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="privacy_declare_dialog_message">"Bu servisi kullandığınız zaman Opera\'nın &lt;a href=%s&gt; Hizmet Şartları&lt;/a&gt;-nı da kabul etmiş olursunuz."</string>
   <string name="privacy_declare_dialog_title">Hizmet Şartları</string>
   <string name="privacy_mode_dialog_title">Misafir Modu</string>
-  <string name="privacy_prompt_tc_sms_report_message">"Telefon numaranız ve operatör ayrıntıları şifrelenir ve veri kullanım bilgilerini güncellemek için Mi sunucularına yüklenir."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"Bu özellik şifrelenecek ve cihazınızın IMEI, telefon numarası, operatör bilgisi Mi sunucusuna operatörün veri kullanım istatistiği olarak gönderilecek."</string>
-  <string name="privacy_prompt_traffic_purchase_message">"Telefon numaranız ve taşıyıcı detayları, veri satın alma seçenekleri hakkında daha fazla bilgi almak için Mi sunucularına yüklenecektir."</string>
+  <string name="privacy_prompt_tc_sms_report_message">"Veri kullanımı bilgilerinizi güncellemek için telefon numaranız ve operatör bilgileriniz 
+        şifreli olacak ve Mi sunucularına yüklenecektir."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"Kalibrasyona başladıktan sonra, MIUI ağa bağlanacak, operatörünüzün bilgisini, telefon numarasını, IMEI'yi ve Mi Hesabı'nı kodlayacak ve bu öğeleri Mi sunucularına yükleyecektir. Bu, taşıyıcının kalibrasyon şablonunu edinmek ve konumunuzda veri satın almanın mümkün olup olmadığını öğrenmek için yapılır.
+
+Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir kısa mesaj gönderir."</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Veri satın alma seçenekleri hakkında daha fazla bilgi edinmek için telefon numaranız 
+        ve operatör bilgileriniz Şifrelenecek ve Mi sunucularına yüklenecektir."</string>
   <string name="privacy_prompt_upload">Yükle</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Medya Sunucusu</string>
@@ -1543,7 +1621,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="settings_title_payment_security">Ödeme Güvenlik Ayarları</string>
   <string name="settings_title_permission">İzin Ayarları</string>
   <string name="share">Paylaş</string>
-  <string name="show_traffic_dialog_message">Veri kullanımınız bildirim alanında görüntülenecektir. Bu özelliği istediğiniz zaman Veri Kullanım &gt; Ayarlardan değiştirebilirsiniz</string>
+  <string name="show_traffic_dialog_message">"Veri kullanım bilgisi bildirim gölgesinde görüntülenir. Bu özelliği,
+        Ayarlar altındaki Veri Kullanımı bölümünden yapabilirsiniz"</string>
   <string name="show_traffic_dialog_title">Veri kullanımını bildirim alanında göster</string>
   <string name="showpattern">Deseni göster</string>
   <string name="shutdown_cancel_reminder">"Kapatılamıyor"</string>
@@ -1555,7 +1634,8 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="signal_exception_summary">"Bu bölgede ağa bağlanamıyor!"</string>
   <string name="signal_exception_title">Sinyal gücü testi</string>
   <string name="sim_location_diagnostic">Konum teşhisi</string>
-  <string name="sim_location_error_dialog_message">"Kullanılan SIM %1$s arasındadır. Bu elle ile ayarlanan konumdan farklı (%2$s). SIM konumu %3$s olarak değiştirilsin mi?"</string>
+  <string name="sim_location_error_dialog_message">"Kullanmakta olduğunuz SIM: %1$s. Bu elle ayarladığınızdan farklı
+        bir konumda (%2$s). %3$s SIM konumunu değiştirmek istiyor musunuz?"</string>
   <string name="sim_location_error_notify_message">SIM konumunu değiştirmek için dokunun.</string>
   <string name="sim_location_error_notify_title">SIM kart hatası</string>
   <string name="sim_state_exception_summary">SIM durumunda SIM kart ile ilgili bilgiler yanlışta olabilir.</string>
@@ -1607,7 +1687,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="start_diagnostic_botton">Başlat</string>
   <string name="start_downloading_app">İndirme Başlangıcı: %1$s</string>
   <string name="start_install">Şimdi yükle</string>
-  <string name="stop_app_button">Dur</string>
+  <string name="start_tc_button">Kalibre</string>
   <string name="suffix_pay_risk_count_bottom">risk</string>
   <string name="suffix_pay_risk_count_top">ödeme</string>
   <string name="suffix_virus_count_bottom">Toplam</string>
@@ -1678,8 +1758,10 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Sonuç: Yanlış operatör markası&lt;br/&gt;&lt;br/&gt;Markayı ayarla: &lt;xliff:g id=marka misali=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Faal Marka: &lt;xliff:g id=konum misali=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Tamam</string>
   <string name="tc_diagnostic_fragment_default">"Teşhis hakkında
-1. Cihaz, operatörün şebekesine bağlanacak, ücretsiz mesaj gönderecek ve operatörün cevabını bekleyecek. Bu işlem 5 dakika kadar sürebilir.
-2. Teşhis esnasında bu sayfadan ayrılabilir, arkaplanda işlemi yürütebilir."</string>
+1.Cihaz, operatörün şebekesine bağlanacak, ücretsiz bir mesaj gönderilecek ve 
+        operatörün cevabını bekleyecektir. Bu işlem 5 dakika kadar sürebilir.
+2. Teşhis sırasında bu sayfadan ayrılabilirsin,
+        işlem arkaplanda yürütülecektir."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Konumu ayarlamak için dokunun</string>
   <string name="tc_diagnostic_location_error_notification_title">Yanlış konum</string>
   <string name="tc_diagnostic_notification_sumarry">Sonuçları görüntülemek için dokunun</string>
@@ -1712,7 +1794,8 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="tc_diagnostic_upload_success">Görüşleriniz için teşekkür ederiz!</string>
   <string name="tc_sms_report_direction">SMS sorgulama kodu</string>
   <string name="tc_sms_report_do_report">Gönder</string>
-  <string name="tc_sms_report_get_default">"Operatörden veri kullanım bakiyenizi almak için kullanılan SMS mesajları için ücret ödemeyeceksiniz."</string>
+  <string name="tc_sms_report_get_default">"Operatörden veri kullanım bakiyenizi almak için kullanılan
+        SMS mesajları için ücret ödemeyeceksiniz."</string>
   <string name="tc_sms_report_get_sms">SMS Al</string>
   <string name="tc_sms_report_get_sms2">SMS Al</string>
   <string name="tc_sms_report_get_sms_again">SMS Yenile</string>
@@ -1721,13 +1804,15 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="tc_sms_report_get_sms_failure">"Veri kullanımı SMS biçimi alınamadı"</string>
   <string name="tc_sms_report_get_sms_successs">Veri kullanım SMS biçimi güncellendi</string>
   <string name="tc_sms_report_get_sms_timeout">İstek zaman aşımına uğradı</string>
-  <string name="tc_sms_report_get_success">"Operatörden veri kullanım raporu SMS olarak aldı. Doğru olduğundan emin olun ve bize gönderin."</string>
+  <string name="tc_sms_report_get_success">"Operatörden gelen SMS ile alınan veri kullanım raporu. Doğru olduğundan emin olun
+        ve bize gönderin."</string>
   <string name="tc_sms_report_get_success_notify_body">Raporun doğru olduğundan emin olun ve MIUI\'ye gönderin.</string>
   <string name="tc_sms_report_get_success_notify_title">Veriler kullanım raporu SMS olarak alındı</string>
   <string name="tc_sms_report_geting_sms">SMS bilgisi alınıyor...</string>
   <string name="tc_sms_report_notify_correction_body">Güvenlik Merkezi\'nde Veri kullanım uygulamasına gidin ve elle tekrar deneyin.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Veri kullanımı bilgileri güncellenemedi"</string>
-  <string name="tc_sms_report_notify_get_failure_body">"Veri kullanımı raporu gönderilemedi. Mobil ağa bağlı olduğunuzdan emin olun."</string>
+  <string name="tc_sms_report_notify_get_failure_body">"Veri kullanımı raporu gönderilemedi. Bir Mobil ağa bağlı
+        olduğunuzdan emin olun."</string>
   <string name="tc_sms_report_notify_get_failure_title">"Veri kullanım SMSi alınamadı"</string>
   <string name="tc_sms_report_notify_get_timeout_body">Süreç zaman aşımına uğradı. Girdiğiniz SMS sorgulama kodu doğruysa operatörünüz ile onaylayın.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Veri kullanım SMS'i alınamadı"</string>
@@ -1736,7 +1821,9 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="tc_sms_report_receive_num">Alıcı Numarası</string>
   <string name="tc_sms_report_send_num">Operatör Telefon #</string>
   <string name="tc_sms_report_summary">Veri kullanım bilgisi yanlış veya güncellemek için başarısız olduğunda bize bir rapor göndererek bu özelliği geliştirmemize yardımcı olun.</string>
-  <string name="tc_sms_report_tips_dialog_message">"Veri kullanım için Operatörden gelen son veri kullanımnı almak için özel olarak biçimlendirilmiş bir SMS kullanır. Bu özellik normalde çalışmıyorsa, veri kullanım SMS biçimini güncellemeyi deneyin. Yeni güncellenen biçim o zaman bizim sunuculara yüklenir."</string>
+  <string name="tc_sms_report_tips_dialog_message">"Veri kullanımı, operatörünüzden en yeni veri kullanımınızı elde etmek için özel olarak 
+        biçimlendirilmiş bir SMS kullanır. Bu özellik normal çalışmıyorsa, veri kullanımı SMS 
+        biçimini güncellemeyi deneyin. Yeni güncellenen format sunucularımıza yüklenecektir."</string>
   <string name="tc_sms_report_tips_dialog_title">"Veri Kullanım SMS'i"</string>
   <string name="tc_sms_report_title">Veri Kullanım Hata Raporu</string>
   <string name="tc_sms_report_title_bill">Veri Kullanım Hata Raporu</string>
