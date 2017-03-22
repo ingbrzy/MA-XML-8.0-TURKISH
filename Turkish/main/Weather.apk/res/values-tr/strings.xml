@@ -92,7 +92,12 @@
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Şimdi</string>
   <string name="hourly_forecast_title">Saatlik Tahmin</string>
+  <string name="index_item_experience_now">Install now</string>
+  <string name="index_item_install_dialog"/>
+  <string name="index_item_install_dialog_cancel"/>
+  <string name="index_item_install_dialog_open"/>
   <string name="index_item_install_now">Şimdi yükle</string>
+  <string name="index_item_installing">Yükleniyor</string>
   <string name="indices_desc_Precip1hr">%1$smm</string>
   <string name="indices_desc_feel">Hissedilen: %1$s C°</string>
   <string name="indices_desc_feel_without_pic">%1$s C°</string>
@@ -121,7 +126,8 @@
   <string name="information_set">Diğer Ayarlar</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
-  <string name="install">Kurulum</string>
+  <string name="install">Yükle</string>
+  <string name="install_progress">%%%1$s</string>
   <string name="international_detail_menu_title">Detaylar</string>
   <string name="international_details_pressure_title">Basınç</string>
   <string name="international_details_real_feel_title">"Hissedilen°"</string>
@@ -146,6 +152,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="no_vote_ratio">Aleyhte: %%%1$s</string>
   <string name="open">Aç</string>
   <string name="open_browser">Tarayıcıda Aç</string>
+  <string name="open_now">Şimdi Aç</string>
   <string name="other">Diğer</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="realtime_aqi_connection">%1$s</string>
