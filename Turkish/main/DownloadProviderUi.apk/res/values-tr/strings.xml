@@ -245,6 +245,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="paused_waiting_to_retry">Tekrarlanması için bekliyor</string>
   <string name="percent_title">%1$s kişi indirdi</string>
   <string name="period_of_validity">Geçerlilik:</string>
+  <string name="pref_download_revert_default">Varsayılan</string>
   <string name="pref_download_settings_title">İndirme Boyutunun Sınırı</string>
   <string name="pref_download_storage_path">İndirmeler için yeni bir klasör oluştur</string>
   <string name="pref_sniff_shortcut">Kısayol oluştur</string>
@@ -280,6 +281,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="resume_download">Devam Et</string>
   <string name="retry_after_network_available">"Ağa bağlanamadı. Veri bağlantısını kontrol edip, tekrar deneyin"</string>
   <string name="retry_download">Tekrarla</string>
+  <string name="revert_default">Varsayılan ayarları yükle</string>
   <string name="revert_download_path">Varsayılan indirme konumu kullanılsın mı?</string>
   <string name="save_path">"Kaydetme Yeri: "</string>
   <string name="save_text">￥%1$s tasarruf et</string>
@@ -388,9 +390,10 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="text_showmore_infoflow">Fazla kaynağı görüntüle</string>
   <string name="third_web_cancel">İptal</string>
   <string name="third_web_confirm">Tamam</string>
-  <string name="third_web_filename_hint">Adı</string>
-  <string name="third_web_filesize">Boyutu</string>
-  <string name="third_web_savepath">Konumu</string>
+  <string name="third_web_default">Bu konumu hatırla</string>
+  <string name="third_web_filename_hint">Adı:</string>
+  <string name="third_web_filesize">Boyutu:</string>
+  <string name="third_web_savepath">Konumu:</string>
   <string name="third_web_title">İndir</string>
   <string name="title_homepage_infoflow">Geçmiş güncellemeler</string>
   <string name="title_tips">Dikkat</string>
