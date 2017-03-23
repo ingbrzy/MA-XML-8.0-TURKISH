@@ -64,6 +64,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="activity_title_virus_detail">Virüs Detayları</string>
   <string name="activity_title_virus_settings">Ayarlar</string>
   <string name="activity_title_white_list">Beyaz Liste</string>
+  <string name="ad_btn_default_text">Diğer</string>
   <string name="adb_install_no_network">Ağa bağlanın ve tekrar deneyin</string>
   <string name="adb_install_open">İzin veriliyor…</string>
   <string name="adb_install_open_error">"İzin verilemedi, ağ bağlantısını kontrol edin"</string>
@@ -384,7 +385,7 @@ Uygulama Kilidinin şifresini girin"</string>
  2. İlk kez kalibre ettiğinizde, bir ağ istek şablonu gereklidir. Ağa bağlanın ve tekrar deneyin.
  3. Operatörünüz, kalan veri ve telefon bakiyesi ile kısa mesaj göndermeyi destekleyemez. Daha fazla bilgi edinmek için operatörünüze başvurun.
  4. Operatör verisinde bir hata olabilir. Bunu çözmek için taşıyıcı teşhisi deneyin.
- 5. Hiçbir şey yardımcı olmuyor gibi görünüyor? Xiaomi\'ye geribildiriminizi bir metin mesajıyla göndermek için \ "SMS yoluyla raporla\"\'ye dokunun."</string>
+ 5. Hiçbir şey yardımcı olmuyor gibi görünüyor? Xiaomi\'ye geribildiriminizi bir metin mesajıyla göndermek için \ "SMS yoluyla raporla\"'ye dokunun."</string>
   <string name="celcius_symbol">C°</string>
   <string name="charging_text_battery_full_time">Son Şarj:</string>
   <string name="charging_text_battery_nearly_full">Doluma Az Kaldı:</string>
@@ -820,7 +821,9 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="main_primary_message_leisure_alert">Üst limit veri uyarısı</string>
   <string name="main_primary_message_leisure_overlimit">Dağılımsız veri sınırı aşıldı</string>
   <string name="main_primary_message_leisure_remain">Üst Limit Verisi</string>
+  <string name="main_primary_message_traffic_overlimit">Dağılımsız Veri Sınırı </string>
   <string name="main_primary_message_traffic_remain">Mobil Veri</string>
+  <string name="main_primary_message_traffic_warning">Mobil Veri Uyarısı</string>
   <string name="main_purchase_tips">Promosyon</string>
   <string name="main_tc_over">Başarıyla kalibre edildi</string>
   <string name="main_tc_send_sms">"Kalibre etmek için
@@ -1323,6 +1326,7 @@ için bekleniyor"</string>
   <string name="pref_correction_setting_switch">Özel kalibrasyon şablonu kullan</string>
   <string name="pref_correction_sms_content">Kalibrasyon şablonu</string>
   <string name="pref_correction_sms_number">"Kalibrasyon SMS'i gönder:"</string>
+  <string name="pref_daily_adjust">Veri limiti kullanımını ayarla</string>
   <string name="pref_daily_traffic">Üst veri sınırı</string>
   <string name="pref_data_usage_ignore_settings">Veri kullanımını görmezden gel</string>
   <string name="pref_data_usage_ignore_settings_summary">"Seçilen uygulama grubunun veri kullanımını takip etme"</string>
@@ -1353,6 +1357,8 @@ için bekleniyor"</string>
   <string name="pref_package_traffic_leisure">%1$s | Üst Limit: %2$s</string>
   <string name="pref_operator_not_set">"Operatör ayarlanmadı"</string>
   <string name="pref_operator_setting">%1$s%2$s</string>
+  <string name="pref_package_traffic_leisure">"%1$s 
+ Üst Limit: %2$s"</string>
   <string name="pref_package_traffic_normal">Dahil: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Ek: %2$s</string>
   <string name="pref_package_traffic_settings">Mobil Veri Limiti</string>
