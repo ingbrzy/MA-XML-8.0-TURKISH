@@ -821,9 +821,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="main_primary_message_leisure_alert">Üst limit veri uyarısı</string>
   <string name="main_primary_message_leisure_overlimit">Dağılımsız veri sınırı aşıldı</string>
   <string name="main_primary_message_leisure_remain">Üst Limit Verisi</string>
-  <string name="main_primary_message_traffic_overlimit">Dağılımsız Veri Sınırı </string>
   <string name="main_primary_message_traffic_remain">Mobil Veri</string>
-  <string name="main_primary_message_traffic_warning">Mobil Veri Uyarısı</string>
   <string name="main_purchase_tips">Promosyon</string>
   <string name="main_tc_over">Başarıyla kalibre edildi</string>
   <string name="main_tc_send_sms">"Kalibre etmek için
@@ -1326,7 +1324,6 @@ için bekleniyor"</string>
   <string name="pref_correction_setting_switch">Özel kalibrasyon şablonu kullan</string>
   <string name="pref_correction_sms_content">Kalibrasyon şablonu</string>
   <string name="pref_correction_sms_number">"Kalibrasyon SMS'i gönder:"</string>
-  <string name="pref_daily_adjust">Veri limiti kullanımını ayarla</string>
   <string name="pref_daily_traffic">Üst veri sınırı</string>
   <string name="pref_data_usage_ignore_settings">Veri kullanımını görmezden gel</string>
   <string name="pref_data_usage_ignore_settings_summary">"Seçilen uygulama grubunun veri kullanımını takip etme"</string>
@@ -1357,8 +1354,6 @@ için bekleniyor"</string>
   <string name="pref_package_traffic_leisure">%1$s | Üst Limit: %2$s</string>
   <string name="pref_operator_not_set">"Operatör ayarlanmadı"</string>
   <string name="pref_operator_setting">%1$s%2$s</string>
-  <string name="pref_package_traffic_leisure">"%1$s 
- Üst Limit: %2$s"</string>
   <string name="pref_package_traffic_normal">Dahil: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Ek: %2$s</string>
   <string name="pref_package_traffic_settings">Mobil Veri Limiti</string>
