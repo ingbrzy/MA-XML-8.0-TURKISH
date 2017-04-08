@@ -235,8 +235,8 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="HIPS_Perm_process_outgoing_calls_Desc">İzler ve çağrıları sonlandırır</string>
   <string name="HIPS_Perm_read_notification_sms">SMS Hizmeti</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">SMS Hizmetini okur</string>
-  <string name="HIPS_Perm_service_foreground">service_foreground</string>
-  <string name="HIPS_Perm_service_foreground_Desc">service_foreground</string>
+  <string name="HIPS_Perm_service_foreground">Önbilgi Hizmetleri</string>
+  <string name="HIPS_Perm_service_foreground_Desc">Önbilgi Hizmetleri</string>
   <string name="HIPS_Perm_show_when_locked">Kilit Ekranda göster</string>
   <string name="HIPS_Perm_show_when_locked_Desc">Kilit Ekranda gösterilir</string>
   <string name="HIPS_Perm_use_sip">Video Servisleri</string>
