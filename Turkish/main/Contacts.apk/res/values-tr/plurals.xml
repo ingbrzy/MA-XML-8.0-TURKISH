@@ -61,8 +61,8 @@
         <item quantity="one">%1$d seçildi</item>
     </plurals>
     <plurals name="number_of_items_available">
-        <item quantity="other">%1$d kaldı</item>
-        <item quantity="one">%1$d kaldı</item>
+        <item quantity="other">%1$d öğe kaldı</item>
+        <item quantity="one">%1$d öğe kaldı</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
         <item quantity="other">%1$d favori</item>
