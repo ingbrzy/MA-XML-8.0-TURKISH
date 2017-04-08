@@ -147,6 +147,8 @@
   <string name="card_title_video_call_paused">Görüntü durduruldu</string>
   <string name="card_title_video_conf_call">Görüntülü Konferans Çağrısı</string>
   <string name="card_video_hold_swap">Değiştir</string>
+  <string name="close_camera_failed">"Kamera kapatılamıyor..."</string>
+  <string name="close_camera_requesting">Kamera kapatılıyor...</string>
   <string name="cb_all_languages">Tüm Diller</string>
   <string name="cb_channel_dialog_channel_name">Kanal Adı (0-10 karakter)</string>
   <string name="cb_channel_dialog_channel_number">Kanal Numarası (0-65534)</string>
