@@ -141,8 +141,8 @@
         <item quantity="one">%d risk bulundu, şimdi düzelt</item>
     </plurals>
     <plurals name="virus_clean_num">
-        <item quantity="other">Herşey düzgün gözüküyor</item>
-        <item quantity="one">Herşey düzgün gözüküyor</item>
+        <item quantity="other">%1$d problem düzeltildi. Şimdi herşey düzgün gözüküyor</item>
+        <item quantity="one">%1$d problem düzeltildi. Şimdi herşey düzgün gözüküyor</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d uygulama gizlilik riskleri içeriyor</item>
@@ -218,7 +218,51 @@
         <item quantity="one">%d virüs silindi</item>
     </plurals>
     <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d nokta</item>
-        <item quantity="one">+%d nokta</item>
+        <item quantity="other">%d nokta</item>
+        <item quantity="one">%d nokta</item>
+    </plurals>
+	<plurals name="add_game_notification_title">
+        <item quantity="other">%d oyun eklendi</item>
+        <item quantity="one">%d oyun eklendi</item>
+    </plurals>
+    <plurals name="app_manager_apps_generation_title">
+        <item quantity="other">%d uygulamanın güncellemesi mevcut</item>
+        <item quantity="one">%d uygulamanın güncellemesi mevcut</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_contact">
+        <item quantity="other">%d kez kişilere erişti</item>
+        <item quantity="one">%d kez kişilere erişti</item>
+    </plurals>
+    <plurals name="app_manager_permission_call_phone">
+        <item quantity="other">%d çağrı yaptı</item>
+        <item quantity="one">%d çağrı yaptı</item>
+    </plurals>
+    <plurals name="app_manager_permission_send_mms">
+        <item quantity="other">%d SMS gönderdi</item>
+        <item quantity="one">%d SMS gönderdi</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_mms">
+        <item quantity="other">%d kez SMS okudu</item>
+        <item quantity="one">%d kez SMS okudu</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_record">
+        <item quantity="other">%d kez çağrı geçmişini okudu</item>
+        <item quantity="one">%d kez çağrı geçmişini okudu</item>
+    </plurals>
+    <plurals name="app_manager_permission_read">
+        <item quantity="other">%d kez erişti</item>
+        <item quantity="one">%d kez erişti</item>
+    </plurals>
+    <plurals name="app_manager_permission_manager_summary">
+        <item quantity="other">%d izin aldı</item>
+        <item quantity="one">%d izin aldı</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d kez</item>
+        <item quantity="one">%d kez</item>
+    </plurals>
+    <plurals name="app_manager_reject_count">
+        <item quantity="other">%d kez engellendi</item>
+        <item quantity="one">%d kez engellendi</item>
     </plurals>
 </resources>
