@@ -340,4 +340,24 @@
         <item quantity="other">Şansınızı arttırmak için &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> daha fazla mücevher toplayın</item>
         <item quantity="one">Şansınızı arttırmak için &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> daha fazla mücevher toplayın</item>
     </plurals>
-</resources>
+	<plurals name="clockin_days">
+        <item quantity="other">%1$s gün boyunca kontrol edildi</item>
+        <item quantity="one">%1$s gün boyunca kontrol edildi</item>
+    </plurals>
+    <plurals name="clockin_new_chip">
+        <item quantity="other">&lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> puanınız var</item>
+        <item quantity="one">&lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> puanınız var</item>
+    </plurals>
+    <plurals name="clockin_day_count">
+        <item quantity="other">Arka arkaya %1$s gün kontrol edildi, devam edin!</item>
+        <item quantity="one">Arka arkaya %1$s gün kontrol edildi, devam edin!</item>
+    </plurals>
+    <plurals name="total_topic_num">
+        <item quantity="other">%1$s konu</item>
+        <item quantity="one">%1$s konu</item>
+    </plurals>
+    <plurals name="total_user_num">
+        <item quantity="other">%1$s kişi</item>
+        <item quantity="one">%1$s kişi</item>
+    </plurals>
+ </resources>
