@@ -2,7 +2,7 @@
 <resources>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Seçili %1$s içerik silinsin mi?</item>
-        <item quantity="one">Bu içerik silinsin mi?</item>
+        <item quantity="one">Seçilen %1$s içerik silinsin mi?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%d saniye</item>
@@ -20,16 +20,20 @@
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s kişi</item>
-        <item quantity="one">1 kişi</item>
+        <item quantity="one">%1$s kişi</item>
+    </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">%1$s silinsin mi?</item>
+        <item quantity="one">%1$s silinsin mi?</item>
     </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d mesaj</item>
-        <item quantity="zero">0 mesaj</item>
-        <item quantity="one">1 mesaj</item>
+        <item quantity="zero">%d mesaj</item>
+        <item quantity="one">%d mesaj</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%d mesaj eşitlenemedi"</item>
-        <item quantity="one">"1 mesaj eşitlenemedi"</item>
+        <item quantity="one">"%d mesaj eşitlenemedi"</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s mesaj</item>
@@ -38,5 +42,6 @@
 	<plurals name="custom_select_title_items_selected">
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="zero">Öğeleri seç</item>
+		<item quantity="one">%d seçildi</item>
     </plurals>
 </resources>
