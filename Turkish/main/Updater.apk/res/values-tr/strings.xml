@@ -32,7 +32,7 @@
   <string name="auto_dialog_msg_check_again">"Sisteminizi güncellemeden önce güncellenmiş Gizlilik Politikamızı kabul etmelisiniz. "</string>
   <string name="auto_dialog_title_check_again">Güncelleme iptal edilsin mi?</string>
   <string name="auto_update">Güncelleyi otomatik indir</string>
-  <string name="auto_update_sum">WLAN\'a bağlandığında güncellemeleri otomatik indir ve geceleyin kur</string>
+  <string name="auto_update_sum">Güncelleme süresini belirlemek için akıllı algoritma kullan</string>
   <string name="autodownload_update">Otomatik indir</string>
   <string name="autodownload_update_summary">Güncelleştirme boyutu az 20 MB ise otomatik olarak güncellemeleri indir</string>
   <string name="autoinstall_update">Otomatik kur</string>
@@ -355,7 +355,7 @@ Geribildirim gönderilemedi."</string>
   <string name="welcom_button">Tamam</string>
   <string name="welcom_message">"Sarsmaya hazırsın :)"</string>
   <string name="welcom_title">MIUI 8 dünyasına hoşgeldiniz!</string>
-  <string name="wifi_not_available_body">MUIU güncellemesinde mobil veri kullanıyorsanız, bu yüksek miktarda veri inmesine ve öperatörün ek ücret talep etmesine neden olabilir.</string>
+  <string name="wifi_not_available_body">MUIU güncellemesinde mobil veri kullanıyorsanız, bu yüksek miktarda veri inmesine ve operatörün ek ücret talep etmesine neden olabilir.</string>
   <string name="wifi_not_available_title">Veri Kullanımı Uyarısı</string>
   <string name="worst_update">Şu ana kadarki en kötü güncelleme</string>
 </resources>
