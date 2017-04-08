@@ -117,7 +117,7 @@
   <string name="dlg_remove_whitelist_title">Kaldır</string>
   <string name="dlg_retore">Mesaj, Gelen Kutusu\'na geri yüklensin mi?</string>
   <string name="dlg_retore_ok">Geri Yükle</string>
-  <string name="dlg_title_not_open_stranger_identify">Bilinmeyenleri Tanımla</string>
+  <string name="dlg_title_not_open_stranger_identify">Arayanın Kimliği kapalı</string>
   <string name="dlg_white_address_antispam_message">Bu konum istisnalar listesine eklensin mi?</string>
   <string name="dlg_white_antispam_hint">İstisnalar</string>
   <string name="dlg_white_antispam_message">Bu numara istisnalara eklensin mi?</string>
@@ -128,7 +128,7 @@
   <string name="fw_blocked_join">" ve "</string>
   <string name="hint_antispam_mode_edit">Özel Mod</string>
   <string name="im">Anlık Mesaj</string>
-  <string name="info_antispam_close">Anti-Spam Kapalı</string>
+  <string name="info_antispam_close">Kara Liste Kapalı</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Çağrıları engelle</string>
   <string name="info_antispam_phone_sms">Çağrı ve Mesajları Engelle</string>
@@ -355,7 +355,7 @@
   <string name="two_address_choose_hint">%1$s ve %2$s</string>
   <string name="user_define_title">Kural Ekle</string>
   <string name="website">Web Adresi</string>
-  <string name="whitelist_prefix_add_hint">Önekli tüm numaraları istisnalara ekle</string>
+  <string name="whitelist_prefix_add_hint">Bu önek ile tüm sayıları istisnalara ekle</string>
   <string name="wl_no_whitelist">İstisna yok.</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
