@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Açılış Sayfası</string>
-  <string name="abc_action_bar_up_description">Yukarı Git </string>
+  <string name="abc_action_bar_home_description">Ana Sayfaya git</string>
+  <string name="abc_action_bar_up_description">Yukarı Git</string>
   <string name="abc_action_menu_overflow_description">Fazlası</string>
   <string name="abc_action_mode_done">Tamam</string>
   <string name="abc_action_mode_select_all">Hepsi</string>
@@ -112,6 +112,7 @@
   <string name="bookmark_title_lable">Başlık</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">Bu URL zaten yerimlerinde var</string>
+  <string name="bookmark_url_can_not_null">Lütfen bağlantıyı girin.</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"Bu URL geçerli değil."</string>
   <string name="bookmarks_content_is_null">Favori yok</string>
@@ -121,10 +122,10 @@
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Kapatmak için aşağı doğru kaydırın  </string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Bu Son Sekme</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Kapatmak için yukarıya doğru kaydırın </string>
-  <string name="browserFrameFileErrorLabel">Dosya problemi</string>
+  <string name="browserFrameFileErrorLabel">Dosya Hatası</string>
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"Görüntülemeye çalıştığınız sayfa zaten gönderilmiş veriler içeriyor. Verileri yeniden göndermek, önceki eylemleri tekrarlayacaktır."</string>
-  <string name="browserFrameNetworkErrorLabel">Bağlantı problemi</string>
+  <string name="browserFrameNetworkErrorLabel">Bağlantı Hatası</string>
   <string name="cancel">İptal</string>
   <string name="cannot_download">Sadece \"http\" veya \"https\" adreslerinden indirilebilir</string>
   <string name="choosertitle_sharevia">Paylaş:</string>
@@ -185,7 +186,7 @@
   <string name="contextmenu_openlink">Bağlantıyı Aç</string>
   <string name="contextmenu_openlink_newwindow">Yeni sekmede aç</string>
   <string name="contextmenu_openlink_newwindow_background">Arkaplan sekmesinde aç</string>
-  <string name="contextmenu_recognise_qr_code">QR kodunu tanı</string>
+  <string name="contextmenu_recognise_qr_code">QR kodunu tara</string>
   <string name="contextmenu_savelink">Bağlantıyı kaydet</string>
   <string name="contextmenu_send_mail">E-Posta gönder</string>
   <string name="contextmenu_set_wallpaper">Duvar Kağıdı olarak ayarla</string>
@@ -355,7 +356,7 @@
 Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="js_dialog_before_unload_negative_button">Kal</string>
   <string name="js_dialog_before_unload_positive_button">Ayrıl</string>
-  <string name="js_dialog_before_unload_title">Gezinmeyi Onayla</string>
+  <string name="js_dialog_before_unload_title">Sayfadan Ayrıl</string>
   <string name="js_dialog_title">Sayfa \"%s\" diyor:</string>
   <string name="js_disable_confirm_message">JavaScript\'i devre dışı bırakmak bazı sitelerin hatalı gösterilmesine neden olabilir.</string>
   <string name="js_disable_confirm_title">JavaScript devredışı bırakılsın mı?</string>
@@ -657,7 +658,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="save_button_text">Kaydet</string>
   <string name="save_dialog_title">Kaydet</string>
   <string name="save_file">%s dosyalarını kaydet</string>
-  <string name="save_file_already_exist_alert_message">Aynı isme sahip bir dosya zaten mevcut, üzerine yazılsın mı?</string>
+  <string name="save_file_already_exist_alert_message">Aynı ada sahip bir dosya zaten var, değiştirilsin mi?</string>
   <string name="save_file_already_exist_alert_title">Dosya üzerine yazılsın mı?</string>
   <string name="save_form_data_confirm_message">Bu özelliği kapamak kullanımınızı etkileyebilir.</string>
   <string name="save_image_failed">"Görüntü kaydedilemedi"</string>
@@ -669,9 +670,9 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="save_password_notnow">Şimdi değil</string>
   <string name="save_password_remember">Hatırla</string>
   <string name="save_to">Kaydet:</string>
-  <string name="save_to_camera">Kameraya kaydet</string>
+  <string name="save_to_camera">Galeriye kaydet</string>
   <string name="save_to_camera_failed">"Resim kaydedilemiyor"</string>
-  <string name="save_to_camera_success">Kameraya kaydedildi</string>
+  <string name="save_to_camera_success">Galeriye kaydedildi</string>
   <string name="sdcard_error">SD Kartınızı kontrol edin</string>
   <string name="search">Ara</string>
   <string name="search_baidu">Baidu</string>
@@ -706,7 +707,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="send_comment_title">Yorum</string>
   <string name="senddesktop">Ana Ekran</string>
   <string name="sendstartpage">Başlangıç Sayfası</string>
-  <string name="share_page_text">"【%1$s】 zevk alıyorum | %2$s"</string>
+  <string name="share_page_text">"%1$s zevk alıyorum | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Bu web sitesinin URL\'si güvenli olduğundan emin olmak için Xiaomi sunucularına gönderilir. Ayarlar bölümünden istediğiniz zaman bu özelliği kapatabilirsiniz.</string>
   <string name="show_check_security_url_check_tip_dialog_title">URL güvenliğini kontrol edin</string>
   <string name="show_security_tip_dialog_title">Kullanım Koşulları</string>
