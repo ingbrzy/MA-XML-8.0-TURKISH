@@ -101,6 +101,7 @@
   <string name="feedback_submit_succ_button">Tamam</string>
   <string name="feedback_submitting">Gönderiliyor…</string>
   <string name="feedback_suggestion_status_change_notification_desc">\"%2$s\" %1$s tavsiyesi</string>
+  <string name="feedback_third_packagename_hint">Hangi üçüncü parti uygulama sorunlara neden oluyor?</string>
   <string name="feedback_title">Başlık</string>
   <string name="feedback_title_hint">Problemin özetini tanımlayın</string>
   <string name="feedback_tracking">Problemin izleri</string>
@@ -290,6 +291,7 @@
   <string name="toast_report_copied_to_clipboard">Rapor panoya kopyalandı</string>
   <string name="toast_report_sent_failed">"Rapor gönderilemiyor"</string>
   <string name="toast_report_sent_succeed">Rapor başarıyla gönderildi</string>
+  <string name="toast_third_packagename_required">Uygulama adını girin</string>
   <string name="toast_title_required">Problemi tanımlayın</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Tekrar deneyin</string>
