@@ -1219,6 +1219,7 @@ Telefonunuzu kullanmaya devam etmek için, fabrika ayarlarına sıfırlama işle
   <string name="current_use_hce_wallet">"HCE Cüzdan kullanıyorsunuz"</string>
   <string name="current_use_uicc_se">SIM karttan güvenli bir öğe kullan</string>
   <string name="custom_progress">%d öğe</string>
+  <string name="current_zone">(mevcut)</string>
   <string name="daltonizer_mode_deuteranomaly">Renk Körlüğü (kırmızı-yeşil)</string>
   <string name="daltonizer_mode_disabled">Kapalı</string>
   <string name="daltonizer_mode_monochromacy">Tam Renk Körlüğü</string>
@@ -1441,7 +1442,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="device_name">Cihaz Adı</string>
   <string name="device_name_input_error">"Cihaz adı kaydedilemedi"</string>
   <string name="device_name_input_hint">Adı girin</string>
-  <string name="device_name_input_overlength">Kelime sınırının ötesinde</string>
+  <string name="device_name_input_overlength">Karakter sınırını aştın</string>
   <string name="device_name_usage_point">Diğer cihazlarda bu isim gözükecek.</string>
   <string name="device_picker">Bluetooth cihazı seçin</string>
   <string name="device_rear_camera">Arka Kamera</string>
@@ -1976,6 +1977,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="go_back_button_label">Geri dön</string>
   <string name="google_backup_enable">Yedekleme açık</string>
   <string name="google_backup_section_title">Google Yedekleme &amp; Sıfırlama</string>
+  <string name="google_title">Google</string>
   <string name="google_wallet">Google Cüzdanı</string>
   <string name="got_it">Anladım</string>
   <string name="gsm_to_wifi_connect_type_title">GSM\'den WLAN\'a</string>
@@ -2071,6 +2073,8 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="home_key">Ana Sayfa</string>
   <string name="home_settings">Ana Sayfa</string>
   <string name="home_work_profile_not_supported">"İş profilleri desteklemiyor"</string>
+  <string name="http_invoke_app">Web Uygulamaları</string>
+  <string name="http_invoke_app_summary">Uygulamaları yüklemeden daha hızlı açın</string>
   <string name="hotspot_accout_check_server_url"/>
   <string name="hotspot_accout_up_sell_url"/>
   <string name="ignore_optimizations_off">İyi Hale Getir</string>
@@ -3568,7 +3572,10 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="privacy_password_remind_bindaccont_message">Unutmanız durumda şifrenizi sıfırlayabilmek için Mi Hesabı (%s) ekleyin.</string>
   <string name="privacy_password_remind_bindaccount_title">Mi Hesabı ekle</string>
   <string name="privacy_password_settings">Gizlilik koruma şifresi kullan</string>
+  <string name="privacy_password_settings_next">Sonraki</string>
   <string name="privacy_password_settings_titles">Gizlilik koruma şifresi mesajlarınızı, fotoğraflarınızı, notlarınızı vb. korur.</string>
+  <string name="privacy_password_settings_titles_elder_mode">Gizlilik koruma şifresi fotoğraflarınızı, dosyalarınızı ve notlarınızı korur.</string>
+  <string name="privacy_password_settings_titles_second_space">Gizlilik koruma şifresi fotoğraflarınızı, dosyalarınızı ve notlarınızı korur.</string>
   <string name="privacy_password_title">Gizlilik Koruma Şifresi</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Deseni göster</string>
@@ -3960,7 +3967,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="screen_pinning_unlock_password">İğnelemeyi açmadan önce şifre sor</string>
   <string name="screen_pinning_unlock_pattern">İğneleme açılınca desen sor</string>
   <string name="screen_pinning_unlock_pin">İğneleme açılınca PIN kodunu sor</string>
-  <string name="screen_recorder">Ekranı Kaydet</string>
+  <string name="screen_recorder">Ekran Kaydedici</string>
   <string name="screen_resolution_confirm">Y. Başlat</string>
   <string name="screen_resolution_summary">"Ekran çözünürlüğünü düşürmek pil kullanımını ve sistem hızını arttırır fakat resimlerin görüntü kalitesi düşer. Bu değişikliklerin geçerli olması için cihazınızı yeniden başlatmanız gerekiyor."</string>
   <string name="screen_resolution_switch">Çözünürlüğü değiştir</string>
@@ -4646,7 +4653,7 @@ Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</st
   <string name="status_bar_settings_show_carrier_summary">Operatör adı halen kilit ekranında ve bu özellik kapatıldığında bildirim alanında gösterilir</string>
   <string name="status_bar_settings_show_floating_notification">Kayan Bildirimler Göster</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Kayan bildirimler ekranın üstünde gösterildikten sonra otomatik olarak kaybolurlar"</string>
-  <string name="status_bar_settings_show_flow_info">Kayan bildirim detaylarını göster</string>
+  <string name="status_bar_settings_show_flow_info">Veri kullanımını göster</string>
   <string name="status_bar_settings_show_home_message">Uygulamanın İkon Simgeleri</string>
   <string name="status_bar_settings_show_keyguard_notification">Kilit Ekran Bildirimleri</string>
   <string name="status_bar_settings_show_keyguard_notification_summary"/>
@@ -5161,8 +5168,9 @@ alıcı aygıtın açık olduğundan emin olun"</string>
   <string name="tts_status_title">Varsayılan Dil Durumu</string>
   <string name="turn_off_common_password_confirm_msg">Ekran kilidi dahi kapatılacak.</string>
   <string name="turn_off_keyguard_password_alert_title">Kapalı</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Kilit Ekran şifresini kapatmak istiyor musunuz?</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Bazı güvenlik özellikleri şifreniz olmadan çalışmaz.</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Kilit Ekranının şifresini kapattığınızda, parmakiziyle cihazın kilidini açmanız mümkün olmayacak.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Kilitleme ekranı şifrenizi kapattıktan sonra kaydedilen parmakizleri silinir. Parmakizinizi kullanarak cihazın kilidini açmanız mümkün olmayacaktır."</string>
   <string name="turn_off_radio">Kablosuzu kapat</string>
   <string name="turn_off_security_lock">Kilitlemeyi kapat</string>
   <string name="turn_on_keyguard_password">Kilit Ekranının şifresini aç</string>
@@ -6113,7 +6121,7 @@ Farklı bir WLAN ağına başlanmak için "Geri tuşuna dokunun.</string>
   <string name="work_profile_usage_access_warning">İş profilindeki kullanılan uygulamaların izlerinin yönetici tarafından izlenmesinin kapatılması sadece yönetici tarafından sağlanır.</string>
   <string name="work_sim_title">İş SIM Kartı</string>
   <string name="work_space_delete">İş alanının sil</string>
-  <string name="work_space_delete_confirm">Silmeyi Doğrula</string>
+  <string name="work_space_delete_confirm">Şimdi sil</string>
   <string name="work_space_delete_description">"Sildikten sonra Çalışma alanına giremezsiniz. Tüm veriler taşınacak veya silinecektir."</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Yönlendiricinin desteklediğinden ve WPS\'in etkin olduğundan emin olun</string>
