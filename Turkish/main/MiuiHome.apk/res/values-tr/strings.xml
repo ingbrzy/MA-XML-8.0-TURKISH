@@ -181,7 +181,7 @@
   <string name="menu_settings">Ayarlar</string>
   <string name="menu_sort">Uygulamaları Sırala</string>
   <string name="menu_wallpaper">Duvar Kağıdı</string>
-  <string name="menu_workspace_preview">Ana Ekranları Önizle</string>
+  <string name="menu_workspace_preview">Ana Ekran Önizlemesi</string>
   <string name="mi_wallpaper">MIUI Tema Mağazası</string>
   <string name="mtzgadget_missing_text">"Araç mevcut değil"</string>
   <string name="multi_selecting_tips">Uygulamayı eklemek için, simgesini sürükleyip, buraya bırakabilirsiniz</string>
@@ -198,7 +198,7 @@
   <string name="permdesc_write_settings">Bir uygulamanın ana ekrandaki ayarları ve kısayolları değiştirmesine izin verir.</string>
   <string name="permlab_install_shortcut">Kısayolları yükle</string>
   <string name="permlab_install_widget">Araçları yükle</string>
-  <string name="permlab_read_settings">Ana Ekran Ayarlarını ve Kısayolları oku</string>
+  <string name="permlab_read_settings">Ana Ekran Ayarlarını ve Kısayolları okur</string>
   <string name="permlab_uninstall_shortcut">Kısayolları kaldır</string>
   <string name="permlab_write_settings">Ana Ekran Ayarlarını ve Kısayolları düzenle</string>
   <string name="photo_adjust">Önizle</string>
@@ -272,7 +272,7 @@
   <string name="uninstall_result_two_failed">"%s ve diğer 1 uygulama kaldırılamadı!"</string>
   <string name="uninstall_with_xspace_dialog_message">Klonlu uygulamalar uygulama verisiyle birlikte silinecek.</string>
   <string name="uninstall_xspace_dialog_message">Klonlu uygulamalar uygulama verisiyle birlikte kaldırılıyor.</string>
-  <string name="uninstall_xspace_dialog_title_format">\"%s\" klonlu uygulamayı kaldır</string>
+  <string name="uninstall_xspace_dialog_title_format">\"%s\" klonlu uygulamayı kaldırsın mı?</string>
   <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="unnamed_folder_name">Klasör</string>
   <string name="wallpaper">Duvar Kağıdı</string>
