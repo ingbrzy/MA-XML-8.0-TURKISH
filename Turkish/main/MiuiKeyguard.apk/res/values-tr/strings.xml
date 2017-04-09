@@ -19,10 +19,12 @@
   <string name="fingerprint_add_text">Parmakizi arayüzü güncellendi. Parmakizinizi tekrar ekleyin.</string>
   <string name="fingerprint_add_title">Parmakizi ekle</string>
   <string name="fingerprint_enter_second_psw_msg">İkinci Alan şifresinin girdikten sonra parmakizi tanımlamasını kullanmak için cihaz yeniden başlatılacak</string>
+  <string name="fingerprint_enter_second_psw_msg_oldman">"Hafif Moddayken İkinci Alana girilemiyor"</string>
   <string name="fingerprint_enter_second_psw_title">İkinci Alan şifresini girin</string>
   <string name="fingerprint_lockout_msg">Bir dakika sonra parmakizi ile kilidi açmayı deneyin!</string>
   <string name="fingerprint_not_identified_msg">Cihazın kilidini açmak için şifrenizi girin.</string>
   <string name="fingerprint_not_identified_title">Şifrenizi girin</string>
+  <string name="fingerprint_try_again_msg">"Parmakizi doğrulanamadı, tekrar deneyin."</string>
   <string name="fingerprint_try_again_text">Tekrar deneyin</string>
   <string name="forget_password_string">Şifremi unuttum</string>
   <string name="incorrect_pincode">PIN Kodu hatalı!</string>
