@@ -8,7 +8,15 @@
         <item quantity="other">&lt;font color=\"red\">%d şarkı&lt;/font> indiriliyor</item>
         <item quantity="one">&lt;font color==\"red\">%d şarkı&lt;/font> indiriliyor</item>
     </plurals>
-    <plurals name="Ntracks_search_result">
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">%d öğe silinsin mi?</item>
+        <item quantity="one">%d öğe silinsin mi?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d indirme kaldırıldı</item>
+        <item quantity="one">%d indirme kaldırıldı</item>
+    </plurals>
+     <plurals name="Ntracks_search_result">
         <item quantity="other">%d şarkı bulundu</item>
         <item quantity="one">%d şarkı bulundu</item>
     </plurals>
@@ -64,11 +72,11 @@
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d şarkı listeye eklendi</item>
-        <item quantity="one">Şarkı listeye eklendi</item>
+        <item quantity="one">%d şarkı listeye eklendi</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d şarkı çalma listesinden kaldırıldı</item>
-        <item quantity="one">Şarkı çalma listesinden kaldırıldı</item>
+        <item quantity="one">%d şarkı çalma listesinden kaldırıldı</item>
     </plurals>
     <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d şarkı</item>
@@ -80,11 +88,11 @@
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d şarkı gönderilecek</item>
-        <item quantity="one">1 şarkı gönderilecek</item>
+        <item quantity="one">%d şarkı gönderilecek</item>
     </plurals>
     <plurals name="folder_songs_count">
         <item quantity="other">%d şarkı</item>
-        <item quantity="one">1 şarkı</item>
+        <item quantity="one">%d şarkı</item>
     </plurals>
     <plurals name="Nnew_local_audios">
         <item quantity="other">%d şarkı eklendi</item>
