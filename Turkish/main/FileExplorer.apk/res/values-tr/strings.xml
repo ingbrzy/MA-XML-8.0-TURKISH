@@ -10,7 +10,7 @@
   <string name="ad_download">İndir</string>
   <string name="ad_downloading">Biraz bekleyin...</string>
   <string name="add_follow">Takip et</string>
-  <string name="add_one">+1</string>
+  <string name="add_one">1</string>
   <string name="add_private">Dosyaları şimdi gizle</string>
   <string name="add_private_files">Dosyaları ekle</string>
   <string name="add_task">Görev ekle</string>
@@ -122,6 +122,9 @@
   <string name="clean_trash_box">Çöp kutusunu boşalt</string>
   <string name="click_to_switch_volume">Dahili ve Harici depolama arasında geçiş yapmak için buraya dokun</string>
   <string name="click_to_switch_volume_pad">Dahili ve SD depolama arasında geçiş yapmak için buraya dokun</string>
+  <string name="clockin_failed">"Kontrol edilemedi, tekrar deneyin"</string>
+  <string name="clockin_success">Başarıyla kontrol edildi</string>
+  <string name="clockin_use">Ödül al</string>
   <string name="comment_added">Başarıyla eklendi</string>
   <string name="comment_added_tip">"Çok fazla yorum ekliyorsunuz. Bu kişiyi takip edecek misiniz?"</string>
   <string name="close">Kapat</string>
@@ -143,7 +146,8 @@
   <string name="connect_network_setting_des">İnternet bağlantısı için sor</string>
   <string name="connecting">Bağlanıyor…</string>
   <string name="connection_error">"Bağlantı kurulamadı"</string>
-  <string name="copied">Kopyalandı</string>
+  <string name="contain_sensitive_words">Uygun olmayan kelimeleri kaldırın ve tekrar deneyin</string>
+	<string name="copied">Kopyalandı</string>
   <string name="copy_failed">"Kopyalanamadı"</string>
   <string name="copy_failed_retry">"Kopyalanamıyor, %1$s bekle ve yeniden deneyin"</string>
   <string name="copy_file_to_kuaipan">Kuaipan\'a dosyayı kopyala</string>
@@ -152,6 +156,7 @@
   <string name="copy_to">Kopyala</string>
   <string name="count_down">Geriye Sayım: %1$s</string>
   <string name="create_shortcut_success">Kısayol başarıyla oluşturuldu</string>
+  <string name="daily_clockin">Giriş</string>
   <string name="create_kuaipan_shortcut_pref">Ana Ekrana kısayol oluştur</string>
   <string name="create_new_folder_desctiption">Dizin oluşturuluyor…</string>
   <string name="create_new_folder_failed">Dizin oluşturulamadı.</string>
@@ -400,7 +405,7 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="message_comment_prefix">"Yorum: "</string>
   <string name="message_my_received_notification">Yeni Mesaj</string>
   <string name="message_my_received_praise">Sevdiklerim</string>
-  <string name="message_my_received_praise_count">+%1$s</string>
+  <string name="message_my_received_praise_count">%1$s</string>
   <string name="message_praise_comment">" bu yorumu sevdi"</string>
   <string name="message_praise_video">" bu videoyu sevdi"</string>
   <string name="message_reply_prefix">Cevapla</string>
@@ -519,6 +524,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="no_network_tip">"Ağa bağlanamıyor. Bağlantıyı kontrol edin ve tekrar deneyin."</string>
   <string name="no_new_content_tip">Tüm öğeler güncel</string>
   <string name="no_recent_files">Sık kullanılan dosya yok</string>
+  <string name="no_search_content">"Sonuç bulunamadı"</string>
   <string name="no_tasks">Görev yok.</string>
   <string name="no_topic">Başlık yok</string>
   <string name="no_videos">Burada birşey yok, önce aşağıyı kontrol edin!</string>
@@ -692,7 +698,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="recommend_popup_title">Tavsiyeler</string>
   <string name="recommend_topic">Tavsiyeli Konular</string>
   <string name="recommend_user">Tavsiyeli Profiller</string>
-  <string name="recommend_users">%1$s+</string>
+  <string name="recommend_users">%1$s</string>
   <string name="release_to_signin">Kontrol etmek bırakın </string>
   <string name="remote_video_no_network">"Ağa bağlanamıyor."</string>
   <string name="remote_video_report_success">"Görüşleriniz için teşekkür ederiz! En kısa sürede takipçisi olacağız."</string>
@@ -726,6 +732,11 @@ ve yenilerini kaçırmayın!"</string>
   <string name="rlv_refreshing">Yenileniyor…</string>
   <string name="rlv_release_to_close">Kapatmak için bırakın</string>
   <string name="rlv_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="save">Kaydet</string>
+  <string name="save_desc_success">Başarıyla değiştirildi​</string>
+  <string name="save_failed">"Kaydedilemedi, tekrar deneyin"</string>
+  <string name="save_failed_for_length">İmza çok uzun, daha kısa olanı deneyin</string>
+  <string name="save_name_success">Başarıyla değiştirildi</string>
   <string name="save_to_local">İndir</string>
   <string name="sd_card_available">Kullanılabilir: %1$s</string>
   <string name="sd_card_size">SD Kart: %1$s</string>
@@ -753,6 +764,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="search_hot_video">Popüler videolar; Videoları yükle; Video yükle; Kısa video; Kısa videolar; Küçük video; Küçük videolar</string>
   <string name="search_keyword">Etiketler</string>
   <string name="search_kuai_chuan">Mi Drop;Transfer</string>
+  <string name="search_popup_tip">Kullanıcıları ve konuları arayabilirsiniz</string>
   <string name="search_recent_file">Dosya Gezigini;Gezgin;Dosya;Dosyalar;Dosyaları yönet;Dosya yöneticisi</string>
   <string name="search_keyword_buy">Alışveriş</string>
   <string name="search_keyword_game">Oyunlar</string>
@@ -776,6 +788,10 @@ ve yenilerini kaçırmayın!"</string>
   <string name="search_statistic_tag">etiket</string>
   <string name="search_title">Ara</string>
   <string name="search_title_hint">Ara</string>
+  <string name="search_topic">Konuları ara</string>
+  <string name="search_user">Kişileri ara</string>
+  <string name="see_more_topic">Diğer konular</string>
+  <string name="see_more_user">Diğer kişiler</string>
   <string name="select_dest_folder">Klasörü seç</string>
   <string name="select_image">Resimler</string>
   <string name="select_interest_str">Beğendiğiniz konuları seçin</string>
@@ -919,6 +935,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="topic_follow">Takip</string>
   <string name="topic_followed">Takipte:</string>
   <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
+  <string name="topic_title">Konular</string>
   <string name="topic_winners">Önceki kazananlar</string>
   <string name="trans_mobile_network_message">Mobil veri kullanarak dosya transfer etmek ek ücrete tabidir.</string>
   <string name="trans_task">Ağ transferi</string>
@@ -985,6 +1002,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="uploading_video">Video yükleniyor…</string>
   <string name="usb_label">USB</string>
   <string name="used">Kullanılan: </string>
+  <string name="user">Kullanıcılar</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="user_cancel">İptal</string>
   <string name="user_center_setting">Ayarlar</string>
