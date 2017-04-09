@@ -400,6 +400,7 @@
   <string name="pref_delivery_ringtone">Alındı Sesi</string>
   <string name="pref_edit_smsc_address">SMS Merkezi Numarası</string>
   <string name="pref_forward_title">Yönlendir</string>
+  <string name="pref_hide_verification_code_summary">Güvenli kilit ekranında mesaj bildirimlerinde bir defalık şifreleri otomatik olarak gizleyin</string>
   <string name="pref_message_recovery_introduction_title">Mesajları Kurtar</string>
   <string name="pref_messages_to_save">Kaydetmek için mesajların sayısını ayarla</string>
   <string name="pref_mms_settings_title">Multimedya (MMS) Mesajları</string>
@@ -427,7 +428,7 @@
   <string name="pref_summary_send_delivery_reports">Bir multimedya mesajı aldığınızda gönderene teslim onay mesajı gönder</string>
   <string name="pref_summary_show_recent_contacts">Yeni mesaj oluştururken en son mesajlaşılan kişileri alıcı için göster</string>
   <string name="pref_summary_wake_up_screen">Yeni mesaj geldiğinde ekran ışığını açar</string>
-  <string name="pref_switch_sdk_setting">Akıllı SMS Özelliğine geç</string>
+  <string name="pref_switch_sdk_setting">Akıllı SMS Hizmet Sağlayıcı</string>
   <string name="pref_system_title">Sistem</string>
   <string name="pref_time_auto_group_disabled_summary">"Mevcut font boyutu desteklenmiyor"</string>
   <string name="pref_time_auto_group_summary">Bir dakika içinde alınan mesajları aynı grupta topla</string>
@@ -637,6 +638,7 @@
   <string name="timed_message_to">Alıcı</string>
   <string name="title_allow_network_access">Bilgiyi otomatik güncelle</string>
   <string name="title_collapse_sp_messages">Bildirimler Grubu</string>
+  <string name="title_hide_verification_code">"Kilit ekranda OTP'yi otomatik gizle"</string>
   <string name="title_recv_red_package">Kızıl Paket al</string>
   <string name="title_red_package">Zengin ve iyi şanslı olun</string>
   <string name="title_send_red_package">Kızıl Paketi kontrol et</string>
