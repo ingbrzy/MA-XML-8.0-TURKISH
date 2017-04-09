@@ -94,6 +94,14 @@
     <string-array name="long_add_menu">
         <item>İstisnalara ekle</item>
     </string-array>
+    <string-array name="sort_type">
+        <item>Adına göre</item>
+        <item>Boyuta göre</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Veri Kullanımı</item>
+        <item>Telefon Bakiyesi</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>1 dakika sonra</item>
         <item>5 dakika sonra</item>
