@@ -11,13 +11,6 @@
         <item>2880</item>
         <item>10080</item>
     </integer-array>
-    <integer-array name="allday_reminder_minutes_values">
-        <item>0</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>4320</item>
-        <item>10080</item>
-    </integer-array>
     <string-array name="preferences_default_reminder_values">
         <item>0</item>
         <item>5</item>
@@ -28,12 +21,6 @@
         <item>1440</item>
         <item>2880</item>
         <item>10080</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_values">
-        <item>-1</item>
-        <item>7</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Marshall Adaları</item>
@@ -179,11 +166,6 @@
         <item>Bu ve gelecek faaliyetlerde</item>
         <item>Tüm faaliyetlerde</item>
     </string-array>
-    <integer-array name="delete_repeating_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="change_response_labels">
         <item>Sadece bu faaliyette</item>
         <item>Tüm faaliyetler esnasında</item>
@@ -192,25 +174,11 @@
         <item>Erkek</item>
         <item>Kadın</item>
     </string-array>
-    <integer-array name="fortune_gender_values">
-        <item>1</item>
-        <item>0</item>
-    </integer-array>
     <string-array name="summary_card_text_chain">
         <item>【Kanala Abone Ol】Hizmetler veya takvim özelliklerine abone et</item>
         <item>【Abone】Takvimi isteğinize göre özelleştirin</item>
         <item>【Kanala Abone Ol】Hizmetler veya takvim özelliklerine abone et</item>
         <item>【Kanala Abone Ol】Farklı hizmetler veya takvim özelliklerini bul</item>
-    </string-array>
-    <string-array name="entryvalues_settings_debug">
-        <item>Hayır</item>
-        <item>Aktar ve günlüğü gönder</item>
-        <item>Dosya yöneticisine günlük oluştur</item>
-    </string-array>
-    <string-array name="prefValues_alerts_vibrateWhen">
-        <item>Daima</item>
-        <item>Sessizdeyken</item>
-        <item>Asla</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Şeffaf</item>
@@ -245,13 +213,6 @@
         <item>6 saat önce</item>
         <item>1 gün önce</item>
     </string-array>
-    <integer-array name="travel_reminder_minutes_values">
-        <item>180</item>
-        <item>240</item>
-        <item>300</item>
-        <item>360</item>
-        <item>1440</item>
-    </integer-array>
     <string-array name="repeat_frequency_spinner">
         <item>gün</item>
         <item>hafta</item>

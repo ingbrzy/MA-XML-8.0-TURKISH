@@ -5,11 +5,6 @@
         <item>720p</item>
         <item>480p</item>
     </string-array>
-    <string-array name="screenrecorder_settings_resolution_values">
-        <item>1080</item>
-        <item>720</item>
-        <item>480</item>
-    </string-array>
     <string-array name="screenrecorder_settings_bit_rate">
         <item>200Mbps</item>
         <item>100Mbps</item>
@@ -21,46 +16,20 @@
         <item>4Mbps</item>
         <item>1Mbps</item>
     </string-array>
-    <string-array name="screenrecorder_settings_bit_rate_values">
-        <item>200</item>
-        <item>100</item>
-        <item>50</item>
-        <item>32</item>
-        <item>24</item>
-        <item>16</item>
-        <item>8</item>
-        <item>4</item>
-        <item>1</item>
-    </string-array>
     <string-array name="screenrecorder_settings_frames">
         <item>24fps</item>
         <item>30fps</item>
         <item>48fps</item>
         <item>60fps</item>
     </string-array>
-    <string-array name="screenrecorder_settings_frames_values">
-        <item>24</item>
-        <item>30</item>
-        <item>48</item>
-        <item>60</item>
-    </string-array>
     <string-array name="screenrecorder_settings_orientation">
         <item>Otomatik</item>
         <item>Dikey</item>
         <item>Yatay</item>
     </string-array>
-    <string-array name="screenrecorder_settings_orientation_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="screenrecorder_settings_sound">
         <item>Sessiz</item>
         <item>Mikrofon</item>
         <item>Hoparlör</item>
-    </string-array>
-    <string-array name="screenrecorder_settings_sound_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
 </resources>
