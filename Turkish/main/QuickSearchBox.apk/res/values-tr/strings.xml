@@ -14,6 +14,12 @@
   <string name="baidu_search_url_from_minus_one">https://www.google.com.tr/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://www.google.com.tr/search?q=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="barcode_install_back">Geri</string>
+  <string name="barcode_install_cancel">İptal</string>
+  <string name="barcode_install_confirm">Yükle</string>
+  <string name="barcode_system_unmatch">"Tarayıcıyı yüklemeden önce MIUI'yi güncelleyin"</string>
+  <string name="barcode_to_install">Devam etmek için Tarayıcıyı yükleyin</string>
+  <string name="barcode_uninstalled">Tarayıcı kaldırıldı</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="choose_search_engine">Varsayılan tarayıcıyı seç</string>
   <string name="clear_history">Geçmişi temizle</string>
@@ -31,7 +37,7 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="corpus_hint_apps">Uygulamaları Ara</string>
   <string name="corpus_label_apps">Uygulamalar</string>
   <string name="corpus_label_global">Hepsi</string>
-  <string name="corpus_label_web">Uygulamalar, müzik, video, sarı sayfalarda ara...</string>
+  <string name="corpus_label_web">Web sonuçları</string>
   <string name="corpus_selection_heading">Ara</string>
   <string name="cta_declaration">"Bu özelliğin normal çalışması için internete bağlanmayı, cihazınızın konumuna erişmeyi, çağrı geçmişiyle kişileri görüntülemeyi gerektirir."</string>
   <string name="cta_declaration_ignore">"Tekrar gösterme"</string>
@@ -58,6 +64,7 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="local_setting">Ayarlar</string>
   <string name="menu_help">Yardım</string>
   <string name="menu_settings">Arama Ayarları</string>
+  <string name="mina_name">Yeni Uygulamalar</string>
   <string name="network_unavailable">"Ağa bağlanamadı"</string>
   <string name="permission_prompt_detail">Filmleri, kitapları, müzik ve fazlasını ara...</string>
   <string name="permission_prompt_start">İzin ver</string>
@@ -106,8 +113,11 @@ Bunu Ayarlar &gt; Yüklü Uygulamalar &gt; Ara altından değiştirebilirsiniz"<
   <string name="searchable_lable_video">Video</string>
   <string name="searchable_sources">Çevrimiçi</string>
   <string name="send_secret_code">Kodu gönder</string>
+  <string name="setting_other">Diğer</string>
+  <string name="setting_version">Uygulama Sürümü</string>
+  <string name="setting_version_title">Uygulama Sürümü</string>
   <string name="settings_description">Yüklü uygulamaların adları</string>
-  <string name="show_more">Daha Fazla Göster</string>
+  <string name="show_more">Fazlasını Göster</string>
   <string name="suggest_open_app_failed">"Bu uygulama açılamadı"</string>
   <string name="swipe_up_summary">Global aramayı açmak için yukarı kaydırın</string>
   <string name="swipe_up_title">Yukarı Kaydır</string>
