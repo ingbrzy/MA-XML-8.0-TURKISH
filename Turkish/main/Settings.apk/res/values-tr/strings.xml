@@ -132,7 +132,8 @@ Not: Büyütme için üç kez dokunun, klavye ve gezinme çubuğu hariç her yer
   <string name="account_autostar_label">Otomatik Başlat</string>
   <string name="account_contact_backup_info">Google Hesabı, Hesap ve Kişiler</string>
   <string name="account_list">Diğer Hesaplar</string>
-  <string name="account_login">Oturum aç</string>
+  <string name="account_other">Diğer</string>
+   <string name="account_login">Oturum aç</string>
   <string name="account_settings">Hesaplar</string>
   <string name="account_settings_menu_auto_sync">Verileri oto eşitle</string>
   <string name="account_settings_menu_auto_sync_personal">Kişisel verileri otomatik eşitle</string>
@@ -6139,6 +6140,9 @@ Farklı bir WLAN ağına başlanmak için "Geri tuşuna dokunun.</string>
   <string name="xiaomi_account">Mi Hesabı</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
+  <string name="xiaomi_cloud_service_description">Mi Bulut kişilerinizi ve fotoğraflarınızı eşitler, uygulamalarınızı ve ayarlarınızı yedekler ve Telefonu Bul özelliğini kullanarak telefonunuzu bulmanıza yardımcı olur.</string>
+  <string name="xiaomi_cloud_service_disabled">Kapalı</string>
+  <string name="xiaomi_cloud_service_unknown">Bilinmiyor</string>
   <string name="xiaomi_connect_download_manager_fail">İndirme yöneticisi başarısız oldu, lütfen uygulama yöneticisinden indirme yöneticisinin durumunun kontrol edin.</string>
   <string name="xiaomi_external_storage_unavailable">Hafızda yeterli yer yok, SD Kartı kontrol edin.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
