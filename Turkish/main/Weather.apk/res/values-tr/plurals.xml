@@ -14,6 +14,18 @@
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Açık</item>
-        <item quantity="one">Güneşli</item>
+        <item quantity="one">Açık</item>
     </plurals>
-</resources>
+	<plurals name="total_voted_num_text">
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> kişi oyladı"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> kişi oyladı"</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s kişi</item>
+        <item quantity="one"> | %1$s kişi</item>
+    </plurals>
+    <plurals name="no_vote_num">
+        <item quantity="other">%1$s kişi | </item>
+        <item quantity="one">%1$s kişi | </item>
+    </plurals>
+ </resources>
