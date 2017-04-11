@@ -2,7 +2,6 @@
 <resources>
   <string name="app_name">Günlük Kilit Ekranı</string>
   <string name="apply">Uygula</string>
-  <string name="apply">Apply</string>
   <string name="at_least_one">En az bir kategori seçin</string>
   <string name="auto_interval">Otomatik</string>
   <string name="cancel">Çık</string>
@@ -30,8 +29,6 @@
   <string name="hour_3">Her 3 saatte</string>
   <string name="like">Oyla</string>
   <string name="liked">Sevdim</string>
-  <string name="like">Favorilere ekle</string>
-  <string name="liked">Favorilere eklendi</string>
   <string name="lockscreen_h5_back_tv">Geri</string>
   <string name="lockscreen_h5_close_tv">Kapalı</string>
   <string name="lockscreen_h5_refresh_btn_tv">Yenile</string>
@@ -40,7 +37,6 @@
   <string name="lockscreen_magazine_system_title">Varsayılan</string>
   <string name="lockscreen_magazine_title">Günlük Kilit Ekranı</string>
   <string name="lockscreen_wallpaper_changed">Duvar kağıdı değiştirildi</string>
-  <string name="lockscreen_wallpaper_changed">Kilit Ekran duvar kağıdı güncellendi</string>
   <string name="minutes_15">Her 15 dakika</string>
   <string name="no_long_show">"Tekrar gösterme"</string>
   <string name="ok_enable_network_prov">Kabut et ve aç</string>
