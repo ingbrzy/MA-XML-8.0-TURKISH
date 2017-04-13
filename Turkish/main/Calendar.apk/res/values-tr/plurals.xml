@@ -10,15 +10,15 @@
     </plurals>
     <plurals name="Nminutes">
         <item quantity="other">%d dakika önce</item>
-        <item quantity="one">1 dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d saat önce</item>
-        <item quantity="one">1 saat önce</item>
+        <item quantity="one">%d saat önce</item>
     </plurals>
     <plurals name="Ndays">
         <item quantity="other">%d gün önce</item>
-        <item quantity="one">1 gün önce</item>
+        <item quantity="one">%d gün önce</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">%d Hafta</item>
@@ -45,7 +45,7 @@
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">%d hafta önce</item>
-        <item quantity="one">1 hafta önce</item>
+        <item quantity="one">%d hafta önce</item>
     </plurals>
 	<plurals name="anniversary_notify_title">
         <item quantity="other">Yıldönümü: %1$s yaşında %2$d.  </item>
