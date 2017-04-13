@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">%1$d dosyalar bekliyor</item>
+        <item quantity="one">%1$d dosya bekliyor</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%1$s yerindeki %2$d dosya</item>
+        <item quantity="one">%1$s yerindeki %2$d dosya</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">%1$s yerinden %2$d dosya alınıyor</item>
+        <item quantity="one">%1$s yerinden %2$d dosya alınıyor</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%1$s yerinden %2$d resim</item>
+        <item quantity="one">%1$s yerinden %2$d resim</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">%1$s yerinden %2$d resim alınıyor</item>
+        <item quantity="one">%1$s yerinden %2$d resim alınıyor</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%1$s yerinden %2$d şarkı</item>
+        <item quantity="one">%1$s yerinden %2$d şarkı</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">%1$s yerden %2$d şarkı alınıyor</item>
+        <item quantity="one">%1$s yerden %2$d şarkı alınıyor</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%1$s yerden %2$d video</item>
+        <item quantity="one">%1$s yerden %2$d video</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">%1$s yerden %2$d video alınıyor</item>
+        <item quantity="one">%1$s yerden %2$d video alınıyor</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%1$s yerden %2$d uygulama</item>
+        <item quantity="one">%1$s yerden %2$d uygulama</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">%1$s yerden %2$d uygulama alınıyor</item>
+        <item quantity="one">%1$s yerden %2$d uygulama alınıyor</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">%1$s dosya alınıyor…</item>
+        <item quantity="one">%1$s dosya alınıyor…</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">%1$s dosya transfer edilmedi</item>
+        <item quantity="one">%1$s dosya transfer edilmedi</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">%1$s dosyalar alındı</item>
+        <item quantity="one">%1$s dosyalar alındı</item>
+    </plurals>
+</resources>
