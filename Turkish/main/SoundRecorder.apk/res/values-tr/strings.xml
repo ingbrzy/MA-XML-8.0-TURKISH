@@ -127,6 +127,7 @@
   <string name="rename">Adlandır</string>
   <string name="rename_dialog_title">Kaydı adlandır</string>
   <string name="rename_duplicate">Aynı isimde başka bir kayıt zaten var.</string>
+  <string name="rename_fail_tip">"Yeniden adlandırılamadı. Bu ada sahip öğe zaten var."</string>
   <string name="rename_no_more_tip">"Tekrar gösterme"</string>
   <string name="retry">Tekrarla</string>
   <string name="runtime_permission_ungranted">"Kaydedici kullanımı izinleri garanti edilemez"</string>
