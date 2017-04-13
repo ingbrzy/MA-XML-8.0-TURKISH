@@ -187,9 +187,9 @@
   <string name="min_error">%1$s daha uzun olmalı.</string>
   <string name="modem_tool_log">Modem günlüğünü yakala</string>
   <string name="modem_tool_log_start">Başlat</string>
-  <string name="modem_tool_log_start_toast">"%s için modem günlüğünün dökümünü başlat"</string>
+  <string name="modem_tool_log_start_toast">"%s için modem günlüğünün dökümü kaydediliyor"</string>
   <string name="modem_tool_log_stop">Durdur</string>
-  <string name="modem_tool_log_stop_toast">"%s modem günlüğünün dökümünü durdur"</string>
+  <string name="modem_tool_log_stop_toast">"%s modem günlüğünün dökümü durduruluyor"</string>
   <string name="multi_graph_more">Toplam Öğe: %d</string>
   <string name="module_communication">İletişim</string>
   <string name="module_data">Depolama &amp; Klonlu Uygulamalar</string>
@@ -232,7 +232,7 @@
   <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"Seçtiğiniz geribildirim, hata günlükleri ile birlikte, Mi sunucularına gönderilecektir."</string>
   <string name="plus_one_submit_dialog_not_show_again">Tercihleri hatırla</string>
-  <string name="post_miui_bbs_failed">"Foruma posta gönderilemedi"</string>
+  <string name="post_miui_bbs_failed">"MIUI Forumuna posta gönderilemedi"</string>
   <string name="pull_to_refresh_pull_label">Yenilemek için aşağı doğru çekin</string>
   <string name="pull_to_refresh_refreshing_label">Yenileniyor…</string>
   <string name="pull_to_refresh_release_label">Yenilemek için bırakın</string>
