@@ -7,6 +7,7 @@
   <string name="Settings_title_garbage_cleanup">Temizleyici Ayarları</string>
   <string name="Settings_title_network_assistants">Veri Kullanım Ayarları</string>
   <string name="Settings_title_power_center">Pil Ayarları</string>
+  <string name="about_autostart">Otomatik Başlatma Hakkında</string>
   <string name="ac_enable_title">Uygulama Kilidini Aç</string>
   <string name="ac_enter_applock">Uygulama Kilidini girin</string>
   <string name="ac_firstUseApplock_subTitle">Uygulama kilidi gizli bilgilerinizi korumakta kullanılır</string>
@@ -20,8 +21,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Uygulama Kilidinin şifresini girin</string>
   <string name="access_control_recording_intro_header">Uygulama Kilidi eklemek için deseni çizin</string>
   <string name="access_control_reset_by_account">Uygulama Kilidini sıfırlamak için Mi Hesabınızda oturum açın</string>
-  <string name="accessibility_service_description">"开启此功能，即可进行QQ群红包提醒。
-提示：小米红包助手不会通过辅助功能收集用户任何隐私，请放心开启！"</string>
+  <string name="accessibility_service_description"/>
   <string name="action_button_text_100">İyi hale getir</string>
   <string name="action_button_text_60">Onar</string>
   <string name="action_button_text_60_80">Onar</string>
@@ -375,6 +375,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="button_antivirus">Tamam</string>
   <string name="button_look_up">Görüntülemek için dokunun</string>
   <string name="button_lucky_news">红包攻略</string>
+  <string name="button_open">立即开启</string>
   <string name="button_text_accept">Kabul</string>
   <string name="button_text_accept_timer">Kabul (%d)</string>
   <string name="button_text_cancel">İptal</string>
@@ -465,6 +466,11 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="clear_garbage">Boş yer kazanmak için çöpü boşalt</string>
   <string name="clear_immediately">Temizle</string>
   <string name="close">Kapat</string>
+  <string name="close_float_view_dialog_message">确定关闭红包助手悬浮窗？关闭后，您将无法快速打开微信摇一摇与支付宝咻一咻页面，并且无法收到最新红包活动消息。</string>
+  <string name="close_float_view_dialog_title">关闭悬浮窗</string>
+  <string name="close_lucky_money_dialog_ok">确认关闭</string>
+  <string name="close_lucky_money_dialog_summary">确定关闭红包助手？关闭后，将无法收到微信、QQ红包提醒，可能导致您错失红包哟。如您想关闭悬浮窗，可在下方进行设置。</string>
+  <string name="close_lucky_money_dialog_title">关闭红包助手</string>
   <string name="cmcc_app_check_dialog_message">Onarımı tamamlamak için cihazınızı yeniden başlatın.</string>
   <string name="cmcc_app_check_dialog_negative">Sonra</string>
   <string name="cmcc_app_check_dialog_positive">Şimdi Başlat</string>
@@ -592,6 +598,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="disable_air_mode">Önce Uçak Modunu kapatın</string>
   <string name="dns_exception_summary">"Yönlendiricinin DNS ayarlarını kontrol edin"</string>
   <string name="dns_exception_title">DNS ayarlarını kontrol et</string>
+  <string name="domestic_roaming_setting">Ulusal dolaşım</string>
   <string name="download">İndir</string>
   <string name="downloading">İndiriliyor...</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -660,7 +667,9 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="gateway_exception_summary">Yönlendiricinizi kontrol edin ve tekrar deneyin.</string>
   <string name="gateway_exception_summary2">"Sunucuya bağlanamıyor"</string>
   <string name="gateway_exception_title">Yönlendirici Testi</string>
+  <string name="ge">个</string>
   <string name="gigabyteShort">GB</string>
+  <string name="give_lucky_money">红包大派送</string>
   <string name="go_to">Devam</string>
   <string name="go_to_setting_fingerprint">Ayarlar</string>
   <string name="goto_set">Ayarla</string>
@@ -685,6 +694,7 @@ Ağ Yardımcısını açın"</string>
   <string name="hide_mode_app_background_setting_text">Uygulama Pil Tasarrufu</string>
   <string name="hide_mode_summary_text">"Pil tasarrufu için uygulamaların arkaplan faaliyetlerini yönet"</string>
   <string name="hide_mode_title_text">Gizleme Modu</string>
+  <string name="hide_system_app">Sistem Uygulamaları Gizle</string>
   <string name="hints_auto_start_warning_info">"Otomatik başlatmayı kısıtlarsanız, bazı uygulama ve hizmetlerin bildirimlerini almanız mümkün olmaz!"</string>
   <string name="hints_cleanning_done">Başarıyla temizlendi</string>
   <string name="hints_cleanning_text">Temizleniyor...</string>
@@ -797,6 +807,7 @@ Ağ Yardımcısını açın"</string>
   <string name="leisure_usage_dialog_message">"Üst veri limitinize ulaştınız.
 
 Mobil veri bağlantısı tekrar kullanırsanız, operatör sizeden ek ücret talep edebilir."</string>
+  <string name="leisure_usage_dialog_title">Veri üst limitini aştığınızdan veri bağlantısı kapatıldı</string>
   <string name="list_empty_text">Boş</string>
   <string name="load_fail">"Yüklenmedi"</string>
   <string name="load_only_under_wlan">Yalnızca WLAN kullanarak yükle</string>
@@ -1025,6 +1036,8 @@ için bekleniyor"</string>
   <string name="notification_exit_power_save_mode">Pil Tasarrrufu kapatıldı</string>
   <string name="notification_exit_power_save_mode_subtitle">Pil %s şarj edildi.</string>
   <string name="notification_item">Uygulama kilidiyle seçili uygulamaları koruyun</string>
+  <string name="notification_mask_summary">"Kilit Ekranı ve Bildirim alanındaki bildirim içeriğini gösterme"</string>
+  <string name="notification_mask_title">İçeriği gizle</string>
   <string name="notification_quick_charging_title">Hızlıca şarj ediliyor</string>
   <string name="notification_subtitle">Dokunup açın</string>
   <string name="notification_summary_cmcc_app_check">Detayları görüntülemek için dokunun.</string>
@@ -1130,6 +1143,7 @@ için bekleniyor"</string>
   <string name="pc_install_manager">USB Yoluyla Yükle</string>
   <string name="pc_to_phone_install">USB yoluyla %s yüklenmesi engellendi</string>
   <string name="per_month_pkg_traffic_settings">Veri limitini ayarla</string>
+  <string name="percent_formatted_text">%%%s</string>
   <string name="percent_symbol">%</string>
   <string name="percent_text_formatted">%%%s</string>
   <string name="percentage">%%%d</string>
@@ -1183,6 +1197,7 @@ için bekleniyor"</string>
   <string name="power_center_consume_rank">Pil Kullanımı</string>
   <string name="power_center_consume_time">%1$s pil kaldı</string>
   <string name="power_center_custom_title">Pil Profilleri</string>
+  <string name="power_center_main_percent_formatted">%%%s</string>
   <string name="power_center_low_battery_summary_dynamic">\"%2$s\", pil seviyesi %%%1$d altındaysa</string>
   <string name="power_center_low_battery_title">Güç Tasarruf Modu</string>
   <string name="power_center_on_time_summary_dynamic">\"%3$s\" %1$s &gt; %2$s</string>
@@ -1212,6 +1227,8 @@ için bekleniyor"</string>
   <string name="power_consume_rank_hardware">Donanım</string>
   <string name="power_consume_rank_software">Uygulamalar</string>
   <string name="power_consume_rank_title">Pil Kullanımı</string>
+  <string name="power_consume_total_hardware">Pil: %s</string>
+  <string name="power_consume_total_software">Uygulama: %s</string>
   <string name="power_consume_system_idle">Beklemede</string>
   <string name="power_customize_giveup_change">Değişiklikler iptal edilsin mi?</string>
   <string name="power_customizer_cancel">İptal et</string>
@@ -1388,6 +1405,7 @@ için bekleniyor"</string>
   <string name="pref_correction_setting_switch">Özel kalibrasyon şablonu kullan</string>
   <string name="pref_correction_sms_content">Kalibrasyon şablonu</string>
   <string name="pref_correction_sms_number">"Kalibrasyon SMS'i gönder:"</string>
+  <string name="pref_daily_adjust">Veri kullanımını ayarla</string>
   <string name="pref_daily_traffic">Üst veri sınırı</string>
   <string name="pref_data_usage_ignore_settings">Veri kullanımını görmezden gel</string>
   <string name="pref_data_usage_ignore_settings_summary">"Seçilen uygulama grubunun veri kullanımını takip etme"</string>
