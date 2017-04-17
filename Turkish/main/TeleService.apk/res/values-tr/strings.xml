@@ -445,6 +445,7 @@
   <string name="cb_channel_dialog_channel_number">Kanal adı (0-65534)</string>
   <string name="cb_channel_dialog_channel_state">Kanal etkin</string>
   <string name="cb_channel_dialog_edit_channel">Kanalı Düzenle</string>
+  <string name="cb_default_new_channel_name">Yeni Kanal</string>
   <string name="cb_dialog_title_language_choice">Dili Seç</string>
   <string name="cb_error_channel_id_exist">Kanal kimliği var.</string>
   <string name="cb_error_channel_name">Kanal adının uzunluğu doğru değil (1-10 karakter).</string>
@@ -979,6 +980,7 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="invalid_puk2">8 haneli bir PUK2 yazın.</string>
   <string name="ip_dial_error_toast_for_no_ip_prefix_number">Sesli arama ayarlarında ilk IP önek numarasını girin.</string>
   <string name="ip_dial_error_toast_for_sip_call_selected">IP arama fonksiyonu internet çağrısı için geçerli değil.</string>
+  <string name="ip_prefix_edit_default_sum">IP araması için önek numarasını girin</string>
   <string name="ip_prefix_setting">IP önek numarası</string>
   <string name="ip_prefix_setting_lable">IP önek numarası (%s)</string>
   <string name="ip_prefix_setting_sum">IP önek numarası ayarları</string>
@@ -1214,7 +1216,7 @@ Mi Hesabıyla oturup açın"</string>
   <string name="msim_sim_radio_off">Kapalı</string>
   <string name="msim_switch_data_conn_toast">SIM kart değiştirildi. Ağ türü değişti. Ayarlar menüsünde SIM kartlar ve mobil ağlarda ek bilgileri görüntüleyin.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">SIM yuvası 2 sadece GSM şebekeleri destekler. Bu yuva için tercih edilen ağ türü yalnızca 2G olarak değiştirildi.</string>
-  <string name="multi_category_disable">Çoklu kategori devre dışı</string>
+  <string name="multi_category_disable">Çoklu kategori pasif</string>
   <string name="multi_category_enable">Çoklu kategori etkin</string>
   <string name="multi_sim_settings_title">Çift SIM Ayarları</string>
   <string name="name">Adı</string>
