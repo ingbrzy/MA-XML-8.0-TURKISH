@@ -300,7 +300,7 @@
   <string name="multimedia_message">MMS Mesajları</string>
   <string name="multimedia_notification">MMS mesaj bildirimi</string>
   <string name="mx2_type_description">[%s]</string>
-  <string name="mx_activate_allow_notice">Serbest metin ve ses servisini etkinleştirmek için giden bir SMS mesajı gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
+  <string name="mx_activate_allow_notice">Serbest metin ve ses servisini etkinleştirmek için giden bir SMS mesajı gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir. Şebeke bunun için ağı kullanacak.</string>
   <string name="mx_activate_dlg_title">Mi Mesajını etkinleştir</string>
   <string name="mx_activate_dlg_title_ex">Mi Mesajı &amp; Sesi etkinleştir</string>
   <string name="mx_activate_error_malformed_info">Mi Mesajı yeniden etkinleştirin.</string>
@@ -313,6 +313,7 @@
   <string name="mx_activate_int_hint_malformed_info">Mi Mesajini yeniden etkinleştirmek için uluslararası bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
   <string name="mx_activate_int_hint_server">Mi Mesajini yeniden etkinleştirmek için uluslararası bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
   <string name="mx_activate_int_hint_sim_change">"SIM kartlarını değiştirmişsiniz gibi görünüyor. Mi Mesajini yeniden etkinleştirmek için giden bir SMS mesajı gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir."</string>
+  <string name="mx_activate_network_allow_notice">Şebeke ağı kullanacak.</string>
   <string name="mx_activate_status_desc_activating_now">Etkinleştiriliyor...</string>
   <string name="mx_activate_status_desc_check_net_connection">"Ağa bağlanamadı"</string>
   <string name="mx_activate_status_desc_fail">"Mi Mesaj Etkinleştirilmedi"</string>
