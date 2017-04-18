@@ -2163,7 +2163,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="key_settings_title">Düğmeler</string>
   <string name="keyboard_and_input_methods_category">Klavye ve Giriş Usulleri</string>
   <string name="keyboard_layout_default_label">Varsayılan</string>
-  <string name="keyboard_and_input_methods_category">Klavye ve giriş usulleri</string>
   <string name="keyboard_assistance_category">Klavye Yardımı</string>
   <string name="keyboard_layout_dialog_setup_button">Klavye düzenlerini ayarla</string>
   <string name="keyboard_layout_dialog_switch_hint">Geçiş yapmak için Kontrol-Boşluk tuşlarına basın</string>
@@ -3415,8 +3414,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="pico_voice_summary_female">Kadın</string>
   <string name="pico_voice_summary_male">Erkek</string>
   <string name="picture_source">Resim Kaynağı:</string>
-  <string name="physical_device_title">%1$s - %2$s</string>
-  <string name="physical_keyboard_title">Donanımsal Klavye</string>
   <string name="picture_color_mode">Renkli Resim Modu</string>
   <string name="picture_color_mode_desc">sRGB kullan</string>
   <string name="pin_failed">SIM PIN işlemi başarısız!</string>
