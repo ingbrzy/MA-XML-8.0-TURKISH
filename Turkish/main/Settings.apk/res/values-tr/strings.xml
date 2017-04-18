@@ -2161,6 +2161,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="key_position_cat">Düğme Pozisyonu</string>
   <string name="key_settings">Düğme Ayarları</string>
   <string name="key_settings_title">Düğmeler</string>
+  <string name="keyboard_and_input_methods_category">Klavye ve Giriş Usulleri</string>
   <string name="keyboard_layout_default_label">Varsayılan</string>
   <string name="keyboard_and_input_methods_category">Klavye ve giriş usulleri</string>
   <string name="keyboard_assistance_category">Klavye Yardımı</string>
@@ -2205,6 +2206,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="keywords_factory_data_reset">sil, sil, geri yükle, temizle, kaldır</string>
   <string name="keywords_gps">GPS; Konum; Konum hizmetleri; Uydu</string>
   <string name="keywords_home">Başlatıcı</string>
+  <string name="keywords_hotspot">Hotspot;Paylaşım;Paylaş;Kişsel hotspot;Mobil hotspot</string>
   <string name="keywords_ignore_optimizations">optimizasyonları yoksay, uyku düzeni, uygulama bekletme</string>
   <string name="keywords_keyboard_and_ime">metin düzeltme, doğru, ses, titreşim, otomatik, dil, jest, öneri, öneri, tema, saldırgan, kelime, tür, emoji, uluslararası</string>
   <string name="keywords_location">yakın, yer, geçmiş, raporlama</string>
@@ -2213,6 +2215,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="keywords_more_mobile_networks">Hücresel, hücre taşıyıcı, kablosuz, veri, 4g, 3g, 2g, lte</string>
   <string name="keywords_network_name_display">şebeke adını görüntüle</string>
   <string name="keywords_network_reset">Sıfırlama, geri yükleme, fabrika ayarları</string>
+  <string name="keywords_paper_mode">Flux;Oku;Okuma Modu;Mavi Işık;ri koru</string>
   <string name="keywords_printing">Yazıcı</string>
   <string name="keywords_profile_challenge">iş meydan, iş, profil</string>
   <string name="keywords_reset_apps">Sıfırlama, tercihler, varsayılan</string>
@@ -3405,6 +3408,7 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="phone_info_label">Telefon Bilgileri </string>
   <string name="phone_language">Diller</string>
   <string name="phone_language_summary"/>
+  <string name="physical_keyboard_title">Fiziksel Klavye</string>
   <string name="pico_installed">Yüklendi</string>
   <string name="pico_languages_and_voices">Dil ve Sesler</string>
   <string name="pico_not_installed">Yüklenmedi</string>
