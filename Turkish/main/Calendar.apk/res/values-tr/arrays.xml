@@ -303,4 +303,8 @@
         <item>Aylık</item>
         <item>Yıllık</item>
     </string-array>
+	<string-array name="date_calculate_spinner">
+        <item>Geri</item>
+        <item>İleri</item>
+    </string-array>
 </resources>
