@@ -47,9 +47,12 @@
   <string name="add_topic_success">\"%s\" başarıyla eklendi</string>
   <string name="add_topic_unsuccess">\"%s\" abone olunamadı</string>
   <string name="adding_calendar">Aboneliklerim</string>
+  <string name="add_anniversary">Yıldönümü ekle</string>
+  <string name="add_countdown">Sayaç ekle</string>
+  <string name="add_event">Faaliyet ekle</string>
   <string name="agenda_today">BUGÜN, %1$s</string>
   <string name="agenda_tomorrow">YARIN, %1$s</string>
-  <string name="agenda_view">Etkinlikler</string>
+  <string name="agenda_view">Faaliyetler</string>
   <string name="agenda_yesterday">DÜN, %1$s</string>
   <string name="alarm_label">Reddet</string>
   <string name="alert_reminder_divider">|</string>
@@ -92,6 +95,7 @@
   <string name="button_month">Ay</string>
   <string name="button_online">Satınal</string>
   <string name="button_week">Hafta</string>
+  <string name="calculate_result">Hesaplama Sonucu</string>
   <string name="calendar_color_picker_dialog_title">Takvim Rengi</string>
   <string name="calendar_network_error">Ağ Hatası</string>
   <string name="calendar_refresh">Yenile</string>
@@ -165,6 +169,19 @@
   <string name="cta_notify_settings">Kişi Sorgusu</string>
   <string name="custom">"Hususi (telefonunuzda yapılamaz)"</string>
   <string name="daily">Günlük</string>
+  <string name="date_calculate">Tarih Hesabı</string>
+  <string name="date_calculate_days">Lütfen birkaç gün girin</string>
+  <string name="date_calculate_description">Birkaç gün öncesinden veya sonrasında tarihi hesaplayın</string>
+  <string name="date_calculate_direction">Tarihi hesaplama yönü</string>
+  <string name="date_calculate_result">Tarihi hesaplama sonucu</string>
+  <string name="date_calculate_tab">Tarih Hesabı</string>
+  <string name="date_calculate_today">0 gün</string>
+  <string name="date_calculate_when">Ne zaman?</string>
+  <string name="date_interval_description">İki tarih arasındaki aralığı hesapla</string>
+  <string name="date_interval_end">Burdan</string>
+  <string name="date_interval_start">Buraya</string>
+  <string name="date_interval_tab">Tarih Aralığı</string>
+  <string name="date_interval_text_to">%1$s</string>
   <string name="data_notice_change_settings">Ayarları Değiştir</string>
   <string name="data_notice_continue_confirm">Kullanmaya devam et</string>
   <string name="data_notice_online_large_image">Takvim sayfasına büyük resim ayarlandı. Veri trafiğini azaltmak için büyük resimleri Wi-Fi üzerinden indirin.</string>
@@ -172,6 +189,7 @@
   <string name="date_pattern_mm_dd_kk_mm">d M HH:mm</string>
   <string name="date_pattern_yyyy_mm_dd_kk_mm">dd MM yyy HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
+  <string name="date_today">(bugün)</string>
   <string name="day_view_new_event_hint">Yeni Etkinlik</string>
   <string name="default_reminder_mode">Hatırlatıcılar</string>
   <string name="delete_calendar">İptal</string>
@@ -202,7 +220,11 @@
   <string name="downloading_wallpaper">Resim indir</string>
   <string name="drop_down_list_footer_loading_text">Yükleniyor...</string>
   <string name="dropdown_delete_button_desc">Alıcılardan %s kaldır</string>
-  <string name="edit_event_all_day_label">Tüm Gün</string>
+  <string name="edit_date_calculate_days_backward_error_hint">Geriye doğru hesaplanamaz</string>
+  <string name="edit_date_calculate_days_empty_hint">Gün sayısı boş olamaz</string>
+  <string name="edit_date_calculate_days_error_hint">Lütfen %1$d yönelik doğru günleri girin</string>
+  <string name="edit_date_calculate_days_forward_error_hint">İleriye doğru hesap edilemez</string>
+  <string name="edit_event_all_day_label">Günün tamamı</string>
   <string name="edit_event_anniversary_name_empty_hint">Faaliyet adını yazın</string>
   <string name="edit_event_anniversary_name_hint">Faaliyet</string>
   <string name="drop_down_list_footer_no_more_text">Fazlası</string>
@@ -370,6 +392,8 @@
   <string name="local_owner_account_name">Bu cihazda sakla</string>
   <string name="lunar_calendar">Ay Takvimi</string>
   <string name="lunar_date">Kamerî Takvim</string>
+  <string name="lunar_day"/>
+  <string name="lunar_to_solar"/>
   <string name="lunar_yue">Ay</string>
   <string name="map_label">Harita</string>
   <string name="match_ed">Sona erdi</string>
@@ -593,6 +617,11 @@
   <string name="show_newer_events">%1$s\'den sonraki etkinlikleri göstermek için dokunun</string>
   <string name="show_older_events">%1$s\'den önceki etkinlikleri göstermek için dokunun</string>
   <string name="sms_import_description">Zamanla ilgili mesajları daha iyi yönet</string>
+  <string name="solar_lunar_convert_date"/>
+  <string name="solar_lunar_convert_description"/>
+  <string name="solar_lunar_convert_tab"/>
+  <string name="solar_to_lunar"/>
+  <string name="start_date_calculate">Hesapla</string>
   <string name="snooze_all_label">Tümünü Ertele</string>
   <string name="snooze_label">Ertele</string>
   <string name="str_dayofmonth">%s numarası</string>
@@ -697,6 +726,7 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="view_event_calendar_label">Takvim:</string>
   <string name="view_event_organizer_label">Düzenleyen:</string>
   <string name="view_event_response_label">Katılıyor musun?</string>
+  <string name="view_in_month_view">Ay görünümünde göster</string>
   <string name="week_view">Hafta</string>
   <string name="week_view_today_toast">"Şu anda bu haftayı görüntülüyorsunuz"</string>
   <string name="weekly">Haftalık (her %s )</string>
