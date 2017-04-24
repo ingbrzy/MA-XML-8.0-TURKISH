@@ -89,4 +89,16 @@
         <item quantity="other">（%1$d boş dosya）%2$s</item>
         <item quantity="one">（%1$d boş dosya）%2$s</item>
     </plurals>
+	<plurals name="app_usage_day">
+        <item quantity="other">"%d gün kullanılamaz"</item>
+        <item quantity="one">"%d gün kullanılamaz"</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">"%d ay kullanılamaz"</item>
+        <item quantity="one">"%d ay kullanılamaz"</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">"%d yıl kullanılamaz"</item>
+        <item quantity="one">"%d yıl kullanılamaz"</item>
+    </plurals>
 </resources>
