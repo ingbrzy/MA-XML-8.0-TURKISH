@@ -68,6 +68,7 @@
   <string name="add_shortcut_success">Kısayol başarıyla eklendi</string>
   <string name="add_to_bookmark">Favoriler</string>
   <string name="add_to_desk">Ana Ekrana ekle</string>
+  <string name="add_to_desk_lite_mode_toast">"Hafif Mod, Ana Ekran'a eklenemedi."</string>
   <string name="add_to_desk_success">Ana Ekrana yerleştirildi</string>
   <string name="add_to_quicklink">Başlangıç Sayfası</string>
   <string name="added_to_bookmarks">Favorilere eklendi</string>
@@ -92,6 +93,7 @@
   <string name="autologin_bar_login_text">Oturum Aç</string>
   <string name="autologin_bar_text">Oturum Aç:</string>
   <string name="back_button_label">Geri</string>
+  <string name="back_description">Geri</string>
   <string name="block">Engelle</string>
   <string name="block_ads_choice_block">Engelle</string>
   <string name="block_ads_choice_continue">Devam</string>
@@ -163,6 +165,7 @@
   <string name="color_picker_hue">Ton</string>
   <string name="color_picker_saturation">Doygunluk</string>
   <string name="comment_app_menu">Yorum</string>
+  <string name="comment_description">Yorum</string>
   <string name="comment_hint">Yorum</string>
   <string name="comment_menu">Yorum</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.tr</string>
@@ -314,6 +317,7 @@
   <string name="force_quick_search_title">Ara</string>
   <string name="force_touch_bookmark_history_title">Favori ve Geçmiş</string>
   <string name="force_touch_infoflow_title">Haberler</string>
+  <string name="forward_description">İleri</string>
   <string name="geolocation_permissions_prompt_dont_share">Reddet</string>
   <string name="geolocation_permissions_prompt_message">%s konumunuzu öğrenmek istiyor</string>
   <string name="geolocation_permissions_prompt_remember">Tercihimi hatırla</string>
@@ -333,6 +337,7 @@
   <string name="have_sent_bookmark_to_home_screen">Ana Ekrana yerleştirildi</string>
   <string name="hint">İpucu</string>
   <string name="history_saved_webpage">Kayıtlı Sayfalar</string>
+  <string name="home_description">Ana Sayfa</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Sil</string>
   <string name="homepage_get_location">Konumu al</string>
@@ -459,6 +464,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Bu yolu değiştimek için SD Kart gerekmektedir.</string>
   <string name="month_picker_dialog_title">Ayı Ayarla</string>
+  <string name="more_description">Menü</string>
   <string name="more_option">Diğer Seçenekler</string>
   <string name="nav_bottom_bar_back">Geri</string>
   <string name="nav_bottom_bar_close_all">Tümünü Kapat</string>
@@ -731,6 +737,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="ssl_warnings_header">Bu sitenin güvenlik sertifikası ile ilgili sorunları vardır.</string>
   <string name="start_save_page_capture">Ekran görüntüsü kaydediliyor...</string>
   <string name="storage_internal">Dahili hafıza</string>
+  <string name="storage_permission_request_toast">İndirme, depolama iznine ihtiyaç duyuyor, lütfen açın</string>
   <string name="storage_sd_card">SD Kart</string>
   <string name="storage_usb">USB Depolama</string>
   <string name="suggest_access_appstore">Mi Uygulama Mağazası</string>
@@ -750,7 +757,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="switch_proxy_dialog_title">Ağı Ele Geçirme</string>
   <string name="tab_hotpage">Haber Kaynağı</string>
   <string name="tab_quicklinks">Başlangıç Sayfası</string>
-  <string name="tab_yellowpage">Bağlantılar</string>
+  <string name="tab_yellowpage">Sekmeler</string>
+  <string name="tabs_description">Sekmeler</string>
   <string name="time_picker_dialog_am">ÖÖ</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
