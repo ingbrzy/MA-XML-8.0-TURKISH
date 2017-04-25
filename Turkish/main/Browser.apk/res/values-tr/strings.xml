@@ -63,12 +63,11 @@
   <string name="add_new_quicklink">Başlangıç Sayfasına Ekle</string>
   <string name="add_ql_bm_title">Kaydet</string>
   <string name="add_quicklink_to_popular">Başlangıç Sayfasına Ekle</string>
-  <string name="add_quicklinks">Başlangıç Sayfasına Ekle</string>
+  <string name="add_quicklinks">Ekle</string>
   <string name="add_shortcut">Kısayol ekle</string>
   <string name="add_shortcut_success">Kısayol başarıyla eklendi</string>
   <string name="add_to_bookmark">Favoriler</string>
   <string name="add_to_desk">Ana Ekrana ekle</string>
-  <string name="add_to_desk_lite_mode_toast">"Hafif Mod, Ana Ekran'a eklenemedi."</string>
   <string name="add_to_desk_success">Ana Ekrana yerleştirildi</string>
   <string name="add_to_quicklink">Başlangıç Sayfası</string>
   <string name="added_to_bookmarks">Favorilere eklendi</string>
@@ -86,6 +85,7 @@
   <string name="aqi_quality_index_moderate">Makul</string>
   <string name="aqi_quality_index_pure">Mükemmel</string>
   <string name="aqi_quality_index_unhealthy">Sağlıksız</string>
+  <string name="autoSwithcingSearchEngineTips">Arama motorunu alışkanlığınıza göre değiştirdi</string>
   <string name="autofill_keyboard_accessory_content_description">Öneriler Mevcut</string>
   <string name="autofill_popup_content_description">Otomatik doldurma penceresini göster </string>
   <string name="autologin_bar_error">"Oturum açılamadı"</string>
@@ -93,7 +93,6 @@
   <string name="autologin_bar_login_text">Oturum Aç</string>
   <string name="autologin_bar_text">Oturum Aç:</string>
   <string name="back_button_label">Geri</string>
-  <string name="back_description">Geri</string>
   <string name="block">Engelle</string>
   <string name="block_ads_choice_block">Engelle</string>
   <string name="block_ads_choice_continue">Devam</string>
@@ -165,7 +164,6 @@
   <string name="color_picker_hue">Ton</string>
   <string name="color_picker_saturation">Doygunluk</string>
   <string name="comment_app_menu">Yorum</string>
-  <string name="comment_description">Yorum</string>
   <string name="comment_hint">Yorum</string>
   <string name="comment_menu">Yorum</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.tr</string>
@@ -313,11 +311,11 @@
   <string name="find_on_page_next">Sonraki</string>
   <string name="find_on_page_prev">Önceki</string>
   <string name="find_previous">Öncekini bul</string>
+  <string name="firstUsingSearchEngineTips">Aramayı değiştir</string>
   <string name="fling_on_border_gesture_hint">"Bu hareketin işlevini Ayarlar'dan seçebilirsiniz"</string>
   <string name="force_quick_search_title">Ara</string>
   <string name="force_touch_bookmark_history_title">Favori ve Geçmiş</string>
   <string name="force_touch_infoflow_title">Haberler</string>
-  <string name="forward_description">İleri</string>
   <string name="geolocation_permissions_prompt_dont_share">Reddet</string>
   <string name="geolocation_permissions_prompt_message">%s konumunuzu öğrenmek istiyor</string>
   <string name="geolocation_permissions_prompt_remember">Tercihimi hatırla</string>
@@ -337,7 +335,6 @@
   <string name="have_sent_bookmark_to_home_screen">Ana Ekrana yerleştirildi</string>
   <string name="hint">İpucu</string>
   <string name="history_saved_webpage">Kayıtlı Sayfalar</string>
-  <string name="home_description">Ana Sayfa</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Sil</string>
   <string name="homepage_get_location">Konumu al</string>
@@ -464,7 +461,6 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Bu yolu değiştimek için SD Kart gerekmektedir.</string>
   <string name="month_picker_dialog_title">Ayı Ayarla</string>
-  <string name="more_description">Menü</string>
   <string name="more_option">Diğer Seçenekler</string>
   <string name="nav_bottom_bar_back">Geri</string>
   <string name="nav_bottom_bar_close_all">Tümünü Kapat</string>
@@ -516,6 +512,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_adblock_counts">%d reklam engellendi</string>
   <string name="pref_adblock_title">Reklam Engelleyici</string>
   <string name="pref_auto_update_under_wifi">WLAN kullanarak güncelle</string>
+  <string name="pref_automatic_matching_searchengines_title">Alışkanlıkla arama motorlarını otomatik eşle</string>
   <string name="pref_category_hint">Kategori</string>
   <string name="pref_check_security_url_summary">"Güvenli olup olmadığını kontrol etmek için Mi sunucularına web sitenizin URL\'sini gönder"</string>
   <string name="pref_check_security_url_title">URL güvenliğini denetle</string>
@@ -618,6 +615,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pull_to_refresh_release_label">Yenilemek için serbest bırakın</string>
   <string name="qr_code_title">QR Kodu</string>
   <string name="quicklink_bookmark_save">Favori Yeri</string>
+  <string name="quicklink_cannot_save_url">"Bu bağlantı eklenemedi."</string>
+  <string name="quicklink_folder_text">En İyi Uygulama</string>
   <string name="quicklink_not_saved">"Başlangıç Sayfasına eklenemedi"</string>
   <string name="quicklink_saved">Başlangıç Sayfasına kaydedildi</string>
   <string name="quicklink_saved_before">Bu site zaten eklenmiş</string>
@@ -737,7 +736,6 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="ssl_warnings_header">Bu sitenin güvenlik sertifikası ile ilgili sorunları vardır.</string>
   <string name="start_save_page_capture">Ekran görüntüsü kaydediliyor...</string>
   <string name="storage_internal">Dahili hafıza</string>
-  <string name="storage_permission_request_toast">İndirme, depolama iznine ihtiyaç duyuyor, lütfen açın</string>
   <string name="storage_sd_card">SD Kart</string>
   <string name="storage_usb">USB Depolama</string>
   <string name="suggest_access_appstore">Mi Uygulama Mağazası</string>
@@ -753,12 +751,12 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="suggest_access_music">Mi Müzik</string>
   <string name="suggest_item_delete_text">Sil</string>
   <string name="suggest_open_app_failed">"Bu uygulama açılamadı"</string>
+  <string name="switchText">EVET</string>
   <string name="switch_proxy_dialog_msg">"Ağı ele geçirme algılandı. MIUI\'nin yerleşik Güvenlik uygulamasının kullanın veya bunu operatörünüze raporlayın. "</string>
   <string name="switch_proxy_dialog_title">Ağı Ele Geçirme</string>
   <string name="tab_hotpage">Haber Kaynağı</string>
   <string name="tab_quicklinks">Başlangıç Sayfası</string>
-  <string name="tab_yellowpage">Sekmeler</string>
-  <string name="tabs_description">Sekmeler</string>
+  <string name="tab_yellowpage">Bağlantılar</string>
   <string name="time_picker_dialog_am">ÖÖ</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
@@ -768,6 +766,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="title_bar_loading">Yükleniyor...</string>
   <string name="too_many_windows_dialog_message">"Başka bir sekme kapatılıncaya kadar tarayıcı yeni sekme açamıyor"</string>
   <string name="too_many_windows_dialog_title">"Daha fazla sekme açılamıyor"</string>
+  <string name="unSwitchText">HAYIR</string>
+  <string name="undo">Geri Al</string>
   <string name="unknown_title">Bilinmiyor</string>
   <string name="unsecurity_url_toast">"Bu web sitesi güvenli değil"</string>
   <string name="up_to_loading_tips">Yenilemek için bırakın</string>
