@@ -27,7 +27,8 @@
   <string name="account_setting_message_body_load_text">Sadece içerik</string>
   <string name="account_settings_action">Hesap Ayarları</string>
   <string name="account_settings_background_attachments_label">Ekleri indir</string>
-  <string name="account_settings_background_attachments_summary">Wi-Fi kullanarak ekleri indir</string>
+  <string name="account_settings_background_attachments_summary">Ekleri, WLAN kullanarak indir</string>
+  <string name="account_settings_background_attachments_summary">Ekleri, Wi-Fi kullanarak indir</string>
   <string name="account_settings_data_usage">Eşitleme Ayarları</string>
   <string name="account_settings_description_label">Hesap Adı</string>
   <string name="account_settings_edit_quick_responses_label">Hızlı Cevap</string>
@@ -533,13 +534,14 @@
   <string name="hint_quick_reply_all">Tümünü Cevapla</string>
   <string name="ignore_spam_warning">Yoksay ve bu pstaya güven</string>
   <string name="imap_name">IMAP</string>
+  <string name="imap_or_pop3_name">IMAP/POP3</string>
   <string name="imap_password_error">Gelen posta sunucusu için şifre yanlış</string>
   <string name="import_button_text">İçe Aktar</string>
   <string name="import_from_other_account">Diğer hesaplardan içe aktar</string>
   <string name="info_actionbar_normal_detail">Promosyon</string>
   <string name="info_actionbar_subscribe">Haber Beslemesi</string>
   <string name="info_item_from">Gönderen </string>
-  <string name="info_item_hide">Gizle</string>
+  <string name="info_item_hide">Sil</string>
   <string name="info_loading">Yükleniyor</string>
   <string name="info_name_title">Yenilikler</string>
   <string name="info_no_message">Görüntülenecek makale yok!</string>
@@ -781,7 +783,8 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="policy_dont_allow_text_messaging">"Yazılı mesajlaşmaya izin verme"</string>
   <string name="policy_dont_allow_unsigned_apps">"İmzasız ugulamalara izin verme"</string>
   <string name="policy_dont_allow_unsigned_installers">"İmzasız ugulamalama yükleyicilerine izin verme"</string>
-  <string name="policy_dont_allow_wifi">"Wi-Fi bağlantısına izin verme"</string>
+  <string name="policy_dont_allow_wifi">"WLAN bağlantısına izin verme"</string>
+  <string name="policy_dont_allow_wifi_inter">"WIFI bağlantısına izin verme"</string>
   <string name="policy_email_age">Eşitlenen E-Postaların sayısını sınırla</string>
   <string name="policy_html_truncation">HTML E-Posta boyutunu kısıtla</string>
   <string name="policy_password_expiration">Süre dolum şifresini ayarla</string>
