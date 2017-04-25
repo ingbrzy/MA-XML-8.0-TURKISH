@@ -48,24 +48,44 @@
         <item quantity="one">%d hafta önce</item>
     </plurals>
 	<plurals name="anniversary_notify_title">
-        <item quantity="other">Yıldönümü: %1$s yaşında %2$d.  </item>
-        <item quantity="one">Yıldönümü: %1$s yaşında %2$d. </item>
+        <item quantity="other">Yıldönümüne: %2$d.%1$s yaşında</item>
+        <item quantity="one">Yıldönümüne: %2$d. %1$s yaşında</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
         <item quantity="other">Yıldönümü: %1$s yaşında %2$d. yıldönümüne 3 gün var</item>
         <item quantity="one">Yıldönümü: %1$s yaşında %2$d. yıldönümüne 3 gün var</item>
     </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s yaşında</item>
+        <item quantity="one">%1$s yaşında</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">%1$d gün</item>
+        <item quantity="one">%1$d gün</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">%1$d hafta</item>
+        <item quantity="one">%1$d hafta</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">%1$d ay</item>
+        <item quantity="one">%1$d ay</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">%1$d yıl</item>
+        <item quantity="one">%1$d yıl</item>
+    </plurals>
     <plurals name="anniversary_year">
-        <item quantity="other">yıl</item>
-        <item quantity="one">yıl</item>
+        <item quantity="other">%1$s yıl</item>
+        <item quantity="one">%1$s yıl</item>
     </plurals>
     <plurals name="anniversary_day">
-        <item quantity="other">gün</item>
-        <item quantity="one">gün</item>
+        <item quantity="other">%1$s gün</item>
+        <item quantity="one">%1$s gün</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">gün kaldı</item>
-        <item quantity="one">gün kaldı</item>
+        <item quantity="other">%1$s gün kaldı</item>
+        <item quantity="one">%1$s gün kaldı</item>
     </plurals>
 	<plurals name="work_days">
         <item quantity="other">%d işgünü</item>
