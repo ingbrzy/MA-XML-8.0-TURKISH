@@ -68,6 +68,7 @@
   <string name="artist_gender_female">Kadın</string>
   <string name="artist_gender_group">Grup</string>
   <string name="artist_gender_male">Erkek</string>
+  <string name="artist_home_search_hint">Sanatçıları ara</string>
   <string name="artist_is_empty">Sanatçı adı boş olamaz.</string>
   <string name="artist_name">Sanatçı</string>
   <string name="artist_news">Yenilikler</string>
@@ -120,6 +121,7 @@
   <string name="can_not_find_resource">"Kaynaklar bulunamadı!"</string>
   <string name="cancel">İptal</string>
   <string name="cancel_running_download">İptal</string>
+  <string name="change_download_quality">İndirme kalitesini değiştir</string>
   <string name="channel_list_fragment_title">Radyo</string>
   <string name="chinese_female">Kadın sanatçılar (Çin)</string>
   <string name="chinese_group">Gruplar (Çin)</string>
@@ -231,6 +233,7 @@
   <string name="doc_filter">Dökümanlar</string>
   <string name="done">Tamam</string>
   <string name="download">İndir</string>
+  <string name="download_added_to_list">İndirme listesine eklendi</string>
   <string name="download_all_song">Tümünü indir</string>
   <string name="download_apk_desktop_installing">Yükleniyor</string>
   <string name="download_apk_desktop_pause">Durduruldu</string>
@@ -291,10 +294,20 @@
   <string name="download_title">İndirilenler</string>
   <string name="download_title_sorted_by_date">İndirilenler - Tarihe Göre</string>
   <string name="download_title_sorted_by_size">İndirilenler - Boyuta Göre</string>
+  <string name="download_toast">Şarkıları indirmek için mobil veri kullan</string>
+  <string name="download_toast_with_beyond_data">Şarkıları indirmek için mobil veri kullan. %s sınırı aşıldı</string>
+  <string name="download_toast_with_data">Şarkıları indirmek için mobil veri kullan, %s kaldı</string>
   <string name="download_traffic_dialog_buy_package">Müzik veri planı satın al</string>
-  <string name="download_traffic_dialog_msg">Müzik indirmek için mobil veri bağlantısı kullanmak veri kullanım masraflarını arttırabilir</string>
+  <string name="download_traffic_dialog_msg">%s mobil veriniz kaldı. Şarkıları indirmek için mobil veri kullanılsın mı?</string>
+  <string name="download_traffic_dialog_msg_beyond">"Mobil veri limitinizi şimdiye kadar %s aştınız. Şarkıları indirmek için mobil veri kullanılsın mı?"</string>
+  <string name="download_traffic_dialog_msg_serious">Sadece %s mobil veri kaldı. Şarkıları indirmek için mobil veri kullanılsın mı?</string>
+  <string name="download_traffic_dialog_msg_without_data">"Şarkıları indirmek için mobil veri kullanıyorsunuz. Yine de indirilsin mi?"</string>
   <string name="download_traffic_dialog_negative_button">WLAN için bekle</string>
-  <string name="download_traffic_dialog_position_button">Bir kez indir</string>
+  <string name="download_traffic_dialog_position_button">İndir</string>
+  <string name="download_traffic_dialog_position_button_serious">Yine de indir</string>
+  <string name="download_traffic_dialog_title">Veri Kullanım Uyarısı</string>
+  <string name="download_traffic_dialog_title_beyond">Veri kullanımı aşıldı</string>
+  <string name="download_traffic_dialog_title_serious">Çok az mobil veri kaldı</string>
   <string name="download_unknown_title">&lt;İsimsiz&gt;</string>
   <string name="download_wait_connect">Bağlantıyı bekliyor</string>
   <string name="download_when_network_connected">Veri bağlantısı kullanarak indir</string>
@@ -498,6 +511,7 @@
   <string name="metered_alert_msg">"Şarkı çalmak için mobil veri kullanıyorsunuzdur. Yine de oynatılsın mı?"</string>
   <string name="metered_alert_msg_with_data">%s mobil veri kaldı. Şarkıları dinlemek için mobil veri kullanılsın mı?</string>
   <string name="metered_allow">Oynat</string>
+  <string name="metered_beyond_alert">Veri kullanımı aşıldı</string>
   <string name="metered_disallow">Şimdi değil</string>
   <string name="metered_play_toast">Şarkıları dinlemek için mobil veri kullan</string>
   <string name="metered_play_toast_with_beyond_data">Şarkı çalmak için mobil veri kullan. Sınır %s aşıldı</string>
@@ -737,6 +751,7 @@
   <string name="search_for_album">Albüm</string>
   <string name="search_for_artist">Sanatçı</string>
   <string name="search_hint">Sanatçıları, şarkıları, albümleri ve önerileri arayın</string>
+  <string name="search_hint_not_support_online">Sanatçıları, şarkıları ve albümleri ara</string>
   <string name="search_history_clear_all">Temizle</string>
   <string name="search_instant_online_music">Çevrimiçi</string>
   <string name="search_lyric">Şarkı sözleri ara</string>
@@ -869,6 +884,7 @@
   <string name="title_online_artist">Popüler Sanatçılar</string>
   <string name="title_online_billboard">Popüler</string>
   <string name="title_online_fm">Radyo</string>
+  <string name="title_online_fm_recommend">FM Özelliği</string>
   <string name="title_online_recommend">Önerilen Liste</string>
   <string name="title_online_release">Yeni Albümler</string>
   <string name="title_online_song">Popüler şarkılar</string>
