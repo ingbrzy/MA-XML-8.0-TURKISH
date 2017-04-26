@@ -162,4 +162,9 @@
         <item>%1$smps</item>
         <item>%1$skn</item>
     </string-array>
+	<string-array name="minute_rain_array">
+        <item>Şiddetli</item>
+        <item>Orta</item>
+        <item>Hafif</item>
+    </string-array>
 </resources>
