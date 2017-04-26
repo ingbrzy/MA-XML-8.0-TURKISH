@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="select_items">
+        <item quantity="other">%1$d seçildi</item>
+        <item quantity="one">%1$d seçildi</item>
+    </plurals>
+    <plurals name="app_list_total">
+        <item quantity="other">%d seçildi</item>
+        <item quantity="one">%d seçildi</item>
+    </plurals>
     <plurals name="power_config_ultimate_on_count">
         <item quantity="other">Ultimate Moduna geçmek için %1$d adım uzaktasınız</item>
         <item quantity="one">Ultimate Moduna geçmek için %1$d adım uzaktasınız</item>
