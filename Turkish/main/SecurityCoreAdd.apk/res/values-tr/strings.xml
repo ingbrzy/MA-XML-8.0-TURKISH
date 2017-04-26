@@ -37,7 +37,7 @@ bu özellik İkinci Alana otomatik olarak eklenir."</string>
   <string name="confirmCloseSpaceDes">"İkinci Alana girildiğinde silinemez. Tüm veriler taşınacak ve silinecek."</string>
   <string name="confirmDelete">Sil</string>
   <string name="confirmSecondSpacePassword">İkinci Alan şifresini onayla</string>
-  <string name="confirm_airspace_password">Çalışma aalanı şifresini doğrula</string>
+  <string name="confirm_airspace_password">%s şifresini doğrula</string>
   <string name="confirm_main_space_password">İlk Alan şifresini onayla</string>
   <string name="confirm_restore">"Gösterme!"</string>
   <string name="contactData">Kişiler</string>
@@ -53,6 +53,7 @@ daima görüntüleyebilirsiniz"</string>
   <string name="create_space_loading">İkinci Alan oluşturuluyor…</string>
   <string name="create_work_space">Çalışma Alanı oluştur</string>
   <string name="creating_app_icon">Simge oluşturuluyor…</string>
+  <string name="current_space">Geçerli Alan</string>
   <string name="dataSafe">İkinci Alan iki cihazda kullanılıyor.</string>
   <string name="declare_dialog_title">Klonlu Uygulamalar Hakkında</string>
   <string name="deleteAll">Tümünü Sil</string>
@@ -85,6 +86,7 @@ daima görüntüleyebilirsiniz"</string>
   <string name="finger_print_num">Parmakizi %d</string>
   <string name="finger_print_of_use">Parmakizi kullan</string>
   <string name="fingerprint_removal_failed">"Parmakizi silinemedi"</string>
+  <string name="function_not_support">Bu alan desteklenmiyor</string>
   <string name="goToSecondSpacce">İkinci Alana git</string>
   <string name="go_on_import">Aktarmayı koru</string>
   <string name="guide_contact_sub_title_desc">"İkinci Alana kişiler özel olarak eklendi.
@@ -223,7 +225,7 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="start_new_fingerprint_tips">"Kilit Ekranından İkinci Alana
  parmakizi kullanarak gir"</string>
   <string name="start_setting_guide_desc_title">Ayarlanacak bir kaç şey var</string>
-  <string name="summary_switch_apps_settings">İkinci Alanda kullanılan uygulamaları seçin</string>
+  <string name="summary_switch_apps_settings">Geçerli Alanda kullanılan uygulamaları seçin</string>
   <string name="sure_to_use">Onayla</string>
   <string name="switchDataSummary">Alanlar arasında öğeleri taşı</string>
   <string name="switch_apps_settings">Uygulama Ayarları</string>
@@ -234,12 +236,12 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="switch_file_success">Dosyalar başarıyla taşındı</string>
   <string name="switch_in_contacts">Kişileri Aktar</string>
   <string name="switch_in_files">Dosyaları Aktar</string>
-  <string name="switch_in_hidden_space">İkinci Alana Aktar</string>
+  <string name="switch_in_hidden_space">Geçerli Alana Aktar</string>
   <string name="switch_in_photos">Fotoğrafları Aktar</string>
   <string name="switch_in_privacy_contacts">Özel Kişileri Aktar</string>
   <string name="switch_out_contacts">Kişileri Aktar</string>
   <string name="switch_out_files">Dosyaları Aktar</string>
-  <string name="switch_out_hidden_space">İkinci Alandan Veri Aktar</string>
+  <string name="switch_out_hidden_space">Geçerli Alandan Veri Aktar</string>
   <string name="switch_out_photos">Fotoğrafları Aktar</string>
   <string name="switch_out_privacy_contacts">Özel Kişileri Aktar</string>
   <string name="switch_success">Başarıyla taşındı</string>
