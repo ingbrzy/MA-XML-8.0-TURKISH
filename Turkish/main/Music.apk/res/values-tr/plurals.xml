@@ -67,8 +67,8 @@
         <item quantity="one">%d şarkı kaldırılsın mı?</item>
     </plurals>
     <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">%d şarkı Mi Bulut üzerinden silinsin mi?</item>
-        <item quantity="one">%d şarkı Mi Bulut üzerinden silinsin mi?</item>
+        <item quantity="other">%d şarkı Mi Bulut üzerinden silinsin mi? Yerel çalma listelerinden de silinirler.</item>
+        <item quantity="one">%d şarkı Mi Bulut üzerinden silinsin mi? Yerel çalma listelerinden de silinirler.</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d şarkı listeye eklendi</item>
