@@ -1898,6 +1898,7 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="sum_cfu_disabled">Kapalı</string>
   <string name="sum_cfu_enabled">Tüm çağrılar şuraya yönlendiriliyor {0}</string>
   <string name="sum_cfu_enabled_indicator">Tüm aramalar yönlendiriliyor</string>
+  <string name="sum_cfu_enabled_indicator_by_sim">SIM %s tüm çağrıları yönlendirilecek</string>
   <string name="sum_cfu_enabled_no_number">Numara kullanılamıyor</string>
   <string name="sum_cw_disabled">Bir arama esnasında, gelen çağrıları bana bildir</string>
   <string name="sum_cw_enabled">Görüşme esnasında gelen çarıları bildir</string>
@@ -1982,6 +1983,7 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="time_start">Şurdan:</string>
   <string name="time_start_hour">saat</string>
   <string name="time_start_minute">dakika</string>
+  <string name="title_cfu_enabled">Çağrı yönlendirme açık</string>
   <string name="title_convert_fbe">Dosya tabanlı şifrelemeye dönüştürülüyor</string>
   <string name="time_statistic">%1$d dakika tasarruf edildi</string>
   <string name="track_frame_time">GPU görüntüleme profili</string>
@@ -2002,7 +2004,7 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="tts_engine_preference_section_title">Tercih Edilen Sentezleyici</string>
   <string name="tts_engine_security_warning">Bu konuşma sentezleyicisi, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere konuşulacak tüm metni alabilmektedir. %s sentezleyici bunu sağlar. Bu konuşma sentezleyicisinin kullanımını etkinleştirilsin mi?</string>
   <string name="tts_engine_settings_button">Sentezleyici Ayarlarını Başlat</string>
-  <string name="tts_engine_settings_title">%s ayarları</string>
+  <string name="tts_engine_settings_title">%s Ayarları</string>
   <string name="tts_general_section_title">Genel</string>
   <string name="tts_install_data_summary">Konuşma sentezi için gerekli ses verilerini yükleyin</string>
   <string name="tts_install_data_title">Ses verilerini yükle</string>
