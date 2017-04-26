@@ -2,7 +2,7 @@
 <resources>
     <string-array name="switch_apps_entries">
         <item>Varsayılan Alanda kullanıldı</item>
-        <item>İkinci Alanda kullanıldı</item>
+        <item>Geçerli Alanda kullanıldı</item>
         <item>İki alanda da kullanıldı</item>
     </string-array>
     <string-array name="switch_apps_title_confirms">
@@ -12,7 +12,7 @@
     </string-array>
     <string-array name="switch_apps_msg_confirms">
         <item>Uygulama Varsayılan Alana taşındığında uygulama verisi kaybedilecek.</item>
-        <item>Uygulama İkinci Alana taşındığında uygulama verisi kaybedilecek.</item>
+        <item>Uygulama Geçerli Alana taşındığında uygulama verisi kaybedilecek.</item>
         <item>Uygulama iki alanda da kullanıldı.</item>
     </string-array>
 </resources>
