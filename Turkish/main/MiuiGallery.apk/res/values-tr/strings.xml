@@ -148,9 +148,9 @@
   <string name="auto_upload_before_share_title">İpucu</string>
   <string name="auto_upload_disable_tip">Otomatik Yedekleme devre dışı</string>
   <string name="auto_upload_disable_toast">Bu albümdeki fotoğraflar ve videolar otomatik olarak kaydedilmez</string>
-  <string name="auto_upload_disable_toast_long_press_menu">Mi Bulut eşitlemesi kapalı ve diğer albümleri görüntüleyin</string>
+  <string name="auto_upload_disable_toast_long_press_menu">Mi Bulut eşitlemesi kapalı</string>
   <string name="auto_upload_enable_toast">Fotoğraf ve videolar bu albüme otomatik olarak kaydedilecek</string>
-  <string name="auto_upload_enable_toast_long_press_menu">Mi Bulut eşitlemesi açık, görüntülemek için albümlere gidin</string>
+  <string name="auto_upload_enable_toast_long_press_menu">Mi Bulut eşitlemesi açık</string>
   <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Mi Bulut kullanan diğer uygulamaların fotoğraflarını otomatik eşitle. Bu özelliği istediğiniz zaman Ayar altındaki &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Mi Bulut içinden açıp-kapatabilirsiniz &amp;&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
   <string name="auto_upload_guide_title">Mi Bulut ile fotoğrafları eşitle</string>
   <string name="auto_upload_title">Otomatik eşitle</string>
@@ -426,7 +426,7 @@
   <string name="details_title">%1$d -&gt; %2$d öğe</string>
   <string name="device_model">Cihaz</string>
   <string name="directory_info_divider">"  |  "</string>
-  <string name="disable_auto_upload_tip">"Yeni ve silinen fotoğraflar Mi Bulut ile eşitlenmez. Bu albüm diğer albümlere taşınacaktır."</string>
+  <string name="disable_auto_upload_tip">"Bu albümün Mi Bulut ile eşitlenmesi kapatılsın mı?"</string>
   <string name="disable_auto_upload_title">Mi Bulut ile eşitlemeyi kapat</string>
   <string name="do_not_remind_me">"Tekrar gösterme"</string>
   <string name="do_not_save">Kaydetme!</string>
@@ -465,7 +465,7 @@
   <string name="empty_recommend_face_page_view">Başka öneri yok</string>
   <string name="empty_relation">"Grup adı boş olamaz"</string>
   <string name="enable">Etkin</string>
-  <string name="enable_auto_upload_tip">Eğer açılırsa bu albüm diğer albümlerden kaldırılır</string>
+  <string name="enable_auto_upload_tip">Bu albümün Mi Bulut ile eşitlenmesi açılsın mı?</string>
   <string name="enable_auto_upload_title">Mi Bulut ile eşitlemeyi aç</string>
   <string name="enable_cloud_for_sharing">Paylaşılan fotoğrafları görüntülemek için Bulut albümlerini açmanız gerekir.</string>
   <string name="enable_face_album_summary">Kişilere göre fotoğrafları otomatik sırala</string>
@@ -769,7 +769,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="mosaic">Mozaik</string>
   <string name="move">Taşı</string>
   <string name="move_to_cloud_album">Şuraya Taşı:</string>
-  <string name="move_to_other_albums_tip">Eğer albümü diğer albüme taşıyacaksanız, Mi Bulut eşitlemesi kapatılacak. Albüm şimdi taşınsın mı?</string>
+  <string name="move_to_other_albums_tip">Diğer albümler, bu albüme taşınsın mı?</string>
   <string name="mtgif">MTGIF</string>
   <string name="mtxx">MTXX</string>
   <string name="multi_view">3D Görünüm</string>
@@ -986,7 +986,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="remove_from_current_album">Bu albümden kaldır</string>
   <string name="remind_shows_in_photo_tab_summary">Ana sayfada bu albümü göster?</string>
   <string name="remind_shows_in_photo_tab_title">Albümü ayarla</string>
-  <string name="remove_from_other_albums_tip">Listedeki diğer albüm kaldırıldığında Mi Bulut eşitlemesinde de kaldırılır. Albüm kaldırılsın mı?</string>
+  <string name="remove_from_other_albums_tip">Bu albüm diğer albüme taşınsın mı?</string>
   <string name="remove_from_secret_fail">Gizli Albümden kaldırırken başarısız oldu</string>
   <string name="remove_from_secret_failed_message_with_count">%1$s yerinden %2$s öğe kaldırılamıyor</string>
   <string name="remove_from_secret_failed_with_reason">"Gizli albümden kaldırılamadı. %1$s."</string>
@@ -1151,6 +1151,8 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="show_all">Resimler ve Videolar</string>
   <string name="show_hidden_album">Gizli albümleri göster</string>
   <string name="show_hidden_album_title">Gizli albümleri göster</string>
+  <string name="show_in_other_albums_disable_toast_long_press_menu">Başarıyla taşındı, Diğer Albümlerden görüntüleyebilirsiniz</string>
+  <string name="show_in_other_albums_enable_toast_long_press_menu">Başarıyla taşındı, Albümlerden görüntüleyebilirsiniz</string>
   <string name="show_hidden_albums">Gizli albümleri göster</string>
   <string name="show_images_only">Sadece Resimleri</string>
   <string name="show_on_map">Harita üzerinde göster</string>
