@@ -363,6 +363,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="mt_code_on_hold_call_released">Bekletilen çağrı alındı</string>
   <string name="no_vm_number">Eksik sesli mesaj numarası</string>
   <string name="no_vm_number_msg">SIM kartta saklı sesli mesaj numarası yok</string>
+  <string name="notification_AllMissedCallTitle">Cevapsız Çağrılar</string>
   <string name="non_primary_user">Only the device owner can view and manage blocked numbers.</string>
   <string name="notification_component"/>
   <string name="notification_missedCallTicker">Cevapsız çağrınız: %s</string>
