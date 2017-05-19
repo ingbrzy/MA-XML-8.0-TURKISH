@@ -624,6 +624,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="other_user_liked_video_title">Sevdiğim Videolar</string>
   <string name="other_user_no_follow_tip">"Hiçkimseyi henüz takip etmiyorsunuz."</string>
   <string name="other_user_no_liked_video_tip">Sevilen video yok.</string>
+  <string name="overwrite_msg">\"%s\" zaten var. Üstüne yeni dosya olarak yazmak için dokunun.</string>
   <string name="other_user_topic_tab">Başlıklar</string>
   <string name="other_user_video_tab">Videolar</string>
   <string name="pan_settting">KuaiPan Ayarları</string>
@@ -859,6 +860,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="shortcut_exists">Kısayol zaten var</string>
   <string name="shortcut_hotvideos">Popüler videolar</string>
   <string name="shortcut_msg">Popüler videoların kısayolunu Ana Ekrana ekle</string>
+  <string name="skip_file">Atla</string>
   <string name="show_message">Bunu açmadan önce bu dosyayı yüklemeniz gerekir.</string>
   <string name="sign_description">Oturum açılıyor...</string>
   <string name="signin_error">"Sunucuya bağlanamıyor. Ağ bağlantınızı kontrol edin."</string>
@@ -1022,7 +1024,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_guide_summary">Rahat ve güvenli bir bulut depolamasıdır</string>
   <string name="user_guide_upload_to_kuaipan">Telefondaki içeriği Mi Drive\'da saklayın.</string>
   <string name="user_icon">Profil Fotoğrafı</string>
-  <string name="user_id_tip">ID: </string>
+  <string name="user_id_tip">ID: %1$s</string>
   <string name="user_info_setting">Bilgiyi düzenle</string>
   <string name="user_like_text">Sevilenler</string>
   <string name="user_liked_video_title">Sevilen Videolar</string>
