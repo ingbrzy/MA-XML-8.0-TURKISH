@@ -68,8 +68,10 @@
   <string name="add_shortcut_success">Kısayol başarıyla eklendi</string>
   <string name="add_to_bookmark">Favoriler</string>
   <string name="add_to_desk">Ana Ekrana ekle</string>
-  <string name="add_to_desk_success">Ana Ekrana yerleştirildi</string>
+  <string name="add_to_desk_lite_mode_toast">"Hafif Modda Ana Ekrana eklenemez</string>
+  <string name="add_to_desk_success">Ana Ekran için ekle</string>
   <string name="add_to_quicklink">Başlangıç Sayfası</string>
+  <string name="add_to_desk_success">Ana Ekrana yerleştirildi</string>
   <string name="added_to_bookmarks">Favorilere eklendi</string>
   <string name="adjust_text_zoom_toast">Metin yakınlaştırmayı değiştirmek bazı web sitelerinin hatalı görüntülenmesine neden olabilir</string>
   <string name="alert_tips">Bu sitede bir güvenlik riski olabilir</string>
@@ -85,7 +87,7 @@
   <string name="aqi_quality_index_moderate">Makul</string>
   <string name="aqi_quality_index_pure">Mükemmel</string>
   <string name="aqi_quality_index_unhealthy">Sağlıksız</string>
-  <string name="autoSwithcingSearchEngineTips">Arama motorunu alışkanlığınıza göre değiştirdi</string>
+  <string name="autoSwithcingSearchEngineTips">Arama motorunu kullanma sıklığınıza göre değiştirdi</string>
   <string name="autofill_keyboard_accessory_content_description">Öneriler Mevcut</string>
   <string name="autofill_popup_content_description">Otomatik doldurma penceresini göster </string>
   <string name="autologin_bar_error">"Oturum açılamadı"</string>
@@ -104,8 +106,8 @@
   <string name="bookmark_cannot_save_url">"Bu adres yerimlerine eklenemiyor."</string>
   <string name="bookmark_folder_needs_title">Bir grup ismi girin</string>
   <string name="bookmark_group_lable">Grup</string>
-  <string name="bookmark_needs_title">Favorinin bir adı olmalı.</string>
-  <string name="bookmark_needs_url">Favori bir adres içermeli.</string>
+  <string name="bookmark_needs_title">Favorinin bir adı olmalı</string>
+  <string name="bookmark_needs_url">Favori bir adres içermeli</string>
   <string name="bookmark_not_saved">"Favori kaydedilemedi"</string>
   <string name="bookmark_rename_group">Grubu adlandır</string>
   <string name="bookmark_saved">Favori kaydedildi</string>
@@ -113,9 +115,9 @@
   <string name="bookmark_title_lable">Başlık</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">Bu URL zaten yerimlerinde var</string>
-  <string name="bookmark_url_can_not_null">Lütfen bağlantıyı girin.</string>
+  <string name="bookmark_url_can_not_null">Bağlantıyı girin.</string>
   <string name="bookmark_url_lable">URL</string>
-  <string name="bookmark_url_not_valid">"Bu URL geçerli değil."</string>
+  <string name="bookmark_url_not_valid">"Bu bağlantı geçerli değil"</string>
   <string name="bookmarks_content_is_null">Favori yok</string>
   <string name="bookmarks_management">Favoriler</string>
   <string name="bookmarks_root_folder">Root Dizini</string>
@@ -311,7 +313,7 @@
   <string name="find_on_page_next">Sonraki</string>
   <string name="find_on_page_prev">Önceki</string>
   <string name="find_previous">Öncekini bul</string>
-  <string name="firstUsingSearchEngineTips">Aramayı değiştir</string>
+  <string name="firstUsingSearchEngineTips">Arama motoru değiştirilsin mi?</string>
   <string name="fling_on_border_gesture_hint">"Bu hareketin işlevini Ayarlar'dan seçebilirsiniz"</string>
   <string name="force_quick_search_title">Ara</string>
   <string name="force_touch_bookmark_history_title">Favori ve Geçmiş</string>
@@ -512,7 +514,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_adblock_counts">%d reklam engellendi</string>
   <string name="pref_adblock_title">Reklam Engelleyici</string>
   <string name="pref_auto_update_under_wifi">WLAN kullanarak güncelle</string>
-  <string name="pref_automatic_matching_searchengines_title">Alışkanlıkla arama motorlarını otomatik eşle</string>
+  <string name="pref_automatic_matching_searchengines_title">Kullanıma göre arama motorunu değiştir</string>
   <string name="pref_category_hint">Kategori</string>
   <string name="pref_check_security_url_summary">"Güvenli olup olmadığını kontrol etmek için Mi sunucularına web sitenizin URL\'sini gönder"</string>
   <string name="pref_check_security_url_title">URL güvenliğini denetle</string>
@@ -614,7 +616,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pull_to_refresh_refreshing_label">Yükleniyor...</string>
   <string name="pull_to_refresh_release_label">Yenilemek için serbest bırakın</string>
   <string name="qr_code_title">QR Kodu</string>
-  <string name="quicklink_bookmark_save">Favori Yeri</string>
+  <string name="quicklink_bookmark_save">Kaydet:</string>
   <string name="quicklink_cannot_save_url">"Bu bağlantı eklenemedi."</string>
   <string name="quicklink_folder_text">En İyi Uygulama</string>
   <string name="quicklink_not_saved">"Başlangıç Sayfasına eklenemedi"</string>
@@ -722,7 +724,10 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="skip_current_version">Bu sürümü atla</string>
   <string name="snapshot_failed">"Çevrimdışı okumak için kaydedilemedi"</string>
   <string name="snapshot_successed">Çevrimdışı okumak için kaydedildi</string>
-  <string name="ssl_certificate">Güvenlik sertifikası</string>
+  <string name="snapshot_successed">Çevrimdışı okumayı kaydet</string>
+  <string name="ssl_bad_clock_date_settings">Tarih Ayarları</string>
+  <string name="ssl_bad_clock_warning" formatted="false">"%s1 özel bağlantısı sağlanamadı çünkü cihazın tarih ve zaman (%s2) doğru değil."</string>
+  <string name="ssl_certificate">Güvenlik Sertifikası</string>
   <string name="ssl_certificate_is_valid">Bu sertifika geçerli.</string>
   <string name="ssl_continue">Devam</string>
   <string name="ssl_date_invalid">Bu sertifikanın tarihi geçersiz.</string>
@@ -735,7 +740,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="ssl_untrusted">"Bu sertifika güvenilir bir yetkiliden değil."</string>
   <string name="ssl_warnings_header">Bu sitenin güvenlik sertifikası ile ilgili sorunları vardır.</string>
   <string name="start_save_page_capture">Ekran görüntüsü kaydediliyor...</string>
-  <string name="storage_internal">Dahili hafıza</string>
+  <string name="storage_internal">Dahili Hafıza</string>
+  <string name="storage_permission_request_toast">"İndirmeler cihazın depolamasına erişmek ister"</string>
   <string name="storage_sd_card">SD Kart</string>
   <string name="storage_usb">USB Depolama</string>
   <string name="suggest_access_appstore">Mi Uygulama Mağazası</string>
