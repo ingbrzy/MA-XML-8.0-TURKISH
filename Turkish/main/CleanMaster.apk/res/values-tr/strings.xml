@@ -474,6 +474,8 @@
   <string name="remain_item_name_pamp"/>
   <string name="safety_check_detail">%1$d zaman, %2$d puan kazanıldı</string>
   <string name="safety_rank">Güvenlik açısından %%%d MIUI kullanıcısından önde</string>
+  <string name="resutl_function_deep_clean_summary">" "&lt;Veri&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; dosyaları temizlendi. Daha fazla alan kazanıldı.</string>
+  <string name="resutl_function_wechat_clean_summary">" "&lt;Wechat Veri&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; önbelleği. Daha fazla alan kazanın.</string>
   <string name="sc_allow_network_dialog_button">İzinli</string>
   <string name="sc_allow_network_dialog_message">Bu uygulamanın güncellemeleri almak için İnternete bağlanmasına izin veriyor musunuz?</string>
   <string name="scanning">Taranıyor…</string>
