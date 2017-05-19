@@ -140,4 +140,8 @@
         <item quantity="zero">Toplam %d şarkı</item>
         <item quantity="one">Toplam %d şarkı</item>
     </plurals>
+	<plurals name="skipped_online_songs_tips">
+        <item quantity="other">%d şarkı atlandı. Ayarlar içinden çevrimiçi hizmetlerden açılabilir.</item>
+		<item quantity="one">%d şarkı atlandı. Ayarlar içinden çevrimiçi hizmetlerden açılabilir.</item>
+	</plurals>
 </resources>
