@@ -230,6 +230,16 @@ Uygulama Kilidinin şifresini girin"</string>
 春节红包活动，不错过每一个红包"</string>
   <string name="app_version">Sürüm</string>
   <string name="app_wifi">WLAN</string>
+  <string name="applock_add_account">Ekle</string>
+  <string name="applock_add_account_info">"Mi Hesabı şifresini sıfırlarken unutmayacağınız
+ bir şifre kullanın"</string>
+  <string name="applock_add_account_setting">Hesap &amp; Gizlilik</string>
+  <string name="applock_close_dialog_summary">Uygulama kilidi kapatılınca daha fazla korunmayacak ve şifre silinecek.</string>
+  <string name="applock_close_dialog_title">Uygulama kilidi kapatılsın mı?</string>
+  <string name="applock_exit_account_info">Hesap oturum kapatılınca otomatik olarak kaldırılacak</string>
+  <string name="applock_login_and_add_account">Oturum Aç &amp; Ekle</string>
+  <string name="applock_not_add_account">Şimdi değil</string>
+  <string name="applock_not_login_account">"Oturum açmadınız"</string>
   <string name="apps_item_sign_dialog_content">\"%s\"imzası Uygulama Mağazasındakinden farklı. Bu uygulama silinsin ve resmi sürümü yüklensin mi? Not: İmzası farklı uygulamalar veri kaybına neden olabilir.</string>
   <string name="apps_item_sign_dialog_title">Resmi Uygulama Sürümünü Yükle</string>
   <string name="apps_item_sign_install_button_text">Değiştir</string>
@@ -1001,7 +1011,7 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="main_message_no_package_by_dual">%s için veri limitini ayarla</string>
   <string name="main_leisure_remained">Kalan üst veri limiti:</string>
   <string name="main_month_total_used">Bu ay kullanılan:</string>
-  <string name="main_month_used">Bu ay kullanılan:</string>
+  <string name="main_month_used">Veri Planı</string>
   <string name="main_no_info">Veri yok</string>
   <string name="main_normal_data_usage">Mobil veri kullanımı:</string>
   <string name="main_open_traffic_ctrl_button">Veri kullanımını kısıtla</string>
