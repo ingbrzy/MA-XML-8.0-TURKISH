@@ -65,8 +65,9 @@
   <string name="app_label">Takvim</string>
   <string name="attendees_label">Ziyaretçiler</string>
   <string name="birthday_calendar_display_name">Doğum günü hatırlatıcı</string>
-  <string name="birthday_card_title">"Bugünün doğum günü"</string>
-   <string name="birthday_event_description_a_week_ago">Bir hafta önce</string>
+  <string name="birthday_card_other_day_title">Doğum Günü</string>
+  <string name="birthday_card_title">"Bugünkü doğum günü"</string>
+  <string name="birthday_event_description_a_week_ago">Bir hafta önce</string>
   <string name="birthday_event_description_a_week_later">Bir hafta kadar</string>
   <string name="birthday_event_description_day_after_tomorrow">Yarından sonraki gün</string>
   <string name="birthday_event_description_day_before_yesterday">Dünden önceki gün</string>
@@ -106,7 +107,7 @@
   <string name="can_not_modify_allday_event">"Tüm gün etkinliğini değiştiremezsiniz"</string>
   <string name="can_not_modify_event">"Etkinliği değiştiremezsiniz"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Bir çok gün süren etkinliği değiştiremezsiniz"</string>
-  <string name="card_detail_dialog_message">“%1$s”İçerik, günlük olarak güncellenmektedir, abone olduktan sonra en son içerikleri görebilirsiniz.</string>
+  <string name="card_detail_dialog_message">%1$s İçerik, günlük olarak güncellenmektedir, abone olduktan sonra en son içerikleri görebilirsiniz.</string>
   <string name="card_detail_dialog_negative">Göreceğiz...</string>
   <string name="card_detail_dialog_positive">Abone ol</string>
   <string name="card_detail_dialog_title">Abone ol</string>
@@ -336,6 +337,7 @@
   <string name="hint_what">Etkinlik adı</string>
   <string name="hint_where">Konum</string>
   <string name="holiday_card_title">Tatil</string>
+  <string name="holiday_detail_read_more">Diğer</string>
   <string name="homepage_nowadays">Bugünkü</string>
   <string name="homepage_today">Şimdi</string>
   <string name="horoscope_card_comprehensive">Geniş Kismet:</string>
