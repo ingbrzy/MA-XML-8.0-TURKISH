@@ -3182,8 +3182,16 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="page_layout_page2_title">Önizle</string>
   <string name="page_layout_small_title">Küçücük</string>
   <string name="palm_enabled">Kapağın ekranını kapat</string>
+  <string name="paper_mode_auto_twilight_summary">Okuma Modu Şafak Modu olarakta bilinir</string>
+  <string name="paper_mode_auto_twilight_title">Şafak Modu</string>
+  <string name="paper_mode_customize_time_summary">Okuma Modu, Özelleştirilmiş Zaman olarakta bilinir</string>
+  <string name="paper_mode_customize_time_title">Özelleştirilmiş Zaman</string>
   <string name="page_loading">Biraz bekleyin…</string>
   <string name="paper_mode_end_time_title">Bitiş Zamanı</string>
+  <string name="paper_mode_get_location_dlg_msg">Güneşin Doğuş ve Batış Zamanı içeriğini konumun ağ bağlantısından alır, konum ayarları açılsın mı?</string>
+  <string name="paper_mode_get_location_dlg_negative_btn_text">İptal</string>
+  <string name="paper_mode_get_location_dlg_positive_btn_text">Ayarlar</string>
+  <string name="paper_mode_get_location_dlg_title">Konumu Ayarla</string>
   <string name="paper_mode_start_time_title">Başlama Zamanı</string>
   <string name="passpoint_content">%1$s sicili</string>
   <string name="passpoint_label">Kaydeden:</string>
@@ -3585,6 +3593,10 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="privacy_password_settings_titles_second_space">Gizlilik koruma şifresi fotoğraflarınızı, dosyalarınızı ve notlarınızı korur.</string>
   <string name="privacy_password_title">Gizlilik Koruma Şifresi</string>
   <string name="privacy_password_transparent_tiltle"/>
+  <string name="privacy_password_use_finger_dialog_mess">Gizlilik Koruma şifresini parmakizi kullanarak koruyabilirsiniz.</string>
+  <string name="privacy_password_use_finger_dialog_open">Ayarlar</string>
+  <string name="privacy_password_use_finger_dialog_title">Parmakizi kilidini kaldır</string>
+  <string name="privacy_password_use_finger_success">Açık</string>
   <string name="privacy_password_visible_pattern">Deseni göster</string>
   <string name="privacy_protect_title">Gizlilik Koruması</string>
   <string name="privacy_relative">Gizlilik</string>
@@ -3948,7 +3960,8 @@ Bu ayar telefondaki tüm kullanıcıları etkiler."</string>
   <string name="screen_paper_mode_range_title">Ayarlar</string>
   <string name="screen_paper_mode_set_apps_title">Okuma Modu uygulamaları</string>
   <string name="screen_paper_mode_summary">"Ekranın arkaplan parlaklığını azalt"</string>
-  <string name="screen_paper_mode_time_title">Planlı</string>
+  <string name="screen_paper_mode_time_summary">Okuma Modu, Ayarlı Zaman olarakta bilinir</string>
+  <string name="screen_paper_mode_time_title">Zamanlanmış Program</string>
   <string name="screen_paper_mode_title">Okuma Modu</string>
   <string name="screen_paper_mode_turn_off">Kapalı</string>
   <string name="screen_paper_mode_turn_on">Açık</string>
