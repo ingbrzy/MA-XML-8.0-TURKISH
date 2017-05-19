@@ -149,6 +149,7 @@
   <string name="cloud_welcome_message">Şarkıları Yedekle</string>
   <string name="cloud_welcome_summary">"Şarkılarınızı Mi Bulut'a yedekleyin ve diğer cihazlardan dinleyin"</string>
   <string name="comment_format" formatted="false">%s: %s</string>
+  <string name="confirm">Tamam</string>
   <string name="confirm_delete_downloads_message">%d indirilen dosya silinecek.</string>
   <string name="confirm_delete_the_download_item_message">Bu indirilenler silinsin mi?</string>
   <string name="confirm_download">İndir</string>
@@ -645,11 +646,19 @@
   <string name="online_music_enabled_summary">Dinleyin ve en sevdiğiniz şarkılar indirin. Nereye gidersen git en iyi şarkıları ve küratörlüğün çalma listeleri göster!</string>
   <string name="online_music_enabled_title">Ücretsiz akış burada!</string>
   <string name="online_my">Benim</string>
+  <string name="online_play_tips">Bu şarkı sadece çevrimiçidir. Bunu Ayarlar içinde çevrimiçi hizmetlerden açılabilir.</string>
   <string name="online_playlist_is_empty">Oynatma listesi boş!</string>
-  <string name="online_recommend">Tavsiyeli</string>
+  <string name="online_recommend">Liste</string>
+  <string name="online_service_open_tip">Çevrimiçi müzik hizmeti açık</string>
+  <string name="online_service_title">Çevrimiçi Hizmetleri</string>
   <string name="online_special">Özel</string>
+  <string name="online_switch">Çevrimiçi İçerik Hizmeti</string>
+  <string name="online_switch_message">VIP Hizmetler ve tavsiyeler çevrimiçi hizmetlerde kapatılır. Yinede kapatılsın mı?</string>
+  <string name="online_switch_setting">Çevrimiçi İçerik Ayarları</string>
   <string name="only_online_can_select_quality">Stream müzik kalitesini seçebilirsiniz.</string>
   <string name="open_download">Aç</string>
+  <string name="open_online_service">Bu özelliği kullanarak çevrimiçi hizmetleri açabilirsiniz. Şimdi açılsın mı?</string>
+  <string name="open_service">Aç</string>
   <string name="order_pending">Onay bekleniyor</string>
   <string name="order_process_fail">"Hesabınız yetkilendirilemiyor. Birkaç dakika bekleyip tekrar deneyiniz."</string>
   <string name="other_filter">Diğer</string>
@@ -831,6 +840,7 @@
   <string name="sort_by_time">Tarih</string>
   <string name="source_from">Kaynak: %1$s</string>
   <string name="start_download_music">Güncellemeler indiriliyor…</string>
+  <string name="start_to_backup">Yedekleniyor…</string>
   <string name="start_to_download">İndiriliyor...</string>
   <string name="start_to_play">Oynat</string>
   <string name="start_to_use">Uygulamayı Aç</string>
@@ -951,8 +961,8 @@
   <string name="vip_renew_notification_message">"Abonelik süresi dolduktan sonra yüksek kaliteli ses akışı mümkün olmayacaktır."</string>
   <string name="vip_renew_notification_title">Abonelik yarın sona eriyor</string>
   <string name="vip_renew_title">Abonelik sona erdi</string>
-  <string name="vip_required">Ayrıcalıklı Şarkı Paketindeki bu şarkı çalmak için sizin olsun. Biz sizin için atlanır.</string>
-  <string name="vip_required_with_song">Ayrıcalıklı Şarkı Paketindeki “%s” sizin olsun. Biz sizin için atlanır.</string>
+  <string name="vip_required">Ayrıcalıklı Şarkı Paketindeki bu şarkı çalmak için sizin olsun. Şimdi şarkı atıldı.</string>
+  <string name="vip_required_with_song">Ayrıcalıklı Şarkı Paketindeki “%s” sizin olsun. Şimdi bu şarkı atlandı..</string>
   <string name="warning_tip_cancel">İndir</string>
   <string name="warning_tip_content">"Artık WLAN ağına bağlı kalamazsınız. Mobil veri bağlantısı kullanarak bunu indirmek veri tüketimini artıracaktır. Eğer planladığınız veri sınırının üzerine çıkarsanız operatörünüz sizden ek ücret alabilir."</string>
   <string name="warning_tip_ok">Durdur</string>
