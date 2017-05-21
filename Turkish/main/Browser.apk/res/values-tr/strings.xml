@@ -71,7 +71,6 @@
   <string name="add_to_desk_lite_mode_toast">"Hafif Modda Ana Ekrana eklenemez</string>
   <string name="add_to_desk_success">Ana Ekran için ekle</string>
   <string name="add_to_quicklink">Başlangıç Sayfası</string>
-  <string name="add_to_desk_success">Ana Ekrana yerleştirildi</string>
   <string name="added_to_bookmarks">Favorilere eklendi</string>
   <string name="adjust_text_zoom_toast">Metin yakınlaştırmayı değiştirmek bazı web sitelerinin hatalı görüntülenmesine neden olabilir</string>
   <string name="alert_tips">Bu sitede bir güvenlik riski olabilir</string>
@@ -724,7 +723,6 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="skip_current_version">Bu sürümü atla</string>
   <string name="snapshot_failed">"Çevrimdışı okumak için kaydedilemedi"</string>
   <string name="snapshot_successed">Çevrimdışı okumak için kaydedildi</string>
-  <string name="snapshot_successed">Çevrimdışı okumayı kaydet</string>
   <string name="ssl_bad_clock_date_settings">Tarih Ayarları</string>
   <string name="ssl_bad_clock_warning" formatted="false">"%s1 özel bağlantısı sağlanamadı çünkü cihazın tarih ve zaman (%s2) doğru değil."</string>
   <string name="ssl_certificate">Güvenlik Sertifikası</string>
