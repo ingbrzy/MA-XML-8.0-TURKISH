@@ -750,8 +750,6 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_pb_remember_choice">"Tekrar sorma"</string>
   <string name="bluetooth_permission_request">Bluetooth izni isteği</string>
   <string name="bluetooth_phonebook_request">Telefon rehberi erişim isteği</string>
-  <string name="bluetooth_pin_values_hint">Genellikle 0000 veya 1234</string>
-  <string name="bluetooth_pin_values_hint_16_digits">16 haneli olmalı</string>
   <string name="bluetooth_preference_connected_devices">Cihazlara bağlandı</string>
   <string name="bluetooth_preference_device_settings">Cihaz Ayarları</string>
   <string name="bluetooth_preference_found_devices">Kullanılabilir cihazlar</string>
@@ -2147,7 +2145,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="internal_storage">Dahili depolama</string>
   <string name="internal_storage_sentence">Dahili depolama</string>
   <string name="invalid_location">"Yükleme konumu geçerli değil."</string>
-  <string name="invalid_size_value">Paket boyutu hesaplanamadı.</string>
   <string name="ipaddr_label">IP Adresi:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s ve %2$s</string>
@@ -2666,7 +2663,6 @@ Burada diğer kullanıcılar var.
   <string name="memory_media_usage">Medya</string>
   <string name="memory_music_usage">Ses (Müzik, Zil Sesleri, Podcast, vb.)</string>
   <string name="memory_performance">Performans</string>
-  <string name="memory_rightvalue">Mevcut: %s</string>
   <string name="memory_settings_title">Hafıza</string>
   <string name="memory_size">Toplam Boyut</string>
   <string name="memory_summary">Yaklaşık %2$s/%1$s hafıza kullanıldı</string>
