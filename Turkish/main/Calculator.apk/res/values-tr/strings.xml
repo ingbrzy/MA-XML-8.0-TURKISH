@@ -27,7 +27,6 @@
   <string name="convertion_unit_weight">Ağırlık Çeviricisi</string>
   <string name="cos">cos</string>
   <string name="cosDesc">kosinüs</string>
-  <string name="cos_mathematical_value">cos</string>
   <string name="currency_update_time_format">Döviz değerleri Webull tarafından sağlanıyor (%s)</string>
   <string name="current_rate_remind_commercial"/>
   <string name="current_rate_remind_fund"/>
@@ -55,7 +54,6 @@
   <string name="dotDesc">Nokta</string>
   <string name="e">e</string>
   <string name="eDesc">"Euler Sayısı"</string>
-  <string name="e_mathematical_value">e</string>
   <string name="elder_brother">哥哥</string>
   <string name="elder_sister">姐姐</string>
   <string name="enter">↓</string>
@@ -113,10 +111,8 @@
   <string name="leftParenDesc">Sol parantez</string>
   <string name="lg">log</string>
   <string name="lgDesc">Logaritma</string>
-  <string name="lg_mathematical_value">lg</string>
   <string name="ln">ln</string>
   <string name="lnDesc">Tabii Logaritma</string>
-  <string name="ln_mathematical_value">ln</string>
   <string name="loan_edittext_hint_commercial">Miktarı Girin</string>
   <string name="loan_edittext_hint_commercial_combined">Ticari</string>
   <string name="loan_edittext_hint_fund">Miktarı Girin</string>
@@ -203,7 +199,6 @@
   <string name="settingsDesc">Ayarlar</string>
   <string name="sin">sin</string>
   <string name="sinDesc">Sinüs</string>
-  <string name="sin_mathematical_value">sin</string>
   <string name="social_security"/>
   <string name="son">儿子</string>
   <string name="sqrt">√</string>
@@ -211,7 +206,6 @@
   <string name="start_calculate"/>
   <string name="tan">tan</string>
   <string name="tanDesc">Tanjant</string>
-  <string name="tan_mathematical_value">tan</string>
   <string name="tax_accumulation_fund">Birikmiş Fon</string>
   <string name="tax_annual_bonus_hint">Vergiden önceki primi girin</string>
   <string name="tax_annual_bonus_number">Prim</string>
