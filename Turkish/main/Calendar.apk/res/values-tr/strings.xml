@@ -248,6 +248,7 @@
   <string name="edit_event_countdown_name_hint">Faaliyet</string>
   <string name="edit_event_input_year">Yılı girin</string>
   <string name="edit_event_label">Detaylar</string>
+  <string name="edit_event_no_reminder_value">"Hatırlatma!"</string>
   <string name="edit_event_from_label">Şurdan</string>
   <string name="edit_event_reminder_3_days_before">3 gün önceden hatırlat</string>
   <string name="edit_event_reminder_summary">Aynı gün, %1$s zamanda hatırlat</string>
@@ -299,6 +300,7 @@
   <string name="event_lunar_month">Ay</string>
   <string name="event_not_found">Etkinlik yok</string>
   <string name="event_reminder_allday_day_zero">Günün %2$s zamanında</string>
+  <string name="event_reminder_value_zero">Faaliyetten önce</string>
   <string name="event_reminders_to_max">Hatırlatıcılar %d zamana kadar ayarlanabilir</string>
   <string name="event_subscirbe_detail_title">Etkinlik hakkında daha fazla bilgi</string>
   <string name="event_title">Başlık</string>
@@ -408,6 +410,7 @@
   <string name="menu_preferences">Ayarlar</string>
   <string name="menu_reminder_preferences">Hatırlatıcı Ayarları</string>
   <string name="missing_name">(İsimsiz)</string>
+  <string name="missing_required_permission">İstenilen izini devre dışı bıraktınız.</string>
   <string name="menu_select_visible_calendars">Görüntülenecek Takvimler</string>
   <string name="minute_picker_description">Dakika dairesel slayt olarak</string>
   <string name="miui_chinese_week_range_double"/>
