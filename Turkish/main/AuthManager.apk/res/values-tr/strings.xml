@@ -281,6 +281,7 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="SysOpt_Boost_Receiver">Arkaplan</string>
   <string name="app_name">İzin Yöneticisi</string>
   <string name="current_permission_template">%2$s\'de %1$s</string>
+  <string name="default_permission_description">bilinmeyen eylem gerçekleşti</string>
   <string name="grant_confirm_question">Aşağıdaki izinleri vermek ister misiniz? Şu erişimi alacak:</string>
   <string name="grant_dialog_button_allow">İzinli</string>
   <string name="grant_dialog_button_deny">Reddet</string>
