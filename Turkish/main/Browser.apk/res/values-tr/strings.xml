@@ -73,6 +73,7 @@
   <string name="add_to_quicklink">Başlangıç Sayfası</string>
   <string name="added_to_bookmarks">Favorilere eklendi</string>
   <string name="adjust_text_zoom_toast">Metin yakınlaştırmayı değiştirmek bazı web sitelerinin hatalı görüntülenmesine neden olabilir</string>
+  <string name="agree">Kabul</string>
   <string name="alert_tips">Bu sitede bir güvenlik riski olabilir</string>
   <string name="allow">İzin Ver</string>
   <string name="app_new_version">Bu uygulamanın son sürümü zaten yüklü</string>
@@ -94,6 +95,7 @@
   <string name="autologin_bar_login_text">Oturum Aç</string>
   <string name="autologin_bar_text">Oturum Aç:</string>
   <string name="back_button_label">Geri</string>
+  <string name="back_description">Geri</string>
   <string name="block">Engelle</string>
   <string name="block_ads_choice_block">Engelle</string>
   <string name="block_ads_choice_continue">Devam</string>
@@ -165,6 +167,7 @@
   <string name="color_picker_hue">Ton</string>
   <string name="color_picker_saturation">Doygunluk</string>
   <string name="comment_app_menu">Yorum</string>
+  <string name="comment_description">Yorum</string>
   <string name="comment_hint">Yorum</string>
   <string name="comment_menu">Yorum</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.tr</string>
@@ -192,6 +195,7 @@
   <string name="contextmenu_savelink">Bağlantıyı kaydet</string>
   <string name="contextmenu_send_mail">E-Posta gönder</string>
   <string name="contextmenu_set_wallpaper">Duvar Kağıdı olarak ayarla</string>
+  <string name="contextmenu_share_image">Resmi Paylaş</string>
   <string name="contextmenu_sharelink">Bağlantıyı paylaş</string>
   <string name="contextmenu_view_image">Resmi görüntüle</string>
   <string name="contextmenu_webpage_capture">Ekran görüntüsü olarak kaydet</string>
@@ -299,6 +303,7 @@
   <string name="error_not_acceptable">Eşitleme kapalı.</string>
   <string name="error_title">"Eşitleme yapılamıyor"</string>
   <string name="error_unauthorized">Mi hesabınızla eşitleme çok fazla oturum açma girişimleri nedeniyle devre dışı bırakıldı.</string>
+  <string name="exit">Çık</string>
   <string name="exit_browser_warning">Tarayıcıdan çıkılsın mı?</string>
   <string name="file_dir">Dizin</string>
   <string name="file_name">Adı</string>
@@ -317,6 +322,7 @@
   <string name="force_quick_search_title">Ara</string>
   <string name="force_touch_bookmark_history_title">Favori ve Geçmiş</string>
   <string name="force_touch_infoflow_title">Haberler</string>
+  <string name="forward_description">İleri</string>
   <string name="geolocation_permissions_prompt_dont_share">Reddet</string>
   <string name="geolocation_permissions_prompt_message">%s konumunuzu öğrenmek istiyor</string>
   <string name="geolocation_permissions_prompt_remember">Tercihimi hatırla</string>
@@ -336,6 +342,7 @@
   <string name="have_sent_bookmark_to_home_screen">Ana Ekrana yerleştirildi</string>
   <string name="hint">İpucu</string>
   <string name="history_saved_webpage">Kayıtlı Sayfalar</string>
+  <string name="home_description">Ana Sayfa</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Sil</string>
   <string name="homepage_get_location">Konumu al</string>
@@ -387,7 +394,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="media_player_error_text_unknown">Üzgünüz, bu video oynatılamaz.</string>
   <string name="media_player_error_title">Video oynatılamıyor</string>
   <string name="media_player_loading_video">Video yükleniyor...</string>
-  <string name="menu_addtodesk"> Ana Ekrana yerleştir </string>
+  <string name="menu_addtodesk"> Ana Ekrana ekle </string>
   <string name="menu_exit_nightmode">Çık</string>
   <string name="menu_hv_swap">Y/D Ekran</string>
   <string name="menu_nightmode">Gece Modu</string>
@@ -462,6 +469,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Bu yolu değiştimek için SD Kart gerekmektedir.</string>
   <string name="month_picker_dialog_title">Ayı Ayarla</string>
+  <string name="more_description">Menü</string>
   <string name="more_option">Diğer Seçenekler</string>
   <string name="nav_bottom_bar_back">Geri</string>
   <string name="nav_bottom_bar_close_all">Tümünü Kapat</string>
@@ -489,6 +497,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="older">Eski</string>
   <string name="open_app_confirm_message">Bu sayfanın %s açmasına izin verilsin mi?</string>
   <string name="open_file_explorer_failed">"Dosya Gezgini açılamadı"</string>
+  <string name="open_voice_permission">İnternet bağlantısında mikrofona izin ver</string>
   <string name="opening_file_error">Seçilen dosya açılamadı</string>
   <string name="page_info">Sayfa Bilgisi</string>
   <string name="page_info_address">Adres:</string>
@@ -516,7 +525,9 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_automatic_matching_searchengines_title">Kullanıma göre arama motorunu değiştir</string>
   <string name="pref_category_hint">Kategori</string>
   <string name="pref_check_security_url_summary">"Güvenli olup olmadığını kontrol etmek için Mi sunucularına web sitenizin URL\'sini gönder"</string>
-  <string name="pref_check_security_url_title">URL güvenliğini denetle</string>
+  <string name="pref_check_security_url_summary_international">Tarayıcının tavsiye edilen sitelerin bağlantılarınıa erişmesine izin ver.</string>
+  <string name="pref_check_security_url_title">Bağlantı güvenliğini denetle</string>
+  <string name="pref_check_security_url_title_international">Bağlantıyı al</string>
   <string name="pref_clear_adblock_statistics">Reklam engelleme geçmişini temizle</string>
   <string name="pref_clear_adblock_statistics_dlg">Engellenen reklam bilgileri temizlensin mi?</string>
   <string name="pref_clear_all_data_dlg">Yukarıdaki tüm kaydedilen veriler silinsin mi?</string>
@@ -531,7 +542,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_content_javascript">JavaScript\'i Etkinleştir</string>
   <string name="pref_content_night_read_mode">Gece Modu</string>
   <string name="pref_content_search_engine">Adres çubuğundaki arama motoru</string>
-  <string name="pref_content_search_engine_summary">Bir arama motorunu seçin</string>
+  <string name="pref_content_search_engine_summary">Bir arama motoru seçin</string>
   <string name="pref_enable_adblock_notification">Reklam engelleyici bildirimlerini göster</string>
   <string name="pref_enable_news">Haberler</string>
   <string name="pref_enable_novels">Kitaplar</string>
@@ -679,6 +690,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="save_to_camera">Galeriye kaydet</string>
   <string name="save_to_camera_failed">"Resim kaydedilemiyor"</string>
   <string name="save_to_camera_success">Galeriye kaydedildi</string>
+  <string name="scanner_uninstalled_text">Tarayıcıyı yüklemek için devam et</string>
+  <string name="scanner_uninstalled_title">Tarayıcı yüklendi</string>
   <string name="sdcard_error">SD Kartınızı kontrol edin</string>
   <string name="search">Ara</string>
   <string name="search_baidu">Baidu</string>
@@ -713,9 +726,10 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="send_comment_title">Yorum</string>
   <string name="senddesktop">Ana Ekran</string>
   <string name="sendstartpage">Başlangıç Sayfası</string>
+  <string name="share_image_text">Bakın, ne buldum!</string>
   <string name="share_page_text">"%1$s zevk alıyorum | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Bu web sitesinin URL\'si güvenli olduğundan emin olmak için Xiaomi sunucularına gönderilir. Ayarlar bölümünden istediğiniz zaman bu özelliği kapatabilirsiniz.</string>
-  <string name="show_check_security_url_check_tip_dialog_title">URL güvenliğini kontrol edin</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Tarayıcının normal çalışabilmesi için internet bağlantısına ihtiyacı var. Tarayıcı, konumunuza göre tavsiye edilen sitelerin bağlantı adreslerini alabilir.</string>
   <string name="show_security_tip_dialog_title">Kullanım Koşulları</string>
   <string name="show_weather_location_getter_tip_dialog_description">Hava servisleri tarayıcınızda anlık güncel hava durumu bilgilerini size sunması için konum bilgisine erişiyor. Ayarlar bölümünden bu özelliği kapatabilirsiniz.</string>
   <string name="sign_in_to" formatted="false"> %s1 için oturum aç \"%s2\"</string>
@@ -861,6 +875,11 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="video_unknown_duration">Süre bilinmiyor</string>
   <string name="view_certificate">Sertifikayı görüntüle</string>
   <string name="view_document_downloaded_files">İndirilenlerde indirilmiş dosyaları görüntüle</string>
+  <string name="voice_check_network">Ağ ayarlarını kontrol edin ve yeniden deneyin.</string>
+  <string name="voice_connect_network">"Ağa bağlanamadı."</string>
+  <string name="voice_network_connection">Sesli arama normal çalışabilmek için internet bağlantısına ihtiyaç duyar.</string>
+  <string name="voice_search_permission">Sesli arama normal çalışabilmek için mikrofona erişmek ister.</string>
+  <string name="voice_semantic_analysis">Tarayıcı bağlantı izninden sonra ses analizi gerçekleştirir.</string>
   <string name="voice_sub_title">"Ne diyeceğimi bilmiyorum? mi.com sitesini açmayı deneyin!"</string>
   <string name="voice_title">Komutunuzu söyleyin...</string>
   <string name="voice_title_distinguish">İşleniyor…</string>
