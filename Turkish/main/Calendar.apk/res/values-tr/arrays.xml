@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <integer-array name="reminder_minutes_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
     <string-array name="timezone_labels">
         <item>Marshall Adaları</item>
         <item>Midway Adası</item>
@@ -17,26 +39,26 @@
         <item>Bogota</item>
         <item>Ortadoğu Zamanı</item>
         <item>Venezuela</item>
-        <item>Atlantic Time (Barbados)</item>
-        <item>Atlantic Time (Canada)</item>
+        <item>Atlantik Zamanı (Barbados)</item>
+        <item>Atlantik Zamanı (Canada)</item>
         <item>Manaus</item>
         <item>Santiago</item>
         <item>Newfoundland</item>
-        <item>Brasilia</item>
+        <item>Brezilya</item>
         <item>Buenos Aires</item>
         <item>Greenland</item>
         <item>Montevideo</item>
-        <item>Mid-Atlantic</item>
+        <item>Mid-Atlantik</item>
         <item>Azores</item>
         <item>Cape Verde Islands</item>
         <item>Casablanca</item>
         <item>London, Dublin</item>
         <item>Amsterdam, Berlin</item>
         <item>Belgrade</item>
-        <item>Brussels</item>
-        <item>Sarajevo</item>
+        <item>Brüksel</item>
+        <item>Saraybosna</item>
         <item>Windhoek</item>
-        <item>W. Africa Time</item>
+        <item>W. Africa Zamanı</item>
         <item>Amman, Ürdün</item>
         <item>Atina, Istanbul</item>
         <item>Beyrut, Lübnan</item>
@@ -52,10 +74,10 @@
         <item>Tahran</item>
         <item>Bakü</item>
         <item>Tiflis</item>
-        <item>Yerevan</item>
+        <item>Erivan</item>
         <item>Dubai</item>
         <item>Kabul</item>
-        <item>Islamabad, Karachi</item>
+        <item>İslamabad, Karaçi</item>
         <item>"Ural'sk"</item>
         <item>Yekaterinburg</item>
         <item>Kolkata</item>
@@ -71,7 +93,7 @@
         <item>Kuala Lumpur</item>
         <item>Perth</item>
         <item>Taipei</item>
-        <item>Seoul</item>
+        <item>Seul</item>
         <item>Tokyo, Osaka</item>
         <item>Yakutsk</item>
         <item>Adelaide</item>
@@ -93,6 +115,18 @@
         <item>Alarm</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
+        <item>Hatırlatıcısız</item>
+        <item>0 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>1 gün</item>
+        <item>2 gün</item>
+        <item>1 hafta</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
         <item>Hatırlatıcısız</item>
         <item>0 dakika</item>
         <item>5 dakika</item>
@@ -150,8 +184,19 @@
         <item>Şeffaf</item>
         <item>Beyaz Arkaplan</item>
     </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Etkinlik esnasında</item>
+        <item>5 dakika önce</item>
+        <item>10 dakika önce</item>
+        <item>15 dakika önce</item>
+        <item>30 dakika önce</item>
+        <item>1 saat önce</item>
+        <item>1 gün önce</item>
+        <item>2 gün önce</item>
+        <item>1 hafta önce</item>
+    </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Varsayılan Konum</item>
+        <item>Varsayılan Bölge</item>
         <item>Cumartesi</item>
         <item>Pazar</item>
         <item>Pazartesi</item>
@@ -265,7 +310,16 @@
         <item>T20 Ligi</item>
     </string-array>
     <string-array name="date_calculate_spinner">
-        <item>Geri</item>
-        <item>İleri</item>
+        <item>Sonraki</item>
+        <item>Önceki</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>PZR</item>
+        <item>PTESİ</item>
+        <item>SAL</item>
+        <item>ÇAR</item>
+        <item>PER</item>
+        <item>CUM</item>
+        <item>CTESİ</item>
     </string-array>
 </resources>
