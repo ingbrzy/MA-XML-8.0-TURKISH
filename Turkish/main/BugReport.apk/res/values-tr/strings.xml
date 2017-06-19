@@ -66,6 +66,7 @@
   <string name="feedback_guess">Misafirimiz</string>
   <string name="feedback_history_remind_login_desc">"Mi Hesabıyla oturum açıp detayları görüntüleyin ve raporunuz durumunu takip edin"</string>
   <string name="feedback_id">Kimlik: %d</string>
+  <string name="feedback_jira_key">JIRA Anahtarı: %s</string>
   <string name="feedback_package_log_failed">"Sıkıştırma günlüğü başarısız oldu"</string>
   <string name="feedback_phone_model_label">Telefon Model</string>
   <string name="feedback_probability_label">Olasılık</string>
@@ -205,6 +206,7 @@
   <string name="module_system">Sistem</string>
   <string name="module_tools">Sistem Araçları</string>
   <string name="modules">Öğe seç</string>
+  <string name="multi_graph_more">Toplam öğe: %d</string>
   <string name="network_err">Ağa bağlanamadı."</string>
   <string name="network_errorbtntip_custom">Yeniden deneyin</string>
   <string name="network_errorbtntip_login">Oturum aç</string>
