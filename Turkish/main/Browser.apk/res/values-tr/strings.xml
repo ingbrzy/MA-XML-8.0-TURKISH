@@ -731,7 +731,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Bu web sitesinin URL\'si güvenli olduğundan emin olmak için Xiaomi sunucularına gönderilir. Ayarlar bölümünden istediğiniz zaman bu özelliği kapatabilirsiniz.</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Tarayıcının normal çalışabilmesi için internet bağlantısına ihtiyacı var. Tarayıcı, konumunuza göre tavsiye edilen sitelerin bağlantı adreslerini alabilir.</string>
   <string name="show_security_tip_dialog_title">Kullanım Koşulları</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Hava servisleri tarayıcınızda anlık güncel hava durumu bilgilerini size sunması için konum bilgisine erişiyor. Ayarlar bölümünden bu özelliği kapatabilirsiniz.</string>
+  <string name="show_weather_location_getter_tip_dialog_description">"Tarayıcının normal çalışması için internete bağlanması gerekiyor. Güvenliği artırmak için, daha alakalı tavsiyeler ve hava durumu bilgileri alın; Tarayıcının ziyaret ettiğiniz web sitelerinin bağlantıları almasını ve konum bilgilerinize erişmesini sağlayın."</string>
   <string name="sign_in_to" formatted="false"> %s1 için oturum aç \"%s2\"</string>
   <string name="skip_button_label">Atla</string>
   <string name="skip_current_version">Bu sürümü atla</string>
@@ -775,6 +775,11 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="tab_hotpage">Haber Kaynağı</string>
   <string name="tab_quicklinks">Başlangıç Sayfası</string>
   <string name="tab_yellowpage">Bağlantılar</string>
+  <string name="tabs_description">Sekmeler</string>
+  <string name="tae_sdk_login_qr_icon_close"></string>
+  <string name="tae_sdk_login_qr_icon_taobao"></string>
+  <string name="tae_sdk_qr_login_icon_password"></string>
+  <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="time_picker_dialog_am">ÖÖ</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
