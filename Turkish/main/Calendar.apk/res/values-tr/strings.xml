@@ -246,9 +246,10 @@
   <string name="edit_event_confirm_message">Değişiklikler yoksayılsın mı?</string>
   <string name="edit_event_countdown_name_empty_hint">Faaliyet adını girin</string>
   <string name="edit_event_countdown_name_hint">Faaliyet</string>
+  <string name="edit_event_from_label">Şurdan:</string>
   <string name="edit_event_input_year">Yılı girin</string>
   <string name="edit_event_label">Detaylar</string>
-  <string name="edit_event_from_label">Şurdan</string>
+  <string name="edit_event_no_reminder_value">"Hatırlatma!"</string>
   <string name="edit_event_reminder_3_days_before">3 gün önceden hatırlat</string>
   <string name="edit_event_reminder_summary">Aynı gün, %1$s zamanda hatırlat</string>
   <string name="edit_event_reminder_time">Hatırlatma Zamanı</string>
@@ -299,6 +300,7 @@
   <string name="event_lunar_month">Ay</string>
   <string name="event_not_found">Etkinlik yok</string>
   <string name="event_reminder_allday_day_zero">Günün %2$s zamanında</string>
+  <string name="event_reminder_value_zero">Etkinlikten önce</string>
   <string name="event_reminders_to_max">Hatırlatıcılar %d zamana kadar ayarlanabilir</string>
   <string name="event_subscirbe_detail_title">Etkinlik hakkında daha fazla bilgi</string>
   <string name="event_title">Başlık</string>
@@ -319,6 +321,7 @@
   <string name="fortune_name">Ara</string>
   <string name="fortune_name_hint">Lütfen giriş yapın</string>
   <string name="fortune_no_name">Lütfen adresi doldurun</string>
+  <string name="fortune_setting_tips">设置您的生辰后,可获取您的专属运势。每日黄历运势、财位、桃花、正冲等信息全掌握</string>
   <string name="free_day_default_banner_title">Tatilde iyi eğlenceler dileriz!</string>
   <string name="from_google_group_calendar">Google Takvimi</string>
   <string name="gadget_no_events">Yaklaşan herhangi bir etkinlik yok.</string>
@@ -515,8 +518,8 @@
   <string name="preferences_title">Takvim</string>
   <string name="preferences_use_home_tz_descrip">Kendi zaman diliminizde seyahat ederken, takvim ve olayları görüntüler</string>
   <string name="preferences_use_home_tz_title">Yerel zaman dilimini kullan</string>
-  <string name="preferences_week_start_day_dialog">Haftanın başlangıç günü</string>
-  <string name="preferences_week_start_day_title">Haftanın Başlangıç Günü</string>
+  <string name="preferences_week_start_day_dialog">Haftanın başlama günü</string>
+  <string name="preferences_week_start_day_title">Haftanın Başlama Günü</string>
   <string name="presence_label">Durum</string>
   <string name="privacy_label">Gizlilik</string>
   <string name="quick_response_custom_msg">Özel mesaj...</string>
@@ -744,6 +747,7 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="widget_get_weather_info">Hava Durumunu Al &gt;</string>
   <string name="widget_no_events">Etkinlik yok</string>
   <string name="widget_select_style">Bir stil seçin</string>
+  <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
   <string name="work_day_indication">: (</string>
   <string name="wuxing">Beş Unsur</string>
   <string name="xiaomi_calendar_display_name">Mi Hesap Takvimi</string>
