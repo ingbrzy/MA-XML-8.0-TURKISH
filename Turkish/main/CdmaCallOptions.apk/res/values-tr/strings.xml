@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="CFA_DEACT"/>
+  <string name="CFActivate">Etkinleştir</string>
+  <string name="CFB_ACT"/>
+  <string name="CFB_DEACT"/>
+  <string name="CFDeactivate">Devre dışı bırak</string>
+  <string name="CFNRC_ACT"/>
+  <string name="CFNRC_DEACT"/>
+  <string name="CFNRY_ACT"/>
+  <string name="CFNRY_DEACT"/>
+  <string name="CFU_ACT"/>
+  <string name="CFU_DEACT"/>
+  <string name="CW_ACT"/>
+  <string name="CW_DEACT"/>
+  <string name="call_forwarding_settings">Çağrı Yönlendirme Ayarları</string>
+  <string name="call_waiting_settings">Çağrı Bekleme Ayarları</string>
+  <string name="change_num">Güncelle</string>
+  <string name="disable">Kapalı</string>
+  <string name="enable">Açık</string>
+  <string name="labelCF">Çağrı Yönlendirme</string>
+  <string name="labelCFB">Meşgulse</string>
+  <string name="labelCFDeactAll">Tümünü Devre Dışı Bırak</string>
+  <string name="labelCFNRc">Ulaşılmazsa</string>
+  <string name="labelCFNRc_cdma">Dolaylı Yönlendirme</string>
+  <string name="labelCFNRy">Cevaplanmazsa</string>
+  <string name="labelCFU">Daima Yönlendir</string>
+  <string name="labelCW">Çağrı Beklemesi</string>
+  <string name="messageCFB">Numara Meşgulse</string>
+  <string name="messageCFNRc">Numara Ulaşılmazsa</string>
+  <string name="messageCFNRy">Numara Cevap Vermiyorsa</string>
+  <string name="messageCFU">Daima bu numarayı kullan</string>
+  <string name="null_phone_number">Telefon numarası boş olamaz!</string>
+  <string name="selectContact">kişiyi seç</string>
+</resources>
