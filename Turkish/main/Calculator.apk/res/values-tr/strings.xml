@@ -8,6 +8,17 @@
   <string name="cal_paste">Yapıştır</string>
   <string name="cal_result_format">= %s</string>
   <string name="cal_text_copied">Metin kopyalandı</string>
+  <string name="chinese_character_cross_check">互查</string>
+  <string name="chinese_character_daughter">女</string>
+  <string name="chinese_character_elder_brother">兄</string>
+  <string name="chinese_character_elder_sister">姐</string>
+  <string name="chinese_character_father">父</string>
+  <string name="chinese_character_husband">夫</string>
+  <string name="chinese_character_mother">母</string>
+  <string name="chinese_character_son">子</string>
+  <string name="chinese_character_wife">妻</string>
+  <string name="chinese_character_younger_brother">弟</string>
+  <string name="chinese_character_younger_sister">妹</string>
   <string name="choose_currency">Dövizi Seç</string>
   <string name="choose_unit">Birimi Seç</string>
   <string name="city">Şehir</string>
@@ -37,6 +48,8 @@
   <string name="default_text">我</string>
   <string name="del">SİL</string>
   <string name="deleteDesc">Sil</string>
+  <string name="description_content">Temel özelliklerinin yanı sıra Hesap Makinesi, çok işlevli bir dönüştürücü, ipotek ve vergi hesaplayıcısı olarak da çalışır. Uygulamayı kaldırmadan önce bu özelliklere sahip olmadığınızdan emin olun.</string>
+  <string name="description_title">Hesap Makinesi Hakkında</string>
   <string name="devided_by_zero_reminder_message">"Sıfırla bölünemez"</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
