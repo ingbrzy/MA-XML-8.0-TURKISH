@@ -102,6 +102,7 @@
         <item quantity="one">"%d yıl kullanılamaz"</item>
     </plurals>
 	<plurals name="resutl_function_install_app_summary">
-		<item quantity="other">&lt;Uygulama>"&lt;font color=#ff0000 >%d&lt;/font> verisi uzun zamandır kullanıomadı, gözatabilirsiniz."</item>
+		<item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> uygulama uzun süre kullanılmadı, bir göz atın."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> uygulama uzun süre kullanılmadı, bir göz atın."&lt;/Data></item>
     </plurals>
 </resources>
