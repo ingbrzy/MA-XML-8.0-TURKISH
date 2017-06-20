@@ -144,6 +144,7 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_battery_low_notification_message">Eşitleme için şarj cihazını takın</string>
   <string name="micloud_battery_low_notification_title">Düşük Pil Seviyesi</string>
   <string name="micloud_buy_member">Mi Bulut üyeliği satın al</string>
+  <string name="micloud_buy_member_safe">Mi Bulut üyeliği satın al</string>
   <string name="micloud_check_sim_notify_text">"SIM kartınız değişmiş gibi görünüyor. 
   Mi Hesabınızla oturum açarak Mi Bulut hizmetini tekrar etkinleştirin."</string>
   <string name="micloud_check_sim_notify_title">Mi Bulutu\'nu tekrar etkinleştir</string>
@@ -280,6 +281,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_main_sync_exception">Eşitleme hatası</string>
   <string name="micloud_main_sync_init">Bilgi alınıyor</string>
   <string name="micloud_main_sync_need_charge">Cihazı şarj edin</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Cihazı şarj edin ve ekranı kapatın</string>
   <string name="micloud_main_sync_now">Şimdi eşitle</string>
   <string name="micloud_main_sync_on">Eşitleme açık</string>
   <string name="micloud_main_sync_on_wifi">WLAN bağlantısı için bekleniyor</string>
@@ -367,6 +369,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_sync_alert_dialog_positive">Tamam</string>
   <string name="micloud_sync_alert_dialog_title">Mi Bulut kullan</string>
   <string name="micloud_sync_off">Mi Bulut ile eşitleme kapalı</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">"Sadece Kişiler, Takvim ve Notlar'i eşitler, daha fazla öğeyi eşitlemek için Mi Bulut ayarına gidin."</string>
   <string name="micloud_title_dspt" formatted="false">"Toplam: %s
  %s kullanıldı | %s kaldı"</string>
   <string name="micloud_title_dspt_remain">Kalan: %s</string>
@@ -390,7 +393,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_wipe_data_confirm_title">Telefonda oturum kapatıldığında Mi Bulut ile eşitlenmiş öğeler kaldırılsın mı?</string>
   <string name="micloud_wipe_data_remove">Kaldır</string>
   <string name="micloud_wipe_data_retain">Koru</string>
-  <string name="microsoft_cloud">Microsoft Bulut Servisi</string>
+  <string name="microsoft_cloud">Microsoft Bulut Hizmeti</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Yıllık yaklaşık olarak 80 Yuan</string>
   <string name="more_activity_in_upgrade_space">Daha fazlası için; &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
