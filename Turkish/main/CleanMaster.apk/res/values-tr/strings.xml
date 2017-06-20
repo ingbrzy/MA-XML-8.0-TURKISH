@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="RF_DalvikCacheLeftovers">Yazılım sisteminin artıkları (Dalvik-Cache)</string>
+  <string name="RF_DalvikCacheLeftovers">Yazılım Sisteminin Artıkları (Dalvik-Cache)</string>
   <string name="activity_title_ad">Reklamlar</string>
   <string name="activity_title_apk">Paketler</string>
-  <string name="activity_title_brightness_image">Altında ve aşırı pozlanmış</string>
+  <string name="activity_title_brightness_image">Düşük ve Aşırı Pozlanma</string>
   <string name="activity_title_cache">Önbellek</string>
-  <string name="activity_title_cache_data">Uygulama verisi</string>
+  <string name="activity_title_cache_data">Uygulama Verisi</string>
   <string name="activity_title_deep_apk">APKları Sil</string>
   <string name="activity_title_deep_clean">Derin Temizlik</string>
   <string name="activity_title_garbage_cleanup">Temizleyici</string>
@@ -34,6 +34,8 @@
   <string name="apk_status_installed_old">Eski Sürüm</string>
   <string name="apk_status_uninstalled">Yüklenmedi</string>
   <string name="apk_title_alipay_plugin">Alipay Eklentisi</string>
+  <string name="app_description_content">Temizleyici, cihazınızda çöpleri bulur ve depolama alanını boşaltır. Uygulamayı kaldırmadan önce bu özelliklere sahip olmadığınızdan emin olun.</string>
+  <string name="app_description_title">Temizleyici Hakkında</string>
   <string name="app_install_tips_go_to">Aç</string>
   <string name="app_install_tips_install_success">%1$s başarıyla yüklendi</string>
   <string name="app_name">JunkEngine</string>
@@ -185,6 +187,8 @@
   <string name="empty_title_photos">Fotoğraflar bulunamadı</string>
   <string name="empty_title_residual">Artık dosya bulunamadı</string>
   <string name="empty_title_video">Silinecek video yok​</string>
+  <string name="engine_cm">Clean Master</string>
+  <string name="engine_tm">Tencent</string>
   <string name="file">Dosyalar</string>
   <string name="file_not_found">Dosya bulunamadı</string>
   <string name="flow_rank_title">Veri Kullanımı</string>
@@ -474,8 +478,8 @@
   <string name="remain_item_name_pamp"/>
   <string name="safety_check_detail">%1$d zaman, %2$d puan kazanıldı</string>
   <string name="safety_rank">Güvenlik açısından %%%d MIUI kullanıcısından önde</string>
-  <string name="resutl_function_deep_clean_summary">" "&lt;Veri&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; dosyaları temizlendi. Daha fazla alan kazanıldı.</string>
-  <string name="resutl_function_wechat_clean_summary">" "&lt;Wechat Veri&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; önbelleği. Daha fazla alan kazanın.</string>
+  <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; daha fazla dosya silinebilir. Daha fazla alan kazanılır.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; WeChat önbellekte. Daha fazla alan kazanın.&lt;/Data&gt;" "</string>
   <string name="sc_allow_network_dialog_button">İzinli</string>
   <string name="sc_allow_network_dialog_message">Bu uygulamanın güncellemeleri almak için İnternete bağlanmasına izin veriyor musunuz?</string>
   <string name="scanning">Taranıyor…</string>
