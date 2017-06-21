@@ -601,7 +601,6 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="import_contact_card_aggregate_suggestion_button">Kartları birleştir</string>
   <string name="import_contact_card_button">İçe aktar</string>
   <string name="import_failure_no_vcard_file">Depolama alanında vCard dosyası bulunamadı.</string>
-  <string name="import_failure_no_vcard_file" product="default">SD kartta vCard dosyası bulunamadı.</string>
   <string name="import_from_onekey_migrate">Mi Transfer kullanarak içeri aktar</string>
   <string name="import_from_other_phone">Başka bir telefondan içe aktar</string>
   <string name="import_from_sdcard">Hesabımdan içe aktar</string>
@@ -1207,7 +1206,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="search_smart_group_title">Kişiler;Görüntüle</string>
   <string name="search_wipe_data">Düzenle;Kişiler</string>
   <string name="searching_vcard_message">Depolama birimindeki vCard dosyaları aranıyor...\u2026</string>
-  <string name="searching_vcard_message" product="default">SD Karttaki vCard verisi aranıyor…</string>
   <string name="select_all">Hepsi</string>
   <string name="select_device">Cihazı seçin</string>
   <string name="select_done">Daha fazla seçmeyin</string>
