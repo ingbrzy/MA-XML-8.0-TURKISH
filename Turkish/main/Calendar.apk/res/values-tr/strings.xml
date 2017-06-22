@@ -113,7 +113,7 @@
   <string name="card_detail_dialog_title">Abone ol</string>
   <string name="card_detail_hint">Abone olduktan sonra, içerikler günlük olarak güncellemeler, ana sayfada gösterilecek</string>
   <string name="card_detail_title">Abonelik Ayrıntıları</string>
-  <string name="card_manager">Kartvizit Yöneticisi</string>
+  <string name="card_manager">Kartvizit Yönetimi</string>
   <string name="card_manager_no_data">Hiç abonelik kartı yok :)</string>
   <string name="card_title_change">Değiştir</string>
   <string name="change_response_title">Cevabı değiştir</string>
@@ -190,7 +190,7 @@
   <string name="date_pattern_mm_dd_kk_mm">d M HH:mm</string>
   <string name="date_pattern_yyyy_mm_dd_kk_mm">dd MM yyy HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
-  <string name="date_today">(bugün)</string>
+  <string name="date_today">" (bugün)"</string>
   <string name="day_view_new_event_hint">Yeni Etkinlik</string>
   <string name="default_reminder_mode">Hatırlatıcılar</string>
   <string name="delete_calendar">İptal</string>
@@ -200,7 +200,7 @@
   <string name="delete_topic_dialog_title">\"%s\ çıkmak istediğinize emin misiniz?</string>
   <string name="delete_topic_success">\"%s\ aboneliği başarıyla iptal edildi</string>
   <string name="deleted_key">%1$s silindi</string>
-  <string name="deleting_calendar">Abonelikten çık</string>
+  <string name="deleting_calendar">Abonelikten çıkılıyor...</string>
   <string name="departure">Ayrıl</string>
   <string name="description_calendar">Sistem Uygulamaları/Takvim</string>
   <string name="description_calendar_edit_event">Sistem Uygulamaları/Takvim/Ajanda</string>
@@ -223,7 +223,7 @@
   <string name="dropdown_delete_button_desc">Alıcılardan %s kaldır</string>
   <string name="edit_date_calculate_days_backward_error_hint">Geriye doğru hesaplanamaz</string>
   <string name="edit_date_calculate_days_empty_hint">Gün sayısı boş olamaz</string>
-  <string name="edit_date_calculate_days_error_hint">Lütfen %1$d yönelik doğru günleri girin</string>
+  <string name="edit_date_calculate_days_error_hint">%1$d günleri girin</string>
   <string name="edit_date_calculate_days_forward_error_hint">İleriye doğru hesap edilemez</string>
   <string name="edit_event_all_day_label">Günün tamamı</string>
   <string name="edit_event_anniversary_name_empty_hint">Faaliyet adını yazın</string>
@@ -249,11 +249,13 @@
   <string name="edit_event_from_label">Şurdan:</string>
   <string name="edit_event_input_year">Yılı girin</string>
   <string name="edit_event_label">Detaylar</string>
+  <string name="edit_event_no_reminder_value">"Hatırlatma!"</string>
   <string name="edit_event_reminder_3_days_before">3 gün önceden hatırlat</string>
   <string name="edit_event_reminder_summary">Aynı gün, %1$s zamanda hatırlat</string>
   <string name="edit_event_reminder_time">Hatırlatma Zamanı</string>
   <string name="edit_event_reminder_summary_3_days_before">3 gün öncesinin %1$s zamanında hatırlat</string>
   <string name="edit_event_reminder_text">%1$s, %2$s zamanda</string>
+  <string name="edit_event_reminder_time">Hatırlatma Zamanı</string>
   <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s, %3$s zamanında</string>
   <string name="edit_event_show_all">Tümünü Göster</string>
   <string name="edit_event_tab_anniversary">Yıldönümü</string>
@@ -299,6 +301,7 @@
   <string name="event_lunar_month">Ay</string>
   <string name="event_not_found">Etkinlik yok</string>
   <string name="event_reminder_allday_day_zero">Günün %2$s zamanında</string>
+  <string name="event_reminder_value_zero">Etkinlikten önce</string>
   <string name="event_reminders_to_max">Hatırlatıcılar %d zamana kadar ayarlanabilir</string>
   <string name="event_subscirbe_detail_title">Etkinlik hakkında daha fazla bilgi</string>
   <string name="event_title">Başlık</string>
@@ -319,12 +322,13 @@
   <string name="fortune_name">Ara</string>
   <string name="fortune_name_hint">Lütfen giriş yapın</string>
   <string name="fortune_no_name">Lütfen adresi doldurun</string>
+  <string name="fortune_setting_tips">设置您的生辰后,可获取您的专属运势。每日黄历运势、财位、桃花、正冲等信息全掌握</string>
   <string name="free_day_default_banner_title">Tatilde iyi eğlenceler dileriz!</string>
   <string name="from_google_group_calendar">Google Takvimi</string>
   <string name="gadget_no_events">Yaklaşan herhangi bir etkinlik yok.</string>
   <string name="gadget_title">Takvim</string>
   <string name="global_action_text_card_manager">Daha ilginç bir takvim</string>
-  <string name="global_cricket_no_match">Bugün bir kriket yarışması yok ve geçmiş yarışmaların önemli noktalarını inceleyebilir veya başka bir maç deneyebilirsiniz. Harika bir etkinlik, beklemeye değer!</string>
+  <string name="global_cricket_no_match">Bugün kriket maçları yapılmayacak. Diğer günleri kontrol et.</string>
   <string name="global_onthisday_com">OnThisDay.com</string>
   <string name="goto_today">Bugün</string>
   <string name="guide_card_hint_text">Kişilerin doğum günlerini içe aktar</string>
@@ -515,8 +519,8 @@
   <string name="preferences_title">Takvim</string>
   <string name="preferences_use_home_tz_descrip">Kendi zaman diliminizde seyahat ederken, takvim ve olayları görüntüler</string>
   <string name="preferences_use_home_tz_title">Yerel zaman dilimini kullan</string>
-  <string name="preferences_week_start_day_dialog">Haftanın başlangıç günü</string>
-  <string name="preferences_week_start_day_title">Haftanın Başlangıç Günü</string>
+  <string name="preferences_week_start_day_dialog">Haftanın başlama günü</string>
+  <string name="preferences_week_start_day_title">Haftanın Başlama Günü</string>
   <string name="presence_label">Durum</string>
   <string name="privacy_label">Gizlilik</string>
   <string name="quick_response_custom_msg">Özel mesaj...</string>
@@ -644,7 +648,7 @@
   <string name="subscribe_card">Abone Ol</string>
   <string name="subscribe_card_success">Başarıyla abone olundu ve anasayfada görüntülenecek.</string>
   <string name="subscribe_card_success_for_homepage">“%1$s” aboneliği başarıyla olundu</string>
-  <string name="subscribe_channel_bottom_hint">—— Redmi Takvimi ——</string>
+  <string name="subscribe_channel_bottom_hint">—— Mi Takvimi ——</string>
   <string name="subscribe_channel_click_hint">Aboneliği oku</string>
   <string name="subscribe_channel_footer_button">Abonelik Yönetimi</string>
   <string name="subscribe_channel_footer_desc">Abonelikleri görüntüleme veya çıkmak için yönetim bölümüne gidin</string>
@@ -734,6 +738,8 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="view_event_organizer_label">Düzenleyen:</string>
   <string name="view_event_response_label">Katılıyor musun?</string>
   <string name="view_in_month_view">Ay görünümünde göster</string>
+  <string name="weather_card_humidity_desc">湿度%1$s%%</string>
+  <string name="weather_card_no_data_hint">点击获取天气数据</string>
   <string name="week_view">Hafta</string>
   <string name="week_view_today_toast">"Şu anda bu haftayı görüntülüyorsunuz"</string>
   <string name="weekly">Haftalık (her %s )</string>
@@ -744,6 +750,7 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="widget_get_weather_info">Hava Durumunu Al &gt;</string>
   <string name="widget_no_events">Etkinlik yok</string>
   <string name="widget_select_style">Bir stil seçin</string>
+  <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
   <string name="work_day_indication">: (</string>
   <string name="wuxing">Beş Unsur</string>
   <string name="xiaomi_calendar_display_name">Mi Hesap Takvimi</string>
