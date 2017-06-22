@@ -85,6 +85,8 @@
   <string name="face_beauty_intelligent_level_2">Orta</string>
   <string name="face_beauty_intelligent_level_3">Yüksek</string>
   <string name="face_beauty_smart">Akıllı</string>
+  <string name="groupshot_mode_use_hint">"Bir fotoğrafı sentezleyip en iyi yüz ifadesini seçmek için
+birden fazla fotoğraf çekilecek"</string>
   <string name="find_other_qrcode">QR Kodu bulundu</string>
   <string name="flash">Flaş</string>
   <string name="height">Yükseklik</string>
@@ -315,7 +317,12 @@
   <string name="pref_camera_snap_entry_off">Kapalı</string>
   <string name="pref_camera_snap_entry_take_movie">Hızlı Çekim Modu (Film)</string>
   <string name="pref_camera_snap_entry_take_picture">Seri Çekim Modu (Resim)</string>
+  <string name="pref_camera_snap_label_take_movie">Video</string>
+  <string name="pref_camera_snap_label_take_picture">Fotoğraf</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"\"Ses Düğmeleriyle Uyan\" açıkken Seri Çekim Moduna geçilemiyor."</string>
+  <string name="pref_camera_snap_value_off">Kapalı</string>
+  <string name="pref_camera_snap_value_take_movie">Film</string>
+  <string name="pref_camera_snap_value_take_picture">Resim</string>
   <string name="pref_camera_sound_title">Kamera Sesleri</string>
   <string name="pref_camera_square_mode_title">Kare</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
