@@ -5,6 +5,10 @@
   <string name="app_name">Telefonu Bul</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Kilit açılamadı. %s."</string>
+  <string name="default_debt_msg_words">"Bu cihaz, cihazınızın borcu nedeniyle kilitlendi.
+Lütfen satış temsilcinize başvurun."</string>
+  <string name="default_lock_msg_words">Bu cihaz, mevcut bir Mi Hesabıyla ilişkilendirilir. Güvenlik nedenleriyle cihazı doğrulamak için şifre girmeniz gerekir.</string>
+  <string name="default_lock_msg_words_with_phone">Merhaba! Telefonumu kaybettim. Lütfen benimle irtibata geçebilir misiniz? Teşekkürler!</string>
   <string name="device_locked">Bu cihaz kilitlendi</string>
   <string name="device_lost">Bu cihaz kayboldu</string>
   <string name="disable_find_device_error">"Telefonu Bul kapatılamıyor %1$s"</string>
