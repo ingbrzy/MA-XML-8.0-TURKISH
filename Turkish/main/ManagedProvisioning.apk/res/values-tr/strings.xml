@@ -16,6 +16,9 @@
   <string name="continue_provisioning_notify_text">İş profilinizi oluşturmaya devam etmek için dokunun</string>
   <string name="continue_provisioning_notify_title">Şifreleme tamamlandı</string>
   <string name="copying_certs">CA sertifikasının ayarla</string>
+  <string name="default_first_meat_user_name">Birinci Kullanıcı</string>
+  <string name="default_managed_profile_name">İş Profili</string>
+  <string name="default_owned_device_username">İş cihazının kullanıcısı</string>
   <string name="delete_profile">Sil</string>
   <string name="delete_profile_title">Profil kaldırılsın mı?</string>
   <string name="device_owner_cancel_cancel">İptal</string>
