@@ -28,6 +28,7 @@
   <string name="account_settings_action">Hesap Ayarları</string>
   <string name="account_settings_background_attachments_label">Ekleri indir</string>
   <string name="account_settings_background_attachments_summary">Ekleri, WLAN kullanarak indir</string>
+  <string name="account_settings_background_attachments_summary_inter">Ekleri Wi-Fi kullanarak indir</string>
   <string name="account_settings_data_usage">Eşitleme Ayarları</string>
   <string name="account_settings_description_label">Hesap Adı</string>
   <string name="account_settings_edit_quick_responses_label">Hızlı Cevap</string>
@@ -218,6 +219,7 @@
   <string name="auto_remind_text">Otomatik Hatırlatıcılar</string>
   <string name="auto_remind_unbind">Durdur</string>
   <string name="auto_sync_off">Otomatik eşitleme kapalı.</string>
+  <string name="automatic_remind_text">Hatırla</string>
   <string name="bank_card_detail">Kredi Kartı Detayları</string>
   <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Pil Tasarrufu</string>
@@ -248,6 +250,7 @@
   <string name="calendar_remind_gridview_weekend">Hafta Sonu</string>
   <string name="cancel">İptal</string>
   <string name="cancel_action">İptal</string>
+  <string name="cancel_pop3_attchemt_downloading">İndirilen herhangi bir ekin iptali, bir POP3 türü hesap için geçerli olamaz.</string>
   <string name="cant_move_or_change_labels">"Seçim birden fazla hesap içerdiğinden taşınamaz."</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
@@ -397,6 +400,7 @@
   <string name="download_whole_email">İçeriğin geri kalanını indir</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Banka Durumu</string>
+  <string name="drawer_classification">Akıllı Sınıflandır</string>
   <string name="drawer_bill_title">Faturalar</string>
   <string name="drawer_close">Gezinme menüsünü kapat</string>
   <string name="drawer_contacts">Kişiler</string>
@@ -415,6 +419,8 @@
   <string name="email_setting">Posta</string>
   <string name="email_setting_keywords">Hesaplar;Hesap Ekle; Posta hesabı ekle; silmeyi onayla;göndermeyi onayla;direkt sil; postayı görüntüle;pil tasarrufu; geribildirim gönder; günlüğü gönder</string>
   <string name="email_sina">Sina Posta</string>
+  <string name="email_suggestions_authority">com.android.email.provider</string>
+  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Hesap bulunamadı"</string>
   <string name="empty_email_tip">"Boş E-Posta gönderilemez"</string>
   <string name="empty_spam">İstenmeyenleri temizle</string>
@@ -499,8 +505,9 @@
   <string name="forward_attribution_no_headers">---------- Yönlendirilmiş Posta ----------</string>
   <string name="forward_download_failed_ticker">"Bir veya daha fazla ek yönlendirilemedi."</string>
   <string name="forward_download_failed_title">Ekler yönlendirilemedi</string>
-  <string name="from_heading">"Kimden: "</string>
+  <string name="forward_subject_label">İlet:</string>
   <string name="free_period_text">Faizsiz Dönem</string>
+  <string name="from_heading">"Kimden: "</string>
   <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
   <string name="general_preference_confirm_send_label">Göndermeden önce onayla</string>
   <string name="general_preference_str_auto_translation">Hızlı Çevir</string>
@@ -683,6 +690,8 @@ Farklı bir E-Posta hesabına geçmeyi deneyin."</string>
   <string name="no_filtrable_email_account">Fitrelenecek hesap yok</string>
   <string name="no_mails">E-Posta yok</string>
   <string name="no_matched_attachment">Sonuç yok.</string>
+  <string name="no_recognize_describe">"Bilet veya rezervasyon içeren e-postalar bulunamadı.
+Farklı bir gelen kutusu deneyin."</string>
   <string name="no_remind">Hatırlatıcı yok</string>
   <string name="not_subject">(Konusuz)</string>
   <string name="not_synced_title">Hesap eşitlenemedi</string>
@@ -732,6 +741,7 @@ Farklı bir E-Posta hesabına geçmeyi deneyin."</string>
   <string name="overlays_title">Kayan Windows izinlerini aç</string>
   <string name="parase_setup_data">Veri alınıyor…</string>
   <string name="parse_bill_discribe">Kredi kartı faturaları işleniyor...</string>
+  <string name="parse_recognize_describe">E-Posta analiz ediliyor…</string>
   <string name="password_expire_warning_content_title">Kilit ekranı parolasının süresi sona eriyor</string>
   <string name="password_expire_warning_dialog_content_fmt">Yakında zamanda kilit ekranı PIN veya parolasını değiştirmelisiniz veya  %s için veriler silinecek. Şimdi değiştirilsin mi?</string>
   <string name="password_expire_warning_dialog_title">Kilit ekranı parolasının süresi sona eriyor</string>
@@ -796,6 +806,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="policy_screen_timeout">Ekranı kilitlemesi için cihazın boşta olması  gerekir</string>
   <string name="policy_text_truncation">Posta yazı boyutunu kısıtla</string>
   <string name="pop3_name">POP3</string>
+  <string name="prefDefault_autoAdvance">Liste</string>
   <string name="preference_eas_tips">Posta sunucusu ayarındaki Etkinleştir\'e dokun.</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">POP3\'te, ekler otomatik olarak E-Posta ile indirilebilir olacak. Bu mobil veri kullanımını artırabilir.</string>
@@ -883,6 +894,32 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="read_string">postayı oku</string>
   <string name="recipient_needed">En az 1 alıcı ekle.</string>
   <string name="recipient_needed_title">İkâz</string>
+  <string name="recognize_hotel_check_in_date">Zamanında kontrol et</string>
+  <string name="recognize_hotel_hotel_money">Fiyat %1$s</string>
+  <string name="recognize_hotel_notification_content">Konaklamanın keyfini çıkarın!</string>
+  <string name="recognize_hotel_notification_title">%2$s/%3$s değerinden başlayan %1$s odasında bir oda rezervasyonu yaptınız. Oraya gelmeden önce rezervasyonunuzu iki kere kontrol edin.</string>
+  <string name="recognize_hotel_order_money">Toplam</string>
+  <string name="recognize_hotel_other_money">Diğer giderler %1$s</string>
+  <string name="recognize_hotel_reverse_date">%1$s önce kontrol edin:%2$s %3$s</string>
+  <string name="recognize_hotel_room_type">Oda</string>
+  <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
+  <string name="recognize_hotel_title">Otel rezervasyonu</string>
+  <string name="recognize_hotel_user_names">Misafir</string>
+  <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
+  <string name="recognize_setting_title">Seyahat Ayarları</string>
+  <string name="recognize_ticket_air_notification_content">İyi uçuşlar!</string>
+  <string name="recognize_ticket_air_notification_title">%3$s uçuş  (%1$s/%2$s) yakında kalkacak. Uçuş bilgilerinizi iki kere kontrol edin.</string>
+  <string name="recognize_ticket_air_state_stopover">Mola</string>
+  <string name="recognize_ticket_air_state_transfer">Transfer</string>
+  <string name="recognize_ticket_air_user_name">Yolcu:</string>
+  <string name="recognize_ticket_title">Uçak &amp; Tren Bileti</string>
+  <string name="recognize_ticket_train_alter">Değiştirildi</string>
+  <string name="recognize_ticket_train_depart_date">%3$s:%4$s - %1$s/%2$s kalkıyor</string>
+  <string name="recognize_ticket_train_notification_content">İyi yolculuklar!</string>
+  <string name="recognize_ticket_train_notification_title">Tren %3$s (%1$s/%2$s) kalkacak. Biletinizi kontrol edin.</string>
+  <string name="recognize_ticket_train_return">İade</string>
+  <string name="recognize_ticket_train_user_name">Yolcu: %1$s</string>
+  <string name="recognize_title">Seyahat Bilgileri</string>
   <string name="reduce_the_receiving_frequencye_summary">Rahatsız Etme açıkken gelen kutusu daha az sıklıkla eşitlenir</string>
   <string name="reduce_the_receiving_frequencye_title">Kısa Aralıklarla Eşitle</string>
   <string name="refresh">Yenile</string>
@@ -956,6 +993,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="service_protocol_discribe">"WPS Posta Hizmet Sözleşmesi'ni okudum ve kabul ediyorum"</string>
   <string name="service_protocol_title">Hizmet Sözleşmesi</string>
   <string name="set_network">Ağı Ayarla</string>
+  <string name="setting_default_lable"/>
   <string name="settings_activity_title">Ayarlar</string>
   <string name="share_choose">Paylaşmak için dosyayı seçin</string>
   <string name="sharing">Paylaş</string>
@@ -1037,7 +1075,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
 Şimdi durdurulsun mu?"</string>
   <string name="undo">Geri Al</string>
   <string name="unread_string">Okunmamış Posta</string>
-  <string name="unselected_lable">Fazlası</string>
+  <string name="unselected_lable">Diğer</string>
   <string name="unsent_messages_in_outbox">%2$s içinde gönderilmemiş %1$s</string>
   <string name="unzip_file_failed">"Dosya açılamadı"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
@@ -1061,6 +1099,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="wait_for_manual_sync_body">"Bu hesap otomatik eşitlemeye ayarlanmadı
 Posta eşitlenmeden önce "Şimdi Eşitleye dokunun veya bu hesabın postaları otomatik eşitlemesi için Eşitleme Ayarlarını Değiştir seçeneğini kullanın</string>
   <string name="wait_for_sync_title">Eşitlemek için bekleniyor</string>
+  <string name="wait_help_context">Bekle</string>
   <string name="webview_logout">Tekrar oturum açmayı deneyebilirsiniz</string>
   <string name="webview_logout_cancel">Şimdi değil</string>
   <string name="webview_logout_sure">Yeniden dene</string>
