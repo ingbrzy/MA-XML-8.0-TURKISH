@@ -6,7 +6,7 @@
   <string name="CLIRDefaultOnNextCallOff">Arayan kimliği varsayılanları kısıtlanmıştır. Sonraki Çağrı: Kısıtlanmamış</string>
   <string name="CLIRDefaultOnNextCallOn">Arayan kimliği varsayılanları kısıtlanmıştır. Sonraki Çağrı: Kısıtlanmış</string>
   <string name="CLIRPermanent">"Arayanın kimliği ayarını değiştiremezsiniz."</string>
-  <string name="CfMmi">Çağrı Yönlendiriliyor</string>
+  <string name="CfMmi">Çağrı yönlendiriliyor</string>
   <string name="ClipMmi">Gelen Çağrı Kimliği</string>
   <string name="ClirMmi">Giden Çağrı Kimliği</string>
   <string name="CndMmi">Çağrı Numarasının İletimi</string>
@@ -172,6 +172,11 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="common_name_suffixes"/>
   <string name="condition_provider_service_binding_label">Durum Sağlayıcı</string>
   <string name="configure_input_methods">Klavyeyi Seç</string>
+  <string name="config_wimaxManagerClassname"/>
+  <string name="config_wimaxNativeLibLocation"/>
+  <string name="config_wimaxServiceClassname"/>
+  <string name="config_wimaxServiceJarLocation"/>
+  <string name="config_wimaxStateTrackerClassname"/>
   <string name="contentServiceSync">Eşitle</string>
   <string name="contentServiceSyncNotificationTitle">Eşitle</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Çok fazla %s silindi.</string>
@@ -200,7 +205,7 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="data_usage_warning_title">Veri Kullanım Uyarısı</string>
   <string name="data_usage_wifi_limit_snoozed_title">WLAN veri limiti aşıldı</string>
   <string name="data_usage_wifi_limit_title">WLAN verisi kapatıldı</string>
-  <string name="date_and_time" formatted="false">%d %b %Y %H:%M:%S</string>
+  <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
   <string name="date_picker_decrement_day_button">Günü azalt</string>
   <string name="date_picker_decrement_month_button">Ayı azalt</string>
   <string name="date_picker_decrement_year_button">Yılı azalt</string>
@@ -217,6 +222,8 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="day_picker_description">Ayın günlerini ızgarala halinde sırala</string>
   <string name="days">gün</string>
   <string name="decline">Reddet</string>
+  <string name="def_wifi_direct_name"/>
+  <string name="def_wifi_wifihotspot_pass"/>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Voicemail</string>
   <string name="default_audio_route_category_name">Sistem</string>
@@ -777,6 +784,9 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="mmiComplete">MMI tamamlandı.</string>
   <string name="mmiError">Bağlantı sorunu veya geçersiz MMI kodu.</string>
   <string name="mmiFdnError">İşlem sadece sabit arama numaralarıyla sınırlandırılmıştır.</string>
+  <string name="mobile_provisioning_apn"/>
+  <string name="mobile_provisioning_url"/>
+  <string name="month_day_year" formatted="false">%B %-e, %Y</string>
   <string name="more_item_label">Diğer</string>
   <string name="muted_by">%1$s tarafından kapatıldı</string>
   <string name="needPuk">SIM kartınızın PUK kilidi devrede. Kilidi açmak için PUK kodunu yazın.</string>
@@ -816,6 +826,8 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="older">Daha eski</string>
   <string name="oneMonthDurationPast">1 ay önce</string>
   <string name="open_permission_deny">"Bu sayfayı açma izniniz yok."</string>
+  <string name="operator_config_url"/>
+  <string name="operator_ping_url"/>
   <string name="orgTypeCustom">Özel</string>
   <string name="orgTypeOther">Diğer</string>
   <string name="orgTypeWork">İş</string>
@@ -1499,6 +1511,8 @@ Kapatmak ister misiniz?"</string>
   <string name="whichViewApplication">Aç:</string>
   <string name="whichViewApplicationLabel">Aç</string>
   <string name="whichViewApplicationNamed">%1$s ile aç</string>
+  <string name="widget_default_class_name"/>
+  <string name="widget_default_package_name"/>
   <string name="wifi_available_sign_in">Wi-Fi ağda oturum açın</string>
   <string name="wifi_calling_off_summary">Kapalı</string>
   <string name="wifi_connect_alert_message">%1$s uygulaması %2$s Wi-Fi ağına bağlanmak istiyor</string>
