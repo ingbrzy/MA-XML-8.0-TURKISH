@@ -124,10 +124,12 @@
   <string name="cancel_call">Telefonu kapat</string>
   <string name="cannot_answered_Video_Call">Zaten faal bir sesli arama olduğundan görüntülü çağrıya cevap verilemiyor.</string>
   <string name="cannot_answered_Voice_Call">Zaten bir görüntülü arama olduğundan sesli aramaya cevap verilemiyor</string>
-  <string name="card_title_call_ended">"Çağrı bitti "</string>
+  <string name="card_title_call_ended">" Çağrı bitti "</string>
   <string name="card_title_conf_call">Konferans çağrısı</string>
-  <string name="card_title_dialing">Aranıyor</string>
+  <string name="card_title_dialing">" Aranıyor "</string>
   <string name="card_title_hanging_up">Kapat </string>
+  <string name="card_title_hanging_up_restart">"Arama sonlandırılamıyor. Cihazınızı yeniden başlatın."</string>
+  <string name="card_title_hanging_up_weak_signal">Zayıf mobil şebeke sinyali. Arama kesiliyor</string>
   <string name="card_title_in_call">Çağrıda</string>
   <string name="card_title_in_call_short">Çağrıda</string>
   <string name="card_title_in_video">Video </string>
@@ -776,6 +778,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="preferred_network_mode_wcdma_perf_summary">Tercih Edilen Mod: Tercihen WCDMA</string>
   <string name="primary_account_summary_with">Birinci Hesap: %s</string>
   <string name="private_num">Özel Numara</string>
+  <string name="remind_unlock_message">Cihazınız şu an kilitlendi \"%s\" cihazınızın kilidini açtıktan sonra kullanılabilir olacak. Şimdi açılsın mı?</string>
   <string name="progress_dialog_exiting_ecm">Acil Geri Arama Modundan çıkılıyor</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Giden Proxy Adresi</string>
@@ -952,6 +955,7 @@ Sonraki dönem %2$d gün sonra başlayacak (%3$s)"</string>
   <string name="umts_preferred_network_mode_dialogtitle">Ağ Modu</string>
   <string name="unblock_pin2">PIN2 kilidini aç</string>
   <string name="unknown">Bilinmiyor</string>
+  <string name="unlock_phone">Cihaz kilidini aç</string>
   <string name="unlock_failed">Ağ kilidi açma isteği başarısız.</string>
   <string name="unlock_success">Ağ kilidini açma başarılı</string>
   <string name="updating_fdn_contact">Sabit arama numarası güncelleniyor ...</string>
