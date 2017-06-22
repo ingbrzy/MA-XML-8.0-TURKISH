@@ -12,6 +12,22 @@
   <string name="carousel_suggest">Dikkat</string>
   <string name="carousel_suggest1">Kilit ekranınıza her gün ücretsiz gönderilen yeni duvar kağıtları edinin.</string>
   <string name="carousel_suggest2">Duvar Kağıdı Döngüsü açılsın mı?</string>
+  <string name="cat_1">Şehir</string>
+  <string name="cat_10">Tabiat</string>
+  <string name="cat_11">Teknoloji</string>
+  <string name="cat_12">Sanat</string>
+  <string name="cat_13">Yemek</string>
+  <string name="cat_14">Aktör</string>
+  <string name="cat_15">Artist</string>
+  <string name="cat_16">Kızlar</string>
+  <string name="cat_2">Çizimler</string>
+  <string name="cat_3">İçerden</string>
+  <string name="cat_4">Spor</string>
+  <string name="cat_5">Pop</string>
+  <string name="cat_6">İnsan</string>
+  <string name="cat_7">Otomobiller</string>
+  <string name="cat_8">Fizik</string>
+  <string name="cat_9">Moda</string>
   <string name="change_time">Duvar Kağıdını Değiştir</string>
   <string name="confirm">Aç</string>
   <string name="current_connection_invalid">Cihaz ağa bağlanana kadar bekleyin</string>
@@ -24,11 +40,11 @@
   <string name="declaration_lockscreen_title">Her gün yeni Kilit ekran duvar kağıtları edinin</string>
   <string name="declaration_title">Şartlar ve Hükümler</string>
   <string name="dislike">Sil</string>
-  <string name="from_migallerylockscreen"/>
+  <string name="from_migallerylockscreen">MIUI Duvar Kağıdı Döngüsünden</string>
   <string name="hour_1">Her saatte</string>
   <string name="hour_3">Her 3 saatte</string>
-  <string name="like">Oyla</string>
-  <string name="liked">Sevdim</string>
+  <string name="like">Favorilerden ekle</string>
+  <string name="liked">Favorilerden eklendi</string>
   <string name="lockscreen_h5_back_tv">Geri</string>
   <string name="lockscreen_h5_close_tv">Kapalı</string>
   <string name="lockscreen_h5_refresh_btn_tv">Yenile</string>
@@ -36,7 +52,7 @@
   <string name="lockscreen_magazine_summary">Kategori Seç</string>
   <string name="lockscreen_magazine_system_title">Varsayılan</string>
   <string name="lockscreen_magazine_title">Günlük Kilit Ekranı</string>
-  <string name="lockscreen_wallpaper_changed">Duvar kağıdı değiştirildi</string>
+  <string name="lockscreen_wallpaper_changed">Kilit ekranın Duvar kağıdı güncellendi</string>
   <string name="minutes_15">Her 15 dakika</string>
   <string name="no_long_show">"Tekrar gösterme"</string>
   <string name="ok_enable_network_prov">Kabut et ve aç</string>
@@ -63,17 +79,17 @@
   <string name="sst_no_favor_wallpaper_hint">Favorilerde duvar kağıdı yok</string>
   <string name="sst_prov_enable_desc">"Kilit ekranınıza düzenli olarak teslim edilen yeni duvar kağıtları edinin"</string>
   <string name="sst_prov_enable_title">Duvar kağıdı döngüsünü etkinleştir</string>
-  <string name="sst_require_one_category_hint">En az bir öğeye kategori seçin</string>
+  <string name="sst_require_one_category_hint">En az bir kategori seçin</string>
   <string name="sst_sti_desc">Duvar kağıdının geçiş süresini ayarlayın</string>
-  <string name="sst_sti_title">Güncelleme Aralığı</string>
+  <string name="sst_sti_title">Güncelleme Sıklığı</string>
   <string name="sst_subscribe_title">Aboneliklerim</string>
   <string name="sst_wifi_only_desc">Bu özelliği kapatırsanız, mobil veri tasarrufu sağlarsınız</string>
-  <string name="sst_wifi_only_title">Mobil veriyle duvar kağıtlarını güncelle</string>
+  <string name="sst_wifi_only_title">Mobil veri kullanarak duvar kağıtlarını güncelle</string>
   <string name="summary">"Bu ürünü kullanmakla, şunu kabul etmiş olursunuz: &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;User Agreement&lt;/a&gt; ve &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Gizlilik Politikası&lt;/a&gt;. Bu özelliğin normal bir şekilde çalışması için internete bağlanması gerekiyor."</string>
   <string name="summary_international">"Bu ürünü kullanmakla, şunu kabul etmiş olursunuz: &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Kullanıcı Sözleşmesi&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Gizlilik Politikası&lt;/a&gt;. Bu özelliğin normal bir şekilde çalışması için internete bağlanması gerekiyor."</string>
-  <string name="theme_apply_failured">"Kilit ekranı duvar kağıdı uygulanamıyor"</string>
+  <string name="theme_apply_failured">"Uygulanamıyor, sonra tekrar deneyin"</string>
   <string name="theme_apply_success">Başarıyla eklendi</string>
   <string name="theme_applying">Uygulanıyor...</string>
-  <string name="wlan_download">Sadece Wi-Fi ağına bağlandığında güncelle</string>
-  <string name="wlan_download_cn">Sadece WLAN üzerinden güncelle</string>
+  <string name="wlan_download">Sadece Wi-Fi üzerinden güncelle</string>
+  <string name="wlan_download_cn">Sadece Wi-Fi üzerinden güncelle</string>
 </resources>
