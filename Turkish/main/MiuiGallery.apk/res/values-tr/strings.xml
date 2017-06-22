@@ -63,13 +63,15 @@
   <string name="adjust_saturation">Doygunluk</string>
   <string name="adjust_sharpen">Keskinlik</string>
   <string name="adjust_vignette">Süslü</string>
-  <string name="album_already_exists">Aynı isimde bir albüm zaten var</string>
+  <string name="album_already_exists_check">Gözat</string>
+  <string name="album_already_exists_msg">\"%s\" albüm zaten var</string>
   <string name="album_already_forced_top">Daima üstte</string>
   <string name="album_camera_name">Kamera</string>
   <string name="album_detail_clear_local_page_empty">Silmek için videolar ve fotoğraflar yedeklenmedi</string>
   <string name="album_detail_page_empty">Fotoğraf veya video yok</string>
   <string name="album_faces_name">Kişi</string>
   <string name="album_from_format">Şurdan: %s</string>
+  <string name="album_jump_failed">Albümler Mi Bulut ile eşitlenene kadar bekleyin ve tekrar deneyin</string>
   <string name="album_member">Albüm Üyeleri: %s</string>
   <string name="album_name">Albüm Adı</string>
   <string name="album_name_recent_discovery">Geçmiş</string>
@@ -309,6 +311,8 @@
   <string name="cloud_storage_video_title">Video</string>
   <string name="cloud_storage_warn_desc">Ekstra depolama için bulut VIP satın al</string>
   <string name="cloud_storage_warn_title">Mi Bulut depolama alanı yetersiz</string>
+  <string name="cloud_sync_card_description">Fotoğraflarınız ve videolarınıza birden çok cihazdan erişmek için Mi Bulut ile eşitleme yapın</string>
+  <string name="cloud_sync_card_title">Mi Bulut ile eşitlemeyi aç</string>
   <string name="cloud_tab_albums">Albümler</string>
   <string name="cloud_tab_all">Hepsi</string>
   <string name="cloudfolder_already_exists">Benzer ada sahip dizin var</string>
@@ -400,7 +404,8 @@
   <string name="delete_from_cloud">Bulut albümündeki öğeleri sil</string>
   <string name="delete_from_devices">Tüm cihazları otomatik olarak eşitle</string>
   <string name="delete_from_devices_album">Bu albüm tüm cihazlara otomatik olarak eşitlendi</string>
-  <string name="delete_from_homepage_album">Albümü Ana Sayfada göster</string>
+  <string name="delete_from_homepage_album">Albümleri Galerinin içinde göster</string>
+  <string name="delete_from_local_and_cloud">Bu cihaz ve Mi Bulutta</string>
   <string name="delete_from_this_album_and_cloud">"Bu albüm ve Mi Bulut'tan "</string>
   <string name="delete_from_web">Web Albümleri</string>
   <string name="delete_in_album">Albümde fotoğrafı veya videoyu sildiğinizde, şurdan da silinir:</string>
@@ -413,6 +418,7 @@
   <string name="delete_third_party_photo">Bu fotoğraf silinsin mi?</string>
   <string name="delete_third_party_video">Bu video silinsin mi?</string>
   <string name="delete_to_trash_tips">Ayarların içindeki Çöp Kutusunda en son eşitlenip silinmiş fotoğrafları görebilirsiniz</string>
+  <string name="delete_unsynced">Yedeklenmemiş öğeleri sil</string>
   <string name="deleting_files">Dosyalar siliniyor...</string>
   <string name="demo_video_folder_display_name">Video Demosu</string>
   <string name="deny">Reddet</string>
@@ -627,6 +633,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="ignore_album">"Gösterme"</string>
   <string name="ignore_alert_title">"Bu albüm gösterilmesin mi?"</string>
   <string name="ignore_face">Bu kişiyi yoksay</string>
+  <string name="ignore_faces_title">Yoksayıldı</string>
   <string name="illegal_arguments_error">Bir hata oluştu</string>
   <string name="image_decode_failed">"Resim çözülemedi"</string>
   <string name="image_download_item_title">Orjinal resmi indir (%s)</string>
@@ -687,14 +694,18 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="last_year_today">Son 1 Yıl</string>
   <string name="limit_height">0 &gt; yükseklikte olmalıdır</string>
   <string name="limit_width">0  &gt; genişlikte olmalıdır</string>
+  <string name="load_complete">Daha fazla öğe yok</string>
+  <string name="load_failed">"Bilgi yüklenemiyor, dokunun ve yeniden deneyin"</string>
   <string name="load_relations">Biraz bekleyin…</string>
   <string name="load_image_error">Fotoğraf yüklenemiyor</string>
   <string name="loading">Yükleniyor…</string>
+  <string name="loading_dots">Biraz bekleyin…</string>
   <string name="loading_dual_tip">İkili resim yükleniyor…</string>
   <string name="loading_fail">"İndirilemedi"</string>
   <string name="loading_fail_sync_off">İndirmek için Mi Bulut ile eşitlemeyi açın</string>
   <string name="loading_fail_sync_off_message">"Fotoğraflar yüklenmedi, Mi Bulut ile eşitleme kapalı."</string>
-  <string name="loading_failure">Fotoğraf yüklenemiyor</string>
+  <string name="loading_fail_sync_without_network">Meta verileri indirmek için ağa bağlanın</string>
+  <string name="loading_fail_syncing">Meta veriler tamamen indirilene kadar bekleyin ve tekrar deneyin</string>
   <string name="loading_gif">GIF indiriliyor…</string>
   <string name="loading_gif_thumbnail">GIF küçük resmi indiriliyor…</string>
   <string name="loading_image">Resim indiriliyor...</string>
@@ -795,6 +806,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="new_device_tips">Cihazın ekranına basın</string>
   <string name="next">Sonraki</string>
   <string name="no">Hayır</string>
+  <string name="no_ignore_faces">Burada kişi yok</string>
   <string name="no_albums_alert">Albüm yok</string>
   <string name="no_connectivity">"Ağ probleminden dolayı bazı siteler tanımlanamadı."</string>
   <string name="no_location">Konum yok</string>
@@ -879,6 +891,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="other_category">Ek Ayarlar</string>
   <string name="other_settings">Ek Ayarlar</string>
   <string name="owner_album_subtitle">%1$s kişiyle paylaşıldı</string>
+  <string name="people_jump_failed">İnsanlarla birlikte olan fotoğraflar Mi Bulut ile eşitlenene kadar bekleyin ve tekrar deneyin</string>
   <string name="paint_brush">Fırça </string>
   <string name="paint_cancel_context">Bu fotoğraftaki değişiklik yoksayılsın mı?</string>
   <string name="paint_cancel_title">Değişikliği Yoksay</string>
@@ -965,6 +978,10 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="recognizing_image">Görüntü tanımlanıyor…</string>
   <string name="recommanded_face_abandon_tip">Tavsiyeleri kaldır</string>
   <string name="recommanded_face_added_tip">\"%s\" için eklendi</string>
+  <string name="recovery_merge">Birleştir</string>
+  <string name="recovery_merge_or_rename">Birleşik Albümler</string>
+  <string name="recovery_merge_or_rename_message">"Bu ismi taşıyan mevcut bir albüm var. Birleştirilsin mi?"</string>
+  <string name="recovery_rename">Adlandır</string>
   <string name="redeye">Kırmızı Göz</string>
   <string name="redeye_tooltip">Kırmızı gözleri kaldırmak için hafifçe vurun</string>
   <string name="refocus">Yeniden Odakla</string>
@@ -1043,6 +1060,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="search_backup_now">Aç</string>
   <string name="search_backup_sub_title">Daha fazla resim bulmak için açın</string>
   <string name="search_backup_title">Mi Bulut ile Eşitle</string>
+  <string name="search_clear_histories">Temizle</string>
   <string name="search_connection_error">"Ağa bağlanılamadı"</string>
   <string name="search_connection_error_and_set">Ağ ayarlarını kontrol etmek için dokunun</string>
   <string name="search_error">Bir hata oluştu</string>
@@ -1061,6 +1079,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="search_result_empty">"Hiçbir şey bulunamadı"</string>
   <string name="search_retry">Yeniden deneyin</string>
   <string name="search_set_network_connection">Ağ Ayarları</string>
+  <string name="search_title_history">Geçmişi Ara</string>
   <string name="search_title_location">Konumlar</string>
   <string name="search_title_others">Tüm sonuçlar</string>
   <string name="search_title_people">Kişi</string>
@@ -1068,6 +1087,8 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="search_title_tag">Nesneler</string>
   <string name="search_transition_element_icon">search_icon</string>
   <string name="search_transition_element_input">search_input</string>
+  <string name="secret_album_card_description">Tüm küçük sırlarınız için en iyi yer</string>
+  <string name="secret_album_card_title">Gizli Albümü Dene</string>
   <string name="scan_qr_code_failure">Tarama başarısız oldu</string>
   <string name="screensaver_activate_mode">Ekran Koruyucu</string>
   <string name="screensaver_activate_only_charging">Sadece şarj ederken</string>
@@ -1092,6 +1113,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="secret_reason_too_large">Dosya çok büyük</string>
   <string name="secret_reason_type_not_support">"Bu dosya türü desteklenmiyor"</string>
   <string name="secret_reason_unknow_reasons">Bilinmeyen hata</string>
+  <string name="see_ignore_faces">"Yoksaydığınız kişileri görüntüleyin"</string>
   <string name="select_all">Hepsi</string>
   <string name="select_auto_upload_albums">Yüklemek için albümleri seçin</string>
   <string name="select_image">Fotoğrafı seçin</string>
@@ -1171,6 +1193,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="slideshow_interval_dialog_title">Kaydırma Aralığını Gir</string>
   <string name="slideshow_interval_invalid">Aralık 3 ve 3600 saniye arasında olmalıdır</string>
   <string name="slideshow_interval_title">Her resmin geçiş süresini seçin</string>
+  <string name="slideshow_interval_value">%1$d saniye</string>
   <string name="slideshow_repeat_mode">Tekrarla</string>
   <string name="slim_after_backuped_summary">Mi Bulut\'ta yedeklendikten sonra yerel fotoğraflar yüksek çözünürlükte en iyi hale getirilir. Tam çözünürlüklü olanlar hala Mi Bulut\'ta saklanır. Böylece depolamada daha çok alan kazanırsınız.</string>
   <string name="slim_after_backuped_title">Yedeklemeden Sonra Depolamayı İyi Hale Getir</string>
@@ -1256,6 +1279,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="to_enable_sync_dialog_message">Önce eşitleme özelliğini etkinleştirin</string>
   <string name="to_enable_sync_dialog_positive_button_text">Ayarlara git</string>
   <string name="to_enable_sync_dialog_title">Eşitle</string>
+  <string name="today">Bugün</string>
   <string name="too_many_recipients">"%2$s daha fazla alıcı ekleyemezsiniz (%1$s eklediniz)."</string>
   <string name="trash_bin">Çöp Kutusu</string>
   <string name="trash_bin_summary">Son zamanlarda silinmiş olan yedeklenmiş fotoğraflara göz at</string>
@@ -1380,6 +1404,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="xiaomi_account_not_exists_toast">"Mi Hesabı yok"</string>
   <string name="yellow_page">Sarı Sayfalar</string>
   <string name="yes">Evet</string>
+  <string name="yesterday">Dün</string>
   <string name="you_are">"Bebeğinizin: "</string>
   <string name="yunyi_pocket_camera">Spor Kamerası</string>
 </resources>
