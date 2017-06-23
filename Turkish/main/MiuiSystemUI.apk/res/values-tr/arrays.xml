@@ -28,6 +28,218 @@
         <item>Engellendi</item>
         <item>Geçici kötü bağlantıdan kaçınılıyor</item>
     </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Asla kontrol etme</item>
+        <item>Sadece DRM içeriğini kontrol et</item>
+        <item>Daima kontrol et</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Asla HDCP kontrolünü kullanma</item>
+        <item>Yalnızca DRM içeriği için HDCP kontrolünü kullan</item>
+        <item>Her zaman HDCP kontrolünü kullan</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Kapalı</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Kapalı</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_values">
+        <item>32768</item>
+        <item>65536</item>
+        <item>262144</item>
+        <item>1048576</item>
+        <item>4194304</item>
+        <item>16777216</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Kapalı</item>
+        <item>Günlük arabelleği başına 64K</item>
+        <item>Günlük arabelleği başına 256K</item>
+        <item>Günlük arabelleği başına 1M</item>
+        <item>Günlük arabelleği başına 4M</item>
+        <item>Günlük arabelleği başına 16M</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği .5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1.5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
+    </string-array>
+    <string-array name="window_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği .5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1.5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği .5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1.5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Yok</item>
+        <item>480p</item>
+        <item>480p (güvenli)</item>
+        <item>720p</item>
+        <item>720p (güvenli)</item>
+        <item>1080p</item>
+        <item>1080p (güvenli)</item>
+        <item>4K</item>
+        <item>4K (güvenli)</item>
+        <item>4K (üstte ölçekli)</item>
+        <item>4K (upscaled, güvenli)</item>
+        <item>720p, 1080p (çift ekran)</item>
+    </string-array>
+    <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480/142</item>
+        <item>720x480/142,güvenli</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213,güvenli</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320,güvenli</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,güvenli</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,güvenli</item>
+        <item>1280x720/213;1920x1080/320</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Yok</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafikler)</item>
+        <item>"GlGetError'da arama yığını"</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Kapalı</item>
+        <item>Dikdörtgen olmayan kırpma bölgesini mavi çiz</item>
+        <item>Test edilmiş çizim komutlarını yeşil renkli vurgula</item>
+    </string-array>
+   <string-array name="track_frame_time_entries">
+        <item>Kapalı</item>
+        <item>Ekranda çubuk olarak</item>
+        <item>Adb kabuğunda dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Kapalı</item>
+        <item>Üzerine yazılmış alanları göster</item>
+        <item>Deuteranomaly için alanları göster</item>
+    </string-array>
+   <string-array name="app_process_limit_entries">
+        <item>Standart limit</item>
+        <item>Arkaplan işlemleri yok</item>
+        <item>En fazla 1 işlem</item>
+        <item>En fazla 2 işlem</item>
+        <item>En fazla 3 işlem</item>
+        <item>En fazla 4 işlem</item>
+    </string-array>
+    <string-array name="app_process_limit_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Şarj ediliyor</item>
+        <item>MTP (Medya Aktarım Protokolü)</item>
+        <item>PTP (Resim Aktarım Protokolü)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Ses Kaynağı</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Çok Yavaş</item>
+        <item>Yavaş</item>
+        <item>Normal</item>
+        <item>Hızlı </item>
+        <item>Çok Hızlı</item>
+        <item>Aşırı Hızlı</item>
+        <item>Çabuk</item>
+        <item>Seri</item>
+        <item>Ani</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrant (default)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Geliştirilmiş Renkler</item>
+        <item>Gözle görülen doğal renkler</item>
+        <item>Dijital içerik için optimize edilmiş renkler</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>%0</item>
+        <item>%50</item>
+        <item>%100</item>
+    </string-array>
     <integer-array name="vibration_torch_on">
         <item>0</item>
         <item>0</item>
@@ -81,6 +293,7 @@
         <item>com.miui.cloudappbackup</item>
         <item>com.miui.fmradio</item>
         <item>com.android.systemui</item>
+    <item>com.android.mms</item>
     </string-array>
     <string-array name="avoid_disturb_app_whitelist">
         <item>com.baidu.BaiduMap</item>
@@ -98,6 +311,34 @@
         <item>com.tigerknows</item>
         <item>com.autonavi.cmccmap</item>
         <item>brut.googlemaps</item>
+    </string-array>
+    <string-array name="app_without_launcher_whitelist">
+        <item>android</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.android.incallui</item>
+        <item>com.android.bluetooth</item>
+        <item>com.miui.home</item>
+        <item>com.xiaomi.payment</item>
+        <item>com.xiaomi.vip</item>
+        <item>com.miui.systemAdSolution</item>
+        <item>com.miui.analytics</item>
+        <item>com.xiaomi.adecom</item>
+        <item>com.miui.voip</item>
+        <item>com.xiaomi.simactivate.service</item>
+        <item>com.xiaomi.xmsf</item>
+        <item>com.xiaomi.pass</item>
+        <item>com.xiaomi.discover</item>
+        <item>com.mfashiongallery.emag</item>
+        <item>com.miui.cloudservice</item>
+        <item>com.xiaomi.finddevice</item>
+        <item>com.miui.securitycore</item>
+        <item>com.miui.milivetalk</item>
+        <item>com.android.phone</item>
+        <item>com.miui.cloudbackup</item>
+        <item>com.google.android.marvin.talkback</item>
+        <item>com.android.cts.app.stub</item>
+        <item>com.miui.cleanmaster</item>
     </string-array>
     <string-array name="carrier_name">
         <item>SmarToneVodafone</item>
