@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_folder_description">Dizinleri göster</string>
+  <string name="action_mode_switcher_grid_description">İzgaralı Görünüm</string>
+  <string name="action_mode_switcher_list_description">Listeli Görünüm</string>
+  <string name="action_settings_description">Ayarları Aç</string>
   <string name="add_account_desc">Mi Hesabınız ile notlarınız eşitlensin mi?</string>
   <string name="alarm_bar_title">Hatırlatıcı</string>
   <string name="alert_action_edit_anyway">Düzenlemeyi Koru</string>
@@ -24,9 +28,14 @@
   <string name="attachment_gallery">Galeri</string>
   <string name="button_new_note">Yeni</string>
   <string name="call_folder_name">Çağrı Notları</string>
+  <string name="cancel_alarm_description">Alarmı iptal et</string>
   <string name="cloud_trash_bin_title">"Mi Bulut'taki notları sil"</string>
   <string name="cta_reminder">"Bu uygulamanın Mi Bulut'a notları yedeklemek için internet'e bağlanması ve ayrıca görüşmeler esnasında notları etiketlemek için kişilerinizi okuması gerekiyor."</string>
   <string name="default_folder_name">İsimsiz Dizin</string>
+  <string name="delete_folder_dialog_tile">Dizini sil</string>
+  <string name="dialog_share_as_pic">Notu resim olarak paylaş</string>
+  <string name="dialog_share_as_text">Notu metin olarak paylaş</string>
+  <string name="dialog_share_title">Notu paylaş</string>
   <string name="call_record_folder_name">Çağrı Notları</string>
   <string name="delete_folder_dialog_tile">Dizini sil</string>
   <string name="dlg_btn_set_password">Şifre ayarla</string>
@@ -48,6 +57,9 @@
   <string name="dlg_title_set_password">Şifre ayarla</string>
   <string name="dlg_title_use_privacy_password">Kişisel Koruma Şifresi kullan</string>
   <string name="dlg_unhide_message">Gizlilik açılıyor...</string>
+  <string name="done">Tamam</string>
+  <string name="edit_header_done_description">Tamam</string>
+  <string name="edit_header_home_description">Geri</string>
   <string name="dlg_unmark_privacy_message">Gizlilik açılıyor…</string>
   <string name="empty_folder_hint">"Dizin yok
 Bir dizin oluşturmak için + simgesine dokunun"</string>
@@ -65,6 +77,8 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="error_widget_exist_for_send_to_desktop">Bu not zaten Ana Ekranda </string>
   <string name="folder_exist">Aynı isimde bir klasör zaten var</string>
   <string name="force_touch_menu_add">Not ekle</string>
+  <string name="format_move_note_out_folder">Bu not taşındı</string>
+  <string name="format_move_note_to_folder">%1$s taşındı</string>
   <string name="format_move_notes_out_folder">%1$s taşındı</string>
   <string name="format_move_notes_to_folder">%1$s notu %2$s klasörüne taşındı</string>
   <string name="hidden_notes_fragment_title">Gizli Notlar</string>
@@ -73,6 +87,9 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="info_note_enter_desktop">Ana Ekrana eklendi</string>
   <string name="loading_text">Biraz bekleyin...</string>
   <string name="login_sync">Oturum Aç &amp; Eşitle</string>
+  <string name="menu_add_description">Not ekle</string>
+  <string name="menu_add_folder">Dizine ekle</string>
+  <string name="menu_add_folder_description">Dizin ekle</string>
   <string name="menu_create_folder">Yeni Dizin</string>
   <string name="menu_delete">Sil</string>
   <string name="menu_delete_forever">Kalıcı olarak sil</string>
@@ -98,6 +115,8 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Şimdi değil</string>
   <string name="note_alert_expired">Süresi Doldu</string>
+  <string name="note_description_content">Notlar uygulaması, fikirlerinizi kaydetmek için mükemmel bir araçtır. Yerleşik hatırlatıcılara sahiptir ve öğelerinizi Mi Bulut ile eşitler, böylece her yere de, istediğiniz zaman da erişebilirsiniz. Uygulamayı silmeden önce bu özelliklere sahip olup-olmadığınızdan emin olun.</string>
+  <string name="note_description_title">Notlar Hakkında</string>
   <string name="note_link_email">E-Posta Yaz</string>
   <string name="note_link_other">Kullanılan harita uygulamasını aç</string>
   <string name="note_link_select">Metni Seç</string>
@@ -134,6 +153,7 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="search_path_notes">Ayarlar/Sistem Uygulamaları/Notlar</string>
   <string name="search_setting_description">Notlardaki metinlerde ara</string>
   <string name="select_account_prompt">Notları Eşitle</string>
+  <string name="set_alarm_description">Alarm Ayarla</string>
   <string name="sina_share_fail">Gönderme başarısız</string>
   <string name="sina_share_fail_content_repeat">"Paylaşılamadı çünkü içerik zaten var…"</string>
   <string name="sina_share_pendding">Gönderiliyor...</string>
@@ -160,6 +180,9 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="sns_toast_empty">"Boş ileti gönderilemiyor"</string>
   <string name="sns_toast_over_limit">Resim olarak gönderildi (Metin limiti üstünde)</string>
   <string name="sync_tips">Notları Mi Bulut ile eşitlemek için dokunun.</string>
+  <string name="theme_blue_description">Mavi</string>
+  <string name="theme_green_description">Yeşil</string>
+  <string name="theme_red_description">Kırmızı</string>
   <string name="theme_title_antique">Sonbahar</string>
   <string name="theme_title_arty">Çiçek</string>
   <string name="theme_title_blue">Mavi</string>
@@ -171,6 +194,8 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="theme_title_red">Kırmızı</string>
   <string name="theme_title_star">Yıldız</string>
   <string name="theme_title_yellow">Sarı</string>
+  <string name="theme_white_description">Beyaz</string>
+  <string name="theme_yellow_description">Sarı</string>
   <string name="toast_folder_privacy_mode">"Misafir modunda klasörler düzenlenemez"</string>
   <string name="toast_mark_privacy_notes">Başarıyla gizlendi</string>
   <string name="toast_mark_privacy_notes_count">%1$s not başarıyla gizlendi</string>
@@ -185,6 +210,14 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="toast_privacy_mode">"Bunu gizli notlar için yapamazsınız"</string>
   <string name="toast_reach_text_limit_attachment">"Not çok uzun olduğundan yeni eklentiler ekleyemiyor"</string>
   <string name="toast_reach_text_limit_truncate">Bu not fazla uzun. Bazı metin sonu kesildi.</string>
+  <string name="toolbar_check_description">Onay kutusu ekle</string>
+  <string name="toolbar_delete_description">Bu notu sil</string>
+  <string name="toolbar_gallery_description">Resim ekle</string>
+  <string name="toolbar_more_description">Diğer</string>
+  <string name="toolbar_redo_description">Geri al</string>
+  <string name="toolbar_share_description">Bu notu paylaş</string>
+  <string name="toolbar_theme_description">Tema seç</string>
+  <string name="toolbar_undo_description">Geri al</string>
   <string name="toast_unmark_privacy_notes">Başarıyla gizlilik açıldı</string>
   <string name="toast_unmark_privacy_notes_count">%1$s notun gizliliği başarıyla açıldı</string>
   <string name="trash_folder_name">Çöp</string>
