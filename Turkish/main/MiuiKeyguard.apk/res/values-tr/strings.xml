@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_enter_lock_wallpaper">Kilit Ekran duvar kağıdına dokunun</string>
+  <string name="click_to_enter_text">Gözatmak için dokunun</string>
+  <string name="confirm_pin_msg">PIN kodunu tekrar girin</string>
+  <string name="custom_lock_wallpaper_enter">Gir</string>
+  <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı kaydırın</string>
+  <string name="delete">Sil</string>
+  <string name="emergency_call_string">Acil Çağrı</string>
+  <string name="experimental_try_string">Tekrar Dene</string>
+  <string name="experimental_validate">Doğrula</string>
+  <string name="experimental_validate_fail">"Oturum açılamadı"</string>
+  <string name="experimental_validate_password">Şifre</string>
+  <string name="experimental_validate_progress">Oturum açılıyor...</string>
+  <string name="experimental_validate_thanks">Teşekkürler!</string>
+  <string name="experimental_validate_username">Kullanıcı Adı</string>
+  <string name="experimental_validate_warning">MIUI\'yi daha iyi hale getirdiğiniz için teşekkürler!</string>
+  <string name="find_device_turn_off_flight_mode">Uçak Modunu kapat</string>
+  <string name="fingerprint_add_text">Parmakizi arayüzü güncellendi. Parmakizinizi tekrar ekleyin.</string>
+  <string name="fingerprint_add_title">Parmakizi ekle</string>
+  <string name="fingerprint_again_identified_msg">Parmakizi artık etkinleştirildi. Cihazın kilidini şifre girerekte açabilirsiniz.</string>
+  <string name="fingerprint_enter_second_psw_msg">İkinci Alan şifresinin girdikten sonra parmakizi tanımlamasını kullanmak için cihaz yeniden başlatılacak</string>
+  <string name="fingerprint_enter_second_psw_msg_oldman">"Hafif Moddayken İkinci Alana girilemiyor"</string>
+  <string name="fingerprint_enter_second_psw_title">İkinci Alan şifresini girin</string>
+  <string name="fingerprint_lockout_msg">Bir dakika sonra parmakizi ile kilidi açmayı deneyin!</string>
+  <string name="fingerprint_not_identified_msg">Cihazın kilidini açmak için şifrenizi girin.</string>
+  <string name="fingerprint_not_identified_title">Şifrenizi girin</string>
+  <string name="fingerprint_try_again_msg">"Parmakizi doğrulanamadı, tekrar deneyin."</string>
+  <string name="fingerprint_try_again_text">Tekrar deneyin</string>
+  <string name="forget_password_string">Şifremi unuttum</string>
+  <string name="incorrect_pincode">PIN Kodu hatalı!</string>
+  <string name="incorrect_pincode_remaining_attempts">PIN kodu hatalı, %d kez deneme hakkınız kaldı</string>
+  <string name="incorrect_pukcode">PUK kodu hatalı!</string>
+  <string name="incorrect_pukcode_remaining_attempts">PUK kodu hatalı, %d kez deneme hakkınız kaldı</string>
+  <string name="input_password_after_boot_msg">"Cihaz yeniden başladıktan sonra şifreyi girmeniz gerekecek."</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Görüşme esnasındaki boşluklar arasında geçiş yapılamaz"</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">Cihaz yeniden başlatıldıktan sonra İlk Alana girmeniz gerekiyor</string>
+  <string name="input_password_hint_text">Şifreyi girin</string>
+  <string name="input_pattern_hint_text">Deseni açma desenini çizin</string>
+  <string name="input_pin_code">PIN kodunu girin</string>
+  <string name="input_puk_code">PUK kodunu girin</string>
+  <string name="invalid_confirm_pin_hint">"PIN kodları eşleşmiyor!"</string>
+  <string name="left_action_default_hint_text">Mi Kumanda</string>
+  <string name="invalid_sim_pin_hint">PIN Kodu 4-8 karakter arasında olmalı</string>
+  <string name="invalid_sim_puk_hint">PUK Kodu en az 8 karakter uzunluğunda olmalı</string>
+  <string name="keyguard_charging_info_battery_temperature_text">Pil Sıcaklığı</string>
+  <string name="keyguard_charging_info_battery_used_time_text">Pilde</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Yaklaşık %d saatte dolacak</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">Yaklaşık %d dakikada dolacak​</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Yaklaşık %d saat %d dakikada dolacak</string>
+  <string name="keyguard_charging_info_charging_text">Şarj ediliyor</string>
+  <string name="keyguard_charging_info_charging_voltage_text">Voltaj</string>
+  <string name="keyguard_charging_info_click_to_detail">Detaylara bak</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">Yaklaşık %d saat kaldı</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">Yaklaşık %d dakika kaldı</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Yaklaşık %d saat %d dakika kaldı</string>
+  <string name="keyguard_charging_info_current_now_text">Gerçek Zamanlı Görüntüle12</string>
+  <string name="keyguard_charging_info_data_c">%s℃</string>
+  <string name="keyguard_charging_info_data_ma">%smA</string>
+  <string name="keyguard_charging_info_data_percent">%%%s</string>
+  <string name="keyguard_charging_info_data_v">%sV</string>
+  <string name="keyguard_charging_info_drained_hour_time_format">%d saat</string>
+  <string name="keyguard_charging_info_drained_min_time_format">%d dakika</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Boşalma</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d saat %d dakika</string>
+  <string name="keyguard_charging_info_finished_charging_text">Tamamen şarj oldu</string>
+  <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
+  <string name="keyguard_charging_info_last_charge_today_time">Bugün %s</string>
+  <string name="keyguard_charging_info_last_charge_yesterday_time">Dün %s</string>
+  <string name="keyguard_charging_info_last_charged_time_text">Son şarj</string>
+  <string name="keyguard_charging_info_tip_text1">Pil ömrünü uzatmak için cihazınızı her zaman en az %10 şarjda tutun.</string>
+  <string name="keyguard_charging_info_tip_text2">"Cihazınızı aşırı şarj etmeyin. Birden fazla kısa şarj bir gece boyunca şarj etmekten daha iyidir."</string>
+  <string name="keyguard_charging_info_tip_text3">"Ortam sıcaklıği 0°'den düşük olduğunda cihazınızı şarj etmekten kaçının."</string>
+  <string name="keyguard_charging_info_tip_text4">"Cihazınızın aşırı ısınmasını önlemek için şarj ederken aktif olarak kullanmayın."</string>
+  <string name="keyguard_charging_info_tip_text5">Piller normalden daha sıcak olduklarında daha fazla şarj olurlar.</string>
+  <string name="keyguard_charging_info_tip_text6">Ekranı kapatın ve soğutmak için cihazınızdan uzaklaşın.</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Hızlı şarj ediliyor. Ayrıntıları görüntülemek için dokunun.</string>
+  <string name="keyguard_quickly_charging_info_charging_text">Hızlı şarj ediliyor...</string>
+  <string name="keyguard_torch_cover_text">Feneri açık tutmak için düğmeye basılı tutun</string>
+  <string name="lock_screen_date">dd MMMM EEEE</string>
+  <string name="lock_screen_date_12">dd MMMM EEEE</string>
+  <string name="lock_wallpaper_enter">Girin</string>
+  <string name="lock_wallpaper_learn_more">Diğer</string>
+  <string name="lock_wallpaper_see_more">Fazlasını Görüntüle</string>
+  <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
+  <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
+  <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
+  <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
+  <string name="lockscreen_charging_msg">Şarj ediliyor...</string>
+  <string name="lockscreen_emergency_call">Acil Çağrı</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">  Telefonunuzu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuz fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri silinecek.
+  </string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuzu Mi Hesabı kullanarak açmanız istenecek.
+
+  %d saniye sonra tekrar deneyin."</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Telefonu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. Telefonunuz şimdi fabrika ayarlarına geri döndürülecek.</string>
+  <string name="lockscreen_forgot_pattern_button_text">Unuttunuz mu?</string>
+  <string name="lockscreen_glogin_checking_password">Denetleniyor...</string>
+  <string name="lockscreen_glogin_invalid_input">Kullanıcı adı veya şifre geçersiz!</string>
+  <string name="lockscreen_glogin_password_hint">Şifre</string>
+  <string name="lockscreen_glogin_submit_button">Oturum Aç</string>
+  <string name="login_website_in_case_forget_password">Şifrenizi sıfırlamak için \"www.mi.com/micloud\" adresine gidin</string>
+  <string name="missed_call_text">%d cevapsız çağrı</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ile kilit açıldı</string>
+  <string name="notification_missedCallTicker">%s cevapsız çağrı geldi</string>
+  <string name="notification_missedCallTitle">Cevapsız Çağrı</string>
+  <string name="notification_missedCall_call_back">Geri ara</string>
+  <string name="notification_missedCall_message">Mesaj</string>
+  <string name="notification_missedCallsMsg">%s cevapsız çağrı</string>
+  <string name="notification_missedCallsTitle">Cevapsız Çağrılar</string>
+  <string name="notification_network_selection_text">Seçili şebeke (%s) mevcut değil</string>
+  <string name="notification_network_selection_title">Şebeke yok</string>
+  <string name="notification_voicemail_no_vm_number">Bilinmeyen mesaj</string>
+  <string name="notification_voicemail_text_format">%s çağrı</string>
+  <string name="notification_voicemail_title">Yeni Sesli Mesaj</string>
+  <string name="notification_voicemail_title_count">Yeni Sesli Mesaj (%d)</string>
+  <string name="open_camera_hint_text">%s açmak için sola kaydırın </string>
+  <string name="open_remote_center_hint_text">%s açmak için sağa kaydırın </string>
+  <string name="open_wifi_settings">Ağ bağlantısını aç</string>
+  <string name="phone_locked_foget_password">Şifremi unuttum</string>
+  <string name="phone_locked_foget_password_content">"Bu cihazla ilişkili Mi Hesabı kullanarak i.mi.com'da oturum açabilir ve tüm verileri silebilirsiniz. Bu cihazda depolanan tüm kişisel veriler silinecektir. Bundan sonra, cihazı yeniden başlatabilir ve kişileri, mesajları, fotoğrafları ve diğer öğeleri Mi Bulut'tan geri yükleyebilirsiniz. 
+
+Bu cihazdan Mi Hesabınıza oturum açmadıkça bunu yapamazsınız. Aksi takdirde cihazınıza yeniden yazılım yüklemeniz gerekir."</string>
+  <string name="phone_locked_foget_password_footer">"Adımlar:
+i.mi.com adresinde oturum açın, "Telefonu Bul" bölümüne gidin, cihazı seçin ve Cihazı Sil düğmesine basın."</string>
+  <string name="phone_locked_foget_password_header">Şifremi unutursam ne yapmalıyım?</string>
+  <string name="phone_locked_foget_password_ok">Anladım</string>
+  <string name="phone_locked_string">Telefon kilitlendi</string>
+  <string name="phone_locked_timeout_minutes_string">%s dakika sonra tekrar deneyin</string>
+  <string name="phone_locked_timeout_seconds_string">%s saniye içinde tekrar deneyin</string>
+  <string name="symbol_colon">:</string>
+  <string name="unlock_sim_string">Tamam</string>
+  <string name="unlock_string">Kilidi aç</string>
+  <string name="unlocking_sim_card">SIM kartın kilidi açılıyor...</string>
+  <string name="unlockscreen_low_battery">Lütfen, şarj cihazını bağlayın.</string>
+  <string name="unlockscreen_quick_charging_message">%%%d hızlı şarj ediliyor</string>
+  <string name="unlockscreen_recharge_completed">Pil %100 doldu</string>
+  <string name="unlockscreen_recharging_message">Şarj ediliyor: %%%d</string>
+  <string name="wrong_password">Yanlış şifre</string>
+</resources>
