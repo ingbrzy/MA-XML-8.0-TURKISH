@@ -52,14 +52,6 @@
         <item>256K</item>
         <item>1M</item>
     </string-array>
-    <string-array name="select_logd_size_values">
-        <item>32768</item>
-        <item>65536</item>
-        <item>262144</item>
-        <item>1048576</item>
-        <item>4194304</item>
-        <item>16777216</item>
-    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Kapalı</item>
         <item>Günlük arabelleği başına 64K</item>
@@ -77,15 +69,6 @@
         <item>Animasyon ölçeği 5x</item>
         <item>Animasyon ölçeği 10x</item>
     </string-array>
-    <string-array name="window_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animasyon kapalı</item>
         <item>Animasyon ölçeği .5x</item>
@@ -95,15 +78,6 @@
         <item>Animasyon ölçeği 5x</item>
         <item>Animasyon ölçeği 10x</item>
     </string-array>
-    <string-array name="transition_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animasyon kapalı</item>
         <item>Animasyon ölçeği .5x</item>
@@ -112,15 +86,6 @@
         <item>Animasyon ölçeği 2x</item>
         <item>Animasyon ölçeği 5x</item>
         <item>Animasyon ölçeği 10x</item>
-    </string-array>
-    <string-array name="animator_duration_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Yok</item>
@@ -135,20 +100,6 @@
         <item>4K (üstte ölçekli)</item>
         <item>4K (upscaled, güvenli)</item>
         <item>720p, 1080p (çift ekran)</item>
-    </string-array>
-    <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/142</item>
-        <item>720x480/142,güvenli</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213,güvenli</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320,güvenli</item>
-        <item>3840x2160/320</item>
-        <item>3840x2160/320,güvenli</item>
-        <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320|3840x2160/640,güvenli</item>
-        <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Yok</item>
@@ -179,14 +130,6 @@
         <item>En fazla 3 işlem</item>
         <item>En fazla 4 işlem</item>
     </string-array>
-    <string-array name="app_process_limit_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
     <string-array name="usb_configuration_titles">
         <item>Şarj ediliyor</item>
         <item>MTP (Medya Aktarım Protokolü)</item>
@@ -205,17 +148,6 @@
         <item>Çabuk</item>
         <item>Seri</item>
         <item>Ani</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
