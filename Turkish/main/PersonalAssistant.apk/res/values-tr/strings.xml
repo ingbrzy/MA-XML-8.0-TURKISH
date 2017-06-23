@@ -96,6 +96,9 @@
   <string name="launch_enable">Hızlı erişim kartlarını göster</string>
   <string name="launch_function">Özellikleri seçin</string>
   <string name="launch_label">Hızlı erişim</string>
+  <string name="launch_no_dapp_dialog_content">Bu karttan sorumlu ikili uygulama silindi. Bu kartı başka bir kartla değiştirebilirsiniz.</string>
+  <string name="launch_no_dapp_dialog_reset">Klonlu Uygulama Ayarları</string>
+  <string name="launch_no_dapp_dialog_title">Klonlu uygulama silindi</string>
   <string name="launch_noapp_dialog_cancel">İptal</string>
   <string name="launch_noapp_dialog_content">Bu karttan sorumlu uygulama silindi. Bu kartı başka bir kartla değiştirebilirsiniz.</string>
   <string name="launch_noapp_dialog_redownload">Tekrar indir</string>
@@ -131,6 +134,7 @@
   <string name="navigation_network_location_not_enabled_title">Konum servislerini aç</string>
   <string name="navigation_search_automatically_positioned_city">Bulunduğu yeri kullanarak şehir hakkında bilgi edinin</string>
   <string name="navigation_search_current_city">Şu anki şehir:</string>
+  <string name="navigation_search_default_hint">Burada öğe ara</string>
   <string name="navigation_search_no_city_list">Burada hiçbir şehir yok</string>
   <string name="navigation_search_positioning">Konum bilgisi alınıyor...</string>
   <string name="navigation_search_positioning_failed">"Konum alınamadı, şehri elle olarak seçiniz"</string>
@@ -214,5 +218,6 @@
   <string name="wx_paycode">Ödeme</string>
   <string name="wx_scan">Tarayıcı</string>
   <string name="wx_timeline">Anlar</string>
+  <string name="xspace_resolver_activity_title">Uygulama seç</string>
   <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
 </resources>
