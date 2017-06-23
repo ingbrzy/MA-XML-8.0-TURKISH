@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_action_divider_bottom_full">Alttan Tam Ekran</string>
+  <string name="accessibility_action_divider_left_30">Sol %30</string>
+  <string name="accessibility_action_divider_left_50">Sol %50</string>
+  <string name="accessibility_action_divider_left_70">Sol %70</string>
+  <string name="accessibility_action_divider_left_full">Sol Tam Ekran</string>
+  <string name="accessibility_action_divider_right_full">Sağ Tam Ekran</string>
+  <string name="accessibility_action_divider_top_30">Üst %30</string>
+  <string name="accessibility_action_divider_top_50">Üst %50</string>
+  <string name="accessibility_action_divider_top_70">Üst %70</string>
+  <string name="accessibility_action_divider_top_full">Üst Tam Ekran</string>
   <string name="accessibility_airplane_mode">Uçak Modu</string>
   <string name="accessibility_assistant">Kısayol Yardımcısı</string>
   <string name="accessibility_back">Geri</string>
@@ -22,6 +32,7 @@
   <string name="accessibility_data_two_bars">Veri sinyali iki çubuk.</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Bu özellik deneyseldir ve performansı etkileyebilir.</string>
   <string name="accessibility_display_daltonizer_preference_title">Rengi Düzelt</string>
+  <string name="accessibility_divider">Ekran Bölücü</string>
   <string name="accessibility_home">Ana Sayfa</string>
   <string name="accessibility_ime_switch_button">Giriş usulunun düğmesini değiştir.</string>
   <string name="accessibility_managed_profile">İş Profili</string>
@@ -65,6 +76,7 @@
   <string name="adb_warning_title">USB Hata Ayıklamaya izin verilsin mi?</string>
   <string name="allow_mock_location">Sahte konumlara izin ver</string>
   <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
+  <string name="always_use_accessory">Bu USB aksesuarını varsayılan olarak kullan</string>
   <string name="always_use_device">Bu USB cihazı varsayılan olarak kullan</string>
   <string name="animator_duration_scale_title">Animatör süresi ölçeği</string>
   <string name="apn_settings_not_available">Bu kullanıcı için Erişim Noktası Adının ayarları kullanılamıyor</string>
@@ -231,6 +243,8 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="dlg_confirm_kill_storage_users_title">USB depolamayı aç</string>
   <string name="dlg_error_title">USB işlemi başarısız</string>
   <string name="dlg_ok">Tamam</string>
+  <string name="dock_forced_resizable">Uygulama, bölmeli ekranda çalışmayabilir.</string>
+  <string name="dock_non_resizeble_failed_to_dock_text">Uygulama, bölünmüş ekranı desteklemiyor.</string>
   <string name="drive_mode_tip">"Araç Modu\'undasınız"</string>
   <string name="enable_adb">USB Hata Ayıklama</string>
   <string name="enable_adb_summary">USB bağlandığında Hata Ayıklama Modu</string>
@@ -290,9 +304,12 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyumaz</string>
   <string name="kilobyte_per_second">K/sn</string>
   <string name="label_view">Gözat</string>
+  <string name="launch_defaults_none">Varsayılan ayar yok</string>
+  <string name="launch_defaults_some">Bazı varsayılanları ayarla</string>
   <string name="legacy_dhcp_client_summary">"Yeni Android DHCP istemcisi yerine Lollipop'tan DHCP istemcisini kullanın."</string>
   <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
+  <string name="loading_desktop">Biraz bekleyin…</string>
   <string name="lockscreen_carrier_default">Şebeke yok</string>
   <string name="local_backup_password_summary_change">Masaüstü tam yedeklemeler için şifreyi kaldırmak veya değiştirmek için dokunun</string>
   <string name="local_backup_password_summary_none">Masaüstü tam yedeklemeleri şu anda korunmuyor</string>
@@ -300,6 +317,7 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Yeni şifre ve onay eşleşmiyor</string>
   <string name="local_backup_password_toast_success">Yeni yedekleme şifresini ayarla</string>
   <string name="local_backup_password_toast_validation_failure">Yedek şifre ayarlanamıyor</string>
+  <string name="lockscreen_carrier_default">Şebeke yok</string>
   <string name="long_screenshot_not_support_msg">"Geçerli uygulama ekran görüntüsü almayı desteklemiyor"</string>
   <string name="long_screenshot_out_of_memory_error">Resim çok büyük</string>
   <string name="long_screenshot_processing">İşleniyor…</string>
@@ -362,6 +380,7 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="notification_otg_unknow_in">OTG cihazı bağlandı</string>
   <string name="notification_otg_unknow_out">OTG Cihaz bağlantısı kesildi</string>
   <string name="notification_template_text">" bildirim var. Görüntülemek için dokunun."</string>
+  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM kilidini aç</string>
   <string name="oem_unlock_enable_summary">Önyükleyicinin kilidinin açılmasına izin ver</string>
   <string name="oldman_airplane_mode_text">Uçak Modu</string>
@@ -403,8 +422,10 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Yakındaki bir ağı seç</string>
   <string name="recent_task_app_info_text">Bilgi</string>
+  <string name="recent_task_cleaning">Uygulamar temizleniyor…</string>
   <string name="recent_task_lock_text">Kilitle</string>
   <string name="recent_task_unlock_text">Kilidi Aç</string>
+  <string name="recents_launch_error_message">%s başlatılamadı.</string>
   <string name="reject_call">Çağrıyı reddet</string>
   <string name="remaining_length_format">%1$s kaldı</string>
   <string name="return_to_incall_screen">Çağrıya dön</string>
@@ -421,6 +442,7 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="screen_pinning_positive">Anladım</string>
   <string name="screen_pinning_title">Ekran iğnelendi</string>
   <string name="screen_zoom_summary_custom">Özel (%d)</string>
+  <string name="screen_zoom_summary_default">Varsayılan</string>
   <string name="screen_zoom_summary_extremely_large">Kocaman</string>
   <string name="screen_zoom_summary_large">Büyük</string>
   <string name="screen_zoom_summary_small">Küçük</string>
@@ -516,6 +538,13 @@ Kilitlemek için aşağı kaydırın "</string>
   <string name="torch_opened">El Feneri açık</string>
   <string name="track_frame_time">GPU görüntüleme profili</string>
   <string name="transition_animation_scale_title">Geçiş animasyon ölçeği</string>
+  <string name="tts_default_lang_summary">Konuşulan metin için dile özgü ses ayarları</string>
+  <string name="tts_default_lang_title">Dil</string>
+  <string name="tts_default_pitch_summary">Sentezlenen konuşmanın tonunu etkiler</string>
+  <string name="tts_default_pitch_title">Derece</string>
+  <string name="tts_default_rate_summary">Metnin konuşma hızı</string>
+  <string name="tts_default_rate_title">Konuşma Hızı</string>
+  <string name="tts_default_sample_string">Bu konuşma sentezinin bir örneğidir</string>
   <string name="tts_engine_network_required">Bu dilde, metinden-sese çıkışı için çalışan bir ağ bağlantısı gereklidir.</string>
   <string name="tts_engine_preference_section_title">Tercih Edilen Sentezleyici</string>
   <string name="tts_engine_security_warning">Bu konuşma sentezleyicisi, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere konuşulacak tüm metni alabilmektedir. %s sentezleyici bunu sağlar. Bu konuşma sentezleyicisinin kullanımını etkinleştirilsin mi?</string>
@@ -582,6 +611,7 @@ Kilitlemek için aşağı kaydırın "</string>
   <string name="vpn_title">VPN etkinleştirildi</string>
   <string name="vpn_title_long">%s VPN kullanılarak bağlandı</string>
   <string name="wait_for_debugger">Hata Ayıklama için bekle</string>
+  <string name="wait_for_debugger_summary">Hata ayıklama uygulaması, hata ayıklayıcının yürütmeden önce takılmasını bekler</string>
   <string name="weather_description">%1$s | %2$s &gt;</string>
   <string name="weather_description_no_aqi">%1$s &gt;</string>
   <string name="weather_publish_time">%1$s güncellendi</string>
@@ -623,5 +653,5 @@ Kilitlemek için aşağı kaydırın "</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_verbose_logging">Kablosuz Ayrıntılı Günlüğü Etkinleştir</string>
   <string name="wifi_verbose_logging_summary">Wi-Fi günlük seviyesini artırın, her RSSI başına bir Wi-Fi Seçici göster</string>
-  <string name="window_animation_scale_title">Pencere animasyon ölçeği</string>
+  <string name="window_animation_scale_title">Pencere Animasyon Ölçeği</string>
 </resources>
