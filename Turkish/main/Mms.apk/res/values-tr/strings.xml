@@ -126,12 +126,15 @@
   <string name="delete_message">Sil</string>
   <string name="delete_phrase">Cevabı sil</string>
   <string name="delete_unlocked">Kilitli mesajları sil</string>
+  <string name="delete_verification_code_sms_message">Tek seferde tüm şifreler silinsin mi?</string>
+  <string name="delete_verification_code_sms_title">Tek seferde şifreleri temizle</string>
   <string name="delete_wild_sims">Numaraları sil</string>
   <string name="delete_wild_sims_confirm">Bu telefondaki seçili numaralara ait tüm mesajlar silinecek. Geri yüklemek için i.mi.com adresi kullanabilirsiniz.</string>
   <string name="delete_wild_sims_title">Seçili numaraları sil</string>
   <string name="delivery_report_activity">Sevkiyat raporu</string>
   <string name="delivery_toast_body">Mesaj %s tarafından alındı.</string>
-  <string name="disable_notifications_dialog_message">Varsayılan Mesajlaşma uygulamasından gelen kısa mesaj bildirimlerinin yinelenmesi durdurulsun mu?</string>
+  <string name="disable_notifications_dialog_message">Varsayılan Mesajlaşma uygulamasında yinelenen metin mesajı bildirimleri durdurulsun mu?</string>
+  <string name="disabled">Kapalı</string>
   <string name="discard">Reddet</string>
   <string name="discard_message">Reddet</string>
   <string name="discard_message_reason">Mesajınız geçerli alıcısı olmadığı için işleme alınmayacak.</string>
@@ -146,12 +149,14 @@
   <string name="duration_sec">Süre (%s sn)</string>
   <string name="duration_selector_title">"Slayt Süresi"</string>
   <string name="duration_zero">Süre sıfır saniyeden büyük olmalıdır.</string>
+  <string name="earlier">Erken</string>
   <string name="edit">Düzenle</string>
   <string name="edit_nickname_for_nocontact">Önce bir alıcı eklemeniz gerekiyor</string>
   <string name="edit_nickname_for_nocontact_by_robot">Önce bir alıcı eklemeniz gerekiyor</string>
   <string name="edit_phrase">Hızlı Cevabı Düzenle</string>
   <string name="edit_slide_activity">Slaydı Düzenle</string>
   <string name="edit_slideshow_activity">Slayt gösterisini düzenle</string>
+  <string name="enabled">Açık</string>
   <string name="enable_password_protect">Şifre gerekiyor</string>
   <string name="enable_visible_pattern_title">Görünür desen çiz</string>
   <string name="english_subject_limit">40 karakter sınırı</string>
@@ -175,6 +180,7 @@
   <string name="fake_cell_detection_entry">Sahte baz istasyonu tespit edildi</string>
   <string name="fake_cell_safe_hint">Bu mesaj güvenli</string>
   <string name="fake_cell_timeout_hint">Güvenlik denetimi başarısız</string>
+  <string name="favorite_at_time">Favoride: %1s</string>
   <string name="fdn_check_failure">Sadece sabit arama numaralarınıza mesaj gönderebilirsiniz.</string>
   <string name="festival">Hitaplar</string>
   <string name="festival_continue">Tamam</string>
@@ -204,6 +210,10 @@
   <string name="group_message">Grup mesajı</string>
   <string name="group_message_failed_title">"%d kişiye mesaj gönderilemedi"</string>
   <string name="group_resend_message">Tekrar gönder (%d)</string>
+  <string name="group_verification_codes_summary">Bir kerelik parolaları otomatik olarak grupla</string>
+  <string name="group_verification_codes_title">OTP mesajlar grubu</string>
+  <string name="guild_add_attachments">İfadeler ve diğer öğeleri eklemek için dokunun</string>
+  <string name="guild_add_recipients">Kişilerden alıcı eklemek için dokunun</string>
   <string name="guild_add_attachments">Diğer öğeler veya ifade eklemek için dokunun</string>
   <string name="guild_add_recipients">Kişilerden alıcı eklemek için dokunun</string>
   <string name="guild_msim_switcher">SIM kartı değiştirmek için dokunun</string>
@@ -409,6 +419,8 @@
   <string name="pref_notification_settings_title">Bildirimler</string>
   <string name="pref_other_title">Ek Ayarlar</string>
   <string name="pref_show_blocked_messages_summary">Engellenen SMS konuşmalar listesinde göster</string>
+  <string name="pref_show_list_avatar_summary">Liste görünümünde profil fotoğraflarını ve iletişim bilgilerini göster</string>
+  <string name="pref_show_sms_template_entry_summary">"SMS'de bir kerelik şifreleri algıla"</string>
   <string name="pref_show_sms_template_in_summary">Bir kez kullanılan parolaların SMS mesajlarını otomatik olarak algıla</string>
   <string name="pref_show_sms_template_summary">Mi Mesajda akıllı özellikleri kullanmayı açarsanız kodları kopyalayabilir, dengeleri kontrol edebilirsiniz vb...</string>
   <string name="pref_smart_messages_settings">Akıllı Mesajlar</string>
@@ -485,6 +497,7 @@
   <string name="prvate_contact">Özel kişiler</string>
   <string name="quick_reply">Cevapla</string>
   <string name="rate_limit_surpassed">Tamam</string>
+  <string name="received_at_time">Alındı: %1s</string>
   <string name="received_label">"Alındı: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Alıcı: "</string>
@@ -550,6 +563,7 @@
   <string name="select_local_video">Videoyu seç</string>
   <string name="select_message_send_sim">SIM kartı seç</string>
   <string name="select_recipient">Alıcıyı seç</string>
+  <string name="select_sim">SIM Kartı seç</string>
   <string name="select_top_text">Metin üstte</string>
   <string name="send">Gönder</string>
   <string name="send_hms_editor_hints">Mi Mesaj</string>
@@ -565,6 +579,7 @@
   <string name="send_to">Kime:</string>
   <string name="send_to_count">%1$s mesaj gönderildi</string>
   <string name="send_to_index_contact">%1$s/%2$s</string>
+  <string name="sent_at_time">Gönderim: %1s</string>
   <string name="sent_label">"Gönderildi: "</string>
   <string name="service_message_not_found">Mesajın süresi doldu veya kullanılamıyor.</string>
   <string name="service_network_problem">"Ağ sorunu nedeniyle gönderilemedi."</string>
@@ -595,6 +610,9 @@
   <string name="sms_full_title">Metin mesaj hafızası dolu</string>
   <string name="sms_rejected_body">Gelen bir mesaj bilinmeyen bir nedenden dolayı reddedildi.</string>
   <string name="sms_rejected_title">Kısa mesaj reddedildi</string>
+  <string name="sms_report_dialog_content">"Rapor gönderilemedi, tekrar deneyin."</string>
+  <string name="sms_report_dialog_retry">Tekrar deneyin</string>
+  <string name="sms_report_dialog_title">Tekrar deneyin</string>
   <string name="sms_report_failed">"Rapor gönderilemedi!"</string>
   <string name="sms_report_success">Rapor iletildi</string>
   <string name="snippet_audio">[ses]</string>
@@ -631,6 +649,8 @@
   <string name="storage_unavailable">Yeterli alan yok!</string>
   <string name="subject_hint">Konu</string>
   <string name="subject_label">"Konu: "</string>
+  <string name="switch_to_editor">Editör Modu</string>
+  <string name="switch_to_menu">Menü Modu</string>
   <string name="text_in_popup_saved_to_clipboard">Panoya kopyalandı</string>
   <string name="text_message">Metin Mesajı</string>
   <string name="timed_message_expired_title">%d zamanlı mesaj gönderilemedi</string>
@@ -644,6 +664,7 @@
   <string name="title_red_package">Zengin ve iyi şanslı olun</string>
   <string name="title_send_red_package">Kızıl Paketi kontrol et</string>
   <string name="title_show_blocked_messages">Engellenen Mesajları Göster</string>
+  <string name="title_show_list_avatar">Profil fotoğraflarını göster</string>
   <string name="title_show_sms_template">Doğrulama kodu için SMS kontrolü yap</string>
   <string name="title_show_sms_template_in">OTP için SMS Kontrolu</string>
   <string name="title_timed_message_dialog">Zamanlı mesajı ayarla</string>
@@ -652,6 +673,7 @@
   <string name="to_count">%d alıcı</string>
   <string name="to_label">"Kime "</string>
   <string name="to_send_wrapper">"%s tarihinde gönderilecek"</string>
+  <string name="today">Bugün</string>
   <string name="too_many_attachments">"%1$s eki geçemez. Sadece ilk %2$s ek eklenecek."</string>
   <string name="too_many_recipients">"Mesaj çok fazla (%1$s) alıcıya sahip. %2$s kişiden fazla alıcı ekleyemezsiniz."</string>
   <string name="too_many_unsent_mms">"Mesaj şu anda gönderilemiyor. Gönderilmemiş çok fazla multimedya mesajı var."</string>
@@ -687,6 +709,8 @@ Yapılan girişim: %s."</string>
   <string name="user_agreement3">" ve "</string>
   <string name="user_agreement4">Gizlilik Kuralları</string>
   <string name="user_agreement5">Tamam\'a dokunduğunuzda bu belgede belirtilen koşulları kabul etmiş sayılırsınız.</string>
+  <string name="verification_code_icon_name">D</string>
+  <string name="verification_code_list_title">Doğrulama Kodu</string>
   <string name="view">Görüntüle</string>
   <string name="view_bookmark">Orjinal mesaja bak</string>
   <string name="view_hms_attachment_fail">"Resim indirilemedi"</string>
@@ -702,4 +726,5 @@ Yapılan girişim: %s."</string>
   <string name="xiaomi_service_number">Hizmet Numarası</string>
   <string name="yellowpage_recommend_msg">"MIUI'nın Mesajlaşma özelliklerini kontrol edin"</string>
   <string name="yes">Tamam</string>
+  <string name="yesterday">Dün</string>
 </resources>
