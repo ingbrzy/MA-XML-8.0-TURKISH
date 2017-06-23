@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_hide_mode">MIUI Pil Tasarrufu Hakkında</string>
   <string name="action_bar_delete">Sil</string>
   <string name="action_settings">Ayarlar</string>
   <string name="action_title_optimize">İyi hale getir</string>
@@ -32,12 +33,17 @@
   <string name="config_restrict_function_title">Arkaplan uygulamalarını kısıtla</string>
   <string name="config_restrict_running_description">Uygulama güçten tasarruf için kapatıldı</string>
   <string name="config_restrict_running_title">Arkaplan faaliyetini sınırla</string>
+  <string name="config_restrict_running_warning">Uygulama arkaplanda kapatılacak, belki normal çalışamayacak</string>
+  <string name="config_scenario_policies_title">Senaryolar</string>
   <string name="config_suggest_description">"Önemli süreçlerini korumak için uygulamalar ve faaliyetlerini belirle.
 Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."</string>
   <string name="config_suggest_suffix_title">MIUI Pil Tasarrufu (önerilir)</string>
   <string name="config_suggest_title">MIUI Pil Tasarrufu</string>
+  <string name="disable_hide_mode">MIUI Pil Tasarrufu kapalı</string>
+  <string name="disable_hide_mode_warning">"MIUI Pil Tasarrufu'nu devre dışı bırakmak daha fazla güç tüketimine neden olabilir"</string>
   <string name="disabled">Kapalı</string>
-  <string name="empty_title_apps_container_list">Uygulama Yok</string>
+  <string name="empty_title_apps_container_list">Uygulama yok</string>
+  <string name="enable_hide_mode">MIUI Pil Tasarrufu etkin</string>
   <string name="error_filename_too_long">Girdiğiniz dosya ismi çok uzun.</string>
   <string name="foreground_change">Uygulama önplanda çalışıyor</string>
   <string name="fragment_nonesys_listempty">Yüklü uygulama yok</string>
@@ -50,8 +56,10 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="hide_mode_desc">Uygulama arkaplanda çalıştığında, aktiviteler pil kullanım ne şekilde etkileyecek diye izlenecek.</string>
   <string name="hide_mode_desc_title">"Enerji Tüketimini Yönet"</string>
   <string name="hide_mode_ultimate_desc">Ultimate Modu açık. Arkaplanda uygulamalar donmuş olacak. Ultimate Modundan çıkmak için Pil Tasarrufunu kapatın.</string>
+  <string name="hide_system_app">Sistem uygulamalarını gizle</string>
   <string name="high">Performans</string>
   <string name="hints_loading_text">Biraz bekleyin...</string>
+  <string name="invalid_size_value">"Paket boyutu elde edilemedi."</string>
   <string name="keep_connect_description">Uygulamalar arkaplanda ağa bağlanıyor olabilir</string>
   <string name="keep_connect_title">Bağlantıyı koru</string>
   <string name="location_disable_description">Sürekli erişim kısıtlı olduğunda arkaplanda uygulamaları sadece kısa bir süre için konum servislerine erişebilir</string>
@@ -173,6 +181,8 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="quick_disconnect_title">Ayrılmış</string>
   <string name="ragment_sys_listempty">Sistem uygulaması yok</string>
   <string name="reading">Okuma Modu</string>
+  <string name="scenario_policies_summary">Senaryoya göre enerji tasarrufu</string>
+  <string name="scenario_policies_title">Güç Tasarruf Politikasının Senaryoları</string>
   <string name="screen_off">Ekran Kapalı</string>
   <string name="screen_off_10_min">10 dakika boyunca ekran kapalı</string>
   <string name="screen_on">Ekran Açık</string>
@@ -182,7 +192,14 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="set_cpufreq_max">Azami CPU Frekansı</string>
   <string name="set_lcd_mode">Ekran Modu</string>
   <string name="settings_safetylegal_activity_loading">Biraz bekleyin...</string>
+  <string name="show_system_app">Sistem uygulamalarını göster</string>
+  <string name="sleep_config_enhance_description">Gece beklemesinde güç kullanımı artacaktır</string>
+  <string name="sleep_config_enhance_title">Uyku Koruma Modu</string>
   <string name="still">Resim</string>
   <string name="ui">Standart</string>
   <string name="user_define_mode">Adı</string>
+  <string name="vip_feedback">Vip Geribildirim</string>
+  <string name="vip_feedback_apply">Vip Geribildirimi uygula</string>
+  <string name="vip_feedback_apply_msg">"Vip Geribildirimi uygulamak için lütfen qiufeng@xiaomi.com ile iletişime geçin."</string>
+  <string name="vip_feedback_enable">Otomatik Vip Geribildirim etkin</string>
 </resources>
