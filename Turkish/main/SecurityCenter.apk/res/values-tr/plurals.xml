@@ -8,6 +8,18 @@
         <item quantity="other">%d SMS</item>
         <item quantity="one">1 SMS</item>
     </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d diğer kullanıcı bunu işaretledi</item>
+        <item quantity="one">%d diğer kullanıcı bunu işaretledi</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d anahtar kelime</item>
+        <item quantity="one">%d anahtar kelime</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d numara</item>
+        <item quantity="one">%d numara</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">%d uygulamaya ilişkin veri kullanımı izlenmiyor</item>
         <item quantity="one">%d uygulamaya ilişkin veri kullanımı izlenmiyor</item>
@@ -15,6 +27,22 @@
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">%d uygulamaya ilişkin veri kullanımı izleniyor</item>
         <item quantity="one">%d uygulamaya ilişkin veri kullanımı izleniyor</item>
+    </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d uygulama</item>
+        <item quantity="one">%d uygulama</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">"Zaten %s günlük veri sınırlarını kullandınız."</item>
+        <item quantity="one">"Zaten %s günlük veri sınırını kullandınız."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"Zaten %s günlük veri sınırını kullandınız.
+
+Mobil verileri yeniden açarsanız, operatörünüz ek veriler için ücret isteyebilir."</item>
+        <item quantity="one">"Zaten %s günlük veri sınırını kullandınız.
+
+Mobil verileri yeniden açarsanız, operatörünüz ek veriler için ücret isteyebilir."</item>
     </plurals>
     <plurals name="hints_traffic_saving_optimized">
         <item quantity="other">%d uygulama iyi hale getirildi</item>
@@ -88,6 +116,15 @@
         <item quantity="other">%d öğe iyi hale getirilebilir</item>
         <item quantity="one">%d öğe iyi hale getirilebilir</item>
     </plurals>
+    <plurals name="people">
+        <item quantity="other">%1$d kişi tarafından indirildi</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">%1$d kişi tarafından indirildi</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">%1$d kişi tarafından indirildi</item>
+    </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d görüntüledi</item>
         <item quantity="zero">%1$d görüntüledi</item>
@@ -128,9 +165,21 @@
         <item quantity="other">"%d uygulamanın Root Erişim izni yok"</item>
         <item quantity="one">"%d uygulamanın Root Erişim izni yok"</item>
     </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d istisna</item>
+        <item quantity="one">%d istisna</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">"%d gün içinde operatörün veri kullanım istatistikleri eşitlenmedi"</item>
+        <item quantity="one">"%d gün içinde operatörün veri kullanım istatistiği eşitlenmedi"</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">%d uygulama için güncelleme var.</item>
         <item quantity="one">%d uygulama için güncelleme var.</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d günden beri geçen son kontrol</item>
+        <item quantity="one">%d günden beri geçen son kontrol</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d risk,</item>
@@ -152,9 +201,21 @@
         <item quantity="other">%1$d problem düzeltildi. Şimdi herşey düzgün gözüküyor</item>
         <item quantity="one">%1$d problem düzeltildi. Şimdi herşey düzgün gözüküyor</item>
     </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Tehlikeli Uygulama: %d</item>
+        <item quantity="one">Tehlikeli Uygulama: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Trojanlar: %d</item>
+        <item quantity="one">Trojan: %d</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d uygulama gizlilik riskleri içeriyor</item>
         <item quantity="one">%d uygulama gizlilik riskleri içeriyor</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"%d saniye bekleyin ve tekrar deneyin. "</item>
+        <item quantity="one">"%d saniye bekleyin ve tekrar deneyin. "</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Parola en az %d harf içermeli.</item>
@@ -217,7 +278,11 @@
         <item quantity="other">%s uygulama koruma içermiyor</item>
         <item quantity="one">%s uygulama koruma içermiyor</item>
     </plurals>
-	<plurals name="section_clear_acc_item_right_tips">
+	<plurals name="scan_result_description">
+        <item quantity="other">%d ödeme riski bulundu</item>
+        <item quantity="one">%d ödeme riski bulundu</item>
+    </plurals>
+    <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d kilitli uygulama temizlenmek için bekliyor</item>
         <item quantity="one">%d kilitli uygulama temizlenmek için bekliyor</item>
     </plurals>
@@ -261,6 +326,14 @@
         <item quantity="other">%d kez erişti</item>
         <item quantity="one">%d kez erişti</item>
     </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">%d izin verildi</item>
+        <item quantity="one">%d izin verildi</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">%d izin iste</item>
+        <item quantity="one">%d izin iste</item>
+    </plurals>
     <plurals name="app_manager_permission_manager_summary">
         <item quantity="other">%d izin aldı</item>
         <item quantity="one">%d izin aldı</item>
@@ -272,5 +345,17 @@
     <plurals name="app_manager_reject_count">
         <item quantity="other">%d kez engellendi</item>
         <item quantity="one">%d kez engellendi</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">"%d gündür kullanılmadı"</item>
+        <item quantity="one">"%d gündür kullanılmadı"</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">"%d aydır kullanılmadı"</item>
+        <item quantity="one">"%d aydır kullanılmadı"</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">"%d yıl kullanılmadı"</item>
+        <item quantity="one">"%d yıl kullanılmadı"</item>
     </plurals>
 </resources>
