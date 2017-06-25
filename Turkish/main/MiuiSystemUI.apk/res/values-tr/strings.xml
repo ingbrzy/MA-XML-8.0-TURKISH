@@ -70,7 +70,6 @@
   <string name="account_info">Giriş yapılmadı</string>
   <string name="activate_usb_message">Bu özelliği etkinleştirmek için bir SIM kart yerleştirin</string>
   <string name="activate_usb_title">USB\'yi etkinleştir</string>
-  <string name="always_use_accessory">Bu USB aksesuarı varsayılan olarak kullan</string>
   <string name="adb_keys_warning_message">Daha önce yetkilendirdiğiniz tüm bilgisayarlardan USB Hata Ayıklama erişimini iptal edilsin mi?</string>
   <string name="adb_warning_message">USB Hata Ayıklama yalnızca geliştirme amacıyla sunulmuştur. Verileri bilgisayarınızla cihazınız arasında kopyalamak, bildirimde bulunmaksızın cihazınıza uygulamaları yüklemek ve günlük verilerini okumak için kullanın.</string>
   <string name="adb_warning_title">USB Hata Ayıklamaya izin verilsin mi?</string>
@@ -310,7 +309,6 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="loading_desktop">Biraz bekleyin…</string>
-  <string name="lockscreen_carrier_default">Şebeke yok</string>
   <string name="local_backup_password_summary_change">Masaüstü tam yedeklemeler için şifreyi kaldırmak veya değiştirmek için dokunun</string>
   <string name="local_backup_password_summary_none">Masaüstü tam yedeklemeleri şu anda korunmuyor</string>
   <string name="local_backup_password_title">Masaüstü yedekleme şifresi</string>
