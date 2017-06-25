@@ -28,6 +28,164 @@
         <item>Engellendi</item>
         <item>Geçici zayıf bağlantıdan kaçınılıyor</item>
     </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Asla kontrol etme</item>
+        <item>Sadece DRM içeriğini kontrol et</item>
+        <item>Daima kontrol et</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Asla HDCP kontrolünü kullanma</item>
+        <item>Yalnızca DRM içeriği için HDCP kontrolünü kullan</item>
+        <item>Her zaman HDCP kontrolünü kullan</item>
+        </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Kapalı</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Kapalı</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Kapalı</item>
+        <item>Günlük arabelleği başına 64K</item>
+        <item>Günlük arabelleği başına 256K</item>
+        <item>Günlük arabelleği başına 1M</item>
+        <item>Günlük arabelleği başına 4M</item>
+        <item>Günlük arabelleği başına 16M</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği .5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1.5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
+        </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği .5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1.5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği .5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1.5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Yok</item>
+        <item>480p</item>
+        <item>480p (güvenli)</item>
+        <item>720p</item>
+        <item>720p (güvenli)</item>
+        <item>1080p</item>
+        <item>1080p (güvenli)</item>
+        <item>4K</item>
+        <item>4K (güvenli)</item>
+        <item>4K (üst çözünürlük)</item>
+        <item>4K (üst çözünürlük, güvenli)</item>
+        <item>720p, 1080p (çift ekran)</item>
+    </string-array>
+     <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480/142</item>
+        <item>720x480/142,güvenli</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213,güvenli</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320,güvenli</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,güvenli</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,güvenli</item>
+        <item>1280x720/213;1920x1080/320</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Yok</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafikler)</item>
+        <item>"GlGetError'da arama yığını"</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Kapalı</item>
+        <item>Dikdörtgen olmayan kırpma bölgesini mavi çiz</item>
+        <item>Test edilmiş çizim komutlarını yeşil renkli vurgula</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Kapalı</item>
+        <item>Ekranda çubuğu olarak</item>
+        <item>Adb kabuğunda dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Kapalı</item>
+        <item>Üzerine yazılmış alanları göster</item>
+        <item>Deuteranomaly için alanları göster</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standart sınır</item>
+        <item>Arkaplan işlemleri yok</item>
+        <item>En fazla 1 işlem</item>
+        <item>En fazla 2 işlem</item>
+        <item>En fazla 3 işlem</item>
+        <item>En fazla 4 işlem</item>
+        </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Şarj ediliyor...</item>
+        <item>MTP (Medya Aktarım Protokolü)</item>
+        <item>PTP (Resim Aktarım Protokolü)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Ses Kaynağı</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Çok Yavaş</item>
+        <item>Yavaş</item>
+        <item>Normal</item>
+        <item>Hızlı</item>
+        <item>Çok Hızlı</item>
+        <item>Çok Çabuk</item>
+        <item>Seri</item>
+        <item>Aşırı Seri</item>
+        <item>Ani</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Titreşimli (varsayılan)</item>
+        <item>Doğal</item>
+        <item>Standart</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Geliştirilmiş renkler</item>
+        <item>Gözle görülen doğal renkler</item>
+        <item>Dijital içerik için optimize edilmiş renkler</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>%0</item>
+        <item>%50</item>
+        <item>%100</item>
+    </string-array>
     <string-array name="status_bar_style_entries">
         <item>Birleştirilmiş</item>
         <item>Ayrı Ayrı</item>
@@ -37,14 +195,14 @@
         <item>Avrupa</item>
         <item>Afrika</item>
         <item>Asya</item>
-        <item>Australya</item>
+        <item>Avustralya</item>
         <item>Pasifik</item>
         <item>Tümü</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 saniye</item>
         <item>30 saniye</item>
-        <item>1 dakika</item>
+        <item>1 minute</item>
         <item>2 dakika</item>
         <item>5 dakika</item>
         <item>10 dakika</item>
@@ -71,70 +229,29 @@
         <item>10 dakika</item>
         <item>30 dakika</item>
     </string-array>
-     <string-array name="entries_font_size">
+    <string-array name="entries_font_size">
         <item>Küçük</item>
-        <item>Normal</item>
+        <item>Varsayılan</item>
         <item>Büyük</item>
         <item>Kocaman</item>
     </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Çok Yavaş</item>
-        <item>Yavaş</item>
-        <item>Normal</item>
-        <item>Hızlı</item>
-        <item>Daha Hızlı</item>
-        <item>Çok Hızlı</item>
-        <item>Çabuk</item>
-        <item>Çarçabuk</item>
-        <item>Anlık</item>
-    </string-array>
-    <string-array name="tts_pitch_entries">
-        <item>Çok Düşük</item>
-        <item>Düşük</item>
-        <item>Normal</item>
-        <item>Yüksek</item>
-        <item>Çok Yüksek</item>
-    </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>
-    <string-array name="color_mode_names">
-        <item>Titreşimli (varsayılan)</item>
-        <item>Doğal</item>
-        <item>Standart</item>
-    </string-array>
-    <string-array name="color_mode_descriptions">
-        <item>Geliştirilmiş renkler</item>
-        <item>Gözle görülen doğal renkler</item>
-        <item>Dijital içerik için optimize edilmiş renkler</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>%0</item>
-        <item>%50</item>
-        <item>%100</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
-        <item>Push düğmesi</item>
-        <item>Emsal cihazdan PIN</item>
+        <item>Butona basın</item>
+        <item>Akran cihazından PIN</item>
         <item>Bu cihazdan PIN</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Bağlandı</item>
-        <item>Davet edildi</item>
+        <item>Davetli</item>
         <item>Başarısız</item>
-        <item>Kullanılabilir</item>
-        <item>Menzil dışında</item>
+        <item>Mevcut</item>
+        <item>Menzil dışı</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 dakika</item>
         <item>5 dakika</item>
         <item>1 saat</item>
-        <item>Zaman aşımı yok</item>
+        <item>Asla zaman aşımına uğrama</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Zayıf</item>
@@ -143,15 +260,15 @@
         <item>Mükemmel</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>Herzaman açık kalsın</item>
-        <item>Sadece şarja bağlıyken</item>
+        <item>Daima</item>
+        <item>Sadece prize takılıyken</item>
         <item>Asla</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Herzaman açık kalsın</item>
-        <item>Sadece şarja bağlıyken</item>
+        <item>Daima</item>
+        <item>Sadece prize takılıyken</item>
         <item>Asla</item>
-    </string-array>
+        </string-array>
     <string-array name="data_usage_data_range">
         <item>Son 30 gün</item>
         <item>Kullanım döngüsünü ayarla...</item>
@@ -161,20 +278,10 @@
         <item>Sadece 5 GHz</item>
         <item>Sadece 2.4 GHz</item>
     </string-array>
-    <string-array name="sim_card_data_range">
-        <item>Son 4 basamak</item>
-        <item>İlk 4 basamak</item>
-    </string-array>
     <string-array name="usage_stats_display_order_types">
-        <item>Kullanım süresi</item>
-        <item>Son kez kullanım</item>
-        <item>Uygulama adı</item>
-    </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
+        <item>Kullanım zamanı</item>
+        <item>Son kullanılan zaman</item>
+        <item>Uygulama Adı</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Yok</item>
@@ -184,10 +291,10 @@
     <string-array name="wifi_phase2_entries">
         <item>Yok</item>
         <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
+    <item>MSCHAP</item>
+    <item>MSCHAPV2</item>
         <item>GTC</item>
-    </string-array>
+        </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Statik</item>
@@ -195,12 +302,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Yok</item>
         <item>Elle</item>
-        <item>Otomatik Proxy Yapılandırması</item>
-    </string-array>
-    <string-array name="emergency_tone_entries">
-        <item>Yok</item>
-        <item>Bildirim</item>
-        <item>Titreşim</item>
+        <item>Proxy Otomatik Yapılandırması</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Yok</item>
@@ -226,21 +328,17 @@
         <item>IS95B</item>
         <item>IS95A</item>
     </string-array>
-    <string-array name="app_install_location_entries">
-        <item>Dahili Depolama</item>
-        <item>Çıkartılabilir SD Kart</item>
-        <item>Sistem karar versin</item>
-    </string-array>
     <string-array name="mvno_type_entries">
         <item>Yok</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+    <item>ICCID</item>
     </string-array>
-    <string-array name="app_ops_permissions">
-        <item>İzin ver</item>
-        <item>Yoksayılan</item>
-        <item>Daima sor</item>
+    <string-array name="app_install_location_entries">
+        <item>Dahili Cihaz Depolaması</item>
+        <item>Çıkarılabilir SD Kart</item>
+        <item>Sistem karar versin</item>
     </string-array>
      <string-array name="app_ops_categories">
         <item>Konum</item>
@@ -302,7 +400,7 @@
         <item>yapı yardımcısı</item>
         <item>ekran görüntüsü alma yardımcısı</item>
         <item>telefon durumunu okur</item>
-        <item>add voicemail</item>
+        <item>sesli posta ekler</item>
         <item>sip kullanır</item>
         <item>giden çağrıyı işler</item>
         <item>parmakizi</item>
@@ -426,189 +524,88 @@
         <item>Mavi üzerine sarı</item>
         <item>Özel</item>
     </string-array>
-    <string-array name="select_runtime_titles">
-        <item>Dalvik</item>
-        <item>ART</item>
-        <item>ART (Hata Ayıkla)</item>
-    </string-array>
-    <string-array name="select_runtime_summaries">
-        <item>Dalvik Kullan</item>
-        <item>ART Kullan</item>
-        <item>ART-Hata Ayıklama Kullan</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
-        <item>Asla denetleme</item>
-        <item>DRM içeriği yalnızca kontrol edin</item>
-        <item>Daima denetle</item>
-    </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>Asla HDCP denetimi kullanma</item>
-        <item>HDCP DRM içeriği yalnızca denetlenirken kullan</item>
-        <item>Her zaman HDCP denetimi kullan</item>
-    </string-array>
-    <string-array name="window_animation_scale_entries">
-        <item>Animasyon kapalı</item>
-        <item>Animasyon ölçeği .5x</item>
-        <item>Animasyon ölçeği 1x</item>
-        <item>Animasyon ölçeği 1.5x</item>
-        <item>Animasyon ölçeği 2x</item>
-        <item>Animasyon ölçeği 5x</item>
-        <item>Animasyon ölçeği 10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_entries">
-        <item>Animasyon kapalı</item>
-        <item>Animasyon ölçeği .5x</item>
-        <item>Animasyon ölçeği 1x</item>
-        <item>Animasyon ölçeği 1.5x</item>
-        <item>Animasyon ölçeği 2x</item>
-        <item>Animasyon ölçeği 5x</item>
-        <item>Animasyon ölçeği 10x</item>
-    </string-array>
-    <string-array name="animator_duration_scale_entries">
-        <item>Animasyon kapalı</item>
-        <item>Animasyon ölçeği .5x</item>
-        <item>Animasyon ölçeği 1x</item>
-        <item>Animasyon ölçeği 1.5x</item>
-        <item>Animasyon ölçeği 2x</item>
-        <item>Animasyon ölçeği 5x</item>
-        <item>Animasyon ölçeği 10x</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Yok</item>
-        <item>480p</item>
-        <item>480p (güvenli)</item>
-        <item>720p</item>
-        <item>720p (güvenli)</item>
-        <item>1080p</item>
-        <item>1080p (güvenli)</item>
-        <item>4K</item>
-        <item>4K (güvenli)</item>
-        <item>4K (ölçeksiz)</item>
-        <item>4K (ölçeksiz, güvenli)</item>
-        <item>720p, 1080p (çift ekran)</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>Yok</item>
-        <item>Logcat</item>
-        <item>Systrace (Grafik)</item>
-        <item>glGetError\'da yığın çağır</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_entries">
-        <item>Kapat</item>
-        <item>Dikdörtgen olmayan kırpma bölgesini mavi çiz</item>
-        <item>Yeşil test çizim komutlarını vurgula</item>
-    </string-array>
-    <string-array name="track_frame_time_entries">
-        <item>Kapat</item>
-        <item>Ekran üzerinde çubuklar halinde</item>
-        <item>adb içinde shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Kapat</item>
-        <item>Taşma alanlarını göster</item>
-        <item>Renk körlüğüne uygun alanları göster</item>
-    </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Standart limit</item>
-        <item>Arkaplan işlemi yok</item>
-        <item>En çok 1 işlem</item>
-        <item>En çok 2 işlem</item>
-        <item>En çok 3 işlem</item>
-        <item>En çok 4 işlem</item>
-    </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
-    </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/IPSec Önceden paylaşılan anahtarlarla VPN</item>
-        <item>L2TP/IPSec sertifikalarla VPN</item>
-        <item>IPSec Önceden paylaşılan anahtarlar ve Xauth kimlik doğrulaması ile VPN</item>
-        <item>IPSec sertifikalar ve Xauth kimlik doğrulaması ile VPN</item>
-        <item>IPSec sertifikalar ve melez kimlik doğrulaması ile VPN</item>
+        <item>Önceden paylaşılan anahtarlarla L2TP/IPSec VPN</item>
+        <item>Sertifikalı L2TP/IPSec VPN</item>
+        <item>Önceden paylaşılan anahtarlara ve Xauth kimlik doğrulamasına sahip IPSec VPN</item>
+        <item>Sertifikaları ve Xauth kimlik doğrulamasını içeren IPSec VPN</item>
+        <item>Sertifikalı ve hibrid kimlik doğrulamalı IPSec VPN</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Bağlantı kesildi</item>
-        <item>Başlatılıyor...</item>
-        <item>Bağlanıyor...</item>
+        <item>Başlatılıyor…</item>
+        <item>Bağlanıyor…</item>
         <item>Bağlandı</item>
-        <item>Zaman Aşımı</item>
-        <item>Başarısız</item>
+        <item>Zaman aşımına uğradı</item>
+        <item>Başarısız oldu</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
-        <item>Yüksel Varlık</item>
+        <item>Evliya</item>
         <item>İnsan</item>
-        <item>İnsan</item>
-        <item>İnsan</item>
-        <item>İnsan</item>
+        <item>İlkel</item>
+        <item>Hayvan</item>
+        <item>Aptal</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Sor</item>
+        <item>İzin verme</item>
+        <item>Herzaman izin ver</item>
     </string-array>
     <string-array name="ram_states">
         <item>Normal</item>
-        <item>Ilımlı</item>
+        <item>Makul</item>
         <item>Düşük</item>
         <item>Kritik</item>
         <item>\?</item>
     </string-array>
-    <string-array name="entries_zen_mode">
-        <item>Kapat</item>
-        <item>Sınırlı kesintiler</item>
-        <item>Sıfır kesinti</item>
-    </string-array>
     <string-array name="proc_stats_memory_states">
         <item>Normal</item>
-        <item>Ilımlı</item>
+        <item>Makul</item>
         <item>Düşük</item>
         <item>Kritik</item>
     </string-array>
     <string-array name="proc_stats_process_states">
-        <item>Kalıcı</item>
-        <item>En aktif</item>
-        <item>Önemli (önplan)</item>
+        <item>Sürekli</item>
+        <item>Üst Aktivite</item>
+        <item>Önemli (önplanda)</item>
         <item>Önemli (arkaplan)</item>
-        <item>Yedekle</item>
-        <item>Ağır</item>
-        <item>Servis (çalışan)</item>
-        <item>Servis (başlatılıyor)</item>
+        <item>Yedek</item>
+        <item>Nüfuzlu Ağırlık</item>
+        <item>Hizmet (çalışan)</item>
+    <item>Hizmet (başlatılan)</item>
         <item>Alıcı</item>
-        <item>Ana Sayfa</item>
+        <item>Ev</item>
         <item>Son etkinlik</item>
-        <item>Önbellekte (etkin)</item>
-        <item>Önbellekte (etkin istemci)</item>
-        <item>Önbellekte (boş)</item>
+        <item>Önbellekte (etkinlik)</item>
+        <item>Önbellek (etkinlik istemcisi)</item>
+        <item>Önbellek (boş)</item>
     </string-array>
     <string-array name="color_picker">
-        <item>Petrol </item>
+        <item>Yeşilimsi Mavi</item>
         <item>Mavi</item>
-        <item>Çivit Rengi</item>
+        <item>Çivit Mavisi</item>
         <item>Mor</item>
         <item>Pembe</item>
         <item>Kırmızı</item>
-    </string-array>
-    <string-array name="usb_configuration_titles">
-        <item>Şarj ediliyor</item>
-        <item>MTP (Medya Transfer Protokolü)</item>
-        <item>PTP (Resim Transfer Protokolü)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Ses Kaynağı</item>
-        <item>MIDI</item>
-    </string-array>
+        </string-array>
     <string-array name="cellcular2wifi_entries">
         <item>Otomatik olarak bağlan</item>
         <item>Elle bağlan</item>
         <item>Daima sor</item>
+        </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Tercihen WLAN</item>
+        <item>Tercihen Hücresel</item>
+        <item>Sadece WLAN</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Tercihen WLAN</item>
         <item>Tercihen Hücresel</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices">
-        <item>Tercihen WLAN</item>
-        <item>Tercihen Hücresel</item>
+        </string-array>
+    <string-array name="wifi_calling_mode_values_without_wifi_only">
+        <item>2</item>
+        <item>1</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Kapalı</item>
@@ -616,30 +613,21 @@
         <item>Orta</item>
         <item>Güçlü</item>
     </string-array>
-    <string-array name="haptic_feedback_level_entries">
-        <item>Güçlü</item>
-        <item>Orta</item>
-        <item>Hafif</item>
-    </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Güçlü</item>
         <item>Orta</item>
         <item>Hafif</item>
     </string-array>
-    <string-array name="ap_identify">
-        <item>Varsayılan</item>
-        <item>iPhone</item>
-    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafiksel</item>
         <item>Yüzdeli</item>
-        <item>Üst Çubuk</item>
+        <item>Üst Çizgi</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
-        <item>Bağlantı sağlandığında sor</item>
-        <item>Sadece şarj</item>
-        <item>SD Kartı bağla</item>
-    </string-array>
+        <item>Bağlantı türünü sor</item>
+        <item>Sadece şarj et</item>
+        <item>SD Kartı devreye sok</item>
+        </string-array>
     <string-array name="led_freq_entries">
         <item>2 saniye</item>
         <item>3 saniye</item>
@@ -658,45 +646,31 @@
         <item>Menekşe</item>
         <item>Mor</item>
     </string-array>
-    <string-array name="pink_panel_led_color_entries">
-        <item>Kırmızı</item>
-        <item>Mavi</item>
-        <item>Turuncu</item>
-        <item>Yeşil</item>
-        <item>Eflatun</item>
-    </string-array>
     <string-array name="led_color_entries">
         <item>Mavi</item>
         <item>Kırmızı</item>
         <item>Sarı</item>
         <item>Yeşil</item>
-        <item>Camgöbeği</item>
+        <item>Cam Göbeği</item>
         <item>Beyaz</item>
         <item>Menekşe</item>
     </string-array>
-    <string-array name="wifi_security_only_wapi_cert_entries">
-        <item>WAPI CERT</item>
-    </string-array>
-    <string-array name="wifi_wapi_key_type">
-        <item>WAPI ASCII</item>
-        <item>WAPI onaltılık</item>
-    </string-array>
     <string-array name="screen_key_position_action">
-        <item>Soldaki Menü Düğmesi, Sağdaki Geri Düğmesi</item>
-        <item>Soldaki Geri Düğmesi, Sağdaki Menü Düğmesi</item>
-    </string-array>
-    <string-array name="screen_key_press_action">
-        <item>Son uygulamaları göster</item>
+        <item>Soldaki Menü Düğmesi, sağdaki Geri Düğmesi</item>
+        <item>Soldaki Geri Düğmesi, sağdaki Menü Düğmesi</item>
+        </string-array>
+        <string-array name="screen_key_press_action">
+        <item>En son uygulamaları göster</item>
         <item>Menüyü göster</item>
     </string-array>
-   <string-array name="screen_key_long_press_action">
+    <string-array name="screen_key_long_press_action">
         <item>Yok</item>
         <item>En son uygulamaları göster</item>
         <item>Yardımcıyı başlat</item>
-        <item>Google Now başlat</item>
+        <item>"Google Now'u başlat"</item>
         <item>Geçerli uygulamayı kapat</item>
         <item>Hızlı aramayı başlat</item>
-        <item>Menüyü göster</item>
+        <item>Menüyü başlat</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 saniye</item>
@@ -704,11 +678,17 @@
         <item>1.5 saniye</item>
         <item>2 saniye</item>
     </string-array>
+    <string-array name="screen_key_long_press_timeout_value">
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+    </string-array>
     <string-array name="long_press_volume_down_action">
         <item>Yok</item>
-        <item>Seri Çekim Modu (Resim)</item>
-        <item>Hızlı Çekim Modu (Film)</item>
-        <item>Genel Kısayollar</item>
+        <item>Hızlı Çekim Modu (fotoğraf)</item>
+        <item>Hızlı Çekim Modu (video)</item>
+        <item>Toplu taşıma kısayolları</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 saniye</item>
@@ -717,17 +697,17 @@
         <item>10 saniye</item>
         <item>20 saniye</item>
         <item>Daima</item>
-    </string-array>
-   <string-array name="wfd_status">
-        <item>Oturum başlatılıyor...</item>
-        <item>Oturum başlatıldı</item>
-        <item>İptal ediliyor...</item>
-        <item>"Oturum başlatılamadı"</item>
-        <item>Zaman aşıldı. Yeniden deneniyor...</item>
+        </string-array>
+    <string-array name="wfd_status">
+        <item>Oturum başlıyor ...</item>
+        <item>Oturum başladı</item>
+        <item>Hizmet kapanıyor ...</item>
+        <item>"Oturum başlatılamıyor"</item>
+        <item>Zaman aşımına uğradı. Tekrar deniyor ...</item>
         <item>Cihaz bağlandı</item>
-    </string-array>
+        </string-array>
     <string-array name="power_mode_entries">
-        <item>Performanslı</item>
+        <item>Performans</item>
         <item>Dengeli</item>
     </string-array>
     <string-array name="msd_pc_system">
@@ -737,19 +717,29 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
-        <item>2.Ekrandaki yönergeleri izleyin</item>
+        <item>2. Ekrandaki talimatları izleyin</item>
         <item></item>
         <item></item>
         <item></item>
     </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
+        <item>USB yığın depolama bir bilgisayara bağlandığında otomatik olarak açılır.</item>
+        <item></item>
+        </string-array>
+    <string-array name="msd_pc_system_retry_xp">
+        <item>@string/msd_install_retry_connect</item>
+        <item>"MiPhoneManager'ı yeniden yükleyin."</item>
+    </string-array>
     <string-array name="msd_pc_system_retry_linux">
-        <item>Aracı Yükle: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
-        <item>Bir dizin oluştur: mkdir /media/mtp</item>
-        <item>Kullanıcı grubu izinleri geçerli sigorta kullanıcı grubunda onayla</item>
+        <item>Yükleme aracı: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>Bir dizin oluşturun: mkdir /media/mtp</item>
+        <item>Geçerli güvenli kullanıcı grubundan, kullanıcı grubu izinlerini onayla</item>
         <item>Tekrar oturum açın</item>
-        <item>Cihaz bağlantı erişimi: mtpfs /media/mtp yoluyla dosya gezgini; aynı yerel dizin</item>
-        <item>"Cihazı kaldır: fusermount -u /media/mtp
-Not: Sadece Ubuntu 8.04!"</item>
+        <item>Bağlı cihaza erişim: mtpfs /media/mtp dosya gezgini aracılığıyla; yerel dizinle aynı</item>
+        <item>"Aygıtı Kaldır:  fusermount -u /media/mtp
+Not: Sadece Ubuntu 8.04 için!"</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Sıcak</item>
@@ -761,70 +751,63 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>Standart</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Otomatik Karşıtlık</item>
-        <item>Karşıtlığı Arttır</item>
+        <item>Otomatik Kontrast</item>
+        <item>Artan Kontrast</item>
         <item>Standart</item>
-    </string-array>
+        </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Mevcut ışık için karşıtlığı iyi hale getir</item>
-        <item>"Ekran karşıtlığını artır"</item>
-        <item>Karşıtlığı sabit bırak</item>
+        <item>Mevcut ışık için kontrastı iyi hale getir</item>
+        <item>"Ekranın kontrastını arttır"</item>
+        <item>Kontrast sabit kalacak</item>
     </string-array>
     <string-array name="perm_hips_action">
-        <item>İzin Ver</item>
+        <item>İzin ver</item>
         <item>Sor</item>
         <item>Reddet</item>
     </string-array>
     <string-array name="startup_hips_action">
-        <item>İzin Ver</item>
+        <item>İzin ver</item>
         <item>Reddet</item>
-    </string-array>
+        </string-array>
     <string-array name="entries_color_calibration">
         <item>sRGB</item>
-        <item>Tabii</item>
+        <item>Doğal</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Tekli mikrofonla gürültüyü bastır</item>
         <item>Çift mikrofonla gürültüyü bastır</item>
     </string-array>
     <string-array name="change_security_lock_picker">
-        <item>Yüz kilidini aç</item>
+        <item>Yüzle kilidi aç</item>
         <item>Desen</item>
-        <item>PIN Kodu</item>
+        <item>PIN</item>
         <item>Şifre</item>
     </string-array>
-   <string-array name="wifi_connect_type_entries">
+    <string-array name="wifi_connect_type_entries">
         <item>Otomatik olarak bağlan</item>
-        <item>El ile bağlan</item>
+        <item>Elle bağlan</item>
         <item>Daima sor</item>
-    </string-array>
-    <string-array name="slideshow_time_entries">
-        <item>5 Dakika</item>
-        <item>15 Dakika</item>
-        <item>30 Dakika</item>
-        <item>1 Dakika</item>
-        <item>Sınırsız</item>
     </string-array>
     <string-array name="wifi_ssid_type_entries">
         <item>Otomatik olarak bağlan</item>
-        <item>El ile bağlan</item>
-    </string-array>
+        <item>Elle bağlan</item>
+        </string-array>
     <string-array name="preferred_app_entries">
         <item>Başlatıcı</item>
-        <item>Arama</item>
-        <item>Mesajlaşma</item>
+        <item>Ara</item>
+        <item>Mesajlaş</item>
         <item>Tarayıcı</item>
         <item>Kamera</item>
         <item>Galeri</item>
         <item>Müzik</item>
         <item>E-Posta</item>
-        <item>Video</item>
+        <item>Video Oynat</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
-        <item>Yüksek trafik nedeniyle ağ bağlantısı yavaş</item>
-        <item>Sinyal gücü zayıf olduğundan ağ yavaş</item>
+        <item>Çok fazla trafik nedeniyle ağ yavaş</item>
+        <item>Zayıf sinyal gücü nedeniyle ağ yavaş</item>
         <item>Taşınıyor…</item>
-    </string-array>
+        </string-array>
     <string-array name="priority_storage_entries">
         <item>Dahili Depolama</item>
         <item>Harici Depolama</item>
@@ -837,36 +820,15 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>Çok Hızlı</item>
     </string-array>
     <string-array name="whetstone_level_entries">
-        <item>Kapat</item>
+        <item>Kapalı</item>
         <item>Düşük</item>
         <item>Orta</item>
         <item>Yüksek</item>
-    </string-array>
+        </string-array>
     <string-array name="agps_network_entries">
         <item>Ev Ağı</item>
         <item>Tüm Ağ</item>
-    </string-array>
-    <string-array name="install_non_market_app_entries">
-        <item>Riskli uygulmayı sor</item>
-        <item>İzin ver</item>
-    </string-array>
-    <string-array name="install_non_market_app_contents">
-        <item>Sor</item>
-        <item>İzin ver</item>
-    </string-array>
-    <string-array name="agps_si_mode_entries">
-        <item>MSB</item>
-        <item>MSA</item>
-    </string-array>
-    <string-array name="agps_apn_entries">
-        <item>CMWAP</item>
-        <item>CMNET</item>
-    </string-array>
-    <string-array name="agps_reset_type_entries">
-        <item>HOT</item>
-        <item>WARM</item>
-        <item>COLD</item>
-    </string-array>
+        </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 inç</item>
         <item>4.0 inç</item>
@@ -874,37 +836,25 @@ Not: Sadece Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Hemen</item>
-        <item>30 saniye</item>
-        <item>1 dakika</item>
-        <item>2 dakika</item>
-        <item>5 dakika</item>
-		<item>Asla</item>
+        <item>30 saniye sonra</item>
+        <item>1 dakika sonra</item>
+        <item>2 dakika sonra</item>
+        <item>5 dakika sonra</item>
+        <item>Asla</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Sistem animasyonlarını gizle</item>
         <item>Sistem animasyonlarını göster</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>"Cihazınızın performansını hızlandırır"</item>
-        <item>"Cihazınızın performansını düşürür"</item>
+        <item>"Cihazın performansını hızlandırır"</item>
+        <item>"Cihazın performansını yavaşlatabilir"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Bu ayarı uygulamak için cihazınız yeniden başlatılsın mı?</item>
         <item>Bu ayarı uygulamak için cihazınız yeniden başlatılsın mı?</item>
     </string-array>
-    <string-array name="screen_resolution_entries">
-        <item>Ultra Yüksek (2K)</item>
-        <item>Normal (720p)</item>
-    </string-array>
-    <string-array name="miui_entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
-    </string-array>
-    <string-array name="max_number_titles">
+   <string-array name="max_number_titles">
         <item>6</item>
         <item>5</item>
         <item>4</item>
@@ -914,22 +864,604 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>Limitsiz</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Kilit Ekran</item>
+        <item>Kilit Ekranı</item>
         <item>Gizlilik Şifresi</item>
         <item>Çocuk Modu</item>
         <item>Dosya Gezgini</item>
         <item>Uygulama Kilidi</item>
         <item>İkinci Alan</item>
     </string-array>
-    <string-array name="anr_record_interval_entries">
-        <item>10 san</item>
-        <item>20 san</item>
-        <item>30 san</item>
-        <item>1 dak</item>
-    </string-array>
     <string-array name="screen_button_style">
         <item>Sol El Stili</item>
         <item>Sağ El Stili</item>
+        </string-array>
+    <string-array name="edge_touch_volume_action">
+        <item>Ayarlamayı tıklayın - Çift tıklama tetiklenir</item>
+        <item>Kayma ayarı - Kayma tetiklenir</item>
+        <item>Ayarlamayı tıklayın - Tıklama tetiklenir</item>
+        <item>Ayarlamayı tıklayın - Uzun tıklama tetiklenir</item>
+    </string-array>
+    <string-array name="city_name">
+        <item>Abidjan</item>
+        <item>Akra</item>
+        <item>Addis Ababa</item>
+        <item>Algiers</item>
+        <item>Blantyre</item>
+        <item>Brazzaville</item>
+        <item>Kahire</item>
+        <item>Casablanca</item>
+        <item>Conakry</item>
+        <item>Dakar</item>
+        <item>Dar es Salaam</item>
+        <item>Djibouti</item>
+        <item>Freetown</item>
+        <item>Gaborone</item>
+        <item>Harare</item>
+        <item>Johannesburg</item>
+        <item>Kampala</item>
+        <item>Khartoum</item>
+        <item>Kigali</item>
+        <item>Kinshasa</item>
+        <item>Lagos</item>
+        <item>Maseru</item>
+        <item>Mogadishu</item>
+        <item>Nairobi</item>
+        <item>São Tomé</item>
+        <item>Timbuktu</item>
+        <item>Tripoli</item>
+        <item>Tunus</item>
+        <item>Anchorage</item>
+        <item>Mendoza</item>
+        <item>Aruba</item>
+        <item>Asunción</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Bogotá</item>
+        <item>Buenos Aires</item>
+        <item>Cancun</item>
+        <item>Caracas</item>
+        <item>Cayman Islands</item>
+        <item>Chicago</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Dawson Creek</item>
+        <item>Denver</item>
+        <item>Detroit</item>
+        <item>Dominica</item>
+        <item>Edmonton</item>
+        <item>El Salvador</item>
+        <item>Fortaleza</item>
+        <item>Grand Turk</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Halifax</item>
+        <item>Havana</item>
+        <item>Indianapolis</item>
+        <item>Knox City</item>
+        <item>Petersburg</item>
+        <item>Tell City</item>
+        <item>Vevay</item>
+        <item>Vincennes</item>
+        <item>Winamac</item>
+        <item>Kingston</item>
+        <item>Nuestra Señora de La Paz</item>
+        <item>Lima</item>
+        <item>Los Angeles</item>
+        <item>Louisville</item>
+        <item>Managua</item>
+        <item>Martinique</item>
+        <item>Metlakatla</item>
+        <item>Mexico City</item>
+        <item>Monterrey</item>
+        <item>Montevideo</item>
+        <item>Montreal</item>
+        <item>Nassau</item>
+        <item>New York</item>
+        <item>Beulah</item>
+        <item>New Salem</item>
+        <item>Panama</item>
+        <item>Phoenix</item>
+        <item>Port of Spain</item>
+        <item>Port-au-Prince</item>
+        <item>Puerto Rico</item>
+        <item>Santo Domingo</item>
+        <item>São Paulo</item>
+        <item>St. Johns</item>
+        <item>St. Kitts</item>
+        <item>St. Lucia</item>
+        <item>St. Thomas</item>
+        <item>Tijuana</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Winnipeg</item>
+        <item>South Pole</item>
+        <item>Longyearbyen</item>
+        <item>Almaata</item>
+        <item>Amman</item>
+        <item>Anadyr</item>
+        <item>Aqtau</item>
+        <item>Bağdat</item>
+        <item>Bahrain</item>
+        <item>Bakü</item>
+        <item>Bangkok</item>
+        <item>Beyrut</item>
+        <item>Calcutta</item>
+        <item>Şam</item>
+        <item>Dhaka</item>
+        <item>Dubai</item>
+        <item>Gaza</item>
+        <item>Hebron</item>
+        <item>Ho Chi Minh</item>
+        <item>Hong Kong</item>
+        <item>Jakarta</item>
+        <item>Jerusalem</item>
+        <item>Kabul</item>
+        <item>Karachi</item>
+        <item>Kathmandu</item>
+        <item>Kuala Lumpur</item>
+        <item>Kuveyt</item>
+        <item>Macau</item>
+        <item>Manila</item>
+        <item>Muscat</item>
+        <item>Phnom Penh</item>
+        <item>Pyongyang</item>
+        <item>Katar</item>
+        <item>Rangoon</item>
+        <item>Riyadh</item>
+        <item>Seoul</item>
+        <item>Shanghai</item>
+        <item>Singapore</item>
+        <item>Taipei</item>
+        <item>Tehran</item>
+        <item>Tel Aviv</item>
+        <item>Tokyo</item>
+        <item>Ulaanbaatar</item>
+        <item>Bermuda</item>
+        <item>Canary Islands</item>
+        <item>Cape Verde</item>
+        <item>Reykjavik</item>
+        <item>Adelaide</item>
+        <item>Brisbane</item>
+        <item>Canberra</item>
+        <item>Darwin</item>
+        <item>Melbourne</item>
+        <item>New South Wales</item>
+        <item>Perth</item>
+        <item>Queensland</item>
+        <item>Sydney</item>
+        <item>Victoria</item>
+        <item>Newfoundland</item>
+        <item>Saskatchewan</item>
+        <item>Easter Island</item>
+        <item>Amsterdam</item>
+        <item>Andorra</item>
+        <item>Athens</item>
+        <item>Belfast</item>
+        <item>Belgrade</item>
+        <item>Berlin</item>
+        <item>Bratislava</item>
+        <item>Brussels</item>
+        <item>Bucharest</item>
+        <item>Budapest</item>
+        <item>Chisinau</item>
+        <item>Copenhagen</item>
+        <item>Dublin</item>
+        <item>Gibraltar</item>
+        <item>Helsinki</item>
+        <item>Isle of Man</item>
+        <item>İstanbul</item>
+        <item>Lisbon</item>
+        <item>London</item>
+        <item>Luxembourg</item>
+        <item>Madrid</item>
+        <item>Malta</item>
+        <item>Minsk</item>
+        <item>Monaco</item>
+        <item>Moskova</item>
+        <item>Oslo</item>
+        <item>Paris</item>
+        <item>Prague</item>
+        <item>Riga</item>
+        <item>Roma</item>
+        <item>San Marino</item>
+        <item>Sarajevo</item>
+        <item>Simferopol</item>
+        <item>Skopje</item>
+        <item>Sofia</item>
+        <item>Stockholm</item>
+        <item>Tallinn</item>
+        <item>Vatican City</item>
+        <item>Vienna</item>
+        <item>Vilnius</item>
+        <item>Warsaw</item>
+        <item>Zagreb</item>
+        <item>Zurich</item>
+        <item>Antananarivo</item>
+        <item>Maldives</item>
+        <item>Mauritius</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Honolulu</item>
+        <item>Kiritimati</item>
+        <item>Noumea</item>
+        <item>Samoa</item>
+        <item>Tahiti</item>
+        <item>Antigua</item>
+        <item>Austin</item>
+        <item>Boston</item>
+        <item>Calgary</item>
+        <item>Columbus</item>
+        <item>Dallas</item>
+        <item>Knoxville</item>
+        <item>Memphis</item>
+        <item>Miami</item>
+        <item>Minneapolis</item>
+        <item>Ottawa</item>
+        <item>Philadelphia</item>
+        <item>Portland</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+        <item>Salt Lake City</item>
+        <item>San Jose</item>
+        <item>Seattle</item>
+        <item>St. Louis</item>
+        <item>Washington D.C.</item>
+        <item>Houston</item>
+        <item>San Antonio</item>
+        <item>Jacksonville</item>
+        <item>Baltimore</item>
+        <item>Nashville</item>
+        <item>Milwaukee</item>
+        <item>Oklahoma City</item>
+        <item>Las Vegas</item>
+        <item>Albuquerque</item>
+        <item>Tucson</item>
+        <item>Sacramento</item>
+        <item>Atlanta</item>
+        <item>Cleveland</item>
+        <item>New Orleans</item>
+        <item>Tampa</item>
+        <item>Pittsburgh</item>
+        <item>Cincinnati</item>
+        <item>Mountain View</item>
+        <item>Reno</item>
+        <item>Doha</item>
+        <item>Beijing</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Osaka</item>
+        <item>Lahore</item>
+        <item>"Sana'a"</item>
+        <item>Barcelona</item>
+        <item>Munich</item>
+        <item>Milan</item>
+        <item>Frankfurt</item>
+        <item>Hanoi</item>
+        <item>Ankara</item>
+        <item>Bangalore</item>
+        <item>Brasília</item>
+        <item>Cape Town</item>
+        <item>Islamabad</item>
+        <item>Rio de Janeiro</item>
+        <item>Ann Arbor</item>
+        <item>Boulder</item>
+        <item>Cambridge</item>
+        <item>Kirkland</item>
+        <item>Madison</item>
+        <item>Guangzhou</item>
+        <item>Hyderabad</item>
+        <item>Reston</item>
+        <item>Belo Horizonte</item>
+        <item>Santiago</item>
+        <item>Monrovia</item>
+        <item>Colombo</item>
+        <item>Chihuahua</item>
+        <item>Gurgaon</item>
+        <item>Manchester</item>
+        <item>Kyiv</item>
+        <item>St. Petersburg</item>
+        <item>Kraków</item>
+        <item>Wroclaw</item>
+        <item>Hamburg</item>
+        <item>Oulu</item>
+        <item>Haifa</item>
+        <item>San Juan</item>
+        <item>Tegucigalpa</item>
+        <item>Paramaribo</item>
+        <item>Quito</item>
+    </string-array>
+    <string-array name="city_timezone">
+        <item>Afrika/Abidjan</item>
+        <item>Afrika/Accra</item>
+        <item>Afrika/Addis_Ababa</item>
+        <item>Afrika/Algiers</item>
+        <item>Afrika/Blantyre</item>
+        <item>Afrika/Brazzaville</item>
+        <item>Afrika/Cairo</item>
+        <item>Afrika/Casablanca</item>
+        <item>Afrika/Conakry</item>
+        <item>Afrika/Dakar</item>
+        <item>Afrika/Dar_es_Salaam</item>
+        <item>Afrika/Djibouti</item>
+        <item>Afrika/Freetown</item>
+        <item>Afrika/Gaborone</item>
+        <item>Afrika/Harare</item>
+        <item>Afrika/Johannesburg</item>
+        <item>Afrika/Kampala</item>
+        <item>Afrika/Khartoum</item>
+        <item>Afrika/Kigali</item>
+        <item>Afrika/Kinshasa</item>
+        <item>Afrika/Lagos</item>
+        <item>Afrika/Maseru</item>
+        <item>Afrika/Mogadishu</item>
+        <item>Afrika/Nairobi</item>
+        <item>Afrika/Sao_Tome</item>
+        <item>Afrika/Timbuktu</item>
+        <item>Afrika/Tripoli</item>
+        <item>Afrika/Tunis</item>
+        <item>Amerika/Anchorage</item>
+        <item>Amerika/Argentina/Mendoza</item>
+        <item>Amerika/Aruba</item>
+        <item>Amerika/Asuncion</item>
+        <item>Amerika/Barbados</item>
+        <item>Amerika/Belize</item>
+        <item>Amerika/Bogota</item>
+        <item>Amerika/Buenos_Aires</item>
+        <item>Amerika/Cancun</item>
+        <item>Amerika/Caracas</item>
+        <item>Amerika/Cayman</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/Costa_Rica</item>
+        <item>Amerika/Curacao</item>
+        <item>Amerika/Dawson_Creek</item>
+        <item>Amerika/Denver</item>
+        <item>Amerika/Detroit</item>
+        <item>Amerika/Dominica</item>
+        <item>Amerika/Edmonton</item>
+        <item>Amerika/El_Salvador</item>
+        <item>Amerika/Fortaleza</item>
+        <item>Amerika/Grand_Turk</item>
+        <item>Amerika/Grenada</item>
+        <item>Amerika/Guatemala</item>
+        <item>Amerika/Guyana</item>
+        <item>Amerika/Halifax</item>
+        <item>Amerika/Havana</item>
+        <item>Amerika/Indiana/Indianapolis</item>
+        <item>Amerika/Indiana/Knox</item>
+        <item>Amerika/Indiana/Petersburg</item>
+        <item>Amerika/Indiana/Tell_City</item>
+        <item>Amerika/Indiana/Vevay</item>
+        <item>Amerika/Indiana/Vincennes</item>
+        <item>Amerika/Indiana/Winamac</item>
+        <item>Amerika/Jamaica</item>
+        <item>Amerika/La_Paz</item>
+        <item>Amerika/Lima</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Louisville</item>
+        <item>Amerika/Managua</item>
+        <item>Amerika/Martinique</item>
+        <item>Amerika/Metlakatla</item>
+        <item>Amerika/Mexico_City</item>
+        <item>Amerika/Monterrey</item>
+        <item>Amerika/Montevideo</item>
+        <item>Amerika/Montreal</item>
+        <item>Amerika/Nassau</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/North_Dakota/Beulah</item>
+        <item>Amerika/North_Dakota/New_Salem</item>
+        <item>Amerika/Panama</item>
+        <item>Amerika/Phoenix</item>
+        <item>Amerika/Port_of_Spain</item>
+        <item>Amerika/Port-au-Prince</item>
+        <item>Amerika/Puerto_Rico</item>
+        <item>Amerika/Santo_Domingo</item>
+        <item>Amerika/Sao_Paulo</item>
+        <item>Amerika/St_Johns</item>
+        <item>Amerika/St_Kitts</item>
+        <item>Amerika/St_Lucia</item>
+        <item>Amerika/St_Thomas</item>
+        <item>Amerika/Tijuana</item>
+        <item>Amerika/Toronto</item>
+        <item>Amerika/Vancouver</item>
+        <item>Amerika/Winnipeg</item>
+        <item>Antarctica/South_Pole</item>
+        <item>Arctic/Longyearbyen</item>
+        <item>Asya/Almaty</item>
+        <item>Asya/Amman</item>
+        <item>Asya/Anadyr</item>
+        <item>Asya/Aqtau</item>
+        <item>Asya/Baghdad</item>
+        <item>Asya/Bahrain</item>
+        <item>Asya/Baku</item>
+        <item>Asya/Bangkok</item>
+        <item>Asya/Beirut</item>
+        <item>Asya/Calcutta</item>
+        <item>Asya/Şam</item>
+        <item>Asya/Dhaka</item>
+        <item>Asya/Dubai</item>
+        <item>Asya/Gaza</item>
+        <item>Asya/Hebron</item>
+        <item>Asya/Ho_Chi_Minh</item>
+        <item>Asya/Hong_Kong</item>
+        <item>Asya/Jakarta</item>
+        <item>Asya/Jerusalem</item>
+        <item>Asya/Kabul</item>
+        <item>Asya/Karachi</item>
+        <item>Asya/Kathmandu</item>
+        <item>Asya/Kuala_Lumpur</item>
+        <item>Asya/Kuwait</item>
+        <item>Asya/Macau</item>
+        <item>Asya/Manila</item>
+        <item>Asya/Muscat</item>
+        <item>Asya/Phnom_Penh</item>
+        <item>Asya/Pyongyang</item>
+        <item>Asya/Qatar</item>
+        <item>Asya/Rangoon</item>
+        <item>Asya/Riyadh</item>
+        <item>Asya/Seoul</item>
+        <item>Asya/Shanghai</item>
+        <item>Asya/Singapore</item>
+        <item>Asya/Taipei</item>
+        <item>Asya/Tehran</item>
+        <item>Asya/Tel_Aviv</item>
+        <item>Asya/Tokyo</item>
+        <item>Asya/Ulaanbaatar</item>
+        <item>Atlantic/Bermuda</item>
+        <item>Atlantic/Canary</item>
+        <item>Atlantic/Cape_Verde</item>
+        <item>Atlantic/Reykjavik</item>
+        <item>Avustralya/Adelaide</item>
+        <item>Avustralya/Brisbane</item>
+        <item>Avustralya/Canberra</item>
+        <item>Avustralya/Darwin</item>
+        <item>Avustralya/Melbourne</item>
+        <item>Avustralya/NSW</item>
+        <item>Avustralya/Perth</item>
+        <item>Avustralya/Queensland</item>
+        <item>Avustralya/Sydney</item>
+        <item>Avustralya/Victoria</item>
+        <item>Canada/Newfoundland</item>
+        <item>Canada/Saskatchewan</item>
+        <item>Chile/EasterIsland</item>
+        <item>Avrupa/Amsterdam</item>
+        <item>Avrupa/Andorra</item>
+        <item>Avrupa/Athens</item>
+        <item>Avrupa/Belfast</item>
+        <item>Avrupa/Belgrade</item>
+        <item>Avrupa/Berlin</item>
+        <item>Avrupa/Bratislava</item>
+        <item>Avrupa/Brussels</item>
+        <item>Avrupa/Bucharest</item>
+        <item>Avrupa/Budapest</item>
+        <item>Avrupa/Chisinau</item>
+        <item>Avrupa/Copenhagen</item>
+        <item>Avrupa/Dublin</item>
+        <item>Avrupa/Gibraltar</item>
+        <item>Avrupa/Helsinki</item>
+        <item>Avrupa/Isle_of_Man</item>
+        <item>Avrupa/İstanbul</item>
+        <item>Avrupa/Lisbon</item>
+        <item>Avrupa/London</item>
+        <item>Avrupa/Luxembourg</item>
+        <item>Avrupa/Madrid</item>
+        <item>Avrupa/Malta</item>
+        <item>Avrupa/Minsk</item>
+        <item>Avrupa/Monaco</item>
+        <item>Avrupa/Moscow</item>
+        <item>Avrupa/Oslo</item>
+        <item>Avrupa/Paris</item>
+        <item>Avrupa/Prague</item>
+        <item>Avrupa/Riga</item>
+        <item>Avrupa/Rome</item>
+        <item>Avrupa/San_Marino</item>
+        <item>Avrupa/Sarajevo</item>
+        <item>Avrupa/Simferopol</item>
+        <item>Avrupa/Skopje</item>
+        <item>Avrupa/Sofia</item>
+        <item>Avrupa/Stockholm</item>
+        <item>Avrupa/Tallinn</item>
+        <item>Avrupa/Vatican</item>
+        <item>Avrupa/Vienna</item>
+        <item>Avrupa/Vilnius</item>
+        <item>Avrupa/Warsaw</item>
+        <item>Avrupa/Zagreb</item>
+        <item>Avrupa/Zurich</item>
+        <item>Indian/Antananarivo</item>
+        <item>Indian/Maldives</item>
+        <item>Indian/Mauritius</item>
+        <item>Pacific/Auckland</item>
+        <item>Pacific/Fiji</item>
+        <item>Pacific/Guam</item>
+        <item>Pacific/Honolulu</item>
+        <item>Pacific/Kiritimati</item>
+        <item>Pacific/Noumea</item>
+        <item>Pacific/Samoa</item>
+        <item>Pacific/Tahiti</item>
+        <item>Amerika/Antigua</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Denver</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Denver</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Denver</item>
+        <item>MST</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Asya/Riyadh</item>
+        <item>Asya/Shanghai</item>
+        <item>Asya/Kolkata</item>
+        <item>Asya/Kolkata</item>
+        <item>Asya/Tokyo</item>
+        <item>Asya/Karachi</item>
+        <item>Asya/Riyadh</item>
+        <item>Avrupa/Madrid</item>
+        <item>Avrupa/Berlin</item>
+        <item>Avrupa/Rome</item>
+        <item>Avrupa/Berlin</item>
+        <item>Asya/Bangkok</item>
+        <item>Avrupa/İstanbul</item>
+        <item>Asya/Kolkata</item>
+        <item>Amerika/Sao_Paulo</item>
+        <item>Afrika/Johannesburg</item>
+        <item>Asya/Karachi</item>
+        <item>Amerika/Sao_Paulo</item>
+        <item>Amerika/Detroit</item>
+        <item>Amerika/Denver</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Chicago</item>
+        <item>Asya/Shanghai</item>
+        <item>Asya/Kolkata</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Sao_Paulo</item>
+        <item>Amerika/Santiago</item>
+        <item>Afrika/Monrovia</item>
+        <item>Asya/Colombo</item>
+        <item>Amerika/Chihuahua</item>
+        <item>Asya/Kolkata</item>
+        <item>Avrupa/London</item>
+        <item>Avrupa/Bucharest</item>
+        <item>Avrupa/Moscow</item>
+        <item>Avrupa/Warsaw</item>
+        <item>Avrupa/Warsaw</item>
+        <item>Avrupa/Berlin</item>
+        <item>Avrupa/Bucharest</item>
+        <item>Asya/Jerusalem</item>
+        <item>Amerika/Puerto Rico</item>
+        <item>Amerika/Tegucigalpa</item>
+        <item>Amerika/Paramaribo</item>
+        <item>Amerika/Panama</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Hergün</item>
@@ -946,26 +1478,13 @@ Not: Sadece Ubuntu 8.04!"</item>
         <item>Resimler</item>
         <item>Dosyalar</item>
         <item>Notlar</item>
-        <item>Çocuk Modu</item>
-    </string-array>
-    <string-array name="standard_configuration_version">
-        <item>3.00GB</item>
-        <item>16GB</item>
-        <item>Dört Çekirdekli 1.8GHz</item>
-    </string-array>
-    <string-array name="high_configuration_version">
-        <item>3.00GB</item>
-        <item>64GB</item>
-        <item>On Çekirdekli 2.1GHz</item>
-    </string-array>
-    <string-array name="enjoy_version">
-        <item>3.00GB</item>
-        <item>32GB</item>
-        <item>Dört Çekirdekli 2.15GHz</item>
-    </string-array>
-	<string-array name="miracast_policies">
-        <item>Daha kısa gecikme</item>
-        <item>Standart</item>
-        <item>Daha iyi kalite</item>
+        </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Pil Kapasitesi</item>
+        <item>Arka Kamera</item>
+        <item>Ekran Boyutu</item>
+        <item>Çözünürlük</item>
+        <item>Android Sürümü</item>
     </string-array>
 </resources>
