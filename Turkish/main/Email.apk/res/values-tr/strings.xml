@@ -411,8 +411,6 @@
   <string name="drawer_open">Gezinme menüsünü aç</string>
   <string name="due">Vade</string>
   <string name="due_date_text">Son Geri Ödeme</string>
-  <string name="eas_hotmail_email">hotmail.com</string>
-  <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">Hızlı Cevap</string>
   <string name="elided_padding_token"> </string>
   <string name="email_address">E-Posta Adresi</string>
@@ -424,7 +422,6 @@
   <string name="email_setting_keywords">Hesaplar;Hesap Ekle; Posta hesabı ekle; silmeyi onayla;göndermeyi onayla;direkt sil; postayı görüntüle;pil tasarrufu; geribildirim gönder; günlüğü gönder</string>
   <string name="email_sina">Sina Posta</string>
   <string name="email_suggestions_authority">com.android.email.provider</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Hesap bulunamadı"</string>
   <string name="empty_email_tip">"Boş E-Posta gönderilemez"</string>
   <string name="empty_spam">İstenmeyenleri temizle</string>
@@ -509,7 +506,6 @@
   <string name="forward_attribution_no_headers">---------- Yönlendirilmiş Posta ----------</string>
   <string name="forward_download_failed_ticker">"Bir veya daha fazla ek yönlendirilemedi."</string>
   <string name="forward_download_failed_title">Ekler yönlendirilemedi</string>
-  <string name="forward_subject_label">İlet:</string>
   <string name="free_period_text">Faizsiz Dönem</string>
   <string name="from_heading">"Kimden: "</string>
   <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
@@ -812,7 +808,6 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="policy_screen_timeout">Ekranı kilitlemesi için cihazın boşta olması  gerekir</string>
   <string name="policy_text_truncation">Posta yazı boyutunu kısıtla</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">Liste</string>
   <string name="preference_eas_tips">Posta sunucusu ayarındaki Etkinleştir\'e dokun.</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">POP3\'te, ekler otomatik olarak E-Posta ile indirilebilir olacak. Bu mobil veri kullanımını artırabilir.</string>
@@ -1107,7 +1102,6 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="wait_for_manual_sync_body">"Bu hesap otomatik eşitlemeye ayarlanmadı
 Posta eşitlenmeden önce "Şimdi Eşitleye dokunun veya bu hesabın postaları otomatik eşitlemesi için Eşitleme Ayarlarını Değiştir seçeneğini kullanın</string>
   <string name="wait_for_sync_title">Eşitlemek için bekleniyor</string>
-  <string name="wait_help_context">Bekle</string>
   <string name="webview_logout">Tekrar oturum açmayı deneyebilirsiniz</string>
   <string name="webview_logout_cancel">Şimdi değil</string>
   <string name="webview_logout_sure">Yeniden dene</string>
