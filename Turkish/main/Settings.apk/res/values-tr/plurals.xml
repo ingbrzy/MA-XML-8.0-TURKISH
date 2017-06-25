@@ -149,9 +149,29 @@ Bu sertifika hakkında daha fazla bilgi için, yöneticinize başvurun."</item>
         <item quantity="other">Veri Tasarrufu açıkken %1$d uygulamaya sınırsız veri kullanımın izin verildi</item>
         <item quantity="one">Veri Tasarrufu açıkken 1 uygulamaya sınırsız veri kullanımın izin verildi</item>
     </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d risk bulundu</item>
+        <item quantity="one">%d risk bulundu</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d uygulamaya otomatik başlatma izni verildi</item>
+        <item quantity="one">%d uygulamaya otomatik başlatma izni verildi</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN %d basamaklı olmalı</item>
+        <item quantity="one">PIN %d basamaklı olmalı</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d ağ paylaşıldı</item>
+        <item quantity="one">%d ağ paylaşıldı</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d cihaz</item>
         <item quantity="one">%d cihaz</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d kişi bağlandı</item>
+        <item quantity="one">%1$d kişi bağlandı</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"Telefon bilgilerine ulaşmanız için %1$d adım kaldı."</item>
@@ -166,11 +186,11 @@ Bu sertifika hakkında daha fazla bilgi için, yöneticinize başvurun."</item>
         <item quantity="one">"Hata Raporu oluşturmanız için %1$d adım kaldı."</item>
     </plurals>
 	<plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Daima %d uygulama devre dışı</item>
-        <item quantity="one">Daima 1 uygulama devre dışı</item>
+        <item quantity="other">%d uygulama daima devre dışı</item>
+        <item quantity="one">1 uygulama daima devre dışı</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Asla %d uygulama devre dışı olmasın</item>
-        <item quantity="one">Asla 1 uygulama devre dışı olmasın</item>
+        <item quantity="other">%d uygulama asla devre dışı olmasın</item>
+        <item quantity="one">1 uygulama asla devre dışı olmasın</item>
     </plurals>
 </resources>
