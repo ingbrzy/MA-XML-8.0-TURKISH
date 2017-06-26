@@ -333,6 +333,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="auto_task_notify_task_canceled_title">Eylem iptal edildi</string>
   <string name="auto_task_notify_task_continue_do">Eylemi başlat</string>
   <string name="auto_task_notify_task_count_down">Otomatik eylem 5 saniye sonra başlayacak</string>
+  <string name="auto_task_notify_task_exit_task">Çıkış Görevi</string>
   <string name="auto_task_operation_airplane_mode">Uçak Modu</string>
   <string name="auto_task_operation_auto_brightness">Otomatik Parlaklık</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -1012,6 +1013,7 @@ Mobil veri bağlantısı tekrar kullanırsanız, operatör sizeden ek ücret tal
   <string name="lock_screen_warning_category">Kilit ekran bildirimleri</string>
   <string name="lock_screen_warning_switch_summary">Veri kullanımı belirlenen miktarı aştığında Kilit ekranında uyarı göster</string>
   <string name="lock_screen_warning_switch_title">Uyarıları Kilit Ekranında Göster</string>
+  <string name="lock_screen_warning_value">Veri Kullanım Uyarısı</string>
   <string name="lock_settings_title">Kilit Ekranı ve Şifre</string>
   <string name="lockpassword_confirm_your_password_header">Şifreyi Doğrula</string>
   <string name="lockpassword_confirm_your_pattern_header">Deseni Doğrula</string>
@@ -1516,6 +1518,7 @@ için bekleniyor"</string>
   <string name="power_center_time_to_boot">Açık Kalma Süresi:</string>
   <string name="power_center_time_to_shutdown">Kapalı Kalma Süresi:</string>
   <string name="power_center_title">Güç</string>
+  <string name="power_consume_hardware_total_format">Donanım: %s</string>
   <string name="power_chooser_check_box_summary">Pil ömrünü artırmak için bir profil seçin</string>
   <string name="power_chooser_check_box_title">Profili Seç</string>
   <string name="power_chooser_mine_summary">Profil Ekle</string>
@@ -1535,6 +1538,7 @@ için bekleniyor"</string>
   <string name="power_consume_rank_title">Pil Kullanımı</string>
   <string name="power_consume_total_hardware">Pil: %s</string>
   <string name="power_consume_total_software">Uygulama: %s</string>
+  <string name="power_consume_software_total_format">Uygulama: %s</string>
   <string name="power_consume_system_idle">Beklemede</string>
   <string name="power_customize_giveup_change">Değişiklikler iptal edilsin mi?</string>
   <string name="power_customizer_cancel">İptal et</string>
@@ -1680,6 +1684,7 @@ için bekleniyor"</string>
   <string name="pref_add_traffic_pkg">Satın Alınan Ek Veri</string>
   <string name="pref_adjust_data_usage">Operatör Mesaj Şablonu</string>
   <string name="pref_adjust_data_usage_summary">Kalibrasyon şablonunu değiştirdikten sonra MIUI, operatörünüzün veri kullanım istatistiklerini almak için, onu kullanacaktır.</string>
+  <string name="pref_adjust_data_usage_value">Değiştirildi</string>
   <string name="pref_adjust_traffic_data">Veri Kullanımını Ayarla</string>
   <string name="pref_allow_connect_network_title">Uluslararası Veri Dolaşımı</string>
   <string name="pref_allow_connect_network_whitelist_title">Dolaşımdayken mobil veri kullanımına izin ver</string>
@@ -1720,10 +1725,13 @@ için bekleniyor"</string>
   <string name="pref_free_traffic_settings">En üst veri kullanım ayarları</string>
   <string name="pref_key_daily_package_summary">Günlük veri sıfırlama planını aç</string>
   <string name="pref_key_daily_package_switch">Günlük veri planı</string>
+  <string name="pref_key_daily_package_value">Günlük veri planı</string>
   <string name="pref_key_direction_traffic">Belirlenmiş mobil veri</string>
+  <string name="pref_key_extra_package_value">Paket boyutu</string>
   <string name="pref_key_extra_package_switch">Aylık kontör paketi</string>
   <string name="pref_key_half_year_package_start">Başlama tarihi</string>
   <string name="pref_key_half_year_package_switch">Yarım yıllık veri paketi</string>
+  <string name="pref_key_half_year_package_value">Paket boyutu</string>
   <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
   <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
   <string name="pref_leisure_no_overlay">Açık</string>
@@ -1774,6 +1782,7 @@ için bekleniyor"</string>
   <string name="pref_title_upload_data_usage">Veri kullanımı istatistiklerini bildir</string>
   <string name="pref_title_virus_white_list">İstisnalar</string>
   <string name="pref_traffic_manage_title">Veri Kullanımı</string>
+  <string name="pref_warning_values">Veri kullanımı uyarı düzeyi</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Akıllı istisnalara izin ver</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Yeni yüklenen uygulamalar için veri tasarrufunu otomatik olarak etkinleştir</string>
   <string name="pref_traffic_saving_compressed">Sıkıştırıldı</string>
@@ -1873,6 +1882,8 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="quick_optimize_suggest_battery_over_heat">Telefon aşırı ısınmış, düzeltin</string>
   <string name="random_expression">Rastgele İfade</string>
   <string name="random_expression_summary">Rastgele komik yüz ifadeleri, QQ ve Wechat ile paylaşılacak</string>
+  <string name="reach_daily_limit_value_body">Mobil veri kullanımınızı azaltın.</string>
+  <string name="reach_daily_limit_value_title">Günlük veri sınırına ulaşıldı</string>
   <string name="read_all_sms">Tümünü oku</string>
   <string name="read_number">86 makale</string>
   <string name="read_unit">" makale"</string>
