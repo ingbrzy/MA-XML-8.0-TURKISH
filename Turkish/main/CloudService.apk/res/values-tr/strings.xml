@@ -218,7 +218,7 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_dspt_provision">Mi Bulut kullanarak verilerinizi eşitleyin, cihazınızın konumunu bulun ve arkadaşlarınızla paylaşın.</string>
   <string name="micloud_find_device_finish">Tamam</string>
   <string name="micloud_find_device_guide_button">Telefonu Bul özelliğini aç</string>
-  <string name="micloud_find_device_guide_content">"SIM kartınızı değiştirdiğinizde; bu özelliğin kullanılabilmesi için otomatik olarak bir mesaj gönderilir."</string>
+  <string name="micloud_find_device_guide_content">Bu servisi etkinleştirmek için bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz sizi bu mesaj için ücretlendirir. SIM kartınızı değiştirdiğinizde, bu özelliği tekrar etkinleştirmek için otomatik olarak bir mesaj gönderilir.</string>
   <string name="micloud_find_device_guide_fail_reopen">Mi Bulut\'ta Telefonu Bul özelliğini aç</string>
   <string name="micloud_find_device_guide_fail_sub_net">Ağ bağlantınız kontrol edin ve tekrar deneyin.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Bağlantı zaman aşımı. Daha sonra tekrar deneyin.</string>
@@ -233,8 +233,7 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat veri güvenliğini sağlamak için Telefonu Bul\'u açın</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay veri güvenliğini sağlamak için Telefonu Bul\'u açın</string>
   <string name="micloud_find_device_guide_progress">Telefonu Bul açılıyor…</string>
-  <string name="micloud_find_device_guide_title">"%s ile konum, kilitleme veya
-silmeyi cihazda yapabilirsiniz."</string>
+  <string name="micloud_find_device_guide_title">Cihazınızı bulmak, kilitlemek veya silmek için %s oturum açın.</string>
   <string name="micloud_find_device_open_fail">"Telefonu Bul açılamadı"</string>
   <string name="micloud_find_device_opened">Telefonu Bul açık</string>
   <string name="micloud_find_device_opened_content"> %s telefonunuzu bulun</string>
