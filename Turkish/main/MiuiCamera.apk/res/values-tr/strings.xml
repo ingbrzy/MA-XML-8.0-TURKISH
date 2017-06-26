@@ -282,6 +282,8 @@ birden fazla fotoğraf çekilecek"</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Tam Ekran 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standart 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Kamera Çerçevesi</string>
+  <string name="pref_camera_proximity_lock_summary">Cebe yerleştirildiğinde dokunmatik hareketleri kilitle</string>
+  <string name="pref_camera_proximity_lock_title">Cep Modu</string>
   <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Kapalı</string>
   <string name="pref_camera_recordlocation_entry_on">Açık</string>
