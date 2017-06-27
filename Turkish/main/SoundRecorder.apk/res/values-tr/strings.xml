@@ -39,6 +39,9 @@
   <string name="error_sdcard_access">"Depolamaya erişilemiyor"</string>
   <string name="error_sdcard_unmounted">Şimdi SD kart takın</string>
   <string name="export_to_note">Notları dışarı aktar</string>
+  <string name="head_set_tip_dialog_msg">Özel önayarlarla (Mesela: Müzik, Ses) ses kaydı yapabilmek için kulaklıklarınızı çıkartın.</string>
+  <string name="head_set_tip_dialog_ok">Anladım</string>
+  <string name="head_set_tip_dialog_title">Dahili mikrofonu kullan</string>
   <string name="fm_record">Radyo Kayıtları (%d)</string>
   <string name="invalid_argument">Geçersiz kanıt</string>
   <string name="keywords_search_call_record">Çağrıları kaydet, çağrı kaydı, çağrı kaydı, çağrı kaydı</string>
@@ -165,5 +168,4 @@
   <string name="toast_uninstall_fileexplorer">"Gezgin uygulaması yüklü değil"</string>
   <string name="wifi_recommended_body" formatted="false">Mobil veri bağlantısı kullanarak bu dosyayı indirmeniz (%s) veri kullanımını arttıracaktır. Eğer planladığınız veri kullanım sınırını aşarsanız, operatörünüz sizden ek ücret talep edebilir. WLAN bağlantısıyla bun dosyayı indirmeniz için bekletiliyor, %s dokunun.</string>
   <string name="wifi_recommended_title">Veri Kullanım Uyarısı</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
