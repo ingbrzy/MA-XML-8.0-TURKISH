@@ -6,6 +6,7 @@
   <string name="btn_title_force">Zorla</string>
   <string name="choice_no">Hayır</string>
   <string name="choice_yes">Evet</string>
+  <string name="default_space_name">Adsız Alan</string>
   <string name="dialog_download_space_cancel">İptal</string>
   <string name="dialog_download_space_create">Tamam</string>
   <string name="dialog_download_space_title">Alan indirilsin mi?</string>
@@ -59,6 +60,7 @@
   <string name="sscm_registration_summary">Ayrıntılarını görüntülemek için bildirimleri aşağı çekin</string>
   <string name="title_sscm_registration">Güvenli Alan Hizmet Hatırlatıcısı</string>
   <string name="toast_space_creation_failed">Alan oluşturulamadı</string>
+  <string name="unknown"> (Bilinmiyor)</string>
   <string name="uri_invalid">URI veya QR kodu Güvenli Alanı tanımlamaz</string>
   <string name="uri_invalid_server_url">"Kayıt URI'sinde geçersiz sunucu bağlantısı"</string>
   <string name="uri_missing_registration_token">"Kayıt URI'sındaki boş kayıt veya eksik kayıt belirteci"</string>
