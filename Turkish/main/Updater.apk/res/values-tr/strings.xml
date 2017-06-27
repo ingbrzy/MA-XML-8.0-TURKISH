@@ -106,6 +106,7 @@
   <string name="downloading_description">İndiriliyor...</string>
   <string name="edit_comment">Yorum ekle</string>
   <string name="edit_comment_title">Yorumu Düzenle</string>
+  <string name="edit_text_default">Yorum yaz</string>
   <string name="emegency_build">"Yapı "</string>
   <string name="english_original_changelog">İngilizce olarak değişiklikler</string>
   <string name="english_original_changelog_summary">İngilizce orjinal sunucularından ROM değişikliklerini görüntüler</string>
@@ -217,6 +218,16 @@
   <string name="pm_root_success_title">Root erişimi etkin</string>
   <string name="power_off">Kapat</string>
   <string name="previous">Önceki</string>
+  <string name="provision_activate_device">Cihaz etkinleştiriliyor ...</string>
+  <string name="provision_check_sim">SIM Kartı algıla</string>
+  <string name="provision_connect_wifi">"WLAN'a bağlan"</string>
+  <string name="provision_have_sim">SIM kart takıldı</string>
+  <string name="provision_no_network_extra">"WLAN'a bağlanın veya SIM kartınızı takın ve cihazınızı etkinleştirmek için mobil veri kullanın. Ağınızı bağlamadan cihazınızı aktive edemezsiniz."</string>
+  <string name="provision_no_network_title">Ağa bağlan</string>
+  <string name="provision_retry">Tekrar dene</string>
+  <string name="provision_toast_no_network">Önce ağa bağlan</string>
+  <string name="provision_toast_server_error">Sunucuya bağlanamıyordu. Bir iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="provision_toast_timeout">Bağlantı zaman aşımına uğradı. Ağ ayarlarınızı kontrol edin.</string>
   <string name="progress_title_checking">Güncellemeler kontrol ediliyor...</string>
   <string name="reboot">Yeniden Başlat</string>
   <string name="reboot_now">Şimdi Başlat</string>
@@ -226,9 +237,11 @@
 http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">"Kurtarma Moduna giremiyor"</string>
   <string name="recovery_failed_title">Sisteminizi güncellemek için Mi PC Suite kullanın</string>
+  <string name="recovery_power_need_plugged">Şarj cihazını güncellemek için bağlayın</string>
   <string name="recovery_power_not_enough_msg">Pil %35\'den az kaldığı takdirde güncellemek için cıhazı şarja takın</string>
   <string name="recovery_power_not_enough_msg_plugged">Cihazı güncellemeden önce pilin %15 üzerinde olması gerekmektedir.</string>
   <string name="recovery_power_not_enough_title">Düşük Batarya</string>
+  <string name="recovery_power_plugged_warning">Güncelleme boyunca şarj cihazının, cihazınıza bağlı olduğundan emin olun</string>
   <string name="repeat">Tekrar Dene</string>
   <string name="root_acquired">Root Erişimine izin ver</string>
   <string name="root_agree_check_box_title">Root Erişim risklerini anladım</string>
