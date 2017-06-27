@@ -172,9 +172,12 @@
   <string name="call_waiting_indication">Diğer taraf görüşmede, lütfen bekleyin...</string>
   <string name="can_not_dial_vt_while_voice_prompt">"Sesli görüşme esnasında görüntülü çağrı yapılamıyor"</string>
   <string name="can_not_dial_while_vt_prompt">"Görüntülü çağrıdayken arama yapılamaz"</string>
-  <string name="category_personal">Personal</string>
-  <string name="category_work">Work</string>
+  <string name="category_personal">Kişisel</string>
+  <string name="category_work">İş</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
+  <string name="change_default_dialer_dialog_title">Varsayılan arayıcı uygulaması değiştirilsin mi?</string>
+  <string name="change_default_dialer_no_previous_app_set_text">%s varsayılan arama uygulaması olarak değiştirilsin mi?</string>
+  <string name="change_default_dialer_with_previous_app_set_text">%1$s yerine %2$s varsayılan arama uygulaması olarak değiştirilsin mi?</string>
   <string name="charge_length_format">%1$s önce</string>
   <string name="choose_profile">Profil seç</string>
   <string name="clear_adb_keys">USB Hata Ayıklama yetkilerini iptal et</string>
@@ -219,6 +222,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="debug_monitoring_category">İzleniyor</string>
   <string name="debug_networking_category">Ağ oluşturuluyor</string>
   <string name="debug_view_attributes">Görünüm özellik incelemesini etkinleştir</string>
+  <string name="delete_icon_description">Engeli kaldır</string>
   <string name="dev_settings_warning_message">Bu ayarlar geliştirme kullanımı için tasarlanmıştır. Bunlar cihazınızın ve üzerindeki uygulamaların zararlı veya hatalı çalışmasına neden olabilir.</string>
   <string name="dev_settings_warning_title">Geliştirici seçeneklerine izin verilsin mi?</string>
   <string name="development_settings_enable">Geliştirici seçeneklerini etkinleştir</string>
@@ -306,6 +310,8 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="incoming_call_failed_low_battery">Gelen Çağrı düşük pil nedeniyle başarısız oldu</string>
   <string name="keep_screen_on">Uyanık kal</string>
   <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyumaz</string>
+  <string name="launch_defaults_none">Varsayılan ayar yok</string>
+  <string name="launch_defaults_some">Bazı varsayılan ayar</string>
   <string name="incall_error_missing_voicemail_number">Bilinmeyen sesli mesaj numarası.</string>
   <string name="incall_error_supp_service_conference">Konferans görüşmesi yapılamıyor.</string>
   <string name="incall_error_supp_service_hangup">Çağrı serbest bırakılamıyor.</string>
@@ -431,6 +437,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="screen_overlay_message">Bu izin ayarını değiştirmek için, önce Ayarlar altındaki Uygulamalardan; Ekran Bindirmesi özelliğini kapatmak zorundasınız</string>
   <string name="screen_overlay_title">Ekran Bindirmesi tespit edildi</string>
   <string name="screen_zoom_summary_custom">Özel (%d)</string>
+  <string name="screen_zoom_summary_default">Varsayılan</string>
   <string name="screen_zoom_summary_extremely_large">Kocaman</string>
   <string name="screen_zoom_summary_large">Büyük</string>
   <string name="screen_zoom_summary_small">Küçük</string>
@@ -479,7 +486,14 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="toast_make_video_call_failed">Görüntülü görüşme yapılamıyor, yanlış numara biçimi</string>
   <string name="toast_personal_call_msg">Using the personal dialer to make the call</string>
   <string name="track_frame_time">GPU görüntüleme profili</string>
-  <string name="transition_animation_scale_title">Geçiş animasyon ölçeği</string>
+  <string name="transition_animation_scale_title">Animasyon Geçiş Ölçeği</string>
+  <string name="tts_default_lang_summary">Konuşulan metin için dile özgü sesi ayarları</string>
+  <string name="tts_default_lang_title">Dil</string>
+  <string name="tts_default_pitch_summary">Sentezlenen konuşmanın tonunu etkiler</string>
+  <string name="tts_default_pitch_title">Derece</string>
+  <string name="tts_default_rate_summary">Metnin konuşulma hızı</string>
+  <string name="tts_default_rate_title">Konuşma Hızı</string>
+  <string name="tts_default_sample_string">Bu konuşma sentezinin bir örneğidir</string>
   <string name="tts_engine_network_required">Bu dilde, metinden-sese çıkışı için çalışan bir ağ bağlantısı gereklidir.</string>
   <string name="tts_engine_preference_section_title">Tercih Edilen Sentezleyici</string>
   <string name="tts_engine_security_warning">Bu konuşma sentezleyicisi, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere konuşulacak tüm metni alabilmektedir. %s sentezleyici bunu sağlar. Bu konuşma sentezleyicisinin kullanımını etkinleştirilsin mi?</string>
@@ -552,5 +566,5 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_verbose_logging">Kablosuz Ayrıntılı Günlüğü Etkinleştir</string>
   <string name="wifi_verbose_logging_summary">Wi-Fi günlük seviyesini artırın, her RSSI başına bir Wi-Fi Seçici göster</string>
-  <string name="window_animation_scale_title">Pencere animasyon ölçeği</string>
+  <string name="window_animation_scale_title">Animasyon Penceresinin Ölçeği</string>
 </resources>
