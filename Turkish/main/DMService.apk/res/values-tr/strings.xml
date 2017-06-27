@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">DMService</string>
+  <string name="check_error">Hatayı kontrol et, kayıt başarısız oldu!</string>
+  <string name="decode_error">Kod çözme hatası, kayıt başarısız oldu!</string>
+  <string name="register_failed">Kayıt başarısız oldu</string>
+  <string name="register_success">Başarıyla kayıt olundu!</string>
+</resources>
