@@ -16,4 +16,26 @@
         <item quantity="other">Seçilen eylem Acil Çağrı Modunda kullanılamaz. Telefon %s dakika boyunca bu modda olacak. Artık ayrılmak istiyor musunuz?</item>
         <item quantity="one">"Seçilen eylem Acil Çağrı Modunda kullanılamaz. Telefon %s dakika boyunca bu modda olacak. Artık ayrılmak istiyor musunuz?"</item>
     </plurals>
+<plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d numara</item>
+        <item quantity="one">%d numara</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d numara silinecek.</item>
+        <item quantity="one">%d numara silinecek.</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">%s kadar kişiyi ekleyebilirsiniz, tekrar seçin.</item>
+        <item quantity="one">%s kadar kişiyi ekleyebilirsiniz, tekrar seçin.</item>
+    </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">Ertele: %s saniye</item>
+        <item quantity="one">Ertele: %s saniye</item>
+    </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+%d hakkınız kaldı."</item>
+        <item quantity="one">"
+%d hakkınız kaldı."</item>
+    </plurals>
 </resources>
