@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="act_find_city_hint">Konumu Girin</string>
-  <string name="act_find_city_hot_title">Ekle</string>
-  <string name="act_set_city_find_side">Yer saptanıyor...</string>
-  <string name="act_set_city_find_side_error">"Konum bulunamadı"</string>
-  <string name="act_set_city_swipe_hint">Konumu silmek için sola kaydırın</string>
+  <string name="act_find_city_hint">Konumu girin</string>
+  <string name="act_find_city_hot_attractions_title">Meşhur şehirler</string>
+  <string name="act_find_city_hot_city_title">Meşhur Şehirler</string>
+  <string name="act_set_city_find_side">Bulunuyor...</string>
+  <string name="act_set_city_find_side_error">"Bulunamadı"</string>
   <string name="act_weather_find_city_added">Eklendi</string>
-  <string name="act_weather_find_city_click_retry">Tekrar Dene</string>
+  <string name="act_weather_find_city_click_retry">Yeniden deneyin</string>
   <string name="act_weather_find_city_net_no_good">"Ağa bağlanamadı."</string>
   <string name="act_weather_find_city_no_result">Sonuç yok</string>
-  <string name="act_weather_find_city_searching">Aranıyor...</string>
+  <string name="act_weather_find_city_searching">Aranıyor…</string>
   <string name="activity_alert_detail_title"/>
   <string name="activity_detail_time_format">E</string>
   <string name="activity_find_city_dialog_cancel">İptal</string>
@@ -30,6 +30,7 @@
   <string name="ads_extension"/>
   <string name="ads_install_num"/>
   <string name="ads_score_title"/>
+  <string name="alert_detail_title">Alarm Detayları</string>
   <string name="alert_warning">Hava Durumu Uyarıları</string>
   <string name="already_voted">Oylandı</string>
   <string name="already_voted_toast">Bugün zaten oy kullandın</string>
@@ -52,7 +53,21 @@
   <string name="aqi_display_exp">exp_%1$s</string>
   <string name="aqi_publish_source">%1$s CNEMC tarafından güncellendi</string>
   <string name="aqi_publish_time">Güncelleme: %1$s</string>
+  <string name="aqi_quality_ambient_air_quality">Yakındaki hava kalitesi</string>
+  <string name="aqi_quality_co_desc">Karbonmonoksit</string>
+  <string name="aqi_quality_detail_15_days">15 günlük hava tahmini</string>
+  <string name="aqi_quality_detail_48_hours">48 saatlik hava tahmini</string>
+  <string name="aqi_quality_major_pollutants">Büyük kirleticiler</string>
+  <string name="aqi_quality_map_edit_text_hint">Hava kalitesini ara</string>
+  <string name="aqi_quality_map_title">Hava kalitesi haritası</string>
+  <string name="aqi_quality_no2_desc">Nitrojen dioksit</string>
+  <string name="aqi_quality_o3_desc">Ozon</string>
+  <string name="aqi_quality_pm10_desc">İnhaler kaba parçacıklar</string>
+  <string name="aqi_quality_pm25_desc">İnce parçacıklar</string>
+  <string name="aqi_quality_so2_desc">Kükürt dioksit</string>
   <string name="aqi_short_desc">HKE %1$s</string>
+  <string name="aqi_station_best_quality_station">Etrafında en iyisi:</string>
+  <string name="aqi_station_min_distance_station">En yakın istasyon:</string>
   <string name="aqi_sub_desc">HKE</string>
   <string name="aqi_top_pollution">Azami Kirlenme</string>
   <string name="button_abandon">Vazgeç</string>
@@ -64,6 +79,7 @@
   <string name="button_sure_abandon">Değişikliklerden vazgeçilsin mi?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Ağ bağlantısını kontrol edip, yeniden deneyin.</string>
+  <string name="city_exceeded_warning">10 şehir kadar ekleyebilirsiniz</string>
   <string name="close">Kapat</string>
   <string name="commercial">Ticari</string>
   <string name="common_loading_text">Biraz bekleyin…</string>
@@ -157,6 +173,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="menu_add_city">Konum Ekle</string>
   <string name="menu_location">Konumlar</string>
   <string name="menu_minute_rain">İki Saatlik Yağış Tahmini</string>
+  <string name="menu_speeker">Sesli Yayın</string>
   <string name="mi_pad2">latte</string>
   <string name="minute_rain_after_an_hour">Bir saat sonra</string>
   <string name="minute_rain_after_two_hour">İki saat sonra</string>
@@ -180,6 +197,9 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="open_browser">Tarayıcıda Aç</string>
   <string name="open_now">Aç</string>
   <string name="other">Diğer</string>
+  <string name="particulate_matter_exceeded">Yüksek</string>
+  <string name="particulate_matter_not_exceeded">Normal</string>
+  <string name="particulate_matter_serious_exceeded">Çok Yüksek</string>
   <string name="precipitation_degree_five">Fırtınalı</string>
   <string name="precipitation_degree_four">Şiddetli</string>
   <string name="precipitation_degree_one">Yağmurlu</string>
@@ -255,5 +275,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="wind_miles_unit">%1$s m/s</string>
   <string name="wind_unit">%1$skm/s</string>
   <string name="yes_vote_num"> | %1$s kişi</string>
-  <string name="yes_vote_ratio">Lehte %%%1$s</string>
+  <string name="xiaomi_weather_description_content">"Hava Durumu size doğru hava durumu bilgisi sağlar. Bu uygulama olmadan, durum çubuğu ve Ana Ekran, Hava Durumu Aracı düzgün çalışmaz. Uygulamayı kaldırmadan önce bu özelliklere sahip olmadan yapabildiğinizden emin olun."</string>
+  <string name="xiaomi_weather_description_title">Hava Durumu Hakkında</string>
+  <string name="yes_vote_ratio">%%%1$s</string>
 </resources>
