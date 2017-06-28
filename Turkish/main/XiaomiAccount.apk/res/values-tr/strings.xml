@@ -17,6 +17,7 @@
   <string name="account_dspt_provision2">Fazlasını Öğren</string>
   <string name="account_empty_user_name">Mi Hesabı kullanıcı adının girin</string>
   <string name="account_error_all_space_user_name">"Sadece boşluk karakterleri isimde giremezsiniz."</string>
+  <string name="account_error_invalid_user_name">"İsim şu karakteri içeremez: &lt;, &gt;, /"</string>
   <string name="account_error_longer_user_name">"Ad 20 karakterden uzun olamaz"</string>
   <string name="account_error_shorter_user_name">Ad 2 karakterden uzun olmalıdır</string>
   <string name="account_error_user_birthday">Girdiğiniz doğum tarihi geçersiz</string>
@@ -98,6 +99,7 @@
   <string name="completed">Tamam</string>
   <string name="confirm">Doğrulama Kodu</string>
   <string name="confirm_activate_email">Doğrulandı</string>
+  <string name="confirm_bundled_phone_dialog_title">İlişkili telefon numarasını onayla</string>
   <string name="confirm_delete_app_message">"Bu uygulamayı silindikten sonra, bu numara ile Mi Hesabında oturum açmak isterseniz yeniden etkinleştirmeniz yapmanız gerekir."</string>
   <string name="confirm_delete_browser_message">"Bu tarayıcıyı sildikten sonra bu telefon numarası ile Mi Hesabına girmek isterseniz yeniden etkinleştirme yapmanız gerekir."</string>
   <string name="confirm_delete_device_message">"Bu cihazı sildikten sonra bu telefon numarası ile Mi Hesabına girmek isterseniz yeniden etkinleştirme yapmanız gerekir."</string>
@@ -106,6 +108,7 @@
   <string name="confirm_phone_number_dialog_message">Doğrulama kodu gönderilecek: %s.</string>
   <string name="confirm_phone_number_dialog_title">Telefon numarasını onayla</string>
   <string name="confirm_unbind">Bu hesap bağlantısı kesilsin mi?</string>
+  <string name="confirm_unbundled_phone_dialog_message">%1$s telefon numarası %2$s Mi Hesabı ile ilişkilendirildi. Devam ederseniz, artık Mi Hesabı %3$s ile ilişkilendirilmez. Devam edilsin mi?</string>
   <string name="continue_action">Devam</string>
   <string name="cta_declaration_agree_and_continue">Kabul</string>
   <string name="cta_declaration_exit">Çık</string>
@@ -178,8 +181,10 @@
   <string name="forward_to_bind">Ekle</string>
   <string name="get_back_pwd">Şifreyi sıfırla</string>
   <string name="get_device_list_failed">"Cihaz listesi alınamıyor"</string>
+  <string name="get_phone_bind_exceed_limit">"Mi Hesaba 3 kadar bir telefon numarası ile ilişkilendirebilirsiniz. Yeni yeni hesap ekleyemezsiniz."</string>
   <string name="get_email_verifycode_exceed_limit">Çok fazla doğrulama kodu bu numaraya gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
   <string name="get_phone_verifycode_exceed_limit">Çok fazla doğrulama kodu bu numaraya gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
+  <string name="guest_account_label">Mi Misafir Hesabı</string>
   <string name="i_know">Biliyorum</string>
   <string name="ignore">Şimdi değil</string>
   <string name="input_captcha_hint">Kodu girin</string>
@@ -250,7 +255,7 @@
   <string name="notify_network_restricted_content_mobile_network">"Mi Hesabının internet erişimi kısıtlandı. Dokunup izin verin."</string>
   <string name="notify_network_restricted_title">"Mi Hesabı ağa bağlanamadı"</string>
   <string name="oauth_get_scopes_failed">"Hesap bilgisi alınamadı"</string>
-  <string name="oauth_getting_scopes">Verifying account…</string>
+  <string name="oauth_getting_scopes">Hesap doğrulanıyor…</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; şu izinleri istiyor:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Mi Hesabıyla oturum aç</string>
   <string name="other_devices">Diğer Cihazlar</string>
@@ -575,4 +580,5 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="wipe_data_dialog_title">"Bazı öğeler eşitlenemedi."</string>
   <string name="wrong_captcha">Girdiğiniz kod yanlış</string>
   <string name="wrong_vcode">Girdiğiniz doğrulama kodu yanlış</string>
+  <string name="xiao_mi_vip">Mi VIP</string>
 </resources>
