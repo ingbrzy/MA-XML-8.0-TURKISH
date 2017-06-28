@@ -234,6 +234,7 @@
   <string name="epg_cancel_book_program">%1$s [%2$s] İptal Et</string>
   <string name="epg_change_channel">Kanalları değiştir</string>
   <string name="epg_change_channel_casting">Kanalı Değiştir （yayın başlarken）</string>
+  <string name="epg_change_channel_expired">换台 （已结束）</string>
   <string name="epg_change_channel_not_casting">Kanalı Değiştir （%1$s yayında iken）</string>
   <string name="epg_channel_group_open">Tümünü göster</string>
   <string name="epg_channel_operation_tip">Kanala basıp düzenle veya favorilere ekle</string>
@@ -528,6 +529,8 @@ eylem sonrası bir süre bekleyin."</string>
   <string name="minute">dk</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV Yardımcı Sürümü: %1$s</string>
+  <string name="mitv_no_device">没有可连接的电视，请把手机和小米电视连在同一Wifi下</string>
+  <string name="mitv_video">小米在线</string>
   <string name="mode">Mod</string>
   <string name="model_name">Cihaz Modeli</string>
   <string name="month">Ay</string>
@@ -562,6 +565,7 @@ eylem sonrası bir süre bekleyin."</string>
   <string name="no_introduction">İçerik yok</string>
   <string name="no_ir_other_support">Wi-Fi üzerinden Mi TV veya Mi Box kontrol etmek için cihazınızı kullanabilirsiniz.</string>
   <string name="no_ir_support">IR cihazı bulunamadı</string>
+  <string name="no_milink_device">没有发现小米电视/盒子，请稍后再试</string>
   <string name="no_network">"· İnternete bağlandığınızda"</string>
   <string name="no_program">İçerik yok</string>
   <string name="no_qq">Önce QQ yükleyin</string>
@@ -753,8 +757,8 @@ Hesabınızı etkinleştirmek için,
   <string name="passport_trust_device">Bu cihaza güven</string>
   <string name="passport_trying_read_verify_code_sms">Doğrulama kodu al...</string>
   <string name="passport_uplink_reg">Telefon Numarasını Kullan</string>
-  <string name="passport_uplink_slot1_reg">Use SIM 1</string>
-  <string name="passport_uplink_slot2_reg">Use SIM 2</string>
+  <string name="passport_uplink_slot1_reg">"SIM 1'i kullan"</string>
+  <string name="passport_uplink_slot2_reg">"SIM 2'yi kullan"</string>
   <string name="passport_use_generated_pwd_message">Şifrenizi hatırladığınızdan emin olun. Diğer Mi servislerinde oturum açmak için kullanabilirsiniz.</string>
   <string name="passport_use_generated_pwd_title">Şifrenizi hatırlayın</string>
   <string name="passport_user_agreement">Kullanıcı Sözleşmesi</string>
@@ -1009,6 +1013,7 @@ Hesabınızı etkinleştirmek için,
   <string name="supporting_soon">Yakında</string>
   <string name="swipe_loading">Yükleniyor...</string>
   <string name="switch_place">Şehri seç</string>
+  <string name="tab_live">精彩直播</string>
   <string name="technical_support">Teknik Destek</string>
   <string name="temperature">Sıcaklık</string>
   <string name="temprature_frame">%1$d ℃</string>
@@ -1033,8 +1038,10 @@ Hesabınızı etkinleştirmek için,
   <string name="turn_on_timeing_time_tip">%1$s cihaz açılsın mı?</string>
   <string name="tv">TV</string>
   <string name="tv_broadcast">TV ve Radyo</string>
+  <string name="tv_live">电视直播</string>
   <string name="tv_mirror">Ekran Kontrolleri</string>
   <string name="tv_mirror_intro">Yatay modda ekran kontrollerini göster</string>
+  <string name="tv_noresponse_tips">电视/盒子没有响应，请稍后再试</string>
   <string name="tv_power">TV Aç/Kapa</string>
   <string name="udt_conn_error">Cihaz bağlı değil</string>
   <string name="udt_timeout_error">Ağ bağlantısı zaman aşımı, kurulumunu kontrol edin</string>
@@ -1078,6 +1085,7 @@ Değiştirmek için, TV'nun Güç Düğmesine uzun süre basın"</string>
   <string name="video_comment_reply_empty">Yorumlar boş olamaz</string>
   <string name="video_comment_reply_failed">Cevaplama başarısız</string>
   <string name="video_count_info">Toplam video sayımı: %d</string>
+  <string name="video_delte_item">正在删除...</string>
   <string name="video_detial_unfold">Genişlet</string>
   <string name="video_director_label">"Yönetmen: "</string>
   <string name="video_favor">Favori</string>
@@ -1125,7 +1133,8 @@ Değiştirmek için, TV'nun Güç Düğmesine uzun süre basın"</string>
   <string name="wind_speed_medium">Normal</string>
   <string name="wind_sweep">Fan</string>
   <string name="wx_not_installed">WeChat yüklenmedi</string>
-  <string name="xiaomi_vip">Xiaomi VIP</string>
+  <string name="xiaomi_vip">Mi VIP</string>
+  <string name="year_format">%1$d年</string>
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Evet</string>
   <string name="yesterday">Dün</string>
