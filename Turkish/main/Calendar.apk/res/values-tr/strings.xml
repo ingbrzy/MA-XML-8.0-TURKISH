@@ -50,6 +50,7 @@
   <string name="add_anniversary">Yıldönümü ekle</string>
   <string name="add_countdown">Sayaç ekle</string>
   <string name="add_event">Faaliyet ekle</string>
+  <string name="agenda_month_empty_hint">Bugün herhangi bir faaliyet yok</string>
   <string name="agenda_today">BUGÜN, %1$s</string>
   <string name="agenda_tomorrow">YARIN, %1$s</string>
   <string name="agenda_view">Faaliyetler</string>
@@ -391,6 +392,7 @@
   <string name="label_recent_events">Son Etkinlikler</string>
   <string name="live_text">Canlı</string>
   <string name="living_text">Havada</string>
+  <string name="load_more_hint">Faaliyeti %1$d yenile</string>
   <string name="loading">Biraz bekleyin...</string>
   <string name="local_calendar_display_name">Yerel takvim</string>
   <string name="local_owner_account_name">Bu cihazda sakla</string>
@@ -443,6 +445,7 @@
   <string name="new_event_dialog_option">Yeni etkinlik</string>
   <string name="no_calendars_found">Bir etkinlik eklemeden önce takviminizin görünebilmesi için telefonunuza en az bir takvim hesabı eklemeniz gerekir. Takvim hesabı eklemek için Hesap Ekle tuşuna dokunun (eğer daha önce bir hesap eklediyseniz, eşitlenmesini bekleyin ve tekrar deneyin). Veya iptal\'e dokunun ve bir takvim hesabınızın olduğundan emin olun.</string>
   <string name="no_contact_birthday_hint">İçe aktarılacak doğum günü yok</string>
+  <string name="no_events_hint">Faaliyet yok</string>
   <string name="no_network">Ağ bağlantısı yok</string>
   <string name="no_network_btn">Tekrar Dene</string>
   <string name="no_results_found">Sonuç yok</string>
@@ -518,6 +521,7 @@
   <string name="preferences_use_home_tz_title">Yerel zaman dilimini kullan</string>
   <string name="preferences_week_start_day_dialog">Haftanın başlama günü</string>
   <string name="preferences_week_start_day_title">Haftanın Başlama Günü</string>
+  <string name="pull_to_refresh_hint">%1$d faaliyetleri yenilemek için çekin</string>
   <string name="presence_label">Durum</string>
   <string name="privacy_label">Gizlilik</string>
   <string name="quick_response_custom_msg">Özel mesaj...</string>
@@ -539,6 +543,7 @@
   <string name="recurrence_end_date_label">Tarihe kadar</string>
   <string name="recurrence_month_pattern_by_day">Aylık aynı gün</string>
   <string name="refresh">Yenile</string>
+  <string name="refreshing_hint">Yenileniyor</string>
   <string name="reminders_label">Hatırlatıcı ekle</string>
   <string name="repeat_activity_label">Tekrarla</string>
   <string name="repeat_custom_activity_label">Özel</string>
