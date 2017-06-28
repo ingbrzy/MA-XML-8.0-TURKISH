@@ -476,7 +476,7 @@
   <string name="load_shuffle">Yükleniyor...</string>
   <string name="loadercontainer_loading">Biraz bekleyin…</string>
   <string name="loading_hint">Biraz bekleyin...</string>
-  <string name="local_music">Çevrimdışı</string>
+  <string name="local_music">Yerel Müzik</string>
   <string name="local_music_empty">Yerel çalma listesi boş</string>
   <string name="local_music_empty_goto_online">Şarkı bulunamadı</string>
   <string name="local_music_is_not_available">Yerel müzik mevcut değil.</string>
@@ -953,6 +953,8 @@
   <string name="upgrade_waringing">"Sadece cihazınızda depolanan müzikleri çevrimdışı dinlemeniz mümkün olacaktır."</string>
   <string name="valid_period">Geçerlilik: %s</string>
   <string name="version_info">Sürüm</string>
+  <string name="vip_after_tomorrow_auto_renew_message">Müzik aboneliğiniz yarından sonra otomatik olarak yenilenecektir. Bu ödemeyi tamamlamak için hesabınızda yeterli miktarda Mi Kredisi bulunduğundan emin olun.</string>
+  <string name="vip_after_tomorrow_renew_message">"Yüksek kaliteli ses akışı sağlayamayacaksınız, ancak bazı şarkılar normal kalitede sunulacak."</string>
   <string name="vip_auto_renew_message">Sizin Müzik aboneliği bu akşam otomatik olarak yenilenecektir. Bu ödemeyi tamamlamak için hesabınızda yeterli Mi Kredisi olduğundan emin olun.</string>
   <string name="vip_auto_renew_notification_message">Müzik aboneliğinizi yenilemek için Mi Kredi ekleyin.</string>
   <string name="vip_auto_renew_notification_title">Abonelik ödemesi</string>
@@ -964,6 +966,8 @@
   <string name="vip_renew_title">Abonelik sona erdi</string>
   <string name="vip_required">Ayrıcalıklı Şarkı Paketindeki bu şarkı çalmak için sizin olsun. Şimdi şarkı atıldı.</string>
   <string name="vip_required_with_song">Ayrıcalıklı Şarkı Paketindeki “%s” sizin olsun. Şimdi bu şarkı atlandı..</string>
+  <string name="vip_tomorrow_auto_renew_message">Müzik aboneliğiniz yarın akşam otomatik olarak yenilenecektir. Bu ödemeyi tamamlamak için hesabınızda yeterli miktarda Mi Kredisi bulunduğundan emin olun.</string>
+  <string name="vip_tomorrow_renew_message">"Yüksek kaliteli ses akışı sağlayamayacaksınız, ancak bazı şarkılar normal kalitede sunulacak."</string>
   <string name="warning_tip_cancel">İndir</string>
   <string name="warning_tip_content">"Artık WLAN ağına bağlı kalamazsınız. Mobil veri bağlantısı kullanarak bunu indirmek veri tüketimini artıracaktır. Eğer planladığınız veri sınırının üzerine çıkarsanız operatörünüz sizden ek ücret alabilir."</string>
   <string name="warning_tip_ok">Durdur</string>
