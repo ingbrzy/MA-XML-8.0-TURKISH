@@ -250,7 +250,7 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="animator_duration_scale_title">Animatör Süre Sayacı</string>
   <string name="another_migration_already_in_progress">Başka bir göç zaten sürüyor.</string>
   <string name="anr_record_interval_title">ANR Aralıklarını Kaydet</string>
-  <string name="anti_spam">Kara Liste</string>
+  <string name="anti_spam">Engelli Listesi</string>
   <string name="aod_mode_summary">Ekran kapalıyken daima saati, tarihi ve mesajları göster.</string>
   <string name="aod_mode_title">Daima Açık Modu</string>
   <string name="apn_apn">Erişim Noktası Ağı</string>
@@ -627,12 +627,12 @@ Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarl
   <string name="block_list_dialog_content">Bu işlem, "%s" bağlantısını bu cihazdan kesip, engelleme listesine ekleyecek</string>
   <string name="block_list_dialog_title">Bağlantı kesilsin mi?</string>
   <string name="block_list_mtk_dialog_content">Bu işlem "%s" bağlantısını bu cihazdan keser</string>
-  <string name="block_list_no_device">Kara Listede bağlı cihaz yok</string>
+  <string name="block_list_no_device">Engelli Listeside bağlı cihaz yok</string>
   <string name="block_list_qcom_dialog_content">Bu işlem "%s" cihazının bağlantısını keser ve bunu engelleme listesine ekler.</string>
   <string name="block_list_remove_dialog_content">Bu cihaz "%s" bu paylaşımına bağlanabilecek</string>
-  <string name="block_list_remove_dialog_title">“%s” kara listeden kaldırılsın mı?</string>
+  <string name="block_list_remove_dialog_title">“%s” Engelli Listesinden kaldırılsın mı?</string>
   <string name="block_list_summary">Bu paylaşıma bağlanmasına izin verilmeyen cihazları görüntüleme</string>
-  <string name="block_list_title">Kara Liste</string>
+  <string name="block_list_title">Engelli Listesi</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Medya sesi için bağlandı</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Medya sesi için kullan</string>
@@ -764,8 +764,6 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_pb_remember_choice">"Tekrar sorma"</string>
   <string name="bluetooth_permission_request">Bluetooth izni isteği</string>
   <string name="bluetooth_phonebook_request">Telefon rehberi erişim isteği</string>
-  <string name="bluetooth_pin_values_hint">Genellikle 0000 veya 1234</string>
-  <string name="bluetooth_pin_values_hint_16_digits">16 haneli olmalı</string>
   <string name="bluetooth_preference_connected_devices">Cihazlara bağlandı</string>
   <string name="bluetooth_preference_device_settings">Cihaz Ayarları</string>
   <string name="bluetooth_preference_found_devices">Kullanılabilir cihazlar</string>
@@ -2171,7 +2169,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="internal_storage">Dahili depolama</string>
   <string name="internal_storage_sentence">Dahili depolama</string>
   <string name="invalid_location">"Yükleme konumu geçerli değil."</string>
-  <string name="invalid_size_value">Paket boyutu hesaplanamadı.</string>
   <string name="ipaddr_label">IP Adresi:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s ve %2$s</string>
@@ -2698,7 +2695,6 @@ Burada diğer kullanıcılar var.
   <string name="memory_media_usage">Medya</string>
   <string name="memory_music_usage">Ses (Müzik, Zil Sesleri, Podcast, vb.)</string>
   <string name="memory_performance">Performans</string>
-  <string name="memory_rightvalue">Mevcut: %s</string>
   <string name="memory_settings_title">Hafıza</string>
   <string name="memory_size">Toplam Boyut</string>
   <string name="memory_summary">Yaklaşık %2$s/%1$s hafıza kullanıldı</string>
@@ -3594,10 +3590,13 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="priority_storage_settings_summary">"Depolama kartı tespit edildiğinde; veriler otomatik olarak cihazın dahili depolama alanına kaydedilir."</string>
   <string name="priority_storage_summary">Verilerinizi kaydetmek için yeri seçin</string>
   <string name="priority_storage_title">Depolama Ayarları</string>
+  <string name="privacy_close_dlg_button_ok">Kapat</string>
+  <string name="privacy_close_dlg_msg">Gizlilik şifresi kapalı olduğunda, öğeleriniz artık korunmaz.</string>
+  <string name="privacy_close_dlg_title">Dikkat</string>
   <string name="privacy_delete_space_dlg_message">İkinci alan şifrenizi değiştirmek için mevcut ikinci alanınızı silmeli ve yenisini oluşturmalısınız.</string>
   <string name="privacy_dlg_button_cancel">İptal</string>
-  <string name="privacy_factory_reset_dlg_button_text">Veriyi yedekle</string>
-  <string name="privacy_factory_reset_dlg_message">"Verilerinizi yerel olarak yedekleyin ve sonra fabrika verilerine sıfırlama gerçekleştirin. Bundan sonra, şifrenizi değiştirebileceksiniz."</string>
+  <string name="privacy_factory_reset_dlg_button_text">Sıfırla</string>
+  <string name="privacy_factory_reset_dlg_message">"Eğer şifrenizi unutursanız; fabrika ayarlarına sıfırlayıp, yeni bir tane alabilirsiniz."</string>
   <string name="privacy_factory_reset_dlg_title">Verilerinizi yedekleyin</string>
   <string name="privacy_applock">Uygulama Kilidi</string>
   <string name="privacy_childmode">Çocuk Modu</string>
@@ -3639,6 +3638,7 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="privacy_password_settings_titles_elder_mode">Gizlilik koruma şifresi fotoğraflarınızı, dosyalarınızı ve notlarınızı korur.</string>
   <string name="privacy_password_settings_titles_second_space">Gizlilik koruma şifresi fotoğraflarınızı, dosyalarınızı ve notlarınızı korur.</string>
   <string name="privacy_password_title">Gizlilik Koruma Şifresi</string>
+  <string name="privacy_password_toggle_summary">Özel öğelere erişmeye çalıştığınız da her sefer şifre ister.</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_use_finger_dialog_mess">Gizlilik Koruma şifresini parmakizi kullanarak koruyabilirsiniz.</string>
   <string name="privacy_password_use_finger_dialog_open">Ayarlar</string>
@@ -4951,7 +4951,7 @@ Devam etmek için; fakat uygulamalar bu konumdan taşınırken ve veri transferi
   <string name="suspension_ball_enable">Kısayol Menüsüne erişim</string>
   <string name="suspension_ball_enable_desc">Kısayol Menüsünü açıp/kapatmak için hızlı erişim kombinasyonu</string>
   <string name="suw_back_button_label">Geri</string>
-  <string name="suw_more_button_label">Fazlası</string>
+  <string name="suw_more_button_label">Diğer</string>
   <string name="suw_next_button_label">Sonraki</string>
   <string name="switch_off_text">Kapat</string>
   <string name="switch_on_text">Açık</string>
@@ -5109,7 +5109,7 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="track_frame_time">GPU Sahneleme Profili</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">"Trackball'e Uyandır"</string>
-  <string name="traffic_balance">Akıllı trafik stratejisi</string>
+  <string name="traffic_balance">Akıllı Trafik Stratejisi</string>
   <string name="trans_backingup">Yedekleniyor…</string>
   <string name="trans_backingup_no_items">Eşitleniyor…</string>
   <string name="trans_calculating">Hesaplanıyor…</string>
