@@ -75,8 +75,9 @@
   <string name="legal_workday_invalidate_message">(Veri zamanı aşıldı. Ayarlardan güncelle)</string>
   <string name="legal_workday_message">" (Tatillerde alarmı kapat)"</string>
   <string name="life_post_setting">Sabah Raporu</string>
+  <string name="life_post_setting_FBE_remind">Sistem kısıtlaması nedeniyle, sabah raporundaki hava durumu bilgileri, yeniden başlatılana kadar doğru şekilde görüntülenmeyebilir</string>
   <string name="life_post_setting_open_subtitle">Alarmları 4:00-09:30 arasında kapattığınızda hava durumu hakkında bilgi alın</string>
-  <string name="life_post_setting_open_title">Sabah Raporları Alın</string>
+  <string name="life_post_setting_open_title">Sabah Raporları Al</string>
   <string name="life_post_setting_wake_up_list_title">Uyanma Geçmişi</string>
   <string name="life_post_wake_up_acumu_day_title">Gün Sayacı</string>
   <string name="life_post_wake_up_item_acumu_day">%1$s gün</string>
