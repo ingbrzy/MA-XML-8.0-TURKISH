@@ -17,9 +17,9 @@
   <string name="addPeopleToGroup">Bazılarını eklemek için, grubu düzenleyin.</string>
   <string name="add_2sec_pause">2 saniye duraklama ekle</string>
   <string name="add_account">Hesap ekle</string>
-  <string name="add_blacklist">Kara Listeye ekle</string>
-  <string name="add_blacklist_dialog_message">Numara Kara Listeye eklensin mi?</string>
-  <string name="add_blacklist_dialog_title">Kara Liste</string>
+  <string name="add_blacklist">Engelli Listesine ekle</string>
+  <string name="add_blacklist_dialog_message">Numara Engelli Listesine eklensin mi?</string>
+  <string name="add_blacklist_dialog_title">Engelli Listesi</string>
   <string name="add_connection_button">Bağlantı ekle</string>
   <string name="add_contact_dlg_message_fmt">\"%s\" kişilere eklensin mi?</string>
   <string name="add_display_photo_entry">Profil fotoğrafı ekle</string>
@@ -50,7 +50,7 @@
   <string name="back_view_description">Geri dön</string>
   <string name="batch_delete">Kişileri toplu sil</string>
   <string name="batch_delete_msg">%d kişisi silinsin mi?</string>
-  <string name="blacklist">Kara Liste</string>
+  <string name="blacklist">Engelli Listesi</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth bağlantısı kesildi</string>
   <string name="blurbJoinContactDataWith"> %s ile birleştirmek istediğiniz kişiyi seçin:</string>
   <string name="btn_delete_multi_contacts">%d kişiyi sil</string>
@@ -108,7 +108,7 @@
   <string name="call_work">İşi Ara</string>
   <string name="call_work_mobile">İş Telefonunu Ara</string>
   <string name="call_work_pager">İş Çağrı Cihazını Ara</string>
-  <string name="calllog_menu_blacklist">Kara Listeye Ekle</string>
+  <string name="calllog_menu_blacklist">Engelli Listesine Ekle</string>
   <string name="calllog_menu_edit_before_call">Düzenle</string>
   <string name="calllog_menu_send_sms">Mesaj Gönder</string>
   <string name="callrecordview_item_newcontact">| Yeni Kişi</string>
@@ -122,7 +122,7 @@
   <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Not ekle</string>
   <string name="callrecordview_menu_batch_delete">Toplu Sil</string>
-  <string name="callrecordview_menu_blocklist">Kara Liste</string>
+  <string name="callrecordview_menu_blocklist">Engelli Listesi</string>
   <string name="callrecordview_menu_conference">Konferans Çağrısı</string>
   <string name="callrecordview_menu_delete">Çağrı geçmişini sil</string>
   <string name="callrecordview_menu_delete_accepted">Cevaplanmış çağrıları temizle</string>
@@ -1154,9 +1154,9 @@ Favorilerinize bir kişi eklemek için:
   <string name="remind_btn_ignore">Yoksay</string>
   <string name="remind_btn_sync_now">Eşitle</string>
   <string name="removePhoto">Fotoğrafı kaldır</string>
-  <string name="remove_blacklist">Kara Listeden Çıkart</string>
-  <string name="remove_blacklist_dialog_message">Bu numara kara listeden kaldırılsın mı?</string>
-  <string name="remove_blacklist_dialog_title">Bu numara Kara listeden kaldırılsın mı?</string>
+  <string name="remove_blacklist">Engelli Listesinden Çıkart</string>
+  <string name="remove_blacklist_dialog_message">Bu numara Engelli Listesinden kaldırılsın mı?</string>
+  <string name="remove_blacklist_dialog_title">Bu numara Engelli Listesinden kaldırılsın mı?</string>
   <string name="remove_duplicate">"MIUI aynı kişileri bulup birleştirmenize yardım edecek.
 
   Başlamak için ekranın altındaki simgeye dokunun."</string>
