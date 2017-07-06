@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_smart_sms_title">Akıllı mesaj ortağı</string>
-  <string name="action_firewall_setting">Kara Liste</string>
+  <string name="action_firewall_setting">Engelli Listesi</string>
   <string name="activity_not_found">Bu işlemi yapabilecek uygulama bulunamadı</string>
   <string name="activity_not_found_uri">Bu işlemi yapabilecek uygulama bulunamadı</string>
   <string name="addBlackList">Engelle</string>
@@ -75,7 +75,7 @@
   <string name="cloud_state_syncing">Mi Bulut ile eşitleniyor…</string>
   <string name="compressing">Resim çok büyük, sıkıştırılıyor...</string>
   <string name="confirm">Onayla</string>
-  <string name="confirm_add_blacklist_dialog_dspt">Bu numara Kara Listeye eklensin mi?</string>
+  <string name="confirm_add_blacklist_dialog_dspt">Bu numara Engelli Listesine eklensin mi?</string>
   <string name="confirm_delete_SIM_message">SIM kart mesajı silinsin mi?</string>
   <string name="confirm_delete_all_SIM_messages">SIM karttaki tüm mesajlar silinsin mi?</string>
   <string name="confirm_delete_all_conversations">Tüm görüşmeler silinsin mi?</string>
@@ -90,7 +90,7 @@
   <string name="confirm_export_dialog_description">Bu kişiyle geçmiş görüşmeler artık gizli olacak.</string>
   <string name="confirm_export_dialog_title">Özel kişilerden kaldır</string>
   <string name="confirm_no_block_positive">Engeli kaldır</string>
-  <string name="confirm_no_block_title">Bu numara kara listeden kaldırılıp gönderilen tüm mesajlar yeniden yüklensin mi?</string>
+  <string name="confirm_no_block_title">Bu numara Engelli Listesinden kaldırılıp gönderilen tüm mesajlar yeniden yüklensin mi?</string>
   <string name="confirm_rate_limit">Çok sayıda MMS gönderilecek. Onaylıyor musunuz.?</string>
   <string name="confirm_restore_all_title">Bu numaranın tüm mesajları geri yüklensin mi?</string>
   <string name="confirm_restore_checkbox">Engellenen mesajları geri yükle</string>
@@ -418,6 +418,7 @@
   <string name="pref_other_title">Ek Ayarlar</string>
   <string name="pref_show_blocked_messages_summary">Engellenen SMS konuşmalar listesinde göster</string>
   <string name="pref_show_list_avatar_summary">Liste görünümünde profil fotoğraflarını ve iletişim bilgilerini göster</string>
+   <string name="pref_show_photo_word_summary">Kişinin fotoğrafı yoksa, otomatik olarak fotoğraf ekle</string>
   <string name="pref_show_sms_template_entry_summary">"SMS'de bir kerelik şifreleri algıla"</string>
   <string name="pref_show_sms_template_in_summary">Bir kez kullanılan parolaların SMS mesajlarını otomatik olarak algıla</string>
   <string name="pref_show_sms_template_summary">Mi Mesajda akıllı özellikleri kullanmayı açarsanız kodları kopyalayabilir, dengeleri kontrol edebilirsiniz vb...</string>
@@ -663,6 +664,7 @@
   <string name="title_send_red_package">Kızıl Paketi kontrol et</string>
   <string name="title_show_blocked_messages">Engellenen Mesajları Göster</string>
   <string name="title_show_list_avatar">Profil fotoğraflarını göster</string>
+  <string name="title_show_photo_word">Kişi fotoğrafı ekle</string>
   <string name="title_show_sms_template">Doğrulama kodu için SMS kontrolü yap</string>
   <string name="title_show_sms_template_in">OTP için SMS Kontrolu</string>
   <string name="title_timed_message_dialog">Zamanlı mesajı ayarla</string>
