@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="activity_main_update_time_in_one_hour">
+    <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">%1$s Günlük Tahmin</item>
+        <item quantity="one">%1$s Günlük Tahmin</item>
+    </plurals>
+      <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">%d dakika önce</item>
     </plurals>
@@ -28,4 +32,8 @@
         <item quantity="other">%1$s kişi | </item>
         <item quantity="one">%1$s kişi | </item>
     </plurals>
- </resources>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">Geribildirimden %1$s saniye sonra</item>
+        <item quantity="one">Geribildirimden %1$s saniye sonra</item>
+    </plurals>
+</resources>
