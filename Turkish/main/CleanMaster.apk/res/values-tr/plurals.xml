@@ -34,12 +34,8 @@
         <item quantity="other">%1$d kişi tarafından indirildi</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d görüntülendi</item>
-        <item quantity="zero">%1$d görüntülendi</item>
-        <item quantity="one">%1$d görüntülendi</item>
-        <item quantity="two">%1$d görüntülendi</item>
-        <item quantity="few">%1$d görüntülendi</item>
-        <item quantity="many">%1$d görüntülendi</item>
+        <item quantity="other">%1$s görünüm</item>
+        <item quantity="one">%1$s görünüm</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grup</item>
