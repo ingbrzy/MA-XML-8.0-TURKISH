@@ -136,7 +136,7 @@
   <string name="answer_state_setting_summary">Ek Gelen Çağrı Seçenekleri</string>
   <string name="answer_state_setting_title">Gelen Çağrı Ayarları</string>
   <string name="antispam_notification_title">Bilinmeyen Numara</string>
-  <string name="antispam_setting">Kara Liste</string>
+  <string name="antispam_setting">Engelli Listesi</string>
   <string name="apn_settings">Erişim Noktası Adları</string>
   <string name="apn_settings_not_available">Bu kullanıcı için Erişim Noktası Adı ayarları kullanılamıyor</string>
   <string name="app_process_limit_title">Arkaplan işlemi sınırı</string>
@@ -1421,7 +1421,7 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="password_changed">Şifre değiştirildi</string>
   <string name="password_title">Şifre</string>
   <string name="path_answer_state_setting_title">Sistem Uygulamaları/Telefon/Gelen Çağrı Ayarları</string>
-  <string name="path_antispam_setting">Sistem Uygulamaları/Telefon/Kara Liste</string>
+  <string name="path_antispam_setting">Sistem Uygulamaları/Telefon/Engelli Listesi</string>
   <string name="path_app_name">Sistem Uygulamaları/Telefon</string>
   <string name="path_auto_answer_pref_title">Sistem Uygulamaları/Telefon/Otomatik Cevapla</string>
   <string name="path_auto_retry_mode_title">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/Otomatik Dene</string>
@@ -1752,13 +1752,13 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="rnw1_unlock_success">RUIM Network1 kilid açma başarılı</string>
   <string name="rnw2_unlock_failed">RUIM Network2 kilit açma isteği başarısız</string>
   <string name="rnw2_unlock_success">RUIM Network2 kilid açma başarılı</string>
-  <string name="roaming">Veri Dolaşımı</string>
+  <string name="roaming">Mobil Veri Ağı kesildi</string>
   <string name="roaming_alert_title">Veri dolaşımına izin verilsin mi?</string>
   <string name="roaming_disable">Dolaşımdayken veri hizmetlerine bağlan</string>
   <string name="roaming_enable">Dolaşımdayken veri hizmetlerine bağlan</string>
   <string name="roaming_notification_content">Daha uygun arama yapmak için otomatik olarak ülke kodlarını ekleyebilirsiniz.</string>
   <string name="roaming_notification_title">Dolaşım etkinleştirilmişe benziyor</string>
-  <string name="roaming_reenable_message">"Veri bağlantısını kaybettik çünkü dolaşımdayken ev ağı ilen olan bağlantı kapatıldı."</string>
+  <string name="roaming_reenable_message">"Kullanılan dolağım ağına yeniden bağlan."</string>
   <string name="roaming_warning">Veri dolaşımına izin verilsin mi? Bunun için ücret ödeyebilirsiniz!</string>
   <string name="rsp_unlock_failed">RUIM Hizmet Sağlayıcı kilit açma isteği başarısız</string>
   <string name="rsp_unlock_success">RUIM Hizmet Sağlayıcı kilid açma başarılı</string>
@@ -1775,8 +1775,8 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="screen_zoom_summary_large">Büyük</string>
   <string name="screen_zoom_summary_small">Küçük</string>
   <string name="screen_zoom_summary_very_large">Koskocaman</string>
-  <string name="search_antispam_setting">Kara Liste</string>
-  <string name="search_app_name">Telefon;Çağrı Kaydı;Çağrıyı Ara;Yönlendir;Bekleyen Çağrı;Kara Liste;Ülke Kodu;Alan numarası;Kayıtlı Çağrılar;VoIP;VoLTE;Cevapsız Aramalar;SIP;T9;IP Telefon</string>
+  <string name="search_antispam_setting">Engelli Listesi</string>
+  <string name="search_app_name">Telefon;Çağrı Kaydı;Çağrıyı Ara;Yönlendir;Bekleyen Çağrı;Engelli Listesi;Ülke Kodu;Alan numarası;Kayıtlı Çağrılar;VoIP;VoLTE;Cevapsız Aramalar;SIP;T9;IP Telefon</string>
   <string name="search_networks">Ağları Ara</string>
   <string name="selectContact">Kişi Seç</string>
   <string name="select_application">Uygulama seç</string>
