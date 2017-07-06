@@ -17,7 +17,7 @@
   <string name="SMSpass">"SMS'e izin ver"</string>
   <string name="STRANGER_BLOCK">Yabancı Engelliler</string>
   <string name="Setting_lock">Ayarlar</string>
-  <string name="Settings_title_anti_spam">Kara Liste Ayarları</string>
+  <string name="Settings_title_anti_spam">Engelli Listesi Ayarları</string>
   <string name="Settings_title_anti_virus">Virüs Tarama Ayarları</string>
   <string name="Settings_title_garbage_cleanup">Temizleyici Ayarları</string>
   <string name="Settings_title_network_assistants">Veri Kullanım Ayarları</string>
@@ -43,7 +43,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="action_button_text_80_100">İyi hale getir</string>
   <string name="action_source_sms_title">Engelli SMS</string>
   <string name="activity_title_ad">Günlükler</string>
-  <string name="activity_title_antispam">Kara Liste</string>
+  <string name="activity_title_antispam">Engelli Listesi</string>
   <string name="activity_title_antivirus">Virüs Tara</string>
   <string name="activity_title_apk">Kurulum Dosyaları</string>
   <string name="activity_title_apps_manager">Uygulamalar</string>
@@ -703,7 +703,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="dialog_title_stop_virus_scan">Virüs taramasını durdur</string>
   <string name="disable_air_mode">Önce Uçak Modunu kapatın</string>
   <string name="dlg_add_blacklist">Bu numara engellensin mi?</string>
-  <string name="dlg_add_blacklist_title">Kara Listeye ekle</string>
+  <string name="dlg_add_blacklist_title">Engelli Listesine ekle</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s ve %2$s kişileri zaten istisnalar listenizde mevcut.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">İstisna Çakışması</string>
   <string name="dlg_add_keyword">Kelime ekle</string>
@@ -712,8 +712,8 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="dlg_antispam_using_mode_delete_message">"Şu anda kullandığınız kuralları silmek ve engelleme listesinin varsayılan kurallarına geri dönülsün mü?"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"Şu anda kullandığınız kuralları silmek ve engelleme listesinin varsayılan kurallarına geri dönülsün mü?"</string>
   <string name="dlg_black_address_antispam_message">Bu konum engelleme listesine eklensin mi?</string>
-  <string name="dlg_black_antispam_hint">Kara Liste</string>
-  <string name="dlg_black_antispam_message">Bu numara kara listeye eklensin mi?</string>
+  <string name="dlg_black_antispam_hint">Engelli Listesi</string>
+  <string name="dlg_black_antispam_message">Bu numara Engelli Listesine eklensin mi?</string>
   <string name="dlg_clear_all_call">Engelli çağrılar temizlensin mi?</string>
   <string name="dlg_clear_all_ok">Tümünü temizle</string>
   <string name="dlg_clear_all_sms">Engelli SMS silinsin mi?</string>
@@ -833,7 +833,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="free_time_traffic_settings">Veri Üst Limiti</string>
   <string name="free_time_traffic_title">Veri üst limitini girin</string>
   <string name="free_traffic_settings">Üst Veri Kullanım Ayarları</string>
-  <string name="fw_blocked">Kara Liste</string>
+  <string name="fw_blocked">Engelli Listesi</string>
   <string name="fw_blocked_count">"Engelli: "</string>
   <string name="fw_blocked_join">" ve "</string>
   <string name="garbage_clean_detail">Detaylar</string>
@@ -960,7 +960,7 @@ Ağ Yardımcısını açın"</string>
   <string name="key_only_group_message">key_only_group_message</string>
   <string name="key_qq">key_qq</string>
   <string name="key_wechat">key_wechat</string>
-  <string name="keywords_antispam">Engelleme listeleri; Engelleme; Kara liste; Akıllı Engelleme Listesi; Dolandırıcılık; Satışlar; Ajanlar; Arama engelleme listesi; Mesaj engelleme listesi; Mesajlaşma engelleme listesi; SMS engelleme listesi; kara liste; kara liste; blok listesi; engelleme listesi; dolandırıcılık; kişiyi engelleme; kişileri engelleme</string>
+  <string name="keywords_antispam">Engelleme listeleri; Engelleme; Engelli Listesi; Akıllı Engelleme Listesi; Dolandırıcılık; Satışlar; Ajanlar; Arama engelleme listesi; Mesaj engelleme listesi; Mesajlaşma engelleme listesi; SMS engelleme listesi; Engelli Listesi; Engelli Listesi; blok listesi; engelleme listesi; dolandırıcılık; kişiyi engelleme; kişileri engelleme</string>
   <string name="keywords_antivirus">Virüs;Risk;Antivirüs;Tara</string>
   <string name="keywords_applicationlock">Şifre;Gizlilik;Uygulama Kiliti;Erişim;Koruma</string>
   <string name="keywords_app_permissions">Permissions;Location;Access contacts;Permissions;App permissions</string>
@@ -975,7 +975,7 @@ Ağ Yardımcısını açın"</string>
   <string name="keywords_powercenter">Batarya tasarrufu, Isıtma; Açma; Kapama; Batarya; Boşaltma; Batarya sorunları; Enerji; Boşaltma; Isıtma; Batarya tasarrufu; Enerji tasarrufu; Enerji tasarrufu; Pil tasarrufu</string>
   <string name="keywords_powercenter_powerrank">Pil Kullanımı</string>
   <string name="keywords_securitycenter">Güvenlik;Denetle;Tara</string>
-  <string name="keywords_securitycenter_settings">Pil kullanımı, Otomatik başlatmayı yönetme, USB ile yükleme, Uygulama izinleri, Mobil veri al, Blok listeleri, Veri kullanımı, Veri planını kalibre etme, Şebekeyi test etme; Pil tasarrufu, Isıtma; Açma; Kapama; Pil; Boşaltma; Pil sorunları; Enerji; Batarya tasarrufu; Enerji tasarrufu; Enerji tasarrufu; Pil tasarrufu; Autostart; İzinler; Otomatik başlatma; MIUI autostart; Uygulama otomatik başlatma; Otomatik başlatma uygulamaları, Zincir başlatma, zincirleme başlatma, başlatılan başlatma; USB kurulumu, bilgisayardan kurulum, ADB kurulumu; Konum; Erişim kişileri; Veri, mobil veri, veri satın alma, topup verileri; veri planı; Blok; Kara liste; Akıllı blok listesi; Dolandırıcılık; Satış; Ajanlar; Arama engelleme listesi; Mesaj engelleme listesi; ileti bloğu listesi; SMS engelleme listesi; kara liste; kara liste; blok listesi; engelleme listesi; dolandırıcılık; kişiyi engellemek; kişileri engellemek; Trafik; Kalibre etme; Bağlantı, İnternet, Test; Pil kullanımı</string>
+  <string name="keywords_securitycenter_settings">Pil kullanımı, Otomatik başlatmayı yönetme, USB ile yükleme, Uygulama izinleri, Mobil veri al, Blok listeleri, Veri kullanımı, Veri planını kalibre etme, Şebekeyi test etme; Pil tasarrufu, Isıtma; Açma; Kapama; Pil; Boşaltma; Pil sorunları; Enerji; Batarya tasarrufu; Enerji tasarrufu; Enerji tasarrufu; Pil tasarrufu; Autostart; İzinler; Otomatik başlatma; MIUI autostart; Uygulama otomatik başlatma; Otomatik başlatma uygulamaları, Zincir başlatma, zincirleme başlatma, başlatılan başlatma; USB kurulumu, bilgisayardan kurulum, ADB kurulumu; Konum; Erişim kişileri; Veri, mobil veri, veri satın alma, topup verileri; veri planı; Blok; Engelli Listesi; Akıllı blok listesi; Dolandırıcılık; Satış; Ajanlar; Arama engelleme listesi; Mesaj engelleme listesi; ileti bloğu listesi; SMS engelleme listesi; Engelli Listesi; Engelli Listesi; blok listesi; engelleme listesi; dolandırıcılık; kişiyi engellemek; kişileri engellemek; Trafik; Kalibre etme; Bağlantı, İnternet, Test; Pil kullanımı</string>
   <string name="keywords_usb_install">USB kurulumu, bilgisayardan yükleme, ADB kurulumu</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">K/san</string>
@@ -1013,7 +1013,6 @@ Mobil veri bağlantısı tekrar kullanırsanız, operatör sizeden ek ücret tal
   <string name="lock_screen_warning_category">Kilit ekran bildirimleri</string>
   <string name="lock_screen_warning_switch_summary">Veri kullanımı belirlenen miktarı aştığında Kilit ekranında uyarı göster</string>
   <string name="lock_screen_warning_switch_title">Uyarıları Kilit Ekranında Göster</string>
-  <string name="lock_screen_warning_value">Veri Kullanım Uyarısı</string>
   <string name="lock_settings_title">Kilit Ekranı ve Şifre</string>
   <string name="lockpassword_confirm_your_password_header">Şifreyi Doğrula</string>
   <string name="lockpassword_confirm_your_pattern_header">Deseni Doğrula</string>
@@ -1221,7 +1220,7 @@ için bekleniyor"</string>
   <string name="menu_remove">Sil</string>
   <string name="menu_restore">Gelen Kutusuna geri yükle</string>
   <string name="menu_sms">Mesaj gönder</string>
-  <string name="menu_text_antispam">Kara Liste</string>
+  <string name="menu_text_antispam">Engelli Listesi</string>
   <string name="menu_text_antivirus">Virüs Tara</string>
   <string name="menu_text_garbage_cleanup">Temizleyici</string>
   <string name="menu_text_garbage_cleanup_danger">%s aşıldı</string>
@@ -1427,7 +1426,7 @@ için bekleniyor"</string>
   <string name="password_promotion_postbutton_text">Ayarlara git</string>
   <string name="password_promotion_title">Gizlilik Koruma Şifresi</string>
   <string name="password_xspace_forget_pattern_message">İkinci alan şifrenizi değiştirmek için mevcut ikinci alanınızı silmeli ve yenisini oluşturmalısınız.</string>
-  <string name="path_antispam">Sistem Uygulamaları/Güvenlik/Kara Liste</string>
+  <string name="path_antispam">Sistem Uygulamaları/Güvenlik/Engelli Listesi</string>
   <string name="path_antivirus">Sistem Uygulamaları/Güvenlik/Virüs Tara</string>
   <string name="path_app_permissions">Sistem Uygulamaları/Güvenlik/İzinler/Uygulama İzinleri</string>
   <string name="path_auto_restart">Sistem Uygulamaları/Güvenlik/İzinler/Otomatit Başlatmayı Yönet</string>
@@ -1684,7 +1683,6 @@ için bekleniyor"</string>
   <string name="pref_add_traffic_pkg">Satın Alınan Ek Veri</string>
   <string name="pref_adjust_data_usage">Operatör Mesaj Şablonu</string>
   <string name="pref_adjust_data_usage_summary">Kalibrasyon şablonunu değiştirdikten sonra MIUI, operatörünüzün veri kullanım istatistiklerini almak için, onu kullanacaktır.</string>
-  <string name="pref_adjust_data_usage_value">Değiştirildi</string>
   <string name="pref_adjust_traffic_data">Veri Kullanımını Ayarla</string>
   <string name="pref_allow_connect_network_title">Uluslararası Veri Dolaşımı</string>
   <string name="pref_allow_connect_network_whitelist_title">Dolaşımdayken mobil veri kullanımına izin ver</string>
@@ -1725,13 +1723,10 @@ için bekleniyor"</string>
   <string name="pref_free_traffic_settings">En üst veri kullanım ayarları</string>
   <string name="pref_key_daily_package_summary">Günlük veri sıfırlama planını aç</string>
   <string name="pref_key_daily_package_switch">Günlük veri planı</string>
-  <string name="pref_key_daily_package_value">Günlük veri planı</string>
   <string name="pref_key_direction_traffic">Belirlenmiş mobil veri</string>
-  <string name="pref_key_extra_package_value">Paket boyutu</string>
   <string name="pref_key_extra_package_switch">Aylık kontör paketi</string>
   <string name="pref_key_half_year_package_start">Başlama tarihi</string>
   <string name="pref_key_half_year_package_switch">Yarım yıllık veri paketi</string>
-  <string name="pref_key_half_year_package_value">Paket boyutu</string>
   <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
   <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
   <string name="pref_leisure_no_overlay">Açık</string>
@@ -1782,7 +1777,6 @@ için bekleniyor"</string>
   <string name="pref_title_upload_data_usage">Veri kullanımı istatistiklerini bildir</string>
   <string name="pref_title_virus_white_list">İstisnalar</string>
   <string name="pref_traffic_manage_title">Veri Kullanımı</string>
-  <string name="pref_warning_values">Veri kullanımı uyarı düzeyi</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Akıllı istisnalara izin ver</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Yeni yüklenen uygulamalar için veri tasarrufunu otomatik olarak etkinleştir</string>
   <string name="pref_traffic_saving_compressed">Sıkıştırıldı</string>
@@ -1882,8 +1876,6 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="quick_optimize_suggest_battery_over_heat">Telefon aşırı ısınmış, düzeltin</string>
   <string name="random_expression">Rastgele İfade</string>
   <string name="random_expression_summary">Rastgele komik yüz ifadeleri, QQ ve Wechat ile paylaşılacak</string>
-  <string name="reach_daily_limit_value_body">Mobil veri kullanımınızı azaltın.</string>
-  <string name="reach_daily_limit_value_title">Günlük veri sınırına ulaşıldı</string>
   <string name="read_all_sms">Tümünü oku</string>
   <string name="read_number">86 makale</string>
   <string name="read_unit">" makale"</string>
@@ -1907,7 +1899,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="report_success">Mesaj raporlandı</string>
   <string name="report_warning">"%1$s SMS Mi'ye raporlansın mı? Bu mesajlar ve gönderildikleri telefon numaraları Mi'nin sunucularına incelenmek üzere yüklenecek. Bu mesajlarla ilişkili herhangi bir kişisel bilgi daima anonim kalır."</string>
   <string name="report_warning_title">Mesaji raporla</string>
-  <string name="resource_antispam">Kara Liste</string>
+  <string name="resource_antispam">Engelli Listesi</string>
   <string name="resource_antivirus">Virüs Tara</string>
   <string name="resource_app_permissions">Uygulama İzinleri</string>
   <string name="resource_auto_restart">Otomatik Başlatmayı Yönet</string>
@@ -2031,7 +2023,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="shoop_again">支付宝咻一咻</string>
   <string name="shoop_again_float">咻一咻</string>
   <string name="shoop_again_summary">快速进入支付宝咻一咻页面</string>
-  <string name="show_system_app">Show system apps</string>
+  <string name="show_system_app">Sistem uygulamalarını göster</string>
   <string name="show_traffic_dialog_message">"Veri kullanım bilgisi bildirim gölgesinde görüntülenir. Bu özelliği,
         Ayarlar altındaki Veri Kullanımı bölümünden yapabilirsiniz"</string>
   <string name="show_traffic_dialog_title">Veri kullanımını bildirim alanında göster</string>
@@ -2116,7 +2108,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="st_antispam_des_uesless">Kapalı</string>
   <string name="st_antispam_mode_add_new">Kural ekle</string>
   <string name="st_antispam_mode_blacklist">Engelli numaralar</string>
-  <string name="st_antispam_mode_blacklist_sum">"Elle Kara Listeye eklediğiniz numaradan gelebilecek çağrı ve mesajları engeller"</string>
+  <string name="st_antispam_mode_blacklist_sum">"Elle Engelli Listesine eklediğiniz numaradan gelebilecek çağrı ve mesajları engeller"</string>
   <string name="st_antispam_mode_denyownself_sum">Özel kurallar</string>
   <string name="st_antispam_mode_only_all_deny">Herşeyi engelle</string>
   <string name="st_antispam_mode_only_all_deny_sum">Tüm çağrı ve mesajları engelle</string>
@@ -2139,7 +2131,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="st_block_all">Çağrı ve mesajları engelle</string>
   <string name="st_block_mute">Çağrı ve sessiz mesajları engelle</string>
   <string name="st_block_private_call_button">Özel numaraları engelle</string>
-  <string name="st_block_setting_group">Kara Liste Ayarları</string>
+  <string name="st_block_setting_group">Engelli Listesi Ayarları</string>
   <string name="st_block_setting_title">Çağrılar ve Mesajlar</string>
   <string name="st_block_title">Engellenen günlüğe yönlendir</string>
   <string name="st_block_unknown_call">Bilinmeyen aramaları engelle</string>
@@ -2167,7 +2159,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="st_show_num_number">" numara"</string>
   <string name="st_sms_group">Mesajlar</string>
   <string name="st_sub_title_customize_mode_name">Adı</string>
-  <string name="st_sub_title_whiteblack_list_group">Kara Liste</string>
+  <string name="st_sub_title_whiteblack_list_group">Engelli Listesi</string>
   <string name="st_sum_call_wait">Dişarda olduğunuzda gelen çağrılarda yoğun şekilde sinyal verilir.</string>
   <string name="st_summary_blacklist_numbers">Aramaları ve mesajları belirli numaralarda ve alanlarda engelle</string>
   <string name="st_summary_blacklist_numbers_international">Aramaları ve belirli numaralardan gelen mesajları engelle</string>
@@ -2202,7 +2194,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="st_title_markednumber_group">Raporlu numaraları engelle</string>
   <string name="st_title_mode_choose_group">Engelleme Kuralları</string>
   <string name="st_title_not_sim">Boş</string>
-  <string name="st_title_open_antispam">Kara Liste</string>
+  <string name="st_title_open_antispam">Engelli Listesi</string>
   <string name="st_title_other_group">Diğer</string>
   <string name="st_title_settings_other_group">Ek Ayarları</string>
   <string name="st_title_show_antispamnotification">Engelleme Bildirimleri</string>
@@ -2281,7 +2273,7 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="tab_block_log_unKnowNumber">Özel Numara</string>
   <string name="tab_call">Çağrılar</string>
   <string name="tab_sms">SMS</string>
-  <string name="tab_title">Kara Liste</string>
+  <string name="tab_title">Engelli Listesi</string>
   <string name="tc_diagnostic_all_error_notification_summary">Bir sorunu bildirmek için dokunun</string>
   <string name="tc_diagnostic_all_error_notification_title">"Teşhis tamamlanamadı"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Şebeke türünü ayarlamak için dokunun</string>
