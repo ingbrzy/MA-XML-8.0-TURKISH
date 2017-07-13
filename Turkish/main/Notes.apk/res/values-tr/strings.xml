@@ -145,6 +145,8 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="privacy_notes_fragment_title">Gizli Notlar</string>
   <string name="recover_notes_hint">Notlarda anormal veri tespit edildi， kurtarmak için i.mi.com adresine gidin</string>
   <string name="redo">Geri Al</string>
+  <string name="refuse_to_share_as_pic_because_of_content">Bu not paylaşmak için çok büyük.</string>
+  <string name="refuse_to_share_as_pic_because_of_loading">Not yüklenene kadar bekleyin ve tekrar deneyin.</string>
   <string name="rename_folder_dialog_tile">Dizini Adlandır</string>
   <string name="root_folder_name">Hızlı Notlar</string>
   <string name="search">Notlar</string>
