@@ -80,6 +80,10 @@ Mobil verileri yeniden açarsanız, operatörünüz ek veriler için ücret iste
         <item quantity="other">%d uygulama bulundu</item>
         <item quantity="one">%d uygulama bulundu</item>
     </plurals>
+    <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">"%d uygulama düzgün çalışmıyor ve pili boşaltıyor"</item>
+        <item quantity="one">"%d uygulama düzgün çalışmıyor ve pili boşaltıyor"</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d gün "</item>
         <item quantity="one">"%d gün "</item>
@@ -347,15 +351,15 @@ Mobil verileri yeniden açarsanız, operatörünüz ek veriler için ücret iste
         <item quantity="one">%d kez engellendi</item>
     </plurals>
     <plurals name="app_usage_day">
-        <item quantity="other">"%d gündür kullanılmadı"</item>
-        <item quantity="one">"%d gündür kullanılmadı"</item>
+        <item quantity="other">"%d gün önce kullanıldı"</item>
+        <item quantity="one">"%d gün önce kullanıldı"</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">"%d aydır kullanılmadı"</item>
-        <item quantity="one">"%d aydır kullanılmadı"</item>
+        <item quantity="other">"%d ay önce kullanıldı"</item>
+        <item quantity="one">"%d ay önce kullanıldı"</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">"%d yıl kullanılmadı"</item>
-        <item quantity="one">"%d yıl kullanılmadı"</item>
+        <item quantity="other">"%d yıl önce kullanıldı"</item>
+        <item quantity="one">"%d yıl önce kullanıldı"</item>
     </plurals>
 </resources>
