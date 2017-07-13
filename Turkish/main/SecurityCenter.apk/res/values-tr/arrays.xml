@@ -95,8 +95,20 @@
         <item>İstisnalara ekle</item>
     </string-array>
     <string-array name="sort_type">
-        <item>Adına göre</item>
-        <item>Boyuta göre</item>
+        <item>Durum</item>
+        <item>Uygulama Adı</item>
+        <item>Kullanım Sıklığı</item>
+        <item>Depolama Kullanımı</item>
+        <item>Veri Kullanımı</item>
+        <item>Pil Kullanımı</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Durumuna göre sırala</item>
+        <item>Uygulama adına göre sırala</item>
+        <item>Kul. sıklığına göre sırala</item>
+        <item>Depolama kul. alanına göre sırala</item>
+        <item>Veri kullanımına göre sırala</item>
+        <item>Pil kullanımına göre sırala</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>Veri Kullanımı</item>
