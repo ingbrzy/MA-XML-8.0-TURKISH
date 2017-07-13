@@ -101,6 +101,7 @@
   <string name="block_ads_choice_continue">Devam</string>
   <string name="block_ads_message">Bu sitenin mesajları engellensin mi?</string>
   <string name="block_ads_title">İçerik reklam barındırabilir</string>
+  <string name="bookmark">Yerimi</string>
   <string name="bookmark_add_to">Ekle</string>
   <string name="bookmark_btn_select_all">Hepsi</string>
   <string name="bookmark_btn_select_none">Vazgeç</string>
@@ -334,7 +335,7 @@
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Ana Ekrana yerleştirildi</string>
   <string name="hint">İpucu</string>
-  <string name="history_saved_webpage">Kayıtlı Sayfalar</string>
+  <string name="history">Geçmiş</string>
   <string name="home_description">Ana Sayfa</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Sil</string>
@@ -728,6 +729,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="sign_in_to" formatted="false"> %s1 için oturum aç \"%s2\"</string>
   <string name="skip_button_label">Atla</string>
   <string name="skip_current_version">Bu sürümü atla</string>
+  <string name="snapshot">Yerel</string>
   <string name="snapshot_failed">"Çevrimdışı okumak için kaydedilemedi"</string>
   <string name="snapshot_successed">Çevrimdışı okumak için kaydedildi</string>
   <string name="ssl_bad_clock_date_settings">Tarih Ayarları</string>
