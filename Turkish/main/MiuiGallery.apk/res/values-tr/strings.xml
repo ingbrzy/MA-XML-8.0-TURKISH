@@ -108,7 +108,7 @@
   <string name="alert_init_merged_title">Tüm fotoğraflar birleştirildi</string>
   <string name="alert_message_open_sync">Önce Mi Bulut ile eşitleyin</string>
   <string name="alert_secret_album_enter">Anladım</string>
-  <string name="alert_secret_album_message">"Gizlenen albümü görmek için Albümler'e dokunduğunuzda aşağı kaydırın."</string>
+  <string name="alert_secret_album_message">"Gizlenen albümü görmek için Albümler sekmesinde aşağı doğru hızlıca kaydırın."</string>
   <string name="alert_secret_album_message_lower_case">" gizlenen albümü görüntülemek için Albümler'e dokunduğunuzda aşağı kaydırın.</string>
   <string name="alert_secret_album_set_pattern">Desen kilidini açmayı ayarlayın</string>
   <string name="alert_secret_album_title">Gizli Albümü nasıl görebilirim</string>
@@ -192,6 +192,8 @@
   <string name="backup_cloud_space_low_title">Mi Bulut depolama alanı yetersiz</string>
   <string name="backup_cta_not_allow">"Ağa erişilemiyor"</string>
   <string name="backup_cta_not_allow_btn_text">İzin ver</string>
+  <string name="backup_cta_not_allow_desc">Otomatik olarak yedekleme yapmayı kabul et</string>
+  <string name="backup_cta_not_allow_title">"Ağa erişemedi"</string>
   <string name="backup_detail_page_empty">Yedeklenmek için bekleyen resim ve video yok</string>
   <string name="backup_detail_page_title">Mi Bulut Yedekleri</string>
   <string name="backup_device_space_low_btn_text">Temizle</string>
@@ -202,8 +204,8 @@
   <string name="backup_immediately">Yedekle</string>
   <string name="backup_need_sync_desc">Yedeklemeye devam etmek için dokunun</string>
   <string name="backup_need_sync_title">Yedekleme durdu</string>
-  <string name="backup_no_network_btn_text">Ağ Ayarları</string>
-  <string name="backup_no_network_desc">Öğeleri yedeklemeye devam etmek için ağa bağlanın</string>
+  <string name="backup_no_network_btn_text">Ayarlar</string>
+  <string name="backup_no_network_desc">Öğeleri yedeklemek için ağa bağlan</string>
   <string name="backup_no_network_title">"Mi Bulut'a bağlanılamıyor"</string>
   <string name="backup_no_wifi_btn_text">Veri kullan</string>
   <string name="backup_no_wifi_desc">Mobil veriyi kullanarak öğeleri yedekleyebilirsiniz</string>
@@ -305,7 +307,8 @@
   <string name="cloud_media_set_set">Bulut Albümleri</string>
   <string name="cloud_owner_album_share_guide">Bu albümü arkadaşlarınla paylaşabilirsin</string>
   <string name="cloud_screenshots_display_name">Ekran Görüntüleri</string>
-  <string name="cloud_settings">Mi Bulut</string>
+  <string name="cloud_settings">Galeri Yedekleri</string>
+  <string name="cloud_storage_extend">Ek Bulut Alanı</string>
   <string name="cloud_storage_ok_append_desc">Mevcut: %s</string>
   <string name="cloud_storage_ok_desc">Mi Bulut Depolama: %s</string>
   <string name="cloud_storage_ok_title">"Mi Buluttaki yeterli depolama alanı"</string>
@@ -592,11 +595,11 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="get_album_info_in_process">"Paylaşılan albümlerin detayları alınıyor..."</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort"> GB</string>
-  <string name="grant_permission_go_and_set">Set</string>
+  <string name="grant_permission_go_and_set">Ayarla</string>
   <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">"Galerinin normal çalışması için 
 %s
- erişmesi gerekir, İzinlerden ayarlamak için dokunun."</string>
+ erişmesi gerekir, İzinlerden ayarlamak için \"Ayarla\" dokunun."</string>
   <string name="grant_permission_title">Erişime izin ver</string>
   <string name="global_setting">Ayarlar</string>
   <string name="go_setting">Ayarları Göster</string>
