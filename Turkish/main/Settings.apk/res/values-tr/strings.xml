@@ -2007,6 +2007,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="guarded_mode_dialog_title">Misafir Modundasınız</string>
   <string name="guarded_mode_dialog_transfer_message">Mi Transfer Misafir Modunda kullanılamaz</string>
   <string name="handy_mode">Tek Elle Kullanım Modu</string>
+  <string name="handy_mode_enable">Tek Elle Kullanım Modu</string>
   <string name="handy_mode_enter_ask">Tek elle kullanım moduna girmeden önce sor</string>
   <string name="handy_mode_size">Ekran Boyutu</string>
   <string name="handy_mode_tips">Ekranı yakınlaştırmak istediğinizde Ana Sayfa tuşundan sağa veya sola doğru kaydırın.</string>
@@ -4347,6 +4348,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="security_encryption_is_used">Açık</string>
   <string name="security_encryption_progress_dialog_close">Çözülüyor…</string>
   <string name="security_encryption_progress_dialog_open">Şifreleniyor…</string>
+  <string name="security_encryption_rejected_via_home_manager">"Bu özellik demo sürümünde desteklenmiyor."</string>
   <string name="security_encryption_title">Kilit ekran şifresi kullanıldığında cihazı şifrele</string>
   <string name="security_keyguard_category_name">Ekran Kilidi</string>
   <string name="security_password_category_name">Ekran Kilidi</string>
